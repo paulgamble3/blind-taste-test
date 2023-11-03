@@ -13,10 +13,14 @@ import pickle
 # if list is empty, show a message
 
 def get_user_task_state(username, task_name):
-    fn = './data/user_task_state/' + username + '_' + task_name + '.json'
-    if os.path.exists(fn):
-        with open(fn, 'r') as f:
-            user_state = json.load(f)
+    fn = './data/user_task_state/user_task_states.json'
+ 
+    with open(fn, 'r') as f:
+        user_states = json.load(f)
+
+    if username in user_states:
+        user_state = user_states[username]
+        
     else:
         label_set = random.choice(['A', 'B'])
         label_name = './data/script_sets/blind_set_' + label_set + '.pkl'
@@ -26,19 +30,25 @@ def get_user_task_state(username, task_name):
             'task_name': task_name,
             'task_items': labels
         }
+        user_states[username] = user_state
         with open(fn, 'w') as f:
-            json.dump(user_state, f)
+            json.dump(user_states, f)
     return user_state
+   
 
 def get_item(user_state):
-    fn = './data/user_task_state/' + user_state['username'] + '_' + user_state['task_name'] + '.json'
-        
-    if len(user_state['task_items']) > 0:
-        with open(fn, 'r') as f:
-            user_state = json.load(f)
+    fn = './data/user_task_state/user_task_states.json'
+    with open(fn, 'r') as f:
+        user_states = json.load(f)
+
+    user_state = user_states[user_state['username']]
+
+    if len(user_state["task_items"]) > 0:
         item = user_state['task_items'].pop()
+
+        user_states[user_state['username']] = user_state
         with open(fn, 'w') as f:
-            json.dump(user_state, f)
+            json.dump(user_states, f)
         return item
     else:
         return None
