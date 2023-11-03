@@ -1,0 +1,95 @@
+ Nurse: We cooperate with your primary care physician. As your dedicated nurse case manager, I follow up on your case to confirm how you're doing. 
+ Patient: Oh, alright. Well, yeah, this is John Doe, June 8, 2001. 
+ Nurse: Thank you for confirming. Do you prefer John or Mr. Doe?  
+ Patient: Oh, John's fine. 
+ Nurse: Thank you, John. I'm Janet, your nurse case manager. I'm getting in touch following your release from the rehab center last week, to check how you're doing. Can we chat for about five to ten minutes? 
+ Patient: Yeah. 
+ Nurse: Appreciate your time, John. It appears you recently experienced a fall. 
+ Patient: Yeah, I had that fall. It was pretty bad. 
+ Nurse: I'm sorry to hear about your accident. Can you share what occurred? 
+ Patient: Oh, I just fell in the bathroom and then had to get surgery and then was in the hospital for a while. 
+ Nurse: I'm sorry to hear that. Can you shed some light on what led to your fall? Did you lose balance or was it something else? 
+ Patient: I don't know. I just stood up, got kind of dizzy and fell over. 
+ Nurse: That's unfortunate. Were you alone at home when this incident happened? 
+ Patient: No, my son was there. So, he called 911 and they came and got me. 
+ Nurse: That's reassuring. Your fall led to broken bone, correct? Did anything else occur during the incident? 
+ Patient: Well, it's just mostly in my shin. I put some screws in there, so I haven't been able to walk right since. 
+ Nurse: I can imagine how difficult that must be. What type of mobility aids are you using, like a cane or crutches? How do you move around your home? 
+ Patient: Well, they gave me a wheelchair for right now and told me to stay off of it. 
+ Nurse: Understood. You mentioned that you reside with your son. Does he work outside or from home? 
+ Patient: Well, he works, but he just happened to be home that day. 
+ Nurse: That’s fortunate. 
+ Patient: Well, I mean, he doesn't live at my home, but he's here every day, I should say. 
+ Nurse: Comforting to hear that. When does he typically visit? Is it before work, for dinner, or does he attend to you multiple times throughout the day?  
+ Patient: He usually comes over on his lunch break and then sometimes before he goes home afterward. 
+ Nurse: That's commendable. He seems like a caring son.  
+ Patient: Yeah, he's good. Yeah, he lives close, so it's easy. 
+ Nurse: Convenient indeed! Do you have any other family members or close friends living nearby?  
+ Patient: That's it. 
+ Nurse: Alright, and may I ask, what does your son do?   
+ Patient: He's a computer guy, so I don't even know exactly, but he works with a lot of programming stuff. 
+ Nurse: Ah, a tech-savvy individual. And what did you do? 
+ Patient: Oh, I retired from the military, so... 
+ Nurse: I express my deep admiration for your service to our country. Which branch did you serve? 
+ Patient: I was in the Air Force for over 20 years. 
+ Nurse: That's quite an endeavor. Did you enjoy it? 
+ Patient: Yeah, I can't complain. 
+ Nurse: What led to your decision of joining the Air Force if you don't mind me asking?  
+ Patient: I'm just, you know, small town, not much going on. 
+ Nurse: I see. Having friends in the Air Force, I understand that they provide educational opportunities. Were you able to take advantage of that? 
+ Patient: No, I never went to college to do it, but... I did. I loaded aircraft. 
+ Nurse: That's fascinating. Thank you again for your service. It's extremely noble. 
+ Patient: Yeah, sure. 
+ Nurse: I hope you don't mind my personal inquiries, but getting to know my patients helps me understand their needs better. Now, going back to your case, I see you have a shin fracture and a nail in your right shin. Are you in any pain right now? 
+ Patient: Yeah, I mean, especially when I'm trying to get in and out of bed, that's probably a little bit worse. 
+ Nurse: That's tough, I'm sure. Have you been taking any pain medications? 
+ Patient: I just take Tylenol. 
+ Nurse: And how often do you take your Tylenol? 
+ Patient: I take it, I don't know, two, three times a day. Okay. And when it gets to bed. 
+ Nurse: How long do you space them apart? 
+ Patient: Well, I've been trying to take one, you know, with breakfast once I get up. Yeah. And then the worst, and then try to take one before I go to bed so I can sleep better. 
+ Nurse: Taking it twice a day then, so about eight hours apart on average? 
+ Patient: Right. 
+ Nurse: That sounds appropriate. Tylenol should not be taken more than thrice daily, with at least eight hours in between as it could potentially harm your liver. You're managing it well. Now, besides this, you're also taking hydrolyzine, Fluormax, calcium, and vitamin D, correct? 
+ Patient: Yeah, that's it. 
+ Nurse: Have you experienced any regarding side effects or issues related to these medications? 
+ Patient: No, I've been taking them for a while. 
+ Nurse: Glad to hear that. Can you tell me when your next appointment with your doctor or specialist is? 
+ Patient: Well, I'm not really sure. They said something about me starting physical therapy, but I haven't heard anything. 
+ Nurse: You're correct. As a nurse case manager, I can help coordinate your physical therapy sessions. Is there anything else you need assistance with? 
+ Patient: Well, I mean, I know physical therapy is good, but I just, you know, I hate relying on my son so much. Is there any way somebody could, I know they have those programs where people come in and help around the house and stuff, especially when he's at work. 
+ Nurse: Certainly. Your insurance does cover in-home caregiving services. I can schedule a caregiver to assist you. Do you prefer certain days and times? 
+ Patient: Oh, well, whenever. I mean, during the day, I don't have anybody to help me. So, okay, you know, I just sit here and I'm bored all day. 
+ Nurse: I understand. What kind of assistance would be most beneficial for you? It could be help with cooking, showering, or cleaning. 
+ Patient: I guess mostly the showering would be nice. I mean, I can't get my leg wet. So it's so hard for me to by myself. 
+ Nurse: Absolutely, bathing can be a challenge in such circumstances. Do you also need help with cooking, cleaning, or laundry tasks?  
+ Patient: My son does bring me the food. I just, yeah, my house is falling apart. 
+ Nurse: I see. I'll make sure to arrange for house cleaning as well. Are you experiencing any difficulties with grocery shopping or transportation for your doctor's appointments? 
+ Patient: No, I'm good. I can go to the VA if I need that. 
+ Nurse: Excellent. And for your appointments, will your son accompany you? 
+ Patient: Yeah, if he can get off work. 
+ Nurse: Alright. Let's discuss how else I can assist you. 
+ Patient: Well, yeah, I guess. main thing I just, I want to get that physical therapy set up because I'm just tired of sitting around. 
+ Nurse: Indeed. Depending on your insurance, physical therapy can be arranged at your home or you can visit their office. Do you have a preference? 
+ Patient: Well, I guess since I can't drive myself, I'd rather have it at home so my son's not having to miss so much work. 
+ Nurse: I’ll look into home-based physical therapy then. Would you like the therapists to call you to schedule, or would you prefer I assist in setting up the appointments? 
+ Patient: Well, if they're coming here, I mean, you can just schedule it. I'll be here sitting in this chair. 
+ Nurse: Very well. Did your doctor provide a referral for physical therapy?  
+ Patient: Oh, I don't know. 
+ Nurse: No worries.  
+ Patient: They just told me I needed to do it, but they didn't tell me much else about it. 
+ Nurse: I'll follow up on that. Returning to your shin fracture, have you noticed any unusual drainage, redness, or intensifying pain? 
+ Patient: No, I mean, it's just been hurting. It's the same. It's, you know, it's not swollen or anything though. 
+ Nurse: That's good to hear. I believe we've covered a lot today. Are there any concerns or questions you'd like to address before we wrap up? 
+ Patient: I guess not. Yeah, I just want to get better so I can get out of the chair. 
+ Nurse: Absolutely, everyone's end goal. While on the subject, I wanted to ask if you're able to get out of the wheelchair without trouble? 
+ Patient: I mean, it's hard, but I make it happen. 
+ Nurse: Before your discharge from rehab, did they instruct you on safe ways to get up and out of your wheelchair? Excellent. Before I end our call, is there anything else you need to discuss or that I can assist with? 
+ Patient: No, I guess, I mean, I guess it, I mean, the Tylenol is doing okay. But is there, do you think I could get anything different? 
+ Nurse: That's a valuable question. On a scale of one to ten, with ten being the most painful, how would you rate your pain? 
+ Patient: I mean, when I get up in the morning, it's like eight or nine. And, you know, just getting out of bed is it's hard to get in that chair. But then, you know, if I'm just sitting there, maybe like four or five. 
+ Nurse: I see. I will consult your doctor regarding your pain management. Alternative options may include Motrin or Aleve. However, with Motrin, there is a risk of thinning blood so it may not be recommended right now. I'll check and get back to you. 
+ Patient: Yeah, yeah, that'd be good. 
+ Nurse: Anything else you'd like to discuss? 
+ Patient: No, I guess not. 
+ Nurse: Perfect. I'll call your doctor's office to discuss your pain management options, schedule your home PT appointments, and arrange a caregiver for you who will assist with bathing and house cleaning. I aim to get back to you by the end of the day. Please feel free to call me if you have further questions or concerns. If I miss your call, kindly leave a voicemail, and I will get back to you as soon as I can.  

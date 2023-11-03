@@ -1,0 +1,27 @@
+ Nurse: Greetings, Susan. This is David King calling from Walnut Creek Health. 
+ Patient: Hi. Hi. 
+ Nurse: I work as a nurse care manager and I'm looking to have a discussion with you about Jane. However, I need you to confirm Jane's full name and date of birth, if that's not too much trouble. 
+ Patient: Oh, sure. Her name is Jane Doe. Date of birth is 6-8-2001. 
+ Nurse: Splendid. I appreciate that. And you mentioned your name was Susan. Are you related to Jane? Or are you associated with them perhaps through an agency or otherwise? 
+ Patient: No, I'm her daughter. 
+ Nurse: Fantastic. I appreciate that. First and foremost, how are you doing? Additionally, how is Jane holding up? 
+ Patient: It's, you know, I'm kind of at my wits end here. My mom is complaining that she's having some kind of abdominal pain, I guess, some sharp pain kind of near her stomach, I guess. And I don't know if I should take her to maybe the emergency room or an urgent care or something. I'm just, I'm worried she's got, she's had a bunch of UTIs and now I'm worried she's got another one because, you know, the smelly urine situation and it just doesn't seem to ever go away. 
+ Nurse: I appreciate you providing these details. It sounds like you've contended with these issues for a while now, and I empathize with your frustration. I propose we conduct a swift assessment. Do you have a thermometer handy? 
+ Patient: I do. Yeah. 
+ Nurse: Would you possibly be able to take Jane's temperature for me? 
+ Patient: She is asleep right now, but I took it about an hour ago. 
+ Nurse: That would be sufficient. Could you tell me the reading from that time? 
+ Patient: It was 101.3 about an hour ago. 
+ Nurse: 101.3, I see. Did you administer anything like Tylenol or Ibuprofen to help with the temperature? 
+ Patient: No, I didn't think it was severe enough to warrant medication yet. I'm primarily concerned with the stomach pain. 
+ Nurse: Indeed. You mentioned abdominal pain. Would you be able to give me an idea of the pain's severity on a scale of 0 to 10? 
+ Patient: Yeah, she said, um, maybe a four. A four. You know, fairly bad, but no, not, not excruciating, but that's more than it should be. I mean, she should, I don't know why she's having that. 
+ Nurse: Makes sense. And has Jane been struggling with incontinence recently? 
+ Patient: Not always. She's been wearing pads pretty much all the time. And she, you know, I know sometimes she has problems and she has leakage or whatever and she won't let me change them. She gets very defensive about it now. 
+ Nurse: I understand. Based on the symptoms you've detailed, it's plausible that Jane currently has a UTI. Regrettably, her habit of not frequently changing her pads might be contributing to this recurring issue. Pads are not inherently bad, but they should be changed regularly to maintain cleanliness. Additionally, there are other preventive measures that can be taken. We could explore these together now, or we could discuss them post-urgent care visit, according to your preference. Which would suit you best, Susan? 
+ Patient: We can talk now, you know, she, I'll let her sleep for a little, you know, let her get a little bit of rest in before. 
+ Nurse: I fully understand. Regularly incorporating cranberry juice into Jane's diet could be beneficial, provided it's the natural variety rather than its sugary cocktail alternative. If the taste isn't appealing to Jane, cranberry supplements are also an option. Cranberry isn't antibacterial per se, but it can help prevent bacterial growth in the bladder, reducing the chances of UTIs. Another crucial practice is to consistently swap out soiled pads to avoid skin irritation or breakdown. Lastly, the manner in which women clean themselves, specifically front to back as opposed to the other way around, can significantly impact UTI prevention. I believe you're already implementing these practices, but it's worth noting for the sake of clarity. Shall we proceed with these recommendations for now? 
+ Patient: Yeah, I think she's, I think she's wiping properly. I, I, you know, I'll make sure, I'll double check, but I'm, I'm pretty sure she is. It's more that she, you know, sometimes she's, in the last week especially, just can't get there in time. Sometimes it's, you know, it's very urgent all of a sudden and I know she doesn't make it in time all, every time. 
+ Nurse: Absolutely. Incontinence can indeed increase during a UTI. Hopefully, once the UTI is resolved, Jane will regain more consistent control. For now, I will make arrangements for Jane's visit to an urgent care center and may opt to coordinate with Apple Social Work for further assistance. After this, I'll be in touch to check up on you, if that's agreeable. 
+ Patient: That's fine. 
+ Nurse: Appreciate your cooperation, Susan. Good luck with Jane today, and I look forward to speaking with you soon. 

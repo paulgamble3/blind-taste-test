@@ -1,0 +1,25 @@
+Patient: August seventh nineteen eighty nine.Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thankyou forconfirmingthat,Mr. Brand. I'mcalling to checkin with youabout yourupcomingTotal KneeReplacement procedure onyourright knee. It's scheduledfor August13th at8am withDoctorEdward Chang. Howare you feelingaboutthe procedure?
+Patient: Well, I'm nervous, you know, aboutsurgery, but I'm really excited to have a new knee.
+Nurse: Iunderstand,Mr. Brand. It'scompletely normal tofeel bothnervous and excitedaboutyourupcoming procedure. We'regoing to doeverything we canto make thisprocess as smoothas possibleforyou. [
+Patient: 
+Nurse: Ialso wantto remind youthat your procedureis scheduledforAugust13that 8am.You'll need toarrive at thehospitalat 7am toget checked inand get readyfor theprocedure. The locationfor your arrivalisthe1stFloor Pre-opSuiteat1111 Parnassus Avein SanFrancisco. Does thatmake sense andsound like aplanforyou,Mr. Brand?
+Patient: It does.
+Nurse: Great,I'm gladto hearthat,Mr. Brand. Now,have youhada fever,chills,ormuscleaches recently?
+Patient: No. I haven't.
+Nurse: That'sgood tohear,Mr. Brand.It's critical tolet us knowif you dostartfeeling unwell, asit could potentiallyimpactyour procedure. Also,I wantto remind youthat you cannoteat or drinkanything aftermidnight the daybefore yourprocedure. This isvery important foryour safetyduringtheanesthesiaprocess. [
+Patient: 
+Nurse: Great,I'mglad you're takingtheseinstructions seriously,Mr. Brand.Now, I alsowant to gooveryour anticipated dischargeplan aftertheprocedure. You're expectedto goto a rehabfacilitywhere you'll receivephysicaland occupationaltherapy support. Thiswill helpyou regainstrength and mobilityin yourkneeafterthesurgery. [
+Patient: Okay.
+Nurse: Great,Mr. Brand.I knowit's a lotto takein,but we're hereto support youevery stepof theway.Now, I'd liketo go oversome skin prepinstructionswith you.It's very importantthat youuse achlorhexidine scrubin the showerthe night beforeand the morningof yourprocedure. This willhelp to cleanyour skin andreduce therisk ofinfection. Canyou dothat,Mr. Brand?
+Patient: Yes. I Lantus, and I will.
+Nurse: Great,Mr. Brand. It's importantto followthese instructionscarefully.Now, let'sreview yourmedications.Foryour Lantus,you'll need tostop taking itas usual andonly take5 units thenight before andthe morningof the procedure.Canyoudo that?
+Patient: Yes, ma'am.
+Nurse: Great,Mr. Brand. Iknow this isa lottoremember, but it'sall designed tomake your procedureand recovery assuccessfulas possible. Now,I want toask you -what are youlooking forward todoing withyour newknee onceyou've recoveredfromthe surgery?
+Patient: I am looking forward to taking my dog for a walk.
+Nurse: Thatsounds like agreat goalto worktowards, Mr.Brand. Being ableto take yourdog for awalk again willbe agreat achievementafteryour surgery. Now,do you haveany questions aboutthe procedure oranything else relatedto yourtotalknee replacement?
+Patient: Yes.Can you tell me so will my pain improve after the surgery?Will will I be able to walk around without pain?
+Nurse: Greatquestion, Mr. Brand.The goal ofthe totalknee replacementis toalleviatethe painyou're currently experiencingandimprove your mobility.Most patients doreport a significantimprovement in painand functionafterthesurgery. However, it'simportant tonote thatyou'll have togothrough arehabilitation processafter thesurgery, whichmight bechallenging at times.But withdedication andhard work, youshould be ableto walkaroundwithoutpain. [
+Patient: 
+Nurse: I'm gladI could helpansweryour question,Mr. Brand. Ifyou have anyother questionsorconcerns, don'thesitateto ask.We're here tohelp youthroughthisprocess. [
+Patient: That's amazing. Thank you so much.

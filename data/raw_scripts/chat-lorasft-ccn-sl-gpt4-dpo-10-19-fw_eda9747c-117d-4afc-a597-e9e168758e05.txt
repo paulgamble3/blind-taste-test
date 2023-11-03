@@ -1,0 +1,36 @@
+Nurse: Great.I'm just calling to follow up on your health and see how you're doing.But before we proceed, I just need to verify your identity.Could you please tell me your date of birth?
+Patient: Yes. June seventh, ninthteam eighty three.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to check in with you about your upcoming Total Knee Replacement procedure on your right knee.It's scheduled for August 13th at 8am with Doctor Edward Chang.How are you feeling about the procedure?
+Patient: I'm really nervous aboutthe procedure, I I'm really hopingthat my arthritis pain will get better.
+Nurse: I understand that you're feeling nervous.It's completely normal to feel this way before a surgery.I'm glad to hear that you're hoping the procedure will help with your arthritis pain.We're all looking forward to helping you through this process and getting you back to a more comfortable state.
+Patient: That would be great.
+Nurse: Wonderful.I just wanted to go over a few details with you to make sure you're prepared for the procedure.You'll need to arrive at 7am on the day of the procedure at the 1st Floor Pre-op Suite at our hospital.And just to reiterate, your Total Knee Replacement is scheduled for August 13th at 8am.Does that sound good to you?
+Patient: It does.
+Nurse: Wonderful.Now, have you had a fever, chills, or muscle aches recently?
+Patient: No. I haven't.
+Nurse: Great, it's important to let us know if you had any of those symptoms.Also, please remember that you cannot eat or drink anything after midnight the day before the procedure.This is very important for your safety during the anesthesia process.
+Patient: Yes. I'll remember.
+Nurse: Great, thank you for your cooperation.Now, I just want to go over the discharge plan with you.Currently, our plan is for you to go home after the procedure, but this can depend on your recovery.We'll make sure to coordinate with our social work team to ensure you have the necessary support at home.Does that sound good to you?
+Patient: It does
+Nurse: Excellent.Now, have you arranged for a ride home from the procedure?
+Patient: Yes. I have. My daughter is going to be driving me.
+Nurse: That's great to hear.It's essential to have someone to take you home after the procedure, especially since you'll be under the influence of anesthesia.Additionally, you'll need a caregiver to assist you with recovery at home.Has your daughter agreed to help you during this time?
+Patient: Yes. She has.
+Nurse: Great, it sounds like you have a good support system in place.Now, I want to go over some skin prep instructions with you.It's very important that you use a chlorhexidine scrub in the shower the night before and the morning of the procedure.This will help to clean your skin and reduce the risk of infection.Just make sure to pat your skin dry afterward and avoid using any lotions or creams.Can you do that?
+Patient: Yes. I will.
+Nurse: Great, I'm glad to hear that you're ready to follow the skin prep instructions.Now, have you been able to pick up your post-op medications?
+Patient: Yes. I have.
+Nurse: Great, it's important to have those medications on hand for after the procedure.Now, I also need to go over some medications that you'll need to stop taking before the procedure.You'll need to stop taking the Aspirin 81 mg once a day, seven days before the procedure.Can you do that?
+Patient: Well, I'm really worried about nottaking aspirin, I do not wanna have another stroke.
+Nurse: I understand your concerns.It's critical to balance the need to prevent blood clots during surgery with your history of stroke.Your doctor has given careful thought to this and has asked you to stop the aspirin seven days before the procedure.This is to ensure that your blood doesn't become too thin and increase the risk of bleeding during the surgery.After the procedure, you can resume your aspirin as directed by your doctor.Does that make sense to you?
+Patient: Yes. It makes sense.
+Nurse: Great, I'm glad you understand.Now, let's talk about what you're looking forward to doing after your knee replacement.What are some things you're hoping to be able to do better with your new knee?
+Patient: I really wanna go for a walk on the beach.
+Nurse: That sounds like a lovely goal to have!Being able to enjoy a walk on the beach without discomfort is what we're hoping for with this procedure.It's essential to have these positive outcomes in mind as you go through this process.
+Patient: Thank you, Rachel.
+Nurse: You're welcome.It's my pleasure to help you through this process.Do you have any other questions or concerns about the procedure?
+Patient: I have another question, but it's not about the procedure.
+Nurse: Of course.I'm here to help with any questions you might have, whether it's about the procedure or not.What's your question?
+Patient: Thank you, Rachel.I am going to be visiting my sister in Santa Ana CalaOvernia, and I'm looking for an Italian restaurant near there.
+Nurse: I'm glad to hear you're planning a trip to see your sister and looking forward to trying some local Italian cuisine!However, I'm a nurse and not a local guide, so I'm not sure if I can help you with that.You might want to try looking up local restaurants online or asking your sister for recommendations.Now, do you have any other questions about the knee replacement procedure?

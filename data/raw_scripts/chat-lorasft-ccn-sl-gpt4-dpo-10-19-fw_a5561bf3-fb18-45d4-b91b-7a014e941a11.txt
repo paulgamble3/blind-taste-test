@@ -1,0 +1,35 @@
+Nurse: Great, thankyouforconfirming, Mr.Moran. Forverification purposes, couldyou please provideme with yourdateof birth?
+Patient: Yeah. My date of birth is January seventeennineteen eighty five.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thankyou forconfirmingthat,Mr. Moran.I'm calling tocheck in withyou aboutyourupcoming TotalKnee Replacement procedureonyourleft knee.It's scheduledforAugust13th at8am withDoctor EdwardChang. How areyou feelingaboutthe procedure?
+Patient: You know, not too great.I'm kinda frustrated.The procedures coming up soon. I don't really wanna deal with it.I'm taking so many medication, andmostly really worried about getting an infection. I I I would just hate to havemore problems in my hand.
+Nurse: Iunderstandyourconcerns,Mr. Moran. It'scompletely normal tofeel anxious beforea procedurelikethis. We'll doeverything wecan to minimizethe riskof infection andensureasuccessful surgery. Let'sgoover some pre-opinstructions to helpyou feelmoreprepared. [
+Patient: 
+Nurse: Great, Mr. Moran.Iknow you're feelinganxious abouttheprocedure, but we'rehere to helpyou throughit. I justwanted toconfirm thatyou've been toldtoarrive at 7amon the dayof the procedureatthe1stFloorPre-opSuite, 1111Parnassus Avein San Francisco.The procedure isscheduled tostartat 8am. Doesthat soundrightto you?
+Patient: Yep. That sounds about right. Yeah. I already know where it is and all that.My my partner is gonna be taking me, so they already know all the details and whatnot.
+Nurse: Great, itsoundslike you'rewell-prepared,Mr. Moran.Now, have youhadafever, chills,ormuscleaches recently?
+Patient: No. Not recently.Be
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: No.I just got, you know, my other issues, like,I assume I'm in or not, whatnot.
+System: You may have misheard the patient. Ask them to repeat themselves
+Patient: I got diabetes too.And the pain with my movement, which is reallyreally annoying to deal with.
+Nurse: Iunderstand, Mr.Moran. Itsounds likeyou're dealing witha lotrightnow.I'm glad we'regetting you infor theprocedure soon.Just areminder, you cannoteat or drinkanything aftermidnight the daybefore theprocedure. This isvery important toensure your safetyduringthesurgery. [
+Patient: Yeah. I know thatI I haven't been doing that.Excellent.
+Nurse: Great, itsounds likeyou're doing wellwithyourpre-op preparations. Ialso want toconfirm thatyour anticipateddischarge plan isto go homeafter theprocedure. Haveyou made arrangementsfor a ridehomeand a caregiverto assist withrecoveryonceyou're home?
+Patient: Oh, yeah. My partner's gonna be my caregiver. They already, you know,they're taking a couple days off of work and all that.So they should be pretty previously shared.
+Nurse: That'sgreat tohear,Mr. Moran. It's essentialto have someonearound to helpyou duringyour recovery.Now, I wantto go oversome skin prepinstructionswith you.It's very importantthat youuse achlorhexidine scrubin the showerthe night beforeand the morningof theprocedure. This willhelp tominimize therisk ofinfection. Just makesure torinsethoroughly afterward. Doyouunderstandthese instructions?
+Patient: I understand.It's not painful, is it?The scrub.
+Nurse: No,the chlorhexidine scrubshould not causeyouanypain,Mr. Moran. It'sjust a specialsoap designed tocleanand disinfectyour skin. Ifyoufeel any discomfortor have askin reactionafter using it,please letusknowimmediately. [
+Patient: 
+Nurse: Great,I'mglad you're followingthe skinprep instructions.Now, have youpickedupyour post-op medications,includingtheTylenol1000 milligramtablets thatyou're supposed totake three timesadaywhen needed?
+Patient: Yep. I got all my medication already.
+Nurse: Excellent,Mr. Moran.Now, I needto goover somemedications withyou. Youdon't need tostop any ofyour currentmedications beforethe procedure. Justremember to followthe instructions Igave youabout noteating ordrinking after midnightthe daybefore the procedure.If you haveany questionsorconcerns, don'thesitate tocallus. We're hereto help youthroughthisprocess. [
+Patient: 
+Nurse: Iknow this isa lotto takein,Mr. Moran, butitsounds like you'redoing agreat job preparingforyour procedure. Now,I want toask you -what are youlooking forward todoing withyour newknee onceyou've recoveredfromthe surgery?
+Patient: So
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: Once I'm done with the surgery, I just wanna be able to enjoy dates with my partagain. Because right now, it's pretty hard. I keepcomplaining, you know, about movement and all that because it's really hardmy partner loves going on hikes and everything. It's just too dang hard at the moment.So I wanna be free of the pain for sure.
+Nurse: I'm reallyglad tohearthat, Mr.Moran. Being ableto enjoy activitieswith your partnerand without painis a greatgoal tohave. It soundslike this procedurewill make abig difference inyour qualityof life. Ifyou have anyquestions or concernsaboutthe procedure,I'm hereto help. CanI assist youwithanything else?
+Patient: Well, I just wanna make sure I won't have it insection or anything like that because that would be so annoying to deal with.So what are the chances of getting an infection
+Nurse: Iunderstandyourconcern, Mr.Moran. Infection isalways a riskwithany surgical procedure,but wetake manyprecautions tominimize this risk.This includes theskin prepwe discussed earlier.In ourhospital, we havea verylow infectionrate,but it's stillimportant for youtobe vigilantabout spotting anysignsof infection,suchas redness,swelling, ordischarge fromthe woundsite. If younotice anythingunusual, pleasecontactusimmediately. [
+Patient: Alright. Understood.Alright. Is that all for now then? Anything else I gotta know? Anything urgent?

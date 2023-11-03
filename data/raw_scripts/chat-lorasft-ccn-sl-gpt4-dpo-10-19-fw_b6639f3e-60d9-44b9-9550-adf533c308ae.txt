@@ -1,0 +1,30 @@
+Nurse: Great.I'm just double-checking some information.Could you please confirm your date of birth for me?
+Patient: Zariah. June ninthnineteen seventy eight.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to check in with you about your colonoscopy procedure that's scheduled for tomorrow, August 11th at 8AM with Doctor Edward Chang.Can you make it to the procedure as planned?
+Patient: Yes, ma'am. I will be there.
+Nurse: Great, I'm glad to hear that.Just a heads up, you'll need to arrive at 7Can you make it at that time?
+Patient: Yes.
+Nurse: Excellent.I also want to remind you that your arrival location is on the 1st Floor Pre-op Suite at 1111 Parnassus Ave in San Francisco.Does that sound good to you?
+Patient: It does. I've been there, so no problem. I will be there.
+Nurse: Great, I'm glad to hear that you're familiar with the location.It's important to feel comfortable and prepared for your procedure.If you have any questions or concerns, feel free to ask.I'm here to help.
+Patient: I can't really think of any thisprep is really intense.
+Nurse: I understand, the preparation process for a colonoscopy can be a bit challenging.But it's important for getting clear images of your colon during the procedure.If you have any questions or concerns about the prep or the procedure itself, don't hesitate to ask.I'm here to help you through this process.
+Patient: Will I be able to workafter the procedure,
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Nurse: Yes, you should be able to return to work after the procedure, assuming you feel well and alert.However, you'll need to arrange for someone to drive you home after the procedure because you may be sedated.Do you have someone who can do that for you?
+Patient: I have arranged for a ride home.How long after do you think I'll be able to return to work?
+Nurse: Great, it's important to have a plan for getting home after the procedure.As for returning to work, it usually depends on how you're feeling and the nature of your job.If you have a desk job that doesn't require much physical activity, you might be able to return the same day.However, if your job requires more physical effort, you might need to take it easy for a day or two.It's critical to listen to your body and not rush back to work if you're not feeling ready.
+Patient: Thank you. I understand.
+Nurse: You're welcome!It's essential to feel comfortable and informed throughout this process.Now, I'd like to go over the diet changes you'll need to make starting today.You'll need to switch to a clear liquid diet, which means no solid foods.This also means no alcohol or marijuana, as these can interfere with the procedure.Have you started on your clear liquid diet and understand these instructions?
+Patient: I do.
+Nurse: Great, it's important to follow these instructions carefully.Now, let's talk about the bowel prep.You'll need to begin drinking the prep solution this evening, and you'll finish it off in the morning before the procedure.This is to ensure your colon is clean and clear for the colonoscopy.Do you understand the bowel prep process and have you picked up your prep solution?
+Patient: Yes. I have. And and, yeah, I understand.
+Nurse: Great, I'm glad you're set with the prep solution and understand the process.Now, I just need to check on your health before the procedure.Do you currently have a fever or any kind of viral illness such as the flu, COVID, RSV, or shingles?
+Patient: No. I do not.
+Nurse: Great, that's good to hear.It's essential to be in good health for the procedure.Do you have any other questions or concerns about the colonoscopy or the preparation process?
+Patient: I can't think of any
+Nurse: Alright, I'm glad to hear that you're feeling well-informed about the procedure and preparation.If you do think of any questions or concerns later on, don't hesitate to call us.Our callback number is 641-381-6523.Thank you for your time, and we'll see you tomorrow at 7Take care!
+Patient: Rachel, before you go,I have a question. I'm not sure if you'll be able to answer it.
+Nurse: Of course, I'll do my best to answer your question!Go ahead and ask.
+Patient: I'm going to be visiting Santa Ana, California over the weekendand I wanted to find out if you could recommenda good Italian restaurant.

@@ -1,0 +1,98 @@
+ Nurse: Before proceeding, could you confirm your date of birth for me? 
+ Patient: June 8th, 2001. 
+ Nurse: Much appreciated. I'm calling as part of your primary care team. I noticed from your records you visited urgent care recently and were diagnosed with a urinary tract infection. As you were prescribed antibiotics, I wanted to check in and discuss your recovery and well-being. How are you feeling today? 
+ Patient: Oh, well, today I'll admit I've been a little worried. 
+ Nurse: Might I ask what's concerning you? 
+ Patient: I'm worried because even though I'm taking my antibiotic, as the doctor instructed, I've been having these infections over and over and I'm worried that this won't help. 
+ Nurse: You're concerned about the antibiotics not being effective? 
+ Patient: Right, I find that I'm sitting at home and I'm thinking a lot and it gets very stressful and very lonely. 
+ Nurse: Could you expand on what else might be causing your stress? 
+ Patient: Well, I would say, you know, living alone. My husband passed away about two years ago and this is our anniversary month. 
+ Nurse: It sounds like commemorating your anniversary month as well as your concern about the reoccurrence of your urinary tract infections and the effectiveness of your antibiotics are causing you anxiety. Could you tell me more about what you think might be causing these infections to return? 
+ Patient: Sometimes I wear the pens. 
+ Nurse: Ah, I see. 
+ Patient: Yes, and I don't have this problem every day. Okay. But it's started to happen that I'll go out and I won't be able to get to a bathroom and I wear the pads and sometimes the, well, I'm wondering if wearing those is the reason that that I'm having these problems. 
+ Nurse: What if we share some information about urinary tract infections and factors that might put women at a higher risk. Would that be alright? 
+ Patient: Yes. 
+ Nurse: Excellent. Due to biological differences, women can be more susceptible to urinary tract infections. Our urethra, the passage through which urine is expelled, is shorter, making it easier for bacteria to ascend and cause infections. This is why women tend to be more at risk. Additionally, prolonged exposure to bacteria, such as wearing a wet diaper for too long, increases the risk of a UTI. Drinking plenty of fluids is another key prevention strategy as it helps flush bacteria out of the urinary system. How does this information fit with your understanding? 
+ Patient: Well it makes sense. So I'm sorry, could you tell me what I should be doing? 
+ Nurse: Certainly. If you're frequently wearing depends, try to change them as soon as they become wet. Prolonged exposure to bacteria from the wet absorbent material can increase your risk of UTIs. Also, remember to wipe from front to back after using the bathroom to avoid the spread of bacteria closer to your urethra. 
+ Patient: Do you recommend that I stay close to home only because sometimes I can't find a place to change and a lot of stores they don't have a bathroom for the public and things like that. 
+ Nurse: Striking a balance between minimizing UTI risk and maintaining normal activities might be beneficial. It might seem challenging at the moment due to your active infection but as long as you regularly change pads and maintain personal hygiene, I wouldn't discourage you from going to places with good bathroom facilities that you enjoy visiting. This would be easier to manage when the current infection is cleared. 
+ Patient: Yes, right now I, the last couple days I've just been staying at home. 
+ Nurse: Understandable. 
+ Patient: Just to avoid that problem. 
+ Nurse: Now, regarding your medication, you mentioned being on ciprofloxacin. Could you tell me how often you're taking it? 
+ Patient: I'm taking it twice a day. 
+ Nurse: And have you been staying hydrated? 
+ Patient: I could drink, I could drink a little more water. 
+ Nurse: Staying hydrated is essential. Consider keeping a water bottle or a pitcher handy according to what you prefer. What's your go-to drink, Jane? 
+ Patient: Well, unfortunately I do like to drink iced tea. I don't know if that's the best for my diabetes. 
+ Nurse: Iced tea could be fine as long it doesn't interfere with your blood sugar control. Does yours contain sugar? 
+ Patient: I can make it with less sugar.  
+ Nurse: A good option could also be to add more lemon. Diversifying our drinks aside, could we talk about your diabetes medications? 
+ Patient: For my diabetes I am taking Metformin. 
+ Nurse: How frequently do you take it? 
+ Patient: I take it twice a day. 
+ Nurse: And there seems to be a blood pressure medication as well, Lisinopril. One dose per day, correct? 
+ Patient: Yes. 
+ Nurse: Sensational. Let's delve a bit into your diabetes management, if you don't mind. 
+ Patient: No, certainly. 
+ Nurse: Do you typically monitor your blood sugar levels? 
+ Patient: Well, I haven't been recently. 
+ Nurse: When did you last do that? 
+ Patient: It's probably when I last saw my doctor. 
+ Nurse: Alright, I suggest returning to regular monitoring of your blood glucose levels. The recommended frequency is usually in the morning before meals and in the evening. Do you have a glucose monitor for this? 
+ Patient: Is there a machine that I should have because I don't have one of those? No. 
+ Nurse: It is important indeed. Let's talk about hypoglycemia, or low blood sugar events. Can you describe how you feel when your sugar levels drop? 
+ Patient: Well, I'll know that my blood sugar is low because I I feel a bit dizzy. I feel very weak. 
+ Nurse: Anything else? 
+ Patient: Well, I know that the times I've had it my my hands will shake a bit. 
+ Nurse: Noted. Sometimes people become nervous and twitchy as well when hypoglycemic. Are you feeling anything similar? 
+ Patient: No, I know I am nervous but I'm a little more nervous about my my health in general. 
+ Nurse: And at this moment, you don't feel like your blood sugar is low? 
+ Patient: At this moment, no. Okay, 
+ Nurse: The reason I'm asking these questions is because antibiotics like ciprofloxacin can sometimes lower blood sugar levels. It is advisable to monitor your blood sugar regularly especially while on antibiotics. Additionally, as a diabetic, you may be more susceptible to recurrent UTIs and managing your blood sugar can contribute to reducing these infections. 
+ Patient: I wasn't aware of that. 
+ Nurse: It's quite common. Our goal is to manage your risk factors, so you don't have to frequently visit the doctor or urgent care to get antibiotics. It sounds like this is what's triggering your anxiety about your health. 
+ Patient: Yes, that's true. Alright, okay. So, what I'd like to do is I would like to have you go see your primary care physician because you don't have a diet, you don't have a machine and we do need to get a diabetes machine ordered for you. Okay. Okay, it doesn't sound like you have you know low blood sugar right now for me talking to you but I wanted to find out have you eaten anything today? Have you had any breakfast or anything? 
+ Patient: Yes, I had an omelet. 
+ Nurse: You had an omelet? Okay, yes. Do you keep a quick sugar source like candy or fruit juice handy for hypoglycemia episodes? 
+ Patient: Oh yes, I usually I usually have something like that. 
+ Nurse: Fantastic. Do you recall ever having a blood sugar monitoring machine? 
+ Patient: Not that I remember, no. 
+ Nurse: How long have you had diabetes for? 
+ Patient: Oh well I want to say at least six or seven years. 
+ Nurse: I see. Let me ask, what does your schedule look like today, Jane? 
+ Patient: Well, I'm not going anywhere today. 
+ Nurse: And what about your transport? 
+ Patient: I drive. Okay, do you feel like you're gonna be okay to drive to see your doctor today? 
+ Patient: Yes, I think so. 
+ Nurse: How far away is your doctor's office? 
+ Patient: No, about 30 minutes. 
+ Nurse: If an appointment is available today, would you be able to go? 
+ Patient: Yes, I'm a little anxious to leave the house. 
+ Nurse: I understand your anxiety, but considering you don't currently have a way to monitor your blood sugar, I would strongly recommend a visit today. 
+ Patient: Yes, and also with my, you know, with my blood pressure and my other things, I do feel I should be keeping my stress under control a little better. 
+ Nurse: That's a very insightful perspective. 
+ Patient: I'm aware of that and I do think that I haven't been doing those things that calm me down recently. 
+ Nurse: It sounds like your anxiety has been elevated lately, especially considering the anniversary of your husband's passing. Have you been feeling more anxious and nervous overall, or is there any particular trigger? 
+ Patient: I would say since I started getting these infections. 
+ Nurse: So your anxiety has been increasing since the infections started occurring a few months back. Are there any other symptoms that you've experienced? 
+ Patient: I mostly worry about my health. 
+ Nurse: Is your health concern a daily worry? 
+ Patient: It has been. Every day. Especially the last few days have been very hard for me. 
+ Nurse: That does sound challenging. Do you experience restlessness or difficulty sitting still? 
+ Patient: A bit, yes, because I like reading and I've been having trouble just focusing. 
+ Nurse: I see, and have you noticed mood changes like feeling more irritable? 
+ Patient: Yes, I haven't really talked to anyone besides you the past couple of days. Yes, I should call my granddaughter because she has sent me some messages. She actually got me to sign up for Instagram and I don't know how to use it. And so she keeps calling me and asking me why I haven't been looking at her pictures. 
+ Nurse: Social interaction can indeed help in managing anxiety. Pardon my forwardness, but I must ask, do you ever feel intense fear, as if something terrible might happen? 
+ Patient: A bit, yes. 
+ Nurse: And by 'a bit,' would you classify it as several days, more than several days or almost everyday? 
+ Patient: Several days. 
+ Nurse: It appears that your anxiety levels might be relatively high. Would it be alright if I arranged your primary care physician to meet with you today? If they have an available slot, they can prescribe you with a blood glucose monitor, check on your current health status, and possibly arrange a home health nurse for you to assist with usage of the monitor and general diabetes management. 
+ Patient: Would that be another doctor? 
+ Nurse: This would be a nurse with expertise in diabetes management. 
+ Patient: Well, I never thought about that. Okay. Usually, I mostly talk to my family, but I'll think about that. 
+ Nurse: Great! Let's plan for a quick call on Thursday to see how things are proceeding with your antibiotics and blood sugar levels. Until then, remember to stay hydrated and change your Depends as needed. Finally, during times of low blood sugar you can have a quick sugar source such as fruit juice or a candy bar. Do you have any questions or concerns? 
+ Patient: I'm okay, thanks. And yes, I have your number in case I need to reach out sooner. 

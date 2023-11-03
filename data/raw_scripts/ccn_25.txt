@@ -1,0 +1,56 @@
+ Nurse: I'm quite well, thank you. Could you share why you aren't feeling your best? 
+ Patient: I've been, you know, lots of coughing, sneezing, runny nose today. 
+ Nurse: Understood, understood. Further insights will be valuable. Would you mind confirming your date of birth, please? 
+ Patient: Yeah, it's 6-8-2001. 
+ Nurse: Confirming, your symptoms include coughing and runny nose. Is my understanding correct? 
+ Patient: Yeah, and sneezing a lot too. 
+ Nurse: Sneezing included. Anything else to report? 
+ Patient: No, that's pretty much it. It just feels like a cold. 
+ Nurse: Have you been informed that you tested positive for RSV, a Respiratory Synchronised Virus? Was this shared by your physician? 
+ Patient: Yeah, they told me and I've been pretty anxious about it. 
+ Nurse: What is causing your anxiety? 
+ Patient: Well, I was watching the news and it said a lot of people in the United States get hospitalized because of this. 
+ Nurse: Indeed, it can lead to severe symptoms if not managed. Could we examine your situation in detail? Based on your voice, it seems you're unwell, and I detect nasal congestion too. 
+ Patient: Yeah, yeah. 
+ Nurse: Kindly pay attention to RSV symptoms, particularly as you're comfortably in your 60s, such as a fever and chills. Have you checked your temperature recently? 
+ Patient: Checked it a little while ago and it was 99.32. 
+ Nurse: So you're experiencing slightly raised temperatures but not alarmingly so. 
+ Nurse: Have you experienced any shortness of breath or challenges in breathing? 
+ Patient: No, just just a little bit of a cough. 
+ Nurse: Noted. I see the doctor has prescribed guaficin, a cough suppressant. Is it available and have you been taking it? 
+ Patient: Yeah, I've been taking it every four hours. 
+ Nurse: Splendid, splendid. Have you experienced any improvements? It should aid in removing chest congestion.  
+ Patient: Yeah, a little bit. 
+ Nurse: Excellent. Have you been resting adequately and staying indoors?  
+ Patient: Yep, yep, just been here with my husband. 
+ Nurse: Delightful. Your husband is with you. How is he coping?  
+ Patient: He's feeling fine. 
+ Nurse: Outstanding. Let's discuss RSV in detail. The concern in your voice indicates a worry after watching news about hospitalization cases.  
+ Patient: Yeah. 
+ Nurse: RSV is a rampant virus causing cold-like symptoms, as you are experiencing: runny nose, throat discomfort, cough, and headache. Monitoring your temperature is critical, and take Tylenol to maintain normal levels if needed. For now, your temperature is perfectly normal.  
+ Patient: How much Tylenol should I take? 
+ Nurse: Just follow the instructions on the Tylenol container. Do you have some at home?  
+ Patient: Yeah, yeah, I have. 
+ Nurse: Terrific. Continue to observe any substantial changes in symptoms. Especially in people of your age and young children, RSV could lead to severe symptoms and require hospitalization. Ensure you seek immediate medical attention if you experience breathlessness or high fever.  
+ Patient: Okay, okay, it's making me nervous. 
+ Nurse: My apologies for causing concern. It sounds like you're managing your symptoms well. Let's discuss protecting your husband. Please maintain hygiene and avoid close contact temporarily. 
+ Patient: Okay, yeah, I don't want to get him sick. 
+ Nurse: Absolutely, we wouldn't want that. RSV symptoms could last two to eight days. 
+ Patient: Really? 
+ Nurse: Yes, indeed. 
+ Patient: Okay. 
+ Nurse: Do you or your husband face any other health issues like asthma or COPD? 
+ Patient: No, no, neither of us do. 
+ Nurse: Perfect. People with such conditions could be at a higher risk. 
+ Patient: Okay, I see. 
+ Nurse: Please continue using guaficin as needed, hydrate well, maintain good hygiene, and attempt to minimize contact with your husband temporarily. 
+ Patient: Yeah, that would be bad. 
+ Nurse: Lastly, do rest well for a quick recovery. Do you have any further queries? 
+ Patient: Well, if I do end up in the hospital, what would they have to do to make me better? 
+ Nurse: They would primarily operate to control the infection. There are no direct treatments for the virus but symptom management will be the focus, possibly requiring IV fluids or targeted medication depending on severity. 
+ Patient: Yeah, no, no, me neither. I'm just nervous. 
+ Nurse: Understandably. Despite the commonality of the virus, vigilance is crucial for managing symptoms and maintaining health. Alert if you notice breathlessness. 
+ Patient: Okay. 
+ Nurse: Good. I'm available on 333-444-5555 for further queries. 
+ Patient: I'm available from 8 to 5 30. Yes, that would be lovely. 
+ Nurse: I will notify your primary doctor about our discussion. If you'd like, I can also email you additional information about RSV. I wish you a swift recovery. 

@@ -1,0 +1,68 @@
+ Nurse: Well, John, that's exactly why I'm here - to provide you some clarity. Understandably, you might be more willing to follow the instructions if you comprehend the reasons behind them. Can we start off by confirming your full name and your birth date, just for security purposes? You mentioned you've started some new medications due to high blood pressure - is that correct? Let's dive into this a bit more - did the doctor's explanations sound like medical jargon or did they make sense to you? 
+ Patient: I'm sure it was a little bit of both. 
+ Nurse: Do you grasp the fact that your blood pressure is elevated? 
+ Patient: Yes. 
+ Nurse: Apart from this, do you have any other chronic health issues that you've been managing?  
+ Patient: Yeah, yeah. 
+ Nurse: Would you mind sharing more about these conditions? 
+ Patient: You know I've got macular degeneration, I've got arthritis, yeah those are the ones that I can remember off the top of my head. 
+ Nurse: Apart from the blood pressure, you have been prescribed medications for these other conditions as well. Am I correct? 
+ Patient: Well the degeneration, it's just it's some some eye drops. but nothing nothing else. 
+ Nurse: Are you also using any medication or ointment for your arthritis? 
+ Patient: Yeah. 
+ Nurse: It's essential to know about all your medications and treatments to ensure they don't interact negatively with each other. Your medications seem fine in this respect. Now, could you tell me about your living situation? Do you live alone or with some assistance? 
+ Patient: No I'm by myself. My son lives out in California. 
+ Nurse: Whereabouts are you located, John?  
+ Patient: i'm in phoenix. 
+ Nurse: Alright, Phoenix it is. I learnt that you're settled in Phoenix while your buddies are moving closer to their grandsons. 
+ Patient: yeah, and then yeah i got a lot of the old, a lot of the old crews moved away. they're all grandpas and wanted to be closer to the grandkids. and i get it, i get it, i just, i told my wife when we moved to phoenix that this was it. i didn't want to do it. yeah oh oh sort of the goal. um and now it seems um and this just seems this was this is where i wanted to be. but it looks like um you know the the old gang's moving away and i'm the last one i'm the last bastion. 
+ Nurse: Your wife's no longer with us, is that correct? 
+ Patient: no she's not. 
+ Nurse: Have you thought about relocating closer to your son? 
+ Patient: No, not really. 
+ Nurse: You seem to prefer Phoenix. That being the case, our aim is to ensure you live safely and independently. For those with limited social support, we can bridge the gap by facilitating access to a range of services like food, housing, nursing care, transportation, and more. It sounds like you're currently managing well, yet it's essential to remember that these resources are at your disposal. Loneliness can be daunting, but rest assured - there are plenty of networks and gatherings available for you to participate in and establish friendships with. Who knows, you might even find some peers to discuss blood pressure with! While it might not sound exciting to discuss health issues with friends, it's surprisingly common.  
+ Patient: Right. 
+ Nurse: Moving on, could you tell me what you understand about blood pressure and its implications? 
+ Patient: I suppose I don't know much. 
+ Nurse: That's fine, we can work through that. It's crucial to maintain controlled blood pressure to prevent health complications, some of which can be quite severe, such as eyesight problems, headaches, heart disease, and stroke risks. To keep a track of this, did your doctor provide you with a blood pressure monitor for home use? 
+ Patient: Yes. 
+ Nurse: Have they demonstrated how to operate it? 
+ Patient: Uh, no, I haven't, I haven't used it yet. 
+ Nurse: When you visited your cardiologist, were you informed about the blood pressure reading that led to your hypertension diagnosis? 
+ Patient: Uh, let me, let me, let me see... me write it down 151 over 91. 
+ Nurse: Your readings are considerably high. Were you made aware of the ideal blood pressure figures? It should ideally be around 120 over 80. The higher the reading, the higher the hypertension stage, implicating higher chances of encountering heart diseases and even diabetes. Just trying to understand, have you begun the new medications and are you taking them regularly? 
+ Patient: Well I mean if I feel okay sometimes I skip. it's not every day. 
+ Nurse: It could be beneficial to develop a new habit of consistently checking your blood pressure. Would you like me to guide you through the process over the phone or should we arrange for someone to provide a hands-on demonstration at your home? Monitoring your blood pressure readings will aid us in determining the efficiency of your medication. This would be particularly helpful since it seems like you might not be taking your medication consistently. Let's chalk out a plan that is most effective for both yourself and the medical team.  
+ Patient: uh yeah yeah i guess someone coming out to to help wouldn't wouldn't be a terrible idea. 
+ Nurse: I'll organize for a home nurse to provide an in-person demonstration on operating your blood pressure monitor. The Valley Education team can also provide additional educational materials. But before that, I believe it's important to discuss what your medications are for and why it's crucial for you to take them as prescribed. Do you have a few minutes for this? 
+ Patient: Yeah. 
+ Nurse: Your high blood pressure, despite being common, can lead to a range of medical complications including heart disease, stroke, kidney failure, and vision loss. You mentioned that you're using eye drops - do you think the vision problem could be due to your high blood pressure? It's difficult to ascertain as this is a recent diagnosis for you. One of the medications prescribed to you is Lisinopril, which reduces certain chemicals that constrict blood vessels. This helps the vessels relax, facilitating smoother blood flow and enabling your heart to pump more efficiently. The second medication, Amlodipine, works a bit differently by relaxing your blood vessels and enhancing blood supply. This assists in reducing any pressure or overload on your heart. It can also alleviate chest pains. Have you ever experienced tightness or discomfort in your chest? 
+ Patient: Every now and then. Nothing, nothing that I thought. 
+ Nurse: It's critical to take these medications regularly to manage your high blood pressure effectively and avoid any potential long-term complications. Besides medications, lifestyle changes can also contribute significantly. Has any specialist recommended dietary modifications? For instance, limiting your salt intake? 
+ Patient: Yeah. 
+ Nurse: Do you consume a lot of processed foods or have a habit of adding salt to all your meals without tasting them first? 
+ Patient: No, no, not a lot of process. I mean, I like to go out in various restaurants. There's wonderful cuisine out here. 
+ Nurse: Phoenix is indeed known for its culinary delights! Do you tend to stick to the classic meat and potatoes dishes?  
+ Patient: And then I guess I really, you know, I'm a meat and potatoes kind of guy. You know, I'll try different things, but if I'm gonna go back down to it, I'm sticking with the classic. 
+ Nurse: Steak and quinoa probably doesn't sound too exciting to you? 
+ Patient: no not if it's not the only option. 
+ Nurse: Completely understood! In terms of managing blood pressure, choosing lean meats can be a healthier option. Reducing salt, avoiding processed foods - which often have high sodium content - and drinking sufficient fluids are other practices that you can adopt for your health. Do you recall the doctor providing a sodium intake goal for you to aim for? 
+ Patient: I mean, I'm sure they said labels. I don't know about a goal. 
+ Nurse: That's alright. Our typical recommendation is about 1000 to 1300 mgs, but it would be good to start by simply paying attention to what you're eating. Identify better dietary choices and gradually work towards aligning your intake. Each time you visit the doctor, they'll provide more guidance and support to help you manage your blood pressure effectively. Besides dietary improvements, maintaining a healthy weight can also play a crucial role in controlling blood pressure. Would you say you are currently at an ideal weight? 
+ Patient: yeah, I could stand to lose a few pounds. 
+ Nurse: Maintaining a healthy weight can alleviate the strain on your heart, as well as your joints. Cutting out fatty foods can aid in controlling blood pressure as well as weight. Essentially, leading an active and healthy lifestyle is key. What does your current exercise routine look like? Perhaps a round of golf with friends? 
+ Patient: Yeah I'll get out and walk. oh yeah yeah I haven't. I haven't been golfing much since the fellas started moving away. I kind of you know lost the uh lost the crew. 
+ Nurse: It seems like your friends left quite suddenly. Have you tried engaging in social activities to meet new people? It's important to keep active and socialize, especially with your son living so far away. 
+ Patient: I haven't met. I don't, I don't know how to do that or... 
+ Nurse: Are there any nearby senior centers where you could participate in activities that interest you? Groups like these might also offer a way to make new friends and connections. 
+ Patient: I, I really hadn't. 
+ Nurse: Those can be an excellent resource. Keep in mind, staying active physically and socially can significantly help manage your blood pressure. 
+ Patient: Okay. 
+ Nurse: Yes, leading a balanced lifestyle, taking your medications regularly, reducing salt in your diet, and staying hydrated are key components
+ of managing your blood pressure effectively. 
+ Patient: Right. 
+ Nurse: Perfect. I've arranged for a nurse to demonstrate how to operate your blood pressure monitor. Please do tell her your preferred timings during your coordination call. If you haven't received a call by the end of the week, do let me know. We should get started on measuring and recording your blood pressure readings. By doing so, we can understand how well your medication is working. For now, I would recommend that even if you're feeling good, continue taking both your blood pressure medications regularly. Doing this keeps your blood pressure in check and reduces the risk of it elevating suddenly, which can occur if the medication is not taken consistently. Once you learn how to monitor your blood pressure, it will be rewarding to see the positive impact of these practices on your readings and overall health. Also, ensure that you understand when to contact your doctor based on your readings. 
+ Patient: Yes, yes. 
+ Nurse: Tremendous! I threw a lot of information at you today, so it's perfectly fine if you can't remember it all. The key takeaways are to reduce salt, take your medications daily, and try to increase physical activity. Even if you think I was speaking too fast and couldn't grasp everything, don't worry! Feel free to call back and we can go over the information again. 
+ Patient: Okay. 
+ Nurse: If you encounter any issues in arranging a visit with a home nurse, or if you just would like to chat, don't hesitate to reach out to me. 

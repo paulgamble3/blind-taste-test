@@ -1,0 +1,51 @@
+ Nurse: Splendid. Your foremost concerns are ongoing discomfort from your right hip replacement and your eagerness to return home from your daughter's house for recovery. Have I got that right? Now, during your time in acute rehab, did they recommend any specific exercises for your condition? 
+ Patient: Um, yeah, a bit. I just, I'm having so much pain when I stand that I don't know if anything was really helping in that regard. 
+ Nurse: Indeed, and were the medical staff attending to your surgical wound there? 
+ Patient: Yes. 
+ Nurse: Excellent. Right now, while you're at your daughter's residence, do you have any open wounds from your surgery? You had mentioned previously about pain while standing. How about when you're completely relaxed, is there any discomfort then? 
+ Patient: Well, right now it's probably about a five out of 10 when I'm standing. 
+ Nurse: And when not standing? 
+ Patient: Probably about seven out of 10. 
+ Nurse: So, upon standing, the discomfort is a five, and while at rest, it rises to seven? 
+ Patient: Yes. 
+ Nurse: So it would seem that you experience less pain when standing, correct? 
+ Patient: Yes. 
+ Nurse: That must be upsetting. How have you been managing your pain currently? 
+ Patient: At this point, I put ice packs on my hips, taking Tylenol. 
+ Nurse: Understandable. Has that been helping, even in small ways? 
+ Patient: Um, a little, a little, you know, it's still not. 
+ Nurse: Correct me if I'm wrong, I have here that your current medication includes Tylenol, 1000 milligrams. I also see here that you have been prescribed capsaicin cream, have you been using it? I have. 
+ Patient: It helps a little. 
+ Nurse: Got it. And on utilizing ice packs, are you mindful to do so for no more than 20 minutes at a time? We wouldn't want direct contact with your skin beyond that. 
+ Patient: Okay, I'll make sure I watch that. 
+ Nurse: That's good. I also have here that you possess medication known as Oxycodone. Have you been taking that? 
+ Patient: I have it, but I do not. I don't like it, I don't like it. 
+ Nurse: Could you elaborate on why? Did you experience something unpleasant? 
+ Patient: Well, I don't like the way it makes me feel. I've just, I've heard a lot of bad stuff about oxycodone. Mm-hmm. 
+ Nurse: Your concerns are valid given the recent news surrounding oxycodone. However, at a dose of 2.5 milligrams and taken only as needed every six hours, it remains a fairly safe medication. However, should you find its effects uncomfortable, it isn't a prescribed requirement. It’s merely an option should your pain become considerable. That said, based on your feedback, I'll reach out to your primary care physician to explore the possibility of a different medication. 
+ Patient: That would be great. 
+ Nurse: Certainly. I'll also communicate to them about your current pain level to see if a pain management appointment would be beneficial. Now, regarding your return to your own house, what assistance do you believe will be necessary for a comfortable transition? 
+ Patient: Oh, well, probably, I mean, since I'm just using a front wheel walker right now, it's hard to keep up with housework and take care of my surgical scar. I believe I'd need some help.  
+ Nurse: Definitely, we can arrange for some services, but I'm interested in your preference. Would you like these services to commence at your daughter's house, assisting you with physical therapy, home health nurse, and so on until you've regained sufficient strength? Or would you prefer to return home and have these services start there? 
+ Patient: Honestly, I think I would like to get a head start at my daughter's. That might make her more comfortable with the idea of my returning home. 
+ Nurse: That sounds sensible and caring of you towards your daughter. But remember, your needs and opinions matter just as much. However, from our discussion, it appears you're inclined towards receiving services at your daughter's house initially, growing stronger before considering a return to your home. Is my understanding correct?  
+ Patient: Yes, I think that's probably the best plan. 
+ Nurse: Noted. I see that your doctor suggested some referrals, which I'll follow up on. These are for physical therapy, occupational therapy, and a home health nurse to oversee your surgical site. After all, despite your assurance that it seems to be completely healed... 
+ Patient: Or it feels like it is, but it's hard for me to see clearly with my eyesight being the way it is, but yes, I miss my regular life. This walker is a hindrance. I need to heal. 
+ Nurse: Certainly. That's what physical therapy will aim to achieve - to improve your strength until you're capable of transitioning to using a cane, and eventually being independent of it. So, our immediate plan is to arrange for physical therapy and occupational therapy to visit your daughter's house. Now, you had mentioned needing assistance at home. I can recommend a service through Apple Social Work that can provide you a caregiver to assist you with day-to-day tasks during your recovery. Is that something that interests you? 
+ Patient: Yes, yes, please. 
+ Nurse: Superb. I will make a referral to Apple Social Work for a caregiver to assist you until you can comfortably manage on your own. A suggestion I have is to take your Tylenol roughly 45 minutes prior to the physical therapist's visit. In this way, the therapeutic exercises can be done with less discomfort. Additionally, with regards to the high level of pain you reported, I will speak to the primary care physician to explore alternative medications, especially since the Oxycodone did not agree with you. 
+ Patient: No, I don't like it at all. 
+ Nurse: Noted. Also, earlier in our conversation, you mentioned having a history of falling. Given your current pain situation, this could increase your risk of falls. I'd like to discuss some techniques to minimize fall risks. Would that be alright with you? 
+ Patient: Yes. It can't hurt. 
+ Nurse: Glad to hear it. Upon getting your caregiver, ensure that your walker is always within reach, especially when you're seated. This way you can use your upper body strength to stabilize yourself when transitioning from sitting to standing. Here's a little tip: upon standing, try to wait for approximately ten seconds before starting to move. This gives your body a chance to stabilize and reduce any potential dizziness. Finally, try to be mindful of any tripping hazards, such as toys or cables on the floor. We don't want you accidentally tripping, especially now with your new hip. 
+ Patient: I'll do my best. 
+ Nurse: Much Appreciated, Jean. Upon their visit, the physical therapist will also conduct a home safety assessment and recommend any necessary equipment for your safety. Our priority here is to ensure your safety and prevent hospital visits. 
+ Patient: Yes, and I don't want to end up in the hospital either. 
+ Nurse: Absolutely. Is there anything else you'd like assistance with at present? I have a list of actions to follow up after this call, but I want to ensure I've covered all your concerns. 
+ Patient: The only thing, and I'm sure you know this because you have my medical records, but I have high blood pressure. I don't know if that affects what pain meds I'm allowed to take. 
+ Nurse: High blood pressure usually doesn't interfere with your choice of pain medication. I see here that you're on Amlodipine 5 milligrams, correct? Interestingly, high pain levels can actually cause your blood pressure to rise. This is another reason why we need to manage your pain effectively. Once we arrange for the nurse visits, they can monitor your blood pressure and ensure everything is going well. 
+ Patient: That's a great idea. Thank you so much. 
+ Nurse: You're welcome. There has been a lot of information shared, I can send an email recap if you prefer. Would that be helpful? 
+ Patient: Absolutely. 
+ Nurse: I'll do that. Before I conclude this call, may I summarize our discussion and future action plan for your consent? ...Excellent, Jane. Our discussion revolved around your recovery following a right total hip replacement. The notable pain you've been experiencing and a longing to return to your home were high priorities. Subsequently, we formulated a plan where you receive services at your daughter's house initially. This incorporates physical therapy, occupational therapy, home health nurse, and a caregiver until you're able to independently manage, all while at your daughter's home. We also discussed your pain management, medications, and how we might liaise with your primary care doctor to explore alternatives. Is there anything else you feel I should address moving forward? 

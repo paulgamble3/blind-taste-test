@@ -1,0 +1,22 @@
+Nurse: Right, let me see.
+Patient: Ok. Um
+Nurse: Ok, so I have your next [PHI-Personal] scheduled for [PHI-Personal].
+Patient: Ok. Yeah. Ok. And uh you don't, don't know what the Inr was. Uh yes,
+Nurse: Let me look. It was your INR was 2.5. The PT of it was 28.[PHI-Account] so it's a little XXhigh.
+Patient: Oh no, I had ate some uh cabbage I didn't know that that would make it any much difference. But, uh, I had ate some cabbage just a couple days before that. Oh, ok. And, and I had taken, uh, I missed my dose of Coumadin on Sunday night, so I took it Monday morning. So that would have made it a little bit high too.
+Nurse: Ok. All right. Um, yeah, you know, try and try and avoid those, um, you know, green leafy vegetables like the kale, the um you know, broccoli, asparagus, um cabbage even um they, you know, extra vitamin XXK in there which, which kind of messes with that XXwarfarin. So um trying to try to avoid those, you know, every day. Um but then uh you know, you can, you can let us know if, if you do happen to eat something like that and your, your uh levels are a little off. You can let the, let your nurse know. Um
+Patient: Well, I did tell them out there when they draw the uh blood that I had some cabbage a couple of days before and, oh, did you? Ok. So. All right.
+Nurse: Ok. Um and then I noticed you also had an appointment with your primary doctor uh towards the end of June for some XXBP uh issues. How is that? Does that, does it seem to be better?
+Patient: Well, it seem to be better. I'm not, not having the, the dizziness and stuff like I had been. Ok, perfect. Um he, uh, he changed that. I don't know if you have that there or not, that he changed that from, uh, I think 50 mg in the morning. And then, uh, well, he got me 50 mg tablets and, uh, then he said, just take a half of [PHI-Personal] at, at, at night. Ok.
+Nurse: All right. Perfect. Yep. I see that there. So that's going well then.
+Patient: Well, it seems to be pretty good. Yeah.
+Nurse: Ok. Um, did you take your XXBP in the last few days?
+Patient: Yeah, I think, uh, right. I have a tablet in here with it on. Ok. Uh, let's see. That was your last, on the fifth, on the [PHI-Personal] there? I took it in the evening there. It's [PHI-Account] 22/58. Ok. Perfect. And, yeah, the [PHI-Personal] then, yeah, the [PHI-Personal], I had, uh, taken it two there and it was [PHI-Account] 56/66
+Nurse: 15 6/66. Was that, is that what you said? Yeah. Ok. Was that in the morning or at night? That was in the morning, morning? Ok. Did you take your pills before that or after, or? Don't you remember?
+Patient: I'm not sure it would have been, just, would have been right close to the same time, same
+Nurse: Time. Ok. All right. Ok. So, um, you know, he wants you to try and, and aim for it around the 11 forties, um, or lower, um, you know, but that that [PHI-Account] 56 isn't, isn't terrible, you know, he said he's not going to change anything unless that's pretty constant, you know, above the [PHI-Account]. Um, so just keep an eye on it, you know, let us know if you're getting consistent readings over that [PHI-Account]. Um, you know, and that bottom number should stay below, you know, 90 typically we want it around XX80. Um, does that make sense? Mhm.
+Patient: Ok. Yeah, the bottom number, well, the highest I have on the bottom number here is uh [PHI-Account]. It's [PHI-Account]. Ok.
+Nurse: Yeah, perfect. All right, good, good. Um, yeah, so you know, just, just keep an eye on it, let us know if it creeps up there any higher. Um, and we'll probably switch you around a little bit with Medica, you know, medication wise but um, you know, we wanna try and keep it between that uh, [PHI-Account] 21 40 or even lower. Ok. All right, perfect. Um, let's see. Ok. Awesome. Do you need any refills of anything today? I don't remember if I asked you that at the beginning. Uh, I
+Patient: Think I just got new refills.
+Nurse: Ok. All right, perfect. Um, and then still taking all your medications as prescribed.
+Patient: Yep. All

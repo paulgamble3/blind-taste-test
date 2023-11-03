@@ -1,0 +1,13 @@
+Nurse: Thank you, Mr. Grewe.For verification purposes, could you please provide your date of birth?
+Patient: Five sixseventy two.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Thank you for confirming that, Mr. Grewe.I'm calling to check in about your upcoming Total Knee Replacement procedure for your Left knee which will be performed by Doctor Edward Chang.How are you feeling today?
+Patient: Not that great.
+Nurse: I'm sorry to hear that, Mr. Grewe.It's completely normal to feel a bit anxious before a procedure.Can you tell me more about what's bothering you?
+Patient: Grewe,Itested positive for COVID last night, and I have a fever.
+Nurse: I'm really sorry to hear that, Mr. Grewe.It's critical that you're feeling well before your surgery.I'll make sure to pass this information on to your healthcare team right away.They will likely need to reschedule your procedure until after you've recovered from COVID-19.In the meantime, please take care of yourself and follow the guidelines provided by your primary care physician for managing your symptoms.Do you have any questions or concerns about this?
+Patient: Oh, no. I will have to wait.The procedure
+Nurse: I understand your concern, Mr. Grewe.It's unfortunate, but your safety is our top priority.Once you've fully recovered from COVID-19, we can reschedule your procedure.Doctor Edward Chang is an excellent surgeon and he will be ready to help you as soon as you're well.Is there anything else you would like to know or discuss?
+Patient: when will I find outthe date of the procedure
+Nurse: Once you've fully recovered from COVID-19 and your doctor has cleared you for surgery, our scheduling team will contact you to arrange a new date for your Total Knee Replacement procedure.It's important to keep us updated on your health status so we can plan accordingly.If you have any questions or concerns in the meantime, you can reach us at 641-381-6523.Is there anything else you would like to ask?
+Patient: No. Yes. I'll justWait.

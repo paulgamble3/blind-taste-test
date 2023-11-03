@@ -1,0 +1,49 @@
+Nurse: I've got you pulled up. What's going on?
+Patient: Um, I'm supposed, I, I already got the referral. II, I tried to make the appointment but the facility doctor [PHI-Personal] does not have the referral. So they gave me a fax number that, um, in order for you guys to fax the referral, that's on my chart. My lady. This message, uh, uh, ok. Would you mind faxing that over to doctor [PHI-Personal]?
+Nurse: Absolutely. Is that the, the ophthalmologist, the eye doctor?
+Patient: Yeah. The, the one for the sleep study. [PHI-Account]. The, um, um, the, the phone number is [PHI-Account]
+Nurse: [PHI-Account]. Ok, let me make sure that I can find it. Um
+Patient: Yes, in my chart is the latest message. Got you.
+Nurse: That's what I was trying to get it pulled up here because I saw the one about ophthalmology, but I didn't see the sleep apnea one. Now,
+Patient: The, the ophthalmology one I have not received. Um I called the, the, the for the sleep study. So the, the um, the nurse that I talked to, um, I think it was Friday told me to give him until this Friday to, to have them send me a notice that they received something from me, but I don't have it. Ok, let me if you wish you can um, call the uh, um ophthalmology. I don't, I have no idea who, who it might be. As long as they're within the um system. Do doctors that my insurance will cover then is the ophthalmology you want for the eye doctor?
+Nurse: Yes, let's start. Let me get the one for um, Doctor [PHI-Personal] here. I have it pulled
+Patient: Up. I do have the fax number
+Nurse: And that's the, the fax number is [PHI-Account]. Correct.
+Patient: Yes,
+Nurse: Ma'am. Ok. Let me try to send it
+Patient: And because I took a screen shot, I said, would you guys take a screenshot? No, we need the actual, you guys gonna make me work,
+Nurse: Of course. So that's fine. So we can get it, bear with me for just a second. I'm gonna try to send it while we're on the phone and we will
+Patient: Is still on.
+Nurse: She is um, they brought me on, I uh help manage some of the patients at [PHI-Personal] right now. So um I've been helping her out just because she had a higher case load.
+Patient: Tell her she better eat her wing.
+Nurse: Absolutely. Ok.
+Patient: Oh, by the way, uh you, you see my blood um, blood pressure we there, but my sugar is at 90
+Nurse: Your sugar is at 90. Yeah.
+Patient: Good, good, good. It's been low between that 90 between [PHI-Account]. I think that was about two ago, was one a week. I'm trying to find diabetes but diabetes keep, keep avoiding me, which is good.
+Nurse: Good. We'll try to keep it away. Ok. So I just fax that over. Um, typically it takes a little bit just for everything to get sent where it needs to go. Um, what you can do, see
+Patient: I'm gonna give it to tomorrow and tomorrow I call the office again and schedule appointment.
+Nurse: Ok. That's perfect. And if for some reason they didn't get it, um, just call me back and we'll see what else we can do to get it sent over there.
+Patient: Ok? Because they should, if they're, if I'm being referred to Doctor [PHI-Personal], that should be in the system she should be able to use to go into my chart and get, grab it just like you did
+Nurse: Typically. Now, sometimes, um, other providers, if they don't, if they can only see bits and pieces of the Mychart system, if they use a different system, that may be part of what the issue is, why they can't just see it.
+Patient: Ok.
+Nurse: Ok. Um, well, we've got that sent over. Um, if you do have any more hiccups, just feel free to call me back. But if not, I'll follow up with you next month and if there's still issues with the ophthalmology side of things, then we can, uh, get that taken care of as well.
+Patient: Um, the ophthalmology part, the eye doctor part, if it, it would be the same place. I want you to get my glasses.
+Nurse: Um, where did you go to, to get your glasses?
+Patient: Well, I think it's glass or something. Um, right here on. Ok.
+Nurse: What I'll do, I'm gonna make myself a note next time to see if we have those records, um, from your last eye exam to see if it's what they're looking for. But sometimes there's a difference between like a, a regular eye doctor which is an optometrist and XXophthalmologist. They both deal with eyes but they're a little bit different. Um, yeah,
+Patient: That, that I don't have that. Um, can you give me the eye ophthalmologist right there in [PHI-Personal]? Um, I forgot the one that takes United Healthcare.
+Nurse: I, I am not sure which one specifically take United Healthcare, but what I can do, um, I can send you the list of preferred, uh, ophthalmologists that we have, like with the TGH, that work with TGH a little bit closer. Um, and I can send that through your, your Mychart and you can kind of see, um, and call and see if they would take your insurance and do it
+Patient: That way down, uh, or whatever that is [PHI-Account] Rock and field, whatever, that damn, that German street name, huh? Um, let me look and see it. It can feel, it can feel or something. Um, I doctor's ophthalmologist in [PHI-Personal]. Yeah.
+Nurse: I don't see one specifically with a street name like that. Um, but what I'll do, I'm gonna send you the list of ophthalmologists that we have, um, and I can send that to your Mychart and you can look at them and see if any of those are close to you. And then, um, we can kind of go from there.
+Patient: Oh, [PHI-Personal], I associate in, um, [PHI-Account] medical.
+Nurse: Yes. Um, the one that I have for, for [PHI-Personal], I Associates. Yep. [PHI-Account] Medical Oaks in [PHI-Personal].
+Patient: Is that part of the system?
+Nurse: Yes. So that, that's one of the preferred XXophthalmology providers that we have listed.
+Patient: Ok, good. I have them here. So all I can do is call,
+Nurse: Yeah, you can call them and if, if they happen to need the referral sent, we can get that taken care of on our call next month too.
+Patient: Um, actually, uh, if, if the, if she have the referral there, um, go ahead and send that, that office, the same referral, that office that I'm gonna call them now and when, when I call them, I'm gonna let them know that I just had you fax it over to them and that way, that way, um, they, they can expect it.
+Nurse: Ok. Good deal. I'll get that sent over to. It'll take me just a few minutes to get everything typed up. Um, but what we'll do if you have any more issues, you just call me back or I can follow up with you um, in a couple of weeks just to make sure everything got sorted out.
+Patient: Definitely. Yeah, because I don't like to waste time. Mhm.
+Nurse: Absolutely. So I will get that taken care of right now. Um, is there anything else that I can help you with right
+Patient: Now? I wish it was close by because I will make coffee, my coffee because even my mom does. My mom know I make coffee, by the way, I make coffee for me. Not even, not even, not even Starbucks or?
+Nurse: Oh, goodness, I like a good cup of coffee.

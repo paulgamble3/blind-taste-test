@@ -1,0 +1,44 @@
+Nurse: Great, I'm glad I reached you.Before we begin, I just need to verify your identity.Can you please provide me with your date of birth?
+Patient: Sure. My date of birth is August third nineteen eighty two.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to check in with you about your upcoming Total Knee Replacement procedure.I wanted to make sure you're doing well and that you're prepared for your procedure.
+Patient: Okay.What do you need to check for?
+Nurse: I just want to make sure you're feeling well and that you understand the instructions for your Total Knee Replacement procedure.I'm here to answer any questions you might have and to ensure you're ready for your procedure.
+Patient: Okay.Yeah. Well, II am a little worried. I did wanna askam I going to betotally pain free once the procedure Oxycodone.
+Nurse: I understand your concerns.It's normal to feel a bit anxious before a procedure like this.I'm here to help you through this process and make sure you're comfortable and informed.Let's talk about your pain management plan and make sure you understand what to expect.
+Patient: Okay.
+Nurse: Great, I'm glad you're open to discussing this.Let's start by talking about the pain management plan that's been put in place for you.We want to make sure you're comfortable and pain-free during your recovery.
+Patient: Okay.That's good.I I hope I can be paid for you.So what's the pain management?
+Nurse: I understand your concerns.We have a comprehensive pain management plan in place for you.After your surgery, you'll be given medication to help manage your pain.This will include Oxycodone, which you've already been prescribed.We'll also be using a variety of techniques to help manage your pain, including physical therapy and non-drug methods like ice and heat therapy.Our goal is to make sure you're comfortable and able to recover well.
+Patient: Oh, okay.So the medications will help.Is what you're saying.
+Nurse: Yes, that's correct.The medications, particularly the Oxycodone, will help manage your pain after the surgery.It's essential to take them as directed by your doctor to ensure you're comfortable during your recovery.
+Patient: Oh, I see. I see.Okay.
+Nurse: I'm glad you understand.It's important to us that you're comfortable and well-informed throughout this process.If you have any other questions or concerns, I'm here to help.
+Patient: Thanks. That's good to hear.I mean, right now, I don't have any othermajor questions. I'm just anxious of aprocedure andI'm hoping you can reassure me thatknow, it's gonna be fine.But I'll be fine.
+Nurse: I understand your anxiety, it's completely normal to feel this way before a procedure.I want to reassure you that our team is highly experienced and will do everything possible to ensure your procedure goes smoothly and you're comfortable throughout.We're here to support you every step of the way.
+Patient: Create.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: Yeah. I'd I'd love that.
+Nurse: Great, I'm glad to hear that.Now, I just want to quickly confirm a few things before we finish up.Have you had a fever, chills, or muscle aches recently?
+Patient: No. I definitely haven't had anything like that.Just the usual thing I have.Mine, unfortunately.
+Nurse: Okay, I'm glad to hear that you haven't had a fever, chills, or muscle aches.It's critical to let us know if you do experience any of these symptoms before your procedure.Now, I also need to remind you that you cannot eat or drink anything after midnight the day before the procedure.This is to ensure your stomach is empty during the procedure.
+Patient: Okay.Sounds good.
+Nurse: Great, I'm glad you understand.Now, I also want to confirm that your anticipated discharge plan is to currently go home after the procedure.Is that correct?
+Patient: Yes. Definitely. That's the plan.
+Nurse: Okay, great.I just wanted to double-check that.Now, I also need to know if you have a ride home from the procedure and a caregiver to assist with your recovery.Can you confirm that for me?
+Patient: Yeah. Absolutely.So my daughter will be providing that assistance.
+Nurse: Great, I'm glad to hear that your daughter will be there to help you out.It's essential to have someone around to assist with your recovery.Now, I also need to give you some skin prep instructions for before your procedure.It's essential to use a chlorhexidine scrub in the shower both the night before and the morning of your procedure.This is to help reduce the risk of infection.Can you do that?
+Patient: Yeah. I can do that.Is it is it hurt using that scrub?
+Nurse: No, the chlorhexidine scrub isn't harmful.It's actually designed to be gentle on your skin while still effectively cleaning it.It's important to use it as directed to ensure your skin is clean and free from bacteria before your procedure.
+Patient: Okay. That's good.Very good to hear.
+Nurse: I'm glad you understand.It's critical to follow these instructions to ensure your safety and the success of your procedure.Now, I also wanted to confirm that you've picked up your post-op medications.Specifically, I need to know if you have the Oxycodone 10 milligrams that you're supposed to take orally, four times a day, as needed.Can you confirm that for me?
+Patient: Yep. I've got it.
+Nurse: Great, I'm glad to hear that.It's important to have your medications ready for your recovery.Now, I also need to review your medications and confirm that there are no medications you need to stop prior to the procedure.Can you confirm that for me?
+Patient: Yep. I can confirm that too.
+Nurse: Great, I'm glad to hear that.It's essential to ensure that you're not taking any medications that could interfere with your procedure.Now, I'd like to end on a positive note.I'd love to know what you're looking forward to doing with your new knee after your recovery.
+Patient: With my new knee.I would love toenjoy hiking again. I I used to really love hiking, and I wanna get backweek.For sure. That'd be really nice.
+Nurse: That sounds wonderful!It's great to hear that you're looking forward to getting back to doing the things you love after your recovery.Now, before we finish up, do you have any questions about the procedure or anything else that you're unsure about?
+Patient: Then I'm unsure about
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: No. I'm just a little nervous, but I feel more reassured withthe information that you told me.
+Nurse: I understand that you're feeling a bit nervous, and that's completely normal.I'm here to help you through this process and make sure you're comfortable and informed.If you have any questions or concerns at any point, don't hesitate to call me.My callback number is 641-381-6523.You can reach me at this number anytime you need.

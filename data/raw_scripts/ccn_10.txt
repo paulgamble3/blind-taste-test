@@ -1,0 +1,57 @@
+ Nurse: Hello Jane. Could you verify your date of birth before we proceed? 
+ Patient: My date of birth is 6-8-2001. 
+ Nurse: I appreciate your cooperation. I am a nurse here, working alongside your oncologist. We have information suggesting you might have been exposed to COVID-19. Can we discuss this? 
+ Patient: Uh, yeah. So, uh, well, a few days ago, I spent some time with my niece who later tested positive. And so now I have some symptoms and I'm concerned if I might have caught COVID too. 
+ Nurse: I see. Could you tell me when this exposure happened? 
+ Patient: Uh, when I, um, when I, oh, um, I saw her three days ago. 
+ Nurse: Understood, three days ago. There is still a small window open for action here. So, what symptoms are you experiencing currently? 
+ Patient: Um, well, today I've been coughing a bit. My, I don't know, my back and my shoulders are kind of sore and, um, maybe I've had a fever and a bit of a, like a scratchy throat. 
+ Nurse: Thank you for the information. That was indeed the right thing to do - to alert us about your exposure. Given your high risk, I should ask, did these symptoms start appearing before or after you were exposed? 
+ Patient: Uh, the symptoms started yesterday. 
+ Nurse: So they began yesterday? 
+ Patient: Yes, which is why I'm, which is why I'm concerned. 
+ Nurse: Noted. And, regarding the cough? 
+ Patient: Uh, the cough? 
+ Nurse: Yes, you have a cough, right? 
+ Patient: Yeah. 
+ Nurse: How about any muscle soreness? 
+ Patient: Yeah, my back and my shoulders, just, just a little achy, I would say. Nothing, nothing major at the moment. 
+ Nurse: Any trouble with breath? 
+ Patient: No. 
+ Nurse: I see. Since you've had all your previous vaccinations, based on this record, it appears you got the Moderna variant. Can you confirm? 
+ Patient: Yes, I had, uh, the Moderna vaccine and then I had a booster. 
+ Nurse: Perfect. What I recommend is that we arrange for you to come in and conduct a test to confirm whether you are positive or negative. Having been exposed three days ago, have you already taken a rapid test? 
+ Patient: Not yet. Uh, I, I do have a rapid test here. Mm-hmm. But I wasn't sure because I heard that sometimes those aren't accurate, so I didn't know if it'd be better to go get tested somewhere else. 
+ Nurse: Well, it depends on the type of rapid test. Could you tell me where you got it from? Was it mailed to you or provided by your oncologist's office? 
+ Patient: Uh, it was mailed to me. 
+ Nurse: Good to know. However, you haven't taken an antigen test as yet? 
+ Patient: I'm sorry, is the antigen, which test is that? 
+ Nurse: You mean the antigen self-test? 
+ Patient: Oh, is that the rapid test? 
+ Nurse: Indeed. 
+ Patient: Uh, not yet, no. 
+ Nurse: I see. Let me clarify something here: there is a treatment, Laxavib, that can be administered within a 5-day window. But this would require two tests - two antigen tests, specifically - that confirm you either have COVID or don't. You haven't taken one yet, correct? 
+ Patient: Uh, no, I haven't taken any test. 
+ Nurse: All right. In that case, we recommend you to enter the doctor's office with a mask, so we can test you. If you test positive, we have an antiviral medication, plexavib, at our disposal that we could administer. Are you open to that? The course of the medication requires you to take multiple doses, but it effectively combats the virus associated with COVID. 
+ Patient: Mm-hmm. So, so this would only help me if I do have COVID. It wouldn't help me with anything else. 
+ Nurse: Yes, we would administer it specifically because you are at risk due to your cancer. Our priority is to ensure your safety. So, we would like to get you tested asap and, if necessary, provide you with a full 3-day course of the medication. 
+ Patient: Mm-hmm. Okay. 
+ Nurse: Sorry for any confusion earlier. The medication involves taking three pills twice a day for five days, equating to roughly 30 pills in total. 
+ Patient: Okay. 
+ Nurse: Does that seem like a lot of tablets? 
+ Patient: Oh, it does. It means a lot. Yes. Uh, and I, uh, since I've, um, well, I, I have a history of breast cancer, so it's, I, I'm, um, I'm used to having to, uh, take a medication frequently, but, um, well, I guess the first step is to see if I have COVID, correct? 
+ Nurse: Precisely. We should first determine if you have COVID or not. 
+ Patient: All right. So I should, I should first get tested. 
+ Nurse: Absolutely. We could arrange the test or you could conduct two separate tests 48 hours apart. 
+ Patient: Well, since I would like to isolate myself and just rest, I think I'll do the two tests here. 
+ Nurse: So you're planning to do the two tests at your place? 
+ Patient: Yes. 
+ Nurse: All right. In that case, we will follow up with you in two days, after 48 hours. You can take the first test today and the next one 48 hours later. We will check on how you're doing and provide appropriate instructions for isolation if you've tested positive. On the fifth day, we can decide if it's too late to start on plexavib. 
+ Patient: All right. Yes. Because I, I'm not clear on, you know, if I do have COVID, how many days I need to stay at home or, or if I could go back to work, but wear a mask. 
+ Nurse: Ideally, you should work from home until we can confirm a negative COVID result for you. Given your compromised immune system, we want to ensure you stay safe. 
+ Patient: I understand. Yeah, it's difficult because I run a bakery. And so we just expanded, opened new locations and, and right now is kind of a crucial moment for the business. So I guess I'll see if there's any, any way I can work from here. 
+ Nurse: We understand your professional commitments, but your safety remains our primary concern. Given your weakened immune state and recent exposure, going to work could induce serious complications such as shortness of breath or fever. Our advice is to stay at home, wear a mask, and focus on recovery until the 10th day minimum. 
+ Patient: I understand. Yes. 
+ Nurse: Have you considered deputizing someone in your stead? 
+ Patient: Well, I have the, you know, my employees who are managing each location and, and I know they can handle the day to day. But I was planning to be a lot more involved, particularly in promoting our business and so on. 
+ Nurse: We understand your predicament but prioritize your medical safety. You may have to take a step back for a bit to ensure you don't suffer a setback due to your weakened immunity. As of now, we recommend isolating and focusing on recovering at home. Okay? Do you have any other questions? Remember we'll follow up with a phone call in two days. 

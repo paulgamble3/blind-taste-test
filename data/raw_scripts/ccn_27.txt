@@ -1,0 +1,80 @@
+ Nurse: Hi there, Jane. I'm Cheryl, a nurse case manager at Walnut Creek Health. How are you feeling today? 
+ Patient: I'm doing okay. 
+ Nurse: That's good to hear. Now, I just need to verify your full name, including first and last, as well as your date of birth. This is purely to protect your health information and to ensure I'm engaging with the correct patient. 
+ Patient: Oh, okay. Yeah, it's Jane Doe. And my birthday is 6-8-2001. 
+ Nurse: Wonderful, Jane. I appreciate your verification. I notice you have a colonoscopy on your schedule for tomorrow. I'm checking in to ensure you are at ease and to address any questions you might have. 
+ Patient: Oh, yeah. I'm definitely dreading this. So, yeah, I have the stuff that they ordered for me, the Go Lightly, I guess it's called. And so, I mean, I looked at the bottle and... 
+ Nurse: I must correct myself. The appointment is actually a few days from now. Please go ahead with your questions or concerns. 
+ Patient: Yes. Yeah, I have to double check my schedule. But I think it's what, in two days? 
+ Nurse: Correct, it's in two days. 
+ Patient: Okay. So, yeah, so I picked up the stuff early and I have it. And I was reading, you know, the instructions that they have on the bottle. And I guess I don't quite understand why I need to take all this. 
+ Nurse: The Go Lightly is designed to thoroughly cleanse your large intestines. It's to ensure clarity during your colonoscopy, making it easier for doctors to examine the tissues and obtain any necessary samples. 
+ Patient: Oh, okay. Yeah, it just seems like so much. Like, why couldn't I just take, like, I don't know, a laxative or something? I mean, this thing's on the bottle. It says I'm going to need to drink like 12 glasses of water every 15 minutes. Like, that is a lot. 
+ Nurse: It does sound like a lot. This regimen assists in hydration, which is crucial as you can't have your regular meals. We aim to keep you from becoming dehydrated. 
+ Patient: Okay, so I don't have to worry about getting dehydrated with doing all this. So I guess I'm I just, I don't know, the directions are kind of confusing. So I should start. So my procedure is in two days. So I should start tomorrow at five o'clock, right? 
+ Nurse: That's absolutely correct. 
+ Patient: And then drink the 12 glasses every 15 to 20 minutes. And then this is where I kind of get confused. It says starting at 10 o'clock or 68 hours before your appointment. So I guess that's the part I'm confused about. What time would I start the second part of this? 
+ Nurse: The suggested timings are provided so you can align the prep with your lifestyle and appointment schedule. The 10pm start is an option, as is beginning 68 hours before your appointment. Depending on your personal schedule and appointment time, you can choose which option suits you best.  
+ Patient: Oh, I don't know if that makes any sense to. 
+ Nurse: Let us work it out together. Let's rewind from your appointment time of 10am. If we consider the 8-hour option, that puts the start time at 2am. So you could choose to begin at 10pm or at 2am, depending on your preference and sleeping habits. This is to accommodate various patient lifestyles and appointment times. 
+ Patient: Okay, so then, yeah, I guess I just need to figure out what makes more sense. So if I started at 10 o'clock at night, it says finish the remainder of the prep drinking. Let's see, eight ounce glass every 15 to 20 minutes again. Is that is that going to be the same amount as the beginning like or is it less? It doesn't tell me how much is going to be left after the 12 class. 
+ Nurse: The directions advise consuming the remainder of the preparation during the second phase. So, after the initial 12 glasses at 5pm, whatever is left will be spread out from your start time in the evening (either 10pm or based on the 68-hour guideline) until you've finished the solution. 
+ Patient: I'm sorry, I'm being difficult here. 
+ Nurse: Absolutely not at all. 
+ Patient: I guess my question was, so at five o'clock, I drink those 12 glasses, correct? And then, yes, it doesn't say how many glasses I have to drink at 10. Is it going to be 12 glasses again? Like is when I drink that 12, is that bottle going to be halfway empty? Or is it going to just be a couple glasses? 
+ Nurse: Ah, I understand your question now. In the first part, you are directed to consume 12 glasses. For the second phase, you finish what's left of the preparation solution. So the quantity may vary, but it will be whatever remains in the bottle.  
+ Patient: Okay, I got that. I, I guess I was just for planning the time it was going to take me if it was going to be about the same about another 12 glasses. 
+ Nurse: You've grasped the concept correctly. In the second phase, you're just finishing off the leftover preparation solution, drinking an 8-ounce glass every 15-20 minutes. 
+ Patient: Okay, okay. Oh, sounds terrible. But yeah, I will definitely start that tomorrow. And then I've heard that it doesn't taste very well. My friend, you know, they just had to have this done a few months back. Um, is there any way that I could add something to it? Or? I mean, I know we're kind of short time limit here. Are there other like pills I could just take? Or I just can't imagine drinking all this stuff? 
+ Nurse: We always recommend following the instructions as closely as possible to prevent any complications. The prep solution not only keeps you hydrated, but you should also consume other clear liquids once the preparation process starts. 
+ Patient: Okay. But I mean, can I add like Gatorade power powder or something to the go lightly to make it taste better? 
+ Nurse: I will need to check on this since there isn't an indication that this is allowed. Ah, from the instructions, it stipulates that you can only consume water after you start the prep. 
+ Patient: Okay, so no Gatorade. Okay, yeah, I might have to try that because I mean, I haven't had to do this before. So I don't know what the taste is. But my friend warned me that it's not that good. 
+ Nurse: I understand your concerns. Frankly, since the instructions permit the use of mouthwash, it signals that the taste may not be enjoyable.  
+ Patient: Yeah, it's gonna be gross. I know it. But, um, well, okay, well, so that makes more sense. So yeah, I'll definitely pick up some, some lollipops or candy or something just to help me a lot. 
+ Nurse: That should help. Remember to pick up hard candy, and avoid red or purple flavors. 
+ Patient: Okay, yeah. I'll have to get that and make sure I have some mouthwash because I'm not looking forward to this. 
+ Nurse: Be sure to choose a mouthwash without alcohol. 
+ Patient: Oh, okay. Yeah. What, why is that? 
+ Nurse: From what I recall, mouthwash that contains alcohol often includes drying agents. This could dehydrate your mouth, which is not what we want before a procedure. Let me quickly check the specifics for you. In the meantime, please feel free to ask any other questions you might have. 
+ Patient: About the mouthwash, no. I guess I'm still trying to figure out why I'm even having this procedure. I mean, um, you know, I haven't been, you know, the, the belly aches and all that stuff, but I don't know. I guess I, I, I'm just kind of nervous for this. 
+ Nurse: Understandable. Can you tell me which part of the procedure is most concerning to you? 
+ Patient: Well, I mean, honestly, I guess I'm nervous about the results. My, my great uncle had colon cancer. Um, and you know, so I, I've been really trying to live healthy. I mean, I work out a lot. I like hiking and, you know, doing all those things outside and getting active. And I've been following a Mediterranean diet for a few years. And, um, you know, I thought I was doing all the wrong things, so I don't, I just don't know why I'm having all this pain. And now I'm noticing blood when I use the bathroom and I'm just kind of nervous about the results. 
+ Nurse: It's completely normal to feel nervous given your circumstances. Despite a proactive approach to wellness through an active lifestyle and a healthy diet, certain factors such as genetics or family history can predispose us to specific conditions. Having a living relative who had colon cancer doesn't necessarily mean you will share the same diagnosis, but it does increase your risk slightly. This is why undergoing preventive procedures like a colonoscopy can be valuable in detecting potential issues early. The procedure allows clinicians to physically examine your tissues and sample any abnormalities. This early detection approach often results in more effective treatment plans if something is found.  
+ Patient: Hmm. Okay. Well, yeah, you know, I definitely, I want to know sooner than later for sure. Mm hmm. Like my uncle, he, he got diagnosed with cancer. I think it had spread so far already that, you know, his prognosis was really poor. Um, and he didn't make it that long after. So yeah, sooner the better, I guess. 
+ Nurse: Exactly. By participating in regular screenings, we improve our odds of detecting issues early. As for your question about mouthwash, those containing alcohol or sugar alcohol can raise insulin and storage hormone levels. Since you're scheduled for a procedure, we recommend sticking to a mouthwash without alcohol to avoid any potential complications.  
+ Patient: Oh, okay. I guess I never knew that about mouthwash. I will, let me look and see which one I have in here. 
+ Nurse: That's fine. The ingredient list should be easily visible on the back of the bottle. 
+ Patient: Oh, okay. So the one I have says alcohol free on it. So I guess I'm good there. 
+ Nurse: That sounds ideal! Now, would you find it useful to receive some educational material about colonoscopies? It might answer some questions and put your mind at ease. 
+ Patient: I mean, yeah, I've been googling it and you know how Google is. You hear like the horror stories of these procedures and you read about, you know, all the, the nasty outcomes. And, you know, I just want to read, you know, just some basic info on, um, you know, how long it's going to take, what they're looking for specifically. So if you have that information available, I will gladly read it. 
+ Nurse: Absolutely, I can definitely arrange that. I'll locate the relevant materials for you and email everything over. Do you access your email on a smartphone or computer?  
+ Patient: Yeah, I, I usually just use my laptop for everything, but you can definitely send it to my email address. 
+ Nurse: Perfect. Can you please confirm your email address for me? 
+ Patient: Sure. It's j.doe at gmail.com. 
+ Nurse: Got it, j.doe at gmail.com. I will compile the information you need and send it to you shortly. By the way, have you arranged transportation for the day of your procedure? 
+ Patient: Do you have my, um, my partner's going to take me. 
+ Nurse: Excellent. I also recommend leaving ample time for travel to account for possible traffic. This will guarantee you make it to the hospital punctually.  
+ Patient: Oh, I know. It's just terrible around here. Okay. Yeah. As soon as they confirm that time, you know, we'll make sure we leave an hour early. I mean, we're about 20 minute drive, but just in case, you know, getting in there and parking all that stuff. 
+ Nurse: A sound plan indeed. Do you have any other questions or concerns we can discuss? 
+ Patient: I guess the only other thing I was curious about is, you know, afterwards, um, what's, what type of medication will they give me for pain or what should I expect with that? 
+ Nurse: Following the procedure, you may be given pain medication if necessary. In most cases, this would be something like Tylenol to be used as needed. It wouldn't be anything stronger unless required due to specific circumstances.  
+ Patient: Why have Advil here? Can I take that? 
+ Nurse: Advil, an NSAID, generally isn't recommended immediately after a procedure. As Advil thins the blood, there's a risk of bleeding following your procedure. Hence, Tylenol would be a safer choice for you. 
+ Patient: Okay. 
+ Nurse: Exactly. 
+ Patient: Okay. Well, I guess when I get that candy today, I'll stop and get some Tylenol then. Just in case I will. And then I'm sure they'll go over this with, with me, you know, after I'm done with my procedure. And I, I just didn't think to ask my GI doctor when we were talking about doing this. Um, what, when do you think I'll be okay to go back to work? I mean, I, I work for a tech company, so they're a little bit flexible with working at home, but I told them, you know, I would just probably take one extra day off and be back. Do you think that's reasonable? 
+ Nurse: That sounds perfectly reasonable. The procedure won't require an overnight hospital stay, and barring any complications, you should be able to return to work the next day or the day after at the latest. 
+ Patient: Okay, good. Okay. Yeah. Cause I don't want to miss too much work for this. Um, I've already taken, you know, the day before and the day of and the day after. So I think hopefully everything will be fine. 
+ Nurse: Yes, it's always beneficial to maintain a positive mindset. 
+ Patient: Yeah, I'm trying. 
+ Nurse: Excellent! Tomorrow at 5 o'clock, your preparation begins. Don't forget to set a reminder. 
+ Patient: Oh boy. 
+ Nurse: Yes, it's crucial not to miss your appointment after preparing in this manner. 
+ Patient: Oh no. Yeah. I will set two alarms just to make sure. 
+ Nurse: Great. So far, we've clarified the preparation steps, outlined what to expect, discussed transportation to and from the procedure, and have a plan in place for your return to work. Additionally, I've promised you some informational email material about colonoscopies. Are there any remaining questions or concerns I can help with? 
+ Patient: I think that was it. 
+ Nurse: Alright then. Remember, if any other questions arise after we've ended our call, do not hesitate to get in touch. My contact number can be found in the caller ID, or you can jot it down now: it's 333-444-5555. 
+ Patient: No, it came up when you called, so I'll just save it to my phone for next time. 
+ Nurse: Fantastic. It was a pleasure talking to you, Jane. Best of luck with your procedure. 
+ Patient: All right. Thank you. 

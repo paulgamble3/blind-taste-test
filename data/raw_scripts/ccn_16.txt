@@ -1,0 +1,70 @@
+ Nurse: Hi Jane, my name is Stephanie. I'm a nurse care manager. I work with Walnut Creek Health. How are you? 
+ Patient: Hi, I'm good, thank you. 
+ Nurse: Wonderful, I'm reaching out to discuss your progress following your hip surgery. Can I have your birth date for verification, please? 
+ Patient: Yes, six eight two thousand one. 
+ Nurse: Thank you. So how's everything progressing for you following your major surgery? 
+ Patient: Yeah I mean they're doing.... I'm doing pretty well. I'm able to move around with my walker. the only thing I don't like is that I had to move in with my daughter. 
+ Nurse: I see. Can you share the good aspects of being at your daughter's place? How are you managing there? 
+ Patient: Well it's okay, but we've got the grandkids here too so it's always quite loud and pretty busy. 
+ Nurse: What are the ages of your grandkids? Can you tell me how old they are? 
+ Patient: The grandkids. well the youngest one right now is nine and then the older one is. they just turned 14 So there's only two With my daughter. Yeah, but in total I have seven grandkids. 
+ Nurse: Fascinating. Could you tell me about the youngest one? How old is he/she? 
+ Patient: The youngest is nine. That's my daughter's here at the apartment. 
+ Nurse: And what about the oldest? 
+ Patient: 17. But that's my son's. 
+ Nurse: Let's talk about your children. How many do you have? 
+ Patient: I have three children. 
+ Nurse: Do they all live locally? Or do they live far from you? 
+ Patient: My daughter, my two sons, they live about an hour away. 
+ Nurse: Intriguing, who assists you most frequently? 
+ Patient: oh definitely my daughter that I'm living with. 
+ Nurse: I see, very helpful. Let's discuss your mobility – are you able to get around as anticipated post-surgery? Can you share your experiences pre and post-operation? How do the two scenarios compare?  
+ Patient: oh let me tell you before the surgery I was really having a hard time getting around. They were giving me these medicines and it wasn't working. I was feeling really really stiff and a lot of pain. But after the surgery, I'm really, I have a little bit of pain when I'm getting around but with the walker, I feel already a lot better. 
+ Nurse: Excellent! It appears surgery was indeed beneficial for you. 
+ Patient: Yeah, I think it was the right choice. 
+ Nurse: Terrific. Let's chat about your incision. Have you had the opportunity to have it reviewed at a doctor's office? Have you attended your post-op appointment? 
+ Patient: No, I did not have that appointment. Are you having… Okay. 
+ Nurse: Good, let's ensure you schedule that for this week or the next then. Are you comfortable making the call to arrange your post-operation appointment at the surgeon's office? 
+ Patient: Oh, sure. No problem. 
+ Nurse: Perfect. Now tell me about your incision site. Is there still a bandage? How does it appear to you? 
+ Patient: No, there's no bandage on there, but I think it looks good. It looks like it's healing. 
+ Nurse: Excellent. Could you describe how the healing process looks to you? Is it starting to scab over? Are there any open areas? 
+ Patient: yeah it looks open it. I'm sorry it's not open. it looks clean. it's starting to to look pretty good. it's like a little pink color. 
+ Nurse: Alright, are there any scabs beginning to form on the incision site? 
+ Patient: no really okay alright. 
+ Nurse: So it seems the incision is healing well. Have you experienced any fever, chills, headaches, or anything unusual in the recent days or weeks? 
+ Patient: No, nothing like that. 
+ Nurse: Superb. The support from your daughter is consistent, and she's able to take you to your appointments? 
+ Patient: Yes, yeah, she takes me to those appointments. 
+ Nurse: And is she preparing meals for you lately? 
+ Patient: Which I don't love, I'm a much better cook than her, and I love to cook, so I want to able to do that on my own. 
+ Nurse: Noted. Have you participated in any physical therapy sessions recently? 
+ Patient: Not since I've been at my daughter's. I had some when I was at the rehab facility though. 
+ Nurse: Well, how was your rehab doing? Did you feel it was helping you regain your independence? I believe you're walking with a walker, correct? 
+ Patient: Yeah, and I, yeah, I still am using it. 
+ Nurse: Good to hear. It seems appropriate to arrange some physical therapy for you in the convenience of your home for a while, then we can assess how you do and perhaps progress to outpatient therapy. How are you faring with weight bearing on your operated leg? 
+ Patient: No, I would have put a good amount of weight on it. 
+ Nurse: In that case, how about we refer you for outpatient physical therapy? Considering how positively you're progressing, it seems unnecessary to have a nurse visit your house, as long as your incision continues to heal well. Do you have a preferred PT location? 
+ Patient: Well, I thought they were supposed to come to my daughter's house. 
+ Nurse: Indeed, it's possible to arrange for a home visit. However, given your progress and comfort level, outpatient therapy might be suitable. Of course, we can first send a home-care team including physical therapy for a thorough evaluation. After their assessment, they can then recommend the move to outpatient therapy. Would that be acceptable? 
+ Patient: yeah i think i'd rather just have them come here so that my daughter doesn't have to take me to an appoint an extra appointment. 
+ Nurse: That's perfectly fine! We'll arrange for home-based physical therapy. Now, are you still taking Tylenol? 
+ Patient: Yes, I am taking that. 
+ Nurse: And, how about the capsaicin creme? Is that also part of your regimen? 
+ Patient: Yes, I do put that on my hip. 
+ Nurse: Great. Are you using Oxycodone? 
+ Patient: No, you know they gave that to me, but I don't think I need it. 
+ Nurse: Alright then, that's your call. Can you specify your current level of pain on a scale of 0 to 10? 
+ Patient: Well if I'm just sitting, like right now, I really have no pain, like a 0. if I'm walking around I'd say it's about a five. 
+ Nurse: I see, and how is your sleep? Are you experiencing any issues? 
+ Patient: Yes yes I am. 
+ Nurse: That's good. If your pain continues to be manageable and your sleep remains undisturbed, I'd recommend continuing with your current management. Be aware that Oxycodone can cause constipation and other undesired effects, so if you're comfortable without it, that’s for the best. However, should your pain escalate or sleep becomes impaired, we can consider supplementing your Tylenol. Please do let us know if anything changes. Are you still taking Amlodipine and Vitamin D? 
+ Patient: Yes, I am. 
+ Nurse: Amlodipine - 5 milligrams and Vitamin D - 400 international units daily? 
+ Patient: Yes. 
+ Nurse: Amazing. I'm delighted to hear your recovery is progressing well and the surgery benefitted you. Just a friendly reminder about your precautions: avoid crossing your legs until cleared by your physical therapist, refrain from twisting your body or bending over, especially to squat. It's critical that your incision heals both externally and internally properly. Also, watch out for potential hazards like rugs at your daughter's place that could lead to trips or falls. 
+ Patient: She does have some in the kids rooms but I don't really go in there. 
+ Nurse: That's wise, try to steer clear from those areas. We shall contact you next week to check your progress, with a focus on your physical therapy progress. We understand the importance you place on returning to your own home. If all continues well, you should be able to return there in a reasonable timeframe. 
+ Patient: Yeah, I hope so. I really want to get back there. 
+ Nurse: Of course. Is there anything else I can assist you with? 
+ Patient: No, no, I don't think so. 

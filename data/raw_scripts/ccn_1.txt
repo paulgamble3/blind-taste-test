@@ -1,0 +1,26 @@
+ Nurse: Nice to hear that. Are your children back home for the summer?  
+ Patient: Yeah, kids are home from summer, but you know, I was not able to run around with them like I used to. 
+ Nurse: I see, that must be tough. Tell me about your pain levels considering it's been a week since your surgery. How are you managing the pain at home? 
+ Patient: I mean, pain is just pain. I can definitely handle pain. It's not really a problem, you know. It's just... 
+ Nurse: Understood. Now, let's go over some details. Are there any specific concerns you have that I should address at this moment? 
+ Patient: I mean, I guess I was looking at, you know, kind of the site where I had my surgery, and it's not looking the best. 
+ Nurse: Ah, makes sense. I was about to ask you about your surgical site. Has there been any redness, swelling? Could you describe its current condition?  
+ Patient: Well, I guess it's a bit red, and my partner gave me some vasatracin that she got at Walgreens, and you know, she was like, yeah, this is going to help for infection and stuff. So I'm basically just putting that on, but yeah, it's kind of red and kind of leaking a little, so... 
+ Nurse: Do you also have a fever by any chance? 
+ Patient: I don't know. My wife isn't home, so I'm not able to check my temperature, but I don't really, you know... Fever can't stop me anyway. 
+ Nurse: Nevertheless, it's essential to get your surgical site examined. I am certain you're taking all necessary precautions, but make sure to prevent friction from clothing or belts on the affected area. Loose fitting clothes would work best. 
+ Patient: Yeah, I've been, you know, it's pretty much summertime where I am, so I've just been wearing loose shorts, and it seems to be rubbing about it. It's just, you know, now my kids are back and they're not in school, so you know, it's kind of hard to running around. 
+ Nurse: I see. If the site appears red and discharge is present, it would be wise to schedule an appointment with your primary care doctor and have it inspected. Sorry, you were saying? 
+ Patient: I was just thinking, can't I just put that bacitracin that my wife gave me? 
+ Nurse: Bacitracin can be helpful for minor cuts and wounds, but considering the circumstances, we don't want to risk a potential infection post-surgery. It would be safer to get it inspected. Your body's defenses aren't as strong after a major procedure like surgery, leaving it vulnerable to infections. Though bacitracin is certainly advantageous, it would be prudent to seek additional medical attention in this case. 
+ Patient: Okay. I mean, I guess I can schedule an appointment. Today's Tuesday. I guess I can go see them sometime next week. 
+ Nurse: That sounds like a plan. Keep in mind, today's Tuesday, July 11th. If you experience nausea, headaches or any other unusual symptoms, I suggest visiting an urgent care facility. Monitoring your symptoms is critical, given the discharge from your surgery site. You may want to limit physical activities during summer and allow your body time to recover. 
+ Patient: Yeah, I know. I mean, but I have this hernia repair, so I'm finally feeling better. Like I can lift my kids up and down again, so on. Cause at first it was causing me a lot of pain in my groin. 
+ Nurse: Your vitality post-surgery is promising to hear. However, it's still crucial to remember few tips to ensure proper post-surgery care. My main focus today was to assess your condition following the surgery. Apart from the redness, is there anything else that worries you? Is there any further assistance I can provide at this time? 
+ Patient: No, I think that I think I'm doing pretty good. 
+ Nurse: That's good to hear. Remember, you can contact me anytime and if appointments are hard to come by, let me know. I can help you find a local urgent care center and additional resources if needed. Stay in touch. 
+ Patient: Okay, and so if I call my doctor and he says, Oh, you know, cause sometimes they say 'Oh, I don't have another appointment for two months' and he doesn't give me an appointment. Can you help me with that? or what do I do? 
+ Nurse: Certainly, if you face any such difficulties, please give me a call. We can try reaching out to the surgeon's office who oversaw your surgery for an appointment. Alternatively, I can assist you in finding the nearest urgent care facility based on the situation that day. We'll tackle the issues as they arise. 
+ Patient: Because sometimes, I feel like doctors listen better If there's a nurse there. So if you're helping me, it feels like they'd probably give me an earlier appointment rather than if I just called by myself, but I will try first. 
+ Nurse: Indeed! That's a good approach. I'm here to assist you. Remember to keep me updated. 
+ Patient: Okay, well thank you so much. 

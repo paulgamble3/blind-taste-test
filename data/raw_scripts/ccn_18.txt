@@ -1,0 +1,34 @@
+ Nurse: I am currently reviewing your chart and I have a few things to discuss with you. Primarily, I would like to understand how you're faring since your total hip replacement? How are the medications working, are you experiencing any pain and how well is your surgical wound healing? Could you share these details with me? 
+ Patient: Oh yeah, well I've had a lot going on...... 
+ Nurse: I see you're adjusting to the changes. Regarding your pain, could you describe its current intensity? 
+ Patient: [Patient response] 
+ Nurse: Excellent, no pain at the moment. And when do you typically experience pain? 
+ Patient: [Patient response] 
+ Nurse: Rather than dealing with the pain once it starts, it could be beneficial to take preventive measures. I see that you have been prescribed Tylenol. It would be a good idea to take a dose about 15 to 20 minutes before you start moving around, to help reduce discomfort. 
+ Patient: [Patient response] 
+ Nurse: Noted. I also see you have been prescribed capsaicin. When do you usually apply it? 
+ Patient: [Patient response] 
+ Nurse: Understood. I would recommend using gloves while applying the capsaicin, as it can cause discomfort if it comes into contact with sensitive areas, like your eyes, after application. 
+ Patient: [Patient response] 
+ Nurse: Exactly. It's better to be safe. Moving on, any other methods you're currently using to manage your pain? 
+ Patient: [Patient response] 
+ Nurse: Alright. However, while using an ice pack, it's best to keep a limit of 20 minutes. Prolonged application can lead to unnecessary numbness and potentially harm the skin. 
+ Patient: [Patient response] 
+ Nurse: Indeed, it's beneficial to learn these things. Remember, only for 20 minutes. Now, looking at your chart, it seems you also have oxycodone? 
+ Patient: [Patient response] 
+ Nurse: Certainly, concerns about addiction are valid but remember the medications are prescribed to manage your pain effectively. If the pain becomes unbearable and previous measures don't help, you can consider taking the oxycodone. 
+ Patient: [Patient response] 
+ Nurse: I respect your decisions and anything we discuss is here aimed at ensuring your comfortable recovery. Speaking of which, I see you are also taking amlodipine for high blood pressure and vitamin D for your bones, how are these working for you? 
+ Patient: [Patient response] 
+ Nurse: That's good. Now, let's discuss your mobility. How comfortable are you moving around in your daughter's home? 
+ Patient: [Patient response] 
+ Nurse: That's wonderful. Do you experience any pain when using the walker? Are there any objects or rugs on the floor that might lead to possible falls? 
+ Patient: [Patient response] 
+ Nurse: Well, safety during recovery is paramount, so it's essential to prevent situations that might lead to falls. We will get our physical and occupational therapists to come in. 
+ Patient: [Patient response] 
+ Nurse: I assure you, all these measures are meant to ensure your safe and comfortable recovery. You will soon have a team that consists of an Occupational Therapist, Physical Therapist, Home Health RN and Home Health Aide. 
+ Patient: [Patient response] 
+ Nurse: That's wonderful. Their aim will not only be to help you but also reduce your burden so you can focus on your recovery. 
+ Patient: [Patient response] 
+ Nurse: That's the spirit! Aim to take your pain medication ahead of time to prevent discomfort. And if you need anything or have any more questions, feel free to contact us. 
+ Patient: [Patient response] 

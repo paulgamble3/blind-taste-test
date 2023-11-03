@@ -1,0 +1,49 @@
+ Nurse: Excellent choice. Before we delve into your health concerns, I need to establish your identity. Could I please confirm your full name and date of birth? 
+ Patient: Sure thing. My name is John Doe. My date of birth is 6-8-2001. 
+ Nurse: That's just right. Before we jump into the deep end, let's break the ice and be on the same page. How are you faring at present?  
+ Patient: I'm doing alright. I guess I'm looking forward to talking to somebody about what's happening with my Parkinson's. 
+ Nurse: That's commendable, John. I'm here to listen. What's bothering you most about your Parkinson's disease?  
+ Patient: I guess I'm just kind of curious about getting some help around the house in terms of making sure that everything is safe here and that I can stay here as long as possible. I do not want to leave somewhere other than my own home. So I want to do everything I can to, you know, if I have to get in physical therapy and occupational therapy and stuff, I want to get it all done here and get that all set up. 
+ Nurse: That's an admirable mindset, John. It sounds like you're ready to make the necessary efforts to maintain your independence, right? 
+ Patient: Yeah, I am. You know, and I've been having just little minor falls around the house. So I just, you know, getting concerned that I don't want that to keep happening. 
+ Nurse: That's very responsible of you, John. I don't want you to keep falling either. The medical profession never wants to see a patient fall. It's important we learn more about these falls, even though you've referred to them as minor. We need to ensure your safety. So, may I ask further about these falls? My objective is not to uproot you from your comfort zone but aim to keep you safe in your home. Let's discuss how we can make your home a safer place if needed. 
+ Patient: That's good to hear. 
+ Nurse: That's wonderful, John. Can you shed more light on the instances when these falls occur? 
+ Patient: It's not really anything terrible. Just every once in a while it seems like I lose my balance a little bit or a little bit more often recently than before maybe. So I just want to make sure, you know, if I'm not using my walker especially, I sometimes, you know, just have a little trip or fall. 
+ Nurse: When these episodes of tripping or falling occur, do you come in contact or hit any objects?  
+ Patient: No. No. Just kind of get, you know, just kind of either lose my balance and kind of get a hand on the floor or grab onto something. I'll do as many of them as I, if I can. 
+ Nurse: That's fortunate, John. 
+ Patient: I'm not hitting anything luckily. 
+ Nurse: That's a relief. Has there been any breakage of your skin due to these incidents? 
+ Patient: No. No. 
+ Nurse: And any bruises? 
+ Patient: Not that I've noticed. 
+ Nurse: That's good news. Have you had any struggle getting back on your feet after a fall? 
+ Patient: Generally not. No. 
+ Nurse: That's positive. Have there been any instances where you might have been on the floor longer than you expected or perhaps woke up on the ground?  
+ Patient: Oh no. No. No. Nothing like that. 
+ Nurse: I had to confirm to ascertain any possible loss of consciousness. It's a relief to hear there's been nothing of that sort. Your concerns about these falls are certainly valid. While we can be grateful they've been minor so far, the goal is to prevent such incidents in the future. You've expressed your willingness to work with a therapy team, which is excellent. You also mentioned the need for some in-home support, which makes me think of possible caregiver involvement. Are you familiar with what a caregiver does? 
+ Patient: I mean, I think I have an idea, but, you know, I could use help figuring out how to set that up, I guess. 
+ Nurse: Not to worry, John. It's something we can plan together with your primary care team, who can provide a referral for a caregiver. We can also engage physical and occupational therapists as part of your care team. 
+ Patient: I do have referrals for that. 
+ Nurse: That's splendid. In that case, I can assist you in scheduling your appointments with these professionals. Let me verify the referrals in our system. Excellent - they're all set and issued. We can have your home health session, occupational therapy, and physical therapy scheduled. The home health will involve an evaluation of your home environment to identify and mitigate any risk factors for falls. Physical and occupational therapists can provide specific strategies to minimize these risks. They'll ensure that potential hazards like unsecured cords or rugs are addressed, and that necessary aids such as shower chairs or transfer bars are in place. I understand you have a walker, which they can help to adjust and ensure is suitable for your space and use. Do you feel comfortable sharing more about your knowledge and understanding of Parkinson's disease?  
+ Patient: I'm sure I could be more familiar, but I've got, I suppose, an idea. 
+ Nurse: No worries, John. I'd like to send you some educational materials from trustworthy sources. The first is from UpToDate, a resource known for its accurate and up-to-the-minute information based on latest research and evidence. The other is from UCSF Health. Their website has extensive and user-friendly resources about living with Parkinson's disease. You may find additional supportive resources on these sites. If questions arise after going over these materials, feel free to raise them to me. I can answer your queries or find the information you need if I don't already have it. Let me share my direct number with you - 333-444-5555. Moving on, let's run a quick check on your medications. Do you have the list handy? 
+ Patient: Yeah. 
+ Nurse: Excellent. You're taking aspirin daily as a preventive measure against heart attack, correct? 
+ Patient: Right. Yeah. 
+ Nurse: Splendid. What is the current dosage you are on? 
+ Patient: 325 milligrams. 
+ Nurse: That's accurate. Next, I see you're taking atorvastatin to prevent high cholesterol, which should be taken daily. The dosage for this one is?  
+ Patient: It is 10 milligrams. 
+ Nurse: Spot on! The next one is amlodipine, prescribed to manage high blood pressure. You take this one daily, too. What dosage have you been prescribed? 
+ Patient: The one that's five milligrams. 
+ Nurse: Excellent. Last but not least, I reckon you're on Cinnamet, a tablet to be taken four times per day. 
+ Patient: Right. Yes. 
+ Nurse: Wonderful. I should note that your walker needs assessment by the home healthcare nurse to ensure its suitability for your home environment and use. I acknowledge your desire to stay in your home for as long as possible and we seek to honor that priority. 
+ Patient: That is, yes. Thank you. 
+ Nurse: It's only natural, John. Are there other areas of your life we should address? Your food supply, ability to pay bills or fetch your medications? Any issues with transportation? How are you managing these? 
+ Patient: That all seems to be fine. I'm just, you know, I'm looking forward to reading what you send over about the Parkinson's and just kind of want to know about how long this whole thing, you know, how it develops. And, you know, I just want to stay in my home as long as I can. So I want to know about that. 
+ Nurse: Absolutely, John. The UpToDate link I'll be sharing will provide you with cutting-edge information about your condition. I'd encourage you to revisit this resource periodically to keep abreast of the most current research and findings. It aids in grasping how things are likely to progress. Of course, I'm here to answer any further queries or concerns. 
+ Patient: Right. Well, I will do that for sure. I will make sure to do that. 
+ Nurse: Brilliant, John. To wrap up, let's summarize. I'll be sending you links for the UpToDate and UCSF webpages dedicated to Parkinson's. I'll inform your primary care team regarding your minor falls, and we'll coordinate with occupational and physical therapists to ensure you receive the necessary support. There's certainly a lot on our plate, but with regular follow-ups and your proactive approach, I'm confident we can handle it. Remember, you can reach out to me anytime. Just give me a call. 

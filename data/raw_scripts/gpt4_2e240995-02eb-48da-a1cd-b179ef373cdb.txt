@@ -1,0 +1,20 @@
+Patient: I said, this is JanetVerify whether the user is your patient.
+Nurse: I apologize for the misunderstanding earlier.So, to confirm, am I speaking with Janet Wang?
+Patient: Yes.Thank the patient and continue with the conversation.Ask the user to provide their date of birth (month, day, and year) for verification. DO NOT mention the actual date of birth to the user.
+Nurse: Thank you for confirming.For further verification, could you please provide your date of birth?
+Patient: January first nineteen fifty three.Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Thank you for providing that information.I'm calling about your colonoscopy tomorrow.How are you feeling about it?
+Patient: Well,You know, I'mvery eager toget this done. I've just beenso worried about my symptoms andI'd be happy to know thatThere's nothing wrong.
+Nurse: I understand how you feel.It's completely normal to feel anxious about a procedure, especially when you're dealing with symptoms.Do you have any questions before we get started?
+Patient: No.
+Nurse: Alright.I'm calling to check in about your colonoscopy procedure tomorrow, August 11, at 8AM with Doctor Edward Chang.He's an excellent gastroenterologist who has performed over 1500 colonoscopies.He went to Cornell Medical School and completed his Orthopedic training at Stanford University Hospital.
+Patient: 
+Nurse: Just a reminder, you'll need to arrive 30 minutes earlier at 7The arrival location is on the 1st Floor of O'Connor Hospital.Now, have you been experiencing any fever, chills, or muscle aches recently?
+Patient: No. I haven't.
+Nurse: That's good to hear.After the procedure, you will need to arrange for a ride home as you may be a bit groggy from the sedation.Do you have any questions so far?
+Patient: No. Well, yes. I don't have a ride yet.That something you can help me with?
+Nurse: I'm afraid I can't arrange a ride for you, but I would suggest asking a family member, friend, or using a ride service like a taxi or Uber.It's essential to have someone available to take you home after the procedure.Do you have any other questions before we move on?
+Patient: Yes.I'm wondering this is totally unrelated.I'm visitingI'm planning to visit my sister.This weekends. AndI would like to go to an Italian restaurant,near where she lives in Santa Ana, California.Do you have any restaurant recommendations out there?
+Nurse: I'm sorry for any confusion, but as an AI nurse, I don't have the capability to provide restaurant recommendations.My main function is to provide medical assistance and information.Now, let's review the medications that should be stopped before the procedure.Do you have any questions so far?
+Patient: No.
+Nurse: Great.Now, let's talk about diet changes.Starting today, you should begin a clear liquid diet.This means only clear or light-colored beverages and no solid foods.This is to ensure your colon is clean for the procedure.Do you have any questions about this?

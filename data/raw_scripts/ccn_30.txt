@@ -1,0 +1,54 @@
+ Nurse: Excellent. For verification purposes, I need to confirm your full name and birth date. Could you please provide those? 
+ Patient: Sure. John Doe, 6, 8 of 2001. 
+ Nurse: Verified. Thank you, John. Let's talk about your current state. Our routine check-ins are meant to note any problems you may have - whether medication related, physical complaints, or even minor issues you may have brushed off as inconsequential. Can I know, off the top of your head, have you been experiencing any difficulties with breathing? 
+ Patient: No, no. 
+ Nurse: Good to hear. How about any irregular heartbeats? 
+ Patient: Not that I not that I can tell. 
+ Nurse: That's reassuring. An irregular heartbeat can be alarming and it's great that you are closely monitoring your body. Changing gears, are you experiencing any excessive fatigue or has your energy level remained more or less the same lately? 
+ Patient: Yeah, just same. 
+ Nurse: Got it. Any unusual swelling in your arms or legs or unexpected weight gain? 
+ Patient: No, uh-uh. 
+ Nurse: Good news. Did you notice any unusual coughing lately?  
+ Patient: Yeah, you know, I have a dry cough I guess. A dry cough I think. 
+ Nurse: I see- no production of mucus, green phlegm or anything of that nature? 
+ Patient: No. 
+ Nurse: Noted. Would you kindly disclose when you saw your doctor last? 
+ Patient: Oh, let's see. I saw him about a month ago. 
+ Nurse: Interesting. Have you had any alterations to your medications or have they remained consistent all along? 
+ Patient: No, they're the same. 
+ Nurse: Excellent. Are you able to manage with your medication refills? No issues with supply or delivery? Are you running out too early, perhaps? 
+ Patient: No. I have what I need and they seem to refill them. I'm able to get them refilled easily. 
+ Nurse: That's perfect. Now, I'd like for us to walk through your medications just to ensure that you have a clear understanding of what each one is for. Being informed is pivotal for managing your own health journey, and knowing why you take a specific medication can play a significant role in that. I count five different medications, is that the same figure you have?  
+ Patient: Okay. 
+ Nurse: Great. Would you mind informing me about each and its purpose? If you need any information clarified, feel free to ask me. 
+ Patient: Okay. Um, I don't know if I'm pronouncing them right, but, uh, I'm on a furosemide, um, Lasix, I guess, 40 milligrams once daily. Ah, here's another bottle. This one says Metoprolol. I take that twice a day. It's 50 milligrams. I have a lisinopril once daily 10 milligrams. I take an 81 milligram aspirin every day and I take a, I don't know how to pronounce this one, a, a atorvastatin? Lipitor I guess, 20 milligrams one time a day. 
+ Nurse: You’ve done quite well with the pronunciations. Now, let's go into why you take each one starting with Lasix. What's your understanding of its function? 
+ Patient: Oh I didn't know this was going to be a quiz. 
+ Nurse: No worries, it's not a quiz. It's just that understanding the reasons for taking these medications ensures better adherence to them. 
+ Patient: Well that's true. I'm going to need to read the label of some of them. Let’s see, the furosemide… it just says it's for decreasing fluid retention. 
+ Nurse: Yes, that's right. But, have you ever heard the term water pill? 
+ Patient: Or a diuretic? 
+ Nurse: That's correct! Furosemide, or Lasix as it's often called, is a diuretic, or water pill. The medication helps your body to get rid of excess fluid. Now let’s continue, are you ready to discuss Metoprolol? 
+ Patient: Okay. The Metoprolol is... it's a heart medication for my heart rate and blood pressure. 
+ Nurse: You're spot on. Metoprolol helps maintain your blood pressure within a normal range, and this is important for your heart which, due to your condition, is working quite hard. Shall we move on to Lisinopril? 
+ Patient: Okay. Lisinopril is for my blood pressure. 
+ Nurse: This is correct. Now let's talk about the aspirin. Can you share why you take it? 
+ Patient: The aspirin is for blood thinning. I take it because I had a stent placed due to coronary artery disease. 
+ Nurse: Excellent. As a note, it's important to keep your blood thin so it doesn't form small clots, especially considering the stent. These clots, if detached, could float in your bloodstream and potentially cause a stroke. Now, about Atorvastatin. Do you recall why we worry about cholesterol levels? 
+ Patient: I guess, cholesterol could clog my arteries? 
+ Nurse: That's correct, John. Higher levels of cholesterol can lead to plaque buildup in the arteries of your heart. You're doing beautifully. Now, I'd like to point out that sometimes, individuals alter their Lasix intake due to its diuretic effects. Have you noticed this? 
+ Patient: Oh, yeah. 
+ Nurse: Just a reminder, do not adjust your medication without consulting your doctor first. That would be ideal. Also, I noticed you've mentioned a dry cough. How long has this been happening? 
+ Patient: It's been going on a while. 
+ Nurse: Now, has Lisinopril been part of your regimen since the beginning or was it added more recently? 
+ Patient: No, I've been on that for quite a while. 
+ Nurse: Okay, I asked because a dry cough is a possible side effect of Lisinopril. It could be worth discussing with your physician. How often do you see them? 
+ Patient: I go in every three months. 
+ Nurse: With that reducing your visits, you could send a message regarding the cough. Does your health provider have a communication system for these purposes? 
+ Patient: Yeah, I think they have a portal. But I'll probably just call them directly. 
+ Nurse: That works as well. I suggest discussing the Lisinopril and the associated cough, and let me know the outcome. Moving forward, do you track your weight or blood pressure at home, or just at your doctor's office? 
+ Patient: No. I try to... he did tell me I'm supposed to weigh myself. I try to weigh myself a couple times a week. 
+ Nurse: At this time, weighing yourself about three times a week would be fine, especially since your weight is currently quite stable. One thing to note is to take your weight at the same time each day for accurate readings. Also, if you notice your weight is constantly increasing despite taking all medication and adhering to dietary guidelines, it could indicate a developing issue within your body. But you're doing a great job in managing your health, John. The key is to continue adhering to your regimen and reaching out to your healthcare team whenever you notice a change from your normal. 
+ Patient: That's a good reminder. 
+ Nurse: I'm glad I could help! Is there anything else you need assistance with today, John? 
+ Patient: No, I really just wanted to learn more about my medications and you were very helpful, I appreciate that. 

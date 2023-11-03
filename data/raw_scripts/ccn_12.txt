@@ -1,0 +1,56 @@
+ Nurse: Greetings John, I am Stephanie, a nursing care manager at Walnut Creek Health. How do you feel today? 
+ Patient: Oh, this shingles rash is unbearable. 
+ Nurse: It sounds like you have shingles. 
+ Patient: oh no, yeah it's... uh. I was hoping it would clear up but it's still itching and I am in pain from it. 
+ Nurse: I see. You have a rash, you itch and you feel pain. Before we proceed further, may I confirm your date of birth, please? 
+ Patient: six eight two thousand one. 
+ Nurse: Appreciated. How long have you been battling shingles now? 
+ Patient: When did you first ... I guess I started seeing the rash about a week ago. And then I saw the doctor three days ago. 
+ Nurse: I see, you had a consultation with your primary care physician. Our records indicate you received some medications. 
+ Patient: Yes, which, to be honest, I can't tell if they're helpful. I'm following all advice given and, and the only thing that relieves it is the lidocaine patches prescribed. 
+ Nurse: So the lidocaine patches are managing your symptoms. 
+ Patient: Yeah. 
+ Nurse: And you're taking the aciclovir? 
+ Patient: Yes. 
+ Nurse: You're taking it five times a day for seven days? Is that the dose you're taking? And what day of the treatment are you on? 
+ Patient: This is day three. 
+ Nurse: Noted. What about the gabapentin? 
+ Patient: That one I dose three times a day. 
+ Nurse: You're taking this three times a day, the 100 milligram dosage, correct? And you're taking the Tylenol and Acetaminophen 650 every 6 hours as needed? And, are you applying the acyclovir cream?  
+ Patient: Yes, I've been doing that. I think that one's five times a day. 
+ Nurse: Compared to your symptoms a week ago, how is your pain currently? 
+ Patient: Well, it's like the pain is in my back. So it's a sharp sort of pain. 
+ Nurse: Can you give the pain a rating on a scale from zero to ten? What is the current score? 
+ Patient: Maybe six out of ten. 
+ Nurse: And was it higher last week? Has the pain lessened at all? 
+ Patient: You know, the difference is that last week it was more of a tingling sensation with the pain. 
+ Nurse: So the tingling symptom has subsided? But you're still experiencing sharp pain in your back. Is there pain anywhere else? 
+ Patient: No, my rash is on my chest too, but that's mainly itchy at the moment. 
+ Nurse: That sounds quite uncomfortable. 
+ Patient: Oh, it's very uncomfortable. 
+ Nurse: I hear you. 
+ Patient: This is the most discomfort I've encountered in a while. 
+ Nurse: Understandably, so we need to find a way to manage the pain. It seems the pain is greater than what... Do you think it's more of nerve pain? 
+ Patient: It's hard to say. Initially, it felt nerve-like as it oscillated between burning and tingling. Honestly, if there's just something else over the counter or any other numbing option, I'd be content. The lidocaine is the only thing providing any relief presently. 
+ Nurse: We can certainly explore increasing your current medications or supplementing with other options. Speaking on prevention, have you received your shingles vaccine? 
+ Patient: No, I have not. I'd like to, but I'm curious to know if receiving it now would heal this current rash. 
+ Nurse: Unfortunately, the vaccine won't help the current infection. It's already in your system. But it can prevent future outbreaks. When you're open to getting your vaccine, we can arrange that. At the moment, do you have any open blisters? What's the state of the rash on your chest? Is it healing? 
+ Patient: I don't see any open wounds. 
+ Nurse: Do you currently have a fever? 
+ Patient: I don't feel feverish. 
+ Nurse: You mentioned you saw the doctor three days ago, when are you expected to visit again? 
+ Patient: I was told to call in a week if there's no relief. I should schedule a follow-up if necessary. 
+ Nurse: Considering you're still in pain, it doesn't appear to be improving. You certainly need something to help manage the back pain. You're adhering to all prescribed medications, which is commendable. Can I support you with anything else? How are other aspects of your life? Any difficulties with meals? Is your living environment safe? 
+ Patient: Oh yes, I've been trying to self-quarantine as I'm unsure about how contagious this could be for my wife. I'm more or less confined to the room and she brings me meals. 
+ Nurse: Continuation of isolation is a wise idea. I can seek information on the required quarantine period and get back to you. Do you have any allergies to medications? 
+ Patient: Not that I'm aware of. 
+ Nurse: Fantastic. We'll call you back, hopefully today if not tomorrow. 
+ Patient: I have a question about the acyclovir. If the rash resolves before the seven-day course ends, do I continue the pills? I notice that other areas of my skin are getting dry and I wonder if I must complete the entire prescription if the rash resolves. 
+ Nurse: Considering it's the third day of your course, finishing the acyclovir is essential. The dryness might be a side effect as the medication's role is to dry out the rash. However, it seems it's affecting other parts of your skin. Perhaps using a moisturizer or lotion on unrelated areas could help in the interim and stay hydrated. But it's crucial to complete the acyclovir. 
+ Patient: I'm trying. I worry that if my skin is drying out this quickly, where will I be at the end of the week? But I'll uphold the course. 
+ Nurse: Do you have any other queries or concerns? 
+ Patient: Not really. I'm fortunate enough to be able to work from home. However, how contagious is shingles? 
+ Nurse: I'd have to verify that. I'll ask the doctor and then update you. In the meantime, please continue with the isolation. I believe as long as there are no open sores - you confirmed none right? 
+ Patient: Correct. 
+ Nurse: And no fever. Right, I'll confirm whether you're contagious or not. However, for the moment, keep up the isolation. I should get an answer about pain management and quarantine period before the day ends. I'll call you back. What is the best number I can reach you on?  
+ Patient: The best number is this one. 222-333-4444. 

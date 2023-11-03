@@ -1,0 +1,33 @@
+Patient: Sure.
+Nurse: Excellent.Just a reminder, you will need to arrive 30 minutes earlier at 7Remember, your arrival location is on the 1st Floor Pre-op Suite at 1111 Parnassus Ave in San Francisco.Can you confirm if you've noted down these details?
+Patient: Yeah. I have that. Why do I have to be there early?
+Nurse: Great that you've noted the details.You're required to arrive early to allow time for check-in procedures, changing into a hospital gown, and to answer any remaining questions you may have.This also allows time for the nursing staff to prepare you for the procedure comfortably without any rush.Is that clear?
+Patient: Oh, yeah, thank you.
+Nurse: You're welcome.Moving on, I need to check something important with you.Do you currently have a fever, chills, or muscle aches?
+Patient: And no, I do not.
+Nurse: That's good to hear.Now, remember, after your colonoscopy, you'll need to arrange for a ride home as it's not safe for you to drive or take public transportation alone due to the sedation you'll be given during the procedure.Have you managed to secure a ride home?
+Patient: Oh, yes. I I my husband is gonna take me.
+Nurse: Perfect, it's nice to hear you've arranged for your husband to take you home.Now, let's talk about medications.
+Patient: UpOkay.
+Nurse: Certain medications need to be stopped before your colonoscopy to avoid any potential complications.Did your doctor provide you with a list of such medications, and if so, were you able to get all the necessary prescriptions clarified?
+Patient: Yeah. I I think he gave me a list
+Nurse: That's great.
+Patient: I haven't really taken anything.
+Nurse: Perfect.It's really important to strictly follow the instructions you received regarding those medications, so it's good that you have been doing so.Next, let's discuss the required diet changes you should make before your colonoscopy.Starting from today, you should begin a clear liquid diet.You're allowed to consume clear or light colored beverages, but please avoid any solid foods.Are you clear about the dietary restrictions leading up to your procedure tomorrow morning?
+Patient: Yeah. I I haven't been eating anthing today.
+Nurse: That's very good.Sticking to this dietary restriction helps in cleaning out your colon for a successful procedure.And just to add, please remember not to consume any food or drink on the morning of your procedure.This includes no morning coffee or tea, okay?
+Patient: Okay.
+Nurse: Wonderful.Now let's go over the bowel prep instructions.You'll need to drink the first half of the GoLYTELY solution at 6 pm tonight.Then the second half should be taken tomorrow morning.This helps to cleanse your colon.Are you comfortable with these instructions?
+Patient: Well, wait. You just told me notto eat or drink anything the day ofBut now you just told me to drink that
+Nurse: Sorry for any confusion.What I meant was, you should not eat or drink anything EXCEPT the second part of your bowel prep GoLYTELY solution on the morning of the procedure.This is a specific part of your bowel prep and it's important for the success of the procedure.Does this clarification help?
+Patient: Oh, yes. Thank you.
+Nurse: You're welcome.I understand it can be a lot to take in.Do you have any other questions or any concerns about the procedure or the preparation that you would like to discuss with me?
+Patient: You know, I'm really scared there's so many steps. I'm afraid I'm gonna screw something up
+Nurse: I understand how you're feeling.It's normal to feel anxious about a medical procedure, especially one that has multiple preparation steps.But please remember that you're in capable hands with Dr. Edward Chang, who has performed over 1500 colonoscopies.Plus, you're doing absolutely great so far in following all the steps.Also, you can jot down the instructions or set reminders.That can help you remember each step and manage the process comfortably.Would that be helpful?
+Patient: Maybe,
+Nurse: That's perfectly OK.
+Patient: I'm also really scared about the
+Nurse: Zariah, is there something specific about this procedure that scares you?
+Patient: Well, I'm really scared aboutprep and havinglike,I'm going to run to the bathroom every
+Nurse: I understand your concerns.The preparation for a colonoscopy does involve a bowel cleanse which means you'll have to use the bathroom more frequently for a short period of time.However, this is a very necessary part of the process to ensure Dr. Chang can thoroughly check your colon.Maybe planning some activities that you can do near the bathroom, like reading or watching movies, can help make this part of the preparation more manageable.Would that be possible for you?
+Patient: Yeah. I'll figure it out. It's just I'm a little scared.

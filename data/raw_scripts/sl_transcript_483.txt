@@ -1,0 +1,46 @@
+Nurse: Perfect. Yes, I just was not catching you. So I was like, ok, I just have to ask her to call me when she gets a chance. So, um, I'll be your new nurse, case manager through doctor [PHI-Personal] office. Um, and what that means is, I'll give you a call about once a XXmonth to check in and see how you're doing. If you have any questions or concerns, we'll go over that or if you, um, have anything new in your chart, we'll go over that and if neither of those applies then I'll try and provide you some education on your health. Ok. Um, at the same time you'll have my phone number and you can call me at any time if you need anything, you don't feel well, you're running into issues with the refill. You're wondering if you should go in for a XXsymptom. I can definitely help you take care of that. Um So our goal is to give you guys a great contact if you need it. But also, um, have that relationship that we can kind of get to know, you know, your symptoms, know how your body works and then help you figure out the best route for your care. Mhm. So any questions on that part? No. Ok. I'll send you a letter later today and that letter will have some wellness goals on it. There's suggestions, not XXrequirements and they're all preventative care. Like your annual wellness visit blood work, stuff like that. Um, so nothing too crazy on there. But it's a nice preventative list for the year. And then, um, would you have a moment to go over your medications with me? Uh, sure. Ok. I'll read them off and you just tell me if you still take it. So I have a vitamin C. Mhm. Tylenol as needed.
+Patient: Mhm. Tylenol arthritis. They use the heavier dose to help with that.
+Nurse: Yeah. And then the amLODIPine Spri hydrochloride. Mhm. Atorvastatin. Mhm. [PHI-Personal]. Mhm. Clindamycin.
+Patient: That's only prior to dental
+Nurse: Treatments. Oh, I'm sorry, I missed that part. Yes. Uh oh, I'm gonna mess, oh, a B 12 injection
+Patient: Every three months I can give myself that
+Nurse: Perfect Benadryl as needed at bedtime. Mhm. Colace as needed. Mhm. Uh, fluticasone nasal spray for allergies
+Patient: As needed. Yeah.
+Nurse: Yep. Yeah. Uh, most of them, you're obviously pretty healthy since these are all as needed. Um,
+Patient: Get on there.
+Nurse: The cough syrup as needed. Do you still take that
+Patient: When I need to?
+Nurse: Yeah. Ino [PHI-Geographic]. Yes. Uh, lidocaine pain patch.
+Patient: As needed. Yeah.
+Nurse: Magnesium oxide. Mhm. Metformin [PHI-Account] twice a day. Mhm. Uh, uh, Metro for the face. Yep. As needed. Uh, a multivitamin. Mhm. Osteo Biflex. Uh, oh, sorry. Lepre Prine as needed. 10 mg.
+Patient: No. What the, what would be the
+Nurse: Other name for it? Let me click on it. I know. That's the hard part. I'm like, can we just come up with one name and everybody can be on the same page. [PHI-Personal].
+Patient: Yeah. As needed. Yeah.
+Nurse: And then Melatonin as needed. Mhm. That's what the patch usually for travel.
+Patient: Oh, yeah. Scola. Yeah.
+Nurse: Uh, t, yes, I cannot speak today. It is real bad. It's not Tra traMADol as needed.
+Patient: Yeah, I take that 13 times a day for the arthritis.
+Nurse: [PHI-Geographic]. Mhm. And then I have another vitamin C on here. So it looks like we have,
+Patient: No, it's just one vitamin C. Yeah.
+Nurse: And do you take the 1500 or the [PHI-Account]
+Patient: [PHI-Account]?
+Nurse: Ok. And then I have a vitamin D three. Yes. And then I also have
+Patient: Like, three times a week. I think she had told me to do. Yes.
+Nurse: Yes. And then I also have a FLUoxetine 10 XXmg. Yes. Ok. And overall how do you feel your XXmood is doing on that?
+Patient: It, it's good. I told her we would, we could stay at that dose. Ok. That's what I was on in the past.
+Nurse: Yeah. Awesome. And how long have you been treated with a medication like that?
+Patient: Well, I was on it before. I had my gastric bypass in [PHI-Personal]. I think I was on it for about two years then and then I just went back on it um when she started this time.
+Nurse: Ok. And have you ever had an inpatient stay for anxiety or XXdepression? Ok.
+Patient: No, I worked on that unit
+Nurse: Like I will not be going back. Um Are you, are you a nurse or?
+Patient: Oh, I'm retired registered nurse. Yes. Oh,
+Nurse: Ok. So you are on top of all of this? No wonder you're like say the medications lady. I am horrible at me saying I'm like I need the name brand. Um Perfect. So you are like on top of this. Yeah, I'm excited. I I love when I speak to a nurse because then it's so much easier to say things um in a plain fashion because they understand so perfect. Well, so I'm just here to follow up. Um you know, the clinic, nurses are super busy in the clinic. So we're another layer where you can like get your answer sooner if you need them. So our goal is if you leave us a voicemail to respond within the hour. Um And if we need to, if we can't help you triage your issue, which I'm sure you won't need much triage. We can always send a XX[triage message] to the provider or if it's urgent, like call through to the nurses and see what we need to do. So if you need me, don't hesitate to call me. Um you are scheduled to be called monthly. If you think that's too much at some point you can pick your schedule you can need every other month, three months, whatever you want. Um so we'll start monthly and then you can tell me how you think it goes. Ok. All right. Would you like to take my number down?
+Patient: Um is it the one you left on my machine? [PHI-Account]
+Nurse: Yes it is. Ok. So if you need me call me otherwise I'll give you a call in about a month to check in and see how you're doing. Yeah. Ok. All right. Any questions? No, no pretty good. Alright you have anything else that you need to know about me? Not yet. I have access to your um a simplified version of your chart on it which is the EMR we currently use. So.
+Patient: Ok. Um yeah, I'm headed for let's see I get a CT scan of my abdomen on Friday. I had my blood work Wednesday. I see [PHI-Personal] the following Wednesday. Mhm. And then somewhere in [PHI-Personal], I think I get a Dexa of my arm and hip. Ok. And then I see doctor at some point after that. Yeah.
+Nurse: Perfect. Perfect. Yes. The one bad thing is when the clinic went to be family practice, we lost epic. So we no longer can see all of the stuff that Epic has, but the doctors still have access to Epic so they can see everything that's in your med Epic chart. I just can't. Um So I just see what's in your chart having to do specifically with family practice. So um as your specialist send reports to family practice, they get uploaded to your chart.
+Patient: Yeah. Yeah. The um doctor thing is because I had a very elevated calcium.
+Nurse: Ok. We're following that and
+Patient: Yeah, that's why with the magnesium and uh they thought my parathyroids were out of whack, but it's not looking that way. So that's, that's all that. So they watch my calcium there. Yeah. And the uh abdomen XX[CT Scan] is I have a stone in my pancreas. Ok. So they're just kinda, and I [PHI-Personal] ordered this one. So I'm not sure if sh she'll follow through then with that, if anything's different from before.
+Nurse: Yeah. And are we just following it or is it causing you issues at this time?
+Patient: Well, I was having pain, it felt like my gallbladder grew back. So that's, and uh yeah. And um I mean, it would wake me up out of a sound sleep. Oh, so when I mentioned it to her, she said, and then she had me go down to um guy singer and to see people down there but then the people left that I was seeing and they never reported back to me to go to anybody. So it's like I'm assuming [PHI-Personal] gonna be following that.

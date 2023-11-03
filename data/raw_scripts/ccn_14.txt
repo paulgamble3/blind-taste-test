@@ -1,0 +1,40 @@
+ Nurse: Brilliant, thank you John. I'd like to check in with you regarding your health. At your last primary care doctor's visit, you reported some small falls and an increase in tremors in your hands. It's essential for us to guarantee that you have all the home and medial support that you need. Thus, could we discuss further how we can assist you? 
+ Patient: Yes, I've definitely been having more falls... 
+ Nurse: Of course, and we can certainly find resources for you. You're 72 years old, which means you must have Medicare. Do you also have Medicaid by any chance? 
+ Patient: um you know I'm not sure. 
+ Nurse: Noted, I can check that for you. Medicaid can provide additional assistance including a caregiver. Let me add that to my list first. 
+ Patient: No, um the doctor wanted me to see a couple different therapists. 
+ Nurse: So item noted: caregiver services, physical therapy, and occupational therapy. Anything else? 
+ Patient: uh yep, yeah care like a caregiver... 
+ Nurse: Absolutely. Caregivers will help you with daily tasks like doing laundry, cooking, going for grocery shopping, helping you get dressed etc. Furthermore, they can pick up your medications, take you to the primary care doctor's office and generally support your independence in the home. 
+ Patient: oh yeah, I feel bad asking her for help... 
+ Nurse: It seems like your primary goal is to maintain your independence within your own home and not require hospital or nursing home care, correct? 
+ Patient: that is exactly what I'm hoping. 
+ Nurse: Excellent. Now, to keep you safely at home, we need to address the issue of falls that you've been experiencing. One major factor precipitating a transition to a care facility is serious falls resulting in injury, and we don't want that to happen. Therefore, we need to concentrate on improving your safety and balance at home. Do you use any aiding devices such as a walker at the moment? 
+ Patient: i actually it's a lot better if I'm... 
+ Nurse: I understand it's been a challenging phase for you, John. With parkinson's, physical activity plays a crucial role in managing and slowing down the progression of symptoms. Physical and occupational therapy can greatly assist in this aspect. Do you understand the scope of these therapies? 
+ Patient: well if that's what it takes I'm willing to try it. 
+ Nurse: Ultimately, John, your safety and comfort at home align with our goals too. We aim to ensure you are able to do things independently as much as possible. 
+ Patient: yeah that sounds sounds about like what I want. 
+ Nurse: I'm glad we share the same vision. Therefore, our next step is to get home health care services in place. They will arrange for physical and occupational therapists to visit your home, based on your convenient schedule. 
+ Patient: all right well that does. that is very helpful. 
+ Nurse: Good to know. Now let's shift our focus towards ensuring your medication regimen is updated and in-check. Do you currently have all your essential medications, in need of any refills? 
+ Patient: I have a box with all my pills in it... 
+ Nurse: That’s perfect. Could you tell me the name, dosage and frequency of each medicine? And don’t forget to share any additional information you might have about them. 
+ Patient: um all right well I got some aspirin... 
+ Nurse: Excellent, it appears you and I have the same medication list. I remember you mentioned a heart attack three years ago for which you underwent stent placement. Has your blood pressure been under control since then and have you been maintaining regular medication usage? 
+ Patient: I’ve been. I've been doing my best... 
+ Nurse: We will ensure you are up to date on your cardiac check-ups and also verify your blood pressure control from your last doctor's visit. But as you stated, let's focus on managing your Parkinson's symptoms currently, to improve your strength, provide exercises, and facilitate assistance at home. 
+ Patient: yeah that's my. my number one goal... 
+ Nurse: Absolutely, and I can't stress enough the importance of consistent usage of your walking aid. More so if you're finding it challenging to maintain balance. The walker will provide stability and reduce the risk of falls significantly. 
+ Patient: so I should just have my walker... 
+ Nurse: Yes, having your walker close by at all times is definitely recommended. 
+ Patient: Hmm, yeah that's what my daughter's telling me... 
+ Nurse: I know you probably want to maintain your independence, but I assure you these plans are in your best interest. Besides, your daughter, just like us, is only concerned about you and is focused on your well-being. 
+ Patient: yeah, it's a humbling experience. 
+ Nurse: Indeed, it can feel like that. However, our goal is to help preserve your independence while ensuring you stay safe in your home. Do you have any other questions or concerns, John? 
+ Patient: well um I think well the one... 
+ Nurse: I understand your concern, John. While it's true that Parkinson's is a progressive disorder that can affect various aspects of your health, there is a wide range of resources and support that we can deploy to keep you safe and independent in your home for as long as possible. It's about taking one step at a time and finding solutions as and when new challenges come up. 
+ Patient: that's what I'm hoping for. 
+ Nurse: Keep your phone and Siri handy, as you should receive a call from the home health agency soon. Also, remember to keep your walker by your side at all times. If you need further assistance or have questions, let me share my contact details with you. I can send it via text if you'd prefer? 
+ Patient: yeah could you do that? 

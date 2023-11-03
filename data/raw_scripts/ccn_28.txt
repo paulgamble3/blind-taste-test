@@ -1,0 +1,71 @@
+ Nurse: Excellent. Do you have some time for us to discuss your health?  
+ Patient: Yeah. 
+ Nurse: Splendid. I am in touch with your primary care physician and carrying out this follow-up call. I learnt you recently had a hernia repair and have now resumed home. Let's discuss your recovery and experiences post-surgery. 
+ Patient: Well, a few. Excuse me. I've noticed some increased redness and it's sort of warm to the touch around one of the incision sites. There's some yellow pus as well. 
+ Nurse: Noted. When did these symptoms begin?  
+ Patient: Four days ago. 
+ Nurse: Has there been any deterioration since the past four days?  
+ Patient: No. No, it's just been, I'm just a little worried about the redness around the incision. 
+ Nurse: Could I inquire further regarding this?  
+ Patient: Yeah. 
+ Nurse: Have there been any instances of fever, chills, or sweating? 
+ Patient: No. 
+ Nurse: How's the pain around that particular area? 
+ Patient: It's manageable. 
+ Nurse: I see. 
+ Patient: You know, it's a surgery site. 
+ Nurse: Right. When you mention manageable, where does your discomfort fall on a scale of 0 to 10? In this scale, 10 is intolerable pain and 0 represents no pain. 
+ Patient: I mean, maybe a 3 or a 4. 
+ Nurse: Very well. Have you been using any medication for pain post-surgery?  
+ Patient: Yeah, Tylenol, as I've needed it every eight hours. 
+ Nurse: That sounds good. Have you checked your temperature today? 
+ Patient: Last time I took it, it was 98.6. 
+ Nurse: When was this checking done?  
+ Patient: Probably three days ago. 
+ Nurse: Three days ago. Any chance that you've felt warmer since or had potential fever symptoms?  
+ Patient: No. I don't feel like I have a fever. I'm just definitely noticing some warmth around the incision. 
+ Nurse: Do you have a thermometer handy? Could you possibly take the reading at this moment? 
+ Patient: Yeah, I can take it again. 
+ Nurse: That would be ideal. Thank you.  
+ Patient: Just a moment. Yeah, it's 98.6. 
+ Nurse: Maintaining at 98.6. That's comforting. You've been meticulously monitoring your incisions and that's commendable. Just a reminder to also stay meticulous about cleanliness after using the washroom. We want that area prim and proper. However, based on what you've shared, I would suggest a visit to urgent care for an evaluation. The combination of redness, warmth and pus may indicate an infection. 
+ Patient: Oh, OK. 
+ Nurse: Is the infection observed in only one incision or are others affected too? You seem to have had three incisions in the hernia operation. 
+ Patient: Yeah, it's just one of them. 
+ Nurse: Alright, it's only one. As part of safety precautions, could I confirm if you live with someone who could offer you a ride to the urgent care? 
+ Patient: Oh, yeah. My wife's here. 
+ Nurse: Could she bring you in today? 
+ Patient: I think so. 
+ Nurse: Absolutely. 
+ Patient: I mean, I've been using a bacitracin on it that my wife bought when we initially noticed it. 
+ Nurse: That's a mild anti-infective cream, which could be beneficial. But right now, we need to ascertain the exact nature of the bacteria if it's indeed an infection. Sometimes a culture test is performed to identify the bacterium. So while bacitracin is a good start, a potential infection requires a stronger defence. And during this time, have you been keeping the area dry and avoided swimming or soaking in bodies of water like hot tubs or lakes? 
+ Patient: I did. 
+ Nurse: Alright. 
+ Patient: The kids were pretty adamant about it. And so I did go in a lake. 
+ Nurse: A gentle reminder to avoid such activities until complete healing is achieved. Even if water in lakes or pools appears clean, it can harbor bacteria. With an open wound, these bacteria could potentially cause infections. But let's prioritize your check-up now. Urgent care has an opening at 3.30 pm. Would your wife be able to escort you then? 
+ Patient: Well, 3.30, no, she's not going to be back yet. But I can drive myself in. 
+ Nurse: Ideally, I'd prefer a companion for safety reasons and to avoid any strain post-surgery. We could reschedule to a later time, would that work?  
+ Patient: I mean, I'm pretty confident. I've been driving. 
+ Nurse: Understandable. 
+ Patient: I mean, if that's when the appointment is, then I can get that. 
+ Nurse: If the alternative at 6 pm tonight doesn't work for both of you, then we can confirm the 3.30 slot.  
+ Patient: No, that one won't work. 
+ Nurse: Not feasible? 
+ Patient: No, the kids have something. 
+ Nurse: Alright. 
+ Patient: Then so I mean, really, I'll be able to. 
+ Nurse: In that case, we'll confirm your appointment at 3.30. 
+ Patient: OK. 
+ Nurse: Remember, they would like to examine the incision. Can I confirm that there's been no burning sensation during urination?  
+ Patient: No. I am not having that. 
+ Nurse: You've also been avoiding any straining activities like heavy lifting, correct? 
+ Patient: No, that's what caused this whole mess. Yeah. I've been avoiding that as much as I can. 
+ Nurse: And aside from Tylenol, you've avoided ASA and NSAIDs like aspirin or Advil? 
+ Patient: Yeah, they said not to take any Advil. 
+ Nurse: Perfect, these could increase the chances of bleeding hence are best avoided until full recovery. 
+ Patient: Ah, OK. 
+ Nurse: So, let's set your appointment at 3.30 pm today. I'll also update your primary care physician and treating surgeon on the current scenario. Do you have a follow-up appointment planned with the surgeon who performed the procedure?  
+ Patient: I think so. 
+ Nurse: It would be important to confirm such an appointment. 
+ Patient: I mean, yeah, I want to talk to them about the incision for sure. 
+ Nurse: We can help locate the appointment if needed. Here's my contact number - 333-444-5555 - reach out if necessary. 

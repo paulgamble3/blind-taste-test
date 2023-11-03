@@ -1,0 +1,41 @@
+Nurse: Great, thankyoufor confirming.I'm just goingto quicklyverify your details.Could you pleasetell me yourdateof birth?
+Patient: Yes. Absolutely.My date of birthisAugust third nineteen eighty two.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thankyou forconfirming that.I'm calling tocheck in withyou aboutyourupcoming TotalKnee Replacement procedureonyourleft knee. It'sscheduledfor August13th withDoctorEdward Chang. Howare you feelingaboutthe procedure?
+Patient: I'm nervous, Fred. Good.I've never had a procedure like this before, andyou know, I'm I'm I'm nervous.But I'm also really hopeful thatmy ping will go away.And that, you know, I gotta do it.
+Nurse: I understand.It's completely normalto feelnervous before aprocedure likethis,especially when it'syourfirst time.I'm glad tohearthat you'realso hopefulfor the outcome.Our team ishere tomake sureyou'recomfortable andwell-informed throughouttheprocess. [
+Patient: Thank you. Thank you formaking sure thatYeah. I hope I hope it'll go smooth.Hello?
+Nurse: Yes,I'm stillhere. I justwanted toremind you thatyourTotal KneeReplacement procedure isscheduledfor August13th at 8am.And justto confirm, yourarrival time atthe hospitalwillbe7am. [
+Patient: 
+Nurse: Great,I'mglad you're readyfor theprocedure. I justneed to ask
+Patient: Go ahead.
+Nurse: Haveyouhada fever,chills, ormuscleaches recently?
+Patient: No. NothingNothing besides my usual plan I have on my knee.
+Nurse: Okay, good. It'simportant to letusknow ifyou're feeling unwellso wecan ensureyou're in thebest healthfor theprocedure. Also, rememberthat you cannoteat or drinkanything aftermidnight the daybefore theprocedure. This istoensure your stomachis emptyduring the procedure,which helpstopreventcomplications. [
+Patient: Okay.
+Nurse: Great,I'mglad you'reaware of that.And justto confirm,your anticipateddischarge plan isto currently gohome aftertheprocedure. [
+Patient: Yes. This is true.
+Nurse: Great,it's important tohave a planin place foryour return homeafter theprocedure. Have youarranged for aride homefromthe hospital?
+Patient: Yeah.Actually, my daughter's gonna be taking me.
+Nurse: That'sgreatto hear. It'simportant to havesomeone to helpyou get homeafter theprocedure, since youmay still befeeling the effectsoftheanesthesia. Additionally, you'llneed someone toassist you withrecovery at homefor thefirst few days.Will your daughterbe able tohelp withthatas well?
+Patient: Yeah. She she is she says she'd help me out.That.
+Nurse: Great, it soundslike you havea good supportsystemin place. Now,I want togo over someskin prepinstructionswith you. It'svery important thatyou follow theseinstructions to reducetherisk of infection.The night beforeand the morningofthe procedure,you'll need tousea chlorhexidine scrubin the shower.This is aspecial soap thathelpskill bacteriaon yourskin. Afteryou've finished scrubbing,make sure topat yourknee area drywithaclean towel. Don'tapply anylotions orcreamsafter showering. Ifyou have anyquestions aboutthese instructions, feelfreetoask. [
+Patient: Oh, okay. I see.Thank you.Go ahead.
+Nurse: Great,I'm glad youunderstand theskin prepinstructions. Now, haveyou been ableto pickupyourpost-op medications?
+Patient: Yes. My daughter picked those up for me just
+Nurse: Great,it's important tohave thosemedications on handbeforethe procedure. Now,I just needto gooverthe medications you'llneed to stoptaking beforethe procedure.In your case,there areno medications thatneed tobestopped. [
+Patient: Okay. That's good. That makes it easier.
+Nurse: I'm gladtohearthat. Now, Iwant toask you, whatare you lookingforward to doingwith yournewknee once you'verecoveredfromthe surgery?
+Patient: With my new knee, I definitely wanna be free of the pain forthan four months.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: And then after that, I can go back to doing, like, fun stuff I enjoylike,know, going to the mall just being able to walk without too much trouble.
+Nurse: Itsoundslike you're reallylooking forward tobeing able toenjoy activitieswithoutpain. That's oneof the goalsof thisprocedure, tohelp youregain mobilityandreduce discomfort.Now, do youhave any questionsabouttheprocedure itself?
+Patient: About the procedure itself.No. Not not really.Actually, I guess, somebody will ask.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: Will the ping go away once the procedure's done?
+Nurse: Yes, that'sour goalwith theprocedure. The surgeryisintended to alleviatethepainand discomfortyou've beenexperiencing.Once you've recoveredfromthe surgery, youshould be ableto walk withoutthepainyou'recurrentlyexperiencing. [
+Patient: That's good.That's good.
+Nurse: I'm gladtohear that you'refeeling positiveabout the procedure.If you haveany otherquestionsor concerns,don't hesitatetoask. [
+Patient: Absolutely.Well,Are there any last things you could tell me that'll that can make me less nervous?For the procedure.
+Nurse: It's completelynormal tofeel nervous beforea procedurelike this. Just
+Patient: Go ahead.

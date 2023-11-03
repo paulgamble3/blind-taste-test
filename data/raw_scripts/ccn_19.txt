@@ -1,0 +1,89 @@
+ Nurse: Spot on. And how are you feeling? 
+ Patient: Um, yeah I am doing okay. Okay. 
+ Nurse: I understand that you have been diagnosed with congestive heart failure, correct? 
+ Patient: Yes, I do. Okay. 
+ Nurse: You've been living with this diagnosis for a significant amount of time, isn't it? 
+ Patient: Yes, like about maybe over ten years ago. 
+ Nurse: You're managing well with your current medications, correct? Any new inquiries or concerns? 
+ Patient: Uh, so yeah, I, I don't, so I, I, I feel good. I'm not experiencing any, uh, shortness of breath. Um, the heart beats feels okay. Um, I'm not tired. Uh, I don't have a cough or mucus. I mean, a few allergies but there's no mucus. My limbs are okay, I can move around. so you know I'm doing well. So I just wanted to know since I seem fine, can I stop taking my medications? 
+ Nurse: That's a fair query. However, it appears that the present mix of medications is beneficial for your health status. 
+ Patient: Okay, so can they just reduce my medications because I seem to be doing pretty well. The only issue I have is a dry cough. 
+ Nurse: Need some details about the cough. Is it an all-day occurrence, or specific to particular times? Do shed some light on that. 
+ Patient: Hmm, yeah it seems like after I take my medications or something like that and then I feel like I have a dry cough later in the day. So yeah I just think that I'm getting some side effects from my medications. That's why I'm asking like can I reduce it or at least or stop taking some of them as I'm on quite a bit. 
+ Nurse: Concur on your query. Shall we review your medication list? Do you have them handy or do you recall them? 
+ Patient: Uh yeah I have. I have them okay. 
+ Nurse: Could you fetch them, please? We will go through them and ensure you understand the purpose of each. Reviewing them every so often is good, especially given that you've been on these medications for the past ten years. 
+ Patient: Yeah sure um so I have Leesix uh 40 milligrams once a day for swelling, right? 
+ Nurse: Yes, absolutely. Some refer to it as a water pill or diuretic that aids in removing any excess fluid in your body. Especially beneficial if your legs or feet swell due to fluid retention. Noticed any changes depending on when you take it, morning or night?  
+ Patient: I take it once, typically in the morning with my other meds. 
+ Nurse: And do you notice a need to urinate pretty soon after taking the Lasix? 
+ Patient: You know what, yeah I do. 
+ Nurse: That's great! It's a sign the medication is functioning as expected; aiding your kidneys in eliminating more fluid from your body. What other medications are you currently taking? 
+ Patient: I'm also taking Metaprolol, 50 milligrams, twice daily. 
+ Nurse: And, what do you believe that medication is for? 
+ Patient: Yeah, I believe that is for managing my blood pressure. 
+ Nurse: Right on target. Do you monitor your blood pressures at home or usually during doctor visits? 
+ Patient: Yeah, I do have a blood pressure monitor at home, but I'm not confident I'm using it right. 
+ Nurse: What makes you doubt your usage prowess? 
+ Patient: Well, the readings often differ each time I check. 
+ Nurse: Could you clarify with an instance? 
+ Patient: Okay. So the other day, it showed 140 something over 100. The next time I checked, it read 100 over 60. I'm unsure if I'm doing it right with such a significant difference. 
+ Nurse: Agreeable, the difference is quite steep. Is your measurement technique consistent – same arm, sitting position, and time of day? 
+ Patient: Well, I do it in the afternoon after my gardening work with my husband, John. I take the reading after resting a while once indoors. I'm unsure about the accuracy, therefore, I considered stopping it. 
+ Nurse: It's a great effort from your side. But, with your bp readings having wide variations and your dosage of metoprolol being twice daily, can we review your other medications that help manage blood pressure? 
+ Patient: I believe it's my Lecithopril. 
+ Nurse: Spot on, and when do you take it? 
+ Patient: Almost all meds are taken in the morning and the second round of metoprolol is taken in the evening or at dinner time. 
+ Nurse: Right, that's in line with the prescribed method. The reading variations in your BP can be attributed to gardening work followed by immediate readings. How about maintaining a log? Do you have one? 
+ Patient: I do. But it does not appear accurate due to the confusion I have in taking accurate readings. Could you guide me on this? 
+ Nurse: Certainly. Is your bp cuff for the wrist or arm? 
+ Patient: It fits on my arm. 
+ Nurse: Splendid! It should have a line marking that aligns with the position of your elbow. Ensure your legs are not crossed, and your arm is relaxed without any significant work going on. Then press the button on the battery operated system to trigger it. Is this in accordance to your procedure? 
+ Patient: Yes, precisely. 
+ Nurse: The position of the cuff is key. Ensure it's placed rightly on an upper arm between your elbow and shoulder. Additionally, has the cuff been in use for a long time? 
+ Patient: I've had it for about two years. 
+ Nurse: Does it run on battery? 
+ Patient: Yes, it uses batteries. 
+ Nurse: Battery issues should not cause intermittent reading errors. Perhaps the readings vary due to movement, or talking to someone at the time of measurement. Such actions could alter the system’s ability to accurately read the heartbeat. 
+ Patient: Interestingly, I do talk to my husband while taking readings. So, I should not be doing that? 
+ Nurse: Ideally, no. It would be best to opt for a quiet position. Ensure you're comfortably seated, with uncrossed legs, and your elbow is rested. Check your blood pressure daily ideally in the mornings, just before your medication, to achieve consistent readings. 
+ Patient: Okay. That sounds reasonable. 
+ Nurse: Let's proceed with that method. Another point of interest is the dry cough, which is a known side effect of Lisinopril. Any connection between the start of this medication and the dry cough? 
+ Patient: Yeah, that could be it. I've recently started Lisinopril. The dry cough had me worried I caught COVID, so I got tested and came out negative. I'd like to discuss an alternate medication with my physician. 
+ Nurse: A movesmart approach indeed. Making the call to cease any medication by oneself is not advisable since it might lead to unintended consequences. You could share your concerns and discuss alternatives with your primary care physician. Are they the ones managing your medications? 
+ Patient: Yes, yes, she is my supervisor. 
+ Nurse: There is an option of arranging a teleconsultation. It's more convenient and might not require driving to the facility. The dry cough side effect associated with Lisinopril could be discussed during this session. It could potentially lead to an alternative solution. 
+ Patient: Okay. 
+ Nurse: A useful tip if you visit the doctor’s office would be to take your bp cuff along and cross check the readings from your cuff and the doctor’s machine. 
+ Patient: Should the cuff have been replaced by now? 
+ Nurse: I'm unable to provide specifics on it as of now. But I can request medical equipment to help with it. Hold on a moment, let me see who can assist us with this information. Unfortunately, I don’t have access to that detail at the moment. I suggest discussing it with your doctor to see if a replacement can be ordered for you. Sometimes, you may even be able to pick it up at your local drugstore or pharmacy. Regarding your concern, if your blood pressure recorded at the doctor’s office aligns with your machine’s readings, your cuff should be fine. Having been used for two years, it should not be outdated for a home blood pressure cuff. However, if it's not providing consistent measurements, for sure there's an absolute sense in asking for a replacement. 
+ Patient: That sounds good. I’ll discuss it with my doctor. 
+ Nurse: Great plan. Let's discuss your other medications. Besides the LASIX, Metoprolol and Lisinopril, are there others? 
+ Patient: Yeah, I'm also on aspirin, 81 milligrams once a day, and Lactor 20 milligrams once a day. 
+ Nurse: Any others? 
+ Patient: No, that's all. 
+ Nurse: You seem well-informed about the blood pressure medications and Lasix. Could you provide your understanding of why you take the aspirin? 
+ Patient: My doctor told me it's for my heart after I had a stent placed. 
+ Nurse: Indeed correct. It functions as a blood thinner, allowing the blood to flow smoothly, especially around a stent. It thus prevents clot formation and reduces the risk of stroke. Keep up with that regimen. 
+ Patient: Okay, yeah. 
+ Nurse: Now, your Lipitor, what's your understanding of its function? 
+ Patient: It helps control my cholesterol levels. 
+ Nurse: That's correct. Apart from the cough, are there any other side effects you've noticed from your medications? 
+ Patient: Not really, it seems to be just the cough. I was a teacher for fifth graders, but had to quit after I was diagnosed with heart failure about five years back. I do miss teaching the kids. 
+ Nurse: Considering you're doing well with your current medication, it might be possible for you to return to teaching, albeit in a less demanding role, such as a substitute teacher that allows you flexibility yet keeps you connected with the kids. 
+ Patient: That might be a good idea. 
+ Nurse: You seem to be taking your medications correctly, and I'm glad to see there's no excess fatigue, shortness of breath, or abnormal heart rhythms. Nor are there signs of swelling in your limbs. I'd recommend setting up a discussion with your primary physician to look into alternatives for Lisinopril that can alleviate the dry cough. This could potentially improve your living condition. 
+ Patient: Sounds good. I'd like to know whether you recommend me seeing a cardiologist instead regarding my heart issues, or continue with my primary care doctor? 
+ Nurse: An excellent question indeed! Generally, primary physicians are equipped to manage congestive heart failure. In cases where the condition becomes difficult to control, a specialist comes into the picture. Given your current health status and our conversation thus far, you appear well-managed and under control from a clinical perspective. However, if you’re uncertain or desirous of a second opinion, depending on circumstances, you might consider getting a referral to a cardiologist from your doctor. But by and large, it appears you're receiving adequate care. 
+ Patient: Fair enough. 
+ Nurse: It seems like you have a good rapport with your current physician who's been managing your care for about five years. Maintaining this relationship could be beneficial because they would know the finer nuances of your care needs and observe subtle changes over time. 
+ Patient: Yeah, you're right. 
+ Nurse: Alright. So, can you call your doctor to discuss your medication? 
+ Patient: Will do as suggested. 
+ Nurse: Anything else I can assist you with today? 
+ Patient: No, I think that's it. I appreciate you calling and checking up on me. 
+ Nurse: At your service, anytime. Do you have our contact number, in case you have any more questions? 
+ Patient: I don't but I do have my doctor's private number. 
+ Nurse: Our number is also available if you want. 
+ Patient: Yes, please provide the number. 
+ Nurse: It might be on your phone, but to reconfirm, it's 333-555-5555. 

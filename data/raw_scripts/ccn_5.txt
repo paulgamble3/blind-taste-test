@@ -1,0 +1,66 @@
+ Nurse: Fairly well, thank you. Is your mother, Jane Doe, available for a chat right now? 
+ Patient: You know, she's actually resting at the moment, so I don't want to disturb her. 
+ Nurse: Understood completely. Susan, could you confirm your mother's date of birth for me? 
+ Patient: Yeah, her date of birth is 6-8-2001. 
+ Nurse: Noted. Since your mom is currently resting, how would you say she has been doing overall? 
+ Patient: I mean, not very well. She's had these recurring UTIs and I'm beginning to worry if she has another one, it's been a bit challenging over here. 
+ Nurse: For what reasons do you suspect she might have another one? 
+ Patient: You know, she started complaining about a week ago. She's feeling abdominal discomfort again. She mentioned that she's urinating more frequently, with a greater sense of urgency, and those are sort of the usual signals when she's had a UTI. 
+ Nurse: Indeed, those are some of the common symptoms of urinary tract infections. Could I delve a bit deeper into her condition by asking some detailed questions? 
+ Patient: Yeah, sure. 
+ Nurse: In reference to the pain you mentioned earlier, it began about a week ago, correct? Essentially, she experiences abdominal discomfort and feels an escalating need to use the bathroom. Has the frequency of her bathroom visits also increased? 
+ Patient: Yeah, yeah. 
+ Nurse: Noted. Regarding her previously prescribed antibiotic, Ciproflaxin, which treats a distinct strain of urinary tract infection, was she able to complete the full course when she last had it? 
+ Patient: Yeah, that was roughly a month ago. 
+ Nurse: Understood. A few more inquiries related to symptoms associated with urinary tract infections, if I may. Has she been experiencing any fever symptoms? 
+ Patient: Last time I tested her temperature, it was about 101.3. 
+ Nurse: Acknowledged. That's elevated. When did you take this reading? 
+ Patient: A few hours back. 
+ Nurse: Did you administer any medication for the fever? 
+ Patient: No, she resists taking anything. 
+ Nurse: Does she typically refuse medication? 
+ Patient: Yeah, she prefers to handle things herself. I do my best, but I can never be sure whether she takes medication without my knowledge. 
+ Nurse: Noted. I sense a bit of strain in your voice. Is caring for your mother a recent responsibility for you, or has it been a longstanding aspect of your routine? 
+ Patient: No, I've been doing it for a while. I just struggle to understand why these infections keep recurring. 
+ Nurse: I comprehend, and we can discuss that further. Now, have you noticed any alteration in your mother's mental state or behavior recently? Is her demeanor similar to her usual self, or is she displaying increased confusion? 
+ Patient: She seems the same to me. 
+ Nurse: That's reassuring. From what you've shared Susan, it does sound as though your mother is presenting symptoms suggestive of another urinary tract infection. She is experiencing abdominal pain, an imperative need to urinate quickly, increased frequency of bathroom use, and fever. At this juncture, I believe an evaluation would be most beneficial to definitively diagnose the type of infection and initiate appropriate treatment. 
+ Patient: Yeah, I thought as much. 
+ Nurse: Although your mother is resting now, and I certainly advocate a good rest, it would be beneficial if we could arrange an urgent care visit for her today. The facility will be open until later this evening. Would a 5.30 appointment suit your schedule? It’s approximately 3.45 right now. 
+ Patient: Yeah, I need to fetch the kids from their camp first. 
+ Nurse: Of course. 
+ Patient: Yes, I believe I could manage that. 
+ Nurse: I understand that this may seem overwhelming, but expedited diagnosis of her condition will undoubtedly be advantageous. They may perhaps need a urine sample and possibly draw blood to gain clarity. I express concern mainly because of her elevated temperature and the potential for the infection to exacerbate. Allow me to inform them of your intended arrival at 5.30, I'll hold momentarily while I sort this out. Thank you, Susan. I've confirmed that they are anticipating your mother, Jane, at 5.30. I've relayed her symptoms, so they will be prepared for your appointment. Please ensure that she stays well-hydrated beforehand and perhaps bring some water or other fluids for her. How is she managing her bathroom needs - is she reliant on diapers or can she manage independently? 
+ Patient: She tends to wear briefs all the time. 
+ Nurse: Does she adopt this strategy due to accidents or some level of incontinence? 
+ Patient: Yes, she experiences some minor incontinence. 
+ Nurse: And is she meticulous about changing her briefs immediately when they become wet? 
+ Patient: Not always, and she resists my attempts to assist her, leaving me in the dark about the frequency of her change of briefs. 
+ Nurse: I see. Would it be permissible to discuss preventive measures that you or she could implement to counteract these recurrent urinary tract infections? 
+ Patient: Yeah, absolutely. 
+ Nurse: Well, it's apparent that you've endeavored to persuade her to change her briefs as promptly as possible after wetting, which is advisable. Women, unfortunately, are predisposed to urinary tract infections due to the physiology of our urinary tract, in particular the shorter urethra which enhances the potential for upward bacterial migration, thereby potentially leading to urinary tract infections. Thus, if your mother wears wet pads for prolonged periods, that could potentially heighten her susceptibility to these infections. You are on the right track with your efforts; persist with them, they are beneficial. Other strategies to address recurrent UTI’s often include ample fluid intake, which supports the elimination of bacteria, especially when on a course of antibiotics and thereafter. There's also anecdotal evidence to suggest that cranberry juice may help minimize urinary tract infections. If she doesn't particularly favor cranberry juice, cranberry tablets are an alternative. This can be coordinated with her primary care provider to incorporate them into her medication schedule provided it doesn't interfere with her other medications. Another element to consider is the process of wiping after using the bathroom, from front to back is preferable to avoid introducing infection into the urethra. Do any of these ideas resonate with you? 
+ Patient: Yes, they do. Her physician has also told her all this, and she appears to understand. But she tends to regress to her old habits once we are back home. 
+ Nurse: Noted. Just to rule out other factors, is your mother sexually active? 
+ Patient: No, I don't believe so. 
+ Nurse: Got it. The reason I ask is that sexual intercourse can also contribute to UTIs. Immediate urination post-sexual intercourse is recommended to flush out the system. Additionally, feminine hygiene sprays and bubble baths can inadvertently facilitate UTIs. There is a common misconception that these are helpful, which they are not in this context. Now that we have addressed these issues, let us also arrange for a home health aide to visit your mother. They are trained caregiving professionals who can assist with various medical conditions and could periodically visit your home to help with her care. This might offer you some respite and potentially your mother might be more receptive to their advice. How does this course of action sound? 
+ Patient: That sounds fantastic. Between the three young children and my mother's care, I'm feeling a bit overextended. An additional caregiver might just tip the scales in our favor. 
+ Nurse: Excellent. In that regard, let me make arrangements with her primary care physician to instigate a referral for both a nurse and a home health aide to visit. We can schedule this to follow her urgent care appointment. Additionally, I'd like to get you in touch with one of our stellar social workers who have a wealth of resources to aid families caring for their loved ones. 
+ Patient: Sounds good.  
+ Nurse: Superb. I'll have our social services department get in touch with you. Would it be alright if they call you on Monday? Do you have work commitments as well, in addition to managing your family and children? 
+ Patient: I'm currently on break; I'm a teacher, so I have some time on my hands. 
+ Nurse: Wonderful. This may be an advantageous period to get that extra help set up for when the new school season begins. How does a 10am telephonic meeting on Monday sound? 
+ Patient: It works for me. 
+ Nurse: Excellent, I will pencil it in. In conclusion, I'll be notifying your mother's primary care physician about our discussion concerning her suspected UTI and your intention of taking her to urgent care. I'll also request a referral for the nurse and home health aide visits. I will touch base with you in a week to check on her progress and see how everything is going. Would a call next Friday be agreeable to you?  
+ Patient: Yes, that works. 
+ Nurse: Fantastic, I will note that. Do you have any additional questions for me at this time?  
+ Patient: No, not at the moment. 
+ Nurse: In case you wish to revisit any topic we discussed, I'm more than happy to provide an summarised email elaborating on UTI symptoms, causes, preventive measures, and mitigation strategies. Would that be beneficial? 
+ Patient: Yes, I'll appreciate that. 
+ Nurse: Could I please have your email address, Susan? 
+ Patient: It's susan.doe at gmail. 
+ Nurse: Noted, I will be sending that to susan.doe@gmail.com. Are you sure about the location of the urgent care center she's attending? 
+ Patient: Yes, I'm sure. 
+ Nurse: Excellent. Now before I let you go, do you have any lingering concerns or queries? Alright. Just to recap then, I'll arrange for Social Work Services to ring you Monday at 10am. I'll message your mom's PCP about the prospective urgent care visit and request a referral. By this time next week, I'll ring you for an update. Now, did I provide you with my contact number? 
+ Patient: I don't believe you did. 
+ Nurse: Let me rectify that. Here is my number: 333-444-5555. And as a reminder, my name is Vida. 
+ Patient: Thank you. 

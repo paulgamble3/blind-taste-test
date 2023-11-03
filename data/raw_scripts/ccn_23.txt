@@ -1,0 +1,72 @@
+ Nurse: I am Luba, your nurse case manager from Walnut Creek Health. Do you have a few minutes to chat? 
+ Patient: I'm really not up for talking right now. Can you maybe call some other time? 
+ Nurse: Of course, Jane. When would be a suitable time for me to reconnect? 
+ Patient: I don't know. 
+ Nurse: How about I attempt to reach you again in an hour? This way we may discuss what's happening. 
+ Patient: I don't think I'm going to feel like talking in an hour. 
+ Nurse: Can you recommend a better time for me to reconnect? 
+ Patient: I mean what's the use? 
+ Nurse: I'm here to understand your wellness and provide some assistance. 
+ Patient: I'm not doing well at all. 
+ Nurse: I'm genuinely sorry to hear that. Can you share more about what's happening? 
+ Patient: I'm exhausted. I'm so frustrated. It's just not worth it. 
+ Nurse: I hear you loud and clear. Would you like to discuss it further? 
+ Patient: Yeah. 
+ Nurse: Firstly, I'm reviewing your chart, and I want to address all the concerns. Before proceeding, let's confirm your identity. Could you verify your surname and date of birth? It's important for us to discuss your health correctly. 
+ Patient: Yeah, my last name is Doe, D-O-E. What else did you need? 
+ Nurse: Your date of birth, please. 
+ Patient: Oh, June the 8th, 2001. 
+ Nurse: Many thanks for confirming those details. Now that we have that settled, you mentioned feeling exhausted. Your file indicates that you were diagnosed with breast cancer, underwent surgery to remove it, completed chemotherapy, and you're currently on hormone therapy. Is this all current? 
+ Patient: I take tamoxifen. 
+ Nurse: Yes, that's a form of hormone therapy. 
+ Patient: Okay. 
+ Nurse: Beyond feeling fatigued, how has your physical health been? 
+ Patient: That's pretty much it. 
+ Nurse: I understand. Have you ever been diagnosed with depression? Are you familiar with the symptoms and do any of them resonate? 
+ Patient: I'm not sure what they are, but I can just tell you that I'm feeling really down and I feel so alone. 
+ Nurse: I see. If you'd permit, we could go through a general mental health questionnaire. It helps us better understand the state of your mental health in the past two weeks and can guide our further discussion. 
+ Patient: Why not? Okay, so in the last two weeks, how often have you felt little pleasure or interest in doing things? 
+ Patient: I guess most of the time. I have a great family. I have kids who love me, who I love. I have a wife. And But I just, I just can't. I can't do the things that I used to do. I'm too tired. I don't feel well. I'm nauseated all the time. I just don't have my life anymore. 
+ Nurse: I genuinely understand how you're feeling. While I hear about your supportive family, none of them are bearing this burden in the same way. This direct experience creates isolating feelings. I'm guessing that it might feel a bit lonely as they understand your condition from an outsider's perspective. I believe you are protective of their emotions. 
+ Patient: I don't want to be a burden on anybody. 
+ Nurse: I acknowledge your concerns. 
+ Patient: So the way I'm feeling, I feel like I'm a burden on everyone. 
+ Nurse: I can hear your struggle. I don't want to keep telling them how I feel. 
+ Patient: I don't want to keep bothering them with my problems. 
+ Nurse: I understand. 
+ Patient: They don't deserve that. 
+ Nurse: Are you open to seeking help from a mental health professional or a support group? This might provide a conducive forum for expressing your feelings without feeling like a burden. People in similar situations are usually empathetic and helpful due to their firsthand experiences. How does that sound?  
+ Patient: It definitely would. I need to talk to people who understand my language and I don't feel like my family understands me anymore. 
+ Nurse: I completely comprehend. With your consent, I'd arrange for professional counseling and connect you with a support group. 
+ Patient: That's exactly the way I feel. 
+ Nurse: I deeply empathize with your feelings. Your loss seems to be that of your health and your former life prior to the diagnosis. 
+ Patient: And I don't feel a way out of it either. 
+ Nurse: I'm truly sorry about what you're undergoing. Please rest assured that I'll strive to find the best support systems for your situation. I want you to actively partake in decisions regarding your treatment and care, making sure your voice is heard throughout the process. 
+ Patient: Yes. Yes. I am able to be in control and feel a little bit more independent again, feel like myself. And I'm just not there. 
+ Nurse: Your treatment progress shows that you've finished chemotherapy and now are on hormonal therapy. I want you to know that the negative sensations may gradually lessen. How effective has your medication for nausea been? Do you take it as prescribed? 
+ Patient: I'm taking it and it's not helping. 
+ Nurse: I see. And you're complying with the prescribed dosage? 
+ Patient: Every six hours. 
+ Nurse: Despite this, you're still experiencing discomfort, are you? 
+ Patient: If it's helping, then I can't even imagine how bad it must be. 
+ Nurse: It's clear that this medication isn't efficacious for you. Let me coordinate with your doctor to find a more suitable solution. How effective have you found your nutritional intake lately? 
+ Patient: No. No. I can't eat and I'm sure that's making me feel weak as well. 
+ Nurse: I understand, especially considering the effects of therapy and surgery. This might not be helping with your strength levels. I'll communicate this issue to your doctor, and advocate for an alternative solution. 
+ Patient: I can't even eat crackers without feeling nauseated. 
+ Nurse: Are you open to a referral to a nutritionist? They might suggest alternatives such as supplemental shakes for easy consumption and nutritional needs. What do you think about this? 
+ Patient: Yeah, I'll try it. I'll try anything. 
+ Nurse: I'm glad to hear that. Let's investigate whether an alternative or higher dose for your nausea medication could help. Meanwhile, I'd start arranging for a counselor and support group to aid you through this. I'll also consult your doctor about a dietary fix for your recent lack of appetite. 
+ Patient: I think it's a good idea. 
+ Nurse: It's important to remember that this hormonal therapy has temporary side effects. Keeping a future-oriented mindset, know that you'll regain your former strength and diminished symptoms. I also want to help manage your day-to-day experiences. Are there any queries you'd like to ask about our discussion or our plans? 
+ Patient: No, no, I don't. I think I feel a little better having talked about it because I've just been keeping everything in because I didn't want to upset my family any more than I already have. So I feel a little better already. 
+ Nurse: I'm glad our conversation has lightened your burden. Remember, you can always reach out to me. Let me share my contact number. 
+ Patient: I'm definitely willing to take it. 
+ Nurse: Wonderful. Scribble down 333-333-444-444-5555 when you're ready. 
+ Patient: I've got it. 333-333-444-444-5555. 
+ Nurse: That's correct. Next, I must ask an essential question about your mental wellbeing. Have you experienced any thoughts of self-harm or feelings that life may not be worth living recently? 
+ Patient: I mean, I thought I'd be better off not being here, but I'm Catholic. It's just not part of who I am of my mindset. 
+ Nurse: I understand. It's key to remember that such feelings aren't a sign of weakness. If you ever have such thoughts, don't hesitate to call the Crisis Line at 988, irrespective of your location. No harm in keeping this number handy, even if you don't anticipate needing it. 
+ Patient: It's good to have it. I won't need it, but it's good to have it. 
+ Nurse: That's indeed prudent. Always remember that it's beneficial to share your feelings. I'm here to provide support whenever you need it. 
+ Patient: I appreciate it. 
+ Nurse: It was a pleasure talking to you, Jane. I'll now discuss with your primary doctor about improving your current treatment for nausea and arranging a nutritional supplement. Also, remember to check your email for links on the counseling and support group resources. 

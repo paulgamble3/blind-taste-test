@@ -1,0 +1,71 @@
+ Nurse: Greetings, John. My name is David King and I am your nurse care manager from Walnut Creek Health. Is this a convenient moment for us to go over your healthcare plan? 
+ Patient: Sure, yeah, I can talk. 
+ Nurse: Excellent, thank you for your time. Now, in order to discuss your personal healthcare, I need to verify certain information. Could you confirm your full name and date of birth for me? 
+ Patient: My name is John Doe. My date of birth is June 8th, 2001. 
+ Nurse: Thank you for providing that, John. The intention behind my call today is to check in with you regarding your recent cardiologist visit. I understand they adjusted your blood pressure medications of late. Could you share how you've been managing with this change? 
+ Patient: You know, I'm not sure how it's going. I feel like I'm a little confused about my medications. 
+ Nurse: That's perfectly fine, John. How about we delve into the specifics of your confusion? Could you share your key concerns and questions regarding your medications, then we'll see if I can clarify them for you? 
+ Patient: Well, I mean, the doctor prescribes me two different medications, and I don't know who I can call and talk to, you know, to like to find out more about what I'm taking. 
+ Nurse: It certainly can be perplexing. Allow me to clarify this for you. I'm here to be your point of contact for any queries regarding your healthcare, including understanding your medications. Remember, there's no need for you to navigate this medical journey alone. If there are questions that go beyond my field of expertise, I'll make sure you get in touch with the relevant healthcare expert, such as your primary care physician. However, would you like to discuss specific concerns regarding your current medications, the hydrolazine and lisinopril? 
+ Patient: I'm looking at the bottles. Yeah. 
+ Nurse: Yes, the names of drugs can often be notoriously tough to pronounce, can't they? 
+ Patient: Yeah, definitely. 
+ Nurse: From what you described earlier, it seems like you are now in possession of both medications, the hydrolazine and the lisinopril, is this accurate? 
+ Patient: Yes. Yeah, I can see. One is, how do you say hydrolazine? 
+ Nurse: Along with Hydralazine, the other medication prescribed is Lisinopril. It's also crucial that we verify the dosages for each. The prescription for Hydralazine, for instance, should be 25 milligrams. Does this match your bottle label? 
+ Patient: Yes. Yeah, that one's 25 milligrams. 
+ Nurse: The prescribed schedule for Hydralazine is once daily. Is this instruction clearly stated on your bottle? 
+ Patient: It says once per day. 
+ Nurse: Excellent, your Hydralazine prescription is correct. Similarly, for Lisinopril, the recommended dose should be 10 milligrams. Can you verify that? 
+ Patient: Yes. Yeah, that one's 10. 
+ Nurse: Perfect. The intake schedule should be similar to that of Hydralazine - once daily. Is that the instruction on your bottle? 
+ Patient: Yeah, I'm squinting. It's hard to read. Yeah, it says once per day. 
+ Nurse: Thanks for the assurance and effort. Now, to discuss your current routine - have you been able to take both of these medications regularly? 
+ Patient: Yeah, I mean, I'm trying to remember to take them every day. Okay. Doing my best. 
+ Nurse: That's a commendable effort and very much appreciated, John. Remember, it's important for us to know your actual habits so we can effectively assist. So, even if the medications are not taken daily, do inform us. It seems you've been taking your medications reasonably often, correct? 
+ Patient: Yeah, I would say so. 
+ Nurse: Good to hear. Now, with the addition of a new medication, it's crucial to discuss your intake routine. Have you been taking both medications simultaneously, or do you spread them across the day? 
+ Patient: I take them both at the same time. 
+ Nurse: Noted, and have you noticed any unusual symptoms or reactions after taking these medications? These could indicate your blood pressure dipping too low. 
+ Patient: I'm really not sure well, how I'm supposed to feel after taking them a while. I just started. 
+ Nurse: That's understandable. Now, you were previously prescribed metoprolol, but your cardiologist revised the treatment as it wasn't adequately managing your blood pressure on its own. This led to your new dual therapy prescription, as the combination can help control your blood pressure more effectively. However, taking these medications all at once can sometimes cause your blood pressure to drop significantly, thereby warranting caution. Allow me to ask, do you have a means to measure your blood pressure at home? 
+ Patient: I do, yeah... are you taking your blood pressures before you're taking your medications, or even are you just taking your blood pressures on a regular basis? 
+ Patient: I believe I'm taking it at least once a day, sometimes a couple times a day. 
+ Nurse: Admirable commitment, John. Regular blood pressure tracking can offer us valuable insights. Could you share your blood pressure readings from today? 
+ Patient: Hold on, I wrote it down. Let me find it. 
+ Nurse: Of course, take your time. And I apologize for this back-and-forth with all the squinting. 
+ Patient: Yeah, it's, uh, okay. I think I wrote, yeah, 92 over 48. Okay. 
+ Nurse: That top number, the systolic value, is within a safe range — usually, it should be below 120 and over 90. As for the bottom number, which is the diastolic value; 48 is uncertainly lower than desired. We'd typically want that number in the 60s. To explain further— 
+ Patient: Yeah, 48. 
+ Nurse: Indeed. Let's delve into what these numbers mean. The blood being pumped around your body carries nutrients to your organs and tissues, with this distribution facilitated by the pressure inside your 'pipes', that is your veins and arteries. Optimal pressure ensures efficient distribution. Conversely, too much pressure strains your pipes, leading to potential leaks, swelling, and associated issues. On the other hand, too little pressure, like in your case, means your body isn't receiving enough blood, which can lead to symptoms such as lightheadedness, energy loss, and feeling faint on standing up. We aim for a just-right balance: not too much and not too little pressure.
+Moreover, sustained high blood pressure could result in your heart muscle enlarging, causing it to encroach on the confined chest space. This situation, termed cardiomegaly, can limit the function of other organs like the lungs. Therefore, while your low blood pressure currently needs action, we must avoid the risk of a pendulum swing to high levels. This precautionary measure is why your cardiologist switched you to this dual therapy. Does this information help clarify the rationale behind your medication switch? 
+ Patient: I think so. 
+ Nurse: Of course. It's understandably a lot of information to take in all at once. 
+ Patient: A lot of things that I don't know, haven't heard before, or the cardiologist told me a lot of stuff. And it's kind of hard for me. My son comes and helps me with this stuff, and he knows what the doctor's talking about more than I do. 
+ Nurse: That's quite alright, John. It's indeed a complex field, and I admire your keenness to understand your health better. Regarding your son, does he reside nearby, or does he commute to assist you occasionally? 
+ Patient: Well, he's been coming a couple times a week to help me with stuff at home. since I've been living alone and just need I probably need more help, I just don't think I should be asking him to come more. It's a lot for him. 
+ Nurse: Understandably, it's a delicate balance to strike. When you mention needing additional help, are there particular tasks or specialized assistance, like physical therapy, that come to mind? Alternatively, would you prefer a caregiver who can lend a hand with everyday tasks such as grocery shopping, home cleaning, or sorting your medications? They would not administer your medications but would certainly remind you to do so and help set them up. 
+ Patient: Yeah, I think just, you know, I'm getting older and I'm not as healthy as I used to be and there's just a lot of stuff that I'm not doing. My son always tells me, you need to clean, Dad, and I just, it's easier just to, when I'm tired, I just want to sit down. I don't want to clean and do that stuff. 
+ Nurse: And it's only befitting that you rest. Especially with your current blood pressure readings, we certainly don't want to risk any exertion leading to a fall. Presently, we'll look to manage your medications and blood pressure better, potentially via dose adjustments, but for now, less physical activity is the safer course. But remember, this doesn't indicate a permanent state, and soon we should hopefully see your health and strength improve.
+In the meantime, for today, could you aim to adequately hydrate yourself? More specifically, take in plenty of fluids such as water or non-caffeinated beverages. This action could help elevate your blood pressure readings. 
+ Patient: Okay. I don't like drinking water, just straight water, but for today. I know it's bad. I like drinking Coke and sometimes a beer. 
+ Nurse: It's understandable to have personal preferences, John. Although, I request you to avoid alcohol, particularly with Lisinopril. As for Coke, you could consider variants like Diet Coke or Coke Zero. You could also try bottled sparkling water to retain the fizziness while staying hydrated. For now, increasing your water consumption would be the best course of action. It should help improve your feelings of well-being and give you a little more energy, even if just incrementally. 
+ Patient: Okay. I don't really use email. So if you could call me, that would be good. 
+ Nurse: Absolutely, a phone call can indeed be more direct and personal. How about we touch base again this time tomorrow? This would serve as a refresher of today's conversation and a check-in on how you're progressing with the Hydralazine. 
+ Patient: That sounds good. 
+ Nurse: Scheduled it is, John. To wrap up today's conversation, I'll recap our main action points. Regarding your medications, I'll contact your healthcare team to discuss potential adjustments and keep me posted on whether you missed a dose. As for your caregiver requirement at home, I'll liaise with the necessary services and arrange assistance for you. Finally, I urge you to maintain your blood pressure readings daily, before taking medications and to report back your readings. Especially if they remain below 90 systolic (top number) and 60 diastolic (bottom number), hold off taking your medications and reach out to your healthcare team promptly, okay? 
+ Patient: Okay. It's a lot to remember. 
+ Nurse: That's true, John. And to assist with that, I'll call you tomorrow for our follow-up, reminiscent of our discussions. Also, could you start from tomorrow taking the Hydralazine in the morning and Lisinopril at night? This should help manage your blood pressure rhythm better and reduce any potential side effects. 
+ Patient: So, the hydrolazine is in the morning, right? 
+ Nurse: Yes, precisely. The hydralazine is for the morning, and the lisinopril is meant for bedtime. 
+ Patient: And if I forget to take the one at night, what should I...is that a problem? 
+ Nurse: In such cases, it's ideal to check your blood pressure in the morning first. Then get in touch with me, or your cardiologist, but remember, I'm typically quicker to reach. We'll decide whether to take the missed lisinopril dose based on your blood pressure readings. 
+ Patient: Alright. Yeah, I usually I take them at the same time just because it's easier to remember, but I'll put the lisinopril next to my bed and hopefully, hopefully I'll take it. So not tonight. Should I start tomorrow, one in the morning? 
+ Nurse: Correct, we'll start this new schedule from tomorrow. And one thing to note, Lisinopril can sometimes cause persistent coughing as an unusual symptom in certain patients. Have you experienced something similar recently? 
+ Patient: I don't know. Sometimes I cough in the morning, maybe just because of, I don't know, I have a stuffy nose or something. Maybe allergies, so I I'm not sure. 
+ Nurse: From your description, it doesn't quite seem to be a reaction to the Lisinopril, especially since it was present before this medication. However, if you do observe a persistent cough linked to your medication, it might be prudent to consider an alternative drug class known as ARBs that function similarly to Lisinopril but typically don't cause a cough. But remember, there's always a medical solution to any struggle you face - you're never alone in this journey. 
+ Patient: Alright, thank you. I really appreciate it. 
+ Nurse: You're very welcome, John. Do you have my contact for any questions that might arise later? 
+ Patient: Yeah, I think I do. 
+ Nurse: Excellent, John. I'll take your leave now, but remember, I'll call you again tomorrow for our follow-up. Meanwhile, I'll get in touch with your healthcare team to arrange for home caregiver assistance and update them on today's blood pressure readings. As per our new medication schedule, start taking your Hydralazine in the morning and Lisinopril at night from tomorrow. Also, remember to measure your blood pressure before taking any medication, and don’t hesitate to get in touch if your readings fall below 90 systolic and 60 diastolic. 
+ Patient: All right. I really appreciate it. Thank you. 

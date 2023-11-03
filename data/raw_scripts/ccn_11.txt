@@ -1,0 +1,96 @@
+ Nurse: I'm sorry to hear that, Jane. Can you share more about your current health concerns?  
+ Patient: I'm worried. I seem to be facing a health problem.  
+ Nurse: Indeed, we can sort that out. Can you first share your birth date with me so we can delve deeper into your health status? 
+ Patient: Sure. It's June 8, 2001.  
+ Nurse: Appreciated. Now, can you brief me more about your current health issues, Jane?  
+ Patient: I believe my heart is failing. 
+ Nurse: You believe your heart is in decline. May I ask why you believe so? 
+ Patient: That's what they informed me.  
+ Nurse: And who are 'they'? At the medical facility, perhaps? 
+ Patient: I made a visit to the hospital a few days ago.  
+ Nurse: That's part of why I'm calling today. I'm glad we can discuss this. It appears you visited the hospital recently due to some issues related to congestive heart failure. Is that correct? 
+ Patient: Yes, I was struggling with breathlessness, and I couldn't comprehend why I gained so much weight so quickly. I was incredibly weary and could hardly get out of bed. I was unable to look after my children or accomplish anything.  
+ Nurse: Well, firstly, the diagnosis they provided, where you stated your heart is failing. You have been diagnosed with congestive heart failure. This essentially means your heart struggles a bit more with pumping. It isn't immediate failure, instead, it denotes your heart isn't operating as efficiently as it used to, does that make sense? We can assist your heart and manage this health issue. I just wanted to check-in, understand how you're feeling and see how I can assist you. How does that sound to you? 
+ Patient: I suppose I am slightly more at ease because this heart issue seems new. Still, my father has been dealing with this same situation. He's significantly older than I am but he seems to be managing quite well, and this provides me some hope. 
+ Nurse: That's a hopeful perspective, Jane. Indeed, you are younger than your father and now that you have been diagnosed with congestive heart failure as well, it's reassuring to see your dad manage it effectively. As I mentioned previously, this diagnosis requires diligent management to avoid overexerting your heart. It appears you've already endured some of the effects of the heart not pumping as efficiently as it should. The shortness of breath, fatigue, and quick weight gain are all symptoms that indicate the heart isn't operating optimally. Subsequently, fluid builds up and gets to a point where the heart can no longer manage it. I'm relieved you were able to access medical care immediately, sorry it had to escalate to that, but let's focus on ways to help you manage this and teach you how to care for yourself. Shall we proceed?  
+ Patient: That sounds fair, let's proceed. 
+ Nurse: Wonderful. Let's revisit this, I just mentioned a lot of information. How are you feeling about everything I have relayed thus far? 
+ Patient: I comprehend it, but I think it just made me a bit more emotional and worried. 
+ Nurse: That's understandable. This is a very serious situation and it's quite normal to be worried. It naturally sends anyone into a panic. However, understanding what exactly is happening could relieve some of the apprehension, and provide a clearer picture of the necessary steps.  
+ Patient: I understand now. It just seems grim to hear the words 'heart' and 'failing' together. 
+ Nurse: Yes, I fully agree. What we strive for now is to prevent your heart from struggling any further. Now that the diagnosis has been made, there is much we can do. It's often the case that individuals may have had congestive heart failure for a while without even realizing it. Various signals that the heart isn't properly managing fluid overflow and the body cannot effectively remove additional fluid, often result in a decline in health. So, this can also be viewed as an alert of what to expect and how to manage your heart health better. If you're open to discussing this further, I'd appreciate that. 
+ Patient: The information is a lot to digest, but if it will help, I suppose I should. 
+ Nurse: Perfect. I recall them walking you through this at the hospital, but to recap, there are a few ways to assist your heart with better pumping and managing the fluid within your body to lessen the load on your heart. One key method is medication. Ensuring you consistently take your prescribed medication is essential. These medications will help remove excess fluid and help your heart get a better handle on the pressure. Additionally, you'll have to closely monitor your heart health by measuring your blood pressure daily and tracking your weight every morning. Do you remember any of these points from the hospital discussions? 
+ Patient: I faintly recall, but can I rely on our conversation being non-judgmental? 
+ Nurse: Absolutely, no judgement here.  
+ Patient: Because I don't know if you will report back on my activities. 
+ Nurse: Not at all. Please, proceed. 
+ Patient: I haven't been very diligent about taking my medication. 
+ Nurse: That's useful information. It does provide some perspective on why you might be experiencing some issues. When you refer to not taking your medication, which do you mean exactly? 
+ Patient: I practically abstained from all of them when I was discharged. I felt remarkably better and thought my ailment was cured, and that the medications were superfluous. 
+ Nurse: Well then, that does provide some insight. Can you share more details on the medications prescribed for your heart health management, particularly those you were scheduled to take regularly? 
+ Patient: Before I was admitted to the hospital, I was taking something called metoprolol. 
+ Nurse: That's correct. How frequently were you using this medication? 
+ Patient: Once a day.  
+ Nurse: Occurring daily. Alright. You mentioned that you ceased taking this medication. Can you elaborate on why? 
+ Patient: Once I was discharged, feeling somewhat better, I thought it best not to disrupt the healing and just stopped everything. 
+ Nurse: Fair enough. Do you understand the intended function of metoprolol for your health? 
+ Patient: I'm not really sure, to be honest. 
+ Nurse: That is a blood pressure medication. According to your chart, in the hospital your blood pressure registered at 151 over 101, which is quite elevated. We should aim to have your systolic rate (the top number) to be around 130 or below, and the diastolic rate (the bottom number) to be 80 or below. Regular usage is key in monitoring the effectiveness of the treatment. As high blood pressure—we also call it "hypertension"—usually don't have noticeable symptoms, the best way to comprehend the condition is to regularly measure it. High blood pressure, simply put, amplifies the effort your heart has to exert. Imagine a bicycle pump—if the pipe that leads to the tyre is partially blocked, naturally, you're going to have to pump even harder. That's what's going on with high blood pressure. This means your heart has to work significantly harder. This inability to work effectively to circulate the fluids around your body hampers the supply of oxygen around your body. This can lead to severe health conditions such as strokes and heart attacks. As such, this is a critical health concern. It is essential you regularly monitor this condition to manage it as best you can. 
+ Patient: Turns out I do have a monitor. I'm just not sure how to use it. 
+ Nurse: Not a problem at all, we can address that in a moment. Firstly, can you tell me when you last took your metoprolol, Jane? 
+ Patient: I suppose they gave it to me in the hospital. 
+ Nurse: The metoprolol? 
+ Patient: I think so.  
+ Nurse: If you were taking this medication before the hospital visit, and since you were feeling well and didn't see the necessity of taking the medication regularly, it indicates to me that its importance may not have been communicated effectively. From now on, for every medication we will discuss, my suggestion is to adhere to the dosage regimen provided. Does that sound reasonable?  
+ Patient: Yes, that sounds fair. 
+ Nurse: So, can we run through the other prescribed medications for your heart. Did you manage to collect them from the pharmacy before going home?  
+ Patient: Yes, I managed to pick everything up before I returned home. 
+ Nurse: Excellent. The first medication I see prescribed is Lasix. Is that correct? 
+ Patient: Yes, I do have that. 
+ Nurse: Can you tell me the dosage instructions on the package? 
+ Patient: It says 20 milligrams twice a day. 
+ Nurse: Did you manage to take any of this medication today? 
+ Patient: I didn't.  
+ Nurse: We should initiate that prescription right away. It is intended to relieve your body of the excess fluid associated with your heart's difficulty with pumping. If we start taking the medication today (one in the morning and the other pill later in the day) and monitor the effectiveness, this could help alleviate some of your symptoms. This medication will increase urination so consider the timing of the second pill—maybe earlier in the evening—so it doesn't disrupt your sleep. 
+ Patient: Yes, sleep is important. 
+ Nurse: Spot on. Moving to the next medication, lisinopril. Is that accurate? 
+ Patient: That's a new one they prescribed. 
+ Nurse: Correct, lisinopril was recently added and is also for managing your blood pressure. It operates slightly differently to metoprolol. By adding this medication, it will corroborate the efforts of the metoprolol. Can you tell me how often you are instructed to take this medication? 
+ Patient: It is noted as a once-daily dosage. 
+ Nurse: Perfect, you can take both the metoprolol and lisinopril at the same time, if that is easier for you. 
+ Patient: Yes, that seems manageable.  
+ Nurse: And lastly, do you have any potassium supplements prescribed? 
+ Patient: Yes, it reads 'potassium 40 M EQ once a day'. 
+ Nurse: Excellent. The purpose of the potassium supplements is to balance out the potassium levels in your body as the Lasix can cause depletion. The potassium levels are vital to keep your heart functioning regularly. So, today, you have a regimen of pills to commence taking. I hope this clarifies what the medications are intended to accomplish for your heart health. The primary action you need to take is regular medication adherence. Do you have any strategies in place to help remind yourself to take the medications every day?  
+ Patient: If I place them on my kitchen table, that might remind me. 
+ Nurse: That sounds like a positive first approach. Let's monitor if this method works for you this week. 
+ Patient: Yes, they were previously stored away in a cabinet, 'out of sight, out of mind' applies here. I believe leaving them on the table will make a difference. 
+ Nurse: If it's safe for you to do so—considering the presence of any children in the household—then this method should be effective. Do you have any children around who might tamper with your medications? 
+ Patient: No, they're teenagers. 
+ Nurse: Good, just let them know Mom's meds are off-limits. Alright, let's observe how this technique works out for you. Moving on to the blood pressure monitor you've mentioned. 
+ Patient: Yes, that's next. 
+ Nurse: Would it be helpful if we work through the instructions over the phone, or perhaps your father might be able to assist? 
+ Patient: I think I will walk over to my father's place and ask him to show me. It's a short walk. 
+ Nurse: That sounds good. Just remember to allow your body to rest for about 15 minutes after the walk before taking your blood pressure. It's best to take the blood pressure reading at the same time each morning, preferably just after you wake up. This way, you get a consistent reading to report back. Do you follow? 
+ Patient: Yes, I understand. 
+ Nurse: Great, and you've weighed yourself today which is fantastic! We are not focused on the weight gain in itself, rather, what the changes can indicate about your fluid management, remember? Dialling back to when you were in the hospital, you mentioned a significant surge in weight. With our weight monitoring, we ensure that the heart maintains good management of the fluid levels. The ideal is not to gain more than two pounds in a day, or five pounds in a week. Can you share your weight measurement for today? 
+ Patient: Yes, it wasn't a substantial gain as I had weighed myself after a light lunch. It read 144 pounds today. 
+ Nurse: That appears to be a three-pound weight gain since your hospital discharge. Given that you had something to eat before the weigh-in, you must keep in mind to do this first thing in the morning before eating or drinking anything—a better gauge of your health status. It would be beneficial to monitor your weight and your blood pressure simultaneously in the morning. 
+ Patient: Sounds fair. 
+ Nurse: Okay, I wish to connect you with our dietician to go over your dietary preferences, specifically sodium levels and fluid intake. I don't wish to overwhelm you, but diet is another important link in managing this issue. Just a brief rundown—you ought to monitor your sodium intake, ideally keeping it around 2000 milligrams a day. Also, fluid intake should be managed, not exceeding one and a half to two litres of fluid a day as it can place additional load on your heart. I can organize a session with our health educator and dietary specialist to go over this with you. What do you think? 
+ Patient: Yes, that sounds good. I recall them mentioning diet and drinking habits, and I can't find any information on all that in the documents they gave me at the hospital. 
+ Nurse: That is a lot to take in, I understand. I'm sure there were many points to keep in mind. However, you confidently mentioned diet and fluid intake, which are the other two things we need to take care of. I can saddle you up with an educator who can guide you about all these intricacies, help you design menus, understand managing salt intake, and learn more about contributing to your overall health. They will assist you as though you had a coach, checking in a couple of times per week. How does that sound? 
+ Patient: I could use some assistance there, particularly with the salt intake. I can't tell what 2000 milligrams of salt looks like. So, yes, I would appreciate that assistance. 
+ Nurse: That's decided then. If it's convenient, the nutritionist will give you a call tomorrow in the afternoon around 1 p.m. I think that's a good place to start since you've noted a couple of things to focus on this morning. Would you like us to go over the game plan for today? 
+ Patient: Yes, the game plan involves taking my medication, managed monitoring, and requesting my father's help with the blood pressure monitor. 
+ Nurse: Perfect. Now, for medications, you mentioned leaving them out on the kitchen table to remind you. Moving on to the blood pressure monitor, you're planning on asking your father for some assistance, which seems like a viable plan. Lastly, in terms of your daily monitoring, you noted weight measurements for today. Admirable initiative. We want you to try to measure your weight first thing in the morning before eating or drinking anything. That's about it. Did we cover all the morning tasks? 
+ Patient: Yes, that's settled for now. 
+ Nurse: It sounds like you're geared to go. Before I leave, I feel compelled to ask—if you've experienced any symptoms today? Specifically, shortness of breath, chest pain, or feelings of dizziness. 
+ Patient: So far, I haven't experienced any of those symptoms today. Although I was short of breath before I was admitted to the hospital, the symptom hasn't reoccurred since. 
+ Nurse: I'm glad to hear there are no immediate concerns. I'll update your primary care physician about our discussion today. Given your current weight gain and considering you had eaten a meal before the weigh-in, it's important for the doctor to be informed. To help manage your health, schedule an appointment with the doctor for as early as next week. 
+ Patient: Yes, I am able to do that. 
+ Nurse: Excellent, let's touch base next week to discuss further and assess how the step-by-step approach is working out. Meanwhile, here is my number to reach out easily if you have any questions. 
+ Patient: Alright. 
+ Nurse: The number is 333-444-5555. 
+ Patient: Noted. 

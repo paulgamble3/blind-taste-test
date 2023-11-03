@@ -1,0 +1,71 @@
+ Nurse: Greetings, Jane, my name is David King, and I serve as a nurse care manager at Walnut Creek Health. Is this an appropriate moment to have a discussion? 
+ Patient: Uh, yeah, I can talk. 
+ Nurse: Excellent, I appreciate your flexibility in talking with me. However, before proceeding with any further conversation, it is required to verify your full name and date of birth. Shall we go through that now? 
+ Patient: My name is Jane, J-A-N-E, Doe, D-O-E, date of birth, 6-8-2001. 
+ Nurse: Outstanding, Jane. Now, we will be discussing several important things today, that includes ensuring your understanding of CHF or congestive heart failure, information about your medications, and your comprehension about your medication regimen. Additionally, we'll discuss certain measures pertinent to your diagnosis such as monitoring your weight and diet and fluid intake. We'll tackle these one at a time. I'd also like to check if we're good with time for this call. 
+ Patient: Are you, is it you? 
+ Nurse: Can we proceed with this conversation now? 
+ Patient: Yeah, yeah, I have time. 
+ Nurse: Marvelous. Let's talk about your CHF for a moment. How is your experience with congestive heart failure currently? Could you describe the current moment? 
+ Patient: Well, right now I'm, I'm actually a little bit worried because my weight has gone up again since I left the hospital. And they told me that I should be keeping an eye on that. So I know, I know like something, something is not, not right. 
+ Nurse: I see, your weight changes are causing concern. Would you be comfortable sharing today's weight? 
+ Patient: Yes, it was 145 pounds, which I've never weighed that much before. 
+ Nurse: And you were discharged from the hospital two days ago, correct? 
+ Patient: Yes. 
+ Nurse: So, a four-pound increase in two days. An important factor related to CHF is weight, as rapid weight gain can signify potential concern. It's crucial to notify your primary care provider if you gain more than two pounds in a day or five pounds in a week. The reason behind this is your weight gain is likely due to fluid retention, which might affect your breathing and create stress on your heart. If I remember correctly, CHF was the cause of your recent hospital visit, and we want to prevent a recurrence of that. 
+ Patient: An exacerbation of what? 
+ Nurse: Exacerbation refers to the flaring up of symptoms. In your case, it refers to the shortness of breath, weight gain, and other symptoms related to your congestion heart failure (CHF) condition. Would it help if we refer to it as a CHF episode? 
+ Patient: Okay. I think I understand. 
+ Nurse: Great! So keeping an eye on weight is crucial because it could signal an upcoming CHF episode. As you experienced, rapid weight gain is likely due to fluid retention, which puts more strain on your heart and can lead to breathing difficulties or more serious heart problems. This is the reason for your prescribed medications to assist with fluid retention. 
+ Patient: Yeah. So they gave me two new medications and I'm going to be honest, I haven't been taking them. 
+ Nurse: I appreciate your honesty, Jane. May I ask why you chose not to take those medications? 
+ Patient: Well, I, I take other medications too and I guess I, I wasn't sure if there'd be any, like if I was taking the new ones and the other ones that I have for like my blood pressure, if they would make the other ones not work as well or, or anything like that. 
+ Nurse: I can see a reason for your hesitation in adding new medications. It's great that you are cautious about what you're putting in your body. However, be assured that all your doctors coordinating your care are aware of the medications you're taking. The communication exists to ensure all medications you receive are designed to work together seamlessly, so there's no need for concern about them affecting each other. 
+ Patient: Yeah. 
+ Nurse: Specifically, the doctors have considered your current medications like Lisinopril and the new prescriptions they've added. 
+ Patient: Yeah. I have, um, what's it called? Metoprolol. 
+ Nurse: Yes, Metoprolol or MET for simplicity, which you've been on for a while and has been assisting with blood pressure management, correct? 
+ Patient: I, I'm not sure. Okay. Because I, well, I, I think I'm not always sure what, what symptoms have to do with what problem I have. 
+ Nurse: That is quite common, and if you're interested, I could provide some further education about it. But I understand if you'd rather not delve into it too much. Some people prefer to keep things straightforward. 
+ Patient: I would rather not think about it. I would rather just, um, maybe I'm not taking care of myself the way I should because, uh, because I had this, uh, heart failure thing, uh, that put me in the hospital and I get it. I know my dad has, he has, um, the same kind of heart failure that I do. So, so, uh, yeah. 
+ Nurse: I understand your feelings and how your family history adds to your concerns. Let me ask you, how does your father manage with his heart condition? And how does his situation make you feel? 
+ Patient: Um, well, he's had it for such a long time and he, I know he's been on medication for many years, so I, um, overall he's been healthy, but right now I'm, I'm worried about both of us, um, because, well, like he's, he's not getting any younger and, um, and I always thought that I could be like, you know, the person who would, who would go there if he had an emergency. But, um, I'm, I'm starting to, I'm starting to think that now, uh, I don't, I don't, I can't even take care of myself. 
+ Nurse: Thank you for sharing your feelings, Jane. It's understandable why you're feeling this way, but remember, just because you're dealing with a health condition doesn't mean you're not capable of self-care, nor being there for your father if he needs you. Your father has managed his condition for years, and so can you. Though it might feel overwhelming now, following your treatment plan can help control your CHF and keep you on track. Stay optimistic about the future. CHF is a manageable condition, and I'm here to guide you through it. 
+ Patient: And well, thank you for, you know, making me feel better about that. I think my family's been a little unlucky, especially the past year because my husband, he's got his own health stuff going on, so I don't like to bother him too much with mine. But yeah, just, I felt really, really anxious this week and I don't want to have that, like, what put me in the hospital was I just couldn't breathe. 
+ Nurse: I can understand your concerns. How are you finding your breathing at the moment? 
+ Patient: It's better than it was. 
+ Nurse: That's a positive sign! As for your husband, could you share a little about his medical conditions? Are he is still able to function independently, or are you providing any care for him? 
+ Patient: Well, you know, he's had some issues with his prostate and so he, but he's good about going to his appointments and he's on his meds. So I think he has it under control, but obviously it makes me worry more. 
+ Nurse: Sounds like while he has his health condition, he is managing it effectively, which is good to hear. Now, returning to our focus on your medication regimen, would you like to go over the list of the medicines you have at home to ensure we're on the same page? 
+ Patient: Okay. 
+ Nurse: Right, let's start with Furosemide, also known as Lasix. You have that in your collection, correct? 
+ Patient: Mime, I'm looking at it now. It says it's furosemide. 
+ Nurse: Indeed, that's it, fur for short. Now, this medicine is taken twice daily and contains 20 milligrams per dose, is that right? 
+ Patient: Yeah. This is 20 milligrams two times per day. 
+ Nurse: Given it is a diuretic, or 'water pill,' this medication will lead to increased urination. When scheduling its use, try to account for convenient timings such as before bed. As it could lead to the loss of vital nutrients like potassium from your body, make sure to replenish these either through your diet or supplements. 
+ Patient: That's fun. 
+ Nurse: Certain factors in the treatment journey can indeed get tricky. As for Metoprolol, or 'met,' this medication is primarily for managing your blood pressure. How has your experience been with it? 
+ Patient: Well, I should be, I have to admit I haven't been taking that. 
+ Nurse: I see, so you've been skipping both fur and met. 
+ Patient: Yeah. 
+ Nurse: While it might feel overwhelming right now, adherence to your medication schedule is essential for managing your condition. Regularly monitoring your blood pressure and maintaining a consistent schedule for your medications would be significant steps towards managing your condition more effectively. 
+ Patient: I was going to ask how often would you recommend that I check my blood pressure? 
+ Nurse: Ideally, checking your blood pressure about four or five times a week at different times of the day would be beneficial. This data will help us determine if there's a need to adjust your medication schedule to manage fluctuations in your blood pressure better. 
+ Patient: I haven't used this thing in a while so I'll be trying to do what you're telling me to do. 
+ Nurse: That's the spirit, Jane. A little forewarning, since you haven't used the device for a while, check its batteries for adequate functioning. Based on your readings, we can assess your blood pressure management and consider any necessary changes in your medication schedule. Now moving on to Tylenol, you've been prescribed 1000 milligrams every eight hours, as needed for pain. Have you been having any pains? 
+ Patient: Sometimes I do. Like I don't have any at the moment though. 
+ Nurse: So you've been taking Tylenol only when necessary? 
+ Patient: Yes. Only if I feel like I really need it. 
+ Nurse: Alright. Now, a vital aspect towards your CHF management is consistent weight monitoring. Tracking your weight daily would provide crucial data that could signal a CHF episode and hence, sufficient time for proper medical intervention. 
+ Patient: So if I'm, so I really do have to take the water pill. 
+ Nurse: Yes, taking the medication as prescribed is crucial to manage fluid retention, which is directly related to your weight and CHF. About your diet, limiting fluid intake to two liters a day and sodium to under 2000 milligrams are key aspects of your diet. This limit would significantly contribute to managing your condition. 
+ Patient: So it might be okay if I, if I ate, if I made soup once a week? 
+ Nurse: Certainly, as long as it fits into your daily limit of two liters of fluid and under 2000 milligrams of sodium. Instead of thinking about extreme changes, consider it as a shift towards a healthier balance. Rest assured, once we get through this CHF episode, your diet can be re-evaluated for more flexibility. 
+ Patient: I don't anticipate that happening, but I hope not. 
+ Nurse: Your strength and positive attitude go a long way in your recovery and management of CHF. Now, have I addressed all your concerns? 
+ Patient: I kind of know what I'm supposed to be eating, but I think I'm a little, I think I'm a little bit, I know you said I shouldn't drink so many fluids. 
+ Nurse: Correct, limiting liquid intake as I mentioned is part of the overall management plan for CHF and will help manage fluid retention. How about we continue this discussion tomorrow? It seems like a lot to take in one go. Would that be alright? 
+ Patient: I was going to say, I can't really talk much longer because I have to make another phone call. But is there, is there a way that I can reach you another time? 
+ Nurse: Absolutely, here is my contact number - area code 333. Please feel free to call me anytime you have questions or need assistance. 
+ Patient: Mm hmm. Mm hmm. Okay. And then what was your name again? 
+ Nurse: My name is David King, your dedicated care manager. Remember, I'm here to help navigate your path towards managing your CHF. Don't ever hesitate to reach out. I'll also ring you tomorrow morning around 9:30, if that works for you, to review how everything is going and discuss more on your diet specifics. 

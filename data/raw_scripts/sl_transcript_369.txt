@@ -1,0 +1,62 @@
+Nurse: Wonderful, nice to meet you. And um, you're actually due for a phone call. So I wanted to see if you just had a few minutes to kind of touch base since your last appointment. How have you been feeling?
+Patient: I've been feeling ok. Yeah, I've been feeling pretty good. I'm fighting a little bit of a cold today but that's, you know, that's ok. Oh,
+Nurse: Goodness sorry.
+Patient: Yeah, but no, I feel. Yeah.
+Nurse: No, go ahead. Go ahead. Good, good. I'm glad. Yeah. Glad to hear it.
+Patient: Um, um, I was in to see, uh, uh, is her name [PHI-Personal]? Is that? Yes, [PHI-Personal].
+Nurse: Yes. Yes. Uh huh.
+Patient: Yeah, I was in to see her on the [PHI-Personal] of [PHI-Personal] and it was the first time that I had a visit with her. Excuse me. Um, the blood pressures were, were, were pretty good. Uh, I had, let me see who sent me this. Is it? Cafeteria cap? I can't, I don't know. Ckapatre. A um, he sent me a, no, she sent me a chart to record, uh, BP.
+Nurse: Oh, like a daily log. Yes.
+Patient: Yes. Yeah. Like a log. Right. And how you been
+Nurse: Doing with that?
+Patient: It's been ok. It's, I think it's been pretty good. I, I think the day I was there, uh, with [PHI-Personal] at my right arm was [PHI-Account] 34. Over 82. My left arm was [PHI-Account] 22/78. Uh, I've taken it like once a week since then and my right arm has been in the neighborhood of like [PHI-Account] 28 [PHI-Account] 29. Um, my left arm has been [PHI-Account] 29 [PHI-Account] 19, [PHI-Account] 21. So, um, I think it's been pretty good. Good,
+Nurse: Good. And I'm sorry, I didn't get the first half. You were checking it how often
+Patient: Like once a week I did it, I, uh, I mean, I have it here. I, I did it on 4 30. I did it on [PHI-Personal] and I did it on 5 15. Ok, so let me let
+Nurse: Me jot those down with the date. So we have record of that. So 4 30 was the first one. What time was that? Do you recall?
+Patient: Uh [PHI-Personal] o'clock? [PHI-Personal].
+Nurse: And what was that reading?
+Patient: It was [PHI-Account] 28/78.
+Nurse: [PHI-Account] 28/78. Ok.
+Patient: Pulse was [PHI-Personal].
+Nurse: Pulse was [PHI-Personal]
+Patient: And the left arm was [PHI-Account] 29/[PHI-Personal].
+Nurse: I apologize. My that's ok being
+Patient: I can I it yeah, I can take a picture of it. If you have a cell phone, I could send it to you. Um
+Nurse: I'm sorry I don't have the the texting capabilities here. Uh so 4 30 at [PHI-Personal]. it was one tw [PHI-Account] 28/77 right?
+Patient: Uh on the right arm it was uh 78 [PHI-Account] 28/78.
+Nurse: Ok, let me add that one. So it doesn't disappear. Ok, and then you said the pulse was what?
+Patient: [PHI-Personal]
+Nurse: [PHI-Personal]? Let me add that. Ok. Ok. And what was the next one?
+Patient: The left then? That same day I took the left arm and it was [PHI-Account] 29/[PHI-Personal]. Ok. And Pulse was [PHI-Account] [PHI-Account]
+Nurse: And that was around the same time right after. Yeah,
+Patient: It was the same time [PHI-Personal] o'clock AM.
+Nurse: Ok. And then what was the next reading?
+Patient: [PHI-Personal]. Ok. Eight o'clock PM. Ok. [PHI-Account] 28. Over 74. That's right arm. Ok. Pulse was [PHI-Account]. Ok. Left arm was [PHI-Account] [PHI-Personal]. That's the best. It's been in a long time. That's very good. Yeah, it was Pulse was 74. Ok.
+Nurse: And you haven't had another reading, right? It was just those.
+Patient: No, I, I have one more. Ok, go ahead on, on 5 15. And it is 8 50 pm.
+Nurse: 8 50 pm. Ok.
+Patient: [PHI-Account] 29/74. [PHI-Account] 20
+Nurse: 9, 74.
+Patient: Ok. Pulse was [PHI-Personal] [PHI-Personal]. The left arm was [PHI-Account] 21/74 and Pulse was Pulse was [PHI-Personal] [PHI-Personal]. Ok. Yeah,
+Nurse: Very good. Ok.
+Patient: So, yeah, they've been, it's been pretty good.
+Nurse: Very good. Yeah, those are, those are good numbers.
+Patient: Yeah, I thought so too. Yeah, I, I, yeah, I, I learned a little bit about how to take it because I, um, I think, uh, I can't, I think of what her name was. Maybe they had called before. And, uh,
+Nurse: Yeah, I,
+Patient: Yeah, yeah, she said take it at the kitchen table with your, you know, your arms resting on the table. So,
+Nurse: Yes, arms rested on the table. Um, your back seated, supported legs on cross feet XXflat on the ground.
+Patient: Yeah, that's for, yeah, you,
+Nurse: You, you give yourself right when you sit down at least like, you know, 2 to 3 minutes just to settle in and sit down and then that, that'll give you your true reading, you know?
+Patient: Ok. Yeah. Yeah, I was taking it all kinds of different ways. So, yeah, maybe this is a better way to do it.
+Nurse: Yes, definitely. That's good. Yeah.
+Patient: Um, I did, I don't know if they, if they need to see it. I, I did go, I go see a dermatologist, um, like once every 15 months I think it is. And since I saw [PHI-Personal] I did see a dermatologist. Um,
+Nurse: Everything. Ok, there,
+Patient: Well, uh, well, I had two, he called them pre cancers. Burn off. Yeah. Uh, they do like a, it's like a, it almost looks like, like, uh, I don't know, like dry ice
+Nurse: And it, like frozen, like they were frozen off.
+Patient: Yeah, frozen off. Yeah. So two little spots were taken off and, and I, I have a lot of moles so, you know, he does a full scan and there was, there's one mole on my back that he doesn't think it's anything but I go back in August. He said to have it shaved off. Ok. So, yeah,
+Nurse: In August. Ok. I'm just making note of that as you say
+Patient: It. Yeah.
+Nurse: Good. And, um, do you need any medication XXrefills at this time?
+Patient: Uh, no, I just got one refilled the, uh, just a few days ago. So I'm good.
+Nurse: Perfect. Perfect. Ok. And do you have any other questions or concerns for me?
+Patient: No. No, I'm good, [PHI-Personal]. Thank you.

@@ -1,0 +1,43 @@
+ Nurse: I'm grateful for your cooperation. I'm here to follow up on your recent shingles diagnosis. As a representative of your primary care physician, may I enquire how you're currently feeling? 
+ Patient: Oh, you know, I've been better. 
+ Nurse: I truly sympathize with your predicament. Could you kindly detail any issues you are experiencing with the shingles? How are you addressing the discomfort? 
+ Patient: Well, I've been using, you know, all this stuff they've given me. Seems like a ton of stuff I need to do, but I want to get ahead of this, so... 
+ Nurse: I understand your situation, John. Would it be alright for us to discuss your medications and the measures you're taking to manage the shingles? 
+ Patient: Sure. 
+ Nurse: Fantastic, allow us to proceed. I see that your doctor has prescribed Acyclovir, to be taken five times a day for the coming week. Have you begun this course? 
+ Patient: Yeah, I started yesterday. 
+ Nurse: Excellent! Additionally, they've prescribed Gabapentin for nerve pain. You're instructed to consume a hundred milligram tablet thrice a day. You're also recommended to apply Acyclovir cream five times to your skin lesions to reduce viral replication. How are these instructions working out for you? 
+ Patient: Well, it's been okay. I have an easy time putting it on my chest, but you know, it's a little harder to get it. Make sure I'm getting it on my back. 
+ Nurse: Is there someone lending a hand with the cream application on your back? 
+ Patient: No, I've been trying to do it myself. 
+ Nurse: Are you utilizing a mirror to aid in reaching the rash areas on your back? 
+ Patient: Yeah, for the most part. 
+ Nurse: That's a smart move. Let's talk about your pain management – I notice your physician recommended Lidocaine patches. 
+ Patient: Yeah, I feel like those are the only things that really help the most. 
+ Nurse: I acknowledge. What about the Tylenol? Have you found it to be of assistance in managing the pain? 
+ Patient: Yeah, I don't know. It's hard to tell. I'm still having some pain, honestly. 
+ Nurse: Quite unfortunate. Shingles can indeed be quite troublesome, with its painful, burning, and tingling sensations. Are you noticing any change in the pain levels at certain points of the day? 
+ Patient: I feel like the best relief right now is the Lidocaine patches. I don't know if there's a certain time of day that it's better or worse, but it's still, you know, this sharp shooting pain in my back. 
+ Nurse: It's regretful to hear such discomfort you're experiencing. Can you recall when you first began your medications? 
+ Patient: Uh, let's see, it would have been two days ago now. 
+ Nurse: Alright then. So, you have five more days to stick to your Acyclovir and Tylenol doses along with the cream. Are you diligently monitoring any changes in the rash? 
+ Patient: I mean it looks a little better than, you know, first day, but it's still, it looks bad. Like it's embarrassing. 
+ Nurse: I understand your concern. A helpful suggestion could be wearing loose-fitting clothing in order to avoid irritation of the rash. Tight clothing could increase your discomfort. Where is the rash mainly located? The chest and which part of your back – left or right? 
+ Patient: It's more towards like the right mid back. 
+ Nurse: Noted. Have you taken a break from work to focus on recuperation? 
+ Patient: Yeah, I've been doing a little bit of working from home. 
+ Nurse: That's advisable. Stress management is crucial to alleviate the severity of shingles. Please ensure ample rest, maintain overall health, and practice relaxation techniques to expedite your recovery. How feasible does this sound? 
+ Patient: I mean, it's a good idea in theory, but I feel like I'm so anxious about, you know, the shingles that is, that is causing stress and then maybe that's just going to make it flare up. I don't know. 
+ Nurse: Is there a specific aspect about shingles that's causing your anxiety? 
+ Patient: Uh, feeling like it's never going to go away. Um, that it's, I don't know, maybe it'll scar it like it looks so bad. Um, it's, it's cool. So I've never, I've never dealt with something like this before. besides, you know, when I had chicken pox when I was a kid, but it's nowhere near this bad. 
+ Nurse: I comprehend your concerns, John. You're making commendable progress by adhering to your medication and treatment plan. While the rash and discomfort may seem overwhelming at present, it is essential to complete the full course of your current medications for effective recovery. Also, remember to hydrate adequately while on Acyclovir. Have you noted other symptoms like a change in your energy levels or increased headaches? 
+ Patient: Feeling a little bit more tired, but I don't know if that's because I'm doing less and like trying to rest or if it's from the medication, I'm not sure. 
+ Nurse: That could be consequential to the medication as well. Staying well-hydrated could help elevate your energy levels. Let's touch on your dietary intake. Have there been any significant changes? 
+ Patient: I've been eating my regular diet. Is there something I should be doing differently? 
+ Nurse: A decreased appetite may also contribute to feeling fatigued, hence I wanted to check in on that. There isn't a need to modify your existing diet unless necessitated by specific symptoms or issues. If you experience more severe side effects like heightened fatigue or increased headaches, reach out to your doctor promptly. It's important for the medication to improve, not deteriorate your condition. In the event of any alarming symptoms like breathlessness, emergency medical assistance should be sought immediately. Does this clarify my instructions? 
+ Patient: Okay. 
+ Nurse: Do you have any more inquiries at this juncture? 
+ Patient: Yeah. So my, my doctor mentioned, um, the shingles vaccine and I was kind of wondering if I should, if I should get that now. Um, and if you know, it would like, what would the vaccine do? Is it going to cure me? 
+ Nurse: Great question! Vaccines, including the shingles vaccine, primarily prevent a recurrence of the disease. However, during an active bout of shingles, vaccination is not advised. On recovery, we would recommend you receive this vaccine at your doctor's or even a local pharmacy for your convenience. It is administered as 2 shots in a span of 2 to 6 months. While the initial site might exhibit minor soreness, benefits outweigh minor discomfort. Scheduling the vaccine can be discussed once you recover fully from this phase. Does that address your question? 
+ Patient: Yeah, that makes sense. 
+ Nurse: Good to hear. Keep in mind it is administered in two doses. You will receive the second shot within six months of the first. 

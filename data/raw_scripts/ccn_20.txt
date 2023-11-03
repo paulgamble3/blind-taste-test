@@ -1,0 +1,69 @@
+ Nurse: Greetings, Jane Doe. I'm Cheryl, your case manager at Walnut Creek Health. I'm reaching out to see how you're faring after your recent surgery. 
+ Patient: Yeah, I'm doing okay. 
+ Nurse: Before we proceed, could I verify your identity with your name and date of birth, please? 
+ Patient: Sure. So my name is Jane Doe and my date of birth is June 8, 2001. 
+ Nurse: Excellent, thank you. I'm calling to see how you're recovering after your operation. 
+ Patient: Well, you know, I'm still adjusting to having had nose surgery. A bit of shock, really. I just kept wanting to get this done. 
+ Nurse: I understand the emotions that can arise from undergoing a procedure like this, especially when it's unexpected. 
+ Patient: Yeah, I'm just 42 and it's unsettling to have this tumor situation. It's quite scary, actually. And I tried the surgery and it went through my nose and... 
+ Nurse: I understand your fear. However, I'd like to reassure you that pituitary tumors are generally non-cancerous. Did your doctor tell you otherwise? 
+ Patient: No, it's not. But, I'm anxious about the recurrence possibility and the fear of it being cancerous is constantly on my mind. 
+ Nurse: I hear your concerns. It's indeed overwhelming. Have you shared these emotions with your doctor? 
+ Patient: Yes, I have. I've been really emotional, and just thinking about it makes me tear up. It's quite a daunting situation. 
+ Nurse: I am in agreement with you. It's certainly unnerving. Do you have any sources of support at home? Do you have children or a spouse? 
+ Patient: Well, I'm a single parent with two young kids and I live alone. My mother has been supportive, but it's nerve-wracking thinking about what would happen to my kids if something happened to me. 
+ Nurse: I understand, those are legitimate concerns. We're glad that you made it back safely from surgery. 
+ Patient: Yeah, that's true. 
+ Nurse: You've made great progress indeed. Now, in terms of post-operative pain, how would you rate it? Are you experiencing any unusual symptoms?  
+ Patient: The surgical wound area from my graft is a bit concerning because the bandages are coming off and I'm not sure why that's happening. 
+ Nurse: Did your doctor instruct you about post-operative wound care during your discharge? 
+ Patient: They mentioned something about exposing it to air to help heal faster. The bandages keep falling off and I've tried reattaching them, it's worrying. 
+ Nurse: Any bleeding or unusual wound appearance? 
+ Patient: Not that I'm aware of. 
+ Nurse: Good to hear. Is the skin around the wound reasonably pinkish indicating healing, or does it appear unusual? 
+ Patient: It looks a bit pinkish. 
+ Nurse: That's normal. And there's no discharge or oozing from the site? 
+ Patient: Not that I can see. 
+ Nurse: Sounds suitable so far. When is your next appointment with your doctor? 
+ Patient: In a few days. 
+ Nurse: Do you have transportation arrangements for your upcoming appointment? 
+ Patient: I'm struggling with the finances currently, so I've not figure out my transportation yet. 
+ Nurse: Understood. Would a family member or friend be able to drive you? 
+ Patient: My mom has been supportive so far, but she's quite elderly and I wouldn't want to burden her further. It's not easy. 
+ Nurse: Your concerns are valid. I'll explore the available community services and your insurance options to see about getting you some medical transportation support to your appointments. Many insurance providers offer this service based on need. I'll also find out if there are state-provided vouchers for assistance with medical transportation. We want to ensure you get to your scheduled appointments. 
+ Patient: That's good. I also have lab test results that show my sodium levels at 135. They advised that I drink Gatorade and tomato juice to maintain appropriate salt levels. Is that a concerning level? 
+ Nurse: The normal range for sodium levels in the blood is around 135 to 145. So while you're on the lower end, you're still within the normal range. I'd recommend continuing the regimen your doctor advised to raise it slightly. Can you access the suggested drinks? 
+ Patient: I have enough at home. They provided some after my nose surgery. 
+ Nurse: Excellent. Considering your upcoming appointment, healing wound site, maintained sodium levels, and our discussed transportation assistance. Moving forward, do we have any other pressing matters to address? 
+ Patient: I ought to meet with the neurosurgery team, but their fees are quite high. I'm contemplating skipping it. 
+ Nurse: It's important to see a specialist, given your procedure. Despite the cost, their expertise can be valuable. Are you currently employed? 
+ Patient: I've taken time off from work to recuperate from my surgery. 
+ Nurse: Is it temporary? Will you be returning to work at the same company? 
+ Patient: I plan to return to work in a week or so. I just have large medical bills from my nose surgery, which leaves me financially strained. 
+ Nurse: In light of your surgical procedure, I will explore possibilities for you to qualify for additional benefits. How was your surgery paid for, was it through your employer's insurance? 
+ Patient: It was covered by my employer's insurance, but I had to pay a substantial amount out-of-pocket, which was quite a strain financially. 
+ Nurse: Okay, let me check if you could qualify for Medicaid given your diagnosis. Medicaid based on income allows access to various health services often with smaller copays. Do you have a computer at home? 
+ Patient: Yes, I do. 
+ Nurse: Great, I'll send you some paperwork to assess your eligibility for Medicaid. Let's move on to another concern, your pain level. On a scale of zero to ten, how would you rate your pain, with zero indicating no pain and ten being severe pain? 
+ Patient: It's about a one or two. 
+ Nurse: That's manageable. I see that you have Tylenol prescribed as needed. Do you have it?  
+ Patient: Yes, I have the Tylenol at home. 
+ Nurse: That's good to hear. Are there any other concerns or areas requiring clarification? 
+ Patient: I'm generally adjusting well. However, the entire situation of my health, money problems, fear for my kids, not wanting to burden my mom further, all of it is making me quite emotional. Life feels overwhelmed right now. 
+ Nurse: I can't imagine what you're going through. It sounds like you could benefit from talking to a counselor or joining a support group dealing with similar situations. I can consult with your primary care provider about a referral if that's something you're open to. 
+ Patient: Yes, I think that'd be beneficial. Understanding how to deal with my situation better would be truly helpful. 
+ Nurse: Absolutely. Most such community-based support groups are nonprofit, so they are usually free. I'll look for a suitable group for you focusing on single parents facing medical challenges. 
+ Patient: That sounds good. I'm sorry, could you also clarify on what I should do about the band-aids falling off? Should I leave them as is till I see my doctor in two days? 
+ Nurse: Unless you were sent home with wound dressing supplies, it's best to let the band-aids fall off naturally to avoid harming the healing area. With sneezing or blowing your nose, be mindful not to exert too much pressure internally. Increasing your fibre intake through a diet rich in fruits and vegetables can also keep your bowel movements soft and prevent straining further. Do you have any food allergies? 
+ Patient: No, I don't have any food allergies. 
+ Nurse: That's good. I would recommend incorporating more spinach, broccoli, fruits and other vegetables into your meals. Avoid items such as bread that might harden your stool. Staying well-hydrated and eating food rich in fibre will help you manage your bowel movements better. 
+ Patient: Alright, how often should I incorporate these into my meals? 
+ Nurse: Try to include three to four servings of fruits and vegetables in each meal. Now, I noticed another medication on your list - a nasal spray. Have you been using it as prescribed? 
+ Patient: Yes, I'm following the instructions on the container. 
+ Nurse: That's fantastic. Do keep using it as directed. Now, before we wrap up, are there any remaining concerns or symptoms you'd like me to address? 
+ Patient: About the appointment with the neurosurgery team - you mentioned that you could help me handle the payment. When should I schedule that appointment? 
+ Nurse: To see the specialist, we first need to get a referral from your primary care physician. Since you already have an appointment with them in place, they should be able to arrange for that. If cost isn't issue due to your financial situation, discuss with them about seeing a neurosurgeon who accepts your insurance. This way, you won't have to pay as much out of pocket. For now, let's set up a time when we can sit together - virtually, of course - and look for a suitable in-network specialist. Does that sound plan? 
+ Patient: Yes, that sounds like a plan. Thank you. 
+ Nurse: You're welcome. Please remember to reach out if you have any concerns in the meantime. I'll follow up with you in two hours with updates on your transportation and a potential referral to a support group or counseling services. Can you please provide your email so I can send you information regarding Medicaid? 
+ Patient: Of course, it's JaneDoe@yahoo.com. 
+ Nurse: Perfect, thank you. I'll send you the paperwork soon. I'll also follow up with you in two hours with updates. 
