@@ -1,0 +1,47 @@
+Nurse: All right. Awesome. I'm 9 17, Virgos rule. Oh, wow. I'm just doing the monthly check in call with you, [PHI-Personal]. Um, how you feeling any issues concerns that you'd want doc or [PHI-Personal] to be aware of.
+Patient: I'm having trouble with my right temporo iliac joint. It's severely painful and I don't know if that's because I'm having trouble walking cause of the possible MS diagnosis, but maybe I tweaked something but I didn't, I can, uh, that's something I wanted to let her know about.
+Nurse: When did it start
+Patient: About a week ago?
+Nurse: Ok. Do you remember if you fell or if you twisted
+Patient: Or no, I didn't fall. Um, I didn't fall and I can't really remember a major tweak. Maybe I did when I bend over, but it wasn't that bad. But if I do it now, if I catch it. Same there. And, oh my God, it's extremely, it's enough to bring it to your knees.
+Nurse: Ok. What number would that pain be? A [PHI-Account] out of [PHI-Account] or [PHI-Personal] out of
+Patient: [PHI-Account], let's say an [PHI-Personal] out of [PHI-Account], [PHI-Personal] or [PHI-Personal]. I was ok.
+Nurse: And have you done any, like, over the counter medications to help for pain or? What's the
+Patient: What? Yeah, I'm doing over the counter, I'm doing some over the counter and then um, I do have medicine for the ankylosing. What I'd like it. I do have traMADol and um CeleBREX. So I, I do mainly that.
+Nurse: So you're doing traMADol and CeleBREX.
+Patient: Yeah.
+Nurse: Who prescribed them for you?
+Patient: That was prescribed by my rheumatologist,
+Nurse: Your rheumatologist? Ok. Yes. And what are the milligrams on them?
+Patient: Let me see. Let me put my phone down here until I get the bottle. Hold on the CeleBREX is let me see. Who, who prescribed that? Yeah, but I'm prescribed. Yes, prescribed by you guys. Yeah. Ok. Um CeleBREX is 100 mg.
+Nurse: Alright. Daily. Yeah. And then the traMADol is how
+Patient: Much between I'm pretty sore. It's 50 mg.
+Nurse: And is that just as needed once a day?
+Patient: It's four times a day as needed for pain
+Nurse: ID as needed. Ok. All right. And are you able to walk on it at all or
+Patient: Do you? Mhm. I'm able to walk on it. Now this um, traMADol was prescribed by the rheumatologist. Ok. But yeah, I am able to walk on it. It's just when I do, you're having
+Nurse: Trouble.
+Patient: It's, it's like, it's like an ice pick. That's how bad it hurt. Feels like
+Nurse: An ice pick. Ok. All right. And I do see that you were in to see [PHI-Personal] at the beginning of the month for your yearly visit and just to review that quick with you.
+Patient: Yeah. And I do have to have the blood work done. I have a sick dog today. I'll probably get the blood. I'll probably get the blood work done tomorrow.
+Nurse: Ok. Yeah,
+Patient: Because it has to be fasting lipid panel. Yeah. Yeah, I'll get the blood. I have a whole bunch of blood work if I'll do that
+Nurse: Tomorrow. Ok. PT was ordered. Did you start physical therapy or? No?
+Patient: Yeah, I did. I went to my second session yesterday and it was, it went, well, he was a very nice therapist. I really like him. He had me, had me riding the bike. I told him about that area and the, the si joint. But he had me riding the bike and then doing some weight machines. A lot of balancing exercises. Mhm. Ok. So he's gonna have me go in maybe twice a week.
+Nurse: Ok. Now you're following with neurology too. Yeah. All right. And you did an EMG, correct? Yes. Ok. Because it says in here need to get EMG results and then she's saying avoid processed food, salt no more than 2400 mg of sodium daily. Continue your simvastatin and
+Patient: Yeah, and I'll tell you one thing with, with my appetite going south from all this stress and everything I have to eat. What appeals to me cause I've lost two lbs now in the past couple of months. Yeah. So I wish it wouldn't put restrictions, the, the worst, the more restrictions they put on my diet, it's, it's just gonna backfire.
+Nurse: Yeah, I know it does get hard when you got the restrictions, that's for sure. Yeah. Ok. I see. They did get your EMG too in here and that they said they notified you. Ok. I'm just clicking to see if I'm missing anything here. All right. Um, let's see. It says ultrasound due in [PHI-Personal] thyroid and they left you a message about that. Did you get the message?
+Patient: Yes, I have the appointment.
+Nurse: Ok. All right. Very good then. All right. Did you need any medicine refilled?
+Patient: Let me see real quick here. No, I don't think so.
+Nurse: Ok. All right. I will send her a message about, you know, this pain and what you've been taking for it. Um, yeah, I don't know if she might want you to get an x-ray or something.
+Patient: Yeah, I was wondering about that.
+Nurse: Yeah. And are you putting any ice or heat on it or anything like that?
+Patient: I get this ThermaCare heat wraps. They're absolutely wonderful.
+Nurse: Ok. All right. Yeah, definitely. Then use them if they they feel you know, effective for it. So
+Patient: They're nice because they I'd say they last about 16 hours. Mhm. Wow. Yeah, they're great.
+Nurse: Ok, let me send this message and when I get an answer I will call you back [PHI-Personal].
+Patient: Alright. Alright, thanks a lot. Oh,
+Nurse: You're welcome. No problem, I'll talk to you later.
+Patient: Alright. Ok, bye bye bye
+Nurse: Bye.

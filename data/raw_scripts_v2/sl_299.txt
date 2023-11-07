@@ -1,0 +1,37 @@
+Nurse: We go. I got you pulled up. Give me two seconds for it to load. I apologize. This is running a little slow today. How have you been doing?
+Patient: Oh, pretty good.
+Nurse: Oh, ok. I apologize. I'm so much better with faces and names. I had to get your chart pulled up so I could see your picture. Um, I had called you to check on you, see how everything was going, making sure everything was still going. Ok. Go and go through a few things with you. Um, if you're having trouble and just make sure you didn't need any, uh, medication refills.
+Patient: No, I think all my stuff's ok. I mean, nothing has changed for quite a while. I think I do have an appointment there in first part of [PHI-Personal], I think for blood work and regular doctor appointment.
+Nurse: Have you on for lab work on [PHI-Personal] 8th with blood work or lab work on [PHI-Personal] 8th with a follow up appointment on [PHI-Personal] 15th.
+Patient: Yeah, I think I have that on the bowling board over there. Perfect.
+Nurse: Any, um, any changes with your BP since the last time we spoke. Any concerns about that?
+Patient: No, not really.
+Nurse: Ok. So your blood pre, no, no signs of high BP and no headaches, dizziness, flushing on the face, nose bleeds or anything like that.
+Patient: No.
+Nurse: Yeah. If you should start noticing anything like that, give us a call. Um, high BP is one of those things that it can sneak up on you. You might not have any side effects, um, until it's really high, you might have some, when it's moderately high. It all depends on how your body handles it. Now, are you checking your BP
+Patient: At all? Oh, I haven't been lately. No.
+Nurse: Ok. That's fine. Um, when you were checking it everything normal.
+Patient: Yeah. Ok. Good.
+Nurse: All right. So, yeah. Um, if you should check your BP, should you start having any symptoms? Um, just be aware what the, do you know what the normal blood pressures are? What we want you around?
+Patient: Yeah.
+Nurse: Ok. So we want you around 1 20/80. If you're getting up into the one thirties, one eighties is the diastolic number, you're getting a little high. If you're getting over, you know, one fifties, one sixties, we definitely wanna call right away. Now, if you're all the way up in the one seventies, higher, one seventies, one eighties and you're having symptoms that, that's when you do need to go to the, er, though. But if it's lower than that, we give us a call, we can get that addressed for you. Our whole goal is to keep you out of that hospital.
+Patient: That sounds like a good idea. Yeah, especially
+Nurse: Now, you know, the COVID cases. Um, they do, they are thankfully mild cases. It seems to be, but they are picking up. So it is something to just keep, keep aware of as we go in to summer here and more people are out and about doing things. Um, any trouble urinating or having a bowel movement.
+Patient: No.
+Nurse: Perfect. All right. Well, I won't hold you up too long. II, I know you are a very busy man. Um, and you said no refills needed on any of your medication, correct?
+Patient: No, I think all, all of our stuff's ok. Ok. I, I, um,
+Nurse: What kind of dog do you have?
+Patient: Uh, she's just a rescue? Oh, she
+Nurse: Sounds like a hound mix.
+Patient: Yeah. Yeah, we don't know what else she is. They, uh, we got her, uh, kennel is a rescue. I think she came from [PHI-Geographic].
+Nurse: Oh, gosh, we got a rescue from [PHI-Geographic]. Tho those kennels are terrible down there.
+Patient: She's pretty noisy. But she wouldn't hurt anybody.
+Nurse: I love, I have a soft spot in my heart for rescue. All right, I'm sorry I got a little off topic there. All right. Well, I will let you go unless you have any other questions or concerns today was just a a check in call. Really go through and see how those blood pressures are. Make sure you're not having any symptoms, but it sounds like you're doing fantastic.
+Patient: Oh yeah, pretty good. All right.
+Nurse: Anything else I can help you with today?
+Patient: No, that's it. Alright.
+Nurse: Well um I'll give you a call just to remind you about your um appointment here next month and if anything changes you give us a call. Ok?
+Patient: Oh right.
+Nurse: Oh right you have a great
+Patient: Day. You too. Thank you. You're
+Nurse: Welcome bye bye.

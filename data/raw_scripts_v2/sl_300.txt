@@ -1,0 +1,32 @@
+Nurse: Don't feel good at all. I've been doing all morning a, a very nauseous feeling.
+Patient: You're getting nausea this morning. Any, any, did you wake up like that?
+Nurse: No, no. Ok. What I did have on [PHI-Personal] and Friday, I had a Cortisone shot and I was very confused both times. So I don't know if that's a reaction.
+Patient: Cortisone shot. You had one on [PHI-Personal] and Friday? Yeah. Where did you have them at the
+Nurse: Right hip and the left hip on Friday, [PHI-Personal] and
+Patient: Friday for hips. Um, let's see. And so after you had those, were you having any, any kind of, any symptoms or anything after having those shots that like the day of either of those?
+Nurse: Yes. Uh, about an hour or so afterwards. Uh, I did not feel well, I was very confused and I couldn't speak straight and I had the same thing on Friday. It, it cleared up on [PHI-Personal]. Mhm. After, after a, a whole afternoon went by and then, uh, I got it again on Friday.
+Patient: Did you mention to the doc that, that, that happened to you after it? No. Oh, you should have definitely, um, because you might be having a reaction to that and today you did, you woke up fine, but now you're, you're having some nausea.
+Nurse: Yes. And I did not throw up. It's just that terrible feeling and, and my chest is sort of burning. I don't know if that's anything condition
+Patient: Do you have? Um, let me see here. Do you have, um, GERD or um, acid reflux. Yes, I do. Is that something you get treated for? All right. Are you on anything for
+Nurse: It? No. Yeah.
+Patient: All right. So you have some burning in, in the chest area? Is it, is it, um, over like on your heart side? Is it substernal, like in the middle of your chest? Where, where would you say that? The, in the middle,
+Nurse: In the middle? Ok.
+Patient: All right. So some heartburn. All right. Any, any, um, any vomiting?
+Nurse: No, none at
+Patient: All. Let me see. Any dizziness.
+Nurse: No, no.
+Patient: Ok. And are you all done with the Cipro, the antibiotic? Are you all done with that? I
+Nurse: Have another round of it.
+Patient: Ok. And, and what were we taking that one for? I can't remember.
+Nurse: Oh, let's see what I can't think where I just said. Oh,
+Patient: Let me look back. I can't remember why I got put on the uh dysuria hip injector. Oh OK. Looks like were you having a, um, UT I? Yes. Yes. Yes. Ok. All right. So, are you taking, are you, so you're still taking this then? Uh, do you, are you getting any nausea because of taking the antibiotic, do you
+Nurse: Think? No, I don't, I don't think so. Ok.
+Patient: It does sound like you're having some acid reflux.
+Nurse: Oh, ok.
+Patient: Um Let me see if I can get anything for you. Ok, because it definitely sounds like because it's, it's probably part of the heartburn that's causing the nausea. Um um you're not still having any confusion or anything like that like you did after the shots, right? Nothing like
+Nurse: That and and I just wanna go to the hospital.
+Patient: I, no I understand that. I don't think it sounds like that like that. Um it sounds like heartburn but let me um but you're not having any anything like that would seem like anything like heart related, right? No, no. Ok, perfect. I just wanna make sure on that so let me let me talk to doctor and I'll see what we can get we can get for you. Ok?
+Nurse: Ok, thank you.
+Patient: You're welcome I'll call you back as soon as I come.
+Nurse: Ok
+Patient: Bye bye now.

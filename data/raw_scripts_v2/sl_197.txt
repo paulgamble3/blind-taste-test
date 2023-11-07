@@ -1,0 +1,16 @@
+Nurse: That's ok. No problem. Um let's see. Oops. Ok, so it looks like I was just calling you for your monthly chat. Um you know, just to kind of check in and see how things were going with you and to see if you needed anything,
+Patient: I don't think I need anything right now.
+Nurse: Ok. No refills or anything.
+Patient: I think I just got them all caught up finally.
+Nurse: Perfect. Um All right and then I need to confirm a couple of things with you. Um address [PHI-Geographic]. Yes. Mhm. Ok. And then did you switch insurances with the New Year or did you keep it the same?
+Patient: No, it's the same, same.
+Nurse: Ok, perfect. Um so I am going to send you a letter in the mail. It's gonna have some updated Wellness goals on it for 2023. Um and those will just consist of, you know, getting your annual wellness visit done. Um, some routine labs, flu vaccine, things like that. Um, so we kind of just check them off as you get them done throughout the year. Ok.
+Patient: Yes. Mhm.
+Nurse: All righty. Perfect. Um, any changes to your current medications?
+Patient: No.
+Nurse: No. Ok. No. All right, perfect. Um, let's see. Ok. Well, I think that is, um, all I need from you today. Do you have any questions for me? No, I don't,
+Patient: I think.
+Nurse: Perfect. Well, I appreciate you giving me a call back. Um I'll have the nurse reach back out to you again next month, but please call us in the meantime if you have any questions. Ok. All
+Patient: Right. Ok, I will. Thank you.
+Nurse: You're welcome. Bye bye
+Patient: Bye.

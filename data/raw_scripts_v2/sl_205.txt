@@ -1,0 +1,17 @@
+Nurse: Good. Um, and I,
+Patient: Yeah, go, go ahead. Good. Ok. I had a, I had a feeling and, um, at the dentist, uh, that's my latest, basically. Just been working at up.
+Nurse: Ok. You still work full time, [PHI-Personal]?
+Patient: No, about 20 anywhere. It, it varies 20 hours a week around there.
+Nurse: Ok. Do you, is there a time of the day that's better for you for calls, like is later in the day, uh, a better time.
+Patient: Uh, my, my schedule changes. So. Really?
+Nurse: Ok. Um, and since it is the first of the year, I do have to verify, uh, address and insurance with everyone on the first call. You're still at [PHI-Geographic]. Yes, New Cumberland. Ok. And then you still have the Medicare and the A ARP Yes, I do. All right, perfect. And then you do have an upcoming appointment with Doctor [PHI-Personal]. That's going to be on the [PHI-Personal] at 1 30 that's just a six month follow up appointment. Ok. Ok. And then just to review your medications before the upcoming appointment, uh, you still take the atorvastatin calcium 10 mg once a day
+Patient: Like aspirin,
+Nurse: Atorvastatin
+Patient: Atorvastatin like a football shaped white pill. Little. Yes.
+Nurse: Yes. Ok. And then you still take the the Flomax uh one tablet once a day. Yes, I do. Ok. And then the Omega three you take two tablets twice a day. Yes, I do. And you take a a multivitamin and then I I also have aspirin 81 mg once a day. Yes. And then the Viagra as needed.
+Patient: Yes, I I do need some. Ok. Ok.
+Nurse: And you want that sent to uh [PHI-Personal] Pharmacy Rite Aid or Express Scripts?
+Patient: [PHI-Personal],
+Nurse: Please? [PHI-Personal]. Ok. And then I will go ahead and look through your chart to see what Wellness goals you're gonna be due for this year, [PHI-Personal] and as far as Wellness goal that's any preventative health measures, screening vaccinations that you're gonna be due for and I'll get that list together for you and get that out in the mail today. Ok? Ok, great. Alrighty. And then I'll go ahead and get this refill request in for you. I appreciate you giving me a call back [PHI-Personal] and just to remind you I I'll reach out to you every three months, but if you ever have a concern, a question, you're more than welcome to reach out to me. Ok. Ok. Doke. Yeah. Alrighty. Well, I'm glad to hear you're doing well. I hope you have a great New Year and if there's anything I can assist you with, you know, please reach out and give me a call. Ok.
+Patient: My next appointment was January [PHI-Personal] at 1 30.
+Nurse: Correct with yep, six month follow up with Doctor Koz. Ok. Ok. Sure. All right. Thanks Patrick. I hope you have a good weekend. Ok. I hope you do too. Thank you. Alright. Bye bye bye bye.

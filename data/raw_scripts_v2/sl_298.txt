@@ -1,0 +1,20 @@
+Nurse: Ok. We were actually reaching out to you in regards to um
+Patient: [PHI-Personal] for who [PHI-Personal]. Hm.
+Nurse: Hold on [PHI-Personal] moment. Bear with me. Let me see. Pull
+Patient: Up that file. Ok. Ok.
+Nurse: Oh, I'm so sorry. I was in a different system so I have to log into that [PHI-Personal]. I apologize.
+Patient: Oh, that's right. The [PHI-Personal] of computers,
+Nurse: Right. At least
+Patient: Maybe it's doing it.
+Nurse: Ok. Ok. So it looks like we were reaching out in regards to your son. Ok. Yeah, we're providing a care management program. Um, which is a phone call from our nurse where she checks in, in between office visits, answers questions or concerns. They'll also be able to assist with medications, lab results, community resources, anything that pertains to its health, the nurse would be a good resource for the calls are documented. They are treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers. They were, they are subject to deductible co pay co insurance. So you may receive a statement from the practice for those services. Ok. Now, if interested, would you prefer if the nurse reached out to you in the morning or afternoon?
+Patient: Um hm, probably in the morning
+Nurse: Mornings. Ok. And would it be ok for the nurse to speak to you regarding any mental health? Like anxiety, depression? Anything? Let me fall into that category.
+Patient: Yeah. Well, he, he sees a psychiatrist in [PHI-Geographic]. Actually, my other son does also. And so I know [PHI-Personal] had stated before that she could take care of their medications, you know, if we wanted to go with her, but we were staying with the psychiatrist in [PHI-Geographic] just because he's been with them for a while. And, ok, so,
+Nurse: Ok, not a problem. And, uh, yeah, this would just be, let's say, even if you needed a refill haven't been getting, um, you know, if you're not getting any response from the doctor, the nurse could always reach out. Sometimes, you know, nurses do get a better response from providers than we do as patients. Um, so, yeah, with anything, not just, you know, doc, uh, not just with a [PHI-Personal], she can help with all providers. Ok. Ok. So let's see. And you said mornings would work best probably. Yeah. Ok. So I'll be mailing out the nurses information. I've got your address as [PHI-Geographic] mon CPA. Yes. Excellent. And Medicare and the are still active insurances.
+Patient: I don't know about the health. Ok, I guess it's um, the [PHI-Personal].
+Nurse: Ok. Oh, ok. So it's switched over to [PHI-Personal]. Yeah, not a problem when she calls if you could have the information ready for us just so she can update the insurance. Ok,
+Patient: Perfect. Ok. Crazy with him.
+Nurse: I can yeah I can arrange everything
+Patient: Crazy with this boy.
+Nurse: All right, we are all set [PHI-Personal]. I appreciate your time, [PHI-Personal] and your patience. You have a great
+Patient: Day. You too. Thank you. Right. Thank you. Bye bye bye bye.

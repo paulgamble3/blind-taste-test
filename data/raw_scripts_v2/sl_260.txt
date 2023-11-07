@@ -1,0 +1,42 @@
+Nurse: Not too bad, I guess for [PHI-Personal] and winter in [PHI-Geographic]. Huh? Oh, yeah. All right. I just was calling today Violet. I just wanted to introduce myself to you. Let you know that I'd be giving you a call. Um, let me see how often every two months just to check in on you see how you're feeling if you have any questions or concerns. Um, I can send messages over to the doctor's office. I can send for prescription refills, things like that. Um, and then I'm gonna be sending a letter out, um, through the mail too that has my contact information. So my name and my direct phone number that way if you would need to get a hold of me prior to me calling you every couple months, you would have that information and I'm gonna send that to [PHI-Geographic]. Correct. Yes. Ok, perfect. And you still have the [PHI-Personal] for your insurance.
+Patient: Yes. [PHI-Personal] and not or yeah, [PHI-Personal] and uh, welfare
+Nurse: Ok. Got you. All right. All right. So, the only other thing I wanted to do on our initial call is just, um, review medications. Make sure everything is correct on, on my end as you're taking at home, you don't take too many medications. So, that's good. Um, do you need to grab a list or do you know what you're taking if I list them off,
+Patient: Uh, you take acid reflux medicine? Ok.
+Nurse: Inhalers. Ok. The albuterol and uh the flu nasal spray. The breo inhaler. Ok. Yeah. And then a Singulair 10 mg. Yeah. And then the cyclobenzaprine um for muscle spasms. Yes. Uh and then the omeprazole also with the Faine that would be for your reflux. Um, the lidocaine patch just as needed, uh Tylenol as needed. And then are, are you done with taking the Doxycycline? It looks like it was only for 10 days prescribed in [PHI-Personal]. Yeah. Ok. All right. So, ok. And you don't take anything to help with your mood for, with your bipolar? Nothing like that. No good. You feel like your mood's pretty stable?
+Patient: Yeah. As long as I eat a good balanced meal, I'm doing good. It all has to do with your meals.
+Nurse: You know what I am a firm believer in that too. What you eat makes such a difference on how you feel. For sure. I agree with you 100%. Um You don't see a therapist counselor, you just see your primary care doctor.
+Patient: Yeah, I just see my primary care.
+Nurse: Ok. And do you have any family history that, you know, of any bipolar, depression, anxiety, anything like that?
+Patient: Well, I know my mom has, um, schizophrenia. Ok. Uh, I don't know about my dad. Uh, he never went to a doctor. Ok. All right. And he's deceased? Ok.
+Nurse: And have you been dealing with the bipolar for, you know, has it been a handful of years or a lot
+Patient: Longer ever since I was, ever since I was a kid?
+Nurse: Ok. All right. And have you ever been hospitalized just specifically for that?
+Patient: Uh Yeah, more than once.
+Nurse: Ok. Do you know when the last one was?
+Patient: I have no clue?
+Nurse: Has it been like several years? Do you think it's been a while?
+Patient: It's been a long while?
+Nurse: Ok. All right, good. Ok, perfect. All right. Do you need any prescription refills today? No. Mm. Ok. Do you have any questions or concerns for me today?
+Patient: Not right off hand.
+Nurse: Ok. All right then. So yeah, when I, when I give you a call then what we'll primarily do is just kind of some education, you know. Um also I can review the doctors, your last doctor's visits with you. I can get in and look at the note, just reinforce those recommendations, make sure you had no questions on those appointments. And then like I said, if you have an acute issue or something going on, I can send that over to the office to make them aware of it. Um, but I'll be sending that letter out to you in the mail that has my name and my number in case you need to get a hold of me and then I'll be giving you a call in a couple months.
+Patient: Ok. Yeah, I'll be going to see her tomorrow. Yeah, the family doctor
+Nurse: I did see that that you have an appointment tomorrow at 2 30.
+Patient: Yeah, I'm gonna have her do some X rays on my arms and my back.
+Nurse: Are you, have you been having some pain?
+Patient: Yeah, I fell last month. No. So,
+Nurse: So that's what you're going into the appointment to see her for.
+Patient: No, this is a basically routine follow up, uh, every six months I go see her. Ok, but it's been bothering me. Yeah, since the coldness has been hitting real hard. Ok.
+Nurse: Which arm is
+Patient: Bothering you? It's both of my arms, uh, up in my, uh, left shoulder and, uh, from my elbow down to my wrist. Ok. In the middle of my spine up between my shoulder blade,
+Nurse: Your upper back area. Yeah. Ok. Is there any bruising anything like that? Uh? Oh, ok. Did you bruise or anything after you fell?
+Patient: No.
+Nurse: Ok. All right. Have you been trying like, um, uh, putting like ice or heat or anything like that?
+Patient: I, uh, take a hot shower when it acts up real bad. It helps seems to help a little bit, but not too much. Ok. And you've been using Bengay
+Nurse: And that's just been helping slightly too.
+Patient: Yeah, just real slightly.
+Nurse: Ok. Ok. I'll send a quick little message over to the office just so they're aware of that. So that way when you come in tomorrow they have, uh, a little heads up and they can figure out a better plan, you know, what, what they're going to do about that. So that was last month. So that was in [PHI-Personal]? Was it like beginning mid end of [PHI-Personal] the end
+Patient: Of [PHI-Personal] towards the end of [PHI-Personal]? Ok.
+Nurse: Ok. All right. Uh Any other questions or concerns for me? No,
+Patient: That's it.
+Nurse: Ok. All right. Well, thank you so much for giving me a call back and for giving me the time to talk today and I'll be talking to you here in a couple of months. Ok. Alrighty. Alright, thanks Vilo.
+Patient: Yeah, bye bye bye. Have a good one.

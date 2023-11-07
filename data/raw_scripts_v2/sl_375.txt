@@ -1,0 +1,18 @@
+Nurse: Ok. So if you have a refill on that, you'll just need to call your pharmacy and they can fill it for you.
+Patient: Uh Yeah, I guess she was at, at, at that time she was talking about if it wasn't really good, but she's gonna talk to doctor [PHI-Personal] about what my PT people said that they, it and I haven't given a uh uh what do I wanna call it? Now? I can't think of the word. Uh I have, have a test of, of my, a
+Nurse: Sputum sample.
+Patient: Yeah. Yeah. Sputum sample.
+Nurse: Uh huh.
+Patient: Um, but I can, I can only get something like that. Doctor orders
+Nurse: It. Right. Do you want me to let you talk to [PHI-Personal]?
+Patient: Yeah, I can wait to talk to.
+Nurse: Ok. Hold on just a second.
+Patient: Oh, ok. I'm sorry. That's ok. Yeah, I mean, bye. Great. Ok. Sure. Oh, it has color to, it. Did, what color was it? I'm color blind. That's the problem. Ok. It wasn't clear I know that but it was a little light green or light yellow. It wasn't very much. Ok. Yeah, I've been on I've been on antibiotics but it'll be 40 30 40 time, 40 40 days o that's pardon?
+Nurse: That's a long time to be on an antibiotic, isn't it?
+Patient: Yeah, it is. I have some problems with it once a while with my stomach or whatever.
+Nurse: Ok. Well looks like [PHI-Personal] I can't transfer the call to her right at the moment. Um let me are you where she can call you right back?
+Patient: Oh yes. Yes.
+Nurse: Ok. Alright. Ok let me have her call you right back. Ok,
+Patient: No problem I appreciate it.
+Nurse: Alright. You're welcome bye
+Patient: Bye bye. Uh huh.

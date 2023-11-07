@@ -1,0 +1,17 @@
+Nurse: Yes. Let me get a pen real quick. Do you happen to know? Um,
+Patient: I know the number because I had my other prescription filled. I have the telephone number.
+Nurse: Ok. So CV S and then where in [PHI-Geographic]
+Patient: It's the villages, it's on, it's, let's see, it's 52 08. East County Road route [PHI-Account].
+Nurse: You said group [PHI-Account]?
+Patient: Yeah. T [PHI-Account] 04 [PHI-Account]. Ok. Yeah. Yeah.
+Nurse: Got it. Ok. And it was just, oh, go ahead.
+Patient: Do you need the telephone number? Uh,
+Nurse: No, I think I could probably find that. And then, um, it's just your,
+Patient: It's for the Lexapro but it's the generic. It's the Escitalo Pr AM five mg. Yeah, perfect. Ok. Yeah, because I called for it yesterday and then I got a message that said your doctor won't refill it.
+Nurse: Oh, ok.
+Patient: So I'm not sure if if, if [PHI-Personal] said that because let's see, when did she see me? I don't know, I know it's been six months but I made it, I made my physical for [PHI-Personal] because we won't be back until [PHI-Personal]. So. Yeah.
+Nurse: Yeah. And I
+Patient: Mean, I probably just need a 90 day, another 90 day supply and then she can refill it after that when I see her for the physical. Mhm. Yeah. If she has any questions she can call me or you can call me back.
+Nurse: Perfect. All right. So I will work on that and then um well did we send it to CV S? Oh, never mind, never mind. Ok. Mm I will send her that message and let her know that you need the refill and this is where we need to send it.
+Patient: Yeah, just for yeah, just for this month and then like when I went to CV S they said they would they could pull it up and they did and I that's what I figured. I figured I'll just give it to them and like I said yesterday when I was on the golf course they called and said your doctor won't refill it. I'm like, oh that's weird because she knows I need it. Mhm. Yeah. Yeah. So ok if you have any questions, you can call me back at this number that I left for you. I I'm around all day today. So ok. Ok. Thank you and have a great day.
+Nurse: Thanks. You too. Ok. Bye bye. Bye bye.

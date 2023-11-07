@@ -1,0 +1,23 @@
+Nurse: All right. I've got you right here. How are you feeling since you're, um, you went to the, er, last time you and I spoke, how are you feeling after that?
+Patient: I'm feeling better. Thank you.
+Nurse: All right. Work. Ok. So you're needing an, a lab order, is that right?
+Patient: I'm waiting lab order. Yeah.
+Nurse: Ok. And you wanna do a home draw with quest?
+Patient: Oh no, he, I, I can come in but if you're gonna do the home draw, that's fine. What is it about?
+Nurse: Well, I do see that [PHI-Personal] from the VN A had called earlier today and left a message with the, and actually she left a, an, a message with their answering service yesterday where we were closed uh, and wanted to know if Doctor [PHI-Personal] wanted follow up blood work and if so if we could set it up through quest for a home draw.
+Patient: Oh, that would be nice if you can do that because I was coming in today for, ah, Doctor [PHI-Personal] ordering some blood work for me. [PHI-Personal], the cardiologist.
+Nurse: Oh, ok. Well, Doctor [PHI-Personal] is not in the office today as far as I know he will be back tomorrow. Is it ok to ask him this tomorrow?
+Patient: No, I'm talking about doctor that he sent orders for blood work for me because he's a cardiologist. Can not here.
+Nurse: Ok. No, I don't see any which he may not use our computer system. The cardiologist might, so I don't see any lab orders for your cardiologist. The last set of labs that I see are from doctor, uh, Vladimir from the hospital encounter.
+Patient: Oh, well, uh, doctor, they said if you don't have the order they can fax it to you.
+Nurse: Bye. What is, uh, let me, do you have that Doctor [PHI-Personal] number? And I can give their office a call.
+Patient: Ok. Sure. Hold on for a second. Ok. Ok. Doctor Doctor is [PHI-Account]. [PHI-Account], [PHI-Account].
+Nurse: Ok. And they're needing orders from Doctor [PHI-Personal]. Is that right?
+Patient: No, no, no, that's Doctor [PHI-Personal] separate from everybody else. He's a cardiologist.
+Nurse: Ok. So he, you're needing a referral there?
+Patient: No, I'm, I'm, he, he said he would send blood orders for me to have it done there.
+Nurse: Oh, ok. All right. Well, I don't see any yet, but let me give their office a call to see if they've sent them.
+Patient: That would be nice. Thank you.
+Nurse: Alright. You're very welcome. I'll call him now.
+Patient: Ok, thank you very much.
+Nurse: You're welcome. Bye bye bye.

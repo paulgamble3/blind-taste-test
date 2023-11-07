@@ -1,0 +1,32 @@
+Nurse: Yeah, let me, let me pull it back up here. Give me one second. Can you, can you give me your date of birth again? Dear?
+Patient: [PHI-Account].
+Nurse: Thanks. Hang on one minute.
+Patient: I'm getting ready to go see, but with that blood work, they're gonna have to do something.
+Nurse: Yeah, I'll have to ask [PHI-Personal] about it because I was looking, I didn't see that he had written a, a message back on it. Um, let me pull.
+Patient: Yeah. Nobody called me with it. I just found it on quest myself.
+Nurse: Got you. Let me look at it again. Ok. So really, I think what you're mentioning on the phone. Um, and I think I saw that too. The white blood cells are pretty high, right? And yeah, 11.9 there's
+Patient: Like four or five items on there that are really high. Yeah. And I think four of them when you look them up indicate liver disease, they all indicate infection, but three of them indicated liver disease.
+Nurse: Mm. Ok. Well, I don't wanna interpret them because, you know, I, you know, he, he want to re them. But, um, let me send, I'll send him a message right now to let him know that, you know, you saw the results, there are quite a few, um, abnormally high, you know, levels on there and you want just some direction which is completely understandable, you know, to get on top of what's going on. So, um, yeah, why don't I do that? You said you're going to see now? Is that what
+Patient: You, uh, well, I'm getting ready to, it'll be a little while.
+Nurse: Ok. Got it. Ok. And I don't hear, get a hold of you. I'll just, um, leave you a message and you just call me back when you get a chance. Is she ok? Or you just going to set some things
+Patient: Up? I'm just going to visit. Ok. Got you took a back off which I'm not happy about. But, hey, if they thought it was time to come off, it's time to come off easier for her to come home that way. Anyway.
+Nurse: Got you. How
+Patient: Are you? She's got a thing like I do. So.
+Nurse: Oh, she got, uh, the I
+Patient: VA picc line? Yeah, she's got a Picc line.
+Nurse: Ok. Yeah, that'll be easier than having to stick her a million times, you know. Yeah. Yeah.
+Patient: Um, she pulled the one out but it was the bad one anyway, you said uh, she pulled,
+Nurse: Put out a picc
+Patient: Line, she pulled out the picc line. Yeah, she was scratching her arm. Yeah. And it just so happened to be the day after I talked to the nurse about, um, he asked permission to put a new picc line in and, you know, so they were doing it anyway. But it was because she was itching which, you know, it's still going on. So I know it's not my house, you know, I worry, you know, for a long time that it was something, you know, in my house getting her. Mhm. Yeah. But she's doing it there in the hospital. So.
+Nurse: Got you, got you. Ok. Yeah. So, I, I probably like, yeah, how are you feeling? I mean, how is your, because I know you were going through a little bit of a sinusitis infection kind of thing. Are you feeling that? Yeah,
+Patient: That's pretty much gone now. Ok.
+Nurse: That's pretty much gone. And the bleeding has that gotten better because it looks like the lab values are pretty good as far as the bleeding.
+Patient: Yeah. Yeah, it talks about that too. The bleeding, the blood clotting and all of that and all that.
+Nurse: So, my
+Patient: Thing is, I don't want to, I know I'm one that shies away from everything when it comes to me, but I don't ever want to experience what I did. Yeah, that last
+Nurse: Time. Yeah, that was really bad. Yeah, that's true. Yeah. And
+Patient: Like I said, online, um, it talks about it, you know, being real close to sepsis. So, and that's what got me last time.
+Nurse: Yeah, I know. That's what I was worried about too. So, yeah, I, I'm gonna hop off. Um, I'll message him right now and then I'll give you a call back what he thinks. Ok. All right. Thank
+Patient: You. I thought he was out of the office. Oh, I thought he said he was gonna be out of the office.
+Nurse: I don't know he's gonna respond to me this morning, so I don't know if he's a message just remotely but he hasn't talked. All right, my dear. I'll talk to you soon.
+Patient: Thank you. Bye.

@@ -1,0 +1,27 @@
+Nurse: Did you say? [PHI-Account]? Yes. Ok. Ok. Oh, yes, that was me. I did call you this morning. Uh, yeah, I was just calling to check in, see how everything's been going since I spoke with you last. Good. I'm just trying to get in your chart here in my other computer too so I can look at both of them here. Um. Ok. All right. So I don't see any, um, any appointments looks like you had some labs done last month. Um, and then you don't see doctor [PHI-Personal] until [PHI-Personal], right? Ok. Any changes to your medications? No, no. All right. So just the atorvastatin, LORazepam and a multivitamin, right? Ok. And how is you, are you taking your LORazepam daily?
+Patient: No, no, no. As needed. Oh, the, is that the cholesterol?
+Nurse: No, the LORazepam is for
+Patient: Anxiety. No. No, I don't take, no, no, just,
+Nurse: Just as needed. Yeah. Yeah. Ok. The atorvastatin is your cholesterol? Yeah. Yeah. Ok. Very good. And it looks like your, um, your last blood work was good. Um, um, as far as that as that goes. So, um, all right. So just a couple of things with your, you know, cholesterol. You know, if you noticed you getting any leg cramps, pain in your feet or toes, um, weakness, shortness of breath, no chest pain. Ok. And then just trying to, you know, watch your, um, the red meats, the processed meats, like your bacon and sausage, uh, lunch meat. And, you know, just, just be careful with those, try to adopt a low fat diet. Um, lots of fruits and vegetables. Yeah, I know. It's hard. All the good stuff they tell us not to eat that. Oh, my. And then, you know, just trying to get some exercise every week
+Patient: I got a lot of
+Nurse: That. Yeah. Ok. Are you still working?
+Patient: No. No. Ok. At home.
+Nurse: Yeah. Yeah. Lots to do at home. Yeah. Yeah, that's good though. Yeah. Um, do you need refills on any of your medications today? No.
+Patient: No. Ok.
+Nurse: Um, all right. Any other appointments coming up this summer besides Doctor [PHI-Personal] in [PHI-Personal]?
+Patient: No. No. Ok.
+Nurse: Uh, all right. And then I just have to do a, um, screening on you as it's that time of year. So, just within the last [PHI-Personal] weeks, um, any feeling, nervous, anxious or on edge. No. No. Ok. How about, um, worrying too much about different things. No. No. Are you sleeping? Ok. At night? Yeah. Mhm. Ok. All right. Very, because I
+Patient: Have a dog that gets up in the middle of the night. So I,
+Nurse: Oh, what kind of dog
+Patient: Do you have? A? Ba?
+Nurse: Ok.
+Patient: How old? Uh, [PHI-Personal] years?
+Nurse: Oh, that's so nice. It's good to have those companions around. Yeah.
+Patient: Yes, it is. Yeah.
+Nurse: Yeah. Even if they do wake you up in the middle of the night.
+Patient: Ok. So
+Nurse: Uh all right and then if you are feeling anxious or you start to feel yourself, you know, starting to worry. Do you, is there anything you do to kind of help yourself cope through that? You know, go for a walk, do chores, do you know activities, things like that. Listen to music.
+Patient: Yeah, pretty well learned that good.
+Nurse: That's good. Um ok. Well, I will reach back out to you again about a month from now. Um if you need me before then don't hesitate to call and then uh yeah, again, like I said, we won't see you in the office until [PHI-Personal].
+Patient: Yeah. Yeah.
+Nurse: Alright, sir. Very good. Well, I appreciate you calling me back and um if you need anything just let me know. Ok. All right, have a good day. You too. Thanks. Bye bye.

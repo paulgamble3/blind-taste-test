@@ -1,0 +1,75 @@
+Nurse: That's so weird. I don't even like, I'm gonna look at the referral. Um, just bear with me. I'm just looking [PHI-Personal]. I see the referral in there and your last face to face was literally not that long ago. All right. Um, who was it that you called? What was the name of the place?
+Patient: Uh, and they transferred me to the, uh [PHI-Geographic]?
+Nurse: Oh, it's the, uh, is it the outpatient rehab? A TGH. Ok. Mhm. Ok. Pgh. Ok. Let's see. And did you start the Melatonin? How's that working out?
+Patient: Uh, you know what? I didn't start it and then I was, was, uh, putting my pills in the pill box. Uh huh. And one of the thing, one of the things I ran across is a, a, uh, prescription for Melatonin that I got from the hospital. Oh, that's interesting. Milligrams. Let's see what we have. Hold on. And I didn't wanna take that.
+Nurse: Well, you can't take them both but you wouldn't be taking them both. Yeah. Let's see. Hold
+Patient: On. No, I, I didn't, I haven't taken either one of them. You know, I was, I was a little concerned about the side effects. I'm looking for your
+Nurse: Chart. So there's nothing in here. Um, hold on, let me just make sure I'm in the right spot. Hold on. So your discharge from [PHI-Personal], I'm looking at your discharge. I don't see any melatonin from that hospitalization.
+Patient: Uh,
+Nurse: From, not from the, excuse me, not from the most recent. No.
+Patient: Oh, it had to been the one before then.
+Nurse: Yeah it has to be an old one so I would just go by uh what um doctor told you to do. Ok. Yeah. No because I don't see that they discharge you with that because that dosing might be too high. So so whatever doctor told you he said to start low so um the lowest dose that they have so um I would go by doctor Is that the lowest one that you can find? Yes. Ok. Alright, so start low. I've seen them in ones and one and three too. So um let's see your vitals look good today. So that's good. Right. So
+Patient: Yeah, my weight, my weight is is staying almost the same but now I'm having a problem now I'm having a problem with the bowel movement. I haven't been gone two days today. It'll make the second day and I've taken uh uh ex like,
+Nurse: All right, hold on. Right because we did talk about this. If you haven't had a bowel movement for two days, you have to talk to the provider about that. So. Oh, hold on your provider. Yeah. Are you keeping a log of your bowel movements? Yeah. Are you keeping a log of how often you're going? No, I
+Patient: Had I had no I hadn't because I was going every day at least once a day. I haven't been eating my Jesus. All right,
+Nurse: Just bear with me. Sorry. Any stomach pain, nausea, vomiting.
+Patient: No, a little bit of nausea but, uh, not bad.
+Nurse: Mhm. No. Abdominal pain. Ok. Is your stomach hard and distended or is it, is it soft? No, it's soft. Ok. All right. Any pain with when you touch it?
+Patient: Well, when I press, I feel a, a little pain
+Nurse: [PHI-Personal]. Abdomen soft. Ok. All right. Ok. So with, to avoid getting constipated, you wanna drink plenty of fluids. You're not on any fluid restrictions, right? No. Stay active, uh, eat high fiber foods, like fresh fruits and vegetables. Um, you can also try prune juice as well. Do you, have you ever had prune juice?
+Patient: Yeah, I tried prune juice this morning and I drink prune juice and. Mhm.
+Nurse: And are you moving? Are you passing gas? Yes. Which part of your stomach hurts when you touch it?
+Patient: Oh, I, I guess the lower right or left, lower left.
+Nurse: Ok. And then,
+Patient: Oh, it, it's just like, you know, pushing too hard.
+Nurse: Yeah. And then if you, um, does your stomach look, uh, bloated or, uh, distended?
+Patient: No, it looks like it usually does
+Nurse: It. So it doesn't look, uh, it, it doesn't look, uh, it looks, it's at baseline.
+Patient: Yeah, it's a little bloated. Yes.
+Nurse: Ok. All right. Ok. Mhm. Bye. [PHI-Personal] Tuesday. Are you supposed to be following up with G I at all? I'm sorry. Are you supposed to be seeing the gastroenterologist at all?
+Patient: Like? Yeah. Do you have one? Uh, no, uh appointment for a colonoscopy.
+Nurse: Say that again. I'm sorry. Cut out on me, [PHI-Personal]. I apologize.
+Patient: I'm sorry,
+Nurse: I couldn't hear you. It cut out on me.
+Patient: Oh. the doctor told me to make an appointment for a colonoscopy. The last time I had a colonoscopy I think was 3.5 years ago and they found 11 polyps. Oh, my goodness.
+Nurse: Yeah, that's not a good colonoscopy. It must have been stressful after. So, nothing was cancerous though.
+Patient: No. All negative.
+Nurse: Good, thank goodness. Yes. So, how long have you had the nausea for?
+Patient: Oh, actually yesterday today, but not much. And I took a,
+Nurse: Say it again. It keeps cutting out. I apologize. Say it again.
+Patient: No, I have this pill. I have a pill for the nausea. It's, uh, Ondan SD A [PHI-Personal].
+Nurse: Do you have a history of nausea? No. No. Ok.
+Patient: Mm. But they gave that to me. Let me see.
+Nurse: That's gotta be old. Is not on your newest list. Yeah, that must be old. Yeah. Um, much nausea for two
+Patient: Days. 7, 21 26.
+Nurse: Do you have an urgent care near you that you can go to? Yes. Ok. The only reason why I say that is, um, even though two days isn't really a long time just where you're having the nausea. You know, and you, you just had a big hospitalization where you had that inflammation, you know, that issue. So,
+Patient: Hm. Well, the last, the last time I called the urgent care. Mhm. They said, well, you come tomorrow at 11 o'clock. Mhm. And this, this was before I went to the hospital and uh, if you wanna come in it's, it's uh 3.5 hours. Wait.
+Nurse: Oh, wow, that's a long wait. Is that at the fast? Is that at the fast track? Where is that?
+Patient: It's uh, over here on uh me?
+Nurse: Ok. All right. Ok. All right, because we wanna make sure that you don't have, um, you know, we got to make sure that you don't be, have an obstruction, right? So, right. Which would be abdominal pain, nausea, vomiting, no bowel movement. Um, so we wanna make sure you don't get to that point. So, so if you start getting abdominal pain, I'm gonna have to go to the hospital. So.
+Patient: Ok. Uh, yeah, when I, when it went in the last time, the first thing they thought was this obstruction.
+Nurse: Mhm. So, so when you have that history, we have to be careful.
+Patient: Yes. Mhm.
+Nurse: And are you eating?
+Patient: Yes. Not, not much with eating. I had a sandwich for lunch and some coleslaw and a glass of water. Yeah, I, when I, I took a couple of uh s with another glass of water, right? Thank you. Bye.
+Nurse: You're taking Flax.
+Patient: Yes. Ok. I also took M Metamucil yesterday.
+Nurse: Ok. Did you drink flu? Uh, did you take, take it with a large glass of water? Did you mix it well and take it with water? Yes. And what made you take the ex of the, uh, the Metamucil yesterday?
+Patient: Well, because they didn't have a BM. Ok. All
+Nurse: Right.
+Patient: Is taking, and I thought maybe I could help it along, you know?
+Nurse: Ok. And can you, do you feel like you're having, like, um, can you feel like bubbles or like popping in your stomach? Like your gas is moving? Mm. Mm. No.
+Patient: Ok.
+Nurse: Oh all right hold on let me just so what do you think? Do you think you want to go to urgent care tonight? Just to be safe or?
+Patient: No I'll wait till tomorrow.
+Nurse: Ok hold on let me just uh I just lost my phone hold on. All right so I'll send the message over um to uh the doctor see what he says so definitely um drink plenty of fluids, avoid caf caffeine and carbonation. Stay active, eat uh foods high in fiber like fresh fruits and vegetables and um drink prune juice as tolerated, right? Um Alright if you present with um worsening symptoms such as uh you start getting abdominal pain, you have to go to the hospital.
+Patient: Ok.
+Nurse: Right. Sorry my typing is terrible.
+Patient: Uh mine is worse how that? Oh at one time I could fight and I lately I can't do anything and before
+Nurse: And before your um your last bowel movement. Did you see any black tarry stools?
+Patient: No. Ok. Alright look like a normal stool.
+Nurse: And obviously if you have, um, if you have like, nausea, vomiting, like if you're eating and you're, you're, you're throwing everything up. That's a sign as well. So, all right. So, all right. So I'll send the message over to, um, to the doctor and, and call you with an update. But like I said, um, if you get worse, you go to the hospital and, or if you start having nausea, vomiting, you can't hold down food or fluid or abdominal pain, any of those symptoms worsening symptoms, nausea, vomiting can't hold down food or fluid or abdominal pain.
+Patient: Uh, uh, what about the, uh,
+Nurse: And I'll ask about the, uh, the, the referral as well. Ok. All right. Anything
+Patient: Else? No, not really. Ok.
+Nurse: All right. Ok. Just keep a really close eye on your symptoms. So. Ok. Yeah. So, because where you had that divertic, you had the diverticulitis, right? Where you had the infection. So you just wanna make, because, I mean, that could, what can happen is that can cause inflammation right in your G I, which can make it harder for stool to pass. So, you know, which can potentially cause an obstruction, right? You know, and an obstruction is life threatening. So, if you're not able to move your bo bowels, um, you know, that can cause the bowel to, uh, break up and it can a, uh, back up and it can actually perforate your intestine causing that to spill into your peritoneal cavity and causing a severe infection and that's life threatening. So it's really important you keep an eye on your symptoms. So, yeah, be very, be, be o be overly conservative if you start having abdominal pain, even if it's mild because of what you've just been through, just go over to the hospital. Ok. Alrighty. And I'll send a message over, I mean, some of that tenderness with palpation could be, you know, you're still healing, you know, from that, you know, from that bout of uh diverticulitis, but better to be cautious. So, and then I'll ask, ask the doctor what to do. Ok. All right. Thank you. Alright, bye bye. Uh my pleasure. Bye bye.

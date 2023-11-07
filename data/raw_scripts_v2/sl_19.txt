@@ -1,0 +1,40 @@
+Nurse: Yes, ma'am. Uh What's your birthday? So I can pull up your chart.
+Patient: Uh [PHI-Account]. Cool
+Nurse: Deal. Hang tight for me. My computer's thinking that's ok. Ok. Uh What refills did you need?
+Patient: I need the uh Lyrica uh and um well, all of my prescriptions are it shows that the the refills of are either used up but there's no refills. Ok. So I need everything refilled even though it's not, they're not due. I mean they can at least have them as Caremark, you know.
+Nurse: Yeah, let me take a look. It looks like the Lyrica doctor just did for you today and that was sent to Caremark. Ok. Yeah, so that one was completed. Um Anything else that needs to be redone?
+Patient: Uh Not at this time I did. They just sent me the uh uh Synthroid. Ok. So, so uh but the, the other prescriptions are all gonna expire shortly so they all need to be re upped. Does that make sense? Yeah, I get
+Nurse: You. It's just, you have a list of meds. I'm trying to figure out which ones did you need.
+Patient: So, for right now, see, I'm, I'm going on vacation the first of [PHI-Personal]. Ok. I'm going to see my daughter. So I, I, pardon me?
+Nurse: Uh, that's nice. Where, where are you going? Kansas? Kansas. That'd be a nice change of scenery. Yeah, she's, well, let me take a look. Um, ok, I'm just trying to figure out which ones you need. So, the, your cholesterol medicine, that one is good. That was done. Last month.
+Patient: Doctor should be ok. Except for the Lyrica. I won't have enough Lyrica me,
+Nurse: But I'm, I'm just going through while I'm talking to you really quick. Do you have enough, um, supplies and everything for your diabetes?
+Patient: Yes, I got plenty of Tresiba and Trulicity. I have plenty of Tresiba and Trulicity. Yeah, I'm just
+Nurse: Going through everything. The Linzess. The Plaquenil was due in [PHI-Personal] for, um, three months with three refills. So you're good there. Yeah, Lisinopril. You're good. Um, how long will you be on your trip?
+Patient: I'm only going for a week, six day, eight days.
+Nurse: Oh, ok. That be lots of fun.
+Patient: So
+Nurse: Metoprolol was done and you're good. They give you a year supply. So you should be good until the summer and you got your Zofran? Yeah, I think the only thing and Synthroid they did a year prescription in [PHI-Personal]. So, yeah, I think the only thing you were missing [PHI-Personal] was the Lyrica.
+Patient: Right. So, yeah. So,
+Nurse: Yeah, we just did it. Um, how are you doing as far as a blood sugar perspective? Your sugar's pretty stable.
+Patient: It was 101 this morning. First thing,
+Nurse: Um, what is typically a range that your sugars stay in, in the one hundreds in the morning
+Patient: Between 100 99 100 something like that. Right.
+Nurse: Oh, that's pretty good.
+Patient: Yeah. So far,
+Nurse: Yeah. Knock on wood. Right. Um, do you follow any particular diet? Like a, like a diabetic diet?
+Patient: No. Yeah. But, I mean, I'm not a big eater. I, I'm not, you know, I don't gorge myself.
+Nurse: Yeah. Um, just given high diabetes usually tell my diabetics just kind of be mindful of carb intake, you know, everything within moderation, more protein, more fruits and veggies. Um, like fruit. Well, that's good. Um, they do have sugar in it, especially like apples and such. So, just kind of keep that in mind natural sugar though. Um, and, you know, increase protein, increase, you know, fiber foods and just be mindful of the, of the carbs because they do break down into sugar. So, but everything within moderation. Do you stay hydrated pretty well, [PHI-Personal]? Oh, yeah. Oh, good. Good, good, good. Especially with the change of the weather with spring and summer around the corner so well, keep hydrated. Your Lyrica was sent by doctor and I'll probably give you a call in a few weeks. Um, but yeah, I'll put a note in your chart letting them know you're out of town. So if someone tries to call you, they can see the note and kind of avoid phone calls as needed. Ok.
+Patient: Ok. And I'm scheduled to see her in July. Right?
+Nurse: Yeah, let me take a look. It looks like you have an appointment. It's [PHI-Personal] for Mark [PHI-Personal].
+Patient: It should be Doctor [PHI-Personal], but I, I don't care.
+Nurse: Yeah, it looks like it's Mark [PHI-Personal], the one with [PHI-Personal] was canceled. I don't know if they rescheduled with Mark [PHI-Personal].
+Patient: Well, can you re reverse that?
+Nurse: Um, I can send a message over to the office and see.
+Patient: I would rather see doctor.
+Nurse: Sure. Yeah, I'll send a message over to my office contact. Let them know you wanna get rescheduled.
+Patient: Would you please take care of that for me? I appreciate it.
+Nurse: Yeah. Yeah. Um, it's just, I don't know what her availability is. Um, I don't know if, if she, if she was going out of town that week or what have you. But yeah, I'll reach out to my office contact to see if they can get you rescheduled for her. Ok.
+Patient: Ok, I appreciate it.
+Nurse: Yes, ma'am. Well, you have a safe trip, [PHI-Personal].
+Patient: I will. Thank you. Very much. You're welcome. Bye, I'll call you when I get back. Alrighty. All right, I'll see you later. Alright bye bye bye.

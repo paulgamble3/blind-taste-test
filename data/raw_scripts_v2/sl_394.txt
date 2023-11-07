@@ -1,0 +1,22 @@
+Nurse: You go ahead. You go first.
+Patient: So you, you left a message that omeprazole was not from doctor saying and her name is [PHI-Personal] the prescription [PHI-Personal]. It
+Nurse: Is. Yes. Ok. When I called pharmacy they had it from a, it's, it's um, [PHI-Personal] your, I don't know if there's like a mix up or what is, what's happening. I can, I can, I looked at your, um, your list, you know, [PHI-Personal] your, your uh computer here [PHI-Personal] the computer here. Um, it says that it was prescribed by a different physician
+Patient: Probably doctor [PHI-Personal] or somebody.
+Nurse: Um, hold [PHI-Personal] one second. Let me
+Patient: See originally, but she been filling it. Ok, because I've been [PHI-Personal] this a long time.
+Nurse: I just wanna double check just to make sure. Um, ok, it says the last, I mean, you, you got a refill, it was prescribed by [PHI-Personal]. Uh Ed [PHI-Personal] maybe,
+Patient: Maybe they wrote that when I was in the hospital.
+Nurse: Maybe because it was only uh, it was only for 30 days, it was only like a 30 day supply. So, so you usually do get it from, um, Doctor [PHI-Personal].
+Patient: Yeah, her name is [PHI-Personal] the [PHI-Personal].
+Nurse: Ok. So, uh, no, I, they must have just, you know, and you might have gotten it from the hospital or from a different provider. Who knows for the one, that one month supply I will, um, I'll send her a request. I did call the Pharma. I mean, I called the pharmacy. They did tell me that they were going to put in a request, but I'm thinking that they're doing it with this, this the one who, who did the one month
+Patient: Supply? I've been [PHI-Personal] this a very long time, very
+Nurse: Long time, right? I will uh don no problem. I will send um a refill request to her specifically. Um you know, and let her know, you know that there was like some, some kind of mix up and does she usually give you a couple months supply? Like how, what does she, how does, yes, she do that. Go ahead, you know, 90 capsules and like three
+Patient: Refills. Yeah, I think it's 90 days and I don't have the refills and I'm sorry about the other one but [PHI-Personal] the, [PHI-Personal] the [PHI-Personal] it, it said zero refills.
+Nurse: Oh no, that's ok. I mean that I just, I always double check to see the scripts. Usually I can see the scripts and see. So I just call the pharmacy just to verify because even then sometimes it's wrong. So, yeah, I'll send her a quick, I'll send her a quick message [PHI-Personal] the refill and, you know, just give me a call if you don't, if you don't, you know, get the, get the medication in a couple of days, she's pretty quick to respond to um uh refill request. So I don't, I don't see that taking a long time to get result.
+Patient: One question. I, I usually, when I do it, sometimes I do that electronically and it wouldn't, it wouldn't allow me to do it with the epic. Did they change something?
+Nurse: Not that I'm aware of you. I mean, I've been, nobody's none of the pa, none of the patients have told me that they have had any difficulties in like sending messages to providers. You're having some issues.
+Patient: No, it must be, you know, I don't know, forget it. I'll double check what, you know, I'll do it again the next time I need something. I thought it was a new thing because, you know, I got this letter about doing it this way.
+Nurse: Yeah, I'm, uh, you know, I, I, um, you know, after the, I, you know, after I had called the pharmacy and stuff, I did, um, send you a letter and it, it, it's just gonna have some information. Um, so it is, we're just a resource to you. Um, you're not in like you're only inbound. So you only call me when you need me and you're not gonna get any, we have other options for monthly phone calls, but you're just, you, your option is just calling me when you need me. So that is, that's totally fine and I'll keep it that way until you tell me if you wanna change, change it or, you know, whatever you decide in the future. Absolutely. Ok. So I will send the message out and you just you know if you don't uh you don't wanna call me you can call the office directly and you know inquire about it if if you don't get it in a couple days. Ok?
+Patient: Ok, no problem thank
+Nurse: You. You're welcome have a good day. You too.
+Patient: Alright bye.

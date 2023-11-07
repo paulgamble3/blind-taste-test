@@ -1,0 +1,68 @@
+Nurse: Good. Give me one second to pull you up. Ok. Uh huh. You've been doing ok on the injections and everything.
+Patient: Uh, yes. Mhm. But I think it, I think I got, uh, I, I'm looking for my paper. I can't find it. The one for, uh, wait a minute, I'm supposed to go one week. Wait a minute. Let me pick this stuff up before I'm supposed to go one week to take a blood blood work before I come back in to see doctor. Uh, I didn't know I didn't know the date when I come back.
+Nurse: Yeah, it looks like you scheduled. Um, I think this is next week. It's [PHI-Personal].
+Patient: Uh, oh, ok. Let me write that down. So I, what day that's going
+Nurse: On? That's, uh, Thursday. So, next Thursday,
+Patient: Hold on. Wait a minute. Um, [PHI-Personal], wait a minute. So what
+Nurse: I [PHI-Personal] at [PHI-Personal] o'clock?
+Patient: Oh, my, a point. I got appointment from [PHI-Personal] to [PHI-Personal] at, at all. Oh, you do that?
+Nurse: That's a, that's a Thursday.
+Patient: Yeah.
+Nurse: Um, what is, is that for your physical therapy?
+Patient: I took $2. Yeah. From, from, from the store. Yeah. Yeah. Ok. So [PHI-Personal] [PHI-Personal], uh, [PHI-Personal]
+Nurse: O'clock, you think you're gonna make it?
+Patient: II, I, if they can, any time after 11 o'clock would be better because I gotta get on the ride, you know, I get on the share ride. Oh,
+Nurse: Yeah.
+Patient: Yeah, I get on the LTC and they drop us off and bring us to the door. Yeah. I wonder if they could do it any time, like, in the afternoon.
+Nurse: Well, I would have to, um, send the receptionist a message and see if she had another time that she could switch you to.
+Patient: Yeah, because just last, just Monday they called me and said, ok, now you go Monday, Monday and Wednesday for therapy for the pool and Tuesday and Thursday you go for your hands and your shoulder. Oh, that's a Friday, Friday. I don't go at all. So I'm good.
+Nurse: Yeah. Did you start going yet?
+Patient: Uh, I start that next week but I, uh, I'm going now as far as Mondays and Wednesdays. Uh huh. I went yesterday, so now next week when I go I got, yeah, I go Monday on Monday and, and Wednesday for the pool and then Tuesday and Thursday for, uh, what I just said. Oh, so all on your shoulder,
+Nurse: You said?
+Patient: Yeah. And then Friday, I don't have no appointment.
+Nurse: Ok. How's it? Been going so far.
+Patient: All right. That's it. You know, I've been, I taught myself how to do it to take the injection, less pain. You know, it's, it's less pain. Uh, I've been able to sleep at night.
+Nurse: Good.
+Patient: So, you know, I really ain't really got no complaint. I really don't. I still hurt but not as much.
+Nurse: Yeah. Well, I'm glad you're doing better because I know you were, you were suffering for a while.
+Patient: Yes. They said my level was up to [PHI-Personal] and now when I went, when I went there it was down to a one. So,
+Nurse: Uh huh. Well, that's good. Mhm. And with this next blood work she'll be able to see, you know, what your inflammatory markers in your blood looks like. And I would assume that they would be, have gone down quite a bit since you're pretty under control now. So, that's good.
+Patient: Yes. The only thing now, if I get this out of me with the, with the, uh, the dentist because, you know, my gums and stuff are getting sore. So, I have come out now because you, you know, my muscles are getting soft now and I'm,
+Nurse: Oh, gosh, when are you supposed to go do that?
+Patient: Please put me to sleep. But,
+Nurse: Well, just remember if you, um, if you on antibiotics or something like that, you might have to skip your metho methotrexate dose because it could, it could interfere and the methotrexate might uh, could interfere with you healing and, and everything also.
+Patient: Well, I could, if I take the muscle with the shot, I could feel I could take a Tylenol. Right.
+Nurse: Yeah. Yeah, you could take Tylenol.
+Patient: Ok. I just can't take nothing like ibuprofen and like that. Right.
+Nurse: Um, well, if you, I mean, if you need to, you can, you're just, just not something that you would want to take, you know, too much of consistently because sometimes that can affect like your kidney function and things like that. Oh,
+Patient: Ok. But I
+Nurse: Have, if, what,
+Patient: What about if I had to take a, a traMADol?
+Nurse: Yeah, if you need to, you can, I think he had prescribed that meloxicam for you though. That's a anti-inflammatory. If you need, you could take that also.
+Patient: Yeah, for your
+Nurse: Muscles. Uh huh. Or your, your bones like for joint pain.
+Patient: But yeah, I really haven't been taking nothing. Just the, the needle on Thursday, like they told me and, uh, she boosted up to 0.08. Ok. So my, my daughter gave me that I think.
+Nurse: And the predniSONE you went down on that?
+Patient: Yeah. II I got about 33 pills of that. I don't have no more than the f
+Nurse: Folic acid.
+Patient: Yeah, I don't have any more of that.
+Nurse: You need a refill. Yeah. Ok.
+Patient: And uh, the, the, that, the press on I got maybe about [PHI-Account] of them. That's about it.
+Nurse: Ok. You need another refill of the predniSONE. Uh huh.
+Patient: Ok. I think the last one, well, I got the, until I did get the, I have to buy myself. Well, they don't buy the, they don't get it. I have to pay for the, the vitamin C and
+Nurse: D. Uh huh. The insurance will pay for it. Ok. Well, I can take care of those two refills for you. And do you think you're gonna go do your blood work this week?
+Patient: So I gotta go uh well the date I don't have no uh I don't have no um no work order.
+Nurse: Oh you don't.
+Patient: Yeah they gave it to me. I can't find it, honey. II I don't have a work order.
+Nurse: Ok, where they usually send
+Patient: It right over to the, the building, I'll go there tomorrow.
+Nurse: Ok. Which building is it?
+Patient: The [PHI-Personal]?
+Nurse: That's where you usually go. Uh huh. Ok. Yeah, I can uh I can um see if she can do that for you and um we'll take care of the refills and then I'll see if we can get you a different time or, or we might have to switch the whole date of your appointment if you can't make it so you need to come in the afternoon.
+Patient: Ye yes. Mhm.
+Nurse: Ok. So I'm gonna send the receptionist a message and see if um, she can get you another date for the afternoon and either I'll call you back or they'll call you back with a new date on that.
+Patient: Yeah. Ok. So I won't go to the bill in the morning, in the morning. I'll just wait until I hear from you or, or, you know, I just, I'll just wait until I hear from you.
+Nurse: Ok. That sounds good. Yeah, because I would, I would hate for you to go and, you know, make a trip and, and it's not there for you. Um, so just hold off on it but I'm gonna I'm gonna work on that for you and probably get back in touch with you maybe either you know today or tomorrow sometime. Ok. Ok. Alright sounds good. Alright you take
+Patient: Care. Ok? Oh alright honey thank you
+Nurse: You're welcome
+Patient: Bye bye bye bye.

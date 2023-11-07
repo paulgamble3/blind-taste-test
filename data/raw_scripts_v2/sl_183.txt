@@ -1,0 +1,82 @@
+Nurse: Um, I seen where, uh, I don't know if you recall but last month you enrolled in our care management program. Do you remember that?
+Patient: I'm sorry, I, I didn't quite understand. We have again,
+Nurse: It looks like last month you enrolled in the care management program,
+Patient: Chair management program.
+Nurse: Somebody, it looks like I spoke to you at the around the end of [PHI-Personal]. Um, so I'll tell you a little bit about what it is. It's a, a program. I'm like your assigned nurse. I work with doctor s [PHI-Personal] and I can help with refills appointments, labs if you have any questions or concerns about your health, um, or your medications. I can help with that and send messages to doctor s [PHI-Personal] and and just kind of assist in that matter. Is that something you're interested in?
+Patient: Oh, ok.
+Nurse: Ok. I, um, and I usually, I typically call around once a month. We can change the frequency of that based on your needs if you feel like that's too much or, you know, you need to call more often. I can also give you a telephone number, um, for you to call me if something comes up in the meantime. Mhm. Maybe. Ok. So, um, one of the first things I'd like to do is, uh, go over your medications. Do you have time to go over those with me today? Oh,
+Patient: That would be wonderful if I could find that list of medications. Excuse me? I got a little fog this morning this morning. That's ok. Um, well, ok. Do I do? I have time and the answer to that is yes, I have time. Uh, do I, do I have the know how and to list them? All right now. Probably not. But let's, uh, in fact I can't even find a blank. Oh, I know where there's a, uh, notebook that I've been using to keep track of things. Ok. All I gotta do is figure out where I had that. You typically? Oh, there it is. Ok. I, I found, I found the notebook. All right. Ok. I'm ready. Let's, let's start on this thing. Ok.
+Nurse: Well, let me go ahead and give you my telephone number that you can reach me at usually Monday through Friday, 8 to 4 30. Um, if you don't reach me directly, sometimes I'm on the phone with another patient or unavailable, you'll get to, um, you'll go to a different nurse and they can either help you or they can take a message and I will call you back that telephone number. It should be the same telephone number that you just called. It's, um, [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account].
+Patient: Ok. Uh your your name I didn't catch it. It's
+Nurse: [PHI-Personal] Trist. A it's just like tan without the N
+Patient: [PHI-Personal]. Ok.
+Nurse: Ok. Um and can you confirm your date of birth for me?
+Patient: My date of birth? [PHI-Personal].
+Nurse: Perfect. And uh let's see here you use I have [PHI-Personal] mail delivery pharmacy. Is that sound correct?
+Patient: I'm sorry I didn't quite catch that you have
+Nurse: Your prescriptions mailed to you.
+Patient: Oh, they most of the time the uh [PHI-Personal]. Yes. Ok, perfect. And uh of course some of them do here locally but, but yeah I try to get all of the mail order is a little bit less expensive. Ok. Alright. Ok. Uh
+Nurse: Let's see, I'm just looking at make sure I have all of the stuff here I need on this page. Um, do you have a nurse that comes into the home to help you with anything?
+Patient: No.
+Nurse: Ok. All right. Ok. Would it be easier if I list off what I have and you verify your PH
+Patient: Medication. Ok. Probably
+Nurse: I have atorvastatin or Lipitor 40 mg one every night.
+Patient: That sounds right.
+Nurse: Ok. Um, and then I have Colestid or Colestipol one g.
+Patient: My God. Yes. OK. Yes.
+Nurse: [PHI-Personal] g at night. Ok.
+Patient: Uh Yeah. OK. What? And uh huh I'm gonna say, oh OK. Go ahead. Continue.
+Nurse: I have a multivitamin once a day. Yes, I have. Um, it looks like uh the Viagra or the Sildenafil 100 mg as needed.
+Patient: What is that?
+Nurse: The Viagra is usually used for like um, erectile dysfunction? Oh.
+Patient: 00, well, as needed
+Nurse: As needed. Ok. And then uh Flomax or the tamsulosin 0.4 daily.
+Patient: Yeah, I think so.
+Nurse: Ok. And then you're no one. Are you still taking the stool softener?
+Patient: Um No, I have not been, I a little more recently. I'm thinking maybe I should be because I've been occasionally getting cramps uh without any real reason.
+Nurse: Are you having any constipation with that?
+Patient: Uh Generally, no, that's what part, part of the reason that I haven't try to follow through on that because I really don't have any cramps. I mean, don't have any um uh constipation, but I do have uh just, I don't know, gen generally uh not any regular thing, but it's something that happens occasionally. Ok.
+Nurse: Let's see.
+Patient: So I was figuring going back on using the stool softener just to make sure that, that is not the problem.
+Nurse: Yeah, I mean, you can always try that and, and you, the cramping, how often is that happening? Is it like constant or is it just?
+Patient: No, it's just, uh, yeah, arbitrarily, just a very sharp cramp down in the lower intestine area.
+Nurse: Uh, let's see. I have, uh, this, the, there's some eye ointment or eye drops, uh, mineral oil. It's called tan. I think it's over the counter. You're, are you using that still? Oh,
+Patient: Ok. Yeah, I've been using that because, uh, my eyes tend to get dry, have some dry eyes and, uh, it a little bit of the, that, uh, over the counter, uh, stuff, it's instantly works and I said no. Ok.
+Nurse: Ok. And then, uh, [PHI-Personal]
+Patient: Is the drink you
+Nurse: Still, you don't take that anymore?
+Patient: Ok. No, I don't use that.
+Nurse: Is there any other medications that I didn't go
+Patient: Over that you take? I'm gonna have to look at that and maybe perhaps contact. I, I'll call you because I need, I depend upon my wife for looking at a lot of that stuff. So, um,
+Nurse: That's perfectly fine. Um,
+Patient: She is right this moment. How are you in?
+Nurse: Let's see. Are you, do you need refills that you know of on anything?
+Patient: Um, not that I know of. No.
+Nurse: And then, um, do you have any concerns or anything today going on that you need me to, to help with or?
+Patient: No, I don't think so. I think I'm doing fine.
+Nurse: Ok, let me pull up here. And so
+Patient: You, I mean, you're aware, of course, uh, that I was just recently discharged from about two weeks ago, from the hospital.
+Nurse: Yeah, I think that you had, um, I'm trying to look and see
+Patient: In the, in the brain. Ok.
+Nurse: You doing? Ok with that?
+Patient: Oh, yeah, it's, uh, my problem and my main problem recently more three weeks ago was uh uh instability and having problems walking. So, uh, right today I'm almost normal. Ok.
+Nurse: So you feel like that? That's kind of resolved, I think. Uh, yeah, let's see here. That's not who I'm looking for. Trying to pull up your last [PHI-Personal] visit here with Doctor [PHI-Personal], which was the end of [PHI-Personal].
+Patient: You, you're kind of out. I can't, I'm so
+Nurse: Sorry. I said I was, um, I was looking, I'm pulling up your last [PHI-Personal] visit with Doctor [PHI-Personal] here.
+Patient: Was it doctor who, uh,
+Nurse: Doctor [PHI-Personal]? It's [PHI-Geographic].
+Patient: Uh, he's
+Nurse: Your primary care doctor?
+Patient: My primary care doctor. Oh, is, was, um, yeah, he left. Unfortunately that name doesn't, that doesn't seem to ring a bell.
+Nurse: Oh, ok. That's who, um, that's who I'm calling on behalf of. It's your primary care. It's Doctor [PHI-Personal] at [PHI-Geographic] Center.
+Patient: Well, your son Citizen Center. That's correct. Yeah. And, but I, I'm just somehow or either your inci or my ear just is not connecting there.
+Nurse: That's Ok. All right. It looks like you have. You will be coming back to see Doctor [PHI-Personal] at [PHI-Geographic]. It looks like in [PHI-Personal].
+Patient: Oh, yes. Yes. Yes.
+Nurse: All right. Perfect. On [PHI-Personal] the third. Ok. Well, so you'll be receiving a letter in the mail from me. Basically, that's just going to, um, again, introduce myself in the program. I'm also gonna put what we call your wellness goals in there. That's any lab, labs, immunizations, any kind of screenings you have um, due for the remainder of the year. Just take a look over that and I'll give you a call back in about a month and um, we can go over and update that. Ok. Excellent. In the meantime, you can give me a call and um, if you need anything at that number and I look forward to talking to you, [PHI-Personal].
+Patient: Ok, [PHI-Personal]. Thank you very
+Nurse: Much. You have a good day.
+Patient: You too.

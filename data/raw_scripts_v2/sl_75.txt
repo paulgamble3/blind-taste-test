@@ -1,0 +1,124 @@
+Nurse: Yeah, I, it doesn't look like we canceled them. It looks like we sent them back in October. That's odd.
+Patient: Well, I'm reading on, on, on the website here that, uh, that the doctor canceled. So I don't know what to do now.
+Nurse: I don't know. Maybe they checked the wrong box off when you said that when you said you didn't need them at that time.
+Patient: Well, I, I think you had sent the message into them and I, I, you, they told me that, you know, you delayed them but I don't know, but I don't know. Now, what to do. Should I call the doctor's [PHI-Geographic]? I
+Nurse: Can take care of it for you. Let me just check one thing real quick. I wanna go through. There's another section in your chart that I want to go through and make sure that he didn't, didn't send a message or because there's, there's the main chart section where we have all of your [PHI-Geographic] visits. Notes, there's a medication section and then there's a section where we have all the re that we have, you know, all that we called that I write. Yeah, I called you. I talked about this XY and Z my medication. So I just wanna make sure that he didn't have a note in there that he actually did want to, to stop them. That I didn't know about me one here to make sure that that not in fact. Correct.
+Patient: Um
+Nurse: No. Ok. No, the only stuff I have is that we switched that we got you switched over from to express scripts. So, what I'm gonna do is because I, like I said, I don't know if they accidentally over to express scripts, check the wrong thing, but because that's what's showing you, you won't be able to do anything on your end. What I'm gonna do is I'm gonna have Doctor [PHI-Personal] in new prescriptions for the Lisinopril and the Pantoprazole and, um, have them send them out to you. Um, is there any, is there anything else showing up on that screen? That's saying
+Patient: Doctor, yeah, there is, there's other ones but I, it's not time to get them yet.
+Nurse: Um, let me know what those are because what I can do is have Doctor [PHI-Personal] send them over and I will call over there and let them know they don't need to be filled. But that way when you do need them that you'll be able to fill them because you'll have the same problem with those that you're having with these.
+Patient: Yeah, the, I don't know how to say these things. Yeah. AmLODIPine that I'm not sure. I don't think it's ready yet but it's, it's marked the same way shipment has been canceled or will not be sent to you. Ok. How
+Nurse: About the, um, atorvastatin?
+Patient: Uh, I'm looking for it. Uh, that's the same way. Ok.
+Nurse: How about, uh, let's see. The other one that was ordered on that same day was tamsulosin.
+Patient: I still have some of those, but let's see what it's marked. Yeah, it's marked the same way. Canceled. Shipment has been canceled.
+Nurse: Ok. All of those were ordered on the same day. That's why I wanted to check them. So, yeah, I don't know. I don't know. Maybe it was the back and forth between and express scripts that maybe they sent the cancel order to express scripts instead of sending the cancel order to. That's happened before. Um, but I'll get those resent out since I have you on the phone. You do have a couple other ones. Might as well double check on them as well. Um, do you, how about the [PHI-Geographic]?
+Patient: [PHI-Geographic] is a, is a part B, uh, drug and that's all right. Ok.
+Nurse: Methotrexate,
+Patient: Methotrexate. I did get, ok. Well, it says my order has been shipped. I didn't see it yet. Ok. Well,
+Nurse: I'll take ship as a good sign for right now. Yeah. How about, uh, then I butcher this one. I'm sorry. Tt thank
+Patient: You. What is that for? Does it say there? I don't think I'm taking that one right now.
+Nurse: Um, I don't, it doesn't look like it's prescribed by us. Let me pull it up. Um, and see, sometimes they have it under different names. Um, it's Zantac would be the brand name.
+Patient: Oh, no, I, I'm not, I haven't taken that for a while. Right. Well,
+Nurse: Then I will take that off of your list here. Yeah. Um, you might as well clean up for the year end. Make sure you go into the New Year. We're all got your medication list all cleaned up so that I have, uh, I do have predniSONE still on here.
+Patient: Yeah, but that I, I was prescribed that and I had a side effect so I should never be getting that again.
+Nurse: Then I will take that off of your
+Patient: List. Yeah, I, I had, uh, it, my eyes got all funny and it was, I didn't feel very good on it.
+Nurse: All right. So what I'm gonna do is I'm gonna take it off your list and I'm gonna put not tolerated on it, any side effects so that we know for next time. Yeah, that way if it ever comes up that they wanna give it to you and, because it is a very common thing that,
+Patient: Yeah, I used to take it. I used to, didn't have a problem, but this last time I did.
+Nurse: How about your Eliquis? That one's a very important one.
+Patient: Yeah. No, I still, I never transferred that one. Mm. It's still a lise. But because, uh, the price doesn't match with the express scripts, they're like $400 and it's [PHI-Account] and I'm in the donut hole right now and it's like [PHI-Account] and something. And, ah, and at wise [PHI-Account] and 47 I think. Yeah, I, I don't blame you. So, I don't know what the difference is. But, uh, I think that, uh, uh, let's see who's my insurer? It's, uh, whoever, mine, sure, whoever my insurer is, I think gets a different pricing than some other ones for some reason. And, uh, I, if, uh, maybe express scripts still doesn't or doesn't have that clued in Cigna is where I is my part D insure. And, uh, but I didn't, I didn't move it. I left it. Stay there for now.
+Nurse: I don't blame you. I would too. That's a huge difference.
+Patient: It's 47 or it's $42 once the first of the year comes around again. But when I get in the donut hole, it's [PHI-Account] and 47.
+Nurse: Now, the only thing that I can think of that it might be is express scripts generally does a three month supply, which is three month supply at [PHI-Account] and like, 40 some dollars would come out to be around 400
+Patient: Dollars. Well, maybe it is, maybe that's what it is. I don't know, but either
+Nurse: Way that's a lot of money to fork up up
+Patient: Front at one time. Yeah. Yeah. So that is expensive stuff.
+Nurse: Yeah. Now, um, there are certain discounts and programs for cost saving on that. Would you be interested in? Um, I sending you out any information on it? I know, you know, you're probably good for this month at this point. But at least this way you can look over it and see if you'll qualify for it to be any cheaper.
+Patient: We did. Ok. Yeah, I'm pretty sure. And I, uh, some of them are, uh, due to income and that kind of stuff I think, don't they? You know, I think I'm, I think I'm not I'm not poor enough yet. I hate that.
+Nurse: You, you, you get everything right and you saved money and now you, uh, you didn't make up for $500 a month medication. Who knew that was the thing when you were working?
+Patient: Yes. Oh, boy.
+Nurse: All right. Um, the other thing is if you get to appointment donut hole, um, like I said, you're probably good for this month but, you know, if it gets to a point where it's really just too much for you. Um, you see a cardiologist, correct?
+Patient: Yes, I do. Ok. Yeah, a lot of times.
+Nurse: Ok. Sorry, I have to flip screens and I don't want to ruin the medication list right now. Um, but a lot of times they have samples. So, if you're
+Patient: In, well, I did get a month worth of samples from it.
+Nurse: Yeah. So if you're ever in a pinch and you're just like, you know, I just, I can't do it this month. Let us let us know, let that doctor's [PHI-Geographic] know and we can, we can try and find you some samples.
+Patient: Super, that's nice to know.
+Nurse: Ok. Now, um, I do also have a metoprolol 25 mg or metoprolol.
+Patient: Yeah, that one on that list too.
+Nurse: It's on my list. Is it
+Patient: On here? It is there. Now, now I have a note here that, that my order has been shipped on that one. No, I don't know where it is, but uh, that's the order details, uh, placed processing and it says ship, but I haven't seen it yet. Your medication is on its way and I can track my tracking number. So maybe I can look that up, but maybe I'll be getting it any day now.
+Nurse: Yeah. How about the methotrexate?
+Patient: I got that.
+Nurse: Oh, good.
+Patient: Yeah. So that one's ok.
+Nurse: The other ones is just folic acid, calcium with vitamin D A multivitamin Colace Melatonin. Those are all over the counter.
+Patient: Yeah. Yeah. Actually my, I get, I get my, uh, folic acid through, uh, the prescription for some reason. But,
+Nurse: Um, sometimes in insurance that's what the insurance will cover if it's prescribed. Some people find it cheaper to go through insurance because it helps meet your deductible and it's a cheaper medication through insurance. Some people find it cheaper to just get it over the counter. Um, it is available over the counter. Should you find it cheaper
+Patient: For that? Maybe I need to check that out. You can go your way on that one. Ok.
+Nurse: Um, now the other thing here I have and I'm, I might butcher this one. This one I'm not as familiar with in F Xib.
+Patient: Oh. that's the, uh, that's, isn't that the same as the [PHI-Geographic]? I'm trying to think.
+Nurse: Um, that's the immunosuppressive drug.
+Patient: Yeah, that's what my [PHI-Geographic] is. Do
+Nurse: You still have that one?
+Patient: Yeah, I, the [PHI-Geographic] is a part B one. It's covered under part B yeah. Can't you hear me? Hello?
+Nurse: Oh, can you hear me?
+Patient: Yeah, I can hear you. Ok. Can you hear me?
+Nurse: Yeah. Sorry. My headset cut out on me. I had to pick up the, pick up the phone. Um, oh my God. Sorry about that.
+Patient: Uh, the, that's covered under the part. B
+Nurse: I thought so, but I, but since we were going through your meds, I, I like to double check. I like to be better safe than sorry at this point. Yeah.
+Patient: Yeah. Ok. Yeah. But I, I, and that's why I don't go on, uh, uh, the other type of, uh Medicare. The, what's the one that covers out everything I do? I go part A part B and part D because of that because I, that's like, that's like 12,000 a month.
+Nurse: I would say if you are looking at [PHI-Personal], I would, you know, I can't, I can't technically recommend anything but I would say be highly cautious and read the fine print on, on Medicare. Um, replacement plans like [PHI-Personal].
+Patient: Oh, is that right? Yeah, you,
+Nurse: If you're looking for anything, look, there's a difference between supplements and replacements.
+Patient: Yeah. Well, I have a supplement too.
+Nurse: Supplement plans are good replacement plans
+Patient: Are, I have a B A supplement and part T Perfect.
+Nurse: Ok. Yeah, it, it's [PHI-Personal] enrollment. I've had a few, I worked home health for years so I'm very familiar with, with a lot of the in and out of, and I've had a lot of patients go. Oh, yeah. I'm going with a replacement plan. I'm like, oh, read the fine,
+Patient: Read the book. You have to be careful.
+Nurse: Yes. Ok. So I, perfect. So I have all of those checked off. I do have, it looks like a cycloSPORINE eye drop still? Are you still taking that one
+Patient: Or is it? No, I'm not. No. Ok.
+Nurse: Let me take that off your list then
+Patient: Too. Hm. All right.
+Nurse: And then the magic mouthwash. Do you still do that mouthwash or you done?
+Patient: I, I'm not doing it right now. I think I'm done with it. I think I'm OK.
+Nurse: Ok. Um I think I'm gonna leave it on there so that we can reorder it. Should you need it since it's only, it's not even a month out of use. Um Yeah, so I don't want and it has refills. So we're gonna leave it there in case you need it again. Um And then the, the last thing I have is a, is a Metamucil. Are you still doing Metamucil as needed
+Patient: Or daily? I'm not right now. I'm not needing it. So. Ok. All
+Nurse: Right. So that's there. Should you need it again? Fiber is always a good thing for you. Um But you can overdo it so you know, know your body, right?
+Patient: I think I was overdoing it and uh uh uh things were flowing too good. So
+Nurse: Yeah, and they, it can make you, uh, fiber is fantastic. I give you regular bowel movements. But if you get too, too much fiber, you can actually constipate yourself, which is definitely not the preferred there. Now, I do see here that you went to urgent care back in November. Um, any, any further issues or concerns with
+Patient: That. No, I was, I was really, uh, having a problem, uh, with urination but it's, it seemed to straighten out. I probably was dehydrated, I guess. Yeah,
+Nurse: That, that can happen a lot, especially over the holidays here where we just might get caught up with stuff and forget to drink some water.
+Patient: Yeah. Yeah, but I seem all right with that now.
+Nurse: All right, perfect. Um, so that sounds good. That's there. Let me just check your year end list to make sure you got through all your to do list. The only thing that I'm showing on your to do list is if you would want a flu shot or not.
+Patient: Oh, I got that.
+Nurse: Oh, you did? Ok. When did you get that
+Patient: [PHI-Personal] Aid?
+Nurse: When did you get it?
+Patient: Oh, I knew you'd ask,
+Nurse: You can give me an approximate, like at least
+Patient: About three weeks, three weeks ago, about one,
+Nurse: Two. So right before Thanksgiving, then the week before Thanksgiving.
+Patient: Yeah. Ok. I, the only thing that I haven't updated is my last, uh COVID booster. I have, I got my, my two initial and one, one booster, but there, there's a new one out, I guess I should get,
+Nurse: Um, yeah, you would not be able to get the old boosters. Those have actually been pulled off the market. The only thing available should you want? It is the bivalent, which is the new booster,
+Patient: The new one. Yeah, I, I haven't, we haven't gotten that yet. I don't know. I'm thinking about it, I guess I should. Huh?
+Nurse: That is completely up to you on what you decide with that one. yeah, we do not have them here at the [PHI-Geographic]. You can definitely talk with Doctor [PHI-Personal] about that. I know you're coming in here in March. Um, it's a little bit of ways but it'll be here before you know it. Um, yeah, but if, if you do want to get that one then you would have to go to, like [PHI-Personal] Aid or
+Patient: Something. Yeah, that's how, that's how I got the flu shot. I went through, through [PHI-Personal] Aid to get that.
+Nurse: I said we do have the flu shots in the [PHI-Geographic]. But you already? Oh, do
+Patient: You? Ok. You never know anymore. Yeah. It's been
+Nurse: A weird, it's been a weird past couple of years.
+Patient: Yeah.
+Nurse: So, ok. Well, that's good on that front. I got you all checked off on that. I will get these medications, um, resent out for you taking a look at it and I, I think probably what they did is sent, sent the discontinue order to the wrong pharmacy accidentally. Sometimes the system gets a little funky when you're trying to send scripts to one place and I send a discontinue order to another place. Sometimes the computer. Yeah.
+Patient: This whole process has been confusing for me. It wasn't easy.
+Nurse: Yeah, it should be easy. I don't know what happened specifically with you but, you know, we'll take note and then improve it next for, for the next thing. Um, so I'll get that straightened out there. Like I said, you are coming here in March. But if you need us in the meantime, definitely give us a call. Hopefully, don't take this the wrong way, but hopefully you don't need us for anything.
+Patient: Well, that, that would be good news in one way, but then I wouldn't get to talk to you.
+Nurse: I always feel guilty saying, oh, I hope to hear from you soon. Oh, wait, that means no, I don't.
+Patient: Yeah, this, by the way, this Lisinopril, I'm, I'm gonna need it pretty quick. I need it. How much do you have? About a week? I, well, I have, I have the rest of this week and maybe half of next week. Hm.
+Nurse: Ok. All right. So we shouldn't, we should be able to do that. No problem. I'll have Doctor [PHI-Personal] is in and he's normally on top of it. He normally gets back to me in like half an hour and I'll have time. So that should be taken care of. No problem. I would track those medications and if something's not adding up, let us know, um, I can call over there. Don't ask me why some, but sometimes they give us an easier time tracking stuff or when [PHI-Geographic] calls versus a patient, I find it absolute Lowney. But hey, you know what, I'll use it to benefit you however I
+Patient: Can. That'd be great. Ok.
+Nurse: So, um, give me a call next week if you don't get your meds. Ok.
+Patient: All right. I will do. Thanks so much.
+Nurse: You're welcome. If I don't hear from you. Have a Merry Christmas. Hey,
+Patient: You too.
+Nurse: Thank you. Bye bye
+Patient: Bye. Bye bye.

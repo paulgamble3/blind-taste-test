@@ -1,0 +1,33 @@
+Nurse: Hi, mister. Yes, I did. Um, was just calling to do your monthly follow up call just to check in with you and see how you were doing.
+Patient: Oh, we're doing fine. I think, um, my ent guy, Doctor [PHI-Personal] had me do a swallowing test apparently is what it was. Uh, and that was, um, a week ago last, this last Monday. So that would have been on the, uh, let me see when it was, uh, it was on the [PHI-Personal] of [PHI-Personal]. I haven't heard back from him yet. I'm still waiting for someone to give me the results of that. So I, again assuming it's between the tower people and them and whoever's reading it or whatever. So I'm just gonna let that go for a little while and eventually call them, but that's the only thing that I had. Uh, it's, um, on the docket that we've had lately. Ok.
+Nurse: Um, give me just a second. So how, um, have you been checking like, your blood sugars and your, um, BP regularly? How long it's been
+Patient: Running? No, I don't do that. It, it's always good to, you know, I just, yeah, it really is. Um, my wife just got a, uh, BP thing the other day. So, uh, it's a home model. So, uh, only thing bad about it is we have to turn off the, it's one that'll, that's, that's live that if you take it, you, uh, it goes to somebody's, uh, location and they write it down. So I don't think they want mine.
+Nurse: No, I think they will want her if it's a sign to her. Yes.
+Patient: Yeah. Well, anyway, uh, I was trying to look to see if
+Nurse: There was any results from that swallow study in here, but I don't see any. Yeah. Yeah.
+Patient: Yeah. El [PHI-Personal] was on the list, uh, you know, because she was listed as the primary care. So,
+Nurse: Yeah. No, I'm looking, I don't see anything, any results yet, but it was just the [PHI-Personal]. So, you know.
+Patient: Yeah, it's gonna be probably a little while longer. So I guess we'll just, we'll just wait on, but that's the only thing that, uh, that I think is outstanding. And, um, so that, that, that's where we stand. Uh I'm sure once it's out you will get a copy of it. I'm sure.
+Nurse: Right. Yeah, I'm quite sure they will just go ahead and it'll be uploaded to your, um, to your, my chart. So we can, you know, we'll be able to review it as
+Patient: Well, so, uh, I think I have, uh, lab, uh, thing in January then I think I have Doctor [PHI-Personal] in early [PHI-Personal].
+Nurse: Yeah, it looks like, actually it looks like you have labs [PHI-Personal] and then you have an appointment with her [PHI-Personal].
+Patient: Ok. All right. I thought it was in January. Ok. Yeah, I've got them written down here, so I don't have to worry about that.
+Nurse: Um, I was just looking at your chart and I see you, um, you had two hospital visits last month, Mister [PHI-Personal]. What were those regarding?
+Patient: Well, no, I went to the emergency room. Uh, um, one was, uh, we had a mold issue in my house and a remediation. So I went up to, you know, I had the, uh, the, the, the Avian, uh, version of, um, getting trouble with mold or, or that. So I had that about 40 years ago or so. Um, and I'm, was very wary of that. So they took an x-ray and they, they checked me out and said I, I don't have any, any issues with mold. Ok. So that's what that one was for and I'm trying to think what the other one was for. Uh, what was the other one for? I don't
+Nurse: Know, to see if I can review it.
+Patient: It would, it would have been the second one I think. Um, which
+Nurse: Was the [PHI-Personal], which was the 12th, I'm sorry, of last month. Hm. Well, like I see your labs that they did when you were there. But,
+Patient: Oh, wait a minute, wait a minute. I, I do, I do have it. I, I just have to figure out how I, they give a kind of a unique.
+Nurse: Ok. It looks like it said, acute diarrhea.
+Patient: Yes, I did. I did have acute diarrhea there for a while and I couldn't keep anything, you know, in so to speak. And, uh,
+Nurse: Exactly what was, you know, what could have been causing that.
+Patient: No, no. And that has since gone away. So I'm, I'm basically back to more normal than I used to be even, even before that happened. So, uh, right now that is not an issue because everything is, is doing well. So, so that, so that settles all the issues that, that have come up in recent times. So, um, and I don't have anything scheduled for this month actually.
+Nurse: Yeah, it looks like you're pretty, pretty free for the, actually for [PHI-Personal]. Well, on it, according to your chart, you don't have anything scheduled with the PC P until, until your primary until [PHI-Personal]. Right? But
+Patient: Appointment coming up. No, I'm saying I have no, no appointments with anybody this month. So,
+Nurse: Um, you won't have to worry about doing anything
+Patient: Extra. Yeah. Yeah, I guess not. So, I guess we'll just wait for the results of that, uh, tower swallowing test and, uh, stuff that they did on the, because that's only
+Nurse: Is there a reason why they did the swallow study, um, test? Were you having some issues with swallowing or anything like that? I
+Patient: Was having issues. It was related. That's kind of like a GERD thing that comes up to the throat. I had one that brought it all the way back up and that was, uh, that was a while back. But then we went ahead and did this because, uh, I'm having trouble with my voice. I lose my voice practically, you know. So I'm, I'm having trouble in that general area of the throat. So that's why they did it. So, uh, so we're looking to see if there's anything related to the GERD and whatever could possibly be for, for the voice. It's, uh, it's not as strong as it used to be. And, uh, I don't know, a little bit of swallowing issue but it's not, not, not really bad, but, uh, they've never come up with a good solution to it yet. So, um, I'm just waiting for the results of that study and I guess that's gonna be the answer.
+Nurse: Ok. Well, once we get those results, then I'll give you a call and we can go over them or, you know, if you have any questions or concerns or anything. But in [PHI-Personal], in between time, Mister [PHI-Personal], if you need me for anything, please feel free to give me a call. Ok.
+Patient: Ok. Thank you very much.
+Nurse: You're welcome. Enjoy the rest of your day. Bye bye.

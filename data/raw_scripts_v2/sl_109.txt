@@ -1,0 +1,40 @@
+Nurse: Ok. Good. You sound like you're feeling better.
+Patient: I am feeling better and my back really does hurt but, um, my tailbone hurts but surely it'll get better. It just takes time, I guess.
+Nurse: Right. So I talked to doctor [PHI-Personal] and she wants you to go to urgent care to get those staples out. She thinks it'll be too long to wait until, um,
+Patient: Thursday 11. Ok. Go ahead and go to urgent care then
+Nurse: And right, and see if they can take out the staples because how long have the staples been in,
+Patient: Uh, since, uh, last Saturday? Let me see the date. Um, I guess since about the, uh, [PHI-Personal]. No, early, earlier than that. Um, like [PHI-Personal] 1st, I think is when I went to the, yeah, staples
+Nurse: Staples should only stay in for 7 to 10 days. So I would, do you think you need the urgent care like tomorrow? Sure. Yeah, I would try and get to urgent care tomorrow to see if they can take out those staples.
+Patient: Ok. When I was there for the x-ray, they said they could take them out. So.
+Nurse: Ok. Did they tell, did they tell you when to come back?
+Patient: Um They said about let me look at this calendar. Ok. Uh uh Tuesday or Wednesday. Ok.
+Nurse: Yeah. So, um, I think it's a little too late. You know, those would be in a little too long if you waited to go see Doctor [PHI-Personal].
+Patient: So,
+Nurse: Um, I would just go have them taken out sometime tomorrow if you can. Is, I don't know what, what's the wait like there is, is it? Ok.
+Patient: Yeah, it's not bad. The one I go to on ball, um, our gun [PHI-Geographic], I guess it is or not. It's not bad. Ok.
+Nurse: Ok. Um,
+Patient: Yeah, so I'll go tomorrow. Thank you so much
+Nurse: Here. Hold on one second for me and then you go to Doctor [PHI-Personal] on the [PHI-Personal].
+Patient: So I do go, I still have an appointment there. What time
+Nurse: I just got clicked out of this? Bear with me. Hold on. Yeah, we made you a follow up after, um, because you're having so many issues.
+Patient: Yes, the [PHI-Personal]. But I don't have a time. Hold on.
+Nurse: I'm getting there. We're, we're talking faster than my computer is letting me move. You would go at 12:45 p.m.
+Patient: Ok. Thank you for that very much.
+Nurse: Ok. Yeah, so um go to urgent care, have them take out the staples. You can go to doctor [PHI-Personal], I'll check in with you after that appointment to see how we're doing. Um And then are you, do you feel like since your back is feeling better? Are you a little bit more steady?
+Patient: A little bit? Yes. Yes. I'm being very careful though. I'm, I'm very careful of every step. So I'm pretty slow.
+Nurse: Ok. And is your neighbor still helping with like the mail and stuff?
+Patient: Yes. Ok. Yes.
+Nurse: Good. I think that, you know,
+Patient: You're very good with remembering everything. Thank you for your care and your concerns. So,
+Nurse: No problem. I think you've had a rough couple, you know, you've had a rough time here. So I'm trying my best to help you on my end
+Patient: And you really are. And I thank you very much to do you have any luck with getting me uh a walker?
+Nurse: No, I I would say so when you go to doctor [PHI-Personal], um because you know that right because on my end it looks like we have a walker for you. So just explain to her that your husband has
+Patient: A walker,
+Nurse: You know, and then we'll see if they're able to provide him with a walker at that time.
+Patient: Ok. Thank you. I'll do that.
+Nurse: Yeah. So just tell her um and then, because I, I don't know that does, he need to be seen by her. I, I don't know what she's going to want to do about that.
+Patient: Well, he's just, well, he's been there recently. She, I think she knows about his parkinson's how bad it is. Ok. So,
+Nurse: Yeah, we can see if she can order a walker for him and then you can start using your, your own walker.
+Patient: Yeah. Ok. All right. Thank you so much, Nicole. You have a nice day and I'm very grateful for your help.
+Nurse: No problem. I'll call you after doctor [PHI-Personal] appointment and see if there's anything else I need to help you with this month. Ok. Ok.
+Patient: Thank you so much. All right, have a good day. You too. Bye now. Bye bye.

@@ -1,0 +1,43 @@
+Nurse: Throat. What about the right side?
+Patient: A little bit? Not that bad.
+Nurse: Ok. So it's less. Did, did you recently, um, get sick?
+Patient: I was sick about, about a week ago with, I had energy temperature but I haven't been sick since.
+Nurse: What did, what were you sick? Like, did you have like a, like a cold flu?
+Patient: I don't know what was wrong. I had a fever and just so awful. I just took medicine Tylenol.
+Nurse: How long was the fever for two days? Ok. And then you haven't had one since? No. When did you notice the, the, um, the
+Patient: Three days? Ok. Bother me Yeah, I swallow and things like that. So it's not bothering me but it's like to touch it, it hurts to touch
+Nurse: It. It's tender. Right. Right. Um, does it look red at all my throat that, yeah, where the, where you see the lumps or you can feel the lumps?
+Patient: No, I don't, I don't know. I don't think so. Ok. Ok. Then I got three nodules in my, on my tummy, on my left side, there's three nodules there and they, they hurt.
+Nurse: Um, would you say it's closer to your groin? That, that the nodules, like, can you explain where?
+Patient: Right on my, right on my tummy, like right mid, mid tummy?
+Nurse: Ok. Below or above your belly button. I will, I'm sorry, above, above. Ok. And are they hard?
+Patient: Yeah, I, my daughter, she's like, I don't know what that is.
+Nurse: Hm. And you noticed that around the same time, three days ago or were those there before?
+Patient: They've been there for about, about, about a month? Ok. I don't like doctors.
+Nurse: [PHI-Personal]. I know. Ok. Let me pull you up here. Hold on, let's see. Any nausea or vomiting at all.
+Patient: I had nausea but I have nausea every time I eat, like, when I eat, I, I'm nauseous after I eat, if I eat, but I don't eat that much. I eat like maybe one meal a day and that's maybe a couple of bites. And that's about it.
+Nurse: Is that because you can't um, I will fill them.
+Patient: I just feel bad. I'm gonna throw up. So I just need, you know, I don't wanna throw it up. I have, I have up,
+Nurse: Let me see here. Have you lost any weight? Because, because you, you haven't been able to eat [PHI-Account] lbs? Oh, and, oh, goodness. And, and can you tell me like the time span, has it been like a couple of weeks?
+Patient: About three weeks?
+Nurse: Three weeks? Ok. And that's because of the nausea and the, um, [PHI-Personal] for wanting to, to possibly throwing up. Yeah. Ok. Have you eaten anything today? Were you able to hold anything down? Oh.
+Patient: Uh, no, I haven't eaten anything today. Ok.
+Nurse: When you drink liquids, can you tolerate that? Yes. Ok. So I don't, I, I don't want you to go, um, too long without getting, you know, proper nutrition. I know that you do feel nauseous after you eat, but maybe if you can probably try doing like, um, meal replacement, like a protein shake or something just so that you're not, um, losing out on nutrients. What I'm gonna do is, um, I'm gonna send a message over to let the, the provider know what your symptoms are. I would, I would probably recommend doing a, in office visit just so that they can assess you and feel, you know what's going on. Um, if you feel like your symptoms worsen, you know, take a trip to your local urgent care. Or, or, you know, emergency room but, um, I'm gonna try to see if I can get you in as soon as possible. Do you have any reservations for any days in particular that you're not allow to make? Ok.
+Patient: I have an appointment on Thur Thursday. That, that, um, it in the morning though.
+Nurse: I'm sorry, you, you have an appointment with,
+Patient: I have a, this Thursday with the management.
+Nurse: I don't see an appointment.
+Patient: No, I have a, a pain
+Nurse: Management. Oh, pain management. I'm sorry, I couldn't hear you. Ok. So, um, have you taken anything for the discomfort for like the pain in your throat?
+Patient: Uh, I've taken like, um, Advils twos. [PHI-Personal] you said? Yeah, [PHI-Personal] two. Tylenol [PHI-Personal], I've taken that
+Nurse: Father. Ok. Um, let's see. I take pain medicine.
+Patient: So the pain, it doesn't, doesn't hurt that bad, but I take pain.
+Nurse: Ok. All right. Does it hurt when you swallow? Yes, it does. Ok. It doesn't feel like a sore throat though. Does it
+Patient: Hurts all the way down to my, um, my shoulder, like my shoulders where my collar bone is
+Nurse: Down to your collar bone that's on the left side
+Patient: Or both side, just left?
+Nurse: Ok.
+Patient: And you said a little bit but not that bad,
+Nurse: Right? What would you say your pain is like on a scale of 1 to 10,
+Patient: [PHI-Account]? Ok.
+Nurse: All right. So, yeah, let's see if we can get you in. Um, I'm gonna call you back within like the hour tops, hour, hour and a half um and let you know and then we'll go from there. Alright? Thank you. You're welcome bye bye bye bye.

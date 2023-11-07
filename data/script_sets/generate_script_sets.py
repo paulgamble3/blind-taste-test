@@ -2,7 +2,7 @@ import glob
 import random
 import pickle
 
-all_scripts = glob.glob("data/raw_scripts/*.txt")
+all_scripts = glob.glob("data/raw_scripts_v2/*.txt")
 
 script_labels_A = []
 script_labels_B = []
@@ -18,8 +18,8 @@ random.shuffle(script_labels_A)
 random.shuffle(script_labels_B)
 
 
-with open("data/script_sets/blind_set_A.pkl", "wb") as f:
+with open("data/script_sets/blind_set_v2_A.pkl", "wb") as f:
     pickle.dump(script_labels_A, f)
 
-with open("data/script_sets/blind_set_B.pkl", "wb") as f:
+with open("data/script_sets/blind_set_v2_B.pkl", "wb") as f:
     pickle.dump(script_labels_B, f)

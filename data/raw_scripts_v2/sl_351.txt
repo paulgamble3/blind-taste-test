@@ -1,0 +1,25 @@
+Nurse: Was your birthday? I missed that part.
+Patient: [PHI-Personal], 13, 1957. Ok. Let me get you
+Nurse: Pulled up here and spell your last name for me.
+Patient: Young. Yo. Un G. Oh, there we go.
+Nurse: I will go ahead and get this sent over. Ok.
+Patient: All right. And I also, uh, when you send that over I went to a gynecologist. Um, I wanna say wasn't the, the end of last year and I, I wanted to know that gynecologist name and number so I could go back to them.
+Nurse: Yeah. Hang on just a second. I pull up. Do you know about when last year? It was?
+Patient: Actually, I don't, um, I think it was like [PHI-Personal]. I do because it was before my vacation.
+Nurse: I have a note in here from [PHI-Personal]. Uh, she's a medical doctor OBGYN and, uh, I see a note in there from her. Does that sound right?
+Patient: Yes. Spell the last name. [PHI-Personal]
+Nurse: Uh huh. Va. Er, I'm sorry.
+Patient: Ok. Do you have a number for them?
+Nurse: Yeah, I can pull it up. Give me just a second.
+Patient: Ok.
+Nurse: It is [PHI-Account] [PHI-Account]
+Patient: [PHI-Account] two. Got it. Thank you so so much. Yeah,
+Nurse: No problem. What was, what did you say that dosage was one more time of the me
+Patient: Again. Say that again for
+Nurse: Me. What did they change your dose to for the metoprolol?
+Patient: Uh from once a day to twice a day, a
+Nurse: Day to twice a day? All right, I will push that over through to them.
+Patient: All right. Thank you so much and you have an awesome weekend.
+Nurse: Thank you. You too.
+Patient: Ok, bye bye
+Nurse: Bye bye.

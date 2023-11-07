@@ -1,0 +1,21 @@
+Nurse: A day. Stomach. Right.
+Patient: Right.
+Nurse: Ok. And they go to the mail service pharmacy. Right.
+Patient: Right. Right. For the, so I'm just, I can do probably without them until I can get them through the mail. But, uh, would
+Nurse: You like, um, me to try to get an emergency supply to the local pharmacy? Um, and then, um, your 90 day to the mail service?
+Patient: Yeah, that would work too. Get, get some from the, from the local CV S. So it's on, uh, it's on University [PHI-Geographic] but I'm not positive and I'm not positive what their number is.
+Nurse: Let me just write that down CV S
+Patient: CV S or, uh, Rite Aid is over on, uh, [PHI-Personal] [PHI-Geographic]. Uh, that's another one I get. Sometimes I get stuff there. So [PHI-Personal] might be better. I don't know. I mean, uh, Rite Aid
+Nurse: And that's, you're still in [PHI-Geographic], right.
+Patient: Yes. Ok. Yeah, we'll be here forever in a while. We'll be coming back after summer,
+Nurse: [PHI-Personal]. You need to go to your granddaughter's graduation and then you can come back to [PHI-Geographic].
+Patient: Ok. Thank you very much.
+Nurse: And that's what [PHI-Personal] told me last time we spoke.
+Patient: So that sounds, sounds good.
+Nurse: All right. So as soon right now, um, our medical record system is currently down throughout all of [PHI-Geographic]. Um, so as soon as that comes up, it should be up in the next hour or so, I'll get that put right through for you. Ok?
+Patient: To, for the, uh, local pharmacy. Yep, I'm
+Nurse: Gonna do, um, I'm gonna have them do a 10 day supply to Rite Aid on [PHI-Personal] for you. Ok. Ok. Um, and then your 90 day
+Patient: To, to, um, um, yeah, whatever you call it. Yes. Yes, I never can think of it, but yes. Ok, that's fine. Ok, I appreciate
+Nurse: It. You're welcome sweetheart. You take care.
+Patient: Yeah, you too. Have a good day.
+Nurse: You too. Bye bye.

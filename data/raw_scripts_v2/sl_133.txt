@@ -1,0 +1,19 @@
+Nurse: Ok. You doing all right.
+Patient: Yeah, I guess you want some readings, huh? Sure. What you got? Ok. Today was [PHI-Account]. Yesterday it was [PHI-Account]. And let's see here. Hm. The day before that it was 1 [PHI-Account] 57 [PHI-Account]. Ok. Day before that it was 1 20 [PHI-Account] 68. Ok. Day before that was 1 37 [PHI-Account] 68. Ok. Day before that was 1 [PHI-Account].
+Nurse: Those are all good readings.
+Patient: Well, here I got one here and now let me give you this [PHI-Account] and 100. What's that? Why is that 100? Is that something that shouldn't be? Hi?
+Nurse: And on that day, if you were say, like outside working you just came inside. That would make your heart rate.
+Patient: Well, no, to be honest with you, that was 8 30 in the morning. Most of most of the time it's like 8 30 to, uh, nine o'clock.
+Nurse: Got you. Ok. So. Ok. And it was just that one reading, right? It was 100 I wouldn't worry about it. There could be a lot of reasons why that happens. Um, if it happens just once in a great while, it's something just to keep an eye on, that's why we have you check your BP and heart rate
+Patient: Anyway. Sure. Well,
+Nurse: And then looking at a different, different couple of options for you. Uh huh.
+Patient: So, yes.
+Nurse: Pardon? Are you having any shortness of breath or dizziness? No? Ok. Ok. No, no, that's ok. For the most part, your readings are pretty darn good. Um, we'll just keep an eye on your heart rate, keep checking it if it starts to consistently get up there. Um, so one forties for that top number for your heart rate, anything over 90. And it's starting to look like that every time you check it. Um, either let [PHI-Personal] know or you can give us a call and we'll go over everything. Ok. Ok. Will do. Ok. And, um, it looks like you started speech therapy. Um, you had somebody coming out to help you with your memory. How's that going?
+Patient: Well, it's, I guess, ok, she wants me to take a bath every day and see people, see people and, you know, uh, uh, I'm doing good next [PHI-Personal] is the end of it?
+Nurse: Got you. Ok. That was quick, wasn't it? She didn't stay that long.
+Patient: Yeah. Yeah, so, well that's good for that.
+Nurse: Ok. Um, so you got my number, you call me [PHI-Personal] if you have any problems? Is [PHI-Personal]? Is she home?
+Patient: Yeah, she's here. Um, doctor,
+Nurse: Her nurse was trying to get a hold of her. It was Miss [PHI-Personal].
+Patient: I'll, I'll let her let her talk to you. Sure.
+Nurse: Thank you. You're welcome George. Hello? Oh, hey Joan, it's Caitlin, uh, as the nurse for George and I was just talking to him about his BP. Um, April was trying to get a hold of you. When's a good time to give you a call back today today? Ok. I'll let her know. Let me make sure she's working today. I just saw a note that she called last week. Um, here I'm here today. I'm, I'm out a lot. I started going to the Senior Citizen Center. So good. Good for you. Some days I'm not here. I go to do the exercises and then I stay to play Bingo. Oh, bingo. Are you a big winner? Oh, yeah, we play a nickel, a pa, a page. You a card. Hey, every penny counts, right. I'll see if she, yeah, I'll see if April's working today. If not, I'll have her catch up with you next week. Are you doing? Ok, Joan. I'm doing ok. Yep. Ok. Um, yeah, I was talking to George about his BP and he was worried about his heart rate being 100 for one of the readings I told him not to worry about it unless it starts to happen more often if it's more consistent. He, he didn't say anything. I didn't know about it but. Ok. Yeah, just that one reading. Yeah, I'm not worried about it but if it starts to happen like over and over and over again, yeah we'll have to look into it. Ok. All right. But yeah you got my number you call me if that changes but I'll have April get a hold of you. Ok. Ok. Alrighty thank you ma'am. Yep thank you bye bye.

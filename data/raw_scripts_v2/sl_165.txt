@@ -1,0 +1,27 @@
+Nurse: Yes. Ok, so how's
+Patient: Everything going?
+Nurse: Uh very good good good. Ok. Um let me get you completely pulled up here. Um
+Patient: Do you need any medication refills at this time? No,
+Nurse: No. Ok.
+Patient: Alrighty.
+Nurse: Um let's see I don't think I do wait let me go check. Oh ok. Yeah. Hm. No, we're good.
+Patient: Oh, perfect. Ok. All right, good good. Um and I noticed you just had an appointment a couple of weeks ago um with some labs and those came out pretty good.
+Nurse: Ok, good good. Uh let's see. Let me just double check here. Um
+Patient: How is your acid reflux?
+Nurse: Uh good. It's better
+Patient: Getting better. Ok. Um All right. So you know just keep in mind those the aggravating you know, kind of factors for that um eating large meals uh avoid your trigger foods. Um, some people's trigger foods are like the fat, fatty fried spicy foods, um, avoiding aspirin. If you take that, um, coffee, those can all kind of aggravate that. Um,
+Nurse: You say coffee does.
+Patient: Yes, it can.
+Nurse: Ok.
+Patient: Do you drink a lot of coffee?
+Nurse: Yeah. But I think I've been drinking less so I thought maybe that might have something to do with it.
+Patient: I don't know. Yeah, it definitely can. Um, and then staying upright for three hours after meals, um, you know, just a couple hours after you eat. Like, so if you eat a big lunch and you wanna go take a nap, um, just wait a couple hours that way, you know, you don't recline and then that can kinda, that can help move that.
+Nurse: All right. That's good to know. Yes. Yes.
+Patient: Perfect. All right. And then some other kind of just healthy tips for your high cholesterol, which I saw your numbers were good. So, that's good. Um, but, you know, just making sure you're adding plenty of the fruits and vegetables, um, fish and chicken instead of like the red meat and processed meat. Um, do you get any exercise?
+Nurse: Yeah, I got, I get out and walk twice a week.
+Patient: Perfect. Ok. Good. Good. Um, if you need some, some, uh, you know, healthy heart heart healthy recipes. The American Heart Association has, um, a good recipe page. You know, that will, that can help your cholesterol numbers. Um, they have meals, snacks and desserts and everything. Ok.
+Nurse: Ok. All righty. Um, let's see. So, um. Mhm. Your next appointment is not
+Patient: Until [PHI-Personal]. So you got a little while for that. Ok. All right. Well, I will touch base with you again next month just to kind of check in and see how everything's doing. Um, but if you need anything from me in the meantime, you can always give me a call first. Ok. Ok. All righty. You have a good rest of your day.
+Nurse: You do the same. Thank you for calling.
+Patient: Of course. Thanks so much. Bye bye
+Nurse: Bye bye.

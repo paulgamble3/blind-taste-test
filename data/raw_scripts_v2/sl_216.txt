@@ -1,0 +1,37 @@
+Nurse: Um, do you have a few minutes to, um, go over the program with me and we can and look at and review your medication with me. Sure. Ok, let me just give me a second. Let me get you pulled up here. Ok, MS [PHI-Personal], um, as I stated, I'm [PHI-Personal], I'm gonna be the nurse that's gonna be giving you a call on a monthly basis. Um, just to check in with you, see how you're doing, see if you need any, if you need anything. If I can assist you with, um, like medication refills, scheduling appointments, different things like that. Uh, I appreciate that. Ok, I'm gonna, um, just read off what I have listed for your medications and when we're done, Make [PHI-Personal], if there, if there's anything on here that is not listed that you are taking, you can just let me know then and then we'll add them. Ok. Ok. Mhm. Ok. So I have um op Optimum Rx. Um is your pharmacy still? Right? Mhm. Ok. Ok. So the first medication I have listed is amLODIPine um, 2.5 mg. Are you taking that?
+Patient: Uh, yes. Mhm.
+Nurse: Mhm. Ok. And then I have a Wellbutrin 300 mg um extended release tab. It looks like you're taking that daily. Yes. Mhm. Ok. And then I have a calcium supplement. Are you taking that daily? Uh, yes. Ok. And then the next thing I have listed is, uh, Keflex. It's a antibiotic. Are you still taking that? No. No. Ok. I'll have that all taken off there. Ok. And then the next thing I have listed is vitamin D 3, um, 2000 units. Are you taking that daily still?
+Patient: Um, no, I haven't been, I, ok, since I take it with the vitamin D, it was with something else. Mhm. Uh, was it with the calcium maybe? Mhm. Uh uh, ok. II I have the little tablet but I, I haven't been taking it.
+Nurse: Ok. That's fine. I'll just update it on your record. Ok. Um, the next thing I have is, um, it's CeleXA Clo. It's, uh, called Clopra. It says you're taking 40 mg nightly. Yes. Yes. Ok. Ok. And then the next thing I have is, uh, your vitamin B 12. Are you still taking that daily? Uh, I ran
+Patient: Out recently but I've, I've got to get it refilled.
+Nurse: Yes. Ok. Ok. Um, and the next thing I have listed is your Cymbalta 30 mg. It says you're taking that daily. Yes. OK. And then the next thing I have listed is uh gabapentin. It says you're taking that uh as needed every eight hours.
+Patient: No, I haven't been taking that.
+Nurse: OK. OK. The next thing I have listed is your glipiZIDE 10 mg tabs. It says you're taking that twice a day. Yes. Yes. OK. And then I have uh Advil um Ibuprofen Motrin. It says you're just taking that as needed for pain. Yes. OK. OK. And then I have your uh Synthroid and you're taking that every morning before breakfast. Yes. OK. And then I have a multivitamin listed. Are you still taking that?
+Patient: No? OK. II I need to get them refilled.
+Nurse: Ok. It's no biggie. Um OK. And then I see uh it's Bactroban ointment. Are you still using that?
+Patient: Now? What is that
+Nurse: For? Um It just says it's like a topical cream. It's like a anti uh um antibiotic cream.
+Patient: No, I haven't been, no, I haven't been using that.
+Nurse: Ok. I'll get that taken off of there. Um I have uh extra strength pain relief. Are you still using that? Yes. Um Yeah. OK. And then I have the Miralax. It says you're taking that every other day. Yes. Yeah. OK. And then the last thing I have on here is Ramipril. It says you're taking 10 mgs twice a day. Yes. OK. I have a couple, let me go to this next page. Like there's a couple of things on here. Ok. Just the Antevert I'll say, ok, are you taking the, um, antevert 12.5 MGS? It says you're taking that? It looks like you're taking that daily mec meclizine.
+Patient: Interesting. Oh, wait, just a minute. It doesn't. I do have a new, new one that the, uh, neurologist just, um, recommended and I'm not, uh, sure about it. I haven't taken it yet. Yeah,
+Nurse: It's probably the meclizine. It looks like this was just ordered on the [PHI-Personal]. That's right. Uh huh.
+Patient: That's right.
+Nurse: Mhm. Ok. All right. Let me get that updated for you.
+Patient: One thing I haven't, um, I haven't been doing is taking my, uh, um, oh, just a minute. Mhm. I've been without it for a few days and they haven't sent it yet. Um, and
+Nurse: What is that?
+Patient: It's, uh, Prion Buproprion. It's, um, and I haven't had it for about five days and I'm starting to feel it, I think,
+Nurse: Uh, it's the buPROPion, the Wellbutrin. Ok. Mhm. All right. I'll double check on that and see, um, and see if it's been refilled or what's gone.
+Patient: It should have, it should have, uh, it should be here any day but it, they said they were sending it the 17th and I, I was thinking they should have had it here by now. But, um, um, uh, I, I do need to get that I think real quick.
+Nurse: Ok. Ok. I will send a message over to, um, to the physician's office in regards to that refill to make sure that everything is squared away and that it is on its way. Ok. Very good. Ok. Ok, Miss [PHI-Personal]. Um, that's all the medications that I have listed that. Um, and are you taking anything that I did not list? Uh,
+Patient: No. Um, ok. I'm still taking the, um, um, oh, it's not Advil. It's, um, um, I can't think, I think you said it though.
+Nurse: Um, the, uh, no,
+Patient: No, that's, um, uh, uh, uh, over the
+Nurse: Counter thing, um, or the Ibuprofen
+Patient: Ibuprofen. That's what I'm thinking. Yeah, I have to take that at night.
+Nurse: Ok. Ok. We already have that listed on here, so that's fine. Ok. That's what
+Patient: I thought.
+Nurse: Mhm. Well, Miss [PHI-Personal], thank you for taking all the time to speak with me and, um, going over your medications with me. Um, I'm gonna send out a letter with my contact information. So if you need me in between our schedule, monthly calls, you can contact me at your, you know, at your will. Oh, ok.
+Patient: Ok. Very
+Nurse: Good. Ok, Miss [PHI-Personal]. And you have a good rest of your day. Ok.
+Patient: Ok. Thank you. You too. Bye bye
+Nurse: Bye.

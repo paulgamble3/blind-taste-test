@@ -1,0 +1,17 @@
+Nurse: Ok. And what's your name again?
+Patient: [PHI-Personal] Herpe. I'm a patient of uh [PHI-Personal]. Doctor [PHI-Personal].
+Nurse: Ok, let me look for your, I found you. All right. Let me see who contacted you
+Patient: Sometimes you [PHI-Personal] and [PHI-Personal] or whatever. Uh it
+Nurse: Looks like they called you today. This is from two days ago, right? Yes.
+Patient: Oh, ok. It's about my BP.
+Nurse: Yes, sir. On. Ok. One moment, I'm gonna pull up your other record um, in our other system so I can look at it. Ok. Yeah. So looks like we got some alerts on the 24th for your BP being elevated. That's why we were calling. How are you feeling?
+Patient: [PHI-Account]? Uh I think it's [PHI-Account] [PHI-Account]. I know because I, I just went up the stairs. So, but I'm ok. I don't, I don't have any problem now. It, now it's uh, I think [PHI-Account] 30 to [PHI-Account] 40.
+Nurse: Ok. Yes, I see yesterday. It did look better. Um, last one we got yesterday was [PHI-Account] 31/75. So, yeah, those look good. Yes.
+Patient: It just, that, just that my mistake was to take my BP after I went up my stairs.
+Nurse: Oh, ok. So you took the BP after going up the stairs and that's why it seems elevated. Yeah. So. Ok. All right. But no headaches or chest pain.
+Patient: No, no, nothing
+Nurse: Dizziness. No. Ok. All right. We're just making sure, um, do you need any assistance from us or any questions you may have?
+Patient: No, uh, no, nothing. I'm ok for now. Ok.
+Nurse: Ok. All right. Well, thank you, sir and I hope you have a good day.
+Patient: You too. Thank you so much for calling. Ok. Thank
+Nurse: You. Bye.

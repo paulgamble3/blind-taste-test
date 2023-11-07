@@ -1,0 +1,45 @@
+Nurse: You'll have to be, um, you'll have to go to imaging to get that done. But with the orders that you have, what's the provider's name that you said doing your surgery? And what kind of surgery are you
+Patient: Having? Uh, it's Doctor [PHI-Personal].
+Nurse: Ok. Could you spell that for me?
+Patient: Um, Noffine. Er, let me make sure here. Uh, it's us orthopedic surgery in sports medicine. Yes. It's doctor [PHI-Personal] and it's, uh, left knee replacement.
+Nurse: Ok. And is it total knee replacement?
+Patient: Yes. Ok. Now I have an appointment with my cardiologist in, on [PHI-Personal] doctor. Um, so I, I guess I know the last time I was there, I believe he did, I think he did an EKG for me. So, from last year I don't know if you could do one again or? Um.
+Nurse: Right. Usually they like to have the most recent one. So,
+Patient: Should I talk to him for that or would somebody else set me up for it?
+Nurse: Um, let me see. I'm checking to see. Ok.
+Patient: Ok. I'm throwing a lot at you.
+Nurse: No, it's ok.
+Patient: And I'd like to get all this done as close to after [PHI-Personal] 1st as possible so that I could have my surgery in the middle of [PHI-Personal].
+Nurse: Ok. I'll send this message over and then could you spell your first and last name for me? I'm just trying to look
+Patient: It up here. It's [PHI-Personal] Rt. Last name is [PHI-Personal]. I see you here. Date of birth is [PHI-Personal]
+Nurse: [PHI-Account]. You're a special person.
+Patient: Is that your birthday? It
+Nurse: Is. Yeah. [PHI-Account].
+Patient: Oh, cool. Well, yes, we are, we
+Nurse: Need. Yeah. Ok. And let's see here. I just sent a message over to see what they think would be best of how to go about all this.
+Patient: I ha I do have a sheet here that tells me everything that I need to get done. I don't know if I could, um, I could email this to somebody or even drop it off at the, at the office if need be.
+Nurse: Ok. Ok. So she looks, it looks like we, we should be able to get that scheduled for you. Is there, um, a certain date. You said it has to be after
+Patient: [PHI-Personal]. It has to be after, uh, [PHI-Personal] 1st. Correct?
+Nurse: Ok.
+Patient: But the sooner the better after that. So, especially because I know Christmas time it gets a little bit harder
+Nurse: And then you see Doctor [PHI-Personal]. Right. Yes. And then, um, I know you said it'd be best to get you closer to a right after [PHI-Personal] 1st if they don't have anything available, right, then, um, what's the time frame to where you need this done? The month of [PHI-Personal], the first two weeks of the month of [PHI-Personal] or? Yes,
+Patient: For the first two weeks. Yeah, the quicker I can get it done, the quicker they can schedule my, um, surgery for, you know, the middle of [PHI-Personal] or the first of Feb February somewhere around there. Ok. I currently have, uh, I'm walking with a cane because, um, I have a bone chip that's stuck in my joint in my left knee. Ok. And I don't know if I can see him or I can see an assistant. I don't know.
+Nurse: Ok. But if, if they have, if someone else has something available because of the time frame, you're willing to see another provider in the office.
+Patient: Yeah. As, as, yeah, as long as, um, I mean, pre op lab work to be done by primary care physician. So I guess whoever works or would be qualified. Right.
+Nurse: Yeah, of course, of course. And of course, your, um, your provider will also see everything and preview everything that you're needing also. Ok. Right. Ok. All right. So, um, it looks like, right. So you said you're going for the total knee replacement of the left knee, I'm just reviewing everything and then you said you'll also reach out to your cardiologist. Um, on [PHI-Personal]. What's the name of the cardiologist that you see?
+Patient: Uh, uh, it's doctor, I have an appointment scheduled. I have an appointment scheduled for [PHI-Personal], um, [PHI-Personal], I guess [PHI-Personal], somewhere around there. Ok. And, and it, uh, yeah, [PHI-Personal].
+Nurse: Ok. Got it. All right. So, what I'm gonna do is because the appointment is a little bit more complicated. I'm gonna reach out to the scheduling team, uh, to see where we can fit you in and to see what would be best, uh, to try to get you closest to these dates that you were saying.
+Patient: And I am, I am retired so I could come in at any time.
+Nurse: Ok. Any time schedule. Ok. And then, um, you said do you have those orders and, uh, information from your, your, um, yep, orthopedic? Ok. We just wanna make sure that you, uh, hold on to all that information and we do want you to bring that into your appointment and everything, correct. Yep. Ok. And then as far as everything else going on, as far as your knee and everything, uh, we just wanna make sure that you continue to make sure that you're staying safe and taking your time, try not to get into a rush and then of course, um, continue to try to elevate that knee when possible to prevent it from being in pain. Ok. Correct. Yep. All right. Did you have any other questions or concerns?
+Patient: No, if anybody has a question, um, they can give me a call on my cell phone.
+Nurse: Ok. Is this the [PHI-Account] or is it another
+Patient: Number? No, that's, that's the number. And I also, uh, prescribed to my chart too. So, um, I think ca phone calls are easier but if somebody needs to send me a message, but yeah, it, I'm trying to get this thing done as soon as I, I had prostate surgery, uh, on [PHI-Personal]. So I have to wait 90 days before I can have surgery again. So to get this within the timeline and I'm trying to get this done, I've got, um, we're going in the beginning of June for, uh, to [PHI-Personal] and [PHI-Personal]. So I wanna try to get this and my rehab done as soon as possible. Ok.
+Nurse: And then when did you say you had the prostate surgery? What was the
+Patient: Date, uh, on [PHI-Personal]?
+Nurse: [PHI-Personal]? And how's everything going with that recovery? Uh,
+Patient: Good. Very good. Yep. No issues.
+Nurse: Yep, no issues. And then when do you follow up with um with that person. Uh my
+Patient: Next follow up with them is [PHI-Personal] 8.
+Nurse: Ok. So you'll be cleared with them, right? [PHI-Personal] 8th, probably right. Well, I got all the information here and like I said, I'm gonna reach out to the scheduling team to see what would be best and then I'll go ahead and give you a call back at at on your cell number. Ok? Ok.
+Patient: Very good. Thank you. Alright.
+Nurse: You have a good day. Thanks. Bye bye bye.

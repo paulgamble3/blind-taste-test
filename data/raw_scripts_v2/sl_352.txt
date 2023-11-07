@@ -1,0 +1,47 @@
+Nurse: Your name? [PHI-Personal]? [PHI-Personal]. With a K, uh huh.
+Patient: Oh, [PHI-Personal]. Oh, yes, [PHI-Personal]. Uh, I mean, how do you pronounce it?
+Nurse: [PHI-Personal]?
+Patient: [PHI-Personal]? Oh, [PHI-Personal]. Ok. Ok.
+Nurse: Very good. All right. Yes, sir. Um, and so I, you've got my number and in between our routine monthly calls, if you should have any concerns or any, uh, you know, needs in between, don't hesitate to reach out. Um, my office hours are Monday through Friday, 8 to 4 30. Um, and my direct voice mail is confidential. So, if you have any concerns, you can feel free to leave them if I don't, if I'm not able to answer. Ok. All right. Um, and then as far as medications, um, do you use any sort of pill box weekly organizer? Anything of that sort for a daily routine?
+Patient: Yeah, I got a pill box that, uh, line lines up on myself. Uh, I mean, what I take morning and night.
+Nurse: Perfect. Excellent. Um, and then I will just call out these medications and if there are any changes or if you need any refills on them, just let me know along the way. Ok. Ok. All right. I have that you take the amLODIPine 10 mg once daily. Correct. A vitamin C supplement once daily. Uh, correct. A baby aspirin once daily.
+Patient: No, not, no. Every, every now and then
+Nurse: Every now and then. Ok. All right. Um, the next one is the atorvastatin or Lipitor 20 mg at night. Uh, yes. The vitamin D supplement once daily. Uh,
+Patient: Yes.
+Nurse: All right. A, uh, Pepcid or famotidine, 40 mg two times a day.
+Patient: Uh, no, I, uh, that's something I just take [PHI-Personal]. Uh,
+Nurse: That's for like reflux or anything. Yeah. Yeah, one
+Patient: Of them think about, I'm, I'm, uh, trying to think of the pills I'm taking now. Uh, um, I don't think I take that at all, to be honest with you. Uh uh, what was that name you, uh, just called
+Nurse: Out? So the generic is called Famotidine or the brand name is Pepcid,
+Patient: Right? I got, I, yeah, I got that. Uh,
+Nurse: Ok. Ok. All right. Um, the next one I have is the Flonase nasal spray.
+Patient: Yes. Uh, and I, and I, I take that too, uh, twice a day.
+Nurse: Ok. All right. The Furosemide or Lasix 40 mg every other day.
+Patient: Uh, that I don't have any use for. Uh, I'll be honest with you, I go three or four times a day. So, uh, I, I've never really taken it, you know, and, and I told the nurse and her nurse about it too. So, you know, and, and I got here but I don't need it, you know.
+Nurse: Ok. And not noticing any sort of swelling or edema in your lower legs, anything like that.
+Patient: No, they, they stay on pretty good, you know.
+Nurse: Ok. All right, good. Um, we'll keep it on your medication list but just make it as like an as needed medication. Ok. Yeah. Um, the next one I have is the Singulair 10 MGS in the evening. Uh Yes. Ok. The multivitamin once daily. Uh yes. Uh Lyrica or 100 mg twice daily. Uh Yes. Ok. Sertraline or brand name is Zoloft 25 mg daily. Uh Yes. And then a B 12 supplement once daily.
+Patient: Ok. I, I don't know if you have that down or not, but, but, but, but I take an inhaler.
+Nurse: Ok. What's the inhaler?
+Patient: Yeah, it's uh [PHI-Personal], I guess that's the name of it. Uh And the second word is, is resp I ma T and, and I, I do uh two shots in the morning.
+Nurse: Ok. All right, perfect. I'll get that one added. We do not have that on your current list. Um, and is that prescribed by a pulmonologist?
+Patient: Yeah. Doctor [PHI-Personal]. Oh, how, how, keep her names on you? I can't. Uh
+Nurse: That's ok. That's right. Um, it's, it's
+Patient: A [PHI-Personal]. Oh, her last name is right here. Um Zoo Me. It's uh something like it's um, ok, I see your first name but I don't, it's It's [PHI-Personal] is, is the last
+Nurse: Name? Ok. Got you. Oh, yeah. Yeah, [PHI-Personal], I did just find the an outside visit note from her, so. Ok. Excellent. All right. Well, I'll get that inhaler added to your list. Um, like I said, I'll be sending out a letter of your care goals for the remainder of the year and you've got my number. Should you have any concerns in between our calls? Don't hesitate to reach out. Ok,
+Patient: I sure will. I, I'll give you a
+Nurse: Call. All right, sir. Well, thank you so much and you enjoy the rest of your day and have a great weekend, take care and stay safe. I
+Patient: Will. It was nice, nice talking to you meeting you. So, uh, thank
+Nurse: You, you as well. Uh, ok,
+Patient: I'm, uh, thinking about my, my, I mean, do you have my, uh, cell phone number?
+Nurse: Um, yeah, we have the number ending in [PHI-Account], right?
+Patient: Ok. Um, all right when you call it, uh, I mean, I mean, what I mean, what, what, uh, uh, um, um, I mean, you say it's uh [PHI-Geographic], I mean, uh, uh, [PHI-Geographic] General or you have initials or what? Because this is what all I do is put them in, in my cell phone. Um, you, you, you get through it in my cell phone is if you're in my uh, uh, list there, you know. So,
+Nurse: Yeah. Ok. Yeah, so, um, it'll come up typically it depends on your phone provider, but it'll come up as [PHI-Geographic] General ringing in. Um, if you try to call that number back, uh, like if you just hit the dial back feature, it's not typically my direct line. Um, but the number that you just called me on is the correct number. But,
+Patient: Uh, you also use General. Uh, I'm in [PHI-Geographic] General. Right.
+Nurse: Um, it, well, not specifically, I mean, it'll, the caller id will show up as [PHI-Geographic] General mostly. Um
+Patient: Ok, because, because that's what I and my cell phone, I'll uh put your uh general in there and then you, you're, you're in it
+Nurse: So I'm a nurse. Yeah, so you can just put [PHI-Geographic] General nurse in there if you'd want it like that. Ok. And it
+Patient: Should, it should uh [PHI-Personal], [PHI-Personal], I'm ringing my uh cell phone in.
+Nurse: Ok. All right, perfect. All right, sir. It was great speaking with you and we look forward to speaking with you next month. Ok.
+Patient: Sounds good.
+Nurse: Alright, thank you. You too. Bye bye bye.

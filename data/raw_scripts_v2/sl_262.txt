@@ -1,0 +1,18 @@
+Nurse: Your mammogram. Uh huh. Oh let me get you pulled up here dear. What's your date of birth?
+Patient: [PHI-Personal] uh in in in tower.
+Nurse: A look here
+Patient: My daughter is [PHI-Personal].
+Nurse: All right. So do you want to get your mammogram scheduled dear?
+Patient: Mm. That's fun. Um Sorry the Tower and [PHI-Personal] said to me for work for mammography.
+Nurse: You need the order.
+Patient: Mhm.
+Nurse: Ok. Um let me reach out to the doctor. Um I I was just looking to see if I could see a current one and I did not
+Patient: Sorry. Yeah, please. Oh, this is the medicine. Is it? Yeah,
+Nurse: I can have il reach out to you but I will get I will get the order for the mammogram and have your meal follow up. Ok.
+Patient: Mhm. I think you'll but. Ok.
+Nurse: Alrighty,
+Patient: I'll have I I'll
+Nurse: Have reach out to you. She speaks Spanish.
+Patient: Thank you.
+Nurse: Yeah, thank you. Ok. All right, thank you. Bye bye. You
+Patient: Bye bye.

@@ -1,0 +1,23 @@
+Nurse: Ok. Yeah, I have [PHI-Account]
+Patient: [PHI-Personal]
+Nurse: [PHI-Geographic], right? Ok. And
+Patient: Then have you had any changes to your insurance? Oh, I have Medicare pa A and banker life and Casualty
+Nurse: [PHI-Personal]. Yes. Ok. All right. Very good.
+Patient: So anything new going on or any new concerns?
+Nurse: No, not really. That's good. Very
+Patient: Good. Um I'll also be mailing out a letter that just has, um, Wellness goals on it, which are just um, things your doctor would like for you to complete throughout the year. Like your um, annual Wellness visit, lab work, BP screening that kind of thing. Um, just as a reminder of those things. Um, I show here in your chart that you have sleep apnea. Do you use, um, a CPAP or a bipap at night for that?
+Nurse: Yes. The CPAP. And how are you doing
+Patient: With that? Good, good. Um, have you, um, recently changed out, like your mask or filters or anything like that?
+Nurse: Yeah, I change it regularly.
+Patient: Ok. Very good. Do you feel rested when you wake in the morning?
+Nurse: Yeah. Yeah, I feel pretty good. That's great.
+Patient: Very good. Um, let's see here. Did you end up having one of the ones that had to be recalled? Yeah. Yeah. Um, did you get a new one yet? Yeah. Oh, good. Because I know they were taking a long time getting those out.
+Nurse: Yeah.
+Patient: So,
+Nurse: Um, let's see here and then need to
+Patient: Pull up your medications here. Just one minute. Monday. Any, any changes in medications at all? No. Ok. Are you still using the, the drops, the oin, it looks like you were only doing it for seven days.
+Nurse: Yeah. Yeah, I don't use that anymore.
+Patient: Ok. I'll take that off of there. Mhm. Very good. Hey, normally, you know, you don't see too many people that have a really short list or non existent
+Nurse: List. That's right. Yeah, a lot of times you see them,
+Patient: They have quite a few. So that's good. Very good. Ok. So I got that taken off. All right. Um, anything that you have any questions about or anything that I can help you with that, you know of? 00, really? Ok. Actually you don't see, um, doctor until [PHI-Personal]. So you have quite a long time until you see him again. Um, and that'll be with fasting lab work. Um, very good. Well, just wanted to check in for your six month call and just to let you know that I, I mail out those wellness goals, um, at the bottom of that letter is my name and number. If you happen to have an issue or need an office visit or something, you can always give me a call and I can help with that. Um, otherwise I'll just reach out again in six months and see how things are
+Nurse: Going. All right. All right. Thank you. You have a wonderful day. You too. Thank you. Uh, bye bye bye.

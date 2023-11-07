@@ -1,0 +1,23 @@
+Nurse: You have [PHI-Personal],
+Patient: [PHI-Personal]. I'm sorry?
+Nurse: Yes. Ok. I'm sorry. I, I was like, just want to make sure I heard you correctly.
+Patient: Right. And, but he, the doctor didn't pre, prescribe me anything for it. Should, should I call somebody or let me take a
+Nurse: Look here? I'm pulling everything up right now. Ok. Ok. Let me take a look, please. Yeah. Ok. So they're wanting you to get that chest x-ray done
+Patient: Again. I've had like two already.
+Nurse: Let me see. So you were scheduled to have a chest x-ray done and we already have one. Correct. They should have, let me take a look at the imaging results. Ok. So it's not, it's not released yet. That's what the deal is.
+Patient: Um, those are actually recent, I guess.
+Nurse: Yeah, it was, um,
+Patient: Uh, yeah, I didn't see that in the, in, in the message.
+Nurse: So here's the message that I have. Let me get the message pulled back up. I was trying to look for your X ray. So I sent the message on our last, um, phone call. Yeah. And, uh, of course, the diagnosis was [PHI-Personal]. You were scheduled date the following week. Um, doctor said that if the cough is severe and persistent enough and shortness of breath continues to go to urgent care, er, otherwise go for that chest x-ray. That was planned that following week after that appointment.
+Patient: Ok. Yeah, the problem is, um, I, where I was renting a room, the, the, uh, person that, um, I was staying with got evicted. So, and I couldn't stay, they wouldn't let me stay even though she was evicted and, and I'm in a hotel right now and it's just been madness. My car broke down and I haven't gotten my car yet. But, um,
+Nurse: Is there any way that you can ha have anybody help you go and get that chest x-ray done past, uh, that appointment? So that way we can get that part taken care of?
+Patient: I, yeah, I can try, try to get it done tomorrow. I'll, I'll see if my niece can give me a ride. Now. Where would I go for that
+Nurse: Again? So that is, oh, goodness. I don't want to tell you. I think it's the tower. Do you know where that is?
+Patient: It's on, uh, isn't it? I do
+Nurse: Believe so. Yes,
+Patient: Ma'am. I have it.
+Nurse: Yeah. Where you've gone in the past and had that, uh, xrays done, go back there. Um, you have the order in there, we'll get that taken care of that way. They can indeed prescribe you the medications needed. Um, because if we keep taking medicine and uh, uh, we, the, the deal is, is we don't want you to become antibiotic resistant. So once they get that chest x-ray, they can have that confirmation and we can go from there. Ok? But if you exacerbate to the point where your shortness of breath, you have a cough and it's just not controllable. They want you to go to urgent care. Er ok. Alright. All right, sweetheart.
+Patient: All right dear. Thank you.
+Nurse: You are very welcome. Ok. All right,
+Patient: You have a good day.
+Nurse: You too dear. Bye.

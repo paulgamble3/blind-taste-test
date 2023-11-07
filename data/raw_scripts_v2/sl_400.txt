@@ -1,0 +1,31 @@
+Nurse: It's understandable. Let's see. Let me just pull her chart up here. So the reason for my call was, um, just to check in to see how things were going.
+Patient: Um, she's doing good.
+Nurse: Good. She
+Patient: Has, she has her, you know, some days that, but other than that she's better than me. Oh, good.
+Nurse: Ok. No changes to address or insurance information. Right. No. Ok. Let's see. And does she check her blood sugars at home?
+Patient: Um, uh, just every so often?
+Nurse: Ok. Oops. Excuse me? And she's still taking the esop im for her anxiety. No, no,
+Patient: No. He takes the, um, oh, what's the other one she's been on for a while?
+Nurse: Is it the BuSpar?
+Patient: Um. Oh my God. What's the brand name? Um, Lexapro? Yeah, she's on that, but she was on one that he gave her, maybe that's the boost thing and we took her off of that.
+Nurse: Ok, let's see. She
+Patient: Was getting too nasty with that.
+Nurse: Oh, no.
+Patient: Yeah, we noticed a different change in her. So, so she's been good ever since
+Nurse: His last note from [PHI-Account] states. Continue. BuSpar and Lexapro. Oh,
+Patient: Ok. Is, well, my brother was supposed to tell him that she was not on that.
+Nurse: All right, I'm just gonna make note not taking BuSpar due to mood changes and I'm gonna write continues stable with Lexapro.
+Patient: Yes.
+Nurse: Ok. That way they can, they can make note of that um and get that off of her med list right that way um if you have automatic refills from the pharmacy, if the pharmacy says, hey, this one's due for a refill, let's send it to the provider. You're going to end up with refills of the BuSpar that she's not taking. Ok. So we'll get that taken care of for you.
+Patient: Yeah, I didn't bring her this last appointment. He was supposed to tell her that, but I swear, I think, I think we have to write everything down right now and like little not pads, you know,
+Nurse: That's what I do. I know. Let's see. Her labs looked pretty good last time
+Patient: The [PHI-Geographic] um I think they said take give her vitamins,
+Nurse: Let's see of the iron, right? Watch sodium and continue taking iron. She was slightly anemic but that's, that looks like that's been the case for a little while now, right? But her renal function remains stable. So that's a good sign too. We don't, we don't need that to go down the drain, right? Ok. And our TSH came back in normal range. So that's fantastic. Ok. So I also wanted to let you know, um, I'm working with [PHI-Personal], um, probably until about [PHI-Personal] while she's out of the office. So I am going to send you a letter in the mail. This letter will have my name and my direct contact number on it. So if you need anything in between your office visits or in between our monthly phone visits, feel free to reach out to me. I'm here. I can help you get through whatever we're gotta work through and. Ok, all that. Ok. All right. So I will make note of this. Um, if you can, I would encourage, um, maybe a little more frequent blood sugar monitoring. Ok. Just to make sure things are still going well and that she's, you know, her medications are still all working. [PHI-Account]. She's not taking anything for diabetes. Right. Correct. Ok.
+Patient: Her, I think, I think she was, but that was a while ago. Let's see. Cos she's been doing good.
+Nurse: Ok. Yeah, there's nothing. Hm. Yeah, there's nothing on here for the last [PHI-Personal] years almost for.
+Patient: Yeah. Yeah, I was gonna say she, yeah, my daughter still takes it every now and just to, you know, be sure, be
+Nurse: Sure. Yeah. Yeah. Ok. And I mean, if you see any, like, um, big mood changes, uh, it, I would definitely, you know, check that blood sugar just to make sure it's not dropping. Um a lot of times when blood sugar drops, you know people go into they get confusion, they can get irritable, they can become sweaty confused and once it, once it drops to a point they they don't know what's happening anymore. Um they get very confused so I would encourage you know if you if you notice any mood changes, it doesn't hurt to check just to be sure that it's it's not the blood sugar dropping. Ok. Ok. Alrighty. Any questions concerns anything I can do for you?
+Patient: Nothing but if we have any we'll call
+Nurse: You. Perfect. All right you have a wonderful day.
+Patient: You too. Thank you.
+Nurse: You're welcome. Bye bye bye.

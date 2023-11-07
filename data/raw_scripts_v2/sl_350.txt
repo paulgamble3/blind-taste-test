@@ -1,0 +1,37 @@
+Nurse: Ok. So they already have you on file. But, ok, let me just look here. Hold on. I'm so sorry, I'm just gonna pull you up here.
+Patient: Mm. Ok.
+Nurse: Ok. All right. I'm so sorry. It's taken me so long. Ok. Ok. And which medication are you needing?
+Patient: Um, I have about four here.
+Nurse: Ok.
+Patient: Are you ready?
+Nurse: Yes,
+Patient: Ma'am. Ok. The, the first one is the, uh, melo.
+Nurse: Ok. And still the 50 mg the same.
+Patient: Yes. Uh huh OK. Then the Ez Tim A V Ezetimive 10 mg.
+Nurse: OK. OK. And then which other one
+Patient: Um is uh is Os [PHI-Personal] ID E? Yes. 30 mg.
+Nurse: OK. And then which other one?
+Patient: OK. The next one is the flo mhm. Uh that's 20 mg.
+Nurse: OK. Let's just see here. And where is, is that all of them?
+Patient: No, I got I have two more.
+Nurse: OK, perfect. Which ones are they?
+Patient: OK. The next one is the traMADol 50 mg and then the fenofibrate 100 and 60 mg. Ok.
+Nurse: Ok. So and it needs to go to the [PHI-Personal] you said?
+Patient: Yeah. And Live Oak
+Nurse: [PHI-Personal] and Live
+Patient: I was looking for my notebook because I have the address and number but for some reason I can't find it yet this morning I just got up.
+Nurse: No worries. I'm gonna look at here, I'm gonna look it up and then you'll just let me know if that sounds like a familiar. Um does this sound right? There's only one? Ok, so [PHI-Account]. So then I'll send it to them. Ok. And then other than that you're doing ok. No issues or anything like that going on.
+Patient: Yeah, everything's going good still trying to unpack and you know, get, get some uh they had to come out here and inspect and make sure every nothing's leaking after they put it together, you know. So inspections went good. I'm gonna have a deck put on Monday. So right now everything is just going fine.
+Nurse: Good, good, perfect.
+Patient: Uh No, no complaints.
+Nurse: Good. That's always good. That's nice. Right. When everything goes the right way, it's always always nice.
+Patient: Yes, it is.
+Nurse: Ok. Well, I'll get these refills out for you. Um, and then either I myself will give you a call back and let you know that they were sent out or the pharmacy will let you know that they are all ready for you to pick up. One of us will call you first. Um, but yes, I will go ahead and send this over to um for doctor to just kind of review and send those over today.
+Patient: Ok. Thank you so much.
+Nurse: Absolutely. And then you give me a call if you need anything else, if not, we'll touch base again, uh sometime in [PHI-Personal].
+Patient: Ok. That's, it's great to have you to call.
+Nurse: Yeah, absolutely. Please feel free to call me anytime you need anything.
+Patient: Thank you so much.
+Nurse: You're welcome. You have a great day. Hey, you
+Patient: Too. Bye
+Nurse: Bye bye bye.

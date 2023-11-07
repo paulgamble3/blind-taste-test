@@ -1,0 +1,46 @@
+Nurse: Will get you pulled
+Patient: Back up. Ok. I couldn't get, I couldn't get to the phone quick
+Nurse: Enough. Oh, that's ok. If you ever can't get to my phone call, I'll leave a message and if you have a busy day or whatever, you can just give me a call back. Um, Monday through Friday 8 to 4. Any time that you, you're available. That's fine. Ok. All right. Let me get you pulled back up here. All right. So what's been going on with you, [PHI-Personal], since we talked last? It looks like we talked in [PHI-Personal]. Yeah.
+Patient: Um, things are going ok. I was just, uh, did my, um, ness physical down at, uh, last week
+Nurse: And perfect. I'm just looking at that now.
+Patient: Yeah, I still have trouble with my cholesterol.
+Nurse: Ok. All right. Um, so your BP was a little bit high too. It looks like 1 96/70. Um, and she wants you to continue your Lisinopril Hydrochlorothiazide, uh, two tablets daily. Um, yeah, your cholesterol, you're on the rosuvastatin. They may have to increase that I asked her to make sure you're, you're taking every dose of your rosuvastatin, correct? Ok.
+Patient: Yeah. And I, I get blood works again here in May I think let me look for um for my sugar.
+Nurse: Ok. Let me see if I
+Patient: Can and I'm getting
+Nurse: The Yeah, [PHI-Personal] at 6:45 a.m. Looks like you have some labs ordered. Ok. So you, you had mentioned about your cholesterol, do you follow a cholesterol diet? Has anybody ever educated you on it? That are good, you know. Yes,
+Patient: I, my dad had the same problem. So it's more or less like a generic.
+Nurse: Yeah. Those genetics play a big role. I know my mom is one of the healthiest eaters that I know. You know, she follows, you know, she eats the, uh, the lean meats, you know, she doesn't have the full fat dairy. She eats the fish and, you know, the fruits, vegetables doesn't have all that sugary stuff and she still has to really watch her cholesterol because of her genetics, unfortunately. Yeah. Oh, so, well, at least
+Patient: You, I've been having and I've been having trouble and I'm still taking pills and, yeah.
+Nurse: Ok. All right. Well, that's good. At least you're, you know, continue to follow that diet because, you know, you have to work double time when you have genes playing against you too. So, um, continue following that diet because if you don't follow the diet then, you know, your, your cholesterol is gonna get even worse. So it's good that you're following the diet. Continue to do. So, um, you know, every once in a while, if you feel like some, some red meat, you know, bacon sausage or a piece of cake or something, by all means, have a little splurge every once in a while. But for the most part, you know, continue eating the fruits, vegetables, the lean meats, the omega threes are wonderful. You know, the fishes and things like that so hard
+Patient: When you work, it's sort of hard when you work night shift, you know, that I work 10 to 6. I, I am retired. I'm [PHI-Personal] years old and, uh, I'm a caregiver down at mill assistance down there.
+Nurse: That does make it more difficult when you are working crazy shifts like that. Do you work full time or part time?
+Patient: Oh, I'm working full time. Oh,
+Nurse: Goodness.
+Patient: Well, I lost my husband so I don't, you know, yeah, [PHI-Personal] years in [PHI-Personal]. Yeah.
+Nurse: Oh, my goodness. Well, some tips for, you know, that and I'm sure, you know, you've been eating like this for a while when you make a, when you make a meal, do you make like a decent size? And then you can always store it and freeze it and then take it out of the freezer, like the evening before you go to
+Patient: Work. My, my brother lives with me so we make a meal at dinner time. But then I go and lay down so I don't eat till midnight.
+Nurse: Yeah. Yeah. When your, when your clocks messed up like that, that does make it hard. Um, have you tried, like, eating your larger meal earlier in the day and then just having something small item? Because
+Patient: I do because I can't eat big stuff at night.
+Nurse: Ok. Yeah, that's good because that's, you know, do you have a hard time with sleep when you do that? Oh,
+Patient: Yeah.
+Nurse: Yeah, that digestion is in full throttle working, trying to digest that meal and then you're trying to get to sleep at the same time. That usually doesn't work out very good. Yeah. Well, just continue with that diet. Um, you know, hopefully when they check labs again, things are improving somewhat. But, yeah, you know, if not, then they, she did mention they may have to increase the rosuvastatin. So also just make sure you're taking that rosuvastatin daily. Do you normally take that in the evenings?
+Patient: Uh, I take them when I come home
+Nurse: From work. Ok. Ok. That's fine. That's just as long as you take it at a time where you can always remember to take it so that you're getting your daily dose. I,
+Patient: I have a pill box. So.
+Nurse: Ok. Perfect. Good. Do you need any refills on your medications today? [PHI-Personal]? No,
+Patient: No, I'm fine. All
+Nurse: Right. Do you have any other questions or concerns for me?
+Patient: Mm. No, just that. How come some people get the, like, a willingness card, like a $25 card from Walmart. And that,
+Nurse: I'm not sure what that is. Oh, where did they receive it from?
+Patient: I, when they get their willingness from the doctor, you know, I don't know.
+Nurse: I am not sure about that. Maybe when you're having your labs you can ask them. Uh, well, I'm not sure about that at all. I mean, I don't know if it's something that's income related or if it's something, I don't know, people had to sign up for.
+Patient: Hm. Oh, no. Oh, I'll ask when I go down.
+Nurse: Yeah. Yeah. Who doesn't want a Walmart gift card? Especially with the price of everything nowadays. Yeah,
+Patient: It's terrible.
+Nurse: It is. I have to go to Walmart after work and I'm not looking forward to
+Patient: It. So, you, you, you go right ahead. I don't really shop that much at Walmart. I'm a wise person.
+Nurse: See, I don't have a s around me. I do have one small grocery store but that's it. And they don't have very much stuff. So I'm really limited on what, where I can get my groceries and stuff. I do have an Aldi and I get a lot of stuff at Aldi's. I do like them so I will get as much as I can there because they're definitely cheaper than, you know, Walmart.
+Patient: Yeah. Well, that's good.
+Nurse: Yeah. All right. Well, I will let you go [PHI-Personal], but if you need, I'll give you a call next month, but if you need anything, give me a ring and have a wonderful Easter. You too. Thank you. Bye
+Patient: Bye.

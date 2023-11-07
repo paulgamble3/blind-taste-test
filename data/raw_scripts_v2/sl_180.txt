@@ -1,0 +1,34 @@
+Nurse: What's going on with you?
+Patient: Well, I am throwing up in stomach cramps. You pull my alarm. Um, and, um, I, I was out of town and I ate, we ate at Chipotle and the next day that's when I started the nausea and vomiting and, and I went to a walk in clinic and they gave me some medicine for it and, and then, then, then it was ok for a couple of days and then I got it again. I got the nauseous this morning and started throwing up. Ok. So, I don't know, I think it's so, I think it's about [PHI-Personal] now, I think it's um,
+Nurse: Ok, when was the last time you had, um, an episode of vomiting
+Patient: Just this morning? About 10 o'clock.
+Nurse: Are you still having the stomach cramps?
+Patient: Um, no, they went away, they finally went away.
+Nurse: And what about any diarrhea, any, um, feeling, feeling like your stomach is full or bloated.
+Patient: Feeling like I was bloated. But then I, I had a bowel movement and I feel fine. Now I feel like it's gone like it was just in me and now it's gone.
+Nurse: Ok. So, if that feeling does return, you can always return to the walk in clinic or, um, give Doctor [PHI-Personal] a call. Ok.
+Patient: Ok. Because I, I can't go to that walk in clinic because it's in, it's in [PHI-Geographic]. So I'll go to some, if it comes close.
+Nurse: Yes, I do see you have, um, a visa follow up visit with doctor next Friday on the [PHI-Personal].
+Patient: Wow. The [PHI-Personal] already? Oh, my God.
+Nurse: Mhm. Let me see what time the [PHI-Personal] at 10 o'clock?
+Patient: Oh, yeah. Ok.
+Nurse: Ok. And did you feel better from that visit? I know you were having some shortness of breath. He was also having leg cramps and feeling tired.
+Patient: Yeah, I'm still having the leg cramps and, uh, he gave me antibiotic. I felt, I started coughing up yellow stuff. So he gave me antibiotics and, um, that it's not really making it go away but it's helping it. Ok.
+Nurse: Does it still have a color or you just notice it a
+Patient: Little bit but not as much as before. It's not as, you know, thick as it was before. I'm not quite done with the, I had, I skipped a day because I was throwing up all day.
+Nurse: Did you get the antibiotics before or after the trip before? Because it could be
+Patient: Related to the antibiotic. Yes.
+Nurse: That's the only thing you're still taking it and you said you got better and now you're still having symptoms. That's the only, that's
+Patient: Weird. Yeah. Yeah.
+Nurse: Let's see what antibiotic he sent in for you. The Doxycycline.
+Patient: Yeah, I know. It's a little rough on the stomach. So, you know,
+Nurse: Have you tried taking it with food?
+Patient: Yeah, I tried it says to take it on an empty stomach so I was trying to take it on an empty stomach but it it's kinda hard agreeing it.
+Nurse: Yes, not agreeing with you. Yeah. Yeah. Just try taking it with food and see if that works. If you're still vomiting, I would say stop taking it cause you don't wanna get deplete of all your nutrients and your electrolytes. And I will send him a note just to let him know you've been vomiting since taking this and he may even try to send you in something different.
+Patient: Yeah. Yeah. Ok. Ok. Thank
+Nurse: You. No problem. And I will give you a call just to check in and see how you're doing. Ok. But you can see if taking it with food helps.
+Patient: Ok, I'll do that. I'll take it with some crackers or something.
+Nurse: All righty. Well, I hope you feel better and try to continue drinking fluids cause you know you vomit so you have to get some of those fluids back in so you can try drinking maybe ginger ale or some Gatorade or something like that.
+Patient: Ok. Sounds good. All right. I hope you feel better. Well, thank you. I, I already feel better, so I, I think it's resolving. So thank you so much for calling.
+Nurse: No problem. Bye.
+Patient: Ok. Bye bye.

@@ -1,0 +1,50 @@
+Nurse: Ok I was just gonna call you back because I didn't know um what the situation was but yes um so I'm one of the nurse care managers I call on behalf of doctor [PHI-Personal] um just to check in and and see how you've been doing. Oh I'm
+Patient: I'm doing fine. I'm up in [PHI-Geographic] right now. Um I have uh um an in law next to my daughter. What used to be my mother's and of course he passed away so I've been redoing that so I'm not gonna be back in [PHI-Geographic] until Monday.
+Nurse: Ok.
+Patient: Got you. I'm feeling fine. I'm feeling fine.
+Nurse: Ok, good. So I know that um you started to join our remote patient monitoring program with the blood
+Patient: Pressure. I've been I've been bad I haven't been, I've been taking my BP on and off but I haven't really started, um, the one that I should see you so you can see it. But I figured, oh, I'm just gonna wait until I get back because I'm not, uh, you know, I'm not set up here, like, like when I'm home I'm on a regular schedule so I can do it every day and I'm more reliable. But at the moment I'm, I'm, uh, I forget about it, to be honest.
+Nurse: Got you. Yeah, that's no problem. Um, when would be a good time next week for one of our specialists to call you? I think there's just one more step they have to complete so that the data will be transmitted to us and we can transmit it to Doctor [PHI-Personal]. 00.
+Patient: Um, um, let's see, I've got surgery on the [PHI-Personal] for my mouth. I got my, some implants getting put in and, um, so I day that, yeah, that would be good. Tuesday will be fine. Ok, because I, I'm home. That's right. Yeah, I get home Monday and then Tuesday. Uh, I'll be there. Sure.
+Nurse: Ok. And our morning or afternoon is better for you. Um,
+Patient: Let's see. It doesn't really matter. Your, your phone, your number comes in as a silent number and I sometimes ignore numbers that are silent. Um,
+Nurse: I'm not sure why it's coming in as silent. Yeah,
+Patient: It didn't ring. I just happened to look at my phone because I was gonna call my daughter and I said, oh, that's so I said, ok, um, Tuesday, try in the morning.
+Nurse: Ok, perfect. Um I'll have one of them reach out to you just so that, you know, it can get all set up and that might motivate you a little bit better to, to check your BP as
+Patient: Well. I need motivating. That's true.
+Nurse: And you'll be home and it'll be a lot easier. You won't be a
+Patient: Lot easier. Yeah, it will be. I've been so busy too, you know, and, uh, like, it's not something I think about, to be honest and, uh, I know it's not, maybe the right thing to do. But, um, anyhow, I, you know, when you're in a different place and I'm trying to settle everything and get it all, they moved all her stuff into this place and so I'm going through it, you know, you just get carried away. Mhm. Yeah. So, oh, my le, actually I do have a question for you. Mhm. Um, my legs ache. This is a new thing with me and I'm just wondering if it's my circulation. Is it the pills you think, or the medication or do you think it's something I should check with the veins because I never used to have that.
+Nurse: Yeah. Which is it? Both legs or one leg? Just one neck? Which leg, the left, the left. And you said it's just kind of aching.
+Patient: Yes, it aches and I, and I mean, if I take aspirin it goes away, like baby aspirin.
+Nurse: Ok. And you don't remember, like, maybe hitting it on something.
+Patient: No, it's definitely not that. Ok. No, but it does eventually go away. But I know I, I'm thinking it's my circulation. That's what I'm thinking. It very
+Nurse: Well could be. Have you been, um, what do I wanna say up more than normal? Like a little bit more active?
+Patient: No. No, really. No, no more than I am. I mean, yeah, I, I can't really find anything to blame it on other than, uh, you know, that it's circulation. My daughter said to me, I think you need to go to a vein specialist and have it checked out.
+Nurse: Yeah. Is it swollen at all?
+Patient: No, not swollen. Ok. No, it just aches and it is pain too and then when I take the aspirin it eventually goes away.
+Nurse: Ok. Got you.
+Patient: Yeah, I'm getting all these complaints now that I'm getting older. God, yeah.
+Nurse: Um, I can get you an appointment at the [PHI-Personal] office if you, I don't know if your insurance will require a office visit before referring you to a vein specialist. I'm not sure.
+Patient: I don't know. I don't know. Well, um, let me think about this and I'll, uh, if it continues then I will make an appointment.
+Nurse: Ok. Sure. And if you call the, the number you just called ending in [PHI-Account]. You could let me know and I can get make you an appointment or whatever the case may be. Ok.
+Patient: All right, I appreciate that. And who am I speaking with again? I'm sorry.
+Nurse: My name is [PHI-Personal].
+Patient: [PHI-Personal]. Ok, [PHI-Personal]. Uh, ok, that would be good. Ok. Yes, I just wanna see what it is. It, my mother had problems with her, like for years, but I didn't think I had that issue but it seems to all of a sudden stop and I'm thinking, what the heck is that BP? Now, the leg, I,
+Nurse: We'll definitely keep an eye out on it.
+Patient: Yeah, I go, it's gotta be related. It has to be, you know, circulation cos she had those issues. Mhm. And, um, is it, is there anything that, you know, of that could trigger something like that? Maybe?
+Nurse: Well, not necessarily, that's why I was kind of asking. I don't know if you've been, if your activity increased rapidly or something like that, that can make your leg, you know, of course your legs sore. Um, but it sounds like you're doing pretty much what you always need,
+Patient: You know. So there's a difference. I know the difference between sore and this, this is not normal for me.
+Nurse: Got you. Ok,
+Patient: Out of the ordinary. And I'm thinking to myself, it's got to be related to that BP. It's got to be, or it's the pills because the other pills I was on, I had to stop because I cough, cough, cough, cough and I, the cough gone away and I know drugs you have side effects in different ones. And I'm thinking, could it be the side effect one of the side effects do you think?
+Nurse: I mean, it could be, I don't think that's typical with the medications that I see that you're on, um, that's not like a frequent, um, I guess side effect of the, of the medications that you're on. Uh, so
+Patient: I can rule that out too
+Nurse: Possibly. Yeah. I, I wouldn't think that those two things would be related. Um, I'm thinking it's probably something else going on.
+Patient: Yeah. Yeah. Yeah, I'll have to start looking it up. I don't know. Uh, you know, because it just all of a sudden and then I'm saying like this not good. So, all right. Well, I'll, uh, talk to you Tuesday or whoever I speak to Tuesday.
+Nurse: Yeah, it won't be me but I will, yeah, it won't be me, but I will follow up with you before the end of the month and just kind of see how your leg is doing. Ok.
+Patient: All right. And like I said, it goes away when I have aspirin. So obviously the aspirin is sending the blood out, isn't it? You know? Yeah. So I'm putting it all together.
+Nurse: Yeah, the pieces together.
+Patient: Yeah. Yeah, because I'm curious what the heck is going on? Is it dangerous? Or isn't it, you know, could I see to it right away or should I, you know?
+Nurse: Yeah. Yep. So, yeah, I'll definitely check in with you like I said, if, if you change your mind in between now and then you can always call me and I'll get you on the schedule. Ok. Ok,
+Patient: I appreciate that. Thank you so much.
+Nurse: Yeah, have a great weekend.
+Patient: You too. Bye bye now. Thank you. Bye bye bye bye.

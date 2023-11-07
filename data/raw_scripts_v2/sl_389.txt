@@ -1,0 +1,155 @@
+Nurse: Ok, good. I, at first I heard 404. I was like, oh my Lord. I said, I said, ok, so now it's [PHI-Account]. Did you take your insulin?
+Patient: I,
+Nurse: Oh, [PHI-Geographic].
+Patient: Uh huh. Did you take, did you nervous? It make me a nervous wreck in here. That's why it's going up.
+Nurse: Uh, ok. Are you currently hospitalized or you're at home? I'm at home.
+Patient: Ok. You want me to go to the hospital?
+Nurse: No, no, no, no, no, no, no, it's, it's fine. It's your BP, your blood sugar is fine. It's actually one, it's pretty
+Patient: Normal now because my BP, I don't remember what she said. My BP, like 1 30/80 but I haven't taken it yet. My BP.
+Nurse: Yeah. As long as it, are you hypertensive, what do you do you?
+Patient: I have BP
+Nurse: Problems. Yeah. As long as usually 1 30 sounds pretty good for patients that have hypertension. As long as it's less than 1 60 that is considered our normal. It
+Patient: Was, uh, was under 90 but somebody took me out to this pizza place. They screwed up my blood. Oh,
+Nurse: [PHI-Personal], can I have your date of birth? So I can look you up, open up in the system.
+Patient: 64, [PHI-Personal] 64, 1961. 96060
+Nurse: [PHI-Personal], ok.
+Patient: So give me one second.
+Nurse: And when you took your BP, your blood sugar. That was [PHI-Account]. Was it after your meals or before or did you already have?
+Patient: I should eat cereal at brand flakes. And then, uh, I, I didn't eat lunch yet. It was [PHI-Account]. I was a nervous wreck. I was a [PHI-Personal] nervous wreck. Which
+Nurse: Were you having symptoms? That sounds like symptoms. Yeah.
+Patient: Uh, [PHI-Account]. I met anybody this freaking, uh, manager. I hate it, but my head's good.
+Nurse: Do you normally, do you normally go without eating for this long? Like you said, you haven't eaten lunch yet. It's three o'clock.
+Patient: Well, no, I ate lunch after I ate lunch. About one. Ok. Then I, uh, I took my blood sugar. Now it's about, was it three? Mhm. Three. And they took my blood blood sugar around noon time that when it was [PHI-Account]. Now it's down to [PHI-Account] s something wrong their device, you know. Mhm. They gotta be replaced every once in a while. They, they won't tell you that. But,
+Nurse: Yeah, at least the batteries, the, the batteries every so often is acting. But, but what, um, yeah, [PHI-Account] is, it's definitely better BP.
+Patient: So, it was [PHI-Account] [PHI-Account] and went down to [PHI-Account]. I gotta start eating more careful when I'm eating. Yeah.
+Nurse: And actually eating more frequently too, you know, like, I
+Patient: Gotta go getting these me on wheels. They took me off the, uh, diabetic meals. That, that's what?
+Nurse: Oh, so you're getting a regular diet meal and you're getting the full,
+Patient: I should call them and tell them to change it to diabetic.
+Nurse: Yeah, for sure. And do you do like a cardiac, healthy, low sodium, um, pretty much, usually the diabetic ones come already are usually on the low sodium side just because of the su, because, you know, to manage the sugars too as well.
+Patient: You think that might be causing my blood sugar to go up? Is these meals from, uh, meals on wheels?
+Nurse: Mm. No, I just think too if you, if you're not eating often, like, so maybe, like
+Patient: To go to the gym. I was not feeling good. Yeah.
+Nurse: Yeah, maybe it was enough. But also too, like, even believe it or not, not eating like waiting long periods of time to eat that also can bring up your sugar. You know, because it takes more energy for your body to, you know, to that, to,
+Patient: I was watching some show on TV. And it was, I wait until about, she took my blood sugar about 12. I didn't eat until 12 [PHI-Personal].
+Nurse: Yeah. And when did you have breakfast? Do you normally eat breakfast?
+Patient: I had a bowl of bran flakes with skim milk. Mhm. Which is probably the,
+Nurse: What is the sugar? What's the sugar content on the brown flakes? Do you see in the box they
+Patient: Take my blood sugar back down. I, I only, I took it at, uh, just
+Nurse: A minute. No, but, I mean, no, no. But, I mean, like in the box of the cereal, how much, how much sugar does it contain?
+Patient: I don't know. I think the Grand, the [PHI-Geographic] are pretty low. Oh, crazy. Oh, I, I used to follow this diet with the and screwed up. I mean, this woman started harassing me. I did an exercise class. She harassed me in there and, you know, well, she has wherever that is it's, you know, I
+Nurse: Had a, I have a mother like that. Unfortunately,
+Patient: She spread diagnosis and spreads crap about people basically what they do. Yeah. I don't, I don't like to spend at all. I want out of here or I went out, I don't know how to get somebody to help me get out of here. Ok. Target.
+Nurse: Mm. And how long have you been there?
+Patient: [PHI-Personal] years? I hate this prison. I hate this die, you know, drug addicts, alcoholics. Not one in here. Is it like a
+Nurse: [PHI-Personal]? Can you confirm your last name? I'm having a hard time finding you in my system.
+Patient: [PHI-Personal].
+Nurse: A [PHI-Personal]. That's what I wrote. Maybe I
+Patient: Spelled it. [PHI-Personal]. Yeah. And is where it is, I guess.
+Nurse: Yeah, I'm taking over her patients so I've been, I've been lost all day. So it just me
+Patient: Is not there anymore. Or she's just doing something else.
+Nurse: I think she's doing something else and she's still with us. She's still with us. But I think she's doing something else. She's, I think she's on, on a vacation or something like that.
+Patient: Oh, since she got a, uh, what do you call that you got? Got a promotion? She got a
+Nurse: Promotion. I, I think she, I think so. I hope she did. So we're, we're chipping in, uh, other nurses are chipping in with her patients. I see you now.
+Patient: All right. Well, I'm gonna get going. Ok, I just wanted to take my blood sugar. Let you know what it was because this [PHI-Account] and it was over 200. The last time she came here was 2 40 last time she went there and the blood sugar was [PHI-Account] or 1 30 left. I understand what's going on.
+Nurse: Are you having, well, you know, also too blood sugar spikes with, with stress. So, if you're having stress at, at home, you know, and from what you're telling me, it sounds like you are a little bit that, that doesn't help the situation either. So, trying to manage it as much as you can, which I know it's easier said than done. Um, have you taken your BP today
+Patient: Right now? I haven't taken [PHI-Personal] and she's still talking now. He's a, he is a, he is a [PHI-Personal]. Yeah, he brings all the, his, his relatives in but it's so illegal stuff.
+Nurse: Have you talked to the social worker in all?
+Patient: Oh, who to talk to? I talk to this. Good as just talking to [PHI-Personal]. I don't know. So she doesn't do stuff like that unless she does. Oh, my done.
+Nurse: Yeah, let's check your BP to see. I know you're stressed but let's see how it is today since you haven't taken it. Yesterday was pretty good. And the last time we did two check it, it was 1 33 which has just been ok. You had a couple of highs too.
+Patient: I want the manager gone.
+Nurse: I'm not sure. They didn't, they didn't say so.
+Patient: Oh, she, her, my arm is like pulsating. I feel the pulse of my arm. 1 [PHI-Personal]/[PHI-Account]. My, uh, [PHI-Account]. What's the bottom? It's 1 [PHI-Personal]/[PHI-Account]. I'm nervous. I'm just nervous. Right. I'm [PHI-Personal]. Over [PHI-Account]. Mhm. All right.
+Nurse: Take a bit. Let, let's, it's not, thankfully it's not super, super high. It's a little above where it was yesterday, but, you know, you're upset, you know, you're a little anxious. So that kind of explain why it's this high. Try, you know, I don't know if you have talked to [PHI-Personal] about, um, things that work which are breathing exercises, taking a couple of deep breaths in between, um, doing things that make you distressed. What do you like to do as, you know, kind of like a de stressor for you? What normally works for you?
+Patient: Oh, that, I, I, I have wonderful friends in [PHI-Geographic]. He, he doing one I got,
+Nurse: Oh my God,
+Patient: A friend. As a matter of fact, I did her, her parents were from [PHI-Geographic] but she went to uh [PHI-Personal] take care of my mother had kidney dialysis. Yeah. Oh, you give me those. I am having that uh, colonoscopy in [PHI-Personal].
+Nurse: You're scheduled for [PHI-Personal] for a colonoscopy. Yeah. And I see that you have an appointment tomorrow for lab. You have lab work tomorrow at [PHI-Personal] a.m. early
+Patient: In the morning and I got the
+Nurse: An appointment on the [PHI-Personal] with Doctor [PHI-Personal] and then I see you have a nurse visit the follow. Oh, you canceled that I have
+Patient: An injection on, right?
+Nurse: I have an induction Friday and then I see. You see the endocrinologist on, on [PHI-Personal] 8th,
+Patient: I think that's [PHI-Personal] sometime I have my.
+Nurse: Ok. Very good. So, like I said, I know that I'm pretty sure you and [PHI-Personal] have talked to him in detail but try it as much as you can. You know, the, especially with the, say again,
+Patient: I felt rot.
+Nurse: Hm. Say, say again, I'm sorry, I'm having a hard time.
+Patient: [PHI-Personal] TT [PHI-Personal] was last name [PHI-Personal] tt en.
+Nurse: Oh, ok. Oh yeah, let's see. And do you take medications for anxiety at this point or? No? No, I don't. No. Maybe that's something that when you see Doctor [PHI-Personal] on, on this coming appointment, we can probably can further discuss maybe prescribing something especially when you're feeling on
+Patient: Edge all that time. The neurologist is always in [PHI-Personal]. I should be. I was I wanted to see him as soon as possible, I guess. Can I actually do a cancellation with Doctor Camacho Velez or Velez? Camacho or something like that? Mhm.
+Nurse: To see if you can see you sooner, not to do that but men, yeah, but mention it when you say I know you have an appointment on the fourth on the [PHI-Personal] with Doctor [PHI-Personal]. Mention it to him too to see what he su suggest. Um Maybe to start you on, on an anxiety medication to help you cope since you know, you have big stressors at home.
+Patient: I complain about complaining with
+Nurse: Let's see, and you do see AAA psychologist. How often are you seeing a psychologist?
+Patient: She's not, she's a L CS. W
+Nurse: Just the LCW, you're the, you're only
+Patient: Like you that where his name was? I saw him once
+Nurse: And how did, how did that appointment go? How did you feel with that visit?
+Patient: I was a little pissed off some of the things he said he, he's backed off like I can't drive, which never got a car again, you know? You know, stuff like that was bullshit. I've never, never had taken car, you know. Oh, yeah. One ticket. When I was going to school up in [PHI-Geographic], this blond hair girl was in the car and talk to the cop out and gave me a ticket and she started laughing real loud. Oh my God, you had, I was guilty. I mean, just don't see there's a county up there. [PHI-Personal] don't count. Which is, um, I like tennis. The boys and girls. Mhm.
+Nurse: Are you originally from, are you originally from [PHI-Geographic]? Is that where you're originally from? Where are you originally from? [PHI-Geographic]? Ok. Beautiful up there.
+Patient: I was born at [PHI-Geographic] before. That is,
+Nurse: I'm actually, I'm a northern girl. I'm, I'm a transplant. I'm, I'm originally from [PHI-Geographic]. My grandparents,
+Patient: My grandparents work for.
+Nurse: Ok. I know, I, I know
+Patient: She was in right outside.
+Nurse: Yeah,
+Patient: I can't think of the name of the city right outside.
+Nurse: Mhm. But
+Patient: I'm saying, go les, my, my grandparents live, it was a form of a fuzzy slipper patch. You ever had those fuzzy, not be in [PHI-Geographic] anymore?
+Nurse: Oh, and I'm from, I'm a little further down from Scranton. I'm more of the Allentown way reading that area. Yeah, one
+Patient: Had a song. All town.
+Nurse: Yeah. Don't miss it. Like, I definitely, definitely love the, the warm weather. Don't miss the cold. It's getting nice now. But I don't, I don't miss the cold weather at all.
+Patient: Oh, [PHI-Geographic]. Mhm. I like, I like [PHI-Personal]. I was a little kid though when I was there. My, my grandparents died when a child I think I was in [PHI-Personal]. Was it smaller than?
+Nurse: Mhm. Yeah, I, I had a, yeah, I had a, I had a girlfriend that went to King's, uh, Kings. Was it King's [PHI-Personal] around that area too? Which is, but it's a beautiful, it's, it's far definitely from, from back home, but definitely a beautiful part of [PHI-Geographic] that people don't get to see a lot of
+Patient: Work for King's [PHI-Personal], I think.
+Nurse: Mhm. Around that area. Yeah, it's about, I
+Patient: Know there was like a three souvenir shop, like, like a little kid. You care less about something. What is that? That's a big highlighter. What that, the Mr Out? Yeah, I saw, I saw the [PHI-Geographic]. I don't know if you ever heard of them? The tour of some people in the audience? It was like a small place. It was. [PHI-Geographic] was a pretty big band back then. A lot years ago. You sound a lot younger than me. I'm only,
+Nurse: You're only [PHI-Personal]. And what? And a whole day.
+Patient: That's the, that's the old jack comedian name. [PHI-Personal]. He, up on the school it says, uh, he wouldn't say a word for minutes. People just crack up.
+Nurse: I like, I like that one. I, I'll use that one. Definitely.
+Patient: I remember his older when he got older. I don't know. I wasn't really, he was way before I was born. Mhm. No, I don't know.
+Nurse: Mhm. Well, well, if anything, if your budget just continue to monitor your,
+Patient: My friend's brother, her, uh, brother, he was on, have you ever heard a show called [PHI-Geographic]? [PHI-Personal] O2. 1 of them.
+Nurse: I've seen that one. Yeah, that I'm familiar with that one. Yeah.
+Patient: And then there was another show which you really got fired off for real. Not the show. But, uh, I've never seen these shit. I've never, I've never seen Chips. I don't watch much TV. Anyway, uh, I never seen, you ever heard of that show? So,
+Nurse: No, no,
+Patient: Because
+Nurse: Now you're making, now, now you're making me, I'm like, man, I really need to start watching shows. I, I have a young kid so I don't have really time other than working and taking care of my girls. I really don't, don't see a lot of TV, but you're making me wanna, like, revisit my shows.
+Patient: Take care of your girls.
+Nurse: Yeah. Yeah, I have [PHI-Personal]. I have twin, little [PHI-Personal] year old. So they, they definitely occupy a whole lot of my
+Patient: Brother, my brother.
+Nurse: Oh, you have, you? Have, you have a [PHI-Personal] siblings that, yeah. Are they fraternal identical? My
+Patient: Brothers were twins. One died five years ago.
+Nurse: Oh, wow. Were they older or younger? [PHI-Personal]? [PHI-Personal]? Oh. Were they identical? Fraternal, fraternal? My girls are fr fraternal. They're not identical.
+Patient: They're identical.
+Nurse: Oh, wow. So they definitely have that same thing going on.
+Patient: I can tell apart. Mhm. That's actually, I told one that didn't like me because it was all mean to me, little kids who went to this place called Treasure Island, Florida where they had gay thing. You know, the kids, they had a, so they had this guy from channel eight of these stations. He was a cartoon. He was like for kids, you know, his name was [PHI-Personal] and Upper. I never forgot that. So, my brother's up there stole my brother. I thought that was [PHI-Personal]. I don't know. I got back to my brother. You know. You know, I thought on that note, um, on that note. Um, do you need
+Nurse: Any? That's ok. Do you need before you hang up? I see that there was a request sent for Metformin. Are you good on your medications? Do you need any more refills on the Metformin? I don't
+Patient: Know if you call pharmacy, that's where I go. I don't know if they asked.
+Nurse: Ok, because I see, I see a, a prescription request. That's why I'm asking. Maybe this is just an, oh, it's an automated one. Ok. So it's already in the works. It is. But it's, it, yeah, it is. I just wanted to make sure that you're not completely off like the, you know, it could go through the
+Patient: Regular process. I don't know what I, I get these bubble packs. Oh, ok. Ok. You can. So
+Nurse: What I get. Oh, so they, oh, ok. So they do everything and then you just get the pack? Ok. I, I understand the blister packs.
+Patient: I don't know if you ever park, park floor across the bridge. I don't know if you ever heard of [PHI-Personal]?
+Nurse: I have not, but,
+Patient: Ok, there's a couple others that do that. They do these bubble pack
+Nurse: A couple. Yeah, I, I actually like, like those because those are pretty convenient for patients. I have a few patients that are on them but I, they, they got them from an external pharmacy from a, a mail to order pharmacy. But I didn't know that I had one
+Patient: Local. I go to them. I'll tell you one thing. I go to two pharmacies. I go to the pharmacy at, uh, my pills and I go to, I can't remember the name of the pharmacy in, uh, ce point. So that's where I get the shot of, I get a shot of which I think it's pe sur I si get the maximum dose of that but uh
+Nurse: OK, good. So what I'm gonna do is I would love to check in. Um Do you mind if I call you next week? Just to check in to see how you are doing, how things are going between then and now um just continue to check your blood sugars and try using those coping mechanisms that you have to talk to, you know, to the social worker about if things get worse at home or you feel that, you know, things are unsafe, you know, like calling 911 is probably the best option.
+Patient: Some people here threaten me to get me up how they get it. Yeah, I got a little, I got a little tire. Mhm.
+Nurse: Yeah. Well, I'll talk to you later. [PHI-Personal]. Have a good one.
+Patient: I'll call you, you call me next week.
+Nurse: Yeah, I'll call you next week. I'm supposed to have a
+Patient: Caregiver. Oh, I supposed to have a caregiver. Uh, I've been without one for three weeks because she said she don't clean up for men. She, she like swimming. I, I really wanna get the, the, the BS, you know. You know, I, I, you know. Mhm. Real short hair. You know, I don't wanna see anymore. But anyway, I don't care what she is because she says she don't wanna take care. She don't want to, she don't like meds or whatever, like, right, please. That's what I understand. Yeah.
+Nurse: What can you do? Like, I'm sorry that I'm a guy can't help it.
+Patient: Well, I had a carrier. You, you're, you're hiring somebody else and, uh, long, something about long term care. I wanna list for more services, which will be in six months to a year. I, I wouldn't mind moving out of here. I wouldn't mind moving out. I don't want my brother, my brother did something. I don't know what he did. He, he doesn't return my calls. Mhm. I'm totally pissed. I'm totally pissed out of you left it alone and I, we've been fine but I don't know. Um, I'm gonna, I'm gonna hang up. It's just 25 minutes. Ok. It's been 25 minutes.
+Nurse: That's ok. But I'll still call you next week and check to see how you were doing just to make sure that you're doing. Ok. Just make sure you go tomorrow for the lab work to get those lab work. Let's see what you're getting and what you have ordered.
+Patient: You got to go to Mister [PHI-Personal].
+Nurse: I'm gonna have to go to Mr [PHI-Personal] because you know what, back home there is a [PHI-Personal] bar, but it's probably, but it's completely different, but I'll have to definitely try you the order that you have.
+Patient: So they have, uh, that, so they have [PHI-Personal].
+Nurse: We, I live a lot, I live, I live a lot without, I live very close to the [PHI-Personal]. I live close to Lancaster [PHI-Personal]. So I do miss my [PHI-Personal] and my pen. Yeah. My [PHI-Geographic]
+Patient: Dutch. The ones that are down there are called.
+Nurse: Mhm. No. Yeah, the mennonites are a little less strict but the [PHI-Personal], I, I had, we had a population close by which were predominantly [PHI-Personal] and then we had the Mennonites too. So we, um, especially when I was going through nursing school, we, we took care of a lot of them. So it's definitely different, interesting culture for they
+Patient: Got the restaurants. I got the restaurants down. So I think there's one I've been to one in years. I really have been so one or so. Uh,
+Nurse: Well, I'll check with you next week. Then [PHI-Personal] between here and there. If you have any questions concerns, feel free to call. Ok. And tomorrow, so tomorrow you're having, you're getting your A one C checked and they're also doing AC MP, which is a complete blood panel. So make sure that you're fasting in the morning when you go your appointments at [PHI-Personal]. So if you wanna take a little cookie or something on the side, so after you take your BP, you can, after you take your, you know, after they draw your blood, but just make sure that you keep the, keep that appointment.
+Patient: I'm starting to feel better. I'm starting to feel better. I do not like, I wish you'd go, I just get lost. You know, he brings all his relatives in here, which is, it's totally illegal totally. And people that work for goodwill or get housing in here, people that work for good will on the other side of the bridge. All moving in here. It's just totally. Yeah.
+Nurse: Well, I'll talk, well, I'll talk to you later then [PHI-Personal]. Um, call me if anything. Ok, between there and now hydrate, please.
+Patient: Water. Good for you. Mhm.
+Nurse: All right. Take care. Bye bye.

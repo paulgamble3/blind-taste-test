@@ -1,0 +1,23 @@
+Nurse: Ok, let me see here. Um, ok, I do see an order for, um, the mammogram. Ok, good. Yeah, let me just double check here on the pap smear. Um, I don't see anything in regards to that but, um, when was, do you know the last time that you got a pap smear? You
+Patient: Know, I, I don't know whether it was [PHI-Personal] or [PHI-Personal]? I'm not quite sure.
+Nurse: Ok. Yeah, I do see the order for the uh mammogram.
+Patient: So. Ok, so, so it's over at, um, is it already put through at [PHI-Geographic]?
+Nurse: Um, let me just double check here. So, I don't know, it doesn't look like it's been, um, scheduled or anything. It's just a general order so you can, um, definitely call and get it scheduled. Do you need the number to get it scheduled. Yeah, I do. Ok. All right. Let me just pull it up here
+Patient: And do I need a script to go with me that day or not?
+Nurse: No, it should be. It's in the system here so you shouldn't need any paperwork. Um, yeah. So look, so you'll call, um, Temple Radiology and that just let me know when you're ready and I'll give you that number.
+Patient: Oh, I can go to where, where is that radiology? So it's just,
+Nurse: It's um the General Temple Radiology line. Um and then they have a schedule with the different locations of where you can get the mammogram done.
+Patient: Oh, I never did that before. It was like to hill.
+Nurse: Oh, ok. Yeah. Um Let me see here. Let's see. Let me try to see if I can get the um specific number for uh Chesnut Hill.
+Patient: Ok. I mean, I, I know their number and I could call them. I just don't know what I, I have to have a script in my hand or not. Oh,
+Nurse: No, no, no. It, it's in the system already so they shouldn't, it, it, it'll pull up right there for them.
+Patient: Ok, great. So just give me the number and I'll just, I'll just, I know the number to the place. But is there a number, a script number? I have to give them when I get there or just give them my name? No, you should
+Nurse: Just be able to give them your name and then once they yeah, once they put your information here in the system um your if you just go under like imaging or whatever it pulls up here is the order um it's ready and available. Yeah, exactly. So they they shouldn't need anything. Um Yeah, yeah, no problem. So just have to get it scheduled and then um you should be good.
+Patient: Wonderful and then if I'm uh I check about my pap smear if there's nothing yet then I'll just wait.
+Nurse: Ok. Alrighty. Sounds good. Thank you so much. Oh yeah, no problem at all and then I did just wanna let you know too that um it looks like your annual wellness visit um is almost due, it looks like [PHI-Personal] it'll be due um so just wanted to give you a heads up too if you needed to get that scheduled and look at your schedule and see what you have available. Um
+Patient: I'm gonna call today.
+Nurse: Oh perfect. Alrighty. Well sounds good just let me know if you need anything else or if anything else comes up with that mammogram that you need help with.
+Patient: Right? Thank you so much. I appreciate it. No
+Nurse: Problem you have a great day.
+Patient: You too bye bye
+Nurse: Bye bye.

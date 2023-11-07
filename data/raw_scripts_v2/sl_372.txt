@@ -1,0 +1,30 @@
+Nurse: Good. I just wanted to reach out, um, to you and [PHI-Personal] today to check in with you, see how things were going.
+Patient: Well, let's see. Mm. He has, let me tell you what appointments we still have. Um, that he has one more, um, appointment here with a cardiologist on [PHI-Personal] and he has one more dermatology appointment on [PHI-Personal] because the cancer, they thought they got out of his ear when we were home. It has, um, bumped up again and she's going to take that off. Ok. So that's, that's it. That's enough. That's enough. Yeah. Other than that, he feels wonderful. Um, and I have talked to, uh, doctor office in Lake [PHI-Personal] yesterday and when I get home I will see [PHI-Personal] and get a physical and they will be replacing my right hip sometime this summer. Oh, man,
+Nurse: We were hoping we didn't have to go that route, weren't we?
+Patient: Well, we were hoping we didn't have to go that route but it's been, uh, I can't walk more than one store shopping and, um, I, I've given up golf for the summer or the winter. Pretty much so. Yeah, if I want to do the things I want to do I'm gonna have to get it done. Right. Yeah, the left hip was done in 09. And I've never had a, a bit of trouble with it. So I guess I'm not really concerned about this. It's just going through the process and getting the rehab and stuff.
+Nurse: Right. That's the hardest part.
+Patient: Yeah. Yeah. Well, the hardest part is my husband has to cook. Oh,
+Nurse: Ok.
+Patient: Oh. But he did it before. So we're, we're good.
+Nurse: All right. Make sure he cooks healthy stuff. Healthy food is good for healing.
+Patient: Right. Right. Yeah. Yeah. Ok. The other thing we, we are going to need is appointments with [PHI-Personal], but it isn't too early to make the appointments for the end of April. The first part of [PHI-Personal].
+Nurse: No, I can send a message right over to him.
+Patient: Ok. Or, or I can call and get the desk. It doesn't really matter. I know what days I've got appointments. We've already got one for and one for the dentist when I get home. So we'll work around that. Ok. Excuse me? Yeah, I've got a note in my phone to call next month, I think, to set one up. So that's ok. You don't have to do that, honey.
+Nurse: All right. Well, I can, if you'd like. No. That's,
+Patient: Yeah. So, I guess that's it. Other than that things good.
+Nurse: Good. I'm glad to hear that. Um, hm. There you go. There it is too many things going on on my computer screen. I don't know what I'm doing anymore.
+Patient: Oh, I know. There are days when it's like you, you talk to [PHI-Personal] all the time.
+Nurse: Um, I just send messages. I don't work in the office.
+Patient: Where are you? Oh, you're not in the plastic office
+Nurse: Then? No, I actually, I work from home. Um, so I don't, I don't go to the office. Um, I just send electronic messages over to the, the girls in the office. Um, and [PHI-Personal] as needed.
+Patient: Ok. But you, but you're a lifeline here. So that's good.
+Nurse: Mhm. Yeah. And it, it's, it's such a new, um, program that [PHI-Geographic] is doing. So we're all kind of like settling in and, you know, figuring out what works best for everybody. Um, so far, so far, so good. You know, most of the patients are very receptive of the services, um, which I'm grateful for because I enjoy it.
+Patient: Good. Well, send him, send him a message and tell him those [PHI-Geographic] Cowboys lost.
+Nurse: Oh, you got
+Patient: It. My husband is a [PHI-Geographic] and that's the first thing they talk about when they get, when we get in the office is what the Cowboys are doing.
+Nurse: So, yeah. Oh,
+Patient: Our team is not doing well. So that's good.
+Nurse: Ok. Well, you know, as always I know, you know, if you guys need anything you'll reach out.
+Patient: Um I will do that, ok? Ok. All right. Thank you so much [PHI-Personal].
+Nurse: You're very welcome. Take care.
+Patient: Ok. Bye bye bye bye.

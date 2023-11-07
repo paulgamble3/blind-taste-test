@@ -1,0 +1,39 @@
+Nurse: For the BP cuff and the pulse ox. Yes, but for the scale we got 13 days ago.
+Patient: Oh ok. Uh I maybe I didn't use the car. I'm not sure.
+Nurse: Alrighty. Um would
+Patient: You be interested in taking it? I'm sorry,
+Nurse: My apologies. Would you be interested in taking a test reading sometime today or tomorrow? And I'll give you a call Monday if it doesn't come through
+Patient: I can do it right now. Alrighty, that would be perfect. Ok, hold on a minute please. Mhm. I didn't realize we using the cuff. You know what happens in old days you get over forgetful you want to this thing too. Pardon me? Uh do you want the thing that goes on the finger too? The oxygen?
+Nurse: Oh yes we can do the oxygen after the BP cuff.
+Patient: Ok looks it looks like [PHI-Account] 51/68. Alrighty I'm gonna
+Nurse: I'll refresh a couple times on my end so hopefully it'll come through.
+Patient: Yeah [PHI-Account] 31. Yeah [PHI-Account] 31 of us.
+Nurse: Yes with 66 as the pulse it did come through. Yes sir it came through and with the pulse ox you just got to be pretty close to the antenna as well
+Patient: So maybe that was the problem. Yeah we uh yeah I'm right next to it now.
+Nurse: Alrighty. Yeah then it's it's working right now. Yes so if you wanna test the pulse ox on your finger and then we'll be all good and we'll know everything's working.
+Patient: Alright again. Yeah. Oh it's uh [PHI-Account] [PHI-Personal] it's 95 on the oxygen and [PHI-Personal] on the pulse.
+Nurse: Alrighty. And is there a blue light coming up on the antenna?
+Patient: Just a minute? Yeah. No on this I don't know. Ok you right. Yeah yeah it's a blue light. Yeah. Yes my wife sent me it is a blue light.
+Nurse: Perfect. So yes it just came through for the pulse ox as well so it looks like everything's working all right for you. Do you have any questions for me.
+Patient: Uh, no, not really. But the only, the only thing is that with, with the, with the BP cuff. Mhm. Once, once it, it times out and it gives you the BP and, you know, the systolic and diastolic, it's about three seconds and it, and the lights go off.
+Nurse: You are absolutely right. So, to get the last reading that you took, when the screen goes black, you just press that button that has an M for [PHI-Personal] and the little up arrow is the gray button on the front of the BP cuff.
+Patient: Uh Let's see. M from Emory [PHI-Personal].
+Nurse: So it's one of the gray circle buttons with a little up arrow,
+Patient: Right? But nothing came up.
+Nurse: Mm. Alrighty then is the screen completely black? No, it's blue. Alrighty. So then we're gonna wait a couple seconds for the screen to go off.
+Patient: Ok, because the three dash lines. Hm. Can I turn it off?
+Nurse: Um Yeah, if you press the start stop button.
+Patient: Ok. It went black.
+Nurse: Alrighty. And then press the M for [PHI-Personal] once
+Patient: I want you, you just get three dashes.
+Nurse: Well, then that is not right and this is on the BP cuff. Oh, that might be the sys button. The A and the B on it.
+Patient: Uh Oh, that's the top one, right?
+Nurse: Yeah, if I press the top one then the three dashes come up for me. So we press,
+Patient: Yeah, but it shows it shows [PHI-Account] 40/73.
+Nurse: That's the reading before one of the readings before your old one? Oh, ok. Yes,
+Patient: So. Oh, it, it goes back, is that it? Yeah, it
+Nurse: Goes back through the different ratings.
+Patient: Ok, I'll, I'll make sure I use it more often.
+Nurse: Alrighty, perfect. And is there any other questions or concerns my phone number is right on that antenna under tech support?
+Patient: Ok. Thank you very much.
+Nurse: Thank you for your time and have a wonderful day. You too. Bye now. Thank you. Bye bye.

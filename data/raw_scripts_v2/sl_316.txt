@@ -1,0 +1,82 @@
+Nurse: I believe she is off today. Is there something I can help you with?
+Patient: Oh, no, she called yesterday but we weren't
+Nurse: Here. Got you. Got you. Ok. Was it just for a follow up or you guys doing? Ok.
+Patient: Oh, you got me. He didn't get his tube out yet? Oh, it was a tube.
+Nurse: Ok. Can I get, um, is it for both of you guys?
+Patient: No, carry, carry.
+Nurse: Ok. What's his date
+Patient: Of birth? [PHI-Personal].
+Nurse: [PHI-Personal], [PHI-Personal]. And what was his first name? I'm sorry?
+Patient: [PHI-Personal]. Sorry, Kkrry.
+Nurse: Ok. I think I see you Mand, right? Mand.
+Patient: Ok.
+Nurse: All right. So where's
+Patient: The tube? A feeding tube? He has in his be feeding tube. Ok. He's supposed to get out on the 30th. But um, Hershey called us 14 days before that and told him they made a mistake a little bit town, don't do it. So now he has to go to Hershey on the [PHI-Geographic]
+Nurse: Of this month. Yeah. Ok. Is he still doing the feedings?
+Patient: No, he hasn't done it since [PHI-Personal].
+Nurse: Ok. Ok. That's fine. You guys are still flushing them and keeping it clean and everything right? Ok. Good. Ok. How's his appetite doing? He put his stands
+Patient: Up? Well, that's
+Nurse: A good thing. Ok. All right. Let me see if Ri wanted to ask you anything specifically. Let me take a look real quick. Ok. It looks like that. You went and saw the doctor recently. How's his blood sugars? Been doing pretty good? That's pretty good. What's an average number for him?
+Patient: Ok. What's your average? Oh, sugar. What was it? I go and look at the paper.
+Nurse: Oh, no, you're fine, honey. Take your time.
+Patient: I, I got it. Sorry. We're sitting outside so nice today. Oh yeah, it's in the [PHI-Personal].
+Nurse: Enjoy that sunshine.
+Patient: Yeah. Helping the [PHI-Personal]. We have to be on, we're cooped up all. Ok. And we were cooped up here.
+Nurse: Oh, you poor thing.
+Patient: Um, you want it from? Oops,
+Nurse: I guess the last couple recent ones I can see the ones that he had when he went to the doctor's office. And those were pretty good.
+Patient: I start from the 29th. Like was 1 27. 1 13. 1 43. 1 42. 1 44. [PHI-Account]. Ah, [PHI-Account] again. 1031 21. 1 22. 1 45 [PHI-Account] and [PHI-Account] this morning. One
+Nurse: 40. Ok. Ok. Those are pretty good. Um, yeah, the highest one I see is [PHI-Account]. Um, is that related to anything you might have ate?
+Patient: He got ice cream sandwiches.
+Nurse: Oh, that, yeah, that would get him in trouble,
+Patient: But they're sugar free. But that's the only thing he's been eating everything
+Nurse: Else. It depends on which, yeah, what kind of sweetener they put in those, some of them still can, they still have a lot of carbs in them. But, um, yeah, I mean, it didn't bring it up too much, so we'll just keep an eye on that. Um, are you guys checking his BP at all?
+Patient: Yeah. Ah, lu, BP. I don't think mine's the same. We go out to parks or like it was, it was 1 15/63. 1 25/61 33. Over 58 1 30/71 38/63. Uh, [PHI-Account] over, I think it's [PHI-Account] 1 39/59. When we go out to, they're, is always lower than our, I don't know if our machine or what it
+Nurse: Can be. Yeah, that happens sometimes. Um, yeah. No, those are all good readings. Ok.
+Patient: Um, he found the back, huh? The gout back, the flare up. Yeah, he has it in his toe. It don't look as bad as it was before we're waiting for CV S didn't have it yet. It's supposed to come today. She told me I have, if it, if it comes, you'll be there by five o'clock. So we just have to wait.
+Nurse: Ok. It's the one that starts with ac, right. The coach and I can never say it. Right.
+Patient: Uh, is it definitely, it's an m I think now the insurance don't pay for that one. They had to get a different one but he, but they're sending away for, uh, he said he's gonna, he's get rid of that then he's gonna put him on something that they don't get the gout.
+Nurse: Oh, ok. So something that, that will help with the pain but it's not specifically for gout. Ok. Ok. Yeah. Would you,
+Patient: Would we have to take that all the time then or just so long?
+Nurse: I'll have to see what the medication is. Um, let me see if I can see it in his notes when you put him on.
+Patient: He didn't take it. He's gonna, he can't take it until he gets rid of the gout with the other stuff. Ok.
+Nurse: Let me look real quick. I didn't see him mention anything about that, so I might have to ask. Yeah, I'm not seeing that. The only thing I see is the one that starts with ac the lin,
+Patient: So the other one starts with an A,
+Nurse: Oh, that's a, something like that. Ok. And that's the new one,
+Patient: Is that the one you supposed to take out to prevent the gout. I think so.
+Nurse: Yeah, the one that starts with an A, he'll take that one every day.
+Patient: Would it be all the time or? Just so?
+Nurse: Yeah, all the time for that one. That's a daily medication. And that's the OPR, 100 mg. And the other one that they have ordered is the 0.6 mg tablets. Um,
+Patient: Yes. Yes. I think that's what they said, but they'll change it down CV. S what it
+Nurse: Might just be. Yeah, it might just be, um, a different kind of medication, but the same thing that's fine. Um, but for that one he's allowed to take. So, I, it's gonna be on the instructions if it's the same medication that he could take two of those tablets when he's having a flare up and then an hour later he could take another one until his symptoms start to improve.
+Patient: Yeah, he's got it in his toe again. It don't seem as bad before, does it? So, but I said we had Kentucky Fried Chicken for the birthday party. My granddaughter, we went to Burger King.
+Nurse: Uh, oh, well, for foods, there's not really a whole much you could do for gout there if you can overall avoid fast food. That's the best thing you could do for your health. Um, but yeah, that one medication, one that starts with an, a take it every day because that's gonna help keep the uric acid down and that's what's causing the gout, you get that uric acid build up in your joints and it causes a lot of pain and then the other one is gonna help for when you have flare ups. Ok. Ok. So let those work, pick up that medication today from the pharmacy if it's not working, um, with that regimen in the next week or so, give us a call and let us know, um, because we want, uh, with the medications, the pain should be getting better every day. It shouldn't be getting worse. Ok. Yeah. So if that happens, just call us, let us know and we'll see what we can do to help them.
+Patient: Yeah, I gotta call, I got the two pills. That one is it. Metformin comes in a big flat round. Used to be, it used to be a little pill.
+Nurse: Metformin usually it's a big pill.
+Patient: Wasn't that the old one you got before? Yeah, it was an old pill. But that is only 500. 0, it's only 500. You said?
+Nurse: I was gonna say the 500 are usually pretty big too. Yeah. I wonder if maybe it might be a different diabetes medication.
+Patient: It was, it's for the, the, I have to crush it up for the tube but he don't need no more for the tube. I thought maybe if I call him, tell him that it may be a smaller one. I see. I see.
+Nurse: Is he able to swallow it at all? The Metformin.
+Patient: He didn't try that one. Like the little ones he swallows. And the baby asked me to choose, but I usually grind the big one up.
+Nurse: Yeah, that's fine. It's not as long as it's not an extended release medication. And that's so the Metformin 500 mg, um, that was fine to crush up. But I can ask them if there's a different option for that. Ideally, if you could swallow the pills, that would work better because when you crush them up they work a little too fast. So they might not be completely therapeutic. But, um, it doesn't hurt to ask. I could find out.
+Patient: Yeah, you could get a smaller, would be better. I, ok,
+Nurse: That, I don't think there is a smaller one, but there might be another option for him if that's the case. So we'll ask. Ok, anything else you want me to mention? Uh, Doctor [PHI-Personal]?
+Patient: No, I just have to call and get them two rep pills refiled.
+Nurse: I can send a refill request. So it's for the Metformin.
+Patient: Yeah. And it's, uh, it's, I think it's metoprolol.
+Nurse: Ok. 75 mg. Ok.
+Patient: Yeah. Let me, let me go double check first. Ok. Sure. Mhm. I think I got some put shorts on. I can hold on top. Oh, it was not bad. Ah, and one's Metformin and the other. Yeah. Meto Pr Olol. Ok.
+Nurse: I'll put in those refill request for those two. What pharmacy are they going? To
+Patient: CV. S and Ville CV. Se we need another pharmacy. You're on here.
+Nurse: Oh, I know they're, some of them are dying out where I live. A lot of the CV. SS and Walgreens have closed.
+Patient: We or something.
+Nurse: I don't even think they have [PHI-Personal], do they anymore?
+Patient: And I think [PHI-Geographic], I think I seen one.
+Nurse: Ok. Where I live, they all shut down. Ok. All right. So I'll send that request over to him. I'll give an update on him and see if she wants to follow up with him. Um, blood sugars. Look good. BP sounds good. Follow the instructions with the medications for his gout. If it's not getting any better, give [PHI-Personal] a call and let her know.
+Patient: Yeah, he got it. Then it went away and we did good. We were, yeah, he's watching the sodium and we just don't know. But
+Nurse: Ok, if I get any recommendations from them about the Metformin as well, um, since he's having trouble swallowing them, I will
+Patient: Try to, he didn't, he didn't try to swallow, did you? Yeah, that's the biggest pill he has.
+Nurse: Well, I'll see if we got a different option for him if he's nervous about taking it. If not, just keep taking it the way you have been for now.
+Patient: Yeah, just let her know. We ain't getting his two box of the [PHI-Geographic]. Ok.
+Nurse: Will do. All right. Well, I will call you if anything changes and you call me if anything changes with him and carry should be back in tomorrow. Ok. Ok. All right. Well, thank you for calling.
+Patient: Uh, thanks. You're welcome. Have a good day. Thank you. Bye bye.

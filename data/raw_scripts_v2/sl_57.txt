@@ -1,0 +1,26 @@
+Nurse: Oh, excellent. Hi M [PHI-Personal] how are you doing? Good. I'm just gonna pull you up here dear. Do you mind if I get your date of birth?
+Patient: Uh O2 [PHI-Personal].
+Nurse: Thank you.
+Patient: 00, you decided to cry now? Oh, the baby,
+Nurse: You got a little one with you today? Yeah. Oh, that's so sweet. How nice. Ok. Um yes my dear. So we were just calling up with you for the, for the month of May just checking in to see how you were doing. Um I think last we spoke that was back in what a on [PHI-Personal]. Um we just touched it a little bit. Oh, I'm sorry. Am I, am I disturbing her or him? Sorry
+Patient: Him. No, he just woke, woke up and he was unbelievable. That's why I started. I think he woke up when IC close close. The sound sound of the phone? Oh, I see. I'm not the phone, the TV to call you. I said, oh, this would be a good time. Yeah. Well, yeah, that's such a good time, huh? For you. Mhm. Ok. Ok. Yeah. All right.
+Nurse: Well, I won't keep you too long, dear. I just wanna make sure things are still going. Well, I know last we had talked a little bit about your fall that you had and some constipation that you were dealing with. Yeah.
+Patient: Yeah. Doing really good with the constipation part. Good. Good. Yeah. Um,
+Nurse: That's excellent.
+Patient: Yeah, I'm gonna have to talk to her about my arthritis.
+Nurse: Really having a lot of arthritis
+Patient: Pain. Yep. And I've tried, uh, the only thing that relieves it is, uh, by Ibuprofen. I just wondered if there's something that, uh, I can, like, put on it that would relieve it versus taking anything internally.
+Nurse: Got. You. Got you. Yeah. Have you tried any, like, topical treatments, like biofreeze or anything to try to help? No, not yet. Yeah. Yeah, it's worth looking into. But, yeah, I hear you. I mean, are, where do you usually get your arthritis? Pain? Is in the hands or in the knee? Everywhere.
+Patient: Everywhere, hands, knees, uh, back. Uh, yeah, I have arthritis everywhere. I even have it on the ne my neck because when I fell they took, um, you, you, they, they took an MRI and they said you have arthritis in the neck. I said Yeah, I know. Oh,
+Nurse: Yeah. No, that's, that is hard. And that's difficult too when it's, you know, when it gets to be where it's just bone against bone there. Um, you know, I would say too if you can, um, have you tried, like, some, you know, hot and cold therapy too? Does that do any, does that benefit you at all?
+Patient: No, I haven't tried it while we'[PHI-Personal] here. Uh, I do at home.
+Nurse: Ok. Yeah, because sometimes people do say that that helps putting like a warm compress on those joints or heating pad sometimes help just, uh, it brings, you know, more blood flow to the area which can kind of stimulate some of those nerves and help with some of that pain and help to benefit with the, with the healing properties there. Um, but, you know, it, it's, it's all gonna be really trial and error trying to figure out what works best for your body. So everyone's, you know, a tad bit different when they'[PHI-Personal] dealing with those kind of joint pains. Um, yeah, but I would definitely, you know, look into it and like I said, I'll make up a note for Doctor [PHI-Personal] too just to see, you know, so she can kind of know where you all are at and what to talk about your next visit. But
+Patient: I'm having, um, uh, therapy on my knees now and that's working really good. But I have to, I have to continue to, like I told me when I leave I have to get a thing of the, the, the, um, exercises, a copy of the exercises I do at home when I get home on the chart. So that way, you know, when I get out of there I'm fine. I, good. Yeah.
+Nurse: Yeah. But, yeah, you do. Yeah, that's good. Do you wanna get a copy of something you can do on your own because it's, you know, you wanna be able to maintain it too because once you stop and when it starts to go back. Yeah. Absolutely. Well, if I can find any exercises too, I'll send them out to you. But, um, you know, like I said, we just wanted to touch base with you and I think you have an, do you have an appointment coming up? I, I saw 10, you'[PHI-Personal] not seeing her until [PHI-Personal]? So you have a little bit of time?
+Patient: Yeah. Yeah, that, I guess the physical and,
+Nurse: Yeah, I think that's. Mhm. Yep. So, uh, [PHI-Personal] 7th. Yeah. You see the, the nurse for that wellness visit part first and then you see her after that. Yeah. Yeah. So, definitely, um, you know, and let me know, you know, obviously you got your hands full but let me know if you wanna come in a little sooner too and see if she can offer up anything else for that arthritis pain. Ok.
+Patient: Ok.
+Nurse: Absolutely. All right. Well, it's good. Talking to you dear and you have fun over there.
+Patient: Thank you. I am I'm enjoying him.
+Nurse: Oh, that's so sweet. Alright, my friend. Bye bye bye
+Patient: Bye.

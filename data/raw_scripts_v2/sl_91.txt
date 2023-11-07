@@ -1,0 +1,76 @@
+Nurse: So she's got some [PHI-Personal] problems going
+Patient: On. Oh, yes. Yeah.
+Nurse: Ok. Um, and I'm guessing you're her primary caregiver and you're the one that helps take [PHI-Geographic] of her.
+Patient: That's it. Yep. Mhm.
+Nurse: Ok. Ok. Um, no, I saw a voice mail from you but for some reason the phone number, um, was connected with your wife's name. And so it was a little bit confusing for me if that makes sense, I thought. Ok. Is this the right person? What's the theory here? You know?
+Patient: Um, ok.
+Nurse: Yeah. Yeah, no problem at all. Uh, what's your availability to come in for appointments? You know, like, so you can't come Monday, what are there, certain dates and times that you're not able to make it in or that you are able to make it in?
+Patient: It's, it's very hard. It's, it's, it's the two of us here and, uh, if I can get somebody to come and sit with her and be with her while I'm going, in other words, I can't just, I can't just up and leave and leave her alone by herself.
+Nurse: No. Absolutely. Yes. That makes sense. Do you happen to have a family or what do you, you know, currently do with that
+Patient: Type of thing? I have family but, uh, you know, I have two boys and they both, they both work. So, you know, it makes it hard if it, if you had a, uh a day off or something, I could fit it in there. But as of now it's just, you know, other question.
+Nurse: Yes. Yeah, absolutely. No problem. Um, so do you wanna reschedule it or just cancel it? What, what do you think you wanna
+Patient: Do? I think I'd like to just cancel it right now and then if something comes up if I know in advance that I'll have an open date, I'll get back to you and, uh, see if that's available. Yeah, and go from
+Nurse: There. Yeah, no problem. No problem whatsoever. So, I'm, I'm gonna go ahead and help you get that taken [PHI-Geographic] of. No problem whatsoever. Uh, before we do that, it looks like there's just one thing that we're needing to do kind of before we get to the appointment type of thing. Um, just talk a little bit about the Care management program itself and do a quick recap of your medications. Um, so the [PHI-Geographic] management program is designed to keep you as healthy as possible and to do that, what I'll help do is be the go between, between yourself and doctor [PHI-Personal] and I can help with things like, you know, scheduling new appointments, refilling your medications and really be that point of contact for you. So, for example, like this type of situation, scheduling appointment, but let's say one day you're not feeling well, you've got minor aches and pains, you've got a cough, a cold, something like that, that you can call me and I, you know, I can help you with things like that and it sounds like you've got my direct line because you called me from it.
+Patient: Um, do you have any letter here and with your name and number on it?
+Nurse: Yeah. Yes. Uh, do you have any questions about what I can help? You with and anything with regard to that,
+Patient: Uh, not at the present time. It's, it, it, you know, it's, it's hard here. It's, it's, you know, I, I look out over her for her and, uh, it's sometimes the appointments just don't work out for me, you know. So I don't like to make anything too far in advance because I don't know what, what the situation is gonna be at that, uh, given time.
+Nurse: Nope, no problem whatsoever. Uh So what I'm going to do now is just go through your medication list with you from your chart. You just let me know if you're taking the medication or not. And if you're unsure of what one of the medications is for, please don't hesitate to ask and I'll be more than happy to let you know. All right, the first one we have is your amLODIPine. So the norvasc five MGS you take once a day.
+Patient: Yes, that's the BP for BP.
+Nurse: Yes, it is. The next one I have is your Eliquis 2.5 mg. You take twice daily, twice
+Patient: Daily. That's right.
+Nurse: The next one I have is your vitamin C 500 mg once a day. Yes. Mhm. Ok. The next one I have is your atorvastatin. So the Lipitor 40 mg once a day. Yes. And then I have, I'm not familiar with this one but bromocriptine B. Yeah, 2.5 mg. And you take, let's see once
+Patient: Daily. Yeah. What I, what I had at one point was a, uh, [PHI-Account], uh, I'm losing, losing my voice, my voice. I had a, uh, lesion on my pituitary. And, uh, it was not, you know, no, no cancerous or anything like that. But that's what the Parlodel, uh, cleared it, cleared it up. But I still take that to be on the safe side. I've been told to continue using that.
+Nurse: Right. Right. Um, so that will keep that down as one of your medications. And then I've got, it looks like Nasalide 25 microgram, nasal spray. You do one spray in the nose every morning, once a day. Sorry, once a day, next one I have is your Furosemide Lasix 40 mg once a day.
+Patient: Yes, I've had that but I haven't, I haven't got that renewed. I never got that renewed again. I uh
+Nurse: You needed a refill on it.
+Patient: Yes. II I could use that. Yes.
+Nurse: Now, which doctor is the one that prescribes it for you? I have [PHI-Personal].
+Patient: Yeah, he was, he was uh there he retired. He and that's for uh
+Nurse: Ok. Ok. Yeah, I'm, I'm more than happy to request the refill. Do you use the CV S Pharmacy on [PHI-Geographic]? That's correct. Ok. Yeah, I'll go ahead and just put a note in here and I can request the refill of the Lasix for you. The
+Patient: Furosemide.
+Nurse: Um Yeah, and it's just because you ran out of refills it sounds like uh the next one I have is the ipratropium 0.03% spray. Inhale two sprays into the nose every night.
+Patient: Yes, I use that and I, I still have, I will be needing it. So I um I still have some left but not very little on there. Uh [PHI-Personal].
+Nurse: Well, I'll request a refill of that as well. And then I've got your multivitamin. The centrum silver once a day. Yes, I got your Omega three fish oil you take, it's 1200 mg once a night. Yes. Mhm. Potassium chloride. 20 mil equivalence. One twice daily. Yes. Then I've got sotalol 80 mgs. You take 1.5 mil 1.5 tablets twice daily,
+Patient: Twice daily. That's correct.
+Nurse: And then I have the sotalol. Let's see. I have it on here twice.
+Patient: You take.
+Nurse: Is it 1.5? Ok. That's on here twice. I'll just take the duplicate one off.
+Patient: Yeah, that's 1.5 in the AM one half PM.
+Nurse: Right? But yeah, it's on here twice which I'm not sure why. Um And then I have, yeah. Ok. And then I have the Valsartan, the Diovan 160 mg tablet once a day.
+Patient: Yeah, that's why uh for BP,
+Nurse: Correct? Do you need refills on any other medication? Besides the two that we spoke about? The ipratropium spray and the furosemide. The Lasix. Do you need refills on anything
+Patient: Else that would be it right now when I, when they are running low and I need them refilled. I call this number again and get you and,
+Nurse: Yes. Yeah, I, I'm more than happy to help you with those types of things. Not a problem for some reason. Um, they put you down that we like, I don't call you, you just call me, which is completely fine if that's the way you wanna do things. Uh, what a lot of people
+Patient: Will do, I just got the letter and that's it. You know, I know, I,
+Nurse: But I'm happy what a lot of people, I'll just call and check in with them just once a month or so. Uh, just for a quick check up type of call. Um, and sometimes that's nice because then when I call them, it's like, oh yeah, I need a refill on this and I need this, you know, and it just kind of, it keeps things smooth, like growing pretty smoothly. So if you'd like, we can do that instead where instead of you calling in, if you have a big problem, like I reach out to you once a month, what would you like to do?
+Patient: Either way? It doesn't matter, whatever.
+Nurse: Ok, we can do that that way. I kind of periodically check in with you and that type of thing and then you can also still reach out to me in between the phone calls. Um How do you organize your medication. Do you use like a pill box? Uh, do you use the bottles? What do you do with that? Just
+Patient: The bottles I come in, you know?
+Nurse: Mhm. Ok. Sounds good. So, what I'm going to do is send you another letter in the mail, which will have my name and contact information and it will also have your wellness goals for the 2022 year. And so that's what I'll be doing. Um And then I'll request the refills for the Lasix and the Ipratropium and let you know what I find out about those. And then um I'll get back to you once I hear about them, that type of thing, but ongoing, I'll call you around once a month or so. If you ever need anything in between the phone calls, don't hesitate to reach out and I'm more than happy to help. Ok, fine. And then I did have a question for you. There are some resources. Um I don't know if it would be helpful for you, but there are quite a few resources that are available to provide assistance in the home. It doesn't mean that you cannot take [PHI-Geographic] of your wife. It doesn't mean that you are incapable in any way. It just means that she needs a lot of assistance and a lot of help and you're just one person. And so you have certain abilities, but it also helps you to get extra support to take [PHI-Geographic] of her if that makes sense. Because if you're not, if you're just taking [PHI-Geographic] of her all the time, you can't really pour from an empty cup. And so we wanna make sure we get the support that you need so that you're able to not only take [PHI-Geographic] of her, but also take [PHI-Geographic] of yourself and do the best that you can. So if you'd like, I'm gonna send the, the letter that we spoke about, uh, with the, my contact information and your wellness goals. I can also, you know, give you some information for some resources that could help you in the home. Um, like caregivers that maybe could sit with her when you go to an appointment, that type of thing. Um, and it doesn't mean you have to have the help or the assistance, but it's, it's nice that
+Patient: Should, I need it. Right.
+Nurse: Right. And it's not that your wife's a burden. It's not that you don't want to take [PHI-Geographic] of her. It's just that it can really negatively affect your [PHI-Personal] being a full time caregiver. And it's really important for your physical and mental [PHI-Personal] to get little breaks.
+Patient: Yeah, I understand.
+Nurse: Be able to, you know, go to your own appointments and things like that. Now, does she come into the clinic? Does she come, you know, does she come in for appointments? No. No, she doesn't.
+Patient: No, she, uh, not very mobile. Yeah, it's got Parkinson's.
+Nurse: Ohh. Wow. She has a lot going on.
+Patient: Oh, yeah. Ok. Yeah, she, you have any strictly in the
+Nurse: House family? Yes. It sounds like she's homebound. Yeah, quite a bit. Um, she may qualify, it depends on the insurance but she may qualify to get, um, you know, like support from [PHI-Geographic], let's see here. So there's quite a bit of help that she can get in the home. Like there's some private aids that can come help with housekeeping, they can help with, you know, getting showers done. Um they can help with a lot of things like that. And so uh I I'll send you all this information in a letter but it's called [PHI-Geographic] Corporation for aging and it will provide support for you as a caregiver as well as you know, her in the home, that type of thing and then you know, get her some, get both of you a little bit of help that way.
+Patient: Alright. That'd be great.
+Nurse: Yeah. Um but she doesn't like go anywhere, she just stays at home kind of around the clock type of thing.
+Patient: Yes. Yes, indeed. Yeah. Do you have any
+Nurse: Family that lives close by that? You could, you know, get help from occasionally or
+Patient: He comes over can help. I have two sons that live close by and they come and give a hand, you know, so it is a help but uh that's about it.
+Nurse: Ok. Um what what do their schedules look like your sons.
+Patient: Well, they work every day. So it's, it's, yeah. Do you work weekdays? Yeah. She has a doctor that comes to the house.
+Nurse: Oh, she does?
+Patient: Yeah. Ok. Who's that? Ok. Oh, only [PHI-Geographic] [PHI-Personal] [PHI-Geographic], home [PHI-Geographic].
+Nurse: She's on home [PHI-Personal]. Yeah. Is there a way that you could time coming to your appointment when home [PHI-Personal] comes to see her?
+Patient: Should I be here?
+Nurse: Yeah. That's something that, yeah, I'm, I'm wondering the Holy Home Health. Um, you know, if there's a way that they could coordinate with you to be there with her while you're at your appointment?
+Patient: Oh, if she has, if she has anybody from the home [PHI-Personal] [PHI-Geographic] or talk to her coming, anything like that, I have to be here. So uh that's I'm here. There's, this
+Nurse: Sounds like that's not necessarily the best option in your scenario.
+Patient: So, well, it's, you know, I have to let, she won't be able to let them in the door, you know, it's uh so it's no problem. I, I can, I can do that.
+Nurse: Mhm. Well, I, I'll go ahead and help, um, you know, cancel your appointment and then see how we can get refills on the Lasix and the Ipratropium over to the CV S Pharmacy Avenue and then I'll get back to you and let you know what I find out about the refills if that sounds
+Patient: Ok. Ok. That, that'd be great.
+Nurse: All right. Well, you take [PHI-Geographic] and we'll speak with you soon.
+Patient: Ok, thank you. Bye bye now. Bye.

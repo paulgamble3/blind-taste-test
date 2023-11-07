@@ -1,0 +1,123 @@
+Patient: Today? I'm doing great. How are you? Not too
+Nurse: Bad. We escaped pretty much of the snow, so I'm happy.
+Patient: Oh, yeah.
+Nurse: All right. So, um, she was giving you a call for me. I was a little backed up that day. Um, so it was just your, your, uh, monthly check in kind of go over a few things. I know you were out to see, um, Doctor Jumper here back on the 20th. How are you feeling about everything?
+Patient: I'm good. I was seeing him for pre op. Um, uh, it's just my eyelids. Yeah, drooping. So I'm feeling great. Ok.
+Nurse: And, um, when is that procedure?
+Patient: The [PHI-Personal]?
+Nurse: Ok. So, um, you are supposed to hold your, your, your baby aspirin there seven days before that procedure? Ok.
+Patient: Right.
+Nurse: Um, so make sure you write that down on the calendar since it is coming up pretty quick. Um, your blood sugar looks like it's been really good. Yeah. So that's, that's a plus there. So have you been feeling, have you been, um, watching what you're eating?
+Patient: I, I had gotten off of my, uh, of the, uh, food I was eating because of mother, uh, but we're getting back to it. Ok. Oh yeah. All right.
+Nurse: That sounds good then you guys are still at the same address, right?
+Patient: Yes, we are.
+Nurse: Ok. And any changes to your insurance?
+Patient: No. Ok.
+Nurse: All right. That sounds good there. Um perfect. All right. And your blood pressures look like it was pretty good. Mhm. Um, any concerns with that? I know, you know, with work and everything you were under a little bit of stress there last time we talked.
+Patient: Yeah, I was under stress when mother broke her leg.
+Nurse: Yeah. Well, that, that's very [PHI-Personal]
+Patient: And I was fine. I'm fine. I handled it well. So I'm not, I'm not unhappy with how things are turning out.
+Nurse: Ok. So she's, she's doing ok then too.
+Patient: Oh, she's doing great. Ok. Is she home? Yeah, she's, she's home. She was driving yesterday. She's gonna drive again with me. She's uh she's uh between her walker and her cane, physical therapy is still coming in and they're uh they've got her walking with a cane when they're here and they told her to go ahead and do it while I'm home and uh she's been exercising and doing well. Not many [PHI-Personal] year olds will come back from that.
+Nurse: No, I'm pretty, pretty impressed there. Hey, um, I was looking at your med list here and I was hoping to go over it just real quick. Oh, shoot. If the computer wants to work with me. There we go. Um, cause there's just a few questions that I had looking at it. Are you still doing the predniSONE five mg a day? Yes, I am. Ok. Perfect. I always like to double check with predniSONE and make sure it's not, it wasn't a short term medication. One of the things I like to do here in the, in the new Year is just make sure the medication list is 100% completely up to date.
+Patient: Yeah, the uh, the doctor told me that I could uh, wean wean myself off of it and she told me how, but wait until after winter because I'm having trouble with winter. Uh, still there with pain in my, uh, hands and feet. Ok. So,
+Nurse: All right. Yeah, unfortunately, cause I know you've got the Voltaren gel here, but that's only somewhat effective compared to the predniSONE. Yeah. Are you, and you're still taking the cyclobenzaprine as needed for the, for the No, not
+Patient: That I don't know why
+Nurse: I have it on the list here.
+Patient: Yeah, I have it. Uh, what is the other name for it? Is there another name for it? Oh,
+Nurse: Hold on, let me pull it up. There's so many different names. Yeah. Imitrex.
+Patient: Yeah.
+Nurse: Flecainide fleck. My,
+Patient: I don't know why I'm not taking it. Uh, I have it,
+Nurse: It's a muscle relaxer so it might make you drowsy.
+Patient: Ok, if it's a muscle relaxant. Now, I remember. I'm only taking it when I need it. Yeah. Yeah. Uh, that's for when I have the cramps. Uh, my legs cramp a lot and I have not been doing too badly on that for a while. So,
+Nurse: Ok, some people take it for arthritis, pain in their hands too, so I wasn't sure which one you were exactly taking it for.
+Patient: Yeah, that's no, that's the leg cramps. But I'm now that I know that it's good for the arthritis in the hands. If they get out of control, I can go ahead and try it. Ok.
+Nurse: All right. It's worth a shot. Um, just make sure that you don't have that you're not gonna be driving right after because like I said, it does, it does cause some drowsiness.
+Patient: Oh, yeah. Ok.
+Nurse: Ok. All right. And you're still, but, um, so I'm just gonna go down the list here because you got quite a bit here and a lot of them have some older dates on them. So I just wanna make sure we're still, they're still good. I have your albuterol inhaler as needed.
+Patient: Yeah. As needed. It usually expires before I need it
+Nurse: And then I have, yes, that one.
+Patient: Yeah, I'm taking that one daily.
+Nurse: Ok. I have eight mg or sorry, eight micrograms twice a day. Yes. Ok. I have amLODIPine 10 mg a day. Yes. Um, the baby aspirin we talked about, I have benefiber. Yes, I have an A CV S allergy um, medication as needed.
+Patient: Oh, Zyrtec is what I'm taking. Yeah. Yes.
+Nurse: Ok, perfect. I have uh coq 10.
+Patient: Yes,
+Nurse: I have cyclobenzaprine which we just talked about. Um, you got the deep blue, the Voltaren as far as your uh creams for the arthritis. I have the fluticasone nasal spray. Yes. Uh levothyroxine. 75 micrograms. Lidocaine patch. Yes. M metoprolol. 50 mg a day. Yes. Singulair or Montelukast is the other name for it. Yes. Pantoprazole, 40 mg a day.
+Patient: Uh What is that other name that
+Nurse: Um pantoprazole for acid reflux is that might be the generic for NexIUM?
+Patient: Ok. I take that when I need to, when I start having bouts of it, then I take it for a while.
+Nurse: Ok. Then I have Miralax.
+Patient: Yup.
+Nurse: And then we talked the predniSONE and I have Lyrica 150 mg twice a day, right? Uh Probiotic. Yes. Rosin 20 mg a day. Yes. Uh traMADol 50 mg.
+Patient: Uh that's only as needed. Yeah.
+Nurse: OK. Venlafaxine. Yes. 37.5. But you're taking [PHI-Personal] of those in the morning and one in the evening.
+Patient: No change that I've been taking one and one,
+Nurse: [PHI-Account]. Ok. When did that change?
+Patient: Oh, couple months ago I didn't go back to the [PHI-Personal] either when mother was, when I was under stress and I was fine. So I took that, I start, I took that when I was under some kind of reaction. Ok. And the
+Nurse: Doctor know that you changed that or did he change that?
+Patient: I, yeah. Um, he knew and it was, I told the [PHI-Geographic] when I was doing it, I guess they didn't change it.
+Nurse: Yeah. And I, unfortunately I'd have to flip screens here and then it would just be a nightmare. So I'm just gonna make a note of that fine. And then I'll attach all the changes and correct it here in your med list. So, you're taking the, the, um, the Venlafaxine, which is the Effexor, um, just one tablet or sorry, one capsule in the morning. One capsule in the, um, evening.
+Patient: Yes.
+Nurse: Ok. So, all right, I will update that and then I have vitamin C and Vita vitamin B. That's all I have.
+Patient: Ok. Um, I take eye vitamin.
+Nurse: Which one is that?
+Patient: It's, uh, the, it's from Ly, um, they eye vitamins with blue tea.
+Nurse: I got that right here. Ok. Taking just one of those a day.
+Patient: Uh, I believe it is. Yeah.
+Nurse: All right. Anything
+Patient: Else? Oh, no, I'm taking 22 at lunch time. I'm sorry. That's all right.
+Nurse: Uh, [PHI-Personal]. All right. Anything else
+Patient: You're taking? I, I can't think of anything else. All right. Um,
+Nurse: I do have a sorry, I do have a calcium magnesium and vitamin D supplement as well. Are you still on that?
+Patient: Yeah. D I'm still taking that. Just one of those. Yeah. No, I'm taking, uh, three a day,
+Nurse: Three of the calcium magnesium and the. Yeah. Ok. That is up to date. Perfect. So you've got a up to date med list here going into 2023. Perfect. Um, since it is a new year also we're gonna be sending out, um, new, um, just to do list. Um, yours is just your, you just got your, your regular, um, labs and follow up visit, yearly visit. Nothing major is due this year. So you are all up to date on everything. Oh, good. So that is good there. All right. Do you have any other questions or concerns?
+Patient: No, I think I'm good. Um, I, I have questions about when I, when I get my surgery but I'll have to ask them what they want me to do.
+Nurse: Yeah, they should be, they should be contacting you going through your pre pre work there and telling you what to expect for pro for POSTOP. Um, but if you have any problems or concerns after that, you can definitely give us a call as well.
+Patient: Yeah, I've had this done before so I'm not too apprehensive or anything. Ok. I'm just hoping to not miss much work. Yeah,
+Nurse: [PHI-Personal]. Um, make sure you take the time to rest and recover. Though. You don't wanna prolong the recovery because you try to go back too soon.
+Patient: Yeah, I have to do that. I'm taking care of. Mother.
+Nurse: Yes, definitely. All right. Well, is there anything else I can do for you today?
+Patient: No. If you wanna go over mother, we can do that.
+Nurse: All right. Let me pull her up if the computer wants to work with me. There we go. Yes. Fighting me today. Must be Friday.
+Patient: Yeah. Yeah.
+Nurse: Mhm. All right. I have her up and I, uh, she came in on the [PHI-Personal] of this month and then she's not due back until [PHI-Personal].
+Patient: Right.
+Nurse: So, and no more falls or fractures for her.
+Patient: Yeah, I told her she's not allowed. Yeah, that, that's my
+Nurse: Number one rule. Ha. Uh, and I do hear, see here that she did have some, um, just a little bit of, little bit of swelling, um, tongue twister. Sorry. Um, to both of her legs. How is that going? Oh,
+Patient: Her swelling is down. She's been doing great. She wears her, um, oh, I've got to put him on her today. She wears her, um, support hose. So that helps. But that swelling that she had initially was gone.
+Nurse: Ok. Good. All right, perfect. Yeah. Unfortunately, with a fracture like that and everything that really, um, disrupts the lymphatic flow and drainage there, which can create some swelling. Not to mention the sitting and all the extra ivs they gave her in the hospital doesn't help either. Um, but it, that looks good on that standpoint. How's her pain?
+Patient: Her pain is manageable? She, uh, she takes pain pills before she goes to bed because at night that's when it bothers her the most. But, uh, other than that she hasn't been taking any, uh, she's moving around quite a bit, um, doing exercises and, uh, she, like I said, she's trying to use her cane. She, she did drive yesterday and she'll have to drive again today. You got like tomorrow but she did, she said it feels just like normal. So she, I will
+Nurse: Take that as a win. Mhm. Oh man, that is awesome. And for her age, how is her um stomach ha holding up for all of the stress and everything? Cause I know that that was a big trouble for her too.
+Patient: Uh She seems to be doing pretty well. She's having issues off and on like last night. Her, her stomach bothered her. Oh, but nothing really serious. I mean nothing out of the ordinary. Ok. Oh, Doctor [PHI-Personal] [PHI-Geographic] is calling me.
+Nurse: Oh, ok.
+Patient: Uh Do you mind if I get it?
+Nurse: No, go for it.
+Patient: Hello? Thank yes it is. Ok. So we got your message about the traMADol so that one has. So that was ok. Um So just because it's a, I wonder if that was in the paperwork when we came home, which I can't put my fingers on now. Would you send it to me it? Oh, ok. Well, then I'll pick it up. How late are you open today? Yeah. Yes. Yeah, if I can I get it, I guess. Yeah, thank you. Thank you. Yeah, you welcome. Bye. I bet you they already gave it to me.
+Nurse: What are you talking about? I'm sorry, I didn't hear the other,
+Patient: Her traMADol. Uh, well, she ran out of traMADol. Ok. And, uh, I wondered if that had to be a written prescription.
+Nurse: Yeah. Unfortunately those tend to be, it's a narcotic.
+Patient: Yeah, I bet we picked it up. I bet we have it. I'll have to see if I can find the paperwork and, ok, you come back from the doctor's [PHI-Geographic] and you put the paperwork down and forget about it. Yeah.
+Nurse: So I definitely understand that. Yeah, for sure.
+Patient: But the pharmacy didn't know that it had to be a written prescription. I find that unusual
+Nurse: TraMADol is one of those. Sometimes it does. Sometimes it doesn't. I've seen them send it over before. Um, I've seen it need to be written before. Um, it could be refill versus original prescription. Sometimes it is considered a controlled substance. So, but, uh, yeah, if they're, if they're telling you, you need to pick it up, then I would do that. Now, any concerns with the rest of her medication.
+Patient: No. Uh, she's doing good. She's not taking, uh, as much of the, well, she's not taking Amitiza at all. Nor is she taking a lot of Miralax? Oh, good. She's functioning pretty well. So we're not pushing it. We're just giving her just what she needs and that's it.
+Nurse: Yeah. No, definitely. Definitely. Definitely on that point. Ok. That sounds good. So, she's still, is she having any chest pain? I know she's got the nitro, the isosorbide mononitrate. Um, but I always like to just, and the, uh Ranexa here. So, is that keeping that chest pain under control?
+Patient: Yes. Ok. Um, let's see, what was she saying? Her breast hurt but not her chest. Ok.
+Nurse: Yeah. And it could be that unfortunately with Angina, which is chest pain that can come across that way. It could also be the use of a walker or cane using muscles that she hasn't really used before. Um, cause so it, it could just be that but if it continues, let us know it's something we definitely just wanna keep an eye on at least.
+Patient: Yeah, we're leaning toward that being the cap.
+Nurse: Yeah. Different posture, different use of those muscles. She's using her arms a lot more for walking than she probably ever
+Patient: Has. Yeah. Ok.
+Nurse: All right. Well, that sounds pretty good on that and I'm pretty happy with how she's doing. I mean, for [PHI-Personal] with everything she's been through the fact she's home walking and driving. I'm thoroughly ecstatic.
+Patient: Yeah, me too. Oh, she is too. I bet. All
+Nurse: Right. Well, hey, I'm gonna take that as a win. We're starting 2023 on a win here for her. So let's keep that up for the whole year.
+Patient: That's a good idea. All right.
+Nurse: Well, that sounds good. Do you have any other questions or concerns I can address for
+Patient: You? Not that I can think of at the moment.
+Nurse: All right. Well, that's really all we had. Well, all I had for you um if anything does come up, you got my number, you give me a call. Ok.
+Patient: All right, will do. Thank you. Alright.
+Nurse: No problem. And then we'll see both of you here and in [PHI-Personal] unless anything changes before
+Patient: Then. Ok. All right. And you
+Nurse: Have a great weekend.
+Patient: You too. Thank you. Mm bye bye bye.

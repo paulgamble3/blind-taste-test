@@ -1,0 +1,23 @@
+Nurse: Ok, perfect. I I'm
+Patient: The one that you, you said you enjoyed my voice message?
+Nurse: Oh my goodness. I remember now. It got me. It got me. It definitely got me.
+Patient: It does everybody
+Nurse: Let me get you pulled up and then can you verify your date of birth for me, please?
+Patient: 12, 1919 50.
+Nurse: Ok, perfect. Well, the reason for my call is doctor [PHI-Personal] is providing a care management program that he thought that you could benefit from. And what that is is where a dedicated care management nurse will call you in between visits and provide you with any assistance on your current health conditions. She can help you with medications, lab results and community resources. And this program is gonna help Doctor [PHI-Personal] and Doctor [PHI-Personal] to stay up to date on your wellbeing in between office visits. The program's bill service to Medicare, Medicare advantage and secondary insurances. So it's considered an office visit. So it may be subject to co insurance, deductibles and copays. I do see that you have United, um Healthcare Medicare Advantage. Is that correct? Correct. And do you pay a copay when you go to the office?
+Patient: Uh, not normally? No.
+Nurse: Ok. So that means you wouldn't have to pay anything out of pocket for this program. And with this, the care nurse can call you either once a month, once every two months, every three months or every six months. You also have the option of reaching out to your nurse if you have any questions regarding your health medications refills, things like that. Um, and this is just an added resource to making sure you're staying safe and healthy in between office visits. And, um, let's see here, would you prefer morning or afternoon calls from the care nurse?
+Patient: Um, morning's fine
+Nurse: Mornings. Ok. And then you can always adjust the call volume at any time with the care nurse and you're welcome to opt out with her as well. Um, is your mailing address still gonna be the 12724, Ashton Creek Drive in Tampa?
+Patient: No, I moved and I thought I had updated that
+Nurse: I might have it in this computer. Yes, I do. Ok. So I have two different screens. So I have [PHI-Geographic] in [PHI-Geographic]. That's correct. Ok. So let me update that over here. So I'm gonna be mailing you out some information about the program. It's gonna have your nurses' contact information in there as well and then she's gonna reach out to you within the next couple of weeks to touch base and introduce herself. Ok,
+Patient: Wonderful. Um, and you may or may not be able to answer this question, but I, I've been in contact the last couple of days and again today about a prescription renewal. Ok. Is this something that the the nurse is going to handle?
+Nurse: She can help you with that? So I will, I will message her when we get off the phone and let her know that you've been um trying to reach out to them for a refill and then she'll,
+Patient: It was actually denied and I'm trying to, yeah, I'm trying to find out why, but I talked to the office earlier today and they're supposed to be sending a message to the care team.
+Nurse: Ok? I do see that they did send that message. Well, I will still message your nurse and kind of let her know of what's going on and that you're trying to find answers to this situation and see what she can do to help you. Ok?
+Patient: Perfect. Thank you. You're
+Nurse: Very welcome. Well, thank you so much for calling me back and I do love your voice mail. It is great. Um It got me, it really did. Um but I will let her know of the situation and then she'll probably reach out to you either later today or tomorrow morning. Ok.
+Patient: Thanks [PHI-Personal]. You're
+Nurse: Very welcome and I hope you have a great rest of your day.
+Patient: You too.
+Nurse: Bye now. Bye bye.

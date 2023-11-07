@@ -1,0 +1,38 @@
+Nurse: I don't know what it is about the voice mails but
+Patient: My name, my work. Does it?
+Nurse: No, I either get [PHI-Personal] or [PHI-Personal].
+Patient: How are you doing? I'm good. How are you? Good, thank you.
+Nurse: All right. Sorry, I was switching you off of my headset. There you go. I can hear you a little bit better. Is that better for you? Oh, yeah,
+Patient: That's fine.
+Nurse: Ok. I wanted to give you a call and follow up from our last call and see how you were doing. You were having, uh, quite a bit of leg cramps last time we spoke.
+Patient: Yes. And, uh, actually, uh, I haven't had them, I haven't had them since we talked about them. The talking did, took care of it. Oh,
+Nurse: Good. You didn't change anything else?
+Patient: No. Really? I didn't, uh, see, I, you know, I had my pro time done today and they have, I've had two consecutive times now where they're in range. I was out of range a little bit prior to that. But, uh, I don't know if that has an impact or not. No, probably not. But if they're,
+Nurse: If they're low, then I would be concerned if your legs start cramping more. Uh, just because then I'd be worried that maybe there's a clot starting to form. But,
+Patient: Well, I'm supposed to be in the range of 2.5 to 3.5. And, uh, I've had, uh, the last two I've had in the last three weeks has been 2.7 and 2.6. So, uh, I'm gonna up my vitamin K intake here over the next couple weeks and perhaps push that up a little bit.
+Nurse: Now, the vitamin K is going to, um, lower it. It's gonna. Yes.
+Patient: Yeah. The vitamin K works against the warfare, the warfare and thins my blood in the vitamin K in essence, reduces the effect of the warfare.
+Nurse: Correct. So, I mean, you're at 2.7. So you are, I wouldn't, I wouldn't touch anything with that because you're only 0.2 above where we want you.
+Patient: Right. Well, you want me between [PHI-Personal] and [PHI-Personal] because of my artificial valve. Yeah.
+Nurse: Ok. And you said 2.7 right? Yeah. Or did? Ok. Yes. So that, I mean, that is spot on. Perfect. Yes. Ok. Um, and no, so, so since we magically fix the leg cramping, what else should we talk about today to magically fix? Uh,
+Patient: I'm actually, I'm actually in pretty good shape. As a matter of fact, we were just picking up after lunch and we're gonna take our long walk today because of the weather being bad. The rest of the week, we'll have to walk inside somewhere and [PHI-Personal] gets [PHI-Personal] and Home Depot. Get tired of seeing us. So,
+Nurse: Yeah. And they get expensive too. Impulse buying when you walk past it five times. Oh,
+Patient: We don't. Impulse buy. We keep on trucking on through. You know, they, the first question is, can we help you find anything? And we, our answer is no, we're just browsing at this point. Get,
+Nurse: Getting ideas for later.
+Patient: That planning.
+Nurse: Um, how is your BP doing?
+Patient: Uh, fine. I, I haven't, I haven't had any, any situations. I had a cardiologist appointment in the [PHI-Personal]. Uh, and you know, that was, everything was fine there.
+Nurse: Ok. So no, no headaches, nausea, vomiting, flushing in your face. Ok. Now, um, I'm sorry, I didn't put it down last time, but I, or I forgot to ask, do you have a BP cuff? Should you start having those symptoms?
+Patient: Uh, I have one of those little things you stick on the end of your finger that gives you your, your pulse, pulse rate. That's all I, and, and what it give me my pulse rate and uh uh probably your oxygen. Yeah. Oxygen. Yeah, that's what I'm trying. I'm drawing blanks. Ok. But I very rarely check my BP. Uh my pulse rate usually runs a little high but the last time I had my BP checked was like uh 1 20/65.
+Nurse: Oh, ok. You're perfect. Yeah. Yeah. Yeah. Ok. So just be mindful, I mean all that walking is definitely gonna be helpful with the BP too. Sure that helps um and helps with the it would help with the leg cramps too because the more you get those muscles working, the less blood is just sitting and pulling in your legs. Um, so should, should you start having any other signs of hypertension? I would recommend, you know, sitting relaxing, you can throw that on and check your pulse that's never gonna hurt. Um, and, but keep in the back of your mind if you don't have a BP cuff, just pay attention where the closest, you know, grocery store or uh, drug store that has some of those machines normally, right? When you walk in the door that way, should you start having problems? You know where, where? Oh, yeah. Yeah,
+Patient: That's, uh, and, and periodically and, and probably a couple of times a month when I'm in Walmart, I'll do that too. So let, just slide by over to the, to the uh uh pharmacy area and sit down and grab a, uh, you know, a BP test.
+Nurse: Ok, perfect. All right. Well, that sounds good to me. Um, you watching your salt intake?
+Patient: Yes. Yes. Ok.
+Nurse: Um, one thing I always like to remind people is now that we're going to the spring and summer, a lot of people getting out and exercising, which is great. But watch the sports drinks. I don't know if you're a Gatorade or Propel or Powerade fan. But no, I am not good. Ok. Well, that saves me a whole long. Those things are mostly salt spiel.
+Patient: No. No, absolutely not. All
+Nurse: Right. And since we're getting into spring and summer, fresh vegetables are gonna start being in season. So that's gonna be your best bet also because canned has a lot of salt in it. They're not terrible if you rinse them, but fresh is always a little bit better while you can,
+Patient: We just had, we just had homemade pancakes with blueberries. Oh,
+Nurse: I'm coming to your house for breakfast.
+Patient: Yeah. The only, the only bad news is we like to put syrup on them and some [PHI-Personal].
+Nurse: Well, I mean, the syrup in of itself, um, isn't that bad but, I mean, a mima and all of that tends to have a lot more salt in it than, than just natural from tree. Um, so, you know, cut what I normally recommend patients is if you're having trouble with something, if it seems overwhelming to you just cut one thing out. Yeah. One thing per week. Yep. Ok. All right. Well, I won't keep you too much longer. I wanna let you get out on your walk. If anything changes, you give us a call. Ok.
+Patient: Will do you? Thank you very much. You're welcome. Take care. Alright, bye bye bye.

@@ -1,0 +1,66 @@
+Patient: What's your husband's
+Nurse: Name? [PHI-Personal]. It's [PHI-Personal] RT H
+Patient: Ok. Give me just a second to get looked up. Ok.
+Nurse: Sure. And what's your name? My name's [PHI-Personal]. I'm his wife. I'm sorry, what is your name again? It's
+Patient: [PHI-Personal]
+Nurse: [PHI-Personal]. Ok.
+Patient: Have you previously spoken
+Nurse: With [PHI-Personal]? Well, so at some point in time I had her name in my phone book is Doctor [PHI-Personal] nurse and I don't know, we do
+Patient: Work on behalf of the office.
+Nurse: Ok. And
+Patient: [PHI-Personal] is actually taking over some another, um, that a
+Nurse: So I need to take, I need to take her off my list. Yeah,
+Patient: You can ask my name. Ok, it'll be the same number, uh, and you'll call just like you did today if you need anything. Ok,
+Nurse: All right, honey, you sound like you're very southern. Yes. Where are you from? Ok. It sounds good to me. I'm from [PHI-Geographic] and, uh, I don't think I sound southern but people tell me I've got a twang so I can, huh? But it's not [PHI-Geographic].
+Patient: All right. So, it looks, she was in the emergency room on the [PHI-Personal]. Is that correct?
+Nurse: Well, yeah, let me, if you have a minute, can I tell you the? Ok. He had, he had back surgery or a procedure in an outpatient, uh, random [PHI-Geographic] General and he was fine for two days. And then, uh, Saturday became very lethargic. Sunday morning, woke up with a fever. So I called 911, they took him to daycare, they did all kinds of tests and drew tons of blood and bottom line. They had to transfer him to [PHI-Geographic] General that night because none of his doctors are with daycare. So we went to [PHI-Geographic] General, he stayed in the hallway of the, er, for another day and got in the room again. They did all kinds of tests, they never found any, anything wrong, they did chest xrays, x-ray of his back where he'd had the surgery, all that kind of thing. Uh, but he was just, could hardly sit up. So all of a sudden the day before Thanksgiving, uh, the [PHI-Personal], he kind of roused and they got him up and he walked the hall And so anyway, I got to bring him home Thursday morning before Gi uh, Thanksgiving day and he's, he has trouble walking because of the back and because he's very sedentary and all that. But anyway, he was doing ok. Uh, I get a call Friday morning from an in charge nurse at the hospital that says, oh my God, he's got an infection. We need him back in the hospital. Bring him to, er, so Friday, we went to, er, not until middle afternoon and the doctor there, they did all kinds of blood work and they said he doesn't have an infection. One arm show, we did in the regular hospital, one arm show, we did and the other arm show he didn't and they, he thought it was just skin contamination or contamination from something. So they dismissed us home, didn't even stay. So that was great. Uh, except in the meantime, he got a call from the oncology people because he has colon cancer way back in [PHI-Personal] that was removed by doctor robotically and he's clean. Um, they called and said his blood, his iron level is so low. We need to get him in here for an iron infusion. So I've been trying to call them this morning. They have called me back, not today but last week and I said he's in the hospital and the hospital won't give it to him because he's on antibiotics and they, I guess there's some kind of reaction. So it's kind of been up and down on the, I've been going crazy.
+Patient: It sounds like you've had a very eventful Thanksgiving.
+Nurse: Yeah. Well, I did get to eat Thanksgiving dinner with my daughter and my clubhouse here and I brought some home to Ry and he gobbled that up Thursday night. So we got a reprieve Thursday but then Friday was just unbelievable that we had to go back to, er, and wait and find out. No, he really doesn't. He was. So, anyway, bottom line, all this, uh, you know, Doctor [PHI-Personal] has not really been involved in any of it, but he is his primary care. So I guess he does need to talk to him or see him or something. But that's what they said within the next three days. Now I went in and made an appointment and I thought, oh, my goodness. But it was really [PHI-Personal] the [PHI-Personal]. So, yeah, I
+Patient: See that, I see that he has one for [PHI-Personal] the [PHI-Personal]. And, well,
+Nurse: If you can cancel that I would, I would be delighted because either we need to get in sooner or forget it. All right, let
+Patient: Me check and, and see, uh, what he has. Yeah, they'll always, it doesn't matter what you go to the emergency room for, they will always recommend you follow up with your primary doctor within two or three days. Um, how are his symptoms?
+Nurse: His symptoms are he hurts? But he hurts all the time anyway, his back does. And this procedure is supposed to make that better and make him be able to stand up a little straighter. He's real bent over. Uh, doctor is the one that's pain management doctor is the one that did the surgery and we will see him next Monday. Um, yeah, we're gonna see him and then, um, I'm trying to get hold of the, uh, [PHI-Geographic] [PHI-Geographic]. I stayed on the phone 30 minutes this morning and I couldn't get an answer. So, um, I'll get into them eventually and see if they can schedule the iron infusion, which Doctor [PHI-Personal] has kind of monitored that and said he may need that. Um, so I don't know if you really need to see Doctor [PHI-Personal]. I'm just trying to follow instructions.
+Patient: Right. And that's understandable, but he's not having any infectious symptoms right now.
+Nurse: Correct. Not at all. Not at all. He's all right. He's still somewhat weak. Um, he sat on the potty to poop last night and I thought we'd never get him up, but that's just, that's just recovering from surgery and,
+Patient: And if I surgery that could be good.
+Nurse: Right. I think that if we can get an infusion, I think that will boost him quite a bit.
+Patient: And where is he going for those infusions? [PHI-Geographic] specialists?
+Nurse: It's called [PHI-Geographic] cancer [PHI-Geographic]. Um, yeah, when doctor [PHI-Personal] removed part of his colon, he had us go to the [PHI-Geographic] cancer [PHI-Geographic]. A doctor think to follow up forever to make sure he has blood work done every six months. Um, make sure he has colonoscopies when he's supposed to, that kind of thing. So, we went to him a week or so ago, I guess. And that's when I got a call. Oh, my God, his iron level is 12 and he needs an infusion. I said, well, that's great. But he's in the hospital and then I tried to fight with the hospitalist about it and couldn't, couldn't get it to happen.
+Patient: So, did he go home on any oral antibiotics at all? Is he taking any antibiotics? Now,
+Nurse: He is, today is the last day. Ok. And he's on, uh, [PHI-Personal] and, uh, uh, Cipro Xin in the hospital he was on, I think. Yeah. Yeah. But they told me just finish up with the oral ones. Uh, he was given those by doctor that operated on him. So he took those for three days and then in the hospital and then they put him on Vancomycin and then we got out and we've been taking the oral and like I said, today is the last day, one, this morning, one tonight.
+Patient: Ok.
+Nurse: Here. Yeah, I, I guess Doctor [PHI-Personal] can see all of this. He can, he can see through the, my chart. So, yeah, I
+Patient: Can see, I don't see anything with the, um, infusion cancer [PHI-Geographic]. So I don't know if that
+Nurse: Shows I think he's from, I think he's from, uh, not TMG, but [PHI-Geographic]. U, what is it UFL or flu or, you know, they're associated with each other. But, you know what I'm trying to say, University of [PHI-Geographic] or something like that. Doctor [PHI-Personal] think, yeah, I didn't see anything in my chart with, think's name on it either. I didn't even see name but,
+Patient: Ok. All right. So, first things first let me look for this appointment.
+Nurse: Well, do you think he needs to see Doctor [PHI-Personal]?
+Patient: Um, if he's not having any infectious symptoms, then I would say he's probably better to follow up with, um, the pain management doctor next week unless you already have scheduled, I wouldn't necessarily cancel this appointment on the [PHI-Personal]. Um, it may be good just to have it to touch base at that point. So he can kind of recap what's going on with him recently.
+Nurse: Ok. So just leave that one and not worry about getting in. Yeah, like you said, they always tell you to see your PC P. But yeah,
+Patient: They're gonna tell you whether you really need to go or not. But, um, he's not having any infectious symptoms, his, um, antibiotic finished today and he does have that follow up schedule with pain management. Um, then I think that would be sufficient for now.
+Nurse: Ok. And then I'm also working on getting the iron infusion, which, ok, and there's nothing you can do about I just have to get hold of them.
+Patient: Ok. Do you want me to try a call for you?
+Nurse: Can you get through any different than I can? I, I
+Patient: Don't know, but I'll be glad to try.
+Nurse: Well, I can give you the number that and, uh, the gal that I talked to is called like a lima bean. But with an N, I think she's his P A, I'm not totally positive but, and I also talked to doctor [PHI-Personal] [PHI-Personal]. That's the doctor's name [PHI-Personal]. Mhm. But is the one that originally called and said, oh my God, he needs iron infusion right now. And I said, well, lots of luck. He's in the hospital. Then I got a call back from his nurse because I had called them in desperation because I couldn't get the hospital to do it. Um, and this nurse called me back. I don't know what her name is. But anyway, their telephone number is [PHI-Account] ok. Now it says if you're, if you're a doctor's office and some of that you can punch one number, I think one. But if you're not then you, that's what I, I had to punch the knot and I,
+Patient: I'll try the other option and see if it'll get me through any quicker. Now, if they're able to schedule something, um, or are there any days or times or days that you cannot do?
+Nurse: Um, I would prefer not today. Ok. Uh, we do have home health coming tomorrow, but I don't know what time. Ok. So I would say Wednesday on.
+Patient: Ok. Now, what is he? He's on home health? Did that just start
+Nurse: Since the procedure? It hasn't, it hasn't started yet, but doctor ordered it. I got a call from them again last Friday. I said, I'm sorry, he's going back to the hospital. So I'll let you know when he gets out and I called them this morning and was told that they could be here tomorrow and I'll get a call tonight as to when they're coming.
+Patient: Ok. All right. So that'll be ok. If they're seeing him on home health, then I won't be able to, to talk with you guys or, you know, help you guys during that time because that will transition to the home health nurses, responsibility. So they won't, they, they look at it as a duplicate service, I guess in a way. So, um,
+Nurse: It's not,
+Patient: It's not, it's not hospice, but if it's a skilled nurse, um, from home health, then we just because our services are billable as well
+Nurse: So they can get duplicated billing. Ok. What it will be is home rehab,
+Patient: Rehab. Ok. So that's different. Now, if he's just having therapist, then that's fine. Um, it won't interfere with anything as far as
+Nurse: We go. Um, that's what the
+Patient: Skilled nursing that
+Nurse: Would. No, I'm his skilled nurse there. You go. You're probably the
+Patient: Best one.
+Nurse: So I'm gonna be, but it is, it's mainly rehab that he needs. And I think the doctor just thought, you know, since he's getting over surgery, the at home would be better for him.
+Patient: Yeah. Yeah, that'd be easier. And it, it sounds like you probably could benefit from it if he [PHI-Personal].
+Nurse: Absolutely. Getting up and down around and whatnot. The name of the outfit is center. Well, I think, well, home Health, have you ever heard of them?
+Patient: Um I have not that they and they possibly may show up in the system evaluating. Ok. So I'm gonna try to give um the oncology office a call for you and see if I can get something clarified or set up for that infusion and I will call you back, ok?
+Nurse: Ok. Or if you can get that to call me.
+Patient: Ok? Either way you'll hear from someone.
+Nurse: All right, [PHI-Personal]. Thank you so much. You're very
+Patient: Welcome.
+Nurse: Alrighty, good luck now. Bye bye.

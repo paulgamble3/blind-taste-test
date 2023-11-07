@@ -1,0 +1,23 @@
+Nurse: I'm doing good. What can I help you? What can I help you with?
+Patient: Yes, I sent some uh email on my chart last week. Ok, about my appointment because eight o'clock was too, too early for me. Ok, doctor.
+Nurse: Ok, let me pull up your chart. Can you confirm your birthday with me, please?
+Patient: 12, 9 73. Ok, give
+Nurse: Me one moment and can you spell your last name for me again,
+Patient: Please? [PHI-Personal]. Ok.
+Nurse: Ok, perfect. Um Let me see. Ok. Ok. Yes. So I see that whole conversation thread. Um Have they reached out to you to schedule that appointment?
+Patient: No, nobody have.
+Nurse: Ok. All right. Well, let me reach out to them to see if we can get you an appointment scheduled. Let me just make sure that I'm clear. So you want to see. Um, so you wanna stay at the same office, the the same cardiology office that doctor [PHI-Personal] is in, but you would rather see Drew [PHI-Personal] or doctor [PHI-Personal].
+Patient: So to somebody. Ok, that the heart doctor and then I need to, uh, see my liver doctor too because I had appointment last, last week or something. I, I make it because I was too early.
+Nurse: Ok. Ok. You need to see what doctor, let me see. Oh, you need to see [PHI-Personal].
+Patient: Yeah, because I guess doctor [PHI-Personal] schedule is full.
+Nurse: Ok. All right. Let me pull up her schedule. Ok. So right now the soonest appointment I have with, let me see what Doctor [PHI-Personal] and let me see who has an earlier appointment. Ok, so the earliest appointment I have with either of them would be with [PHI-Personal] on [PHI-Personal]. Does that sound like that works for you? Oh, actually, hold on. It is actually pretty early. Let me change that. Ok. So we have a [PHI-Personal] that's a Friday at 4 p.m. Does that work for you?
+Patient: I got, I guess, I guess for either one of them.
+Nurse: Yes. So I'll put you on the wait list for any cancellations and we do have Doctor [PHI-Personal] replacement, taking patient the beginning of [PHI-Personal]. Um And so hopefully, you know, we can get some, some more patients in quicker once she opens up her schedule.
+Patient: Ok. Ok, because I just, I just did my blood work recently. So,
+Nurse: Ok, I'll make sure that they see that though and if there are any issues or anything they're concerned about, I'll have them call you. Ok, you stop. Ok, let me finish scheduling that appointment for you? Ok, so that is [PHI-Personal] at 4 p.m. Um, and then yes, I will put you on the wait list, you know, if there are any cancellations. Ok, perfect. Anything else I can do for you?
+Patient: I guess, um, the hot, I guess the hot cardio or just
+Nurse: They should, but I can reach out to them to make sure that, that they know and that they got the message. Ok.
+Patient: Ok, because I don't know what the, I just don't want to be back to be no more.
+Nurse: Ok. Sounds good. Yep. I will call them and see if we can get you a new appointment with one of the other cardiologists in the office.
+Patient: Ok.
+Nurse: All right. Well, then I will call you back as soon as I know more about that. Either I'll call you or the cardiology office will call you to schedule. Ok. All right. Well, you have a great day. Thank you. Bye bye.

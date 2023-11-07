@@ -1,0 +1,29 @@
+Nurse: Yeah. Ok. And you said it's like it on the left side or the right
+Patient: Side, the right side?
+Nurse: Ok. And when did it
+Patient: Start? Uh, yesterday morning when I got up I had a fat lip and there's nobody there to hit me. So I know. Yeah. That's why I thought maybe I did it. I don't
+Nurse: Know. Yeah. And you don't recall biting?
+Patient: No, no. And it didn't, it wasn't sore or anything but I did feel a lump there, you know, and, uh,
+Nurse: Um, let's see here and like does it, does it, um, look like a sore? Like, can you see it if you look in the mirror? Does it, does it look like a sore or more like a closed little lump?
+Patient: Just a lump? Just a lump and a bit? Ok.
+Nurse: All right. Well, let me see if [PHI-Personal] has any appointments. See here. So she has the day. So [PHI-Personal], actually she has some openings this afternoon. Um, would you be able to come in this afternoon?
+Patient: Um, depends how long [PHI-Personal] takes here. Her, her appointments set two and I'm in [PHI-Geographic].
+Nurse: Ok. So, so the latest would be [PHI-Personal].
+Patient: Oh, I am. Uh I'll be, yeah, I can make that.
+Nurse: Ok, so [PHI-Personal] and I can always do four.
+Patient: Oh, I would even be there at four. Ok, let me do it. Uh, Yeah.
+Nurse: Oops, see, uh, this is acute. Um,
+Patient: No, it's not cute. Oh, no
+Nurse: Acute. So I can make it, uh, 15 minutes. Ok. So, um, so she's got [PHI-Account] and [PHI-Personal].
+Patient: I think we're good. No, we're, we're good with the four. I'm sure we are. Ok. So I'm not positive. But if, if it gets close I'll just, I'll just leave [PHI-Personal] at the doctor. Ok. She didn't hear me. She's sitting here she didn't hear what I said but yeah I should, I should be able to make the four o'clock and if I can come earlier, you know, maybe I'll just come and then if she has that if you don't feel the fill those appointments then maybe she could just take me earlier but yeah to be safe.
+Nurse: Mhm. Ok. So I rescheduled that for today it's at four o'clock um and then you know her leading up to that she still has openings so if you, you know, are able to come in a little bit before then you know we'll be able to do that as well.
+Patient: Ok. Should I call?
+Nurse: No, you don't have to call just whenever you um whenever you're able to just kind of come in if you come in a couple minutes early. That's ok. Um I'm
+Patient: Usually there early anyway.
+Nurse: Ok. Yeah. Alrighty. Ok, so and then I'll just give [PHI-Personal] kind of an update of what's what's going on. So that way. Um, she, she knows what, what's going on a little bit. Um, so, yeah, and then I'll follow up with you either later this week, you know, because we're going into the weekend. So, um, I'll try to talk to you by Friday or, or by Monday and just see how the weekend goes. Ok. Ok,
+Patient: Great. Thank you, [PHI-Personal].
+Nurse: You're welcome. Ok. All right, I'll talk to you later.
+Patient: Ok. Have a good day. You
+Nurse: Too. Mm. Bye. Bye. Bye bye.
+Patient: Thank you.
+Nurse: You're welcome. Bye bye.

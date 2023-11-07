@@ -1,0 +1,72 @@
+Nurse: I'm doing pretty good. Good. Um, I was just calling this morning to do your monthly check in to see how everything's going like health wise and such. Ok. Um, let's see here. Let me get you pulled back up here. How are you doing on your medications? Do you need any
+Patient: Refills? Uh, no, I, I think everything is fine with that. Ok, good, good. Um,
+Nurse: See here, here we are. Ok. So it looks like, um, you have an upcoming appointment with, um, Doctor [PHI-Personal] this month actually on the [PHI-Personal],
+Patient: Right? Ok.
+Nurse: Um, have you had your foot or eye exam done yet this year?
+Patient: Yes. Um, I go to the foot doctor like every four months, whatever. I have an appointment with him on the [PHI-Personal] of this month. Yeah.
+Nurse: What about the eye doctor?
+Patient: I haven't seen the eye doctor yet but I have that on my list. Ok, good. Um, no
+Nurse: Problems with your eyes or anything.
+Patient: No, I haven't had any problems. Thank goodness. And I, I did get my second shingles vaccine. Um, that was, uh, last month, [PHI-Personal], the end of [PHI-Personal]. I got the second one. Ok.
+Nurse: Let me make sure, let me see if that's in your chart here. Where did you get it? Um, where
+Patient: Did you get it from? CVS Pharmacy. Bye bye. It should say the F I had the first one already. I told, I think I told that the [PHI-Personal]. Ok. I, I think I'm not. Yeah, I did tell her that I got the first one but I don't know, I didn't, haven't talked to anybody, I think since I got the second one.
+Nurse: Ok. Did you get it at the same place? Yeah. Mhm. Ok. What CV S did you get it at? Do you remember? Oh.
+Patient: Hm. No. Iii I couldn't tell you to be honest. Um, I, I'm new in this neighborhood and I, I, I'm lucky I don't drive so it's spin me around three times and I'm lost.
+Nurse: Ok. Not a problem. Um, good. So then you would have got your first one, I assume in around [PHI-Personal] or the end of last year.
+Patient: Yeah. Yeah, it was in this year. It was two months. So it was, uh, [PHI-Personal]. Yeah. Ok. Good.
+Nurse: Good, good,
+Patient: Good.
+Nurse: Um, and it looks like you are also due for your Dexa scan.
+Patient: Oh, ok. I'll probably talk to doctor S about that when I see her. Ok. Uh, and I'm due for a colonoscopy too. I have not gotten that done yet. Um, although, uh and I, but I did get, let's see, I can't remember if I told this is, but I'm not sure I did have a uh um a mammogram. I got that done and I got done the, I went to the gynecologist, I got a pap smear done there. Um, she gave me two people to go for a colonoscopy, but I haven't done that yet. I have to see Doctor [PHI-Personal] actually to get, um, referrals and stuff like that.
+Nurse: Ok, good. Well, at least you have it on your radar because that's some stuff that I was just gonna kinda go over with
+Patient: You. Um,
+Nurse: So that's good there. Let's see here. What about the pneumonia vaccine? Yeah, I
+Patient: Got that one. Yes, I got that from Doctor [PHI-Personal]. Uh, probably the last time I was there, which was, I'm gonna say six months ago. Uh, because I think the last time when I was there she said six months appointment. So it'll be coming up on six months.
+Nurse: Ok. Yeah, let me see. Yeah, you'll most likely do your annual wellness visit when you see her this month because you're gonna be due for it. Um, as of [PHI-Personal]. So she'll most likely go over all your annual Wellness
+Patient: Stuff and all that fun
+Nurse: Stuff. Good. Um, well, are you familiar with like what a Dexa scan is? And,
+Patient: Uh, yeah, I'm pretty sure I had one once before. It's, did you lay down, they scan your whole body with, for your bone density kind of thing, is that it?
+Nurse: Yes. So the Dexa scan is like an x-ray and it measures the strength of your bones um and shows like any changes in bone density um and things of that and things of that nature to learn, like if you have weak bones um or like if you, how likely your bone is to break in the future, you know, all of that kind of stuff. So. Ok. Good, good. Um Well, it seems like all of that. You've got a pretty good handle on that. So that's really good. Aside from that, how's your mood been?
+Patient: Um, it's been pretty good. Uh I have to say it's probably been pretty good. I have my bad days, my, my good days, less bad days. Yeah.
+Nurse: Do you mind if I ask you a couple questions in regards to your
+Patient: Mood? No, you could do that. That's fine. Ok.
+Nurse: Um Let me see here. Why are all these questions? They're not showing it's only giving me the two. Ok, let me look on here. These are gonna be in regards to um, depression. It's the PQ um if you're familiar with that, they're all gonna reference over the last two weeks. Um So over the last two weeks, have you felt um, down depressed or hopeless? Answer is not at all? Several days, more than half the days or every
+Patient: Day. No, not at all.
+Nurse: Ok. Have you had little interest or pleasure in doing things?
+Patient: Uh, I, I keep up with it. I do things. I, I'm good with that. I go out every week with my friends. Uh, we go to quiz once a week. Um, and I do other things, you know, get out and about. I've been trying to, I've been trying to do my, I let's see, relaxed on walking. It's my thing to, uh, for exercise. I've kind of cut back on that a little bit but starting over again, the weather's nice again. Oh, yeah. Yeah. Yeah. Except today it's a little going to be a little hot. Yes, I
+Nurse: Saw that the high was like 80
+Patient: Something. Yeah, I know. Did, did we have winter yet? The idea,
+Nurse: Um, any trouble falling asleep or staying asleep or sleeping too much?
+Patient: Um, I always have trouble falling asleep and staying asleep. That's just a, that's been a constant life thing. Not anything out of the ordinary or more or less. Um, so sleeping too much. Ah. Um, no, II, I pretty much try and fight that off. There are some times when I could just sleep but I know that's not good for me. So I try not to do that.
+Nurse: Um, any poor appetite or overeating.
+Patient: Um, I might have been overeating a little bit in these last six months, which is probably not good for me, for my diabetes. But, uh, again I'm trying, it's always a constant battle of trying to fight to do what I'm supposed to be doing. I, I know a lot of that has to do with the depression. And so I, I, I just, you know, every day I wake up, I try to have a good outlook and do what I gotta do
+Nurse: Good. Um How about in the last two weeks? Feeling bad about yourself, um, or feeling that you're a failure, the failure or have let yourself or family down.
+Patient: Um, yeah, I had a argument with my husband during the week. I'm just feeling a little bit depressed about that and, and feeling those kinds of emotions. Um, but, uh, uh, it's over now so I'm getting back on the saddle again, so to speak. I was, I wasn't speaking to him. So,
+Nurse: Um, what about in the last two weeks? Any trouble concentrating on things?
+Patient: No.
+Nurse: Ok. What about in the last two weeks moving or speaking so slowly that other people could have noticed or the opposite being so fidgety and restless that you've been moving around a lot more than usual.
+Patient: Uh No. Ok. Good.
+Nurse: Um, and then last question in the last two weeks, any thoughts that you would be better off dead or hurting yourself?
+Patient: No. Mm mm. Good.
+Nurse: All right. And then any of, um, ha has your depression made it difficult for you to do? Work, take care of things at home or get along with people in the last two weeks.
+Patient: Uh, no, not, no, not in the last two weeks. I, I don't never have trouble getting along with people. I am glad
+Nurse: To hear that. Well, that's good. Everything looks really good. Um, I know that you were talking a little bit about, um, um, overeating a little bit lately. Have you, um, are, do you exercise at all?
+Patient: Only? Just, I've just started doing the, like I said, I had stopped and back to doing the walking again, but I put on a couple of pounds. I knew that
+Nurse: Good walking is great. Um There, you know, there's benefits to exercising that help reduce depression. Um, you know, exercising sometimes, especially when it's like a rainy day or stuff, it seems like the last thing to do, but once you can get motivated and exercising can make a big difference. Um, and then in turn, you know, help other problemss. So like you said, the diabetes and yeah, you know, weight gain and stuff and, and then if you set any goals for yourself, like say, ok, I've put on a couple pounds, I want to set a goal to lose five lbs in the next 2.5 months. Um, you know, meeting those goals or challenges can really give you that boost and you're self confident.
+Patient: Ok. So
+Nurse: Good, good. Are you still taking your, um, Abilify klonopin and Effexor. Yes. Um-hum. Ok. Good. Do you feel like they're effective?
+Patient: Yes. Definitely good. But I have an appointment with my psychiatrist on the [PHI-Personal], 2 days before I see doctor. So, ok.
+Nurse: How often are you seeing them?
+Patient: Um, I see her every, well, when I'm doing good, which isn't right now, I don't see her like I see her every three months. Ok. So it's been, it'll be three months on the [PHI-Personal]. So I've been doing good. So I get regular medication, not, no changes. It's been going smooth and I do have a psychia psychologist who, I mean, I haven't spoken to her lately but I can call her any time and make an appointment or talk to her.
+Nurse: Good. Good. So, you feel like your sessions are pretty effective?
+Patient: Yes. Mhm. Ok.
+Nurse: And do you go, I assume you go in person or do you do it over the
+Patient: Phone? Um, I do zoom or it's not zoom. It's something else for the, um, it, it has to do with the, the, their, um, I don't know, it's, it is like zoom, it's face to
+Nurse: Face a video chat. Yes.
+Patient: Yes. Ok.
+Nurse: Good. Well, that seems to be doing pretty good too. So it just all around seems like you're doing fairly well right now. Which is what I like to hear and makes our monthly call super easy.
+Patient: Yeah.
+Nurse: So, um, what we'll do if anything happens to come up in the meantime, um, you can always reach out otherwise we'll plan to touch base next month. We'll see how your appointment with Doctor [PHI-Personal] went and, um, see how everything else is going. Um, and then just as a reminder since it is a new year that our monthly phone calls, they are available to insurance, um, just like an office visit, but that's nothing new. Uh, you're not gonna start getting like some new bill or anything like that. We just have to remind patients of it every year. Um but other than that let's plan on touching base next
+Patient: Month. Ok, sounds great.
+Nurse: Enjoy your weekend. You
+Patient: Too. Alright bye bye bye.

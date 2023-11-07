@@ -1,0 +1,32 @@
+Nurse: [PHI-Personal]? Yeah. Would it be easier to talk to someone who speaks [PHI-Personal]?
+Patient: Yeah, that's fine. Thank you.
+Nurse: Ok. Yeah, because it'll be easier to explain that way. Ok.
+Patient: Hello.
+Nurse: I, yes. Ok. Yeah. So I'll have someone who speaks [PHI-Personal] call you and explain. It's part of a program, a chronic care management program that doctor is
+Patient: [PHI-Personal]. Yes, I know. Yeah. Yeah. Somebody called me yesterday. Yeah.
+Nurse: Yeah. Yeah. Yeah. Um, so I will be the nurse calling you every month to check in with you.
+Patient: Oh, ok. Good. That's just perfect.
+Nurse: Yeah. Um, do you have a minute to go over your medications with me?
+Patient: Yes. Sure.
+Nurse: Ok. Um, the first one I have is Crestor 10 mg daily. Yes. Ok. And then I have Cymbalta 30 mg daily.
+Patient: Uh, no. Uh, I have to use that one. You stopped it. Yeah, that's just the one for the, for the depression. Yes. Oh, no, no, no, I use that one. Yeah. I, I think there was one for the, no, for the spray for the nose. Oh, the, yeah.
+Nurse: Ok. So you, you don't use the Flonase? No. Ok. Um, and then I have just some Tylenol, Tylenol extra strength every six hours as needed.
+Patient: Uh, no, I don't, I don't, I don't have, uh, that one I prefer use, uh, the one for the sinus headaches because I have, uh, like almost every day headaches. Mm. Ok. And I think that was a sinus because it's something my, like my throat and my nose and my ears. That's, uh, like a, a congestion and that's just almost every day.
+Nurse: Oh, the, the Tylenol sinus.
+Patient: Yeah. Ok.
+Nurse: Right. Ok. And then I have an albuterol inhaler, um, as needed for any wheezing.
+Patient: No, that one I don't need, I don't need that one. Ok. I don't use,
+Nurse: Ok, let me check one other area I also have on here. Some eye drops some
+Patient: [PHI-Personal]. Uh, that one. Is it? Because I have to go mandate to the eye doctor because, uh, that one, they send it to me for the, for the, so I had the surgery but I think the surgery was not good. So Monday, so maybe he's gonna change the medication.
+Nurse: Yeah. Do you use two different ones?
+Patient: Uh, yes, I use that. No, I, I used to use that one but until Monday I'm going to the doctor and see what is going on in my life,
+Nurse: Right? Ok. So it's just the one that
+Patient: Yeah so if it like continue with that one so I can call you uh or when you call me next month like
+Nurse: Yeah just let me call you next month. That's fine. Um so it's just the one that begins with A K, right? Yes. Ok. All righty. Awesome. Am I missing anything that you take?
+Patient: But uh I I take the the is right. 30 mg.
+Nurse: Yep. Mhm. I got that one.
+Patient: Yeah that's it. Ok that one. Yeah.
+Nurse: All right. Um so I'm gonna set you up with our nurse Fabiola so she'll probably call you next month. Ok. She speaks [PHI-Personal] so it might be a little bit easier for you.
+Patient: Yeah I I speak to her before.
+Nurse: Ok. Ok. Awesome. Alrighty. Well you have a great rest of your day. Ok.
+Patient: Ok. Thank you so much. Ok, you're welcome bye bye bye bye bye.

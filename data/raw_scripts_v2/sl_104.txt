@@ -1,0 +1,33 @@
+Nurse: The lowest
+Patient: One, lowest [PHI-Geographic] location. Oh, nothing. I didn't get nothing done. We, we, we tried to call over there to get the location. Um, my, my daughter did but I haven't had her from anybody over there yet. Ah, so what should we do? I wanted, I wanted him. Does he, does she know about my shoulder? I was, should I go see, you know, my arm and my right arm and how it, it's just still bothering me a lot.
+Nurse: Yeah. So, I, I'm sorry about that. I don't know how that happened.
+Patient: Yeah, I get to see him so I need to make an, I need another appointment as soon as I can. I wouldn't, uh, love to because I need to know what to, what can be done about this shoulder.
+Nurse: Right. Let me look, let me look here and see if I can find a sooner appointment because you're scheduled for [PHI-Personal].
+Patient: [PHI-Personal].
+Nurse: But let me see if there's a sooner you are. Yeah.
+Patient: Mm. Yeah, that's a long now to me now. Well, I have to all day long. That's dis [PHI-Personal]. I can't do this and that with it. I don't know what to do. I've been doing the, uh, Tylenol and, uh, then I start taking the, the, uh, uh, cod cod Liver or taps gel taps cats.
+Nurse: Oh, yeah.
+Patient: But II, I mean, it, it stops it for a minute but exercise back when, if I could, I just move my arm just, uh, wee bit ju just too hard. I just, and I, I have to have someone wanted to bathe the left side of my arm on the arm. One of my daughters, I get, uh, my sister, I get where I had to get one of them to bat, wash this side of my arm under the arm because I can't push, I can't take that arm over to, uh, my right arm over that far.
+Nurse: Right. So I, I do see, um, so it's not Doctor [PHI-Personal], but one of the nurses, it's a nurse practitioner that helps him. She has an opening, um, tomorrow, tomorrow [PHI-Account] 8 15 [PHI-Account] [PHI-Geographic] Palms.
+Patient: And, oh,
+Nurse: That's early. Otherwise there's a Wednesday [PHI-Account] [PHI-Geographic]
+Patient: And then that doctor ca ca Doctor [PHI-Personal], I don't know. But IIIIII I just wanted to see, to see Doctor [PHI-Personal]. You know, I, I, that
+Nurse: Right. And he doesn't have openings, um, until [PHI-Personal]
+Patient: He doesn't.
+Nurse: No.
+Patient: Mm. And I got one for the two in the second.
+Nurse: You do. But I'm, I'm wondering if you, if you go in and see her name is [PHI-Personal], um, I think she would be able to help you too and then you could keep the appointment with Doctor [PHI-Personal] in [PHI-Personal]. You know, because it'll, it's like a month away and then see if it's improved by that time.
+Patient: Uh, oh, well. Oh, my goodness, eight o'clock in the morning.
+Nurse: But otherwise there's, uh, a Wednesday [PHI-Account] [PHI-Geographic]
+Patient: [PHI-Account] for her, for her. True.
+Nurse: Yep.
+Patient: Ok. Well, let me do a Wednesday. That's better than eight o'clock. I know me and, and I get up all through the night and get up the morning and right. And this, oh,
+Nurse: Yeah. I'm sorry about that. I don't, I guess I, I must have scheduled [PHI-Account] the wrong location. Um, so I'm sorry.
+Patient: Ok. So this is, is not, oh, can you, uh, you got paper you have, can you write? Ok. Ah, most Chinese give the phone to my daughter and let her write it down that time. Oh, sure. Yeah, this is, and this is ok. I'm giving her the phone. Ok. Yep.
+Nurse: Sounds good.
+Patient: But it's [PHI-Personal].
+Nurse: Hello. Hello. This is [PHI-Personal]. Hi. Um, I'm so sorry about that appointment today. I don't know how that happened, but it was scheduled [PHI-Account] the lowest clinic. I don't. So I'm so sorry about that. Um, but we rescheduled the appointment for Wednesday like this Wednesday with Chelsea Pia [PHI-Account] [PHI-Geographic]. And it's [PHI-Account], it's [PHI-Account] the Piera, it's P er E [PHI-Personal]. Ok. And it's [PHI-Account] the [PHI-Geographic] Palms location where the same office that doctor [PHI-Personal] was [PHI-Account]. So, so that's Wednesday [PHI-Account] [PHI-Geographic] to check out her arm. All right. Does she need anything else from me? You need
+Patient: Anything else mom? No.
+Nurse: Ok. All right. Well, I'll check back in on, go ahead.
+Patient: I just said thank you for
+Nurse: Your help. Oh, you're welcome. I'll check back in with her on Thursday after that appointment. Ok. Ok. Thanks so much. Mhm. Bye bye.

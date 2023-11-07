@@ -1,0 +1,16 @@
+Nurse: I guess [PHI-Personal]?
+Patient: Kay? Ok, hold on. Oh, [PHI-Personal]. Yeah, my coffee hasn't kicked in yet. Sorry. So [PHI-Personal] is actually out today and I'm covering for her. Um can you confirm your date of
+Nurse: Birth? 10, 17 56.
+Patient: Perfect. Ok, so I have your chart pulled up um one moment. So what's going on?
+Nurse: I run out of payment over the weekend. Yeah.
+Patient: Ok, so let's see. Um the oxyCODONE. Uh huh. The five mg take one every six hours as needed. Ok, so we sent a prescription on the six. Ok. Of February. Um ok, so there's two medicine shops in wait, I think they're the same one and then [PHI-Geographic]. Yeah, I don't know why they have it in here twice but. Ok, that's the same one.
+Nurse: MBTA I've been asking for it and asking for it. I've been out of it for five days now. I need my Cymbalta. Oh yeah, they're requesting a refill from you guys and uh it's not going through. I have no idea what's coming from.
+Patient: Ok, let me look into that one. Hold on.
+Nurse: Just get a bit. Oh, good. All right here.
+Patient: All right. The 60 mg once a
+Nurse: Day. Yep. Yep.
+Patient: Well, this was sent in on last Thursday to medicine [PHI-Personal]. Let me make sure they didn't call in about it. Oh. Yep. Hold on. No, no, that's something different. There was a message in here and it was, but it's just in regards to your, uh, to have like, visits per year and stuff and insurance um advice. Ok. So you were scheduled for an appointment last week but you must have got, there was some confusion on the.
+Nurse: Yeah, I thought it was one day I had a, I had no transportation. Well, I have an appointment for and I do have transportation.
+Patient: Ok. Um for the Thursday. Ok. [PHI-Personal]. Ok. Ok. Yeah, I see. They made note in here you spoke to [PHI-Personal] last week on Friday. Ok. Um Let me make sure there's nothing else in here that I'm missing about. Yeah. Um, so I guess when did you last hear from medicine [PHI-Personal] about the Cymbalta [PHI-Personal] last week? Ok. So do you want to call them or do you want me to call them?
+Nurse: How about you call them?
+Patient: All right, I'll call medicine shop and I'll let you know what I find out if, if it's ready. Ok. And then I'll send them for a refill of doc or a request to refill of oxyCODONE. Ok. Thank you. All right, you're welcome. Bye.

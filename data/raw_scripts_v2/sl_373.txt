@@ -1,0 +1,18 @@
+Nurse: Did you leave for the storm or are you still at home?
+Patient: No, I left uh out of the area. My area was evacuated. So I'm uh over on uh an area d at one of my uh family member's house.
+Nurse: Oh, ok. Ok. Good. I'm glad you're with somebody. Mhm. Yeah, that was a scary storm. I've been seeing some things from, um, like on but, um, I'm not really sure uh how the area really looks. How does it look where you're at right now?
+Patient: Well, it uh looked pretty good over here. Um, in the west, a West [PHI-Geographic] area, uh, we had a few limbs come down, you know, out of the trees and um, the neighbor came over and, but other than that we're, we're pretty good praise the Lord. No. Um, water excessive water, which is great.
+Nurse: Ok, perfect. Mhm. Oh, ok. Well, um, I did see where you had to reschedule your appointment because of the weather with doctor you're going to be seeing her in [PHI-Personal]. Ok. Ok. Um, and I saw where you got your A one C one done and she said, um, to let you know that the A one C was mildly increased and she'll discuss with you at your appointment. Ok. Ok. In the meantime, in order to, oh, go ahead.
+Patient: Uh, no, I have a, another appointment with doctor in [PHI-Personal] the third. I think it is with the doctor, with the kidney doctor. Uh They haven't contact me to see if I needed to, to do and ask them to send the blood work over to them. And uh in case they needed to have me do any additional. So I haven't heard from them but uh uh so someone said it would do that. I, I send a message so I don't know
+Nurse: They did. They, uh I saw where they sent them over. They faxed over the only one that you had done was the A one C
+Patient: So they faxed that over. Ok.
+Nurse: You do need um, a urine microalbumin which detect that detects the level of blood protein in your urine and it can detect the kidney damage. Uh or if you have kidney disease, it determines how far out it is, but you are due for that. So I'm sure he probably wants that done as well. So I don't know if they collected your urine.
+Patient: No, II, I don't think they collect all they did was, took the blood work. They didn't put, uh, collecting the, when I went in.
+Nurse: Ok. Well,
+Patient: So maybe he might request that. Uh, I probably need to request it. I don't know.
+Nurse: Ok. Well, doctor, when she sees you in [PHI-Personal], she may order some labs as well. Ok. But I did ask if they wanted anything ordered prior to your appointment. And she said the only thing ordered was the A one C, so you already had that done. So we'll just see what she says in [PHI-Personal]. Ok.
+Patient: Ok. All right. Thank you so much. No, I was saying thank you so much for uh reviewing and checking up.
+Nurse: Yes, ma'am. You have a wonderful day. Ok.
+Patient: You have a blessed one and stay safe as well.
+Nurse: You too. Thanks. Bye bye.
+Patient: Thank you. Bye now.

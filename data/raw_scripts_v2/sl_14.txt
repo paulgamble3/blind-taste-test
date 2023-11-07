@@ -1,0 +1,21 @@
+Nurse: Nephrology or dermatology. I know those referrals were put through.
+Patient: Yeah. Well, the one for my kidneys is for tomorrow and my husband can't get off and I cannot go to that appointment by myself. It's that [PHI-Personal] guy singer. The other one is in Mon, which is a lot closer, but I can't, I can't deal with that. I've tried to call those people. She gave me a phone number if I had to cancel that appointment since it was made so fast. Can do you know how I can cancel that appointment and reschedule?
+Nurse: Ok. Let me pull up the referral. Well, you were actually lucky to get an appointment that fast. Let me just see who it was
+Patient: With. Yeah. Right. I can tell you who it's with. I have all the information here. But, you know, right now I took my drug at seven o'clock and I'm still waiting it for it to wear off so I can go to the grocery store so I can trust myself to even drive. I mean, I've been, my life has been scheduled around these drugs and, yeah, I said,
+Nurse: [PHI-Personal] told me that you had called yesterday and you decided you wanted the referrals, you know, to find out what's causing it and try to get off the medicine.
+Patient: Yeah. Right. Huh. I think it's doing a number on me.
+Nurse: Ok, let me just see. So, who did they make the appointment with for tomorrow? [PHI-Personal]. I'm gonna pull up.
+Patient: The doctor's name is [PHI-Personal] da. Doctor [PHI-Personal]? Ok, let me
+Nurse: See. Hm. Ok, I have. So do you tried calling and couldn't get through to anyone?
+Patient: Um, I get to the point where it says press one and we'll call you back and it cuts off the phone call and that was an hour and a half ago. So I know. Ok.
+Nurse: And what number did you have? Because I just found a [PHI-Account] number. Is that what you were using?
+Patient: No, it's [PHI-Account]. The girl from guys in there, that's the number that she gave me. Ok,
+Nurse: Let me try the number. Let me try the number I have. Now, when do you want me to try rescheduling it for? What's a good,
+Patient: The reason my husband couldn't get off tomorrow is it was too soon and somebody else was already off. Um, next week would be great. Just so it doesn't coincide with the other appointment which is Dermatologist on the 26th.
+Nurse: Ok, let me see what I could do. Ok. All right. So let me try this other number. There's a [PHI-Account] number, I'm not sure. And then I there's of course the 800 number which will probably, oh God put me into a of calls. So yeah, let me see if I could get through and change this.
+Patient: Alright but you definitely can't
+Nurse: Take tomorrow. So either way I'm canceling tomorrow right?
+Patient: I'm not going tomorrow because I will not make that trip on my own not the way these drugs are I just I don't know.
+Nurse: Yeah I don't blame you especially with the way they make you feel and if you know that's not safe.
+Patient: Yeah. Yeah. No it's not it's not safe. All right thank you.
+Nurse: Ok I will get back to you let me call you on your cell. Yes please. Ok will do. Alright. Thank you bye bye bye bye.

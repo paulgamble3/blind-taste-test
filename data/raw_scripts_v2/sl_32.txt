@@ -1,0 +1,27 @@
+Nurse: Yes. So, let's see. I received a message back from [PHI-Personal] yesterday. Um, you should be taking the 1 50 so the 1 25 we can get rid of you both. And also, um, and let's see, at your last appointment, your lipid panel wasn't controlled with the Lipitor or the atorvastatin. So she did switch that to rosuvastatin 40 mg. Um, so you should be on rosuvastatin. Not the atorvastatin. Can you spell that for
+Patient: Me though? R
+Nurse: R OS. Mhm. [PHI-[PHI-Personal]].
+Patient: Mhm.
+Nurse: [PHI-[PHI-Personal]] A [PHI-Personal]. I don't know if that ever
+Patient: Got changed. I'm gonna have to look.
+Nurse: No, it was sent in, in [PHI-Personal]
+Patient: Not. Is it a tro va S?
+Nurse: Oh, the A Tor Va statin? That one you should be getting rid of. You shouldn't be taking that one
+Patient: Ok. Ok. I'm gonna check and then I'll call her if I don't have it.
+Nurse: Well, we can also give a call to the pharmacy and make sure that they still have it on file. If they do, they can just fill it from that. Ok. Ok. Let me know if you need anything. Ok. Hey, hey, they did a sleep
+Patient: Study on me and I never heard any results yet. This is quite a while ago. Well, let's see.
+Nurse: I have your holter monitor.
+Patient: [PHI-Personal] might have been a month or [PHI-Personal] before that. The [PHI-Personal]. Ok. Thank you. Let's see.
+Nurse: I should be able to find it. Hang on just a second. I'm causing you all kind of problems, aren't I? No way, no issues here. It just takes me a little while to find things.
+Patient: [PHI-Personal]. The only sleep
+Nurse: Study I have in here.
+Patient: Oh, was what I did at home? Mhm.
+Nurse: I have the intake
+Patient: Form which was done in [PHI-Personal] and stop. Bye there. So go on.
+Nurse: The only results I have are from [PHI-Personal] and
+Patient: [PHI-Personal]. So, no, this, this was in [PHI-Personal]. This was a couple months ago.
+Nurse: Yeah, I'm in a and it was [PHI-Personal] that had ordered it. So I am going to um, add to my note and ask her if they've received anything because they should have gotten that back by now. Yeah, they should have.
+Patient: But hey, sometimes things get mixed up sleep study
+Nurse: At home.
+Patient: Nearly three and any other [PHI-Personal]. Ok. Excuse me.
+Nurse: So I'll reach out to her regarding the sleep study as well and see if we can come up with some ok, Christine whenever, whenever. Ok, have a great week. Got it. You too. Take care. Thank you. You too. Bye bye bye bye.

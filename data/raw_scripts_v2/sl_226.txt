@@ -1,0 +1,53 @@
+Nurse: Good, thank you. I was just reaching out to you. I think yesterday, um, just to touch base and see how everything was going. Um, let me, let me get everything pulled up real quick. All righty. So I got you pulled up and ready to go. So, is, is everything been going ok, recently? I think the last time we spoke was last week. Ok.
+Patient: Yeah, my foot's not swollen anymore. Awesome.
+Nurse: That's good news. Good. And is the, um, are you still taking the gabapentin for that numbness feeling? Yes, I am. Ok. And has that gotten a little bit easier or better?
+Patient: Yeah. It not, it doesn't feel as numb but it's still numb.
+Nurse: Got you. Ok. All right. And are you taking the gabapentin, like, three times a day now? Yes. Yeah. Ok. Perfect. All right. And I think the last time we had spoke, um, because I know the last time you saw Doctor [PHI-Personal] she, um, increased the Metformin to twice a day. And so I wanted to see if you had a chance to get in the habit of checking your blood sugars again and see what you're, you've been running lately.
+Patient: Yes. Um I had uh on the [PHI-Personal] it was um. Mhm. After lunch it was 1 31. Perfect. After dinner it was 1 62. Ok. I on the [PHI-Personal] it was [PHI-Account] 1 40 in the morning. Yeah. Ok, good. And after breakfast it was 1 42. Ok. And after lunch it was [PHI-Account]. Thanks. And then on the [PHI-Personal] it was 100 before in the morning and then after lunch it was 1 24. Ok. And after dinner it was [PHI-Personal]. Mhm. Bye. Perfect. Do you want any more or no?
+Nurse: Um, that is good actually. Have, did you have any like higher readings than, um, like any high readings in the morning? Like, let's say anything greater, um, than like 1 30 in the morning?
+Patient: Yes, I did. Uh, yesterday it was 1 34 in the morning. Ok. And this morning it was [PHI-Account].
+Nurse: Ok, perfect. Let's see, yesterday was the [PHI-Personal]. Ok, good. Yeah. So that actually sounds like it's, it's doing pretty good. Normally, like the goal target range for like in the morning before you've had anything to eat is about 90 to 1 30. Um, so it sounds like most of the days you were, you're right at the, at the mark and then, um, about after, you know, after either lunch or dinner after your meals, anything less than 1 80 is, is pretty good. So it sounds like it's, it's doing a pretty good job. Ok, then. Good. I'm glad you were able to check it and everything. Um, but just, you know, continue to keep checking it. Um, you can do like, once, you know, like in the morning before you eat anything and then, you know, if you want to just either, like, either after lunch or dinner, um, it doesn't have to necessarily be both of them because I know, um, poking your finger can get pretty annoying. So if you wanna just pick a meal, um, you can do it after, you know, lunch or dinner. Um, just so you can have one less poke. Um, but have you been feeling ok, otherwise you haven't had any, like, feelings of, um, shakiness or anything like
+Patient: That? My hands are more shaking than usual. Ok. The tremors. Mhm. And
+Nurse: Let me look here and when did that start?
+Patient: Oh, I've had it for a couple of years but here recently it seems to be worse.
+Nurse: Ok.
+Patient: The last, in the last month.
+Nurse: Ok. And have you noticed any other changes recently?
+Patient: Um, my left leg. Mhm. At night. From the knee down. Mhm. Has been hurting at night sometimes. Ok.
+Nurse: Let me look here.
+Patient: It, it's not, um, what do you call it? Um, it's not like leg cramps.
+Nurse: Ok. So it's not like the leg cramp at all. It's just like painful.
+Patient: Yeah, it's just painful.
+Nurse: Ok. Let me see here. Let's see. Do you know about, like, the last time you take a dose of the gabapentin is like, is it before you go to sleep?
+Patient: Yeah. Before I go to bed.
+Nurse: Ok. Let's see.
+Patient: It's, it's woke me up a couple of times.
+Nurse: Ok. Um, does your leg? I know sometimes people, like, um, if they have like restless leg syndrome, does it ever feel like, like it, does it wake you up because like, you're, it's jerking at all or anything like that or? It's just the pain.
+Patient: No, it's just pain. It's not. Ok. I have restless legs syndrome too and it's, it's not. Ok. Not the same. Ok.
+Nurse: Oh, I
+Patient: Know. I just have a pain for every day. Huh? No, that's
+Nurse: Ok. Um, the pain with your, your leg that you're saying? Do you remember when that started happening? Like when it started to wake you up in the middle of the night?
+Patient: Uh, I'd say within the last month and a half? Ok.
+Nurse: Ok. It may have to do with that, like the diabetic neuropathy too. Um, it may have something to do with that. Um, is there any, um, like changes like that you've noticed on your left leg rather than the right one? Like any color changes, temperature, feel hot or colder or anything like that? No. No. Ok.
+Patient: Looks about the same as the other one. Ok. Might be a little more tinker but I got my, I'm pretty pink as it is.
+Nurse: Gotta stay warm too because it's all cold out now. Um, got you. Ok. Let's see. Then do you ever take Tylenol or anything?
+Patient: Um, yeah, I can, I haven't taken it.
+Nurse: Ok, cause I know I was taking a look over at your medication list to kind of just see if there's any other medications like, cause since you're saying you're taking the gabapentin before you go to sleep, hopefully that should like hold you over. Um, but if you like, if you wake up in the middle of the night, um, and it is hurting pretty bad, you can maybe try some Tylenol, see if that helps at all. Um, and you know, either like, also, uh, is it, is it like a sore pain or is it like a shooting, stabbing type of pain? It's like an ache, an ache? Ok. So, um, I wonder if it, it could have like maybe muscle or something to it also. Um, I'm trying to see they have, um, some over the counter like Voltaren gel. Um, that's really good for like muscles and you know, arthritis type of pain also, um, as, as well as like some icy hot, um, it's just, you know, some topical stuff that maybe you can try and see if that helps at all because it may be also like a muscle type of. Um, a, since you said it was like achy type of feeling. Yeah. Um, so hopefully, you know, either with the, um, Tylenol one of the over the counter, like topical agents, like the icy hot or the Voltaren Gel. Um, and also to maybe like, either like a heating pad or some ice, um, maybe that can help to kind of cool it down in the middle of the night and hopefully prevent it from being any worse. Um, but definitely, you know, if it, it comes like a more regular thing where it's like every night it's happening. Um, or you know, it changes in any way like it becomes a stabbing, shooting type of pain compared to like the achiness. Um, definitely let me know and we can see, um, what Doctor O [PHI-Personal] can do. I was trying to see cause I know you meet with um, the neurologist in [PHI-Personal]. So I don't know if it has something to do with that.
+Patient: Yeah. Um, I was wondering too well, if I'm, well, I'm gonna talk to the neurologist anyhow but uh, one doctor was giving me, um, Propol. Yes, I think the psychiatrist and the neurologist were,
+Nurse: Let's see. Yep, I see it on here. 10 mg twice a day.
+Patient: Yeah. The psychiatrist said that she didn't think she should be doing the propranolol. It's a new psychiatrist. Uh huh. So she's gonna stop doing it. Ok. But the propranolol is not really helping. Mhm. With the tremors. Ok. So, I guess when I talk to the neurologist I tell her again, um, this doctor.
+Nurse: Yeah. So, um, the propranolol, um, you said even, like when you were taking it it wasn't helping,
+Patient: It was helping at the beginning. But, uh huh. But it's not helping. Now, got
+Nurse: You. And then the, um, psychiatrist said we should probably hold off on it anyway.
+Patient: Well, no, she just said that she's as far as prescribing it. Uh huh. And I should see a neurologist instead of her prescribing. Oh, got you.
+Nurse: Ok. So you previously got the propranolol from your other psychiatrist?
+Patient: Ok. Yeah. Got you. And this one doesn't wanna do it?
+Nurse: Ok. See. Mm. Here, did she say why she didn't wanna prescribe it again?
+Patient: Well, she just said that it's not something she should be prescribing because it's usually
+Nurse: Still basically.
+Patient: Ok. Yeah.
+Nurse: Ok. Got you. All right. Well, I can, um, message Doctor [PHI-Personal] and see if she has, like, um, if there's something else that they, you know, they can prescribe, um, or, you know, I'll let her know, like, the propranolol it worked at first and it was doing ok. But now, um, even with you taking it, it's not helping that much with the tremors. You're starting to know
+Patient: Of them. Right.
+Nurse: Yeah. So I'll let her know, like, hey, you know, her previous psychiatrist was prescribing it for her. Um, her current one doesn't feel comfortable prescribing it. Um, you know, and see if there's maybe another medication that can prescribe because I know you don't see the neurologist until [PHI-Personal]. Um. Right. Yeah, so I'll definitely reach out to her and um see what we can do about getting a new medication for that. Um. All right, but um just keep checking your blood sugars and I'll be sure to touch base with you once I hear from Doctor O [PHI-Personal] again. Ok. Ok. Alright, I'll
+Patient: Talk to you soon. Thank you. Bye. You're
+Nurse: Welcome bye bye.

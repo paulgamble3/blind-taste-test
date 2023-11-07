@@ -1,0 +1,61 @@
+Nurse: Ok. Let me bring your chart up. Hold on just a second. Ok. Ok. I gotta get out of another chart here so I can have yours up. Give me a minute. How have you been feeling overall? [PHI-Personal]?
+Patient: Ah, last couple of days I had, like, uh, headache but I'm feeling, but I'm feeling better now.
+Nurse: You think it might have been allergy related? Do you ever have trouble with allergies
+Patient: A little bit? But nothing like that.
+Nurse: Hi. It was more like a migraine.
+Patient: No. Uh, you know, I, I could feel something and, uh, I know I had a temperature Sunday morning because I know I sweated some. That was, the only
+Nurse: Symptom was a little bit of a fever and a headache. That was all you had for symptoms. Ok. No, diarrhea.
+Patient: Ah, not really diarrhea, but I did have to go more often, but not that bad.
+Nurse: Ok. But you're feeling ok today. Yeah. Go ahead. Just push fluids and sometimes, um, just not drinking enough. Can make you feel bad, especially in the heat if you're outside, any, in the heat and, you know, you're losing fluids, not only with urination, but also sweating and sometimes we forget to drink a little more in the summertime when the heat kicks up, you gotta stay really hydrated. Everything functioned good.
+Patient: Yeah. Oh, I did drink, I did drink a little extra Saturday because I did sweat some.
+Nurse: Yeah. Mhm. Yeah. Just, just try to keep, keep yourself well, hydrated in the summer months. Probably need a little more than what you do when it's colder.
+Patient: Oh, yeah. Sometimes twice as much.
+Nurse: Are you outside a lot?
+Patient: Uh, I'm spending two or three hours out there a day.
+Nurse: What did you need? The Crestor? Yeah. Ok. You're not, that's about all you're on that and a vitamin, huh? That's pretty good. Yeah. Ok. I'll get that ordered for you and then you have a doctor's appointment. Not until [PHI-Personal] with Doctor [PHI-Personal].
+Patient: Now, uh, I won't pick up that at [PHI-Personal] [PHI-Personal].
+Nurse: Let me see what we have for your pharmacy. Well,
+Patient: My old one, she closed shop.
+Nurse: Oh, ok. So, do you want [PHI-Personal]? Where at
+Patient: A Corn? Which is, which is in, uh, [PHI-Geographic]?
+Nurse: Ok. [PHI-Geographic] is the name of the town it's in,
+Patient: Uh, that's their address, but it's at [PHI-Geographic].
+Nurse: Can you spell that for me? I'm not real familiar with that [PHI-Geographic].
+Patient: Eu CK [PHI-Personal]. I think it is. I, I couldn't tell you for sure. [PHI-Personal]
+Nurse: At [PHI-Geographic].
+Patient: Yeah, it has a [PHI-Geographic]
+Nurse: And a [PHI-Geographic]. Ok. I'll look up, I'll let them know that you've switched pharmacies. Ok.
+Patient: Well, they know that I was going to have to.
+Nurse: Yeah. Yeah, just closed down.
+Patient: Say, yep. And say, I don't know if the guy singer up [PHI-Personal] opened up or not yet. So I figure I'd just go to the [PHI-Personal] that's on, that's on my way to work and on my way home.
+Nurse: Hm. Ok, I will uh correct that in your chart because we still had birches on here so I'll have them correct that for you. So if you need to order that again, you'll be able to get it where you want it to go.
+Patient: Ok. Does that
+Nurse: Sound good? Ok. Just remember drink fluids. Are you eating? Ok.
+Patient: Yeah, I mean.
+Nurse: Ok, good good. No other concerns.
+Patient: No, no other concerns.
+Nurse: Ok. Alright, [PHI-Personal], you got my numbers because you called me this time so any time you need some help, just give me a call I'm here for
+Patient: You. Yeah, I know here in a couple of minutes I'm gonna be calling Guy Singer Gold. Ok, because they called me twice now this last week and
+Nurse: Well, you're doing catch up on your return calls now, huh?
+Patient: Well, I did try and call them the once and their line was busy.
+Nurse: Oh, I see. Well, I'm glad you called me back. It was good talking with you and I'm glad you're feeling better, you know, when you're feeling bad.
+Patient: Well, say if you would have tried to call me here over a week ago, you wouldn't have gotten me because, uh, my phone was out, I don't know for sure. It's just that, uh, it wouldn't come in and, er, telephone company had to go find where the problem was. So I was probably out of my phone for maybe over a week, maybe close to two weeks because I, you know, I didn't have no phones and, you know, nobody was calling me and, ah, my brother came up and said, trying to get a hold of you and can't get through. But, so he called it in and we got it straightened out. Wow,
+Nurse: That's a long time not to have phone service if you'd had an emergency or something. Yeah. Well, I'm glad everything's hooked back up and working. Good. Yeah. Yeah, you need, you don't have like, one of those life alerts, do you, in case you needed help like that? No. No. Ok.
+Patient: I'm in good shape. Yeah, I'm still working.
+Nurse: Yeah, I, I see, we're typically I, an afternoon call after two because you do work. What are you, what kind of work are you doing?
+Patient: Ah, so I'm like, kinda like maintenance at the mall. Ok. I watched the place over and, uh, lately I've been, say, um, I just got done weeding around the mall and now I'm starting to take care of some of the brush, the bushes and the trees to cut them back.
+Nurse: Good. It's good. You con continue to be active like that. Yeah, that's a good thing. You're still pretty young.
+Patient: Yep. I am my two older brothers. Uh, they just retired last year. How old are they? Uh, 1, 72 gonna be [PHI-Personal] in two months and the other one is uh will be turning [PHI-Personal] in a couple of months.
+Nurse: So you're the baby.
+Patient: Nope, I'm in the middle, you're in
+Nurse: The middle. Ok
+Patient: Cos I got one brother he's gonna be turning [PHI-Personal]. Yeah next week and I got another one that's uh only [PHI-Personal] right now.
+Nurse: That's a big family. All brothers, no sisters,
+Patient: All brothers.
+Nurse: Hm I had all sisters, no brothers
+Patient: We had I know we had one family around here. It was all sisters.
+Nurse: Four of us, two of my sisters have passed away pretty young ages but they were both pretty sick. Yeah and my mom had passed away so it's just one sister and me and my dad but he's way up there. He's almost [PHI-Personal].
+Patient: Wow.
+Nurse: Yep. Yep. All right it's good talking to you [PHI-Personal] give me a call whenever you need
+Patient: Need help from me. Ok?
+Nurse: Alright you take care. Yeah bye bye bye.

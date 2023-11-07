@@ -1,0 +1,66 @@
+Nurse: Oh, let me get your chart pulled up here and got, had somebody else's chart up. So, hold on just a second for me. See what going on, if anything's. So you saw, did you go in and see [PHI-Personal] on the eighth or did you not make that appointment? I didn't
+Patient: Make that appointment. I had another appointment, a dentist one and I didn't think about it until I was halfway down to the dentist. Ok. The dentist I spent, I spent a lot of money on, um, that all in for dental implant thing. And, hey, I guess we spend a lot of money. I, for, forgot about all the other stuff I had going on.
+Nurse: Ok. Well, if you need to reschedule, just go ahead and reschedule.
+Patient: Yeah, I'll have to reschedule. Now, was that the one with, uh, about the growth on my head or whatever?
+Nurse: See what it says,
+Patient: Um, dermatology
+Nurse: Said it was a one month follow up of something here going in every month for something. Looks like you did in [PHI-Personal] and May and in the May was scheduled, that
+Patient: Was blood work and then follow up or, uh, explanation of blood
+Nurse: Work. Right? Ok. It probably was just a regular office visit. Then if, when did you have the blood work on [PHI-Account]? The last blood work? I see.
+Patient: Yeah. And then a month after I had the regular appointment, right? Because she had to go over everything with me. Yeah.
+Nurse: Mhm. I see it. What she said on that one. Hold on a second. If it was just a follow up on the growth on your head. How, how is that doing?
+Patient: Oh, it's the same. It's not, it's not going anywhere. She was gonna have dermatology. Um, see if they can cut it off. And then I think it was probably about the medicine too. She put me on that new medicine. I don't remember
+Nurse: The [PHI-Personal] visit. She advised to start Doxepin and then follow up in one month. That's what that was for one month. Check up after she started you on Doxepin? Um,
+Patient: The Doxepin. I, I don't really feel anything from but, I mean, I don't know what you're supposed to feel. I mean, I feel tired when I take it but that's about it. I mean,
+Nurse: So that's one reason why she, you had the [PHI-Personal] appointment. Yeah.
+Patient: Well, I'll reschedule. I, I thought I missed the, I didn't realize I missed that one. I thought I missed the, uh, dermatology one.
+Nurse: Now you missed one with, at Doctor [PHI-Personal] office.
+Patient: Yeah. And that was, what, what's her name? Right with, um, [PHI-Personal]? I never had [PHI-Personal] before
+Nurse: [PHI-Personal] Mitchell. I believe that was, let me look again back to that page. Yeah. You were scheduled with [PHI-Personal]. She's another physician assistant.
+Patient: Oh, I didn't even know that and they never even told me that from what I know. I always see it. What's her name? Yeah. Yeah.
+Nurse: Well, when you call, just tell them you want scheduled with [PHI-Personal] or I can try to schedule you something if you know what your other appointments are. If you have, if you wanna look at that and you call in and schedule or I can schedule you one.
+Patient: Um, yeah, there's no chance I could see Doctor [PHI-Personal] is there? I've never even seen him the whole time. I've been there. You know, I asked [PHI-Personal] and she's there. I wanna have a problem if you wanted to see him. She said, because, you know, I don't, like I said, I, I just seen his picture on the wall. Is I, I even asked her, I said, is he a real guy? Because I don't, honestly, I've never seen him. She said, oh, yeah, he's real. She said, I guess he's there on Tuesdays or something. I don't, I don't know, but I've never seen him.
+Nurse: I can look and see if he's got anything coming up. Uh, it's really hard to get into him. He's pretty booked ahead in advance.
+Patient: Let me look. So
+Nurse: Let me look though. It takes me a little bit to get to that screen. I gotta go through a couple of screens to get to the appointment screen. So, hold on just a second. Yes, He, he really doesn't have anything available any time soon.
+Patient: Yeah. That's probably why I never seen him. Yeah. Yeah. Funny. You see a picture on the wall and you're like, yeah, I've never, never, never honestly seen him in that building. Never there as many times. I've been
+Nurse: There. Yeah, he's there all day on Tuesdays. He's there Monday, Wednesday and Thursday afternoons. He's not in, at all on Fridays because he does all kinds of procedures at, on Fridays. And,
+Patient: Yeah, he said he does, uh, colonoscopies or something. Yeah. And,
+Nurse: Yeah, and the EG DS it goes down the throat. He does those,
+Patient: Yeah. I don't know. I guess I'll just have to,
+Nurse: I don't, just a 15 minute one on 5, 16, a 15 minute visit. Do you want me to put you there with doctor?
+Patient: Yeah. I like, like to meet him at least. And because, I mean, there's a lot going on, like, with my left shoulder, I'm getting tons of pain and I still don't have no feeling in my right arm. I mean, I, I think [PHI-Personal] is trying to schedule me with the right people to diagnose it, but maybe he knows a little, little better. I mean, being that he's been,
+Nurse: I talk to him about your shoulder. Is that what you just said?
+Patient: I like to talk to him about my general health and, you know, just, you know, you know, everything that's going on.
+Nurse: Introduce yourself to him. You wanna see? Yeah.
+Patient: Yeah, introduce
+Nurse: Yourself. Ok. Nothing specific. Just discuss general health.
+Patient: Well, no, not, I mean, they're pretty much trying to work on the anxiety and the depression and stuff like that. I mean, I'm not really getting anywhere with it but I mean, they're doing all they can do, I guess. I mean,
+Nurse: Ok, I got you in there at 1 p.m.
+Patient: Ok. And that May 6? Ok. And what day of the week is? It
+Nurse: Might be a Tuesday. But let me look. Yes, it's next Tuesday, one o'clock,
+Patient: Next Tuesday, one o'clock. Ok. Will I receive a text or I'll go ahead. I need to go ahead and put it in my
+Nurse: Phone. Uh I would put it in your phone. Uh I don't call, I don't do the call in to do reminders or texting and it comes from somebody else within the office. So I'm not, I'm not sure how they do it. So go ahead and put it in your phone so you don't forget.
+Patient: Ok, So Monday, I'm sorry, [PHI-Personal] at one o'clock.
+Nurse: Tuesday. Next Tuesday.
+Patient: Ok, I'll put that. Yeah.
+Nurse: All right. Um, let me see what else we need to do here and we run over. Hold on just a second. I don't think we've done a, um, depression survey. I don't see it on here. Look one more place. And if I've done it we don't have to do it, but we only do one annually.
+Patient: I just had one done. Uh, yeah, we just did one, what, a few months ago. Yep.
+Nurse: We did [PHI-Personal], so we don't need to do that. And we've already went over your meds back in [PHI-Personal] when I first called you. So I think we're good to go and your depression and everything. You feel like it's better. It's stabilized.
+Patient: Uh, it's just, I've learned to deal with it. It's enough to get by. I mean, I get by, you know, I don't ever have a smooth day. I mean, it's, it is what it is. I mean, I pretty much except that this is my, it's my life and that's how it's gonna be. I mean, there's not much else I can do about
+Nurse: It. Are you walking the dogs again? You doing better with that? I'm
+Patient: Trying. But my legs keep going numb and like, like I said, I, I do what I can do and as soon as, like, a lot of times I'll get them out into the campground and my, when my legs go numb I'll, I'll barely make it back. I mean, I have to take to, yeah, I'll take my time really. Even getting back because I have to keep stopping. And I don't think it's like a cardio issue or nothing like that. I don't, it doesn't feel like that. It just feels like my legs go numb. I mean, I don't,
+Nurse: So who is [PHI-Personal] working with trying to get you referred to?
+Patient: Um, she said she told me neck but then somebody in the office told me it was back. I think they made an appointment already but I don't know when it is. I guess I'll get the text. Oh, it's, it's actually doctor. Um, I've seen him before about my neck years ago. He's with um, [PHI-Personal]. Oh God, what's his name? I'm terrible with names. I can't, I know who it is but I haven't received a thing from some, some Ortho yet on I think they scheduled the appointment but I didn't get the, yeah, Doctor [PHI-Personal].
+Nurse: They said it was scheduled on [PHI-Personal] the 25th.
+Patient: I ain't getting kind of notice or anything. Oh, yeah,
+Nurse: The patient scheduled appointment on [PHI-Personal] with doctor [PHI-Personal] at our [PHI-Geographic] office. So probably just call and schedule another appointment because it does not look like it. There's anything scheduled since [PHI-Personal] and if you missed that one
+Patient: And if you wanna tell them to make sure that they let me know because I don't think, I don't think I was let, let know
+Nurse: I can't schedule for specialist. You'll have to do that. Just let them know you didn't realize you had an appointment. Sorry, you missed it, but you wanna wesche it. Ok. And they've already sent referral notes and everything so they should have everything they need to be able to see you. Yeah, I don't know how, I don't know how far behind they are in seeing patients but well I'll
+Patient: Call there and when we hang up I'll call so I don't forget I'll call doctor.
+Nurse: Yeah that sounds good just apologize for missing the appointment.
+Patient: Yeah I'll call them because I I'm sure that they didn't notify me I ask them
+Nurse: Ask them if they call and remind you of appointments if somebody in their office does that if not you know put it on your calendar in your phone and set a timer the day before so you remind yourself to go. Yeah.
+Patient: Ok so I see [PHI-Personal] the 16th at one o'clock. That's it. Mhm. Ok I gotta make sure I put that in right now we hang up. Alright. Alright thank you
+Nurse: You call me if you need me bye
+Patient: Bye. Alright.

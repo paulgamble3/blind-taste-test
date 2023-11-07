@@ -1,0 +1,24 @@
+Nurse: Uh I know you had, uh you saw doctor back in [PHI-Personal]. How did that appointment go?
+Patient: It went very well.
+Nurse: Perfect. Glad to hear that. And then um [PHI-Personal] quick question. Do you check your blood pressures at home?
+Patient: Yes, I do. But not every day.
+Nurse: How often do you check your blood pressures?
+Patient: At least twice a week,
+Nurse: Twice a week? And how, how are they? Typically
+Patient: They've been very good.
+Nurse: You remember what your last BP reading was?
+Patient: Um, all right. I think you was [PHI-Account] something over 60 something I can remember.
+Nurse: Ok. And then [PHI-Personal] Ha, have you ever had your blood pressures go too high or too low at all?
+Patient: No.
+Nurse: Ok. Do you know what symptoms to look out for if your BP ever gets out of range?
+Patient: I'm sorry. Could you repeat that?
+Nurse: Yeah. Not a problem. Do you know what kind of symptoms to be on the look out for if your BP does get out of range?
+Patient: Uh, no, probably dizziness and, oh, shortness of breath, maybe. I, I'm not sure.
+Nurse: Yep. So dizziness and shortness of breath are two of the symptoms. Lightheadedness, nausea, uh, blurry vision. Some of these symptoms can be interrelated between both your BP being too high and your BP being too low as well as chest pain. But you'll see that more with the BP being too high. Um, if you ever experience that [PHI-Personal] and sometimes for some people, they don't have any symptoms, but your BP can be out of range. What I want you to do is if you check it, let's say it's out of range. I want you to wait five minutes. If it is too low, I want you to lay down if you're able to during those five minutes and then recheck your BP again. Now, if you recheck it again and it's still out of range, whether or not you're having symptoms, I want you to go ahead and either call, do s office to kind of see what the recommendations are or if you are having especially if you're having a lot of chest pain or any shortness of breath. I want you to either go to the nearest urgent care to the nearest ed, especially if your BP is severely out of range. Ok. I'm talking high two hundreds over 100 or 90/50 or like in the eighties. Over 50. Ok. Ok. And then how about your blood sugars? Do you, how often do you check your blood sugars?
+Patient: I haven't been checking it because the last couple of times, uh, they checked it, it was very good. Ok. And I drink plenty of water and I try to eat healthy and um, I try not to eat uh, things with a whole lot of sugar.
+Nurse: Ok. Not a problem. Ok, perfect. And then, so you have, ok, so it looks like we're gonna be doing blood work in September and then you're gonna be following up with doctor in um,
+Patient: [PHI-Personal].
+Nurse: Yes, this [PHI-Personal] at [PHI-Personal] [PHI-Personal] at [PHI-Personal]. So we'll be able to kind of recheck everything and kind of go from there. But I'm glad to hear the blood sugars are doing good. That's my only really big recommendation with the blood pressures is if you do see it out of range, when you do check it, then I want you to check it a little bit more often until it goes back to being normal. Um, if you're having symptoms or not and it's severely out of range so those are the things that I want you to do. Ok. Yeah. Ok, [PHI-Personal]. Do you need any medication refills at all?
+Patient: Um No, no, not at this time.
+Nurse: Oh ok. Not a problem. [PHI-Personal]. So what I'm gonna do [PHI-Personal] is I'm gonna go ahead and update my note and then I will touch base with you again in three months. Um so around [PHI-Personal] um check and see how you're doing and then give me a call if you have any questions or concerns that pop up. Ok. Ok. I'll take care and I'll let you go enjoy the rest of your day and then I'll talk to you soon.
+Patient: Ok. Thank you. Welcome. Bye bye. Bye bye.

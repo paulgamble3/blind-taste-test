@@ -1,0 +1,17 @@
+Nurse: Uh [PHI-Personal]
+Patient: [PHI-Personal]. There you are. Let's see what I called for. Did I say if it was regarding lab results or
+Nurse: No? Uh you didn't say, but I think it had something to do with um uh doctor. My last visit was uh you were talking about my quitting smoking and he said when I was ready to contact his office and uh he would set me up with a prescription for Chantix.
+Patient: OK? I do see that. That is exactly why I called. OK. Doctor [PHI-Personal] said that he could write. He, the options were uh the Chantix which blocks the nicotine receptors in the brain. Uh Some type of nicotine replacement such as a nicotine patch or gum uh and wellbutrin. He said he's happy to send any of those. He just wanted to know which one that you preferred.
+Nurse: OK. I tried the gum and the patch. They didn't work because I couldn't keep them lit. Um Just kidding. Uh I think I'd like to do the,
+Patient: That took me a minute. My brain's working a little slow this morning. [PHI-Personal] Bear with me.
+Nurse: I know I know the feeling well. Um I think I'd like to go with the uh Chantix. Um I tried wellbutrin a while ago and it didn't sit well with me, but uh one time I did try Chantix, it seemed to work fine.
+Patient: OK. So um did the wellbutrin cause like nausea or any type of side effects?
+Nurse: Um a little bit of nausea. But other than that, you know, it really wasn't anything. It just like I say, it just didn't seem to uh do the job.
+Patient: OK. All right. So, um I'll let him know that you prefer the Chantix and let me make sure we have the pharmacy on file. I have CV S [PHI-Geographic]. I have stop and shop and I have Osco East [PHI-Geographic].
+Nurse: Uh You can do that through uh CV S and [PHI-Geographic]. OK.
+Patient: All right. And have you checked with your insurance to make sure that they will cover
+Nurse: This? Uh The last I understood they
+Patient: Will. OK. If, if, for some reason, they don't just keep in mind that you can get on good Rx [PHI-Other] and download a coupon that way it'll ask you, you know, for your demographics, name, address and things like that. But then it'll give you the prescription savings card. You can just scan that in the pharmacy on your phone if your insurance doesn't cover it. Ok,
+Nurse: Thank you very much.
+Patient: You're welcome. But I'll get this to doctor today. He is in the office and then, um, once I have some feedback, I'll give you a call. Ok, thank you very much. You're welcome, [PHI-Personal]. Thanks for calling me back.
+Nurse: Ok, bye bye. Bye bye.

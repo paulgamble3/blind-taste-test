@@ -1,0 +1,40 @@
+Nurse: May I ask who I'm speaking with?
+Patient: Oh, I'm sorry, this is [PHI-Personal].
+Nurse: Ok, let me tell you uh what's the
+Patient: Sure, sure.
+Nurse: Is it [PHI-Personal]?
+Patient: Uh No, it's [PHI-Personal].
+Nurse: Ie. Ok. Ok, let's see. Ok, MS [PHI-Personal]. No, I'm actually with you now. Um it's not [PHI-Personal] anymore. Um I have, have you at this time? Um Is there something I can do for you?
+Patient: Yes, absolutely. I hope
+Nurse: So. Ok, perfect. Ok, let's talk what's going on?
+Patient: Uh Well, I need a refill on the prescription and I'm having and there are no uh refills left so they have to send something in from the doctor's office.
+Nurse: Ok, perfect. I will not mind um assisting with that. Can you provide me the name of the medication?
+Patient: Yes, I can. It's I let me spell it for
+Nurse: You. Ok,
+Patient: Perfect. Hy Os Dy Ami Ne.
+Nurse: Ok. Is this one that Doctor [PHI-Personal] prescribes for you? Ok. And then can you just verify the pharmacy that you would like it to go to?
+Patient: I'm sorry, I I didn't hear that. Ok, I can turn
+Nurse: My phone up. I'm sorry, my volume is not very nice. Ok, can you um tell me the pharmacy MS [PHI-Personal]? Oh
+Patient: Yes. Yes. W Walgreens on [PHI-Geographic]?
+Nurse: Ok, [PHI-Personal] Queens. Ok, perfect. Ok. So how have you been you doing? Ok. Uh how
+Patient: Have I been? Yes. Uh
+Nurse: We spoke yesterday. I just wanna make sure you're ok. We spoke a couple days ago. Um
+Patient: Uh yeah, that was another problem. We got that one taken care of. Ok.
+Nurse: Well, that's perfect. I will send this in to doctor [PHI-Personal] office for a refill for you. That's not a problem at all. I'm so glad you reached out, you know, so that I can assist you.
+Patient: Yeah, I've been having a problem with Walgreens uh on occasion. Uh Well, I've heard that from
+Nurse: Other patients as well, so it's not just you, I've heard them say um they've been having kind of problems. What has been your problem specifically with Walgreens?
+Patient: Uh I'm, I'm, I'm sorry,
+Nurse: Can you hear me?
+Patient: I can hear you. You're loud. It's just a clarity. I have hearing aids and I'm having a problem. Oh,
+Nurse: Ok. So what kind of problem are you having with Walgreens? Are they not stealing your medicine?
+Patient: Uh Yeah, I tried to uh normally they would, uh they would automatically get in touch with the doctor, but they apparently didn't do that. So I tried to order it and I got, I was told they would let me know when it would be ready and that was over a week ago. So obviously they're not, they haven't sent it in or something.
+Nurse: Ok. So I will send it in. I will take care of it.
+Patient: Ok. I hope I'm really grateful. Thank
+Nurse: You. Yes. Not a problem at all. I'm just checking now just to make sure it's one,
+Patient: That was
+Nurse: Still for you. Yes, so yes, I will send it in. Well, it looks like, you know what looks like someone sent it in. Oh, in January, but they didn't put any refills on it. Ok, let me see here. Let's see. Give me one second. I'm checking a visit. Ok, perfect. So I will, I will send this to the form to the um to the provider and we'll take care of it. Ok?
+Patient: Thank you very much.
+Nurse: You're welcome. I hope you have a great day.
+Patient: Thank you. You too. Thank you. And it, it was right. Yes,
+Nurse: It's [PHI-Personal]. So I will be your Yes, I will be your nurse going forward it. Um Yes, it's [PHI-Personal].
+Patient: Ok, thank you, Britney. Thank you. Bye bye bye bye.

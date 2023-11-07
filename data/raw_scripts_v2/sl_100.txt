@@ -1,0 +1,73 @@
+Nurse: Oh, ok. Great. And how do you feel now?
+Patient: Better than before?
+Nurse: Oh, good. So what did they do for you in the er,
+Patient: Uh, she gave me a, a cocktail, like, I forget what shots they were. She gave me a shot and pill for migraine.
+Nurse: Great. And did they CT Scan your head again or were they able to get the one from osteopathic?
+Patient: She got the one from osteopathic and she said it all looked good?
+Nurse: Great. All looked good. Ok. And do they know why you had this headache? No. Ok. Do they feel that it had anything to do with the sinus infection that doctor [PHI-Personal] was treating you for?
+Patient: Mm. No. No, she just looked at my ear and my throat and, and stuff and said that looked all right and said it was probably a migraine and then she gave me the medicine.
+Nurse: Ok. And did you, she tell you what to do for pain management in the future if you start to feel like that again. Um, I
+Patient: Know she gave me Zofran for nausea and she was gonna give me ibuprofen. But I told her I couldn't take that. I don't know if she told me they call my doctor. Yeah, I think that's what she did.
+Nurse: Ok. Did they give you a discharge paper, like instructions with things on it? I think so. Yeah. If you have the time, grab it and let's look over it together to make sure there's no other details that we should know about.
+Patient: I'm legally blind so I can't.
+Nurse: Oh, I'm sorry, say that again. It's ok.
+Patient: I said I'm legally blind. Oh, thank
+Nurse: You. I knew that and I'm so sorry I forgot about that. This is, you are so nice. So when we spoke, when you were in the emergency room, that was the first time you and I have ever spoken together. It's other nurses that have reached out to you in the past. So this is the first, the second time you and I spoke first time earlier today. So thank you for reminding me about your vision. Um, is your husband [PHI-Personal] still there so he can look over the paper?
+Patient: Hold on. Good. Oh, hi. This is uh the, the nurse she wanted to know if you can go over the paper. Hello.
+Nurse: Hi, [PHI-Personal].
+Patient: Ok. What are you doing? Hello? Can you hear me?
+Nurse: Oh, I can hear you now. Yes.
+Patient: Ok. So I need the paperwork.
+Nurse: Yeah, if you could go over the discharge paperwork that they, um, provided. So that way I'm sure that I'm not missing any important details that I should let Doctor [PHI-Personal] know about.
+Patient: Ok. Uh, the diagnosis is, uh, this in here, you see an adult medical exam, I guess without fine, uh, hypertension, essential primary hypertension, uh, gastro reflux disease, I guess. Uh, gas reflux.
+Nurse: Right. Yeah, they look like your current past medical history. Right.
+Patient: Yeah, pretty much just today's diagnosis. Let's see, what else here. Then some people look, hold on, look at their hand. Hm. We have today [PHI-Personal]. You said it's the right way mammogram.
+Nurse: So, did they go on to say what they treated her for? Like, [PHI-Personal] was thinking that it was a migraine. The doctor had said she had, did they put any of that in writing?
+Patient: I think so. But she gave me all the papers, she could sign the paper. No,
+Nurse: They gave you enough paper to wallpaper the walls.
+Patient: Uh, yeah, pretty much. That's ok. Maybe s would it be? Ok, migraine headache in, that's what they, that's what I take, uh, diagnosed you with a migraine. Ok. And, yeah, pretty much, uh, migraine head obstruction. They have, uh, as far as the diagnosis, if it goes and things like that. I, I, that yet. Ok. Keep going.
+Nurse: What was that last part? Keeping a diary.
+Patient: Uh, it is a headache diary.
+Nurse: So they saying keep a headache diary?
+Patient: Yeah.
+Nurse: Ok.
+Patient: Ok. So uh Ibuprofen 600 mg tablet uh one a day. And Ondans [PHI-Personal] four mg is a dissolving tablet.
+Nurse: Oh, can you spell that one again for me?
+Patient: Ok, Zofran.
+Nurse: Oh, the Zofran. Ok. Four mg. So did they give you a prescription for that?
+Patient: Uh Yes, they gave me a prescription for that.
+Nurse: Ok, good. And are you gonna get the prescription filled?
+Patient: Uh Yes, I'll probably still today.
+Nurse: Great. And what was, So the recommendations were keep a Headache Diary. Ibuprofen, which [PHI-Personal] said she can't take considering her prior history. The Zofran you have a script and you're gonna get it filled and any other recommendations.
+Patient: Um, basically what they were saying was, uh, and uh, it should, you know, in a couple days, it probably to find out what going on.
+Nurse: Ok. So they recommend see a neurologist or only if it pursues.
+Patient: Yes.
+Nurse: Ok. All right. So basically, um, you, uh, you guys are home, uh [PHI-Personal], can you still hear me?
+Patient: Uh Oh, no problem. Hello.
+Nurse: Hi, [PHI-Personal]. So basically you guys are home. You feel much better after the cocktail of a shot in the pills they gave you that the CT Scan looked good and that your instructions are to keep a headache diary. And since you can't take Ibuprofen, take Tylenol as needed, it sounds like you have a prescription for the Zofran and it sounds like [PHI-Personal] is gonna get that filled for you and then to follow up with the neurologist, if the headaches persist. Yes. Great. Is there any other information that I missed? No. Ok. And is your, um, headache down to zero or do you still have a slight headache?
+Patient: Still have a slight headache? So,
+Nurse: Earlier, it, it was a 10 out of a 10. What is the headache like? Now,
+Patient: I say
+Nurse: [PHI-Personal]. Ok. And is the [PHI-Personal] tolerable for you
+Patient: Right now? Yes. It's more tolerable than the other.
+Nurse: Ok. So let me communicate this with doctor and I don't know, she might want you to be seen in the office sooner than later. So, is there anything else you want me to tell doctor? HFF? Other than what went on today?
+Patient: Uh, no.
+Nurse: Ok. And, um, this headache just came out of the blue yesterday. There's nothing, um, that precipitated it, that you can think of.
+Patient: No, because I haven't had a migraine. I, I used to get them once in a blue a couple of years ago. Like, it's been a while.
+Nurse: Ok. Hasn't, you haven't had one in like a few years? Yes.
+Patient: But it was, it was never like this though. That's, this was different cause where the migraine was. It was basically more on where I had my shunt. Oh, ok. It was like a different kind of pain. So I kinda thought it only from like nausea and I didn't like the noise and the like TV or stuff. But other than that, that pain was different. So I do. Yeah.
+Nurse: Right. And in the past did you have to take medicine for your migraines? No.
+Patient: Um, I just went to the, er, and they gave me the cocktail that they gave me today and, um, I think one time they gave me like it wasn't, um, what's it called? It wasn't migraine medicine but it was, uh, like a muscle relaxer or something for.
+Nurse: Yeah. Or in the past, in the past. Ok. All right. And, uh, do you still have pain in your ears or is it just your head? Just my head? Ok, good. All right. Well, let me update doctor that your home, that your pain is down to a [PHI-Personal] out of 10. Let them know what the, er, recommended and then I'll call you back and let you know if doctor wanted you to be seen in the office. Ok. Are you available if I call you back later today? Or am I gonna get a machine?
+Patient: I should be available unless the meds kick in because it's been a long night
+Nurse: And day. Yeah. Really? And because you do need your rest, so am I allowed to leave a message on the machine or you want me to talk to you personally?
+Patient: No, you can leave a message. That's fine.
+Nurse: Ok. All right. Well, go take care of yourself. Um, now you probably missed some meals, didn't you feeling terrible?
+Patient: Yes, because I couldn't. Yeah, you were right.
+Nurse: Have you gotten a chance to eat anything since you got back home? Yes. Good. And is the food sitting? Well, like you feel better after eating? Yes. Good. And, uh, keep up your fluids because you probably, you know, missed quite a few hours of drinking also. So don't overdo it but sip on beverages throughout the day. Uh, that way you can catch up on your fluids you might have been lacking. Ok. All right. Well, I'll call you back and let you know if doctor wants to see you in the office or not, but otherwise feel free to take a cat nap. You have had a heck of a last night to say the least. So continue to take care of yourself and I applaud you and [PHI-Personal] for reaching out to let us know the latest.
+Patient: Thank you. I appreciate you.
+Nurse: Oh, you are welcome. Anything else on your mind before I hang up?
+Patient: No, that's everything. Thank you.
+Nurse: Oh, you're welcome. Always feel free to call us anytime. All right, I'm gonna let doctor [PHI-Personal] know and again you go take care of yourself. Ok. Thank you. Oh, you're welcome, [PHI-Personal]. Thank [PHI-Personal] for me. I
+Patient: Will.
+Nurse: Great bye bye.

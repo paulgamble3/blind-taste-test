@@ -1,0 +1,58 @@
+Nurse: Ok. Give me one second real quick to [PHI-Personal] you up. Ok. Ok. Here. Got close. All righty, I got you pulled up. Now it takes me a minute on
+Patient: Top. All right. No problem. Uh, I, I was hoping that I could confirm something with you. Ok. Uh, Doctor [PHI-Personal] had me on, uh, famotidine. Ok. And I, it was canceled, uh, by your office on the [PHI-Personal]. I don't know if I got that because I was still taking it. I believe it's for, uh, acid reflux. If. Ok. Well, I just was wondering whether there was a reason if I don't have to take it anymore? That's great. Or am I just to not take it? And if I get the acid reflux back?
+Nurse: Let me look at here. Oh, ok. Right. And when was it canceled?
+Patient: I believe, uh Giant said it was in [PHI-Personal]. Did I have an appointment with you in [PHI-Personal]?
+Nurse: Well, I talk to you every month but let me look, I didn't, well, I didn't talk to you in [PHI-Personal]. Um
+Patient: I was just hoping you might be able to help me out.
+Nurse: Yeah, I can, don't worry I got you. Ok. So you did have a Wellness appointment. [PHI-Personal] 24th. I'm gonna scroll up. So med discontinue the Pepcid which is your famotidine is OK. That was discontinued and you were supposed to start Pantoprazole. 40 mg
+Patient: Pant be with me
+Nurse: And it should have been four. Yeah. 40 mg is the brand name that um you might, is Protonix.
+Patient: I got you. Pantoprazole. I have that. Ok. But you take uh back from [PHI-Personal] of [PHI-Personal]. I was taking it back then. So he just had me continue on the pantoprazole.
+Nurse: Yeah. Um, let me go back and read it. It was, well, I don't like when it comes to, you know, your, the acid reflux. Yeah, cause that's an assessment and then it says med you your Protonix med discontinue your Pepcid.
+Patient: OK. Like I said, I've been taking the pantoprazole for, well, this, this sheet here dated back with my medications on it from [PHI-Personal] [PHI-Personal] 2022.
+Nurse: And this one that I'm seeing is just [PHI-Personal] 24th. So if I go to,
+Patient: I guess if it was just to, to continue that and go off of the uh, the other one, the uh, yeah,
+Nurse: I would stop taking the Pepcid. Do Protonix. I'm trying to look back at your old medications. Sorry. So, yeah, it looks like at one point you were taking it, um, I guess maybe you're just having, you were having better results with the Protonix. Ok. Do, do you think you are,
+Patient: Um, at this point here I, I just haven't had any problems too much except on a rare occasion having any kind of acid reflux. Ok. Good.
+Nurse: So, no, daytime, nighttime. No sore throat swallowing issues.
+Patient: No. Ok. Ok.
+Nurse: Ok. Yeah. So, yeah, definitely do that. Throw out the Pepcid and do the Protonix. But, uh, you know, for
+Patient: Some reason.
+Nurse: Mhm. If you start having, like, you know, that issues with indigestion, acid reflux or whatnot, let us know. But,
+Patient: Ok,
+Nurse: He must, he must be able to tell a difference since they need you to do
+Patient: That. Ok. And then just to, uh, keep you, I guess an up to date here, um, I've been having some trouble with my feet, swelling, feet swelling. Yeah. And I had this problem in the past and they doctor, it was Doctor [PHI-Personal] cardiologist who put me on, uh, furosemide. Yes. Ok. Uh, last time I'd seen him, he, you know, the swelling didn't seem to be too much of an issue and he told me to take it only as, uh, the problem returned and it, it has over the last week and a half.
+Nurse: Ok. Do you have that Lasix on you to where you can check the expiration date,
+Patient: The, on your side
+Nurse: For your swelling?
+Patient: I, I just, uh, I just got this prescription, they still had some left for me down at the giant.
+Nurse: Ok. What milligram is it
+Patient: That there is 20 mg,
+Nurse: 20 mg and it's just once daily as needed.
+Patient: Uh, yeah. And, uh, now it runs this, this prescription runs out. I believe the, I think you gave me a 30 day supply. Ok. Let's see what they have on here. Yeah. 30 days.
+Nurse: And cardio done
+Patient: That. Yeah. And then that my, that prescription runs out. I would have to contact.
+Nurse: Yeah. Yeah. Since cardio wrote it they'll have to refill it all. Exactly. Got you. Ok. Are you having any pitting edema? Where if you mash down on where you're swelling, if you mash down with your finger and hold it down and then release, does it stay indented?
+Patient: Uh, well, they had me down, uh, as having edema and to take, take it as long as I did see. Yeah.
+Nurse: Yeah, definitely. I was just wondering if it's pitting. I didn't know if maybe you can match where it's swelling real quick to see if it stays pitted. Like a
+Patient: [PHI-Personal]. Ok. I can't very well tell.
+Nurse: Ok. It might not be too bad. Oh,
+Patient: Just one. Maybe a little bit but not.
+Nurse: Ok. Ok. Um, is your skin look stretchy and shiny?
+Patient: Uh, it, it did, uh, like I said, I, I started taking these two days ago. Ok. Good. And I have noticed that, uh, it isn't quite as bad. As what it has been. They were, the one ft was swelling up pretty good. Ok. Good. Yeah. And I elevated time and didn't even realize that I had these and I went through some of my records and that's what they had put me on this year. I had none of it. And called the Giant, uh, pharmacy and they said, well, uh, they still had me down for it for 30 days left.
+Nurse: Ok. Awesome. I'm glad they had that. Um, ok, just watch out if that pitting gets worse. Ok. Um, while it is still a little bit there, try to reduce salt intake. Just a little bit more. Ok. Um, keep it elevated. So if you're sitting or laying down, like if you're laying down in bed, put a couple of pillows under your feet where your ankles are and keep
+Patient: It up. Ok. Well, I have noticed too when I first thing I wake up in the morning, the swelling is down.
+Nurse: Yes. So when it comes to edema it does, that swelling is the least amount when you wake up in the morning. So usually if you have compression socks, if for people with edema and they have compression socks, you can get them at Walmart or even any pharmacy. But we buy
+Patient: Sneakers that, uh, it makes a difference from where my, uh, channels.
+Nurse: Yes. Yes, definitely. But yeah, we always say to put them on first thing in the morning because that's when it's the least amount you. Yeah, cause um well, sometimes it works. You could always get Miss [PHI-Personal] maybe to massage your leg. I don't know she want to, but get her to massage your leg and kinda go upward cause it makes that fluid retention try to go to other parts of your body to spread out instead of just [PHI-Personal]
+Patient: Right there. All right. So you
+Nurse: Could try that. Um I will let doctor quit know just fy, I, because I need to add that to your medication list. Ok. And I'll put cardio prescribed it. So I'll send a message as well. If, if that swelling gets worse, please call me
+Patient: Back. Oh, that I will leave me. Ok. I was going to, uh, call you at the, at the beginning of the week and then, like I said, I seen this here and it was just for my swelling. It. Ok. I just found a copy of my, uh, um, appointment with, uh, the cardiologist and I've been using that. There was as my, um, uh, prescription model. What I, what I was taking, what they took me off of, you know, because it had a fuller list of, I used to be on about 14 different prescriptions.
+Nurse: Yeah, it's a little, yeah, let's see.
+Patient: This is a guideline. Yes. Ok. Good deal. But that, there's where I found that, um, you know, I had written down on here that, uh, stop taking un less severe swelling of feet. So,
+Nurse: Yeah, good. You're doing great. Um Yeah, like I said that if it gets worse, difficulty breathing chest pain, those are the signs you need to see someone a a ok. But hopefully the Lasix should help. But like I said, if you need me, let me know and I'll let, but just kind of keep him updated just in case if something happens, which I pray and don't
+Patient: I appreciate that.
+Nurse: Of course. Of course. Is there anything else I can do for you to
+Patient: Help you? No, I believe I'm, I'm good to go for that right now and if anything changes, I will certainly contact you. All
+Nurse: Right. That sounds great. Ok. Ok. Well, you have a good day.
+Patient: You do the same dear. Thank you. Thanks. Bye.

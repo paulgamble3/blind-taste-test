@@ -1,0 +1,29 @@
+Nurse: Ok, that's not a problem. Um I just wanna confirm your information. We have still the same. We have your mailing address still is [PHI-Account] [PHI-Personal] uh [PHI-Geographic] [PHI-Account]. And then we have your insurance still [PHI-Personal] and [PHI-Personal] supplemental. Yep.
+Patient: And how much is an as an office visit for her to call me the nurse?
+Nurse: Uh, the total bill will charge to [PHI-Personal] is approximately $[PHI-Account]. Uh, after [PHI-Personal] pays, they submit the difference to [PHI-Personal] uh, for payment review. All right. Ok. Um, do you normally have to pay anything out of pocket when you see Doctor [PHI-Personal] in the office?
+Patient: I just went to [PHI-Personal] in [PHI-Personal].
+Nurse: So. Oh, ok. Ok. Um Because, yeah. Ok. Uh again, it is considered to be an office visit. Uh If you did get a statement, it like if [PHI-Personal], if [PHI-Personal] didn't pick up the difference from after [PHI-Personal] paid, uh you may get a statement for around $9 or so. Ok. But again, that's only when you have contact with your nurse. So if you, again, you know, if you chose for her to call you once a year, you may get a statement then from the practice once a year for around $9 or so. And again, that's only if [PHI-Personal] doesn't pick up the difference.
+Patient: So this replaces calling into the hotline for refills. Um No places a visit with Doctor [PHI-Personal]. What does it replace?
+Nurse: No. So actually you'd still keep your appointment with Doctor [PHI-Personal]. Uh The point of the program really is to help Doctor [PHI-Personal] stay on top of how our patients are doing and it provides additional support for you and the other patients. So you're still able to call into the office, you know, and, or, or if you wanted to just reach out to your dedicated nurse, you can do that also too. Uh, you know, like one of the benefits of being in the program is so your dedicated nurse, she's in daily communication with Doctor [PHI-Personal]. Um, and if you were to say you're trying to make an appointment, you know, after two or three times and, you know, no one's getting back to you or anything, you just can't get through, uh, you could always reach out to your dedicated nurse. She's able to typically schedule an appointment for you in the office, uh, and get you in sooner than rather if you called yourself. Ok. Ok. But again, you know, even if you had like blood work done or, or, you know, some tests done and you were looking for results, um, she's able to go over those things with you as well
+Patient: And she does have
+Nurse: Prescriptions. Yes. So if you need a refills, even from, uh, medications from other doctors, she's able to, to take care of that for you as well too.
+Patient: So, is there a fee for this nurse? How does she get paid?
+Nurse: Uh, well, she's through family practice. Ok. So that's, you know, that's our employer. But, ok. Ok. Um, but I'm gonna mail you out the information, you know, look it over if, for any reason you have any questions or any concerns. You could always reach out to me. My, again, my name is [PHI-Personal] or you could, uh, you know, talk to Doctor [PHI-Personal] or anyone else in the office.
+Patient: Ok. And this care management program is all paid for, except for the, when I talk to the nurse, which is an office visit. So there's no other fees.
+Nurse: Correct. Yes. Yes. There's no other fee, you know, I mean, unless, like, you know, if she orders you prescriptions and you have a copay for your prescription type of thing. But, um, but other than that, yes. No. And again, it's only a billable service when you have contact with her, which you control.
+Patient: So every time I call her it's billable,
+Nurse: It is a billable service. Yes. Um, so even with whether and take, if
+Patient: I call her for refills, it's a billable service.
+Nurse: Yes. Yes.
+Patient: So how much is it to make a phone call to refill?
+Nurse: Um, so again, I mean, if you, if you contacted her or if she called you, either way it would be a bill charge to [PHI-Personal] approximately $[PHI-Account]. Um, and again, whether or not II, I don't know if [PHI-Personal], uh, picks up the difference or not with your plan. Uh, so I don't wanna tell you. Yes or no. Um, but again, if you, if it doesn't, you may get a statement then for around $9 or so.
+Patient: Ok. But if I call into the office and I said I need a refill on, you know, whatever it's free until I have the nurse do it.
+Nurse: Yes. There you
+Patient: Go. It's [PHI-Account]
+Nurse: Dollars to [PHI-Personal]. Yes.
+Patient: Right. But what, so why would I use the nurse when I can just call the office to get refills? Uh, because insurance
+Nurse: Again. So, you know, some, some patients like having their, their dedicated nurse con in, in contact with them. you know, we, we, we have a, a lot of our patients had their dedicated nurse calling them once a month already. Um It, it's, it's someone there. It's, she's there, you know, even just to vent or to talk or, you know, it's just if you had any questions or concerns, you know, again, she's there. Um, if you tried, you know, and if you try to get in touch with Doctor [PHI-Personal] and you couldn't get through, you could always reach out to her and she, like I, like I said, she is in daily communication with Doctor [PHI-Personal]. Ok.
+Patient: Ok. Makes sense. All right. Thank you so much, [PHI-Personal]. Oh,
+Nurse: You're welcome, [PHI-Personal]. You have a great day and stay safe.
+Patient: You too and I'll look for your letter. Thank you so much.
+Nurse: You're welcome. Bye bye bye bye.

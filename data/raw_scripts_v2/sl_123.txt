@@ -1,0 +1,61 @@
+Nurse: Mm mm mm. Now, now mister [PHI-Personal], let me get you pulled up here, Mister [PHI-Personal], you were actually on my list. So I was gonna call you this afternoon.
+Patient: Yeah. Sorry. It took so, so long.
+Nurse: Not a problem. Hold on. I'm gonna pull your chart up, right? All right. M dear. I got you pulled up here. Anything new since I talked to you last?
+Patient: I've got three, referrals to specialist from doctor. Yeah, I, I
+Nurse: Just say doctor w sometimes it gets just, just too much of a mouthful. Sometimes
+Patient: I've been unable to get an appointment until after the first of the year. I guess they're all tied up with appointments and stuff. I know he doctor wanted me to come back in seven weeks, but I haven't made an appointment yet because I'm sure he wants me to see the doctor.
+Nurse: Well, let me see what's available on my end. I can see if I can try to get you in a little sooner with him. Maybe I can, maybe I can't, I don't know. We'll see.
+Patient: Yeah, I was just fixing to call them back.
+Nurse: Did they call you for an appointment?
+Patient: Uh, nobody's called me. Ok. It could, it could, it could be the phone. I, I don't know. I got the same phone number but a different phone. I changed providers.
+Nurse: Got you. Yeah, all I'm seeing here is [PHI-Personal] is the earliest I have.
+Patient: Yeah. Yeah, that's, that's what, that's what I got,
+Nurse: But I got the [PHI-Personal], 15th and [PHI-Personal]. I'll be honest if I were you, I'd just go ahead and schedule [PHI-Personal] that way. At least you're locked in in case you try to call later and, and now they tell you [PHI-Personal].
+Patient: Yeah. Yeah. He, he refilled all the prescriptions for three months. I had a little trouble. I ran out of three medications and, uh, CV, si thought it was on auto refill. But there's certain medications I have to talk to the pharmacist for, to send to me and I've done that and got everything filled. So, all prescriptions are up to date.
+Nurse: Good
+Patient: Yesterday. I took a, took a day off and celebrate my early, early birthday on Friday. My friend took me to Chili's.
+Nurse: You're [PHI-Personal] more year young,
+Patient: Huh? Oh, man. I don't wanna hear.
+Nurse: I always tell, people, don't tell me, I'm [PHI-Personal] a year older because I'm not, I'm a year, more mature. Ok.
+Patient: [PHI-Personal] years old?
+Nurse: Oh, you're still a young spring [PHI-Personal].
+Patient: Yeah, you could say that. But I don't believe you,
+Nurse: You're only as old as you feel. That's what I always say. So, do you, do you want me to go ahead and schedule you? I can do the [PHI-Personal], 15th or the [PHI-Personal]. That way you're at least on the schedule.
+Patient: Uh, yeah, but it's gonna have to be after nine o'clock. I can't get down there before this because they're
+Nurse: All, they're all afternoon appointments. I have like, 3:30 p.m. on the [PHI-Personal]. Yeah.
+Patient: Is that good? Yeah, I'm having a little trouble in the morning. You know, I'm still having trouble, uh, taking my medicine. I have to wait an hour or two after I get up before I can swing without throwing up.
+Nurse: Have you, have you done what I told you to do? Yeah. Tucking your chin down to your
+Patient: Chest. Yes, ma'am. But it, uh, it, it hadn't worked because I,
+Nurse: Or I, or even putting them in something sometimes that helps, like putting them in a, a thickened, like a pudding or apple sauce.
+Patient: Wow. I think I'll try that because I got some cinnamon apple sauce in the refrigerator. Do
+Nurse: That. Put, put, put the pills on the spoon and put some apple sauce on top of it and see if you can take them that way.
+Patient: Yeah, I forgot that. That's the way they used to give it to me in the hospital. I forgot. That's, uh, that's, that's from getting old
+Nurse: And you know what? You just have a busy life.
+Patient: Yeah, it's been pretty good. A really good movie on Netflix. Well,
+Nurse: Good, good. At least you can enjoy your time doing that.
+Patient: Yeah. Yeah. Got a little extra money. Got a little extra money this month. My social security goes up on the first. Yeah. By 8.5%. 0, wow. Yeah, that's a good raise. It's usually only a percent or something, you
+Nurse: Know. Yeah, that's good. Got my room. All right. Well, I got that scheduled here for 3 30 on [PHI-Personal] and I want you to try that in apple sauce.
+Patient: I absolutely will. I, it just slipped my mind because that's like I say, they had to do it in the hospital in the morning. Um,
+Nurse: Do it, do it like that. I'm going to follow up with you in like two weeks and see if it's helped.
+Patient: And, you know, the last time I talked to you, you said something about somebody calling me about that BP. Fine. Yeah. Uh uh, nobody has contacted me.
+Nurse: Ok, I'm gonna have to reach out and find out what's going on. I'll reach out.
+Patient: Ok. I know it's the holidays and all it. It's ok.
+Nurse: I'll see what's going on. I'm not sure what's going on. I'll see they may have policies on me and, you know, who knows?
+Patient: Yeah. Yeah, I've been going through a little bit of that pancreatitis and that gastro problems I have, uh, for a couple of days I've had serious diarrhea. I bought the pepto bismol and today I'm better.
+Nurse: Good, good
+Patient: Drinking, drinking apple juice. Doctor told me to drink apple juice.
+Nurse: Yep. Well, I'm glad, I'm glad that that's helping you.
+Patient: Yeah, in a couple of three days I was
+Nurse: Good. I'm gonna, I'm gonna call you back in two weeks and I wanna see, I want you to tell me that that apple sauce is working.
+Patient: I will, my BP has been down because he doubled up on [PHI-Personal] of my BP medications. It seemed to be down. I took it this morning. It was 1 10/85. Well, that's not bad. Yeah. It, it, it's not gonna go no lower than that. That's extremely low for me.
+Nurse: Is it, when did he, when did he change that medication
+Patient: When I went, went to him? He doubled up on my, uh, by Lisinopril.
+Nurse: Oh, yeah. Did we talked about that, didn't we?
+Patient: Yeah, I thought so. It took a week or so, or? 24 30 working, but it, it's working. That's why I like to take it first thing in the morning. I promise I'll take it with applesauce.
+Nurse: Sounds good. I'll call you, I'll be calling you weekly for a little while just to check on you. Make sure you don't have any side effects from the increase the Lisinopril and that you're doing ok.
+Patient: Ok. Thank you, [PHI-Personal]. Sorry, I took a couple days to call you. You told you a pain in the neck. I'm old. It's
+Nurse: Not a problem at all. Mr [PHI-Personal], I'm just glad I had the pleasure of speaking with you today.
+Patient: And me too. You be safe out there. They say this uh COVID might, might surge again soon.
+Nurse: Oh, I'll be honest with you, Mister [PHI-Personal], I'm not worried about that. I treat it just like I treat the flu and I've been fine. I've had it three or four times. I'll be honest with you. My whole family has, we've all had it three or four times myself. My [PHI-Personal] year old, my [PHI-Personal] year old, my [PHI-Personal] old, my [PHI-Personal] year old, we've all had it three or four times and, and I mean, it's like the flu you get, you just have to treat it like anything else. Warm fluids, stay hydrated, make sure you're getting your vitamins. That's the most important thing.
+Patient: All right, you have a good day. Be safe out there. Thanks.
+Nurse: You too, Mister Gary. Bye bye.

@@ -1,0 +1,22 @@
+Nurse: The symptoms for COVID? So you can have um
+Patient: I woke up I I woke up really freaking weak.
+Nurse: Oh, ok. So fatigued body aches, fever. Um some patients are reporting G I issues congestion, nasal congestion, uh you know, chest congestion, um lack of appetite, I mean there's there's a whole array. So today you woke up. Do you have a fever? [PHI-Personal]?
+Patient: Um 101? I guess that's I'm doing it wrong unless I'm doing it wrong. I don't
+Nurse: Know you say it was 100 and one. Yeah.
+Patient: Ok. But I feel fine except when I stand up it's like, oh my God weak.
+Nurse: Ok. Fatigued weak fever. Do you have any COVID at home test or? No?
+Patient: Well, I do but I think I messed it up. I don't know how to, I don't know how to work complains. Oh,
+Nurse: Ok. Would you like to come in for an appointment then to be seen by doctor [PHI-Personal] and maybe get tested for the flu and COVID. Uh, yeah,
+Patient: We can, I, I have, I have to find a way there first.
+Nurse: Oh, ok. Do you want me to look to see what appointment times we have available or do you wanna see if you have somebody that could bring you and then give me a call back.
+Patient: Um, do you see what appointments, I
+Nurse: Guess? All right, let's see what we have. How did you feel yesterday?
+Patient: I feel fine yesterday. Ok. I know the flu is
+Nurse: Really going around right now. A lot of patients, you know, are reporting flu COVID. So it's hard to tell which one it could be without getting the proper testing.
+Patient: Ok, good. I, I'd never get sick. That's the, say
+Nurse: We have one today at 4 15.
+Patient: That would be too late,
+Nurse: Too late. That's the only one I have for today. Let me look at tomorrow. Ok, I have nothing. Yeah, thanks. The, I don't have anything for tomorrow day, but the next available appointment then wouldn't be until Wednesday at 1 30.
+Patient: Ok. Maybe I'll wait and see what happens next day or two and find out. Ok.
+Nurse: Well, I would, you know, uh, take you some Tylenol, you know, treat your symptoms, um, you know, get plenty of fluids to drink, get plenty of rest. Um, if anything changes for you, you know, like your fever increases or, uh, you know, now you develop like the congestion in your head or in your chest or a cough, you know, if you start to cough up green or yellow phlegm, you know, reach back out to me and I'll see if we can get you scheduled for an appointment. But for now, you know, just rest fluids, you know, take the Tylenol as needed for any fever or aches or pains and then reach out to me if anything changes, but I, I'll follow back up with you tomorrow too then [PHI-Personal]. Ok. Oh, ok. All righty. Well, I hope you feel better and if anything changes don't hesitate to call. Ok. Yeah. All righty. Thanks a lot. Oh, you're welcome. I will. I'll give you a call tomorrow morning just to see how you're doing. Ok. Ok. All right. Bye
+Patient: Bye bye.

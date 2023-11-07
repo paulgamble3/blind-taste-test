@@ -1,0 +1,25 @@
+Nurse: Yeah, I was just calling to check in with you and see how you're doing.
+Patient: We're doing all right. Uh, we had our appointments for yesterday to see [PHI-Personal] but they called and asked us to wait another week because there's so many really sick people and we're not. So.
+Nurse: Ok,
+Patient: Appointments are next, next Wednesday.
+Nurse: Yeah. Ok. So, ok, so looks like we got your MRI. Uh, let's see, that was [PHI-Personal] and the results, um, [PHI-Personal] Duffy or so, [PHI-Personal], he said to reassure you that overall your results are stable. Um, there are some age related findings that are not abnormal. There's no sign of old stroke. Um, and then he will go over the results at your appointment. Yeah. Yeah. So overall looks
+Patient: Good. I'm look, I'm looking forward to that. Yeah. Yeah. Get the, the, his, his view on it. Mhm.
+Nurse: Ok. And let's see here. So, what about your medications? Do you need any refills?
+Patient: No, I called refills in, into Optum Rx the other day. And we've got those. I don't think there's anything we need right now.
+Nurse: Ok. All right. And then have you seen any specialty doctors, like a heart doctor, kidney doctor or anything like that?
+Patient: No, not, not recently. We keep up on that. So, I think we, we see the, the, uh, cardiologist or at least sees the cardiologist, like, every six months or something. But I see him once a year.
+Nurse: Mhm. Got it. Ok. Um, let's see. And then how's [PHI-Personal] doing any changes in his medications?
+Patient: I don't think so. Right now he's out working in the yard pulling weeds and stuff and I keep going out to check on him and taking him water. Ok.
+Nurse: Ok. And let's see. Triage, it looks like, ok, so we got his results, um, and his A one C is stable and so his results for the A one C was 7.0. Um, and then [PHI-Personal] is going to review, um, all of your, or all of the medications or sorry, all of the labs and your MRI at this upcoming appointment. Ok. Ok. Ok. That's fine. Perfect. All right. Well, do you have any questions today?
+Patient: No, I don't believe so. I have a couple for [PHI-Personal] when I get in, in there, but I can,
+Nurse: Ok. Not
+Patient: Anything majorly important. Mhm.
+Nurse: Ok. All right. Well, if you need anything or you have any questions, give me a call. Ok. Ok,
+Patient: I will do that.
+Nurse: All right. Well you have a great day.
+Patient: You too keep cool if you can. Yes
+Nurse: I'm trying.
+Patient: Ok.
+Nurse: Alrighty, I'll talk to you next month.
+Patient: Ok, bye bye. Right. Bye
+Nurse: Bye.

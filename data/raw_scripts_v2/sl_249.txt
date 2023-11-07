@@ -1,0 +1,104 @@
+Nurse: I'm glad to hear it. I had given you a call to follow up with you here. Just give me two seconds to pull up your chart. I think the computers think it's already break time or something. So, I had called you, um, yesterday just to get you started with the chronic care management program here. Doctor [PHI-Personal] had asked that us nurses give you a call and follow up with you. Um, I, I'm not sure if you got our letter in the mail or not. I know it's been a little bit. The mail has been a little wonky lately. Um, but the program would be, you'd have access to a nurse at all times. So, during the day, if you have any questions, do you have any concerns? Anything? You've been meaning to ask the doctor, you forgot, you can give us a call, we can walk you through it. We do not take the place of Doctor [PHI-Personal]. We would just be helping out with him. So if you have questions, concerns, need medication refills, anything like that we can help you with that. Our goal is to make sure you understand what's going on with your body, why you're taking their medication and stay as healthy as possible?
+Patient: All righty.
+Nurse: Does that sound ok. That
+Patient: Sounds fine. All
+Nurse: Right, perfect. So just a few things with it. I know you have an appointment coming up with Doctor [PHI-Personal]. Um, in [PHI-Personal] you just had an appointment with [PHI-Personal] at the end of March. Um, so I just wanted to make sure that we have everything completely up to date in our system cause I know you see a cardiologist and an orthopedic. So I like to make sure that there's no, no new medications from them that we aren't aware of. So if I go through the medication list, would you be able to tell me if you're taking it or not? Um, ok. So I have a atorvastatin 40 Mgs at bedtime. Yes. Uh, you got Tylenol extra strength here as needed.
+Patient: Mhm.
+Nurse: Right now, um I'm gonna put a caveat in here just be very careful not to go over 3000 mg a day. Otherwise that becomes toxic to your liver.
+Patient: Now, I usually take just the two be at bedtime.
+Nurse: Ok. That's perfect. That's only 1000. That's, that's well under the limit.
+Patient: Yeah. And believe me it's helped.
+Nurse: Good. I, a good night's sleep is very very important. Oh,
+Patient: It really is. But it helps with my hand and arm and the, um, thing that I put on my hand at night is great.
+Nurse: Now, what, what do you mean this thing that you
+Patient: Put on the, uh, yeah,
+Nurse: That glove or? Yes. Uh
+Patient: Huh. Ok. Perfect.
+Nurse: All right. So then I have a baby aspirin once a day. Yes. Gabapentin. 300 mg. But you're taking two of those at bedtime.
+Patient: Uh, that first one that you said, um, what was that? At bed time? I don't. The
+Nurse: Atorvastatin.
+Patient: Yes.
+Nurse: That one's for your cholesterol.
+Patient: I think he switched that to wait a minute. Let me check something here. Ah, ok. The Lipitor. What's the dosage on that? It's, uh, one tablet at bedtime. But he switched that to in the morning. Ok.
+Nurse: Ok. Yeah. Atorvastatin is actually the generic name for Lipitor. So that, so that is in there. I will switch the note to say in the morning.
+Patient: I'm sure, you know, he switch it, so I'm sure I'm supposed to continue to take it in the morning. Yeah,
+Nurse: Sometime. And that's why I like to always double check. Sometimes they get, they tell you then they get so caught up in something else and he just forgot to go in and it says at bedtime to flip it to, to morning. So that's why we like to follow
+Patient: Up. Yes.
+Nurse: Is a great doctor. But everybody needs some help sometimes.
+Patient: Oh, yes.
+Nurse: All right. So I will fight with the computer and get that switched. Um, then I have the metoprolol 50 mgs a day. Mhm. Clopidogrel, which is also called Plavix. Yes. 75 mg a day. Mhm. AmLODIPine 2.5 mg a day. Mhm. Uh You've got your Melatonin three mg at night.
+Patient: I don't take that, but only I think I need it. Ok. That's
+Nurse: Perfect. That's exactly how we want you to do it. Then I have a Baclofen, um, that you can use on your back as needed.
+Patient: Oh, that doesn't do any good. So, I don't do that anymore. Yeah,
+Nurse: It either works or it
+Patient: Doesn't do it at all. No, it used to be the consensus. My back still bothers me and there's, I don't think there's anything they can do about it.
+Nurse: Have you ever seen a chiropractor?
+Patient: A chiropractor? No, I have gone for, uh, therapy and that didn't help. No.
+Nurse: Ok. Stretches. That's what I would recommend. Stretches, um, to help those muscles loosen up. So they don't do those. I normally say do bed stretches. Sit in your bed, lean forward, lean sideways, side to side and get nice and [PHI-Personal] before you go to sleep. It's amazing how as we get older we can hurt ourselves sleeping. Mhm. Ok. Now, there's only one more medication I have here and I'm gonna butcher it. I'm sorry. Flu, flu cortisol. So, yeah, I'm gonna see if there's another name for that. And click on it here. I, I apologize. I butcher some of these brand name or these, I
+Patient: Don't blame you. I understand it. Oh,
+Nurse: It's a, it's a chemotherapy one. So that's, is that 5%? [PHI-Personal] is the other name?
+Patient: Let's see. For no. Oh, I, it's, and I,
+Nurse: I think it's a, I don't, might be a cream.
+Patient: Nope. Don't do any creams. Ok.
+Nurse: It's Sluorour ac il 5%.
+Patient: Ok. I tell you what was it again?
+Nurse: And it does say it is a cream. No,
+Patient: I, I've never taken that or don't know what it is. I don't take any creams.
+Nurse: Ok. Yeah. And I don't know who prescribed it. It just says other prescriber.
+Patient: The only other one that I could think of would be, uh, the heart doctor but I don't, you know.
+Nurse: Yeah. Ok. You know what, let me just call the pharmacy and see if they can tell me who prescribed it and I'll call them and see if they want you to continue on it. Then they're gonna have to let the
+Patient: Only one I take from the heart doctor is the OL XL or that's a generic name and it's uh meta something or other M eta pop relol.
+Nurse: Yeah. Met metoprolol. Metoprolol. Ok. Yeah, I'll just call the pharmacy and find out where that one came from because it doesn't, it doesn't even have a date prescribed here on here.
+Patient: It just, but, uh, no cream at all,
+Nurse: It might be really old. Mhm. Which is why I like to clean up your med list too.
+Patient: And then he's just prescribed a, a vitamin for my bone.
+Nurse: Uh, calcium. Yeah. And when you say he Doctor
+Patient: [PHI-Personal]. Doctor [PHI-Personal]. Ok. How much, uh, I'm just going by the directions it didn't say so. It's, I take one in the morning and one in the evening. Ok.
+Nurse: Do you, um, do you have the bottle?
+Patient: Yeah.
+Nurse: Ok. It should say on the bottle. How many milligrams of ca, of calcium are in there?
+Patient: Ok. Calcium, 600.
+Nurse: And does it have vitamin D in
+Patient: It? Yes,
+Nurse: I'm giving that
+Patient: Vitamin D 3d 3. Uh huh.
+Nurse: And is that 400 mg?
+Patient: Ah, calcium is 600. Let's see, 20 mg 100%.
+Nurse: I'm sorry, the phone broke up really bad on that. What did you
+Patient: Say? It says, uh, vitamin D three, 20 mg and 100%. Ok.
+Nurse: I'll go ahead and add that to the list. Um, anything else you're taking?
+Patient: No. Oh, yeah, I'm taking, um, fish [PHI-Personal]. How many milligrams? Oh, let me get the bottle. I just take one of those a day and it is. Yeah, I'll see. Let me close, close the refrigerator freezer door because I have to open that to get the top of it where I keep them. Um, yeah. Know what he said. Hm. [PHI-Account]. Ok.
+Nurse: Yes. Some of those, uh, bottles are really hard to find where
+Patient: It is. Oh, wait a minute. [PHI-Account] mg. That's what I want.
+Nurse: [PHI-Account] you said?
+Patient: Yes. Ok. And I take one of those a day?
+Nurse: All right, I will add that to the list that way. Doctor [PHI-Personal] knows. No, you're not checking your blood sugar or anything. Right. Are you checking your BP? Yeah. What are your blood pressures running?
+Patient: Well, it was just taken and it was, what was it?
+Nurse: So, you, do you check them at home?
+Patient: I do. And it's been a little high but then I just had it checked. Where did I go to? What doctor or something now? And they, oh, I know the nurse was here from, uh, for the, in home. Uh, check up the, um, yeah, and she took it and it was good, like 100 and one or two over something. Oh, right.
+Nurse: You have home health coming in to see you.
+Patient: No, this was, um, oh, shoot. Is that part of your insurance? Yeah. Yeah,
+Nurse: It's that time of year again. Mhm.
+Patient: Ok.
+Nurse: All right. Well, if you would, um, just take it at least once a week. So we know everything's going good. Especially if you say it's running a little bit higher. It's something we want to keep an eye on and make sure it's not creeping up because BP plays a very important role in your overall health. Um, now the only other thing I do. Wanna double check here is uh pharmacy Smarted. Excuse me? I had to sneeze. I wanted to put you on mute for that. All right. So I will give them a call and double check on that cream. That's on your list here and see where that came from and follow up with that doctor and, and let them know you're not taking it anymore. They want you to take it.
+Patient: I've never even heard of it.
+Nurse: Yeah, if they want you to take it, they're gonna have to give you a call is what I'm gonna tell them and let the and let you know why they ordered it. All right. So I will get this all put in. I will get that sent over to doctor [PHI-Personal] and I will get a letter out in the mail to you with my name and our phone number on it. That phone number is gonna come directly to me. So if I'm on the phone and you might go to voice mail um and I'll give you a call right back but you're always gonna get a person, you're not gonna get a computer. Alrighty. Right. Is there any other questions or concerns that you have that I can address?
+Patient: Not that I can think of just the fact but nothing you can do about that. I've decided no
+Nurse: Heating pad and stretching. I would highly recommend that before you go to bed.
+Patient: Well, it doesn't bother me when I go to bed. The only time it bothers me is whenever I'm out here in the kitchen, fixing dinner and stooping, you know, and bending down, then it hurts. Or when I'm cleaning the bathroom, I have to stop all the time and sit down that goes away. Yeah.
+Nurse: Well, stretching can believe it or not, stretching can help with that because it could be, your muscles are really tight and they, they start to get sore when you're, you're working out because they're not used to stretching like that. So, some stretching exercises before bed can really be helpful and they can help prevent you from hurting yourself while you sleep, which is always a problem. Well, at least for me I found and heating pad actually helps release those muscles as well. Yes. So that can help loosen
+Patient: Them up to put the heating pad on. Yeah.
+Nurse: Well, just be careful with the heating pad too. Make sure you have like a towel or something between your skin and the heating pad. We don't want you getting any burns from
+Patient: That. No, there's a pad on it.
+Nurse: Ok. But even still, sometimes that can get hot or that can get worn out. I've had patients have a, one, have one of those little flaps over their heating pad that came with it and they still got burned from it. So, just to make sure you're paying attention and
+Patient: This, this has a temperature thing on it. Ok.
+Nurse: Good. You don't crank it all the way up that can that hurt? All right. Well, I will get this put through if anything changes, you give us a call, I'll check up uh with you next month. Make sure everything is going good, make sure that nothing else going on and we I will let you know when I get if if I get to a doctor that tells me where this med came from I will give you a call and let you know who it was from and why.
+Patient: Ok. Alrighty and uh call, call in the oh Wednesday and Thursday I play Pea Knuckle on Wednesday and my on on Thursday so I'm not here. Oh ok, I'll put a note you know till late. Well after three o'clock
+Nurse: Uh put a note in the chart I don't wanna interrupt those games. Oh
+Patient: No please don't interrupt those games. No
+Nurse: We can't have that. Alright. So I put a note in the chart there so that we don't bother you then.
+Patient: Ok.
+Nurse: All right. Well you have a very happy [PHI-Personal]. You
+Patient: Too and thank you for calling.
+Nurse: You're welcome. Mhm. Bye bye bye
+Patient: Bye.

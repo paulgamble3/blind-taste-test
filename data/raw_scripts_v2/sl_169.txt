@@ -1,0 +1,34 @@
+Nurse: You can it? Oh,
+Patient: Ok. Oh, I figured
+Nurse: Is when I have a,
+Patient: Yeah, normal, normal guy.
+Nurse: Well, what's going on? My friend?
+Patient: Um, well, I went and I had the, um, biopsy done.
+Nurse: Ok.
+Patient: And I ran into a little problem with it but, um, it went in the outdoor and, uh, I kind of bled a little bit too much. So I, they sent me to the emergency room. Ok. But, um, I'm better.
+Nurse: Good. Well, I'm glad you're better. Oh, my goodness. Well, are you, are you, you're not bleeding now or anything? Are you?
+Patient: No, no, it's, it's pretty much done. I just, with the BP and the, uh, blood thinners because of the stents and all. Yes, they had a problem getting the blood, the clot.
+Nurse: Of course, of course.
+Patient: But, um, the reason I called you was because, um, they said my hemoglobins or something and all were low and I need iron.
+Nurse: Ok, let me, let me get the message to Doctor [PHI-Personal]. So, ok, so you had an issue with the biopsy. Um, you started to bleed. Um, let's see, you came in, it looks like you initially had a hemoglobin of 12.9 which was down from, uh, 15.7. So that's actually pretty high. And then you had, did you have blood in your stool,
+Patient: Um, for the first day or so
+Nurse: I stopped,
+Patient: Um, and I really didn't have any in, in the urine, which was, I guess. Good.
+Nurse: Good. Yes. Yes. Yes, that is good. Oh, you definitely don't want urine, uh, blood in the urine. Um. All right. So let's see. Ok, so then that was with doctor. Uh, let's see. Yeah, I see. With, yeah, doctor [PHI-Personal] do was urology. I'm looking here. Um, ok. Um, we'll plan for a call over the weekend regarding symptoms. Ok. And then it doesn't, did they ever follow up with you? The, this doctor [PHI-Personal]? Did she ever call you?
+Patient: Um, well, they gave me the next morning? Oh, ok.
+Nurse: Ok. Good. Good, good. And
+Patient: Everything is pretty good
+Nurse: Then? Ok. And then let's see, what are your labs looking like? Now, um, I'm just looking to see what, what your labs, uh, what the hemoglobin is at. Um, complete blood count. Here we go. Ok. Yeah, I do see that you've had a pretty, you had a pretty significant drop. Ok, let me call Doctor [PHI-Personal] see if we can get you in for, um, an appointment and then what they did,
+Patient: They coming up with
+Nurse: Them? Not until [PHI-Personal]. So, yeah. Mm. I was thinking about trying to get you in sooner. Would you be able to pull that off, [PHI-Personal], if I could get you in sooner? Like when you would get there?
+Patient: Well, I just came from, um, what's his name? Um, Doctor [PHI-Personal]. Ok. Um, because I got the, um, what's the name? I'm getting the eye done on the [PHI-Personal]. My right eye.
+Nurse: Ok. Ok. Got you. Um, ok. Well, um, and ok, so you, you're having your, your, the right eye surgery, um, on, and that's, um, can I just pick
+Patient: Up an iron pill or something?
+Nurse: Ok. Let me, let me ask, let me ask if he'd be willing to just prescribe you something, uh, like an iron pill. Um, let me see if that's something he'd be willing to do. Um, I'll, I'll try for that and he might just say, you know what, I'd like to just talk to him. I'd like to call him on the phone, make sure things are ok. And then, and then give him the iron pill. Let me see what he wants to do. Ok. And, um, and, uh, you having any sort of bleeding? Now, any concerns, any lightheadedness, feelings like a, anything like
+Patient: That? No, I'm fine.
+Nurse: How's your heart rate? You feel like it's normal or is it feeling like it's fast?
+Patient: Uh it feels normal.
+Nurse: Ok. If you notice, if you notice it gets real fast and you don't feel quite yourself or you just feel like lightheaded and dizzy or like even if you notice your skin looking like a little bit like um just pale and not quite yourself, you call me because those could mean you're, you're losing blood. Ok? And I'm gonna call doc right now and we'll let him know what's going on and, and give him kind of uh uh a little summary. Ok? Ok. Great [PHI-Personal]. Alright. Thanks for giving me a call, [PHI-Personal]. I'll take care of this and I'll, I'll give you a call back as soon as I got something. Thank
+Patient: You. Thank you. Of course.
+Nurse: All right, bye bye bye
+Patient: Bye.

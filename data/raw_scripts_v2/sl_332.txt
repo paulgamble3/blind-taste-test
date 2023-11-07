@@ -1,0 +1,17 @@
+Nurse: Oh, perfect. Good deal. That's awesome. Let me pull it up real quick because I can't see it yet. Ok. Your blood pressures look good today. Good BP, heart rate, everything looks really good. Um On your visit with doctor [PHI-Personal] your blood sugar's been good. Diet's been good. BP was fantastic. How's your heartburn?
+Patient: My heart is great.
+Nurse: What about reflux? Do you get like indigestion?
+Patient: Uh I do have that answer. This stuff still bothers me every now and then. Not like it used to, but it still bother.
+Nurse: Ok. All right. Um Are you taking it every day?
+Patient: I take it every morning.
+Nurse: Ok, perfect. How about your gout gout is fine. No
+Patient: Gout is great.
+Nurse: Good deal. And you, do you need any medication refills or? You're good on that also?
+Patient: Uh uh I'm not at home so I do need, what do you mean? Let me see. I think it's for my, uh, BP pill. Whatever the BP I need refills for those. Yeah. Yeah. Just for old I believe because I'm getting low on those.
+Nurse: Your carvedilol. Yeah. Ok. And then I think it uh the Olmesartan.
+Patient: Yeah.
+Nurse: Ok. And what about I just filled spironolactone. So you're good on that. Yes, you're good on that [PHI-Personal]. Mhm. And then let's see. I think on that Olmesartan you, oh, you should be good on. Ok. So the carvedilol should be the only one because it looks like doctor actually sent that Olmesartan over and it's good for a year. So if you need some, I would call the pharmacy because you may have some on hold there. But I will send a message about this carvedilol because it does look. No, you should be good. I would call your pharmacy and see if you have any refills on hold there because it looks like everything is good until like [PHI-Personal]. So you may have some like remaining refills there. Ok. Then that's fine. Yeah, give them a call and see if you do and if you don't, then just let me know and then I will get it refilled for you. Ok. Yes.
+Patient: Ma'am and thank you so much.
+Nurse: Uh huh. You're welcome, sorry about all the back. I
+Patient: Have a great day now.
+Nurse: Uh You too. Bye bye.

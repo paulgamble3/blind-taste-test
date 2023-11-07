@@ -1,0 +1,26 @@
+Nurse: Ok. [PHI-Personal] give me a moment though. Uh.
+Patient: Mhm.
+Nurse: Is Care management?
+Patient: One moment. Care management? Uh huh. Ok. T
+Nurse: Ok. Uh huh. Uh and uh uh huh. Er, order [PHI-Personal].
+Patient: [PHI-Personal] is er
+Nurse: Uh huh. Oh,
+Patient: Ok. Ok. But it will be
+Nurse: Uh huh. See correct. So I will hit, I hit uh uh huh
+Patient: It
+Nurse: Huh. A se si N in [PHI-Geographic]. Ok, in [PHI-Geographic]. Uh
+Patient: Huh. [PHI-Geographic] [PHI-Personal]
+Nurse: In um.
+Patient: Mhm. Uh huh. Hm.
+Nurse: Well, no, they see. No, no let you. Ok. Tuesday after Tuesday.
+Patient: No.
+Nurse: Um
+Patient: [PHI-Personal] er, what? [PHI-Personal]?
+Nurse: Ok.
+Patient: See what is the number?
+Nurse: Mimo Beca [PHI-Personal]. Uh huh ba is ce
+Patient: Ok, just uh you me.
+Nurse: No, just um enrollment but um,
+Patient: I see. Ok.
+Nurse: Ok,
+Patient: Bye bye bye.

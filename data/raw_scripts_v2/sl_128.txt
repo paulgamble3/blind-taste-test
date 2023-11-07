@@ -1,0 +1,17 @@
+Nurse: I know. Right. We were playing phone tag for a little bit. How are you?
+Patient: I'm doing
+Nurse: Good. Good. Very good. So, I was reaching out to give you the information on the care management program that the doctors are offering. And so what that involves is they would just have a care management nurse just giving you a follow up phone call in between office visits. Mhm. So that nurse could reach out to you either once every three months or once every six months. That would be up to you and she just calls basically just to check and see how you're doing and she'll ask you if there's anything that she can help you with or, you know, address or discuss with you such as if you were having any issues or concerns or if you just had questions in general that she can help you with. And then she also reviews over any kind of medications that you're on and she'll just ask you things like how they're working for you or if you have any issues with any of them and if you refill, she calls and gets them refilled for you. Ok. Um And then she does go back and she reports everything to the doctor and [PHI-Personal] after every follow up call. This way it helps them stay uh more updated and aware if there were anything did change in between those appointments just so they can better manage your health and just making sure you're staying as healthy as possible and they also do give you the same nurse that follows up with you each time. Alright. All right. That's something you would be willing in trying.
+Patient: Sure
+Nurse: Bye. All right and [PHI-Personal] just to verify I have your right address. I have [PHI-Geographic]. That's correct. Alright. So once I get you up here today what your nurse is going to do? She's just gonna give you a first initial phone call next week. Ok. And that is just so she can introduce herself so you know who she is and then gonna give you her direct contact number so if you do need her for anything in between you can call and talk to her.
+Patient: Ok.
+Nurse: Oh, all right. So I got everything covered and everything here that I need you all set.
+Patient: Ok, I just have one question. Will she be calling from your area or from my local
+Nurse: Area? From your local area? Ok. Ok I thought she have a [PHI-Account] area code
+Patient: That's what I was asking.
+Nurse: Yeah yep she'll have a [PHI-Account] yeah 717.
+Patient: Ok sounds good to me. Her name
+Nurse: Is gonna be as well so I'm sorry what was it? I think her name is gonna be I think that's who on this? Ok.
+Patient: Ok. Ok, good enough thank you very, very much.
+Nurse: Oh you are very welcome thank you and I hope you have a great weekend. Ok, you
+Patient: Too. Thanks. Bye
+Nurse: Bye. Thank you. Bye bye.

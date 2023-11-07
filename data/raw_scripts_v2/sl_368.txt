@@ -1,0 +1,33 @@
+Nurse: No. What's going on? So pretty. Oh, I can't hear you. Can you hear me?
+Patient: Yeah. Ok. Let's see. Can turn this up. Can you hear me any better? Yes. Ok. Yeah, I've just been having some trouble with the, uh, different pain areas. I have the migraines but this seems to cha have changed or something. But, oh, the pain in my head is really bad. Uh. Oh,
+Nurse: Really? Pain in your head? Ok. Uh, yeah. How long has it been hurting like that? Is it sharp or describe the pain?
+Patient: Yeah. Yeah, it's, it's sharp. It, it's, it's moving, it's just, it's totally different than how my migraine has felt all these years.
+Nurse: Oh. How, how many days has this been hurting like this?
+Patient: It's actually been a while. Probably when I was in there last I think I've mentioned it.
+Nurse: Ok. Let me see when you were in last, when you came in to see the nurse in [PHI-Personal]. Is that what you're talking about?
+Patient: Uh, I guess it was the, the nurse seems like I saw both. But,
+Nurse: Yeah. Yeah, you saw, well, you saw Doctor Lower Back, it looks like on [PHI-Personal] 7th and then you saw the nurse on the [PHI-Personal]. Ok. So it's been hurting since [PHI-Personal] like that.
+Patient: It is gotten worse.
+Nurse: It's getting worse. Ok. Yeah. And it moves all around your head. Is it like, behind your eyes or on the side or in the back towards your neck?
+Patient: It, it moves a, around the back of the head, the door part and, I mean, normally with the migraine you get pain and it's in one spot that hurts for a while but this is just, it hurts a lot more and it moves from one place to the other.
+Nurse: Ok. Huh. Um, and nothing is really relieving it. Are you using like an ice pack, um, you know, laying in a, laying down in a dark room? Like none of that's helping.
+Patient: No, I've been doing the, the room because I feel bad and, uh, that's all I'm able to do. It just kind of lay there but it hasn't helped anything.
+Nurse: Um, let's see. Do you see, um, like a neurologist or anything for your migraines or is it always just been doctor Lower Back?
+Patient: Um, I probably seems like I used to see a neurologist.
+Nurse: Did you let me look in your chart and see what I can find. It's probably been a while though.
+Patient: Yeah. Let's see.
+Nurse: Oh, it was just last year. Let me look and see what that note says. Chronic migraines. Yeah. So that was about a year ago. Um, a lot of times those specialty offices, if it's been, you know, within a year they don't need a new referral or anything. Do you want their phone number? Maybe to give them a call to get an appointment?
+Patient: Ok. I was just try, trying to think the doctor I saw recently was, uh, [PHI-Personal], unless it's a neurologist or,
+Nurse: Um, it looks like Candice [PHI-Personal], um, is like a nurse practitioner and it says neurology, let me see who else it looks like. Um, that nurse practitioner is the only one that you've seen from neurology at least last year. Let me see if I can find their phone number for you a second. Have you ever had like, a brain scan or like an MRI or anything? Yeah. So
+Patient: You had all that I ha I have throughout the years. Ok. Ok. Let's just
+Nurse: Works on the note. It doesn't say their phone number. Let me Google it and see what I can find here. Yeah. I mean, because you, we can get you in to see doctor. Um, we're back for this but, you know, if you've seen the neurologist in the past, they're usually the best ones to see for that kind of stuff. Um, all right. Are you ready for the phone number? Yes. It's [PHI-Account], [PHI-Account], [PHI-Account].
+Patient: Ok. Give me the last one again. The last part.
+Nurse: Um, [PHI-Account].
+Patient: Ok. And what is this one? Uh,
+Nurse: This is for the neurologist that you've seen in the past for your migraines. I would call them and see if you can get in soon to be seen. Um, just because you saw them about a year ago, if they need a new referral or give you any trouble scheduling an appointment. Call me right back and let me know, um, a and call me back anyway because I wanna know when the appointment is, you know, I wanna document that. Ok.
+Patient: Ok. I'll, uh, I know I had some paperwork that they gave to me. Oh, yeah. And I believe it was, or maybe someone that they had there in their building that I could see. But, uh, actually I was having a migraine at the time. So,
+Nurse: Yeah, kind of hard to focus. Right.
+Patient: Go back over those notes and see.
+Nurse: Yeah. Yeah, you could, um, I would just definitely give them a call.
+Patient: Yeah, whatever, whatever I come up with and set up something I'll give you a call back. Yeah.
+Nurse: Just let me know. I like, I like to, you know, keep up on that and, and document it in our chart just so we know, you know, where you're going and stuff. So, yeah, just let me know. Um, if I don't hear from you, I'll give you a call tomorrow. Um, but I, if I don't answer I might be on the phone and you can just leave me a voice mail. Just let me know when the appointment is and all that kind of stuff. Ok. Uh huh. Ok. All right will you call me um and let me know that um and if I don't hear from you, I'll call you soon. Ok. Ok, sounds good. Alright you you have a good day. Thank you sweetie. Thank you bye bye bye bye.

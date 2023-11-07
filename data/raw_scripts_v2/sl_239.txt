@@ -1,0 +1,38 @@
+Nurse: Ok. Well, she's here right now. Um, I just put in her phone. Um, it's when you call her, will it be from this, this number? The [PHI-Account] should? Ok. The reason why I'm saying that is because if my mom doesn't have the number in her phone, she won't answer it. So I, I just wanted to make sure that she has the proper number for when you do call. Um, but I have the letter here, um, and was just trying to explain the program to her.
+Patient: Yeah. And, and you pretty much hit all the key points. I mean, that's, that's really what we're doing. Um, we're just trying to help the patients, um, you know, manage any of their chronic conditions that they have, um, answer questions. We could help refill medications. Um, I'm, you know, if she's not feeling well or if there's anything she wants to communicate with the doctor, it looks like she's gonna be seeing, um, Doctor [PHI-Personal], um, her next appointment. It's,
+Nurse: That's how you pronounce it.
+Patient: Um, yeah, it looks like her next appointment is on the second at 10 30 in the morning. Um, I actually tried to call the other day. Um, but I didn't get an answer. Um, just because I was trying to do this what we're doing right now, just kind of like our introductory call. Um, and just, you know, kind of explain the program and everything.
+Nurse: Yes, I think maybe you might have called me or someone called me and because her, my cell number is listed on her profile. And so I told the nurse that here's my mom's phone number, she's not gonna answer. Leave a message that way I know what the number is so I can put it in the phone. But then when I came over today she gave me or I, I received the letter and there's a phone number on the back. So I just put it in her phone so she has it now. Ok, good, good. Do you have any questions? Mom? No, in other words, she isn't gonna call me on her personal phone. It, no, it will, it will give that number. Yes that you put in my phone. Yes. Ok. Do you have any questions for us? Not right now? Ok. Ok. So I guess she doesn't have any questions for you. Not right now. I think
+Patient: I did wanna go over um her medications today. I just wanna make sure we have an up to date list in her chart here if um you guys have a minute to do that.
+Nurse: Ok. Do you have your list? It's in that, in that, in that folder there. She just had her one eye operated on for cataracts and I Oh, ok. And I think it's in there. It may be on the other side. I'm not sure but yeah. Ok. Did you see that? Not real good here? I can read it. Let's see. Is this on? No, wait a minute. Ok. I've got her list in front of me.
+Patient: Ok. Um so the first one I have is the um Fosamax or Alendronate 70 mg one time a week. Yes. Ok. And then amLODIPine five mg every day.
+Nurse: Yes.
+Patient: Ok. And the baby aspirin 81 mg every day.
+Nurse: Well, I haven't been taking it right. Yeah, it says here sometimes and I told her today when we were working with the, the nurse at, uh, [PHI-Geographic] to remove her one cataract. She really should be taking it every day. So, is that correct? That it should be daily?
+Patient: Um, that is, um, the order that we have in the computer right now. So I'm gonna go ahead and say, yeah, because that's the, you know, whichever doctor it was that ordered that, um, that's how she want, they want her to be taking it. Ok, every day, every morning. Um and then the next one I have is the Doxazosin two mg every night. Yes. Ok. And then um escitalopram 10 mg every day. Yes. Ok. Um Lisinopril five mg every day. Yes. Ok. And then sotalol um 80 mg every day.
+Nurse: Correct?
+Patient: And then the last one I have here is Spironolactone uh 25 mg every day.
+Nurse: Correct?
+Patient: All right. Is there anything else that she's taking that we don't have on the list here?
+Nurse: Mhm. How many have you got there? [PHI-Account].
+Patient: Yep, that's what I got too. All right. Looks like we're all up to date then. Ok. I'm also gonna be sending out another letter. Um that's gonna have some wellness goals in it. That's gonna be anything that the doctor recommends um that you follow up with just as the year goes on just if there's any labs or testing or anything like that that might be due. Um and then um it'll also just have, it'll have my number on there, but you already have my number. Um, so,
+Nurse: Um,
+Patient: Yeah, um, let me see if you don't have any more questions then, um, I'll be getting back in contact with you in about a month. Ok.
+Nurse: Ok. Let me ask you a question. Does doctor, do you do, um, like in her records? Do, does he, like, update and send you all updates because he's a cardiologist or any of the other doctors or?
+Patient: Um, so I would have access to any of the doctors that she sees that have, that use the same, like computer system. Um, so if they're, if they're using that, but let me see what else I got in here. Um,
+Nurse: The only other one I have is doctor Ha. Yeah, he's the cardiologist. What were they questioning today? You have? Oh, yeah. Do I have a heart, um, or do I have a fibri, yeah, I, is there anything in her records there that she has a heart fibrillation? Because I believe she, I seem to think that my mom can't confirm that she does and there wasn't any records at [PHI-Geographic] to today when they were asking those questions.
+Patient: Um, it does say that, um, she does have a diagnosis of, um, atrial fibrillation. It looks like that was, um, from a few months ago. Doctor [PHI-Personal] added it. Um, and that's when, uh, that's what she's taking the sotalol for, um,
+Nurse: I'm taking. So, yeah, that's for the heart,
+Patient: That's for the, that's for like, any, like, arrhythmia or like, it, it helps to control her, um, heart rate.
+Nurse: Ok. And, and, and what's the name of the prescription again? So, sotalol. Ok. And that's for a heart fibrillation? Mhm. Ok. I'm not on any blood thinners. There are, I am, I,
+Patient: Um, the only one that would be considered a blood thinner is the baby aspirin. Technically, although it's not really.
+Nurse: Yeah. Ok. Ok, Wednesday when I last saw Doctor [PHI-Personal], she, she said, oh, while you're here, can I get your blood should have the blood drawn? But I never got any report on it. What did they find anything thing wrong?
+Patient: Let's see. It looks like let me see they just did some basic labs on you. This was from back in [PHI-Personal]. Was that the last time you saw her?
+Nurse: Yeah.
+Patient: Ok. Um, so they did a CBC and AC MP which are just like your basic, your basic labs. Nothing really looks too far off and then she also checked your iron levels but your iron looks really good. So that's in uh yeah, that's really it. So that's one of those cases where you know, no news is good news. That's why they didn't call you,
+Nurse: Right? Ok. Alrighty. Yeah. Well, I think that's it. I'm, I'm glad that I called and we got this letter and we've got this um partnership going. So my mom, if she has any issues she now knows in between doctor's appointments she you'll hear from me. Well, alright,
+Patient: Very good. I look forward to hearing from you.
+Nurse: Ok. Thank you.
+Patient: Alright. You're welcome.
+Nurse: Bye bye bye
+Patient: Bye.

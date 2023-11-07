@@ -1,0 +1,40 @@
+Nurse: Oh, yeah, no problem. Ok. So what is your mom's name?
+Patient: Her name is [PHI-Personal]. Ok, perfect. Have reached out to me and I, I, I'll get back to her but I just received the letter.
+Nurse: Ok. Um, and is um your mom's date of birth? 38, 1956? Yes, it is. Ok, perfect. So, um my name is [PHI-Personal], I'm actually your mom's um nurse care manager and that's probably why the phone number ras straight to me. Um, yeah, [PHI-Personal] is our enrollment specialist. So she's the one that, you know, calls and you know, um, tell
+Patient: Me my email, that's why. Ok, [PHI-Personal] [PHI-Personal] your name?
+Nurse: Yes, ma'am.
+Patient: Ok.
+Nurse: And so, um, you just had some questions about the program? Is that what it was?
+Patient: Yeah, we, I want to do it, you know, we wanna do it. Yeah.
+Nurse: Ok, perfect. Ok. So, um, I can do the intro call right now. Um, if you'd like you have some time. But um the. Ok, perfect. So basically, um, what the program consists of is every month I'll be calling and just checking in and I can call and check in with you or your mother. Um either way but um so I call and just see what's going on. So um it looks like she's had some visits lately so when I would call I would just go over those visits with her or you um it looks like she see Doctor [PHI-Personal] on the third. Um Nope, it does not look like she saw Doctor [PHI-Personal]. Did she, let's see trying to look at the last time she was in the office. Um it looks like in the
+Patient: I think it was on the third, it was on the third. Ok. Stopped there and then she she recommended us to go to a G I doctor. Oh
+Nurse: Ok, perfect. Mhm. Ok. So um basically you know, I would just go over her recommendations and her plan for your mother um and just say just make sure you guys understood what was going on if you guys needed an appointment for a specialist or um, needed to reschedule an appointment. I could help with that. Um, I can help get medications or any other kind of, um, you know, any other health care needs that I can help with. I also one of our big goals is education. So, um, we would educate on your mother's um, diagnoses. So, um, what are her main diagnosis, um, that y'all are dealing with right now?
+Patient: Well, she has kidney failure. She's on dialysis. She um heart, heart problems, high BP and she just got diagnosed with um osteosclerosis,
+Nurse: Sclerosis. Ok.
+Patient: And, and yesterday, yesterday she visit the GG I doctor for about her stomach. Mhm.
+Nurse: Ok. And then it looks like she also has diabetes. Is that correct?
+Patient: Well, she did have diabetes but she's not and no insulin, no medication for diabetes anymore?
+Nurse: Ok. So it's just um diet control then.
+Patient: Yes. Diet control. Y
+Nurse: Ok. Yeah, cause um they tend to say once you get diabetes, once you get diagnosed with the diabetes, you always have diabetes but it looks like um, she's like that like prediabetic stage.
+Patient: Yeah. Yeah, she's off the insulin and everything.
+Nurse: Ok. Perfect. Ok. That is wonderful. So, um, we'll keep that on there just so we can talk about, you know, lifestyle choices and things like that. Um She has, uh, does she have neuropathy like nerve damage in her feet and legs? No. No. Ok. Um, let me see. I'm trying to look at any other, she does
+Patient: See a foot doctor cause they've been checking her nerves with Doctor [PHI-Personal] or? Ok.
+Nurse: Mhm. And it looks like, um, ok, you did say she has some kidney disease and she is on dialysis, correct? Yes. Ok. Ok. Perfect. So, that's, uh, we'll kinda keep it at the, um, the kidney disease, the prediabetes and the hypertension, um, to talk about and that's what we'll base our, like, our education around. Um, and then it looks like, um, she has some things that are due for her to go in and have done. Um, now these things that are due, they're called our, um, yearly care plan or our Wellness goals and what they are just things that [PHI-Personal] says that she can have like her pneumonia vaccine, her, um, what's called a functional assessment and that is done every year at her annual Wellness exam. Um, and it looks like she's had her two COVID vaccines. Has she gotten her booster yet?
+Patient: Yeah. She got her booster and she has her flu shot.
+Nurse: Oh, wonderful.
+Patient: Ok. She got it at, at the [PHI-Geographic].
+Nurse: Oh, perfect. Awesome. Yeah, they, they're pretty good at keeping them up to date on their, all their vaccines. I know that. Yes. And it looks like she'll be due for a mammogram this year as well. Yes. Ok. So, um, I'm gonna send you out a letter with my name and number on it, but it'll also have the thing she is um due for this year, you know, just that um oh, I can't, it lost me. No, just that [PHI-Personal] says she's due for or can't have. So that'll come out and your name is [PHI-Personal]. Correct? Yes. Ok. I'm just gonna write that down here and um I'll be doing all my calls with you.
+Patient: Yeah. Ok.
+Nurse: And, and the phone number that you called in, that's your number, correct? Yes, perfect. Ok. Do you have any questions for me?
+Patient: Yeah. Uh Yes, I've been trying to call the doctor's office because I needed some more blue pad and her pull up and I was trying to see if I could get a lift. I was good for a lift to live for off a bit like a medication. Yeah, she, she has an amputation on her right leg. I mean, wait, wait. So he, he looked at me, I lost her right her right leg. Ok. A whole list. Yeah. Small whole unit in the trans to the body.
+Nurse: Ok. Um I'm trying to think of what it's called. Uh ok, let's see. So you need the Shucks blue pads.
+Patient: Yes, I think, I think we need another uh another script because you know how they do it for six months. Ok. Yes. So I haven't received none. So I figure, I think I think we need another script and I don't know, I really don't know the agency that they, that you know the facility that they send
+Nurse: Them to.
+Patient: Yeah, I don't know the name so I, I couldn't call them to ask them, you know, you have a script. Yeah. Ok. And um, and pull ups, you know, um medium pull up II I requested that a while ago and I never got none.
+Nurse: Ok. And the lift to help, get in and out of bed. Ok. So um I will, I can't um I don't call them or speak to them directly. But what I do is I put a note in like as a refill request and, um, and they'll put in to ask for that order for the S pads, the incontinence briefs and the lift. Is that correct? Yes. Yes. Ok. All right. So I'll send that in it. Sometimes it takes them about a week or so to get back to me, but I will follow up with that and you are more than welcome to follow up with me at any time. I'm here Monday through Friday 8 a.m. until 4 30. But if you leave me a message, it comes straight to me. It doesn't go to anyone else. So I will get it and then it like if anything were to happen, I want to be off work or out of town. There is always a back up person here to cover my calls. So somebody will always be here to help you. If you need anything, you can always count on us to call because they're all, there's, there's always someone here to like pick up the phone. Ok.
+Patient: Ok. No problem.
+Nurse: Ok, Miss um [PHI-Personal], if you need anything, give me a call, I'm gonna send you that letter. I'm gonna send those orders and I'll follow up with um Doctor [PHI-Personal] in about a week with those. Ok. All right,
+Patient: Great. Thank you.
+Nurse: All right. Thank you, Miss [PHI-Personal]. I hope you have a wonderful day.
+Patient: Thank you. You too. Bye bye.

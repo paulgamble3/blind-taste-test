@@ -1,0 +1,16 @@
+Nurse: At the end of [PHI-Personal]
+Patient: She doesn't understand him. And I, and she told me she said, I already told that nurse, I just don't understand and my daughter is the one that does everything for me.
+Nurse: Ok. Let me see here. Bear with me here for one moment. Amazing. You know, even the bad I was like, uh, let's see here. How do you know how often, uh, she was having, going to have her nurse contact
+Patient: Her? I, I don't know because there's no way she's gonna be able afford that. Right? Because she's on her own. My father had passed away here a co, a couple years ago and she is on her own.
+Nurse: Ok, let me get in touch with the nurse here regarding [PHI-Personal] and I'll let her know what's going on. Um,
+Patient: She got kind of upset and I talk to mom. I just, I'll call ok. And I will let them know that you, you don't want it.
+Nurse: Yeah. So it looks like actually we have her down for just, uh, the nurse to call her just once a year actually. Um, so the, the nurse would only be calling her once a year. Uh, so she may get a statement in from the practice only once a year.
+Patient: Uh, she doesn't want it.
+Nurse: Ok. All right. Let me get in touch with the nurse. I'll go over some information with her and then [PHI-Personal], I'm sorry, what's the best number to reach you
+Patient: At? Ok. You can call me at [PHI-Account] [PHI-Account] O2 [PHI-Account]
+Nurse: You said? O2 [PHI-Account]. Yes. Ok. All right, [PHI-Personal]. I I'll, are you gonna be around this afternoon?
+Patient: Yes, I will. I'll be, I'll be here. Alright,
+Nurse: [PHI-Personal]. Ok. Uh I'll be, I'll give you a call back after I speak with the nurse and let her know what's going on. Ok.
+Patient: Ok.
+Nurse: All right, [PHI-Personal], you have a great day and I'll be speaking with
+Patient: You. Ok. Ok, thank you. All right. Bye bye bye bye.

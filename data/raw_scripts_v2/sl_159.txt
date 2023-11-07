@@ -1,0 +1,44 @@
+Nurse: [PHI-Personal]?
+Patient: Perfect. Yep. [PHI-Account].
+Nurse: And are they gonna do like another MRI or are they gonna first do like a, a visit and see what's going on and go
+Patient: From there? Probably just a visit, I'd imagine. Ok. And then so I wanna tell them about my hands, how they go numb too, my fingers. So,
+Nurse: Yes. Yes, I do think that you need to, um, I would recommend writing down a list or even a name, your phone for your appointment just to make sure they understand fully what's going on, you know, as far as your bladder and um, your numbness in your toes and hands because all that could be connected. So they may need to get a new MRI to see if anything's changed since I think the last was like [PHI-Personal]. That's quite a while. Um,
+Patient: Yeah, and like I said, it's way over 10 years and he said that next disc, that, like that operation only last 10 years. Yeah. And then the, the next disc up usually goes bad and it's been um, a lot longer than 10 years. So,
+Nurse: Yeah, definitely worth checking out. I'm glad they were able to get you in and it's not, I mean, it is a little bit of a wait, but it's not a super, super long wait. Um, and I'm, I'm hopeful that they'll, they'll have some answers for you. You know, and I do recommend maybe even keeping like a, a pain diary or a list of everything, you know, kind of track for pain. So they can see if maybe something's correlating there as well if that makes sense.
+Patient: Yeah. Yeah. Hm. Yeah, because, um, like I said, I can, my feet are, have numbness in them 24 7. But depends on what chair I sit on and stuff for the position. It, it gets worse fast, you know, like, especially in my recliner, like I said, and, um, my truck seat is actually the best seat. So maybe I should bring a Chevy seat and put it in your living. Yeah. Yeah. Crash it to the floor, you know. Oh, my
+Nurse: Gosh. Is it the same way when laying down or just sitting down
+Patient: When I lay down? It used to go away pretty well, not go away. It used to relive pretty quick. The pain and numbness in my legs, like the lower half. But now, but now it takes longer. It's hard to, harder to get rid of. Like, it's almost always there. And, but then when I lay down then my arms, well, I feel the, I feel the, the, I don't know what it is. Electric shock down my arms and then my hands go numb fast. Like, especially if I just pick my phone up, start looking at, then the numbness in my hand comes fast when I'm laying down. Yeah. Something, something's pinching, you know,
+Nurse: It definitely, I mean, it could be, it's hard to tell, you know. Mhm. Some imaging and stuff. And especially since it's, now it's just kind of weird that it's the arms and the feet. Usually it's like a pinched nerve one place or the other. But again, no, I'm, I'm not the orthopedic surgeon so I don't wanna say anything that I don't know anything about. You know, it's just a, a hard thing to say without better imaging to see what's going on. So I'm hopeful that they'll be able to figure out what's causing it and find a way to relieve that pain for you.
+Patient: Yeah, I wanted to let you know, in case they need a, uh, referral, you know, that's why
+Nurse: Did they say anything about a referral?
+Patient: Um, not, not so far.
+Nurse: Ok. Well, I will, I'll have one sent. Just let me look here. Um, yeah, I don't see one in here. [PHI-Account]. Oh, ok. Yeah, let me, I'll send a message over to the office just to request, um, another referral just in case you need it. Um, because I don't think you have any issues with insurance.
+Patient: Yeah. Um, when I, here's another reason I thought I better call and, and plus you told me to call you, um, when, uh, I wanted Doctor [PHI-Personal] to do my operation because he's the one that found the, uh bad disc and all that. And then, uh, he had, you know, I knew other people that he worked on. But anyways, I don't remember how it went, but back then I still have a workman's comp claim open. I guess it'll be open forever. But I think for the back they went Workman's Comp. But then Doctor [PHI-Personal] office said, well, we don't do Workman's comp um, stuff. And I said, well, how am I supposed to get a good doctor then? And so he pulled some stuff to get it to cover it. And I don't remember if comp paid for it or regular insurance. So I don't know what to do there or how, you know,
+Nurse: I am not sure. Um, I would probably recommend you call insurance and clarify on that.
+Patient: Yeah. Yeah.
+Nurse: Yeah, because I'm not sure.
+Patient: Uh, that one, I'd like to have everything looked at my neck and I do have, uh, some, you know, uh back then already it was uh, not herniated disc in my neck but bulging disk. Uh huh. So,
+Nurse: Ok. Well, you know, I can definitely have the office work on getting a referral sent over. I'm just not sure you're right on who they'll bill to. I mean, you could definitely call doctor s office back and ask them what they plan to do, uh, and go from there or you could just go straight to calling insurance and seeing what, who's gonna cover it because it's kind of hard it's a hard call on that one just because what's what's chronic pain and what's caused by the injury? It's it's hard to say.
+Patient: Yeah. Yeah. Mm. Ok.
+Nurse: Ok
+Patient: Well I
+Nurse: Yes it is crazy but I I yeah I'll get working on that referral, get it sent over so that should be ready to go for you um and I'll I'll of course keep doctor [PHI-Personal] updated on the game plan and we'll we'll see how your appointment goes here in [PHI-Personal]. Ok.
+Patient: Sounds good.
+Nurse: All right. Is there anything else I can do for you
+Patient: Today? Oh yeah, I forgot to check um I don't have my Ativan bottle on me but I think I'm due for a refill. Maybe I can find it the original bottle. Keep them at two different places so I put them in two different bottles you're at home you know. Uh huh. It does
+Nurse: You you are due for a refill. Are you completely out?
+Patient: No, I have about it. Looks to be about 15, 20 of them in there yet. But.
+Nurse: Ok, perfect. Ok, I'll send that over to [PHI-Personal] too for him to send out to pharmacy. Ok.
+Patient: Yeah,
+Nurse: That would take just a little bit of time. But since you have enough, we'll get it sent out to your pharmacy and you go to, uh, which pharmacy is it CV. S right.
+Patient: Yeah. I don't know if they have been having trouble getting the LORazepam or not. I don't think so, but
+Nurse: I have not heard anything about issues with LORazepam, but of course if we send it and they say they can't fill it, just let us know and we can figure it out. Ok.
+Patient: Yeah. Yeah. Ok. All right. Well, it would uh my a my wife was asking, I don't, I don't even, I know what your name is. [PHI-Personal]. Is it K Ky or how do you spell your name? Your
+Nurse: Name? [PHI-Personal]?
+Patient: That's how my uh niece. Uh that was it good?
+Nurse: That makes it even easier, right?
+Patient: What, what's your last name? [PHI-Personal]? Oh, yeah. Ok. Ok. Well, nice to know, you know, it's nice nice to know who I'm talking to.
+Nurse: Yes, of course. And if you need anything else don't hesitate to call, but I'll get working on this stuff so that you'll everything will be ready for your appointment next month. Ok.
+Patient: Ok, sounds good.
+Nurse: Alright. Well you have a good rest of your day. Ok,
+Patient: Thanks. Yep. You too. Alright. Bye bye bye bye.

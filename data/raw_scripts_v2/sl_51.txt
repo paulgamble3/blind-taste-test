@@ -1,0 +1,39 @@
+Nurse: Doing pretty good. Uh, I just wanted to say that I am going for that test tomorrow. Ok. Good. And also the only other problem I'm having is my, my ankles are very swollen, especially the right one. I'm wondering if it's just because of all the intake of, uh, fluids.
+Patient: All right, [PHI-Personal]. Um, can you verify your birthday?
+Nurse: O2, 25 32.
+Patient: Ok. And the ankle is swollen just as of today.
+Nurse: Uh, it started late. Yes. Yesterday I noticed it late in the day so I made sure I've had it up ever since, but today it's just, it's up just as much. The left one's always been a little bit of a problem, but now the right one is quite very swollen. The ankle and the foot back.
+Patient: Ok. How far up the leg does the swelling come? Uh,
+Nurse: Not just beyond the ankle. Ok.
+Patient: Any injury to that?
+Nurse: No. Ok. Hm. Ok.
+Patient: Any shortness of breath or difficulty breathing?
+Nurse: No. Right. Bye. I didn't know if it was the new, the new me, but I'll be through with after, after tonight.
+Patient: Ok. Any, uh, coughing up any blood or any pink sputum? No. Ok. No shortness of breath is the toes blue or have they changed in color since they've been
+Nurse: Swollen? No, but they, they're a little bit swollen but not, not, uh, change in color. Just pink on the end of the toes.
+Patient: All right. Any, any swelling or pain in the right calf or? I?
+Nurse: No, I have arthritis on the knee. That's all. So it's a little swollen. That's always there. Hm.
+Patient: All right. And are you unable to walk?
+Nurse: No, I can walk?
+Patient: Ok. Is there any fever?
+Nurse: No, my temperature's good today again. Ok. 97.6. Good. And my BP is 1 27/52. It's never been that good. Oh, good. Yeah,
+Patient: That's great. Um, any red streaks going up your leg or anything abnormal?
+Nurse: No.
+Patient: Ok. Does the swelling seem to go down when you elevate that leg? The right leg? Not
+Nurse: Really.
+Patient: Ok. All right. Well, [PHI-Personal], um, I would recommend you go into urgent care just so they can take a look at that leg and also listen to your lungs.
+Nurse: Oh, back to urgent care
+Patient: Just to make sure that uh, well, because this is a new swelling, we need to make sure that there's no unknown injury to it. And also let them listen to your lungs and make sure there's no fluid or anything in there
+Nurse: Because I just got released from the hospital and they listened to my lungs and everything. But it would, it could, it could make a difference already.
+Patient: Well, if, did you have the swelling in the hospital?
+Nurse: Not that I know of. No.
+Patient: Ok. So that's, that's the, the part that I'm concerned about is the swelling to where this is a new onset of swelling. And uh doctor is not in the office all week this week. He'll be back next week. Mhm.
+Nurse: Yeah, just should I still go tomorrow for my test? I have to drink all that stuff in the morning.
+Patient: Yeah, let's keep that on the books. But just because radiology sometimes if you cancel it, we don't know when we can get you back in and do we know for sure doctor wanted you to have that done? So let's um, if you, if you can, if you're able, do you have someone that can drive you to urgent care?
+Nurse: My husband, I hope. Ok,
+Patient: Just because the swelling is something new, let's make sure that there's no injury to the ankle, that there's nothing in the bottom of the foot and that uh everything's ok. With your lungs too
+Nurse: Because I know I didn't injure it. All right. Hm.
+Patient: All right. I can, I can run it by Doctor [PHI-Personal]. He's a different doctor in our office to see if he agrees with going to urgent care. If you'd like me to do
+Nurse: That, I would, I think, ok,
+Patient: Well, I will, uh, run it by him. It is gonna be a little bit before I call you back because I have several triages today. But um, I will get with doctor [PHI-Personal] because he's also seeing his own patients. So he is covering for doctor today. I'll let him know what's going on. Ok, let him know the on set was yesterday and ask him what we need to do.
+Nurse: Ok? Ok. Thank you. You're welcome Joyce. Bye bye bye.

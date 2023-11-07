@@ -1,0 +1,37 @@
+Nurse: Hi, this is [PHI-Personal]. You called? I was out.
+Patient: Um, hold on one second, ma'am. Let me just pull up all your information. Hold on for me. Were you enjoying the nice weather?
+Nurse: Yes, I just came back from my walk before it gets hot.
+Patient: See, I was going to say you must be doing it before the heat of the day.
+Nurse: Yes. Yes.
+Patient: Yes. You know, we wanted to touch base with and find out how you were doing. Um, have there been any changes in any of your medications? No. Hum. Ok. Do you need refills on any of your medications? Let me
+Nurse: See. I think Synthroid. I still have one more so I don't, I just got that refilled. Let me see. So, no, I still have one left on that 11 refill.
+Patient: Ok. And, and how's the walking? Do with, like, your osteoarthritis. Does it help ease the pain or make the pain worse?
+Nurse: No, it helps it because when it rains and I can't get out, I do the treadmill but it's not the same. It helps when I can get out and walk
+Patient: Because it helps loosen everything out. Yes. Yes. And, and what do you, do? You just take over the counter medications for it, or? Um, yeah, you not really take anything for it. No.
+Nurse: If it, like, gets too bad I'll take, uh, Tylenol arthritis. But that's not too often because it's not that bad yet.
+Patient: The walking helps. So, maybe it won't get that bad.
+Nurse: Yeah, it does. When I notice when I walk more I don't need it.
+Patient: Now, have you tried any, like, icy hot [PHI-Geographic]? Anything like that to help with it when you need it?
+Nurse: Let me see. I have one thing here and I don't use them that often. That's why I can't find em. Um, it's called [PHI-Personal].
+Patient: V as in Victor. Mhm. Ok. First I thought you said evil. So, and does that seem to help some?
+Nurse: Yeah. Yeah. Like I said, it's just when I don't get out
+Patient: With the rainy weather because the rain and the changes in the pressure affect the pain more, don't they? Uh huh. And, and you have good shoes you wear, when you go out walking right now you're flexible. They've got a solid sole on them
+Nurse: And Yeah. And I change, I don't wear the same pair every day. Ok.
+Patient: No flip flops when we're doing our walking. Even though a lot of people would love to live in them. You know. Have you, have you tried, like, hot and cold on?
+Nurse: No, I don't need that yet. No, 11 is good.
+Patient: Ok. So it doesn't bother enough that you really need anything and occasionally, just due to the weather you'll use the other things. Mhm. Some people just find the heat and the cold work too, but it doesn't sound like you're having to take anything that often. And that's a good thing.
+Nurse: And the shot you gave me last month or this month, I think, helps. So,
+Patient: And how often you try to do your walking every day?
+Nurse: Yeah, about three days a week and then I'll do the treadmill.
+Patient: So you walk outside three days and then inside the others too. Mhm. How far do you go?
+Nurse: Um, I don't know how many miles is, like 45 minutes.
+Patient: That makes sense. It sounds like it's a good walk though.
+Nurse: It is. It's down the street through the park and back
+Patient: And now do hills and stuff make affect you more or do you not have a lot of hills on your walk?
+Nurse: Oh, no, it's just like a little inclines. Little tiny ones.
+Patient: Well, some people, you know, going up the hills it's harder in. Now, do you? And you don't notice any more pain when you walk outside than when you walk on the treadmill.
+Nurse: Uh, oh, the treadmill's not as good as outside because if I do the treadmill sometimes if I try to go too long you can feel it.
+Patient: Ok. Well, some people, you know, the different impacts. Yeah. Yeah, differently. But being outside is always nice too because then you get the fresh air and change of scenery and. Mhm. All right. Well, that sounds good and, and I hope you have a wonderful day and if you find when you find you need refills or you have any questions or anything, don't hesitate to call us. Ok.
+Nurse: Ok. And thanks for calling. All
+Patient: Right. Thank you. Ok.
+Nurse: Bye bye bye.

@@ -1,0 +1,55 @@
+Nurse: Give me one second. I'll get into your chart
+Patient: Still. Ok. All right.
+Nurse: So she probably, do you have anything going on?
+Patient: Well, I don't know about going on. I, I was, uh, I was told that I have to have surgery, um, um, for parathyroid. Ok. Yeah. So that's what's going on. That's a lot. That's a lot. Yes. Yeah, that's a lot. It's going to be on the [PHI-Personal].
+Nurse: Uh, do you need a pre op appointment with, um, Doctor [PHI-Personal]?
+Patient: I don't know. I haven't been, I haven't been told. Hm, let's see, thyroid instructions. Let's see.
+Nurse: I was just reading through.
+Patient: Yes, that's ok.
+Nurse: It says there will be no pre op testing required. You will receive a phone call from the pre op nurse at [PHI-Geographic]. They will give you the exact time to arrive at the hospital. They will instruct you to have nothing to eat or drink after midnight, uh, review your medications with you and ask you a few medical, uh, history
+Patient: Questions, right? So that you tell me. Ok, perfect. Oh,
+Nurse: Ok. And then you know about, um, they told you what medications to hold and all that good
+Patient: Stuff. No, they didn't. Ok.
+Nurse: Are you on blood thinners?
+Patient: No. Ok. Ok.
+Nurse: Did you have you see these instructions in my, do you have access to my chart?
+Patient: No. Oh,
+Nurse: Let's see. It says, uh, medications after the surgery, we will be asking you to start taking calcium supplements. Uh, do not take any calcium supplements or vitamin D supplements before surgery we request. Ok, perfect. We request you buy a big bottle of calcium citrate, Citro cal citracal maxium plus D 6 50 mg of calcium and 25 micrograms of vitamin D per serving ahead of time and bring it with you to the hospital. Our doctors will give you specific direct, uh, uh, [PHI-Personal] for taking them as part of your POSTOP instructions. So you don't have, you don't have access to Mychart. Right?
+Patient: Yes, I do. Um, my husband is the one that goes in, uh, he's not here right now. I, ok. No,
+Nurse: That's fine. Just so, you know, there's a big picture of it in my chart. So you can see what it looks like. The, the, the vitamin, um, the calcium with vitamin, uh, D you have to bring with you to the hospital.
+Patient: Is it, is it in one bottle?
+Nurse: Yeah, it's, uh, yeah. Citracal, yeah, it's Citracal calcium with vitamin D. So, there's a big picture of it. So, you know, you get the right one and what you can do is when you pull it up on your computer, take a picture of it on your phone and show it to the pharmacist. They'll help you get it. Ok. They'll, they'll walk you right over to where it is.
+Patient: All right. Very good. So,
+Nurse: That's what I used to do. Sometimes. I used to just, you know, like, uh, help me out here and they'll come up behind. I've
+Patient: Never taken calcium supplement and I don't drink milk. So I don't know why I have high calcium. Oh. Oh.
+Nurse: And then the pre op nurse should go over a lot of this stuff with you as well.
+Patient: So, yeah. So,
+Nurse: So that's a lot. You got a lot going on? Your husband's gonna, uh, drive you? Yes. Ok. Good. And is it a day surgery? Are they just doing planning on a, a day surgery where you go home that day, or? That's
+Patient: What you said? Ok.
+Nurse: So they'll probably either have him wait or call him depending on, you know, what, you know, however they do it, I don't know. I
+Patient: Don't have to have an appointment with Doctor [PHI-Personal]. Right.
+Nurse: I'm not seeing that you need a pre op.
+Patient: No. Uh, it
+Nurse: Says it says there will be no pre op testing required. So, yeah, I can double check with the nurse, um, at the office, but I, I'm not saying that you need a pre op. Uh, so, yeah, so it's got, it tells you your, your visit, you can bring one person with you. They can wait if they want to. Ok, you'll be with them for most of the days. Uh, the average time for prep to discharge is about six hours. So it's gonna be all day thing. So, yeah.
+Patient: Well, I appreciate your call. Yeah.
+Nurse: Sure. And then, um, how you doing on medications? Do you need any refills?
+Patient: No, not right now. Ok. All right. Oh,
+Nurse: And then you, you know, you can call me in between calls if you have questions or concerns.
+Patient: Right. So, and
+Nurse: Ok, and then, um, do you wanna book your annual ex exam with the nurse for, for this month?
+Patient: No, not for this month? I have enough.
+Nurse: Ok. Too much going. Yeah, that's understandable. Yeah, it's a, that's a lot. So, um, yeah, just make sure you go on. So go on my chart, look at the instructions and then if you have any questions, um, call, if you have any
+Patient: Questions, I'll call this number.
+Nurse: Yeah, you can call me or you can call the, uh, TGMG Parathyroid, um, and Thyroid Institute. So they can give you a direct, uh, do they have a phone number on there? No, they don't.
+Patient: Ok. Can you write, can you put it in there?
+Nurse: Oh, it's on there. Ok. It's, it's in your um, yeah, it's in there. So it says um, it's gonna be performed in the Parathyroid Center at our [PHI-Geographic] Health [PHI-Geographic] health plex facility. So you can call um, health plex surgery information if you can call that number [PHI-Account] if you have questions before, but you should read through this and make sure you understand all of the, um, [PHI-Personal]. Um, and then like I said, for as far as the vitamin, uh, the calcium with vitamin D you have to bring with you, just make sure you take a picture of that and then just bring it to the pharmacy and then the pharmacy will let you find the right one and you said you're not on any blood thinners. No. So, ok, and then you can ask them about your, um, let's see, your insulin. You can ask them for any kind of, uh, [PHI-Personal] on your insulin. So, ok, because they're probably gonna have you be MP O. So when you, um, when you speak to the nurse, you're gonna ask about, uh, insulin. So, or just call them directly. [PHI-Account]. Call the, uh, surgery center and ask about, uh, what they want you to do with your insulin
+Patient: With my, what
+Nurse: In with your uh insulin. Yeah.
+Patient: Oh no, my insulin I don't take insulin. Oh you don't take insulin? No, no I I use um oh something. 00 I'm
+Nurse: Sorry, I apologize.
+Patient: No I don't, I've never taken insulin.
+Nurse: Oh well that makes it easy. Yeah, because sometimes I'll have people hold insulin the morning of some too so it depends on the surgeon and like how they do it. So I haven't worked with surgeons for like a little bit now, so I'm starting to forget already, but so.
+Patient: Alright.
+Nurse: Alright, but make sure you look at that, make sure you look at that my chart message in case you have questions. Ok. Okey dokey. Oh my my pleasure and uh if you have questions, call me back, we'll figure it out.
+Patient: Ok? Thank you so much.
+Nurse: You're welcome. Bye bye.

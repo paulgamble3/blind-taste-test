@@ -1,0 +1,72 @@
+Nurse: Oh, yes, I did. Thank you for getting back to me. Um I'm just calling to as part of the chronic care management program. So I'm just trying to get into your chart too. I apologize.
+Patient: There we go.
+Nurse: Yup. So chronic care manager from doctor [PHI-Personal] office just checking in to see how you're doing, how you're feeling.
+Patient: I'm feeling fine.
+Nurse: You're feeling fine. Um How are you doing on your medications? Are you taking them? Ok. Do you need any refills?
+Patient: No, I actually just saw doctor. I think it was like the [PHI-Personal] of, yeah, month. Yep. Sorry.
+Nurse: Let me go back. I gotta go into, I, I'm working out a two systems so I apologize. Ok, I can never click as, as fast as I want to.
+Patient: I'm not, I'm computer uns [PHI-Personal] so I respect it takes forever. That's fine.
+Nurse: And were you able to get the visit? Sum summary? Ok.
+Patient: Yes. Oh, there is one thing that uh I noticed it isn't in my, my chart anywhere I did go to the skin doctor in January and, or late, early [PHI-Personal] maybe. And they removed the squamous cancer from my arm. And I thought that I told one of you all that when you called some time after that. But it, I can't find record of it anywhere on my, my chart.
+Nurse: What, I'm sorry, what, what month was it again?
+Patient: It would have been the last week of January or the first week of [PHI-Personal]. I can't remember what, just
+Nurse: Bear with me. I'm sorry. Uh, sometimes things are in the media that you don't see. This is probably it here. Right forearm. Right. Correct. Yeah. Uh,
+Patient: So that's in there.
+Nurse: It is in there. It's just in the media. So it's in there. It looks like the visit was [PHI-Account].
+Patient: Ok. Wow. That was shortly after I saw doctor saw. So that's good. There was a visit and then I had to do, they did a biopsy and then like a couple of weeks later, then they took the thing off. So there should, it looks
+Nurse: Like you had, uh, right forearm. A shave biopsy was performed. Right.
+Patient: Correct. Ok. All right. Ok. And then also a couple weeks later because it was a squamous thing. They removed it. Ok. All right. Ok. Do you have that date recorded? I can see I can go look on my calendar if you need it. It was at the same place they did the biopsy. So I know they sent that report to you. Ok,
+Nurse: This one I'm sorry and date, what is your date of birth? [PHI-Personal]?
+Patient: [PHI-Account]
+Nurse: [PHI-Account]. Best phone number to reach you at
+Patient: [PHI-Account]. That's the one you just called.
+Nurse: It doesn't let me see the number sometimes. So it's weird. Um yeah, all I see is the visit from [PHI-Account] in here. I'm trying to see if I, if there's something else, if I'm missing something. So all I see is that they performed the biopsy. I don't see the pathology in here but it maybe it's somewhere else but they did get the visit from [PHI-Account].
+Patient: Ok. Looking at my calendar here. [PHI-Account], I saw the skin Doctor [PHI-Personal]. That was the biopsy. Um, apparently didn't write down when they did the other thing. Oh, Skin Doctor [PHI-Personal]. I'm not sure if that's when I went for the biopsy for the removal of the thing or when, if that was the follow up,
+Nurse: It must have been the, I'm thinking it probably was the follow up because it looks like the right arm biopsy. It was in the note for [PHI-Account]
+Patient: Isn't the biopsy where they just take the top layer and then they check to see if,
+Nurse: Yeah, so the visit from [PHI-Account], it's, well, it says [PHI-Account] at the top at the bottom. Um It says pro it goes through the different things that they found from the um skin exam. It said neoplasm uh uncertain behavior right forearm. A shave biopsy was performed to rule out. Um And you photo was taken loaded and then did not appear, looks like it was a 10 millimeter by 10 millimeter uh biopsy.
+Patient: Ok. That is that when they removed the thing.
+Nurse: So it was a it was the appointment with Doctor [PHI-Personal]. Well, Doctor [PHI-Personal] signed it. So, but so did [PHI-Personal] so,
+Patient: Yeah, my appointment on the [PHI-Personal] was [PHI-Personal] was [PHI-Personal]. Then they, they took a shaving whatever that is. Mhm. And then I had another appointment. Oh, which I may have forgotten to write on my calendar but it was somewhere.
+Nurse: Yeah, we don't have the appointment after the biopsy, the follow up.
+Patient: Ok. Well, but there were two appointments after there was, there was, um, there was one sort of in the beginning of [PHI-Personal] and then on the [PHI-Personal] as when I went again and they took out the stitches. Ok. All right. Let's see.
+Nurse: You said it's Doctor
+Patient: [PHI-Personal]. Yeah, but I, the one, the actual appointment with Doctor [PHI-Personal], I guess is not marked in your records and I'm looking, but I didn't save the card from that. That's right.
+Nurse: I could just, I could just ask him to fax it. Yeah, I'll just ask them to fax it over. Just bear with me. I'm sorry. Is it on [PHI-Geographic] Doctors? That sound right. Hold
+Patient: A second. Let me look at the card here. It's called the Academic Alliance Dermatology and it's on. Ok. I, they might have another office somewhere else.
+Nurse: Is there a phone number on the card?
+Patient: Let's see. Uh, website. Phone number. Just a minute. There's 1000 offices. Hold on, let me read. There's a, here's this 11 time +[PHI-Account] [PHI-Account]
+Nurse: [PHI-Account]. Exactly. Ok. Yeah, I'll call over and ask them to fax it. So hopefully they're expedient about it so it can be in the records. And um how have your sugars? Do you check your sugar at home?
+Patient: No, I just do that once in a once in a while. Ok, I'm once every six months. No, I never check my own. Ok.
+Nurse: Oh, you do it? Uh ok. You do like the A one C All right. I I'm sorry, I apologize. Um Hi. Uh just to give you some things to watch out for low blood sugar symptoms could be hunger, shakiness, sweating, feeling lightheaded. Um If you ever had like lethargy and mental confusion, you would want to be evaluated in the um ed in the emergency room. What emergency room? I apologize. I corrected myself. Yeah, I need to not use an abbreviation. I'm
+Patient: Sorry,
+Nurse: But if you had um the hungriness, shakiness, sweaty, feeling lightheaded. You would wanna call um, Doctor [PHI-Personal] office. Um If you ever had excessive thirst, hunger or urination, headaches, uh fatigue, call over to the doctor that could be your blood sugar is high. And if you ever had um like mental fogginess or confusion or severe headache, I would ask that you be evaluated in the emergency room. Ok. But I will request um those records for you.
+Patient: Ok. And I can, I now have the dates? Oh, sure. Perfect. Uh, on the [PHI-Personal] of [PHI-Personal] is when it was, the thing was removed and I went back for the stitches out on the [PHI-Personal] of [PHI-Personal]. Ok. And I go back for another follow up on [PHI-Personal]. Like, ok. All right. Perfect review of the situation, you know,
+Nurse: And do you do your own skin checks at home just looking for any variations or growth or anything new? Yeah,
+Patient: That's how the whole thing started. Is that how you got? Yeah, about a very strange thing on my arm. Yeah,
+Nurse: That's a good thing you were paying attention. Some people don't. So that's good. Um, and it looks like from your last visit just to go over. Um, looks like your thyroidism. Your hypothyroidism is, um, stable. Um, your diabetes is under excellent control. Follow the ad a diet, take all medications as prescribed. This is just from your visit. So, you know, um, check your feet for any changes, um, discuss importance of regular dental care, obtain diabetic eye uh annual exam, um, obtain diabetic eye exam annually. And as recommended by your eye specialist, um for your, um, cholesterol, stay on your current regimen and for, um, for your, for weight, um, healthy diet and exercise. And that's from the visit from the
+Patient: [PHI-Personal]. Ok. And that did it, has, it appeared on the [PHI-Personal]. They contacted my eye doctor because that report, which I think was in [PHI-Personal]. They had, they had not, didn't have that. Is that now in my record,
+Nurse: The, the um an
+Patient: Eye exam done in either [PHI-Personal] or April [PHI-Personal]. Let's see. I, because when I was there on the [PHI-Personal] or whatever date that was they, they can, they had me sign a paper to have it sent over. Has it been sent over yet? I'm
+Nurse: Gonna look right now. Sorry, I apologize. I'm trying to keep track of trying to keep track of all of it. Give me one second. I will put it in there for you. Let me see.
+Patient: Let's see. Well, I tell you, I don't feel so bad about having trouble with computers because you do it all day long and you have trouble
+Nurse: With it. So you, you can never move fast enough. Now you, yeah, no matter what or like you click and it like clicks the wrong thing. Um So you had one this year. It's not in there. It's not in the, let me check one more place. Um No
+Patient: Bye. Exam. It was [PHI-Personal].
+Nurse: I'm seeing if this, this, maybe this is it right
+Patient: Here. His name is Doctor [PHI-Personal] and I forget what it's called. It's
+Nurse: Like, oh, I think it's [PHI-Personal] here. It's [PHI-Personal]. Here it
+Patient: Is. He told me I didn't have any diabetic re that word, whatever it
+Nurse: Is. Retinopathy. Yeah. Yeah. So the [PHI-Personal] it's here.
+Patient: But you need an official stamping of that in my file.
+Nurse: Are, are they talking about um do you have cataracts or no next year? Next year? Is the OK. That's the gold date. OK. And you
+Patient: Said they're progressing in probably next year I would have to have removed?
+Nurse: Oh yeah, it's in here. I apologize. Yeah. OK. Yeah, it's in there.
+Patient: So, so you've got that in there and you got the, the academic alliance of Dermatology? All that, right?
+Nurse: I just need to, I need to call over for those other two dates. So we have like we have the date from [PHI-Account]. So,
+Patient: Yeah, the, yeah, because you don't have when they actually removed the thing or when they took out the
+Nurse: Right. So, so I'll call over, I'll work on that. Um and um your eye exam is in there. Perfect. So any questions or concerns that come up in between? Certainly you can give me a call and you said you were, you were ok on your medication? Or you're
+Patient: Refilled? Perfect on the [PHI-Personal].
+Nurse: Oh, good. Ok, so you're taking them no issues and you don't need any refills. Ok. So I'll request I'm gonna call over now to get those, those records.
+Patient: Good then I'll be up to date.
+Nurse: Yay. All right. Thank you so much. Ok, thanks a lot. Alright, bye bye
+Patient: Bye.

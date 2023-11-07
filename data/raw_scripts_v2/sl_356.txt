@@ -1,0 +1,24 @@
+Nurse: Ok, let me pull you up real quick.
+Patient: Who are you?
+Nurse: My name is [PHI-Personal] and I'm calling on behalf of doctor.
+Patient: He personally told you to call me.
+Nurse: Yes, he's providing. So let me, I'll tell you why I called you first. I wanna tell you the call is being recorded for quality purposes.
+Patient: Well, you know,
+Nurse: The office is providing new care management programs. Now, what that is is a nurse will give you a call to see how you're doing. She'll address any issues you're having at the time and she could help with appointments.
+Patient: No, no, absolutely not. We've known [PHI-Personal] and you can ask him from the day he got out of college. Ok. So he is the only one we see and I can show you how we go see him. We travel 225 miles. We live in beach. So there's nobody but [PHI-Personal].
+Nurse: Right. Well, he's just providing this added program to help update him. It updates the doctors and it avoids
+Patient: The, well, why do I need that when he told me to call him any time and he answered the
+Nurse: Phone. That's fine. You don't have to, you're qualified for the program. That's why I'm calling
+Patient: Now. I, I just as well stay the way I am.
+Nurse: Ok. Is it ok if I send you a letter out in case you do decide in the future? Sure. Absolutely. Ok. Can I send it to [PHI-Geographic]?
+Patient: Do you have it? No, no, no, for [PHI-Personal].
+Nurse: Oh, it says [PHI-Personal] P
+Patient: A no. And believe it or not, I would have said you're wrong but you're not because there is a [PHI-Personal] P A.
+Nurse: So, can I have your zip code that way? I get that right.
+Patient: [PHI-Account]
+Nurse: [PHI-Account]. And you said that's [PHI-Personal]?
+Patient: Yep. Matter of fact, if he moved to [PHI-Geographic], we would travel to [PHI-Geographic] for him. Nobody else. I
+Nurse: Hear you. All right, [PHI-Personal]. Thanks for calling me back. I'll send you out a letter and if it's, that's something that you decide you want or if you talk to mister or doctor re you give us a call back. Ok.
+Patient: All right. Thank you very much.
+Nurse: Thank you. Bye bye bye
+Patient: Bye.

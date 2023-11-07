@@ -1,0 +1,42 @@
+Nurse: Today? Not much. I don't believe this is,
+Patient: This, is, is this [PHI-Personal]? Yes. Yes. All right. I always like to make sure I have the correct chart pulled up. All right. So I, um, I've given you a call just to check in, see how everything was going. I know we had spoken, um, just at the end of March to check in fighting with the computer here. I apologize. No problem. One day it'll work smoothly.
+Nurse: I don't care.
+Patient: All right. So I know you were in to see Doctor [PHI-Personal] and everything was looking good. But he gave you that new Voltaren cream for your, for your pain.
+Nurse: Uh, he didn't write it. I didn't get the, uh, prescription. Oh, I never, he never, uh, left it for me. So he didn't mean to write that.
+Patient: It looks like it was put in and it looks like it was sent over to CV S in Carlisle.
+Nurse: Ok.
+Patient: I can, I can get CV S A call and see what's going on with that and make sure there's nothing, nothing else the doctor jumper has to do, make sure there's no preauthorization or anything. But normally for this one there's not so, it might just be a CV S thing, but we can figure that
+Nurse: Out for you. How do you, how do you spell that?
+Patient: It's VOLV,
+Nurse: OL
+Patient: [PHI-Personal].
+Nurse: [PHI-Personal], oh my. Yeah, he had talked about that but then when I, when I left I didn't see the prescription. Oh, well, it
+Patient: Looks like it was sent over electronically to CVS
+Nurse: So I can call him. You don't have to call them. I can call them. All
+Patient: Right. It should be there if it's not there, give us a call back and we will, uh, figure that out and it, look, Zole was refilled for you too.
+Nurse: Yeah, I went without that for about two weeks and I got such bad, uh, heartburn. It was terrible after about 10 days. Ok.
+Patient: Yeah, I mean, if you need a refill before you see him, you can give us a call and we can put that through for you. Ok. So I don't want you going without any of your medication, omeprazole give you heartburn. But if you, uh, if you skip some of the other ones, you could end up in the hospital. So we don't want, especially the, the metoprolol you go without that for two weeks, you could, uh, end up in the hospital with high blood pressures.
+Nurse: Yeah.
+Patient: So if, if you're running low, give us a call. We can help you out with
+Nurse: That. Ok. Yeah.
+Patient: And I'm sure he went through with you, you know, your DULoxetine and how you're doing with all that and with your depression everything's still going. Ok? Oh,
+Nurse: Yeah. Yeah.
+Patient: Ok. Good. So, coming into spring you're, you might start feeling a little bit better with that.
+Nurse: Oh my God. Yes. Yes. Just being outside makes a difference.
+Patient: Yes, sir. It really does. Are you sleeping better?
+Nurse: Yeah. Yeah. I, I mean, I get four or five hours of sleep at night. [PHI-Personal].
+Patient: I mean, we'd love to get you eight hours, but I understand that's not how everybody's body works.
+Nurse: Well, I'm going to see that urologist. What is that in about two weeks? So we'll see what he says and see if that helps. Has any solutions.
+Patient: Ok. Still having the trouble with, uh, urination.
+Nurse: Yep. Yeah. All right.
+Patient: Well, I'm glad you got that scheduled for in two weeks. Is it ok if I call and follow up with you after that and make sure sure. Now you still are taking the tamsulosin, correct?
+Nurse: Yes. Ok.
+Patient: All right. So good for good. That's there. All right. Well, um, any questions on anything that doctor [PHI-Personal] spoke with you about at your visit?
+Nurse: Not really. No. I mean, he said I got, I thought I had carpal tunnel or something, but he says it's, uh, tendonitis. So he's a doctor. It's not bad. I quit lifting weights. If I lift weights it hurts. But, but, you know, if I quit lifting weights there's no problem.
+Patient: Yeah, they, they tend to be the same thing. So let it calm down, let the swelling and inflammation go down and you might be able to start lifting weights here slowly once this, all this calms down and check with CV S about that Voltaren. It's in the system. If you, you need any preauthorization or anything else,
+Nurse: Have a call
+Patient: Or you give us a call if, if for some reason, CVS isn't getting that for you.
+Nurse: Ok? Ok. Appreciate it. All right. Well,
+Patient: You have a good day and have a happy Easter if I don't talk with
+Nurse: You. Ok? Thank you. You're welcome. You too.
+Patient: Thank you. Bye bye.

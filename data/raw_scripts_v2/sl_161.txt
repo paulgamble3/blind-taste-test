@@ -1,0 +1,33 @@
+Nurse: Until I die.
+Patient: Oh, forever.
+Nurse: Yeah.
+Patient: Yeah. Ok. Well, you know, um, have you ever had any issues with it? Like, bleeding or anything?
+Nurse: No. No, I've never had any
+Patient: Problems. Well, that's good. I know Eliquis is one of those ones that, although it is a blood thinner, it's usually, uh, the, one of the safer options. So that's good. Yes.
+Nurse: Yeah.
+Patient: Good. Ok. Let me see here. Mm. Ok. So that went, well, I don't think you've had and then you have another appointment while you've got labs on the fifth. Yep. And then, uh, and then seeing [PHI-Personal] on the [PHI-Personal] at 9 30. Yep. Ok. All right. And then I just have one thing to go over here with you. That questionnaire. We go over every once in a while. Um, so over the last two weeks, how often have you been bothered by any of the following problems? Your options will be not at all, several days, more than half the days or nearly every day. The first question is having little interest or pleasure in doing things.
+Nurse: No, that's not a problem. And I know I don't, I can't remember the answers that the options you gave me.
+Patient: Ok. Um, feeling down, depressed or hopeless.
+Nurse: Not at all.
+Patient: Ok. Trouble falling asleep. Staying asleep or sleeping too much.
+Nurse: Yeah, that I do have, you know, getting to sleep and staying asleep is, has been a problem for a long time. But,
+Patient: Ok. Now, does that happen, happen almost every night or?
+Nurse: Yeah. Yeah. Pretty much. Ok. And I've tried Melatonin, I've tried that s, I've tried, you know, and, and nothing really works.
+Patient: Yeah. Ok. Um, do you feel tired or have little energy?
+Nurse: Yeah. Some, but I mean, I, I have low iron so that, that's kind of like a typical, typical thing for me. Yeah.
+Patient: Um, any poor appetite or overeating?
+Nurse: No
+Patient: Feeling bad about yourself or that you're a failure or let yourself or your family down. No trouble concentrating on things such as reading the newspaper or watching television.
+Nurse: No, I want you to find a newspaper though. Oh,
+Patient: Moving or speaking so slowly that other people have noticed. No feeling very fidgety or restless. No. And then the last question in the last two weeks. Have you had any thoughts that you'd be better off dead or hurting yourself in some way? No. Ok. Oh, see if my computer will work. Oh, my goodness. Ok. Perfect. And so other than talking about the Eliquis, did they make any other medication changes?
+Nurse: Well, I don't take the metoprolol or the flecainide anymore. Ok. Those, those were the two heart medications? Ok. They stopped
+Patient: Those. Perfect. Let me, let me read over your medication list with you here just to make sure I have everything correct. Ok. Um I've got that you take aspirin 81 mgs daily. Yep. Atorvastatin 40 mg daily. Yep. BuPROPion 100 mg twice a day. Yep. Then the Eliquis five mgs twice a day.
+Nurse: Yeah.
+Patient: Uh levothyroxine 100 and 37 micrograms daily. Yep. Oh, I think this one is an old one. Yeah, it looks like did we put you on um a Medrol dose pack at one point?
+Nurse: That's, yeah, that, yeah, I don't take that.
+Patient: Perfect. And then I've got Naltrexone 50 mg twice a day. Yep. Omeprazole 40 mg daily. Yep. And then ondas or Zofran four mg as needed for nausea. Yep. Ok. Anything I'm missing any vitamins supplements? No. Ok, perfect. All right. Well, do you have any questions or concerns for me today?
+Nurse: No, I don't think so.
+Patient: Perfect. Ok. Well, then we will see you in the office here in a few weeks. If you need anything, you just let me know. Ok.
+Nurse: All right, thank you.
+Patient: Of course. You have a good day. You
+Nurse: Too. Bye.

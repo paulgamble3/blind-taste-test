@@ -1,0 +1,23 @@
+Nurse: Or it was the only one it was sent in on the [PHI-Personal]. Mhm. Were you expecting any other labs?
+Patient: Well, I was expecting the normal ones. I get every three months because the guy took two tubes of blood and I can't imagine two tubes for PS A test.
+Nurse: Yeah. Check down to see he went at eight o'clock. Mhm. I'm gonna track down just to see if anyone requested the labs or. Mhm. Yeah, that's the only lab I see.
+Patient: Ok. I, I'll check with the doctor then on Monday.
+Nurse: Ok, because I was gonna ask if you want me to send a message to see if that was the only one he wanted or,
+Patient: Uh,
+Nurse: Because I see you did a Hemoglobin in [PHI-Personal],
+Patient: Right? Well, I mean, usually the normal panel, you know, which is about 20 different things. I, I'll just speak to the doctor. Maybe, maybe my numbers are good enough. That's all he wanted.
+Nurse: Yeah, because your last A one C was 5.6. So that's really good. So maybe that's why he didn't order it this time around.
+Patient: Probably they do it every
+Nurse: Three months, but that number is awesome. So maybe that's why he didn't check it but you can still follow up just to see if it was a mistake or not.
+Patient: Ok, I'll, I'll ask him but I think you, I think you might be right. Maybe he'll wait, you know, a while before he does anymore. Mhm. Yes.
+Nurse: And do you need any help with anything else?
+Patient: No, that's it. I just hope you're doing ok.
+Nurse: Uh Yes, I'm ok. Um What was your last um sugar reading? Did you check it yesterday or
+Patient: Today? I I'm usually, let's see, let me look uh about 9 30 last night it was [PHI-Personal].
+Nurse: So that's good. Have you been keeping up with the snacks or the last time we talked, you said you normally get the hunger
+Patient: But see what happened was about a month? Ago I went to a very low carb diet. I got rid of all the sugar and all the processed carbs out of my diet. It's probably full keto. I'm sure I get less than 50 g a day. That's what help my foot heal. I was having trouble with the sore on my foot. Yeah, I've had six different antibiotics run. I, I went, I went low carb and in one week it fixes itself.
+Nurse: Yeah I have any issues.
+Patient: No no I feel great. Uh so I'll discuss it with him when you know just to make sure and keep an eye on me something that you can keep an eye on me for that better.
+Nurse: Ok. Alright if you do need anything else don't hesitate to give me a call. Ok?
+Patient: You got it. You have a great day now. You
+Nurse: Too. Bye.

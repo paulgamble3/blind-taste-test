@@ -1,0 +1,207 @@
+Nurse: Ok. Give me one second. I'm just trying to get into his chart. And, um, what's going on with [PHI-Personal]?
+Patient: Well, as, um, presently he went for, um, to get some shoes for his, um, which was, uh, prescription given to, um, given to him from his podiatrist. Uh, so the Hanger [PHI-Geographic], clinic. Ok. Yep. Ok. [PHI-Geographic] has not received approval from Doctor [PHI-Personal]. He's still waiting on it before in his shoes. He's already been fitted. Ok. All right. Ohh. Size.
+Nurse: So is it just, I need the order sent over,
+Patient: Uh, uh, oh, yes,
+Nurse: From Doctor [PHI-Personal]. Ok. Sorry, um,
+Patient: Approved order for them to go on and go forward and order in his shoes.
+Nurse: Ok.
+Patient: All right.
+Nurse: Um, ok. And his insurance is, uh, [PHI-Personal]. Right.
+Patient: Uh, right.
+Nurse: The diabetic shoes, right. Do they give you, um, a fax number they want it sent to,
+Patient: Uh,
+Nurse: If not, I'll just tell them to send it. They probably have a phone. Ok. What's the phone number? [PHI-Account]
+Patient: [PHI-Account].
+Nurse: Right? I was just gonna say it back one more time. [PHI-Account]. Correct? Ok. All right. And are you pla are you planning on signing him up for the chronic care management program? Was that what you were talking to? Um, [PHI-Personal] about,
+Patient: That's what we were talking to. Ok. All right. Ok. Ok.
+Nurse: Because it's not even in there yet. That's why I was wondering, um, so there's
+Patient: A couple of other referrals we need as well. Uh, his Lantus [PHI-Personal]. Yeah. Uh, he needs a new prescription. Uh, they don, uh, Optum Rx don't have a, a new prescription on that. And it, this prescription, he should be, it should, uh, indicate, oh, injection being [PHI-Account] instead of [PHI-Personal]. Uh, that's how come he has not needed, um, Lantus for some time because the, which she's no longer with the, um, who was that? His, um, one second, what is, uh, the diabetes, the diabetes, um, physician? She's no longer with us. Endodontists. And is that the right word I'm using? No, that's not the
+Nurse: Right word. Uh, endocrinologist. Yeah.
+Patient: Yeah, she's no longer with us. She reduced his insulin from [PHI-Personal] to [PHI-Account] which extended his pens up until now. Now he still have [PHI-Personal] pens to go. All right. So we have enough.
+Nurse: Do you need, um, do you have an, do you have a new endocrinologist lined up?
+Patient: No, we do not.
+Nurse: I have some phone numbers of some, if you, if you wanna call them through us. F ohh. Does she retire?
+Patient: I don't know. I, I, there was the last date, I think that was in [PHI-Personal]. A [PHI-Personal] of this year. Oh, Jesus [PHI-Personal] something. [PHI-Personal] [PHI-Personal]. Ok. Yeah.
+Nurse: Do you? I'm just trying to see um uh yeah.
+Patient: Right.
+Nurse: I see if there's a, there's a visit in there uh from [PHI-Personal]. Does that sound right?
+Patient: Was that [PHI-Personal]? I thought it was a,
+Nurse: Yeah, it looks like uh well, wait, let me see. This is I have [PHI-Personal] that popped up. Uh It looks like at one point he was 20. Does that sound right? 20 units into the skin for the Lantus?
+Patient: Ok. So she had decreased it and, and he had Lantus pens which actually prolong the pens, you know, he didn't need refills. So up until now, you know, he's running, he has [PHI-Personal] full pens left. And so I just,
+Nurse: So the last thing I see in, in our, in our system is from um let me just make sure she sent a prescription on [PHI-Personal] 24th, 20 units daily. She sent uh a 30 day supply with a refill of Lantus of Lantus and she sent that to uh Optum Rx
+Patient: And they informed me that it needs to be a new prescription. Probably because we had not ordered any because I had, this
+Nurse: Prescription is good until next [PHI-Personal].
+Patient: I wonder what he told me to one.
+Nurse: Do you wanna hold on, let me call over and see what they say. Do you mind holding,
+Patient: Hold on. Oh, give me [PHI-Account]. What if I try to understand all this? Never. Yeah. Yeah. People here to do that. I don't know why. I don't know if I couldn't stay on my phone there. Oh. Um and nobody addressing the thing that I wanna address important to me should be important to you. Ok. Which one of those? I think we have lot problem then. Um, first um this please on the form we're playing. No. Hm. Hello.
+Nurse: Yes, sorry. So, um they said that you already filled it. I filled what? The refill from [PHI-Personal]. So, and I'm not sure. Um the, the uh as far as the Lantus, I'll request it but your last visit with um uh what's her name? [PHI-Personal]. She has um [PHI-Personal] is taking, where is it down here? Uh Continue Ozempic one mg weekly, Lantus 20 units daily, not [PHI-Account]. And that was from a [PHI-Personal] visit. Ok. Um and you, you, he's been getting [PHI-Account] at night. Yeah. Ok. All right. I'll let him know that in the note. Um So and then restart Metformin 1000 mg twice a day, correct? Uh Pharmacy consult, discuss it next visit. Um, diabetes management. Um, medication portion control, low carbohydrate diet limit 45 g per meal and 15 g per snack, high protein meal, uh, meals like lean chicken, turkey fish and aerobic exercise, walking, running, swimming, bicycling at least 100 and 50 minutes per week and recheck A one [PHI-Account] in [PHI-Personal] months. Um, does that sound right? I guess so and let me just make sure. So what is his full name? [PHI-Personal]
+Patient: [PHI-Personal]
+Nurse: Date of birth?
+Patient: [PHI-Account]
+Nurse: [PHI-Geographic]. Ok. And address
+Patient: [PHI-Account] O2 [PHI-Personal]. [PHI-Account].
+Nurse: Perfect. Ok. Um and was his other um endocrinologist? Where is that in [PHI-Geographic]?
+Patient: The no only endocrinology he had since he's been at TGH was with uh Choline [PHI-Personal] Owen and the last appointment and that we physically seen her was back in [PHI-Personal]. I believe it was [PHI-Personal]. It could have been um [PHI-Personal] which was her last day. I was trying to find a it's
+Nurse: Confusing because it says let me go back in. Um just bear with me. I'm sorry. Um I thought that was that maybe she moved to [PHI-Geographic]. I don't know. Um because it said that um on the, where was it that I saw
+Patient: That that was so weird.
+Nurse: [PHI-Personal] Miller Owen was the ordering uh for the twenties and then let me just put her in.
+Patient: Mhm. Because she decreased his Lantus. I Miss [PHI-Personal] had quite a bit of Lantus in the pens that extended him up until this time. So no advanced practice requesting a new prescription for. Ok.
+Nurse: No, I'm gonna request it. I just, I'm gonna have to get clarification. Do they want him taking 20 at bedtime or [PHI-Account]? Right. Yeah, that's the only. Yeah, because it, like I said, the visit from um [PHI-Personal] that I have in here says 20 decrease Lantus uh 20 units daily. Continue Metformin. 1000 mg. Um What was it here? 1000 mg twice a day. Yeah,
+Patient: So and they restarted the Metformin. When was that in [PHI-Personal]? Was that [PHI-Personal]
+Nurse: Looks like [PHI-Personal]? Was that [PHI-Personal] when you start? Uh
+Patient: Mhm.
+Nurse: Right. And does he have a um skilled nurse coming in for him? No, no. Ok. Alrighty. Ok. Sorry I just have to.
+Patient: No, you take your time because yeah, I apologize. They also um need prescriptions for [PHI-Personal] other medications that the prescriptions had expired and I can give that to you. Yeah,
+Nurse: Let me put that in now. No, no, you can give it to me now. It's fine.
+Patient: Um Finasteride
+Nurse: Five mil and has five mg. Yep. Um and has he, was he gonna see urology? Was he supposed to, he's supposed to be seeing urology at some point? Right.
+Patient: Uh What happened to? Oh yeah,
+Nurse: Urology, urology. Was he supposed to see urology or am I getting, am I getting? Oh, yeah, ul ambulatory referral to urology. He was
+Patient: Supposed to Yeah. Ok. Yeah, that's
+Nurse: Fine. Uh, it says, um, with the, um, erectile dysfunction failed Viagra Cialis says he, uh, prefers injections, uh, urology. They'll show him how to do all of that. So, so it'll, it'll clarify everything for him. Um, and
+Patient: Other prescriptions are. Mhm. Medical, um, medicine. Uh, [PHI-Personal] is Colclopd. I, no,
+Nurse: The Plavix. Right.
+Patient: It clop ID ogrel.
+Nurse: Yeah. Right. [PHI-Personal] mg daily, correct. Ok. Yeah.
+Patient: So the one touch ultra 90 day supply, these are, and the Oxy [PHI-Personal]. No, no, no, no, no, no, no. It's [PHI-Account] touch. Yeah. And, uh, those are the [PHI-Personal].
+Nurse: Let me just make sure I have this right. So, the Lantus, um, Finasteride, the, uh, the clopidogrel and the one touch. Am I missing any?
+Patient: No, I requested new prescriptions for?
+Nurse: And he's using the Optum Rx, right? Ok. Yeah, I have him. Do you have time to go over his? Um, so basically what the program is is I'll call monthly or three months or however you decide what frequency you want, um, to check in to see, um, how he's doing, how he's feeling. Um, if there's any health concerns or questions in between calls, you certainly can call me. I can give you my, uh, direct line.
+Patient: Ok, I have a question. No, she just address it. You have the prescription to go see the neurologist,
+Nurse: The urologist, urologist,
+Patient: Urologist. Have we already have a prescription urologist? They, they, they take care of that situation. No, we haven't been there yet. Ok. Bear with me. Let me, uh, no, you're fine. I'm gonna put it on the calendar. You? Oh, uh, no speaking to.
+Nurse: Yeah. A NDRE A and your phone number is [PHI-Account], [PHI-Account], [PHI-Account]
+Patient: [PHI-Account].
+Nurse: Yeah. And if, for some reason, like, I find that sometimes people run into issues, like holidays, evenings, weekends, if you have an issue that can't wait until the next business day, because I work, um, Monday through Friday, 8 30 to, um, 8 30 to 4. So, um, if you call the office I can give you the, do you have the office number as well? Ah, I can give it to you if you don't have it.
+Patient: Yeah. Um, I have a pen. What is the office number?
+Nurse: [PHI-Account], [PHI-Account], [PHI-Geographic]. Yeah. And you can ask to speak to the on call doctor. So, like, if you had an acute issue you weren't sure what to do with it. It can't wait until, like, the next business day. Certainly you could call the on call. Ok. And then as far as, um, his medications, is it ok to go over his medications? Ok. So I'm getting off track. I'm sorry, I'm bouncing all over the place on you. So anyways, um, you can call me if you have questions or concerns. Kind of like a triage. Line too. If you need assistance with refills appointments, you need to um send the provider a message, you know, I can certainly assist you with all of that. So, um and then as far as his medications, is he taking the atorvastatin 40 mg daily?
+Patient: Uh yes,
+Nurse: The uh clopidogrel [PHI-Personal] mg daily.
+Patient: Yeah, hold on 40 mg
+Nurse: Core. The one you asked for the refill on the Plavix
+Patient: [PHI-Personal]
+Nurse: Milligrams daily, right? Finasteride five mg daily, right? Yes. Gabapentin. 600 mg. Three times a day.
+Patient: What you? No, not three times a day.
+Nurse: How often is he taking it?
+Patient: Are you talking about his um
+Nurse: Neurontin the Gaba is the 300 each. He's taking [PHI-Personal] capsules three times a day. Gabapentin. No, it's ok.
+Patient: Yeah. Yes, he is. Yeah,
+Nurse: I might, maybe I might be mumbling, you know, it's hard to tell
+Patient: Paper. It's not on the mail order. I go and pick it up. Ok. Um A Walmart. And that's, and that's a hassle, believe me. Uh
+Nurse: Is it like a cost issue that you go to Walmart or?
+Patient: Well, the uh the physician increased his gabapentin and it's, he takes it three times a three pills, three times a day. And which
+Nurse: [PHI-Personal] pills, right? Two pills, three times a day. 33 times. So how many milligrams total?
+Patient: Uh Let me see what it is is 300 mg. I'm sorry. It's [PHI-Personal], it
+Nurse: Is [PHI-Account] times a day. Ok.
+Patient: It is too. Ok. Alright
+Nurse: And then
+Patient: When she changed the order yeah uh you know that just threw the mail order off.
+Nurse: Ok
+Patient: So I would prefer it going back to to [PHI-Personal] you know because that that is ah inconvenience for me this is all of this is it's a lot right it's you another person it's not like it's raising a child you have Children you respond you know you but when you have an adult and an adult is not all that old,
+Nurse: It's hard. Yeah, it's hard. Have you thought about, do you get like, any kind of caregivers in the home? Uh, occasionally, occasionally. All right. Have you thought about calling? Is it, uh, Senior Services? What's it called?
+Patient: Yeah, I did place a call but then we had an appointment and I had to cancel it and I just haven't, um, pursued it again.
+Nurse: Well, uh, if, if you need assistance we'll work towards that. If I, if, you know, if it gets to the point that we're kind of running into walls, I can always, uh, try to place a social worker referral. But, you know, if you don't hear back, I could try calling and then maybe, um, see what we can do. We try it anyways. Right. Um, he's taking a me, the Metformin 1000 mg [PHI-Personal] times a day. That was the one he restarted on. Right.
+Patient: Yes, that's, that was a restart back in [PHI-Personal].
+Nurse: The Bene the, uh Olmesartan, the Benicar 40 mg daily in a car, car Olmesartan
+Patient: Olmesartan. Yes, 40 mg. Yes. Yes.
+Nurse: Oxybutynin 10 mg daily. Right.
+Patient: Yes.
+Nurse: Ozempic one mg weekly. Right.
+Patient: Yes. Oh, let's see. I don't know what that is.
+Nurse: Ok. All right. And he wasn't previously taking, were you giving him the three tablets for the gabapentin? You were just doing the [PHI-Personal]?
+Patient: I was doing the three, twice a day actually. Uh, well, three, twice a day because it was instructed. But then as I look on here, maybe this,
+Nurse: Yeah, I have t [PHI-Personal], twice a day.
+Patient: Who's
+Nurse: His prescriber for that?
+Patient: Two, twice a day. How is this? Wait a minute. I must have them. Hold on a second. Yeah. [PHI-Personal], [PHI-Personal], twice. Oh, ok. Ok. That's where the three came in. Uh, this, uh, ok. Two tablets by mouth three times.
+Nurse: Ok. Were you doing 32 times a day?
+Patient: Yes.
+Nurse: Ok.
+Patient: Ok. Because I'm looking at, uh, this other says [PHI-Personal] tablets, three times a day, [PHI-Personal] tablets by mouth, three times a day. But I'll give, ok. So he gives three, twice a day.
+Nurse: And is it, uh mcivor? [PHI-Personal] mcivor? That's the prescriber,
+Patient: I believe. [PHI-Personal] macgyver
+Nurse: M MCG. Ok. Um I would call her just, I would call the office to see what they want you to do. If they want you to continue with the three, twice a day or the [PHI-Account] times daily. I would get direction from them. Ok. Yeah, I mean, they're probably gonna tell you to do the, the 32 times daily, but I would double check with them. He's
+Patient: Still getting the same amount.
+Nurse: He is. Yeah, he's just getting it like, differently. So I would just double check what they want. How, like the, is he tolerating? Does he get like, sleepy and slurry with the three or no? He's been? Ok. Yeah, I just double check and see.
+Patient: No, he's not. No change. Ok. And I'm just being candidate. Uh, he just, yeah.
+Nurse: Yeah. Just, just let her, let, let them know and see if they want you to continue that way or, you know, do the other way. So
+Patient: He's still getting [PHI-Personal],
+Nurse: Right? So, it's just, he's getting larger doses twice a day. So, just double check with them. So I can't really, because I'm not the pres prescribing doctor so I can't speak to it. So that's why they get guidance from, from, um, what is this
+Patient: Doing? What happened to all? Uh, oh, there it is. Yeah, here we go.
+Nurse: So, yeah, we just call them for, for, for a clarification on that. So, uh,
+Patient: He doesn't get sleepy. He's up until the
+Nurse: A, it doesn't, it doesn't affect him. Huh?
+Patient: Doesn't affect, yeah, that's, that's part of the side effect. It is.
+Nurse: It is. It, it is. Yeah. So
+Patient: He doesn't take a nap or anything and he still remain until the am next day. So, oh gosh, that's
+Nurse: Funny. Um So I'll be sending you a care plan with like goals and everything and when you, when you get them, if you have questions, you can just call me about them. I will get clarification on the Lantus. Um And have it sent over. Uh You were saying that? Let me just see. Um Oh I
+Patient: Have another question. Yeah. Oh How about the freestyle for his? Um Let's see. What's it called? I see we've seen it advertised several times and said that we were going to find out if he was um a candidate for it. What that freestyle ver? Uh it's a sensor.
+Nurse: Oh, the the uh continuous glucose monitoring? Ok. I can ask about that too. So um can I give you, so do you need a new endocrinologist? I can give you some names over at uh U US S?
+Patient: Yes.
+Nurse: Ok. Alright, I can do that for you.
+Patient: I'm ready when you are.
+Nurse: Ok. So the first one is Doctor [PHI-Personal] M ad [PHI-Personal]. Yeah. Uh the name is Candeloro. Can [PHI-Personal] a [PHI-Personal]?
+Patient: [PHI-Account] spell that IC
+Nurse: Co sme
+Patient: And what's Doctor [PHI-Personal] uh first
+Nurse: Name? That's her first name [PHI-Personal] Cosme. Ok. That's she's got a long name. Yeah, she has a hyphenated. Last name is um is uh is [PHI-Personal] TG eight circle near you or is that far for you?
+Patient: Uh We're in the [PHI-Geographic] area. So,
+Nurse: So you know what I could do that might be better because they'll do this based on where you are. Um, I can give you the provider Finder line and they'll give you a list of three of them and they look at your insurance and everything.
+Patient: [PHI-Account] il I And what is that number?
+Nurse: [PHI-Account]. Yeah. [PHI-Account].
+Patient: Ok.
+Nurse: [PHI-Account]. Ok. So, so they basically will, um, they'll get take down like all the information and, and based on your location and insurance they'll, they'll give you a list of three of them.
+Patient: Ok. I may have a form in this. Hi, his package that has it been some endocrinologist. Um, but at least I have. Ok, we can go on this.
+Nurse: Yeah, I would do that. So that way you're not trying to search around on the web, web and, like, you know, it gets to be overwhelming. Yeah. So, otherwise it's stressful. Um, and then for his medications, do you use, uh, a pill box or the bottles to organize?
+Patient: We use the pill box.
+Nurse: Ok. And then I would see too just to make it easier for yourself. Can the pharmacy maybe do, like, did they give you a print out of their medication list online that you can print out? Yeah. So that you have that to go by as well? Right. And then,
+Patient: And to set this up it probably be, say it again, you said, uh, for you to, um, call, he can set up weekly or monthly. Um, so
+Nurse: It's, it's monthly, uh, every couple of months, every three months, whatever you feel is, is beneficial for him.
+Patient: Ok. Well, let's start off at three months, uh, for now. So, um, today is the [PHI-Account]. All right, [PHI-Account]. So [PHI-Personal]. And that's going to be the afternoon. No, it said morning. Oh, ok. I'm ready when you are.
+Nurse: Um, so, uh, I'm sorry, what am I supposed to be doing? Um, I apologize. I got
+Patient: The next, the next time. Oh,
+Nurse: Yeah, that's fine. So we could do three months from now. I can do it for, um, [PHI-Personal] 28 and it'll just be like in [PHI-Personal] basically if that's when you wanna call next. Yeah, that's fine. Obviously if I get something from the provider, I need to call you with an update, I would call you before then. So, yeah, and then if you have, if you were like, oh, no, I need, you know, to call, you just call, you don't have to wait. Yeah, you can call in between. So that makes sense. Yeah. No, I
+Patient: Appreciate it. No, thank you.
+Nurse: Yeah. So, and then you said as far as, so I don't understand why did she send the gabapentin to, um, Walmart? Uh, because
+Patient: He was on a lower dose. Um, he was taking a pill once the, um, I can, what was he taking the pill once a morning in the morning? And one at night. No, she increased it. Let me, let me see if I could, uh, find an old pill, uh, container or, uh, let's see.
+Nurse: So, she increased it to 600 mg three times a day. Right.
+Patient: Yeah. So she can increase the dosage actually. Um, off, uh, three times. She, she doubled the dosage. Yeah, that's pretty much, I believe what she did. Ok. It's been a while, I believe she doubled it. I believe he was taking, mm, 13 times a day. And then when she went to 33 times a day. What? Oh, no, I mo good. Feel. Hold on for me. I believe he was on 13 times a day now and he's on [PHI-Personal],
+Nurse: He's on [PHI-Account] times a day. Yeah.
+Patient: More like it. Oh, ok. All right.
+Nurse: Double the dose. Uh, she just sent it to a different pharmacy. Was that because of cost or just it? That's where it ended up going. Well,
+Patient: Because she thought he had, didn't have enough. She didn't ask me, um, when she told me she was going to send it a matter of fact, I was ii, I guess I could say I was naive to think to ask her not to send it because I had, um, gabapentin from the previous order, which was the 13 times a day. So now upon the visit she says I'm gonna send in a, a prescription and I want him to take [PHI-Personal] tablets three times a day.
+Nurse: Mhm. Ok. All right. Do you need it trans do you need to have it transferred to Optum?
+Patient: I prefer being with Optum and everything would be at one place if you can do. All
+Nurse: Right, I'll look into it for you.
+Patient: His next um they'll be calling me on the fifth is his prescription at Walmart is a refill for the fifth of each month. So if you can do that before the fifth, I appreciate it.
+Nurse: Right. I'll call over and I'll see what they
+Patient: Say. Ok.
+Nurse: Ok, sounds good. Alrighty. And I will request those refills and I got like I said, you'll probably hear from me before then because I got to get clarification on the Lantus. Ok.
+Patient: How about Hanger? The um his diabetic?
+Nurse: Yeah, so you just need the order to go over to Hanger, right? And it looks like um
+Patient: Ok,
+Nurse: That way. Ok, so it looks like they use. So it looks like um you got a message from the office, right? Well, it says patient's off. Ok, patients you went to the office to verify and check the status of the uh letter from the [PHI-Geographic]. Patient had an appointment for shoes and was canceled due to clinic uh had not received form yet. Um Missus [PHI-Personal] was informed that we have received the fax just a few days ago and it usually takes up to 10 days to have it ready missus [PHI-Personal] verbalize and uh uh uh verbalized understanding and requested to be informed when the letter has been faxed. So she can do make a new appointment since they won't give them a new one without the letter.
+Patient: So that's what we're waiting on. We're waiting on the approval so that we can make an appointment to.
+Nurse: Let's see what, let me see what this one says. Hold on, let's see. Give me one second.
+Patient: Uh
+Nurse: Looks like you are over uh overdue um for a foot exam or he's overdue for a foot exam so that's part of the problem too. Hold on um I think that could just be done by a a nurse.
+Patient: He was his podiatrist is the one who's see him and
+Nurse: No it's it's from the office for the foot exam with the office. Last foot exam was 12 hold on 12 27. Yep so let's see uh yeah I think that could just be done by the nurse. Hold on a second.
+Patient: Ok
+Nurse: Thank you.
+Patient: Alright. Yeah. Mhm. Yes I'm waiting for to return to the call. She's checking on she's checking on your diabetic shoe exam. If you need an exam he needs to be exam that's part of the hold up [PHI-Personal].
+Nurse: Hello nobody's picking up so I'm just gonna schedule for a nurse you for a nurses visit in [PHI-Geographic] nurse clinic. Uh what what day do you wanna do?
+Patient: Ok let's see um
+Nurse: I have it as soon as this week.
+Patient: Oh, this week, what is Thursday is the first
+Nurse: I have it. I have Thursday. Uh, most of the day o open, open all day.
+Patient: Um, and what is the address? Where are we going?
+Nurse: It's at the [PHI-Geographic] location. I don't know what the address there is. Let's see. Do I have an address that? Hold on, let me see what it says here. Uh, yep. 2 14 Morrison road. Suite 1 10.
+Patient: Ok. All right. So, um, how about, uh, eight o'clock? 8 a.m. Oh, that's a little early. I,
+Nurse: Uh, earliest I have is [PHI-Personal].
+Patient: [PHI-Personal] will do.
+Nurse: All right. Uh, in the past 10 days, uh, has he been in contact with anyone confirmed or suspected to have COVID? No, no. All right. Uh, has he tested in the past 10 days for COVID? No. Ok. No cold symptoms or any other symptoms? Right. None. Ok. Travel domestically in the past month or internationally. No schedule.
+Patient: Uh, let's see. See. Right. Yeah. Accept.
+Nurse: All right. So the first [PHI-Personal] 1st Thursday, um, [PHI-Personal] appointment with the nurse for a foot exam. Arrive at 9 30. Ok. Ok. So that's all set. So, um, all right. And so, so hopefully that'll help you get that letter quicker. Yeah. Yeah, you're welcome. I, I gotta keep track of everything because there was a lot going on in this phone call. So, um, [PHI-Personal].
+Patient: I see. Mhm. Um,
+Nurse: Ok. All right. So, yeah, so that way, um, so I'll work on some of the stuff if I, I might, if I have a question, I'll call you back. Ok, thank you. Ok, thank you. Bye bye.

@@ -1,0 +1,21 @@
+Nurse: Well, I mean, about the same, I guess how are things going? I don't
+Patient: Know. I'm a little
+Nurse: Upset. Ok, what's going on?
+Patient: I have a blood, blood test taken, what, two weeks ago now? Ok. Have not heard a word.
+Nurse: Oh, no. Let me look in our notes here. Hold on just a second. Um I'm checking to see what they, oh, what they wrote in here. Let's see. So, so yeah, the labs were done on the [PHI-Personal] I think is what I see. Ok. Good. Ohh. Yeah, I'm not sure why they did not call you with these results. So it looks like, um, let me see who, who initiated this note. Hold on just a second. Oh, gosh. So it looks like it says, uh CBC S significant improvement essentially considered normal. The inflammatory markers have improved, which is your sed rate and your CRP um, otherwise remaining labs are normal slash stable. So there's no changes and no updates to anything.
+Patient: Ok. But you see that's been a while and, and, and I don't and you know that, uh, and I don't wanna have to get back into the habit of calling [PHI-Personal].
+Nurse: No, no, no, no, sir. No, sir. There's no reason
+Patient: That just doesn't make sense to
+Nurse: Me. Yeah, I'm looking to see here. The only thing that I can think is, um, the information was forwarded to one of the other girls in the clinic and I think if I remember hearing correctly, she was out for a little while, which doesn't make, doesn't make it right. It should have gone to someone else since she was out. And I do agree. I completely understand it, but it looks like the girl that it went to was out of the clinic for a little bit.
+Patient: Well, fortunately, I've been around this every day for so long. I figured no news is good
+Nurse: News. Yeah. No, for sure, for sure. But, yeah. No, that, that's all it says. It just, basically everything is trending in the right direction. No, no new changes, no new meds, no new adjustments to anything. Good enough. All right. Hey, do you, um, so do you still receive your mail at [PHI-Geographic]? Yes, that is correct. All right. Did your insurance change at all or is it still the same?
+Patient: Nothing. Everything's the same.
+Nurse: Fabulous. How are you doing on your medications? Do you need any refills on anything?
+Patient: Nope, I'm good right now.
+Nurse: Well, I'll tell you what, aren't you just ke so I'm gonna, um, be, I'm gonna be sending you a letter. It's just gonna talk a little bit about the wellness goals that we're looking for in 2023. Absolutely nothing different than what you have been through in the past, maintaining your office visits. Making sure you get your labs checked regularly, which obviously you do, um, flu vaccines at the end of the year at, during flu season, uh, making sure you get your eyes checked stuff like that. Do you have any questions about any of that?
+Patient: No, and thank you very much.
+Nurse: Yeah, absolutely. Do you see a cardiologist when necessary, when necessary? Alright, good deal. Good deal. Alright, bud. Well, like I said, I'm gonna update all this information. I've got your address, your address updated. I'll send you a letter here in the next week or so. It it'll it takes a little, it's taken a little bit longer to get them to y'all just because we're doing so many with it being in the beginning of the year that it just our mail system is inundated right now.
+Patient: No, I heard what I wanted to hear. So I'm good.
+Nurse: Fabulous. I will reach back out to you next month. If something changes and you have any questions or concerns or need refills or anything, don't hesitate to call. Ok.
+Patient: Absolutely. Thank you.
+Nurse: All right, have a great day. Alright, bye bye bye.

@@ -1,0 +1,22 @@
+Nurse: Ok. You said [PHI-Personal]. What's your last name? There? You are everything out. One. Whoops. Now let's get you pulled up in the office chart. We have two charts that we work out of so I have to pull you up in both. There. You are. Ok. [PHI-Personal], what can I get for you?
+Patient: The [PHI-Personal]? 10 mg.
+Nurse: Ok, [PHI-Personal], it pulls it up and you said Pine [PHI-Geographic] Pharmacy? All right. I think we might be able to handle that one time. Grow [PHI-Personal]. That's the only
+Patient: One. That's the only one.
+Nurse: All right. Well, while I have you on the phone, how have you been?
+Patient: Good. Good.
+Nurse: No, no major issues or
+Patient: No, no major issues. I come to see Doctor [PHI-Personal]. I think it's Monday the fifth. I come to see him for blood work and everything
+Nurse: At 8 15 in the morning. Oh, that's your annual Wellness visit? Uh huh. That's the big one.
+Patient: That's the big one. Yeah.
+Nurse: It always takes a long time. So people don't like to do those ones. I don't blame them, but just lots of questions. It's gotta be done. Absolutely. How are you doing? BP? What do you check your BP at
+Patient: [PHI-Personal]? Yeah, I do it every once in a while. It's been good. It's been, uh, like 1 30/80
+Nurse: Ok, so that's the average, good, good, good. Are we getting out getting fresh air and exercise?
+Patient: Yes, because we're going camping now. So we're at camp a lot of the time. So, yeah, we get exercise. We do a lot of walking and, oh, I'm jealous. I just mowed the grass and weed whacked yesterday and did two loads of laundry. Getting exercise.
+Nurse: Good. Hey, that's, that's wonderful. I tell people keep moving when you stop moving, that things go wrong and, you know, that's the minute you stop, things just kinda tend to fall apart. So I always tell everybody just keep moving. It, it's o and honestly it's the best thing for almost any disease state. You know, literally. I mean, I'm looking at your chart, hypertension, hyperlipidemia and diabetes. It exercise is wonderful for all of those things and it helps with all of them
+Patient: And lots of, lots of water.
+Nurse: Yes. Yep. That was, that's the other one. It's funny. I have a, a soon to be [PHI-Personal] year old and she sat down one day it was telling me how important it is to drink water and how good it is for you. And I'm just sitting there, like, staring at her and said to the page. Do you realize I educate at least seven people a day on the importance of hydration? I am very well versed in that, my dear.
+Patient: Mhm.
+Nurse: But I'm glad that she knows all. That's wonderful. Yeah. Think she does. Um, all right, my dear. Well, I'd like to said, just one check and make sure you're doing well overall here. And, um, I will have them send that [PHI-Personal] in for you and if you need anything else, please don't hesitate to give
+Patient: Us a call. Ok. You have a good day. You
+Nurse: As well. Thank you.
+Patient: Bye bye bye.

@@ -1,0 +1,95 @@
+Nurse: All right, let me jump in your, um, let me get in your chart here real quick. Can I have your
+Patient: Date of birth? [PHI-Personal].
+Nurse: Ok. And can you verify your address for me,
+Patient: Please? 22 54 East Main street, [PHI-Personal]. P A 17968. Ok.
+Nurse: [PHI-Personal]. I'm just trying to find who your nurse is and then I can get you transferred to
+Patient: Her. Iiii I really don't have any that I know of.
+Nurse: So, um, her name is [PHI-Personal], she's gonna be, she will be your nurse. So I'll get you trans. Yeah, [PHI-Personal]. So I'll get you transferred over to her. Ok, one minute please. Mhm. [PHI-Personal]. Are you still there? Yes. Ok. She must be out to lunch. So. Ok, so it looks like Doctor [PHI-Personal]. Is your, uh, provider, correct? Yes. Ok. So this program that, um, he's enrolling his patients in is a chronic care management program. Um, basically you'll have your, you know, we're like your own personal nurse. Uh, if you have any questions concerns medication needs anything like that you can reach out to us. Um, we're in contact with Doctor [PHI-Personal] at all times. So, um, like I said, if you have any of those concerns or anything.
+Patient: Yeah, that's why I'm calling. I do. Oh, ok. What
+Nurse: Can I help you with?
+Patient: Ok. Well, the last time I was out for my six month check up, I asked Doctor [PHI-Personal] if I could have, uh, the Cologuard test and I send in, I called the number at [PHI-Personal] and they told me because I'm over [PHI-Personal]. They won't pay for it. Mhm. So, I was wondering if there's any way I can get it without paying for it.
+Nurse: Hm. Um, let me see. Yeah, a lot of, a lot of these, um, preventative testings that they do now, um, unfortunately, you know, some of them are exempt after a certain age. So let me
+Patient: Do a little, the reason I wondered it is my brother had colon cancer and he passed away from it.
+Nurse: Oh, I'm so sorry.
+Patient: Thank you. I don't know how long ago I had it but I know it's been quite a while since I had that. Does it show on the records?
+Nurse: Um, Yeah, let me go back and see what I can find for you. Hm. Do you have any idea when it may have been?
+Patient: Oh, I'm, I'm just looking to, if I can find something here. No, I can't find anything. I know I had send it in but within the last 10 years, I don't know.
+Nurse: Ok. Let me keep looking here and see if I find anything. Hm. I'm not finding anything.
+Patient: I, I know I definitely had it. So I, I remember sending that in but I don't know how long ago that was. Ok.
+Nurse: I'm just looking through your old records. It looks like you had some records transferred to Doctor [PHI-Personal] a few years back. So I'm just looking through there to see if I had, if there's anything mentioned in that.
+Patient: Oh, I think I was with Doctor [PHI-Personal] when I had it. Oh, you were? Ok. Yep. Yep. Yep. Yeah. All right. Let me see. Well, no, I wouldn't spend my life on it because I'm getting forgetful too. Oh,
+Nurse: We'll see what we can find.
+Patient: I probably was with, with, with, at the other one yet. Ok. Doctor [PHI-Personal]. I might have been with her yet.
+Nurse: Ok. I will keep looking here and see what we can find.
+Patient: Ok. Mm.
+Nurse: Are you having any, um, changes in your bowel habits at
+Patient: All? They're pretty loose. That's why I'd like to have it done.
+Nurse: Ok, I understand. Mhm. Yeah, I'm just not seeing anything.
+Patient: Yeah.
+Nurse: Well, let me go back, let me check one more place
+Patient: Here. Ok. Mhm.
+Nurse: Ok. I think I found it, it looks like you had, you had it done in [PHI-Personal]. Really? Yeah.
+Patient: Wow.
+Nurse: Um, ok, so that was, and at that point everything was good. Good. Yeah. So let me see. Now that was the first one I found, let me keep going up and see if maybe I missed one
+Patient: Since I only remember sending one in
+Nurse: One. Ok, then that was the one it was and everything at that point was good. Good.
+Patient: Yeah. So that's only, what, for five years?
+Nurse: Yeah. Um, are you taking like, a stool softener or anything during the day?
+Patient: Oh, no, no. Ok. I do take an iron pill three times a week if that makes any difference.
+Nurse: No, because iron typically bounds you up. It doesn't. Oh,
+Patient: Really?
+Nurse: Yeah. But three days a week it's, that wouldn't do that to you. It's usually typically, if you take it every day it can make you constipated.
+Patient: Oh. Right.
+Nurse: Um, so let's think of other things. Have you had a change in your diet at all? Are you eating more high fiber foods?
+Patient: No. No, no.
+Nurse: Ok. Um, and how long have the loose stools been going on?
+Patient: Well, this last week it was pretty bad. But, yeah, for quite a while already, a couple of, pretty many weeks. Not,
+Nurse: Um, and any nausea or vomiting.
+Patient: No. No.
+Nurse: Ok. Um, are you on an antibiotic at all right now?
+Patient: No.
+Nurse: Ok. Um, let me look at your pills here and see what you're on.
+Patient: They're probably someone I don't take anymore.
+Nurse: Well, let's go over those here real quick and we'll see. Uh,
+Patient: Ok.
+Nurse: All right. Do you wanna read yours off to me or do you want me to read you my list?
+Patient: Yeah.
+Nurse: Ok. So we have you on [PHI-Personal]?
+Patient: No, wait a minute. What's that?
+Nurse: Um, that would be, I believe that's for indigestion, but let me look
+Patient: It up. Wait that one. I, I, I'm positive I'm not on. How do you spell that one?
+Nurse: That's a [PHI-Personal]. A te that's to,
+Patient: No, no, no, no. That one I couldn't take, I'm not on that one. No, I found the, I found the, the bottle. I'm, I, I'm not on that one. I can't take that one.
+Nurse: When did he take you off of that?
+Patient: Oh, off for sure. Of the year. So I'm not quite
+Nurse: Sure that's fine. I can go back to his notes and see when. Ok, then the next one we have is amLODIPine. That would be for BP.
+Patient: Yes. Yes. Lisinopril that way and, and pri, yeah. Yeah. Both of those. Uh huh.
+Nurse: Ok. And the Lisinopril.
+Patient: Ah, yeah, that there's, what is that one? 20 twice a day. Yes. And the other one is one time a day. That's fine. Yeah, that's
+Nurse: Correct. And then we have you on the iron pill?
+Patient: Yeah, three times a week. Then you do fish oil one time a week.
+Nurse: Ok. A multivitamin
+Patient: Every day. Uh, [PHI-Personal] hips. No,
+Nurse: You're off that.
+Patient: Mhm.
+Nurse: Ok. Let me, let me get that one off of there. Ok. Uh, calcium 600.
+Patient: Uh, no. Uh, I take that senior multiple vitamin. Did, did, did, did you ask me that?
+Nurse: Yeah. So, yeah. So you take the multivitamin and that, does that have calcium in it?
+Patient: And, and that was the reason I'm not taking the pill anymore. He said I might be taking too much calcium. Yeah. Ok. Now I take a vitamin C a, 1000 mg. You said every day? Vitamin C?
+Nurse: Ok. I'll add that in
+Patient: And with, with my iron, I take uh vitamin E [PHI-Account]. Ok. He had told me to take that with the iron pill.
+Nurse: Ok, perfect. I have that one on there and then the last one I have for you is a baby [PHI-Personal].
+Patient: Nope, he's, I'm off of that.
+Nurse: You're off of that one too. Ok. All right. Now, do you take anything that I didn't mention?
+Patient: No, that's that, that's it. That's it.
+Nurse: Ok. All right. Very good. So, going back to the Cologuard, I'll have to do some research and ask him if they, if he knows of any um, programs that will pay for that. Ok. Have you tried to take like any Imodium or anything for the diarrhea?
+Patient: Uh I, I'm not a pill taker. I hate to take any, I have a hard time to swallow these pills. I, I guess it's in my head but I, I, I just don't like to take anything.
+Nurse: Ok, that's fine. Um, I just wanna be able to give him a good report, you know, because he'll ask me these questions so. Right. Right. I figure I'll just ask him now. Um, ok. Any fevers?
+Patient: No. no, I'm, I'm good too. Ok.
+Nurse: All right. All right. So as far as diet goes, um, you're eating a pretty balanced diet. Yes.
+Patient: Yes. Yes.
+Nurse: Ok. Very good. Um, so I'll reach out to him and see what I can find out about that. Um, just let him know your concerns see if he has any other suggestions.
+Patient: Ok. Well, I thank you very much and you have a great day. You're welcome. You too. And, and your name, your name is [PHI-Personal]. Yes. How do you spell that? It's K er, Rie. Er. Ok. Ok. You have a great day and thanks a lot. Oh, you're
+Nurse: So welcome. I'll talk with you soon.
+Patient: Alrighty, bye
+Nurse: Bye bye.

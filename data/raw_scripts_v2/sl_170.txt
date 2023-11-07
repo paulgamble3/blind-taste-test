@@ -1,0 +1,38 @@
+Nurse: Ok. Just tell me your date of birth. [PHI-Personal].
+Patient: [PHI-Account].
+Nurse: Perfect. Ok. What medication is it?
+Patient: [PHI-Personal].
+Nurse: Ok. Let's take a look here. And do you use the CV S in [PHI-Geographic]?
+Patient: Yes. The one at [PHI-Geographic].
+Nurse: Ok. All right. And your dose currently is one mg dose, correct? One mg once a week. That's right. Ok. All right. Yes, I can send that over. How are you doing otherwise?
+Patient: All right. Now, I, I'm getting ready to test. I think I'm getting a little hypo but other than that and getting over the COVID, I'm doing better. Oh, I know that last week or the week before I was, I was down with COVID. I
+Nurse: Think I saw that somewhere. Why did I see that somewhere? Maybe I didn't. Um,
+Patient: I think the last time I called in my, in my result to the cardiologist, I think I told them they may have made a note of it. So,
+Nurse: Um, I know so many people are catching COVID again. I can't even believe it.
+Patient: Yeah. Even, even with four boosters, I mean, four shots. I know.
+Nurse: I know. You're like, oh, my goodness, why is this happening? Hopefully, your symptoms were pretty mild. I, I'm hoping, um,
+Patient: I felt bad a couple of days but that was about it good. And I don't mean I've tested, I tested negative since then.
+Nurse: When did your symptoms start? Do you remember?
+Patient: Oh, it's been a couple of weeks ago. Seems like it was on a Thursday. Uh, and they were over i, in a week.
+Nurse: Ok. So, did it start with a fever?
+Patient: No. No, it really didn't. I had a headache, headache and runny nose and, uh, and it just started feeling bad after that. If I have a fever, it didnt go over 99 something.
+Nurse: So, just like the fever, body aches, runny nose headaches. So kind of feeling like you had the
+Patient: Flu. Yeah, it felt just like that. But I did do a COVID test and it came out positive.
+Nurse: So the test was positive. And then, um, did you get, did you lose your taste or smell?
+Patient: No, I didn't.
+Nurse: Ok. And did you wind up having like the upper respiratory symptoms? Like congestion and a cough? Yes, you did. Ok. So you had cough and congestion and then all those other y you know, and then what did you take for it? Nothing. You didn't take any medication at all? Nothing over the counter? No. Wow. Ok. And the symptoms resolved within about one week? Good for you. Good for you. And then how many times have you retested since that of initial positive test?
+Patient: Uh, I think I did three tests total.
+Nurse: Ok. So one that was positive,
+Patient: Right? One that was positive and one still positive, I think and then the negative.
+Nurse: Oh OK. So to be truthful, that's a good thing. Um just so that, you know, you can test positive for like up to three months after an acute infection. So um base everything at this point more on your symptoms than that test. Ok. Yeah. So like it's really difficult because if you started to feel sick again, um you know, you would follow kind of the same isolation protocols, right? Um Despite that, although you're testing negative now, but let's say you felt perfectly well and you tested again in a week or so you could be positive there, the testing isn't perfect. I just want you
+Patient: To know that well, it was my grandson who had it. Uh he tested uh positive at the doctor's office and, and then uh it took about [PHI-Personal], [PHI-Personal] days and then he tested negative, but he's feeling awful again. I tested him again yesterday and it still said negative
+Nurse: And he is feeling awful. Um So, you know, we see a lot with COVID kind of those post secondary infections. Um, whether it's like congestion in the sinus or in the chest. Um So I would say, you know, you guys keep an eye on him and if you, uh if you haven't contacted his pediatrician or his doctor, I would say, um, you know, maybe contact somebody if he's still feeling pretty [PHI-Geographic], um, they might, they might wanna see him. Right? Well, I,
+Patient: I, I told him if he's still feeling bad tomorrow because this is three days now. He's felt bad. Yeah, I said he's still feeling bad tomorrow. I take him to the doctor.
+Nurse: Yeah, because it's been about 14 days since the start of the infection, right? For you both. About 14 days.
+Patient: Well, he was, he was a week before me.
+Nurse: Oh, ok. Yeah, definitely. If he's still feeling under the weather, I would definitely say that take a whole 14 days for those symptoms to resolve for some people, the fatigue, um, the cough and that loss of taste or smell can linger. Um, so, you know, if he's still feeling that fatigue, I mean, some of it, but either way usually the doctors want to follow up to make sure that something hasn't developed following the COVID. Ok. Ok. Hopefully that helps you. I am glad that you're feeling better. Please feel free to reach out if you have any concerns about yourself?
+Patient: Ok.
+Nurse: Ok. All right. Um, and I will send that [PHI-Personal] over for you and you have a wonderful afternoon. Well,
+Patient: Thank you and you too, [PHI-Personal].
+Nurse: All right. Bye bye. Bye
+Patient: Bye.

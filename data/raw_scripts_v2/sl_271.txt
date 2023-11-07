@@ -1,0 +1,25 @@
+Nurse: Just fine. Good, good. All right, let me see. I was calling, um, obviously just to check in, see how you're doing with everything since, um, we spoke last in [PHI-Personal]. Um, just seeing if there's been any changes, questions or concerns at all going on.
+Patient: Well, I've got, you know, I've been taking this, uh, and, and the Tylenol for, and that, that seems to work if, you know, as long as I take it on time about and, and the, the nerve endings, it, it seems like they've moved down to my kind of the top of my ankle and a little bit under my foot is that and then it, that's the way it goes and then just right out the end of your toe and everything's back to normal.
+Nurse: Ok. Well, hopefully, hopefully that's the way that it's working. So if you could tell me if that's the way it works just that pain, just kind of slowly moves out of your body. Um, well, I just,
+Patient: I want those nerves to fire up again too. Right. You know, and I'm trying to get more strength in my, my legs. So I'm gonna be, uh, walking and, and doing, uh, gym exercises at the Y
+Nurse: Ok. Good, good. Have you had, um, I know last time we spoke you had a follow up with or you had the surgery? Have you had a follow up with the surgeon at all? Um, since the surgery and everything? Yeah. Ok. Perfect. Awesome. When was the, when was your last appointment? I wonder if it's in here. Let's see. Uh, it was
+Patient: Like two weeks after the operation which was on [PHI-Personal].
+Nurse: Ok, perfect. Ok. Yeah, [PHI-Personal]. Was it maybe
+Patient: Around when I get back down to [PHI-Geographic]?
+Nurse: Got you. Ok. Sounds good. So you're up up in [PHI-Geographic] right now, correct. That is correct. Alright, perfect. Good, good. Yeah, let me see how three weeks and ok. Oops, I was just reading because they finally they were able to get the report from your follow up into your chart here. Oh, good. Perfect. Um, restricting him from excessive bending, twisting, heavy lifting for the next six months and then when you return in October, you'll have another follow up. Ok, perfect. Ok. All right. Yeah.
+Patient: Ok, perfect. You have any idea how many times you, you need to bend over to pick something up or tie your shoe or put your socks on or yada, yada yada. Right. You know,
+Nurse: You don't realize how often. Right.
+Patient: Mhm. But, and, and raking leaves is not exactly too much twisting, but, you know, as long as you keep drawing them back here. So, I did a little bit of that yesterday. So I'm, I'm trying to not irritate it enough to have to go through the operation again.
+Nurse: Right. Yeah, definitely. Just listen to, you know, to your body if you doing a lot of outdoor, um, you know, yard work or anything like that, um, you know, making sure that you rest, um, quite a bit afterwards just to make sure you don't overdo it. Um, but you know, your body best if you need a break, obviously he'll know that and everything and I
+Patient: Think my backside is getting plenty of rest. Uh, I can get up. I'm going to take a, well with my wife. I'm gonna take a walk along the lake front here as soon as I get off the phone with you.
+Nurse: Perfect. Well, good, good. Um, where, where abouts in [PHI-Geographic] are you in,
+Patient: Just over the border in [PHI-Geographic]?
+Nurse: Ok. Got you. Ok, because I, I was just curious, I'm, um, located in [PHI-Geographic], so I was just curious where in [PHI-Geographic] you are? Yes. Yes. Just, uh, yeah, your neighbor pretty much. Not too far.
+Patient: So it was just like you're not in [PHI-Geographic].
+Nurse: No, I'm about, yeah, for like, uh, 35 40 minutes north of [PHI-Geographic]. So, not directly in it a little bit further north. Yeah. Yeah. Ok. Well, good. Well, I'm glad everything's going well, um, sorry for the phone tag back and forth. Um, and I don't know if I know some patients have, um, like a, um, a screening on their phone. So if any phone numbers that aren't recognized or saved in the phone, it just goes straight to voicemail. I wasn't sure if you had that set up because sometimes my phone number comes across as a different number. Or is that the, the number that, um, you call back on
+Patient: When I see it's from [PHI-Geographic]? I kind of know it's either a neighbor or it's, uh, you guys from [PHI-Geographic] General?
+Nurse: Got you. Ok. Ok. Sounds good. I just wanted to check because some, some patients have it set up or if they don't have the number saved in their phone, it just goes straight to voice mail. Um, so I just was curious but I'm glad, glad we're able to touch base and there's no major concerns or anything going on at the moment. I'm, I'm happy to hear that.
+Patient: Uh, no, I just wanna, when I can stop taking these pills and, you know, get on with my
+Nurse: Life. Right. Mhm. Yeah. Well, I'm sure. Yeah. Yeah. Well, um, give me a call, if anything major comes up or anything like that. Otherwise I'll check in with you um about a month or so from now and see how everything's going in [PHI-Geographic].
+Patient: Ok? Thanks, sir.
+Nurse: Alright, sounds good. You have a good rest of your day. Thank you. You too. Bye. Thank you. Bye.

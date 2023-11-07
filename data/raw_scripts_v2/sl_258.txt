@@ -1,0 +1,68 @@
+Nurse: Oh, so,
+Patient: Ok. Um, this is truly calling [PHI-Personal] is my mother and she said she got a call this morning and, oh, or yesterday sometime. But anyway, she's very con, she has me very confused as to what this is about.
+Nurse: Yes. She said I called her this morning.
+Patient: You called her this morning? Ok. Um, and she said that you're going to be calling her every day at five o'clock.
+Nurse: No, I'm, I'm not sure where that came
+Patient: From. Yeah, I don't either. I, I said
+Nurse: We are available every day up until [PHI-Personal]
+Patient: O'clock. Ok. That's probably what? Yeah. And, but she said something about [PHI-Personal] and a medication.
+Nurse: Oh, so what I had, I had called her this morning to go through the Chronic Care management program. It's a, it's a program offered with Doctor [PHI-Personal] [PHI-Geographic] here, uh, where she would have a nurse and you would have access to a nurse. So from your calling, it comes straight to me. The nurse. If you have any questions, any concerns. If you need any medications refilled, if something's going on, she's not looking right. You can give us a call, we can go through the education with you. We can go through a triage with you. See what's going on. We can get messages through to doctor [PHI-Personal]. He normally gets back to us within an hour or two. so we can get anything taken care of that way that you would need done. I went through her medication list with her.
+Patient: Ok.
+Nurse: I, there was one medication she said, I don't think I take that and she looked through her pills and she said she didn't have it and I let her know. I said, well, you know, this is really only, it's for seven days. It's probably on here in case you need a refill. If you have a flare, you don't take it every day. So that was probably the medication she was referring to.
+Patient: Um, she said it's eal Ac [PHI-Personal] is what she wrote down here.
+Nurse: Um, she, she had asked me to spell out Valacyclovir.
+Patient: Ok.
+Nurse: So I think maybe there is some miscommunication there.
+Patient: Yeah, I'm
+Nurse: Sure. So that was the only one we had talked about that she didn't have, she wasn't familiar with and I said the other one is really only, it's, it's one tab three times a day for seven days when you have a flare. So that's probably
+Patient: She is not taking that. Ok. The, um, I have all her medication list right in front of me and that is not one that is on here at all.
+Nurse: Ok. I will just take that off then since you have it right in front of you. Could I go through the medication list with you?
+Patient: Absolutely. I'm
+Nurse: Starting to think that maybe we didn't get on any of the medication
+Patient: Communicated correctly. She, um, I can tell you what I have here. Ok. She is on Amarone Ami. Ok. She takes that in the morning and that's one tablet with food. 200 mg. Ok. Have that. Ok. And then the other one is, I'm sure I'm gonna mess up all the BBBUM eta N ID E. Yeah. Bumex
+Nurse: Is the, is the brand name for it. Yes.
+Patient: Bumex. Mhm. And that's one tablet morning and evening and it's one mg. Ok. Um, she takes a calcium 500 plus D two times a day and then doctor [PHI-Personal] took her off the um, Coreg because we were noticing side effects with that and he put her back on her Metol. Yes, you got that. I, and
+Nurse: It was decreased. Correct.
+Patient: Yes. Yes. Instead of taking the 25 twice a day, she takes a half a tablet twice a day. So she takes 12.5 in the morning and 12.5 at bed. Perfect. Ok. And then she takes another one, Fam Famotidine. It's Pepcid. Yep. [PHI-Personal] mg. And she takes that in the morning. Ok. Um, the other one is, um, Vothyroxine. It's Synthroid.
+Nurse: Love [PHI-Personal]. Yes.
+Patient: Yeah. And it's [PHI-Account] and [PHI-Account] MC G, I'm assuming that. Yeah. Ok. And that is just in the morning. All right. Meclizine. Um, that is, oh, that's for her dizziness. Right. Yes. [PHI-Personal]. And we actually need that refilled. Um, because I went through her pills the other, well, my daughter and I went through her pills and the prescription expired on that.
+Nurse: Ok. Now, I do not have a, um, a doctor listed.
+Patient: It's, it's not, and I think my
+Nurse: Jumper if he can refill it. But do you know who originally provided
+Patient: It? Um, let me see if my daughter left it here. Yes, I do. Um, [PHI-Personal] and it's for 25 MGS and it's just as needed for dizziness.
+Nurse: Yeah, I have it. Now. Is she a pa, uh, an MD or CRNP?
+Patient: Mm. Just says [PHI-Personal] on it. Ok. I will look through and expired in [PHI-Personal] of last year. Ok. And then the, the other one we're going to need refilled is her nitroglycerin tablets. I noticed that, um, they expired 12 of 2021.
+Nurse: Those are notorious for expiring before they're used.
+Patient: Yeah. Um, and of course that's just, I mean, she's never had to take one bef, but it's, and the doctor on that is actually, must have been a hospital doctor when she was in the hospital because it's Abdulla Buka. Ok. And it says it can be real refilled for 46 times, but it expired in 12 of [PHI-Personal].
+Nurse: Yeah, which means those, those expired. So I'll send the doctor [PHI-Personal] and see if he'll be willing to, to
+Patient: Refill them. I mean, if not, I mean, I know, um, the nitroglycerin, she has a doctor's appointment Thursday with the cardiologist. Mhm. And, um, you know, so we can, even if Doctor [PHI-Personal] doesn't want to refill that one, I know we can talk to them and see if they want them refilled or not. Um, but the one for dizziness, I'm not sure, you know what he'll want to do about that.
+Nurse: Does she see a neurologist at all?
+Patient: No. Mm mm. No.
+Nurse: Ok. So that's the only, that's another one who sometimes prescribes.
+Patient: Yeah.
+Nurse: Yeah. Now, is that AC or a K,
+Patient: Um, hang on one second. Let me just put it back in the thing. Um, come on, [PHI-Personal] is, er IC A and it's [PHI-Personal] and it says no refills on
+Nurse: It. It looks like she is a P A with boiling with the um, up MC providers. So that was probably a P, in Doctor [PHI-Personal] old [PHI-Geographic].
+Patient: Yes. I, I'm, I think it was her. Yeah. So I
+Nurse: Will II, I think Doctor [PHI-Personal] will probably be ok with that. But I'll just. Right.
+Patient: And it, she hasn't had to take it in a long time. But I know they like us to keep it on hand just in case because she has, um, vertigo. Yeah.
+Nurse: And I, I'd rather you have it than not. I can't. Right. I would assume the doctor jumper would agree. Right. But I will put the message through and ask him. All right. Right. We do have a few more medications. Yes.
+Patient: And then the next one on her list was the nitroglycerin, which we just talked about. Um, the next one is potassium chloride. Mhm. It's 10 meg and that's just in the morning. Ok. And then pravastatin that's 40 mg. And that's just at bed time. And then the next one is sertraline or Zoloft. It says commonly known as Zoloft [PHI-Account] mg and that's at bedtime and then trospium 60 mg. And that's just in the morning and then Warfarin two mg and that's in the evening. Ok. And that's what we have. Ok. That's all I have too. Yeah. And what was your name again? Yes. Ok. And we can reach you. Um, what hours did you say?
+Nurse: Um, I'm, I'm here from [PHI-Account]. Sometimes five, depending on, uh, how the day runs. Ok. And you'll always get us if I'm on the phone with somebody else, uh, it'll go to voice mail and I'll give you a call right back. But it, there's no computers press one for this press two for that. It's just a direct line
+Patient: To us. Thank you those things. Ok. All right. And that is from [PHI-Account] 30 or [PHI-Account]. We can um, use this. Yeah. Ok. All right. And then after hours, I guess we would just use the emergency room or something. Yeah,
+Nurse: I, I don't, you can always leave us a message and we'll give you a call back the next morning if it's nothing urgent. Right? To get through to someone that, uh, I believe doctor has on call, like, call, so to speak. If, um, you really need to talk to someone or go to the emergency
+Patient: Room. Ok. All right. Ok. All right. Um, did you have any questions for me?
+Nurse: Um, so she said she says her granddaughter sets her pill boxes up and she's pretty good with that. Um, how is she, is she living there by herself?
+Patient: Um, sh her, her apartment is connected to the back of our house. Um, now she is here, um, when I'm at work. Um, but I typically am I home from work by 11 or 12 o'clock. Um, a couple of days a week. My husband only works three days a week and like, he's off Tuesdays and Thursdays now sometimes he's here and sometimes he's not because he has things, you know, that he has to do. But, um, she is here by herself sometimes. Yes. All right. I,
+Nurse: I always get worried when people live by themselves, far away from family
+Patient: Now. So now
+Nurse: Right at the back of your house. So I'm, I'm happy with that. Um, yeah, she was saying also that she got a new BP cuff for the wrist. Yeah, I did walk her through how to do that. Um,
+Patient: Yeah, the visiting nurse actually was here yesterday and she showed her how to do it. Um, yeah. And, um, so, but it was like the visiting nurse got a good reading on her yesterday and, um, when we put it on her it was like, it was bonkers. So I don't know what was going on with it, but we didn't try it today at all.
+Nurse: Yeah. So, the best thing with that is have her sit for a little bit, ha make sure she has her legs uncrossed, put it on the wrist, hit the start button and then put the arm, like, crossing her chest,
+Patient: Like, up at the heart. Mhm. Yeah.
+Nurse: Cross it up at the heart and just let it sit there. No talking, um, talking, moving, turning around. That's all gonna make it go absolutely crazy.
+Patient: Yeah. Yeah. Yeah. So, but, yeah, she did. But all of her, the visiting nurse, um, all her, she said her lungs sounded clear and, um, you know, all of her numbers were good. Her oxygen level was at 99. And so, um, yeah, so, and we have the pulse ox thing. Um, too here at the house. And, um, so, yeah, everything's been good.
+Nurse: All right. Well, if you get a really funky reading, that's not her normal. If it's like, under [PHI-Account] and 10 and she's starting to feel dizzy or if it's like over one forties, one fifties give us a call, we can go through all that with you.
+Patient: Ok. All right. Ok. All right. So, um, I guess that she was just telling me and she was like very confused about the phone call and I said, well, did you write the number down? And she said yeah, and I thought, well, I better call and just because she said it was from Doctor [PHI-Personal] [PHI-Geographic] and um you know, but she, and then she said about medication and I was just like, oh, ok, so I'm glad we got it,
+Nurse: Doctor's [PHI-Geographic].
+Patient: Ok. All right. Yeah. Yeah, she did say that so. Ok, well it sounds like we got things squared away then, so. All right. Um I will keep this paper and um you know, um if we have any questions we can always call you. Yes, ma'am. Alright. Thank you so much. You're welcome. Have a great day. You too. Mm bye bye bye.

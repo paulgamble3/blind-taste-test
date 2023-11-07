@@ -13,7 +13,7 @@ import pickle
 # if list is empty, show a message
 
 def get_user_task_state(username, task_name):
-    fn = './data/user_task_state/user_task_states.json'
+    fn = './data/user_task_state/user_task_states_v2.json'
  
     with open(fn, 'r') as f:
         user_states = json.load(f)
@@ -23,8 +23,10 @@ def get_user_task_state(username, task_name):
         
     else:
         label_set = random.choice(['A', 'B'])
-        label_name = './data/script_sets/blind_set_' + label_set + '.pkl'
+        label_name = './data/script_sets/blind_set_v2_' + label_set + '.pkl'
+        print(label_name)
         labels = pickle.load(open(label_name, 'rb'))
+        print("LABELS:",labels)
         user_state = {
             'username': username,
             'task_name': task_name,
@@ -37,7 +39,7 @@ def get_user_task_state(username, task_name):
    
 
 def get_item(user_state):
-    fn = './data/user_task_state/user_task_states.json'
+    fn = './data/user_task_state/user_task_states_v2.json'
     with open(fn, 'r') as f:
         user_states = json.load(f)
 
@@ -79,7 +81,7 @@ def BlindForm():
         print("---")
         print(feedback_object)
         print("---")
-        write_task_item(feedback_object, 'blind-taste-test')
+        write_task_item(feedback_object, 'blind-taste-test-v2')
         st.session_state["Overall Subjective Quality"] = "1"
         for k in subjective_yes_no_qs:
             st.session_state[k] = "No"
@@ -87,14 +89,14 @@ def BlindForm():
 
     
     user = st.session_state.username
-    user_state = get_user_task_state(user, 'blind-taste-test')
+    user_state = get_user_task_state(user, 'blind-taste-test-v2')
     item = get_item(user_state)
     label = item[1]
     script_fn = item[0]
 
     feedback_object = {
         'username': user,
-        'task_name': 'blind-taste-test',
+        'task_name': 'blind-taste-test-v2',
         'label': label,
         'script_fn': script_fn,
         'timestamp': datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")

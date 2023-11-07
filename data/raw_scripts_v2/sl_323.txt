@@ -1,0 +1,63 @@
+Nurse: Ok. And what did you need help with today?
+Patient: Well, I know uh uh she went to the uh urgent care um on, on Sunday, she's got uh some kind of thing in her throat. I think it's laryngitis and she's constantly uh, coughing and coughing every night and, and she's having a hard time, uh, every day she's coughing. She's going crazy coughing.
+Nurse: Ok, let me see. I'm just gonna look pull up her chart and see who I need to transfer you to. Hm. It looks like her care manager is [PHI-Personal], right? And so I'll transfer, I'm gonna see if [PHI-Personal] available. Ok, hold on one moment.
+Patient: All right. Thank you. Thank you.
+Nurse: Yeah, saving [PHI-Personal]. Actually I just stepped out to lunch. Um, may I take a message and have her call you back in a short while?
+Patient: Yeah. Can you tell her call Ana [PHI-Account]? Uh [PHI-Account].
+Nurse: That's no problem.
+Patient: Ok. And,
+Nurse: Uh, it'll probably be like a half hour. Um, is it something emergent or?
+Patient: Well, she needs to see a doctor because she's constantly coughing and she's got laryngitis and she went to see, uh, a nurse over here at urgent care and they gave her some medication but it's not helping at all. And she just constantly coughing in the night time. She goes crazy coughing.
+Nurse: Oh, ok. Um, would you want to see the of like a provider in the office or you, would you do it like a telehealth visit?
+Patient: Well, uh, well, it depends if I can get some advice from the care nurse manager to tell me what to do.
+Nurse: Ok. I'm just trying to see really quick in her chart. Who's your doctor
+Patient: Thing? Now is Doctor [PHI-Personal]?
+Nurse: Let me just pull up my char really quick. Oh, yeah. Looks like she is listed for doctor. Does that sound familiar?
+Patient: No, the, the latest, uh, she was supposed to have an appointment, uh, late this month. You see Doctor [PHI-Personal] next week to see Doctor [PHI-Personal].
+Nurse: I don't see that one on the chart.
+Patient: Yeah. Her name is, uh, Jacob Karen [PHI-Personal].
+Nurse: [PHI-Personal]. So, is she going to switch to Sun City? Is that?
+Patient: Yeah, she's taking over for, uh, Doctor [PHI-Personal] [PHI-Personal].
+Nurse: Yeah. Ok. What's [PHI-Personal], um, date of birth?
+Patient: Uh, [PHI-Account].
+Nurse: I have 9, 13 44.
+Patient: No, that's not. Uh, her name is [PHI-Personal] and last name is [PHI-Account] Veg. A 7 26 1944.
+Nurse: That's interesting. There's two. Ok. Now I got the right one. Right. That would help if I'm, I'm the right patient. Right.
+Patient: That's right.
+Nurse: Let's see. Let me see. Ok. Mm. Doctor [PHI-Personal]. Ok. Now we're in, now we're in business. Um, yeah, she has a, a appointment with Doctor [PHI-Personal] on the [PHI-Personal]. That yes, she does. Mhm. Ok. Let's see if, do you have a smart phone?
+Patient: Uh, no. Um, you just have to call me on my home phone.
+Nurse: Ok. So we can't do a telehealth visit. I'm just trying to figure out what kind of appointment to get you. Yeah. And you haven't, you've seen Doctor [PHI-Personal] though prior, correct? Oh,
+Patient: Yes. For years. Yeah.
+Nurse: Mhm. I don't know if you want to see her in the office if she's coughing like that. That's the only problem. Um,
+Patient: Yeah, that would be nice. So she can see what she's going through. Yeah.
+Nurse: Yeah. I don't know if they'll let her though just because of COVID restrictions.
+Patient: Well, she was checked for COVID at the urgent care and she came out clean.
+Nurse: Oh, ok. Good. And that was Sunday.
+Patient: That was Sunday. Yes.
+Nurse: Ok. Um, the earliest appointment they have and it's with any provider. How about I'm just looking would be with Doctor [PHI-Personal]. Not her regular patient. No. Um, Doctor [PHI-Personal] is pretty far out.
+Patient: Yeah, she needs that. Uh, somebody, some doctor look her over right away because she's just coughing like crazy.
+Nurse: Yeah, I would recommend that you go back to the urgent care. Um Just because I don't think the primary is gonna probably because of her coughing. Yeah, they might be concerned about the COVID. I know she just had a test but sometimes they don't show up positive for a few days. Um um tricky. What urgent care did you go to?
+Patient: Uh, we went right there. Um, [PHI-Personal] mama.
+Nurse: Ok.
+Patient: Yeah, high weight, uh 301 [PHI-Personal] mama GMG.
+Nurse: Any, they didn't give her any medication for her cough.
+Patient: Oh, yeah, they gave her um uh uh some kind of a pill, uh an antibiotic pill and then she had a pink eye and they gave her a pink eye um, uh eye drop.
+Nurse: And so she's been taking the antibiotics and pink eye
+Patient: And she's been taking the pill. She's been taking the pink eye eye drop and nothing yet and still going on
+Nurse: Coughing. Are you giving her anything over the counter for the cough?
+Patient: That's what I'd like to know. Uh uh, do they sell anything uh for the cough over the counter?
+Nurse: Yeah, you could try. Like a Delsym is like a 12 hour cough release.
+Patient: Uh What's the name of that?
+Nurse: Delsym? Delsym?
+Patient: Ok. [PHI-Personal]. Y what
+Nurse: [PHI-Personal]
+Patient: Fym [PHI-Personal] is she
+Nurse: Coughing anything up? Like, is she cough? Is she cough? Is she coughing any sputum up? Any discolored. No, no,
+Patient: She's just coughing and coughing and that dry cough and, and a dry cough, it's getting to her stomach and her chest and, I mean, it's, this is, uh, all night long and sometimes, yeah, and then she gets up in the morning, like, right now she's coughing, then she lays off for about, uh, 10, 15 minutes and she starts coughing again.
+Nurse: Ok.
+Patient: It's like a dry cough. So, this medication is this, uh, uh, this Dean, is that good for, uh, that dry cough?
+Nurse: Yeah, that will help that. Um. Mhm. Let's see. What's her BP been? Like her BP readings are ok right now. Ok.
+Patient: Yeah, the BP reading. She, she, she's got the, uh, machine that, uh, throws it over to the, uh, to the care nurse manager.
+Nurse: Yeah, we see those. Ok. All right, I'm going to, what I'll do is I'm just trying to think my parents, they do have like stronger things that you can get for cough but that are prescription. Um, I don't know if they'll take, I'm going to go ahead and, um, I'll call their office and then I'm gonna call you back because I'm gonna see if she can get in with a different provider, but I just want to double check what kind of appointment I need to schedule for that. Yeah. So let me get off the phone and I'll call you right back. Ok.
+Patient: Ok. Thank you. So, much. You're welcome.
+Nurse: Bye bye. Bye bye.

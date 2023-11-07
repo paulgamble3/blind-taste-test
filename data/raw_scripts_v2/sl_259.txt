@@ -1,0 +1,39 @@
+Nurse: Yes, I'm jumping in his chart here and I hope so give me one second here that. Ok, let me grab my notebook. Ok, so the two phone numbers I have for you are um there's [PHI-Personal] care which is in [PHI-Geographic]
+Patient: [PHI-Personal]. Ok, and this is for spouse.
+Nurse: Um I don't know exactly spouses. I just know [PHI-Personal].
+Patient: Ok. All right. So
+Nurse: You'll have to ask them that. Um and that phone number is [PHI-Account]. Mhm. [PHI-Account]. Ok. Uh [PHI-Account],
+Patient: [PHI-Account]. Ok,
+Nurse: And then the other one is public [PHI-Personal]. Alright, and trying to see where they are out of. Um hold on I have a phone number written down here but I don't know if this is the right one. Let me look it up real quick. Hm. Ok. It's [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Personal]
+Patient: [PHI-Personal]. Yes. Ok. All right, thank you. You're
+Nurse: Welcome. So, how's he doing?
+Patient: Oh, he's doing fine. He's doing well. Um, I had some COVID for a little bit there and, oh, no. Yeah, I couldn't work or anything and, but got through it.
+Nurse: Good. Feeling better. Oh,
+Patient: I've been, yeah. Yeah, we're vaccinated. So, I figured it was gonna [PHI-Personal] a short run. It was,
+Nurse: I'm glad you're doing better.
+Patient: Yeah. No. No. Uh, fever or nothing. Just, uh, small cold, you know, a little headache. But I got a, yeah. And, uh, I couldn't work so I was pretty much stuck here so I can
+Nurse: [PHI-Personal],
+Patient: You know, um, he has a Wellness exam for the house here, uh, scheduled for the [PHI-Personal]. Ok. So I just figured I'd let you know that and
+Nurse: Who's coming for that? I
+Patient: Think it's the up MC, his [PHI-Personal], you know? Yeah.
+Nurse: Ok. Um, have you had any changes to medications?
+Patient: No, we haven't. No good.
+Nurse: Um, ok. And BP, do you check his BP
+Patient: At home? Oh, yeah. I didn't get it today or nothing but it's been pretty much AAA steady. Uh, uh, what was the last one? I didn't even write it down. Oh, yeah, it's, uh, it's been very good, excellent, uh, BP. 1 [PHI-Account], 1
+Nurse: [PHI-Account]
+Patient: [PHI-Account] over, uh, uh, the last one was like 60 you know, stuff like that. It, it was like, really, uh, excellent. I can't believe how well that pill that amLODIPine made a big difference. Good. I'm so glad. Yeah, it's been a couple years now since we had any episodes now. So. Wonderful. Yeah. So that pill really made a big difference. Um, I'm gonna [PHI-Personal], uh, picking that up today. I have, uh, I, they had to order it because, uh, they didn't call it in. So, uh, when I went there the other day I had them, uh, send you the email or whatever. Yeah. So, uh, but, um, uh, I also get him an, uh, an inhaler and I'm gonna try and get some over the counter things here. So he spends his, uh, allotment cause he hasn't touched that and they just finally sent me a catalog. I didn't have the catalog. Yeah, I haven't had the catalog or anything. So finally I got that today. Good, good, good. He still has this, uh, money that he has to spend on over the counter product. Yeah. Yeah. So,
+Nurse: Ok. Does he ever have any symptoms? Like, um, of his BP being too low? Dizziness, lightheadedness, fatigue, nausea.
+Patient: No, no, no, it's been, uh, it's been seriously steady the same exact, I was like, it just doesn't change anymore. Good. Yeah, it doesn't elevate at all. I was like, uh, very promising there but I mean, it doesn't go lower. Does not go too low at all. Not at all. But I think the lowest I think was 1 20 right?
+Nurse: And you say he's averaging where, like, 1, [PHI-Account], 1 20
+Patient: 1 20. Yeah, over 70 75. Not even 75. It's pretty much a steady 70 or, uh, even lower than that, like 60 69. Good. Yeah, because I know the lower, uh, uh, lower number there is, uh, the more important, uh, so I'm always, uh, making sure and he doesn't turn red anymore or anything like that. So that, that used to [PHI-Personal] a, a thing he would get very red and, uh, his ears, top of his ears would, that's how you knew his BP was up.
+Nurse: Yeah, that's
+Patient: Interesting. Yeah. So he hasn't had that in a very long time.
+Nurse: Good, good, good. Well, it sounds like everything is going well. Um, I'll [PHI-Personal] curious to hear, you know, if you have any success with either one of those. Um. Oh, yes.
+Patient: Yes. Uh, if not, uh, I'm going to [PHI-Personal] putting my daughter in this because, uh, he's getting screwed out of his care, you know what I mean? He's getting screwed. So, um, if they're not gonna allow me, you know, and so I'm not even on disability or anything anymore. They took it off. So, yeah, because I have this little job how off the wall that is. Well, in order to survive, I had no other choice but to do something because they only gave me $62 a month. It's an embarrassment. Crazy. Yeah, because honestly I worked ever since I'm [PHI-Personal] on the books. I worked in three different hospitals and I worked for three different agencies. Mhm. Not right. I can't even understand that. And so. Alrighty, thank you and
+Nurse: Uh ma'am I will reach back out to you guys next month if you need anything before that though, don't hesitate to call.
+Patient: Ok. Have a good day. You too.
+Nurse: Bye bye.

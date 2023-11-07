@@ -1,0 +1,66 @@
+Nurse: Ok. Are you seeing any physical therapy? Yeah. Ok, good.
+Patient: So uh um I got into uh Silver Sneakers. Ok. Over
+Nurse: Send, let me see. [PHI-Account] [PHI-Account]. You look over here. Oh, it looks like you, you see Doctor Ivey on the [PHI-Personal]? What was wrong with you?
+Patient: Oh, that was when I, I didn't see doctor Ivey, I saw Doctor [PHI-Personal]. Yeah. And um I wanted to um, I wanted to get um,
+Nurse: You're driving thing. I remember us doing that. I'm the one that made you that appointment. Oh, good Lord. You got to keep me together, [PHI-Personal] gotta keep me together. Oh Lordy, Lordy. Ok. So what was his decision?
+Patient: Um I got to get glasses.
+Nurse: Ok, I see. You've got 2070. Yeah. So, yes, you've got to get
+Patient: Glasses. I couldn't, now I, I couldn't read none of the, um, they gave me an eye exam over there and, um, I couldn't read none of the small print.
+Nurse: Um, so once you get the corrective lenses, is he gonna grant you the permission to drive?
+Patient: I guess so. Yeah. Ok. I told him, I told him that it was, uh, I was working with, um, um, trying to get me some, um, some help with the car or whatever, you know, direct me to who I need to see and whatever.
+Nurse: Ok. All right. So I need,
+Patient: It's, um, I forget what it's called. They told me a couple of times but I forget what it's called for your
+Nurse: Brain. I'm gonna send it to, um, Doctor Ivey. Do you want me to send it? Doctor Ivey or Doctor MCO? You take your pick because you, you're seeing both of them?
+Patient: Oh, Doctor Ivey. I want, I want to get her to, so that she knows that, that I'm getting it. And, um, and what do I do? Do I, once the, um, once she gets the, the, the thing, what, what do I do then, then do I wait for somebody to call me or we'll see what'll
+Nurse: Happen? Yeah, you'll get called because, um, she's gonna have to send the prescription, like for a referral to, to somebody that deals with those because you're gonna have to be measured and, and make sure it's where it needs to be, etcetera, etcetera. So, I mean, there's a lot of stuff that goes into that. So we'll have to go from there. But that's, um, she won. Uh, so basically they're wanting you to have a, a brace because of the foot drop. Yeah. Ok. All right. Got you. Um, yeah, you're pretty blond there, [PHI-Personal]. Good luck. Have you ever wore
+Patient: Glasses? Yes, I've been, been wearing glass, uh, reading glasses since I was. Oh, probably in the [PHI-Personal].
+Nurse: Ok. Um, so
+Patient: I got, I got a pair, I got a pair of glasses about four years ago with, with, um, they were half, um, I got it from, yeah, from [PHI-Geographic] [PHI-Personal]. I got a pair of glasses there and, um, I did have them with me, read the, to read the stuff. So, but they said I was 2070. So,
+Nurse: Yeah. Um, well, did he recommend you to see an eye doctor?
+Patient: Yeah, he said I had to get glasses before he could go on, go, uh, go, go on the permit any further.
+Nurse: Ok. So, do you have, have you made the appointment?
+Patient: No, I, I tried to, I tried, um, I tried to get an appointment with, um, the, I called, what I did was I called down that, um, I called the, the doctor [PHI-Personal] down in, uh, North [PHI-Geographic] and I didn't get, no, I didn't get to talk to anybody but the next day some lady called me from the eye center or whatever. She's where she was from and wanted me to get, um, um, they didn't have any appointments until the [PHI-Personal] or something like that. And I didn't know if I could, if I could get somewhere before then, so I didn't make the appointment.
+Nurse: Ok. Do you have a preference of any of anywhere that you go?
+Patient: No, the only place I've ever gone was Island on the Strip. Are they still in business?
+Nurse: I don't even have a clue.
+Patient: Ok, I'll look up the number and see if I'm,
+Nurse: I'm gonna help you out right here.
+Patient: Ok.
+Nurse: Um, Opto Log, I got to sound this word out to log. Um, you're in North Sun be.
+Patient: Yeah, they said there's some, some eye place here but I don't know where it is.
+Nurse: See what we got. We have [PHI-Personal] that is on [PHI-Geographic].
+Patient: Yeah, I know where it is. Yeah, it right inside the, the ice cream shop.
+Nurse: Ok. So,
+Patient: Is that the one you called? Yeah, that's the one I called. But, um, they, I didn't get no answer or nothing then, um, next day the lady called me from, I, from, I, I, something,
+Nurse: Um, I have one from the eye center.
+Patient: Yeah.
+Nurse: Ok. Is that where they called you from?
+Patient: Yeah, somebody called me and said they have all office offices all over the place.
+Nurse: Yes. And they do. Now, did she tell you when there was an appointment?
+Patient: There was 1 [PHI-Personal], but I didn't know what, I didn't know if I should take that one or not.
+Nurse: Ok. What time did the n eye specialist give you one?
+Patient: They didn't tell me what the appointment was or nothing because I'm, I'm, I'm doing therapy, um, three times a week. That's, uh, CS CPS A or whatever it is. Um,
+Nurse: Are you doing it on Monday? And what,
+Patient: Monday, Wednesday and Friday the 10 [PHI-Personal] 20. But I have to, I have to get in there sometime, you know, 10 between, um, 10 and two. So they pick me up or whatever and drop me off or whatever. And
+Nurse: Tuesdays and Thursdays you're pretty open.
+Patient: No, Thursday, Tuesday and Friday.
+Nurse: Tuesday and Fridays are open.
+Patient: Yeah.
+Nurse: Ok. All right. Let me make a couple. Ok. So wait and let me look at these right here. That's, uh, [PHI-Geographic]. What's the furthest out of? Like, I know you've got [PHI-Geographic], but like, can you get into [PHI-Geographic] any place like that? Ok. Yeah. Yeah. All right. So let me go over here.
+Patient: Yeah, I really don't care where I go. The only appointment I have this, this month is, um, I got to figure out. Oh, shoot, I forgot to ask the lady about, I got three appointments at, here on the [PHI-Personal], I think it is. Mhm. And I'm not sure if I'm gonna be able to make those or what I gotta call Rabbit and, um, find out if I can, um, get those appointments because it was the one, the first one is 9 45. And then, um, I, I just wanted to do my A K EKG and then there's, um, I go over the EKG and then I was supposed to see Doctor [PHI-Personal], um, at 3 40 but I don't know if I can make that one or not. I may have to get those appointments all changed.
+Nurse: Go. I'm looking at something really quick. Yeah. Hm. Ok. Do you have a, and you already have that one? [PHI-Personal]? Ok. You already have this? Oh, all right. Let me go over here. Ok, so I've got three over here that is in, um, this looks like [PHI-Geographic]. Yeah. Ok. There's some over by, uh, university, the admissions office. So, yeah, they're all right there. So I am going to, um, I'm gonna call these guys and see if I can't get an appointment on the days that you on a Tuesday or a Friday. That way I can get it between the 10 and two. So let me call and see who can give me that and then I'm gonna call you back.
+Patient: Ok. Ok. I got one more question for you. Uh huh. Ok. Now I've, I've been seeing, um, these things on TV. That, um, or, um, arms. Have you, have you seen anything like that?
+Nurse: The, the, they're, what are they,
+Patient: The arms, their arms? Yeah. They, um, they, um, they, um, they open up your fingers and you can put them in a glove and it's a mechanical arm. Oh, yeah. Have you seen them?
+Nurse: I have seen them. You have, I have, I know that they use them a lot for military. Ok.
+Patient: Um, do you, how often do you
+Nurse: Talk to, you know who you talk to about that is the area of aging guys the, on the va side? Talk to them about that.
+Patient: Ok? Yeah, you
+Nurse: Want that for your infected hand, the one that's affected from the stroke?
+Patient: Ok. They, it shows, it shows them that they can do, you can do just about anything with them once you get them, once you get them hooked up and they work off your, um, nerves and everything in the, in the arm.
+Nurse: Right. Yep. So that is who? Because you're probably gonna have to go through your VA benefits for that.
+Patient: Ok. Yeah, they're still working on my va, they're still working on my VA benefits.
+Nurse: Good Lord. They need to hurry
+Patient: Up. Yeah, I got my eye exam back but um, I didn't, didn't even look at it. I was just waiting for them to, I got a letter last, uh, last week. I think it was that they're still working on my case.
+Nurse: Ok. Ok, got you. Alrighty, let me give these guys a call see if I can get you appointment and then I'll call you back.
+Patient: Ok? Thank you. Alright, you bet. Alright bye bye bye bye.

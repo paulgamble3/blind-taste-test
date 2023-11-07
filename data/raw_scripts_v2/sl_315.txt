@@ -1,0 +1,106 @@
+Nurse: Give me one second to pull his shirt up. Ok. Ok. Thank you for returning my call. Sure.
+Patient: What's this
+Nurse: About the care management program that he's enrolled in? Um, I'm calling on behalf of doctor to get him set up. Ok, it'll be quick.
+Patient: Yeah, that's ok.
+Nurse: Ok. Give me one second. My dear.
+Patient: He always gets nervous when somebody calls him like this. The doctor calls him. It was like, why are they calling me
+Nurse: For? And so do I, but no, there's nothing, there's nothing wrong. Nothing wrong. Ok. Give me one second here.
+Patient: Nothing's the matter with you. They're just setting up your care team. Yes. So what's the matter with me now?
+Nurse: No, nothing is, nothing is wrong. He's good. Uh, why is my computer being slow? Okey Dokie. So, just to run through how the program works, um, he'll be assigned a nurse which is me. My name is [PHI-Personal] and my job is just to, um, work with him towards his health goals and then follow up with doctor [PHI-Personal] in terms of his progress on a monthly basis. Ok. Um I can also help out with things like answering medical questions and concerns and refills and um I just went blank scheduling and everything else in between that he may need good
+Patient: Because one of them is they only give him one box of the BD ultra fine needles a month which is only [PHI-Account] and he really needs two boxes because he takes um sometimes [PHI-Personal] shots a day and that would be [PHI-Account] and fif well, three times [PHI-Personal]. Yes, is [PHI-Account] and 50 needles and he's only getting [PHI-Account].
+Nurse: Oh ok. So he needs two,
+Patient: They need to change it right? He need to change it to 200 a month.
+Nurse: Ok, so I can, I can get doctor to work on that. Um Let me see here. So before I do all of that, I do want to confirm a couple of things. Uh you said your name is? Ok, perfect. Thank you. So um I have his date of birth as 5 18, 1943. Is that correct? Correct? And then I have his mailing address. [PHI-Geographic] City [PHI-Geographic]
+Patient: [PHI-Personal].
+Nurse: It got cut off there sorry.
+Patient: Ok. Us [PHI-Personal] I got the [PHI-Personal]. Mhm. Lot [PHI-Account].
+Nurse: I'm sorry, what was that? The last
+Patient: Part? Lot [PHI-Account].
+Nurse: Ok. And then mailing address. I mean, excuse me, zip code is [PHI-Geographic]. Correct? Ok. Um, I have for him, his insurance, um, United Healthcare Medicare Advantage is his primary and Medicaid as a secondary. Okey Dokie. Um, let's see. His pharmacy. I have RXO. Is he still using that one? Ok. All right. Give me one second. So, how does he organize his medications? Does he keep them in the bottles? Does he use? No, they
+Patient: Put them in bubbles
+Nurse: For like the packages? Yeah. Oh, perfect. Ok.
+Patient: Yeah. So you don't have to worry about 10 bottles. They just do it automatically
+Nurse: For us. That's convenient. I love it. Yeah,
+Patient: I love it. That's the only reason why we stay with them is because they do it that way. Walgreens and stuff don't do it. They're the only ones that I know that will do it the way, you know, that we need it and if we need a medicine right away they have it right there and everything. They're one of the best. We've had them for like, I don't know, 15 years. So, yeah. And then when we moved to [PHI-Geographic] City from [PHI-Geographic], we just said, you know, we're not gonna change because I don't wanna have the thing of doing all these different things here and there and everywhere they do it for me.
+Nurse: So. Right. Ok. Sounds good. Um, no, I don't know if you'll be able to help me out with this one but we can try. I do have to review his medications, um, to make sure that they're correct on my side. If I read them out loud, will you be able to? Ok. Beautiful. All right, my dear. So I'm gonna start, I have penicillin or Flomax. That's, yeah.
+Patient: Uh, Flomax. Yeah, he doesn't really need that one.
+Nurse: He doesn't take it anymore.
+Patient: Yeah, we haven't used that. He hasn't used that in long time.
+Nurse: Ok. Does doctor [PHI-Personal] know or?
+Patient: Yeah. Well, it, as he needs it but he doesn't, I mean, he uses it when he needs it but he doesn't need it right now.
+Nurse: Ok.
+Patient: You know what I'm saying? It's not one that he has to use every day. It's when he needs it.
+Nurse: Ok. Has the stream been better? Is that what the issue is it, has it resolved? Ok. Ok.
+Patient: The Flomax is for his nose, right?
+Nurse: No, that's Flonase, honey. Oh, ok.
+Patient: Flomax
+Nurse: Flomax, that's for urine.
+Patient: Yeah, he still uses that. Ok. Good. They get a little confused. Yeah, I was confused. That's why I said, you know, he, he only use that. But, yeah. Ok, we got
+Nurse: That sorted out. Yeah. Um, let's see here. Then I have the HumaLOG, the Kwikpen Insulin. Are you still using that? Between [PHI-Personal] and 15 units? Three times a day? Yeah. And then I have, uh, Xyzal [PHI-Personal] mg as needed or Levo, it's for like allergies. Yes. Ok. And, um, let's see. What's this one? This is the pen. You still using the pen?
+Patient: Yeah, here we am. Um, [PHI-Personal]. Is that the one you're talking
+Nurse: About? This? Looks like the needle, the
+Patient: Needle? Yeah, that'll be the b fine needles. Yeah. Right. That's the one I was talking about. They did [PHI-Account]. You need 200
+Nurse: 200 right? Ok. Then I have Rosuvastatin or Crest Crestor once a day. Yes. Yep. Um, Famotidine or Pepcid 40 mg once a day. Yes. All right. Then I have. Are you still using the Aviva accu check plus test strips. Yep. OK. Then I have the [PHI-Personal]. That's what we were you mentioned. Um That's 35 to 45 units under the skin and I have Losartan or Cozaar [PHI-Account] mg. Losartan and um the accu-chek lancets, the soft lancets. Yeah. Um Then I have Xanax 2.5 mg. Um once a day. Yeah. What about the Roxicodone? 15 mg as every six hours as needed. Yes. OK. Good. Uh DULoxetine or Cymbalta uh 60 mg once a day. All right. Then I have Primidone or s alone uh 250 mg. What is it? Primidone?
+Patient: Primidone. Yes, that's for shaking. Come on baby.
+Nurse: Mhm. Uh Also vitamin B 6 [PHI-Account] mg twice a day.
+Patient: Um Vitamin No, he doesn't take that
+Nurse: One no more. OK. What about um he's still using the Aviva blood glucose meter, right? Yes,
+Patient: That's the machine.
+Nurse: Mhm. And then I have tiZANidine or Zanaflex four mg every eight hours as needed. Yes. Ok. Uh then I have glu glucosamine with Chondroitin. Is he still taking that daily? Mm. Yes. Ok. Uh I have Topamax 200 mg. Is he still taking that way? That one? Yes. Ok. Is he taking that every day?
+Patient: Um Topamax
+Nurse: Or as needed? I don't
+Patient: Know what the doc I think the doctor has that as needed.
+Nurse: Ok. All right. Then I also have pri or Aricept 10 mg. Excuse me at night. Yes. Ok. Um then I have the Flonase. That's the one that's as needed that goes in, that's the nose.
+Patient: Yeah, he hasn't used that in a while because he still has one. So he won't need one for a while.
+Nurse: Ok. Um then I have baby [PHI-Personal]. No, three baby every two [PHI-Personal] 320
+Patient: [PHI-Personal].
+Nurse: Yes, that's what I was gonna say. He takes that every other day, every other day. Ok. They have that as daily. Yeah. Ok. So every other day and then um let's see, multivitamin daily. Is he taking it?
+Patient: No, he don't take that no more. No, no
+Nurse: More multivitamin. No. Uh let's see there's another glucose monitoring kit but this one looks like it was years ago. Prodigy voice glucose meter kit. Yeah,
+Patient: He don't use that no more. That was the talking machine.
+Nurse: Yeah. Ok.
+Patient: Which we love that one but they discontinued it.
+Nurse: Oh goodness because
+Patient: He has a hard time seeing. Yeah, he, he has a hard time seeing the numbers. Sometimes he gets them wrong. And, um, that's why, you know, we both love that machine. I'm a diabetic too and, uh, they just quit making it. So. Oh.
+Nurse: Oh, ok. Um, I do have a few more medications here that I just wanna make sure that he's no longer taking. Um, let's see. Hydrochlorothiazide. Is he still taking that one? No, no. And then I also have uh let's see here. QuiNINE. Is he taking that one? What is it? QuiNINE? Opine? No, qui qui what is that for? Um, it could be used for like depression, bipolar disorders
+Patient: Like no issues. No, I don't take that.
+Nurse: No. Ok. What about the ran? No, no. Um Tian I think we did talk about tiZANidine. Uh what about amoxicillin? That was an antibiotic that was ordered along? No,
+Patient: He's not on no antibiotics.
+Nurse: Ok. And then I also have this, it looks like a um topical gel for a to infection.
+Patient: Mhm. Yes, he's still
+Nurse: On that. He still takes that one. Ok. And um then I have Valium or diazePAM. Is he, does he take that?
+Patient: He doesn't take that? No, no. Valium
+Nurse: And gabapentin.
+Patient: Gabapentin. No, he's not on that one. No more neither.
+Nurse: No. Ok.
+Patient: Wait, are you, you are on gabapentin? [PHI-Account] mg? Yeah, I think he's on [PHI-Account] mg. One
+Nurse: [PHI-Account]. Ok. Yeah. Alright. And let's see
+Patient: Because they took them off and then they put him back on.
+Nurse: Ok. Ok. Ok. Ok. Ok. Um, does he have a Narcan at home at all? No, we do not. Ok.
+Patient: We're supposed to get new ones because the other ones expired, but he hasn't got them.
+Nurse: Ok. So he would have one. Yeah,
+Patient: He needs that. He needs a new, new one on that so he can keep it in the cabinet.
+Nurse: The new one. Ok. Who prescribed that one? Uh, there's another medication here. It's called Ze Tampa.
+Patient: No, he don't take that. No, not familiar
+Nurse: To me. That was, that's like a pain medication. It's like oxyCODONE. No. Ok.
+Patient: The only thing he takes for pain is the oxyCODONE.
+Nurse: Ok. Uh, that one is actually with a Sprinkle though. It's like a capsule Sprinkle. So he doesn't do that one, right?
+Patient: No, he only does oxyCODONE.
+Nurse: Ok. Let me see. Let me just make sure. So, um, the, the dose for the oxy oxyCODONE is that 15 mg 15 mg? Yeah. Ok. So we have a lot of duplicates on here. Ah, is he taking traZODone? No, no. All right. Is there anything else? Well, let me see something. Is there anything else that he's taking that I did not mention including vitamins and supplements?
+Patient: No. No,
+Nurse: No. Ok.
+Patient: Oh, he does take a potassium pill every, whenever um, his legs start cramping real bad. Ok. Just over the counter vitamin
+Nurse: Potassium. Ok.
+Patient: He does take
+Nurse: That. Ok. Got it. All right. So uh just making sure I didn't miss anything. Um I'm going to get, I'm gonna send a message over to doctor [PHI-Personal] about the um ultra fine needle.
+Patient: Yeah, the BD um BD Shield Duo is what they're called. Looking at the box. The BD Ultra Shield Duo.
+Nurse: Ok, let me just make sure I select the right one. Yep. Got it. Ok, so um what I'll do is I'm going to send out a letter to [PHI-Personal] in the mail. It has his bonus goal to keep him healthy. Uh My name and my number will be on there. Um, you can save my number, he can save my number. Um, if he needs, you know, like something like this, you know, you need help or getting something that you can give me a call in between our monthly calls. Um, and I will follow up with him around this time next month. I would say just to check in see how everything is going. Ok? Ok, that's fine. So save my number because sometimes when I call the number gets screened as like spam. So um I don't wanna miss, you know, getting in contact with them just in case. Ok,
+Patient: If I do,
+Nurse: If I do get an update from doctor today, I will be calling back. Ok, so stay by the phone if anything.
+Patient: Ok. Well, I got a doctor's appointment at two o'clock. So um, if I don't answer, I'm in the doctor's sometime between there otherwise I'll answer. Is
+Nurse: It ok for me to leave like a detailed message? Yeah, you can
+Patient: Do that. That's ok
+Nurse: Perfect. Ok, well it was great talking to you and let [PHI-Personal] know going forward nothing is going wrong. He's not in any trouble
+Patient: Me. Yeah that's that's ok.
+Nurse: Ok my dear take care.
+Patient: Alright, you too. Thank you bye bye. You're welcome bye bye.

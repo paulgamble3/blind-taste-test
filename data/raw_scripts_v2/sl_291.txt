@@ -1,0 +1,46 @@
+Nurse: I was like, oh gosh, I hope I didn't stress him out too much yesterday.
+Patient: No, I was ok. I was just trying to make a uh transportation for Wednesday of next week
+Nurse: For what is it?
+Patient: I have a, a doctor's appointment with my uh primary care doctor Wednesday. Ok, on the [PHI-Personal].
+Nurse: And um, can you tell me your full name?
+Patient: [PHI-Personal] E [PHI-Personal]?
+Nurse: Perfect. And date of birth.
+Patient: [PHI-Personal].
+Nurse: Perfect. Thank you so much. Um I did hear back from [PHI-Geographic]. She sent the nebulizer treatments for you. I just said that I didn't see it in the record that you were requesting that um, and left it up to her. So she did send that. Uh, so because like I said, I couldn't see it but I figured if, if anybody would know she probably would know what you were previously on. Um so she said the albuterol nebulizer solution for your machine to um Walgreens on uh Fowler [PHI-Personal]. Oh, yeah. Ok. And then she also said, just bear with me, sorry. Uh Rx for nebulizer treatment said, um she said, [PHI-Personal], when you speak to patient next, will you see if he's made an appointment for pulmonology? He was referred back in [PHI-Personal]. Uh Yes, I have. Oh, you did make one good. All right. And what date did they give you?
+Patient: [PHI-Personal] at [PHI-Account] 30
+Nurse: At [PHI-Account] 30 PM? Ok, perfect. Uh And how was your oxygen today?
+Patient: Uh I haven't tried it today but yesterday was kind of low.
+Nurse: Yeah, so. Oh, do you wanna check it quick to see how it is? I mean, if worse comes to worse we can book you a telehealth. I guess if it's still low. Yeah.
+Patient: Uh like [PHI-Account].
+Nurse: Oh, that's better.
+Patient: Yes, it is. Yeah.
+Nurse: So, well that is much better.
+Patient: I'm not having any type of problems or anything
+Nurse: Good. Ok. Yeah, so uh sorry, I'm so slow today. I apologize.
+Patient: Right?
+Nurse: And then you said you have an appointment next week? Uh Yes, on the [PHI-Personal], right?
+Patient: Uh Yes. Uh it's on the [PHI-Personal]. Oh yeah, I'm sorry. No, you're fine on them today.
+Nurse: Today is the the [PHI-Personal]. You go back in time. So on the [PHI-Personal] at 8 30 with an 8 [PHI-Account] arrival time, right? Ok. And then you have a nurse's visit after that, so.
+Patient: Yes,
+Nurse: Perfect. Ok. All right. Ok. Well that's good. Again, same thing applies if you, you know, have um a reading under 90 just call to be evaluated but two or more readings I would either go to an urgent care or ed I mean you could you could try urgent care first, you know. So um so. Mhm. And I will let her know that you have that. I mean she could technically see it but I'll also send an update that you have that appointment. Uh Yes. Ok. Alright. Alright, perfect. And then you can call me in between calls if you have questions or concerns obviously evenings um holidays and weekends you would call the office directly um to speak to the on call, the main office number. Um any emergencies should be addressed in the emergency room and you're good on medications now. Yes, I am. Ok. You're taking everything. Ok. You don't have any questions you feel like they're effective?
+Patient: No question with everything. Ok.
+Nurse: Ok. Alright, excellent. So I
+Patient: To my pain doctor they are you
+Nurse: Going to see pain manage today?
+Patient: Yes. Ok. At [PHI-Account] 31 [PHI-Account] I pick up all my medicine. Oh good. All right.
+Nurse: So uh ok and then you know you to pick up your nebulizer as well. Yeah. Ok, perfect. Ok, sounds good. Thank you so much for returning my call. I do appreciate it. I'm glad your oxygen is better today. Thank goodness.
+Patient: Oh, yes, I am too because I, I would go to the hospital.
+Nurse: Say it again. I'm sorry, I'm having such a hard time hearing
+Patient: It was low again. I would, I would make arrangement to go to the hospital.
+Nurse: Yeah, so you just gotta be careful because of the um pulmonary emphysema. So, um but maybe you're just having a bad day yesterday. So hopefully uh no more issues going forward and then once you get in, um, with pulmonology, they'll probably do further testing. So it'll be good.
+Patient: Ok. Now how long am I going to be uh um having all this registered with you guys?
+Nurse: Um You mean with the program? Yeah. Oh, until you say I don't want it anymore.
+Patient: Oh, ok. Because uh it's kind of scary when II I check it and it's low, you know, it, uh because I don't feel any different
+Nurse: About it, even if it's in the middle of the night, like, let's say it's one o'clock in the morning. If you call the office and speak to me on call, you can get guidance. So don't feel like you're, you know, left in the lurch, you can always call over to us Monday through Friday. But, um, you know, unless it's an emergency, then you go to the hospital. Like if you're, if you're low and you're symptomatic, you, you need to go. But I mean, if you have questions and it's like 10 o'clock at night or whatever. Uh, uh, just call over to the office and connect with the on call if you're, if you're concerned about your reading.
+Patient: Ok, I will. Yeah,
+Nurse: Because you'll just ask to speak to whoever is covering for [PHI-Geographic] and they'll, and the doctor will call you back.
+Patient: Ok, thank
+Nurse: You. Oh, you're welcome. Ok. Try to take it, just try to take it one day at a time, you know. So that's all you can do. And then, you know, it just lets us see how you're trending and then hopefully, once you're working with pulmonology, those numbers will consistently improve, right? Or you'll just have like good numbers.
+Patient: So,
+Nurse: Because you had a couple of good ones, it just like you had a couple lows, it looks like you dipped the week before as well. So, yes, I remember that all and you're not on any treatments, any treatments either for um, the emphysema and suspected COPD. So once you see pulmonology, they may put you on daily treatments a as well, so. Ok. Ok. Ok. All right. Thank you so much.
+Patient: Ok, thank you too. Bye bye bye now.

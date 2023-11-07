@@ -1,0 +1,24 @@
+Nurse: All right. Give me one second. All right. And he's a patient of Doctor [PHI-Personal] at [PHI-Geographic]. Is that correct?
+Patient: That's correct.
+Nurse: Ok. So real quick, let me just tell you that this call is gonna be recorded for training purposes and ok, and the reason I was reaching out is because the doctors are offering their Medicare patients a new program and [PHI-Personal] qualifies for this program with his United Healthcare Medicare Advantage insurance in which he does have.
+Patient: Correct. Yes, we both have the same thing.
+Nurse: Ok. I'm not sure if you're on my list, I can look real quick though
+Patient: If you like, I probably will get a call about it. Ok,
+Nurse: Let me see real quick if you're on here. Are you a patient of Doctor [PHI-Personal]?
+Patient: Yes. Um,
+Nurse: Ok. You said [PHI-Personal], right? [PHI-Personal], what's your birthday?
+Patient: January 8th, 1944.
+Nurse: Ok. So I might have to double check for you. Um, nothing's popping up for you. Right. Now. But like you said, well, yeah, like you said, you might get a call later.
+Patient: II, I think I know what this is about, but go ahead and tell me anyway.
+Nurse: Ok. Yeah. So the doctors are offering a care management program and that just means that [PHI-Personal] or you, if you would qualify, um, would get a phone call from one of our care management nurses. That phone call would be at your convenience as frequently or as infrequently as you wish. There could be one phone call for the both of you or you each could have your own private call. Whatever you prefer, the nurse would call, check in, make sure you're both feeling good. Continuing to feel good. Um, but she, but she would also be available to you guys if you were to need things like medication refills or test results or if you had,
+Patient: I don't wanna stop you, but I, I'm familiar with this because when, when he was with Welled, we had the same calls about this. Ok. So I, I know what it's about and I'm just telling you up front, he probably will not, he probably will not use it. Ok. He didn't use it before. I didn't use it before. And, uh, I'm just letting you know that, uh, he probably will not.
+Nurse: Oh, ok. Um, even if it was a call, maybe like, once every three months. No, no. Ok. Well, is what I can do is I can mail you both out some information in case you change your mind in the future. Yeah,
+Patient: That's good. Let's do it that way because I just know my husband.
+Nurse: Ok. Yeah. No, I get it because,
+Patient: Um, I make all his appointments and I, I do all of that getting his prescriptions and everything and, um, I, I just know that he's not going to call.
+Nurse: Yeah, I, I understand. And even if you, I mean if you if it was something that you were interested in for him, the nurse could speak with you on his behalf, but that's completely up to you guys. Ok.
+Patient: Mail us the information and we'll look. Ok.
+Nurse: Ok. Yeah, let me just confirm the address I have that. It's [PHI-Personal] [PHI-Geographic]. Correct? All right, perfect. I'll mail out that information and give me a call if you guys change your mind. Ok.
+Patient: Ok, great. Thanks.
+Nurse: Yeah, no problem. Thanks for calling me back [PHI-Personal]. Alright,
+Patient: Appreciate it. Thank you. Uh huh bye bye bye.

@@ -1,0 +1,52 @@
+Nurse: Not. So you're still with Blue [PHI-Personal] with the same ID numbers.
+Patient: That's [PHI-Personal]. Is that the same thing?
+Nurse: Um I don't know, do you? I think it is because High mark um also is Blue Cross. Ok.
+Patient: Have High [PHI-Personal].
+Nurse: Great. And your ID numbers. Are they anywhere near you to make sure that I have the right ones? Uh
+Patient: No, but I can go get them. Hang on a second. Oh,
+Nurse: Thanks for going the extra mile.
+Patient: Ok. My ne you want my plan number?
+Nurse: Yes, mine starts off hr [PHI-Personal]
+Patient: [PHI-Account].
+Nurse: Beautiful. Yep. That is the [PHI-Personal], also known as [PHI-Personal]. Great. I still have the same one on file. So we'll mark insurance not changed. So we send out your updated care plan this time of the year per doctor [PHI-Personal]. Your care plan includes your wellness goals, your wellness goals is the fancy name for the healthcare objectives. Doctor [PHI-Personal] likes you to accomplish in the calendar year. So, are you planning on following up with neurology in 2023?
+Patient: Neurolog? Oh, I uh I, I just had my appointment with her and that was I believe in [PHI-Personal].
+Nurse: Ok. So did she want you to follow up in a year from then? Yeah, I
+Patient: Have another appointment. Yeah. Yeah,
+Nurse: Great. So keep in mind the care plan is for the entire 2023. So I'll put neurology on there. You're letting me know you're due again in one year [PHI-Personal], correct? Great. And then how about following up with rheumatoid? Do you have plans with them?
+Patient: No, I do not. She kind of let me go. I'm sure you know, if I need her, I can call her. But no, no, when I told her the last time she said no, it wasn't necessary.
+Nurse: Great. So I will not put rheumatology on the care plan if more than a year goes by a lot of the specialty providers need a new referral. So if you do need to reach out to rheumatoid ology and it's been more than 12 months. Let us know if you need that referral, but I won't put them on the care plan. Ok. Dermatology. How about them? Are you following up with? Dermatology? Yeah. Excellent. Any particular month that you're working on?
+Patient: I'll go get my date book so I can tell you everything.
+Nurse: You're good. Well, that way my care plan is more lined up with your calendar year also.
+Patient: Yeah. What's the next one? Gynecology?
+Nurse: Uh, let's see here. I actually have urology but if you've got gynecology next, let me know.
+Patient: Uh, no, uh, urology. I go see doctor uh [PHI-Personal]. I got a new doctor. Her name is Doctor [PHI-Personal]. Doctor [PHI-Personal] left.
+Nurse: Ok. Oh, that's right. We did have a lot of patients letting us know that Doctor [PHI-Personal] was leaving. Great. Alright, [PHI-Personal] scheduled with urology with the newer provider. Doctor [PHI-Personal].
+Patient: Ok. Dermatology is [PHI-Personal].
+Nurse: [PHI-Personal]. Excellent.
+Patient: And gynecology. I am to call, I think in [PHI-Personal] and, and schedule an appointment.
+Nurse: Great. [PHI-Personal]. Call to schedule and let's see here. Any eye exams or dental exams?
+Patient: Oh, I do that all the time. I go to the dentist every three months. Oh, good. Yeah, I, I mean, iii I do my eye appointments yearly. I don't have that appointment yet, but I do them yearly and I go to the dentist every six months and in between I go and get my teeth cleaned. So yeah, I'm there all the time.
+Nurse: Beautiful. So we'll put them on the list also because you already know they're in your routine. We like to chat with our patients. So that way the care plan is realistic. If we put every type of doctor under the sun on there, you would look at it and toss it in the trash. We want your care plan to be realistic to your plans, your needs. And that way we're all on the same page with who you're planning on following up with. And let's see here. Um, vaccines. Let me switch my computer screen. Oh, come on computer a little faster. It's slow when you're talking to somebody and of course, when we're calling, I'm, we're calling about the care plan today. But if you have any health care questions, concerns that you need to discuss during this conversation, please bring them up, [PHI-Personal].
+Patient: Yeah. No, no, no, I'm, I'm good for now.
+Nurse: Good. All right, here we go. It looks like great. You've already gotten Shingrix, the vaccine to prevent shingles and the post neuralgia pain syndrome. You got that two part series back in [PHI-Personal]. You're good for a lifetime, your pneumonia vaccine. You've gotten two different types, the prevnar 13 and 20. So that means you are now good for life there unless the doctor says something. But as of now you should be good for life on those or at least five years and that would bring you up to 2025. So for the immediate future, you're good there. The pneumonia vaccine you received that back in [PHI-Personal]. You're good there. The flu shot that'll be on the health care wellness goals because even though you got it, [PHI-Personal] we'll encourage you to get it again. This coming up fall. Ok. So you're good that way. Um, the doctors are not pushing the COVID vaccines as of now. They're letting people do what they want and if they have questions, are you planning on any COVID vaccines in 2023?
+Patient: Uh as of right now? No, I mean I'm, I'm I'm current with all of that.
+Nurse: So again, being realistic. So we'll just put the flu vaccine on there as far as vaccines go. Your annual Medicare visit, you are next due [PHI-Personal] for that. So that'll be on the Wellness goals and you already have your appointment scheduled. Yeah. Yeah, you've got that scheduled for [PHI-Personal] and during that appointment, the doctor will not only do your annual Medicare visit, but that includes your um tobacco screening. That includes a BM I that includes a fall risk assessment and a depression screening doctor does that on everybody as part of their inclusive Medicare visit. So that will happen. And let's see if I need to ask you any more questions. Um your colonoscopy, it looks like you last had that [PHI-Personal]. Are you following up this year or not this year. Like what was recommended
+Patient: It would be. I thought he told
+Nurse: Me 10 years. That is what the computer says. I was asking your opinion because sometimes they're not always accurate, but this one is accurate. It was last done. September 15th of [PHI-Personal], [PHI-Personal]. And our computer has your next goal. Date of [PHI-Personal]. Beautiful mammogram. We are encouraging those yearly but some people do them every two years. Where are you with that? Every year? Good. And you see that's where there's a discrepancy here. Your record says every two years and we hear your provider saying yearly. So the mammogram will be good. [PHI-Personal]. Good job. Keep it up. So you'll be due for that mammogram in [PHI-Personal].
+Patient: Yeah, probably.
+Nurse: Yeah. Beautiful. So we'll put that on the reminder and again, we wanna be on the same page as you. So this letter is beneficial. Not just gonna be filed right in the trash can. Ok. Right. Dexa Scan. You had that just [PHI-Personal] [PHI-Account]. What was the recommendation? How often do you do that? Um
+Patient: Who recommended it? Maybe doctor [PHI-Personal]. Um, I don't know if he recommended that for doctor. I don't remember. And I, you know, I just go whenever they tell me, I honestly, I don't, I don't
+Nurse: Know. Ok. Well, then [PHI-Personal]. Do you keep a question list for your upcoming appointment? No, I do. Not. So now might be the time to start it if you've got a piece of paper handy, jot down at that upcoming Medicare visit that you've already have scheduled for [PHI-Personal] you might wanna ask on it. Does Doctor [PHI-Personal] recommend your Dexa scan yearly as of now based on last report or every two years based on last report?
+Patient: Ok. I'm putting it on a post a note and I'll stick it here in [PHI-Personal] [PHI-Personal] on my calendar.
+Nurse: Great. And hopefully that question list doesn't grow too long, but that would be an appropriate question for that appointment. Yeah,
+Patient: I, yeah, I don't remember who right there it is. Ok. Yeah, I don't remember who. I don't, I don't remember. I don't remember. She's the one who said to me about doing it or I don't, I don't know, wouldn't matter, but I have done so, but I'll ask Doctor [PHI-Personal] about it. Yeah.
+Nurse: Excellent. And that is why we were calling this week to let you know it's time for us to send out the updated care plan with the wellness goals. I'll get that letter out today. It's snail mail. So it'll come through the regular old US mail in about a week or two if you have any questions or concerns about it, let me know I will do that. Great medications, any refills needed today. Nope, I'm good. Good. And you're taking everything as prescribed. Nothing is giving you any troubles side effects or issues?
+Patient: No. Huh? Oh, no.
+Nurse: Wonderful. Well, [PHI-Personal], thank you so much for returning the call. Anything on your mind or should I say goodbye and enjoy your day?
+Patient: That's all you have to say so. No, there's nothing on my mind. I'm good.
+Nurse: Good deal. Take it easy and tomorrow's inclement [PHI-Personal].
+Patient: Yeah. Really? I, I intend to, I cancel my show. I'm going the next day. I don't drive in bad
+Nurse: [PHI-Personal]. Good. You've got your priorities straight. All right, [PHI-Personal]. If anything comes up in the meantime, please reach on out. We're here to help you with any of your health care questions or concerns.
+Patient: Right? Thanks [PHI-Personal].
+Nurse: You're welcome.
+Patient: Bye bye bye.

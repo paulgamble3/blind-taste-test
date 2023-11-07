@@ -1,0 +1,17 @@
+Nurse: [PHI-Account]. Ok. So I was working on your refill request. Ok and hold on let me see what my question was. All right. Um ok. So we have actually sent that already for a year supply on [PHI-Personal]. Mhm. [PHI-Personal], the nurse practitioner sent it, she sent it for 30 days with 11 refills.
+Patient: Oh, ok. And this is for the Buspirone.
+Nurse: Mhm. Buspirone 200 mg. Um Now let's see, CV SS. Yeah, it went to your CV SS they confirmed that they received it on March or I'm sorry on [PHI-Personal] at 6:17 a.m. Ok. So it should be, well, when you give them a call, don't use the Rx number that's on your bottle. Just speak directly to pharmacy staff and say there should be a prescription there from 54. Can I go ahead and fill it? And as far as filling, uh, more than one month where you'll be traveling, ask them if they can fill 90 days because the way that she wrote it, they should be able to fill 90 days worth.
+Patient: Ok. That makes sense. Yes.
+Nurse: And they did it about 30 with 11, they should be able to pull a 90 day supply from that if not give me a call and we can fix it.
+Patient: Ok. They also said that, um, because of the insurance that they, they'd be able to fill it, um, I think for [PHI-Personal] or something. So that would probably be ok too. But, um, I'll just go and make sure, or I'll see if they can do the 90 days because that's probably easier.
+Nurse: Yeah. Yeah. Just ask them if they can do that. Now, did they tell you that they wouldn't feel until [PHI-Personal]? Because it could be an insurance thing?
+Patient: Yeah, that's, that's what, um, the CV S guy said, he said because of the insurance they wouldn't be able to fill it until then, which is fine because I don't leave until the 30th. But I I wasn't sure if it was, um, like possible to get more. So. Oh, yeah. Awesome
+Nurse: About the, no, no, no, I'm telling you wrong. That is for Wellbutrin. That's for the Buproprion 200. No, you need Buspirone. Ok. Yes. Ok. So you do need that. So do you prefer a 90 day supply or 30?
+Patient: Um, the 90 would be great. Um, just because I've been on that one for a couple months, It's been working out well, so I don't see, I don't see myself changing that one any time soon.
+Nurse: Ok. All right. So I'll work on getting this one over for 90 days. I'm glad that you and I talked about that because I was looking at that all wrong. Um, but yeah, no worries. I
+Patient: Know they're very similar. Spelling, very
+Nurse: Similar. And then, um, also as far as the other one, the way that [PHI-Personal] wrote that, if you wanna fill that for 90 days, ask them if they can do that for you and if not give us a call back and we can fix it.
+Patient: Ok. Sounds
+Nurse: Good. All right. Well, I will work on this Buspirone. That's five mg, right? I believe so. Yes. One tablet twice daily. Ok. I'll work on that now. Perfect.
+Patient: Thank you so much.
+Nurse: You're welcome. Bye bye bye.

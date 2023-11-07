@@ -1,0 +1,38 @@
+Nurse: Give me one second. So I was just calling to do our monthly check in to see how you've been feeling if there's been any changes.
+Patient: Um, um, I am going to physical therapy now for, I been having a lot of neck and upper back pain and upper arm pain like, uh bicep pain. Ok. So I, I am gonna, I do have an appointment with him on the [PHI-Personal]. So if I was still having it, then I was gonna address it with him and see what's going on with the, uh, upper arm pain. I don't know if I have a torn bicep tendon or if that's what, what it feels like. I had one before and that's what it feels like again. Uh, but that, uh, the left one more than the right, they both hurt but the left is more prominent and I'm a right handed person. So, uh, when did the
+Nurse: Pain start?
+Patient: Oh, gosh, it started maybe about a month ago.
+Nurse: Ok. And if you remember any kind of like specific injury that would have caused it.
+Patient: No, nothing. But I didn't know if it was related to the neck and upper back pain, you know, if it was all related to that. So, the, um, neurologist did give me an order for, uh, physical therapy, which I am doing right now. Ok. So I've been, it's about two weeks into that.
+Nurse: Ok. Have that you, have you noticed any improvement with the back and
+Patient: Neck? Not really. No. Ok.
+Nurse: How often are you going?
+Patient: Uh, about twice a week?
+Nurse: Ok. All right. Are you taking any medications for it?
+Patient: I take, uh, a muscle relaxer and two ibuprofen every day.
+Nurse: Ok. That muscle relaxers on here. The mear.
+Patient: Yes. Mhm.
+Nurse: Ok. Do those help at all? It
+Patient: Does help. Yeah, when it gets, you know, really severe, then II, I take that and that, that's pretty, does, does me pretty good for the whole day?
+Nurse: Ok. Ok. And then you've got an appointment, you said the [PHI-Personal]? Yes. Ok. Do you want me to try and get you in sooner than that?
+Patient: Uh, no, no, there's no rush. No, that'll be fine. Yeah, I'll do the therapy and see if that helps at all. But, and, um, on my medications I'm not taking the Losartan anymore. My pressure was going a little too low. I was getting like, uh, lightheaded postural hypotension, you know, when I stood up. So I was working around with the meds and, and ended up just discontinuing the Losartan.
+Nurse: Ok. How long has that been?
+Patient: Um, it's been about five days now. Ok. And I've been checking my, uh, pressures and they've been very good and I did increase the hydrochlorothiazide to, uh, two capsules. I was taking 12.5 and I'm taking 25 now.
+Nurse: Ok. Now, was that under guidance of any particular position or did you
+Patient: Just, I just got my own. Yeah. Yeah.
+Nurse: Ok. All right. I'll let them know
+Patient: That. Yeah, just to regulate the BP because I had been checking it and I, and I was still having some swelling in my hands. So I upped the hydrochlorothiazide and uh eliminated the Losartan and that worked out good for me. I'm getting blood pressures like in the 10 6/65 which is good for me. How low
+Nurse: Were they getting before that? I
+Patient: Was getting down to like 96/52 or I was like in the nineties, over sixties and it was just a little too low for me.
+Nurse: Yeah. And you were feeling dizzy and lightheaded at the time.
+Patient: Yeah.
+Nurse: Ok. All right. And so with the hydrochlorothiazide, the 25 mg has that helped with the swelling in your hands.
+Patient: Uh It has. Yes. Ok.
+Nurse: All right. I will let doctor know that those med changes were made. Um Just for future reference, go ahead and just give us a call and then we'll reach out to doctor and let him know um about the changes. Yeah, before you make any med changes on your own, um just so they're aware and they may have like a different recommendation and some of some of the diuretics they can cause like a potassium drop or um yeah, so they wanna make sure that your labs are stable and all that before you make any kind of changes.
+Patient: Yeah. Ok.
+Nurse: Um, are you still doing the verapamil? 240 mg? Yes. Ok. All right. So just the Losartan. Ok. All right. So you're feeling better overall other than the, the, the pain that you're
+Patient: Experiencing? Right. Right.
+Nurse: Mhm. All right. Well, I'll send a note over to him, let him know about the med changes and that, um, the pain that you're experiencing in your arms and he may agree. Just wait until your appointment if, if you're being, if you're able to tolerate it. Yeah, if it changes, go ahead and give us a call if you notice that it's getting worse or you're having new symptoms with it, like tingling numbness. Go ahead and give us a call. Ok. Ok. I will. All right. Is there anything else that you need help with today?
+Patient: No, that should take care of everything.
+Nurse: All right. If he, if he makes any recommendations, I'll go ahead and give you a call. Ok. Ok, sounds good. All right, thank you. Ok, thank you. Uh huh bye
+Patient: Bye.

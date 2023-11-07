@@ -1,0 +1,24 @@
+Nurse: Can you spell that for me?
+Patient: [PHI-Personal] last name Harrington. Harrington. Ok.
+Nurse: And her date of
+Patient: Birth, um, 10, 17, 25. Ok.
+Nurse: So she fell
+Patient: Last one, Wednesday or Thursday. And then we, we could see a, a bruise on the head. Light bruise. But then just this morning now she showed me on the inside of one eye. Yeah. Where her, well, when with the point of the glasses are, it's red but on the inside of the eye about an inch long. It like a blood vessel burst, you know, it's all deep red that just appeared now, days later.
+Nurse: Ok. Which eye is that?
+Patient: Right? Right. Eye.
+Nurse: Ok. Is her vision blurred or anything affected in that right eye?
+Patient: No, she thinks it's a little bit watery the eye.
+Nurse: Ok. Any headache,
+Patient: Any headache, mom? No.
+Nurse: And she didn't go to the, er, after the fall. Right. No. Did she hit her head during the fall?
+Patient: Apparently because it's a light bruise on, on the chair. Mom. Not on the floor, on the, on the floor. Oh, no, I know. But did you hit your head on the floor or the chair? No. Ok. I guess I'm, I didn't know that until now.
+Nurse: Ok. All right. Any chest pain, shortness of breath.
+Patient: No, chest pain, shortness of breath. No.
+Nurse: Ok. And the only visual changes is that, that eye is a little more watery than usual, right? Yes. Ok. So let me get with Doctor [PHI-Personal] to see what um, he would suggest and then I will give you a call back. What is your old number?
+Patient: Um, let me give you my cell number that I'm calling from or her. Well, um, [PHI-Account], it's [PHI-Personal]. And I'm a patient of crossing too. But
+Nurse: Ok, that's [PHI-Account]
+Patient: [PHI-Account].
+Nurse: Mhm. I'm so sorry, why did I write that for. Oh, because it's Monday morning. [PHI-Account]
+Patient: [PHI-Account]. And the home number is [PHI-Account]. I'm at her house. Ok.
+Nurse: All right. I will get with doctor and then I will get back with you all shortly. Ok.
+Patient: Thank you Britney. I appreciate your help. Bye. You're welcome.

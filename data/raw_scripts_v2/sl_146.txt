@@ -1,0 +1,27 @@
+Nurse: Me see. Let me just see here. So, um, I usually speak with you every month. My name is [PHI-Personal]. Um, are you doing ok? Everything's doing ok since the last time.
+Patient: Yes. Ok. Doing good,
+Nurse: Good, good. Ok, perfect. And let me just look here, um, and medication wise you don't need any refills or anything like that.
+Patient: I'm all set. I just refilled one prescription and I'll pick it up today.
+Nurse: Ok. Yes, it looks like that was the amLODIPine.
+Patient: Well, that it was the predniSONE actually. Oh, ok. But it, it, yeah, the uh CV S tried to put me on automatic about a year ago. The problem was they took one that I had four or five medicines. So they picked the date for one, which of course is exactly for one, all the rest of them were wrong. Right. Ok. So, anyway, I, I'm, I call them when I need it and I'm ok. I'm doing ok on that. Good,
+Nurse: Good. Ok, perfect. All right. So no refills. Ok. And then, um, since I'm looking at your medications and I see that you're taking the amLODIPine, um, do you check your BP at home?
+Patient: Uh, I have, I haven't recently, but yes, I do, I, I do check it.
+Nurse: Ok. And does it usually run pretty normal for you?
+Patient: I'd say yes. Um, it varies somewhat but, you know, it, it hasn't changed as far as I can tell.
+Nurse: Good, good. So like in the one thirties or so,
+Patient: Yeah, it, it, it bounces around. I say the average is probably in the one thirties.
+Nurse: Ok, perfect. Yeah, I'm seeing here the last time you were at doctor s office, it was 1 34/79 and that's really good. So, um, so if it's in that normal range and that's pretty good. Ok. And then no symptoms like no headaches, no dizziness, nothing like that going on. Yes,
+Patient: That's correct.
+Nurse: Ok. Good. Good, good, good. Ok, perfect. And, um, did you receive the letter in the mail that went over everything that you'll be due for throughout this year? Yes. Ok. Good. Did you have any questions or anything like that on it.
+Patient: No, no, I've got a, that's how I got your phone number.
+Nurse: Good, good, perfect [PHI-Personal]
+Patient: Plan. Ok. Now, just for your information, I did get my first shingles shot on [PHI-Personal] and of course, of course I got it. I'll get it in [PHI-Personal]. I'll get the second one.
+Nurse: Yes, that's what I see here that it's due around the [PHI-Personal] of [PHI-Personal]. Yeah, your second dose there.
+Patient: Her second one.
+Nurse: Good good good. And then your um you have an A one C that's not due until [PHI-Personal] so.
+Patient: Yeah.
+Nurse: Ok, perfect. Ok. Well, all right then [PHI-Personal] um I just kinda wanted to touch base with you. I'll get with um the other, the n the other nurse I think it was and just let her know that I did touch base with you. Um and then uh we'll follow up again sometime next month but if you need me for anything um please feel free to give me a call on that number that you have.
+Patient: Ok, I'll do that.
+Nurse: Alright. Alright. Well thank you so much [PHI-Personal] for giving us a call back and um like I said, I'll let know I touched base with you and I hope you have a great day. Yeah.
+Patient: Ok, thank you. Thank
+Nurse: You. Bye bye.

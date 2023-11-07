@@ -1,0 +1,31 @@
+Nurse: [PHI-Account], ok. I'm just doing the monthly check in call with you. How you doing?
+Patient: Fine. They had to increase my, uh, whatever it was [PHI-Personal] mg. They increased it to, I take two pills now daily because my BP was high. Yes, I thought
+Nurse: It was high. Do you check it at home?
+Patient: Uh, yes, I'm starting to do that now and then I go back on Wednesday the, and that is it not, not this week, but in two weeks I'll go
+Nurse: Back and, yeah, I saw they said, yeah, like, let me look at the date you were in on Monday. So come in like on the sixth or the [PHI-Personal]. Yeah, to be rechecked. Yep. Right. Um, how many times a day are you checking your BP? Uh, uh,
+Patient: Well, uh, just once.
+Nurse: Ok. And are you writing it down in a book?
+Patient: Uh, no, I, I can write it down. I didn't, I
+Nurse: Think that's a good idea. Get a little notebook. You know, write the date on it the time and what the reading is and then that way when you come in, you have it with you. Um, and, and that way it'll be able to, like, track, you know, if there's any like big fluctuations in it. Um It helps, you know, the self monitoring, helps your doctor, you know, diagnose any trouble earlier with your BP than if you only get the occasional readings done in the office. Um, you know, whether lifestyle changes such as diet or exercise or your medicine, you know, you're telling me it was increased. If that's working, you know, then they know. Ok, it's working, we'll leave it at that. Oh, wait, his BP is still out of control. That increased. Didn't help. Maybe we got to try something else different. Um, and it'll give you a better sense of control over, you know, your health really, you know, because you, you'd be like, oh, hey, I, I know uh my BP has been running this, I'm gonna check it now and see where we're at with this and I know if it's out of range, you know, I'm gonna talk to [PHI-Personal] and you know, see if if this medicine is working or not or we try a different approach with it.
+Patient: Ok. Sounds good.
+Nurse: Yeah, definitely. Um Are you watching your salt intake?
+Patient: Uh Yes. Yes. Ok.
+Nurse: She wants you no more than 2400 mg daily. So 2000 400 mg. Anything over. That's too much salt. So. Right. OK. Keep an eye on that. Yeah, it looks like the Losartan. She put down 100 mg, one tablet and then [PHI-Personal] mg, one tablet. So I guess it's 100 and [PHI-Personal]. She wants you on.
+Patient: Well, no, uh, the [PHI-Personal] I have Losartan and the [PHI-Personal] she said just take 22 pills daily. Bring it up to 100.
+Nurse: [PHI-Account]. Right. Right. Right. Got you. Yep. Yep. I see. She had that written twice. So it was sort of like, hm.
+Patient: Yeah. Right.
+Nurse: But yeah, that would make sense though. Now, did you need any medication refills or are you good?
+Patient: Uh, no. Uh, they're automatically refilling. I got uh three in uh a couple of days ago. So I'm, I'm good so far.
+Nurse: Ok. Yeah, when I look at your list it does say 100 instead. Yep. Yeah, that's what it is. 100. She wants you to take 100 mg, not the [PHI-Personal] mg of the Losartan. I should be specific there. Sorry about that.
+Patient: [PHI-Personal]. No, no, no, no problem with you, man.
+Nurse: Ok. Now, when your pressure's high, do you get any symptoms with it?
+Patient: Uh, only uh uh like, uh uh she, because she asked me too and I said, well, uh not really, but then, uh, during the day I guess I, I got a, a mild headache. Mhm.
+Nurse: Yep. Definitely headache. You could get dizzy
+Patient: With it. No, no. And then after a few days after I started taking 100 it uh subsided,
+Nurse: It subsided. Very good. Just be aware too. You could get dizzy with high BP, facial flushing and nose bleeds sometimes short of breath, you know, severe anxiety. So if that happens, you know, let us know right away. Um but hopefully, hopefully it's getting under control then with the 100 mg versus the [PHI-Personal] right? OK. Sounds good. All right. Do you have any questions for me? Issues? Concerns?
+Patient: Uh No. Uh that was it. Uh And then I'll start writing down the the reading.
+Nurse: Very good. Perfect. And then we can take a look at it when you come in.
+Patient: OK.
+Nurse: All right, [PHI-Personal], thanks for calling me back. You have a great day.
+Patient: Thank you. You too. Take care.
+Nurse: You too. Bye bye.

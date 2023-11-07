@@ -1,0 +1,22 @@
+Nurse: No, no problem. So it's a new program we're providing where our nurse would reach out to you on a monthly basis. Just want to find out if there's a better time for her to reach out morning or afternoon or if you're actually interested in the program.
+Patient: Are you? So, I, I, I'm sorry, I am alone but I'm um you're just saying that because I'm on Medicare now. Family practice has this thing where the nurses contact their patients once a month.
+Nurse: It's uh regarding me, basically, it's a Medicare based program. And as long as you have two qualifying chronic conditions, uh it makes you eligible for the program. So we're reaching out.
+Patient: So what are my chronic conditions,
+Nurse: The [PHI-Personal] and the hypothyroidism?
+Patient: Ok. I wasn't aware of that. Um What's
+Nurse: [PHI-Personal], I believe one is a high cholesterol and let me see what the other one is.
+Patient: I didn't. Uh oh, and my labs saying that I have high cholesterol.
+Nurse: Um that's what they're putting in the chart here. So I'm assuming. Yes. Ok. And
+Patient: Then what's the other condition?
+Nurse: Uh the hyper, let me see, that would be deficiency, deficiency in your thyroid hormones.
+Patient: I see. So the labs tell you that I have these things is, is that where you're getting the information? Uh
+Nurse: Yes, ma'am from your chart, correct?
+Patient: Ok. So, ok. And you wanna talk to me about that? Ok. So you want the nurse you want to know when the nurse can contact me. And that's like in the afternoons,
+Nurse: Mornings or afternoons, whatever, whatever time works best for you she would contact.
+Patient: Ok, afternoons, later afternoons is better because I'm in school until about 305.
+Nurse: Ok. Not a problem. I will go ahead
+Patient: And document and note that. So like 3 30 would be more a better time and, you know, if she would schedule an appointment time, I could be ready by the phone for it then. Ok. Does she do that or does she just
+Nurse: I believe after the initial, after the initial phone call you would be able to uh schedule any future calls?
+Patient: Ok, I got you. Ok, perfect. Alright.
+Nurse: Alright and I'll be mailing out the information for you as well. I've got you at [PHI-Geographic] P A Yes. Ok, perfect. All right, we are all set re I appreciate your time today. You have a great afternoon and stay safe.
+Patient: All right, Becca. Thank you. You're welcome. Mhm. Bye bye bye bye.
