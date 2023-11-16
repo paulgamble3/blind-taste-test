@@ -1,0 +1,12 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes. Uh, good afternoon. This is you call me.
+Nurse: Oh, yeah, give me one second. Let me get to your chart. Yes. What, what's your date of birth?
+Patient: [PHI-Personal].
+Nurse: I, hello. Can you hear me?
+Patient: Um, I can't understand nothing. It's like he's broken up.
+Nurse: Can you hear me now? No, in the, in the center. Yeah,
+Patient: I was listening when, when you talk first but not now
+Nurse: You had a note here.
+Patient: Um, let me call you back to see if I can hear you, but I can't hear nothing.
+Nurse: Ok. That sounds good.
+Patient: Ok.

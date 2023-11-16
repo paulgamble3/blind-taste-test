@@ -1,0 +1,36 @@
+Nurse: [PHI-Geographic] Medical. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. I'm returning your call. I'm sorry for the delay. It's
+Nurse: Ok. Let me get you pulled up here. Let's see. Date of birth. [PHI-Personal]. Yes. Ok. Give me one second. I think I was just calling to do our monthly check and see how you've been doing. Ok. All right. I got you pulled up. Um, has there been any changes since we spoke last?
+Patient: No, I'm, I'm feeling good fine. Ok. You know, good little aches and pains every now and then, but I'm old so, you know,
+Nurse: Nothing out of, nothing out of the ordinary. Huh? No.
+Patient: Ok. All right. And I see the doctor at the end of the month. So.
+Nurse: Ok. Yep, I see an appointment there the [PHI-Personal]. Let me see what time it is? 11 15. Ok.
+Patient: Right. And then I have another appointment after with doctor [PHI-Personal].
+Nurse: Yep. Um, that is on [PHI-Personal]. It looks like. Ok. And are you doing ok on your meds up until then?
+Patient: Yes, I'm doing fine.
+Nurse: Ok. All right. Are you keeping an eye on your BP at home? Yes, I am. How's that been running? It's so far so
+Patient: Good. Ok. As long as I stay nice and cool. II, I hate this
+Nurse: Weather. Yeah. It's a little muggy as in the hand,
+Patient: But it's not as bad as [PHI-Geographic].
+Nurse: Oh, well, I live in [PHI-Geographic] so I, I'm familiar with it.
+Patient: Yeah. My niece lives just outside of [PHI-Geographic] and 100 and 20 degrees is that's what the feel like was. And she has, she has a lot of medical issues. So she hasn't been, she'll go to the store at seven o'clock in the morning.
+Nurse: Yeah. Yeah, that's really the only time to do things because, I mean, even late in the evening it's still so muggy
+Patient: And the storm she said are scary. So, it's, but we've had those too, but it's the entire world. It's not, you know,
+Nurse: It's changing, isn't it? Yeah.
+Patient: Oh, yeah. My dad did, did it 60 70 years ago. He said what we were doing to the planet and, uh, he was right.
+Nurse: Yeah, it's making a change for sure. Oh. And how I've never seen, I've never seen a, um, storm in the summer like this before since I've lived here 12 years. And I've never seen it like this.
+Patient: I'm in Bridgeport, Connecticut, which is right on [PHI-Geographic]. Uh huh. And we've had storms. I mean, this, the, this rain is going sideways. Oh, wow. Yeah, I, and I live on the ninth floor and I look and it's, it's like I wanna, you know, hide under the bed. Yeah.
+Nurse: Yeah. I would be
+Patient: Terrified and the lightning and the thunder and, oh, man, it is. Yeah.
+Nurse: Well, you stay safe and stay cool. Make sure you're staying hydrated. Oh,
+Patient: Yes. Definitely.
+Nurse: Ok. Good.
+Patient: Awesome. But I'm not overdoing it
+Nurse: So. Ok. Good. Yeah. Yeah. Take it easy for the next, next month or so. Oh,
+Patient: Definitely. Even, I'm trying to lose the weight. I'm not exercising too much. So.
+Nurse: Well there, there's things you can do in the house to help with
+Patient: That. Yeah, so I'm trying. Ok,
+Nurse: Well you do, you do what you can. All right, [PHI-Personal], thanks for calling me back.
+Patient: No problem. You stay safe. You,
+Nurse: You too. Ok, thank you.
+Patient: Bye.

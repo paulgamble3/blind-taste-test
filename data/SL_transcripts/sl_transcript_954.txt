@@ -1,0 +1,78 @@
+Nurse: Good morning care management nurse [PHI-Personal]. How can I help you?
+Patient: Hi. Hi [PHI-Personal]. It's [PHI-Personal]. How are you?
+Nurse: I'm doing well. How are you doing? M [PHI-Personal]?
+Patient: Not good.
+Nurse: All right, give me just a second to get your chart pulled
+Patient: Up. Alright, thank you.
+Nurse: Mhm. All right m would you mind just verifying your date of birth for me, please?
+Patient: Sure. [PHI-Account].
+Nurse: Alrighty. Thank you so much. All right. So tell me a little bit about what's going on.
+Patient: Ok. My colonoscopy is scheduled for [PHI-Personal]. It's very important I do this. They had told me back in [PHI-Personal] that they were going to tag my folder as red, in other words, priority get her in. Ok. Then of course we had doctor who canceled my first appointment and that because of fluid in the ears. So that was all cleared up. So now I have [PHI-Personal]. However, my edema in my legs is horrible. Ok, I have got a rash on my left leg and my right, a little bit on my right but not much but on my left leg, I have a rash and it's it it itches like crazy. It's, it is warm to the touch. Is this going to stop me from getting my colonoscopy?
+Nurse: Um, let's see. So the rash is on your left leg.
+Patient: Yeah.
+Nurse: Did you say it was on your right too or? No?
+Patient: Uh, it's, it the right is itchy too. I've noticed water blisters on my legs. Ok. Uh, I don't know if that means anything little bumps all over the place. The what those,
+Nurse: Um, m when was the last time you weighed yourself,
+Patient: Uh, yesterday?
+Nurse: Ok. Um, have you noticed any fluctuation in your weight?
+Patient: Yeah, it's come down a couple of pounds. Ok. Um, three or [PHI-Personal] lbs. Mhm.
+Nurse: [PHI-Personal] or [PHI-Personal] lbs.
+Patient: Not three
+Nurse: Or [PHI-Personal] lbs since the swelling started.
+Patient: Well, the swelling's been going on since I always get summer. Summer is always, and I've shown heather my legs. I showed everybody my legs and it's always a, it's a summer thing for me, but this, we, this year I'm wondering, is it possible that with these Canadian fire, fire things that something got in the air and got on me? Or? I don't know if that's,
+Nurse: I'm thinking more so it could be from the edema in your legs. Um, uh, at this point I'm concerned for, you know, possible infection since it is warm to the touch and itchy. About how long ago did these symptoms start?
+Patient: It's been a couple of weeks and I've been trying to put lotion on it. I've been every couple of days changing the lotion because that one didn't work and then this one didn't work. Um, mm. I don't know what to do. Ok. And I come and I, geez, somebody's trying to call me. It could be the, hold on. Mhm. I, I don't, I don't know who that is. I'm going to let it go. Um, I, I thought maybe that was the, uh, place that's going to do the colonoscopy. II, I don't know, I just left a message for them. I'm, I, I'm, I don't know what to do. I, you know, I'm so frustrated with all of this. It's just like too much.
+Nurse: Yes, ma'am. I do understand. And have you been taking your furosemide? I see that you have 20 mg. No,
+Patient: No, no, that's the problem. When I went to the, get it filled at Walmart. The lady, she fouled it up. She, she, she put it, I asked, can you cut it in half? She put it out in her hand and then put it back in the thing and then I couldn't, I said, I don't, I, I don't want to take that because because of the, um, what you call it, the, the germ, she, she put it in her hands. The lady at the counter, I couldn't believe she did that. I'm not going to take that and then get sick. OK. Whi and then, so then I
+Nurse: Went to a new person
+Patient: No, I did not. I walked away and I went to another pharmacy and I got that late, last, late, last week I got another prescription done at, uh, supermarket, but I haven't been able to take it yet because y you gotta have the time to, when you start something like that. You can't be ha you can't go to work and think you'[PHI-Personal] going to pee all over the place for crying out loud. So I was trying to wait for a day when I had a clear day, I could do that. And then of course, now it's 10 days before the colonoscopy. You can't take anything. Well, can I or can I, I don't know, this is driving me [PHI-Personal].
+Nurse: Ok. I'm just jotting down um, what we've spoken about so far. All right,
+Patient: My girlfriend says take Benadryl uh put on your, your legs, Benadryl.
+Nurse: Um, they do make a Benadryl Cream. Um, it's a topical just like the antihistamine anti itch cream. So, yeah, they do make that. However, since you are having, you know, that increased weight of 3 to 4 lbs along with the swelling, I am cannot
+Patient: Increase de decrease
+Nurse: Oh decrease 3 to 4 lbs. Ok.
+Patient: Oh, no, no decrease. I've been, I've been really, really watching everything. I eat the sodium levels, etcetera. Yeah.
+Nurse: And all right. So with these skin changes, um I know you mentioned you'[PHI-Personal] switching out the lotions. Has your skin become more dry or more hot and shiny with that, um,
+Patient: Rash swelling. I would say it's more, less, less, uh dry, less dry. At least the moisturizers in them are doing their job. It's less dry. I'm not noticing the bumps as much the bumps seem to be going away. So something's working a little bit but the itch is still there. And, um, so I, I felt it this morning when I put on the cream and it felt warm to the touch, the left leg. So II I didn't know if that's indicative of an infection. I don't know. And I don't, and to be honest with you, I don't want to come in and get germs and get end up sick. And then I the colonoscopy is important. I have this done.
+Nurse: I have, I do understand that the colonoscopy is important. However, we do wanna evaluate your legs especially um you know, since you aren't taking the Lasix and it is warm to touch and you do have that rash. Now, are you noticing any streaks or lines on your legs?
+Patient: No, no, no, no, no. And there's a little tiny rash that I noticed yesterday when I took a shower underneath my armpit. A little ti on my left side, don't know if that's related, not related. Have no clue. Never saw it there before in my whole life. This is like it's so different from what I normally am. So I just OK. Mm
+Nurse: All righty. Let me take a look and see because I definitely do want you to be evaluated by [PHI-Personal]. Um,
+Patient: Can we get me in to see her before the colonoscopy?
+Nurse: Yes, ma'am. I'm pulling up her schedule right now. Hm. She, it does look like she has appointments today. Um, let me call the office see which time slot they, you know.
+Patient: Ok, if there's nothing tomorrow is there? My whole day is clear tomorrow.
+Nurse: Ok. let me take a look at
+Patient: Tomorrow and I I don't do well in the morning iii I that's part of my problem is getting my sleep and getting into bed, getting the feet up.
+Nurse: Ok, I don't see that she has anything tomorrow. Um, she does have appointments today and let's take a look. I'm on computer.
+Patient: I mean I can come in the evening. I mean she I don't know how late she stays. Hm.
+Nurse: So the only thing I'm really seeing for this week is today.
+Patient: Ok, so what's today? Anything this afternoon? She
+Nurse: Has afternoon appointments but I do have to check with the office and see um because some of them do look like they'[PHI-Personal] a little bit booked and I cannot combine appointment. So I'm gonna have to call them right now. It's looking at it's looking like it's gonna be after 3 p.m.
+Patient: That would be fine.
+Nurse: Alrighty. And have you worn any compression garments for your swelling or any elevation, anything like that?
+Patient: Yeah, I'm having trouble speaking because I order things they get, I get them and they'[PHI-Personal] so fucking tight. I can't even get them on my damn legs. Like, well, I, I'm sorry, I'm so frustrated. It's
+Nurse: All right. I am gonna recommend, you know, um you go down to the pharmacy, I would recommend more like a local type pharmacy where they have the time to walk you through things and even, you know, some of them down there will open up the package and say, hey, this looks like it might be your size or hey, if we do need a special order, we have that.
+Patient: I would do that for you and you know what's called the two B two Bs. Mhm. It, so it, it is not as stinking tight like those other ones and, and, and, and, and, and I don't know where to get them. I don't wanna go way into [PHI-Personal]. I don't,
+Nurse: Yeah. Um I would just recommend, you know, you jump on Google um jump on Amazon even call one of the mom and pop pharmacies to see if they is something that they can custom order for you because the mom and pop pharmacies do take the extra time versus a Walmart or you know, a CV S. So I would definitely recommend you give them a call as well.
+Patient: But, but, but the pro the pro but there's one in Leber and I don't know the name of it to call it. Do you know the name of it? I don't know if you have it. I don't have a computer at home.
+Nurse: I don't know. And it's a pharmacy in [PHI-Geographic].
+Patient: Yes.
+Nurse: Yes. Um, there's, I see [PHI-Personal]. Um, do you know where it's located off of, in [PHI-Geographic]?
+Patient: Mm. It's not the, it's behind where s, as I can describe where it is but I don't know the street, uh, if you gave me the name, do you have a street name there?
+Nurse: Mm. Hold on one second. I'm just trying to pull up where Hols is. S um and Burg that cos
+Patient: No le let's see.
+Nurse: [PHI-Geographic]. Let me see what I can find.
+Patient: This whole thing is I, I'm starting to feel nauseous from it all. It's just getting to me getting to me really badly.
+Nurse: Well, I am not so much seeing any pharmacies in that area. I'm just seeing mostly restaurants and
+Patient: [PHI-Personal], you know what? Let's not worry about that right now. Let's get that appointment in. So uh ok. All right. So, so with [PHI-Personal]. Mhm. Um but you know, if you got to get these two B things, you gotta order them and that's gonna take a couple days. Now, what is that gonna do for me? You know what I'm saying?
+Nurse: Yeah, absolutely. Well, I definitely want you to, you know, start taking that Lasix for that swelling that is important and you know, if you got to go to the bathroom you gotta go to the bathroom but we, we wanna get the swelling down and we wanna get it under control because like you said, the colonoscopy is important.
+Patient: So, but, but is that gonna mess up the colonoscopy? Because they say no medications?
+Nurse: Well, you don't have to contact, um, the performing provider's office and see certain medications like for diabetes, they don't want you to take certain blood thinners. They want, don't want you to take, but it's always best to contact, check them and see which medications you are allowed to take because they'[PHI-Personal] a little more specialized in that when they can usually give you a little bit better
+Patient: Answers. A and wouldn't LASIK be, that's not a blood thinner, I don't think. Is it? No.
+Nurse: So Furosemide also known as Lasix, that's a diuretic. So that's gonna help you to push out all that extra water weight through your.
+Patient: Yeah. Ok.
+Nurse: Ok. So Miss [PHI-Personal] um, let me go ahead and actually, um, get you, I'm just gonna go ahead and get you transferred to the office and just let them know what's going on and that, um, you'[PHI-Personal] wanting an appointment for today or would you recommend I give them a call?
+Patient: Yeah, you, because II I need a, yes, I don't need, uh, you'll get a, yes, I'll get a ring around the rosy thing here going
+Nurse: On. Ok. I'll go ahead and do that for you and give you back. Ok.
+Patient: If you'[PHI-Personal] gonna call me back. Yes
+Nurse: Ma'am.
+Patient: Ok thank you, thank you. You're welcome. Alright bye bye.

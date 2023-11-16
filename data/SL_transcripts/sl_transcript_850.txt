@@ -1,0 +1,15 @@
+Nurse: Hello,
+Patient: This is [PHI-Personal].
+Nurse: Hi, [PHI-Personal]. This is, I was returning your call.
+Patient: Yes, I was just calling to check on you and see how you were doing. See how your blood sugars were.
+Nurse: Uh, my blood sugars are fine. It was 1 13 this morning and stuff. Actually, when you called I had gotten into, uh, the, uh, cardiologist and I was in the office when you called.
+Patient: Oh, ok. I'm sorry?
+Nurse: No, that's fine. So, I just got out of there. Um, they're gonna do a work up with a, a stress test and an echo and a Holter monitor.
+Patient: Ok. Stress test. Holter monitor. When are they gonna do the stress test? And the Holter monitor? They gotta call you.
+Nurse: No, they've got them set up. So, uh, Holter is, uh, uh, let's see. The echo is on 46. Ok. The Holter is [PHI-Geographic]. Mhm. And, uh, um, they wanna do a, uh, stress test and that's been scheduled for [PHI-Personal].
+Patient: Ok. All right. And I will also make a note of this in your chart and I noticed that the last time we were talked or that you were into the office, um, he had discussed with you. Your blood sugars were kind of low. That's why I was, um, reaching out to you to make sure you weren't having any problems.
+Nurse: No, no, those are, those have been ok. And I've been watching them. I, they, uh, cut way back on the insulin. I don't do the HumaLOG at all anymore.
+Patient: Ok. No, HumaLOG. Ok. Sorry, I have to talk to
+Nurse: Myself. Well, that's fine.
+Patient: Um, so you're still taking the Tresiba the Metformin, right? Yes. And are you um eating um meals now? Eating more meals? I mean or eating more? Yeah. Yeah. Ok. All right. I just wanted to check in with you see how you're doing. I'll make the note of those, those dates and um stuff that you gave me for the cardio. I cannot talk today for the cardiology appointments that you had and um but if you need anything, you know, anything comes up or you need to let doctor or [PHI-Personal] the point know anything you just call us back and let us know. Ok. Alright, Miss [PHI-Personal]. Thank you for calling me back. Thank you. You have a wonderful day.
+Nurse: Bye bye now.

@@ -1,0 +1,26 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Oh, hi, [PHI-Personal]. This is [PHI-Personal] [PHI-Personal] returning your call. Hi, [PHI-Personal], how are you? I'm good. How are you doing? I'm good.
+Nurse: Thank you. So let me just tell you real quick. [PHI-Personal] that this call is gonna be recorded for training purposes. Ok.
+Patient: Oh, sure, no problem.
+Nurse: All right. So I was calling to talk to you about Doctor [PHI-Personal] care management program. She is providing. Ok. So that would consist of a phone call from a dedicated care management nurse where she would check in with you in between your office visits. She'll, yeah. Um, she'll answer any medical questions or concerns. Assist with medications, lab results appointments, refills. Pretty much anything pertaining to your health. Your nurse would be an added resource for you and most importantly would keep Doctor [PHI-Personal] updated with your current conditions and any changes that may be happening. Ok. Ok. Yeah. So the program also helps avoid emergency room and urgent care visits and it is a and it is a billable service to [PHI-Personal], [PHI-Personal] Advantage and secondary insurance carriers. The call. Yeah. Um, so the calls are subject to deductibles, your co pay and co insurance. Now you have, do you have a secondary insurance or just a [PHI-Personal]?
+Patient: Um, I have secondary? Ok.
+Nurse: What is your secondary? Because I don't have one listed here?
+Patient: Ok. Um, gosh, let me ask me too quick there. Let me, I'll have it for you here in a second. Oh, my goodness. Mm. I hear her. I don't use it much. Which is a good thing. Right. Right. It is. It's [PHI-Personal] [PHI-Personal].
+Nurse: Oh, ok. So that has a $0 copay, am I correct?
+Patient: Um, I believe so.
+Nurse: Ok, great. So if you don't have a copay, then you should not be responsible for any out of pocket cost for those calls from your nurse. Ok. Oh, good. Yeah. And then you would be able to choose the frequency of those calls. They could be monthly or you could choose to get them in between your appointments every three or every six months.
+Patient: Ok. You know, I think I would go with maybe every six months.
+Nurse: Sure. Would you prefer a morning or an afternoon call from your nurse?
+Patient: Um, I let's go with morning. Ok.
+Nurse: And do you, I'm sorry, do you still have that [PHI-Personal] [PHI-Personal] card handy?
+Patient: You know, I can get it for you. I'll be right back with you in a second. Thank
+Nurse: You so much.
+Patient: Oh, you're welcome. Ok, I have it. So you would like my policy number. Yes, please. Ok. It is [PHI-Account].
+Nurse: Perfect. So I did add that in there for you and the phone number I'm speaking with you on now. Is that the best number for your nurse to reach you at?
+Patient: Yes.
+Nurse: Ok. And you said afternoon calls are best?
+Patient: Um, actually let's go wi well yeah, afternoon is fine.
+Nurse: Ok. Yes. And then your address, I do need to mail you some welcome information. Um I have that your Yeah, I have that. Your address is [PHI-Geographic] Mama. Mhm. All right, perfect. I will go ahead and get this set up for you. And your care management nurse should call you for your introductory call within the next couple of weeks. Ok.
+Patient: Ok. And then that's the introductory call and then from there now, will that be like a um, an insurance claim with the introductory call or? Yes, so that call will be ok and it shouldn't, as you said, it shouldn't, it's really no issue because I have my um, probably no copay. So that sounds good.
+Nurse: Ok, great. Sounds like a plan. You can expect my mail to get to you soon and your nurse will reach out soon also. Ok. Thank you so much. You're welcome. Have a great day. Thanks for calling me back. Uh huh,
+Patient: Bye bye, bye, bye bye.

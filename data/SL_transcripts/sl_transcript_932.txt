@@ -1,0 +1,10 @@
+Nurse: Hello, this is [PHI-Personal]. Hi, this is
+Patient: You called me. Um, yes, let me pull your rate back up here right there you are. So, my name is [PHI-Personal] and I'm calling on behalf of Doctor [PHI-Personal] and I called today because it looks like you're eligible for a care management program. So what that is, is a nurse that will be able to give you a call to see how you're doing. She answers any questions, refills prescriptions, she'll address any issues you're having and she could help with the appointments and lab work, things like that. The program helps keep the doctors updated and it avoids emergency room visits and all all the calls the nurse makes are documented and sent to the doctor for review. They are treated as a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. And they're also subject to deductibles, co insurance and co pays. So I have here you have United Healthcare [PHI-Personal] Advantage. Is that still correct? Yes. Ok, good. And do you prefer morning or afternoon phone calls from the nurse, um,
+Nurse: Mornings because, um, I take either a nap in the afternoon or I'm either having to go pick up my grandson. Um, the school will be coming up soon and mornings is better. So,
+Patient: Um are you still at the 7612, Clove Park Place, Apollo Beach, Florida. Ok. I'll also send out a letter. It has all the information on it. Plus a phone number to call in to the nurse if you need to and then your first phone call from the nurse should be within a week or two. Ok. Alrighty. Well, thank you for your time.
+Nurse: Um What's her name or is it just
+Patient: Uh [PHI-Personal] looks like it'll be [PHI-Personal].
+Nurse: Ok, [PHI-Personal]. Ok, great.
+Patient: Alright, have a good day. Oh,
+Nurse: Thank you very much. You're
+Patient: Welcome. Bye bye bye bye.

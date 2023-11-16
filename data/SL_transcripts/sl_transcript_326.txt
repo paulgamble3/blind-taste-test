@@ -1,0 +1,5 @@
+Nurse: Hello, this is [PHI-Personal]. I'm
+Patient: Hi, I'm, this is M I'm trying to get a hold of Ly. She called me and left, left me the number.
+Nurse: Oh, ok. Well, I give me, uh, I'm gonna put you on a quick hold and I'll see if [PHI-Personal] available. Ok. All right, thank you. So are you still there? Yes. Ok. She says that she is on a phone call but she will be off in one minute and she'll be happy to call you back. Is that ok?
+Patient: That's fine with me. Thank you
+Nurse: Enough. Thank you. Bye bye.

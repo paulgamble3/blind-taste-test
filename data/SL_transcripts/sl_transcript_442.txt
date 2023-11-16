@@ -1,0 +1,23 @@
+Nurse: Care Management. This is [PHI-Personal].
+Patient: Hi. I'm returning your call. Oh, and
+Nurse: This is
+Patient: [PHI-Personal].
+Nurse: Ok. How are you? Ok, good. Yeah. So I was reaching out to give you information about the care management program that the doctor is offering. And so what that program involves is the doctor would just have a care management nurse just giving you a phone call in between office visits with him, which would only be once every six months she would call and she just calls to follow up to check and see how everything's going. Uh, she will ask if there's anything that needs to be addressed or discussed, such as if there were any issues or concerns that you might have been having in between those appointments or if you just had questions in general that she can help you with. And then she does go over and see if you're on any kind of medications. Um, and if you are, she will just ask how they're working or if you have any problems with any of them and then if you need refills, she does call and get them refilled as well and then she does go back and reports everything to your doctor after every call just so he could stay updated and aware if there were anything that did change in between those appointments, just so they can better manage your health and just making sure you're staying as healthy as possible. And they also provide you with the same nurse every time. Yeah. You think that's something you would be interested in?
+Patient: Mhm. I don't think it's necessary. I'm kind of surprised I'm being asked to do this. Is it because of my age?
+Nurse: No, we're, we're calling everyone in the practice all their patients. Yeah. It's just to stay on track and update it and just to keep up on everyone's health. Hm.
+Patient: Um, does this come out of insurance or what?
+Nurse: Yes. So, the [PHI-Personal] covers the program and it wouldn't cost you anything out of pocket?
+Patient: Well, if it helps the, if it helps them to keep up with there's nothing going on. But if it helps, you know? Sure.
+Nurse: Ok. Yeah. It, it just, it helps them, just stay aware because the nurse, like, also coordinates with any other doctors that you see. So it keeps them all on the same page and just updated on how you're doing. Yeah. Oh. And she would just call once every six months and of course,
+Patient: I immediately freaked out like what's wrong.
+Nurse: Oh, yeah. No, no, no, no, no. This is just to help the doctor stay updated. If there were anything you know, say if there was something that changed, they could stay on top of it and, you know, treat anything before it would get worse, things like that. So it just helps them, just stay updated on how you're doing.
+Patient: Well, I guess it wouldn't hurt.
+Nurse: Ok. And then [PHI-Personal], I just want to verify your mailing address. So I have [PHI-Account] [PHI-Personal]. Correct
+Patient: [PHI-Geographic]. Yeah.
+Nurse: Ok.
+Patient: The morning [PHI-Account]. Yeah. Ok.
+Nurse: Set you up here for the nurse to follow up every six months.
+Patient: Yeah, I have one due in [PHI-Personal].
+Nurse: [PHI-Personal] 15. Yeah. Yeah. Ok. So what she's going to do cause you'll have the same one all the time. She always just likes to call within a couple of days just so she can introduce herself to you. So you know who she is and then she will give you her direct contact number. So if something does come up or you have any questions you can contact her directly. Oh, ok. Ok. All right. So [PHI-Personal], I do have you all set up. Ok. Ok. Alrighty. Well, thank you for returning my call and I hope you enjoy the rest of your day.
+Patient: Thank you. You
+Nurse: Too. You're welcome. Thank you. Bye now. Ok, bye bye.

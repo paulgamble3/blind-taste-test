@@ -1,0 +1,23 @@
+Nurse: Hello. [PHI-Personal] speaking.
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Sorry, I missed you. That's ok. That's ok. I couldn't hear it.
+Nurse: Oh, sure. Sure. Um, so tell me how you've been feeling. I would just want to check back with you and follow up and see how things have been.
+Patient: Well, I know yesterday I was coughing a lot yesterday and my nose is still stuffed up. Um, I did finish my antibiotic two days ago. Ok. Kind of waiting it out. But today I've been ok, so far nose is still stuffy. Um, I did talk to the doctor. Um, I went to doctor on Tuesday and, um, he having some tests done, I'm gonna go in, uh, tomorrow for a CT scan of my lungs again and he's gonna have a breathing test done and he wants me to see a allergy doctor. Um, he's going to refer me to and, um, and then we'll see where we go from there, but I
+Nurse: Didn't feel like you had any active pneumonia or anything right now for exam. Ok.
+Patient: I been coughing more than usual. Um, which has bothered me a little bit. Um, but, um, he knows that and I did talk to him a lot about everything and he said he's gonna try to do the best he can to work with me and try to help me to, you know, live long.
+Nurse: Ok. Yeah. So, so, um,
+Patient: I really like the guy. He sounded very enthusiastic and
+Nurse: Good. Good. So he, um, so he's gonna do the CT Scan and you're gonna see an allergist. Of course, that's good for, um, any kind of chronic issues you've been having and, um, you did finish the antibiotics. So good. Wonderful. I was, I was happy that to know that you're going to follow up with the pulmonologist. That's good. Um, ok. Great.
+Patient: Yeah, I just wanted to have one here now because it was too hard when they were so far away and, yeah, I really didn't know them because I didn't see him much. Right.
+Nurse: Right. Yeah, much more convenient. Good. Good. It's, that's good news. Well, I just wanna check back, um, again, um, if you have any issues that, uh, for us, you know, or if you need anything from us, give us a call. But I think the fact that, you know, you finished the antibiotic is good. But I think, uh, the, the follow up testing you're getting through your pulmonologist is good too. That'll just, you know, verify that there's nothing else, um, you know, acute going on or, or anything else. Yeah. Ok. Good. Good. Yeah, he
+Patient: Did mention something about a biopsy again too and I did tell him about the biopsy. I had a few years ago, um, and they found scar tissue. It wasn't cancer. Um, just pneumonia I had. Um, but, um, yeah, we'll just wait and see, you know what he finds and
+Nurse: See what the tests show. Sure. Sure.
+Patient: Yeah. Ok. So good. I'm just hoping not that I don't have pneumonia again. Yeah. I really hope I don't have that again. But, yeah, I mean, I, I have been tired, you know, more lately. I've noticed fatigued.
+Nurse: Yeah. Yeah. You know, how about your appetite? Do you have a loss of appetite
+Patient: Or? Good? Um. Ok, perfect. I haven't had any problems there and for the most part I feel pretty good. Good, good. Just fatigue and the coughing. Ok.
+Nurse: Ok. Well, let's, let's, um, let's see what these tests show and go from there. I just wanted to check back and make sure that you weren't feeling worse or having any other issues added on to this. Um, and, uh, ok, good. So I'll follow up with you in, in, in probably another week or so and see, um, what, what the determination is there. Ok.
+Patient: Yes, I, ok, that would be fine. Ok,
+Nurse: [PHI-Personal]. Thank you so much for returning my call. I appreciate it.
+Patient: Oh, no problem. Ok.
+Nurse: You take care and stay safe.
+Patient: I will. Thank you.
+Nurse: Thanks. Bye bye now.

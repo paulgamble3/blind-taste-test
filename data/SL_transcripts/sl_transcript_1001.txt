@@ -1,0 +1,12 @@
+Nurse: Good morning. This is, how can I help you?
+Patient: Yes, good morning to you. I'm happy to hear your voice. Uh My name is [PHI-Personal]. I'm the wife of [PHI-Personal] who had a couple of weeks ago. Um This is about the Plavix. Um He was off of the Plavix for five days and he had the extractions done on Wednesday. So we're trying to find out when he should resume and it seems to be, you know, nobody is able to tell us anything because apparently the nurses to call or something. So I'm reaching out to you for your help.
+Nurse: Yeah, so the orders didn't have any hold restriction after the procedure. He could just resume as normal,
+Patient: He could resume so you can start with those. Yes. Yeah. Thank you so
+Nurse: Much. You're welcome, ma'am. I was gonna reach back out and see how things have been going. Um I also am in charge of your following your care as well too. Do you have a few moments to speak on your behalf?
+Patient: Um No, I can't be just coming back from an appointment. So could I call you back, say Monday? Sure. I, I'll be home Yes. Yes.
+Nurse: Ok. All right. Well, yeah, they're, um, just, you know, keep an eye out for any, um, signs of bleeding, things like that in the gums if he does experience that, um, starting back on the Plavix. But, yeah, he is good to go. There wasn't anything, post procedure to hold, um, just prior to. Ok.
+Patient: Ok. Yeah. Yeah. It, it would be nice for them to tell us that right away because he was getting anxious and you know on the weekend is coming so he didn't want to have him off of the Plavix for too long.
+Nurse: Right? I got you. Yeah um but yeah he's good to go start that again today um and just update the provider or myself on Monday if there's any concerns. Ok.
+Patient: Ok. Yes thank you for your help. All
+Nurse: Right thank you. Take care.
+Patient: Mm bye. Alright you too.

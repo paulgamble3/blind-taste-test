@@ -1,0 +1,25 @@
+Nurse: Hi, [PHI-Personal]. How are you? Hello. Hello? Hi. It's harmony. How are you?
+Patient: Hi. Harmony. It's [PHI-Personal].
+Nurse: Hey, are you doing ok?
+Patient: Yeah. Yeah, I was just returning your call. II, I didn't have your extension. I, I misplaced it but I got it now. Uh, so I just dial, dialed the, you know, so that way. But, uh, yeah, this is good. I just needed, uh, uh, the one prescription refill. That's all they called me. Yeah. Oh, I see. And I think I'm coming to see up there at the office on the [PHI-Personal] on Thursday.
+Nurse: Yes. Yes, you are. So, [PHI-Personal] at 9 30 in the morning. Bright and early. Right.
+Patient: I'm, yeah, I'm not sure what time I'm pretty sure it's early. Yeah, [PHI-Personal],
+Nurse: 9 30 in the morning. It is. So, yeah, [PHI-Personal] o'clock. Ok. Yeah. So, but that's good. So you're doing good. You got your, well, your refill already was approved. So, that's good. You've been, have you been doing ok? Like BP has been all right. And, you know, things like that.
+Patient: No, everything's, uh, everything's good.
+Nurse: Good. Oh, gosh, I'm glad to hear that. Well, basically, um, if you have a second
+Patient: In a bad area. I'm kind of breaking up. Oh, can
+Nurse: You hear me now? I'm sorry.
+Patient: Can you hear me now? I'm, I'm down the shore but, uh, it's kinda breaking up. Let me walk over here. Oh, I'm sorry.
+Nurse: What about now? Oh, I can hear you really good.
+Patient: Uh, that's a little better.
+Nurse: Ok. Well, basically, um, if everything's good I just wanted to, I'll ask you a couple questions then we usually do it about once every six months just to make sure, um, we call them social determinants questions, basically, make sure things are. Ok. So as far as your housing goes, is your housing good. You have any concerns there? Any questions with that? Yeah.
+Patient: Uh, no, I'm doing good good there. It's getting choppy. I don't know what's going on. Oh, I'm sorry.
+Nurse: Um,
+Patient: Excuse me, let me try walking out front here. Yeah, on the outside, I guess I was in the garage before. Yeah,
+Nurse: I can hear you good.
+Patient: Uh, you can hear me but
+Nurse: You can't hear me at all. Um, I, I could go through the questions pretty quick then. Um, just as far as food and stuff. Do you have any concerns about running out of food?
+Patient: Do I, what do you say about running out of
+Nurse: Food? Any concerns about running out of food?
+Patient: Oh, yeah. Yeah, I'm eating right. I'm eating good and uh, ok, you know, good, good. I had a little water. I, last night I cheese a little bit, but
+Nurse: All right, all right. Um, any concerns about getting to and from, you know, doctor's appointments or going to the grocery store? Like transportation concerns. I'm sorry? Yeah, I was gonna say I, it's, it's pretty, it's pretty rough. Um, yeah, how about that? Why don't you give me a call back? Um, I'm here until 4 30 so give me a call or whatever you want me to call you back? Yeah, I'll call you right back. See if it work a better signal. Ok, I'm gonna call you right back. Ok.

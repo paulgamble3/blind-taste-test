@@ -1,0 +1,19 @@
+Nurse: Good afternoon. This is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. We spoke last week about Lyrica and my shingles and I, um, I know you said you call me today because I'm gonna be running out of pills and the doctor wanted to know I'm doing fine. I have no itching. I have no headache. The only thought the only side effect and I don't know if it's from Lyrica is dry mouth.
+Nurse: Ok. Let me just look and see if that's a side effect. I'll pull up your information and update doctor Lyrica side effects. Let's see here. I'm glad that you're doing better. Thank you. Me too. Yes, I'm sure it's a relief. Right. Yes. Mhm. Let's see. Nausea, headache, diarrhea. Um, oh, yeah. Dry mouth.
+Patient: Ok. Well, I, I mean, I can certainly live with it
+Nurse: And you can live with that instead of being itchy all the time. Right. Oh, [PHI-Personal], I'm so glad you're doing better. Thank you. I'm sure it's such a relief. You're right. Let's see here. So, and everything else is going good then.
+Patient: Yes, it is. I, I just need her to call [PHI-Geographic].
+Nurse: Ok.
+Patient: For more of the, I guess it's, I guess it's a generic form of
+Nurse: Lyrica. Ok, so you need it sent in? Ok, let me just pull it up one second. I just have to finish one thing here. Ok. Ok. Ok. Now are you completely out [PHI-Personal]? No,
+Patient: No. Ok. If you want, I can count them but
+Nurse: I would. No, no, no, I don't want you to go through all that.
+Patient: I have at least 10 left.
+Nurse: Ok. Doctor. So you wanted to go to [PHI-Geographic]? Yes, please. Sure. What is it? C Os GCO? Yes, it is. Ok, [PHI-Geographic]. And do you have their number? Sure.
+Patient: I'm just reading it off the prescription label. Uh, [PHI-Account] [PHI-Account] [PHI-Account].
+Nurse: Ok. Ok. Just sent that over to the office for you. All right. Great. Ok. So now I'll update that. Now, [PHI-Personal], you're on my inbound only panel, which means I don't call you monthly or every so many months, you know, only if you call in. Do you want me to switch you for me to call you every so many months?
+Patient: I don't know if you'd like. Um, mm, see this is an unusual problem. Usually I don't
+Nurse: Have any problem. Yeah, usually. Well, we'll see like I know you have, um, like I have listed rheumatoid arthritis, hyperlipidemia. Um, let's see here, anxiety hypertension, and you do take multiple medications. So, on a normal basis, the majority of my patients, I have like three different offices that I cover. So the majority of my patients I call them monthly because they have numerous chronic, because they have numerous chronic conditions. And my job is to help the patients and help the office as a nurse, case manager to help the patients manage their um chronic conditions at home rather than, you know, having to go to an er, or whatever the case may be or, you know, constantly needing to call into the office. Normally a lot of my patients now they call me and say, hey, you know what I have this going on? Do you feel like I should go into the office or, you know,
+Patient: I have someone coming to my door, um, but it, um, I would just leave me on inbound. I, I,
+Nurse: Not a problem, not a problem because then if you need me, you know where to find me. I sure do. Thank you. You're welcome. Bye bye.

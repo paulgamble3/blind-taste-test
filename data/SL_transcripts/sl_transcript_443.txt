@@ -1,0 +1,41 @@
+Nurse: Hi. Hello, this is [PHI-Personal]. Yes,
+Patient: [PHI-Personal]. It's Tony LFO. We just, I guess you called
+Nurse: To just to check and see how you were doing if now is a good time.
+Patient: Yeah, that's fine. All right.
+Nurse: Can you just verify
+Patient: Your date? What you're breaking up real bad? Your phone on the road or something? Can you hear me better now? Yes. So it was on speaker phone.
+Nurse: Yes. Yes, it was. Um, can you just verify your date of birth for me?
+Patient: [PHI-Account].
+Nurse: All right, perfect. So how's everything been going since the [PHI-Personal] time we spoke? Uh,
+Patient: Not too bad. I'm slow but sure, I guess improving. Good. Not as fast as I would like to be improved, but.
+Nurse: Right. Right. Ok, perfect. So I did see that you had an appointment with doctor [PHI-Personal] week but it was canceled. Um, yes.
+Patient: Ok. There's no sense in seeing her.
+Nurse: Ok, perfect. I just wanted to make sure I was like, I think it's probably because you just saw her in February, but I just wanted to make sure. Well,
+Patient: Yeah, it was mainly this one was to get clearance to go ahead and have shoulder, uh, surgery. I'm not gonna be able to do it. Number one, I don't want to do it. Right.
+Nurse: Ok.
+Patient: Or the knee, I don't want either one of them done right now. Yeah, I'm too old for this crap.
+Nurse: Right. Uh, and the pain is, uh, is it like tolerable or?
+Patient: Um, I don't have any pain right now. Ok. Good. It just bothers me. Yeah. If I do certain things, the shoulder hurt, you know, obviously I can't really lift it like I would like to, but I, I can put up with that versus surgery. Right.
+Nurse: Absolutely. Yes. And then even like, post surgery for a shoulder would probably be, you know, uh, like eight weeks out of doing, you know, things that would have to recover it, like PT and stuff like that. So, I definitely understand that. Um, are you doing any, like, physical therapy or anything right now?
+Patient: Yes. I, they have the visiting one that's been coming every week. Right. Perfect.
+Nurse: Right. And does it help? It's helpful.
+Patient: Yeah. Yeah, I've been doing it. I mean, you know, of course they get leaving the stuff to do at home and then she only comes once a week and checks up for me. Good. She'll be here tomorrow morning as a matter of fact.
+Nurse: Ok. Good. And then what about medication wise you're doing? Ok, any refills or anything like that needed,
+Patient: Everything's up to snuff so far.
+Nurse: All right.
+Patient: Ok. Well, that. I'm only taking the two pills basically.
+Nurse: Yes. Right. Ok. Good. Good, good, good. And then that all right. Well, good to me. I'm glad we got to touch base. Um, I just kinda wanted to touch, uh, check in, make sure everything was going. Ok. Um, I would say she probably when you need to, um, schedule another appointment. If, uh, you wanna get in touch with me, we can do that. Um, I would let me just look,
+Patient: See, I think we have one, I think I already have one scheduled with her. This was the one scheduled in advance of that surgery. Oh, ok. To see, you know, to get clearance from her. I says I have to go through three doctors to get clearance to go have that surgery.
+Nurse: Oh, yeah. So, yes, probably with cardiology and everything
+Patient: Else. Cardiologist and then the blood doctor, the hematologist.
+Nurse: Right. And BP is doing ok.
+Patient: So far, so far it goes up and down, but mainly it's been pretty steady. Ok.
+Nurse: Good. And no symptoms. No headaches, no dizziness, nothing like that.
+Patient: No, I still have the, I, I guess you would call it. It's not vertigo. It's, um, uh, what do you call it? Oh, jeez. Not vertigo. No, I still want to go to the right side. Uh, what do you call it? Uh, my balance is
+Nurse: Off. Ok. So it kind of affects you there just,
+Patient: Yeah, it's still messing me up. So, Ok, my balance is off. Oh
+Nurse: Man. Ok so just kind of being careful with that kind of watching what you do and how like you turn and
+Patient: Stuff like that which I've been trying to get away from but if I go any distance I have to use that walker otherwise.
+Nurse: Right? Good. Well at least you know you know when you need to use it. Ok. Well, alright then Tony. Well um I'm glad we got to touch base. I will check back in with you um probably in the next month or so, but if you need me before then you just give me a call. Ok,
+Patient: [PHI-Personal]. Thank you.
+Nurse: All right, you're welcome you have a great day. You too. Bye now. Alright bye bye.

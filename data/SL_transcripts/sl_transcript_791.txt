@@ -1,0 +1,83 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you? [PHI-Personal] [PHI-Personal].
+Patient: I can, I had, uh, [PHI-Personal] call me a little while ago. I said, well, this is the number that called me. I'm [PHI-Personal].
+Nurse: Oh, hi, [PHI-Personal]. Yes, that was me. My name is that, that
+Patient: Was you? Ok. I have in my phone book down here as [PHI-Personal]. Oh,
+Nurse: So I have not a lot.
+Patient: Yeah, I'm all right. Uh, I went up and the only thing I would really need would be Xarelto. I had just gotten a lot of them filled up. Ok, Xarelto. 10 mg.
+Nurse: All right, Xarelto. 10 mg. Let's see. Can you refill it? Yeah. Yeah. So it looks like they sent in a refill of that. Let me see here too. That was in [PHI-Personal] and she put a 90 day supply with three refills on that. So you should be able to just request that from the pharmacy. Yeah. So you, you don't need us to send another refill in. It just has to come right from the pharmacy.
+Patient: Oh, ok. Well, then I, uh, everything else has three refills on it. Ok, good. And I have it and I have been getting like uh when I need I call but this if I, I have to call pharmacy to get Xarelto.
+Nurse: Yeah cause she put refills on it already.
+Patient: Ok. Um Can I see if I, can you give me the number for the pharmacy? Is that possible? Pardon me? I
+Nurse: Can pull it up. Let me just um get into that screen here
+Patient: Because that usually takes me like 10 minutes to get a hold of somebody when I call.
+Nurse: Yeah. So that's [PHI-Personal], the mail delivery. Yeah. Ok. So I have 800 [PHI-Account], [PHI-Account].
+Patient: And that goes right through to [PHI-Personal].
+Nurse: Yep, that's the [PHI-Personal] Pharmacy mail delivery.
+Patient: Well, I'll put that in my, my book.
+Nurse: Yeah, they said it, I'm thinking that you maybe should receive that medication soon because they sent it on [PHI-Personal] 15th with, for a 90 day supply. So that would get us to around 2 to 344. So around the middle, early, middle of this month. So within the next week or so you should receive another prescription for another 90 days.
+Patient: Ok.
+Nurse: So you should be good right through the summer with this prescription.
+Patient: Yeah. Ok. All right. Then if I call that number, it be the pharmacy in [PHI-Personal],
+Nurse: Right?
+Patient: Ok. And, uh, is that the, the Xarelto, is that the only one that I have to call them for or? Uh? Oh my God.
+Nurse: Yeah, I mean, you fill your other medications through [PHI-Personal] as well. Correct. Ok. So they, they should have them all there for you and they should just send them over.
+Patient: All right, I'm gonna put this number in my book and then I'll call
+Nurse: Them. Ok. Do you have your list with you? Pardon me? Do you have that medication list with you? Can we go through
+Patient: That? No, that's upstairs and I, ok.
+Nurse: Ok. Ok. Yeah, with one of these calls I do need to go through that medication list so I can make sure I know what you're on and
+Patient: Doesn't matter. Um, I can get it if I want me to run up and get it.
+Nurse: Well, is it too far? Pardon me? Is it too far away? Do you wanna just do it next time?
+Patient: Oh, I have, uh, like two months on it.
+Nurse: Yeah. But I'm talking, if I read you the list of medications I have. Can you tell me if you're taking them or not?
+Patient: Oh, yeah. I can, uh, I can tell you if I have them or not.
+Nurse: Ok. All right. So I have metoprolol. Looks like one half tablet, twice a day. Yeah. Ok. And then I have a Tylenol two by mouth three times a day. Yeah. Ok. Omeprazole 20 mg daily. Yup. Ok. Amoxicillin. Before dentist appointment. What
+Patient: Is it? Amoxicillin? No, I don't take, I don't, didn't take that one off. I don't take amoxicillin for years.
+Nurse: Ok. And not even before you see a dentist?
+Patient: No, nobody ever told me to do that for the last, I don't know how many years it's been since I, since I took it.
+Nurse: Ok. And then I have a centrum and vitamin D vitamin.
+Patient: Oh, vitamin D. Yeah.
+Nurse: Ok. Loratadine. 10 mg
+Patient: Daily. A Ativan. No. Cos you,
+Nurse: Pardon me? It's called Loratadine.
+Patient: Loratadine. Yeah. What is that for?
+Nurse: That's like a Claritin for allergy.
+Patient: Ok. I take that. Yeah. Ok.
+Nurse: I've got rosuvastatin 10 mg.
+Patient: And what was that?
+Nurse: Rosuvastatin cholesterol medication.
+Patient: Uh [PHI-Personal], I call it Ro ro ro. Ok. All right. Yeah.
+Nurse: All right. And then I have Alendronate once a week. Yes. Ok. And then LORazepam 0.5 mg as needed.
+Patient: I can't take LORazepam anymore. It, yeah, I don't take it because uh, it just makes me feel like I'm, I don't know it, it just runs my mind so I don't take it anymore. Ok. I told doctor o'neal that too.
+Nurse: Yeah. Ok. I'll take it off for you. Uh, the triamcinolone ointment. It looks like to be used for an itchy area on your leg. It was a short prescription, right? You're probably all done with that one. All right. Ok. And then gabapentin 100 mg before bed to take with for pain.
+Patient: That's a God best for me because I have my shoulders replaced and I had to have the one done the second time and it just, I'm used to being in [PHI-Geographic] for six months when it's cold up here. And, uh, up in [PHI-Geographic] when it's hot down in [PHI-Geographic] and my friend passed away and I've been in the last two years in the winter all the time and my shoulders are nuts. They're driving me crazy. Yeah, I, but I do need that.
+Nurse: Ok. Good. All right. And then I have [PHI-Personal] injection for six months. [PHI-Personal] for your bone density. Ok. All right. Good. And that's everything. Is there anything else that you're taking that you can think of? Pardon me? Is there anything else that you're taking that? I didn't list.
+Patient: I don't think there is. Uh, it's, when you're [PHI-Personal] you don't know whether you should take it or not. But, uh, I take, uh, the Ocuvite for my eyes and then I take Biotin and I have, uh, calcium and all that other stuff and, uh, it's, do you have the calcium down?
+Nurse: Yes, I've got calcium 600 vitamin D.
+Patient: Yeah. Ok. So I appreciate your phone call. I'm, I'm in living with my son in still water and it's in an area where every now and then the phone will click out and that's it. And sometimes I, sometimes it can hear and so that's why I keep asking you what?
+Nurse: No, that's ok. How are you doing with your blood pressures? [PHI-Personal], do you check those at home?
+Patient: My blood pressures have been fine and my weight, I run anywhere from uh, back in the nineties I weighed 257 lbs. Mhm. And my weight has been running from 100 and 45 to 100 and 52. Ok. So that's a few pounds off.
+Nurse: Yeah, just a few. Do you check your BP at home? Do you have a monitor?
+Patient: Uh, my, it's up in the, up in my room, I have monitors and I check it every day and it runs anywhere. So like 100 and 20 100 and 30 something. And uh, it, it's been running good. The doctor said he was well pleased with it the way it was running. I put down everything. Yeah, I do have
+Nurse: Those numbers down.
+Patient: Yeah. What I did was I wrote down, I took this sheet of paper and for a month every day I took my BP and that, and put it on the paper and I took it and gave it to him and he said he was well pleased with it.
+Nurse: Good. Excellent. All right. And then just to make sure that when you do check your blood sugar that, you know, you're seated with good back, support your feet flat on the floor, don't cross your legs and then make sure that you are resting for a few minutes before checking it. So we get a good accurate read. Ok. Ok. So just, you know, things to, to consider when you're doing that and then, you know, about, um, so any symptoms of higher BP, it's always good to keep an eye out for those. Um, so those are things like headaches or dizziness, nose bleeds sometimes or if your face feels really red and flushed.
+Patient: Yeah.
+Nurse: Yeah, those are all signs of high BP. If you notice any of those signs, go ahead and check your readings and see what we have just to be sure. Ok.
+Patient: Ok. I had, I had brain surgery done in, uh, [PHI-Personal] and, and I have a lot, a lot of problems with things from that, but other than that, my BP and all that's pretty good.
+Nurse: Ok. Good. And the monitor you have, is it going on your arm or does it go on your wrist?
+Patient: Um, the arm, the one I have is the one I put on my arm.
+Nurse: Ok. Good, good. Ok. Ok. All right, [PHI-Personal]. Anything else I can help you out with today?
+Patient: I think everything's fine and I thank you for calling me and your name is [PHI-Personal]
+Nurse: [PHI-Personal], huh? [PHI-Personal].
+Patient: Spell it for
+Nurse: Me, Ma [PHI-Personal].
+Patient: Do it again, honey. I'm, oh,
+Nurse: That's ok. So it's Ma LL [PHI-Personal] [PHI-Personal]. Yes.
+Patient: Ok. That's good. I know that I can see how I got married out of this. Like I said,
+Nurse: Some people do.
+Patient: Yeah, the phone, the phone reception here is terrible.
+Nurse: Right. Ok. [PHI-Personal]. Well, I will go ahead and put you on my schedule for next month. To call and check in. But if you need anything in between though, that time, feel free to give me a call and I'll help you in whatever way I can,
+Patient: I will and I do appreciate that.
+Nurse: All right, great. I hope you have a good rest of your day.
+Patient: You too. Thank. Thank you. Bye
+Nurse: Bye.

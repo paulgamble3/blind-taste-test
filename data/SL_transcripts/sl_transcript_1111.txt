@@ -1,0 +1,9 @@
+Nurse: This is [PHI-Personal]. Hi, [PHI-Personal]. It's [PHI-Personal]. Um I want to let you know that I called over. I thought it was up MC urgent care that I went to about my wrist and it was, it's well spa. Um and so when I called over there to inquire about uh sending you guys the records, they said that if your system is tied into theirs that you can see like my visit and the, and the records from that day. Um I know you didn't mention anything to, you know, to me about seeing that, but is there any way you, yeah, I didn't know if you looked or if it was, you know, it, I
+Patient: Did not see it in there. So. Ok, so they should be able to pull it up then.
+Nurse: So it's, yeah, well, and it's on [PHI-Geographic] in [PHI-Geographic]. Oh, ok. So I mean I'll
+Patient: Add to my note to [PHI-Personal] so that will know and that way if they wanna go ahead and pull it, they, they can do that.
+Nurse: Oh, ok, excellent. Thank you.
+Patient: I appreciate that. And it was well, urgent care was well,
+Nurse: Yeah, urgent care wells in [PHI-Geographic].
+Patient: Alright, got it. Thank you.
+Nurse: Oh, you're welcome. Thank you Wendy. Excellent. Thank you Wendy. I appreciate it. Alright, I'll talk to you later. Alright bye bye.

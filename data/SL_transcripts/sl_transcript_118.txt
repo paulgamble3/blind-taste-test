@@ -1,0 +1,7 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Uh Hi [PHI-Personal] returning a care manager, phone call. What was your name? I think it was [PHI-Personal]. Ok,
+Nurse: Hold on just a second. Let me transfer
+Patient: You. Ok, great thanks.
+Nurse: Mhm. She is on the other line. Can I have her call you right back?
+Patient: Yeah, that'll be fine. Uh I number this time. Ok, I'll have her call you right
+Nurse: Back. Alright, thank you. Bye bye.

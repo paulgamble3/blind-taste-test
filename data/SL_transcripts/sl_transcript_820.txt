@@ -1,0 +1,37 @@
+Nurse: Nurse care manager. This is [PHI-Personal].
+Patient: This is calling back. That is not good. I tried calling the woman that did the stimulator fo is not accept any phone calls, call office. We'll put you on, hold on, hold a couple minutes and click like someone hangs up the phone. Oh,
+Nurse: No.
+Patient: And I'm getting mad at him my head. So I don't dare call him back and I'm ready to tell him to go pound himself basically. And you don't wanna bite the hand that feed you.
+Nurse: Yeah. Oh, well, you know what? Let me get
+Patient: That, you know. Yeah, that I tried to call and I called and I mean, I have to speak to the one that took care. Ok. Yeah. And hello. Put you on hold. Correct.
+Nurse: Yeah. Ok. Well, let me see if I can call them back and see if I can get through to somebody or at least leave a message for them to give us a call back.
+Patient: I'm mad, I'm grumpy and I don't wanna, it, you bite the hair and feed it, but it's making it hard not to pay
+Nurse: Something. Yeah, I understand. No problem. Let me work on it. And like I said, then we'll get back to you. If we have any more information for you, we'll give you a call. Ok.
+Patient: Should I, how long should I wait before I go, try and go to town to get that EpiPen? Because I know I should have that to leave it on the country.
+Nurse: Right. Right. I, I,
+Patient: Should I wait until, like, five o'clock or something?
+Nurse: Let me just see if anybody take
+Patient: Time, I don't think, take time. But
+Nurse: Yeah, it doesn't look like they sent it over yet. I know she's waiting for the covering doctor to send things over. So I would give it a little while, maybe later today. If not, they should, should be sent over first thing in the morning.
+Patient: Right. Try five o'clock or something.
+Nurse: Yeah. But you know what, maybe call, call the office back. I won't be here. But you, if you just call [PHI-Geographic] directly, they'll be able to tell you if it was signed by the doctor. And that way you'll know before you drive all the way to Rite Aid. Ok.
+Patient: Thank you. Thanks for hearing me then I, oh, that's my, my, my hope wants to come out.
+Nurse: Yeah.
+Patient: Why I don't want us get in trouble.
+Nurse: No, it's
+Patient: So, it's getting harder to, harder not to get mad and say something.
+Nurse: Yeah. Well, it's been a long road. So that makes sense. So, oh, we'll try, try to get a little bit of relaxation in and like I said, we'll give you a call back as soon as we have any information for you. Ok.
+Patient: Thanks for putting up hearing me and everything. Oh,
+Nurse: You're welcome. I, I like to help and I'm hoping that, uh, we can get you some pain relief soon.
+Patient: Uh, right now it's a [PHI-Personal].
+Nurse: Ok.
+Patient: And so I go, when I get grumpy like this to get road rage. And I, and if I went down the dot doctor's office, you have old age and that. Do you hurt that?
+Nurse: Yeah. Well, I don't blame you. We don't want that, but I don't blame you. I don't want to
+Patient: Have to call you to come bail my ass out of jail. He never heard of them. Oh, well, at least we can laugh about
+Nurse: It. Yeah. Oh, well. Hang in there. Hang in there. Yeah. Ok. Well, I'm glad that you tried to call them. Let me work on it. See if I can get a hold of them for you. Ok?
+Patient: Maybe you could tell him that he don't want to prescribe me any pills. Maybe you could release me to go some something. It's got to be something I can do right? Cannabis or something. I gotta do something. The pain's miserable.
+Nurse: Yeah. Well, I'll work on it and then I'll let you know as soon as I find anything out.
+Patient: Thanks for all you're doing. Thank
+Nurse: You. Welcome. Don. Hang in there and I'll talk to you soon.
+Patient: Ok. Bye bye. Thanks. Bye
+Nurse: Bye.

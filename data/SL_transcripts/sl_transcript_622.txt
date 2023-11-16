@@ -1,0 +1,43 @@
+Nurse: [PHI-Personal] Medical Group. This is [PHI-Personal].
+Patient: Oh, hi, [PHI-Personal]. This is [PHI-Personal] calling on behalf of my husband
+Nurse: [PHI-Personal]. Hi, [PHI-Personal], how are you?
+Patient: Good. Um, we have a concern, um, prior, uh, to [PHI-Personal] going in the hospital, uh, he had always warned the, um, pressure stockings. And, um, in [PHI-Personal] he had a severe case of, uh, uh, cellulitis. He was on antibiotic, intravenous for about four months. Um, after he got out of the hospital, I had been putting the, putting the stockings on him and, um, he started his one leg that he had a knee, the knee replacement and, um, started to swell and now it's, um, uh, I stopped putting the, the stocking on because it was like a tourniquet up by his, at the top where the, the, where the crease of his leg is on, you know, his knee bends. Ok. And so he said, well, why don't we just get some, you know, stretchy ankle socks and, you know, which I, which I did. And they, they started him on a diuretic at, at, um, and it's not making him urinate more frequently than he had before. He only urinates 23 times a week. So, um, I'm concerned now because the leg is swelling more and he's just, and he's developed a few blisters under the skin. Like it looks like it's water filled that you could pop it and it would drain. You know, I would not, which I'm not gonna do by the way. But is
+Nurse: It both legs or just the one?
+Patient: Um, well, actually the, the one leg is much better, more swollen than the other because, uh, I think he had, um, uh, uh, uh, he has a severe veinous venous circulation problem in that leg more so than the other, but he has a condition in both legs. So, I'm wondering, um, who to, who to talk to about this talk, doctor cut or should I talk to doctor [PHI-Personal] or, um, you know, I was going to go to the store today and get him a pair of the pressure stockings and the largest size I can get, I don't remember what size they are bought them all at one time and, um, I didn't save the box. So, um, ok.
+Nurse: Well, let me send a message to Doctor [PHI-Personal] and see what he recommends. Um, which leg is it? That's swollen more so, is it the left or the right, the left, the left? Ok.
+Patient: It's in, it's the one where you had the knee replaced? Ok.
+Nurse: Does he have any shortness of breath?
+Patient: No.
+Nurse: Ok. No. Chest pain No. Ok. Any
+Patient: Cough. But, um, no. Ok. Right now he's, he's on intravenous antibiotic because he has the, this, the uh, infection and the, and the uh wound on his back side. So, um, that we're going into the, the fourth week of uh, the IV antibiotic.
+Nurse: And which antibiotic are you giving him? Do you know what it's called?
+Patient: Uh, yeah, it's, um, it's a piperacillin plus another one that I had never heard before. That's why I don't remember the name of it. I have it in the box here. Let me see. I have this, I have like little kits made up of what I need for each dose. So um it's piperacillin and tazobactam, tazobactam, 4.4 0.5 g in a 100 mL dose. Ok.
+Nurse: All right. I will let the doctor know and see what they recommend for you to do. This is pain.
+Patient: Um Very good. He's only taking the traMADol maybe once, maybe once every other day. Um And, and the, and one thing that that's um worries me also is at Avita. He never sees the doctor every once in a while. He sees a pa um he um so he can't talk to the doctor there um yesterday, I mean, um Saturday when he came home, he was very uh extremely tired, uh a little bit uh brain fog and um you know, I, I don't know what he wasn't experiencing that at Gay Lord and he and, but every time he goes, that, that's how he comes, who, how he returns home,
+Nurse: Like, lately when he comes back from dialysis, that's how he is. He's really tired and he has brain
+Patient: Fog. Brain fog. Yeah. Yeah. That,
+Nurse: Is that a new
+Patient: Thing? No, no. But, but Saturday was especially so, it was more, it
+Nurse: Was more so Saturday. But has that cleared up.
+Patient: Um, yeah. Yeah, it clears up by the next day and, and he, and they're, you know, he, now he, he's on a diuretic. He takes it, um, I think it's one milli one, hold on, takes it twice a day. But it, like I said, it hasn't decreased, hasn't increased his urination at all. Ok. It's Lasix and, um, I have it right here. The vial. Um, where did I put it? Oh, no, I might have put it back in his main, yeah, I put it back in his main medicine box. Ok. Ok. Um, that's in the bathroom because I have everything all in the daily, daily dosage thing. I could go get it if you want, if you want to know the dosage they put in. Uh,
+Nurse: No, I think, uh, I, I think I'll just
+Patient: How much, oh, he says [PHI-Account] milligram tablets. But that doesn't seem right to me.
+Nurse: That doesn't seem right to me. Maybe you need to go look at that because now concern up a
+Patient: Lot. Yeah, he should
+Nurse: Be peeing his brains. Out. I
+Patient: Know. Well, I mean, his kidneys don't work. So I know.
+Nurse: But still, like, my goodness.
+Patient: Yeah, he might be right. I don't know. Um, uh, yeah, [PHI-Account] mg tablets a day on non dialysis days, on the dialysis day they tell him don't take it. But like I said, he's not increasing his, his output.
+Nurse: Ok. So he takes [PHI-Account] mg tablets twice a day.
+Patient: Yes.
+Nurse: Ok. All right. I will um
+Patient: Because I I don't want, I don't want to let this I don't want to let this go when I saw the, you know when I I saw the blistering I said uh oh that's not good. Right.
+Nurse: Right. Alright let me send this over to the doc and see if we can get some answers and uh see if we can get something done.
+Patient: Ok? Um he's um on a good note I've been able we did a physical therapist has been able to uh teach us how to get him in and out of his car so I don't have to put him in the wheelchair van anymore because I hurt I hurt my back last time pushing him up the ramp. Ok? And I wanna get rid of that thing because it's very difficult for both of us actually it's not comfortable for him and it's really hard on me so we're gonna go out to the drugs just take a little draw up to the drug store. So if you. Um, if you want to, um, call me back, you could call me on my cell phone.
+Nurse: Is that the [PHI-Account] number?
+Patient: Uh, that's his, mine is [PHI-Account]. But you can call either number. Zero
+Nurse: 23 O2.
+Patient: What? 3, O2 5. Ok. Ok. Maybe doctor could tell me if he, if he has some advice or whether which doctor I should
+Nurse: Contact. Absolutely. Yep. Let me send this over and I'll get back to you. Ok, thank you. All right. No problem.
+Patient: Thanks. Bye.
+Nurse: No problem. Bye.

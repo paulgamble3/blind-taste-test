@@ -1,0 +1,48 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hello. Hello. Um I'm not sure whether you called me. My name is [PHI-Personal] about my uh care at um, on [PHI-Geographic] at the um, care my doctor, my old doctor's doctor [PHI-Personal], but I have a new doctor but I can't remember what date my um my appointment with her was.
+Nurse: Ok. Give me one second just to look your chart up. Ok.
+Patient: Yes, ma'am. If you need my birthday, it's [PHI-Personal].
+Nurse: Perfect. Got it. So are you still at [PHI-Geographic]?
+Patient: Yes, ma'am.
+Nurse: Ok. You're just not seeing Doctor [PHI-Personal] anymore.
+Patient: No, ma'am. I have a new doctor. I'm scheduled to see but I can't remember exactly what date I'm supposed to go see her.
+Nurse: Ok, give me one second. Let me just, I have to log into that system. Give me one second and I'll, and I'll let you know. Yeah, give me one second.
+Patient: Ok, let me get a piece of paper and pencil so I can write this down. All righty.
+Nurse: So I would, my name is [PHI-Personal] first off. Let me tell you why I was calling you. Um, yeah, let me just tell you that this call is gonna be recorded for training purposes. Ok.
+Patient: Yes, ma'am. No.
+Nurse: Ok. So yeah, I was calling you in regards to a new program that [PHI-Geographic] General is offering their patients and that program is called Care Management. So with that [PHI-Personal], you would receive a phone call from a nurse that works hand in hand with your doctor. The nurse will call you in between your appointments. She'd be able to answer any questions, assist with refills, lab results appointments and anything else pertaining to your health. You would also do that. Yeah.
+Patient: Yeah, that sounds ok because sometimes I forget when my appointment is and, and things like that. If I don't write it on the calendar, I learn stuff like ch
+Nurse: Yeah, I think everybody has a pro has a problem remembering remembering appointments and stuff like that. So it would be, it's nice to have a little, you know, reminder or if you have any questions, you can call your nurse also. Ok. So I do need to tell you that the care management program is a billable service to Medicare, Medicaid and secondary insurance carriers. And those calls are subject to deductibles, copays and coinsurance. Now it looks like you have simply Medicare and a $0 copay. Is that correct? Yes. Ok, great. So looks like your next appointment is going to be.
+Patient: Yeah, so
+Nurse: Looks like, ok, so you're gonna see Doctor [PHI-Personal] on [PHI-Personal].
+Patient: Ok.
+Nurse: At [PHI-Geographic]
+Patient: [PHI-Personal] [PHI-Personal]. Ok. Now, what date is that? I mean, is it a Wednesday or [PHI-Personal]?
+Nurse: So the [PHI-Personal] is a Monday. Oh,
+Patient: Ok. The only thing is on, on Wednesday. I have a Zoom. Um, I'm on the zoom that I, uh, really have to be on and it's on Wednesday. So I try not to schedule appointments then and I know I have an appointment for, with the doctor, um, doctor ran on the, uh, no, that's my eye doctor.
+Nurse: Yeah, it looks like that's on the [PHI-Personal],
+Patient: The [PHI-Personal]. 0 my God. Ok, that, ok, let me see July. I mean, [PHI-Personal] [PHI-Personal], can you tell me what time that is? 8 15. Ok, 8 15. So today is the 12, 13, 14 15. So I'd have to get myself up from here and catch the bus over there to be there on time because I forgot about it and I didn't schedule my, um, my ride and I have to have it three days in advance. Oh, goodness. Oh, well, so you
+Nurse: Called just in time I think.
+Patient: Well, I'm gonna call to see if I can, um, get the, the, uh, transportation. If not, then I mean, I have to get up early in the morning and catch the bus because I know how to get there by bus. But I would rather, you know, go by transportation. So I'll do that as soon as I get to talking with you. Uh, oh, that, ok. Ok. Ok. Ok. That's the, the day is the T 12. So I'll have to see whether they'll give me transportation. If not, then I know what I have to do. Ok. And so that'll be, uh, hello? Ok, Monday, Tuesday, Wednesday, that's [PHI-Personal]. [PHI-Personal], the [PHI-Personal] is [PHI-Personal]. Right. Correct. Ok. Oh,
+Nurse: That's ok. We're gonna get it figured out.
+Patient: Ok. Ok. So that's, uh, ok. And on [PHI-Personal] 26 I go to the eye doctor
+Nurse: And let me go back there. Give me one second.
+Patient: No, I go to, uh, to get my eyeglasses on
+Nurse: The, on the [PHI-Personal]. You have an appointment with Doctor [PHI-Personal]. That's your PC P.
+Patient: Ok. Uh, that's the three, that wait a minute. Oh, that's right. My eye doctor on the, see that what you have to tell me over and over again. Let me write it down. My, I go to the eye eye doctor on the 29th. Ok. Huh. Yeah. So on the 24th at [PHI-Geographic] I go to, um, oh, oh, just put that down and I know where to go by [PHI-Geographic]. So. Ok. Well, my new doctor, Doctor [PHI-Personal]. Ok. How do you spell that?
+Nurse: [PHI-Personal] Hr
+Patient: Hrb A B Ach Ch? Ok. Ok. Uh, at [PHI-Geographic] that's a Monday. Ok.
+Nurse: And then, so do you want me to go ahead and get it, get, get you set up for a phone call from your care management nurse. Yes, ma'am. Ok. And she'll be able to help you keep appointments in line also. Ok.
+Patient: Ok.
+Nurse: Now, is this the best phone number for her to call you at
+Patient: The only phone number?
+Nurse: All right, and then your address so I can mail you some welcome information. I have 1 O2 East Paterson Street. Apartment 307, [PHI-Geographic] Florida. 33604. That's it. All right, perfect. So I'm gonna go ahead and get this all set up for you. Um your new doctor doctor is gonna see that you're taking advantage of her new program and your nurse is gonna call you for your first call in the next couple of weeks. Ok. Ok. Alright
+Patient: Lyn until I get uh uh a number in the phone for her so I can put the name on it if I see the number and I don't recognize it just leave me a message and I'll check my messages and then I said oh that was my doctor I got the record put that in the phone and then I'll call her right
+Nurse: Back so what I'm going the information that I'm gonna mail you will have your nurse's phone number listed on the letter. Ok.
+Patient: Ok. Yeah. Right. Call this way. Scam calls that way and I do my best not to answer them but they don't have if they're not locked in my phone is what it is and I don't wanna miss something important because I'm thinking, oh, that's a scam call and not
+Nurse: Right. I do the same thing. I get it. It's, it's, it's terrible that we, we can't, you know, trust who's calling us anymore.
+Patient: I mean, really, it, it's, it's getting so that you can't even trust your own phone. Right. You know, you have to go with the flow and with the mom used to say and I don't, it's gonna be ok and I, I thank you for um helping me out and everything is gonna work good and I got it written down and I'm gonna take business ticket. I know it, it won't disappear.
+Nurse: Yes. Yes. And like I said, your nurse will be able to help um keep things in line for you as well. Ok?
+Patient: I really appreciate that and it's just like a piece on my mind because you know, this world is so full of everything and when the negative comes at you and I'm trying to be positive about certain things. It's wonderful when you get the help that you need. So when you're up there and you're in the atmosphere and you're swelling your hands and you trying you calm down, you put your feet on the ground and then here comes somebody walking towards you, I'm here to help you and it just, it just makes your day so much better, you know. Yes. Good. II I really appreciate it.
+Nurse: Of course, no problem at all. We're here to help and your nurse will call you in a in a couple of weeks. Ok. Ok. Alright, [PHI-Personal], you have a great rest of your day.
+Patient: Ok. And you too dear. Thank you. Thank you. Bye now.

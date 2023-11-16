@@ -1,0 +1,51 @@
+Nurse: Good morning care management nurse [PHI-Personal]. How can I help you?
+Patient: Oh, I'm looking for [PHI-Personal].
+Nurse: I'm sorry. Um could you repeat that for me please?
+Patient: I'm looking for s
+Nurse: Um she is not available right
+Patient: Now. Vacation.
+Nurse: Um No, so she is no longer with the company but my name is [PHI-Personal] and I can help you. Oh, she
+Patient: Didn't say goodbye.
+Nurse: No, it was um rather abrupt due to some personal matters, but my name is [PHI-Personal] and how can I help you? Are
+Patient: You gonna be my permanent?
+Nurse: Um No, it looks like right now we are all pulling together for her patients, so I'm not sure who you're gonna be assigned to just yet.
+Patient: Oh, well I just got out of the hospital yesterday. I don't know if they're gonna have a nurse check on me for a few days.
+Nurse: Ok, give me just a moment and could you please verify your full name and date of birth for
+Patient: Me? [PHI-Personal]? [PHI-Account].
+Nurse: Ok. Yeah, give me just a moment while I get your information pulled up. All right and you said you got out of the hospital yesterday?
+Patient: Yeah. Yes, I have a caregiver. I'm blind.
+Nurse: Ok. Hi, I'm [PHI-Personal]. I am one of the nurses jumping in helping out all righty. So let's see. Have, um, have you scheduled up your transition of care visit with the office yet?
+Patient: Oh, that's what I thought I was doing now.
+Nurse: Ok. Well, let me send a message on over to the office and see about getting you scheduled.
+Patient: Um, I have an appointment next Tuesday. Um, one time
+Nurse: It looks like it is at 11 a.m. However, when you are discharged from the hospital, we do like to see you within like the 1st 2 to 3 days.
+Patient: All right, last time. Well, I'm not up to running around yet. Uh they got us messed up at the hospital. I think I thought rehab was gonna be set up for me and I don't think they have it set up at all. Ok. So I don't know what's happening with that. And last time I was in the hospital, I came home, they had a visiting nurse that came in for a few days.
+Nurse: Ok. Well mister [PHI-Personal], let me do this. Let me go ahead and um reach out to the office just to make sure that they do want to see you for the toc I will
+Patient: Review, I can make it there Tuesday but I ok right now. No, I don't want one to run around.
+Nurse: Ok. Um let me reach on out to them, let them know that you're not up to it. You wanna do toc on Tuesday for your regularly scheduled visit and that you have some concerns about
+Patient: The rehab
+Nurse: And you said you had concerns about physical therapy or
+Patient: We called the swing door at [PHI-Geographic]? Mhm. In [PHI-Geographic]. Mhm. That's who I was supposed to have it through, but I don't know what's happening with them. The house [PHI-Personal], I was gonna have therapy there and then the insurance company wasn't coming around, so I decided to come home. So I don't know what's going on.
+Nurse: Ok, let me um take a look. So a quick recap of what we just talked about Tuesday. You want to have your visit all in one on Tuesday because you're not feeling up to it right now, which is perfectly understandable. You are wondering what's going on with the physical therapy and you said that's called swing door?
+Patient: Yes.
+Nurse: Ok. And
+Patient: [PHI-Geographic]
+Nurse: At [PHI-Geographic].
+Patient: Well, that U PM [PHI-Geographic].
+Nurse: Ok. All righty. And was there anything else that you wanted me to look into?
+Patient: Well, that visiting nurse or whatever?
+Nurse: All right, the visiting nurse. So home health mister [PHI-Personal]. Are you still there? Yes. Ok. So that's your appointment on Tuesday? Physical therapy? A swing door at um N PC [PHI-Geographic] and your home um Home health.
+Patient: Yeah. And the physical therapy they were gonna do it at home. Mhm. I don't think any of that set up yet. So I don't know.
+Nurse: Ok. You said you got discharged yesterday? Yes. Ok. So be on the lookout for a phone call from them. Um, if they did order it, they should be reaching out to you soon. I know sometimes they like for you to get back home and get
+Patient: Settled and I guess to go, you, I'm sorry, go ahead.
+Nurse: I'm sorry. Um, your caregiver, is she on speaker phone or she still nearby? I'm right here. Hi. Um,
+Patient: So,
+Nurse: Hi Kay. So when he got his discharge packet, um, usually the last two pages, as you know, we have like what services he's been set up for? Is there anything in the back of that packet about physical therapy or home health? Um, let me look here. We were putting stuff away. So I haven't really looked at it just yet. Um, outpatient referral therapist or referral requests. He has that and, um, and he has occupational referrals. Is that what you're looking for? Yes. All right. And let's see. All right, I will send, I'll call the office, get with their, um, transitional care nurse because she's the one that typically handles all these referrals, um, that the office or excuse me, that the hospital wants to put in. So I'll let them know that I did reach out or I did receive a call from you all and she may be calling y'all herself. Ok.
+Patient: Where are you at?
+Nurse: I work from home but I have access to the office and their
+Patient: Systems. Oh, I mean where at,
+Nurse: Where do you live asking you? I live in [PHI-Geographic]. Oh, I
+Patient: Can hear the accent.
+Nurse: Alrighty, Mister [PHI-Personal]. Well, I'll be giving you all a call back. Ok.
+Patient: All right. Thank you.
+Nurse: You're welcome. Bye bye.

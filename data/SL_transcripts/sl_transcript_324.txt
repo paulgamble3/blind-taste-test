@@ -1,0 +1,40 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]
+Patient: [PHI-Personal]. Uh This is [PHI-Personal] calling. Um I was calling for [PHI-Personal] but if she's not in maybe you can help me.
+Nurse: Yes, ma'am. [PHI-Personal] is actually no longer with the company. Um, but I took over all of her patients and her panel, so I would be more than happy to help
+Patient: You. Ok. Um I was supposed to call in with BP readings and for [PHI-Personal].
+Nurse: Ok. Give me just one second. Now, what was your name again? [PHI-Personal]. Can you spell that last name for me?
+Patient: Moy? [PHI-Personal],
+Nurse: All right. Give me one second to get your chart pulled up. Ok.
+Patient: Sure. Mhm. It was running a little slow.
+Nurse: Ok, let's see. Here. There we go. Ok. So [PHI-Personal] wanted you to call and report your BP log.
+Patient: Uh Yeah, it's about 10, 10 or 12. And what, what I do is, uh, at a sitting, I usually take about three readings. So, do you want all three readings for each setting or do you just want the first one for each one? Um,
+Nurse: Let's just do the first one for each one. Let me let me get my pen and paper ready here one second
+Patient: Be because, because usually the longer I sit, you know, the lower, usually it goes a little bit lower but a little
+Nurse: Bit lower.
+Patient: Um, yeah, but that's ok.
+Nurse: Well, uh, or if you, ok, so let's do it this way. If you're saying that, like you sit down and like, you wait about five minutes and then you're taking it, let's do that last reading because then the first reading may be too high if you've not like, you know, because when you take your BP, you want to sit and like, you know, not have your legs crossed and like sitting still for a few minutes before you take it.
+Patient: Ok, so let's do the last reading. Yeah. Ok. Um, I'm gonna start with, ok, let me start with, um, [PHI-Personal]. Ok. And it was 4 30 in the afternoon and the last one was [PHI-Account]. Ok. Over [PHI-Account] it's past. Ok. Ok. The next one was [PHI-Personal] at 2:02 p.m. It's [PHI-Account]. Ok. Ok. And then I this one is the same day the [PHI-Personal] and I took it at nine o'clock at night and that one was 1 42/82 [PHI-Personal]. Ok. Ok. And the [PHI-Personal] at 8 15 was at 9:15 p.m. PM. Yeah, 1 39 83 61. Ok. Ok. And [PHI-Personal] at 8:20 p.m. was 1 36 72. It was [PHI-Account]. Ok. And then the 19th was 1 30 s uh this is at 2 30 in the afternoon. [PHI-Account] [PHI-Personal]. Ok. And [PHI-Personal] at [PHI-Personal] PM is the last one was [PHI-Account]. Ok. And the [PHI-Personal] at 2:30 p.m. [PHI-Account]. Ok and let me see something just excuse me a minute, you're fine. Sorry I just got a tickle. Ok, did I give you? Ok let me go to [PHI-Personal] at 8:30 p.m. and it's [PHI-Account]. [PHI-Personal] at 30 at 3 p.m. It's 1 27 82 63 and the last [PHI-Personal] at 2 15 P PM was 1 29 75 71 usually in the evening it seems are a little bit higher but I don't know why. Ok.
+Nurse: All right. So and then looks like you're going to be seeing [PHI-Personal] on the 26th of this
+Patient: Month. Yes. Yes and I um I was supposed to do blood work and I I did that today so that'll you know get faxed into her today maybe I guess. Ok.
+Nurse: Alright and you got. Yes ma'am go ahead
+Patient: And your name, first name again [PHI-Personal]. [PHI-Personal]. Yes ma'am.
+Nurse: Ok. Um so while I've got you on the phone because I would be calling you this month anyways. Um, let me just make sure you haven't had an address change. You're still at 1845. Is that or,
+Patient: Or? Yes? Ok.
+Nurse: Let me confirm that. And then is your insurance still the same? Did you have any insurance changes?
+Patient: No. Ok. All right.
+Nurse: And then one of the things, um, so I will type all this out and I will send it over, um, to the office. So they will have a record of that. Um, as far as like your, you've not been having like any dizziness or headaches or anything, anything BP related during these readings or before or after.
+Patient: No, everything's been pretty much the same. I mean, I've been having problems with my, with headaches and different things because of the, um, um, oh, what I had, I can't think of that either right now, uh, above my eye. I had the shingles years ago and I, I have these after effects. So I'm on, you know, I'm on medication for that for the nerve pain, for nerve pain and stuff like that.
+Nurse: So, what I'm gonna do, um, after we get off the phone is mail you your [PHI-Account] Wellness Goals, um, which is basically just a checklist of things, um, for reminders for the year. So, like everything that you normally do throughout the year with your provider. So, like going to your appointments blood work, things of that nature. Um, it's just good reminders to, you know, to have things for us to discuss and look, you know, work through, through the year. Um, let me, why is my computer drive me nuts? All right. So, I see down here under specialist it looks like, do you see the podiatrist regularly?
+Patient: Podiatrist, you mean for your, like feet? No. No.
+Nurse: Uh, what about, do you have your eyes checked regularly?
+Patient: Yes, I do. I do the dentist, you know, once a year, twice a year right now. It depends.
+Nurse: Um, what about gynecology? Do you see them for anything?
+Patient: I see them, um, uh, every year, uh, no, twice a year because I have a, um, uh, what do you call it, um, inserted to help with the, um, uterus, you know? Um, I can't think of the, yeah, what you, what
+Nurse: About, um, hematology and oncology? Are you seeing them this year for anything?
+Patient: Yes, I have regular appointments and then in [PHI-Personal], I think [PHI-Personal], let's see, um, couple of em, you know?
+Nurse: Ok. All right. Well, I will add those as well. Um, and then, like I said, you'll be getting that in the mail and then in the meantime, as far as like your medicines and stuff is everything. Are you ok on those? Do you need any refills for anything right now?
+Patient: Um, for you, I will be, but that's not under you for my, uh, cancer medication. Um I will be I think I will be needing an approval for that but that's under that's not under you um it's a different one ok? Yeah it's main and it's under doctor. Yeah so
+Nurse: Well um so if you need it like you just call that number like you did um it'll just me be me instead of [PHI-Personal] um but if you needed anything at all you just call me anytime ok? And I'll get this sent over.
+Patient: Ok? Well, thank you. Alright.
+Nurse: Well I hope you have a great
+Patient: Day. Thank you and you too. Alright. Thank you. Bye bye bye.

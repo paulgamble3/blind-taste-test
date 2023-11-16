@@ -1,0 +1,56 @@
+Nurse: Good morning. This is [PHI-Personal] nurse care manager. May I help you? Um, yes, I was trying to reach [PHI-Personal]. Oh, ok. Just a moment. Let me see if she's available. Ok. Mhm. May I tell her who's calling? It's [PHI-Personal]. Ok. You might be on the other line. [PHI-Personal], I'll check real quick here. Ok. Are you just returning a call to her or do you have a need? I'm returning her phone call. Ok. All right, [PHI-Personal], I'm gonna try to transfer you over. If we get disconnected, she'll call you right back. Ok. Ok. Thank you. Mhm. Absolutely. Hello. Hi. Hey, you're calling back. All
+Patient: Right. Awesome. So
+Nurse: You there? Yeah, I'm here.
+Patient: All right, we're just learning how to transfer to each other. So, um, yeah, I just sent her the little fy, I, you know, he did take a traMADol a couple days ago. Um, I said a couple of days ago but I don't know if that was correct that I heard
+Nurse: That I think I was, I was able to take one yesterday
+Patient: Yesterday. Oh, I, a few days ago counts. So if I'm not specific, then they kind of have to they get mad at me, but that's ok.
+Nurse: I had three left and I literally took one each day this week that I could. Mm.
+Patient: Ok. Oh, you're in, you're in a lot of pain?
+Nurse: Yeah. They just gave me a Toradol shot down there. Oh, yeah. And she took me out for the day. So, yeah. Oh,
+Patient: Good, good. Well, you know, rest up. Um, so you're reported like to, right? Gave the injection the Toradol. Ok. So they know that you're in pain? Ok.
+Nurse: Um, yeah, I had to call out of work today. I just, I can't do it today.
+Patient: Oh, gosh. Well, I mean, you've been running ragged, you're doing, I mean, you just finished schooling and testing. I know you're working. Yeah. And plus it's not easy when you have, you know, physical issues. So, I commend you for going, you know, this long without taking a day off.
+Nurse: Well, they're, all, my work is also not to be happy with me because when I drive out my note later today, um, I'm also putting in my two weeks.
+Patient: Did you find something better?
+Nurse: I did.
+Patient: Oh, good. Well, then that's totally fine. You do. You
+Nurse: Up MC actually hired me?
+Patient: Get out? Oh, wonderful. That is great. Congratulations.
+Nurse: Thank you.
+Patient: Yeah. Now, don't stop until you can get one of my jobs where you just sit at a desk all day.
+Nurse: Yeah, that's fair. Mhm.
+Patient: Mhm. It's the best job, the best job. So,
+Nurse: Uh, so I've gotta turn in my two week notice when I take this out because I'm in that job and starting at the hospital. So. Oh,
+Patient: Good, good. Yeah. What is it like in a, um, do you have a specific area or? You're gonna be like a floater?
+Nurse: Um, I'm actually gonna be working for the med surgical unit at 40.
+Patient: Nice. Very
+Nurse: Nice. I'm actually going in as a patient care technician, So I'm gonna be higher up than the CN A.
+Patient: Oh, nice. Oh, my, congratulations.
+Nurse: Thank you.
+Patient: Yeah. Yeah. So I, I couldn't do it. I, I did my experience and then I got out of there and they said you have to do a year in a hospital before you could go anywhere else. I did my year and as soon as my year was up, I was out of there. I did home health.
+Nurse: Honestly, it's gotta be better than long term care.
+Patient: I, I do believe that. Yeah. Yeah, because you have a lot more patients who can actually, you know, I mean, it's ur, so you get a, a hot podge of people but you'll have a lot that can convo on their own and you don't have to worry about, you know, turning frequency because they're just gonna offload by those, by themselves
+Nurse: Pretty much and they're only gonna be, the patients are going to be rotating so often because they're usually only there for a day or two. So,
+Patient: Yeah, it's crazy. It's fast paced. But some people like, really enjoy that.
+Nurse: I think it'll be a good change for me. I
+Patient: Think so too.
+Nurse: And what I hear is not as back breaking as long term care.
+Patient: No, I mean, you have that, well, every, I think every one of the health care facilities now, like whether it's long term or um hospital stay, they have the, the devices now to, to assist. But, um, even if you need, if you needed like help, um, there's more like, uh, that you're gonna actually have somebody who's got some down time that could help you, like either turn a patient or to, you know, do care for them, you know, or you get the nurses, you gotta figure out which ones are cool and which ones will help you versus which ones, you know, are just like you do. You so pretty much. Mhm. Mhm. Oh, I just, who's calling me now? So, yeah, I let her know, I will give you if she calls, I just said to her if you know, if you need me to, you know, go over anything or, you know, just tell him. Yeah, that's ok. We got it. No problem. Let me know or if there's a problem and you need to contact him, he's home all day. Excuse me, more coffee. So, no worries. No worries. If, for some reason they're, you know, very big sticklers about it. They, they kind of have been, um, you know, it's not like she's gonna discontinue. Um, yeah, she's not gonna discontinue but I think it's a three strikes your out policy. But I, they never taught me their policy so I don't know it for sure. It might be a two but either way you don't have any strikes aga against you. So you're fine and the medication was prescribed from, um, a provider. It's not like you went out and bought heroin. So I think it is a little bit different if they have documentation that you were prescribed this medication as needed.
+Nurse: Ok. Sounds good.
+Patient: Alrighty. All right, I'll let you go. Oh, before I let you go do you what is your address? Do I have it? Right. Let me see here. 1 60 [PHI-Personal]
+Nurse: [PHI-Geographic]. Yeah.
+Patient: Ok. All right. Not changed and so far the insurance is still good at [PHI-Personal] with [PHI-Personal].
+Nurse: Uh As far as I know I've also got Highmark of Western [PHI-Geographic] um through my work. Oh, ok.
+Patient: Well I wouldn't you're you're given your two weeks though, right? Yeah. Yeah, so I'm not even document it
+Nurse: And there's probably a good chance I gotta give my two weeks and they're probably gonna terminate me.
+Patient: Uh of course, if they're that mean and non professional then let them terminate you.
+Nurse: Yeah, honestly at this point I really don't care. Mhm. Exactly. Can't deal with it anymore. They're not addressing the short staffing, they just keep short, putting, numb the staff on every day.
+Patient: I, it's terrible, isn't it? Like we
+Nurse: Need, one person cannot take care of 37 people.
+Patient: No, it is impossible. Impossible. Did you tell you what? I worked in a nursing home. I did a stint there for about like, um, a year and they had two wings on each floor. So there was usually like one for each side of the wing. So that was a total of about like eight patients that was doable, you know, like it was still stressful but it was doable. Um they were nuns who ran this facility and they like they ran it so well and everybody got along like everybody wanted to be there. But unfortunately because they were doing this for so long, they lost a lot of money. So they had to sell it to this for profit facility and so this for profit bought it and then they wanted to do one aide for 20 patients. So like it was like one per wing and then one time we were so short staff, there was only one girl for the entire floor for the 40 patients. It was impossible. It was impossible. I was the aide for the day. I was like, you know, I was a supervisor, there was a nurse on the floor. I said, alright, you take that wing, I'll take this one. But after that, I was like, no because you're not, you're not taking care of your, your employees all. So,
+Nurse: Not at all. And that's exactly what my work's doing now. They're not taking care of us. They're not making sure that we've got enough staff. There's days when we don't get our breaks.
+Patient: Mhm. Terrible. Nobody wants to work in there either. Like, why would you wanna come to a place where, you know, that you're not gonna be taken care of?
+Nurse: Yeah. And it's, I, I just, I can't do it. I can't physically, mentally every day. I come home. I wonder if I did the best that I could. Like, I, I never feel like I get ahead. I never feel like I'm actually giving the residents each one their, the time that they deserve. Mhm. And it's just, it's ridiculous. Showers haven't been getting done because we don't have staff. Yeah. Mhm. And it just, it's one bad thing after another. So I, I just, finally I started looking a couple weeks ago and I wasn't, I, I applied out at Heritage and I applied at the hospital and those were the only two places I really applied and I had a job offer from both. Mhm. And I chose the hospital. Nice. That's from what I hear. Heritage isn't any better on the staffing.
+Patient: Yeah. No, this uh heritage is getting really bad too.
+Nurse: So, yeah. All right, I will let you go.
+Patient: Alrighty. You take care. I'm gonna send you wellness calls just fy I um the yearly ones don't worry about them, you know the yearly paper. All right you take care. Alright, welcome. Bye.

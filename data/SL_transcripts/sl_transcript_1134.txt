@@ -1,0 +1,49 @@
+Nurse: Thank you for calling. This is [PHI-Personal]. How can I help you?
+Patient: I should barely hear you. Ok,
+Nurse: Let me, let me adjust my microphone here. I'm talking with a headset now.
+Patient: You're doing good. Is that any better? That's perfect. Thank you. Ok.
+Nurse: Ok.
+Patient: Ok. This is [PHI-Personal] uh two things. Uh yesterday day before. When was that Wednesday? Yeah, Wednesday, I think I was having a heart attack or a stroke or something. Let me ex let me explain. Oh, on Wednesday, I was working on a vehicle just, just nothing working. No major thing and I got real weak and I saw it. I felt it, my body and I said that's it. I stopped. I went and I sat down, I was sweating like hell below my chest all the way across and that's the only place. And so I sat down for an hour and then I went back up and I, I was ok. What happened?
+Nurse: Did you eat?
+Patient: Oh, yeah.
+Nurse: Did you eat while that episode was going on? And then you felt better when you went and sat down? Did you get let
+Patient: Me Oh, no, I was working on my vehicle there was no food there.
+Nurse: Ok. I'm just wondering if you had a low blood sugar because that's a good sign. Weakness and sweating real bad. That's a good sign you had, might have had a low blood sugar. Ok? Because you recovered, you know, after a bit you recovered. Did you
+Patient: Hear?
+Nurse: Huh? Did you drink anything
+Patient: Even? No, I don't drink, I don't. Water is about all I drink. Milk, water and
+Nurse: Milk. You didn't have a pop or anything with sugar in it down in the garage.
+Patient: How many times can I say this? This is the last time I ain't nothing. I had no, no goodies. No, nothing. It just happened. This isn't the first time. It, no.
+Nurse: So why don't you go to the, er, if it's happened more than once?
+Patient: Well, that's what I'm thinking is, should I, shouldn't, I,
+Nurse: Well, you need to go when you're having the episode, that's for sure.
+Patient: Well, by the time I get to the, er, by the time I get in there when you go they ask you all this bullshit, you go in there and check it out, it's gonna be gone.
+Nurse: Yeah. But the email, if you go by ambulance, the Ems will check you right away because if you're, if you're feeling that way, you don't need to be driving.
+Patient: I don't know. I don't think I'm gonna be going to the, er, especially here. The one up here in. Yeah, I would never go there. That's, that's, that's a joke, that place I was there with my, I was there with my sugar problem once before, maybe two years ago. And that was a joke. They didn't know what they doing. They had these kids running around. Uh, no, never happened again.
+Nurse: Where you can make an office appointment.
+Patient: Ok. Now, very good. Now, tell me that when you make an office appointment, how, how long does it take to get in there? That's a good question.
+Nurse: Now. Well, if you wanna see if you'll see one of the physician assistants, you probably get in pretty quick.
+Patient: That is no answer. I don't understand.
+Nurse: Doctor [PHI-Personal] doesn't usually have early, you know, appointments that you can schedule and get in pretty immediate. But the physician assistants that works with him, you probably can get in with one of them.
+Patient: Ok. Now I'm understanding what you're saying. Very good because I know a lot of those assistants are an absolute waste. So, uh, ok, let's go to another one. Here's the other one. This is the easy one. Ok. Oh, I'm going, I'm going down to see my heart doctor on [PHI-Personal], down in, yeah,
+Nurse: The [PHI-Personal] of [PHI-Personal]. Yeah. Ok. You need to tell him about those episodes that you just told me about.
+Patient: I know that's what I just said that I'm gonna go and see him and give it that information to him
+Nurse: About that.
+Patient: Now, the next one this one is the easy one. I need dental work. Where do I go?
+Nurse: Uh, probably we'll have to check with your insurance to see who's in network for your insurance company to cover it. So I
+Patient: Would, you know, you're not ok, you're, uh,
+Nurse: Well,
+Patient: Doctor [PHI-Personal] is doing what I do with my insurance. So you don't have anything? Well, I don't, I don't have
+Nurse: Anything to do with the insurance. You just need to call the customer service number on the back of your card and ask if you need dental work. Who do they have in the network?
+Patient: Very good. That was the only other one. Got a heart attack. So, uh, think what should I do? Did I do the right thing? Just sit down and relax. Is there something else I should
+Nurse: Do? You should, you should have probably gone on to the, er, because you're not sure what it was, you should have been checked out, but do me a favor. Is there any place where you work on cars where you can store candy bars? Something sweet in case that happens again and then you eat that and if you recover after you've eaten that it more than likely was blood sugar.
+Patient: That's an assumption. So I'm just saying,
+Nurse: I'm just saying if you just have some candy down there wherever you're working at, on your car and because those symptoms that you're telling me are signs of a low blood sugar you felt weak, especially the sweating, big time, low blood sugar symptoms. Both of those. Did you feel tired the rest of the day?
+Patient: Oh, yeah. But that's normal for me. I, I, yeah, there was another one. Why am I always so tired? And I don't wanna do anything.
+Nurse: Mhm. Well, you need to, if, write all those down, if you need to, to take to your, uh, cardiologist, that way you don't forget to tell him all that. I would write them
+Patient: Down. I surely will.
+Nurse: Ok. If it happens between, if it happens between now and when you see your cardiologist, I recommend you go to the, er, that'll have to be your decision. But my recommendation is you need to go to the, er. Mhm. But they are signs of low blood sugar just to be, just to be prepared in case it happens again, have candy available to you. A candy bar. Um, something with some sugar in it. Little cans of orange juice somewhere, little cans of sugary pop just so you can get some sugar in you and see if it helps you come out of that.
+Patient: Well, this should help. I'm, I'm eating some, uh, chocolate bar. Mhm. A lot of sugar in there.
+Nurse: Yeah, there is, there is.
+Patient: Ok. Thank you. And that you, you have a great day. Bye
+Nurse: Bye.

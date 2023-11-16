@@ -1,0 +1,17 @@
+Nurse: Hi, good afternoon. This is [PHI-Personal].
+Patient: Hi [PHI-Personal]. This is [PHI-Personal] for hi, how are you? I'm doing well, thank you. Good.
+Nurse: Go ahead. How can I help you?
+Patient: I'm calling because I'm on my last box of Trulicity.
+Nurse: Ok, let me pull it up real quick just to make sure we got everything correct. All righty. So I've got the Trulicity and you're still just taking it's 0.75 mg once a week into the skin. Yes. Ok. Alrighty, I think yeah, it should be time for a refill because I think the last time they sent it was in [PHI-Personal]. So um what is the pharmacy that you send this to?
+Patient: I don't know the name of the pharmacy. Uh
+Nurse: Let me see. I know the last time it looks like it was sent to the Tria Special Pharmacy.
+Patient: Ok, I I got out of it after I had such a hard time um get it a refill so I'll let you guys take care of it.
+Nurse: Ok, let me see here. I know that it looks like that's the last place it was sent to. Um let me see. Is it, do they deliver it to you.
+Patient: Yes, they do. I thought it was an automatic refill but apparently not.
+Nurse: Um So whenever the like provider they send in a prescription, like I know it looks like the last time they sent this, they had one additional refill. Um but whenever that refill runs out, you're like, you have to notify us or whatnot because we have to send just like a whole new prescription basically. Um But it's, it's, it's no issue at all. Um, I'm gonna just double check and look in the chart and see if there's like any note of it being sent to a different pharmacy or anything like that. Um, let me see real quick. Oh, what? [PHI-Personal]. And I can also call and check with that pharmacy too just to check all the boxes. Let's see, because I know it looks like for your other medications. Do you normally use CV S? That's correct. Ok. Well, I'll call the specialty pharmacy and just confirm and make sure that was the last place that, you know, delivered it to your house and then, um, we'll send a new prescription for it.
+Patient: All right. Thank you so much. Yeah,
+Nurse: You're welcome. Is there anything else I can do for you?
+Patient: No, I'm doing fine, thanks. All
+Nurse: Right, sounds good. Well, if you need anything else, just give me a call back.
+Patient: All right. Have a good weekend. You too.
+Nurse: Thank you. Bye bye bye bye.

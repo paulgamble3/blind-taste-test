@@ -1,0 +1,12 @@
+Nurse: Good afternoon. Thank you for calling Care Management. My name is [PHI-Personal]. How can I help you today?
+Patient: Uh Hi, my name is [PHI-Personal] and I received this letter from you and um to be to become uh to participate in a program. Are you calling me once a month?
+Nurse: Yes, let me pull your information up here and thank you for calling back. I do wanna inform you they are recorded for quality purposes um with uh so yes doctor is providing a care management which is a call uh in Behavior Health, which is a call from our dedicated nurse where she checks in, in between office visits. She'll answer questions or concerns. Assist with medications, lab results, community resources. Anything pertaining to your health. The nurse is an added resource bill service to Medicare, Medicare Advantage plans and secondary insurance carriers subject to deductible copay co insurance, the device. It's um sorry with your insurance. Looks like you have the ing your gold.
+Patient: I'm changing for next year but I'm going to the PPO plan.
+Nurse: Ok. Ok. Not a problem. Um So now would you prefer if the nurse gave you a call in the morning? Or afternoon, [PHI-Personal].
+Patient: Oh, you can call me in the morning. I'm usually here at my table until 10 or 10 30 in the morning.
+Nurse: Perfect. Ok. Not a problem. And I'll go ahead and mail out some information which I have as [PHI-Geographic] Gan station [PHI-Geographic].
+Patient: Right?
+Nurse: Perfect. All right. We are all set. I appreciate your time. So you have a great day and stay safe.
+Patient: Ok, I go to doctor tomorrow for my wellness check up. So
+Nurse: Excellent. Thank you very much. Have a great afternoon.
+Patient: You too. Bye bye.

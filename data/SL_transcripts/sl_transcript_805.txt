@@ -1,0 +1,14 @@
+Nurse: I mean, I don't remember every
+Patient: Care management. This is [PHI-Personal]. Hi,
+Nurse: [PHI-Personal]. This is [PHI-Personal]
+Patient: Returning your call. Oh, hi, [PHI-Personal]. Thanks for calling me back. Hang on a second here. Let me just get into mom's chart. Can you just verify mom's birthday? [PHI-Personal] 9, 1938? All right. Thank you. And let's see, [PHI-Personal] said that she would like her to be seen this week with someone like she said it like basically if it's not her somebody else because she's worried that she could have sepsis. Um since it's not good that she's ingesting fluids, um you know, U sepsis, you know, could be serious. Um could have pain, you know, the kidneys on the lower sides of your back nausea without vomiting, extreme fatigue, reduced urine confusion. Um So let me see. All right, let me just get into these appointments here. Um and just bear with me because honestly, the the the end system does not always cooperate with me to set appointments and sometimes I have restrictions like I'm not gonna get rid of the appointment that she has with her later on in the month. Oh, yeah, because they
+Nurse: Because yeah,
+Patient: Yeah, because like she, she really may need to still follow up then too. You know what I mean? So, I don't wanna mess with that too much, but let me click on [PHI-Personal] and see if there's any day this week. I mean, sh, well, tomorrow is the, let me see, we're already like, I can't believe it's like Thursday. I, I'm still thinking it's like Monday, the first week is
+Nurse: Gone. I mean, yeah I work Tuesdays and
+Patient: Thursdays. Yeah, there's nothing available today so let me just see. [PHI-Account] anything then? No, she must have nothing. All right let me click back out of this and we're gonna try let's try Doctor [PHI-Personal] continue. Ok, great. Thank you. I'm just scrolling down to see if he has anything open today. All right I don't see anything from today. Let me check for tomorrow.
+Nurse: [PHI-Personal]. Ok. Mm so you have two on Tuesday.
+Patient: Yeah he doesn't have anything tomorrow. Let me see about Doctor [PHI-Personal]. Mhm. Mhm. Mhm. Yeah
+Nurse: I don't know why he's on the Monday on Monday if you guys at the court. Ok.
+Patient: [PHI-Account]. Yeah, Doctor [PHI-Personal] has a [PHI-Account] tomorrow.
+Nurse: [PHI-Account]. Yes, that's
+Patient: That's fine. Alright, so I'll put her in for 2 45 tomorrow and we'll see you then. Ok, thank you. Oh thank you. You're welcome. Have a great day. Bye bye. You too. Thanks.

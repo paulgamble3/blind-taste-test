@@ -1,0 +1,32 @@
+Nurse: Hello, this
+Patient: Is Hey [PHI-Personal], how you doing? This is calling back.
+Nurse: I am wonderful. How are you?
+Patient: I'm good. I've got everything on the table in the kitchen. And when I opened that box, [PHI-Personal], the antenna was not in there. The only thing I got is the antenna you sent me that last time and the first one, you know that y'all sent me, I got everything on the table in the kitchen.
+Nurse: All right.
+Patient: So, so when the, when the box came, you called, you had called me that was [PHI-Personal] or Tuesday and you said uh the, yeah, uh uh the cup is there and I got it open it up and that, you know, the brown box that you, the antenna used to be in. It wasn't now in that box, it was just the BP cuff and you know.
+Nurse: Alrighty, then we're gonna see if we can maybe work with the old antenna and see if it's working.
+Patient: I plugged it up yesterday and I took my pressure know, you know, the the the pressure is reading on the cup but not that blue light did not come on at all. Um I got everything in the kitchen. You know, because, uh, when you'all told me to keep it plugged up, I said I gotta get a safe place to keep it plugged up and it's only two antennas. That's it, it wasn't there in that box. [PHI-Personal].
+Nurse: So, there are two antennas.
+Patient: The, and the old one from the first time, you know, the old one. And I was gonna pick them up and I was just gonna say I'll just send both of them back and just wait to get, you know, to get, wait, let me get all of that back. So you send another one because you know I could have been wrong too but it wasn't a third one and it wasn't land in that box. [PHI-Personal].
+Nurse: Ok. Got you. But so
+Patient: Even though even though the blue light ain't coming on the cup is still reading my pressure. So I'm gonna writing it down y'all just don't see it right. Correct. Ok. Ok. I right.
+Nurse: Look at the back of the antenna. There should be like a white box with some numbers. Can you read the first three numbers of one of those antennas? What numbers and letters?
+Patient: Ok. I'm going in the kitchen when I got there. Thank you. Thank you. Mhm. Oh I, ok. Let me see. That's the old one right there. Ok. One of them is ok. The one you sent me uh it you said the numbers?
+Nurse: Yeah, it should be like letters and numbers on the back.
+Patient: Ok. Uh, uh, on the, it says [PHI-Account] Hlzh Jrot.
+Nurse: All right. So that's the one we're gonna work with that one. So we'll separate that one from the other one. And does it have
+Patient: It? Let me go ahead and plug it back up, you know, because I got everything on the table. I was getting ready to box it all up because I said, ok but you want me to plug it back
+Nurse: Up. Uh that would be perfect and if the is the wand screwed on to the top of it. Mhm. That little black thing.
+Patient: Oh yeah. Ok. Uh huh. It still on. Yeah it's still yeah. Ok I'm gonna pull that one out. I'm gonna put it back in the wall right now. I just went on to put everything on the table and looked all up under the table to make sure I didn't drop the antenna when I open the box. Ok. The re ok the red light is on. Ok let let let let let let me put it back on the table. Ok the red light is on it. Uh huh.
+Nurse: Alrighty and is it blinking?
+Patient: No it's not blinking it just came on it's not blinking.
+Nurse: Alright perfect. It looks connected on my side so let's try to take a BP near it.
+Patient: Ok hold on I'm gonna put them I'm gonna put my phone on speaker do hold on Ok. Hm. [PHI-Personal]. Mm hold on one minute. Mhm. Ok it's reading 1 44 0 over 80 is [PHI-Account]. Ok. The blue light coming on now. Ok.
+Nurse: All right perfect. I'm gonna refresh a couple of times on my side.
+Patient: Ok. Yeah it's coming on now. No that one.
+Nurse: All right we got it so it came through um so I'm gonna bind this BP cuff to the antenna and are you? Ok sticking with this BP cuff and this antenna?
+Patient: Yeah. Yes yes yeah that's good. Alright and I'm gonna get the other one sent back to you uh by [PHI-Personal].
+Nurse: Alrighty perfect. There's the return label should be in the box. Right. Right. Right. Um and feel free to take the batteries out of the BP cuff because you bought those so. Ok.
+Patient: Alrighty will do. Alright perfect
+Nurse: Thank you so much have a wonderful day.
+Patient: Alright thank you bye bye thank you.

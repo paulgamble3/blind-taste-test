@@ -1,0 +1,30 @@
+Nurse: [PHI-Personal] Cod. This is [PHI-Personal].
+Patient: Hi. Hi, [PHI-Personal]. This is Mike Tul. Ma N returning whoever be, I don't know.
+Nurse: Ok. Can I have your birth date so I can pull your chart up?
+Patient: Sure. [PHI-Account].
+Nurse: All right. Let me see who called you. Give me one second. All right. That was, let me see if she's available. I'll send her a message real quick if she's available, I'll get you transferred to her.
+Patient: Ok, thank you.
+Nurse: You're welcome. All right, give me one moment here. Yeah. Ok. She said she's on the line right now with the COVID triage. So she'll have to call you back. Um, well, you know what, let me just see if I can help you real quick. Um, let me pull it up.
+Patient: Is, is this because I called this? I have COVID. I found out this morning and, um, the, uh, I found out because I went to Stoneman yesterday and she, the doctor there said, uh, if I test positive to get in touch with doctor and who's my doctor, uh, primary care and to probably get, what's it called? Pad, pad. Yep. Yeah. So, go ahead.
+Nurse: What? Well, mainly what we really need to know are when your symptoms started. Um, because I can see here, it says patient COVID-19 positive with like script for Paxlovid sent to pharmacy. Patient has chills cough, runny nose, not feeling well. Um, ok.
+Patient: It, it started Sunday night in the middle of the night I started coughing.
+Nurse: Ok. Sunday night. Ok. Are you, um, vaccinated with your booster?
+Patient: I, I, yes, I did not get my second booster. I was gonna get it this Friday, but I've, I've gotten all my shots except the second booster.
+Nurse: Ok. All right. Um, and have you had any shortness of breath, difficulty breathing, um, chest pains, anything like that?
+Patient: No, I have not had that, uh, fever. Uh, yes, I have a temperature.
+Nurse: Ok. What has it been?
+Patient: It's been, um, a little less than 100 and one.
+Nurse: Ok. Ok. Um, have you taken anything over the counter for it?
+Patient: Yeah, Tylenol. Ok. I, I took it on my own. Ok. Yeah, absolutely. Me to do that good.
+Nurse: Right. Yeah. All right. So, um, are you familiar with isolation guidelines?
+Patient: Yes. I, uh, my wife and I are master bedroom is on the first floor and we have bedrooms on the second. I am upstairs by myself.
+Nurse: Ok. Yep. So, yeah, you, you would isolate yourself from others for five days and after that five days, uh, if your symptoms are resolving and you have no fever, you can go out around others but wear a mask for an additional five days. Ok. Ok. So, alright, I will um type this all up and I'll forward it on to Doctor Crossing.
+Patient: Oh, ok. Do you think I can get the prescription today?
+Nurse: Uh, most likely, yeah, most likely he'll, he'll send it into your pharmacy today. Uh What about a headache? Have you had a headache? I don't see that listed here. No, just
+Patient: Um, not a headache, just feeling overall lousy, lethargic, weak, um, not clear headed. But you know what I mean? Um, but not a headache. Headache.
+Nurse: Mhm. Ok. Kind of foggy.
+Patient: Yeah. Yeah. I, I can't explain it. I'm, I'm lying in bed here. That's why I'm. Mhm. Ok. I, I'm tired. I sleep a lot. I've been sleeping a lot.
+Nurse: Yeah. Yeah. And that's exactly what your body needs. So, I, I will forward this along, um, to doctor and, and hopefully, uh, he'll get to it this morning and get that Paxlovid sent in for
+Patient: You. Perfect. Thank, thank you very
+Nurse: Much. You're welcome. Have a great day. I'll try to. I'm sorry. Thank you. Bye bye
+Patient: Bye. Thank you.

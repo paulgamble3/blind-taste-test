@@ -1,0 +1,70 @@
+Nurse: Hi, this is,
+Patient: Oh, [PHI-Personal]. Hello, this is [PHI-Personal]. Um, hi, you left me a message on Friday. I'm sorry, I was working all day on Friday um, to call you back.
+Nurse: Yes. Um give me one second to open your chart. Ok. Ok.
+Patient: Thank you. You're welcome.
+Nurse: Ok. Yes. So we do have you in the R PM program and we noticed that your heart rate was a little bit on the lower side and I was check, just checking in to see if you were symptomatic. Did you have any issues? How are you feeling?
+Patient: No, I'm fine. You know, my heart rate is always that low and no, I don't ever have any issues from it generally. No, I, yeah, I feel fine. I don't ever feel faint or anything like that.
+Nurse: Good. I wanted just to make sure um with it being on the lower side, sometimes moving from certain positions could make us feel lightheaded or dizzy or off balance.
+Patient: So even though in the I'm sorry, sorry,
+Nurse: Go on, no worries. Even though you might feel ok, walking around, but just um moving from a sitting to a standing position or lying down to sitting up really quickly could make you feel a little bit lightheaded and I just wanna make sure, you know, you don't have any falls or injure yourself by getting up too fast or moving too quickly. Ok.
+Patient: Yes, I, I actually, now we're talking about this. Do you have? It's very odd the way this happens. It's usually when I stand up suddenly and change direction, like if I'm jumping out of the car to run a store quickly or something, then, you know, I have to grab the nearest pillar because I do get a little dizzy. The odd thing is you would expect it to happen, maybe when you first get up in the morning and you've been lying down all night or when I get up to go to the bathroom in the night, but it never, it never happens. You know, I've always thought that perhaps it could be an added thing of a slight imbalance in my ear, you know, feeling the dizziness in my ears rather than from a lower heart rate. In fact, I have not, I have not done anything about it yet, but the last time I was in doctor's office, they gave me a referral to an ear, nose and throat specialist. And unfortunately, I, I'm sort of in the middle of moving house right now, so I've been very preoccupied with other stuff and I have not got around to making that appointment. I just know I have to be a little careful standing up suddenly I try and get up slowly and I don't immediately change direction. I try and remember, but on the few occasions when I don't remember, uh, I have had that issue of feeling a little weird for a few minutes.
+Nurse: Yeah, we, and, and I'm glad that you noticed that. So, just try to keep it in mind. Um, I know sometimes things catch us off guard and you know, we jump up but it can be a scary feeling to feel like you're gonna pass out or fall or be dizzy for a period of time. Um Looking at that office note with it looks like you saw Doctor [PHI-Personal]. Yes, I did. Yeah, a few weeks ago she said so she did some changes to your BP medication. Um So she recommended dividing the amLODIPine. That's one of the BP medications. Um So you take a smaller dose twice a
+Patient: Day. Well, no, she, she did recommend cutting it in half or adding or keeping the whole pill I think, but adding a half a pill later in the day, if I find that my BP has gone up again. II I either at work or, or sort of trying. I do. You will see that. I usually when I monitor my BP, do it in the morning, I just get busy and forgetful or I'm at work that I don't get around redoing it in later in the afternoon and evening. But I guess I need to start doing that just to see where, um, number. Mhm. What, what does my BP goes up? Seems to go up drastically when I go to the office and get my BP, my BP done there because all my readings at home here seem to be in the ok region of, in the one twenties. I know the bottom number is low, but that's always low. Even when the top number is high, the bottom number is still low and my heart rate stays low. But for some reason when I go to the doctor's office, that top number just shoots up. I think it was 100 and 60 something, wasn't it when I went to the office last week, um, or a couple of weeks ago? But it's never that high when I do it at home. I, and I tried not only doing it on the machine that was provided to me by TGH, but I have another BP machine and I, I pretty much get the same readings as the one from TGH, but it never goes up that high when I do it at home.
+Nurse: Um, so I
+Patient: Mean, these numbers I'm getting at home, the lower numbers are the correct numbers.
+Nurse: Right. So, um, it's, it's not funny, but it's kind of funny. So sometimes our patients will get something what we call, um, White Coat syndrome. So when you see a doctor, you're at the doctor's office, you kind of have this level of stress and anxiety when it comes to, you know, being checked out and seeing what's going on. And patients tend to have a higher BP in the office. So we don't really use that as a determining factor for your BP. We look at the trend that you have at home. So you see how you said, you know, at home you're around the one twenties and the bottom number is a little bit lower. That's more of a true picture of what your BP may be like. Um, and, and the doctors know that too, you know, patients come into the office, they get a little, I get nervous and my BP is high when I go into the office and I'm a nurse. So, um, I, I wouldn't be too, um, alarmed with those numbers in the office. I would be more concerned if you have those high numbers throughout the day at home. You know what I mean? So don't beat yourself up about it.
+Patient: Yeah. No, I'm actually I off work today. So in a little while I'm going to take my BP again and see where we, where we are, say at five o'clock this afternoon to see how well my medication takes me through the day. Right? And see, you know, if I think I need to take that extra. Um, what is the difference in the Valsartan? And the amLODIPine is one designed to drop the top number. The other is designed to drop the lower ho how does that or are they both good for the top number?
+Nurse: Um So the way the medication works is they, they, the idea is that they both um, are designed to drop the BP, not specifically so much the top versus the bottom, but a lot of the times the doctor will add an extra medication because one pill isn't enough to keep the BP down. You know what I mean? Right. So certain medications work on different parts of the body. Like the amLODIPine is what we call, um, a calcium channel blocker. So it works on a different part of the body, but essentially it provides the same um, result which is to bring the, the BP down. Um, and there are reasons why, you know, the bottom number could be lower, the top number could be a little bit higher in terms of a range. But ultimately, there's no like the, the Valsartan isn't for the top number and the amLODIPine is not for the bottom. It's just the manage the BP. Does that make sense?
+Patient: Yeah. No, that does make sense, I guess in my head, well, if I take more BP medicine and the bottom number gets that. And this was something I meant to ask doctor if you take a little more. Does it affect the bottom number equally as the top number? Um, about
+Nurse: The same? Yeah, usually it shouldn't be, um, usually the top number will come down significantly more. Um, and the bottom number. So the, the bottom, the bottom number, um, gives us an idea of how much the heart is able to fill up before it pumps out. So the top number gives us an idea of how hard the heart has to pump to get the blood through the body. We wanna keep the top number a little bit lower, but we don't want the bottom number to get too low either. We, we want it to be balanced, you know, pump enough, fill up enough. So sometimes it just takes some time to play around with medications and, you know, continue to monitor and see how you're doing to kind of find that right combination in terms of what works for your body. That's all
+Patient: Right. Well, I, I will this afternoon since I'm off work, um, BP again. Um, a little bit later and see and see where we're up to. Perfect with numbers. Then, um, I know they say moving is the second most, the second most stressful living. Yes. So, but I will anyway, because, you know, if it's not this stress, it will be another.
+Nurse: Yes, you're absolutely right.
+Patient: You know, if I the other. So, um, anyway, I was, I supposed to have an appointment to come back at some point to
+Nurse: Follow up with her
+Patient: And yes, yes.
+Nurse: Uh, just looking at her notes here, it said to return about two weeks around the end of the month or if symptoms worsen or fail to improve. So, I guess we would wanna set an appointment because the end of the month was in September, [PHI-Personal] 28th, like around that time. So, um, do you want to schedule an appointment? Do you want me to do it today for you or do you want to have some time to look at your calendar? And then let me know.
+Patient: Well, I've got my calendar in front of me and unfortunately, week I'm, I'm pretty, working pretty like days. Um, continuous days. The first time, the first day I could actually really come would either be next Wednesday or next Friday if you have an opening for either next Wednesday or next Friday. Let
+Nurse: Me take a look while I have you on the phone.
+Patient: Yeah, the following it the [PHI-Personal] or the [PHI-Personal].
+Nurse: Ok. Let me see.
+Patient: Didn't I only see Doctor [PHI-Personal] about two or three weeks ago,
+Nurse: Right. Yes, I was
+Patient: There.
+Nurse: Let me see something.
+Patient: Mm. It's just visit. Um, oh, here we are. What day was that? Um,
+Nurse: It was the [PHI-Personal] of September, the
+Patient: [PHI-Personal] of September. So, yes, that,
+Nurse: You know what, let me, uh, follow up in two weeks for nurse BP visit. Ok. So what the nurse probably is. What she wants you to do follow up in two weeks for a nurse, BP visit.
+Patient: Ok. So, do you have anything for the [PHI-Personal] or the [PHI-Personal] next week?
+Nurse: Let me see. Bear with me. Ok. Give me one
+Patient: Second. Yeah. Um,
+Nurse: Right now it looks like there's nothing until [PHI-Personal] I would have to call the office and see if there's something else that they can see, um, on their side. Um, which, which days work for you so I can, um, have in case they do have an appointment.
+Patient: Unfortunately, with the, actually, I just realized something I am going to be gone. Actually, after about that last week in October, I'm going to be gone for the best part of a month. So if I don't get in before I go, then I wouldn't be available to come until probably the, like the last week in [PHI-Personal].
+Nurse: Ok. Ok. So I will call the office and find out what they have available, if not the next appointment that I can see closer to NOV, um, excuse me, [PHI-Personal] would be Friday, [PHI-Personal] 9th in the morning.
+Patient: Ok. I'm putting that in my notes here, Friday, [PHI-Personal] 9th. I'm sorry, what time was that?
+Nurse: [PHI-Account]
+Patient: [PHI-Account].
+Nurse: Ok. So I'm gonna actually just schedule this in the meantime and then I'll call them to see if they have something else available and then I'll let, let you know, I just don't wanna lose this day just in case someone else takes it.
+Patient: Oh, sure. Yes. No, I have, I have that date so I will um I will make sure that I don't get scheduled for work for that day.
+Nurse: Ok.
+Patient: Ok. That's great.
+Nurse: Do you need any refills from doctor [PHI-Personal] in the meantime?
+Patient: You know, I am just, I see, sorry I should have had the medic. I should have had this medication out my um oh, I see that my amLODIPine, my amLODIPine um I've just had the last refill of my amLODIPine. So I will need the amLODIPine refill. That's at [PHI-Geographic] actually though. Yeah, that that one was from [PHI-Geographic].
+Nurse: Uh here on my side it says you have one refill available. What does it say on your bottle?
+Patient: It says the la it says on the bottle. Last refill. Please call 48 hours in advance. Ok. Um It seems like my levothyroxine also is last refill. Please call 48 hours in advance. Ok, so
+Nurse: That one
+Patient: Too those at [PHI-Geographic] and the that's the levothyroxine and the Oh, I see. Yeah. Uh Oh, it says on here this is from Publix. No refills, authorization required. No refills
+Nurse: For which one? The levothyroxine.
+Patient: But well, no, I both. In fact it seems like they all need refilling. I seem to be on the last refill of the amLODIPine, the levothyroxine and also the Valsartan said no refill. Ok.
+Nurse: Let me just double check. Yeah, there's no refills for the, well, they gave you a 90 day supply for the Valsartan in [PHI-Personal]. So you should be good [PHI-Personal]. So let me take another month
+Patient: And yeah, um let me just, yeah, I seem to have more of, I, I have what's left in this bottle of the Valsartan. So that's gonna last me a little while. In fact, I look like I have a couple of weeks left of the levothyroxine and the amLODIPine also.
+Nurse: Ok. So you wanna wait a, a little bit longer before we refill it again?
+Patient: Um Yeah, I mean, as long as I have medication and presumably when I see that I'm getting low, I just can't say your office to get those refill.
+Nurse: Yes. Just give us a few days to get it processed so that you don't go without. Ok.
+Patient: All right. Ok. Ok. Yeah.
+Nurse: All right, honey. Well, take care and um we'll be in touch. Ok.
+Patient: All right. Thank you so much. Thank
+Nurse: You. You're welcome and good luck with the move.
+Patient: Oh, thank you. Yes.
+Nurse: Bye
+Patient: Bye. All right. Bye bye. Bye bye.

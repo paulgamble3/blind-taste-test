@@ -1,0 +1,3 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Uh Yes, this is [PHI-Personal]. Uh I was returning [PHI-Personal] call.
+Nurse: Ok, give me one minute and I'll see if she's available. Ok. All right, thanks. Ok, so she is on the phone at the moment but she said she can give you a call back here in a little bit. Would that work fine for you? Uh That'll be alright. Ok, I will let her know. Alright, thank you. Thank you. Bye bye bye.

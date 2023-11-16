@@ -1,0 +1,7 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes. Can I speak to
+Nurse: Melanie? To Melanie? Yes. Let me transfer you over really quick. What was your name?
+Patient: Ok. My uh, [PHI-Personal]. [PHI-Personal]. Yes.
+Nurse: All right. Give me one quick second here.
+Patient: Ok. No problem. Hi, [PHI-Personal]. Yes.
+Nurse: My phone is acting up and I don't know what's wrong with it. So here's what I'm gonna have. You do honestly hang up and just call the number again. All right. Ok, I will, I will. Yeah, great. Thank you so much. I appreciate it. All right. No problem bye. All right. Thank you. Bye bye bye.

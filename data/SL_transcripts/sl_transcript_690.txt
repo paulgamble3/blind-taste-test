@@ -1,0 +1,13 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hey, this is I just call you.
+Nurse: Yeah. Um so I left this on your voicemail as well, but um just wanted to let you know that doctor um said it's kind of sounds like you have um like a complicated case of the bacterial sinusitis. So what she went ahead or he went ahead and did is um ordered ac T scan for your sinuses, which I'm going to start what we call like a prior auth to make sure it's approved through your insurance. Um also put in a referral to ent for evaluation and then he just said to continue that nasal saline and the nasal steroid, which it looks like on your med list. You have Flonase. Are you using that?
+Patient: Yeah, but at this point that probably doesn't do much for me. It I use every day.
+Nurse: So OK, I can let him know that you're, I mean, I think I, I feel like I did let him know that you were using that every day, but I'll just make sure he's aware of that and see if he has any further instruction. But um as of right now he wants to do that ct of the sinus. And um have you evaluated with ENT which he put both those orders in for you,
+Patient: But he's not gonna prescribe anything.
+Nurse: No, he just said to continue the, continue the saline and the steroid.
+Patient: Yeah, I think that's a really poor decision.
+Nurse: I'm sorry,
+Patient: I, I like, I really disagree with this because like, I'm not, that means I'm gonna have to wait several days to be seen by somebody and like, like, I'm like this close to being better. Like I'm [PHI-Personal]% better. Like, why, why I stop treatment right now? Like, I don't, this makes any
+Nurse: Sense. Yeah. And I, I'll let him know your concern too and see if he, you know, we end up prescribing something else. I think they just wanna kind of be careful with antibiotics just because taking too many antibiotics obviously can make you prone to, you know, um, your body refusing the treatment of antibiotics. But it can also cause in, um, c diff infection which is like a gut, um bowel infection, which is not something that you want. Um, cause you're kind of killing all that good bacteria in your, in your gut.
+Patient: Yeah. But I'm, I'm smart about that. Like, I take probiotics at a separate time and I take, uh, and I eat like, like natural probiotic, rich foods at separate times and taking the
+Nurse: Antibiotic. Ok. Absolutely. I will, um, let him know and I'll see if maybe he'll get you something just to hold you over until you can be seen by Ent. Ok. Ok, thank you. You're welcome. I'll be in touch. Ok. Ok, thanks. Yep. Bye.

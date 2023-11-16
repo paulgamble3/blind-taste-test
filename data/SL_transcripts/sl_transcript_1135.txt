@@ -1,0 +1,51 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is [PHI-Personal].
+Nurse: Hi, how are you? Fine. You called? Yeah, I was just calling to do your checking call. How have things been going?
+Patient: Uh, a little lousy. Um,
+Nurse: What's going on?
+Patient: Well, took a Lyme test and they told me I don't have Lyme but I feel different because I had four or five hours yesterday bad and another 34 hours today.
+Nurse: Yeah. What, what symptoms, like, what's, what's going on? Tired?
+Patient: Completely tired.
+Nurse: Ok. Um, anything else besides just like fatigue?
+Patient: Ohh. Yeah. Ohh. Yeah. All I wanna do is sit down or lay down or whatever.
+Nurse: Just kind of like severe fatigue. Um, yeah. Do you wanna come in for another office visit?
+Patient: I've been putting up with this for, since [PHI-Personal]. So. Ok. And he took a line test and they said it don't have it, but I question it. Yeah, because all these years, the same thing happens about every four weeks.
+Nurse: Yeah. But I mean, they test, they tested for like, the active Lyme infection. So, I mean, antibiotics wouldn't help if, you know, you didn't have the active Lyme infection. Not saying there's not you know, you're not, I'm not saying there's not like long term effects of having Lyme disease because it is known, but it's not like the test, you know, there's not an active infection right now. Does that make sense?
+Patient: Yeah. Yeah, because I know how I've been feeling for, been going on since [PHI-Personal]. So I'm sorry. And uh, so I put up with it, you know, I just can't do anything. Just go sit down. Yeah, in things for
+Nurse: Another visit.
+Patient: Um, no, I don't need another visit. Um, you know, I, I put up with this all these years.
+Nurse: Yeah. I'm sorry. How's, I mean, I know you're fatigued. How's your breathing? Like, how's your asthma?
+Patient: Uh, well, it's certainly not getting any better.
+Nurse: No, I mean, like shortness of breath and, oh,
+Patient: Chest shortness of breath cough. Then I'll get lightheaded. No, the cough pretty well is gone. Ok. Yeah. But, uh, still get lightheaded.
+Nurse: Yeah. Do you have the p, you, you have your pr N Albuterol? Does that help?
+Patient: Uh, yeah, that's that, uh, inhaler, right? For the,
+Nurse: We have your, your program that you
+Patient: Take? Oh, wait a minute. I get mixed up with my medicine even. I don't take that much. That's, that's the one, in case I get too tight.
+Nurse: Well, so there's the BREO that you're supposed to take once every day and then you have an Albuterol inhaler Ventolin in case you, you, you're getting,
+Patient: I take that when it really gets bad. I don't do it too often once my chest really gets tight, you know, you
+Nurse: Could do it every 4 to 6 hours is two puffs every 4 to 6 hours as needed for wheezing. I would do that if you're feeling, you know, like you, you're having a hard time.
+Patient: Yeah. Yeah. Yeah. Well, you don't ever stop working. That's my problem.
+Nurse: Yeah. I mean, that's, that's, you have to balance rest and activity. Um, you know, with, with asthma you have to be care, you have to be cautious.
+Patient: You sound like my daughters.
+Nurse: Well, that's true. I mean, you have to, you know, not, not overdo it all at once, kind of try to spread things out.
+Patient: Yeah. Yeah. Not, not that young anymore.
+Nurse: Mhm. I mean, just, just with the asthma. Um, but make sure you're using the as needed because. Oh, yeah. Oh, yeah. Yeah, that, that'll help you, I think to do a lot more if you start taking that more when your chest starts getting tight. Um, because that kind of opens up the airways. So, really? Yeah. Do you need any, do you need a refill on it or do you need any refills on the medications? Yeah. No, I'm
+Patient: Still good on it. You're good and any refills on because I, like I say, I don't really use it that often just when I'm really chest is bothering
+Nurse: Me. Well, you should, you should use it when you need it. Yeah, I know. Not just, not just if it's not, not once it gets really bad, take it, if you take it when it starts to bother you, you, it won't get as bad, you
+Patient: Know? Oh, ok. I'll have to start trying that when I feel it coming on.
+Nurse: Yeah, I mean, that could help you. I think that would help you to get more stuff done. Like you'd be able to, um, you know, go further, it's gonna relieve it. Um, but that might help, let me see besides that. Um, anything else going on? Uh. Nope. No. Um, yes. Is there, is there anything that I can help you with at all?
+Patient: Uh, find a way to make me breathe better and not get so tired.
+Nurse: Well, I mean, take, take your, take your inhaler, I kind of get to tell you how to do that. Take, take it more. That's
+Patient: What I just throw that at you, you know.
+Nurse: Yeah, I mean, I don't think that would help your breathing but you can get, well, I'll give
+Patient: It time and, you know, usually I take it when I'm really, the chest gets really tight, then I take it, but I'll take it more often and see how it helps when I feel it coming on that tired
+Nurse: Spell. Yeah, it's not gonna hurt anything. I would just try to rinse out your mouth after you use it because it could increase your risk of, like getting, like, um, like a yeast infection in your mouth. If you, if you're using it a lot just rinse out your mouth. That's about it. Yeah. Besides that, you know, same
+Patient: As I do with the other one.
+Nurse: Yeah, exactly. Um, yes, there, you know, anything else that I could help with
+Patient: Today, uh, winning ticket on the lottery?
+Nurse: I mean, if I had that, I don't, I don't know if I'd be making calls this late. Oh, I
+Patient: Don't think so either. Maybe other than that uh [PHI-Personal], I'm I'm doing ok.
+Nurse: Good. Glad to hear that. Ok. Um, in that case I'm gonna give you a phone call in about three months to see how you're doing. Um you can always call me before then if you need anything. Ok? Yes ma'am.
+Patient: Alright. Well, thanks bye bye,
+Nurse: Thanks bye.

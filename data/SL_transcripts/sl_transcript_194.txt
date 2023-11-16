@@ -1,0 +1,28 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Uh, yes, this is Viola [PHI-Personal] calling and, um, hi, I need a prescription, uh, refilled. I just talked to the pharmacist in, at Rite Aid. Yeah. And I need it for the Oome. Pr A Zole. Ok. 20 milli 20 mg. I see it here twice a day. Yeah. 20 mg, twice a day.
+Nurse: Yeah, the last one was a while
+Patient: Ago.
+Nurse: Not a problem. I can definitely have that sent over. Yeah, I haven't. Did you run out of it yet? I've
+Patient: Got two left. I took one today and I got two left right now. Oh, good. Good.
+Nurse: I know a lot of times I'll run into patients who, like, they kind of ran out of it and they thought, uh, you know, it's not a bad medication. It's not what I
+Patient: Need. I don't even know what it's for. So
+Nurse: It is for heartburn pretty much. Um. Oh, is it? Yeah, any kind of like reflux?
+Patient: So. Oh, I don't even have any of that. Really? So, yeah,
+Nurse: I, actually, it's so funny. I just got off the phone with a patient who was, who the exact same medication they're looking for. And I told them I was like, well, they said, oh, well, I don't really have any problems with acid reflux. And I said that's because you're taking the medication, right? The proton pump inhibitors are great. I mean, you don't even know if you, like, they'll tell you if you stop it. That's ok. They actually recommend sometimes you do that for a little bit. Um, just so your body can readjust. Yeah, like uh but just because like long term it could affect um uh bone density but oh
+Patient: Ok. Yeah it
+Nurse: Yeah you can take most of the time I tell patients just continue to take it unless you know, so the doctor says, you know, don't, don't
+Patient: Take it so so you can you uh fax that in or call them?
+Nurse: Absolutely. I'll send it over right now. Yeah. Sorry I kind of went on a tangent there. No,
+Patient: No that's fine. Yeah. Alrighty, that's great.
+Nurse: Oh good, good. How how's everything going? Any problems? Any changes?
+Patient: No, my husband of course was in, in uh the hospital for back surgery. So yeah, how's he doing? Oh good. He's coming home tomorrow? Oh, good. In rehab at [PHI-Personal].
+Nurse: Yeah, I remember that we were saying.
+Patient: Yeah. Yeah, so he's
+Nurse: Not, he's getting around. Ok. Yeah.
+Patient: Yeah, I think so. He's up and at him and you know, they put him through a lot of world boy, they, they really do good pt, you know. Oh, yeah. They get, they got him climbing stairs and, you know? Oh, yeah, he's doing really great. Oh, so, yeah, he comes home tomorrow, so. Oh, so I don't have to run the car every day. So, ya? Yeah. No. Are
+Nurse: You, you, are you guys all set up for a home? Like, do you, sometimes when patients get discharged from a rehab, they're, they're almost to the point where they're independent but they're not quite there yet. So a lot of times the caregiver kinda has to assume responsibility to the patient and it yeah it's exhausting on you. So
+Patient: Yeah but I think we're uh we're pretty much set up so. 00 good good. Yeah
+Nurse: It it's overwhelming or you need anything. Yeah if you need a rest bit give me a call.
+Patient: Alright honey. Thank you so much. You're welcome you take care and then yep,
+Nurse: Yep just call it in right now. Ok, thank you. All right bye
+Patient: Bye bye.

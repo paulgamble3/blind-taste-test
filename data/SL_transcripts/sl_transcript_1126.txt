@@ -1,0 +1,53 @@
+Nurse: Hello.
+Patient: Is this
+Nurse: [PHI-Personal]? Yes, this is [PHI-Personal]. Th
+Patient: This is, and you can call the message, didn't, I, I don't know if you left a message or not but, uh, it didn't, if it did, it didn't get recorded.
+Nurse: Mm. No, I didn't leave a message. I spoke to you the other day. M [PHI-Personal]. Yeah,
+Patient: But you called me back then after that.
+Nurse: Hm. Let me look in my notes and see what it, what it was I called you for.
+Patient: Well, you were gonna try to see about getting me into doctor, uh, [PHI-Personal] sooner.
+Nurse: Yeah, let me, um, let me look and see if he ever messaged me back. Give me one second to pull your chart up. Ok.
+Patient: Ok. I'll hold on.
+Nurse: Ok, MS [PHI-Personal]. It looks like he has not messaged me back yet, but while I have you on the phone, let me just go take a look and see if, um, if he has anything sooner available.
+Patient: Ok. Uh,
+Nurse: [PHI-Personal]
+Patient: Let
+Nurse: Hm. Uh hm. Yeah, Miss [PHI-Personal], I'm not seeing anything sooner than your, um, [PHI-Personal] visit. I did send a message over to his office just to, um, let them know that, you know, you were requesting to see if they're, they could get you in for a sooner appointment and nobody has messaged me back yet. But what I'm gonna do, I'm gonna call the office today and see if I can get in touch with one of the nurses that is in the office.
+Patient: My daughter is going to come down and take me to that walk in clinic,
+Nurse: To the walk in clinic
+Patient: Today. Yeah, on the other end of that building.
+Nurse: Yes, the urgent care clinic. Yes. Yeah,
+Patient: My daughter is going to come down and take me in the way.
+Nurse: Ok, that's good. You need to go ahead and do that and I'll um I'm gonna still follow up with you um M [PHI-Personal] I'm gonna call give you a call like early next week so like Monday or Tuesday so I can see what you know what they said as far as your at the urgent care clinic but I am still going to see about trying to get you in to see doctor uh [PHI-Personal] before [PHI-Personal]. Yeah.
+Patient: Ok, good. Ok. Ok.
+Nurse: Thank how are you feeling? How are you feeling today? Are you having any shortness of breath or anything like that? Oh yeah,
+Patient: All the time. I mean I can't move around without being short of breath. Um-hum.
+Nurse: Yeah. Yeah that we need to get that checked out Miss [PHI-Personal], Miss [PHI-Personal] um while I have you on the phone just a quick question. Um, with your blood pressures, how often, um, are you monitoring those at home? Yeah, I take,
+Patient: Usually I check it twice a day. I don't do it any, at any specific time. I do it whenever I'm in the, the, or I have my, uh, notebook and my, uh, BP kit, but I usually do it twice a day and I've got a record of it all, you know, a long ways.
+Nurse: Ok. And the reason I was asking is because, um, we're offering a new program called the R PM program. It's just a remote monitoring. Um, and because you have hyper, you have a diagnosis of hypertension, you qualify for it and it's just that they send you out, like with you having hypertension, they'll send you out a BP cuff that when you use it, it automatically, uh, the results automatically generate to your chart. So you're not having. So, I mean, you can still keep record of it on your own, but it's so that us nurses, you know, your nurse can see it and the doctor can see it on our end. Uh huh. Yeah. So I'm not, I was just, you know, letting you know that that program is available to you. Not sure if you're interested in it or not. Yeah.
+Patient: Well, does [PHI-Personal] pay for it or you know? Yes.
+Nurse: Yes. [PHI-Personal] does pay for
+Patient: It. Ok. Well, let, let me talk to my, my daughter about it.
+Nurse: Ok. Well I'll tell you what Miss [PHI-Personal] um we do have what's called the R PM specialist. Um I'm just gonna send her your name and then she can give you a call and go over the logistics of the program more with you and your daughter. Ok. Ok.
+Patient: Alright. Ok. Well my daughter doesn't live with me. She lives in Brand, she lives in [PHI-Geographic] and I'm in [PHI-Geographic] So, but she is an RN so she'll understand everything more than I did.
+Nurse: Yes, ma'am.
+Patient: Oh, at least she's a retired RN. She's [PHI-Personal].
+Nurse: So. Oh, ok. Well, how old are you, Miss [PHI-Personal]?
+Patient: [PHI-Account].
+Nurse: Oh, Miss [PHI-Personal], you're getting around. Good for [PHI-Account] honey.
+Patient: Well, not, not this week.
+Nurse: Well, hey, one bad week is it is. Ok. At least it's just one
+Patient: Week. Well, it's been more like a month. Uh, well, actually this started [PHI-Personal]. Mhm. 0. And my cardiologist when I went into him. Well, oh, it was the 31st. I woke up in the morning and my chest didn't quite feel right. Um, it wasn't a pain but it didn't feel normal. So I got the BP cuff and checked it and it was low. Um, I think it was 76/33. Mhm. And I thought, gee, how long, how low can that, that get before you're dead
+Nurse: Right
+Patient: Then in 10 minutes I checked it again and it gone up to 50 something and then I checked it again in another 10 minutes. It going up a little more. Mhm. So, I, I went into doctor because he's both bay area cardiologist and he told me it never happened come much. So, that's what I called. I figured. Well, I'd call Doctor [PHI-Personal] and, and I have a lot more confidence in him than I do in my cardiologist now. Oh,
+Nurse: Yeah, Miss [PHI-Personal]. Um, so I, I submitted your name and your contact information to our R PM specialist. So you, there will be another nurse that will be giving you a call. She just handles that specific program so she can give you more details about the program and how everything works. Ok. And, um, does it
+Patient: Over the phone, does she?
+Nurse: Yes, ma'am. She'll call you and go over everything over the phone with you. Yeah. Ok. Ok. Well, um, oh, go ahead, sweetie.
+Patient: Oh, I'm just saying now, I wish my daughter could be in on, on, it's on the phone call but, and all probability, you know, she wouldn't be here at the time.
+Nurse: Yes. And if that, if she, if she's not there at the time when she do, when the, um, when the other nurse calls you, you can always just schedule a time with her, like once you're with your daughter to call back. Well,
+Patient: She lives 20 miles from here. Yeah. So she's not here a lot.
+Nurse: Right? Or you know, uh you know, Miss [PHI-Personal], you can also have it, um, have her to just contact your daughter and explain everything to your daughter that you can do that as well.
+Patient: Ok.
+Nurse: Ok,
+Patient: Give her I'll give her uh s phone number then. Yes, ma'am. Ok, thank you. Ok,
+Nurse: You're welcome sweetie. Bye bye bye.

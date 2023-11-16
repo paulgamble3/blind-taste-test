@@ -1,0 +1,35 @@
+Nurse: Good afternoon. This is [PHI-Personal]. Can I help you?
+Patient: Yes, I'm [PHI-Personal]. Oh,
+Nurse: Thanks. Thanks for getting back to me.
+Patient: Yes. Yes. I'm sorry that I had that interruption. Oh,
+Nurse: That's ok. Don't you even worry about it?
+Patient: All right, thank you.
+Nurse: Sure. How have you
+Patient: Been feeling? Uh, I've been doing pretty well. Ok,
+Nurse: Good. I'm glad to hear it. Have you been out to see any doctors recently?
+Patient: No, I haven't. Ok.
+Nurse: Ok. No medication changes.
+Patient: No, that stays the same.
+Nurse: Ok. Perfect. How's everything been urinary wise for you?
+Patient: Well, generally pretty good. I, uh, I think I have to go a little often than I, uh, would like to, but I often can go a nice, a couple hours before I have to, uh, go to the, get rid of the, uh, get my bladder emptied. Uh, that's pretty good. Uh, uh, it takes, uh, a little extra few seconds to be sure my bladder is empty if I don't want some dribbling afterward.
+Nurse: Oh, got you. Ok. Ok. That makes sense.
+Patient: Yeah. So I think for my, my age, I think I'm doing pretty good. Ok.
+Nurse: Absolutely. It sounds that way. Um, do you have any type of pain or discomfort when you use the bathroom?
+Patient: No, no.
+Nurse: All right. No, visible blood in the urine. No, no. Ok. How many times are you getting up overnight?
+Patient: Oh, let's say four.
+Nurse: Ok. Are you able to fall right back to sleep?
+Patient: Yeah. I generally get back to sleep pretty well. Ok.
+Nurse: That's a good thing. How are you doing with your hydration? Have you been making sure that you're drinking enough?
+Patient: Well, I try, I probably should try to drink more than I do. I uh I don't keep a bottle with me to sip one so I, I haven't been measuring my intake.
+Nurse: Ok. Ok. Yeah, if you can try to work on it a little bit for me because believe it or not, we do see a lot of dehydration happen in the colder months.
+Patient: Ok. Ok. So just be careful with that. All right. Oh, I will take care of that information, see what I can do on it.
+Nurse: Ok, that sounds good. Now, did you have any insurance changes for the New Year? No, no. Ok, perfect. Perfect. Well, I'm gonna get everything updated in your chart here. Um, I have some disappointing news up MC has decided to get rid of this program where I call and I check in on you. Um, so you won't, you won't be hearing from me anymore. Ok. Ok. But if you happen to need anything, you would just have to call over to the main office and then they would be able to take care of anything for you.
+Patient: Yeah. Ok. Ok. All right.
+Nurse: But it's been my pleasure to work with you over the past couple years.
+Patient: Yes. Well, thank you for your attention. That's great. Absolutely, sir. I'm, I'm sorry, they decide not to continue that.
+Nurse: I'm sorry too. I definitely am, but I thank you so much.
+Patient: Sure. Ok. Well, thank you and you have a good day now.
+Nurse: Ok. Thank you, sir. You too.
+Patient: Thank you. Yeah, bye
+Nurse: Bye bye bye bye bye.

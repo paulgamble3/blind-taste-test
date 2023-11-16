@@ -1,0 +1,26 @@
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you?
+Patient: Yes, good afternoon [PHI-Personal]. This is [PHI-Personal]. I am calling to find out if the any decision was made about the medication for need to be taken instead of Paxlovid.
+Nurse: Oh, ok. Give me one second. Let me look up your information. Ok. Ok. All right. And for security purposes, could you just state your date of birth for me?
+Patient: November 14th, 1951. All
+Nurse: Right. Thank you so much. Right. I don't see anything right now, but I do see how they did send the message over to the provider's office.
+Patient: Mhm.
+Nurse: Did you speak with Nicole today?
+Patient: Um, one of the care managers called me and I cannot remember her name, but she said that um the regular, my regular care person is off today and she called me.
+Nurse: Oh, ok. I see that Nicole reached out to you. So let me um just follow up with Nicole and see if she's got any more information at this time. I don't see any more messages from the office uh to the provider. I do see where Walmart Pharmacy said that they would um, wanted to hear from somebody in the office about the Paxlovid and Xarelto.
+Patient: Yeah. Yeah. And the pharmacy closes at [PHI-Personal]. So that's why I'm getting anxious.
+Nurse: Well, right now, um, I mean, like, how are you feeling as far as your breathing and everything on
+Patient: My breathing is ok. I take the nebulizer. Uh huh. And, you know, I'm fairly comfortable but I'm concerned that I wasn't able to start on something anti COVID.
+Nurse: That's true. Um, but also keep in mind too, if you're not having any difficulty breathing and you, you do have a way to do your breathing treatments and everything. Um, yes, that's what's going to be the best help for you too. Just because it's a virus. So naturally it's going to try to clear out your body. So continue to do your breathing treatments, making sure that you're staying well hydrated too. Yes. Yes. Mhm. Are you running a fever at all? None. Ok. Well, that's wonderful too. That's good to know that you don't have a fever too. So, just like I said, the body has a natural way of healing itself. Um, but just continue to do those things with your breathing treatment staying hydrated. Uh, if you can do any kind of warm broths or teas or anything like that, that helps also. Ok.
+Patient: Yes. Yes. Ok.
+Nurse: All right. Really? You don't want anything, um, any kind of drug interactions to, if you're already taking those other medications.
+Patient: Yes. Yes. Ok. Yes. Yes. Yes. I,
+Nurse: So I hope that that was helpful. Um, but I
+Patient: Think that, yeah.
+Nurse: Yeah, especially if you're not having any difficulty breathing. If you do, um, start to have any of those issues, definitely seek emergency care or reach out to your
+Patient: Health care provider. And I keep checking my, um, pulse ox, I use my pulse ox and, you know, I see I'm in no danger so far.
+Nurse: Ok. Good. What, what is the read reading at now?
+Patient: Um, they a [PHI-Personal].
+Nurse: Yeah, you're doing good. You're doing good. So as as long as you have those things to measure and to check and see, um, you should be good. Ok. Yeah, and we'll definitely, whenever the office gets a message, I'm sure they'll follow up on it. Ok.
+Patient: Ok. Thank you so much. Sure
+Nurse: You take care.
+Patient: I hope you get to feeling better soon. Ok. Ok. Thank you. Mhm. Bye bye bye.

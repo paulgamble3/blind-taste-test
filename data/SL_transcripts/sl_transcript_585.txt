@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Personal]. How are you? I'm good. How are you? I'm ok. My name is [PHI-Personal] and I'm re, I'm actually returning your call. Something about Doctor [PHI-Personal], uh, Doctor [PHI-Personal]. Uh, [PHI-Personal] is my, uh, primary doctor now.
+Nurse: Yeah. Give me, give me one second to pull up your medication, uh, medication or, uh, your, um, medical record. I'm sorry. Give me one second here.
+Patient: Ok.
+Nurse: All right. And [PHI-Personal] just tell me your birthday.
+Patient: March 2nd, 1951.
+Nurse: Ok. My computer is on Monday mode. It doesn't wanna move.
+Patient: Yeah, that's true. Yeah.
+Nurse: Bye. All right. Ok, [PHI-Personal]. So let me just tell you that this call is gonna be recorded for training purposes. And the reason why I was reaching out to you is because, um, doctor [PHI-Personal] has a new service that he's offering his Medicare patients. Ok. And that service is called care management. So, [PHI-Personal] with that you would get a phone call from a care management nurse and that phone call would be at your convenience and she would basically just call, you check in, make sure you're feeling good, make sure you're staying healthy, but she could also help you with any acute issues or problems that may come up in between office visits with Doctor [PHI-Personal].
+Patient: Oh, really?
+Nurse: Ok. So um it, it is a billable service to the Medicare insurance and Doctor [PHI-Personal] does get documentation of the phone calls that you have with your nurse, sent your medical record. Ok. Do you think that I can go ahead and get you set up for a phone call with your care management nurse? Yes. Ok,
+Patient: Perfect. I already do one thing you know with a pulmonary uh specialist down at Temple. Uh but uh that's through my pulmonary doctor, so that's something different. So. Ok, I've, I've been doing that every day for three, last three years or
+Nurse: So. Oh, ok. Well, um as long as, as long as you're like, if you have um if like your medical records and you have doctors at Temple, your care management nurse will be able to look at all that stuff and see that stuff as well. Ok, good. Ok, so, so I'm gonna mail you some information I have that you live at [PHI-Geographic] in [PHI-Geographic].
+Patient: [PHI-Account].
+Nurse: Perfect. And I have two phone numbers in here which phone number would be better for your nurse to reach you at
+Patient: Probably this number that uh my cell phone [PHI-Account] [PHI-Account]. All right. Got it.
+Nurse: Ok, perfect. So um I'm gonna mail you out some information and your nurse should re your nurse should reach out to you um maybe later this week but I'm not I don't wanna I don't wanna guarantee later this week just because it's a holiday but um if if not this week then definitely sometime next week.
+Patient: Ok, that'll be fine.
+Nurse: Alright. Well [PHI-Personal] I appreciate you calling me back and I hope you have a great day and a happy Easter
+Patient: And you too. God [PHI-Personal] you.
+Nurse: Yes, you too. Thank you so much. I appreciate it.
+Patient: Ok. Take it easy. Bye bye bye
+Nurse: Bye.

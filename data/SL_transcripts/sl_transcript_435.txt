@@ -1,0 +1,35 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. I saw where you tried to call me.
+Nurse: I did, I, I just hung up. How are you today? I'm
+Patient: Good. I just finished my appointment with the gastroenterologist and we are, um, scheduling a colonoscopy in [PHI-Personal]. Um, yeah, I have colitis, uh, ulcerative colitis and I'm in remission right now, but I still have to have my, um, scopes every few years. And so anyway, it's about that time again. So,
+Nurse: And better to be safe than sorry and just get it taken care of. All right. Well, how's everything else been going? Anything that's, uh, been new or causing you problems?
+Patient: Um, no, actually not that I can think of. Um, I just had my, um, appointment and blood work done with doctor [PHI-Personal] for follow up on diabetes, you know, and my A one C was a 6.0. So I was glad about that.
+Nurse: Yeah, I saw that. That's fantastic.
+Patient: Yeah. So I don't see her again until [PHI-Personal] also, I guess. Yeah. Yeah. Yeah, I was glad about that too.
+Nurse: Yeah. And it looks like your appointment with her. It's [PHI-Personal] [PHI-Personal] at one o'clock. So, is it?
+Patient: Mhm. Ok. I'm gonna have to do something different. Um, because I just scheduled the colonoscopy for the [PHI-Personal]. Actually. They, they set it for that and, yeah, I didn't realize it was an appointment with, um, Doctor [PHI-Personal], I wonder if I could change the doctor [PHI-Personal] appointment.
+Nurse: Yeah. Let me see if I can do that.
+Patient: That would be awesome. Is the main one,
+Nurse: Right? Would you just wanna move it to maybe like later that week? Yeah, that'd be fine. Ok. And you wanna stay with afternoon time?
+Patient: Uh, that'd be good too. Ok.
+Nurse: Uh, how about Wednesday, [PHI-Personal] the [PHI-Personal]? And we could do two o'clock.
+Patient: Ok, the [PHI-Personal] at two o'clock. Yeah, that'd be great.
+Nurse: All right. Let me just move that. Yeah. True. Morning. All right. So you were off of the [PHI-Personal] and moved to the [PHI-Personal]?
+Patient: Thank you so much. I sure do appreciate that. Oh, you are very, very welcome at two o'clock. Yeah.
+Nurse: All right. Ok. And then the only other thing I wanted to check with you, um, I saw, uh, when you saw her a couple weeks ago she started you on some Alendronate or some Fosamax. Is that right?
+Patient: Yes. Uh
+Nurse: Huh. Ok. And you're taking it once a week right now? Yeah. On Fridays, I take
+Patient: It. Yeah. Ok.
+Nurse: All right, perfect.
+Patient: That was that day that, yeah. Huh. Yeah, hopefully that'll help it to keep from getting any worse.
+Nurse: Yeah. Yeah, I just wanted to, um, just be kind of mindful for, um, side effects if you're noticing any kind of strange symptoms. The one that really concerns us is that alendronate for some people, it causes some irritation and damage in the esophagus. So if you start having any, um, difficulty or pain with swallowing, if you're noticing like a chest pain or like a heartburn kind of pain or anything like behind your ribs, let us know right away just so we can kind of check and see what's going on with it. Ok.
+Patient: Ok. All right. Thank you. Thanks for reminding me about that. And I do, I do remember she said to try to take it when you are up and moving around and to make sure I have at least a glass of water behind it, that full glass
+Nurse: Of water if you can manage
+Patient: It. Yeah. Yeah. Oh, I can, I love water and I drink it all the time. All right. Good, good. Yeah. Well, yeah, thank you.
+Nurse: You bet. All right. So anything else I can let uh doctor res know for you right now or anything you're needing us to send in or refills for?
+Patient: Oh, I can't think of anything. I think I'm good.
+Nurse: All right. Well, you have my number. So if anything changes anything comes up, you just give me a call. Ok.
+Patient: Thank you so much, [PHI-Personal]. I sure appreciate it.
+Nurse: Oh, you are very welcome. If you don't need me. I will follow up with you again in about a month or so, but you know, don't hesitate if anything
+Patient: Changes. Thank you so much. We really appre ok,
+Nurse: Bye bye. You have a good night. You too. Bye, thanks. Ok.

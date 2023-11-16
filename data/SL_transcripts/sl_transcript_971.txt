@@ -1,0 +1,27 @@
+Nurse: Hi, this is
+Patient: [PHI-Personal]. Hi, it's [PHI-Personal]
+Nurse: [PHI-Personal]. Oh, hi, Mr [PHI-Personal]. How are you?
+Patient: I'm just fine. How are you? Good.
+Nurse: Good. Yeah, I had just tried calling you earlier. I just wanted to check in with you real quick and just see how everything went with your surgery. Did everything go? Well,
+Patient: It did indeed. Good. Good. I'm glad to hear that. Uh, you know, they, they, they just did an arm block and then they didn't end up doing really, uh, you know, a general, they did an arm block and, um, you know, I'm not sure why they couldn't have done that in the first
+Nurse: Place, but. Right. Right. Well, good. I'm glad you didn't have to go under general anesthesia. I mean, that's good.
+Patient: No, it's all they did our block and then they just made me, you know, op
+Nurse: Right. Right. Well, good. Well, I'm glad everything went. Yeah.
+Patient: And the, the steroids did, uh, that the, uh, doc gave me from, uh, from office, um, I think did some good.
+Nurse: Oh, good. Ok. I was also gonna ask you about that. Yeah.
+Patient: Clear, some, clear, some stuff up. Oh, good. Good. I'm definitely in a better, better place that way now.
+Nurse: Good. I'm glad to hear it. And then do you already have a follow up appointment scheduled with the orthopedic? I do. Perfect. Good. So, you're all squared away there? Well, good. Well, yeah. Did you have any questions or any concerns at all about anything?
+Patient: No, I mean, my, my, uh, little finger is a little numb on the, uh, on the tip, which I didn't like very much but it's, you know, I don't know. It, it may be, it goes back and forth. I'm, I'm trying to, I wasn't very gentle with it. Um, I gotta say I wasn't, you know, really super good at keeping it in the sling and, and, uh, yeah, whatever, you know, I'm trying to be a little more, um, you know, a little more gentle with it and keep it the sling and, and, uh, at least when I'm, I'm sitting around. So hopefully that'll help me heal.
+Nurse: Yeah, exactly. So they just gave you a sling but they did, they put anything else on the hand as well or is it just the sling?
+Patient: Um, I, I'm, I'm sorry, I didn't hear. Oh, no, you're
+Nurse: Fine. Um, no, I was just so they just gave you a sling to, um, ok, they, I
+Patient: Thought they were gonna put it, I thought initially they might put it in the cast but they didn't, it just wrapped in a, you know, wrapped with a bandage and, and an ace. Um, and the fingers are, you know, out and moving around and free. The problem is that, you know, you're tempted to use them at times and then that hurts where the incision is obviously.
+Nurse: Right. Exactly. Yeah. I thought they would use like a, like a soft cast or, you know, something like that too to help support it. But, um, you know, if they just use the sling then and then obviously they have the bandage and everything, um, then it, so it looks like the appointment is on the 13th. Um, so, well, good. Well, hopefully everything heals well, um and then let me see here. Ok, so it looks like you just have that appointment for next month. Um I was just trying to see if you had any other appointments scheduled but um we'll
+Patient: Set up an appointment for a colonoscopy scheduled in [PHI-Personal]. So
+Nurse: In [PHI-Personal]. Yes, exactly. Ok, perfect. Well, good. Um I kept
+Patient: Putting that off and putting that off and
+Nurse: Yeah, that's a, that's an easy one to put off. Uh Yeah, exactly. Well, good. Well, I will probably just plan on checking in with you like shortly after you have that appointment with the orthopedic, the follow up appointment. Um, but yeah, of course, but if you have any other questions or concerns if anything pops up, just let me know. Ok.
+Patient: No, it's all good. I'm, I'm feeling loved it. I'm well taken care of.
+Nurse: Good, good. I'm glad to hear it. I'm glad you had the, the surgery is over and done with.
+Patient: Yep. Me too. Now, all I have to do when it comes back is do what it's, you know, do what it's supposed to do.
+Nurse: Exactly. Exactly. Hopefully everything works the way it should. Ok. Alright. Well, sounds good. You're welcome you have. Oh, of course you have a good weekend. Ok. You too. Thank you. Bye bye.

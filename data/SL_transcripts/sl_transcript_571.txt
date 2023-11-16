@@ -1,0 +1,39 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Hi,
+Nurse: [PHI-Personal]. How are you?
+Patient: I'm ok. How are you?
+Nurse: I'm good, thank you. So I was looking in the chart and I can see that your father, uh, was referred to, um, Doctor Bakh Os. Ok. And you're saying you haven't heard from anybody at their office?
+Patient: So they called me, but doctor had said that he needed additional testing. So I wanted to make sure all that testing or whatever needed to be done prior to him seeing the surgeon is done, then I would schedule with the surgeon or if he doesn't need anything else, then I can call them back and say he's good to schedule a
+Nurse: Visit. So I can see that he ordered, um, on the fourth, he did order three different tests. Um, so that's what you were referring to. Then you haven't heard regarding scheduling those?
+Patient: Yes. And I did get a phone call, I think from the coordinator and, uh, she left a message which I called her first. I wasn't sure if she was like doing that or not. So then I called her first. She called me back. I called her back and then I haven't heard anything since and I called her back, I think on Friday. Um, so I still haven't heard anything. So that's what I was wondering is I wanna get the other testing done because I don't wanna go to the surgeon without. That doesn't make sense. And
+Nurse: What was the right, exactly. What was the phone number, um, that you had called when that, um, was that what her name was? Was [PHI-Personal]? I think
+Patient: So. Hold on. Ok, I can look, I think I got it on the sticky. Not hold on. Ok. Oh um and there's too many dang numbers. I have like one for radiology. I have one for pet scan like um. Mhm. Maybe there's two. Go ahead. I'm sorry. [PHI-Account]. Maybe.
+Nurse: Um [PHI-Account]. What was the number?
+Patient: [PHI-Account] [PHI-Account]. That's M [PHI-Account]
+Nurse: [PHI-Account]. Um, ok, so I am not here. Let me see if I can find I'm not familiar with that phone
+Patient: Number and that's like her direct. Like when I call it goes directly to her voice mail. Ok,
+Nurse: So I would recommend trying um continuing to reach her. But um, we also
+Patient: Have, I'm coming in on Thursday to see doctor. He has to have like breathing test done and whatever else. So if I can't get scheduled before then can we get scheduled when I'm in person?
+Nurse: You can talk with them, you know, talk to them about that. I'm not in the actual office. So I can't say for sure that, you know, they could handle that. But I don't see why they wouldn't be able to. Yeah, on the 11 he's got the pulmonary function test. I see that there. Yeah. Ok. So, yeah, if not, um, do you have the general patient scheduling phone number?
+Patient: Uh, I don't know if they'd be able to have like actual doctor [PHI-Personal]. Uh, uh, it's [PHI-Account].
+Nurse: Um, no, that's just the phone number to reach the office. The 800. There's an actual patient scheduling line
+Patient: If you wanna give me that. Yeah,
+Nurse: Let's see if that might help. I'm not sure. 800. 8367536
+Patient: [PHI-Account]. And this is for patient
+Nurse: Scheduling. Yeah, just patient scheduling in general. They might be able to direct you correctly. Um, but most likely the coordinator who really needs to help you. Yeah,
+Patient: That's what I phone and her name. Yeah. What you say? Go ahead. You, you
+Nurse: Don't know her last name. [PHI-Personal] K,
+Patient: I have no idea. I know her name is [PHI-Personal]. That's all I know.
+Nurse: And you don't happen to know. Hold on right here. Oh, ok. Right here. So, [PHI-Personal] Dancy Williams.
+Patient: Yeah, there you go.
+Nurse: Ok. So I'll just forward this message along to as well. Um
+Patient: Ok. Yeah, we, I mean, like I said, she did try to call me back and then I called her back again and I left a message on Friday and I figured, ok, I'll give her until like the end of the day, Monday, which is when I called you guys because I'm like, yeah, I don't know who want to call here. Do you think I should still try to call patient scheduling or should I just wait for him?
+Nurse: Um, I'd wait for him. Let me forward a message to her. I can't guarantee that she's in today. She might have had a couple of days off. Maybe
+Patient: She did. Exactly. And I was like, that's what I'm saying. She's usually really good.
+Nurse: Yeah, I'm sure she'll get back to you, but I'll forward the message along. So, you know, it'll be another way of letting her know that you're
+Patient: Reaching. She called and like I call her back, please call her back. Yeah. Yeah, like I said, I wanna get this taken care of so we can get him into. Yeah, sooner rather than later.
+Nurse: Yep. All right. Well, let me, um, note all this and then I'll get it forwarded along for you.
+Patient: Ok, I really appreciate it, [PHI-Personal].
+Nurse: You're welcome. Have a great day.
+Patient: Thank you. You too. Bye.
+Nurse: Thank you. Bye bye.

@@ -1,0 +1,57 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Yeah, [PHI-Personal]. This is, can you tell, can you look up and see if I've had my uh mammogram for this year? Sure. Yeah, I got pencil. Wait a minute, I got [PHI-Personal]
+Nurse: Mammogram closed on [PHI-Personal] [PHI-Account]. Uh No, you did not get it done for this
+Patient: Year. Ok. Where was that at? Um Was that at the imaging [PHI-Personal]?
+Nurse: Yeah.
+Patient: Did he want [PHI-Personal]?
+Nurse: This [PHI-Personal] says [PHI-Geographic].
+Patient: I'm trying to see. Ok. Um up MC
+Nurse: Qua WC
+Patient: A. So that would be the hospital [PHI-Personal]. Yeah,
+Nurse: You got it at the hospital. Ok. Did you wanna get it done at the another place?
+Patient: Well, I didn't know I didn't uh didn't know if it was after, I couldn't remember if it was after 31 [PHI-Personal] or the image or at the hospital [PHI-Personal]. Yeah, I was at the hospital. Oh God, I try
+Nurse: To find
+Patient: Yeah. Mm Means I gotta go in with a lot of people are
+Nurse: Imaging service. You can go to the let's see
+Patient: Uh
+Nurse: Scheduling an appointment. Does it matter? I totally get I get confused on this because it says
+Patient: I'll give you a moment now take all the time. It
+Nurse: Looks like it's at the it's across the street from the [PHI-Personal] Street location
+Patient: Across the street. Um that's the hospital
+Nurse: Then. Yeah it is the hospital.
+Patient: Sugar. Uh do you have the number? Yeah and call him because I wanna make sure there's so I can get in without uh many people there you know.
+Nurse: Yeah. Yeah it's [PHI-Personal]
+Patient: [PHI-Account].
+Nurse: [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Personal]. Ok. [PHI-Account].
+Nurse: Yep. [PHI-Account]
+Patient: [PHI-Account]. Oh yeah because man, you know, yeah I've been working so far.
+Nurse: I know, I know
+Patient: Um and I hate, you know, I hate to stay away from everybody then because I won't go in the hospital that didn sure, you know. No way.
+Nurse: Yeah, I wonder if it's, I don't know if you go directly into the hospital. I know they had the last time I talked to them they were going to a different, like you didn't go through the regular hospital. It was like you kind of you still went to like the front desk but then they sent you a different way in there so I would call them and just double check. Ok. And I mean, I usually tell you, um, like any of the patients, like if you need to postpone it or like with, you know, with it being um [PHI-Personal], where the heck is it? Um if you need to postpone it because, you know, we've had an influx again of COVID. Um you can wait, but most of the time I'll tell you, like, just do a self breast exam. Um And then if you notice anything abnormal, you know, like the um you know, dimpling um bulging of the skin, obviously, the lump when you're doing the self bricks exam, soreness, redness, anything like that. Um, you know, definitely you wanna get it in because sometimes like getting it done yearly is difficult for a lot of our patients. So, um, the good news is you only have four more years of it. I think we usually do it until you're [PHI-Personal]. So,
+Patient: Yeah.
+Nurse: But yeah, give them a call, I'll have the order sent over there. But if, for some reason it changes where, like they say, oh, you can go to this other imaging facility and they give you the address, um, and the phone number just give me a call back and we'll send it over
+Patient: To. Well, yeah, because you'll have to schedule my, uh, transportation.
+Nurse: Yeah. Yeah.
+Patient: So I'll give them a call and see what they got to say and then I'll give you a call back. Ok. Sounds good. Should I wait for a day or will that go right over?
+Nurse: Um, you can wait until next week?
+Patient: I was just wondering, I mean, if it would go right over. I'd give him a call.
+Nurse: Oh, yeah. No, it'll go. Right. No, because when I send it through the, our system it takes a little while for it to go over and sometimes the faxing system is down. So it takes like an hour or two.
+Patient: Ok. So I, I'll, I'll wait a couple hours and then I'll give him a shout. Yeah. Ok. And then I'll let you know
+Nurse: Too. It looks like he didn't order it yet. We have to get a new order for it.
+Patient: Oh so I gotta wait anyway.
+Nurse: Yeah. Yeah just wait until next week and I'll I'll give you a call on Monday or no, you know what? Give them a call on Monday because it's doctor gotta order it and it's I'm sure he won't order it until like tonight at like 11 o'clock at night. So it'll get faxed over and it won't be seen until to um until Monday morning.
+Patient: Yeah because they said uh. Mhm. Order a pla I plain x-ray but I have the other all the extra whatever they do. Mhm. So um see you do not if it's a plane film you do not need an authorization by your insurance or an appointment to have. Mm but it's got the extra so I probably would have to wait until Monday then. Huh?
+Nurse: Oh yeah.
+Patient: Ok. The mammogram, ultrasound DX Barium study. You do not need an authorization by your insurance. Please call to schedule an appointment with the facility. Mm. Takes up to two weeks to complete, approve once approved. Ok. So, um, I'll call him then
+Nurse: Monday. Right.
+Patient: Yeah, I guess. Yeah. Yeah, I call on Monday and then, um, they should have it over there. Mhm. Ok. Yeah. All right. I just wanna get that, uh, see that he's got that down and, uh, I didn't think I had it but I wanted to double check.
+Nurse: Mhm. Yeah I don't see it in here so I'll be sending him a message.
+Patient: Oh I don't know why if he had this done I don't know why he just
+Nurse: I don't know
+Patient: You know [PHI-Personal] me it really [PHI-Personal] me. All right I'll let you go you're busy.
+Nurse: Ok. Alright thank you
+Patient: Honey bye bye you're
+Nurse: Welcome bye.

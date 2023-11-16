@@ -1,0 +1,56 @@
+Nurse: Hi, this is
+Patient: [PHI-Personal]. Oh, [PHI-Personal]. Hi, this is [PHI-Personal]. I'm returning your call. I, I missed it this morning when you called.
+Nurse: Oh, no problem. Let me pull you up quick. Ok. Uh huh.
+Patient: It,
+Nurse: And your birthday is [PHI-Personal].
+Patient: Uh, yes, that's right.
+Nurse: Ok. I was calling to check in with you to see how you've been doing since we last talked.
+Patient: Oh, well, I'm doing ok. I, I've been the past couple of weeks, I've been very down in the dumps and, uh, I mean, that's not unusual for me, uh, under the circumstances. Uh, there's really nothing I can do about it. I just have to get ju, I just have to learn to live with it, I guess. Uh, but my brother came up to see me, uh, for four days and that was nice. But, uh, he had to go back, of course, to his family in [PHI-Geographic]. Yeah. So I'm back to being down in the dark again
+Nurse: And it's kind of really contributed to your circumstance of you living alone and your big house. Right.
+Patient: Right. And I have no family or friends here. Um, they're all in [PHI-Geographic]. Uh, when my husband was alive I wanted to sell the house and move back and, ah, uh, he was very comfortable here. But, um, I never was. And, uh, I'm still not. So I do get, uh, lonely and I do get down in the dumps. But, uh, eventually I get over it.
+Nurse: I know. I know. And it's, I know the area you live in it's not, you
+Patient: Know. Yeah. I'm not crazy about [PHI-Personal]. There's really, I, oh, we both thought when we moved here that, um, sunburn was on its way to, uh, becoming bigger and better. Yeah. But, um, it, it just didn't happen. I don't know why. I, I'm not involved in the politics of the town. So,
+Nurse: Yeah, I don't. Have you ever thought about, like, helping, helping out somewhere or?
+Patient: Um, I have thought about it. There's a, there's a, I live between a bank and a nursing home and I thought about volunteering but I have so much to take care of in this seven bedroom home, um, with cleaning and, uh, we have five cats indoor, strictly indoor cats and, uh, I have the landscaping and everything to take care of. Yeah, I'm out of breath. Excuse me? No, that's
+Nurse: Ok.
+Patient: So, I don't know if I could really hold myself to being some place, uh, at a certain time for so many days of the week. Yeah.
+Nurse: Well, maybe you could find something that you just do once a month or if you like animals, maybe even like a, a veterinarian place or something where, you know, it's, you know. Yeah, I know. Just to make, make you feel like you have some type of purpose or something to look forward to. If you really love animals, sometimes that can make us feel good. Yeah.
+Patient: II, I do. Um, I, there's a woman who, uh, contacted me, she lives in [PHI-Personal] and, uh, about, uh, spaying and Neutering, uh, um, cat, feral cat. Ok. And, uh, I told her that, uh, you know, uh, if she could use any, any help I did volunteer for that but, uh, I haven't heard from her but, you know,
+Nurse: Maybe because that's something you can, yeah, maybe that's something you can follow back in on. Are you sleeping and eating? Ok.
+Patient: Uh huh. Yeah. Yeah, I try to, uh, eat healthy sleeping. I, I really haven't been a very good sleeper for a very long time. So it's, it's natural for me just to get maybe four hours right? Sleep. Um, so that I don't worry about so much. Sometimes I take a nap in the afternoon. I don't really like doing that. But, yeah, but, uh, anyway, it is what it is and I just need to, uh, you know, to learn to accept
+Nurse: It. I understand. But, I mean, that's definitely hard. Um,
+Patient: Yeah, I keep wishing I could have convinced my husband, you know, but I don't know why I go back in time like that. It doesn't do any good. But, uh, and you,
+Nurse: You still still use, do your sertraline and your LORazepam? Yeah.
+Patient: Oh, yeah. Ok. And the, um, LORazepam, uh, I'm taking twice a day and actually there are days when I take the third one. Ok. But then it doesn't give me enough then to get through the month. So I have to be careful, uh, you know, how many times I do that.
+Nurse: Ok. But, well, we can see that the doctor can up it to three times a day if needed. That way we can get the.
+Patient: Oh, that, that would be great. I don't always need it three times a day. But, but I have a week, like, um, before my brother came up there were two, you know, that I had, that was really, uh, unbearable.
+Nurse: No. Yeah, definitely. I can definitely request that. Um, because that's only once, like every eight hours which still within, you know, normal dosing and that way you don't run out and if you do need it, you have it. Um, so I can put that into [PHI-Personal]. That would be great. Yeah. Yeah. Um, so I see you're short of breath a little bit. Is that, were you just running upstairs or?
+Patient: Yes, I've been running around this morning. I took there, I had to take my trash to the transfer station and my recycling and, uh, doing stuff like that. Or doing laundry in the basement and so I, you know, get out of
+Nurse: Breath. Ok. Do you use your inhaler as needed? I
+Patient: Have it right here in my elbow.
+Nurse: Yeah. Ok.
+Patient: So
+Nurse: Good. I just want to make sure. Yeah. Um, cause I mean you do have asthma and just want to make sure you have your inhalers. Um, um, [PHI-Personal]
+Patient: Let
+Nurse: Me see here. Uh, cool if you were to ever, um, feel an asthma attack coming on where your, your inhalers aren't handy, which I know you keep with you. But sometimes we just forget, especially when our minds somewhere else. Um, some things you can do just to help minimize it is making sure you're sitting upright, um, bending over, lying down can constrict your breathing. So you don't want to do that, right? Ok. And taking long, deep, slow breaths. Ok. So you, you help yourself not VT, um, breathing in, through your nose and out through your mouth and staying calm. I know we, especially women, we tend to be more anxious and, uh, so don't try to get yourself worked up and just try to follow those things. Ok. But I'm glad you keep your inhaler handy.
+Patient: Um, oh, yeah, I do. I have it on, uh, well, on every floor and, yeah, I have, I have them all over the place good.
+Nurse: Uh, and if you are gonna be active you can do your, um, inhaler prior to. Mhm. Sometimes that's helpful
+Patient: To prevent that. I have, I have to a question. I, I was never told that I had asthma. I know, um, that I had, um, a bronchitis, um, very bad a few times. And, uh, is that the same as asthma? No. Um, because I didn't, uh, and yet my, wherever I go for a doctor appointment it seems that, um, they talk about asthma and
+Nurse: You're like, what?
+Patient: Yeah, I don't. So, uh, do I have asthma?
+Nurse: So, if you are, since you're being treated with albuterol and you, you, you experience those, uh, uh, times when you're exerting yourself where you become short of breath. Yes. Um, especially if you suffer from allergies which then can exacerbate it. You would be diagnosed with having like, an asthma. Yeah. So, if you ever like, and signs and symptoms, if you're getting shortness of breath or chest tightness, um, getting cough when you're active you're wheezing. Yeah, that's definitely asthma. Mhm. Ok. And if that does ever get any worse, you know, make sure you call us if your inhalers aren't making, like, helping that.
+Patient: Yeah, I do have allergies. Um, yeah, and it seems like, uh, if they get worse it turns into bronchitis. Yeah. Then that's, then I usually call the doctor, which the doctor says you, you know, why, why did I wait?
+Nurse: Right. Exactly. Yes. You don't want to develop that infection.
+Patient: I never assumed that it is asthma. Um-hum. Yeah. But I guess it is. It is. Ok.
+Nurse: Yeah. And then you're, yeah, obviously, yeah, people with asthma you're, and allergies, you're at higher risk of developing those bronchitis and stuff like that. So, I definitely want to watch for that. Any fevers,
+Patient: Stuff like that. I can't really tell when it's, you know, coming on.
+Nurse: Good. All right. And do you need any of your other medications? Refilled?
+Patient: Uh, no, I don't, uh, let's see. No, I don't think so. I just picked up the LORazepam um on Sunday for the month. So um my uh the other two. No, I think I'm good.
+Nurse: Yeah, thank you. Alright. And I'm gonna put in to [PHI-Personal] to see if we can get that changed to three times a day and let me make sure I have your right pharmacy do the CV S in [PHI-Personal].
+Patient: Ok. Mhm.
+Nurse: Ok, I will put that in. Um I will call you back if she has a question about that but she usually wouldn't. Um, but if I have to, I'll call you back and you can always reach out to me as needed. Thanks for giving me a call back. Ok. Well,
+Patient: Try to thank you for calling.
+Nurse: You're welcome. Try to smile. Keep your head up. Keep yourself busy. I
+Patient: Will. All right, I will. Thank you again.
+Nurse: You're welcome, talk to you soon, [PHI-Personal]. Ok,
+Patient: Bye bye now. Bye bye.

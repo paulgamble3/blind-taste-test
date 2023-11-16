@@ -1,0 +1,11 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal]. Were you trying to reach me?
+Nurse: Yes. Yes, I was, I got your voice mail from earlier today.
+Patient: Yes. And do they, do they have the results of that culture? Do you know?
+Nurse: So I was looking into it and I don't see results yet. It can take 1 to 3 days. So they might have the results tomorrow. It's
+Patient: Tomorrow. Ok. All right. All right. I just, because she told me Wednesday and then, um, when I didn't see results I wondered, I, I figured maybe it was good, good, good news that there was no infection but we'll see.
+Nurse: Yeah, I don't have, I don't know if there's any growth so far. I don't have any of that but your main results haven't come back yet.
+Patient: Oh, ok. All right. So then I'll know tomorrow. Most likely.
+Nurse: Yeah. Yeah. And if you have any questions about it or you don't get a result by tomorrow afternoon, um, give me a call and I'll look into it. Ok.
+Patient: Ok. Ok. Thanks. Thank you so much, [PHI-Personal]. You're always so helpful. Thank you. Yeah,
+Nurse: Of course. You have a great day. You too. Bye bye.

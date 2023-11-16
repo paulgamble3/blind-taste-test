@@ -1,0 +1,33 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Yeah, I am but my name is [PHI-Personal]. Um, how are you?
+Nurse: I'm very good, thank you.
+Patient: Hey, um I've been trying to change the date on my procedure that I'm having next Monday at [PHI-Geographic] General. I've called them a million times. I've looked, talked to people left messages and there's really nothing they can, they haven't got back to me. I wanted to change it and see if I can get it done uh within two weeks after that or a month but I wanna get it done. Yeah, let
+Nurse: Me um. Mhm. Yeah, I just wanna get you pulled up real quick here, Mr, can I get your date?
+Patient: Huh?
+Nurse: Can I get your date of birth, sir? Just to confirm I got the right person.
+Patient: Yeah, [PHI-Account].
+Nurse: Thank you so much. Let me pull that up right now. You said [PHI-Account] right? I did. Ok, perfect. So um let me look here at the scheduling. So you said that you've been trying to call to get this procedure rescheduled and then one's been I
+Patient: I've been trying for two weeks and, you know, I told them if they could reschedule it within, you know, a month. Um, I, I love to get it done but I got something coming up. I have to have some, uh, um, Melanoma taken off my face. Ok. Got, and I don't think I'll be very comfortable, uh, getting that done that day.
+Nurse: Yeah, that makes sense. And this is for the, um, let me just pull up again here. Yeah, that's right. Ok, I remember now. Yes because we were kind of confused whether or not they were gonna do it at the same time. So um if I can reach them, did you want me to tell them um just reschedule it for a certain date? Like are there days that you would like me to reschedule it for or do you want me to just cancel it out? Right?
+Patient: Uh No, I don't wanna cancel it. II I have to re if they've got a a procedure day they can do it. Um I'd love to have it done.
+Nurse: Ok, so um let me make sure I'm following. Ok, so I'm gonna restate everything
+Patient: In, in, in, in early [PHI-Personal].
+Nurse: So you would like it to be moved to [PHI-Personal] this year,
+Patient: The first week of [PHI-Personal] if I can do it?
+Nurse: Ok. If they can't have like I'm asking can you give me some dates just in the event that they can't do that? If, if that happens? Um do you have any other availability in [PHI-Personal] or is it only that first week?
+Patient: Um, uh, do I hold on for one second, please? Uh, when, um, um, either the, you know, first or second week in [PHI-Personal]? Ok. Was the last week in [PHI-Personal]?
+Nurse: Ok. Or last week? Ok. I'm just trying to give myself some options and, you know, you're kind of flexible as far as times. Uh,
+Patient: Yeah, I am. Yeah.
+Nurse: Ok. Got
+Patient: You. Usually it's Tuesday or Thursday if I get it that way. Ok, Tuesday or Thursday might be a pain in the ne, yeah. No,
+Nurse: No, no, I wanna know because I hate to schedule it and then, you know, find out that it doesn't work for you. So you get all your,
+Patient: What, what would it be just easier to cancel it and reschedule it?
+Nurse: Um, no, I don't see why because, um, they should have all the information so I'll call them and see what I can work out because I know I did speak to someone. Um, but it's like that goes to like their voice mail so they'll probably call me back. But as soon as I get word on the new date, I will give you a call.
+Patient: Ok. Yeah. And, and they don't call you back. I know messages and everything and they don't even get back to you.
+Nurse: I know it was a pain confirming it for you. Uh huh. Yeah.
+Patient: And, and when I went online um to try and change. They said you can't change anything on. You got a call. Yeah, and then they don't need some number. Uh, so I don't know what to do, so I appreciate your help. Ok.
+Nurse: Sounds great.
+Patient: Sounds great. Yeah, and, and you get back to me today or tomorrow or something.
+Nurse: Absolutely. I'll definitely give you a call back one way or the other just to update you on what's going on.
+Patient: Ok. Yeah, but thank you very much. I appreciate your help. No problem. You have a good one.
+Nurse: Thanks. Bye bye.

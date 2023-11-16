@@ -1,0 +1,26 @@
+Nurse: CC and this is [PHI-Personal]. Hello. Hey, it's [PHI-Personal].
+Patient: Uh, oh, can I ask Doctor [PHI-Personal] please?
+Nurse: [PHI-Personal] is no longer with us. I'm one of the other CC and nurses with the practice. Is there something that I can help you with?
+Patient: Yeah, because, you know, she said to me before I moved to [PHI-Geographic], you know, for her, for me to call her to refill two prescriptions for me so I can have some, you know, when I get there and then when I get there, when I find a doctor for me to call her too.
+Nurse: Yeah, I'll be working with you now. Um, I'm one of the other nurses that, that's with the practice. Ok. Um, I think we tried to reach out previously this month just to check in and see if you, how you've been doing.
+Patient: Yes. You know, I just know because, you know, I'm leaving Sunday, I just want two prescriptions to be refilled before I go. That's why I'm calling her. Now.
+Nurse: Which prescriptions do you need refilled?
+Patient: Um, metoprolol. Ok. And then Lisinopril. Ok. All right. So now I know I'm in [PHI-Geographic] so I'm gonna have a know uh, to, to text you the address if it's possible
+Nurse: To change the
+Patient: Address. No. Yeah, because I'm in, I'm not in [PHI-Geographic].
+Nurse: Ok. You're moving to [PHI-Geographic], is that correct?
+Patient: Yeah, I'm moving to [PHI-Geographic] but I'm sitting in [PHI-Geographic], I'm move, I'm leaving Sunday but I need to have a prescription because I don't have any right now.
+Nurse: Ok. So you need the prescription filled now. Um, and you're leaving.
+Patient: But I mean, yes, but I'm in [PHI-Geographic]. I have to text you the address, the CV S address to in [PHI-Geographic].
+Nurse: Ok, so you're in [PHI-Geographic] right
+Patient: Now? Yes. From [PHI-Geographic]. I'm going to [PHI-Geographic] and I told [PHI-Personal] about it that she knew about it. Ok, so I'm just gonna test you. I'm gonna test you, uh, the address to CV S in [PHI-Geographic].
+Nurse: Ok. Let me pull that
+Patient: Up real quick. Oh,
+Nurse: It's the CV S in [PHI-Geographic]. Yes. Ok. Yeah, I can, um, request those medications be refilled and, um, I'll give you a call back when I hear back from the pharmacy. Ok.
+Patient: Ok. Today, right?
+Nurse: Um, yes, I'll send the request in today.
+Patient: Thank you. Ok.
+Nurse: Um, are, do you, are you still gonna be seeing doctor [PHI-Personal] or are you gonna be established with the new primary care doctor when you get to [PHI-Geographic]?
+Patient: Yes. Yes. And then that doctor told me to call. Yeah, and that, yeah, I'm gonna call back in and doctor cut, cut me through it all to tell him, you know that and he should be know for him to tell me what to do, you know if he's a good doctor or not. Ok.
+Nurse: All right, my dear, I'll give you a call back once I hear back from the pharmacy. Ok, thank you so much. You're
+Patient: Welcome. Bye bye bye bye.

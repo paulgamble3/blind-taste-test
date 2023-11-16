@@ -1,0 +1,32 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hello, [PHI-Personal].
+Nurse: Yes,
+Patient: Ma'am. Are you working for doctor [PHI-Personal] now?
+Nurse: I am.
+Patient: Oh, good. Uh, you're the third one now, uh, is doctor having office hours today? Can,
+Nurse: May I ask who I'm speaking with, ma'am? What, what's your name?
+Patient: So of [PHI-Personal]?
+Nurse: Can you spell that for me? You said [PHI-Personal]? What, what's your first name? Spell that for me?
+Patient: D ad Y I'm her patient. Mhm. And I want to know if she's going to be in the office today.
+Nurse: No, she's not.
+Patient: Well, I have a problem first. Let
+Nurse: Hold on, ma'am. Let me get you pulled up in the computer system really quick so I can see what's going on. Ok.
+Patient: Ok. I was born October 3rd, 1920 22.
+Nurse: What's your first name?
+Patient: So that, that Sharif like Frank a
+Nurse: [PHI-Personal]. Ok,
+Patient: If you insist [PHI-Personal].
+Nurse: Excuse me?
+Patient: No, that's, oh, well, never mind. I called,
+Nurse: I'm trying to look you up, Miss Esa
+Patient: The week before last. I don't know when I am out of my, um, and she, uh, I talked to [PHI-Personal] who replaced [PHI-Personal] and now you are. What did you say, [PHI-Personal]? [PHI-Personal] let me write that down. I'm I'm going to be 90. So you're still young. I'm not doing so badly. Ok. So anyway, I need my statin Walgreens through gave me three extra pills over the approval which she never contacted. This is when, before the storm I called. So somebody, Doctor Nan is not in the office to approve it. Correct.
+Nurse: She won't be in the office until tomorrow. What? She will not be in the office until tomorrow at the earliest.
+Patient: Oh, well, I'll call back tomorrow. Ok. I
+Nurse: Don't, and I don't know that they'll be open then. I know for sure that they're out today. No one is, no one is working. Um, I
+Patient: Don't have to see doctor. I just need someone to talk to her to have her approve.
+Nurse: I, I understand ma'am but she's not in the office.
+Patient: I said I will call tomorrow. Ok.
+Nurse: Yeah. And it's just your statin, is that the only one that you're having trouble
+Patient: With? I need my HYDROcodone, but I'm not gonna bother you with that because I know better
+Nurse: That. Yeah, that takes it. You already know the drill on that one,
+Patient: Goodbye.

@@ -1,0 +1,56 @@
+Nurse: This is speaking how may I help you?
+Patient: Hi my name is I'm returning your call uh
+Nurse: Hi um hold on one second let me pull up your.
+Patient: Ok. Yeah.
+Nurse: Ok um yeah I was just giving you a call, we're just doing your um your follow up call just checking in to see how things are going with you.
+Patient: Ok? You gonna you're gonna ask me that question. Mhm. How things go with me? II I have I I had enough I I can't deal with it no more. My my wife is no longer my wife is no longer with me.
+Nurse: Oh she passed away.
+Patient: No, she didn't pass away. She she's with her daughter things that I can't explain right now but I have I I I don't know what to do anymore. I put it that way. I don't know what they do. I got I got a big house and I got the bills to take care of and all that shit. I don't know what to do. I don't know what to do.
+Nurse: Ok
+Patient: I I have to ask you my I brought my brother up here from, from uh [PHI-Geographic]. Ok. Now he has back problems, stuff like that. I'd like to get him on some kind of plans and find out what's wrong with him. I, I, I'm not, I'm not gonna travel back and forth from here down to the [PHI-Geographic]. I can't do that no more. I need to find something up here. Those, those are kind of problems I'm having.
+Nurse: Um, have you guys taken, have you taken him to the office to see if he can, um, if his insurance is accepted here? So he have it, he doesn't have it.
+Patient: I don't think he has insurance.
+Nurse: Ok. Um, has he tried to apply for like, um, how old is he? Is he old enough to apply for like Medicaid or Medicare? [PHI-Personal]? Ok. So he should be able to apply for like, um, Medicare and, and try to get some benefits that way and then he can see somebody up here.
+Patient: Yeah. And, and my problem is I count on my wife to do everything. I don't, I don't know how to use the computer. I don't even like my smart phone. So I don't know how to do anything anymore. The last couple of bills I paid, I had to pay it by mail. I, I know what to do. Sometimes
+Nurse: You, you have any family up here that can like help show you how to use the nobody here.
+Patient: No, I don't, I'm not gonna be, help me use something like that. I don't know nobody that good up here. We always get, well, we, we live on a nice street and all that but I don't call for help.
+Nurse: Yeah. Well, sometimes, I mean, I mean, yeah, but if you're having a hard time sometimes it is, it is helpful can relieve the stress if you just go, you know, get some help from somebody else. Yeah. How, how is everything, um, health wise with you? Me
+Patient: Don't even, II, I couldn't even explain that question. I can't, I don't sleep. I don't eat. Every time I try to eat something, I throw up, I can concentrate because II, I don't believe this is happening to me. Then I have to go to work. I got, I got cats. I got four cat to take care of a big house. You know, it, it's just driving me crazy because I don't understand why this is happening. This, this shouldn't happen. No, I'm a [PHI-Personal], right? You gotta take everything. I can't, I can't, I can't take this. I just can't take it. So what can I do?
+Nurse: When was the last time? Have you, um, talked to the doctor lately about like some of the situations that you're going with, especially like, with the night sleeping and having the trouble eating and stuff like that.
+Patient: No, like almost three or four months. No, I haven't talked to him in. Ok. Yeah,
+Nurse: Let me see. I know. I see you're scheduled to come in [PHI-Personal]. But if we can see if we can get you to come in earlier than that, would you be willing to come in?
+Patient: Yes. Yeah. Yes.
+Nurse: Yeah, because I think it'll be a good idea because if you're not sleeping and you're not eating, you said when you do eat you, you throw up, are you, have, you haven't been, like, sick to the stomach or do you think that it's like all that stress that you're having?
+Patient: It's all that stress and then I'm getting headaches too. I already had a, this one already. Mhm. If, if something else happened I, I'm, I'm not gonna survive it. I was lucky. I survived that time. It's too much. It's too much funny. It's too much.
+Nurse: Have you, um, have you talked to a psychologist, psychiatrist?
+Patient: I, I got, I got my veterans, I got veterans, you know, opportunities down here. What do I, what I say? What do I say to them? What do I say?
+Nurse: Yeah. But if you, yeah, because you, since you have, so you do have the veterans benefits or whatever. So, do you go, do you see anybody, do you guys have a VA hospital down there? Where you, where you
+Patient: Live? I live in [PHI-Geographic], right around, right around the corner from you.
+Nurse: Ok. Do, but do you have a VA hospital that's close by where you can utilize your benefits?
+Patient: Yeah. If I want to, I, I have, I have help down here in uh a lot of people ve I, I do, I have to go that route. Now. Can I keep trying and try to do something for my myself? What I have to be? I don't wanna beg nobody.
+Nurse: No, you shouldn't have to beg anybody. But like there should be like a lot of resources that will be able to assist you. Now, you said, OK, so as far as like being at home, like cooking meals and stuff like that, are you having difficulty with that?
+Patient: I, I don't cook. I have, I have not used the kitchen since he left. I have not used the kitchen and I just brought my blood up here last week. I hoping I can help me out, you know, and give me some kind of frame of mind to get back, you know, normal things. It, it, it's, it's hard, you know, I got, I got four cats a big house and I try to go to work every day when I leave the house. I'm worried when I come back home, I'm worried, I'm always worried about something because she took care of everything. What
+Nurse: She said, what happened?
+Patient: Everything.
+Nurse: Yeah. She took
+Patient: Everything. No, she took care of everything. She took
+Nurse: Care of everything. Ok. Yeah. Pills
+Patient: And all that stuff. Mhm. Yeah.
+Nurse: Ok. So, is she, was she sick? She's sick and she's with her daughter. Yes.
+Patient: No, my wife is sick. Ok. Yeah. She had, um, colon operation. Mhm. She has, uh, what do you call that stuff together with a bag?
+Nurse: Um, oh, she has a colostomy. Yeah.
+Patient: Ok. And then on top of that she has alternative. Oh, ok. So, now, now look at that, leave me. What, what can I do? I can't do nothing. Hm.
+Nurse: Ok. Let me see.
+Patient: Um, I'm talking to you too much. No, it's
+Nurse: Ok. No, because I'm trying to see like, you know, whatever is going on with you or whatever. So I can look into the different resources that can, you know what I'm saying? Help you because sometimes like, you can get like the home deliver meals. Have you ever tried like meals on wheels or anything like that? I don't,
+Patient: Ma'am. I don't need that. I don't need.
+Nurse: Right. I know you said. Yeah, but I know that you said you were having a hard time. You haven't been in the kitchen since she's been gone. It's a lot on you that can help relieve some of that
+Patient: Stress. I work at [PHI-Geographic]. I can eat any time I want when I'm at work. So when I, I'm not hungry, you know what I'm saying? I'm not hung. Yeah. So, and one of your, one of your workers live right across the street from me. I can't think of her name. Mhm. Yeah. So I'm glad you called though. But you let the doctor know. I, I need II, I need to see him sometime soon.
+Nurse: Yeah, I, like I said, he, he had you scheduled for [PHI-Personal] but I'll, I'm gonna message him and see if he has an earlier appointment so you can get in to go ahead and see him.
+Patient: Yeah. But you have to let me know ahead of time because I, I gotta keep working.
+Nurse: Yeah, no problem. Yeah. So I, I
+Patient: Can't keep taking off.
+Nurse: Mhm. I'll ask him and then, um when he gives me an answer back I'll call you and let you know what day and we'll see if that day works for
+Patient: You. That's not very good. What is your name again? Thank you very much. Ok, you're welcome please please I'll I'll do the best I can.
+Nurse: Ok? Ok. Yeah please do that and I'll call you back. Ok? Thank you very much. Alright. You're welcome bye bye
+Patient: Bye.

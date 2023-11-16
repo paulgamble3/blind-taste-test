@@ -1,0 +1,13 @@
+Nurse: Exam speaking. How can I help you? Yes. Um, this is, uh, [PHI-Personal], uh, [PHI-Personal] left me a message. Ok. Hold on one second. Let me see if she's available. Ok. Yeah.
+Patient: Hm. Health care. This is [PHI-Personal].
+Nurse: Hello, [PHI-Personal]. This is, uh, [PHI-Personal]. Left me a message. Hi.
+Patient: I did give me just one second. What's your birthday?
+Nurse: August 27th, 1949.
+Patient: Ok. All right. Let's see. Oh, you and I had talked, uh, yesterday about your labs and the symptoms that you're having with the cough. Yes, I think that was yesterday. That may have actually. Yeah, it was ok. Uh, doctor said that it would be reasonable to try an antihistamine, which you said that you take, you take Allegra. Was that
+Nurse: I, I tried, um, the, um, what was it? Mucinex DM, which is the, to get rid of the phlegm?
+Patient: Ok. Well, he said that it's reasonable to try an antihistamine, which is just something over the counter like Claritin Zyrtec, you know, something like that and a nasal spray over the counter to see if that helps. Ok. But, uh, as of right now, he, he says that he's probably thinking that it's allergy related too since, you know, it was worse when the trees came out and everything. Yeah. Well, that's
+Nurse: What I thought it was too.
+Patient: If this doesn't help, then just give us a call back and let us know if your symptoms stay about the same or if they, they worsen. Ok.
+Nurse: Very good. Thank you very much. Ok. Ok.
+Patient: You're welcome, [PHI-Personal]. If you need anything, just give us a call back.
+Nurse: Ok, thank you. Bye bye bye bye.

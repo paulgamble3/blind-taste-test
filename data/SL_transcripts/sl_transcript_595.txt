@@ -1,0 +1,11 @@
+Nurse: This is [PHI-Personal], may I help you?
+Patient: Hi [PHI-Personal] is she
+Nurse: Is not, she's off today? Oh ok. Is there something I can help you with?
+Patient: Yeah, I need to get the more of my insulin pens the uh NovoLOG.
+Nurse: Ok. Can you verify your date of birth for me?
+Patient: It's [PHI-Geographic].
+Nurse: Ok. Just the NovoLOG.
+Patient: No, I also need the uh [PHI-Personal] two sensors. Ok. Two boxes of them
+Nurse: [PHI-Geographic]. Yeah. Ok. That's it. That's it. All right everything else going ok. Yep. Good blood sugars are doing ok. Yep good. It's nice with that. [PHI-Personal], isn't it that it checks it all the time for you? Yeah, I love it. Yeah. Good good. All right we will get these. Which pharmacy
+Patient: CV S [PHI-Personal] though?
+Nurse: Alrighty, we will get that taken care of for you. Have a great weekend. You too. Bye now. Alrighty bye bye.

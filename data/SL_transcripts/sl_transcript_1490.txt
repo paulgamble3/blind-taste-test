@@ -1,0 +1,28 @@
+Nurse: Chronic care management. This is [PHI-Personal].
+Patient: Who is it? [PHI-Personal]? Oh, [PHI-Personal]. I'm sorry, this is [PHI-Personal] calling back. Mm. Hi, how are you? Oh, hanging in there a little bit. Having trouble with my hip. Oh, is that new? Yeah, this is new. One thing, it clears up and another. What
+Nurse: Are you getting treatment for it?
+Patient: Yes. Ok. Ok. I, I'm going to physical therapy. Oh, ok.
+Nurse: Perfect. How long have you been doing that?
+Patient: Oh, my God. It seems like forever. I've been doing it for quite a, uh, seriously, quite a while. But, um, um, I can't even remember when I did start. Maybe [PHI-Personal] somewhere around there. But, um, I got my back straightened up and I said everything's just working the whole way down the leg. So maybe it would drop off of my does. But we're trying. Yeah.
+Nurse: Well, hopefully you can get your hip cleared up then. Yes. Um, I wanted to touch base with you. We weren't able to call doctor [PHI-Personal] patients in January because we just didn't have a phone number for her, for her moving. But it looks like you stayed with doctor.
+Patient: Yes.
+Nurse: Ok. So let me get that changed here on my end and then I think that you were used to hearing from, um, Kale every month.
+Patient: Yes.
+Nurse: So she got a new job with the company. So, um, I took over some of her patients so you'll be talking to me now every month.
+Patient: Ok. [PHI-Personal]. That's wonderful.
+Nurse: Yeah. So I'm gonna get you a letter in the mail for the New Year. Um, there's new wellness goals that come out every year. So you've probably seen these in the past. They are just guidelines that are put in place by Medicare. They are not um required, they're just recommended to keep patients as healthy as possible. Um just some preventative things to have done um just to keep you as healthy as possible. So colonoscopies mammograms, some blood work, things like that. Um you'll see that on the bottom of the letter that I'm gonna send you. Ok?
+Patient: Ok. And it's, now I have a [PHI-Personal], go ahead. I'm sorry. That's
+Nurse: Ok. Is that letter gonna go? [PHI-Geographic]? Yes. And then um did anything change with your insurance for the New Year or is everything still the same? Everything's
+Patient: Still the same?
+Nurse: Ok, perfect. So I'll get that out in the mail to you so you have it and then um if you ever need anything, don't hesitate to call me.
+Patient: Ok, thank you. Now I have a question. Absolutely. I have orders from doctor maybe I already asked this. I had, um, orders from Doctor [PHI-Personal] for blood work. Can I still use that? Because she's still in the same, in the same outfit? Right. She's still within the same broad top. Am I correct? Right.
+Nurse: Right. Yeah. So you can still use that order. Um, and then if you just go to Broad top, it'll be in your chart.
+Patient: Ok, thank you.
+Nurse: Yeah, they might send it to Doctor [PHI-Personal], but it'll show up in your chart so then Doctor [PHI-Personal] can see it.
+Patient: Ok, thank you. I don't think there was any other questions.
+Nurse: Are you good on medication refills or do you need anything refilled? I
+Patient: Think I'm pretty good. I still have refills. I have refills on all my medicine. Ok, perfect. Yes, I'm good on that.
+Nurse: Ok. Well, I will get this letter sent out in the mail to you and if you need anything, like I said, don't hesitate to reach out, but if not, I will touch base with you um sometime next month. Okey
+Patient: [PHI-Personal]. Thank you, [PHI-Personal]. Have a good day.
+Nurse: You too.
+Patient: Mhm. Bye bye bye bye.

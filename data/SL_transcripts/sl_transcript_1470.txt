@@ -1,0 +1,23 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you? Hi,
+Patient: [PHI-Personal]. This is your name [PHI-Personal] calling?
+Nurse: Not
+Patient: Too bad. It's going a little better. Um, I think I will maybe cancel that appointment for right now. You had said I could either do it or
+Nurse: Let me see. Let me just pull it up here for you one second. My computer is just getting warmed up for the day. Ok. Yeah. Yeah. Set up for
+Patient: Today.
+Nurse: So, the, the eyes feeling better
+Patient: Or? Yeah, the eyes clearing up. It's pretty well cleared
+Nurse: Up. Were you able to get your gabapentin? No, you said I have not gotten that, huh?
+Patient: I called, uh, Saturday and they said probably wouldn't maybe be until Monday. So. 00,
+Nurse: Man, that's terrible. It is terrible. I mean, yeah, I know that helps you, at least with that, you know, the discomfort there and you, you know, so, I'm sorry that, that, that didn't come through for you. Um, I, I'll send out a message to make sure that, that prior authorization got, got sent through to them because I, I believe that's what we were waiting on right for that.
+Patient: Yeah. But she had said, I guess they were waiting for the insurance company to,
+Nurse: They got to send back a pre authorization. Yeah. So it's all, I mean, iii, I believe I do see that they sent it over to them. So I just, I just, it's just waiting on the insurance company. It's all set through our end. Um, so I will,
+Patient: They wouldn't approve it.
+Nurse: No, they will. It's just what the, the they, it's what they do to patients to try to get out of paying for a few days of medication. Unfortunately, I hate it. Don't get me started on insurance companies lien. I, I hate them all. I hate them all. But I'm, I'm super glad that your, I feel better
+Patient: Though. I'm so thankful for the insurance we have though. Yeah. You know. Absolutely.
+Nurse: Absolutely. Yeah. No, absolutely. I'm not saying that at all. You know, there's a lot of, there's a lot of pros but, you know, there's a lot of things I don't agree with as well. You know, that, that II, I get frustrations with, um, you know, for my patients and, and it's not fair but, you know, II, I agree with you too. They, they do do a lot of good as well and it saves, you know, a lot of patients, a lot of money. Um, but I'm gonna go ahead and get this canceled for you. So I'm gonna get in that, that screen right now and I'm gonna send a message to the doctor saying that, um, it's improved and, and you just wanna, you know, just continue with your regular appointment on the [PHI-Personal]. You're coming in for your recheck. Right?
+Patient: I think some of it I'm realizing some of it is from the, um, uh, I recall it now. I can't think of it, um, from my neck where I have the, um, what do you call it now? Um, stenosis. Mhm. Ok. Could that have
+Nurse: Up there too?
+Patient: Yeah, I am, I'm going for a massage tomorrow and I'm gonna have her work on my neck and stuff and uh uh yeah, I think
+Nurse: Sorry, I mean whatever is gonna help you there if, if you don't get that medicine today though, if they don't, if they don't have call you today saying that it's ready. I want you to give me a call and let me know and I'll, I'll go, I'll look into it further. Um I'll call the, you know, the insurance company or whatever I have to do for you um to, to make sure you get that done. Ok? But I did get that one, that one canceled and we'll just see you on the [PHI-Personal] at um time 8 30 in the morning. Ok. For your recheck with. All right. Thank you. Call me if you need anything at all though. Ok, I will.
+Patient: Thank you for that. Oh,
+Nurse: You're welcome ele you have a good day. You too. Bye bye. Thank you. Bye.

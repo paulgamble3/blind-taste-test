@@ -1,0 +1,54 @@
+Nurse: This is [PHI-Personal] May I help you?
+Patient: Yeah, this is [PHI-Personal] girl calling somebody just call me from there.
+Nurse: Yes, ma'am, MS [PHI-Personal]. My name is [PHI-Personal]. I'm the care management nurse calling from Doctor [PHI-Personal] office. How are you?
+Patient: Uh, ok, for right now.
+Nurse: Well, I was just calling to introduce myself. I think you talked to my enrollment, uh, person back in May, um, about the program. Uh, I'm the nurse that will be calling you. Um, if you ever need med refills or, uh, need to make an appointment or just have a medical question, you can, uh, also call me in between our phone calls. Um, your mailing address. Come on computer is [PHI-Account] [PHI-Geographic]
+Patient: [PHI-Geographic].
+Nurse: Yeah. Oh, ok. Um, I'm gonna put a letter in the mail that has my name and my phone number on it so that you can get a hold of me in between our calls. It's the same number I'm calling on. Um, and then you have your Me United Healthcare [PHI-Personal] for insurance. Yes. Ok. And then if I were to name off your medications, would you be able to tell me if you're still taking them so I can make sure everything's correct. Yeah. Ok. You use an albuterol inhaler as needed. Yes. Ok. And then a baby aspirin daily
+Patient: I take aspirin. That's what they gave me anyway. Well, they fill it now. It's, uh, it's another kind of me. I take aspirins but I don't know what ones they are.
+Nurse: Ok. Um, you take atorvastatin [PHI-Account] mg at night.
+Patient: Oh, wait a minute. Yeah. Let's go on down
+Nurse: And then your fluid pill, your furosemide [PHI-Account] mg.
+Patient: Hold on. Make sure you said [PHI-Account]. Mhm. Ok. Yeah, I got that one too. Ok. That one that
+Nurse: Goes in the morning in the morning. Yeah. Yeah. You don't wanna be going to the restroom all night with that one.
+Patient: I do. You
+Nurse: Do anyway. Oh no, it might be worse if you take it at night. Um you take isosorbide 30 mg. Ok. And then Lisinopril Hydrochlorothiazide 20-12 0.5.
+Patient: Yeah.
+Nurse: Ok. And then I've got metoprolol 0.5 mg twice a day. Yes. OK. And then a nitroglycerin uh tablet for chest pain as needed. Yeah. Ok. And then omeprazole 20 mg. Yeah. For your stomach. Ok. And then I've got um Ondansetron which is Zofran for nausea. Four mg as needed.
+Patient: What is
+Nurse: It? Ondansntron? It's for nausea.
+Patient: I don't think I had that one.
+Nurse: OK. And then let's see. Potassium. Yeah, I got potassium.
+Patient: OK. I'm looking at the other one you just said and I don't remember that one?
+Nurse: Ok. Well, date on here is 2021. So maybe it was just an old one that didn't come off.
+Patient: Well, I could use it. I nauseated
+Nurse: It sometimes. Yes, I do. Ok. Right. Would you like for me to request a refill for you on it?
+Patient: Yes, please. Sure
+Nurse: Thing. And which pharmacy do you use?
+Patient: [PHI-Personal]?
+Nurse: [PHI-Personal]. Ok.
+Patient: And I wanna ask another question? Sure. Uh, can you order me some diarrhea pills that works cause I've been using the All brand and, um, that other one they have at the store and it's not working.
+Nurse: How often are you having the diarrhea?
+Patient: I started today
+Nurse: Again today. Ok. Is it just real watery? Yeah, it was. How many times have you gone today? Twice, twice? Ok. And you say you've been using the, um, Loperamide, the generic for Imodium? Yeah. And stop it. Oh my goodness. How miserable. Sure, honey, I'll, I'll request that from Doctor [PHI-Personal]. Um, I do know he is out this week but, um, let me get with his nurse and see what we can do. Ok. Ok.
+Patient: My husband had some when he was alive. Ok. And they, and he gave me one and they worked a lot better than the ones I could buy at the
+Nurse: Store. Yeah.
+Patient: Yeah, I got, I don't know if they still got the or not, you know. But ok, because I don't remember the name of his, what was it? He was
+Nurse: What was his date of birth? Hon. Um,
+Patient: Oh, yeah, June 14, 60 1962.
+Nurse: And what was his first name? [PHI-Personal]. And, and [PHI-Personal] was his last name. Yeah. All right. I'll look in his chart and see if I can find it and then, um, I'll talk to, um, Doctor [PHI-Personal] nurse about it. Ok.
+Patient: Yeah. If it's not in doctor, uh, I think it might be doctor because he used to see doctor. I never seen doctor di, because after he passed I didn't wanna talk to doctor all.
+Nurse: Yeah,
+Patient: Because he died. He had, he had cancer. I told him he, he, he was getting sick and everything else and passing out and he went to, uh, he went to [PHI-Geographic] to visit his family and they found him on his back por, on their back porch and they took him to [PHI-Geographic]. He, they found out he had cancer and he died of cancer. And I was so mad. I told you they was young and the nurses and everything laughed at him and LA and when he was in the hospital in medical center and they laughed at him and said, oh, it's all in your head.
+Nurse: Oh, honey, I'm so sorry to hear that.
+Patient: I, I would never talk to doctor ever again. Doctor. Yeah,
+Nurse: That's, that's completely understandable. He
+Patient: Seen me in the hospital one day because I was there. And, uh, he said, how is your husband? I said, you killed him. He said no, I didn't. I thought you didn't tell me he had cancer, honey. Cause you know, he didn't have cancer. I said yes he did. I would never go back to them. None of my kids would go back to them either.
+Nurse: Yeah. Oh, yeah. I wouldn't, I wouldn't blame you one bit.
+Patient: I, uh, I've, I've done with doctor [PHI-Personal]. Yeah. Yeah, because he understands and stuff. Oh yeah.
+Nurse: Yeah. Well, all right, honey, I'm gonna put this letter in the mail and then I'm gonna, um, request that nausea medication and then see if we can get you something better for your diarrhea. Ok.
+Patient: Ok. Thank you very much.
+Nurse: You're welcome. And you let me know if you need anything else. Ok,
+Patient: I will.
+Nurse: All right. Bye
+Patient: Bye bye bye.

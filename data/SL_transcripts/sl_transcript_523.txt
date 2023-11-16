@@ -1,0 +1,9 @@
+Nurse: Hey, good morning, [PHI-Personal]. Hi,
+Patient: Good morning. I just called to make an appointment and they're saying it's still
+Nurse: Wrong. Hold on, let me check. I haven't looked back again. They might not have signed the new order yet. That's all. But let me see. Do request for orders. Yeah, they haven't signed the new order. So uh let me give the office a call. Let them know I put that order in. Are you, you're still trying to schedule? Yes. And they won't schedule you until this orders in. Yeah. Ok. All right. Let me give the office a call and let them know that I, I put this through so they can take care of it today. Ok.
+Patient: Ok, I'm still moving so I still got stuff to do so. Oh,
+Nurse: Ok. All right. Yeah. No, I can see the, the message is sent back. Um, just no one's responded yet so they might have had a busy day, you know, it's Monday. So.
+Patient: Ok, I'll just give it a couple days
+Nurse: Then. Oh, ok, perfect. Yeah, I, I'll keep an eye on it. Ok. All
+Patient: Right. Thank you.
+Nurse: You're welcome. Have a good day, honey. You too. Thanks. Bye.

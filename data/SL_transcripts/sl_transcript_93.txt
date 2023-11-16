@@ -1,0 +1,92 @@
+Nurse: Hi, this is a [PHI-Personal].
+Patient: Hello.
+Nurse: Hi, this is,
+Patient: Yes, this is [PHI-Personal].
+Nurse: Hey, [PHI-Personal]. See, how are you doing today?
+Patient: Uh, I'm all right. Uh, last week I, I supposed to went in for blood work and I don't know, I, I, how they got past me and, uh, I know my eye doctor and my foot doctor, they usually call me and remind me on my date when I need to come in. But I, I didn't get no, no, no, you get no call from over there. But, uh, I don't know how I got that got past me. I just have so much on my mind sometimes. Mhm. Mhm. And now, so I got to have that rescheduled, I guess.
+Nurse: Ok. Was your foot doctor and your eye doctor?
+Patient: No, I said whenever I have a s, a schedule to see one of them they usually call me to remind me to come in. Mhm. But, but I supposed to come in over there where you all to do my blood work. But I didn't get no calls and I had, I had forgot about it. I just had so much my son and all them, they going through something and, uh, it got, it, it, it just got past me to come in last Thursday. Oh,
+Nurse: No, it's ok. So let me get you rescheduled then for the lab work. Give me one second. Let
+Patient: See. Yes. Yes. Then
+Nurse: How have you been on the, um,
+Patient: I've been hanging in there. I just doing, trying to do the best I can. Hanging in, hanging on and hanging in. It was just thankful them. God, wake me up every morning and go from there. Hello?
+Nurse: I'm still here. [PHI-Personal]. 00, ok. Wanted to take a look to make sure. Ok, so it looks like you do have one lab that you do have to fast. So what is there a day? That's um, better for you [PHI-Personal].
+Patient: Uh I, you all gonna be, well, they got that hurricane coming. So I thought y'all, y'all probably be shut down for a couple of days until that's over. Yeah.
+Nurse: So let's look at instead, let's take a look at next week instead. [PHI-Personal] just know this week is gonna be a little, um, touch and go with the hurricane. So, so it'll be the first week of [PHI-Personal]. So they do have [PHI-Personal] [PHI-Personal]. Um, actually I don't want you to wait that long because you do have to fast for your labs.
+Patient: What about, uh, on the 4th [PHI-Personal], the fourth
+Nurse: [PHI-Personal]? They do have something the earliest is 9 15.
+Patient: Oh, yeah,
+Nurse: I don't want you to wait that long without being able to eat something. So they do have [PHI-Personal] which is a Thursday at 8 45.
+Patient: Oh, I'm usually, I don't usually eat when I get up anyway that much, but, uh, I, I don't like trying to get up too early cause that about that. So,
+Nurse: I mean [PHI-Personal] [PHI-Personal], the earliest that they have [PHI-Personal] [PHI-Personal] is at [PHI-Account] 15.
+Patient: I can try to get, get there. But uh, I hope hopefully I, I don't know if I'm gonna get there on time because I have to, I have to transfer off of three different buses.
+Nurse: Ok. Do you wanna do because their next one is [PHI-Account] 30 or [PHI-Account] 45
+Patient: Uh, [PHI-Account] 45 I guess I hope I can get up that early. Ok. Other
+Nurse: Than that you're looking at 11 or [PHI-Account] for that day,
+Patient: [PHI-Account] would be good. [PHI-Account]. Ok. What date that is
+Nurse: That is Monday [PHI-Personal] [PHI-Personal].
+Patient: They, oh, and that's the day I have to move around paying bills.
+Nurse: Ok, so let's not do Monday then.
+Patient: Oh, sucks. Ok.
+Nurse: How, how is [PHI-Personal]? It's a Tuesday.
+Patient: Ok, that'll be good.
+Nurse: Ok, so [PHI-Personal], Tuesday, these are the times that they have available. Ok, so there's 9 15, 9, [PHI-Account] 45 [PHI-Account] or [PHI-Account] 15.
+Patient: I'll see if I can get that [PHI-Account] 15. I, because I have to transfer the three different buses sometimes they be late [PHI-Account] minutes, 15 minutes and, and, and be a tight schedule trying to get there. Ok. So, but I hope that because one time I got, I came late, they did take me in, you know, about 40 minutes late or something like that.
+Nurse: Ok. So I got you scheduled for [PHI-Personal]? Yeah. Ok. [PHI-Personal] at [PHI-Account] 15 for labs. Ok. Ok. And then since I got you on the phone, [PHI-Personal], I was gonna give you a call tomorrow for a follow up call anyway, so we can kind of go over it today. Um, how give me one second, let see, just wanna pull up everything because I just see what we talked about last time. How has everything been with BP at home?
+Patient: Been good?
+Nurse: Been good. What kind of numbers have you been getting?
+Patient: Well, uh, I think the highest like was 1 45 over, over 80/80 over 80. That was the highest, but it'll be down to 1 25 sometime. [PHI-Account].
+Nurse: Is that where your BP typically is? In the one twenties?
+Patient: Yeah. [PHI-Account].
+Nurse: Perfect. And then, um, I know how's everything been with the diabetes at home?
+Patient: They, they've been good. I've been on my meds so they no problem.
+Nurse: How long have you been treated? [PHI-Personal], how long have you been treated for diabetes?
+Patient: Almost what, uh, [PHI-Personal] something years?
+Nurse: Ok. And then how, how is it when it, how does it affect your life?
+Patient: Yeah. Uh, I know I have, uh, problems with, with sex, you know, and stuff like that cause, you know, I guess, uh, I guess they say I, all the medications that I take has something to do with that too. So, uh, I know that, uh, and the other thing, there's no problem. It's just that,
+Nurse: And then when it comes to managing your diabetes, is it mainly doctor that does it, or do you see a, a diabetes specialist?
+Patient: No. Doctor? [PHI-Personal] that
+Nurse: Blood? Ok. Have you ever been hospitalized in the past? For diabetes? No.
+Patient: No.
+Nurse: And does that, do you have any family history of diabetes?
+Patient: No, I, no, none of my family members have it. Had it. I mean, uh, my dad and my mom, they didn't have it when I went in, when I went in the hospital for colon rectal cancer and when I had radiation and chemo and all that, when, when I got, when I went in for that, that's when, uh, they, uh, diagnosed me with, with diabetes.
+Nurse: Ok. Got you. And have you ever had, um, symptoms of low blood sugar or high blood sugar lins in the past?
+Patient: Yeah. Yeah, I have, I had, uh, low blood sugar a couple of times. I, I blanked out. That's been years ago.
+Nurse: Ok. So, do you remember what, um, symptoms you were having at that time when that happened?
+Patient: You know, lightheaded, uh, Yes. And my eyes was uh blur it,
+Nurse: So lightheadedness, dizziness, excessive sweating, shakiness, hunger, sleepiness. Ok.
+Patient: Um I had all of that because that
+Nurse: Was a while ago. Um, when you start to feel that way, ok, if you ever start to feel that way again, what I want you to do is I want you to go ahead and take 15 g of carbohydrates. So that'll be four ounces of some kind of juice. Um If you have glucose tablets, follow the instructions on what it says for that. Ok? Um So you
+Patient: Know how you, I usually uh usually I keep some orange juice.
+Nurse: Yeah, go ahead and drink some orange juice if you ever start to feel that way. Ok? And then I want you to wait a coup like about 5 to [PHI-Account] minutes and then see how you're feeling if you're still feeling that way, right? If you're feeling any of those symptoms, hunger, shakiness, sweating, feeling dizzy. I want you to repeat the process again. Ok? If you still feel that way or if you feel like it's gotten worse, then what I want you to do is I just want you to go ahead and call the ambulance. Ok? Because I
+Patient: Don't want it, it it it, it uh when I drink the orange juice, I drink a cup of orange juice, they usually bring me uh bring everything back.
+Nurse: Ok? Good. So I'm I'm definitely glad to hear that but this is like, in case it doesn't. Ok. In case if you're feeling like your blood sugar is really, really low, then that's kind of what I want you to do. But if it brings, if you start to feel better, like, and you're feeling like those symptoms are going away and you're feeling much better, then perfect. I just want you to kind of take it easy and then we'll kind of go from there. Ok.
+Patient: Ok. All right.
+Nurse: And then how about the opposite? Have you ever felt like, uh, have you ever checked your blood sugar? [PHI-Personal]?
+Patient: Mm. No. Uh, I, uh,
+Nurse: Medication.
+Patient: Yeah, just, I just stay on my meds. So it been for all that would happen to me been over [PHI-Account] years ago.
+Nurse: Ok. So you're taking your diabetes medication. So we'll k kinda continue with that if you ever see, feel like you're having any of these symptoms. Ok. Which is excessive thirst, fruity smelling breath, weight loss, frequent urination, fatigue, things like that. And you're taking your, uh, diabetes medication, then we're looking at more like your blood sugar could be on the higher end. Ok. So if you ever start to feel that way either give me a call and let me know and we'll kind of go from there probably with the medication, but more my more biggest concern would be your blood sugar being on the lower side. Ok. It dropping, um, so drink your orange juice, see how you feel after a couple minutes and kind of go from there. Ok.
+Patient: Ok. All right. Ok,
+Nurse: [PHI-Personal]. Do you need any medication refills real quick?
+Patient: No, not that I know of. I just got one last week. Yeah, call in and uh from the pharmacy they called in. I, they uh skipped it to me. Ok,
+Nurse: Perfect. So, um, one last thing that I wanna go over with you quick, [PHI-Personal] is the next couple of months because we are looking at three more months left until we hit the new year. So I will touch base with you probably mid [PHI-Personal] because I know you have an appointment coming up with doctor in about two days. So I will touch base with you mid [PHI-Personal], kind of see how that appointment went. Ok?
+Patient: This is what I need to know. Uh see when I usually get my blood work done. Then I next follow we I see do do little little but I hadn't gotten my blood work done, but I got a uh appointment with her uh on the [PHI-Personal]. So would I would I need to go in to see her anyway or just wait until I do the blood work and because she be want to know what, how my blood look my work, blood work look.
+Nurse: So what I recommend [PHI-Personal] is still keep the appointment kinda see how everything is going because I know um with the hurricane and everything. So kind of see how everything's going with that for you to be able to get
+Patient: There. Ok? With that with the [PHI-Personal] I got to see her on the 28th. That's Wednesday. Yes. So they gonna be open there.
+Nurse: We'll kind of keep an eye on it. Ok. So this is what I'm recommending [PHI-Personal]. We're gonna still keep the appointment booked, ok? As long as everything is still open, I'm still gonna recommend for you to go over there and do the appointment with her. Once she gets your blood work, we'll, they'll be, they'll give you a call when she takes a look at
+Patient: It, but that'll be, that'll be next week before I do my blood work. Yep. And that's fine. Ok. Well, well, the only thing I, I probably need to know now how I know that they open and then if I get on the bus and get over there and the place closed down, then I got to try to wait on another bus to get back home, to wait on another bus to get back home. Oh, is it?
+Nurse: Let me do this one? See, let me reach out to the office and see kind of what's going on for the week. Ok,
+Patient: Because as far as we call, but
+Nurse: Yeah, I'll give you a call back. So as far as I'm aware, they're still gonna be open. But let me give you a call because they should have in place a plan on. If they do close they typically will call patients and let them know that the office is closed due to
+Patient: What, whatever is going on.
+Nurse: Yeah. So that's what they'll typically do is they'll typically give a call, they won't just let patients not be aware and come there and then find out that it's closed
+Patient: Because I know by Wednesday probably be a lot of rain and stuff going on. Yeah. I hate to be out there like that.
+Nurse: Yeah. No, we don't, we don't want you to be out there with that tons of rain and with the weather like that. So what they're gonna more than likely do is go ahead and give patients a call that day or they'll take a look and they possibly could start the day before and let them know on whether or not they may, may be opened or not.
+Patient: Ok.
+Nurse: So, if you don't get a phone call then more than likely they are gonna stay open. But you should receive a call from them on if they're gonna be, if their appointments are gonna be, if, if they're gonna be closing down due to, with the
+Patient: Weather and everything. Ok. All right.
+Nurse: So we'll do that. So you should expect that if you don't hear from it, give me a call, we could always reschedule the appointment at a later time. That's fine. And then kind of go from there. But for your lab appointment, doctor will take a look at it and then the office when she takes a look at it and based off of kind of what she sees, they'll give you a call to let you know kind of what she says on how your blood work, blood work is.
+Patient: Ok? All right. Thank you.
+Nurse: You're welcome. Bye bye.
+Patient: Hm.

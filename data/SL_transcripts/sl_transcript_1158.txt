@@ -1,0 +1,63 @@
+Nurse: Hel. Hello.
+Patient: Hello. Hello. This
+Nurse: Is, hi. This is, can you hear me?
+Patient: Yeah. Well,
+Nurse: I'm sorry, the phone was breaking up and I wasn't sure if I lost you. Oh,
+Patient: No, you couldn't be that lucky.
+Nurse: All right. I'm sorry, you, I don't know why. For some reason your, your chart's not popping up here.
+Patient: My, what's not popping your,
+Nurse: Your chart? I was trying to get into your chart and it, [PHI-Personal] giving me a hard time. All right. Can you just confirm your date of birth for me to make sure I have the right chart open here? Sure.
+Patient: 10, 22 37. Perfect.
+Nurse: All right. I, so I thought there'd only be one [PHI-Personal]. Good. But, you know, I always like
+Patient: To consider more than one. All
+Nurse: Right. So I just wanted to let you know, I did get a call back from, I called and spoke with [PHI-Personal] over at your cardiologist office and, um,
+Patient: I, I'm not being, which
+Nurse: She's one of the nurses.
+Patient: Mhm.
+Nurse: At, at, um, at your,
+Patient: Oh, sorry, their whole organization.
+Nurse: Uh, yeah, I, I don't know. She has
+Patient: A grain of salt because I've talked with them before. But, go ahead.
+Nurse: Yes, doctor. And I'm gonna [PHI-Personal] his name. [PHI-Personal]. Got it. All right. It was, hi. I called his office directly because he's the one who orders your Coumadin. And I asked them, I said, you know, she really doesn't like going out to the lab that, you know, she's got, she's got veins that are hard to get sometimes and she's got a lot of PT IRS. Um, because there are other options to monitor your PTINR. There is a home monitoring system, some offices like them, some offices don't. So before I talk to you about it, I wanted to make sure they would be ok with it. Mhm. And they said that that would be ok. So they're gonna reach out to the Coumadin Clinic and get, they're gonna call you and get you set up if you're ok with it.
+Patient: Um Essentially tell me about it first.
+Nurse: Yeah, essentially what this whole monitoring system is is they're gonna send you out a kit and it's gonna have lancets to prick your finger and it's gonna have, it looks like a blood like you check your blood sugar only. It's bigger, it's gonna be about the size of your hand. Um It's actually really simple. I use them all the time when I worked in home health. You prick your finger, you put the, it's gonna be um a bigger drop of blood than if you checked your blood sugar. But you put the drop of blood on the strip and it gives you uh your PTINR within 30 seconds and then you don't have, you don't have to go to the lab. You don't have to do anything else other than check your blood sugar and just send it off to your doctor. I check your blood for your ptinr. I am so sorry.
+Patient: Check your,
+Nurse: Yeah, check your blood for your PTINR and then that would just be it. You'd send it right over. You don't have to go to the lab. You don't have to wait in line. You don't have to get your blood drawn. It's just a quick prick of the finger and that's it. And
+Patient: Let me ask you this how often I have to do this.
+Nurse: Um, it would be the same frequency. So they would like it done every [PHI-Personal]
+Patient: Weeks. Well, I don't care what they'd like. I'm not doing it every [PHI-Personal] weeks. So I, I'm, I'm, I'm cooperative. I'll tell you that right now. I might as well be up front. You're being nice to me. I'm trying to be honest with you, but I'm not doing appreciate honesty. It's a bunch of crap. It's ridiculous. I have better things to do with a little bit of time left in my life. Sit around jabbing myself every couple weeks. I mean, it's ridiculous. Well, who cares
+Nurse: The problem is that, that Warfarin is a very, um, very well fragile drug. So, if you have too much vitamin K in your diet. It can change it. If you're on antibiotics, it can change it.
+Patient: I'm not, not,
+Nurse: Stress can change.
+Patient: So that I have,
+Nurse: Yeah. So that's why we wanna know because, I mean, and I, I'm, I have patients who, who was like, yeah. Yeah. Just like you. Uh, and I get it, it's hard. I wouldn't wanna do it either. I had to check my blood sugar for a while and I hated it. Um, but at the same point we do need to make sure we keep at least a somewhat close eye on it. I've had patients within [PHI-Personal] days go from abso on the lower end of normal. Then they went sky high to, at a level where I actually had to send them to the hospital because they were so high and I didn't want them to have a stroke because you, if your blood gets too thin you can have a stroke. Yeah. So that's what we just wanna,
+Patient: That's part of the part
+Nurse: And that's what I listen.
+Patient: That, that's just the way it is and that
+Nurse: Is per, that's fine. I'm not gonna force you to do anything. All I wanna do is I wanna give you all your options and you choose what works best for your lifestyle
+Patient: Because I know I'm just trying to get by day by day as long as my husband needs me. And he said, I don't care. Well,
+Nurse: We'll, we'll help you get there. Is that I'm, I, listen, I'm a very blunt, honest, honest person. I'm gonna tell you how it is, give you your options, you do with it. What you will is, is how I, I operate. So as long as, as long as you're ok with that, we'll
+Patient: Go with it. Well, I don't know if I am. I don't know if I want. Oh, no,
+Nurse: No, no. I meant, I meant you and I be honest
+Patient: When I feel like it.
+Nurse: Ok. All right. Well, I will let them know that that's what you want. Um, if
+Patient: That, uh, this one girl done at the, uh, get used to me, believe me and she understands and, you know, she doesn't give me a hard time and I appreciate that, but I, I, they say you have to be here. I have to do it. I just don't, I'm not doing that. I am not willing to, uh, succumb to any timetable. I wanna look on my timetable. That's, that's the way it is. I, I have to live with it and if I can't, if I don't live with it, who cares? There's nobody left to care, trust me. So I don't, you know, and we're just getting along the best we can for as long as we have. And that's it. That's fine. I'm not blowing anybody off. I'm just the recommendation I can't deal with. That's why I never joined the service
+Nurse: I understand that.
+Patient: Alright. Well I'm not good at following orders. That's fine.
+Nurse: I I fully understand that I'm gonna I just wanna give you all your options to give you, give you an informed decision.
+Patient: Yeah. Right. I am honest I'm not stupid I went through nursing school. I I'm a registered nurse too I got oh no
+Nurse: Wonder you're so stubborn. That's
+Patient: Exactly right. I sent in my license because I was getting tired of getting all these job offers. 567 a week. What? Let me alone. So turned in my license.
+Nurse: Yeah. You would have been getting them all this past
+Patient: [PHI-Personal] years. Oh, I know. I don't want any parts of it. It's can, I, I'm just in a point where it's called Let me alone, you know. No, I get it. I think I made my contribution to society. Now. It's the turn to let me alone.
+Nurse: Hey, I'm ok with that. Now, I do just wanna double check here because your husband, um, was on for services with us too. Um, is it ok to get him started with services?
+Patient: Oh, yeah, you'll have to go through me. But, yeah, I mean, it wouldn't do you any good to try to do it any other way?
+Nurse: All right. Um, can I give you a call tomorrow then and get him all set up? I just gotta, gotta get a few more things in my system so that I can get him
+Patient: In dose of this.
+Nurse: I'm sorry, I promise it'll be a test. Oh, yeah, I like talking to you and I like anybody who's open, honest and up front with me. Don't your, to just give me the
+Patient: Fact I'm not gonna lie to you. Right. Right. On a regular basis. But like they tell me a date, I can't always remember the exact date. Well, no, you know, a couple of week I go.
+Nurse: Oh, that sounds good to me. Um I have here that you would prefer me call you in the afternoon. Is that ok? Is that still alright? I'll give you a call to tomorrow afternoon to get your husband set up.
+Patient: Ok, fine, thanks.
+Nurse: You're welcome. You have a great night and you too. We'll
+Patient: See you. Thank you.
+Nurse: Bye bye.

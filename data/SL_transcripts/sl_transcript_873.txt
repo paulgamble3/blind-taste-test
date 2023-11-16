@@ -1,0 +1,6 @@
+Nurse: Hi, this is [PHI-Personal]. Hi, [PHI-Personal], this
+Patient: Is [PHI-Personal] calling and, uh, hi, I usually work with, uh, [PHI-Personal]. Um, yeah, I'm calling about a need for medication.
+Nurse: Sure. She's here today. Hold on one second. Let me see if she's on a call and let me just pull up your chart for her. Give me one second. Ok. Yeah. Ok. Hold on please, [PHI-Personal]. It looks like she's another call, but I sent her a message to call you if that work.
+Patient: That's wonderful, [PHI-Personal]. Thank you so much for your
+Nurse: Care. You're absolutely welcome. Thank you. She'll hopefully give you a call shortly. I
+Patient: Know. Ok, appreciate it. Bye bye now. Bye.

@@ -1,0 +1,55 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal]. Low calling. I'm returning your call. Oh, yeah,
+Nurse: Thank you for calling
+Patient: Back. Yeah, you're welcome. Let
+Nurse: Me just pull you up in the system. Ok. I know everyone's so busy now that the warm weather's here. So
+Patient: It's, well, I'm so busy taking care of my parents. So I co come up here just to get a break every now and then and check all my messages. Got you. Yeah.
+Nurse: Ok. How long have you been taking care of your parents?
+Patient: Ohh. My mother [PHI-Personal] of last year, she hasn't been to a doctor since [PHI-Personal] and she's [PHI-Personal] years old. Good for her and she had a slight heart attack. So her, her aorta valve is closing shut. Plus she has a valve that's leaking and now the circulation in her legs can cause blood clots and now she can't taste no food liquids. She can't. It's getting, and then my dad's gonna be [PHI-Personal] and he's doing ok. I mean, ok, for his age, I guess, I mean, he has issues too, but I had the va to back me up on that. But my mother it's getting. So, I don't know that perpetual care or whatever you call it. Mhm. They even have to come in because even the heart doctor said within time it's gonna be in and out, in and out the hospital and you're gonna have to sooner or later get hospice. So, it's just more or less me every day watching her slowly go is what it is. So, it's heartbreaking.
+Nurse: Yeah. Now, are you living there? And you just stop back once in a while? Oh,
+Patient: No, I have to spend the night there. But no, I have to come to my house. I can't do that yet. I need my time. No sooner or later. I have to. Yeah, but not. Yeah. Well,
+Nurse: How are you handling all of that? You said you need time away. Are you, are you using that time to decompress to
+Patient: Just relax and no phones ringing and no, sometimes I'll go, like, maybe I'll try this to eat, maybe I'll try this to eat and maybe, and her memory's going, she don't remember this, this and that. And, um, I just come here, my brother's there every day and my kids stop by. So it's not, you know, as bad and then they help a lot and then she's in bed by [PHI-Personal] 30 at night. But I feel I have to stay down there because they're both on walkers just, and her legs are starting to get weak. So other than that. I, I'm just need to escape from sitting and watching you. You know what I mean?
+Nurse: Yeah. And the stress of that, of caregiver is, you know, does a number on you physically. So make sure you're, you're still taking care of yourself. Getting out exercising.
+Patient: Ohh. I do that enough at stores.
+Nurse: I know running around here and there all the
+Patient: Time. Yeah. And I take, uh, one or a day a week to come up and get on my little rider and just relax. I never used to love mowing the lawn until now. Oh, now I do. But, yeah, other than that, um, I was having issues with my left hip and I went and she, I don't need a hip replacement. It's, um, inflamed and she put me on medication and it has done wonders. What was the
+Nurse: Medication?
+Patient: Oh, I don't know what's down there. It's like
+Nurse: I, I have, um, I have, I have your whole list. Let's just run through real quick. And then when you get to that one, let me know, uh, Simvastatin you're still taking? Yeah, Jardiance.
+Patient: No, I said no more.
+Nurse: Were you getting side
+Patient: Effects? What's the, not jar? And let me see, the, I have, I got a, is usually
+Nurse: For diabetes, I believe.
+Patient: Ok, that one, yeah, there's so many. Yeah, I'm taking that one. Ok. If you say another one out, unless she already took it off,
+Nurse: That's an injection. Mhm. Ok.
+Patient: For my legs. Yeah.
+Nurse: Pantoprazole for like a heartburn. Um, breo for breathing. Yep. Lantus 20 units. Mhm. Baclofen. Yep. Um, the HYDROcodone acetaminophen.
+Patient: Yes, I take that.
+Nurse: Ok. And are you checking your blood sugar every day?
+Patient: I haven't for three days but three days ago it was like 1, 18, 1, 19. So I've been good on that. Beautiful. I mean, I haven't really been eating no sugar or nothing, I guess to being down there, I eat sensible.
+Nurse: So, yeah. And do you know when your blood sugar fluctuates? Can you feel it?
+Patient: Mm. Not lately. I haven't. No. Ok. No, no. So like if you start to
+Nurse: Get sweaty or you start to feel off or you know, dizzy then you know, just make sure you have it with you just in
+Patient: Case. Yeah. Well, my dad has one too. So perfect until he used to be a diabetic. So once in a great while when I'm down there I use his good
+Nurse: And I don't see any other meds. So maybe they already took it off of your list.
+Patient: Yeah, but I'm on the one. It's something for, it was inflamed. My hip hurt. So she put me on that and I really can't think of the name of it right now. It's like this
+Nurse: Appointment was it just in [PHI-Personal]
+Patient: For [PHI-Personal]? Yeah. Yeah.
+Nurse: Ok. I'm pulling that up and
+Patient: She had to send a referral over to um doctor uh my hip doctor Pat what it Fitzpatrick or Fitzgerald or Fitzpatrick over there at the WC A. That's who does my hip. Well, they did my knee but they, I had a new girl and, uh, she checked me and I had an x-ray over there because [PHI-Personal] had to send a referral to have an x-ray. So.
+Nurse: Ok. Yeah, I don't see anything in the note yet, but I can always go through that after. Ok, just double check. But anyway, it's working. Right. Yeah,
+Patient: It's doing great. Yeah, good. I'm doing good. But yeah, I have that medicine down there because I take it twice a day. So. Ok, it's down there. Sorry, you're going
+Nurse: Through all that stress.
+Patient: No, I know it's just, you know, heartbreaking because I know what's gonna happen but I'm kind of hoping that it doesn't happen where she's gonna continue going in and out and in the hospital and everything is like now she's got issues with her kidneys too. Um I'm just, she's doing so much suffering and she's so, you know, upset because she can't taste anything. I, I wish God would just take her right in her sleep. I really wish, you know, but we will see what happens. That's all I can do. I mean, she lived a good life [PHI-Personal] and she's gonna be [PHI-Personal]. Dad's going to be [PHI-Personal]. So, you know, it's, it's probably time.
+Nurse: Yeah. And then the grieving are you just still in task mode so you can, you don't really have time to think about it.
+Patient: Right. I don't really have time to think about it. Um, when she is sitting in her chair, what she does all day, just sit, she hates TV, sits and stares or whatever. Um, I either go out in my dad's garage and sit in my brothers and that are out there. Somebody's always out there or I sit out on the porch at their house, so I always have somebody to talk to. But then again, I just wanna come up here and be by myself, you know, and just out of the drama and out of everything, I just relaxes me.
+Nurse: So, yeah, everyone has their own way to cope. So whatever works for you keep doing it.
+Patient: Yeah, it does. So, other than that, I'm ok. All
+Nurse: Right, [PHI-Personal]. Well, if anything else comes up, let me know. Otherwise I'll be checking in and I don't wanna harass you too much. So, would you rather me call, like, every couple months?
+Patient: That would be good because like I said, within a matter of fact, within the next months, days, weeks, I don't really know what's gonna happen. So, but I always check my messages when I do come up. So to my house.
+Nurse: So. Right. Well, I'll plan to call in [PHI-Personal] then give you a little break and then if anything comes up and you need me or you need refills, you feel free to call.
+Patient: I will. Thank
+Nurse: You. Alright, good luck with everything.
+Patient: Thanks a
+Nurse: Lot. Alright, bye bye bye.

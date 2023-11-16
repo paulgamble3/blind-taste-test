@@ -1,0 +1,10 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you? Hi,
+Patient: [PHI-Personal]. It's [PHI-Personal]. Hi. Ok, we took the batteries out, we put the batteries back in. Um, and I took it again, it says that it's 1 48/92 with a, uh, heart rate or pulse rate of 73. Ok. So,
+Nurse: Well, that could be why you're feeling better.
+Patient: Yeah. Must be. Yeah. Ok.
+Nurse: All right. Well, that's good to know. At least you're not, you know, just making sure wanted to make sure you're not bottoming out. Yeah. Right.
+Patient: For sure. Ok.
+Nurse: Ok. All righty. I will let doctor know. So.
+Patient: Yeah. All right. Thank you. Thank you very
+Nurse: Much. No problem. Take care. Yep. Bye
+Patient: Bye bye. Ok.

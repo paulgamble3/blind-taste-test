@@ -1,0 +1,15 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. This is [PHI-Personal]. How are
+Nurse: You today? Oh, I'm doing well. How are you? Uh, real good, thank you. Good. Sorry about all the phone take today. Um, I apologize
+Patient: Iii I had the wrong time for my uh, cardiology appointment this afternoon. It's not until 1 45 but he's only [PHI-Personal]. He's only about four minutes away from us. So. Oh, good. Not, not, not a big deal.
+Nurse: Good, good. I was just calling just to um follow up quick. Um, from the last time we spoke. Um, you, um, we had tried to get those refills for those prescriptions for the Ven Xin and the Donepezil. So I just wanted to make sure because I saw those two were sent over to your pharmacy. Um, this was a while ago now, earlier this month I just wanted to make sure everything was squared away with that and that you picked them up.
+Patient: I, I got them and everything is fine and I'm taking two now of the Xin and I'm not noticing any difference between taking one and taking two.
+Nurse: Ok. Ok. All right.
+Patient: So, I don't, I don't know if that means I should continue to take two or if I should go back to one. Right. I don't know. I don't, I don't really notice any difference.
+Nurse: Ok. Ok. Yeah, I would, I guess I would say, you know, to, can continue with the, you know, the increased, you know, dose if, if, I guess, I don't know how long I'm not very familiar with that medication if it takes a little bit for, you know, it to completely, like, kick into your system or anything like that.
+Patient: It, it do, it does, uh, it, it takes a while for it to be really effective several weeks. Right. And you have to, and you have to gradually get off of it if you wanna get off of it.
+Nurse: Right. Right. Exactly. Yes. Well, if, um, you know, by the time we, you know, speak again, um, you know, in about a month or so from now, if, um, you know, if there's still nothing, you know, with that change and everything and the dose, um, you can let me know otherwise, um, you know, you're good about using your Mychart too. If you need to, you can always utilize that to keep them updated with everything as well. Yes. Ok. All right. Well, I just wanted to make sure that the medications were, you know, good to go and everything and, um, that there's no issues, um, picking those up. So I'm glad to hear
+Patient: Perfect no issues. No issues on uh pharmacology. Perfect.
+Nurse: Fantastic, good, good and um and then uh happy [PHI-Personal] birthday, by the way, I don't think we've spoke since it was your birthday a few days ago.
+Patient: Thank you.
+Nurse: Yes, of course, definitely. Well, I'll follow up with you um next month and see how you're doing but give me a call in the meantime if anything comes up, ok, will do. All right, sounds good. Thanks for calling me back. Thank you, sir. Alright, bye.

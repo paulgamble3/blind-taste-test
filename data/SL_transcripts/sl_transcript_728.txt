@@ -1,0 +1,93 @@
+Nurse: Hi, [PHI-Personal].
+Patient: Hi, how are you? I have the medicine that, that spray stuff we needed. Oh. Were you able to get good? Yeah.
+Nurse: Yeah. Is it working for you?
+Patient: Yes. My eyes aren't watering as bad.
+Nurse: Yeah. Um, well, I'm glad you're able to get it. Did you just get out today? I know the, we weather has been crappy for
+Patient: You. I'm not going no place today, but I'm gonna spend overnight with my granddaughters tomorrow. Mhm. So, I'm gonna have a good weekend.
+Nurse: Very good. Very good. Now, how is your BP? Has it been good too? I've been, you know,
+Patient: You're gonna make me get up, aren't you? It was fine the other day when I took it.
+Nurse: Ok. Just make sure you monitor and keep it on the log book.
+Patient: Um, but they said at the Y MC a, twice a week. Oh,
+Nurse: Ok. Yeah, we discussed it. Ok. Yeah, I would just write it down when you come home from there. See if you, you know what I mean?
+Patient: If I go down or back up. So, when I do that one will be the first one for next week and I need to do one more this week. So I'll do it sometime today. Very good. Ok. Yes. Sounds good. So see the difference. But my thought too
+Nurse: Like accurately like maybe like, I mean, I don't know. Do you sit down before you do it or no?
+Patient: Yes. Yes. Sit down. Make sure I don't have to go to the bathroom. I haven't had any uh caffeine. I know, I know this girl, it's just that it's ok.
+Nurse: Mhm. You're gonna tell me everything I was gonna tell you that's gonna be like that.
+Patient: But, you know, after my ex had a heart attack at home, he kept telling me to put him in the car and take him to the hospital and I was feeding his vitals over the phone. Mhm. And if I had to put him in the car, he'd have never made it. But the nurse in [PHI-Geographic] wouldn't leave me alone. How did you know what to do? I don't know. I didn't know that lady. Yeah. So while they had him in surgery, she sits down beside me, we need to know how you knew what to do. I guess now I've gotta give it up, don't I, I worked in a hospital for 40 some years of my life. Mhm. And I was on an ambulance crew.
+Nurse: You were saying you were on that?
+Patient: Mhm. Yeah. That at some point in time you have to remember what, you know, to take care of yourself. Exactly. And he said other people focus on other things instead of their themselves. And this right now is about me.
+Nurse: Have you? Um, ok. So you're gonna take it twice weekly. Um, and you're taking the metoprolol 50 now, right.
+Patient: Yes, I have now, uh, since we talked last week and I used up all the rest of the other ones first. Ok. That stuff is too expensive to just throw what I had it anyway. Yeah. So I did, what was the right thing to do?
+Nurse: I just don't want you getting confused but you, you already, you had enough, you, you were fine.
+Patient: Um, the lung doctor and I didn't realize what I, what was happening. He told me that I have [PHI-Personal]. You could see it in the x-ray. Mhm. Looks really good to take, to subside that.
+Nurse: Um, I don't know what kind of [PHI-Personal] he's talking about. Like, what is he talking about?
+Patient: I don't know that probably the nurse at the doctor's office would know what he was trying to tell me because they've gotta have that because I
+Nurse: Don't know what, like I'm not, I don't specialize in pulmonary. I don't know. He didn't say like, like on here, you know what I mean? I wouldn't want to say, hey, take this. He's talking about like indigestion [PHI-Personal], but I don't know. What kind of get, like, what does he talk? You know what I mean? He
+Patient: Didn't really explain it and I didn't make him. Mhm. Because it's Pulmonary. Yeah. Ok. That, if it's something that needs to be addressed so everything else works. Ok. I'm just wondering if there's something I can take or Tums or what?
+Nurse: Yeah, I would see what he's talking about first because you didn't.
+Patient: Yeah, I'm not, I won't go there. That what I'm, what I'm trying to say is instead of letting it go overboard, maybe we can understand what is happening and address it because last, you
+Nurse: Feel like you have heartburn or you burping a lot or anything like that or?
+Patient: No, that's not it. I get really bad [PHI-Personal] since he told me that I'm noticing it. Mhm. I don't think it's in my head. It doesn't hurt, hurt but there's a sour taste in my mouth after and stuff. I wonder
+Nurse: If I have GERD though. That's, um, like, because that is, um, like signs of, I don't know if you ever had GERD.
+Patient: So
+Nurse: I have, um, I don't see it on your diagnosis list here. Um, but that could definitely, you know, I mean, the symptoms of that is like heartburn, difficulty swallowing indigestion, feel like something's
+Patient: Your throat. Mhm.
+Nurse: Do you have a lot of indigestion or?
+Patient: It was, it wasn't until I laid down last night? Ok. And I know I know there's still turmoil inside my family and then my brother in law, my baby sister's husband called me last night. He's got trouble in [PHI-Personal]. And then I'm thinking maybe my stomach can't take this but I still try to be [PHI-Personal] without condemning or anything but help my family because they're important and my baby sister has been dead for three years and that man's still wearing his wedding band. Oh, that, I wanna be there for him because he loved her. Yeah. But, uh, I noticed after all of that that it might be my weight too. I don't know, but it bothered me and I thought that sometime today I touch base with you and
+Nurse: Yeah, I mean, it definitely, I mean if you feel like you have indigestion and do you feel like acid coming up or? No?
+Patient: Um, I did for a couple of minutes. Ok. I almost got up and took baking soda.
+Nurse: Ok. It wasn't like chest, no, chest pain or anything like that. No,
+Patient: No, no, no or I'd have been on the phone a lot sooner than this. Ok.
+Nurse: Ok. Yeah. Um, aggravating factors for that could be like if you're eating, did you eat something fried fatty or spicy last night?
+Patient: No.
+Nurse: No. Ok. Um, they say lose weight if needed, sit up right? Three hours after meals. Uh quit like avoid coffee, chocolate, peppermint. Um, that could all cause like increased acid secretion. But I could see like, did you take anything after that or? No?
+Patient: Uh No, but I was thinking about going today and getting some Tums. Tums because that shouldn't be a bad thing but it should subside it so I could sleep better and I did.
+Nurse: Yeah. Um, and it just started happening. Right.
+Patient: No, I think he's right. I think I've noticed it off and on,
+Nurse: Off and on. Ok.
+Patient: Um, but maybe it's a side effect of one of the meds I'm taking, so some of the meds I'm taking, I've been taking for a long time now.
+Nurse: Ok. Do you cough or anything? No? Ok. But do you feel like it's wor worse with nerves and stress?
+Patient: I don't know, I'll start paying attention to that.
+Nurse: Ok. I mean, it could very well be GERD. Um, I could see what recommends too. Um, so you don't have any chest pain, no, um, pain or cough. It's more when you lay down at night. Right.
+Patient: Well, the minute I laid down and I fell asleep in my chair last night. So I was setting up, like you just said before going to bed and then all of a sudden I'm laying down and I noticed it. Hm. I only drink a cup of coffee a day. I haven't had any kind of, uh, soda pops or any of that kind of stuff that would subside at two. But, uh, if it's something and he saw it, I think it's been bothering me since that. It's probably time to find something to take care of that.
+Nurse: Yeah. I don't know if that's associated though with this.
+Patient: What's that? Tell me what you think. What,
+Nurse: What pulmonary said? Yeah. I don't know if it's associated. Like, did he say? Do you have, you know?
+Patient: No, he said you have, what was, how did he say it? Huh. Now, I forget exactly what he said. It's got a [PHI-Personal] in
+Nurse: Your lungs or chest or something
+Patient: Ga, like [PHI-Personal]. And I looked at him like, huh? So, what do you say to do? And he didn't tell me nothing to do for it. Technically he a medical doctor is he? But I probably should have put him on the spot
+Nurse: That long. But
+Patient: It's gotta be some place in that report and Doctor [PHI-Personal] office is gotta have it and if they don't, they can figure this out.
+Nurse: Yeah. I mean, I'll tell him that that's what you said, you know, because I don't
+Patient: Wanna, I don't wanna go to bed late again and then wake up, you know, not be able to fall asleep in bed because it's probably, do you burp at all? Not really depends on what I eat.
+Nurse: All right. Yeah, I'll let you and I'll see if she recommends anything for you. Um, too. Ok. Yeah. And I'll say you remember pulmonary saying you had [PHI-Personal] in your lungs, wonders if this is associated. Um,
+Patient: You know, um, because they've gotta have the report by now because it's been at least a month. But I don't see, I
+Nurse: Was talking about anything with [PHI-Personal] in your lungs and this report
+Patient: Not in my lungs, in my stomach. Yeah. C
+Nurse: T um,
+Patient: But if it's nerves, that stuff, they put me on B US and it, it's helped a lot that maybe I should be taking it like I am to calm me down.
+Nurse: Well, you don't, you're not taking your anxiety medicine.
+Patient: Yes, I am. That's not what I'm saying. Oh, what that, if I've taken it, maybe we need to up it a little bit to calm me down a little bit more. I'm, I'm not trying to be the doctor here. Don't misunderstand. Do
+Nurse: You feel anxious or? No?
+Patient: No, no, no, I feel good taking it. Yeah. And
+Nurse: Work. Ok. I mean, if you feel like you're anxious, then let me know, you know,
+Patient: The craziness that I've been through with my siblings and then my nieces given their stepfather a rough time. Uh I can't fix that and I know it, but I could calm him down and I did last night. Ok. I have no reason to dislike that man. Yeah. And my grandson thinks he's the next best thing to peanut butter toast. That my grandson is a good person, knowing other people. That, uh, what am I saying? I don't think I got too upset with that last night. It just helped him.
+Nurse: Mhm. Ok. And I'll put, I mean, you've had a lot of stress in your family that you've been dealing with and I mean, you're managing your anxiety with medication you're taking it as directed. Right. Mhm. Ok. And I'll tell her that, I mean, that's been going on too just so she knows. I mean, that's happened. Um. Mhm. So sorry.
+Patient: But last night I decided when I got up this morning and I, I drank a cup of coffee that it's time to see if there's something we can do to slow it up or get that crap away.
+Nurse: Because that could, if you're anxious too, that could lead to high BP, you know. Um, as well, or genetics, lifestyle, food medicine, you know. Yes. Yes. Make, make sure you're following a healthier diet exercise. And
+Patient: I'm still working on weight loss and that'll help you with that. I've already lost some weight. I was so excited when I look down at the scales and I'm trying to stay there and see what else happens next because this is about me right now. I'm no good to nobody and I'm gonna be a great grandmother.
+Nurse: Yay. That's so exciting.
+Patient: I just, my, my brother before he passed had like four of them and he's younger. Is he? And here I am it's been gone over six years and here I am and it's finally coming. What? I don't believe in being rabbits. Maybe his kids do. God, I miss him.
+Nurse: Yeah. Ok. Well, I'll definitely get this out to [PHI-Personal]. Um, I don't know when she'll get back to me though.
+Patient: Ok. It's ok. Don't worry about it today because we should have talked about it before now. And I'm apologizing. You're ok. You're
+Nurse: Ok. I'm going to, um,
+Patient: Night when it hit, I made up my mind that it was time to address it. Yeah.
+Nurse: And that's the, that's the best thing you could do. We'll take care of it for you.
+Patient: Me, I,
+Nurse: But I'll get back to you. She might even be on because sometimes she's, I know, I think she's on a medical leave. I heard for a little bit, some kind of
+Patient: Surgery after the paper. Oh, she had surgery?
+Nurse: I don't know. I, I don't know. I don't know for sure. I don't wanna get that spread around.
+Patient: But no, uh, more than likely if I'm not gonna see her for three months. You're right. She had some kind of surgery done. Mhm. And, uh, she needs time to heal before she goes back to work. But it's some time in May when I go back. Mhm. I don't know if I want to put up with this. What happened last night until then? Yeah. Ok. All right here. If we don't, if we don't get it today I'm apologizing for not saying something sooner and we'll just take care of it when we find out what to do.
+Nurse: All right. Sounds good.
+Patient: All right. Thank you and have a great weekend and don't get too cold out there. You too. All right. Thank you. Ok. Have a great day. Bye bye, honey.
+Nurse: Bye.

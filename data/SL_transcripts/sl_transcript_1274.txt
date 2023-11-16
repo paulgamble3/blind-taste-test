@@ -1,0 +1,89 @@
+Nurse: Good Morning Care Management. This is [PHI-Personal]. Can I help you? Uh, this
+Patient: Is [PHI-Personal] calling back.
+Nurse: [PHI-Personal]. How are you?
+Patient: I'm all right. Yeah. What's new?
+Nurse: What's exciting? Anything?
+Patient: No,
+Nurse: Nothing at all.
+Patient: Well, at my age,
+Nurse: I'm just pulling up your chart here. [PHI-Personal]. Ok. Have you had any visits with doctor [PHI-Personal] recently?
+Patient: Mm. No, I'm not due, ah, well, not until I think it's [PHI-Personal]
+Nurse: Like that as soon as this loads I can tell you exactly. It's, the computer is giving me a hard time to seven
+Patient: [PHI-Personal]. Ok.
+Nurse: Ok. Good. How are you doing with prescriptions?
+Patient: Ok.
+Nurse: Ok. Good, good. You're taking everything as directed. Do you have any, um, concerns about any of them or need refills from doctor?
+Patient: Any, what
+Nurse: Do you need any refills on anything?
+Patient: Uh, not that I know of. I mean, usually I think probably find out from if I needed anything. Good.
+Nurse: Ok. Um, how have you been doing as far as you haven't had any colds or flus in the last couple of months?
+Patient: Yes, I've had cold. Oh, you did? Ok. I did. And I, uh, um, no, yeah, it was going around the family, you know. Uh, I had it, uh, I don't know if I got it from somebody else first and then up, it kind, came back around a second time and my son had it. So, you know, we kind of were going right around. Yeah.
+Nurse: Did you test for COVID or? No?
+Patient: I have not, uh, tested. Uh, well, I did, uh, one of those ones that you do at instant, uh, when I went to visit up to summit and, uh, yeah. Ok. Good. But otherwise, you know, you don't go getting it most of the time. Yeah.
+Nurse: So you're, you're better now. Oh, yeah. Ok. Ok. Good. You know, that's the thing about, you know, colds, flus COVID. They, once, 11 of you is get it, everybody gets it so whatever you can do to decrease your risk, um, you know, the hand washing and the, not, you know, using the same cups and balls and, and stuff like that. Oh, yeah. Um, yeah, the transmission and anything you can do to decrease the risk. But, you know, it's hard. I mean, um, especially if you, you have family visiting or you're living with, uh, do you live with your son? Right.
+Patient: Yeah, he loves to be. Yep.
+Nurse: Mhm. So, it, it's, it's hard but, you know, whatever you can do but 11 little cold, that's not too bad. Knock on wood.
+Patient: No, it's not. And I found out a long time ago. Well, I used to catch a lot of colds and had a hard time, um, getting rid of them and bought the cold Tylenol and medicine or cold Tylenol flu. And as long as I got it right in the beginning it wouldn't get bad. Like, yeah, used to get a bad, hold on. So, you know, you find what works and you try to head it off. So,
+Nurse: Yeah. Well, you, you know, that's a good, a good, um, process you have going on there. That's, that's a good way to do it. The, um, you know, and keep yourself, especially this time of year. Keep yourself built up lots of fluids, lots of good nutritious foods, you know, make sure you're getting enough fruits and vegetables and you're getting enough rest. Um, if you're able to get any exercise in, you know, a little bit of walking every day, you know, even when the weather is nicer, um, that all that stuff, doing all that stuff kind of [PHI-Geographic] and if you do bit better. But that's, um, yeah, I'm glad that I'm glad you didn't have COVID, that's for sure. And I'm glad you weren't, you know, you didn't get sicker than you did because it's been rough for a lot of people this year.
+Patient: Yep. Yep. And of course I've had the shots and everything but they say that doesn't prevent it entirely. But,
+Nurse: Yes, that's true. That is very true. Um, you know, it's one of those things where, you know, you hope to, you get vaccinated, you do everything you can and you hope that if you do get it, it's a mild version that you're not ended up in the hospital or in the intensive care unit or on a ventilator. You know, that's, that's the goal there. Mhm. No, no, nobody wants that. It's scary business. That's for sure. That's for sure. So, um, how are you feeling otherwise? In general?
+Patient: General? Yeah, I feel ok. Ok. Good bye. You know what? Ok, my age of I doing ok doing things around the house where I feel like doing and keep busy and, you know, some days you do more than you do for other days.
+Nurse: Yeah, I get it. I get it, you know, especially on the, you know, the overcast gloomy or cold days, you know, people don't have as much energy as they do when the sun is shining it seems.
+Patient: But I keep on the go, I get out and go wherever I want to go. If I want to drive someplace or locally I get out and go once I get, I just get, well, I don't know. What do you call it? Uh, you, you just gotta get out and get out of the house, I guess. Uh, stir crazy or something.
+Nurse: Mhm. Yeah. No, I, I get it. And you do, you really do. Um, you, you can go stir crazy, especially when you're trapped with the weather being so bad
+Patient: And it's, you can't, I can't get out and walk around here, uh, in the winter there's when you're not living in town and, or, you know, it just outside the town for where the sidewalks are and half of them don't do their sidewalks. So. Mhm. I don't try to go walking around in town yet.
+Nurse: Yeah. I don't blame you. It's, it's not safe, it's not safe. So, who does like your, like, if you wanted to go out, would you have, like, if it, if a snow came or ice would you have clear pathways to get out and be safe to, to get to a vehicle?
+Patient: Oh, yeah, our driveway. My son keeps it cleaned out.
+Nurse: Oh, good. Ok, good. And of course, hopefully you'll be wearing some good shoes or boots that have some rubber on them. You know, you don't want to slip anything that can help you from slipping. Do you use a cane or anything [PHI-Personal] or? No? Huh. Do you use a cane or anything like that to walk?
+Patient: Uh, no. Uh, if it's summer across the street there's a cemetery and I take a walking stick over there, you know, uneven ground, but it's with the walking stick, you've got just enough something for, you know, for support in the uneven ground. And that works great. I go in the store. I, I got a basket and push the basket around and, you know, but, uh, otherwise. No, I don't use a cane. Yeah. So,
+Nurse: No, I, I totally understand. Yeah. And the basket does come in handy to give you some support when you're in the grocery store. That's for sure. Mhm.
+Patient: I don't know. But, uh, what is there about the hard surfaces? They're a lot harder on your legs to walk. Oh, yeah.
+Nurse: Yeah. I mean, they're definitely safer because obviously, you know, you're not having, like, if you're out outside you're not having dips and holes and mud that you could sink into or ice, it's definitely safer to, to walk, like, say in a grocery store or a, or in a mall because it's flat. But, you know, too much of that can be bad for the joints, like the shock of it, you know, the, it's hard on the joints. So, but I would think just going to the grocery store wouldn't be too much. But if you did that every single day walking on those hard hard floors that could definitely do a number on your joints for sure. Yeah.
+Patient: And I, you know, the exercise is good for you, but on the other hand it's hard on your likes. Sure. Is there is. Yeah, just absolutely is. Just have legs that bother me. And other than that, you know, in fact, I think, uh, I think the orthopedic doctor has, I got to call him and get a different one, another prescription that ran out. But, uh, other than that. Uh, I don't think I, that was one for my legs that, you know, that orthopedics
+Nurse: Ordered.
+Patient: Yeah. Ok. Uh, I just got, call the drug store first but I, they usually have anything and they call me but I'm gonna check and make sure that, see whether it's run out the prescription and, you know, they don't tell you and get, you, get, get down at the end of the bottle and find out there isn't anymore.
+Nurse: Yeah, I know. I know. It's hard. So, you, you take your medicines, [PHI-Personal] right out of the bottle. No, you don't, you don't use the pill box.
+Patient: I use a pill
+Nurse: Box. Yeah. Oh, good. I, for the week. Yeah. Yeah, that's a, a good way to sort of, but you've
+Patient: Got, you know, four or five things to take, uh, you, you wouldn't wanna go shake them out of day bottles. No, for a meal.
+Nurse: No. No, you wouldn't. And I like that, like, if you fill it up for the week then when you look in the bottle after you fill up your pills, you could kind of see. Oh, I only have a couple left. I better order these, you know what I mean? Um, as opposed to people take them out of the bottle and they're not really keeping track. Yeah. So that's, it's good to miss
+Patient: That one. Yeah.
+Nurse: Well, it happens. It happens. But I'm, I'm glad you, you do the pill box. And, you know, the planning ahead, it's, it's important. It's, you know, if you can get to the pharmacy easily is one thing. But, you know, if you're living in the country and the weather is bad and all that, you know, it's, it's good to have them on hand ahead of time as, as much as you can. Which pill is it that you need filled? Is it the gabapentin?
+Patient: No. No, it's, let me see.
+Nurse: Ropinirole. No.
+Patient: Oh, it's one, like I said, it's from the orthopedic and it's one of those. Yes. Yeah. There's maybe, is it, or
+Nurse: Ropinirole?
+Patient: No, ropinirole.
+Nurse: Is that the one?
+Patient: I think that's
+Nurse: Ok because it looks like doctor ordered that [PHI-Personal], well,
+Patient: It must be the other one. That must be one. Pregabalin. Oh, with a p, there's a pregabalin and there's a rope old whatever, pre
+Nurse: Gambling. I don't have that one on your list, I don't think. Ok,
+Patient: That's the one I got to get then, huh? Ok. Yeah, I was gonna check, see which one it was.
+Nurse: Oh, that's Lyrica. Ok. Ok. Um, when did you start on that one?
+Patient: Mhm. That was, well, I've been on it here for the last years some time anyways.
+Nurse: Ok. Do you know what the dosage is on that? So I can update your medication, uh,
+Patient: List [PHI-Personal] mg.
+Nurse: [PHI-Personal]
+Patient: [PHI-Personal]. Yes. Mhm. Once a day, three times a day.
+Nurse: Oh, ok. Ok. I will.
+Patient: Um, that wasn't on the list of all the ones there then, huh?
+Nurse: No, I have the ropinirole but I don't have that. And which doctor ordered that do you know their name?
+Patient: Doctor [PHI-Personal] D Dras? [PHI-Personal] Dr, a ce k orthopedic? A
+Nurse: [PHI-Personal] Ortho? Ok. All right. I just wanna let doctor [PHI-Personal] know.
+Patient: Hm. I thought probably they weren't all updated but, ok,
+Nurse: I was looking to see if I had a note of when they put you on that.
+Patient: Yeah,
+Nurse: It was definitely before. So it's about a year ago. You think that
+Patient: Would make sense time in the last year anyways? Yeah.
+Nurse: And that's for, like, your restless legs or for pain in your legs.
+Patient: It was for a lot of it, for restless legs. Uh, they get, uh, well, they were, like, in the evening they would get shaky and stuff, uh, you know, like it was hard to hold them still. Mhm.
+Nurse: Yeah. Totally. Get it. So, ok. Do you feel like it's helping?
+Patient: Yeah. They, they don't shake well, good. They, they still hurt but they don't.
+Nurse: Yeah. Well, that's a good sign. Ok. All right. I'm gonna update doctor GG, let her know that to. Hopefully they'll add that medication to your list. And, um, you know, I'll be calling again to check on you in a month or so. Sometimes I'm a little late. Um, if we get a little backed up here, but I'll call you eventually, but just remember if you need anything before I reach out to you, [PHI-Personal], you can call me at any time.
+Patient: Ok. Yep. Oh, yeah.
+Nurse: All right. Did you get your letter we sent in January? Yes, I, ok. Good because, uh, you know, my name and my contact information should be on that letter too. Ok. Right. Uh huh. All right, [PHI-Personal]. I hope you have a great rest of the day.
+Patient: All right, thank you.
+Nurse: Sure. Nice to talk with you. You take care.
+Patient: Ok. Ok.
+Nurse: Bye bye.

@@ -1,0 +1,30 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, this is I'm returning your call. You called me uh yesterday or two days ago?
+Nurse: Ok. I'm sorry, the phone cut out right as you said your name. What is your name again? [PHI-Personal] Ki. Can you spell your last name for me?
+Patient: [PHI-Personal] er, Ad ZK I, all right.
+Nurse: Just pulling your chart up right now. Bear with me for one moment. Ok. I had given you a call the other day to just check up and see how you were doing.
+Patient: I'm fine. Thank you. Everything is ok. I saw doctor yesterday so there's no reason to complain.
+Nurse: Ok. Yeah, I did see that. So I had called before then just to make sure that everything was good for that appointment. Do you have any questions on your follow up for doctor [PHI-Personal]? No,
+Patient: No, whatever I have. I asked him yesterday. I have answers. So thank you very much.
+Nurse: Ok. And how's your husband doing any pro any questions or concerns for him?
+Patient: No, we are going to the therapy because he has like uh he, I have, he's busy so we going to check his uh inner ear and make some do some therapy on it. So, but everything else is ok regarding to his age like he always said,
+Nurse: Yeah, unfortunately we can't fix age. No, I did wanna I that would be a that would be a miracle. Um ok, so he is going to therapy. That was that was gonna be my next question is making sure that he did get to that. Yes, he's going
+Patient: On Wednesday.
+Nurse: All right, perfect. Um and you said you just went to the doctor so you should be all good. You don't need any refills. No,
+Patient: Correct. Your doctor asked me yesterday. Everything is under control. I'm keeping track on this because I have to with my husband medication. I, I have to keep track.
+Nurse: Mhm. And you're still, you're still having some dizziness and palpations it looks like.
+Patient: Yes. Yes. That's what I'm going for stress test on Tuesday.
+Nurse: Perfect. All right, I'll put that down. Do you understand what's gonna go on with the stress test?
+Patient: Yeah, I have all the instruction and they told me I gonna have some injections, you know, to the veins and mhm some some something and I might get dizzy. Of course. And it's gonna take around 2.5 to 3 hours. So I have to be prepared for
+Nurse: That. Yeah, they're gonna give you some medication. They're trying to put your heart under stress to see if it's going to start doing that. Irregular heartbeat. See how fast it's gonna go so that they know at what level that starts happening and that way they can adjust your medication accordingly. Um So a lot of people do feel very anxious going into it or while you're there just because of the medication they give you. So that is something to just be prepared for. Do some breathing, deep breathing relaxation things. It is perfectly normal but it, it, it can be a little unnerving, so to speak.
+Patient: Ok. I know because my husband had that a few years back. So I, oh, ok. Going on. Thank you. You're a pro at this already? Yes, I am.
+Nurse: All right. Well, I won't keep you any longer. Like I said, I just wanted to call and check up on you and make sure everything was going well with both you and your husband because I know because you guys always make me a little bit nervous when you, when you have heart stuff going on. I always like to double
+Patient: Check. Yes. Yes, I know. I know. But everything so far is everything ok. So no problem, no reason to complain right now.
+Nurse: All right. And, and you said you're going for stress test when, next
+Patient: Week [PHI-Personal], the next Tuesday
+Nurse: [PHI-Personal]? Ok. It would it be ok if we follow up with you after your stress test and just check in? Yes.
+Patient: Yes. But if I'm not gonna be home because we have some appointments scheduled already. So if you call and I'm not home. I just gonna return your call. Right?
+Nurse: That's perfectly fine. Ok,
+Patient: Thank you.
+Nurse: You're welcome.
+Patient: Ok, bye bye bye.

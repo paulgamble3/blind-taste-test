@@ -1,0 +1,24 @@
+Nurse: This is [PHI-Personal] nurse care manager.
+Patient: Uh, this is uh [PHI-Personal]. I was wondering if doctor could send a new prescription for me uh, to the VA
+Nurse: Let me get you pulled up here real quick. Give
+Patient: Me one second.
+Nurse: Can you just verify your birthday for me real fast?
+Patient: [PHI-Account].
+Nurse: Right. There we go. I got the right one here. Signed the right one here for you. So you needed. Well, what did you need again?
+Patient: That's her [PHI-Personal],
+Nurse: The Terazosin. Ok.
+Patient: And that would be to the VA and
+Nurse: It doesn't look like doctor who writes this prescription for you normally.
+Patient: I don't know. Hm.
+Nurse: Ok. Um, do you see any other specialist?
+Patient: Uh, I go up to the VA and I turn it but they said they, uh they didn't prescribe it and then I go to talk to, um, I don't know whether
+Nurse: Does, do you think uh doctor prescribes it since it's for your BP?
+Patient: It, it may be, I'm not sure.
+Nurse: Ok. Um Yeah, you might, you'll have to call their doctor nu's office to get that refilled because it doesn't look like doctor prescribes that one.
+Patient: Oh, ok.
+Nurse: Do you have doctor Nu's number?
+Patient: Yes, I do. Uh huh. Ok. Ok. I right. I'm sorry I wasn't able to help you there. No, they, you did the best you could. Ok. Well,
+Nurse: Is there any, any other refills or anything that you need right now or was it just the then
+Patient: I need eye drops? But I don't think I've had to see the eye doctor for that.
+Nurse: Yeah, you'd have to call them as well.
+Patient: Uh huh. Ok. Thank you very much. That's fine. Ok. Have a good day. Thank you. Bye bye bye.

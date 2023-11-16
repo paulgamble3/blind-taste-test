@@ -1,0 +1,25 @@
+Nurse: Chronic care management. This is [PHI-Personal]. May I help
+Patient: You? Hi, [PHI-Personal], this is, how are you? Good. How are you? Good, thanks. I got your last message and I thought I'd give you a call. Oh, yeah.
+Nurse: Did you guys get that um that medicine
+Patient: We did. Yeah, been taking it. Thank you for doing that.
+Nurse: Oh, you're welcome. I just want to make sure you guys didn't have an issue getting it um too. Ok, no issue
+Patient: But no issue. I do have um a couple questions for you. Ok. Um that maybe um Interceed for us and find out the answers. Um, so [PHI-Personal] back is getting really bad and um we have an appointment but we couldn't get in until like next month. Um and eventually I think I'm going to try to get someone in Syracuse for another opinion. But in the meantime, the Tylenol that um approved of just isn't cutting out. I mean, he's not taking as much as she said he could take. But, and what I was wondering is if there was anything she could give him just temporarily to his um appointment and, and you know, cut down
+Nurse: [PHI-Personal] so is back. Pain's, um, not getting any
+Patient: Better. Oh, no. No, it's not going to, it's arthritis.
+Nurse: Yeah. Not getting any better. And he is. And, ok, I don't know if [PHI-Personal] there this week though. That's my thing. But I'm gonna ask, I don't, sometimes she reads her messages, um, and he's taking Tylenol.
+Patient: Um, he takes two in the morning and sometimes two in the early afternoon. But, um, he's just waking up in so much increasing pain. Um, you know, it's, it's creating new sensations going up, you know, and more than what it was doing before. So it's getting worse. And, um, like I said, we do have that appointment, but when is the Ortho appointment? I think the [PHI-Personal]. So if he could just, if she could see anything that he might be able to take, to help with the symptoms, at least until then and then we
+Nurse: Can. So Tylenol is not cutting it. You don't feel um,
+Patient: Not really, um, poor guy need some relief.
+Nurse: Ok. Tylenol is helping. Um, and he does have arthritis in his back, right? You said um, arthritis? Yeah, that hurt patient does final and just until then I'm wondering if he could have, she could order something. Uh, [PHI-Personal] ok. Yeah, let me ask her um, too
+Patient: And I have one other question. I keep you busy. You're ok. Ok. Um The, it's, uh, the famotidine that he's on for acid reflux. Mhm. Um So she's got him at 20 mg. Yeah, in, of late. Not every day, but a few days in a row he was getting quite a bit of acid reflux and we think it was from spicy food. But we're, you know, that kind of set it off. But he, he's got type two GERDs and, um, it's, there was, it's not so much that he gets heartburn but that when the acid spills into his esophagus, he gets wicked coughing. And, um, what I wanted to know is how much, I mean, is, can I get safely give him more Famotidine, um, as needed? Like right now it's 20 mg a day. Um, is it safe to give him a double dose? Um, or like if I've already given him one in the morning, is it ok to give him one during the day if needed? If he, if that's
+Nurse: Ok. Let me see. Yeah, or that she might suggest something else. Um, so, I mean, it's not an everyday thing. No, for
+Patient: Him. No, I give him the Famotidine as needed for the most part. Um, you know, if we know that we're gonna be eating something that might set him off, we'll definitely give it to him if he has it, the coughing, I'll give it to him at nine times out of 10. It calms it down. But, um, he was on a real coughing gag the other day and, um, I just, I didn't know if I could safely give him two doses,
+Nurse: Coughing jag from acid. So it's from the acid reflux, you said? Um, ok, I'm wondering, ok, wondering if she can give him an extra dose of the [PHI-Personal], um, as needed. Ok. Yeah. And just, I always say, you know, just watch the foods that bother him. Like, I mean, some people, I mean, bananas bother me. Can you believe it? I don't even know
+Patient: Why.
+Nurse: Yeah. And they, but I don't know, I don't know why they bother me. But,
+Patient: Well, we, we do try to, um, you know, and try to keep an eye on things but we're not, it's not always predictable.
+Nurse: No. No. And I agree. I
+Patient: Agree. You know, we're at a restaurant with friends or something and he gets into a coughing jag. I wanna know if I can give him more, you know, than I've already given him so he can get back. But sometimes it slows down. Sometimes it doesn't. But
+Nurse: Ok, and I always say stay upright for three hours after meals. Like, I mean, obviously, you know, citrus or tomato products or spicy foods bother, you know, fatty food, chocolate coffee, um, low fat, high fiber diets the best. But I'll ask her, um, to, um, or unless she has any other suggestions, um, too. Ok.
+Patient: Um, I think that's it.
+Nurse: Ok. Yeah, let me get this out this morning and see what she says. Um, too. Ok. And if anything as soon as they get back to me, I'll let you know. Thank you. Ok, I send it to actually, um, too. Ok, I'll talk to you soon. Ok, bye bye.

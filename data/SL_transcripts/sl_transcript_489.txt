@@ -1,0 +1,7 @@
+Nurse: Good morning. Thank you for calling Care Management. My name is [PHI-Personal]. How can I
+Patient: Help you today? Uh I believe uh we're returning a call. I don't know if it was for myself or for my husband [PHI-Personal] or [PHI-Personal]. Been
+Nurse: If you could spell your last name for me. [PHI-Personal],
+Patient: Please. Heimb Ach.
+Nurse: Ok. Looks like we were reaching out for [PHI-Personal]. Um and just uh my name is [PHI-Personal] with [PHI-Geographic] Center on behalf of doctor.
+Patient: He's right here. Ok, perfect. All right. Hello.
+Nurse: Good morning Leroy. My name is Beckham with Family Practice Center on a recorded line with Doctor Rank's Care Management team. I was just giving you a call to uh review some information with you. Uh The nurse will be reaching out to you at some point next week just calling to find out if there's a certain day that works best for you or time. No, no, any time is fine. Ok. And I do want to inform you that is a billable service to Medicare, Medicare Advantage plans. Oh, well, no, then I don't, I don't need it then. Ok. Is it ok if the nurse checks in with you maybe every six months Leroy? Oh how much does this cost my insurance? Let me take a quick look here and take a look at your insurance. Oops. Ok, so it looks like there's a $20 copay that would apply Leroy. Oh no no no not a problem. I will go ahead and just mail out the information. Well you have our information so if you ever do need us feel free to reach out. Ok? Alright, thank you for your time. Have a great day. Alright, bye bye bye.

@@ -1,0 +1,13 @@
+Nurse: Hello, this is [PHI-Personal]. Oh, hello. How
+Patient: Are you? Uh My name is, you [PHI-Personal] message on my answering machine um, a few days
+Nurse: Ago. Oh, yes. Let me pull you up here.
+Patient: Yes. What, what is it about?
+Nurse: Um So I'm guessing about our care management program because that's what I'm calling people for. So yes, it looks like on behalf of doctor [PHI-Personal], you qualify for the new care management program and what that is is a nurse that would be able to give you a call to see how you're doing. The nurse is able to answer any questions, help refill prescriptions, she'll address any issues you might be having and also help with appointments, referrals and lab work, things like that. The program helps keep the doctors updated and all the calls the nurse makes, they are documented and sent to the doctor for review and they're also treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays. And I I have here you have United [PHI-Personal] Advantage with a $5 copay. That's still ok. So essentially they're a once a month call from the nurse. But you're able to call in as many times as you might need to. Would you prefer a morning or afternoon phone call?
+Patient: Uh, well, I don't know because, uh, most of the time I'm not home so you can leave a message and I'll give you a call.
+Nurse: Yeah. Uh, we'll just do it that way then. Ok. So I have here, you're at [PHI-Geographic]? Ok. So I'll send out a letter, it'll have the information and the nurse's phone number on there and then I would expect your first call from the nurse within the next few weeks. Ok.
+Patient: What about the, what about the uh the office of? Don't, don't they uh take care of that?
+Nurse: Yes, this is a new program where they're offering patients to reach out to a nurse directly and that nurse reports back to.
+Patient: Ok. Is that uh when you make that call, could it be any time or
+Nurse: Normally the hours are between eight and 4 30? Like almost like the doctor's
+Patient: Office hours? That's what it is. So is that uh over the uh uh the hours that the doctor works? Is that right?
+Nurse: Um um sometimes so it could go over a little bit sometimes. Not so normally 8 to 4 30. Ish. Alright. Alright. Ok. Well, I'll send the letter out. I hope you have a good day today. Thanks. Alrighty, bye bye.

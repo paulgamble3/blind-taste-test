@@ -1,0 +1,131 @@
+Nurse: Good morning. This is one of the nurse, case managers. How may I help you?
+Patient: Hi, this is [PHI-Personal] calling. How are you today? I'm good
+Nurse: This morning. How
+Patient: Are you? Well, I'm not very good, but no, I'm not bad or, but ok, wait, I got to turn my TV down here. I'm on top of it. Um, you put me on this. Uh, yeah, I can't pronounce this stuff to puff up my veins. So my heart works better and, uh, I'm having swelling in my, well, I talked to my eye doctor and I thought maybe it was the ointment. He put me on and he said, no, you've taken that before. You need to call your primary doctor. Well, you guys and my cardiologist are the ones that put me on this. So I thought maybe you could tell me what I could do. Could I take Lasix or something to get rid of the swelling?
+Nurse: Which, which medication are you referring to? Is it the Bystolic?
+Patient: No, no, no, no.
+Nurse: The hydra.
+Patient: Yeah, that one, the one that I'm using because of my small veins are pumping them up. So my heart don't work is hard and it did bring my heart rate up. It's up to the 50 sometimes 54 55 and 56. And that wasn't, it was down in the forties. So,
+Nurse: Ok, let me, I'm just going through your cardiology note here because I believe they put you on it. I just want to make sure,
+Patient: See, I thought maybe it was from these, uh, this ointment I was using because it cost 300 some dollars. But I didn't have to pay that. I, that. Well, at first the pharmacist called me, he said [PHI-Personal]. I worried and then I guess paste picked some of it up for me. So, yeah. And it was only $[PHI-Personal] for me. Boy, I couldn't, uh, got it. I have a, oh, ok. All this pollen and all this stuff outside and we have all this mold and stuff. I don't know if I got in the mold around here or what that, I got a big ulcer in my, inside my eye and all my glands in my eye got, uh, oh, inflamed and ST, uh, infected. And, uh, so I had to be on pretty strong. I take three kind of drops in an ointment. Yeah. But he said I was on that ointment before and had no problems. So he don't think it's the ointment. He thinks that I need to see my primary doctor. My foot was swollen out, clear over my shoe yesterday. Hm. Maybe it's arthritis. I don't know what to blame one on.
+Nurse: All right. So let me just get, cause you've been on the hydrALAZINE for a while now. So to have that start, I, I'm wondering
+Patient: Maybe it's the arthritis. Yeah. I, but that would make all this fluid in me. Would it like that? No. All right. So I'm going ok at night when I lay down, I am going to the bathroom at night and having to wear three nighttime pad overnight pads before I get up. So there's a lot of fluid somewhere. But I go on the scales and
+Nurse: Sorry, so you'[PHI-Personal] having a lot of swelling, is it in your lower [PHI-Personal]?
+Patient: Yeah. Just my lowerer leg. Well, no, you, if you push on my, no, I shouldn't say that but that's where the big swelling and some people that have heart problems. They do that too. Yeah. But, so my ankles were so even the doctor can tell you my ankles were so skinny and, uh, no problem at all. And I've had, I don't know what to blame what on.
+Nurse: Ok. So you have swelling to both of your [PHI-Personal] and when you push on it it does it indent.
+Patient: I don't know. No.
+Nurse: No. Ok. Do you have swelling in your upper
+Patient: [PHI-Personal]? Mhm. Well, we see. Yep, I got, uh, it's yellow and, but it don't stay, well, you can still see where it was. But no, I just don't understand. I don't know. Doc,
+Nurse: When did, um, this start?
+Patient: Ok. It started on, uh, sat, well, the reason I thought it was the drop there, my ointment was because it started, I was there Friday and boy, that really helped me and then Saturday and, uh, Sunday, then I still swelling and my [PHI-Personal] and I didn't know what, the only thing I knew that I changed was the ointment, but he told me to take it the ointment. I can do whatever I want to. I said, no, I wanna get rid of this problem in my eye. So I'm gonna take it and I called you because I don't have any way to get in there. So my driver, he got COVID. Oh, no. Yeah. And I think that girl thought it was me when I at the desk and it's not me. It's the [PHI-Personal] that brings me got it. Yeah.
+Nurse: So you've got swelling in your lower [PHI-Personal]. It started on Saturday this past Saturday, a week ago. Saturday.
+Patient: No, just, just, um, yeah, and then Sunday is when it was, yeah, swollen up and when I turn my foot sideways, it just all around the bone there and up in, you know, uh, a little higher in my arch and my foot. Yeah, because when I went on this, I, all my veins on my feet would, you know, uh, stand up. Well, now you can't hardly see my vein. I mean, you can see them now a little bit because some of the swelling last night I decided to take, uh, Tylenol arthritis and see if it was, and it seemed like my toes and my, uh, arch or I can move it now anyhow. So, ok, that's why I'm thinking maybe it's just arthritis in there that went awry. Did
+Nurse: You gain any weight?
+Patient: Three lb? I got on the scale and that's it.
+Nurse: Three lbs since when,
+Patient: Uh, ok, when I was at the doc wasn't, didn't, wasn't I 2 30 something? All right. The 2 35. 2 30. Oh, well, the last, the last
+Nurse: Appointment I have is the end of [PHI-Personal]. [PHI-Personal] 31st. You were [PHI-Account]
+Patient: Four lbs. Yeah. Ok. Well, I'm [PHI-Personal] now. Well, and I think that's because of the fluid that's in me. Mhm. Mm. Oh, didn't need any more problems. You should have seen my eyes. They'[PHI-Personal] black. But they'[PHI-Personal] saying on TV, that how bad they, you know, you'd think the rain would have taken all the pollen and all that away, but it made it worse. Um, but I guess it all laid in the ground and then with all this mold around here and all that rain, I think we got mold problems and
+Nurse: It, it's very common with the leaves falling too.
+Patient: Yeah. And so, boy, hers was really good with me and, and that took that, uh, ointment is when you have surgery on your eyes, like it'll help with the pain. And I had, well, I had told you I had 32 drops. Mhm. Taken an ointment.
+Nurse: Yeah. So, I'd like to add those to your list just to run them for any interaction. So I just need to know what they are because I don't have any notes from your eye doctor on that. Ok.
+Patient: Oh, they don't get my glasses with my eye? Yeah. Right here. Ah. Mhm. Ok. This ointment is, uh, oh, what? Ok. It was supposed to be the Mac Ma Xitrol and then I'm take, they didn't have that, so I got the generic of it and it's [PHI-Personal] Opol. Y right after about any other [PHI-Personal]
+Nurse: EP as in
+Patient: [PHI-Personal]. And are you still an N?
+Nurse: So can you spell that again? I'm having trouble hearing.
+Patient: Ok. [PHI-Personal], like Nancy [PHI-Personal]. See the first what? Uh, it's a generic for the max or something.
+Nurse: It's [PHI-Personal]
+Patient: Oo slash poly slash dex and they use it in operations and stuff and for, you know, uh, real problems with the eye. So, my, uh, but now when I went to him, I was really in a lot of pain in my eye, which is, well, I just tell you, I had my, I just lost my word. Um. Oh. Huh. Yeah, I told you now you can't. No,
+Nurse: I'm trying to look up this medication at it but I'm having trouble. It's not coming up in my system
+Patient: Ma maybe the max Ma Xitrol. I'm looking for a milligram. Won it? Not, there we go. What did that this mean?
+Nurse: How often are you taking it?
+Patient: Oh, just twice a day, morning and night. Not it before. That's why the doctor said I had to talk to my primary doctor. But you guys were the one, you and my cardiologist were the ones that got together and did this putting me on the, no, I didn't know who to call.
+Nurse: No, you called the right [PHI-Personal]. Yeah. Your cardiologist wasn't, wasn't happy with how high your BP was. Which is why they put you on this medication. And doctor said, yeah, it's working well, let's, let's keep you on it. All right. So I have, that's
+Patient: Why I don't know what the blame and maybe it is just arthritis. I don't know
+Nurse: What the thing is. I want to, I want to get all these medications in here to make sure there's no medication interactions with anything because that can cause some trouble.
+Patient: My, just these two [PHI-Personal] or something. I can't pronounce it
+Nurse: Hydra or sorry. Are you, did they give you hydrOXYzine for itching at all for your eyes?
+Patient: Because I know is the
+Nurse: HydrALAZINE is for your BP? Now, what other eye drops are you on? You said you'[PHI-Personal] on two other eye drops?
+Patient: Yeah. Well, this one didn't cost me as much lot pr [PHI-Personal]
+Nurse: [PHI-Personal] as in Tom or [PHI-Personal] as in dog.
+Patient: Pe pe, you have to p
+Nurse: Lo pe,
+Patient: No, no, no, no, no. Lotep. Oh, I'm saying.
+Nurse: Ok, I got it
+Patient: [PHI-Personal] Dnol and then it's ETA B on a ce. Ok. And that, I take three times a day, I wonder.
+Nurse: All right. And is this to your right or your left eye
+Patient: First? And those problems? Oh. Mm. Yes. Mhm.
+Nurse: Right. So I have that in there.
+Patient: Ok. Lo, oh [PHI-Personal] is the one that he gave me and that I put in three times a day. No ages. I got an ulcer inside my eye and it's real large, a large ulcer. Yeah, I got it out since my stroke. I have to wait some.
+Nurse: OK. All right. I have those in there. All right. Doesn't look like there's any interactions, which is a good thing. So,
+Patient: Well, that's good. Now that's what the doctor said. He's taking me before cause I had an operation on my eye. And uh, but I had um, cyst in my one eye and a lot of times that was doctor uh, operated on that and uh, he said taking drops for all the years that I had stopped and you know, lead uh things. But this one, this happened when I went outside in the rain and come in and I had sinus, I had all kinds of problems and so the next thing is doing couldn't shut my OK, painful right now. The all that blood and all that stuff is going. But these, this is really helping me. That's what I told him. I didn't wanna not take it.
+Nurse: It sounds like it's probably not the ointment. So, so you just have the three lb we gain since [PHI-Personal] or [PHI-Personal]. I'm sorry. Um, which can fluctuate up and down. Um, there you do have, I
+Patient: Was at your place that in, uh, yeah. [PHI-Personal] 30th. Is that? Yeah.
+Nurse: [PHI-Personal] 30
+Patient: First, 31st. Yeah.
+Nurse: So that's [PHI-Personal]. So that's about a month, a little over a month.
+Patient: Um, I,
+Nurse: So three lbs there can, can kind of go either direction. Yeah. Um, I
+Patient: Was worried about the three lbs. Swelling is, yeah.
+Nurse: Um, do you have any pain with the swelling?
+Patient: Mm. No, I did when I try to walk and, uh, my arches is, you know, are swollen and you'[PHI-Personal] walking like a duck because your feet don't wanna bend real. But now that's not today. I, like I said, I took my arthritis medicine, uh, last night and when I get up this morning I can move my foot a little better. So, Tylenol Arthriti, it don't put your BP up. Can I take that? Yeah, I think I'm just gonna wait because my one ft is down and the other one is swollen. So maybe it, you know, it's gonna, ok.
+Nurse: Um, how are your blood pressures?
+Patient: Oh, here I have a hope. Oh, I'll keep them for you? Yeah. Oh, it's not in the, I get up in the morning,
+Nurse: I'm having trouble hearing you. You sound very far away.
+Patient: Oh, I'm holding the phone trying to get a tablet
+Nurse: Late. Oh,
+Patient: Ok. My pain. You can't them? Ok. Friday. Well, when I did get up it was a little higher 1. 84/78. So then my heart rate, heart rate was 51 and it was always in the forties usually when I got up. So it was good and I didn't worry too much because they told me I didn't have to worry about anything until it was over in the nineties at the hospital. And then it, oh, I went and made the bed and did everything and took a walk downstairs and it went up higher. It went [PHI-Account] because I had a package down there. And so, uh, and then, uh,
+Nurse: [PHI-Account] over what
+Patient: It was over 90. So pulse was 58. So it was really good. So, but then after I come home and got settled and stuff, it was 1 59/76 and my pulse was 53 because I was sitting here try, you know. Yeah. No, that's all I took it that day then, uh, and then Saturday it was 1 69/69 and my pulse was 58 and that was good. And then when I get doing all my work around the house and stuff. It went up to 1 76. Over 80 pulse was 53 two. Sunday. Uh, 1 74. Over 79 was my morning when I got out or when I took it that morning and my pulse was 53 and my sugar was, has been about 75 really good lately with my sugar. Oh, it only goes up even when I eat it because I'm not eating, you know, salt. I don't eat salt and I don't eat, uh, a lot of sugar or anything. It, then it gets up to 1 25 to 1 30 when I eat. Oh, well, that's good. Yeah. Now I, that I didn't take it anymore on Sunday I went away. So, all right. What? There's a good day here. Wait until I find it. You know.
+Nurse: What about this morning?
+Patient: I haven't been taking it. I've been on the phone with the doctor. So I don't know what it is. Probably up because of all this stress. Mhm. Probably. Yeah. I'm not taking it. Yeah. Well, wait, I wanted to read back to you. Hm. Yeah. Sunday of last week it was, my BP was 1 63 and it was 79 and 55 was my pulse. So, that was a good morning when I took it. I usually take it around seven o'clock. So, somewhere in that area and then it was 1 50/73 and my pulse was 58 when I took it the next time and then it went back up because I was probably working around or went for my walk. I walk every morning. 1 67/79 and 56 was my pulse. Ok. I just wanted to tell you it was really good. So compared, man, it was up getting close to 200 there in the morning and I'd get up and then my pulse has been in like 44 and 47 sometimes. So,
+Nurse: Yeah, it's doing much better with the hydrALAZINE. But,
+Patient: But
+Nurse: 1 80 that 1 84 is still pretty high Friday morning and early afternoon. You were pretty high still.
+Patient: Yeah. But then I was run, you know, um, doing a lot too. So,
+Nurse: Yeah. So, ok,
+Patient: All I have to do is try and make a bed. You have a stroke? Oh, my gosh, it wears me out. Yeah, I do work. I have a nice place and I keep it nice and I do all my own work. There's somebody with MS and a stroke and, mm. Yeah, I'm not lazy. Are you still
+Nurse: There? I'm listening. Yep. I didn't want to cut you off. Oh, I
+Patient: Thought you.
+Nurse: Are you having any shortness of breath with all of this? No, any headache, nausea, dizziness, pounding of your head at all. No.
+Patient: Oh, I hear a ringing in my ears sometimes there when I was swollen up. Ok. But it's not there now. Nothing like that. Ok.
+Nurse: That was probably because of how high your BP was.
+Patient: Yeah. I know. I didn't take it either. I didn't wanna take it when it was that high. I wouldn't go to that. I knew, um, you know, if I sat down and probably calm down and stuff but calm down. Ok.
+Nurse: All right. Yeah, let me get this over to.
+Patient: Probably, probably because of the pain in my eye too is putting the BP up, but I don't have that now.
+Nurse: Yeah. Pain will definitely raise it.
+Patient: Yeah. Right. I understand that.
+Nurse: Um, let me get this over to Doctor [PHI-Personal] here. He's probably gonna wanna do a visit with you though.
+Patient: Uh How am I gonna get there?
+Nurse: That's what I was just gonna say. You said you can't come in because you don't have a ride. You
+Patient: Talk to me on the phone. That's
+Nurse: What I was just gonna ask is, do you have any way to do like a video visit?
+Patient: No. No, but he did do a phone visit with me there when COVID was.
+Nurse: Hm. Yeah, I know he'd like to see the edema but let me, let me see what he has to say and see if he would want to do a not a uh, phone visit. Now. You said the swelling is going down, correct?
+Patient: Yeah. And uh. Mhm. Oh my. Yeah, my uh yeah, I can bend my foot out at the arch and they, whenever I went through physical therapy they'd make me bend my toes without moving my leg and do it sideways. And so I've been exercising trying to see, I think maybe it's just arthritis in there,
+Nurse: Maybe. And you said it did get better when you took the Tylenol. Right.
+Patient: Yeah, that, this morning. Yeah, it's not my one ft, a little more swollen than the other. Which one is that? right? The right one, the left one has come down a lot, but then on the, uh, joint, the last one that's come down in the arch is bigger than the, oh God, who can figure this out? Uh, well, that's the one I had sprained my ankle two years ago. So. Oh, I don't know. I give up.
+Nurse: All right. Well, let me get this over to him and see what he has to say. Ok, you did the right thing by calling in, especially with this BP is as high as they were and with the swelling it's definitely something we wanna be aware of and keep an eye on. Um, he might wanna do a wait and see. He might wanna change things up. But let me get all this information over to him and see for now when you'[PHI-Personal] sitting, I want you to
+Patient: See my BP is pretty good but it, well, with this pain stuff is going to be high.
+Nurse: Um, yeah, it, it's, it's much better than what it was. Yeah. And 1 74/76 is still a little high. Every, every reading you gave me recently is, is still a little on the high side, but it is better than,
+Patient: Well, they told me do not come to the emergency unless it gets up to, you know, over.
+Nurse: See, so here's the thing is with the hospital is it's different. It's an emergency is not over for you. You can tolerate these higher ones. Some other people can't. So, for it's
+Patient: Emergency,
+Nurse: Yeah, emergency is a different story than what we'd want you to be at every single day. Ok, because, you know, we,
+Patient: We, when you even the cardiologist, when I went out and, uh, oh, the man that was in there and, uh, had, uh, what you call it when you answer the phone and do everything. Lost my word again. Uh, the triage
+Nurse: [PHI-Personal].
+Patient: Yeah, the, and, uh, anyway, he said, and do not worry and come back unless your blood pressures are, or call us unless they were, uh, up to 1 90. That, that was a cardiologist.
+Nurse: Yeah, that's a little high for the cardiologist to say, well, no,
+Patient: It wasn't her. That said it, it was the guy. Yeah, he, but he had that written in there, which probably the emergency said so because that's exactly what they told me
+Nurse: And that's not what they have in your notes here for us either. So, let me just get it over to him and see, like I said, you'[PHI-Personal] doing much better than you were. No, I
+Patient: Understand that. Yeah, that's why I don't want to come in too. So, but my, my brother in law, he's the one that always brings me and stays in the vehicle because his, so his wife had COVID and I'm not gonna ride around with somebody, you know. No,
+Nurse: No, no, we don't, we don't want that
+Patient: My problem. So yeah, smart enough to know better. All right. Well, I I get off here. Yeah,
+Nurse: Let me get this over to him and we'll go from there. Ok. All
+Patient: Right. Well, I thought it was better to call you because sometimes that receptionist has trouble getting things. So
+Nurse: Yeah, so I I can send this all directly over to Doctor [PHI-Personal] for radio
+Patient: But it's not me that has the COVID. I thought when I hung up he thought maybe it was me and I said so. No, I said my a [PHI-Personal] that uh brings me in here.
+Nurse: All right. Well, let me, let me get this done and I'll give you a call back with the uh results. Ok.
+Patient: Mhm. Ok, thanks. Alright,
+Nurse: Bye bye. Feel better.

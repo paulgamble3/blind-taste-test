@@ -1,0 +1,152 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Hey, [PHI-Personal], that's nice to hear your voice again. How are you feeling?
+Nurse: I'm feeling much better now. I was deaf. Like, felt like I was in death last week. I had a, um, a, a double ear infection and a sinus infection.
+Patient: Oh, my,
+Nurse: It was terrible. And now my kids are sick. They were both home sick from school yesterday. My pipes blew in my basement. I got shit everywhere. It's been a great, it's been a great weekend.
+Patient: Oh, my. Well, this, I guess, you know who you're talking to?
+Nurse: Oh, I could tell your voice. Come on. Yeah, I do. You do have to verify your date of birth, please?
+Patient: Ok. 12, 22 44.
+Nurse: All right. I have to, I haven't even pulled up that stuff yet. I'm, I'm pulling it all up now. It just started what's going on. How is, how is the itching?
+Patient: Well, it depends. Do you know what they have there? Right. Pardon?
+Nurse: Rainy these days over there, right.
+Patient: Uh, yes, yesterday I didn't itch too much but II I still have some, can you tell by looking at my chart what they had me do. Yeah,
+Nurse: I can, let me just get it on open here. Yeah, I gotta go on all these passwords, you know,
+Patient: Here. Oh, God, I got
+Nurse: That. Yeah, I, ok, my end is running slow here. I'll hold on. Did they, did you have another appointment since I last spoke with you?
+Patient: No. Um, I had, last Friday. I had constant talking with [PHI-Personal] who was doing your, your job while you were sick. And, um, Doctor [PHI-Personal] wanted me to stop taking as many of my normal medications as I could
+Nurse: To try to see if one of those I thought we did. You did that? I thought you tried to check that out. No,
+Patient: No, no. Uh, she wanted me to stop taking everything. But then when [PHI-Personal] and I started talking, we decided that the not for me to stop taking the Zoloft was not a good idea because of with the
+Nurse: Yeah.
+Patient: Um, yeah, so the only thing that I've taken starting with last Saturday, the only thing I took was the sertraline, which was the Zoloft and the Zyrtec she told me to take four times a day. Oh my gosh. Yes. Take it four times a day.
+Nurse: Let me see what else it says. See, man, this is a long, you guys had a bunch of conversations back and
+Patient: [PHI-Personal]. Oh my. I, I'm
+Nurse: Holding them and agreed is not comfortable with stopping lithium sertraline or Primidone. Have So you stopped the lithium and the primidone. Um, I don't think it's safe stopping the lithium either. Geez, you could get,
+Patient: I did. They, they told me to stop everything that I could possibly stop and we decided that you're getting your
+Nurse: Lithium levels checked
+Patient: And every six months when I have labs and a check up. Ok. Yeah, I, I noticed a little bit when I stopped taking that Primidone because that's what keeps me from shaking and I noticed that that was not a big deal. Um, in the morning I'm kind of shaky with it. If I wanna get on the computer and do something like I have to do today cause we have people coming in that are taking our money and do something good with it and I have to,
+Nurse: Um, let me see. Hold on a second.
+Patient: I mean, I, I even stopped taking the drug that my cancer doctor had me taking. Oh God. Yeah. The only thing, the only thing I took, starting with last Friday in the evening and then Saturday, Sunday, Monday, Tuesday, Wednesday. The only thing I took was the Zoloft, the Zyrtec and I took my Pepcid because of heartburn and feel better. Or no, no, it didn't make any difference.
+Nurse: Didn't make any difference. Uh, uh Right, because I, I like looking at your medications. I can see, you know, well, you're not even like you, you have, you have an allergy to PHENobarbital.
+Patient: Uh, yes. I do. Well, that
+Nurse: Shows Rx morning with your Primidone too. Um, and what is the bar do to you?
+Patient: Um, I think that's when I got the hives. Ok, through the
+Nurse: Morning with the PHENobarbital and the Primidone to like you taking Primidone it's having, right. Um, uh, symptoms, the drug has primidone symptoms. Rash, reported with fetal administration, sss reaction having
+Patient: Prior to, I just don't take that at all anymore because of what it did. Yeah. Um,
+Nurse: I, I'm wondering if there's anything in, in, um, in Primidone that is also in PHENobarbital. So that could be something new. Well, it's showing like, so right up here in our chart where it says allergies, it says like if there's something inside of vitamin G, all right. So being that you have a, uh, an allergy to PHENobarbital, it says warning while taking Primidone. So if there must be something in Primidone, primidone, sertraline and vitamin D I have are all in the red for some because you're because you're allergic to van sertraline and vitamin D are in the red you because you're allergic to PHENobarbital. Primidone is in the red.
+Patient: Well, I stopped taking it.
+Nurse: Mhm. But you're still taking the sertraline.
+Patient: I, and then since last Friday, I've only taken Zyrtec and I continue to take my Pepcid because of the heartburn that I get with just about everything I do
+Nurse: For two years now. Yeah, from us. So, I, I wouldn't see just the itching right now. If it was that either,
+Patient: The sertraline is the Zoloft. Right. Yeah. Yeah. Yeah, that's the one she said, don't stop it because I would have withdrawal symptoms from it if I, if I wasn't taken off of it properly because
+Nurse: She's off of
+Patient: It. Well, I, like I said, I'm taking, and I took Zyrtec four times a day. All right. Breakfast, lunch, dinner. And then when I went to bed,
+Nurse: Pardon? Is it as intense as it normally is?
+Patient: It's not real in intense. But she told me that I should do everything I was doing to stop the itching and do this with my, my, my drugs.
+Nurse: All right. So I will, what I'm going to, um, do is I'm going to let her know that you, you held everything since, for how many days? Now did you say [PHI-Personal]?
+Patient: Yes,
+Nurse: [PHI-Personal]. It's [PHI-Personal]. Ok. I'm gonna tell her you've held everything but those two for [PHI-Personal], um, you continue with the itching and we'll see what she wants to do next. Um, but I, but you did say you did feel a little better yesterday with the rain. Yeah. Not so much. Oh,
+Patient: Yeah, I did go ahead and
+Nurse: My, and, you know, I mean, it might all boil down to just your, your be, you know, you got an allergy to seasonal allergies and it's just really bad for you. Um, better if, if the rain's coming. Um, and the change in the weather, it feels good. Looks great. It feels, I love, I love this right now.
+Patient: [PHI-Personal] told me that Doctor [PHI-Personal] was really leaning hard into thinking that I have. Oh, God. What was the word throughout? It starts with an H hm. I'm, she's gonna treat me as, oh, God. What was the word?
+Nurse: Hold on. I'll try to read back and see if it says anything about it. That's how, yeah,
+Patient: I can't think of the word.
+Nurse: Oh. it sounds like a, his, she just said, it sounds like a histamine problem.
+Patient: Yes. That's what she said. And I'm not sure what that means. So,
+Nurse: When you, when you have like, a bite or an allergic reaction, your body releases histamines. Um, and it'll go to the site and it'll make it, it'll like a, like, say, like a bite that's gonna tell you that you have a bite there. So it'll make it start itching. You know what I mean? Um, it's gonna make it swell up. It's gonna, it's gonna go and attack it. So that's your histamines in your body. So when you take a Zyrtec or an, a allergy pill, those are antihistamines. So it's gonna stop the histamines from doing that.
+Patient: Ok. There's something else that's really strange about this when I get itchy in any one spot and it can be just about anywhere. Although it doesn't go into my, my legs. Um, I, my body feels very warm, very warm. Is this new? No, it, it's, I, you know, I just noticed that the other day because, and the other thing I was not localized
+Nurse: When you have, when you have itching is it, is it only just usually in one spot at a time?
+Patient: Yeah. Yes. It's either in my back around my neck and sometimes in my arms, but not that often. But I will s
+Nurse: Tops of arms, bottom arms. Yeah.
+Patient: Say that again.
+Nurse: Tops of arms, bottom of arms, back of arms. Whi which, which part of the arms,
+Patient: Um, up at the top? Ok. And of course, that cream that was prescribed by the dermatologist. I, I'm not allowed, I, it says do not use in underarms. You and I talked about that before and the other thing about that I read on the bottom of one, I finally got it refilled yesterday. But it says, um, how does that read? Uh, not, oh, only maximum for two weeks. Does that mean that, that bottle of cream jar of cream? I should, no, it, that, that,
+Nurse: That just means, you know, without talking to your doctor, you should only use it for a maximum of two weeks. Doesn't mean that is only good for two weeks.
+Patient: Oh, well, according to [PHI-Personal], you know, she said, do any, the
+Nurse: Steroid cream. What kind of cream was that?
+Patient: Uh, you're gonna ask me that. I don't know, it, it was prescribed by the dermatologist. It should be in my, my record. I don't have it right in front of me. It's upstairs.
+Nurse: That's ok. I mean, I can find,
+Patient: I just, you know, she, she indicated to me the last time I was in there that once this weather changes I might see a big difference in it.
+Nurse: All right. So, let me, let me see too because it says if you have, if you have a high histamine, there's some things you can do to reduce it too. Um, let's see. All right, I'm looking right now. I'm trying to research like some things in my, my things here. Um, yeah, histamine, chemical release of white blood cells into the blood stream of the immune system, defending against potential allergen. This can result in allergic reaction. Allergic triggers. Why would you avoid high foods and histamines? Um So usually it, it, it, it triggers your immune system resulting in symptoms such as diarrhea, shortness of breath, headaches, itchy skin, um, intolerance to histamine. You might recommend foods to avoid high histamines, difficult foods. Let me see if you eat any of these, um, fermented foods. Uh, sauerkraut. Um, those are high in histamine. You haven't been eating no sauerkraut, right?
+Patient: No, only on New Year's Day. Do I eat sauerkraut? Um, alcohol? No, I haven't touched it since my husband.
+Nurse: Cheese, um, beans, citrus fruit.
+Patient: I do some citrus fruit.
+Nurse: Ok. Um, how about any, any, um, cheeses? Let's see. His kind of cheeses started in 22 3 °C blah, blah, blah. I, I didn't say what cheeses, legumes can cook
+Patient: Peanuts. I just had kidney. I made a batch of, uh chili because I had so many tomatoes that was about a week ago. But that's not. Ok. So, so they were saying
+Nurse: These things are high in histamines. Um, and they, they, they'll, um, trigger a histamine responses. Low histamine alternatives, fresh meat, fresh fruit, but limited citrus and, and plantains, um, and bananas, fresh vegetables, but limited in tomatoes, egg plants and spinach rice, coconut milk, herbal tea. Avoid black and green tea. Um, whole grain products, including pasta. Andre are good.
+Patient: Yeah, I, you know, I maintain a pretty decent diet. I don't, you know,
+Nurse: I, you're gonna have, you're gonna have to get right down to the, but, and I feel like on, on what, what we're trying, you're trying to figure this out. You know what I mean? Like, we're gonna have to go through thing until we find out what to do.
+Patient: Yeah. I asked you this once before and I'm gonna ask you this again or, and at least maybe throw it in into Doctor [PHI-Personal]. Why can't she put me on some medication? The one I see advertised on TV, all the time with the little kids. Um, [PHI-Geographic] [PHI-Personal]. And it's, it's for the eczema.
+Nurse: Yeah. I think I had something on this too. Hold on. I think I had something on this tube under yours. Here we go. See. Yeah, I think I had a few, um, I was going to talk to you about a few of the, uh, the treatments there that you could get. Um, where is it at? Regarding treatment? Here we go. There was some different one treatments. Uh, you, you try treatments. Here we go. Medications. Ok. I had, yeah, Dupixent, um, injectable biologic called Dub. Dux is used to treat people with severe disease who do not respond well with other treatment options. That's you. There's a newer medication does not have a long track record in team in terms of how well it helps people. So just know that as well. Um, studies have shown to be safe to use as directed. It is very expensive. It says,
+Patient: Well, got pretty, I have [PHI-Personal] for my Rx. They're pretty good and we can also try
+Nurse: To find you something else too. Um, we have a, we have a patient assistance program, um, that someone looks through at my company. Um, that's all he does. Um, here is he, he tries to find discounts for patients for, for prescriptions and stuff like that so I could put it through to him to try to find me something.
+Patient: Right. I, I just, it just, it just, it just seems like Doctor [PHI-Personal], she's not a pill pusher. I know that. Right. But, well,
+Nurse: You've already tried creams, you've already tried the corticosteroid cream and ointment. You applied the moisturizer. You know, we, we, we've gone over these things with you. What, what is this? So, the other creams containing drugs called serine inhibitors such as Taro Protopic and pre and elidel affect your immune system. They're used by people older than two to help control skin reaction. Apply it directed after you moisturize. I don't know if you tried any of those, avoid strong sunlight. Black box warning. Oh, we don't wanna do that war about potential risk of cancer. I don't think we wanna try that.
+Patient: No, no, no, no, no, not in that.
+Nurse: We did. You did the antibiotic cream, right?
+Patient: Uh I've, I've tried Benadryl
+Nurse: Corticosteroid. Did she try predniSONE?
+Patient: Uh, no,
+Nurse: When she tried predniSONE,
+Patient: I don't know. She, that's what I said. You know, she's, and I've tried witch hazel man that stops the itching right away but it doesn't last. Ok. Nothing last. And this cream that the dermatologist prescribed for, for me. I just, it works. But I have to go through the total um shower routine with the,
+Nurse: Every time you do anything. You know, I, that you can't do your whole life, you're gonna be gone places, you're gonna be, you know, you can't just at people's homes, you're gonna be at stores. You can the whole routine.
+Patient: I really like that. That cast the soap. I mean, I may keep using that. I can ever
+Nurse: Since I started it. I can't, my ex boyfriend got me using it and I, it just, it's just so good for, I love it. II I get, I get peppermint um hemp one and it's I, so, so and it, it smells good. It leaves just everything tingling, feeling nice.
+Patient: I, I really like it and I love the way it makes my hair feel, you know, I just, I tea it. Oh yeah, the um you know, the container says use it for the whole body and and and here I just love it for my hair. I still have to, you know I just I've done all of that but I'm sitting here right now and my back just starts itching but I've already taken my Zyrtec so it should kick in but I can help but feel as though hold on a second
+Nurse: Calling. Can you wait one sec? I'm so sorry.
+Patient: Yes. No, that's ok.
+Nurse: Hello. This is, this is a yes. Ok. We're sending a technician out to you now. He should be there within the hour. Alright, thank you so much. I appreciate that. Bye. Sorry I just had to make sure I get that. I got shit just in the basement.
+Patient: Yeah, that's just lovely. Isn't it?
+Nurse: Nice? Nice new house?
+Patient: Great. Oh man. Oh it's
+Nurse: Just keep up keep I got a crack in my windshield and I just found out get no glass coverage and I'm like, what in the hell come on now who doesn't have glass coverage. I'm like, I thought it just automatically came with it.
+Patient: Yeah, I don't, I don't know. But why wouldn't, why wouldn't mona prescribe something like you just said about the predniSONE? Is there a reason why she may, I mean, that kind
+Nurse: Of like, like, um, you know, that kind of doctor that likes to just do, I don't know because I've seen that with her, with predniSONE. I, I know, um, and they, they, you know, there's a lot of side effects that come along because once, you know, once predniSONE does work for you and you see that you're gonna wanna keep taking it and you can't take predniSONE for long term. And I, we see a lot of patients that, that end up repeating and then end up with long term use of predniSONE and it causes a lot more problems for them. So I think the doctors try to avoid that as much as possible because it will work for you. It will, it'll work for anybody because it's gonna, but it's gonna lower your immune system and, and it's gonna cause thinning of your skin. It's gonna cause you increased bruising and, and, and like bloody patches all over your skin. It's all I
+Patient: Do. I already have that, that was the side effect. That was the side effect of that um, steroid steroid
+Nurse: Shot. So it's, it's, it's just, it's just the same in, in, in the cream. Um And, and, and and not the cream in the, um, in the, and the predniSONE, it's, but, you know, it's internally and so it's working from the inside out. So,
+Patient: I mean, I don't, I don't wanna go that route because I'm trying to get away from that because of that steroid shot that they gave me. And I think that
+Nurse: That's what she's trying to avoid too. I think that's why she's trying to go more natural. Um, and, and also, I mean, taking a lot of Zyrtec, um, you're not, you're not tired.
+Patient: No, it hasn't. They warned, warned me that it might make me sleepy. But I'm a pretty busy person during the day around here and it hasn't affected me like that. It really hasn't and I've been taking it four times a day. I just, you should see my legs from being bumped because I'm on this form and I'm busy and I went, I've, every time I've done something that I've really bumped it hard and my, my skin just starts peeling off and you're the one that told me that that's the side effect of that steroid shot. But they never warned me about that. You should see my legs. I don't even wanna wear shorts when it was still warm because my legs,
+Nurse: The steroid is just, it just causes a lot of problems that people just don't realize that's why when someone usually gets something I usually like to go over the side effects So if I know something pretty hand exactly what they're gonna be using. But I don't know until I get the report and then I read the report on what they injected you with.
+Patient: Oh God. But they, they never warned me about any of these side effects, my BP. And I don't have a, yeah, they,
+Nurse: They put in, they, they always put in the notes that they discuss all day. I tell you that.
+Patient: Oh they did not. That girl walked in there and she said the doctor wants me to give you this shot. It was the nurse and I said, what's the shot? And she told me and then I come home and google it out and I go oh shit, you know, I just, but you told me that it usually stays in your system about two months. Well, I'm getting close to the two months. Yeah, but so I mean,
+Nurse: And, and just just, you know, also like I said, just, you know, taking um you know, any anti inflammatories, things like that can cause that as well. But you should, it should, it should clear up, you know, so soon enough I would, I would think but I know. So you don't want me to question about the predniSONE. Just the Dupixent because I put the predniSONE on there. No,
+Patient: No, not if it's gonna have the, the, the same size. No, I don't want, you want, you
+Nurse: Wanna see what, what goes on with Dupixent too.
+Patient: Yeah. All right. So I, I,
+Nurse: I've never seen anybody use this. So I can't say from personally, but I can tell you all that about the predniSONE because I have seen that with patients. Ok. Um So
+Patient: If we,
+Nurse: If we uh yeah, and especially, you know, I as, as we get older too, [PHI-Personal] our skin, we lose the adipose tissue underneath our, underneath our layer, first layers of skin, which is the fatty tissue, which can cause you to bruise a lot more easier as well. So, when you take a steroid that thins your skin so that can, you know, and then you're gonna get even, even, you know, easier to bruise. So that's, that's, that's the whole thing too, especially with, you know, the old, older population. So we're looking up to Ent.
+Patient: Yeah, that's, I just saw, I see the commercial on TV. It's these little kids that say hide my skin. No. And then they talk about it. Yeah, I ID.
+Nurse: So, not under their sites or anything. Um, MD. And are you comfortable with, with giving yourself injections
+Patient: With a needle? Yes. Huh. Well, I've never done it.
+Nurse: Well, I mean, we could, we could teach you. It's not, it, it's probably not hard. So, if it is, it's prob, we'll, we'll see how it's given if it's given in the office or if it's given at home.
+Patient: Du Dupixent is not in pill form,
+Nurse: I think. It's an injectable. Let me look. I was thinking, uh, the, is it injectable biologic? Yeah. So, yeah, I think my dad's on this. I think my dad's on this. So he does have a weaker immune system. It does cause that. Um, but he has eczema really bad. He has like, um, the kind that gives you like arthritis in, in the, in the joints and stuff, psa psoriatic arthritis. He has, has, he has psoriasis, he has psoriasis. He doesn't have eczema. So he gets that but it really blocks all his stuff. He used to get itching really bad. He does this. He tried, he tried Humira but he couldn't do it because he drinks. So he had to get switched to this, I think.
+Patient: Yeah. No, I don't. Like I said, I've been off alcohol as long as my husband has been and it's almost four years. So it
+Nurse: Sub Q injections 400 mg 2 200 mg injections in different sites um every other week or 600 mg followed by 300 mg, sub Q every other week. So you could do your stomach. You could do, you could do your stomach, you could do the back of your arms, you could do your thighs. It's not hard, it's right under the skin. So it's under a few layers of skin. Subcutaneous. So that wouldn't be,
+Patient: I don't wanna get into that. I oh God, I just
+Nurse: Maybe they could do it in the office so they could do it for you maybe,
+Patient: But
+Nurse: You can do it in the belly. Have you ever had injections in your belly? Have you ever had to do like blood thinners or anything after, after surgery?
+Patient: No. Yeah, that's why I can't take, that's why I can't take Eliquis cause that's what they put me on after I had my knee surgery and I got so sick on that. Oh my God.
+Nurse: Well, but you had, you had the shots in the stomach though, right?
+Patient: No, I don't think
+Nurse: So after, oh, because usually they'll, they'll, they'll do your, um, they'll do like Lovenox for a couple days and then they'll switch you on the blood thinner orally. But usually like you just take your little bit of your little bit of skin on your belly. You pinch it together. You, the needle is tiny, a tiny little needle and it just goes right under. You push it and it's, it's not, it doesn't hurt at all. It's not bad. Well, I do it every day, all day.
+Patient: I know my, my dad was severe diabetic most of his life when he started real bad when he was [PHI-Personal]. But anyway, um I'm not, I thought this was some kind of, you know, just a pill that you were gonna take. But talk to her about this. There's gotta be some other kind of medication that I could take that would just get me through this until maybe winter sets in which I'm not looking forward to because I talk to her and see what she says. I, I don't, I don't know, I'm at, I just know one thing I'm tired of the itching has it, has gotten a little bit better since our weather has changed, but it's not gone. Maybe it will continue to get better if I continue to use her homemade type recipes. Ok. Yeah. All the, the witch hazel, the Benadryl. Benadryl.
+Nurse: I just wanna try to give it a little bit more time. Is that what you're gonna, is that what you're saying? But we, we have to see about your medications. So, I mean, we have to keep, we have to add these back and we might have to, um, you know, have you test a little bit, when's the last time you did your, um, your lithium testing? Because if you have [PHI-Personal] you probably have to get that tested sooner.
+Patient: I don't, I don't wanna completely go off of lithium forever and ever, because that's what kept me saying that, you know? Yeah,
+Nurse: Absolutely. So, I mean, but I'm saying you don't wanna end up being off of it and then starting your dose back and then, because I'm sure you were gradually put up on 300. Correct?
+Patient: Uh, yeah. Yeah.
+Nurse: So if you just jump back on 300 I don't want you to get lithium toxicity. Um, so we're gonna have to, um, we're gonna have to talk back and [PHI-Personal] about how you're gonna get back on these medications because obviously they're not causing your itching. So we don't want you to be off of them. Um, so let me, let me just give her all this back and then I'll give you a call back and we will try to figure out where we go from from here. But I'm not, I'm just gonna tell her also that we talked about the Dupixent. Um, this is not something that you wanna do any injectables. Um, and that we talked about, um, you know, side effects of predniSONE and that's not really something you wanted to try this time. You're gonna give it a little bit more time on you, the remedies that you guys discussed at home. Um, see if the weather change is gonna help and then we'll see where we go from there.
+Patient: All right. Sounds good. See what, what she said and, but predniSONE, I, if it's gonna do the same thing that, that steroid shot did to me, I don't want any part of it. I'm trying, I'm not gonna lie.
+Nurse: It will stop your itching, it will, but it, you're gonna, it's not good in the long run.
+Patient: Yeah, I don't, there's gotta be something else out there. I mean, it's, if, if we're talking, I don't
+Nurse: Know about, if you're talking about just doing something until the break of the weather, I mean, that might be an option you I mean you're gonna have to probably deal like I said with with those kind of side effects that I that I told you about with the skin and everything um but if it's worth not itching and you're gonna be wearing pants it might be worth it for a little short term.
+Patient: Alright. Alright talk to her and see what she says. Ok I
+Nurse: I'll see what I can do.
+Patient: Alright. Thank you so much [PHI-Personal]
+Nurse: Good to talk to you.
+Patient: Have fun with your man. Alright
+Nurse: Bye take
+Patient: Care, take care bye bye.

@@ -1,0 +1,74 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Yes, this is [PHI-Personal]. Um, I have an, an appointment, uh, for my husband has an appointment to see [PHI-Personal]. Yeah. But I never got a confirmation on it and I'm wondering if somebody got confused with a appointment that he had and then they had a cancellation and we went in earlier. Oh, ok.
+Nurse: Let me see here.
+Patient: No.
+Nurse: Mhm. Let me just to check. Oh, my goodness. All right. [PHI-Personal]. Mhm. [PHI-Personal]. No, it was canceled.
+Patient: It was canceled.
+Nurse: Yeah, because you, he had seen [PHI-Personal] on the [PHI-Personal] of [PHI-Personal].
+Patient: Right.
+Nurse: Yeah. So
+Patient: You're good. Um, ok. So the last visit we had, uh, they gave him an antibiotic which for 14 days, which is what he's still on. Ok. And it doesn't, they ordered an MRI and nothing showed on the MRI. Ok. But he's still having the same pain that he had when he started the antibiotic. Ok. And he also was taking a pain pill for his knee, which I have, uh, he has run out of and I've been giving him Ibuprofen. Ok. Um, I don't know if he [PHI-Personal] [PHI-Personal]. Said that he didn't think he should be taking [PHI-Personal] or anything else. As long as he was taking the pain pill for his knee, he didn't need any additional. So when we run out of the pain pill for his knee, I started giving him ibuprofen. I just, I don't know if they wanna refill that pain pill or if we should just stick with [PHI-Personal] or Ibuprofen, which I thought was gonna, you know, we were going to find out at this meeting today with Mr [PHI-Personal]. Um, so we're kind of confused as to where he should go next because he's, and then he was having pain in his left testicle is, which is why they ordered the MRI. It didn't show anything but he's still having pain there. Now, you don't have pain there if there's not. So, you know, nothing going on. Mhm. So, so I'm not understanding what the next step would be. He's still having the pain in the left testicle, but we don't have any answers. Right.
+Nurse: That is very frustrating.
+Patient: Um, I just wondered, you know, I, I was wondering if Mr [PHI-Personal], um, if I was thinking if we had the meeting today that he might refer him to, um, uh, what do you call them guy that takes care of your prostate? Like a urologist? Yeah. Yeah. Yeah. I don't know. I just see he, since we haven't, didn't discuss it with the last visit and they didn't find anything with the MRI. I'm questioning what the pain is in the left testicle because he also had a lift put in some time ago. I'm not sure that they've referenced that because since then I have read some not so good things about the Euro Lift. The
+Nurse: Urolift. Hm. It is. Uh, mm, I see complications of it because I usually actually hear good things. So I, I don't even see here where it would cause pain. Like I've never heard of it causing pain.
+Patient: Well, what I read on the, uh, on my ipad was that some? And he had this, he had a stent that broke loose. Uh, and according to the article that I read and he, and he had bladder cancer that the stent, if the stent became lodged in the bladder, it could cause cancer. Ok. So that's my concern. He's, he's already been cleared of the cancer, but I'm wondering if something else is going on. Right.
+Nurse: Hm. We can definitely, it sounds like it would, he would be
+Patient: Appropriate to see a, um, a
+Nurse: Urologist. Does he want to see the one that he's seen before or?
+Patient: Let me see if I can find it. Well, the one that put the, the Euro left in has retired since then, I think, um, oh, Doctor [PHI-Personal] put it in, he's been seeing one down there. I just, I can't remember his name.
+Nurse: Yeah. No, no.
+Patient: Are known patients. Mhm. Mhm. That's who I think you've been seeing.
+Nurse: Yeah, let's see here the last time. Well, the last appointment I have in my documents is on [PHI-Personal] the [PHI-Personal] of 2021. Um, um, history of severe BPH bladder outlet obstruction underwent lift in [PHI-Personal] with six implants placed.
+Patient: Mhm.
+Nurse: Now see they wanna do it in a year. So they are supposed to, did they set up a, an appointment with you guys yet for a follow
+Patient: Up uh with work or no, with our
+Nurse: Doctor?
+Patient: No, I don't think they have a let, let me ask him. Yeah. Yeah, when you, last time you was up, I don't know, follow up program for you. I don't have the [PHI-Personal]. No, he doesn't have one a follow up.
+Nurse: Let me give you their number because this is what they're gonna do. They're gonna say, oh yeah, give him a call and set up an appointment, um, since he's active, like he'll be, um, deny is considered active with doctor [PHI-Personal] office unless it's been over a year since they've seen him. So I will give you the phone number for
+Patient: Them. Ok? You
+Nurse: Can also let them know what's going on and that you're concerned and that you did, he did an MRI um, everything came back negative from the view of the prostate, the testing. Um, you know, but there wasn't a bladder scan done. Um,
+Patient: Well, they, they did say that they, the, the, they did say that, um, it showed some bacteria in the bladder. That's what did show up. That's why they prescribed the antibiotic. And that's what led me to think that, um, there might be some problem with Hi, left. I'm [PHI-Personal] years old. I get a, a little forgetful. So that's ok. That's ok. So whenever
+Nurse: You're ready I will give you the number.
+Patient: Ok, I'm ready.
+Nurse: Uh, it's [PHI-Account].
+Patient: Mhm.
+Nurse: [PHI-Personal]
+Patient: 00.
+Nurse: Officially the name is called [PHI-Geographic] but you could just call and ask for doctor Rn's office or Doctor [PHI-Personal] nurse.
+Patient: Ok. You're suggesting that this is our next step.
+Nurse: I would suggest that. Absolutely because he usually what happens if, if there's still, I'm gonna definitely send a message over to [PHI-Personal] and ask him about the medication. Like should he, you know, do any [PHI-Personal] or Advil or do you want him just to continue with the see like the the diclofenac um that he prescribed.
+Patient: Yeah, originally uh Mr [PHI-Personal] did not uh prescribe this uh uh [PHI-Personal] or [PHI-Personal]. But then um I think the last time I think [PHI-Personal] or Mr called it in but yeah, I just hate to keep giving these pain pills to him, you know, every four hours. It's not, you know, it's not solving the problem.
+Nurse: What pain pill is it again? Because I don't have one that he should be taking four times a day.
+Patient: Well, no, the one he was taking was, um, I've been giving him Ibuprofen, uh, every four hours when he ran out of the L, is that what it's called? That?
+Nurse: Yeah, I, and then the diclofenac was supposed to be just
+Patient: Once a day though. Take one tablet, uh, every 12 hours. Ok. All
+Nurse: Right. I don't even have the
+Patient: Updated. Ok. And it says for four weeks and then take as needed and it, you know, the pain has not gone away. Um So I'm wondering if you should continue to take this, if it's not doing anything. Um,
+Nurse: Honestly, I wouldn't, um, you know, if you feel like if he feels it's, it's ineffective. Like what that is is, it's um a nonsteroidal anti inflammatory drug. It's an NSAID so that it's in the same category as an Ibuprofen, an [PHI-Personal] and Advil. Like any of those, it's a Diff Tylenol is a different category. Ok. Um So that's why he wouldn't want you to take two and says at the same time, but if he's not taking the dic um Diclofenac, then he could pro he could take, um, you know, he could try an [PHI-Personal], he could try an Advil.
+Patient: Um, but just one, every four hours too, depending on the,
+Nurse: Yeah, like if he's continuously taking it every four hours, um, you, you don't want that to happen either. Um
+Patient: So one, every four hours is what you're saying. Uh
+Nurse: No, I would say no. Um, I would take it, I mean, and [PHI-Personal] is probably once every four to, no, it could be 4 to 8
+Patient: Hours. I think it's eight hours for the [PHI-Personal]. Yeah,
+Nurse: [PHI-Personal], if you take regular [PHI-Personal], let me just make sure, um, it's, it's supposed to last for 12 hours. So you only have to take an [PHI-Personal] twice a day.
+Patient: Um, no, he's been taking the Advil. Ok. But I've been giving him two and it says not more than six in an eight hour period, I think. Let's see.
+Nurse: Advil. Advil is the same as Ibuprofen.
+Patient: Ok.
+Nurse: Um Let me just see a regular one. He just takes the regular one like not a dual action or uh you know, with added, you know, extra strength or anything, right?
+Patient: I've been giving him um, two of them which amounts to four hun 440 mg. Ok. I know this, this isn't the best choice of medications, but I don't know what else to do.
+Nurse: Yeah. You know what I would do. I, I would try if you have [PHI-Personal], try the [PHI-Personal] instead of the Advil though, don't duplicate both of them because again, it's two nsaids. So you don't wanna take too much and you know, create a ag I bleed or anything like that. So, um have him try maybe an [PHI-Personal] for today. Um He could do two [PHI-Personal] twice a day.
+Patient: True.
+Nurse: Um Because yeah, like taking Advil, it shouldn't, like, every, if you, if he was taking it every four hours, like, two tablets every four hours, he's taking too much because you really shouldn't take more than six tablets a day.
+Patient: Ok.
+Nurse: Like, in a [PHI-Personal] hour period. So, if Advil doesn't seem to be cutting it and he's needing it every four hours on the hour, then maybe he should. Yeah, like, look into [PHI-Personal] instead and then the diclofenac. Mm. I mean, I see Diclofenac for more like, muscle pain, muscle related pain anyway. So I'm not sure. Like they probably thought like, ok, well, it's anti inflammatory, you know, he does pretty decent on the anti inflammatories. Let's try it. You know. Sometimes it's good. Sometimes it doesn't work, you
+Patient: Know. Yeah. Well, they came up with a diagnosis of, he didn't need surgery on his knee but he has arthritis. That, that's the answer we got. Oh, ok. And that's when they prescribed the pain pill. Yeah. Yeah. Ok. So we're gonna switch over to the [PHI-Personal]. Try the
+Nurse: [PHI-Personal]. Give it, give it a try. You just for today. How about this? Just for today? Do it. And then I will call you guys tomorrow and see if that helps at all. Ok. I'll write myself a little note here so I don't forget to call
+Patient: You and maybe on the, yeah, I did call and leave a message the other day because, uh, see, I seem to get through to you guys, uh, before I can get through to the clinic. But if you can give, uh, [PHI-Personal] a call and see, what about him making an appointment with, uh, the urologist?
+Nurse: Yeah. Well, I would say he would, he'll definitely recommend it, but they'll tell you, they don't need to send over a referral if he's been seen in less than a year. So he'll just tell you to call them honestly. That's what it, yeah. So, just, yeah, give that number that I gave you a call. Um, ask to, you could ask to speak to a nurse, doctor, a nurse. Um, and just say like, hi, he was seen, um, last [PHI-Personal]. He's supposed to have a follow up this [PHI-Personal]. I don't have one but this is what's going on. He's got pain in the left testicle. We've got an MRI, we're getting no answers. Everything's coming back normal, but he's still having this pain despite, you know, having, I think he even gave him a, um, a steroid pack as well and nothing seems to be helping. Um, you know, we kind of wanna see what the heck is going on. We don't know what, what's, what's wrong here. Oh. And tell him about the, uh, bacteria in the bladder too.
+Patient: Yeah. Well, he just, he did get, just get done not, not too long ago, a week or so ago with a steroid pack that, uh, [PHI-Personal] ordered.
+Nurse: Yeah. Yeah. So that's what I'm thinking, I'm, I, I think that's probably your next step, but I will let [PHI-Personal] know and just say like, hey, I suggested that they call doctor and set up their appointment. Um I also suggested the Advil is there, you know, anything different you wanted them to try or you know, any other fruit of the direction, um, and whatever he writes back then I will let you know.
+Patient: Thank you very much. Oh,
+Nurse: Gosh, you got it, [PHI-Personal]. No problem.
+Patient: Ok. You have a good day. All right,
+Nurse: You too.
+Patient: Bye. Mhm. Bye bye.

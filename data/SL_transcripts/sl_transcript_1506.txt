@@ -1,0 +1,9 @@
+Nurse: Hi. Hello, this is
+Patient: [PHI-Personal]. Yeah, [PHI-Personal]. This is, uh, we just talked. Yes, ma'am. And I want to let you know that I went to the eye doctor yesterday and on [PHI-Personal] I'm going to go and they will talk to me and measure my cataracts and stuff like that. I, and then it'll probably be a couple of months before they do the surgery. That's all back up there.
+Nurse: Oh, wow. Ok. So maybe they said sometime, like in the summer, like [PHI-Personal] or [PHI-Personal] they'll probably get you scheduled.
+Patient: Uh, all I know. Is that what may [PHI-Personal] [PHI-Personal] probably? Yeah. Ok. Ok. So I just want pass that on. I, I started to say it and then I was writing down something. So.
+Nurse: Yes. Ok. Good. And then vision wise, are you doing ok with your vision, any, uh, issues or anything like that? Oh,
+Patient: Well, it, it ha ha ha. Ok. You know. Yeah, I don't do night driving anymore. Um, and the, um, reading sign and everything that's hard. Right. Uh, reading the caption on the TV. And I have a huge TV. Ok. So,
+Nurse: Ok. Well, I will make a note of that there and then that way we can kind of you know discuss if you need anything from doctor before that surgery. Um that way we can get all that lined up for you.
+Patient: Yeah and the um I care center has her as my doctor. Ok,
+Nurse: Perfect good deal so that your records. Alright. Well then um if you need me for anything or you think of anything else you just give me a call back? Ok. Ok, thank you. Yes ma'am thank you bye bye.

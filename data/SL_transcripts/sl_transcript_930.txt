@@ -1,0 +1,33 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, yes, hi. I was looking for, uh, [PHI-Personal]. Uh, my name is [PHI-Personal]. I'm a patient of doctor Courtney. Courtney.
+Nurse: Can you spell your last name for me?
+Patient: [PHI-Personal] first name [PHI-Personal].
+Nurse: Yeah, but she told me that she had called a bunch of people. She had to leave early today. So I was filling in for her. Um, how is everything going for you right now?
+Patient: It's going ok. It's just that I'm calling about one of the medicines that I take the, uh, Symbicort. You guys? I see. Well, I just called the pharmacy services department and they told me that it was changed from Symbicort to the Budesonide for all, which is supposed to be similar. But I was wondering, uh, why it was changed and, and plus it's, uh, it's not in the company's formulary list. So I'm only got, I only have one refill of this thing. So I was wondering, uh, could it be changed back to Symbicort?
+Nurse: Yeah. Let me look at that and see. Now that should just be the generic for Symbicort.
+Patient: Right. That's what this is. But it, but it's not on their formulary list. So I'm not, I wouldn't be able to redo it after that, after the uh refill that I get that I have on here unless I go through you guys again. So I'd rather just go back to the Symbicort and just not be able to have to worry about it.
+Nurse: Ok. And you said that it was changed to which, what medicine
+Patient: Uh Budesonide Formoterol 1 60-4 0.5 which is the same as the Symbicort was. It's just a new, a generic brand, but the Symbicort is in their form. Yeah, the brand is in their formulary on their formulary list where I wouldn't have to worry about it being temporary because they, uh, they allowed it temporarily according to the pharmacy services. Ok.
+Nurse: So you just have to have the name brand prescribed and not the generic. Correct.
+Patient: Correct. That way I wouldn't have any problems getting it refilled.
+Nurse: Ok. That should not be a problem. Um, I'll send doctor [PHI-Personal] a message and I'll put a note on the prescription as well to fill out, fill it as brand name only.
+Patient: Right. That way you shouldn't have any
+Nurse: Issues with it in the
+Patient: [PHI-Personal]. Right. Right. Right. Because I was wondering why I got this because I got that, I received that from the, uh, from my medical plan.
+Nurse: Now, was that, uh, at CV S that you get it filled?
+Patient: Yes.
+Nurse: Ok. All right. So I'll get that fixed and you should not have any issues with that in the [PHI-Personal]?
+Patient: Ok. Oh, and, uh, well, and, uh, I was just looking, thinking about that, uh, appointment that I have with. Uh, no, no, Ri in [PHI-Personal], I was trying to find a, uh, I haven't been able to find one yet that was being a lot sooner than that because, uh, this, my, my, the tinnitus in my ears is getting louder. It's, that's what it seems to me like. So I was wondering because [PHI-Personal] is still quite a distance off.
+Nurse: Right. I could try to call and see if they've had any cancellations.
+Patient: Ok. Well, I know that's what they said that they would contact me if they did, but you can, you can do that. They, it might be better coming from, you know, your guys office. So, ok, I might be able to get something.
+Nurse: Ok. I'll reach out and give them a call and if they do have anything sooner, um, I'll go ahead and reschedule it and then I'll call you back.
+Patient: Ok. Thank you very much. I appreciate
+Nurse: It. Absolutely. Was there anything else that you needed today?
+Patient: Uh, um, yeah, maybe if I'm just ask about another prescription because I see what this one expired. Well, the last refill was, uh, [PHI-Account], which was [PHI-Personal]. Um, the, uh, well, let me get my mouth right here. The prescription, the prescription is Chlorthalidone 25 mg tablets.
+Nurse: All right. Um, it looks like Oh, that was last year in [PHI-Personal]. Yeah, you are due for a refill on that. So I'll put that one in as well.
+Patient: Ok. I think that might be it. Uh, yeah, because I, oh yeah. Oh, ok. That one I already called and that one was being in the process. Ok. I think that would be it.
+Nurse: Ok. And that one needs to go to CV S as well. Yes. Ok. All right, I'll get it taken care of for you.
+Patient: Ok. Thank you very much and I'll be waiting for that call. I hope they, I hope they have something earlier but if not then I'll just have to be patient and deal with this stuff.
+Nurse: We'll keep a check in and see if they have anybody that cancels. I know it's very rare because it does take so long to get in that somebody would cancel but just in case it doesn't check in.
+Patient: Ok. Alright, thank you very much. I appreciate it. Alright. You have a good day. You too now. Bye bye
+Nurse: Bye.

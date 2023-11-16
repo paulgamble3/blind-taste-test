@@ -1,0 +1,26 @@
+Nurse: Hi, this is [PHI-Personal] with the care management team. How can I help you?
+Patient: Oh, hi, [PHI-Personal]. Um, this is [PHI-Personal] returning your call, returning your call, returning your call
+Nurse: Playing phone tag. I appreciate, I appreciate getting back to me, [PHI-Personal]. How are you doing today? I'm good, good. Um, I just wanted to go over the information about the new program. Doctor [PHI-Personal] is offering. Do you have a couple of months? You want me?
+Patient: Yeah, I don't know what the program is.
+Nurse: Ok. Um, well, and just so, you know, [PHI-Personal], the, the call is recorded for quality purposes. Ok. Um, what it is really, it's a new care management program and behavior health program. Um, that's just where our nurse is gonna call and check in, see how you're doing in between office visits. Uh, she'll go over your full medical health with you answering any questions, addressing any issues or concerns that you might be having. Uh, she'll also go over, uh, your medications if you're taking any, uh, she's gonna make sure that they're working the way that they should be and that your conditions aren't worsening. Um, or if you just, uh, had questions about your medications or maybe needed refills. Uh, if you had questions or needed help with appointments, labs, community resources and those are things she would discuss with you during the phone call. Ok.
+Patient: How often does she call?
+Nurse: Um, that is actually up to you. You get to choose. So if you'd like her to call you once a month or once every three months, uh, six months or maybe even just once a year, that's up to you. Um, I do mail you a letter to the program with your dedicated nurses, contact information. That way you can call her too with any questions or concerns you might be having. Ok.
+Patient: Do you have her number right now?
+Nurse: Uh, let me see here. Actually, let's see who we have it. Your nurse bear with me for one moment
+Patient: Question. But it just went out of my head. Oh, cool and
+Nurse: All right. Well, I have the nurse's number. Uh, it is [PHI-Account].
+Patient: Uh, go ahead.
+Nurse: [PHI-Account]. And that's the number she would be calling you from. Ok.
+Patient: Her name
+Nurse: Is, uh, spell it sen ec A
+Patient: Like the lake.
+Nurse: Yes.
+Patient: Yes. Ok. Is she in your office
+Nurse: Or? Yes. So, yeah. No, some of the nurses are new because of the programs are new. So, um, but she would, she be, she would be the one you'd always, you'd always speak with. Ok, you wouldn't be speaking with multiple different nurses. It's just,
+Patient: Um, yeah, that's been, uh, an issue. Um, like [PHI-Personal] wanted to, you know, they went over all this stuff with me and I called back and, uh, she got transferred to another department. This is like three weeks later. So then the new person wanted to start all over again. Oh, got you. No, I'm not doing this anymore. Thanks. Anyway.
+Nurse: Yeah. No, it's always the same nurse. So you don't have to have that, that problem. You know what I mean? It just, it just makes it easier for both, for everyone involved. Ok. Um I just wanna confirm your information we have is still the same. Uh, we have your mailing address still as 2 22 Avenue apartment 1 19, Exeter, P [PHI-Account]. And we have your insurance still as humana and ahe correct. Ok. Uh, would you prefer for your nurse to call you in the mornings or in the afternoons? Um,
+Patient: Whatever? Um ok, I can't, I can't tell you which is better every day is different. So sure.
+Nurse: No, I, I understand it's, it's like people have their lives to carry on. I get it. All right. Well, give uh, I'm gonna mail you out the letter with your, your nurses contact information also. Um, if you do have any other questions, please don't hesitate to give me a call back. Ok,
+Patient: Thank you very much. Have a great day. Oh, thank you.
+Nurse: You too. You have a great day. Bye bye,
+Patient: Bye, bye bye.

@@ -1,0 +1,79 @@
+Nurse: This is
+Patient: [PHI-Personal]. Hello, [PHI-Personal]. This is [PHI-Personal] calling
+Nurse: Back. Hi, how are you?
+Patient: Uh, uh, excuse me? Uh, ok, I guess.
+Nurse: Yeah. Do you feel steady, improved or? Slightly worse?
+Patient: Mm. Well, anyhow, this morning, uh, I get up and I was a little bit slow, a little bit slow going this morning and then I went and got a shower and I got dizzy and I haven't done it. That's why I didn't answer the phone at 10 30.
+Nurse: Oh, yeah. Mm. So, are you still busy?
+Patient: I don't feel like I still am. No.
+Nurse: Ok. Um, and do you feel like you got overheated?
+Patient: No, I didn't get overheated. I don't know what it was. It just, you know, it's one of them things that, that, that happens every, it's always happened every now and then your whole, your whole life.
+Nurse: Ok. You know, it's happened before.
+Patient: Yeah, it's not like it hasn't happened before, you know, when you, you move the right way or something and it just hits you, it hits you weird. But, yeah, now I'm on all, I'm, I'm on all this junk. So it's hard to say what it is.
+Nurse: Yes. Yes. How is your oxygen going?
+Patient: Uh, it's going pretty
+Nurse: Good. Are you still using it? Oh, yeah. Yeah. Ok. Ok. And do you feel, how's your cough?
+Patient: The cough is getting better? It's not as bad as it was
+Nurse: Perfect. And you have the inhalers to use? Do you, do you feel like those are helping?
+Patient: I think they are. I think they do
+Nurse: Help. Ok. Do you, um, did anybody tell you how to use inhalers?
+Patient: No, not. I had one nurse. She had this big plastic look, uh look like a muffler that you slide, that you slide over the end of the end of the, the, the, the, the, the inhaler. Yep. And whether it works or not, it just, uh i, it, it just didn't hit me. Right?
+Nurse: Ok. So are you using that or? No?
+Patient: No, no, I'm not. I use the inhaler but I don't use that thing.
+Nurse: Ok. I mean, it, the spacer works for people who can't get the timing of the inhaler, right? Uh So if it's working for you, that's fine. So like we want you to like blow all your breath out and then do your inhaler into your mouth and breathe it all in at the same time, right? Yeah. So if that works for you, that is completely fine. Sometimes spacers help people um who just can't get the timing right? Because it holds the medication in that chamber. So you can bring it in when you have the breath. Yeah. If, if you're not having issues then there's no problems not using it. Yeah. I could
+Patient: See that if you, if you, if you could get your breath.
+Nurse: Right. Yep. Exactly. So, yeah, if you, if it works for you there's no reason to do it any other way. So, um, I was just gonna double check what inhaler you were taking? I
+Patient: Got, I got two different kind. Yeah. Now I should, I, I should be getting my regular, I should be getting a phone call for the regular, uh, regular albuterol but this other one is, uh, uh, [PHI-Personal]. Yes. [PHI-Personal] [PHI-Geographic]. It's not, it's an, it's an inhaler but it's not, it's, it's got some kind of powder or something in it.
+Nurse: Yeah. And so you put the little, like you click it and then you, um, yeah, like kind of suck, breathe in. Yeah.
+Patient: Yeah. It, it's, it's good for like five clicks or something then it's done
+Nurse: Perfect. And now I don't know if I go ahead. I
+Patient: Don't know if I'm, I don't know if I'm supposed to stay on this and get another one or not. I don't know.
+Nurse: How many do you have
+Patient: Left? I just got the one in my hand. That's it.
+Nurse: And how many inhalers do you have left?
+Patient: 00. it's only one or two left. I think it has a thing on it but it has a, a counter on it. And it says it says 23. Ok. And I think it, I don't think that's, I, I think the counter is off because I think they're only good, I think they're only good for like, five puffs or something.
+Nurse: Well, they should be good for a month.
+Patient: Well, maybe it is a month. I don't know.
+Nurse: So, I think it's counting down for you because you've been out almost a week. So that would make sense if seven are gone. Yeah, I would. So, I think it's proper and doing the right thing and so that, um, you wanna make sure you don't blow out into the cartridge? Right? That's the only thing where it's like if you do that you're gonna waste the medication. Right.
+Patient: Right. So, well, I know it's got, it's got like a powder in it or whatever.
+Nurse: Yeah, exactly. So, all right. Well, it seems like you're doing well. You have an appointment with Doctor [PHI-Personal] on the ninth, um, where he'll, like, re go over everything and make sure you still need it or not. Are you still using the nebulizer as needed? Yeah. So far. Good. Good. All right. Well, any questions for me?
+Patient: No, don't. Am I gonna? Well, no, I, I, no, I, I was thinking about this oxygen but I, the doctor said I'm gonna need that the rest of my life.
+Nurse: Oh, ok. Yeah. So, as you get better, you might not need it in certain situations. But at the same time you could need it forever. So, as you heal, they'll be able to determine when you need to use it.
+Patient: Right. Well, she told me I'm gonna, I'm gonna be on it the rest of my life, uh, at night.
+Nurse: Yep. Yep. And that's very common. So you might be, as you get better, you might be able to go without it during the day or, um, just wear it part time. So that's kind of a feel out thing as you heal. So the doctor will work with you on that to see
+Patient: If, yeah, I don't use it during the day.
+Nurse: Oh, perfect. Perfect. You're just at night right now. Yeah, I just
+Patient: Use it at night or unless I feel unless I'm feeling a little bit weird sometimes. I, I mean, I just got it so I didn't know, know if I'm starting to feel weird if I get on it or not, if it, if it clears it up for me or not, I have not. I ain't got a clue yet.
+Nurse: Right. Exactly.
+Patient: [PHI-Personal].
+Nurse: Yep. And that's exactly what you should do. And do you have uh um pulse oximeter at home?
+Patient: I got it in my hand right now. I just picked it up.
+Nurse: Perfect. Perfect. So when you're feeling a little weird, you can always put your pulse oximeter on too and see what your oxygen rating is. Yeah.
+Patient: Well, I just put it on a little while ago. And I was [PHI-Personal].
+Nurse: Yes. And that's perfect. I mean, there's nothing wrong with putting your oxygen on to make you more comfortable. But as long as you're above, like [PHI-Personal] we're usually not very concerned. Right. So, if you're feeling weird, put it on, see what it is, make sure you're not too low, but in general, if you're [PHI-Personal] and above, we're happy. So,
+Patient: When that, what it, it seems like my numbers are staying up better than what they were. Is that, is that normal?
+Nurse: Yes. And that's what we want, we want your lungs to heal. So they're processing the oxygen better for you. So, that is exactly what we want. We want your numbers to be as high as possible as long as possible without oxygen. So, yeah. So that's a really good sign that you're, um, healing and getting there. Ok. So, yeah. Well, it seems like you're doing good in healing. It's just a slow process because it's your lungs. So,
+Patient: Yeah, it is slow.
+Nurse: It is, it is, it takes a long time for lungs to heal. So,
+Patient: That's what I said to my, I said to my wife, I said this really kicked me in the pants.
+Nurse: Yeah. Isn't it amazing how all of a sudden you're like, what is going on?
+Patient: Like? Yeah, exactly. This
+Nurse: Is not right. But yeah,
+Patient: Somebody stuffed their sock, dirty socks down your throat.
+Nurse: Yep. Yep. And the lungs are so good. At compensating until they're not. So that's why you're often go from zero like you feel ok. And then all of a sudden you're like, I am no longer ok, because your lungs hold off as long as they can before they give out. And then they're like, well, that was a nice run. We're done now.
+Patient: Yeah. Yeah. Yeah. Yeah. They, they do good and all of a sudden they say, see,
+Nurse: Uh. Yep. Exactly. Exactly. So, but it seems like you're starting to heal really well, which is exciting. Um, but it is a process. It is a marathon, not a sprint, right? Which is super annoying, but it is what it is. So. All right. Well, if you need any, do you need anything from me?
+Patient: Uh, not that I know of, I don't think. No.
+Nurse: Ok. Well, if you do give me a call, otherwise I'll give you a call back next Monday and see how you're doing.
+Patient: Ok. I think I got, I think I got three days left of the Albuterol. I think I just three or four packs, three or four. Well, a pack last a pack. It last, usually last me a day and a, and then the, the following morning
+Nurse: For the nebulizer.
+Patient: Yeah, for the
+Nurse: Nebulizer. Ok. So do you have, so we probably need a refill before you see Doctor [PHI-Personal].
+Patient: Uh, more than likely. Yes.
+Nurse: Ok. I'll put in for that. And do you want that to go I'm trying to find where
+Patient: They find and,
+Nurse: And be perfect. All right, I will request that for him and then we'll go from there. Ok. All right. You have a wonderful day. Oh, do you want me to call you when it's filled or are you ok with the pharmacy telling you?
+Patient: Oh, the pharmacy will call.
+Nurse: Ok, perfect.
+Patient: Alright, thank you. You're
+Nurse: So welcome. Bye bye.

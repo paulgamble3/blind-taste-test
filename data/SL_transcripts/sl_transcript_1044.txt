@@ -1,0 +1,45 @@
+Nurse: Good afternoon, [PHI-Personal]. How are you?
+Patient: Tired? Oh, it's, I, I tried, I tried to answer the phone but I guess I hit it the wrong, pushed it the wrong way and hung up on you.
+Nurse: That's all right. I was le, I just hung up from leaving a, a voice mail. I was afraid that I wasn't gonna catch you in time or hang up on you accidentally.
+Patient: Well, I'm not at home right now. I'm just getting out of therapy.
+Nurse: Oh, well, that answers one of my questions, um, because I was calling to see if you were able to make it to therapy if you ended up going or not. So that I guess that answers that question.
+Patient: Yeah, that, let's see, this will be my second week. Nice.
+Nurse: Ok. How are you feeling with
+Patient: It? Well, it's doing its job but I, I'm tired as heck afterwards. Yeah.
+Nurse: So, are you feeling stronger? The pain getting better?
+Patient: Yeah. I don't have much anymore in my knee. Same way with my lower back. It's going, it's up to about the middle of my back now because of, uh, uh, doing the exercises that they got me doing. It's, it's changing location because nothing is up to date or up to code or whatever you wanna up the stuff, whatever you wanna call it, it's just lack of exercise is all it is.
+Nurse: Have you let them know that it's causing your pain there?
+Patient: Yeah. I gotta take a little, little, uh, information sheet and fill it out every so often. Good. And I, and I, I let, if something's hurting, I'll let him know about it right away. I just tell him I don't touch me my PT
+Nurse: Good. All right. So, and you, and you ended up going to the um one you've been at before, correct?
+Patient: Yeah. [PHI-Personal].
+Nurse: Perfect. OK. Cause they know you well over there then,
+Patient: Right? All right. Well, that sounds good there. Well, them other people said they never got anything. So that's when I said fine, I'll take care of myself.
+Nurse: Yeah. Yeah, I think that was just a little bit of miscommunication between the office, uh, physical therapy. You, I think, I, I think there's just a little misunderstanding there but either way you got to one that you like and you're doing it and so it's improving for you. So we're happy all the way around, right? How, um any BP issues or any breathing issues while you're doing this? I know you've had some trouble catching your breath a lot. Um, in the past couple months. Has that gotten better with this exercising?
+Patient: No, actually I think breathing one was the exercise bikes, uh, helping me out a lot. I'm not coughing and hacking, like, like I was, but then I cut down on my cigarettes too. I'm getting ready to quit.
+Nurse: Oh, good. That's definitely gonna help quitting. That is gonna help open up your airways a little bit cause smoking constricts, it, it also increases the mucus. So, by doing those biking exercises, you're doing deep breathing, which helps open up your airways and gets rid of any mucus. It helps loosen that mucus for you to get rid of. So, the combination of cutting down on the cigarettes and the biking is definitely gonna help with that.
+Patient: Right.
+Nurse: And if I remember correctly last time you, you didn't want any medication with that, correct. You were, you were just weaning yourself down and gonna do it that way.
+Patient: Well, I got CBD helping me quit smoking. Ok. I'm not, I, I do not want any more pharmaceuticals and their garbage they make fills out of,
+Nurse: I don't blame you whatever he you're doing as long as it's helping you, we'll go with, uh, we don't want it to hurt you, but if it's working for you, we'll go with it. I don't blame you on the
+Patient: Least. I'll take all natural stuff before I will. Anything else.
+Nurse: Generally, those can be healthier. Um, there are some things, you know, with pharmaceuticals that we do unfortunately need you to take. Um, but I completely understand your, your reluctance with it over the past couple of years. They've definitely, uh, been somewhat problematic. I guess it would be a nice way of putting it
+Patient: Too. There's too many chemicals and stuff that you read about and that, and the government's trying to kill you.
+Nurse: Yeah. Yeah. Yeah, everything has chemicals but I definitely agree that there's a lot that's questionable these days. But, um, right now I just have you taking Lisinopril and then, um, vitamins, is that still what you're taking?
+Patient: Yeah, I'm thinking this stuff he always, uh, prescribed to me.
+Nurse: Perfect. Ok. Well, that sounds good. And you're not on any inhalers, correct?
+Patient: Yeah, I'm, I'm on [PHI-Personal].
+Nurse: I see. Sorry that I, sorry, see the Combivent here and Symbicort. I apologize. I had to click into it. My screen went from regular lettering to teeny tiny, tiny. I needed to put on glasses. Yeah. Um, and do you need any refills on those? Because those look like they might have expired. Are you good?
+Patient: I don't know the one, I don't know which one. I got five or six setting up on the shelf. I haven't looked at, I haven't looked at the shelf days on them yet but there for a long period of time they were over at the pharmacy was, and that's how I got so many they were sending them out to me before I even had one empty. Oh, wow. And then the other one that I just take uh every four hours. I think that one is uh about half empty. Ok.
+Nurse: Yeah. Ok. As long as you got them, that sounds good. If you need any refills or anything, you definitely let us know. Ok.
+Patient: Right.
+Nurse: All right. Now, uh, looking here I do. Have you, are you still doing the um pantoprazole for acid reflux?
+Patient: Yeah, for all the good it's going,
+Nurse: Ok. Quitting, smoking might aggravate your acid reflux. Um, so definitely continue taking that.
+Patient: Well, the last couple of weeks it's been acting up every other day or so, no matter what I eat or drink or whatever comes, it's a burger.
+Nurse: Ok. Um, are you taking that on an empty stomach?
+Patient: I'm taking that first thing in the morning like I was told to and then if I feel like eating anything I eat. Ok. Yeah. But it usually, it usually, it usually kicks up in the evening or, or at night or around supper time.
+Nurse: Mm. I'll put a note here here for doctor [PHI-Personal] to take a look at and see what he would recommend. Um, he might wanna change the dose on that. Are you taking any Tums or anything to help with that? Tums or calcium carbonate can help decrease, um, the acid reflux at night as well.
+Patient: Yeah. Ok. [PHI-Personal]. Ok. Right. Well, let me give you a call back when I get home. I, I'm trying to take some business care of some other business.
+Nurse: You know what? I I'm done with you. I just wanna, I put that in, just remember you have labs on the [PHI-Personal] and then appointment with Doctor [PHI-Personal] on the [PHI-Personal] of this month. Ok. Both of them were [PHI-Account].
+Patient: Um, the, the, the, the [PHI-Personal] and the [PHI-Personal]. Yes. Yeah. Yeah, I'm not too sure about the, the times but. All right. Anything else?
+Nurse: Ok. Nope, that's it. You have a great day. Ok. Bye. All right. Bye bye.

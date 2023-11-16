@@ -1,0 +1,7 @@
+Nurse: [PHI-Geographic] Care Management Team. This is [PHI-Personal]. Hello.
+Patient: Hello, [PHI-Personal]. Uh huh. This is, I was told to call here. Ok,
+Nurse: Hold on just a second, Mr [PHI-Personal]. Ok.
+Patient: Ok.
+Nurse: Hi Mr [PHI-Personal]. She's tied up on another call. Can she give you a call back in just a few minutes?
+Patient: Ok.
+Nurse: Ok. Thank you. Bye bye.

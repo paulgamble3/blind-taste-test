@@ -1,0 +1,24 @@
+Nurse: This is
+Patient: Hi, Cy. It's t, how are you? Good, good. Listen. Um, I'm calling you because you, you have better access to Doctor [PHI-Personal] than I do, um, on Friday. And thank you for getting that me that appointment so quickly. Um, when I had the ultrasound, it came out that I had, uh, a mass on my, a solid mass on my kidney, one of my kidneys. And, um, the ultrasound said that, uh, you know, report said that, you know, probably contrast dye, uh, CT Scan or MRI would be the best thing. Um, and Jen Burns said that, uh, gave me two groups and one group I called. Um, so I have a, an appointment with the doctor. Uh, it's [PHI-Personal], um, on Holy, on, on [PHI-Geographic] there. Um, Paraiso for Friday. Um, so are you there?
+Nurse: Yeah, I'm here. I'm trying to get
+Patient: Your chart pulled up. Yeah. So, um, number one, you know, any other doctor, I don't know him, I don't know anybody, any of the urologist that I could get in earlier would be good. And, um, you know, and I'd rather just get the test done this week if I could. You know what I mean? Because I'm staying home again from the cape, my daughter's coming next week. I mean, I, you know, this is not gonna be good, you know,
+Nurse: I so sorry that all this is, is going on. Um, let me just get this to see if I can get your orders pulled up real quick. Um, I'm, I'm really glad that we were able to get you in for Friday's ultrasound then.
+Patient: Yeah, I mean, you do talk to Doctor [PHI-Personal] all the time, right?
+Nurse: Yeah, we, we message back and forth, uh, daily about all of the different patients and those issues come up. Um, let's see here
+Patient: You, I would just like to get in with the urologist as soon as I can even before. I mean, I'm on the waiting list at that, but, you know, who else can, can we call to just get an earlier appointment? And, you know, if that's what suggested is a, uh, ac A T scan, let's just get it scheduled even before, you know what I mean? Before I go,
+Nurse: Go ahead. Um, and let me see the imaging report because I can forward that to him. Um, and to see if he'll go ahead and order it
+Patient: And, and you know, yeah, as soon as possible, like this week. Yeah.
+Nurse: Ok. I'll send a message over and see if I can get that ordered et with. Have you had ac A T scan with contrast before?
+Patient: No.
+Nurse: Ok. Um, no, no issues to any iodine, any dyes like that.
+Patient: Not that I know of. Ok.
+Nurse: Yeah, give me a little bit and I'll get this message sent over to see if we can go ahead and get this ordered. Um,
+Patient: And, and what about if he has any other recommendations for urologist? So I could try to get an earlier appointment?
+Nurse: Yeah. Um, I'll see if they have anything. Um I can take a look and see if our other doctors um have any availability to get you in sooner as far as urology goes.
+Patient: Ok, thank you. Mhm. You're
+Nurse: Welcome. Uh Thank you so much. I'm sorry that all this is going on
+Patient: Um to
+Nurse: Be a lot but we'll get it figured out and um I'll get this message sent over right now. Ok. All right.
+Patient: Thank you.
+Nurse: You're welcome.
+Patient: Alright, bye bye.

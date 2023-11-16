@@ -1,0 +1,13 @@
+Nurse: Chronic care management. This is [PHI-Personal], may I help you?
+Patient: Yeah, [PHI-Personal] Ross here. How are you?
+Nurse: Good. How are you? Good.
+Patient: Just wanted to say thank you, [PHI-Personal] called me yesterday and gave me all the results of the blood test and said that I have the blood of a [PHI-Personal] year old. So everything is good.
+Nurse: Hey, wonderful. That's great. Do you um I just wanna ask you, did you get your flu shot and everything?
+Patient: Yes, I got my flu shot. I got my uh booster B A five variant shot, pfizer. Um I got my uh my um shingles shot um and uh I got my, my pneumonia shot. I got them all.
+Nurse: Ok. I just wanted to make sure
+Patient: [PHI-Personal] says that's really uh important but sort of bad news because it means I'm gonna live a while longer and she has to put up with my dumb ass.
+Nurse: Got you. Funny.
+Patient: Anyway. Yeah, but thanks for, for getting [PHI-Personal] off dead center. She called me right away.
+Nurse: Oh, good. Ok, wonderful. I just wanna make sure.
+Patient: Yep, everything's good. Thank you.
+Nurse: Ok, talk to you soon. Ok, bye dear.

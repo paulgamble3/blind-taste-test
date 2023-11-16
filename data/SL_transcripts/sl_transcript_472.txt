@@ -1,0 +1,95 @@
+Nurse: This, [PHI-Personal], [PHI-Account] of the nurses. Hi, this
+Patient: Is [PHI-Geographic]. Returning your call. Hi, [PHI-Geographic].
+Nurse: Hi. Hi, my name is [PHI-Personal]. I'm the nurse care manager with doctor. So I'm just checking in to see how you'[PHI-Personal] doing and how you'[PHI-Personal] feeling.
+Patient: Oh, I'm good, [PHI-Personal]. Thank
+Nurse: You. Good. Do you still have nursing care at the home care or did they stop coming? They stopped coming. Ok. And are you still working with PT or no?
+Patient: No. Ok. All right.
+Nurse: And how have you, how have you been feeling overall? Very well? Thank you. Good. Good. Let's see. And you just saw the doctor recently, right? Yeah.
+Patient: Ok. Yep. The, you wanna make a note? I forgot to ask her about a referral for a gastroenterologist. Ok.
+Nurse: And, um, what's, are you having symptoms of something or?
+Patient: No? Actually, um, actually what happened was I had severe diarrhea and because I had two huge bowls of pineapple followed with a lot of chocolate and then I had diarrhea and it stopped. Now, I don't know why the gastroenterologist, you know, I went to the hospital because I thought it wasn't an emergency but it, it totally stopped and I I did it myself
+Nurse: And when was this,
+Patient: Um, two weeks ago, 10 days ago, you know, [PHI-Personal]
+Nurse: Ok. Which emergency room did you go to?
+Patient: I temp in general? Ok. Actually, when I went there, they totally dismissed that because they were checking my um, heart and they were checking my, um, pacemaker
+Nurse: In [PHI-Geographic]. What's your date of
+Patient: Birth? [PHI-Personal]
+Nurse: Two. And the best number to reach you at, in case we get disconnected
+Patient: Right here. [PHI-Account].
+Nurse: Right? But you had diarrhea about, I don't, I don't see any notes in the computer about the hospital. Was it a hospital or was it an urgent care?
+Patient: Urgent care? Sorry, you'[PHI-Personal] fine. I think they uh I believe they gave me an antibiotic for it, which I really didn't need because I had, I had done this to myself.
+Nurse: Ok. Do you know what the antibiotic was?
+Patient: No.
+Nurse: Did you take it?
+Patient: Yes, I, you know, I think I think it was a very small amount because I believe I took it when I was there and that was it. Ok. You know, it was not, I didn't come home with it, I don't believe. But as I said, I live when I got there, they were most concerned about my heart rate, you know, they, that apparently that move out of whack or something. I don't know.
+Nurse: Ok. Do you remember what your heart rate was.
+Patient: No, no, but I do have it monitored with the, uh, monitor every day. So, and it goes straight to doctor [PHI-Personal].
+Nurse: And do you remember which urgent care it was
+Patient: In general?
+Nurse: Ok. Was it, uh, fast track, urgent care? I don't know. Do you remem, do you know where, where it was located? The, the address? No. Ok. Ok. And how are you doing all your medications?
+Patient: Just fine. Hun Ok. Just
+Nurse: Fine. All right. And the diarrhea resolved. You'[PHI-Personal] not having any more issues. No, no,
+Patient: No, no, no, no, no.
+Nurse: A RP. Ok. And you'[PHI-Personal] eating and drinking? Ok. Yep.
+Patient: Yep. No, absolutely, no problem.
+Nurse: Are you having regular bowel movements? Yes. And, um, any fever, abdominal pain. No,
+Patient: No, no, no,
+Nurse: No diarrhea. No. And any chest pain. No. All
+Patient: Right.
+Nurse: Ok. Dokie. It looks like when you had your last visit, um, let's see. The doctor recommended that you go to, um, the memory clinic, uh, referral to the bird ot for driver's evaluation.
+Patient: Yes. Yes. And I'm, I have an appointment with them. My son is taking care of that. Right? So, that's in the, that's in the works
+Nurse: Good. Ok. All right. No. Put that in. All right. And did you do your, um, you did your urine? Right? So, that's good. All right. Where was that from? Just bear with me, [PHI-Geographic]. Sorry. So, it looks like your urine came back. Did you get your results for that? Um it says your urine overall is unremarkable. Let's see how the frequency urinate, the uh urinary frequency responds to starting Myrbetriq. Ok. If any changes in symptoms, I would like a repeat urine. And what was your urine? The urine? Um, the overall urine culture is unremarkable, which is good, right? Which is good. She, he's um she said, let's see how the frequency responds to you. Taking my Myrbetriq, right? Um If any changes, yeah,
+Patient: I'm good.
+Nurse: OK. All right. If any changes she uh she wants to repeat the urine culture. OK. Yes. So, and then with the Myrbetriq, you just have to keep an eye on that, make sure you'[PHI-Personal] checking your BP regularly uh because it can elevate it. Um And then if it does elevate it to call. Yes.
+Patient: All right. I check that every day and I believe it goes to the doctor also. Yeah, every day. Mhm.
+Nurse: So, and then Myrbetriq can also um let me just double check. I'm pretty sure let me just hold on correct side effects. Bear with me. I'm sorry.
+Patient: That's OK. Uh
+Nurse: Oh I don't see it in there. OK. So yeah, just make sure if you notice that your BP is going up, that you call cause that can be a side effect of Myrbetriq. So [PHI-Account]
+Patient: Right?
+Nurse: Oh. Hm. And you said you have an appointment for the for um Yes. Ok.
+Patient: Perfect. Oh, the memory also also the eye doctor coming up in the, uh, next week or the, or the week after he just had to, you know, uh, repeat just to check up on me.
+Nurse: Yeah. Ok. And then you'[PHI-Personal] seeing, uh, when are you seeing doctor [PHI-Personal] next [PHI-Personal]? Yes. Ok. All right. Right. And you'[PHI-Personal] good on medications, right. Yes. And are you having any issues that you'[PHI-Personal] concerned about? No. No. Ok.
+Patient: No.
+Nurse: Ok. And have you been, I don't see your readings in the computer. Um, oh, your pulse is very elevated. Um, do you have a cardiologist? Yes, you do. And when do you see them next?
+Patient: Oh, I really don't know. I'm thinking within the month and you should have my pulse reading when, when you get my, uh, you know, when you get my readings both should come in there. No,
+Nurse: I just don't see anything, uh, since the [PHI-Personal]
+Patient: Of [PHI-Personal]. Yeah. Um, well, I'm just going to take it now until you have my BP as of the [PHI-Personal].
+Nurse: Not since the [PHI-Personal], as of the [PHI-Personal], but, uh, nothing since
+Patient: I think I've been delinquent.
+Nurse: Uh, oh, that's ok. There's no time like the present. You want to check it now and see how it comes out. Sure
+Patient: You want me to do it while you'[PHI-Personal] on the phone. Sure thing. Hold on, hon. Yeah. Ok. Mhm. Ok. So, [PHI-Account] pretty good, huh?
+Nurse: What was it?
+Patient: [PHI-Account]/76?
+Nurse: That's good. What was your pulse?
+Patient: Um, 3.36 or [PHI-Account] 36. Ok. I'll have to, I'll just, is
+Nurse: That right? Let me look, I can, I can tell you in a second. Hold on. Oh
+Patient: [PHI-Account] got uh [PHI-Personal]. Yeah, let's see. Is that correct? I mean, the numbers I, when I'm giving them to you
+Nurse: Uh 100. Yeah, [PHI-Account]/76 P 100.
+Patient: Ok. My my monitor says [PHI-Account] dot dot [PHI-Personal]
+Nurse: I'm not sure
+Patient: Then it bounces back. It says [PHI-Account] and there's a big space it says 13. Ok.
+Nurse: That's ok. Just the [PHI-Account] time is fine.
+Patient: Yeah. 1 [PHI-Personal]. Ok.
+Nurse: Alright, perfect. Oh that's your those are the times. [PHI-Account] and 1 [PHI-Personal] are the times. Ok. So is that that's perfect. Yeah that's good. Yeah. Oh ok. Yeah, perfect. Ok. And with the elevated pulse, have you had any chest pain or difficulty breathing or palpitations? Like your heart's beating out of your chest? No, no. Ok. If you feel that way you go to the hospital. Right?
+Patient: Yes. Yeah. Where is my pulse?
+Nurse: It's been in the hundreds it do you you have a pacemaker? Yes. No dizziness. Right.
+Patient: No.
+Nurse: Ok. So you'[PHI-Personal] feeling good. Yeah. Right. Yes. All right. So I'm just gonna call your cardiologist and let them know that your pulse has been elevated they'[PHI-Personal] probably gonna wanna see you.
+Patient: Well, which number is my uh pulse,
+Nurse: Your pulse is uh it was 100 and then it was [PHI-Account].
+Patient: My pulse was 100 and [PHI-Account].
+Nurse: Yeah. And it's been running in the hundreds.
+Patient: Yeah, but on my machine, how do I know?
+Nurse: Oh hold on let me look for you. Hold on. Sorry
+Patient: Because the number I gave you the 1 47 [PHI-Personal] that was you said the time. So,
+Nurse: So hold on. I just want memory stop, stop. All right. So the top number is 1 O2. That's your systolic and the bottom 67 that's your diastolic. So, so we'll see because I'm reading mine 10 2/60. So the top and the bottom number, your BP, the number under that is your pulse and then next to it is the time to your left.
+Patient: Ok. Now, hold on because I don't, oh, on my machine, I don't see a pulse. I see a heart.
+Nurse: Yeah, see what that's your pulse. The heart is your pulse. Uh uh,
+Patient: And you, do you have [PHI-Account]?
+Nurse: I have um, [PHI-Account] and [PHI-Account]. Is your two pulse readings you sent me? Ok. Ok. Ok. Does that make sense
+Patient: If you say so? Didn't actually honestly it did not come up that way. Oh, wait a minute, just a minute. Let me just see. It because I wanna make sure I'm reading this right. Eight. Ok. At [PHI-Personal] I have. Now that bottom number, right? Ok. All right.
+Nurse: You got it. Yeah, you'[PHI-Personal], you got it. Ok. So if the diarrhea comes back or you have chest pain, difficulty breathing, dizziness or palpitations, you go to the emergency room. Ok. Course,
+Patient: Of course. Now, the, uh, I have to see the cardiologist
+Nurse: Again. Yeah, I think you should see the cardiologist again. So I'm gonna call them to reach out to you. Ok. Very good. All right. And then I'll follow up with you another time. Very
+Patient: Good. Thanks a
+Nurse: Lot. Alright, thank you. You too. Thanks. Bye bye. Um Georgia. Yeah, it's um Doctor Morales, right? Yes. Ok, perfect. All right. So I'll let you know what they say. Thank you. You're welcome. Bye bye.

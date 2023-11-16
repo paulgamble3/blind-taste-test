@@ -1,0 +1,9 @@
+Nurse: Good morning. This is, how can I help you?
+Patient: Hi. Um I am a current patient of [PHI-Personal] and I was wondering if I could get my um fiance in as a new patient.
+Nurse: I can take the information and give a call over there. What's his name?
+Patient: His name is [PHI-Personal].
+Nurse: Could you spell the last name for me?
+Patient: Sp period MA RT in? All right, um because he uh he has hepatitis C but we need to get the diagnosis and the treatment started. So if you could tell her that too. Yes, I
+Nurse: Sure will. What's his date of birth?
+Patient: July 18th, 1984. He has [PHI-Personal] Insurance,
+Nurse: Aetna. Ok. All right. I will forward the message over and I will make sure that we get in touch with you about it. Ok, thank you very much. You're welcome. Take care Tanya. Thank you. Bye bye bye.

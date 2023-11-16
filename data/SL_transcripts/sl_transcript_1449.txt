@@ -1,0 +1,12 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Um [PHI-Personal], this is I got your message earlier this morning I to call.
+Nurse: Yeah, thanks for calling me back. I appreciate that. How have you been? Good, good. I was just calling to check on you and see how everything is going, see if you needed any refills on anything or if you needed to let the doctor know anything.
+Patient: I think I'm ok on refills. Uh and I I had uh um I had been having some dizziness and I saw uh and uh so I had uh they um checked my pacemaker just in case and and that's fine. I had that done. So um what what
+Nurse: Day did you have that done? Because I was checking to see if it was in the um chart and I don't know if I I don't think I saw that they didn't send it over yet. Oh, what what date did you have
+Patient: That? Let me look at my calendar. I think it might have been uh I think it was um hm oh the [PHI-Personal] last Thursday.
+Nurse: Alright, so I'm gonna call and get um get that consult sent over so we can get that updated to, um, what did they say, say in that, you
+Patient: Know, everything was fine that I had another, about another year to a year and a half on the, on the present pacemaker. Ok.
+Nurse: Good, good. And let me see what else it said in that, um, know if there's anything else needed. Um, no, I think that I'll just update her on the, on the, um, the cardiac there and, and just let her know that's what's going on and you didn't need any, any refills or anything of any medications.
+Patient: No. And, and I haven't had that dizziness that, that I saw [PHI-Personal] about. That's, that's been good. So. Ok.
+Nurse: Yep. All right. Sounds good. And so. Oh, I'm sorry, my kids are just yelling in the background. Um, I'm so sorry. Yeah, I'll just update her with this stuff and I will call over and get that, um, the report sent over to the office for her to review. Ok. All right. You guys, you have a good day and a Happy [PHI-Personal]. Thanks.
+Patient: You too. Thanks. Bye bye bye.

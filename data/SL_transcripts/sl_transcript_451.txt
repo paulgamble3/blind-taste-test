@@ -1,0 +1,30 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Yeah, [PHI-Personal], this is [PHI-Personal] Bieber running into. Yeah. Well, I'm having problems with my oxygen supplier.
+Nurse: Oh, no, I thought we got this all taken care of.
+Patient: Yeah, so did I, but then they came back with, I cannot switch it this time because I'm on a five year maintenance and I have one year to serve. Ok. Well, I have to stay with adapt or the original hub surgical and they have a a I need to see the doctor for it to qualify, but I really need this and they also stated that if uh uh an in office visit was uh not available or I could do a tele health
+Nurse: So well, yeah, they, they do, I think they do like the video or telehealth. Um Yeah,
+Patient: I've had it done before with doctor uh [PHI-Personal]. So that's what I need right now.
+Nurse: Ok. So they want you to stay with hubs or in order to switch to um to, to the other one that you need to do to care that you need to do like a face to face,
+Patient: I can't switch to care until next year. I so
+Nurse: Is asking for these things even though you're already with them. Right.
+Patient: Yeah, because they're gonna replace my O2 concentrator. They say five years
+Nurse: To replace it. That's what they need it for.
+Patient: Right. Yes.
+Nurse: To release concentrator. All right. Let me see. Hold on, let me, I gotta pull up your chart here one second. So, as far as you wanna do now, you're gonna, you, you would prefer to do the, uh, the telephone visit rather than in person then. Correct?
+Patient: Well, which is ever easiest for
+Nurse: Whatever is easier. I just wanted to make sure that, you know, because I have to send that over to because gotta set that up. Um, let me see. Please call, please call on 7 20 to set up labs in eight weeks. Ok. They're gonna also set up labs with you. Um, I, uh, I just seen a triage in your chart.
+Patient: Yeah, I just had my blood work done on Monday.
+Nurse: Ok. So I wonder if there's something in there going on?
+Patient: I don't know. This is, they've already dropped my dose twice.
+Nurse: Oh [PHI-Personal] MP. Ok. Your GFR was low. Ok. Yeah, it looks like your GFR was low. So they wanna re redo them in eight weeks. Um, ok, I can see that. All right. So let me just go ahead and I'll send this over to, um, to, to Terra and then we'll have her give you a call back and she'll set up the labs and she'll set up that. Um, either I'll tell her you'll do either one, either a face to face or a video. Um, so we can get that. Did they send you any paperwork over?
+Patient: Oh, let me see. I know they're gonna have to do another, uh, uh, oxygen guidelines to set test on me again. Ok. Yeah.
+Nurse: All right. All right. I will just update them, let them know and we'll get you we'll get we'll get ter to give you a call back and and set this all up with you. Ok? They used to let us do it but we were just all of us nurses are doing this this job here. We're just overbooking all the doctors
+Patient: Put it all through now. Yeah.
+Nurse: Yeah so um I will I will get this over to we'll get it all set up with you so at some point today. Ok. You best to be called at on your home line.
+Patient: No call me on my cell. Alright
+Nurse: I will let them know. Call on the cell. Alright, so
+Patient: The home line it's all telemarketers
+Nurse: Iii I hear that ours doesn't come up that way, does it? Because we've been we've been having issues with um our our uh numbers mine uh you know from here doing what we do coming up as possible. Spam doesn't come up that way in yours, does it?
+Patient: No, no, not on my home phone because I don't have that option. We only need the landline for our uh internet.
+Nurse: Oh, I got you. I got you. All right. Well, let me send all this stuff over or Judas and I will get them to get back to you shortly. Ok. Ok.
+Patient: Fine. Thank you, Amanda. You're welcome. Bye bye. Bye bye.

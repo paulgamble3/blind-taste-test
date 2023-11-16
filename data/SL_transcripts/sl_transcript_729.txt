@@ -1,0 +1,67 @@
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you?
+Patient: Good afternoon. How are you? This is here.
+Nurse: Hello, how are you?
+Patient: I'm fine. Thank you very much. You called me?
+Nurse: Yes. How are you? How are you doing today?
+Patient: Oh, no, you just want to know. Ok, fine. I, I thank you very much for calling. Thank you. And I still have a question. There, there is a new medicine that I don't, I, I'm not looking at it now. I have the name somewhere in my computer. I'm just using the phone. It, it, no, it was approved recently by the FDA for, uh, diabetes. I don't have the ras, I don't have diabetes. Uh, and I'm very glad with it. I don't know if it could be prescribed because it says the, from the ex experience experience, you lose a lot of weight with, with, with that medicine. And the thing is I am, I am very disappointed with all the efforts I've made, uh, eat, drink this, er, eat this, the uh, don't eat too much and I cannot lose weight no matter what I do. I, I ride a bike every day. I do some yoga sometimes I don't lose one lb and I am so disappointed because I am overweighted. Uh, that would be wonderful if it is possible. I don't know that it is possible. I mean, uh if it's. Mhm.
+Nurse: And so, uh I'm sorry, I couldn't hear you the phone out. Let me see if I can hear you better now. Can you hear me better now? Yes. Ok. Uh yes, let me see here. I'm just reviewing a note because I remember we spoke about this before.
+Patient: Yes, I we
+Nurse: Did. Yeah let me see here. Mm. Ok and let me see. When's the last time you've had an appointment? You saw them back in uh [PHI-Personal]?
+Patient: Yes, I have an appointment with him for [PHI-Personal] something.
+Nurse: Ok. Would you like to make an appointment to come in to discuss this one?
+Patient: No, he just wanted to check me again because I'm saying you should
+Nurse: Discuss the weight, the weight and the use of medication for weight loss.
+Patient: Well, I would like to bring it up at the appointment. Yes, if it, but if it, if something could be done before, I would appreciate that. So you don't have to wait three more months,
+Nurse: Right? No, I see what you're saying. Let me see here. I'm just going back in my notes because I I did send this over but not having a particular medication and just saying a weight loss medication. I think that's where, where the disconnect is, so I do apologize for that. That's ok. Um, I just saw it. Where's my name at? Ok. And then, um, is that the only thing that you're mainly concerned with at this time? Well, I
+Patient: Like to follow up. I have been working out very hard because, uh, uh, it, it is improving my back pain. Ok. And as long as I can avoid drugs, I like to avoid drugs. I mean, medicines. But, um, the back is a lot better. Uh, it hurts, it hurts, it bothers me. Uh, but, uh, uh, but working very hard on the bike is, uh, it has improved. The, the pain is not as bad as it was.
+Nurse: How often are you working out
+Patient: Every day? Ok. I mean, the day I don't work out the pain. Oh, I cannot, uh, the pain is very bad. Really? Yes. So, now it's not that sorry, go ahead.
+Nurse: You have pain in your back area. Is it the middle of your back, lower back? What part of your back? The, the, the,
+Patient: The lower back it is. I mean, that, that is part of the [PHI-Personal] years. Mhm. That's what I inherited of because that's what I work for. That's what you have to, to look forward to. Mhm.
+Nurse: Yeah. Ok. So, ok, I called you called me. I got this call in. Ok, let me see here in, uh, could you verify your date of birth for me again, please?
+Patient: [PHI-Personal], [PHI-Personal].
+Nurse: Ok. Thank you so much. And then other than having the back pain and the concerns about taking the medication to help you lose weight, uh, has anything else because yes, I,
+Patient: I am sure that if I lose weight, um, I will feel a lot better and maybe the pain can be minimized. Uh, see there's, I, I've been reading but of course I, I'm not a doctor or anything but it, it says that, uh, insulin resistance or something. Mhm. People, after a certain age has, have problems with the pancreas or the pancreas produces some things and so you cannot lose weight or I've read about, there are some advertisement, you know, all the products are just, don't, don't, don't work with talking about insulin, insulin resistance. And so, and then you're gonna lose weight and they sell products and they don't work either. I've cried and they don't work. So the only thing that would be this drug and that drug is true. It's a, it's a, they are studying the possibility of selling it as a weight loss drug and it is, the FDA is studying it. That's what I, I understand. So, if I could use it as much as I dislike medicines that I would take, it would help me tremendously. I can, I, in my poor knees have to carry 40 extra pounds.
+Nurse: Oh,
+Patient: Yes. II, I am at 2 20 around give or take a pound and I gained one and then I lose two and then I gain three. but my regular weight for my age and my, uh, and my height, I should be weighing 100 and 80 lbs, maybe 100 and 90. So I have, I'm thir between 30 40 lbs overweight and I've been trying and I try and I try and, and then maybe I'm doing it wrong. I don't know what I'm doing wrong, but I'm not doing something right. I'm, I'm not getting any results. So I'm putting a lot of hope into this drug. If, if it is possible, I don't know what doctor should say. I mean,
+Nurse: She, she knows. Yes, I was, I was also gonna ask you when you're exercising. Um, so many days. How long are you exercising for?
+Patient: Typically? I, I, uh, half an hour maybe. Yes, because II, I also, I have what? Restless legs? Mhm. And if I don't take, uh, do exercise on the bike, I, the, the restless leg don't, don't let me sleep very well.
+Nurse: Ok, a half an hour a day each day. Ok. Let me see here. And how's your BP and everything? Do you check that?
+Patient: Did they check?
+Nurse: What do you check your BP?
+Patient: Oh, yes. You, uh, I haven't done it in 22 or three days, but yes, I have done it.
+Nurse: Uh huh. Because the, go ahead, the
+Patient: Billing, the billing should be good from what I see.
+Nurse: Your, your, what should be good.
+Patient: My BP should be raised should
+Nurse: Be ok. Ok. What was the last reading that you got
+Patient: A couple, two or three days ago? Mhm. I think I've been very busy so maybe I'm confused but if you wanna, uh, I can take my BP in a little while.
+Nurse: Um, well, that's what I was going into because it looks like, um, the last one I have is on the 20th it was 1 30/77 and your pulse was 69. Does that sound familiar?
+Patient: Yes. Yes. Yes. Yes. Yes. That's right. Yes.
+Nurse: Ok. So, um, I was sure those
+Patient: Numbers are good there.
+Nurse: Mhm. Yes, they are. They are. But I was just trying to see, um, what we could do to get a little, a bit more of the readings to come in. Um, is there a certain time that works best for you to check your BP?
+Patient: I apologize. The thing is, I am working very, very hard on a project in the, uh, sometimes I forget all kinds of things because I have, I have to finish some writing or some, uh, uh, my work is help, help me upset. Oh, really? Nothing wrong and nothing unhealthy either. There is.
+Nurse: Ok. So, ok, hold on. I'm just, I'm just, um, filling this in. You said you're working on a project right now?
+Patient: Yes. Yes. It's a, it's a, see, I'm a public speaker and I'm trying to get a TED talk, you know what they are?
+Nurse: Yeah. Yeah. A lot of, um, they make us listen to those in a lot of college classes. We do a TED talk or review people's opinions and everything that they speak on and then we usually write a bunch of papers about them. 00, I'm very familiar with TED. Do. I'm working
+Patient: On two things at TED talk and trying to get, uh, presentations that I'm paid for.
+Nurse: Oh, ok.
+Patient: So that takes a lot of hard work. A lot of practice.
+Nurse: Yeah,
+Patient: It, it, and that's what I'm working on. Very hard.
+Nurse: Ok, let me see here. Just trying to check on some other, just this informa I'm just filling out this information here. It's hard for me to type a doc at the same time. Bye. So you said you'll get back on track with, uh, using your device? Like what's your plan? Uh, could you at least do it at least, um, maybe twice a week for me right now. Yeah. Well,
+Patient: Yes, I'll try, I'll try, I don't know what, no, I have neglected it in the last two weeks, I think. Ok. Yes, I will try. Yes. Ok. The shameful thing is I to practice speeches in the same seat that I used to make to take the BP, right? It's, uh, I just forget.
+Nurse: Ok. Ok. Good. All right. So we'll put you on for, at least, maybe at least start off with two times a week, right? Ok. Ok. Got it. All right. And then that way we can get back on back track with that and then we're reviewing hypertension. Um, there's a lot of benefits in you doing your exercise to help lower your BP. And that's great that you're doing your re re regular physical activity cause it keeps your heart strong and helps all the blood pump through and flow through your body. Um, better. You did mention that you had restless legs. How often is that affecting you? Does it affect you at nighttime when you're laying down?
+Patient: Sometimes when I'm sitting down working at the computer. So I have to get, uh, when I'm awake I have to get up and walk around and, and it improves a little bit when I'm sleeping. Sometimes it's so bad that I get up and ride the bike for five or 10 minutes.
+Nurse: Hm. Ok. And then is your hydration staying good? Are you staying well hydrated?
+Patient: Oh, yes. Oh, yes. Ok. Yes. Yes.
+Nurse: Ok. This side, does it bother you every night? Is it that bad or is it just every once in a while?
+Patient: No, no. It's every night. Unless I, when, when I ride the bike very hard, it doesn't bother me. But if I, I need, I have to have, I have to ride the bike. It's not that II, I am good at exercising. It's that if I don't ride then the pain and the restless legs make me very uncomfortable. Ok. No, I, I don't know how wrong I am but I have the feeling that if I lose a, a decent amount of weight of weight, not a couple of pounds, but I will, all of these things will get better. Mhm. I, I think I, I believe.
+Nurse: Mhm. Ok. And with that being said, even if you, you were able to take a medication, uh, what about your diet? What kind of foods do you eat in your diet?
+Patient: Oh, I will. Er, I try very hard to eat, uh, just protein, uh, eggs, meat, fish, [PHI-Personal] and fruits. I mean, I definitely have at least one banana and one a avocado every day.
+Nurse: Oh, ok. That's good.
+Patient: Well, we reviewed the, the diet with the lady, the last time that I went to doctor,
+Nurse: Uh, you said you eat fish, eggs,
+Patient: Eggs, fish, meat, uh, the avocados, bananas, whatever else is, is available. But. Mhm. [PHI-Personal], [PHI-Personal].
+Nurse: Yeah. And you said of course you're staying well hydrated. So that's great. And with the meat, um, you might wanna stick with some of the leaner meats. I know you said you like the protein limiting your egg and red meat. Um, we just wanna make sure that we're watching the cholesterol and every levels too to help your BP stay in a good range. Ok. Ok. All right. So, um, the reason why I was asking that question is because usually if you do take something else, usually they kinda want you to stick to, um, a lighter type of diet too because those way, the way those medications work, uh, it does play on your appetite. It kinda curbs your appetite. So you're, you are less hungry? Ok. So I will resend this information again to your provider, uh, to make them aware that you were wanting to take the medication to help with, um, weight loss. The, it was Ozempic. The one is one that you said before I saw it in the note. Does that sound familiar? Hello? Hm.

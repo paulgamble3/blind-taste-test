@@ -1,0 +1,8 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Hi. Uh this is and I spoke to [PHI-Personal] yesterday and she was gonna have Doctor [PHI-Personal] to look at my MRI and x-ray on my, my knee to see what I should do. And I was wondering if Doctor [PHI-Personal] had a chance to look at it yet.
+Nurse: Ok. Um, let me reach out to her really quickly and see if she's available so I can just transfer you over to her and um maybe she's heard something. So let me just uh reach out to her really quickly. Ok? I'll see if she's available.
+Patient: Ok? No problem. You better stop.
+Nurse: Ok. Thank you so much for holding uh, she is available. I'm gonna go ahead and transfer you over now. Ok. Just give me one second here.
+Patient: Thank you.
+Nurse: Alright, not a problem.
+Patient: Hello. Hi. Hi. Uh this is I was checking to see if Doctor Spielberg had looked at my MRI and my x-ray on my knee. Um, let me look and see if she's sent me a message yet. I hope she, I would really appreciate you trying to get me in with an orthopedic. Ok. It doesn't look like she has but I can send a message to her office, um, to see if she can go ahead and review that you're wanting to be referred to an orthopedist. Correct. Yeah, because when I call myself they can't get me in for eight weeks and I can't do this for eight weeks. Mhm. Ok. So it's your MRI and it was your x-ray and they were both the same. Ok. And you're requesting a referral for an orthopedist, correct? Yes. Uh huh. Uh huh. Ok, Miss Sherry, I'm gonna get that sent over um to her office right now and hope to see if we can get some feedback on this. Ok. Oh, thank you so much. You're welcome sweetheart. No problem. Thank you. Bye bye.

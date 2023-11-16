@@ -1,0 +1,35 @@
+Nurse: [PHI-Geographic]. This is, how can I help you?
+Patient: Uh, this is, uh, so I just missed your call.
+Nurse: Yeah. Yeah, I was just calling to touch base and see how you were feeling.
+Patient: Oh, I'm feeling ok. Yeah. You know, considering.
+Nurse: Yes. Yes. So they did find kidney stones, is that right?
+Patient: Yeah. Oh, yeah, I'm getting a, a stent put in Friday. It so.
+Nurse: [PHI-Personal]. All right. So how, um, I understand you were having some issues with your blood sugar, getting it down.
+Patient: Yeah. So they called, they called today and said it was good enough. Oh, it was good. Good.
+Nurse: Oh, good. [PHI-Personal]. Well, that's good news. So, you're scheduled, is it the [PHI-Personal] then that you go in for procedure?
+Patient: Whatever Friday is? I don't know.
+Nurse: [PHI-Personal]. [PHI-Personal]. Let me see. Yeah. Yeah, that'll be the [PHI-Personal] day, the 12th. They all run together, don't they? Every day runs together? [PHI-Personal]. So, um, are you taking anything for pain in the meantime? Just Tylenol? Just Tylenol. [PHI-Personal]. And you're still taking the, the tamsulosin or the Flomax every day as well? Yeah. [PHI-Personal]. All right. Um, so, I mean, is the pain still present? Is it still, you know, right in the side there where it was before?
+Patient: Yeah, it didn't move when I first got it. It used to move around, back around towards the front, but now it's permanent. It's pretty much right, right there on my side. Yeah.
+Nurse: [PHI-Personal]. All right. Now, did they say the size of the stone that they're, that they're seeing?
+Patient: Yeah. But I forget what it is. It's a pretty big one, pretty
+Nurse: Big one. Yeah. Well then get that darn stent placed and get it out of there, huh?
+Patient: Yeah, it worked the last time I had one in [PHI-Personal]. Uh and uh I passed that one right away since they put the stent in.
+Nurse: Oh good, good. [PHI-Personal]. So are they planning on um keeping you in patient until you pass it or they just going to do it as an outpatient procedure and let you go?
+Patient: Uh, I think it's just an outpatient thing. [PHI-Personal]. [PHI-Personal]. That's where it was the last time anyway.
+Nurse: Yeah. Yeah. Um, are you eating and drinking? [PHI-Personal]. Yeah. All right. All right. Um, so no nausea, vomiting anything like that? No. [PHI-Personal]. Good, good. Alrighty. And is it the same doctor that's going to do the stent placement as last time?
+Patient: Yes. [PHI-Personal].
+Nurse: Doctor. Doctor. [PHI-Personal], good. I'm just looking down through here to see if I can find your testing for the order. [PHI-Personal]. All right. Um, are you doing ok, otherwise any other issues going on.
+Patient: No.
+Nurse: [PHI-Personal]. And let's see here how any issues with BP since you've been in pain? No, any headaches, dizziness, blood spots. Um,
+Patient: I have, I have headaches. [PHI-Personal]. But, but I think I'm getting a sinus infection. I blow some blood out my nose every now and then.
+Nurse: Oh, no. [PHI-Personal]. Do you use any kind of saline nasal spray or anything to try to rinse your sinuses?
+Patient: No.
+Nurse: [PHI-Personal]. All right. Well, you could try um, you know if you wanna grab Saline, you know, they have that you can get that wherever you go. Um, so any kind of Saline spray to try to help rinse it out um or you can always try Flonase nasal spray. Um which kind of acts as the antihistamine and, and decreases the inflammation in the sinuses as well. Um, yeah, because you don't wanna be sick for your procedure. Yeah, I wanna make sure to get that taken care of maybe boost your vitamin C over the next couple days to make sure you don't get, you know,
+Patient: I can't take vitamins. No vitamins.
+Nurse: Mm. [PHI-Personal]. [PHI-Personal]. Maybe maybe just some orange juice then
+Patient: But that'll raise my sugar. Oh,
+Nurse: That's so true. Boy, you're, you're just damned if you do damned if you don't.
+Patient: I'm just gonna slide into this procedure. That's [PHI-Personal] said I, I passed the stone before the procedure last time.
+Nurse: Oh, really? [PHI-Personal]. [PHI-Personal].
+Patient: Well. Alright.
+Nurse: Mm. All right. Well, good luck on Friday and if anything else comes up, please feel free to give me a call. Ok. Ok. Alright, I'll talk to you later. Uh huh bye bye.

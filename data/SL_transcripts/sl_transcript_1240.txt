@@ -1,0 +1,16 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] calling. I'm trying to get through to [PHI-Personal] office and told me last week that they're changing phone companies because they're having a hell of, of time and people to call through. Yes, they are. Can you by chance, uh, send them a message on the computer to give me a call for my, uh, cholesterol medicine for my blood work.
+Nurse: Yeah. Let me, actually, there was something, just give me one second. Let me get into your, let me get out of this one that, I mean, there was something in there. Mhm. Ok. Um, so they faxed over a script for atorvastatin, um, 10 mg every day and they want you to, uh, have a repeat, complete metabolic metabolic profile in [PHI-Personal] to follow up on your liver function. So that needed to be scheduled. Did you, is that what you were calling for to get that scheduled? It looks like you were at the dentist when they, when they had originally called you? I can, I can, I can for sure schedule that for you today and then I'll just shoot them a message over letting them know, you know, I schedule that because of the phone issue. So
+Patient: Let me get, yeah, I just started taking the pill today, so I just got it yesterday.
+Nurse: Ok. Right. Get into their lab scheduler.
+Patient: Do you want to stay there by then? I wanna stay there by [PHI-Personal].
+Nurse: Mhm. Ok. So you started taking it yesterday? So 123, so [PHI-Personal] would be like around the week of [PHI-Personal] [PHI-Personal]. Is there any day of the week that doesn't work for you or is there?
+Patient: Let me see if it, no, nothing, any time.
+Nurse: Ok. So um on the [PHI-Personal], um they have so they have like really early like 6 15, 6 36 45 and then there's 10 30 10, 45 11,
+Patient: 10 30 10 30 10 30. Ok. On the [PHI-Personal].
+Nurse: Yes. So that
+Patient: Is, yeah,
+Nurse: And this is for just labs, this for a complete function and then this is [PHI-Personal] starting atorvastatin. Ok. So I have you scheduled then for Monday, [PHI-Personal] [PHI-Personal] at 10 30 in the morning for those lab work after starting that cholester and I'll shoot the office over a message letting them know that you're scheduled and the date and
+Patient: Time. Thank you very much. You're welcome. Have a good day, sweetheart. No,
+Nurse: No problem. You too. Bye bye.
+Patient: Oh.

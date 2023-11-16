@@ -1,0 +1,46 @@
+Nurse: Good afternoon or? Good morning. This is, how can I help you?
+Patient: Oh, I'm sorry. Is this [PHI-Personal] or [PHI-Personal]? This
+Nurse: Is [PHI-Personal]. Is this [PHI-Personal]?
+Patient: Yes, this is [PHI-Personal]. I'm, I'm calling, um, I need a prescription, uh, refilled. Ok,
+Nurse: Let me get you pulled up here. Date of birth is 77, 1932. Yeah.
+Patient: Ok.
+Nurse: How are you doing with your blood pressures?
+Patient: Well, you know, it's, it's a little, uh, yesterday it was [PHI-Account] and [PHI-Account] [PHI-Account]/59 and [PHI-Account]/54. Now, today at 10 30 when I took it it was 1 1961 kind of jumps around a little bit.
+Nurse: Ok. Um, good. He, I had let doctor [PHI-Personal] know and he said that if you had any more of those low blood pressures to let him know. Um, so definitely call us if you do. Um, they haven't changed any of your meds recently to make them go lower, have they?
+Patient: Well, you know, I wasn't the one I wa that they ordered for me yesterday. I hadn't been taken for a week and that was the, um, 1 60/20. They had, they didn't refill it. Now, doctor refilled it yesterday. I haven't got it yet but I also take one, with 20 mg in the evening.
+Nurse: Ok. Um, which one are you taking in the evening?
+Patient: The twe um, I think it's 20 milli or 80 mg. Yeah, because I see [PHI-Personal]
+Nurse: Valsartan.
+Patient: Yeah, one I take in the morning that's the 1 60 over something.
+Nurse: And then you take the Valsartan 80 in the evening. Yes. Ok. And which one have you not been taking the Valsartan 80?
+Patient: No, the other one I mean the prescription run out and uh I called to have it refilled but I guess they didn't refill it right away. So I called in again and they refilled it yesterday. I didn't pick it up yet.
+Nurse: Ok. Um yeah, really watch your blood pressures, you know when you, when you start back on that one, if they go lower, we may have to do away with the evening dose um of Valsartan. Which one is that you need refilled today?
+Patient: I need my spam for a one mg for my nerves helps me at 8 p.m. Ok. Yeah. Ok.
+Nurse: Um How do you feel like you're doing with your anxiety? You feel like you're coping? Ok. You
+Patient: Know this this works fine for me. Um Perfect just you know, with this uh COVID thing between my husband and I we're getting we're getting it worked out but, but uh you know it is frustrating for. Right. Well, it's ok. We're good.
+Nurse: Ok. I do have that little survey I need to do with you. We haven't done in a while um for your anxiety. So, let me get that out of the way and then I'll get your um refill as well in the last [PHI-Personal] weeks. Have you felt nervous, anxious or on edge?
+Patient: No, not, no, I'm just normal. Just,
+Nurse: Are you worrying a little bit more now that your husband has COVID or do you feel like the worrying you're able to control it?
+Patient: Uh No, I don't worry about him having the COVID. I think he's doing fine. And uh
+Nurse: Do you find yourself worrying about other things?
+Patient: Oh, yeah, I know my um I, I guess I can just tell you my family, my daughter's moving um oh, you know, emptying our house and moving to [PHI-Geographic] and my um which is upsetting to me because I don't want ever to go to [PHI-Geographic]. But um uh you know, just little things like that but other, you know, I, I control it. Good. I'm OK.
+Nurse: Good. As long as you got good coping mechanisms, you know, sometimes that worrying when our kids are starting on a new journey can keep us up at night, you know, but you're using your anxiety meds for that. So, um that's good. Are you finding you're having any trouble relaxing or it's so hard to sit still?
+Patient: No, I I wish I had a little bit more than I have. Right. I, it's easy for me to sit down.
+Nurse: Ok. Do you find you're easily annoyed or irritated?
+Patient: No, not really.
+Nurse: Ok. And do you feel afraid something awful might happen? I'm sorry. Do you feel afraid as if something awful might happen?
+Patient: Oh. Well, you know, you worry about your family. I do with all that's going on. Right. But nothing, you know, I, I think I handle it. Well,
+Nurse: Good, good. Um, you know, if you do find that you're, um, keeping yourself up at night sometimes just getting in a bedtime routine, um, or trying to defer your, your thoughts at sleep is, is really important. That way you get a good night's sleep, make sure you're eating good. Um, and then sometimes just getting a walk as the weather gets warmer can be beneficial for our mindset and kind of clear our, our mind of those negative thoughts as well. So, keep that in mind as the weather gets warm. Um, yeah, and I
+Patient: Get over these COVID things. Yes. Yeah.
+Nurse: Yeah. And that would make me anxious too, especially with you all having it back to back. Um, yeah. Now the LORazepam, do you want it sent to Walmart? Yes. Ok. And how many do you have left or you completely out? I, I
+Patient: Only have one left and, um, I only take it at night. Ok. Uh, you know, I, uh, it just helps me go to sleep.
+Nurse: Ok, I'll get that sent in for you. Um, the other thing is when you, when you start on that med, um, back on that med, you know, kinda keep your BP tomorrow or today. If you take it throughout the day, I won't be here tomorrow afternoon, but [PHI-Personal] will be, or [PHI-Personal]. Um, you know, if you notice in the morning or today after you've started that one pack if it's running lower, we may have to hold that bottom dose but we need to let doctor know as well. Ok.
+Patient: Yeah sounds good I will. Alright
+Nurse: Your blood pressures are in the range though so um I feel like they'll do. Ok. Alrighty.
+Patient: Yeah they usually run a little higher. Um. Ok you know I guess it's a it's a good range right now.
+Nurse: Yes. Yes. As long as it's under 1 40/90 above 100/60 for the most part. That's good I mean the upper fifties you know that's not too bad either as long as it's not going lower just make sure you're staying hydrated and stuff like that. Ok.
+Patient: Yeah. Ok. Yeah. Alright sounds good
+Nurse: And then if you have any other issues just let us know this week. Ok.
+Patient: No I don't think so. We're good.
+Nurse: Ok sounds good. Well I hope you get to feel your BP stays up and I'll get this sent in for you.
+Patient: Ok. Thank you. Very much. You're welcome. Bye bye bye. You have a good day. You too. Bye bye.

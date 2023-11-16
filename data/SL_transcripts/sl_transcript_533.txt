@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes, I'm trying to reach. Who's that? [PHI-Personal]?
+Nurse: Oh, she's off today. I'm covering for her. How can I help you?
+Patient: Well, you can tell where I have the gold. I need the Levemir.
+Nurse: Ok. Hold uh, hold on, let me get you pulled up here. Can I have your name?
+Patient: Ello? Debra? [PHI-Personal] as in Victor Os Tello.
+Nurse: Hang on, let me turn this up. Ok. Say that one more time.
+Patient: [PHI-Personal] as in Victor Os Pe Llo,
+Nurse: First name [PHI-Personal]. Ok. Uh date of birth is [PHI-Personal]. Correct? Ok. Pull you up in another system here. Yeah. Ok, [PHI-Personal], how can I help you?
+Patient: I'm letting her know that I have the gold, which is the Levemir. I don't know if you're aware but we were having trouble getting it and she found it at Butterfly Pharmacy. So I'm just letting you know we have the goal. Um and I, I have,
+Nurse: I'm, I'm sorry you're breaking up there.
+Patient: Hold on that better. Yes, I took you off the hearing aids and put you on speaker. Um You can let her know I have the hero device, the pill dispenser. Ok. That was another issue that I had. I have my bed but we don't have the remote for my bed.
+Nurse: Oh, ok. What did they say about that?
+Patient: Um, I thought, oh, I tried calling and I tried calling but they were both closed yesterday and I, it just all, we didn't know that I have the rest until Saturday night. It's a long story anyway. But I do have the bed, you know, that part, I have the bed now, we just gotta get in touch with them. I have, I've been running, I went and got the, the medicine and all that this morning. So I haven't had time to sit and try to get a hold of those people.
+Nurse: Ok. Ok.
+Patient: Problem. But item A is I have my bed. That'll be because there is a, a hospital bed on order anyway. But I have my actual bed long story again. I've been through a lot lately. Ok. So you're coming in like after a very, you know,
+Nurse: I, I can, I'll be able to read all of, um,
+Patient: She and she understand the messages that I do have. My bad is no remote at the moment. Um, so we, but no, the parts department at up wasn't open and it wasn't open over the week, um, yesterday. So, ok. Well, if you run into,
+Nurse: Ok. Well, if you run into any issues with that, let us know. But otherwise I'll update Ned and let her know all this. Ok.
+Patient: Yeah, that's all I was trying to get her in, in the loop and see she'll know the device means I also have some of the meds and you know. Ok.
+Nurse: Well, she'll be happy with that.
+Patient: So, all right. So thank you. Thanks for
+Nurse: Letting me know. Bye bye.

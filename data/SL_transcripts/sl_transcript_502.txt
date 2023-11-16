@@ -1,0 +1,33 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Hey, it's [PHI-Personal]. My grandson has a phone. Oh, hey,
+Nurse: [PHI-Personal], how are
+Patient: You? I'm good. How are you?
+Nurse: I'm doing good. Thank you. So I got your voice mail. Um, did I hear right that you got an appointment with Doctor [PHI-Personal] office?
+Patient: Not yet. I know that Lin's office was supposed to fax over my medical records and they, I guess after that they will review it and they set me up an appointment but I haven't heard from them. Oh, ok.
+Nurse: Right. I, I'm sorry, I misunderstood that message. I thought it said that
+Patient: You would office fax my records over to him. They were supposed to.
+Nurse: Yeah, I sent a message on the [PHI-Personal]. I'm not sure if some people were off because of the holiday. Um, so I will continue to keep an eye on this. I do have good news for you though. Ok. So I called the office about the Jardiance, um, and they do have some so you can stop in and pick up another sample. I spoke with, I spoke with [PHI-Personal]. Ok. Um, and then I just got off the phone with the endocrinology office.
+Patient: Yeah.
+Nurse: And I got you an appointment.
+Patient: Ok. What, when is it?
+Nurse: It's [PHI-Personal] at one o'clock.
+Patient: Ok. Let me make a note of that. What day of the week is that? Do you know? It's a
+Nurse: Monday? They only do appointments on Mondays and Wednesdays there.
+Patient: Ok. Wednesday would have been so much better. I go, I go to e town every Wednesday so I try to make my appointments on Wednesday. I might call him and see if I can change it if that's ok.
+Nurse: Ok. I, I haven't put you on the cancellation list. She said that they are like over booked six patients a day um because of the holidays. But I, I mean, yeah, you can try and call and move it to we if you want.
+Patient: Yeah. What's their phone number, please?
+Nurse: It is 5 O2. Mhm. [PHI-Account].
+Patient: Ok.
+Nurse: [PHI-Account].
+Patient: Ok. All right. I'll give him a call and see if I can maybe. Well, but you said [PHI-Personal] at one o'clock? No, [PHI-Personal] seven at one o'clock. Yes. All right. Well, I'll see if I can. I'll keep that for sure. Definitely.
+Nurse: Ok. Um Did you need any other refills or anything today?
+Patient: Um uh, whatever is due? I mean, I'm in tier one on my, my levothyroxine and my uh uh Lisinopril and my, I'm on tier one with that. So that won't affect any charges uh, on those I don't think so. Um, whatever is due. II I, I'm not at the house right now where I can look and see, but I'll just call the Walgreens and tell them anything that's due for refill soon to, to get it done or whatever.
+Nurse: Oh, ok. Ok. So, um, does your pharmacy, if you don't have refills left over, do they message the office for them?
+Patient: Yeah. Ok. The only thing is, uh, on the Trulicity we're still at a stand still on that. I don't know if there's something else, I'll call them because somebody told me that I, I'll call wellcare and ask them what they have in place of Trulicity and what it costs. Um, I think I could live without that. That's once a week until I see the anyway. So we won't make that a big deal. But if I need any refill I'll, uh, I'll, I'll look and see, but,
+Nurse: Ok, I send a message about that. I just haven't received a response.
+Patient: Yeah. Ok. Well, I'm gonna call wellcare too and talk to them about it and see what they have in replacement of that and what it cost. So, let's see. All right. Well, thank you very much for that. The, the diabetic doctor is the main thing I need in the urologist. So I'll call Doctor [PHI-Personal] office and see if they got my records and how soon I can get. Ok.
+Nurse: All right, [PHI-Personal]. Well, um, if you need anything else or have any other questions or concerns? Just let me know. Ok.
+Patient: Well, thank you so much. I appreciate it.
+Nurse: You're welcome, [PHI-Personal]. Have a good day.
+Patient: You too. Bye bye bye
+Nurse: Bye.

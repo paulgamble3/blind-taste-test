@@ -1,0 +1,18 @@
+Nurse: May I help you?
+Patient: Uh, yes, I'm just returning a call. This is [PHI-Personal].
+Nurse: Hi, Miss [PHI-Personal]. This is re the care management nurse from [PHI-Personal] office. How are you? Oh.
+Patient: Oh, I'm ok.
+Nurse: Good. I was just calling to check up on you. I see you had, you had saw the urologist last month and they gave you a strainer. Were you able to, to collect anything?
+Patient: No, but I see I had another ultrasound and, uh, x-ray Tuesday, uh, to this past Tuesday and I go see, I go back to see the doctor for results tomorrow.
+Nurse: Ok. How are you feeling,
+Patient: Uh, pretty good, I guess. Uh, my ulcerative colitis has been messing up on me. Uh, but o other than that, yeah, been doing, uh, pretty good, I guess.
+Nurse: Well, good. Uh, no blood in your urine or anything like that.
+Patient: Um, not that I'm aware of.
+Nurse: Not that you can see. Ok, any low, low back pain or flank pain.
+Patient: Yeah. I, I've been having low back pain and, and around my gut and stuff, but I think that's my colitis.
+Nurse: Ok. Low back pain and stomach, um, on a scale of 0 to 10. 0 is no pain and 10 is the worst pain you've ever felt. What would your pain be right now?
+Patient: Oh, probably 0 to 1 right now. Pretty low
+Nurse: Right now. Oh yeah it pain is such a hard thing to describe, you know anyway. But um. Ok, 0 to 1 right now. All right. Hun do you need um any med refills or anything right now?
+Patient: Not I don't remember but I don't think so. Ok. If I do I'll call you back.
+Nurse: Alright, Miss [PHI-Personal] sounds good. Thank you so much for calling me back.
+Patient: Uh Sure. Thank you. Uh huh bye bye bye bye.

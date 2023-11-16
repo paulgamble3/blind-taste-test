@@ -1,0 +1,27 @@
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you? Hi, [PHI-Personal]. Um, this is now I'm a patient of doctor and I got a call from [PHI-Personal]. The care team. Is she available? Give me one second. Let me look up and see if she is here. Ok. Yeah. All right. Ok. Let me see if she's available. Ok. Hello. Hi. Is this [PHI-Personal]? Yes, this is. Hi, [PHI-Personal], how are you? I'm fine. How are you? I'm returning your call.
+Patient: Yes, this is very nice. Thank you for calling me back. Um, I was just calling for your monthly check in.
+Nurse: Yeah, I'm doing fine. Good. Very good. I'm leaving on vacation Monday. Oh, I love that.
+Patient: Where are you going? Yeah,
+Nurse: Me too for me.
+Patient: Oh, my gosh. That sounds amazing.
+Nurse: It's, I, I haven't been in so many years but this is my fourth trip there. I like be, yeah, it's
+Patient: On my bucket list.
+Nurse: Well, you know, there, I much rather go to [PHI-Geographic] for a week than go to Hawaii. Hawaii doesn't kill me at all. Really, really quiet. Um, I like the beach, the pool, the quiet, the smell, the friendliness. Yeah. You know, it's just, it's beautiful. Awesome. I'm doing fine. I did drop off yesterday in the office in the office on um the permission for um, to get that my, my uh, all my visits to physical therapy. Oh, ok. They put in a request with my insurance company for an MRI because I have a, a history, a long history of back issues. It was declined and I think it's because they didn't have a history of any, um, physical therapy or anything like that that I was going through. So, um, I got the form, uh, they, uh, my chart, they sent me the form. I dropped it off office yesterday. So we'll see where it goes from there.
+Patient: Very good. Yeah, because I don't, I don't see anything in the chart right now, but that doesn't shock me, um, because he just dropped him off yesterday. So, hopefully within the next week, um, we get a referral for that. Um,
+Nurse: So he's going, uh, is he, is he going on vacation?
+Patient: Oh, not that I'm aware of. He might be, he might be. I just don't, I just don't know about
+Nurse: That. I don't know. But, oh,
+Patient: Well, you know, I'm the last one to know. So, if, if I show up and, and nobody's here, nobody's here. I don't
+Nurse: Know.
+Patient: So we'll, we'll play that one great year and find that one out together because I'm
+Nurse: Just not sure I filled out the form dropped it off. We'll see what, what happens with it. Ok. Very good. I mean, I've had it. This is my problem was, is that the last time I went with, you know, I got referral and I went to, um, physical therapy. It was with another, another company and it was with another insurance company uh, years ago. So there's no continuity to the physical therapy that I've had except the ones that I've gone to recently. So, um, we'll see what happens. You know, you would think it was the doctor, the doctor sent in a request. They would, it's curious enough.
+Patient: They would, you, you would think that answer. But, you know. Yeah.
+Nurse: Yeah. Other than that, I'm, I'm just fine. II I feel good but it's wonderful. BP is good. Uh Great. So, are you taking your BP on day? Uh I take it uh sporadically. Ok. Live by, I mean, I don't, you know, it's not on my dresser. Um, but every once in a while when I think of it I do and it, it's good and, and then what I'm not doing and I'm going to some doctor's office, it takes it away. Exactly.
+Patient: So you have done enough to make sure that we're good. So you're not having any signs of high BP, like headache, dizziness, blurred vision, loss of consciousness. Great. Ok. You tell me all about
+Nurse: Sometimes I act like I'm on,
+Patient: Hey, sometimes when you really wanna go to sleep, just go to sleep.
+Nurse: So, um, take a nap. E
+Patient: Exac exactly. Uh, yes, this girl after my own heart. So, um, do you, did you get that, um, sorry, one last thing I see that they put in the, um, order for your mammogram a couple of weeks ago. Did you schedule that?
+Nurse: Yes, I did schedule that. I think it's because I'm going, you know, going on this trip, I think right the earliest I had was like in the beginning of July. Ok but I am I am scheduled.
+Patient: Ok perfect I just wanna make sure you're scheduled and you didn't need help with that so um that is perfect. Alright well. Alright k thank you so much for giving me a call back I appreciate it.
+Nurse: Ok take care yep you too have a great time on your trip. Well I try to. Ok good bye bye bye bye.

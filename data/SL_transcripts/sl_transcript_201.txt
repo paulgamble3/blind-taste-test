@@ -1,0 +1,9 @@
+Nurse: Hi, it's [PHI-Personal].
+Patient: Hi, [PHI-Personal]. Uh, this is Cyn, I, so your call and uh the doctor's office contacted me that um, Doctor [PHI-Personal] wasn't in tomorrow, so they set me up with a different time and a different doctor.
+Nurse: Oh, ok, perfect.
+Patient: Is that why you called me back?
+Nurse: I don't think I mm, it might have been a Miss dial. I don't think I called you back because they didn't give me any information. Oh, ok. I saw
+Patient: My call and I thought, oh, she's probably calling me back about that. Ok,
+Nurse: So you're gonna see [PHI-Personal] at 11 45? All right, perfect. Well, thank you for the update. I appreciate that.
+Patient: Yeah, sure. Thank you for your help.
+Nurse: You're welcome. I hope you feel better. Thank you. Bye bye. You too. Bye bye.

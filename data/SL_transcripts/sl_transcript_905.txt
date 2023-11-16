@@ -1,0 +1,36 @@
+Nurse: Good morning. This is [PHI-Personal] of the nurses here with Doctor Jumper's office. How can I help you?
+Patient: This is [PHI-Personal]. I'm just really concerned. I got about an hour sleep last night. I'm just wide awake. It is 44 or five nights where I slept for about four hours. And now last night I got up about 55 o'clock this morning and I took four Benadryl and, um, muscle relaxer and I slept for about an hour. Ok.
+Nurse: Have you, um, tried any Melatonin?
+Patient: Yes.
+Nurse: Ok. And you're only on, are you doing 10 mg?
+Patient: [PHI-Personal]? Ok. Um, um, let me just double check. I took the Cymbalta last night and then at five o'clock, when I knew I hadn't slept, I took, um, the TEGretol that the other doctor had given me because I figured it was long enough that it wouldn't interact at all and, and not even that helped. Who's dad?
+Nurse: Mhm. I'm just writing all of this
+Patient: Down. Are you getting any snow? Not yet.
+Nurse: Yeah. Are
+Patient: You all? No, not a thing. Yeah. It looks like it might miss us for most of the day.
+Nurse: Well, I'm assuming that was gonna miss us because school already canceled last night. Generally when that happens, that means that [PHI-Personal] doesn't actually hit us.
+Patient: Right. Yes. Mm.
+Nurse: Now, when you say you couldn't sleep, are you having pain that's keeping you awake,
+Patient: Or? Sometimes? Sometimes? But I'm just wide awake. I did all the relaxation stuff they taught me and, and everything I could think of. And it's like
+Nurse: You haven't had any caffeine.
+Patient: No, I don't ever do coffee once in a while. I have some Pepsi but I don't even do that very often. Ok. Ok.
+Nurse: So, um, so I just wanna make sure I go get this completely correct cause this is gonna be important. Um What you've been taking at this point. So you have, uh you're taking 20 mg of Melatonin at night. Um She, you are taking, you took four Benadryl and the muscle relaxer and you're only able to sleep for an hour. Correct?
+Patient: Yeah. Yeah, that's this morning last night I took the Cymbalta and the muscle relaxers and the Melatonin and can't think of anything else that would have. Ok. Right.
+Nurse: Um I got that in there. Do you like tea?
+Patient: No. Oh, but I could drink it if it would help. Ok.
+Nurse: Um, so I'm thinking there is a sleepy time tea that has not, it is um, [PHI-Personal], it's not like the sleepy time tea from Celestial Seasonings. One, it's like I, um, from a different brand and it has some [PHI-Personal] root
+Patient: In there. I've got some of that I didn't think to take [PHI-Personal] of those
+Nurse: That will help knock you out. That's definitely a natural sedative. Um so that I would recommend trying that tea for now. And I, I mean, I'm gonna send this over to Doctor Jumper and let him know and see what he has to say. Um Let me, let me just pull up the brand and the only [PHI-Personal].
+Patient: So I don't know how long I can do this without having some physical effects. Yeah, like I say, this is all the stuff that happened years, you know, over 15 years ago when I had the thyroid problems. Yeah.
+Nurse: Well, that it can be hyper hyperthyroid. Um, having trouble sleeping is a very common thing with that. Um, yeah, it's traditional medicine [PHI-Account]. Um, they have it at Walmart Target. All of those things that has [PHI-Personal] root in it.
+Patient: So it's a little bit, I've got some [PHI-Personal]. I've got some [PHI-Personal] capsules.
+Nurse: Ok. Yeah, that, that'll help you sleep. Um, but let me, let me see what doctor, um, jumper says about this. He might, you know, he, he might wanna wait until we see what your lab results are because if it is the thyroid, there's different things that can be done for that. Um, but try, try taking that there and we'll, um, we'll kind of go from there. Ok. Now, don't take too much because it's very, it's very, very strong. So pick
+Patient: Up on it. How much is too much. I would, I would take
+Nurse: Whatever the serving size is, I would say, you know, take that. Um, but, or if there's nothing on it, only take [PHI-Personal] capsule. And then see, because it is a very strong, actually. Um, does it Nyquil, does p pure disease now or Z has, um, Melatonin free sleep aids and the main basis of that is, is um [PHI-Personal] and they are very strong
+Patient: Pills. Ok. Right.
+Nurse: So let me get this over to him and see what he has to say and we'll go from there. Ok.
+Patient: All right. Thank you.
+Nurse: You're welcome. Just take rest, take it easy, try to take a nap today. Ok? I know it's easier said than done, but
+Patient: Well, thank you
+Nurse: Back to you.
+Patient: Yeah, we'll see you. Alright. Thank you. Bye bye bye.

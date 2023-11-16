@@ -1,0 +1,17 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, I just got, uh, my phone just rang and, um, I couldn't get to it in time. I'm, yes,
+Nurse: That was me who called? My name is [PHI-Personal]
+Patient: And I miss. Yeah. Yes.
+Nurse: So I called today on behalf of doctor because it looks like you qualify for the doctor's new care management program. So, what that is, is a nurse that would be able to give you a call to see how you're doing. The nurse is able to answer any questions, help refill prescriptions, she'll address any issues you might be having and also help with appointments, referrals and lab work, things like that. Mhm. The program helps keep your doctor updated and all the calls the nurse makes, they are documented and sent to your doctor for review and they're also treated as a billable service to [PHI-Personal]. [PHI-Personal] Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays. And so I have here, you have, uh, [PHI-Personal] and [PHI-Personal]. Is that still correct?
+Patient: That's correct.
+Nurse: Ok, good. So essentially there'll be a once a month phone call from the nurse, but you're able to call in as many times as you might need to. Would you prefer a morning or an afternoon phone call? Well,
+Patient: I, I prefer to, to hold off until I, I have something in writing to present to the people who take care of us here. Ok. I don't know that, you know, I, there's so many things going on. I got a, a tele, a message the other day. Well, list is that the same as this? This is, it was also Yale [PHI-Geographic] and I, I'm, you know, I can't make those decisions without consulting with the people who I have no money or anything like that. It's all taken care of for our sisters through a finance office. So I don't feel able to, to do this myself, you know, so I would need to show them something, you know, in writing, I believe. Ok,
+Nurse: So I can send out a letter and it will have the information on it and I'll give you
+Patient: Extra work, but I don't know what else to do at this point.
+Nurse: No, that's ok. Is there someone else that I would need to speak with?
+Patient: Well, let me see what the letter says and if they have questions, then we would, you know, follow through, just put your information where you can be reached somewhere in the letter. Yes,
+Nurse: I will. And so is the address [PHI-Geographic]? That's correct. Ok. All right. Um sister [PHI-Personal]. I will send out that letter and then you can give me a call back when you guys decide.
+Patient: Thank you. Thank you very much. Yeah, I mean, yeah, I, I'm not sure as I said, I'm not sure what to say. I thought this was somebody in the building who was going to fix my role later, but I did it myself. I'm very independent.
+Nurse: Good for you
+Patient: Anyway. Thank you so much. You're welcome. You have a good day. Yeah,
+Nurse: Bye now. Thanks. Bye bye bye.

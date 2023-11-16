@@ -1,0 +1,35 @@
+Nurse: Nurse care manager. This is [PHI-Personal]. Oh, hi [PHI-Personal]. I was gonna call you after, after one because I wasn't sure I was,
+Patient: I gotta be in today, get [PHI-Personal] and my phone my got at work.
+Nurse: So, yeah,
+Patient: That's the give me until I got home anyway. Oh,
+Nurse: Ok. Oh, well, I'm glad you called then. All right. Did you get my message at all?
+Patient: Yeah. You said you talked to him about my back and about, yeah, my back and leg and, and about that, that CT scan or, or MRI or whatever it was I had.
+Nurse: Right. Right. So, all right. First off he said, so it was a CT scan of your abdomen that they did, um, um-hum to check out your stomach stuff. So he did send you a letter. It looks like he mailed it a couple days ago. So he said you should be getting it in the ma in the mail. Um, but basically let me just look at the letter he sent. Um, hold on one second here. Ok. So it looks like there was some concern just there was some fatty liver deposits, which is very common with diabetes. Um, so he, he said that then he said the, the gallbladder changes on that they saw on the ultrasound were not seen on the scan. So everything with your gallbladder looks good according to this CT Scan, but it did show some lower back, degenerative changes. So, basically age related changes. Um, probably arthritis, that type of thing in your lower back. I,
+Patient: I had arthritis problems in my back. Yeah, a long time. So,
+Nurse: Yeah, so he mailed you a letter that basically just says what I told you. So you'll get that. Um, but he really is feeling like the pain is originating in your lower back and even though your back per se isn't hurting, it's affecting, you know, the nerves that go down your leg. But he is wondering he, well, he's suggesting that you have an MRI done of your lower back to see if they can pinpoint anything that's happening there that could be causing you to have this excruciating pain. Mhm. So, and then he also was asking if you would be open to coming into the office sometime in the next week or so to discuss the CT Scan. But also there's a new medication that he feels may be, um, good for you, I think related to the liver and your, your G I symptoms that you've been having on and off. Uh huh. So he was wondering if you'd be able to come to schedule an appointment for in the office sometime next week.
+Patient: Yeah. Hold on, let me get to next week here.
+Nurse: Yeah,
+Patient: Looking at next week it doesn't look like I have any other appointment.
+Nurse: Oh, wow. Ok. Ok. So, so maybe
+Patient: Monday I could do it, you know.
+Nurse: Ok. Well, you know what, um, how about, are you, do you have a few minutes? I could transfer your call over there and you could talk to the scheduler to see.
+Patient: Yeah, I have the, so, ok, you
+Nurse: Got a couple of minutes? Ok. Let me see. Sometimes with the incoming calls it doesn't let me transfer for some reason. But let me see here. Oh, I'm, I'm losing you for a second here. Yeah, I think you, you might have to call them directly because it's not letting me transfer or click the transfer button for some reason. But, um, do you have, you have the office number? I take
+Patient: It. Yeah, all I do is call his number and I'll get the [PHI-Geographic] office. So, right to his office. Yeah, they'll get me in touch with whoever I need to talk to.
+Nurse: Yeah, the scheduler. Well, and the scheduler at the [PHI-Geographic] office can, um, make appointments at the [PHI-Personal] office too so she can hand help that with you. But are you open to having an MRI done of your back?
+Patient: I, I don't know why not. I just had one done in my front so
+Nurse: I know, I know. So I'll, I'll send that back to let doctor [PHI-Personal] know that he can send an order and they can get that working because I know it's a process to get everything preauthorized and all that so they can work on that. But, um, I'll have you call the office and schedule your appointment to talk to doctor [PHI-Personal] about the CT Scan and any new medication he has for you.
+Patient: Ok. If they have, will they have to have more blood work
+Nurse: Done? I'm not sure he doesn't have any blood work listed here for it. Well,
+Patient: The last one was, was, was imaging with an injection. So they had me do a right to check
+Nurse: Your kidneys. No. Yeah, this one won't have, it won't have any contrast or any dye. Ok. So, and they shouldn't need it for the MRI, if he needs it for other reasons. That would, I don't, but I don't, well, I'm supposed to
+Patient: Have it done at the end of [PHI-Personal]. I think it is anyway, because I see a
+Nurse: Right. Right. Ok.
+Patient: Yeah. Right. I'm supposed to have the regular blood work done at the end of, of
+Nurse: [PHI-Personal]. Just your routine
+Patient: Annual. Yeah, we're supposed to, yeah, the stuff you usually has me do.
+Nurse: Ok. So. All right. All right. Well, do you want the phone number or you have it? I have
+Patient: It, it into my phone. No problem.
+Nurse: All right. Well, you give them a call and then I'll check back in with you a again in a couple of weeks and see how things are going. Ok? Ok.
+Patient: All right.
+Nurse: You're welcome Mary. I hope you have a good rest of your day. All right. Take care. Bye bye.

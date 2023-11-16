@@ -1,0 +1,32 @@
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: Hi, how'd you make out?
+Nurse: Um, I don't, they don't have an appointment this morning but I'm trying to, I sent a message to see if you, if we necessarily need to have an appointment spot available or if we can just get you scheduled.
+Patient: Uh, oh, for this morning? Ok. Uh, it's unfortunate. I, it was my birthday yesterday and they're having a party for me this afternoon. Mhm. It's like, I don't believe this is happening. Do you know what I mean?
+Nurse: Yes. Who changed it this morning again?
+Patient: I'm sorry.
+Nurse: Um, who changed? When was it changed
+Patient: Yesterday? And who changed that at about 11 o'clock in the morning? Something like that? Who
+Nurse: Changed it?
+Patient: Uh, my nurse who evidently isn't very good at it [PHI-Personal]. So they're supposed to call you back then or no.
+Nurse: Um, so I just got a message from Ly. She said, did she contact the, the, um, private pay ma? And I told her that she, that you did. Um, and then, well, she, well, she, I think she's wanting you to call the private pay ma and see if she can come by and do it or see if home health will come back and fix it. But she said if neither of those options then we can schedule you, but we can't schedule you until this afternoon. It looks like the only appointment the earliest is one o'clock.
+Patient: Oh, jeez.
+Nurse: Do you want me to call the home health aide or the home health nurse?
+Patient: Um,
+Nurse: Or do you want me to call D,
+Patient: Who's d,
+Nurse: Isn't that the name of the? Oh, D
+Patient: D, I'm sorry? Yeah, I'm sorry, I'm just not familiar with her name. I'm sorry. She should be at work. I would think. I don't know, to tell you the truth. I know she said she works Monday through Friday, but I'm not sure what her hours are. Ok. I don't know if she comes in at noon. I don't know. I shouldn't even say anything because I don't know.
+Nurse: Ok. Do you wanna call D, or would you like me to, um, or do you wanna take the one o'clock appointment?
+Patient: Oh, my gosh. What can I do? I, I don't know what to do.
+Nurse: Ok.
+Patient: Between a rock and a hard place right now I'm supposed to leave at 11. 0,
+Nurse: And see if she can come in and help you.
+Patient: I bet you she's at work. I bet you she's in the office.
+Nurse: I think it would be good for us to still maybe try and call her and see.
+Patient: Ok. All right.
+Nurse: Then are you gonna call her, do you want me to
+Patient: You? Why don't you give her a call? Maybe it'll sound better coming from you. She's probably gonna be upset with me but
+Nurse: No she won't. It'll be ok. It'll be alright. Yes and
+Patient: I can't believe this happened. II I should have known not to let anybody else touch it. I should have known they just can't figure it out. It's my fault for doing it. Oh, wow.
+Nurse: Ok. Let me contact B and then we'll find out, um, what we can do. Ok.
+Patient: All right then. Thank you so much. Bye bye bye bye.

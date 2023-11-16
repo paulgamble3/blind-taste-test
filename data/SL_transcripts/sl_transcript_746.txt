@@ -1,0 +1,3 @@
+Nurse: Good afternoon. This is [PHI-Personal], can I help you?
+Patient: Uh Good afternoon. Uh my name is I got a voicemail message [PHI-Personal] that I should return her call.
+Nurse: Ok, let me just see if she's available. Ok. Sure one second. Mhm. Yeah she might be on a call. I'm just waiting to see if she sees my message. Ok, looks like Erin is on a call. How about if I have her call you back? That'd be fine. Alright, great. I'll let her know. Thank you. You're welcome bye bye.

@@ -1,0 +1,46 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, honey, I just missed your call.
+Nurse: Oh, thanks for calling me back. How are you? My dear.
+Patient: I'm not too awful bad. Getting ready to go on vacation for, till Monday.
+Nurse: You're on vacation right now.
+Patient: Get ready to leave, getting ready to walk out the door and I miss my phone was the car.
+Nurse: Ok. Do you want me to call you back after you get back from your vacation? Or do you wanna touch bases really quickly?
+Patient: Uh, we can do it real quick if you want. Um, but I do want, um, my antidepressant, I can't remember. The name starts with a F Megan. It's PROzac, I guess I asked them on, yeah, I asked them on the web page or the site, you know, if they would fill it and they said, well, it was too early. Well, I don't want it actually to fill it. I just want to call in a prescription to Optum Rx because I've got one refill left at Walgreens, but it's more expensive.
+Nurse: So you wanna, so you actually want Walgreens to transfer the prescription to Optum?
+Patient: Um, no, I'll go ahead and pick up the one more.
+Nurse: Ok. And then for the future,
+Patient: Yes, I wanted them to just go to Optum Rx.
+Nurse: Ok. Ok. Ok. All right. Let me see what I can do about that one for you, but you'll be able to pick up, you know, the next one at Walgreens. Ok. Um, all right. So let me just quickly open your chart really quick. I know you're on your way out. What, where are you going?
+Patient: Oh, I'm a
+Nurse: Little jealous.
+Patient: Ok. Going to El Nice. We're going on a cruise. We leave at, uh, we have to be there at noon.
+Nurse: Oh, ok. I'll make it quick. I won't hold you up. So I see that you saw the, well, before I get to that, have you had any changes to your medication since we last spoke?
+Patient: Um, I don't believe so.
+Nurse: No. Ok.
+Patient: So, and they want me to have a upper and lower scope. Yes. So the G I doctor would, uh, not G I doctor, but the G I doctor is the one that wants it, but they would call me, but they haven't called me. So I figured I could just call them. Uh, yes, please,
+Nurse: Please. Yes. Yes. Yes. So they're gonna do an EGD and a colonoscopy. So it'll be upper and lower. Have you had one before?
+Patient: Yes. And I told him I'm not happy with this because the last one I had, I remember every bit of it, every bit and I told him, I said, I said never again and he said, I guarantee you will not fill it. Ok. Yes, please. Yeah. And I said, if I do, I'll be coming up off that table. That, that's fine because last time I was, you know, I was scared I'm older now and I don't care, you know, now I'm older and I don't care whether they get mad or not, trust me. I'm getting up.
+Nurse: Right. No, I agree. And I, I don't, I don't, I don't think that would happen again. That usually doesn't happen. But
+Patient: Yes. Yeah, I worked with that doctor, you know, and I told him I told him about it a lot. Wow. I was like, don't go near, don't get close to me. You like to hurt people. I, I know. Oh
+Nurse: My goodness. So, um yeah, so we'll follow, you're gonna follow up to make sure that they'll schedule the colonoscopy for you. Um,
+Patient: So, and I'll be back Monday. So if you wanna follow up with them, that's fine too. I haven't, I don't have any here. Oh, let me, I can't give it to you right now.
+Nurse: No, no, no, it's ok. Uh I can, I can look it up. Let me see if I can look it up and get through to them. Um, so I see that he wants to take a look to find if there's any um, varicel. Um [PHI-Personal], excuse me in your esophagus. When they do the upper part. Um So usually they'll put like a thin scope down there. They'll look to see if they see any red streaks or red spots indicating any bleeding. So, um prior to your, I'm sorry,
+Patient: I, I tell my husband they're here, our kids are following us, they're going with
+Nurse: Us. Ok. Ok. So prior to preparing for the colonoscopy, please avoid any red liquids. So they don't think
+Patient: That I talked to him about that because the last time I had um just the upper, the lower one that I am worried about. Um, but the last time I had just an upper um here let's go. No, we gotta go and they're calling, come on. All right. Um sorry, honey. But um yeah, the I mean with the low, no, the upper um I went into a sugar low the night before and I had to cancel it and I was not, well, I tried to cancel but they went ahead and said no, we're doing it and, but I hadn't had nothing red, you know, I enough to get my sugar up uh because I'm diabetic but I where I hadn't or nothing and took my medicine,
+Nurse: Right. So you're gonna have to most likely hold off on that Metformin prior to the procedure we don't want you to drop again. Um, and then any of the liquid that you are drinking, um, you know, before at least some kind of sugar content. So you don't drop too low. Um, are you still taking, are you on any blood thinners?
+Patient: Yeah, I'm on Plavix. So to stop it. No, they haven't yet because they, all, they did was tell me that they want it and then they would be, call us to set it up. And that's probably been, he said, they said 3 to 7 days. I bet it's been two weeks.
+Nurse: You said you said what's been two weeks,
+Patient: Uh, since I've been to that doctor?
+Nurse: Ok. Um, I'm gonna, I'm gonna see if I can get through to them and then is it ok for me to leave you a message if I do get an appointment for you for the um,
+Patient: Yeah,
+Nurse: That's fine. Ok. Is there any, is there any day or time that doesn't work for you? For the, uh, colonoscopy?
+Patient: Most likely? No. Mhm. You know, most likely I wouldn't have probably an issue with it and if I do, I'll just have them change it or something. But, and, but I'm pretty flexible but my daughter just started working again and, um, so I don't know what her schedule will be. That'll be my only hang up. Uh, ok, I'll have the baby.
+Nurse: Ok, that's right. So what I'll do is I'll get an appointment scheduled. If it doesn't work, then we'll just have to call them back and get it rescheduled. Ok. Ok. Um, all right. That sounds good. Do you need any re other refills from Doctor [PHI-Personal].
+Patient: I think I got all of them requested that I needed. And that was the only one that they had an issue with and I think they just thought I was trying to fill it early. I'm not worried about early. That's not what it was, it was to just get
+Nurse: Them to take care of the medication going forward.
+Patient: Yeah. So that from now on I can just get it through them and it now on I don't have to go get it
+Nurse: Right. Ok so we'll get we'll get um I'll let you know what I what the process that I get through when I speak to G I um and I'll leave a message if I don't get through to you but until then enjoy your vacation be safe and um I'll talk to you soon. Ok.
+Patient: Ok honey that's fine. Alright and yes you can leave me messages.
+Nurse: Perfect. Alright honey have a good day bye bye
+Patient: Thank you bye bye.

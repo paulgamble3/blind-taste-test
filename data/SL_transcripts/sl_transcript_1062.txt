@@ -1,0 +1,10 @@
+Nurse: Hello, this is [PHI-Personal]. Hello.
+Patient: Hello, [PHI-Personal]. Yeah, I'm sorry. I thought it wasn't answering with you. Oh, your voice is so smooth. Oh, this turning your
+Nurse: Call? Ok. Let me pull you right up. Ok. There you are. So it looks like you might be eligible for doctor [PHI-Personal] Care management program. And so what that is, is a nurse that'll be able to give you a call to see how you're doing. She answers any questions, helps refill prescriptions. She'll address any issues you're having and she could help with appointments and lab work, things like that. The program helps keep the doctors updated and it avoids emergency room visits and all the calls the nurse makes are documented and sent to the doctor for review. They are treated as a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. And they're also subject to de deductibles co insurance and copay. So I have here you have United Healthcare [PHI-Personal] Advantage with a $5 copay. Is that still correct?
+Patient: 0, 5000. I didn't know that.
+Nurse: Oh, maybe you don't. Let me check. Let me make sure real quick. Sometimes that pops
+Patient: Up as you do have you, I don't know if I met my deductible yet.
+Nurse: So it, yeah. Oh, ok. So your PC P that, that is a $5. Ok. So that's what it was. And then, um, do you prefer morning or afternoon phone calls from the nurse,
+Patient: Uh, afternoon?
+Nurse: Ok. So I'll also send out a letter. Are you still at the [PHI-Geographic]? Yes. Ok. And it'll have all the information on it. Plus the phone number to call in to the nurse if you need to. And then your first phone phone call from the nurse should be within a week or so. Ok. Ok. All right, [PHI-Personal]. Well, thanks for calling me back. That's all I need for today. Ok. Thank you. You're welcome. Bye bye
+Patient: Bye.

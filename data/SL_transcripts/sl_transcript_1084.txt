@@ -1,0 +1,52 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Oh hello, I'm uh uh [PHI-Personal].
+Nurse: Ok. One second let me get your chart pulled up here. Ok. Ok. Right. What's your birthday?
+Patient: [PHI-Account]. 0 that's not the right. [PHI-Personal]
+Nurse: [PHI-Personal]. Let me find the right. Ok, sorry about that.
+Patient: Who am I speaking to today? My name is [PHI-Personal]. Um ok.
+Nurse: Who do you normally speak to?
+Patient: Uh let's see uh is there one called [PHI-Personal]? There is?
+Nurse: Yes. Yeah
+Patient: And then who's the one? [PHI-Personal]?
+Nurse: I'm not sure. Ok,
+Patient: I have your name wrong in a hurry. I see. Yeah. Yeah. So
+Nurse: Let me see if this is right. There we go. Ok you said [PHI-Account] correct?
+Patient: At [PHI-Geographic] P A
+Nurse: Hold on. No that's not right either. Ok, I'm so sorry let me try this one more time. Ok in I am not getting right. Ok, so birth date one more time.
+Patient: [PHI-Account] eight. What I'm sorry? [PHI-Account]
+Nurse: Two. Ok, I was hearing [PHI-Personal] and I was like I know that's not right.
+Patient: [PHI-Account] there
+Nurse: We go. Yes. Ok. [PHI-Account]. Ok. Now we have lot, yeah, we have lots of Lyn [PHI-Personal] in here. Surprising we do.
+Patient: Yeah,
+Nurse: And I show that your normal nurse is [PHI-Personal]. Um, do you want me to see if she's available
+Patient: On there? Ok. Uh, it doesn't matter.
+Nurse: Ok, let me see real quick. If not, then I'll, I'll help you out. Oh,
+Patient: Ok. Ok.
+Nurse: Yeah. No, she is not available. So what can I do to help you? Oh,
+Patient: Ok. I got a real bad cold again, uh, in my chest. Uh, I don't know if you heard me coughing. Yeah. And I usually call up and then they, uh, prescribe me some medicine for it. I get it every year and I think this is the second time that I got it. But, uh, I forget the medicine that they prescribed for. It's like I have the shot though for the flu and I, what's the shot? You can get the pneumonia,
+Nurse: Pneumonia
+Patient: Shot. Yeah. Ok. But I still, I thought that might help me not getting it, but I have the chills and I have, uh, a back test that, that white slum phlegm is coming out of my throat. Ok.
+Nurse: Um, and you have a cough, um, let's see here any fever.
+Patient: Uh, he checked, my husband, checked it. I thought I had a fever over the night but I didn't, I have chills. Ok.
+Nurse: All right. And then any runny
+Patient: Nose? Yes, I had that.
+Nurse: Ok. All right. And what pharmacy do you use in case doctor wants to call something in?
+Patient: Oh, yeah, Miller's. No, uh, Walmart. Walmart Pharmacy. All right.
+Nurse: Yeah, I can send him a message and see what he says.
+Patient: Yeah, that would be great because I'm too miserable to come into the office. I can't do that. I, I have the chills and, um, real nervous like and all sick.
+Nurse: Ok. Well, I will let him know that.
+Patient: Ok. And can you see on there the medicine he gave me the last time?
+Nurse: Let me look and see if I can. Do you know how long ago it's been since you've had this?
+Patient: Oh, no, I don't remember anymore.
+Nurse: Ok. Um, well, I show in [PHI-Personal] he gave you cephalexin. But then al, well, you've also had amoxicillin and Cipro. So there's several, the, there's three or four different antibiotics on here that it could be. Oh,
+Patient: Ok. Because he was given it for my bladder infection back then.
+Nurse: That's your nitrofuran.
+Patient: Oh, ok. That was for
+Nurse: Bladder infections. Um, but there's, there's like four different antibiotics listed on here under your discontinued medication. So I'm not exactly sure which one he gave you for that, but I can, I'm sure he probably remembers.
+Patient: Yeah. Yeah. Ok. Yeah. And I'm too sick to come in. I can't make it for appointment cause I have the chills. I'm covered up. Not dressed and all coughing this slime out of my throat.
+Nurse: Ok. I will let him know that.
+Patient: Ok, then, and if you call it in, then it will be in my, uh, let's see it, it will use Walmart will call me and tell me,
+Nurse: Well, I, I'll give you a call as soon as I hear back from doctor to let you know what he's gonna call in if he's going to. Oh,
+Patient: Ok. Thank you very much. You're welcome. Yeah. Now what was, what was your name again? I forgot. Ok. Spell it [PHI-Personal]? Ok, thank you. Oh boy, it's a new name. Did I say it right? Yep. Ok. Thank you very much. You're
+Nurse: Welcome. We'll talk to you a little bit later.
+Patient: Ok, thanks. Bye bye bye bye.

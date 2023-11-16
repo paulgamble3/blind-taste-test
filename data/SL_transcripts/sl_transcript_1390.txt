@@ -1,0 +1,42 @@
+Nurse: Hi, good afternoon.
+Patient: This is [PHI-Personal]. Hi, [PHI-Personal]. This is, did you just call me?
+Nurse: Yes, ma'am. How are you doing?
+Patient: Well, I'm doing fine. My phone's not, but I am. Um, listen, I just have a, a couple of questions. I've got some people that I need to see from the doctor and I don't know where to go. She didn't get me ready to go see. But also, um, one of the things on there was that she wanted me to do an MRI and I couldn't remember when I had one done or who did it, but I, we did find it in my, my, uh, calendar and it was done in [PHI-Personal]. So, and it was the, um, it's like, but it's ok. Yes. Um, so how do we get him to get the information to her? There's no reason to do another
+Nurse: One. Right. I agree. So, what I will do is I will send over a request of information for him to send over that MRI to doctor so she can review it.
+Patient: Yeah. Yeah, I would appreciate that. And then she wants me to go to a neurologist. And what else there was something else. I, good grief. I'd rather curl up and go head out to heaven and to do all of this. Well, physical therapy, I don't know where a local place to do physical therapy is. I had one that I was doing with about the a but then they never called back. So
+Nurse: Let me look here for some places and then for the neurologist, it's a doctor [PHI-Personal].
+Patient: Ok. Wait a minute. let me write that on that sheet. Ok, here it is. Ok. Do you have to have a phone number or anything? Let me look, you touch. No. No. Ok.
+Nurse: It doesn't say it here but I can find it here. And was your appointment? Ok. Everything went. Ok.
+Patient: Oh, with doctor. Yeah. Good. Ok.
+Nurse: So Doctor [PHI-Personal], um number is gonna be [PHI-Account]. Ok. [PHI-Account]
+Patient: [PHI-Account]. Yeah. Ok.
+Nurse: [PHI-Geographic]
+Patient: [PHI-Geographic]. Ok. Um ok. Well, I will give her a call and, uh, and who was the other one?
+Nurse: So then the physical therapist, um, it looks like it's just like a generic referral so you can go to wherever. But let me look, I'm looking at some places here in [PHI-Geographic]. Do you remember the name of the one that you went to before?
+Patient: Well, no, that's what I'm saying. I went down to the one with the, the down on [PHI-Geographic]. I'd rather go to something closer by but I don't know how I find out what's closer by.
+Nurse: Right. Let me see here. So I have one that is on [PHI-Geographic]. Is that Fourth street? North?
+Patient: Ok. And, and what's the number on it?
+Nurse: So, uh, the name of it is [PHI-Personal] physical therapy. Ok. And their phone number is [PHI-Account].
+Patient: Ok.
+Nurse: [PHI-Account],
+Patient: [PHI-Account],
+Nurse: [PHI-Account],
+Patient: [PHI-Geographic]. And it's on [PHI-Geographic]. You will get a number.
+Nurse: Uh, let me look at the number there. The number was because actually there's another one on [PHI-Geographic] that I'll give it to you. So then, so that one is gonna be, uh, 9355, 4th Street North. Oh, that's a way. Ok. So let me look at this other one that's on [PHI-Geographic]. So there's another one that's on [PHI-Geographic] and this one is called Select Physical Therapy. Um, theirs is [PHI-Geographic].
+Patient: That's better. [PHI-Account] [PHI-Geographic].
+Nurse: And then their phone number is [PHI-Account],
+Patient: [PHI-Account],
+Nurse: [PHI-Account],
+Patient: [PHI-Account]. Ok. And then the other thing is ok, we got the neurologist, we got the physical therapy. What was the other thing? Uh, oh, the thing, the M MRI. Um, yes. So if you can find that out for me, I'd appreciate that or whatever.
+Nurse: Yes, I will. I'll request that for you. That way because, like you said, I don't, I agree. I don't think you should have to redo it if you already had it done.
+Patient: Yeah. See, and that was on, I've got the date here, some place, uh, not there just a second and I'll tell you what the date was. I think it was like it was first part of [PHI-Personal]. Yeah, I can't get this open. Huh? Uh, I have more thumbs than I have of anything else. Uh, it was on the, at Gateway that would have been on the 11th of [PHI-Personal].
+Nurse: Ok, perfect. That way there. Ok. So then I will have them get those records for you and have doctor review them. Uh, and then in the meantime, um, if for some reason you call those physical therapy places and they're not helpful for you or that you need to find another place, just give me a call back. I'll look at, I'll look around for some other places for you to call.
+Patient: I go, I'll try this select and see what I can come up with.
+Nurse: Yeah, it looks like select might be the one that you went to before at a different location because they have another location off of [PHI-Geographic].
+Patient: That might be because I went to the one that's on [PHI-Geographic] and it's in this building.
+Nurse: So, yeah, so that might be a good one to start with is the select because they might have you in their system already.
+Patient: That sounds good. Ok, well I'll give them a call and uh if you can check on the MRI for me, I'd appreciate that and then I guess can call the neurologist and see what I can set up there. Alright, thank you. I appreciate ever so much. You're
+Nurse: Welcome. Yes and you call me if you need anything else.
+Patient: Ok, dear God [PHI-Personal] you and you have a good one.
+Nurse: You too. Alright bye
+Patient: Bye bye.

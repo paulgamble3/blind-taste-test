@@ -1,0 +1,52 @@
+Nurse: Great, I'm glad I reached you.Before we begin, I just need to verify your identity.Can you please provide me with your date of birth?
+Patient: Yes.July seventhnineteen fifty six.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling on behalf of your doctor to check in with you and see how you're feeling.Can you tell me how you're doing?
+Patient: I'm doing great.
+Nurse: I'm glad to hear that!It's always good to hear that our patients are doing well.
+Patient: Yes.
+Nurse: Okay, great!I'm glad to hear that you're doing well.I'm just going to go through a few things to make sure everything is in order.
+Patient: Okay.
+Nurse: Great.First, I'd like to ask you about your dialysis sessions.How are they going?
+Patient: Perfectly. No issues at all.
+Nurse: I'm glad to hear that!It's critical that you're comfortable and doing well with your dialysis.Now, I just want to double-check - have you been able to attend all of your dialysis sessions?
+Patient: Yes. I have.
+Nurse: Great, I'm glad to hear that!It's essential to attend all of your dialysis sessions to manage your condition effectively.Now, I'd like to review your medications with you to make sure everything is in order.Can you tell me the names and dosages of the medications you're currently taking?
+Patient: I'm taking Lasix, forty milligrams,two times a day. I'm taking lisinopril five milligrams,two times a day. I'm taking Gabapentin three hundred milligramsthree times a day as needed.I'm taking Tylenol five hundred milligrams three times a day as needed.And then I'm taking Losartan.Fifty milligrams once a day.
+Nurse: Great, thank you for going through that with me.I just want to confirm a few things about your medications.First, I want to let you know that you should hold off on taking Lasix, Lisinopril, and Losartan before your dialysis sessions.It's essential to do this to ensure that your dialysis treatments are as effective as possible.
+Patient: Okay.
+Nurse: Great, I'm glad you understand.Now, I'd like to review your diet instructions with you.It's essential to follow a renal diet and you've also mentioned that you're lactose intolerant.So, you'll need to avoid dairy products and focus on a diet that's low in sodium and phosphorus.It's also important to maintain a consistent intake of protein.Can you tell me if you understand these diet instructions?
+Patient: I'm really trying. I just amit's so hard for me to know what foods in particular that I should be avoiding.
+Nurse: I understand that it can be challenging to know which foods to avoid.Let me help you with that.It's essential to avoid foods that are high in sodium, phosphorus, and lactose.This includes processed foods, canned foods, and dairy products.You should also limit your intake of red meat and opt for lean proteins instead.Does that help clarify things for you?
+Patient: It does. It's just really, really hardto come up with with, like, meal plans
+Nurse: I understand that it can be challenging to come up with meal plans that follow a renal diet.It might be helpful to work with a dietitian who can help you create a meal plan that's tailored to your needs and preferences.Would you like me to help you arrange that?
+Patient: Yes. That would be awesome.
+Nurse: Wonderful.I'll arrange for a dietitian to help you with your meal plans.In the meantime, I'd like to check in with you about your other chronic conditions.Can you tell me how you're doing with your back pain and hypertension?
+Patient: I'm doing okay. My back is feeling alright.Taking, you know, Mike Hills when I need to, butI'm trying to do more yoga and exercises to help.
+Nurse: That's great to hear!Yoga and exercise can definitely help with managing back pain.Now, I'd like to ask you a few questions about your access port.Have you noticed any changes or had any issues with it recently?
+Patient: No. Not at all.
+Nurse: Great, I'm glad to hear that.It's essential to keep an eye on your access port and let us know if you notice anything unusual.Now, I'd like to ask you a few more questions.Have you been experiencing any shortness of breath or weakness lately?
+Patient: No. No shortness of breath at all.
+Nurse: Okay, that's good to hear.Now, have you noticed any weight gain or swelling in your body recently?
+Patient: No. No late games.
+Nurse: Okay, that's great.It's important to keep an eye on those symptoms as they can be indicative of fluid buildup, which is something we want to avoid.Now, I'd like to ask you about your blood pressure.When was the last time you took your blood pressure measurement?
+Patient: This morning.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Nurse: Okay, great.And what was the reading when you took your blood pressure this morning?
+Patient: It was one twentyover eighty.
+Nurse: Okay, thank you for sharing that.It's critical to keep your blood pressure under control, especially with your condition.If you ever notice it getting too high, please let us know right away.We can help you manage it.
+Patient: Thank you.
+Nurse: You're welcome!It's essential to us that you're well taken care of.Now, I just want to confirm a few things before we finish up.Have you had any questions or concerns that you'd like to discuss?
+Patient: No.
+Nurse: Okay, great.I'm glad to hear that.Now, before we finish up, I just want to make sure that you're comfortable with your access site and that you haven't had any concerns or issues with it.Can you confirm that for me?
+Patient: Yes. My access site looks healthy and have had no issue.
+Nurse: Great, I'm glad to hear that.It's essential to keep an eye on your access site and let us know if you notice anything unusual.Now, I just want to remind you of a few things to avoid while caring for your vascular access.You should avoid having blood draws, blood pressure measurements, or lying down on the access site when you're sleeping.It's important to keep the site clean and free from any potential complications.Do you understand these instructions?
+Patient: I do
+Nurse: Great, I'm glad to hear that.It's essential to follow these instructions to ensure your vascular access site stays healthy.Now, before we finish up, I just want to make sure that you have my callback number.If you have any questions or concerns, or if you just need to talk to someone, you can reach me at this numberCan you confirm that you've written it down?
+Patient: I have Rachel.
+Nurse: Great, I'm glad to hear that.Now, I just want to thank you for your time today.It's been great talking to you and making sure that you're doing well.If you need anything at all, don't hesitate to give me a call.Have a great day!
+Patient: Can I ask you a question before you go?
+Nurse: Of course, go ahead and ask your question.I'm here to help.
+Patient: Would you have any idea how muchsugar is in a Starbucks strawberry cream frappuccino?
+Nurse: I'm not sure off the top of my head, but I can definitely find out for you.It's critical to keep track of your sugar intake, especially with your condition.I'll look it up and get back to you as soon as I can.Is that okay?
+Patient: It is. Thank you so much.

@@ -1,0 +1,29 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello. Yeah,
+Nurse: Hi. Is this [PHI-Personal]?
+Patient: Yeah. Yes, it's feeling better. Hello? Who's, who's
+Nurse: My name is [PHI-Personal]. And are you calling on behalf of doctor? Doctor?
+Patient: Yes, too, too fast.
+Nurse: So doctor I'm calling from doctor Ke and I'm calling because it looks like you're eligible for a care management program. What is that? So what that is, is a nurse that'll be able to give you a call around once a month. She'll help you.
+Patient: And can you call, can you call my son, please?
+Nurse: Yes, I can. Everything's ok. It's just you qualify for a program.
+Patient: About what about
+Nurse: What? It's just to have a nurse check in on you around once a month. Your,
+Patient: This. Yeah, about what about what my heart, my body? What, what's wrong?
+Nurse: Yeah, nothing's wrong. She just wants to check in. It helps update the doctor who doctor, doctor,
+Patient: What she wanna know. Doctor
+Nurse: Zeke. Well, she just wants to keep updated with you and then it gives you a nurse that you could call anytime you might need something just to help a little bit,
+Patient: Please. Can you call my son and talk to him, please?
+Nurse: Absolutely. Absolutely.
+Patient: Thank you. Thank you very much.
+Nurse: You,
+Patient: The last time I saw doctor she goes so fast because she was so busy and I didn't understand nothing to me anyway. But, you know, something she told me about to do the, the flu flu shot. Yeah, the flu shot. And I did it, I did it now over there I say, I don't know. Um, because the last time I did a long time ago. Yeah. And I got sick but, but now I do, I did my attention. I say I'm gonna, and I did it. That's it.
+Nurse: Ok. Well, and the
+Patient: Only problem, problem, I don't have any problem. The problem I have because you don't wanna do nothing. That's all I know.
+Nurse: Yeah. Well, I'll give your son a call. And is that something you think you would like to have a nurse check in and see if you need anything
+Patient: Around one? I have to you. Why, why the nurse has to, I have to bother the nurse to come to my house to where I live.
+Nurse: Just, she just, she just does a phone call. She doesn't come to the house.
+Patient: Ok. Please tell my son because I don't, he complained. He ex, he explained to me, me, I'm born over here but I, I stay long time to know a lot of things about. I, I speak a little bit and I understand bit. Ok, everything my, my son explained to
+Nurse: Me Ok, sounds good. I'll talk to him,
+Patient: Do me a favor favor. Thank you very much. You're welcome. Thank you. You're welcome.
+Nurse: Bye bye bye. Have a good day. You too. Thank you.

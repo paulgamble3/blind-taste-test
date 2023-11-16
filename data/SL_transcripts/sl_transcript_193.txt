@@ -1,0 +1,53 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. My name is, I had a call some weeks ago from TI ti.
+Nurse: Oh.
+Patient: I, uh, I have been thinking about this, uh, new service and wanted to get a little more information if she told me or I call back. We talked. I apologize. I've forgotten the information. I couldn't find my note that's off. Now, of
+Nurse: Course, of course. Let me see. Let me just pull up your, in my account. And do you go to, um, a family practice center?
+Patient: I do in,
+Nurse: Uh, in [PHI-Personal]. Ok. I just wanted to make sure because I work with a couple of different of, uh, um, different ones. So I just got to pull up her notes. He has notes for you.
+Patient: Do you, do you want my date of birth?
+Nurse: You know what that might actually help. So, yeah, let me use your date of birth. Ok.
+Patient: Ok. It's the 10th of July, 1947. And how do you spell your
+Nurse: Name? My name is [PHI-Personal]. Danieole.
+Patient: And she is just what? Tea a or tea? A
+Nurse: Ti A?
+Patient: Yeah.
+Nurse: Ok. I do got you here now. All right. Let me get into your system. Ok. So what it is is, um, we were calling to let you know that, um, we are going to do a new program. And what happens is the nurse can give you a call just to check in with you to see how you're doing, how you're feeling. If you needed anything, any refills, any, um, you know, go over any medications, any issues or even send messages right over to docs to let them know how you've been doing, how you're feeling and if you needed anything, um, so that's kind of where, um, the nurse can kind of help in between your visits just to check in with you to see how you've been and if, if we could help you in any way.
+Patient: Ok. Um, I, I'll give you some information. Um, sure, I retired at a health care system and, um, my wife is a retired
+Nurse: Nurse. Ok. Good, good.
+Patient: I've not, I don't want to put the burden on her to, you know, help me. Yeah, things so, yeah, at least that's my choice then, you know, and, uh, I mean, she doesn't mind but, and she did that almost [PHI-Personal] years that, uh, yeah, she doesn't need an extra patient. Oh. Right. Right. Yeah. So with that being said, I wanted to, uh, get a little more detail. So, are, are there any home visits
+Nurse: Under this? No, no, no. So all it is, is just a phone call just to, you know, touch base with you. And I do see you have that secondary insurance. Right. That envision insurance.
+Patient: Um, that's been changed. I believe we, that's, envision is, uh, yeah, yeah, they make changes and so sometimes the changes aren't our favorite and I believe the supplemental, um, the, the new party is called Miko LUM IC O and uh, they're out of [PHI-Geographic] and they, they have a toll free 800 number. If you want it, I'll give it to you or you can go online code [PHI-Personal]
+Nurse: Com [PHI-Personal] com. Ok. I can do that even let me just put that in your account just so I have it. So it's updated. There we go. Ok.
+Patient: Should be updated now because I've been using it since the beginning of the year. So. Oh, good.
+Nurse: Ok. Yep. Oh, yeah, I have a, I have a copy of it. Yep. In your insurance here. They took it already for you. Ok. Um, what I can do if you'd like, I can mail you the information and you could think about it or you could even go over with your wife, you know, to, to double check, you know, to see if this is something that you may be interested in. And then, um, go ahead and at the bottom there'll be a phone number for a nurse and if you ever need her, you can always call her yourself. I, I, instead of having her give you a call. That's, that's completely up to you.
+Patient: So, so there's somebody 24 7 on that.
+Nurse: So she's not 24 7. She's 8 to 4 30 Monday through Friday. But you can always leave a message for her and she should, you know, should be checking your messages. Of course. Um, you know, she,
+Patient: If she does the routine calls, uh, does she, do you know what is it that a weekly call is a month? Oh, no,
+Nurse: No. So you can choose whether you want it to be a monthly call. You could choose every couple of months. You could even have it just as once a year if you wanted to. It's completely up to you of how often you would like her to call you to check in with you to, you know, to update doc that's, that's all up to what you would like.
+Patient: Ok. Um, well, I'll tell you, you've given me enough information I can work with that. I'll go back, talk to my wife and see if, uh, that's, uh, something that, uh, so like I said, family practice. So. Oh, ok.
+Nurse: Good, good. Um, I can always, like I said, I can mail you the information just so you have it on hand and then the direct phone number for the nurse. So if you have any other questions or anything, you can call her specifically the nurse that'll be calling you and then you can even decide from that point too if you would like her to keep calling you or not. So you can ask her, you know, if you have any other questions or even concerns
+Patient: Is, well, before you mail anything, stamps and paper, is there anything online that, uh, family practices up regarding?
+Nurse: Not yet they were working on it? I believe there is that's coming up, that'll be coming up soon. Um, you know, unfortunately we don't have anything as of right yet. Um, uh, I mean, online, of course they talk about care management in general. If you Google care management, just, you know how a nurse can kind of touch base with you, uh, via the phone and, you know, to check in with you, but unfortunately not on the website just yet. I think they're, they're still in the process, they're still new with it. So,
+Patient: Ok. Where am I calling to? Where are you at? Downtown [PHI-Geographic] or?
+Nurse: So, I'm actually, yeah, so I'm more, more up in the Scranton area. Um, but the nurse that, um, is going to, I believe it's gonna be [PHI-Personal] or [PHI-Personal], I think, or April. April maybe she's new too. Um, and all of them are in the area as well, but they are virtually that they could talk directly over to doc whenever you need them. So they have this, uh, in between their computer to where they could send messages right over to them.
+Patient: I'm doing a little probing here through you trying to understand. That's ok. Like the job and so on. Uh, is this something that all of you do from home?
+Nurse: So, most of us do now? Yeah. But with COVID, unfortunately everybody, um, had to go start going back home because being in the office office there's too many people and with, you know, I know that they don't have, um, the, the six ft in between each other anymore. But we were, there's too many people in one little area. So they all, they sent up most of us home and do the exact same thing that we were doing in the office, but from home.
+Patient: Yeah, that's why
+Nurse: We're doing that right now.
+Patient: All of that. Yeah. I used to do hospice for, uh, hospital and the, uh, same thing happened as a volunteer. Uh, they were concerned so they shut down the volunteer services years, the beginning of this and only opened it up recently. But it's just like you said, very select. It
+Nurse: Is. Yeah. Yeah. The, the main people, you know, the Docs main nurse is there. Of course, there's usually one receptionist there, um, you know, it to, to help out. But otherwise most of us are from home now and that's most healthcare places. Everybody's, you know, if they can, they have you be at home instead of in the back office. They'd rather it now, you know, unfortunately with this COVID they're out of fear. You never know. You know, if it's gonna wave back up, you know,
+Patient: That's for sure. I just, yeah, this, but it's like the old flu. Ok, it's gonna be
+Nurse: Around, it's gonna be here. Yeah. Unfortunately. And we're just gonna have to get those shots
+Patient: And go from there. An annual thing. Who
+Nurse: Knows? I wonder, I really do. I wonder if it's going to be like, oh, get your flu shot, get your COVID shot and out the door. You go. I wonder if that's how it's going to be, you know?
+Patient: Yeah. Yeah, we'll see how it is. Give it, you know, a few more years to sort of unravel here. I think so
+Nurse: Then. Yeah. Well, I'll mail you that information. So you have it and like I said,
+Patient: No, that's ok. You don't, you don't email it. I'll just talk to the misses her name and, uh, we'll see, um, what she thinks about this and so on and so forth then.
+Nurse: Ok. Do you want me to give you the, the nurse's direct number at least? So you have it,
+Patient: Well, that much I can do and I'll put it in my phone. Go
+Nurse: Ahead. Yeah. So her direct number is 57, O2, 443257. Ok. Ok.
+Patient: And then we'll go
+Nurse: From there. Ok. All right. Well, I thank you for giving us a call. I appreciate everything.
+Patient: Ok. You have a good day. God bless you
+Nurse: Too. And have a wonderful day. Bye bye.

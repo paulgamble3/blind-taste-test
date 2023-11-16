@@ -1,0 +1,21 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yeah, my name is [PHI-Personal]. I just was looking at the letter they sent home that to talk with you.
+Nurse: Yes, I'm gonna pull you up right now. Yeah.
+Patient: 61 were bri six. Were we [PHI-Personal] of [PHI-Personal]?
+Nurse: Yeah, I'm pulling you up now. Ok. So the reason for my call was the doctor, doctor is providing new care management programs. And what that is is the nurse would give you a call to see how you're doing. She could address any issues or answer any questions. She could help refill prescriptions and also help with appointments, lab work, things like that. The program, it helps keep the doctors updated and avoids emergency room visits and all the calls a nurse makes are documented and sent to the doctor for review and they are treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers and they're also subject to deductibles and coinsurance. So I have here you have health partners, Medicare and up MC. Is that still correct? Yes. Correct. Ok. So as long as you're ok with it, I could set you up and have a nurse call. You within two weeks. And then I could also send some letters out and they'll have all the information on it. Plus a phone number to call in to the nurse if you need to.
+Patient: Yeah, I could give you my cell phone in case that when they call here in my house. I don't know who is calling. So sometimes I don't even pick the telephone but if I got the, the name of the person calling I get the telephone. You know, because everybody calling for money, I have no, I don't have no money.
+Nurse: Yeah, I hear you.
+Patient: Yeah, I had a big pain right, like on my left shoulder for a couple of days already. That's what I got. But I don't have money.
+Nurse: I hear you
+Patient: Pain. Nobody wants my pain. Let me
+Nurse: Know. Exactly. You can have it. Go ahead. I'll write the number down.
+Patient: Um, it, no, I have to get my telephone. It's [PHI-Account]. And I think, is that correct number? Because I can just remember numbers. So I keep thinking first, I,
+Nurse: I know no one knows any numbers anymore. Mhm. Well, if you're ok with it, I'll set you up and let me just make sure you're still at [PHI-Geographic] and that's [PHI-Geographic].
+Patient: And ok, if they can reach me on that number, so you call me back on my house. Ok.
+Nurse: Exactly. I'll put both of them in there for just in case.
+Patient: Yeah. What happen is my mom is really sick and sometimes I go from here even with, go, go check on my mom. I'm staying there for overnight. Yeah. And my older sister, so she's home pretty sick. Oh.
+Nurse: Oh, I
+Patient: Think she's on her final day.
+Nurse: Oh, sorry. She's really
+Patient: Bad. Uh, diabetes, heart problem. Oh, she got everything. So, [PHI-Personal] years,
+Nurse: That's a long time. God bless her. Um, all right, Rosa. Well, thanks for calling back. I'll send you out some information and then just expect a call within two weeks from a nurse. Ok. Ok. All right. Thank you. All right. You too. Bye bye bye.

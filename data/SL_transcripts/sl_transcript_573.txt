@@ -1,0 +1,46 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Yes. How you [PHI-Personal]? This is [PHI-Personal]. You had called and left me a message for me last week. Did
+Nurse: I? Ok, give me one second to open your chart. Thank you for returning my call. No problem. Let's see here.
+Patient: I guess you have several numbers because I have a number program for your name, but your name didn't come up. So you must use one of the other lines.
+Nurse: No, it didn't come up. I don't know why. That's weird. That's very strange. All right. Let's see. Can I put you on hold for one second? Is that ok? Sure. Ok. Thank you. Ok. Oh, hello? Can you hear me my dear? Oh, yeah. Ok. So, yes, I was just calling to check up on you. Um, we last spoke the end of the month, last month. So, have you seen any other providers since then?
+Patient: Just my chiropractor? I see my chiropractor once a month. Yeah.
+Nurse: Ok. Let's see. And have you had any recent blood work or changes to your medications at all? Either?
+Patient: No other than, uh, I have heard from my Optum Rx. The, uh, mail order. Mhm. Uh, prescription and they said they had been sending in request for the doctor to renew some prescription, but they hadn't heard back. Nothing. So, hm.
+Nurse: Which prescription do you remember?
+Patient: Well, I, I have several of them that are on automatic ref uh, refill and mo, and most of them he writes at the same time because it's usually when he sees him. So, um, I would say pretty much all of them are getting ready to be renewed. No, I, I know, I know sometimes in the past they have tried to get them refilled early and does not do that. So he does not write it until it's time. So I don't know if that's the situation they're having now, uh, if, if that's a way you could check into that. They, they, they've contacted me two or three times and said they had, uh, submitted them back, not heard nothing back. So,
+Nurse: Uh, it'd be easier if I knew which medication cause you do get a few from doctor [PHI-Personal]. So I wouldn't be able to narrow it down unless I knew, knew which medication they were referring to. Do. Do you have a, let the letter nearby that you can take a look at?
+Patient: Well, it's, it's all the ones that are prescribed. He prescribes all my medication. You
+Nurse: Mean you mean all of the medications from? Not just, yes,
+Patient: As, as far as I know he renews them all at the same time, usually after I've been in for a visit and he'll, he'll write them all so that I'm assuming that they're all probably ready to be refilled
+Nurse: Renewed, right? Ok. So let me, I'm gonna send a message about that one. So, medication renewal and sent you a letter. Is that correct?
+Patient: That? Well, they send me a, a message, a message, I mean, yeah, sometimes it's a voice message. Sometimes it's a phone message.
+Nurse: Ok. So do they need a new prescription? Is that what it is?
+Patient: I, I think it's probably getting time that there because he writes it for 90 days at a time and usually nothing over a year. So you told me before, it's been almost a year since I had been
+Nurse: In? Yes, that's correct. That was, yeah, [PHI-Personal] actually,
+Patient: I think I did. I talk to is work with
+Nurse: You. Yes, I
+Patient: Be, I believe I have talked with her a couple of times and she has got me an appointment set up for, uh, [PHI-Personal]. Mhm.
+Nurse: That's correct.
+Patient: And I, the only thing I need to know is if I come in, need to come in and do blood work ahead of time,
+Nurse: Let me double check for you, my dear. Most likely.
+Patient: Ok. That's usually what you want to know is, is what my blood levels are.
+Nurse: Yeah, I'm gonna follow up. I don't see any new orders. So I'm gonna follow up about the blood work because that would have to be done at least a week or two before your appointment. So, let me get that, that'll be
+Patient: Coming up soon. So, we're almost in October.
+Nurse: Right. So I will follow up about that and then let you know. But in the meantime, how have we been doing with our BP as well? Have you been able to check your BP at all? My dear, I, I check
+Patient: It every week and it seems to me like it's a little slightly elevated, maybe like in the one thirties over the high eighties. I don't know if that's considered high or not, but, uh, it's, it's a little higher than it has been. It gets up into the 1 40. So,
+Nurse: Ok, so sometimes it,
+Patient: I take it a little bit. Yeah. And I take it the same time every week. I take it on Sunday morning. I weigh myself and take my BP about 7 30 in the morning.
+Nurse: Well, good. You have a good schedule. So we do the blood pressures in the morning and Sundays. And you also weigh yourself. Um, now, are you checking your BP before you take your medication or do you take the med and then check the BP?
+Patient: Uh, that I'm not sure of, I would say probably, I probably take the BP first before I take the
+Nurse: Meds. Very good. That's what we wanna do. Um,
+Patient: Let's see if, if that's the way I need to do it. That's what I'll do from now on. Yes,
+Nurse: Please check the BP first. Just so we have a baseline of where you're at. Sometimes, you know, our BP fluctuates throughout the day. So it could be lower in the morning and then we take the BP medication and God forbid it drops too low. We don't want that. So we always wanna get a number before and then we check the BP, um, those readings that you have when you check it weekly. Can you bring it to your appointment with um, doctor? So he can kind of have an idea of what to do in terms of, you know, tweaking your medication if he sees it necessary right now. The, the one thirties over eighties, that's ok. It's not extremely elevated, you're not in any danger. But I do wanna, you know, let doctor [PHI-Personal] know at your next appointment that these are where your numbers are at in case he does wanna play around with your medication. Ok. Um, sounds good. I am going to send a message to doctor [PHI-Personal] about the refills and see what the discrepancy is. Do you have enough medications right now? In the meantime?
+Patient: Yes, I just uh, I just opened the, the 90 day supply, so I'm still good for, you know, until I see him anyway.
+Nurse: Right? Ok, perfect. And then, um, I will let you know about the appointment for the blood work So do you have any days that don't work for you? In terms of
+Patient: Thursday, Thursday don't work? Yeah. Ok. Other than that I'm retired. It just, I just about making anything other than that. Ok. Do
+Nurse: You prefer mornings or afternoons?
+Patient: Mornings? Especially because I have to fast. Yeah. Ok, because they're checking cholesterol and all that too. So all that
+Nurse: Good stuff. Ok. Sounds good. [PHI-Personal]. So I will probably give you a call back later on today. If not, can I leave you a message on your voicemail? Is that ok? Ok, honey, beautiful text
+Patient: Message or voice message. Either one.
+Nurse: Ok, sounds good. Ok, take care of yourself and be safe. Sure will.
+Patient: Thank you. You're welcome. Bye bye bye bye.

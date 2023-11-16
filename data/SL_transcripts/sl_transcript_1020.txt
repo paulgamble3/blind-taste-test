@@ -1,0 +1,16 @@
+Nurse: Hi, this is [PHI-Personal] Jo. Yeah. Hi. Uh you just call me? I had a missed call from the number. Yes. Is this Aurora?
+Patient: Yes, it is. Hi, Aurora. Um, so I was actually my name is [PHI-Personal] Jo. Um and I'm calling with [PHI-Personal] on behalf of Doctor [PHI-Personal] office. Mhm. So this is a recorded line and I'm just reaching out to talk to you about a care management program. Doctor is providing. So ba basically what that is is it would be a call from one of our dedicated nurses where she would call and check in on you in between your office visits. She can also answer any questions or concerns you might have assist with medications, even explaining lab results, um, prescription cost reduction. So pretty much anything pertaining to your health, she's just an added resource for you and it also helps keep doctor [PHI-Personal] a little bit more updated with your current conditions and any changes that might be happening.
+Nurse: You know, we don't like to say that they get busy but they do get busy. Yeah, I know.
+Patient: Um now the chronic care management, it is billable to your insurance. So [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. So it's subject to deductibles and copays, even coinsurance.
+Nurse: I do see that you
+Patient: Usually have a $0 copay though. Is that correct?
+Nurse: Yeah. Right. Excellent. That's what we like to
+Patient: Hear. Um, now your nurse, she can reach out to you either on a monthly basis or every couple of months, you know, just depending on what your need might be and how often you'd like to call. Um, I'm also gonna be sending you out a letter with all of your nurses contact information so you can feel free to reach out to her any time if you have any questions or even if you just need to schedule an appointment, that's what she's there
+Nurse: For. Oh, I see.
+Patient: Ok. Ok. Are you still at [PHI-Geographic],
+Nurse: Correct?
+Patient: Beautiful. All right. And I'm gonna get this letter out to you today and you should probably have it in about a day or two. And then your nurse is gonna reach out to you in about a week just to introduce yourself. Say hi and get to know you a little better.
+Nurse: All right then. Thank you for, oh,
+Patient: Any time and you enjoy the rest of your day. Aurora.
+Nurse: Same to you. Thank you.
+Patient: Bye bye bye bye.

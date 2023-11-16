@@ -1,0 +1,31 @@
+Nurse: Good morning. This is [PHI-Personal]. Hi [PHI-Personal], this is [PHI-Personal]. Um, hi, good morning. Hi. I like to get to the right one. Probably not. Can you give me your full name please? But give me one second. Let me see who gave you a call? [PHI-Personal]? Did you just speak to [PHI-Personal]? [PHI-Personal]? Yes. Ok, give me one second. Let me see if I can get you back over to her. Ok. Alright, thank you. You're welcome. Ok, I'm gonna transfer you now. All right, thanks. You're welcome. Ok. Ok. Is at any point?
+Patient: Hey, [PHI-Personal], how can I help you?
+Nurse: Hi, I forgot to tell you one of the symptoms that it just started. Uh it happened over the weekend and I completely forgot about it and I just found another one. I keep getting these lumps under my skin. Hm. They go away like I don't even know how long the one on the arm was there. I noticed it when I got home on Sunday and then I forgot about it. Um and just now I'm sitting Indian style and uh I have one popped up on my um on my leg.
+Patient: Hm. Is it around the
+Nurse: Bruises. Uh, I thought so, but they're quite a ways, you know, we're talking inches away. So.
+Patient: Hm. Ok. Yeah,
+Nurse: That's why I didn't notice it. Yeah,
+Patient: I'm gonna leave a message with [PHI-Personal]. I'm thinking that he's gonna want to see you dear because, um, you know, this is out of the ordinary for you and the more I was thinking about it I did send a message to doctor back, but since Chris [PHI-Personal] is the one that prescribes your Plavix, they're probably gonna want him to make the call as to how they're going to, you know, manage your blood thinner because before the, er, c if it's, er, CP or if it's something else, I know you said that um, they're supposed to do like a stent removal and, and you think that they're doing, um, some other procedures which I'm trying to ask them to clarify too. Um, he's most likely gonna be the one that needs to make the call about when to stop and how to stop and when to restart your Plavix since he's the one ordering it. Um, so I will, I'm gonna still send him a message and let him know what I've done this far. And then I'll also mention the lumps to him. Are they painful when you, like, touch them?
+Nurse: Uh, not really, I mean, uh, tender, but not painful, tender, but like I said, I didn't even know that one was there. I don't know how long it's been there. Yeah. Um, it
+Patient: Sounds like, you know, because sometimes trapped blood, like when you have hematoma or when you're bleeding you can get those bumps because the blood starts to pool under your skin. Um, but, you know, I know you said that they're kind of far away from a bruise, but you've been getting so many bruises, it could be like an old healing bruise, right. You know, I'm, I'm not sure, you know, it's hard to say without looking at it. Um, how many
+Nurse: Would say really weird. I only have one right now that I just, I just noticed this one, um, after we got off the phone, um, I didn't notice it yesterday when I was in the shower. I have the
+Patient: One on the arm, right?
+Nurse: The one on the arm went away. But that was the first one I noticed,
+Patient: Ok, the one in the arm. Now I
+Nurse: Was carrying stuff that, you know, I helped my daughter move. So I was carrying stuff, you know, on my arm. So that could have been, you know, I don't know why, but it did, it was like, it just popped up. I was like, I couldn't believe it. I was like, where the hell is that come from? Um, because it wasn't, it wasn't bruise or anything. It was just a bump.
+Patient: Yeah, I agree. Yeah, I think, you know, we're gonna probably need someone to take a look. At it. Um. Ok. Yeah, I think, you know, we're gonna probably just need someone to take a look at just to give us some direction. Let me see. Is he, I think he is here this week because before um, someone was covering for him, I think he was out of the office for a little bit. Um, let me just double check, see that he's here.
+Nurse: Now, what happens if it goes away before my appointment?
+Patient: Well, that's the thing I would like for him to look at it before then. Yeah,
+Nurse: And I don't know how long they stay. Yeah. You know, like I said, I don't know how long it i they stay, it kind of maybe looks for a little
+Patient: Bit. Got you. Yeah, because he does have like a 3 30 that's open on the [PHI-Personal]. Do you want me to put you there for just now and then leave him a message?
+Nurse: Uh Sure. That's fine. You know, and if it goes away I just cancel. Yeah, we'll cancel if I don't have another one. Yeah. Why don't we do
+Patient: That? Do you want that to be a telehealth on the [PHI-Personal]? Is that what you
+Nurse: Wanted? Uh That's fine with me
+Patient: Because I think he can have you come in or you can do the telehealth. Which one do you want? Well, I always
+Nurse: Prefer telehealth.
+Patient: Ok. So did, is he able to see you on camera when you do that or is it over the phone?
+Nurse: Normally? Normally he can,
+Patient: Ok. I just wanna make sure he can take a look at the spots. Um,
+Nurse: Let's see. I mean, I don't think you could, you could really see them. Like, I think just a matter of, yeah, like I said, I didn't know it was there. So, after you get off the phone, I don't know how long it's been there.
+Patient: Got you. Ok. Yeah, I'll put you on for, um, Thursday, June [PHI-Personal] at 3 30. Ok, dear. That's a tele health visit. Right? And then I'll send him a message and I'll let you know what he says too if he has any other instructions. Ok. All right. All right, my dear. We'll go from there. Thank you for calling back.
+Nurse: Yeah. Thank you. Bye bye bye. Right.

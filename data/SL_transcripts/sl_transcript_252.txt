@@ -1,0 +1,8 @@
+Nurse: This is re May I help you?
+Patient: Yeah, this is [PHI-Personal] again and I've been, I think I missed two calls from, from out there from somebody. Yeah, it
+Nurse: Was, it was their nurse. Yeah, they, because I, I messaged [PHI-Personal] and she said, well, we've been trying to call her and we left messages so she wouldn't give me any more information. I think she's, they're wanting you to call their office.
+Patient: Well, I've been trying, I can be me, uh, because they just give me the [PHI-Account] number and it, you know, you're on the recording or? Mhm. I have no idea.
+Nurse: Ok. I'm gonna, um, message her back and say that you have tried calling back several times and if you could just give me some clarification, the patient
+Patient: Would have, well, have her call [PHI-Account] here, you know, [PHI-Account] instead of the house
+Nurse: Phone. Ok, I'll have her do that.
+Patient: Ok. I'll go sit on the porch with this thing in my hand. Ok, bye. Ok, bye.

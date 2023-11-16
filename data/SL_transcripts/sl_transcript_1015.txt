@@ -1,0 +1,39 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hello, [PHI-Personal]. This is [PHI-Personal] from,
+Nurse: Hey, how are you doing?
+Patient: I'm doing all right. Hanging in there.
+Nurse: Good. They let me get you pulled up. I was just calling to see how that orthopedic appointment went.
+Patient: Oh, that went, he gave me another, he gave me another [PHI-Personal] months. But, and the lady from work had it changed to six week.
+Nurse: Mhm. Good. Oh, had it changed to six weeks? Yeah.
+Patient: Huh. This is the first time she's done that.
+Nurse: That's weird. The, the person at your employment did that.
+Patient: Yeah. A person working for the workman's comp, people, people, people that work for, for clerk
+Nurse: And they changed it to
+Patient: And she had, yes, they changed it.
+Nurse: I didn't think they could do that if the doctor said
+Patient: They do anything they want to.
+Nurse: Oh, gosh, my husband, uh, broke his hand and had to file worker's comp, and that was the biggest nightmare that ever was.
+Patient: I mean, so they don't wanna spend their money trying to rush you back.
+Nurse: Yep. Well, and what they don't understand is if they rush you back and you hurt that hand again. You can sue them. Yeah. Yeah, it just says light duty clerical. Continue with physical therapy. And then your appointment is in [PHI-Personal] months. She,
+Patient: It's, it's the, it's June, uh, June 15th. Mhm. So, uh, what's going on with that? I'm still having trouble walking very far. But I got a lot of, uh, scar tissue build up back there. Mhm. And in therapy they're trying to break through the scar tissue and it's, it's loosening up, step by step, but it's slow.
+Nurse: Mhm. Yeah. Yeah, it takes time, especially with such a large area, like a big muscle like that and a big break. You know, it, it, it definitely takes more time. What kind of exercises do they have you doing?
+Patient: Well, I went, I started going to the gym too. Mhm. I do that. I do my, do my, I do my gym stuff. I haven't been there for a couple of days because, uh, over I over did it.
+Nurse: Mhm. That'll happen, huh?
+Patient: So, I over did it. Uh, they have me doing it. They have, they doing massage, straight changing joints, pulling on a joint massage in that section with it where it is. Uh huh. And yesterday yesterday we went, me and Ray went out, we went out Magnet Vision. Mhm. But I can't walk on that, uh, if it's not level ground, I can't walk on it right now.
+Nurse: Because, yeah, because it, you,
+Patient: Right, so that, that's, that's about it.
+Nurse: Yeah. Are, are you taking the Tylenol and doing that?
+Patient: Yeah, I'm taking the Tylenol stopped taking the depression stuff. I, my depression comes and goes now.
+Nurse: Yeah. Yeah. And especially when you're down and out too, you know, that kinda makes things a little worse, you know. So, does the oxyCODONE help at all?
+Patient: I don't have any oxyCODONE.
+Nurse: Oh, let me see here.
+Patient: They never gave me any anymore. They said I was it too far? Heal? Ohh.
+Nurse: Hm. Well, I mean, if it's hurt,
+Patient: I just take, I just take the aspirin and stuff.
+Nurse: Ok. Ok. Well, if that gets to be where it's not enough, you know, just let me know and I can reach out to him and you have an appointment Friday with doctor, right? Ok. At 10 45. Um, do you have any questions for me or anything you need me to do for you?
+Patient: No, not at all.
+Nurse: Ok. When we figure out a way to beat the workers comp we'll, we'll team up.
+Patient: Well, I gotta figure out to get him out of my hair. Yep, because she did this to me last time. Uh huh. She's the one that got the doctor to do the, uh, if I to do light work and stuff. She, she got that change the right way around. Uh huh. But I doctor said too much. She goes. No, no, no, you can't have that. We, they won't do that. So, I, they got another six week. What's gonna cost them in the long run?
+Nurse: Uh huh. Yeah. Yep it sure is. Well honey if you need anything you just give me a call. Ok and we'll take care of it
+Patient: I certainly will thank you very much. Alright.
+Nurse: You're very welcome. Have a good day. You too bye bye bye.

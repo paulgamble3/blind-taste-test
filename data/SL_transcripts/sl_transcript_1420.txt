@@ -1,0 +1,47 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager. Hi,
+Patient: [PHI-Personal], this is [PHI-Personal]. How you doing? Good. How are you? What's going on? 00 sore. Uh I guess I gotta go. They scheduled MRI for the 28th on my neck and stuff back. See what they might have to do to it. Ok? And they still have it filled my liquid for my nebulizer. Still been waiting almost. Yeah. And they need another script for my gabapentin. It's like you guys are crazy. I got enough going on.
+Nurse: All right. Let me take care of that. Hold
+Patient: On. Yeah, they're crazy down there. I mean, I still got two refills on it. You told me to call you, I let you yell at him. You yell at him. I'm tired of yelling at him. I've been out of the stuff for my nebulizer. Start
+Nurse: With the meds. Ok? You said it was the gabapentin?
+Patient: Yeah, I said just see if you can get a refill. It's like really you guys supposed to be on top of this
+Nurse: Crap? It said it was refilled two days ago.
+Patient: See I went down three days ago and they said I had to call for a script. Yeah. So it
+Nurse: Should be ready by now. It should, there should be no problems. But if you not, because you never know, let
+Patient: Me, let
+Nurse: Me, let me know about that. And then the other one was the, uh
+Patient: For the nebulizer. Right. Yeah, I've been waiting on that, I think since the fifth or something like that. I don't know. All I know they said something, they're waiting on something like really?
+Nurse: All right. So I'm gonna put the request in for that at
+Patient: Least. Ok. Other than that I'm still alive.
+Nurse: Well, hopefully, I mean I'm talking to someone. I don't
+Patient: Know. Yeah, you're you're talking to me it's not me. No, me here.
+Nurse: All right. So that requested then. Alright and then you mentioned the MRI.
+Patient: Yeah they I had Lester the other day in Buffalo and he said my fusions look good. They didn't them? Oh with the surgeon,
+Nurse: Right?
+Patient: Yeah. Yeah. Ok with my log whatever and he needs MRI S done in Buffalo for my neck and just to check, make sure everything's really good in inside me. Make sure my robotic parts are good. Yeah. Uh now they're ready to call you to schedule, it's already scheduled. They called me yesterday. I gotta go to 28 the day after Thanksgiving the day before my birthday. Keys. Give me a break
+Nurse: That I'm sorry
+Patient: That's hey, get her done.
+Nurse: I haven't heard that in a while. I
+Patient: Know. Great. Well, happy early
+Nurse: Birthday because I might not talk to you before then.
+Patient: Well, thank you. But you never know. I might have to call you after the MRI and doctor. That's
+Nurse: Very true. Yeah. You have a plan
+Patient: For your birthday? No, I never do the kids and grandkids, they usually come over and buy me bill stuff and that's about
+Nurse: It with family. That's a good. Oh, always.
+Patient: Yeah, I got a ton of them so they're driving me nuts. But that's all right.
+Nurse: That's what families do. That's what they're for.
+Patient: Yes, they do. I know my sister in law. She come up Tuesday, took my wife down to her house in [PHI-Geographic] so we can come up Tuesday and gave us uh, another Jeep gave it to me.
+Nurse: I remember you telling me about that.
+Patient: Yeah. Yeah, we got it. It's beautiful. It's beautiful. Yeah, so sweet. So, I ain't gotta worry about a vehicle
+Nurse: Right now. What did the surgeon say about cognition? Neuro? What about all that? That looks good too.
+Patient: Yeah. He said everything basically looks pretty good but he's worried about the neck because I still got on and off headaches and even today they're still there.
+Nurse: Yeah, they wanna make sure circulation is still fine.
+Patient: Uh Yeah, and he's gonna check the nerves to my toes because they still don't wanna bend straight out sometimes. And doctor [PHI-Personal] said that's probably a neurological, whatever that word is. Um, So he's gonna check on that too. OK, good. So I'm just trying to keep put together here. They gotta quit tearing me apart. Not Lordy.
+Nurse: Lordy. I know always an adventure. What did, did the pharmacy say what they were waiting for, for the nebulizer? Because I remember we went through hell last time for this.
+Patient: No, but I have a feeling the same damn thing because it's still dragging on.
+Nurse: Yeah. All right. So I'll follow up with that if if I don't hear anything by the end of the day, I'll follow up first thing Monday and and make sure that something's going through.
+Patient: Yeah that's fine. I just wanted to touch with you now because I gotta have my wife out in the field for her exam from the accident so we gotta be out there this afternoon but so I say I better call my nurse and let her know where it is a pain in the butt again. No,
+Nurse: I enjoy yelling at people so give me something I know
+Patient: You do but you ain't even yelling at me. That's good.
+Nurse: Never I would never. Ok. Well,
+Patient: Alright and if I don't talk to you have a good Thanksgiving. You too. Ok honey bye
+Nurse: Bye.

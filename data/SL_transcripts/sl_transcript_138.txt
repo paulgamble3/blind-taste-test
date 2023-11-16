@@ -1,0 +1,12 @@
+Nurse: Care management. This is Natalie.
+Patient: Um, yes, my name is [PHI-Personal]. I got a message from this number that you were trying to contact me, uh, for some benefit that [PHI-Personal] used his office in town is offering or.
+Nurse: Sure. Yes, it looks like I gave you a call. Uh, let me just see if she's available. Ok, one moment.
+Patient: Ok, thanks frankly. Just free.
+Nurse: Sure. Hello, [PHI-Personal]. Yes. Hi. It looks like she's on the other line. Can I have her give you a call back?
+Patient: Ok. Um, I was up most of the night because my sister was in the hospital. Um, you can she call me back this afternoon? Oh, absolutely. Right. I took some, uh, medicine hoping to try to take a nap here. That's why I was trying to get a hold of her. I just understand if she call me back, um, in the afternoon. Um, I'll be home. Ok.
+Nurse: Absolutely. And, and is either number? Ok, the home home line or your cell?
+Patient: Yeah, my home line. Uh, yeah. What it, [PHI-Account]. Yeah, I don't have service on my cell inside the house, so. Ok.
+Nurse: Ok. Yep, I will definitely give her that message.
+Patient: Ok. All
+Nurse: Right. Ok. You bet, have a good one. You
+Patient: Too. Bye bye bye bye.

@@ -1,0 +1,41 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, yeah, this is [PHI-Personal] returning your call.
+Nurse: Oh, hello. Give me one second to get you pulled back up here. Yeah. All righty. Let's see. How you doing today?
+Patient: Not too bad. That
+Nurse: Right. Could be better. Could be worse. Mhm. All right. Let's see. Ok. Um, how is the, um, Alendronate or the Fosamax going for you? You started that the last time we talked.
+Patient: Um, I think it's doing pretty good.
+Nurse: Ok. No, no side effects. Really?
+Patient: No, I can't, I don't notice any. No.
+Nurse: Perfect. Perfect. Ok. Awesome. Um, all right. And then how, um, do you monitor your blood pressures at home or, or? No, I don't remember.
+Patient: Yes, I do. It's been pretty good.
+Nurse: Ok. Awesome.
+Patient: Not right. Just right on. Practically.
+Nurse: Perfect. Ok. Did you take it this morning?
+Patient: Uh, yeah, I took it some time today. Ok. Uh, 1 33. Over 56.
+Nurse: Oh, perfect. Ok. Awesome. Um, and then let's see. Do you get any exercise throughout the day?
+Patient: Uh, yeah, I'm up and down, you know, doing things around the house and.
+Nurse: Yep. Yep. Ok.
+Patient: One, yeah, I can't sit on my butt right.
+Nurse: Perfect
+Patient: Whatever nervous activity, I guess.
+Nurse: Uh. Right. Right. Yes. Yes. Um, you know, that just that benefits you, it, it helps lower your BP. Um, it helps you kind of maintain your weight and lower cholesterol things like that. Um, you know, they want you to, to aim for about 30 minutes every day or every other day of activity. Um, you know, whether that's climbing stairs, walking, um, definitely cleaning, you know, yard work, things like that. Um, can all, can all help and contribute.
+Patient: Ok, that happens. So bye. The only thing I have a problem with I seem to get, uh, very testy angry quick. Um, I'm seeing my therapist and he is treating me for anger management. But, oh, ok. And I mean, I, this time of the year, of course, depression, you know. Right.
+Nurse: Right. Of course, of course. Um, mm, let's see. So he kind of helps you. Is it a she or he, he, he, so, yeah, he kind of helps you, um, identify the triggers. Um, does he, you know, help with the coping skills and relax and rela techniques, things like that?
+Patient: He's very good. Yes.
+Nurse: Awesome. Ok. Good, good. Um, how long have you been going to him for that? Uh,
+Patient: Since last I'm gonna say [PHI-Personal], I think. Oh,
+Nurse: Ok. Ok. Got you. All right. Um, well, that's good that, you know, that you, you feel some, you know, relief, I guess is, isn't really the word I'm looking for, but I can't think of it right now when you go and talk to him, um kind of helps you open up and, and get you some different coping, you know, mechanisms and things like that. Um But uh you know, that's, that's good. And um let's see, do you need any refills of anything? Right now?
+Patient: I will soon on, let me see what it is here. LORazepam. I will see about four pills and I take one at least every night and then when I feel real uptight or something, I might take one
+Nurse: But. Ok. Right. Right. Ok. Um Well, I can go ahead and request that to get refilled for you. Um and you know, they'll fill it when it's due. If it's already due, then they'll get it filled and it should be ready, you know, probably sometime tomorrow I would guess. Um All right, you, you usually call, is that what you said?
+Patient: They usually call when uh
+Nurse: Got you? Oh, ok. Perfect. Perfect. Um All right. Well, yeah, I'll send that over then to doctor [PHI-Personal] office so that way we can get that refilled for you. Um And then it looks like you don't see him again until [PHI-Personal]. Um Right. Right. So, you know, if you need anything before that you can always give me a call. Um You know, I'm always here. Uh let's see, what time am I here until uh 5 30? So 8 to 5 30 most days. Um you know you can leave me a voicemail if you need something throughout the night or early in the morning and I'll give you a call back. Ok. Ok, sounds good. All right, perfect. I will touch base with you again um you know, beginning of next month and uh we'll we'll see how things are going at that point.
+Patient: Ok, let me check something because I wanna make sure uh LORazepam. How many do they? Oh, they give me six because um I'm going on a a trip in early February and I'm going on a plane which I don't like I said something and he said we'll just double up on your LORazepam. So I wanna make sure I have that, you know, for them because I'm going to [PHI-Personal].
+Nurse: So. Oh ok. Yeah if if needed when I talk to you in um in January, if needed, we can refill it again um because he gives you enough to take 33 a day every day. Um So if you run out or if you're getting low after a month of this next refill, then you know they can always refill it again. That way you'll have you know, a fresh bottle um on hand to take with you.
+Patient: Ok, sounds good.
+Nurse: Ok. Yeah, so we'll we'll touch base on that next month um and we can get you a fresh bottle to take.
+Patient: Ok, sounds really good. Ok.
+Nurse: All right, perfect. All right. Well if you need me, you call me um if not I will touch base with you next month.
+Patient: All right, sounds good.
+Nurse: Ok, perfect. [PHI-Personal] happy holidays and um you know like I said just let me know if you need
+Patient: Me. Ok. Will do
+Nurse: Alrighty bye bye bye.

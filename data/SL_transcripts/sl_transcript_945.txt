@@ -1,0 +1,73 @@
+Nurse: Hello, this is one of the nurse, case managers here at Doctor [PHI-Personal] [PHI-Geographic]. How may I help you?
+Patient: Is good. Trying to return your call. I was
+Nurse: Just about to call you again. I figured we were playing phone tag here.
+Patient: Yeah. What can I do for you?
+Nurse: Well, I wanted to follow up with you and see how you were feeling after everything and see how that predniSONE because I believe you're about to come off of it. Correct.
+Patient: One or two more days of uh, no, I have, I have one, wait a minute. I can't, I got to figure it out. I can't do it right now, but I know all
+Nurse: Right. As long as you know, so I wanted to see how you were feeling after the
+Patient: Same before I, when I stop, it'll come right back again. Ok. It makes no sense to me at all. If it's supposed to be something to control infection. Uh, it seems to me that when the pain stops, you would think that the infection has abated to some extent. But the back again.
+Nurse: Well, the predniSONE helps with the inflammation.
+Patient: Yeah. Well, inflammation that
+Nurse: And um, so you're gonna do the EMG study.
+Patient: Yeah, I have, at this point I can't even think about it because my concentrating on him and I can't, I can't go,
+Nurse: That's completely understandable. What's going on with [PHI-Personal]
+Patient: Just about as bad as it could be. Ok. I'd like you to get a message to doctor because I, a, anybody working over there anymore.
+Nurse: I get a message to him. What do you mean?
+Patient: It's not what I need. I wanted to keep them up to date as to what was happening the last week. And so he had the abdominal ct scan done and it says uh his organs are all ok. And the other thing is the medication that um doctor prescribed is obviously worked because started eating again. Now, not in great big quantities. I mean, he's not uh being a pain but he, he's eating a little bit, which is better than nothing and I just wanted Doctor [PHI-Personal] to know that.
+Nurse: Ok. Um And this is the Mirtazapine,
+Patient: Correct? Whatever you have. Sounds good.
+Nurse: All right. So that was 15 mg once at night and then it looks like we did get the CT report. It looks like Doctor [PHI-Personal] hasn't got a chance to look at it yet. So I'll flag that and let him know that that did come back clear. Um Is he eating more?
+Patient: I mean, is he eating anything because he wasn't eating anything at all? So, yeah, he is. Ok. Big quantities but he's eating and I know. Yeah, I'll,
+Nurse: I'll take what we can get.
+Patient: That's what I've been doing.
+Nurse: Ok. And did they add any other medications here?
+Patient: Mm. No, that's it. He has an appointment at the cancer center tomorrow? Ok. And they feel it because as far as I know we do now because it is all dementia and it's gotten pretty bad. He really, we had sun damage the other night. A real joy. I don't know how I'm going deal with that.
+Nurse: Ok. Yeah. Unfortunately, dementia can really,
+Patient: I know, I know. Been there, done that. Yeah.
+Nurse: Um, sorry, I'm just reviewing this real quick so I can be on the same page with you. So, um, how often are you doing the Hydrea 500 mg? It looks like they decrease it once a day. Ok. Right. Ok. All right. Um All right. And the mirtazapine seems to be helping, um, that medication helps with dementia and he also helps with depression. So hopefully that will
+Patient: Mainly to do something about his appetite and it seems to help. So I can't, I'm not complaining. Ok.
+Nurse: And um, let's see, he came back. Good. I'll flag that for doctor [PHI-Personal]. Has he gained any weight?
+Patient: Are you kidding me? He's down to 100 and 10 lbs. Oh, jeez, I'll
+Nurse: Donate some, hm, I will donate him some weight.
+Patient: I would too. I could, I would,
+Nurse: Um, does he like ice cream
+Patient: Once in a great while. He was never a big ice cream eater. I mean, he eat it once in a while, but it's not like me. I eat it every day. But,
+Nurse: Yeah. Well, so that's generally, if people don't have much of an appetite, I can generally appease them with ice cream and they'll eat it and they do have a protein ice cream. Um, so generally that's what I recommend for him. But if he's not gonna eat ice cream even,
+Patient: He's not gonna eat any of that stuff. It just won't, I'm not fighting with him. I will not do it. I don't want our last days to be a war of them.
+Nurse: No, not worth it. Ok. So get in what you have to get in with him, whatever he says. Um, we can always talk with Doctor [PHI-Personal] about trying to get palliative care on board. If, if he starts having any pain or anything like that, he
+Patient: Hasn't complained of pain at all. I asked him, I don't know how many times says, no, he does not have any pain. I'll tell you one thing. He's losing his voice. He can barely talk and I have more.
+Nurse: Probably the uh, lack of de dehydration. Yeah. Lack of nutrients. It's not looking like it's going a good direction.
+Patient: I know I'm just trying to deal with as best I can.
+Nurse: Yeah. Well, if you, if you're reaching that point where you wanna wanna discuss hospice or palliative care or respite care or anything along those lines, let us know. We can always get that set up and work with Doctor [PHI-Personal] to help support you through that. Um If you're finding you need help in the home, we can always reach out and see if we can get you a referral to a to get some extra assistance in the home so you can enjoy. Um What time you have left?
+Patient: That'd be nice.
+Nurse: Um, so area on agent would go off of your income.
+Patient: I, I don't even know what to put. I don't.
+Nurse: So area aging is a service for [PHI-Personal] and older. Um, and you can give him a call and let him know you need some extra help in the home with [PHI-Personal] and they can send a case worker out and do an evaluation with you and this, all
+Patient: Right back up. This is all for the [PHI-Geographic] of Aing. Yes, ma'am. Ok. I worked there for 20 years. You don't have to tell me. Oh, ok.
+Nurse: Well, you probably know it better than I do.
+Patient: Probably because I was a supervisor. Oh,
+Nurse: Yeah. All right. Well, if you would like some services through the waiver program, reach out to them unfor or you'd have to pay out of pocket, which unfortunately is getting insanely expensive these days.
+Patient: Yeah, I know. Well, I'm doing the best I can. That's all. And I have, you know, I'm just up by you
+Nurse: Yeah. No, I completely understand that. Um, hm. Is he wandering at night at all?
+Patient: He had one but has since I keep him. Ok.
+Nurse: One thing if you do find him wondering what you can do is if there's doors or places that you don't want him going, you can get a black floor mat and a lot of times with dementia patients, they won't cross that black format because their brain doesn't understand it's a format, it's not a hole in the floor. Um So those are used very often in dementia wards to keep people from wandering outside. Um So that's ok. Um Just keep honestly, low stimulation at night will probably be most beneficial for him. Obviously, with the Eliquis, keep him from falling as much as you can, which I know is easier said than done at sometimes. Mhm. So if you need any extra assistance with that, definitely give us a call. Um As far as everything else goes, just really kind of just stay sta status quo right now, try to make sure he's hydrated eating as best you can and um go from there with what he'll let you do if you like soups, I would substitute bone broth for regular broth. It'll give him more nutrients than regular broth would.
+Patient: Yeah. Well, I'm, when I do that I make homemade soups and a half from scratch. Good for
+Nurse: You coming to your house for dinner.
+Patient: It takes me a while and I, I can, I have my own problem.
+Nurse: No, I completely understand that. All right. Well, when you're ready we can help you set up the EMG study. I don't want to
+Patient: Set up, but I can't remember where I have to go look at my calendar and I,
+Nurse: That's fine.
+Patient: Um,
+Nurse: Oh, here it is.
+Patient: I did have,
+Nurse: Yeah, [PHI-Personal] at 12 30.
+Patient: It
+Nurse: Just came up today. Ok.
+Patient: Perfect. I did over a week ago.
+Nurse: Yeah, I didn't see it until today. It just flagged for me. I'm running low. I'm running behind on my system. I apologize.
+Patient: No problem. Ok. I still don't understand why nobody is answering the phone, that doctor [PHI-Geographic]. I
+Nurse: Know they're kind of short staff right now. They're just coming back. I know [PHI-Personal] was gone. Yeah. Well, got married. So she was off for a little bit and it's been um back and forth. But if you need anything you can call me, I can send everything straight over to him.
+Patient: No, that's ok that we need to know. Yeah, for now. If there's any new I'll let you
+Nurse: Know. All right. Well, that sounds good. I will update him and go and flag this result for him. Ok. Ok. All right. Well, I wish you the best we're here if you need us. Ok. Whatever.
+Patient: Yeah, thank
+Nurse: You. You're welcome. Bye bye.

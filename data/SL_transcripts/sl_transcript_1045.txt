@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, this is you called me regarding, uh, doctor? Yes, a new program
+Nurse: I did. So let me go into that. There we go. All right. So it looks like, um, so doctor is offering a new program and what it is is a nurse can give you a call every so often just to check in with you in between your visits with doctor. Just to let him know how you're doing and how you're feeling. And we were just wondering if you may, were, were interested in something like that.
+Patient: Well, my problem is that, that I don't live here a lot, you know. I'm, oh, ok.
+Nurse: Ok. What
+Patient: I can do pas friends. Yeah. Oh,
+Nurse: Ok. What I can do is I, um, are you in [PHI-Geographic] now?
+Patient: No, I'm in. Oh, ok. I was
+Nurse: Gonna say, oh, boy. Um, I wanted to, uh, let you know that I can send you the information and at the bottom there's a phone number, um, for the nurse and, um, if you ever need her, you can call her yourself too as well. Ok.
+Patient: What is it about? So, you, you call once in a while to see how, how the patient is doing.
+Nurse: Yeah. So it's just a check in with [PHI-Personal] and your insurance as well as some of your, um, conditions that you have. So, um, the doc likes to check in just to make sure you're doing ok and you're feeling ok and, and we can refill medications and, and, you know, go over any other questions or concerns that you may have in between too.
+Patient: Um, um, no, I actually I'm ok.
+Nurse: Ok, good, good, good. All right. Well, like I said, I, I'll, I'll send you the information just so you have it with the phone number. If you ever need them, you can always give them a call you as well. Ok.
+Patient: Ok. You have my email.
+Nurse: I'm gonna actually send it to your address. I have [PHI-Geographic]. Yeah. Yeah,
+Patient: I'm in [PHI-Geographic] now. Ok. The address in [PHI-Geographic] or, or is
+Nurse: It, is it ok if I forward it there and then you, when you get there, if you need it?
+Patient: Yeah, so when you're gonna send it, uh, uh, uh, I'll give you my address in [PHI-Geographic]. I'm here until [PHI-Personal].
+Nurse: Oh, you're there until [PHI-Personal]. Ok. Yeah, let me, let me take your address. Ok. What's your address? Two
+Patient: [PHI-Account] [PHI-Geographic] tower like a tower site. S ID [PHI-Geographic], [PHI-Geographic]. Ok. Uh, uh [PHI-Geographic], Florida. 331383
+Nurse: [PHI-Account] you said right?
+Patient: And at the same phone number?
+Nurse: Ok. All right, I will forward you that information just so you have it and you can give us a call whenever you need. Ok. Ok. All right. Thank you, Susie for calling me back. All right. Bye bye.

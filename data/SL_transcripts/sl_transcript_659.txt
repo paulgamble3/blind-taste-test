@@ -1,0 +1,5 @@
+Nurse: This is [PHI-Personal], this is [PHI-Personal]. Yes, hello. Um I forgot that I have a meeting here and so it shouldn't take but 10, 15 minutes it's about to start and I will call you as soon as I get done with that.
+Patient: Ok? Uh I called her and they told me I have to have a um order from you guys before they can uh schedule me appointment for my uh stress test
+Nurse: Really because we already had an order in. They didn't tell me that whenever I called the other day. Alright.
+Patient: Well she just told me that today. Yeah, she said if I need to tech uh um the thing so you could send it in through the computer. Uh huh. And I said, oh, I'm sure you guys have it because you called me the other day to tell me about the phone call,
+Nurse: Right? Yeah, so and they've already sent it once so yeah they got it. Um I'll look into that more maybe we'll call them on conference call when I call you back. Ok? Thank you. Alright. Yes sir. Bye bye.

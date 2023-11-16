@@ -1,0 +1,25 @@
+Nurse: Thank you for calling [PHI-Geographic]. This is Kay. How can I help you?
+Patient: Hi, this is [PHI-Personal]. You had called me? Oh, hi, MS [PHI-Personal]. How are you? I'm good. How are you?
+Nurse: I'm doing well. Nice to hear your voice. Um, I, I just wanted to call and introduce myself. I know that you, you guys have had a different nurse, um, to call and, and check in on you and, uh, yesterday I, I got so many people telling me, hey, you're different, you're not the same person. You're not the same person. I thought, well, maybe I need to let everybody know that, um, the other nurse that used to call, she's still here, but she's doing a different job. So Kay's gonna be calling and, um, I just kind of wanted to check in with you, see how you're doing, see if you need anything and just, um, just kind of introduce myself a little bit.
+Patient: Ok. Um, I got a predniSONE, I got, I was on predniSONE for about 10 days, um, because I have bursitis in like, in the top of my leg and it's not working. So I'm going to call and get a shot. Hopefully a Cortisone shot with Os S or someone. Do you arrange that or do I do that?
+Nurse: Yeah, I can do that for you instead of the predniSONE. You just like the Cortisone shot?
+Patient: Well, I did the predniSONE and I finished it about a week or [PHI-Personal] ago and it's still really bugging me. So I wanna, I wanna a Cortisone shot. I'm just sick of it. It, it's been going on for months and I can't take it. I'm going to cut it off soon.
+Nurse: I like the way you fight. You just go ahead and nip it in the bud. I don't blame you. Oh, but yeah, I can definitely take care of that for you. I'll send over um, a notice to them and let them know that you want the Cortisone shot. They'll probably want to schedule an appointment for you to come in and get it. Um, and so while
+Patient: I know if you do that or if I do that, I, it doesn't matter, but I just, I'm gonna do that.
+Nurse: I can do it for you. I can go ahead and arrange everything. Do what availability do you have to go into the office?
+Patient: Um, I'm usually available all days except this Friday. I'm not available. Um, I work day shift, but usually I'm, I'm off during the day and I work at night
+Nurse: Any day except Friday. Is it any time or do you prefer morning or afternoon.
+Patient: Um, but say before it, it would be before [PHI-Personal]. Yeah,
+Nurse: [PHI-Personal]. I'm sending it right now as we speak anyways. Great. And, I mean, generally bursitis gets better on its own. I wonder what is going on with it.
+Patient: I don't know. It's just been horrible. I, I, I've been re, I just took yoga now but, I mean, I try and watch because some of it hurts it too much. But I, I'm trying to get a little stretching in because I can't do any weight or anything. It just isn't working.
+Nurse: Ok. And the injection normally works a little bit quick, quicker than the predniSONE. Yeah.
+Patient: Well, I never had it there. I've had predniSONE, I mean, I've had Cortisone in like an elbow or something like that. But because the predniSONE is usually a miracle drug but it didn't work this time.
+Nurse: Yeah. Sometimes I usually
+Patient: Love to
+Nurse: And, and it, and it works, it do, it does work well. But like I said, sometimes bursitis can be very, it can be one of those things where it actually does need something into, you know, the muscles and stuff and that Cortisone injection is gonna get right on up in there.
+Patient: I hope so.
+Nurse: Ok. So I sent it, she's, um, she looks like she's replying but sometimes it takes our system it's delayed. So, what I'll do is I'll just, once she replies to me, I'll just give you a call back. And let you know what she says or, and when to come in, is that ok?
+Patient: That'll be great. Thank you very much. I appreciate your
+Nurse: Help. Not a problem at all. Look forward for a call back. Ok.
+Patient: Ok, thank you. You're
+Nurse: Welcome. Bye bye bye.

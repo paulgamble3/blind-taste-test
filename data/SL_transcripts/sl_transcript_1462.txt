@@ -1,0 +1,11 @@
+Nurse: [PHI-Personal]. How can I help
+Patient: You? Hi, this is [PHI-Personal] returning your call.
+Nurse: Uh, do you know who
+Patient: Called you? Uh Maybe it was, I was, I was, yeah, maybe it was because I was out when she called. So. Ok.
+Nurse: Um,
+Patient: She caught me when I was in a restaurant so I didn't quite get her name but she said the care manager.
+Nurse: Ok. Oh, it was [PHI-Personal]. Hang on one second. Let me transfer you,
+Patient: [PHI-Personal].
+Nurse: It was like, yeah, for some reason my phone is not wanting me to um, let me transfer. Let me have her call you right back. Are you gonna be home?
+Patient: Uh, yeah, she's calling me on my cell. Yeah, that's fine. That'd be great. Thank you. You're
+Nurse: Welcome. Bye bye.

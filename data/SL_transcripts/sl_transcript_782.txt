@@ -1,0 +1,28 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes, this is [PHI-Personal]. You, uh, so, so, I mean, but this, this problem in my mouth and I'm taking decongestants now because I th, I think it's sinus. Right. And, uh, oh, I mean, all I wanna do is sleep. I mean,
+Nurse: Yeah, that's so hard. You've got the, um, you've got that. What is it? Like a sore in your mouth? Right.
+Patient: Well, no, there's not really a sore in my mouth. It's just, I mean, it, it just feels like it's irritated on the, on the upper gum. I mean, you know, I, I got no teeth up there and, uh, just feels like on the, on the, and, uh, you know, kind of the bottom and the front edge of the gum. Yeah. I mean, it's, it kind of feels like, I don't know, rashes sometimes. I mean,
+Nurse: Ok, that makes sense.
+Patient: Oh, and I, you know, I don't know, I mean, anyway, that's not exactly the reason I called. Mhm. I'm, I don't have any, well, I, I can't say I don't have any but I only got a couple, uh, Eliquis tablets. Um, I can't, I mean, my, my prescription has run out. Mhm. So, and I need to be taking those. I mean,
+Nurse: Yeah, let me see. I think you should still probably be taking that. So I'll let him know you're almost out of that. The Eliquis. Yes.
+Patient: You have a quest. I think that was just prescribed.
+Nurse: Yeah, I think you're ok. I actually, I don't think that you need more of that.
+Patient: Well, I was just to see the, the, uh, uh,
+Nurse: You came and saw [PHI-Personal], right?
+Patient: Yeah. Oh,
+Nurse: Let me see. I'm looking through your appointment,
+Patient: The appointments on the [PHI-Personal]. Ok. Oh, they, uh, when I, I went and I, I had, uh, oh an EKG? Oh, on Wednesday. And they seem to think that I should have
+Nurse: It, they think you should have it. Ok.
+Patient: Yes. Oh, so I, I, I don't know, I know, I do have a low heart beat. So,
+Nurse: Yeah. Do you happen to know the, um, milligrams of the Eliquis?
+Patient: Uh, I think it was [PHI-Personal]. let me see. Bye. Ok. That seems to be the one. No, that's not the one,
+Nurse: That's, that one's not it. Oh,
+Patient: Ok. I got this stuff in bags that way I can, this is the one I get at [PHI-Geographic]. Oh, ok. Uh, let's see. [PHI-Personal], uh, I always said stop doing stuff up. That's why. Oh yeah. Yeah, it's [PHI-Personal] mg is what it is.
+Nurse: All right, perfect. All right. I'll let them know and see if we can get a refill on that.
+Patient: Oh, well, you can't get a refill as such. Oh, you know, it, it has to be a, a new prescription.
+Nurse: Yeah, because that was just like a temporary.
+Patient: Oh, no, this wasn't a temporary, this was a, uh, what is a prescription for, for, uh? Oh, I don't, I don't know how long 10, I mean, uh, like I said, I wish they'd stop doing this, putting it on and passing it it to the bottle that way it gets ripped off and I can't tell what's, what. Yeah. True. I get what you, anyway, I'd appreciate it if you could do something. I mean,
+Nurse: Yeah, absolutely. I will try to get you a new prescription for that just so we can get it done and over with. Ok, and get you all set up. Ok.
+Patient: Ok. Thank you. You, you have a great day.
+Nurse: You too.
+Patient: Thanks. So, well.

@@ -1,0 +1,26 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Hi, this is, I left a message for you. I guess you called me back.
+Nurse: I did. Yes.
+Patient: Ok. Well I usually talk to [PHI-Personal]. That's why I called through me like who, who am I talking to? Yeah, [PHI-Personal]
+Nurse: Off this
+Patient: Afternoon. Ok, cause I, she told me to call her today about a prescription I had put in so I don't know if you know anything about it or not, but maybe I'll wait until she comes in so she knows what the issue is
+Nurse: If you'd like let me just double check her notes.
+Patient: Yeah ju either that she could just call me or something. I was, I was questioning, we were questioning the Ozempic. I just got, and she told me to call, let her know what the script was. Ok?
+Nurse: If you wanna tell me what script you've got, I will leave her a
+Patient: Message. Ok? You tell her I got the three month supply of Ozempic but it was not increased from the 0.5. 0, that I'm already on and she'll understand because the doctor told me that he was gonna put me on a two and I don't know if there was an issue with insurance or what, but I only got the 0.50 so it did not change. So she was gonna find out from the doctor what exactly was put in there, you know, in the script. We don't know what the problem was. So
+Nurse: Let me double check his note here.
+Patient: Sure.
+Nurse: The script that he sent in was for Ozempic two mg per 1.5 ML. So it's a two mg pen. Um and his instructions were 0.5 weekly.
+Patient: Well, that's what I've been on. That's what I do. 0.5 I've been on the 0.5 and he told me he was gonna increase it. That's what we were trying to find out what happened because when I talked to him, he said he was gonna increase it. And um because I asked him, I asked him specifically, am I gonna get sick again? And he said I will be nauseated for a while which I know what I went through when I first went on, I was sick for a couple of months on it. And uh that's why I thought he was putting in for the, for the to, to, to inject two, not the 0.5. 0, that's what we're trying to find out what's going on there because I thought it was gonna be increased. So,
+Nurse: So I will send him a message. Um It doesn't look like she reached out
+Patient: To. Well, no, she was wait, I talked to her on Friday because I didn't pick up the script until Saturday. And then she told me to call her and let her know what the script was because we were, I was confused in that and I thought I, I'm glad I got the three months, which we discussed that because of the people getting it for the weight loss and stuff. And he wanted to make sure I could get my Ozempic that, you know, it would be out or whatever, but he had said about increasing it. So I don't know what happened there. I don't know if the insurance company refused it or what, whatever, you know, because that does happen. I don't know all I know that all I know that I've, I'm very aware of what the insurance companies can do but, you know, that's what I wanted to know if that's what, you know, it was or, or something get mixed up or whatever. But because I was, I was hoping that it would get increased because he wants to get me off Metformin and I do very well with the Ozempic. I am so pleased with that because he did drop me to half of my Metformin and I was like hoping that if he increased that I could get off the Metformin for good. Yes. Yes, that was, that was my goal. Absolutely.
+Nurse: So I, this is what I'm gonna do since [PHI-Personal] out. This afternoon, I'm gonna send the office a quick message just for clarification on the Ozempic dose. Um ok,
+Patient: I appreciate
+Nurse: That. Absolutely. And I will send [PHI-Personal] an updated message as well. Um that, but if the office gets back to me before the end of the day, I will give you a call back and let you know what they say if um [PHI-Personal] here tomorrow so she
+Patient: Got fine. Yeah, she can follow up with me. Yeah, because she didn't tell me she was off today. So she said call me Monday. I said ok. Yeah, so no, that's, that's no problem but yeah, I'm just trying to find out if there was, you know, if, if it's the insurance company, I, I understand that, you know, fine but I hate it when they do that when you have a goal and then they wanna put their foot in it and ruin the damn thing. Yeah,
+Nurse: Absolutely. I, I understand for sure.
+Patient: All right. Well, hey, I appreciate you calling me back and I um you know, I appreciate you uh finding out about it for me. Absolutely
+Nurse: No problem.
+Patient: Ok. All right. Well, thank you so much. You're
+Nurse: Welcome. Take care. You
+Patient: Too. All right. Mm bye bye. Mm bye bye.

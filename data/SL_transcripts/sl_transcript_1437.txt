@@ -1,0 +1,103 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Good morning, [PHI-Personal]. This is [PHI-Personal]. How are you doing? I'm
+Nurse: Good. How are you?
+Patient: I'm doing good. I think it was you. I was on the phone with yesterday afternoon and you were telling me to start doing my, my, uh, my weight and blood pre pressure and everything before I do anything e every morning. So I did that this morning I got up and I, I, uh, used the bathroom cause that's what wake me up every morning around six. I have to use the bathroom. But anyway, I did that. Then I went ahead and brushed my teeth, clean my body up and then I took my medicine and then I waited a few minutes and then I took my BP but everything looked real good today.
+Nurse: Oh, that's awesome. Let me see. What's your birth
+Patient: Date? August 8, 1941 Jacob.
+Nurse: Oh, you spoke with [PHI-Personal] yesterday? Um, let me see. Let me look at your, um,
+Patient: But the, the stats are pretty good today. Yeah, I see that. I was surprised I was saying, well, maybe I need to do it in the morning time instead, later on in the day because I, you told me to do it before I do anything. Yeah. To do this every day. My weight and everything. You, you said it 1 21/67 and 89.
+Nurse: Oh, yeah, I see that one. Uh huh, I see a couple of readings. Yeah. And your weight. You did it yesterday.
+Patient: The date the way I did this morning it was like 159.
+Nurse: Oh, that one didn't come through but I can put it in.
+Patient: Yeah. [PHI-Account]
+Nurse: 91 59. Ok.
+Patient: It used to be somewhere from [PHI-Account] somewhere
+Nurse: [PHI-Account]
+Patient: [PHI-Account]. Now that,
+Nurse: Uh, ok, so I added that. Ok, so your weight was 1 [PHI-Personal]. I got [PHI-Personal]
+Patient: [PHI-Account]. That's for my heartbeat.
+Nurse: Yes, ma'am. And it did come up, it looks like yesterday your heart rate was running low but it's it back up.
+Patient: Um, so I'm just gonna do what, what she had told me to do yesterday. Just do it first thing in the morning. Everything. Yeah, because that would agree because I wanna see if it's gonna look the same way tomorrow or close to it.
+Nurse: Right. That would be a good idea. Um, that sounds like a good plan.
+Patient: Mhm. Because I'm paying 40 something. I mean, it's, it's time for it to move up from 40 something, 45 and all that.
+Nurse: Ok. So you're gonna start. But
+Patient: Now the, the 67, what, what is that? From, from getting up close to the [PHI-Personal]? Um, it is something I'm not doing.
+Nurse: No. Well, um, your heart rate can vary depending on, um, what you're doing if you moved around, if, um, it can vary. Um, so if you're sitting, sitting still, it probably would go down. But on that one, well, you have [PHI-Account].
+Patient: That's what I have to read.
+Nurse: Yeah, it's kind of all over the place. Um, did you take meds this morning yet before you took those
+Patient: Taken? Yes.
+Nurse: Uh, ok. Ok. Um,
+Patient: Well, see my heart like, uh, like yesterday it was, well, it, my thing was [PHI-Account] and then the odometer reading was 99.86. Mhm. Did
+Nurse: You increase your fluid intake?
+Patient: Well, I drink about the same amount of fluid every day but I tell you what, I'll be getting up all through the night. I use the bathroom so much at night that fluid be coming out of me. And I was saying that might, that might be too because I really use the bathroom. I can go in the bathroom and 10 minutes later I got to be right back in there. So I'll be like, how can you keep? Yeah, I'll be like, how can I keep water in me using the bathroom that often I use the bathroom a lot. It be like an in and out.
+Nurse: Your body is just flushing out everything. Um, well, it, yeah, everything's within range this morning so it's looking good so far. So,
+Patient: And I'm anxious to see what it's gonna look like tomorrow and right on after that.
+Nurse: Mhm. Um, but yeah, it can vary. Are you on? Hold on, let me pull you up in my other system
+Patient: Here. Ok. I guess you said nobody else call y'all. I do. Ok. Ok. I the anxious one. So just tell me the anxious
+Nurse: Lady. No worries. You can always call us. That's what we're here for, so don't worry. No worries. We're here. Ok. So you're not really on much to slow down the heart rate. But yeah, it would just depend on your movement. Well, actually, no. Ok. Wednesday,
+Patient: I stop the one day that I, I walked about. Yeah. Yeah. One day I walked the back uh two hours before I did before I did all of this. Emma's mad. My reading was [PHI-Account] and [PHI-Account]. I was like, man, I walk and that happened, but that's only [PHI-Account]. Yeah. And then I walked another day and it didn't read that. How, how like that. Mhm. So,
+Nurse: Well, it looks good today. Um You did an alert for today, which is great. You're like um nobody's calling me, let me call them. I know.
+Patient: I know we
+Nurse: Sure will contact you if we get anything on our side.
+Patient: Hey, that's what I was telling you. I hope I don't call you out too much because if you call me, I'm sure gonna make my call.
+Nurse: No, it's great. It's because whatever you're doing and whatever changes we try to implement it is working. So, it's a good thing. Yeah. She had
+Patient: Told me that yesterday, she say from that own, try doing everything when you first get up.
+Nurse: Yeah, I agree.
+Patient: So I did that this morning and the, the heart beat really went up to eight and [PHI-Account]. So, so, so how high it shouldn't go though? The heartbeat? Well, to not go over 100
+Nurse: We have you that to not go over 100. Ok. So the [PHI-Personal] is pretty good. Yeah, [PHI-Personal] is pretty good. But, um, then at [PHI-Account] you rechecked and then your pulse went down. Um, but I'm thinking that's because you had already taken the meds.
+Patient: Yeah, my, my pulse this morning was 98.86.
+Nurse: Mhm. Yeah. And then you took your meds and rechecked and then the pulse went down some to [PHI-Account] which is, um, you're on Entresto. So that's gonna help with, um, your heart. So, yeah, that probably just brought it down because it can affect, um, your pressures and everything too. Right? So, it looks good. But you're feeling good this morning. No, symptoms.
+Patient: Oh, I sure do. I feel good. Everything. And you know what I was, I was raised with blind parents. Both of my parents were blind but since I was [PHI-Personal] years old, so I learned that I had to grow up fast cause that normal kids my age, I had to grow up real fast because I had nobody to help me with homework at, for school or nothing. Nothing. And so, um, you, you learn, you learn things that normal kids wouldn't learn.
+Nurse: Right? Yeah.
+Patient: You, you learn, you learn a lot and put you more in an adulthood life than anything else. And then you got to learn how to do something for yourself. Your parents can't do it.
+Nurse: Yeah. And you're already [PHI-Personal] and you sound great with your activity and taking care of yourself. So [PHI-Personal],
+Patient: My kids instead of calling me the IBO woman the other day they talking about, they know I can say they know I can say my sixth grade graduation, my eighth grade graduation. So my ninth grade graduation. So they know I can say all these songs from way back there. So they time I'm sing song again because they wanna no more. And I mean, from one to the other saying if they come out there about it, it still it a y thank you. Just pick it at me all the time. Yeah. Well, it's
+Nurse: Good. You don't stop moving, you keep moving. Um because when you stop, that's when you start having problems.
+Patient: That is so true. That's true. My kids be saying, mama, can we tell you something? I say you should, can they say uh you like to work and clean up the house and all that a lot? And we don't. So because you like to do that, why you make us do it? Cause we don't like doing nothing because you are the one that's messing up the house. You all the one that's around here that at the house like me. So get busy. Stop talking to me now and get busy. Yeah.
+Nurse: Yeah. That's awesome.
+Patient: Mhm. Yeah. I used to play games with my kids, all kinds of stuff. We would go and uh get movies and stuff and come back home and look at movies and eat popcorn. I, I enjoyed my kids because I knew once they got grown it was gonna be over. They have a husband and their own kids.
+Nurse: Um um, yeah, my kids are [PHI-Personal] and [PHI-Personal] so the [PHI-Personal] year old still wants me all the time. The [PHI-Personal] year old was like leave me alone. Well,
+Patient: And the closer you get to, once that teenage number get attached to kids, they really want you to be there alone living. They, my friend, my friend, my friend and I'm like your friend, I can do this and that but you can't do it to.
+Nurse: I told him this morning, get up told my son get up for school. Can you just leave me alone? Mom? No, I cannot.
+Patient: I guess he said just to tell you up, that don't be that one to get up.
+Nurse: He thinks he's a, an adult already. You don't need nobody.
+Patient: I said the two boys or a [PHI-Personal] and a [PHI-Personal], a
+Nurse: [PHI-Personal] and a [PHI-Personal].
+Patient: Oh, that's good. That's really good. Mhm.
+Nurse: But I don't want him to miss the bus and be at school late. So then I be after him and he doesn't want me to be. So like you're [PHI-Personal]. Come on, you're not grown yet.
+Patient: Yeah, I tell people I say but whatever you do spend as much time before they get them teens cause they wanna hang with them friends then and their friends wanna hang with them. Mm. So
+Nurse: Yeah. Yeah.
+Patient: But crazy.
+Nurse: Well, that's awesome. Um I'm really impressed by you. Uh my mom's [PHI-Personal]. She lives in the, in a nursing home now. Um but you know I
+Patient: See. Oh you should see me though. You should see me. My, my, my kidney doctor be saying the lady that's [PHI-Personal] but she looks [PHI-Personal] my kidney always say that to me my kidney doctor. But but I, I don't see when I was like I say again when I was being raised up, I didn't have the opportunity to have nothing like what kids have. So I always said to myself when I was growing up when I get grown, I'm gonna make sure I have, I'm gonna make sure, you know, all this in my little head because I wasn't getting that kind of stuff. Mhm. And so I always make sure that and I would go to the places like, well, Mason's and all that was around when I was young, but I would go to those kind of places and I say, tell me what I need to make my face up and make it look better and that kind of stuff as I got older. Mhm. And they would do it for me for free. So I learned how to make my little face up and do that stuff. That's awesome. So yeah,
+Nurse: We gotta take care of our health.
+Patient: Will I tell you? I imagine my we with my health because if my health is no good, the wealth is no good. I just be laying around watching other people spend my money. I want to spend my own money. Yeah. Not that I have a lot to spend. Mhm. But if you don't take care of your health then then that's not gonna be too good
+Nurse: Pay for it later.
+Patient: Oh [PHI-Personal] too.
+Nurse: That's what happened with my mom. She didn't take care of herself. And uh that is so she went down too early for her age, you know, went from running around shopping, being in the streets to having her heart stop. So just because she wouldn't take her medications. And now, you know, when she's there, it's like, man, I realize how much your health matters when you're younger to really take care of yourself in those conditions. Because if not, they're going to come back when you get older.
+Patient: I think your health is a lot like a car. The, the part stop wearing out at, at, at the salon. If you don't replace them or get them mended or something, they're gonna continue to get worse and worse. And a lot of people don't go to the doctor and do things they need to do. Right. But I will wear you out. So you get ready to, for me to wear you out. Oh, my gosh. I'll just play with you. Oh, my
+Nurse: Gosh. Oh, my
+Patient: Too.
+Nurse: No, we're good. Um, all right. Well, is there anything that you need going into the weekend or any questions?
+Patient: No, because I'm sitting here, I'm gonna go and whatever I'm gonna eat over the weekend. I'm going to do that today because tomorrow and this Saturday probably gonna be like, wow, people in the grocery stores and stuff for sure. In [PHI-Geographic] everywhere is busy. So many people have moved here.
+Nurse: Yeah. And then it's Memorial Day weekend. So, yeah, it's gonna be a lot of people and
+Patient: I, I just be at my house looking at TV, watching what other people do. Yeah. That I wouldn't dare get out, be drive. I'm [PHI-Personal]. Years old. I would dare get out there, just stay home in that place. But I really appreciate you all. You all are always so nice. It make me wanna talk trash. But uh, I enjoy talking to you. Well, thank you.
+Nurse: We enjoy speaking with you too.
+Patient: Oh, yes, I really do. I, hey, I have to talk to one of you guys every day. At least once you have my day to go, you know, to go back real smoothly. I'll be like, but they were nice to me today and I appreciate that. Ah, and believe me, when I say that, I mean, it, I really appreciate it.
+Nurse: Oh, and we appreciate you too being our patient and being willing to work with us. Oh, yeah. Shoot us off sometimes. Like we're just trying to help, you know. So, yeah,
+Patient: I tell people just because people grow old that don't mean they change some of those ways they have when they're young, some of them are, are mean when they're young and they're mean when they get old. True. And you would think when they get old they would, would have a better attitude or something, but that doesn't change anything. Have you noticed that with your patient?
+Nurse: Um, yeah, we have some that don't really a appreciate us calling. But, um, we know that it's important to still contact them and let them know, you know, that we're watching and, and what we suggest and we just keep doing it even if they get upset with us because we have to,
+Patient: And then if something go wrong with them, they can't be saying, well, they wasn't calling me, they wasn't checking up on me and.
+Nurse: Exactly. Yeah. Mhm.
+Patient: They, they would have no right to say nothing like that. It would be their fault.
+Nurse: Yep. Exactly. So, we, we just hope that we keep reminding them and contacting them and then one day they go to normal and it's like, oh, thank God. Oh,
+Patient: That's good too. When they see, I just love being nice and enjoying people because we haven't seen each other yet. The two of us, but we enjoy talking to each other.
+Nurse: Yeah, for sure. Mhm. For right. M [PHI-Personal]. Well, you have a good rest of your day and weekend.
+Patient: Ok. We'll talk Monday, Monday. Hopefully we'll talk Monday. So we're closed on
+Nurse: Monday. But we, we'll be back in on Tuesday
+Patient: On Tuesday. That's right. Monday is a holiday. Yeah. Yeah. Yeah.
+Nurse: We'll probably be contacting you on Tuesday if you're alert over the weekend over this long weekend. So,
+Patient: Well, have enough fun this weekend for me. Thank you,
+Nurse: Ma'am. You too. Ok.
+Patient: You, ok. Have a rest of the day.
+Nurse: You too, ma'am. Ok. Bye.

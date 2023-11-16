@@ -1,0 +1,15 @@
+Nurse: Hello, this is [PHI-Personal] from the Pulmonology Clinic. How can I help you today?
+Patient: Yes. My name is [PHI-Personal] and I had an appointment with, uh, [PHI-Personal] Weaver. I think that's it. Yeah, [PHI-Personal] Weaver. Ok. [PHI-Personal] the [PHI-Personal] and at 11 o'clock. But all of a sudden I got a call from the drug store that I got these two different kind of medicine. I got the, uh, and I got the, bro VA N A solution and I got the machine to, to put it in. So I don't think I have to come. That's that appointment.
+Nurse: Ok. They have the appointment says it was to review medication. The Albuterol wasn't working.
+Patient: Yes. But they gave me a new, I just got a new guy Monday and it was called, bro, VA N A.
+Nurse: Ok. Yeah, [PHI-Personal]. Ok. Well, do you, so, have you, um, tried using it yet?
+Patient: I, I try, I, it seem to be doing better. So II, I got, I went to the drug store. I got, I got quite a few and then I got the BREO I use, ok, I, I don't think I have to, I notice something get worser.
+Nurse: Ok. Do you so you wanna cancel it now or do you wanna hold on to it just for a little bit longer? Like wait another week or two just in case you need it?
+Patient: Oh II I won't use this. Me but I'm talking about the appointment. I want to cancel.
+Nurse: You wanna get it?
+Patient: All right, I'll I'll call back in two or three weeks if I have to come. Ok.
+Nurse: Ok, that sounds good.
+Patient: Yeah, because somebody else can use this appointment you can show somebody else can show up.
+Nurse: Ok, sounds good. Thanks for calling. I appreciate it.
+Patient: Alright, thank you.
+Nurse: All right, you're welcome. Take care. You too. Thanks bye.

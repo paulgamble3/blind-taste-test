@@ -1,0 +1,6 @@
+Nurse: This is [PHI-Personal], the nurse care manager with [PHI-Geographic].
+Patient: Hi, [PHI-Personal], it's [PHI-Personal]. How are you? Hi, I'm good, good. Um, I just wanted to tell you that I had gotten a call from [PHI-Personal], uh, from doctor office. Uh huh. And, um, she wanted to get all the, the medicines and all of that. Um, you know, so I had given them to her,
+Nurse: She for, for Mr [PHI-Personal]. Yeah. Ok.
+Patient: Ok.
+Nurse: Yeah, sounds good. I, I was gonna see if I can see what she was saying to just because I'm being nosy. That's ok. Yeah. Yeah. So. Ok. Ok. Ok, perfect. I'm glad you all got that situated for sure.
+Patient: Ok. Thank you very much. Yes, ma'am. Have a good one. You too. Bye bye bye.

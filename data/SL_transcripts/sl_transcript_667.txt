@@ -1,0 +1,48 @@
+Nurse: Chronic care management nurse. This is [PHI-Personal]. How may I help you? This is [PHI-Personal].
+Patient: Oh,
+Nurse: Hello. Me, my phone tag friend. How are you?
+Patient: Uh, I'm doing pretty good. I had a colonoscopy yesterday.
+Nurse: Oh, yesterday, I'll, I'll, I'll ask how that went but about as good as it could go, I hope. Yes.
+Patient: Yeah. Good. I know. But the doctor said that everything is good that I should need another one for 10 years. So,
+Nurse: Oh, the best news you could get. Yes.
+Patient: That's wonderful. You'll need another one. You never know. Yeah. Every two years. I may not even be
+Nurse: Here. Yeah. 00, don't say that. Well, that's great news. I know. That can be, that can be scary sometimes. So, I'm glad to hear you got a good report.
+Patient: I had, uh, you know, days, you know, just drinking a little juice or, or a little bit of watery soup or something. Yeah. I'm so weak from all of that. Oh,
+Nurse: Yeah. That's a long day. So much
+Patient: Stuff to give you, you know, long, I had long, three days I've been doing, you know? Yeah, a liquid, a little liquid here and there.
+Nurse: Good and you're able to tolerate that. No, not getting an upset stomach or anything.
+Patient: Oh, I didn't feel good. I little but I can eat now. Anything can good.
+Nurse: Good, good. Yeah, those a couple days before is always the worst.
+Patient: Well, he told me five days ahead. No, no, raw food. No. Um, uh, bread. No nuts. No. Uh, such a list. And I was mostly on a little juice and love soup and fighting for a little piece of bread. I love bread.
+Nurse: Now you can, now you can eat bread to your heart's desire. Wow.
+Patient: Yes, I had a little piece of that today. So good. Good. It's a lot
+Nurse: Better. Good. I'm so glad to hear that. Was this your, um, just your typical, like you were due or was there something going on before that, that they want to do a colonoscopy?
+Patient: No, no, I was due the, and it's on my chart. It's been there for months. Oh, I'm sure I was sure to get my colonoscopy. So I finally did OK to send a copy in, but I don't know if they did or not, you know.
+Nurse: Yeah, they usually do because it looks like doctor [PHI-Personal] is the one who put in the order for, for that to happen. So, unfortunately, it's not as quick as, as the procedure is, sometimes it can take a couple of weeks for them to get that report. But, but, um, yeah, it should be on the way. So that's, that's good. And I'm glad to hear you're resting and doing well after that.
+Patient: Yes, everything is ok. Thank everything went good. So
+Nurse: Awesome. That's, that is fantastic. And, um, do you remember what physician did your scope? Do you remember their name by chance?
+Patient: Um, doctor? I think his name is. Yes. Perfect time. And, uh, um, on, uh, [PHI-Personal], I think it is and maybe, well, uh, [PHI-Geographic] is a place there. I think he only works here like certain days because he's mostly in [PHI-Personal]. So.
+Nurse: Oh, ok. Got you. So we kind of stick to that area.
+Patient: Yes. And uh someone from the, from doctor back office is who, you know, look him up and everything for me and sent me his information. So good. Maybe they'll send the a copy and if not they gave me a copy, I'll take it in the next time I go.
+Nurse: Ok, that sounds perfect. Yeah, you got it. Yep. And it looks like you have a lab visit, um, the week before, um, to, to get some lab work done. Perfect. Ok, great. Um, well, I'm glad to hear that. It looks like you're pretty well, um, caught up on, um, there's like the yearly checklist, like you said with the colonoscopy. There's just some things yearly we like you to get done. You're gonna have your blood work done in [PHI-Personal]. Um, the only other thing I see here, um, would be, um, glaucoma screening. Have you been to the eye doctor this year?
+Patient: Yes, I've had glaucoma screening. I thought the doctor said it because I have an order also for that.
+Nurse: Oh, ok. Uh Do you remember when you went for that?
+Patient: I have been, been to her like three or so times but uh I think [PHI-Personal] may have been the last time I went
+Nurse: [PHI-Personal]. Ok. And who do you see for your eye? She
+Patient: Did, she did a, um, a laser treatment so that she said maybe three or four years before, you know, I had to do anything again to I right up. So she works, uh, I can't, let's see if I can remember her name though. She works in that, um, I Clinic on [PHI-Personal]. It's called, um, I think I Clinic, something like
+Nurse: That. Ok. It's on how you said
+Patient: Her up. Yes, it's [PHI-Personal]. So. Ok, it's, um, um, and there's a lady, it's a bunch of doctors working there. Ok. But I'm going to see if I can find that her name and let you know because my mind is not. Yeah.
+Nurse: Well, it's hard, it's hard to remember all the names. Not a problem. I'll, I'll do a little bit of dig into. They might have sent it over, but so much stuff gets scanned in the chart. It might have just got pushed, you know, since it was back in [PHI-Personal]. So if I can't find anything in the chart I'll do a little, um, research on my own and see if I can reach out to that office, um,
+Patient: And see if they can fax the stuff. Ok. And, uh, I went to her like, maybe three times already. Ok. Got checking my eyes and stuff. She did that, I think around the end of last year and then I had to go back four months later. Um, so, ok, and I went to her and, and they checked my left eye but they said everything looked good and ok, I was supposed to go back to her but I didn't I was out of town so they didn't call me or anything. So. Well, I feel like I'm ok with the I.
+Nurse: Yeah, no news is good news they say. All right, perfect. Well, I'll do a little dig and see if I can find some records or anything to be sent to the office and then um
+Patient: I think it's called, oh
+Nurse: It I
+Patient: Called the I Institute.
+Nurse: Ok. Sure. Alright, I'll give them I worry on [PHI-Personal]. Ok, perfect. Yep. I'll give them a call
+Patient: Probably check them. Yes, I know so they can get that off my list also. Yeah,
+Nurse: You're doing pretty good on your list. I will say you are doing very well, we appreciate that. All right, perfect. So I have you set on every um two months. So what I'll do is I'll call you again in [PHI-Personal] just before your appointments just as a reminder and just to make sure you're still doing ok? Sure that's good. Alright. Alright. Yeah, you're so welcome. Happy uh [PHI-Personal] and Happy New Year's to
+Patient: You. The same to you.
+Nurse: Thank you so much. You're welcome, you take care of yourself.
+Patient: Thank you. Thank you. Thank you.
+Nurse: You're welcome. Mm bye bye
+Patient: Bye.

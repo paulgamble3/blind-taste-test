@@ -1,0 +1,18 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Um hi [PHI-Personal]. My name is [PHI-Personal]. I was uh calling Stacy or someone on Doctor [PHI-Personal] um [PHI-Personal]. Ok. One a second. Excuse me?
+Nurse: One. Ok. This that would be uh did anybody call you or you just calling them back?
+Patient: I'm sorry, repeat what you said I didn't catch at all.
+Nurse: Were you calling somebody back today or you had a question?
+Patient: I have a, I actually have a request. Yes.
+Nurse: My name is [PHI-Personal]. I am one of the care manager nurses for Doctor [PHI-Personal]. So go
+Patient: Ahead. Ok, [PHI-Personal], what my problem is I, I am currently on Lisinopril 10 mg for uh BP. Yes. And I the refills had al always been filled by the cardiologist which was uh doctor [PHI-Personal] at uh over on Old [PHI-Geographic]. Ok. I submitted a request to [PHI-Geographic] for a refill last week. Ok. And they still haven't come back, you know that it's been refilled. So I talked to them, they haven't gotten anything from the doctor to refill it. Um and I called the doctor's office. I can't get to talk to anybody because it goes automatically into voice mail. But
+Nurse: Cardiologist.
+Patient: Yeah, but they, the thing is their voice mail says that in the future to allow two weeks when you request a, a prescription refill. Well, I didn't know it was allowed two weeks. If they wait two weeks, I'm gonna be out.
+Nurse: Ok, let me, let me let [PHI-Personal] know with the office and this is the Lisinopril, right?
+Patient: I'm sorry. Say again this is the
+Nurse: Lisinopril too. Right? Yes. Ok.
+Patient: Let me, I have, I have no refills left and I'm just about out because like I said, I gave them more than a week to get it filled. Ok? And I usually get a 90 day supply.
+Nurse: Ok. All right. I'll see if she will, um, take care of that for you. So you don't run out. Um, and I'll tell her that you've tried and you haven't heard back, um, from the cardiologist and that's what you've been taking. How many did you say you have left?
+Patient: I have, let me see here. I have [PHI-Personal] left.
+Nurse: Ok. And you want those sent to [PHI-Geographic], right? Yes. Ok. All right. I will get that taken care of and see what she says and hopefully get that filled for you. Ok.
+Patient: Ok. Thank you very much. You're welcome. Bye bye bye bye.

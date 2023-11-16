@@ -1,0 +1,18 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager.
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. Hi, how are you? Uh, did you hear? I have no, did you?
+Nurse: I'm gonna look right now. I didn't hear anything at lunch, but let me, is it getting worse?
+Patient: The pain is there? It's like it's sitting right in my groin, in the joint area.
+Nurse: So the nurse forwarded it to, um, the doctor. So we're just waiting on his response. So maybe by the end of the day he'll probably get to it.
+Patient: Oh, yay. Hopefully.
+Nurse: But if it's that bad and you don't wanna wait, you can just go back to the urgent care, um, for
+Patient: The,
+Nurse: But he should be getting back to me hopefully by morning time. Usually doctors, if they're over, like, if they have a busy day they'll check everything at the end of the day.
+Patient: It's like 20 minute drive or so to go to down there. Yeah,
+Nurse: If you wanted to wait until morning and then we'll see if we do anything by then. Ok. Is that ok with?
+Patient: Ok. Yeah, I'll, I'll rate the cupboard. I think I have some old pain pills. Ok. Oh, sorry. Because Tylenol doesn't even hit it. Yeah.
+Nurse: Yeah, I'll check first thing in the morning and hopefully if he doesn't get back to me, I'll give you a call and let you know.
+Patient: Ok, thank you, honey.
+Nurse: You're welcome. I hope
+Patient: You bit better. I hope so. I put the heating pad on it to hope that it would help, but it's not so, uh, too deep inside, I guess. Must be.
+Nurse: All right. Well, I'll talk to you either in the morning. If I hear anything in the next half hour, then I'll give you a call but most likely in the morning. Ok.
+Patient: Alright. Alright. Alright. Alright, thanks. Bye.

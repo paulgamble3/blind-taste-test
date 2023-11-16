@@ -1,0 +1,46 @@
+Nurse: Bye, good morning care management. This is nurse [PHI-Personal].
+Patient: Uh This is [PHI-Personal] Ewing. I just got a phone call from this number and when I picked it up it hung up.
+Nurse: Oh, yes, MS [PHI-Personal]. That was me. I'm sorry about that. I went to push the call through and then I got a busy signal and I hung up and tried again, got another busy signal. So I do apologize about that. So I am calling you for your monthly care management call. How are you doing today?
+Patient: I'm doing just fine. How about yourself?
+Nurse: I'm doing pretty good. That is great to hear. I love that you are doing well. So let's dive into this. Can I just have you verify your date of birth for me, please?
+Patient: [PHI-Account].
+Nurse: Thank you so much. And just looking through your chart very quickly. It looks like you had an appointment last on the [PHI-Personal]. Have you had any appointments since then? Or any preventative screenings done? No. Ok. And let's see. Well, if I can get my computer to cooperate, that would be nice. Right?
+Patient: Must be the day because I was having a terrible time with mine this morning too. It is. Yeah,
+Nurse: It must be. Everybody's, I don't know, I guess everybody's trying to jump on the computer and get back to work since Friday.
+Patient: It is their Easter [PHI-Personal]. Absolutely.
+Nurse: And pictures of the grandkids, right.
+Patient: Oh, yeah.
+Nurse: Ok. So, let's jump into this. So, let's see. Um, do you need any medication refills right now?
+Patient: Um, no, I don't. But, uh, I do intend to make an appointment with [PHI-Personal], um, the gabapentin. I'm taking 100 mg three times a day for the tingly leg thingies and it doesn't seem to be helping. So, um, I plan on making an appointment and I'm sure she's gonna up it.
+Nurse: Ok. Um, let's see, I can actually make appointments for you. Is there a certain day or time that works best for you?
+Patient: Well, let me go check the calendar. I don't wanna squeeze in all my grandkids time. Ok. Ok. Go ahead. Right.
+Nurse: Are there certain days or times that work best for you?
+Patient: No, not really. I can't see. Right. Bye bye. Stop. We don't see you.
+Nurse: Ok, let's see. I am just scrolling looking through her schedule right now, so she doesn't have anything today. Let's jump into tomorrow. Come on computer work with me now. Ok, let's try later in the week since I'm not seeing anything for tomorrow
+Patient: Either. That's one of the reasons why I like her because people request her. She's good. Mhm.
+Nurse: I have a lot of my patients telling me that
+Patient: She's not afraid to look outside the box.
+Nurse: Well, that's awesome. We need more providers like that, for sure. Ok. Well, it looks like Friday. She is on, on, that is Monday. We're in the next Monday already. Let's see what we have for Friday if she has anything. All right. So, it looks like Friday. She's only working a half day. Let's try Thursday.
+Patient: I found it. Oh, why?
+Nurse: Oh, ok. We might have to go into next week.
+Patient: Ok, I, I [PHI-Personal] to it too. Yeah. Ok.
+Nurse: Mhm. Ok. I'm still looking for you.
+Patient: Ok. Mm.
+Nurse: Ok. So I I'm not seeing anything for [PHI-Personal] for the remainder of this week or next week and then it looks like she is off, it's looking like this last week of [PHI-Personal]. It looks like she took off. Would you wanna try a different provider in the office or do you wanna stick with [PHI-Personal]?
+Patient: Actually I can, I can just send her a message. Uh I mean I've been keeping in close touch with her on this and she would probably just uh send it in.
+Nurse: Ok. Um I can send that message over if you would like.
+Patient: Ok.
+Nurse: Ok, so let's start. Um, so we said the gabapentin 100 mg is no longer working. Can you tell me a little bit about what's going on with the leg tingling?
+Patient: Well, that's uh ok, when you know you know, when your feet are asleep and they're waking up, that prickly tingly hurt there when it gets to the point where it, that's what it feels like and it goes all the way up to my knees. Ok. On both legs. Now it's, it's not all the time. Um, it's mostly when I'm sitting in a chair and I prop my legs up or I'm lying down in bed. But, uh, lately the past couple of weeks it's only happened like I think twice when I was standing up and walking. Mhm. And um she had started me out with 100 mg and then once a day and then increased it and I'm now taking 100 mg three times a day of the gabapentin. And it's just not quite working.
+Nurse: Ok, on a scale of 0 to 10 for that leg pain is, would you say it's more painful or more the tingling and numbness? Cause I know sometimes that can be painful.
+Patient: It is, it is painful but it's mostly uh just really annoying like um if I'm trying to, to, to go to sleep or something, uh, it's bad enough that it keeps me awake. Ok. I'm not sure how to, to do that with that number scale thing because you know, oh
+Nurse: No, it's fine. I always like to ask because everybody's pain is different and I know sometimes with that like tingling and numbness, some of my patients say it burns some of them just say, and it just, it's tingling like it really doesn't hurt. So I always like to a, and get that gauge.
+Patient: Well, it does, it does hurt. But if, if I'm not trying to sleep, I mean, it's extremely annoying and it's not a pain I can just forget about because it is, it's, uh, enough of a pain that it just really, I mean, I can tell it's there. Ok. And by the way, I fi to you and I looked at my calendar, I do need a prescription for omeprazole
+Nurse: For omeprazole. OK. Let me go ahead and put that in. And you said that is omeprazole. Yes. All right. So I'll go ahead and put that over for her. And are you still using, give me one second while I get your pharmacy pulled up? You're still using the CV S? Yes. OK. Great. All righty. So I will go ahead and put those two things in for that nerve pain. And have you ever been diagnosed with um restless Leg syndrome or anything like that?
+Patient: No? OK. Oh geez. It just went out of my head that what you get with diabetes with the nerve endings? I can't. It's just Yes. OK. I was just getting ready to say it and it disappeared. She did say she thinks that's probably what it is, is neuropathy.
+Nurse: OK. So I will go ahead and send that message on over to her with the neuropathy and in the meantime, um, let's switch gears really fast. So let's jump into your mood and how you've been feeling. So, how have you been feeling overall since the last time we spoke?
+Patient: I've been doing absolutely wonderful. Uh, my grandchildren are here staying with me and when they go home, that's when you need to ask me. I mean, I'm gonna miss them like crazy. Uh, they, I my mood is fantastic. The kids just love having them around.
+Nurse: Ok, great. So, what are some things that you do to, um, like when they're not around? Like, what types of things do you do to kinda help you feel good?
+Patient: Uh, well, I, I, um, play bingo. I, I love listen to older people talk because someday that's gonna be me. And, uh, um, oh, sometimes I just go, I, I like to sit by the water. Sometimes I'll go find a bench next to the river or something and just sit. Um, I love to watch people. I like shoes. So, I mean, the malls not open anymore. I don't know where I'll go to do that, but I used to go and just sit up there and watch people walk by and check out all the shoes. I like to read. Um, and I like to get recipes off of, uh, uh, what's it called? Facebook? And I love trying new recipes.
+Nurse: Ok. That is great to hear. So, definitely with, um, sitting by the water walking out that way and finding a bench, that's a great form of exercise. So not only will it help you feel better? You know, it causes those hormones and those chemicals in our brain that cause that happy feelings. So I'm definitely glad that you are getting out and about whether it's going to bingo or walking by the water and definitely look up some places that you can go shoe shopping or window, shoe shopping, all that good stuff. It creates happy feelings and we definitely want to keep that going. All righty. So let's see. I will go ahead and send that message on over to [PHI-Personal] in regards to your omeprazole refill as well as increasing your gabapentin. So I'll go ahead and get that message on over to her and either I myself will call you or you'll be getting a call from pharmacy to let you know that that medication is in. Um, if she does choose to up it, if she does wanna see you in the office, I'll give you a call back and we can figure out something scheduling wise. Ok. Sounds good. All right. M [PHI-Personal]. You have a nice time with the grandkids and I'll be reaching back out to you whether it's to let you know what [PHI-Personal] said or it'll be next month for our regular follow up call. Ok.
+Patient: Ok. Sounds good, honey. And you have a wonderful day. Thank you. You too. Bye bye bye.

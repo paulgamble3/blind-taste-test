@@ -1,0 +1,54 @@
+Nurse: This is [PHI-Personal] speaking.
+Patient: Hi. It's [PHI-Personal]. How are you today?
+Nurse: I'm well, how are you, sir? Did
+Patient: You just try to call
+Nurse: Me? I did, sir. We just wanted to reach out to you and see how you were doing. I know you've got your, um, hernia repair leader this month. Right. That's right. I do. And, and everything's all set for that. I think. So. That is wonderful. Did they do an EKG?
+Patient: Yes, they
+Nurse: Did. Ok. And, and even with the AFIB it was, it was good.
+Patient: I'm assuming it is because I didn't hear anything bad.
+Nurse: Then I would assume it was too. And you're not on any new medications, right? There's no changes to your meds.
+Patient: No, I'm not, I'm not.
+Nurse: Ok. That is wonderful. Now, with your AFIB, do you know when you're in AFIB? Can you tell?
+Patient: Um, really? I, no, I cannot.
+Nurse: Ok. So you don't feel like the palpitations or tired or anything like that? No. Huh. And no shortness of breath weakness, lightheadedness, any of that. No. Ok. I, I'm just curious because some people can tell and some people can't. So, it, in
+Patient: So far, none of that.
+Nurse: How long ago, were you diagnosed with the afib, if you don't mind my asking?
+Patient: Um, I think [PHI-Personal]
+Nurse: And it must have been, you were having a test done in an office or something and they found it. Mhm.
+Patient: Yes. Yes. My daughter is a nurse, nurse practitioner and, uh, when I was still after a two mile walk in the morning having trouble walking up a very short hill, she insisted that she go with me to see doctor, which she did. And then doctor [PHI-Personal] sat for the entire stress test and he counted the beats of my heart. And what he noted was the spacing was getting greater and greater. So, as a result of that, he recommended that I get the uh pacemaker.
+Nurse: That makes sense. So you have a pacemaker now.
+Patient: Yes, I do.
+Nurse: So, and that I would think that would have helped with the AFIB too because it would help regulate the beats.
+Patient: Exactly.
+Nurse: Exactly. That makes sense. That makes sense. So it hasn't really impacted you the same as it with some others because where you have the pacemaker, it, it kind of controls it for you.
+Patient: Yeah, because the symptom that I had was the lightheadedness and shortness of breath that I no longer had that following the, what
+Nurse: Your daughter deserves a gold star. I'm just saying,
+Patient: Consider myself a lucky guy.
+Nurse: Yes, that's what I'm saying. We should give your daughter a gold star because she nailed it. And now do you still see cardiology on a regular basis just to check everything?
+Patient: And, uh, it's a quarterly, um, for, uh, the remote check and once a year for the office check
+Nurse: Of the remote check they can do over the phone.
+Patient: Yeah. Well, uh, yeah, II, I have a divi I, uh, set up but I have to place over my pacemaker. Uh, and then I, I guess that's phone into them. I guess that that would be correct.
+Nurse: And then it transmits the signal over so they can make sure that everything's working properly. Correct. And you haven't had any problems with it right? Since put it went in?
+Patient: No, I have not.
+Nurse: When did you get that put in
+Patient: [PHI-Personal]?
+Nurse: I was gonna say, was it the same year? I didn't know if it was the same year or a little after. So, so it wasn't long after you were diagnosed with the AFIB at all.
+Patient: My daughter wanted to put in 15 minutes after the test was over.
+Nurse: I like your daughter's style. She wants to make sure you're around for a while, you know. Correct. Now, do you, is there a family history of AFIB?
+Patient: Yes, there is. My father had it and he uh lasted until he was [PHI-Personal]. My brother [PHI-Personal] had it who was also a patient of doctor, but my brother [PHI-Personal] did not follow the regimen prescribed. Did not. Oh no, it's a shame.
+Nurse: Uh, yeah, I was just gonna say that doesn't sound like it worked out well for him.
+Patient: No, he died at a fishing trip in [PHI-Geographic] from a heart attack.
+Nurse: Oh, I'm so sorry to hear that.
+Patient: But he was weighed about 300 lbs at the time, which is grossly overweight and, well,
+Nurse: That's gonna put a lot of strain on his heart even without the AFIB
+Patient: And he was, he was admonished about it numerous times and did nothing. But he had been a smoker for over 30 years, maybe longer, maybe 40.
+Nurse: So, you've got the smoking, you've got the weight and then you've also got the AFIB. So, yeah, those are some big risk factors right there. But, yeah, I mean, because they have already put the strain on your heart and then the weight and the smoking and I'm guessing his diet was probably not great either.
+Patient: It was not a plus. I wanna make that clear. It was not,
+Nurse: It was not, what
+Patient: Was not a plus. It was,
+Nurse: That was not, that's very generous of you just to, to not say he got an f but he did not get an A plus. Well, I am glad to hear you're doing so well and that everything is in order for your surgery. We just wanted to make sure you had all that and that there wasn't anything you needed.
+Patient: I think I'm doing fine so far.
+Nurse: It sounds like you are doing great.
+Patient: Thank you for the call. I
+Nurse: Appreciate. You're welcome. You have a wonderful day. Bye now. Bye
+Patient: Bye.

@@ -1,0 +1,12 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Hi, [PHI-Personal]. This, uh, this is [PHI-Personal] A and my, uh, uh, nurse is [PHI-Personal] and I just wanted to add that. I went and got my second booster. Yeah, let me transfer
+Nurse: You to her, honey.
+Patient: Ok, thank you. Have a great day.
+Nurse: You too, honey, thank you. You're welcome. Let me see if it'll let me. Mm, maybe, maybe I will. Oh, I wonder if she's off this afternoon. I bet you. That's what it is. All right. Ok. That works. You go ahead and you tell me.
+Patient: All right, that sounds, that sounds great. So, my name is [PHI-Personal] Jan. I ce ad A IR and I'm doctor [PHI-Personal] De Patient. Um, I, I went and got my second booster on last Thursday, [PHI-Personal] in the afternoon at the giant pharmacy in Danville. Ok.
+Nurse: Right. Did. Ok with it. No, no problem. Yeah,
+Patient: It, it, it was just really sore, uh, for a couple of days and I was really, I was just tired and, uh, so I just rested and, uh, didn't take any, uh, I mean, I take Tylenol with some medication that I take for pain. So, um, it was, uh, I just, you, I didn't take any extra medication so
+Nurse: It's a side effect. A lot of people have been having.
+Patient: Yeah, my husband, I was gonna say he ended up having, he had his quite much earlier. I mean, he had his earlier than I did and he had pain in his arm for, uh, at least a week or about a week or two. And so, but he, but he works, um, as a uh courier and has to lift packages, you know, boxes and stuff. So I'm not sure if that's what happened, but he said of all the shots that he had, that one definitely was the one that hurt him. I mean, that has more pain and lasted longer, right? You know, and stuff. Ok. Well, thank you so much and I appreciate it. You're
+Nurse: Very welcome. I hope you have a good day.
+Patient: You too. Take care. Bye bye. You too. Bye.

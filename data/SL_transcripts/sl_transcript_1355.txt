@@ -1,0 +1,47 @@
+Nurse: Hi, good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is returning your call.
+Nurse: Oh, good morning. How are you?
+Patient: I'm good. I'm good.
+Nurse: Good. Um, give me one second to pull up your chart. Ok.
+Patient: Ok.
+Nurse: Ok. Here we go. I got you pulled up here. So, since we last talked any changes to your medical history or any medications?
+Patient: Uh, no.
+Nurse: No. Ok. Good. Um,
+Patient: That's your care plan. Go.
+Nurse: Oh, yes. Perfect. So, um, I wanna discuss the results of your urine, um, culture and urinalysis. Did you check my chart to see the results? Yes. Ok. So those came back negative, which is good. Good. All right. So, do you still have those symptoms that you were discussing with me before or you feel a little bit better?
+Patient: Um, not, they were so vague. I concerned that there was never a follow up to the, um, you know, after I took the antibiotic, right? So maybe that, um, on, on the care plan a goals. Let me just tell you what I'm doing. Um, let me call something up. Is there any way I can send something to you? Like a document? Um.
+Nurse: Mm. I don't think so, but I can get back to you [PHI-Personal] that. What, what did you wanna send to me?
+Patient: Well, because I went through the care plan thing and, um, and I li listed, I followed, ok, you know, endocrinologist with it. Um, I have wrote, wrote down appointments two times a year. The next appointment is, um, [PHI-Personal], I get an ultrasound once a year. Next appointment is, um, you know, somewhere in two, in 2023 and bone density I have every two years. I have to, um, double check on with what date it was ophthalmologist. The exact same thing I see him two times a year. Every single time I see him, he does a glaucoma screening, then pulmonology, dermatology, dermatologist also to remove the allergist. Craig. I no longer see him. The issue is, and then adding a gastroenterologist, um uh next appointment is in 2023. Ok. July. Ok. So it's kind of like a summary. So, um, and sort of an update on what happens, right.
+Nurse: I'm sorry, continue.
+Patient: No, go ahead. You your speech.
+Nurse: No, I just wanted to get it, um, sorted out. So you want me to remove the allergist and then you said that you have a list of, you know, your endocrinologist, the bone density. Um Yeah. Uh huh. That you, that you already have your appointment set up for. Yes. Mhm. That's fine. We just wanna make sure that you're, it's just a list to make sure that you're, you know, um, following up with those, those, um, specials.
+Patient: So you don't really need to see a document or?
+Nurse: No, no, no, no, no, no, no, no. Oh, ok. Ok. Because everything is kind of, um, what's the word that I wanna use? We're able to see it, uh, in our, in our charting system? Ok, because
+Patient: I find that when I look at my chart, um, I can take off medications that I no longer take and add one. It doesn't always go through and this is, I talked to doctor [PHI-Personal] it. Ok. And, and he, yeah, sometimes it doesn't go through and also there's no way to add any position.
+Nurse: Uh, like, like if you have a new, let's say, um, the eye doctor, right,
+Patient: The gastrologist was new. So,
+Nurse: Well, we, we can take care of that stuff on our part. Um, in terms of like the medications being added and removed when I speak to you. I'm the one who updates your, your medications, you know, in between your doctor visits. Ok. So if we talk and you say, hey, look, I've been put on this new antibiotic. I go on ahead and I make sure that it's in the system. Ok.
+Patient: Ok. But every time I talk to you that's a billable thing.
+Nurse: Well, no, it's not. Every time you talk, it's based off of the care that I provide you for the month. So it's not it's not based off of each phone call. Now. Um, and I wanna circle back around to the, to the um results there. So going forward just so that, you know, um, we prevent any possible, you know, urinary tract infection because I know you said it was a very, um vague, um, symptoms. You didn't even know that you had it until you attended the hospital. So just be mindful to just drink plenty of liquids, especially water. Ok? Because it helps to dilute the urine and helps you to, you know, urinate more frequently to keep the
+Patient: Urin track. Drink a lot of
+Nurse: Good and if you can. Mhm. I'm sorry.
+Patient: Yeah, I drink iced tea unsweetened. It's basically water with a tea flavor in it. Ok? All
+Nurse: Right. That's good. Um, but if you can tolerate, could you try cranberry juice as well? That, that definitely helps. So, you know, prevent UTIs and flush out your urinary tract system? Um, let's see here and again, if you do feel like you have any symptoms of anything, don't hesitate to let someone. Oh, hey, look, I think something might be going on. Let's go on ahead and get that checked out. Ok.
+Patient: Um, I don't see Doctor [PHI-Personal] that often I don't have a regular appointment. Um, I'm, I'm just saying this, it's, you know, because I have all these other specialists.
+Nurse: Right? Well, then, ok. No, I was gonna say in the event that something is going on the nice thing [PHI-Personal] this is that I can always send a message over to doctor and then he could let me know, hey, this is what I recommend and then I let you know. So if he wants to see you, I'll let you know he wants to see you. If he has recommendations for you to do at home. I would let you know you know what I mean? So you don't have to wait until your next appointment.
+Patient: Ok. Ok. Um, on, on the care plan goals you have um, the last one is meter dose inhaler counseling. What is that? Let's see here. Ok. So I take an inhaler. Yes. [PHI-Personal].
+Nurse: Yes. So, um with e everyone who has like an inhaler like you do, um, it's recommended that you just do some education or teaching um on to how to properly use it. Ok.
+Patient: Ok. And my pulmonologist does. Mhm. Mhm.
+Nurse: That's, that's all it is and we just check off that it was done because, you know, sometimes people have things in it, they're not using it correctly. So we just wanna make sure that, you know, the education is there, that's all.
+Patient: And, and BP screening, honest to God, I, when I see a doctor they take my BP,
+Nurse: Right? That's, that's usually along with your annual wellness visit.
+Patient: Um, and uh mine has held steady at a very good number for a long time. That's really good. Yeah. Um, Spir. Spir to me, Ry.
+Nurse: What? Barometry? Yeah. Yes.
+Patient: It's a pulmonary function test. Mhm. Mhm. Ok. Um, I see the pulmonologist twice a year. Um, the first few, few years I saw him, he did the test. He hasn't done it in a long time. I, you know, I get the, the cancer screening once a year. Oh, ok.
+Nurse: So that's, that's ok. That's great. So, it's just a list throughout the, everything doesn't have to be addressed, you know, right away.
+Patient: Ok. No, I know that I just I have all the I have the appointments all. Yep, which is good. Yeah. Ok. All right.
+Nurse: Yeah, sounds good.
+Patient: Yeah sounds
+Nurse: Good beautiful. So MS [PHI-Personal] take care of yourself and look out for a phone call from me next month. Ok.
+Patient: Ok. Ok. Alright bye bye
+Nurse: Bye.

@@ -1,0 +1,48 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Well, good, good afternoon. Sorry, we missed your call. This is [PHI-Personal]. I think you were calling about regarding [PHI-Personal]
+Nurse: [PHI-Personal]. Yes. Hi, how are you doing?
+Patient: I'm doing fine. How are you?
+Nurse: Good. I had just been calling you earlier because, um, you had signed up for the nurse, case management, um, program with doctor's office. Um, so I was just to introduce myself.
+Patient: Well, thank you. I'm not. And the more I got to thinking about it after I signed up, you know, I'm not sure this is all necessary because I take care of everything for mom and if I have any questions, I'm not shy, I call s office and find out what's going on. Um, she's doing well. We were just out and had her, uh, she had a hair appointment this morning or this afternoon, get her hair done and then we went by Wegmans and got our next, um, our, our, our booster shot, whatever, whichever one that was. Um, and uh, we had our flu shots two weeks ago. So the three of us go together, my husband myself and mom as long as we're out and about, you know, um, uh, but as far as she's doing well, uh, uh, her medications are ok, everything's going well, uh, like I said, if I have any questions, if I'm in doubt about anything, II, I call Gan's office. I'm not, I don't wait around, you know what I mean? Until she has an appointment or anything. I, I call right away because I just, you know, I just need to find out she's my mom. She is, you know,
+Nurse: I mean, and, and basically what the case management program is is, you know, the doctor was just having us call, um, everybody to see, you know, how they're doing to kind of see if there's anything, you know, we can help with like, medication refills, things like that. But, you know, it's, it's just, um, calling, you'll be calling somebody who's more who's familiar with her case, who knows her medications, things like that. So, it's kind of just like a direct line for a nurse if, if you wanted, if you had concerns.
+Patient: Yeah. No. Uh, I take care of all her medications and, uh, when I fill her pill boxes, if I always count to make sure I have enough for, you know, the week after and if she needs anything, I, I take care of it. Um,
+Nurse: So, I mean, if you, and if you feel like it's too much for us to call every month, I mean, we could call, you know, every 23 months because it's usually less than a five minute call and then that way, you know, do that,
+Patient: Stretch it out. Yeah. Yeah. Stretch it out. Every couple months. Every two months will be fine. Yeah. Yeah. And, uh, like I said, I can, uh, I, I call if I'm, if I have any questions or, or if there are any issues with her, I, I call right away and
+Nurse: So get things taken care of and I'm, I'm here Monday to Friday. 8 to 4 30. So, I mean, you don't have to, you know, wait for me to call you every few months. I, the number you called is my direct line. Um, so unless I happen to be on, yeah, unless I happen to be on another call, you know, I'm, you know, pretty good at answering my phone quickly and I can usually get back to you within an hour if, uh, he have to leave a voice mail. I'm on a
+Patient: Call. Um, would it
+Nurse: That, would it good? Would it be ok if I just read you the list of medications we have on hand and you can tell me if any are, you know, you've stopped or any are incorrect or we're missing anything.
+Patient: Um, let me get my list and I'll, I can hold on. That's no easy. He's making popcorn, the air poppers make a lot of noise. Yeah, they do. So, um, ok, you, you wanna read them or you want me to read them to you? What I'm, what she
+Nurse: Takes. Why don't you read them to me real quick and I can check off everything on my list.
+Patient: Ok. In the morning she takes Vitron C 1 [PHI-Account] mg, Levo [PHI-Personal] MC G vitamin D 1000 unit or D three, I'm sorry, 1000 units.
+Nurse: Can you back up? She's taking levothyroxine now? Yeah. When did she start that?
+Patient: Mm. When she got home from the nursing home,
+Nurse: I know who started her on, who started her on that? I don't know. There we go. 0, [PHI-Personal]. How much? So, how much is it?
+Patient: [PHI-Personal] MC. Ok,
+Nurse: Perfect. All right. Um, and she's taking that on an empty stomach an hour before any meds or breakfast, right?
+Patient: Yeah, she's, well, she, no, she usually takes it with her breakfast.
+Nurse: Oh, it's, that's, um, that, uh, that one has to be taken on an empty stomach and you wanna wait at least an hour before you eat anything. Um, otherwise it doesn't absorb fully. That one's really finicky. Yeah, it's her thyroid hormone. Oh, ok. And, yeah. And if her thyroid hormone's too low, um, you know, she'll be really tired, dry skin. Um, you know, it's, it, her thyroid regulates like your heart rate, your body temperature, you know, you can slow down your heart rate, things like that. So that one's really important. So you wanna, if you can give it to her you know, as early as possible because if it's too late too, it can give you insomnia.
+Patient: Oh, no. She, that she doesn't have any problem with. No, she does not. Very rarely will she fall asleep during the day. But she, she sleeps well, at night she does, you know, does well that way. So I did make note of that. Ok. Uh, an
+Nurse: Hour. Sorry, go ahead. I just try to do at least an hour. A part.
+Patient: Next, next is D three. Vitamin D three. Then she takes, uh, for women. [PHI-Personal] plus. Mhm. Multi vitamin and B, 12, 1000
+Nurse: Milligrams. I have a 2500. So we're only taking 1000 now. Yeah, that's
+Patient: All I'm thinking. Ok. [PHI-Account].
+Nurse: Oh, correct.
+Patient: Ok. Um, and then morning and at evening she takes furosemide 40 mg. Mg folic acid. One, mg. Mhm. Eliquis 2.5. Mhm. And spironolactone 12.5. Ok. And then at night she takes, uh, vitamin C, 1000 and 20.
+Nurse: Vitamin C 1000 that we had 500 then 20 mg. 20. I didn't have that one at all. All right. That's it. So, does she still have the diclofenac or the Voltaren gel if she has topical pain? It's a topical ointment.
+Patient: Yeah, I know the, I know Voltaren. No, she doesn't, she hasn't been using that. She, she doesn't need that. Ok. And the other one you
+Nurse: Said, um, as the, so does she have, oh, that was, I was giving you, it's the diclofenac or Voltaren, but she's not using it. That's the generic, um, Tylenol as needed. Yeah. Yeah. And then I see meclizine 12.5 mg as needed for dizziness as
+Patient: Needed. Yeah. As
+Nurse: Needed. Ok. And does she still use three liters of oxygen per minute?
+Patient: Yes. Three liters. Yes. Yes.
+Nurse: You have a pulse oximeter for her.
+Patient: Um, is that, is that the, the oxygen thingy? Yes, that you put on the finger?
+Nurse: Yes. Yeah. Ok. What does she usually run? Just out of curiosity? I
+Patient: Don't know. We haven't done that in a while. Doctor hasn't asked for that. The only thing, the, the big thing he's asked for is weighing her and her weight is stable
+Nurse: Good and you do that, you know, do you do that every in the morning and then she's wears, she wakes up pees, doesn't eat or drink anything. Um, and she's wearing exactly the same thing. Good. Perfect,
+Patient: Good job. Ok.
+Nurse: All right. Um, am I missing anything else?
+Patient: I don't think so.
+Nurse: Hey, can I get you, um, you can I help with any refills or is there anything I can help with while you have me on the phone? No,
+Patient: No, we're good there.
+Nurse: Ok. In that case, you know, you have my direct number. So if you think of anything, please feel free to give me a call. Um, otherwise I'll give you a call in about two months to see how your mom's doing. Ok.
+Patient: Sounds fine. Ok. Thank you, Jessica. Uh huh. Bye bye bye.

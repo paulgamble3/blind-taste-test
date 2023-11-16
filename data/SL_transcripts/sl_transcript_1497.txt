@@ -1,0 +1,41 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: I'm sorry, this is [PHI-Personal]
+Nurse: [PHI-Personal]. Hi, how are you?
+Patient: Uh, doing good.
+Nurse: I know, I told you, I'd call you at three but I got a little behind. So it's 3 30. Um, that's all
+Patient: Right. So wait a half hour for doctors and nurses. I mean, that's, that's a good, if you, I, I get in a half hour. I'm doing good.
+Nurse: Yes, that is good. Um, I was just calling to reach out about the chronic care management program, um, that through Dr [PHI-Personal] office. Are you able to talk about that right now or are you busy?
+Patient: Well, I got a little bit of time.
+Nurse: Ok. Um, so what the program is is you'll have a designated nurse and that nurse, she will give you a call on a monthly basis to check in, see how everything's going with you. And then I will also give you her direct number. Um, which is the number that you called me back on. That is the direct number. So, if, um, you ever need any refills, any health concerns questions, anything like that comes up, you can always reach out to [PHI-Personal] as well.
+Patient: Ok. Ok. Yeah, that sounds like a good deal.
+Nurse: Yes. And then I just want to, um, can I read over your medications here just to make sure everything we have still. Correct? Sure. Ok. So I have your alcohol swabs as needed. Yeah. Ok. Um, your blood glucose meter, your glucometer and your testing supplies. And then I have your Farxiga 10 mg daily. Yeah. Uh, iron daily. 324 mg daily. Correct? Uh Flonase twice a day.
+Patient: Ok. Twice a day. No, once a day,
+Nurse: Once a day. Ok. Let me change that here.
+Patient: Yeah, once a day, but they upped it
+Nurse: The Flonase for your na the nasal spray.
+Patient: 00, I'm sorry, I'm sorry. No, I'm not doing any of that. I, I was thinking of uh Flomax.
+Nurse: Ok. Let's see. I don't even have Flomax on your list. I don't. Oh, yes, I do down here. It's, is it once a day?
+Patient: Once a day?
+Nurse: Yes. The 0.4 mg.
+Patient: Well, it's up to 10 now.
+Nurse: Ok. Ok. And then your Cialis 20 mg as needed.
+Patient: Ok. Don't need that anymore.
+Nurse: So you're not taking that one. No. Ok. And then simvastatin 80 mg at night time. Correct? Your Ozempic 0.5 mg weekly. Yeah. Ok. Your Xarelto 20 mg every evening,
+Patient: Right? My, my Xarelto now that's morning
+Nurse: In the morning. Ok. Just once a day though,
+Patient: Right?
+Nurse: Ok. And then your multivitamin daily,
+Patient: Right? That's morning.
+Nurse: Ok. Um, the omeprazole 20 mg daily.
+Patient: Uh No, that's uh once every other day,
+Nurse: Every other day. Ok. Oh yeah, I do see that here. Metformin 1000 mg twice a day. That's correct. Ok. And then Lisinopril 10 mg daily, correct? Ok. Anything else there that I missed?
+Patient: No.
+Nurse: Uh uh and um do you keep your pills, do you keep them in like a pill box or do you use just the bottles?
+Patient: No, no, I have a pill box that for AM and PM.
+Nurse: Ok, good. And then um do you need refills on anything that Doctor [PHI-Personal] prescribes for you?
+Patient: No, I think we did that last time when I was in. Ok.
+Nurse: Ok. Sounds good. Um Well, like I said,
+Patient: I don't remember you saying anything about Ozempic. Did you say Ozempic? And I,
+Nurse: Yeah, you can. Yeah, we got that one. Ok. Um All right. Well, [PHI-Personal], she will give you a call next month to check in on you. But if you need anything before that you feel free to reach out and give us a call.
+Patient: That sounds good. I'll put you on the phone.
+Nurse: Ok. You have a good day. You too. Thank you. Bye bye bye.

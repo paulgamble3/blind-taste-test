@@ -1,0 +1,12 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi. Yes. May I speak to [PHI-Personal], please?
+Nurse: Um, [PHI-Personal] actually off for the rest of the day and, um, I'm
+Patient: Covering. Ok. Well, we talked and my name's [PHI-Personal]. Ok. And your name is what
+Nurse: My name is? [PHI-Personal]. And I'm covering for her for the rest of the time. Hi,
+Patient: [PHI-Personal]. Yeah. Um, I ordered medicine and it hasn't been sent to Rite Aid yet and I'm wondering why that was a few days ago and let me check for you. The Methocarb. Hm.
+Nurse: Methocarbamol. Yeah.
+Patient: Usually I just, well, I just call in, you know what I mean? And it does
+Nurse: Say it does say it was sent today.
+Patient: Oh, ok. Awesome. That's what I was wondering because her and I had a private talk, you know, and then I was just wondering about my medication. That's all because they're usually pretty good. They send it in the day of, you know, that I call. But, um, and Rite Aid drops the ball a lot too, you know, they'll call me, they'll text me at night time. I don't like to go out at night time and drive, you know. No, I can't see that good at night.
+Nurse: Well, maybe try calling them again here soon and see make sure they got it because they should have got it today. Ok?
+Patient: Alright, thank you so much. You're welcome. Bye bye bye.

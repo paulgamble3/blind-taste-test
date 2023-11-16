@@ -1,0 +1,66 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yep, this is [PHI-Personal]. Hi,
+Nurse: [PHI-Personal], how are you? All right, sorry. We're playing phone tag. Yeah. So let me just pull your, uh, uh, name up here for me. Ok. I wanted to go over a few things. So, um, I'm, I'm actually the nurse that was, uh, assigned to you and you were enrolled into the CCM program. So I just wanted to go over a few things if you have a few minutes. Sure. All right. Ok. Can you just verify your date of birth for me?
+Patient: [PHI-Account]
+Nurse: Right. And how about your, uh, current mailing address?
+Patient: [PHI-Geographic].
+Nurse: Ok. And then are you still, do you still have the GHP gold for your insurance? Yes. Ok, perfect. And then who do you use for your Phar Pharmacy? Currently?
+Patient: Normally I use the mail order for singer. Ok. But if it's something that, that I need right away or something, then he usually phones it in at CV S.
+Nurse: Ok, perfect. All right. So, um, a couple of things I just wanted to go over, um, I'm gonna send you a letter today. With my name and number. Um, that way, then you have it readily available for you. I like to tell my patients just to put it on the, um, fridge. That way, then you can get to it if you need to fast. Um, plus then you don't lose it. Uh, and then with that letter today being that it's [PHI-Personal], I'm actually gonna send some wellness goals attached to that and what those are is it's just like making sure you go to the doctor, um, if you need any blood work, things like that and we'll check them off throughout the year and when we do that, um, we'll work on that together. Ok. And that's just to keep you kind of as healthy as possible. Um, the great thing about the CCM program is you can actually call me if you have any questions, if you need like new medication refills, any questions about upcoming appointments or if you're having any, um, acute signs and symptoms, you can let me know and I can also let the office know as well. Um, and then I'll call you once a month and I'll say, hey, it's just me just checking in seeing how you're doing. We'll go over a few education things to kind of try to prevent any, like flare ups or signs and symptoms from certain diagnosis that you have. Ok. Ok. All right. Um, by any chance, can you go over your medication list with me or do you not have that available right now?
+Patient: No, I can get, I mean, just go out and walk out the kitchen.
+Nurse: Ok.
+Patient: I'm on a new drug, OIC
+Nurse: Ozempic. Yep. I have that on there. Inject, uh, 0.5 mg weekly. Right. Yep. I got that. I can actually go through the list if you want. Would that be easier? Ok. Go ahead. All right. And when you do your medications, um, [PHI-Personal], do you use the pill box that has Monday? Tuesday? Ok. Yeah, perfect. All right. So I have Losartan potassium slash hydrochlorothiazide 100-12 0.5 mg take one tablet by mouth every day.
+Patient: Yeah, but I didn't get them. Yeah.
+Nurse: Oh, you didn't start them yet? No,
+Patient: They're on, they're on order.
+Nurse: Ok. Do you have any at home right now?
+Patient: No, I'm just still taking just 100 mg of Losartan. OK. For now for now.
+Nurse: All right. And then is he gonna have you DC that and take this afterwards? Right. Yep. OK. So continue on Losartan. And it's the 100 mg you said for the Losartan you're on once a day. Yeah. OK. All right. And then I have nystatin um apply twice daily to affected area until resolved. Yeah, for rashes you still have that. Yes. OK. How about your Metformin? 500 mg, one tab by mouth twice a day. Yes. All right. And then how about tamsulosin 0.4 mg. Take two capsules by mouth every day. Uh Yes. Preparation. H use one suppository daily for three days as needed for rectal bleeding or rectal pain.
+Patient: No, I haven't been using that.
+Nurse: Ok. Do you use, do you use it? Like, have you used it in the last year? I,
+Patient: No, I haven't used it ever.
+Nurse: OK. All right. And then how about your um I'm gonna say this terrible. The uh flu Fonzo 200 mg. One by mouth weekly. Oh yeah. OK. And then I have the di Diclofenac sodium 75 mg take one tablet by mouth twice a day as needed with food. Yeah. OK. Um And the fenofibrate 145 mg take one tablet by mouth a day a day with food.
+Patient: Yeah.
+Nurse: OK. And then I have the Arnuity Ellipta 200 MC G. It's an inhaled one puff a day, right? And then the escitalopram oxalate 20 mg take one tablet by mouth every day.
+Patient: Yes.
+Nurse: OK. And then multivitamin one by mouth every day. Yes. OK. Albuterol sulfate inhale one via sorry every two hours via neb
+Patient: I I have it but I haven't had to use it.
+Nurse: OK? And then then Naltrexone HCL 50 mg take one tablet by mouth every day for alcohol sensation. Yes. OK. The famotidine 40 mg take one by mouth twice daily. Yes. The atorvastatin calcium 80 mg take one tablet by mouth every day. Yes. And then the levothyroxine sodium 25 MCG is one tablet by mouth every day. Yes. The aspirin, 81 mg one by mouth every day. Yes. Gabapentin 300 mg take two capsules by mouth three times a day. Yes. Hydroxy hcl. 50 mg take one tablet by mouth every six hours as needed for anxiety. Yes. And then the metoprolol one hu it's the er 100 mg take one tablet by mouth every day.
+Patient: What, what would you say that one again?
+Nurse: Metoprolol ate, er, 100 mg. Take one tablet by mouth every day. No,
+Patient: My, uh, my, uh, orthopedic surgeon changed that to, to 50 mg a day.
+Nurse: Ok. So you're on it for 50 mg. Yep.
+Patient: And that's why I'm on, that's why I'm on, um, the Losartan with the water pill in it.
+Nurse: Ok. All right. Yeah. Ok. So you're doing 50 mg one tablet a day
+Patient: Of metoprolol? Yes. Ok.
+Nurse: And then are you still doing your lancet using the lancet? Testing your blood sugar? Yeah. Ok. Perfect. Any medications that I didn't, um, say that you're on? No. All right. And do you feel like that the medications are helping with your depression at all?
+Patient: Well, I don't know, but like, I, I'm kind of afraid not to take it because, um, if it is, I mean, I, I don't know. I, I can't tell but, but, you know, if it's one of them gradual things, I don't know.
+Nurse: Yeah, I wouldn't recommend stopping it without talking to your doctor first. I would continue taking that for sure.
+Patient: Um But that's for, does that relieve anxiety also?
+Nurse: Yep. Yep. Depression and anxiety. You have the two here, the um ci and the um where's the other one?
+Patient: Yep. Yep. Mhm.
+Nurse: So um do you need any medication refills today?
+Patient: Uh No, I, no.
+Nurse: OK. Perfect. All right. So um really, that's all I kinda wanted to do today if you have any other questions. Go ahead.
+Patient: Yeah. The OIC. Yeah. Uh the first two doses of that I did, I did it wrong. So it never went into me.
+Nurse: When did you do? When did you do that?
+Patient: That's when I first started it. That's back when I was just on 2.5. OK. And uh and the doctor prescribed that a guy singer and uh I called her and told her what happened and she said, well, and at that time I was getting that filled at markets because they're the only ones that had it and uh they filled it and then I explained to them what I did wrong and uh and they, they fill, they re they were able to refill it for me.
+Nurse: Oh OK. Good. And uh the
+Patient: Doctor, yeah, I didn't have to stop because she said, well, she says if, if they won't refill it just, just take two weeks off
+Nurse: But they were able to fill that.
+Patient: They filled it. Yeah. So I'm good but I don't know what's gonna happen here. Because I have one more week left and then I'm gonna be out and I don't have an appointment back up there until I forget when, but doctor said to let him know and he would give me samples.
+Nurse: Ok. So I let him know that you have one more week left. When are you, when are you gonna inject?
+Patient: I just did it, uh, today I just did it today.
+Nurse: Ok, so we're looking at the [PHI-Personal], so the [PHI-Personal] will be your last one
+Patient: Right now. He, he told me to call up there and see if they'll phone it in and if not then he'll just give me samples to hold me over.
+Nurse: Ok? I'll let him know. Ok. Alright. All right. All right. If you don't have any. Yep. Go
+Patient: Ahead. They, they called me and my uh A one C is I think like 6.5. Yeah,
+Nurse: Somewhere. Yeah, they said that they talked to you about it today. Yeah. Yep, I've seen that. Yep. Um let me just see. It says, yep, patient aware and understands information. Ok. Yep. I see that
+Patient: And then I have an appointment today out at for do or uh for my feet. Foot doctor?
+Nurse: Perfect. Do you see a um therapist for your depression anxiety or just your primary?
+Patient: Just a primary? Ok.
+Nurse: All right.
+Patient: That they, they prescribed that when I was in the psych unit.
+Nurse: Ok. All right. But your primary follow up was right. Ok. All right. Well, like I said, if you have any other questions, just give me a call. If not, I'll call you in about a month and I'll talk to doc about the Ozempic and make sure you get that. Ok. Okey dokey. Alright, you have a fantastic day.
+Patient: Alright, thank you. Alright bye bye.

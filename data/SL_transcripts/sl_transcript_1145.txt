@@ -1,0 +1,50 @@
+Nurse: Hello, this is one of the nurse, case managers here with Doctor [PHI-Personal] [PHI-Geographic]. How can I help you?
+Patient: Yeah, this is sh hard. Um, I have been, had my, um, ovaries removed years and years ago, but yesterday I had blood, I don't know if it was coming from my bowel or from my, uh, other part, the other part. But anyhow, I had, I was bleeding and I was wondering if he wants to see me or what to do. All right. Um,
+Nurse: Well, definitely good idea. Calling in. Uh, let me just pull up your chart here so I can get a little bit more information from you. Are you still bleeding today?
+Patient: No, I, uh, last night I said a good bit because, uh, my husband passed away four years ago and now I'm living with my son and I don't have as much work to do and I do sit a good bit. So, um, I think that's probably part of the problem, but I don't wanna be bleeding either the last night when I'm sleeping this morning, I'm ok.
+Nurse: Ok. Now, um, when you, when you say you're bleeding, was it like you went to the bathroom, you wiped, you saw blood on the, uh, on the toilet paper or was it, you, you felt something, you went to the bathroom and you had blood on your, um, handy pa, you had, you had blood on your
+Patient: Pad. Yeah. Ok.
+Nurse: And you're not sure if it's coming from your rectum or from your vagina. Yeah. Ok. When you wipe
+Patient: My bladder dropped and that's why I'm having problems. If it didn't drop, I would probably be ok. But being sitting on it, you know, most of the time, I guess, I don't know. I guess I sit too long. I, I really don't know. Ok.
+Nurse: And were you lifting anything heavy
+Patient: Yesterday? Um, not real, real heavy, but it was on my pad? Ok.
+Nurse: Was it bright red? Was it? And was it browner in color?
+Patient: Yeah, it's more red. Ok.
+Nurse: And since it was on your pad, um, we might, we can get a good indication of how much. So, do you, would you say it was the size of a dime, a nickel, a quarter, a silver dollar,
+Patient: I say [PHI-Personal]. But this morning, like I said, I was laying flat and it, it always goes up in the night time when I'm laying down my bladder. And, uh, this morning I don't have no problems. Ok. But I'm starting to set again. So I thought I better call and let you know. All right.
+Nurse: Um, have you had any problems, um, having a bowel movement.
+Patient: Uh, well, I've been, I had went down there to and they were telling me I had to eat a lot of, of, uh, greens, you know. So I've been eating, uh, uh, whole wheat grains and stuff like that. So, uh, not as much as I used to. Uh, once in a while I have a little bit but not like it did before.
+Nurse: Ok. So you have, are you feeling constipated?
+Patient: Uh No, I had went, uh, the day before so I figured I was ok. Ok. And
+Nurse: When you went that day before, um, was it really hard?
+Patient: Uh, it was, uh, I would say yes. Ok. And I think it's because I'm sitting on a ladder all day long, you know, but I go down to eat breakfast downstairs and, and I do my own laundry. So when I can go up and down the steps, I'm getting a little bit of exercise and when I go, I went to the grocery store yesterday and I asked my son to drop me off and I go up and down the house. So I get exercise.
+Nurse: Ok. Well, that's a good source. Um So, and that's gonna keep your bowels moving too. Exercise is really good at that. I'm just trying to get a good understanding cause sometimes if you're, if you have um really hard stools, if you have any sort of hemorrhoids or anything, it can trigger some bleeding So I'm just trying to get a good idea here of what exactly. Um, your bowel habits are. So, you have,
+Patient: I do have hemorrhoids. I know that because that's when the bowels it get really hard and they can, I do have just a little bit of blood. So, yeah, I know I have hemorrhoids.
+Nurse: Ok. And do you feel like this could have been, was normal for your hemorrhoid bleeding or this was more than normal?
+Patient: And I think this is more than your normal? Ok.
+Nurse: All right. And the bo so I just wanna make sure I'm getting the time line straight here. You, um, today is Monday. So Saturday you had a pretty hard bowel movement and then Sunday you had some bleeding on your pad and then today so far you're good,
+Patient: Right? Ok.
+Nurse: All right. So it very well could just be the hemorrhoid. Um, it could be, it could be vaginal, um, when you're wiping after you have a bowel or when you wipe, you go from front to back, correct?
+Patient: He probably had to go from back to front.
+Nurse: Ok. When you go from back to front, you can actually introduce some, uh, fecal matter bacteria into your urethra and you put yourself at a higher risk for a urinary tract infection. Oh, ok. So you do want to try to go from back to front. I know sometimes that can be a little hard as far as manipulating. So what you can do is just, you know, try your hardest just to when you do have a bowel movement, just wipe your rectal area and avoid your vaginal and urethra area. And then you can, you know, wipe those separately. Never used the same toilet paper to wipe them.
+Patient: Ok.
+Nurse: Um, and you haven't had any bleeding since that one silver dollar size.
+Patient: Uh, well, let me see. Uh, let me think here now and, um, it started, uh, well, I didn't realize that I, what I do, um Saturday. So, so this Saturday night I started and then I went Sunday, I uh sa and then we went out to eat and uh when I come back, it was still in my, but uh like I said, now I laid down last night and this morning it was ok. So I think it's because I'm sitting so long. It very, it
+Nurse: Could be that um one of the things that if it is vaginal when you're sitting, you have gravity there that can help release any bleeding that would be in there. Um So that is a possibility. Um It very well could have just been because you had a heart, a very hard stool. It could be hemorrhoid related. Um I'll send a message over to doctor [PHI-Personal] and see if he wants you to come in or if you ju just monitor at this point. Definitely monitor w what's going on if you have any further bleeding. Give us a call. Um,
+Patient: Now this morning I haven't had it yet. Just came to the bathroom and I'm still ok.
+Nurse: Ok. And did you have a bowel movement yet today?
+Patient: Yeah.
+Nurse: All right. So, um, how much water are you drinking? I wanna make sure you have an, you have some soft stools here. I don't want you to have two harder stools.
+Patient: Well, I tell you that's where I fell quite a few times. In [PHI-Personal] [PHI-Personal] I had eight bowls. Mm. And, uh, I wasn't drinking enough water. So then I was drinking and I went to the doctor jumper and he said, uh, what is it? 64 0 that you're supposed to drink? Is that what it is? How much are you supposed to when you, I got the job, [PHI-Account] [PHI-Personal] glasses. Uh, so anyhow, I went to the doctor to put in the mouth to make sure I'm drinking the water. And, uh, so then I got to the point I was still falling. So then they said, well, go to the kidney doctor cause I have kidney problems too. And I said, ok, so I went to the kidney problem and she said you're drinking too much water, go down to 40 ounces. So then I went down to 40 ounces and I still fell. I had eight s in, uh, [PHI-Personal] [PHI-Personal] 20 then in 2021 I, I think I got down to about five Fs. And this year so far, knock on wood, which I beside a wooden table, I already had one and that was just, uh, last week in [PHI-Personal], I went down to the, uh, springs, uh, uh, the field because my grandson, he, he runs around the track and, and my son is says, uh, you wanna go along? And I said, just to get out and, yeah, I'll go along. So we got a lawn chair and sit on and I watched him go around the track a couple of times and when I got up, I fell and my, I fell backwards and said, well, that's stupid. And I said, well, no, but I don't know what it does. So, anyhow, then he said, well, I think when you got your feet up and then you just went backwards and I haven't fallen since. So this year I'm doing good.
+Nurse: Good. Don't do no more falls.
+Patient: No, I hope not. No. Like I said, I had from, uh, [PHI-Personal] of last year until [PHI-Personal]. I had no falls. And then I had that one, like in my feet, probably when I got off the chair got all led up and, and, but it was on the turf. So I didn't hurt myself.
+Nurse: Good. All right. Well, that's good. All right. So, definitely make sure you're, you're having foods, have some apple sauce. Um, that'll help loosen up those stools so that it's not so firm. Um That way if it is a hemorrhoid, it's not gonna bleeded again. I'll let Doctor [PHI-Personal] know and we'll go from there, see if he wants to come in or see if he wants you to monitor it for a few days and then come in if it, if it starts bleeding again. Um, but if, if, even if it does start give us a call back, ok,
+Patient: I would say
+Nurse: I would say, you know, it's probably probably related to your hemorrhoid and just keep an eye on it, soften those stools. Um, if you and we'll go that route, um, at least for now until we hear back from Doctor [PHI-Personal], but I would say that that in all likelihood it probably is, but we'll keep an eye on it because it would be better.
+Patient: Sorry. But, uh, I just wanted to make sure that, that, you know, that what was going on.
+Nurse: Oh, I appreciate it. It's definitely good to know and that way we can keep an eye on it and, and, and catch it if it is, catch it quickly. If it is something.
+Patient: Ok, that'll be fine.
+Nurse: All right. Well, you have a very good day
+Patient: And the same to you and thanks for everything.
+Nurse: You're welcome.
+Patient: Bye bye bye.

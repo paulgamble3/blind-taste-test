@@ -1,0 +1,15 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hello, this is [PHI-Personal]. Did someone from there call me today?
+Nurse: Hey, yeah, I was just, uh, calling to follow up. Uh, let me pull up your chart. I got a message back from Doctor [PHI-Personal] and her nurse, uh, just saying they had got you a, an appointment with the gastroenterologist and I wanted to make sure that you got that information from them. I
+Patient: Did, they, yeah. Um, back during COVID I think I had several appointments but I could never make them. So, um, we just kind of dropped it and didn't, um, follow up. So. Yeah. Well, that's great. I've got the appointment day and time set and I've got, I don't, I have a new practitioner, I'm gonna see also in May but I don't know, um, how that's gonna work. I don't know how it would with, um, Blue Cross Blue Shield because they said Doctor [PHI-Personal] wasn't in my network. So.
+Nurse: Oh, wow. Ok.
+Patient: So I need to, you know, I, I'm just trying to do what's best for me all around. It might be the best thing for me right now to, um, go ahead and make that change and see, see how um I feel how they make me feel, you know, I mean, y your doctor has the power to make you feel confident about your treatment and let's deal with the Ozempic just left me uh with a bad taste in my mouth. So um anyway, yeah, I appreciate you calling me and checking on me mean a
+Nurse: Lot. Absolutely. Are the bleeding issues changing at all? Is it staying about the same or? Well, I haven't
+Patient: Seen any more. Ok. So, but I still have diarrhea.
+Nurse: Yeah. Oh, yeah. Even if it's not bleeding, it's, it's still a problem that definitely needs to be addressed. So, I'm glad they got you in to see that gastroenterologist early next month.
+Patient: Yeah, me too. All right. All right.
+Nurse: Well, I'll just follow up with you again next month if you're starting with the new practitioner and you like it over there, you know, just let me know. We'll, I won't say anything until doctor Res and her team until we know for sure. Um, but if you want us to take you off, you know, like the calling list and all of that, certainly we can. Um, but let's just kind of see how things go early next month and we'll take it from there. Ok.
+Patient: Sounds good to me. Thank you.
+Nurse: Oh, you bet. And if there's anything else I can help you with you just give me a call. Ok.
+Patient: Yes, ma'am. Appreciate you.
+Nurse: Bet. Bye bye. Right. Bye bye.

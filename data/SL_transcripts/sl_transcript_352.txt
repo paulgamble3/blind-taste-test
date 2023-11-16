@@ -1,0 +1,23 @@
+Nurse: Good morning. This is [PHI-Personal]. Hi, [PHI-Personal]. Uh, a gentleman just called me and said I should call back about something about a, a program, Doctor o'neills with. Ok. Um, hold on one minute and let me see if I can find who it was. Ok. Ok. Ok. You home? Hm. So, yeah.
+Patient: Hi, [PHI-Personal]. Yes. Hi, [PHI-Personal]. How are you doing today?
+Nurse: Ok. How about you?
+Patient: Very good. Thank you. Ok. I do wanna let you know that this uh call is being documented for uh quality purpose just so, you know.
+Nurse: Sure.
+Patient: But the reason for the call today is Doctor [PHI-Personal] has a new care management and behavioral health program which she is providing. Basically, it's just a call from a nurse to help answer any questions, refill prescriptions, chat about previous or future visits, discuss any new issues going on and things of that nature. This, this is a program ire which you do qualify for, which allows you to maintain peak health by having this nurse contact you. Ok. All of these calls are documented and sent to Doctor [PHI-Personal] for review and they treated as billable services to Medicare, Medicare Advantage plans and secondary insurance carriers may be subject to deductibles, Copays and co insurances. I, I do see you have the Medicare and the Bankers Life and Casualty Insurance. Is, is that correct?
+Nurse: Yes, that's my. Yes. Is there typically co
+Patient: Ok. Is there, is there typically a copay when you see the doctor in the office?
+Nurse: No, I have no copay.
+Patient: Awesome, great. Just wanna let you know you also have a $0 copay for this program, which is great news. Is there a time of day that works best for the nurse to give you a call, morning or afternoon? Oh,
+Nurse: I'm here all day.
+Patient: You just kind of call any time.
+Nurse: Yes, you may call any time. I, I'm not allowed to drive.
+Patient: Awesome. And I do wanna mail you some information about the program. Just kind of explains a little bit more in a little bit more detail. And I have the address of [PHI-Geographic] in [PHI-Geographic]. Is that
+Nurse: Correct? That is correct?
+Patient: Awesome. Well, [PHI-Personal], thank you so much for your time. I greatly appreciate it. Have a great rest of your day. Ok.
+Nurse: Yeah. Now I did call for a prescription this morning. I, I mean, I called yesterday for the prescription. Ok. And is that going to be filled today? Because I, I will take my last pill at, at 11 o'clock.
+Patient: I don't work for the pharmacy, so I generally,
+Nurse: Oh, ok.
+Patient: So my guess I call the pharmacy and get to them a little
+Nurse: Bit. I will I will I know I know how to do it. Ok.
+Patient: Fantastic. Alright have a great day. Ok.
+Nurse: Alright you too. Alright bye bye.

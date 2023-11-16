@@ -1,0 +1,27 @@
+Nurse: This is [PHI-Personal]. May I help you? Hi [PHI-Personal], is [PHI-Personal] available. She is not, she is off today.
+Patient: Oh my goodness, this woman
+Nurse: I know,
+Patient: I know um she wanted me to call her today about my BP levels because they, they've been elevated for the last uh week or yeah, maybe about a week. Ok, so um uh she just wanted me a report and let, let her know how they've been.
+Nurse: So how are they doing?
+Patient: Um well, I'm going back here a few days. I'm looking in the memory of my, my uh BP monitor. Um and yesterday at noon they were 1 86/1 05 and then I just, I just took it now and it was 1 41/83 so it's coming down but it's still not great obviously.
+Nurse: Right? Ok. Do you have one for the [PHI-Personal]? Mhm.
+Patient: Let me see her. I got 1 31/77 on the [PHI-Personal] at 4:20 p.m.
+Nurse: So on the [PHI-Personal] at noon it was 1 86/1 05. Yes. And you had taken your medicine?
+Patient: Yes, I don't have um, BP medicine because they, they took me off of it because it was, uh, Lisinopril and it was giving me a, a cough. Uh huh. So they took me off of that and then, um, uh, um, I haven't been on anything for a few, uh, about a month, maybe a little over a month. Ok.
+Nurse: So, are you having any headaches, nausea, dizziness,
+Patient: Um, headaches but not like debilitating.
+Nurse: Are you having that every day?
+Patient: Um, yeah, to a degree, I guess.
+Nurse: Ok. No, um, blood vessels busted in your eyes. No shortness of breath, chest pain. No. Ok. Ok. All righty. Do you have one for the [PHI-Personal]?
+Patient: Yeah. Hold on here. I have a bunch for the [PHI-Personal] apparently. Um, I have [PHI-Account] at, um, well, let me tell you what time that was [PHI-Account] in the morning. Yeah. And then 11 72/100 at [PHI-Personal] 10 and then 1 80/1 05 at [PHI-Personal] 17. Ok. And then 1 61/86 at [PHI-Personal] [PHI-Account]. Ok. And then 1 61/96 at 801. Ok. And then 1 49/91 at 12 30. Ok.
+Nurse: So, all right. So it did finally come down but took a little while to,
+Patient: Right.
+Nurse: Ok. Ok. Well, I will let them know what they've been running and that you're having some headaches. But no other symptoms of anything. No. Uh ok,
+Patient: I've been trying to, you know, go for walks a couple of times a day. Um, do breathing exercises. I'm going through a separation so a lot of it has to do with anxiety. But um uh I've been trying to drink a lot of water, um do breathing exercise and like I said, go out and do walks and stuff like that. So,
+Nurse: Ok. Yeah. And anxiety will increase her BP and then your BP is up. So you get anxious because your blood pressure's up. Right. And that's, that just kind of a vicious circle.
+Patient: Right. Right. Exactly.
+Nurse: Ok. Um, when it's up high like that and after you've maybe walked a little or done your breathing exercises, do you recheck it to see if it's coming down fairly
+Patient: Quick? Yeah, I mean, I've, I've had, I've had, um, I'm trying to think what, what date it was, it came down to like, one, 1, uh, 22/74 or something like that. It was, it, it came down substantially and, and, uh, you know, I got excited about that. I'm like, ok, cool. This is good. But then it hasn't, I haven't gotten it down that far since. Ok.
+Nurse: So, ok, well, let me, um, let me see, let me, let them know what they are and then we'll go from there. Ok. Ok. And I'll be your one, I call you back.
+Patient: Ok. Sounds good, thanks.
+Nurse: You are so welcome, talk to you soon. Uh huh bye bye.

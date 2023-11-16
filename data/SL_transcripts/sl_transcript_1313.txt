@@ -1,0 +1,4 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Uh Yeah, my name is [PHI-Personal]. I had a call I think from [PHI-Personal]. Uh follow up. Ok,
+Nurse: Let me transfer you. Ok, thanks. Is it? Ok. If I have her call you right back, she's not answering for some reason. She might be on the other one.
+Patient: Ok. If I'm, if I'm on the line, I'll just catch your message. Ok, thank you. Alright, bye bye bye bye bye.

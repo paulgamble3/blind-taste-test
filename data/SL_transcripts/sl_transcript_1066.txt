@@ -1,0 +1,24 @@
+Nurse: Hi, this is
+Patient: [PHI-Personal]. Hi, how are you?
+Nurse: I'm good. I'm actually trying to work with the office figuring out when we're gonna get you in.
+Patient: Oh, um, but the reason I'm calling is because the home health nurse came yesterday and we asked her about doing my blood work. This is not the regular lady that's gonna be coming to see me. This was, she was just in because it was Sunday and the, that was supposed to come out, wanted to come really early Saturday morning and I just can't be up and ready to function so early in the morning. So I asked them if they could hold off. So they sent this out. So anyway, we asked about the blood work and she said they'll try three times and if they can't get it then they won't do it. And she said, you know, and we're not specifically trained for drawing blood. So he said, and he said, you know, I, I can do it, but I'm not trained as far as finding, you know, a vein where there aren't any hiding or, you know, sticking out. So, and I decided we'd be better off to go to? Ok. So do
+Nurse: You want to go to, um, uh, a lab or do you wanna just come into ho, when you need your labs? Drawn?
+Patient: Well, if I'm coming to or something, you know, then I would come for the lab. But, but otherwise I'll check convenient. Yes, it's very convenient for us. So,
+Nurse: Um, the fast track is like an urgent care. Right. Do they have a separate outpatient lab there?
+Patient: Um I'm it's not fast track. Oh and it is a th it's it's at the th clinic. Yeah, they have a fast track. What is the name
+Nurse: Of that campus? Is it like [PHI-Geographic]? Do you know the name of the campus?
+Patient: It's [PHI-Personal]?
+Nurse: All right. Let me look so. Mhm. Mm. Is it on U S3? 01? Yes it is. Ok. So what I'm thinking is I'm thinking that um when she places the orders they should be able to see them in your chart but I will make sure that I call and find out um she is gonna have to review everything because she might want additional lab orders. I I actually was just talking to um [PHI-Personal] her medical assistant. So um we're gonna need some like direction from her um like where we're gonna because we're gonna obviously have to double book you to to see her. Um we we just don't even know you know where to squeeze you in and I know she's gonna wanna see you herself. Um, and then she may want additional labs, you know, other than just AC MP. So, um, once she gets back to me with all of it, obviously I will follow up with them, make sure that they can see the labs and then I will let you know.
+Patient: Ok, that would be great. Ok,
+Nurse: Perfect. I'm glad that you're at home now.
+Patient: Oh, I feel so good. I, I feel so much better getting out of the hospital. I
+Nurse: [PHI-Personal]. I [PHI-Personal]. I know.
+Patient: I know they were excellent but
+Nurse: I know, I know the right all of it. All of it. I know. I'm sorry you had to go back.
+Patient: Oh, I know. But it's really a good thing I do. No. Um, they're also gonna start PT for me. Ok. Good. In home, in home.
+Nurse: Yeah. Good. Perfect. Um, I'm gonna, like, let her know all of this. She's gonna wanna take a look through the chart a little bit, I'm sure just to make sure she doesn't want more labs, like I said, than just the one. and we'll go from there.
+Patient: The only thing is that I'm not sure that doctor, I mean, he's the one that said to go get it done and I don't know if you wanted it done so he could see it on Friday. I don't know.
+Nurse: Ok. Well, I mean, she'll get them placed to so, you know, she's pretty good at looking at, um, even on like when she's not in. She's pretty good about looking at messages when she's not in the office. So I'm hoping she gets back to us today, but you know, not she's in tomorrow, so. Ok. All right, we'll do the best we can. All right, hang in there. I'm glad you're at home now.
+Patient: You too. You take care. Thank you. Bye.
+Nurse: You're welcome.
+Patient: Bye bye bye.

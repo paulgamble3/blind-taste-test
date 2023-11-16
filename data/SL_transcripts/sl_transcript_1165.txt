@@ -1,0 +1,28 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hi, this is, uh, returning your call.
+Nurse: Hi, give me just second. Can get your chart pulled up here. Ok.
+Patient: Ok.
+Nurse: How are you doing?
+Patient: I'm doing super. I just got in from bowling. From
+Nurse: Bowling. All right. So, are you a, are you a righty or a lefty with bowling?
+Patient: Well, I'm a right hand. You
+Nurse: Righty. I, my husband and I are both right handed but my husband bowls left handed and he bowls better than he can right handed. I love bowling. It's so much fun to go out and do. Yeah. Well, good. How have you been feeling?
+Patient: I've been feeling good.
+Nurse: Good. Very good to hear that. Um, any problems or any concerns that you've been experiencing recently?
+Patient: No, ma'am. I'm walking 3 to 4 miles a day. 3 to 4 miles. Wow.
+Nurse: Mhm. And you got six days a week? Wow. Good for you. Mhm.
+Patient: Mhm. Yes, ma'am.
+Nurse: Just writing things down. All right. Well, very good. I'm very glad to hear that and I'm very glad to hear that you're feeling. Well, um, is there anything that I can help you with today? Do you need any medications refilled? Have there been any changes, changes to any of your prescriptions that you would like to review?
+Patient: No, ma'am, everything is going pretty good.
+Nurse: Ok, wonderful. All right. Well, then in that case I will not keep you, um, but if anything comes up and you have any questions, any problems, any concerns or if there's anything at all that I can help you with, please don't hesitate to give me a call. Ok.
+Patient: Ok. And your name is like, isn't
+Nurse: It? Yes, Kay with ac.
+Patient: Ok.
+Nurse: Yeah, so you're welcome. Yeah, so it's both [PHI-Personal] and I are here. Um and we have another nurse by the name of [PHI-Personal]. Um and it'll probably be me that'll be reaching out for the most part going forward. Um but if I were out of the office, you'd speak with [PHI-Personal] or [PHI-Personal]. So, but we're all here to help however we can.
+Patient: Ok, I think called me. Ok. Mhm. Alrighty.
+Nurse: Well, wonderful. Well, if there's anything that we can do, like I said, don't hesitate to give us a call. Um otherwise we'll plan to reach out to you sometime in early May. Ok.
+Patient: Ok. You have a blessed Easter and a blessed weekend coming
+Nurse: Up. Thank you so much. You as well have a wonderful Easter. Enjoy the holiday with your family and your loved ones.
+Patient: Yes, ma'am. You too. Alright,
+Nurse: Speak with you later. Alright. Alright,
+Patient: Bye bye bye bye.

@@ -1,0 +1,12 @@
+Nurse: This is [PHI-Personal].
+Patient: Thank Glo calling you back. I just
+Nurse: Wanted to review your med list with you real quick. OK. All right. It only take a second. So I have calcium with vitamin D once a day. Yes. Docusate sodium. That's your stool softener as needed. Yes. The Eliquis is five mg every 12 hours or twice a day. Yes. We already talked about Fosamax. I know you're doing that multivitamin with minerals once a day. Yes. Simvastatin. 10 mg every night for. Yes. Yeah. That levothyroxine 75 mg every day. That one's on an empty stomach, right? Uh What was that again? The levothyroxine for your thyroid? Yes. And you do that on an empty stomach with just water every day, right? Yes. OK. Good. Absorbs better that way. And then b 12 every day. Yes. Is there anything new? I need to add on there?
+Patient: Uh No, I don't think so.
+Nurse: Ok, perfect. I just wanted to get that done too. Thank you for your time. I appreciate it.
+Patient: Oh, I know. Uh oh, gee, what's those things that's in the um oh, the things that you, when you eat yogurt probiotics? Yeah. Pro probiotics. Yes. Uh I'm taking one of them a day now.
+Nurse: Ok. Do you know what it's called?
+Patient: Not off hand. Ok.
+Nurse: I can just put probiotic. Ok. Probiotic once a day. Yes. Ok, I'll add it on there. Thank you, [PHI-Personal].
+Patient: Ok, then thank you. I'm getting ready to go out and plant potatoes.
+Nurse: Well, I'm done calling you, so
+Patient: Let me. Alrighty. Well, if you call me, that's where I'm at and I'll call you back. Ok, thank you. Bye bye bye bye.

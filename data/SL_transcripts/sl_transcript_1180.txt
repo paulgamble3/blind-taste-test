@@ -1,0 +1,24 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal]. Hey, [PHI-Personal], what's up? Did you hear anything back about the antibiotic? Did
+Nurse: He not prescribe that antibiotic?
+Patient: Nothing.
+Nurse: They've been calling [PHI-Personal].
+Patient: No, I haven't seen no calls on his phone. That's been missed. It
+Nurse: Is [PHI-Account]. Right?
+Patient: Yes. Ok. Thinking
+Nurse: It says patient contacted, contacted on [PHI-Personal], patient contacted on [PHI-Account].
+Patient: Right.
+Nurse: Please offer appointment on [PHI-Personal] at 10 30.
+Patient: Ok, I let me see here. No, this one next one. Ok. Sure. Do you want me to put in,
+Nurse: Um,
+Patient: To call you? Yeah. Just, it might. Yeah, because if he's playing his game, I don't hear his phone ring. He's on if he's talking all the time to his friends and if I'm not right in the bedroom, I don't hear a phone. It all. All right. Sure. I can smell the infection in his mouth and it, oh God. Yeah, I'm worried.
+Nurse: All right. They, it looks like he's not going to prescribe um, the medication until he gets seen, which makes no sense to
+Patient: Me. No, he's back in the hospital. But that right,
+Nurse: Like, oh, yeah. Ok. Well, we'll just wait it out until he has to go back in the hospital and then he needs IV antibiotics because he's gone septic. Yeah.
+Patient: Yeah. If you don't get approved for credit card, get approved or get 50 bucks on offer, the guarantee, I'm on the phone with the nurse.
+Nurse: Ok. All right. Well, I got them in there to call you, um, as soon as they have the next available appointment, it looks like they could definitely get him in soon. Um you there's definitely
+Patient: A couple of days because I gotta have medical transportation. I told them that that we have to have medical transportation. Yeah, it
+Nurse: Looks like they, yeah when they contact you uh when they, well when they supposedly contacted [PHI-Personal] on the fifth, it was gonna be um appointment on the seventh. So it was like two days ahead and then this other one was three days ahead. So if for some reason though like if they schedule it and it's gonna be tomorrow um we can run that like through our program like to to get that like he needs um sta transportation and we'll.
+Patient: Ok. All right, I'll let you know as soon as they contact me.
+Nurse: Ok, good good. Yeah, please do if they don't call you by the end of the day let me know I
+Patient: Will. Ok. Alright bye bye.

@@ -1,0 +1,13 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Good morning. This is [PHI-Personal]. I was trying to open my phone up and couldn't get it open.
+Nurse: Oh, no, it's ok. Hi, Miss [PHI-Personal]. How are you doing? All right. And you? Good. So, I was just calling just to see. Did you end up getting the medication from the pharmacy?
+Patient: Uh, I got, uh, yeah, I got some of the only one I didn't get yet is the one that the, uh, Ozempic that would be on the, uh, they told me the [PHI-Personal], I'd have to pick it up on the [PHI-Personal]. That's when it'll be, that's when it, uh, it, it, it's in order. Well, it won't, they won't get it until the [PHI-Personal] when I could get it. But everything else, I got everything else. Thank you.
+Nurse: Let me just double check something. Um, trying to see. Ok. So what about the, um, you picked up the Tresiba?
+Patient: Uh, yeah. Uh huh. I got ok. Ok.
+Nurse: Ok. Just making sure. Ok. Um, because that was the one that they were saying that they were having a hard time getting. So I was just making sure about that. Ok. So the Ozempic, they had to order it and it won't be in the system until [PHI-Personal]
+Patient: [PHI-Personal]. Right. Yeah. On the one thing I'm gonna, I'm gonna need some more needles. A box of needles for the pen for the pen. Ok.
+Nurse: Ok. I'll send
+Patient: The pen and I, and the pen that I was, it was the, um, the four, about [PHI-Account]. Mm. It's uh BD Nano pen needle.
+Nurse: Yeah, I'm trying to find it on your um medication list so I can just refill it. So that's what I'm looking for. Um ok, so I found it. So is it the um this is the [PHI-Account] gauge? Yeah. Ok. Um So I'll go ahead and send that in actually you should um you have three refills. So all you have to do is call them to get a refill because it was just sent in [PHI-Personal]. Ok. Um You have, you should have three refills so you just have to call them and tell them to refill it. Ok. Ok. Ok. I'll do that and uh just to make sure your date of birth is [PHI-Personal]. Yeah. Ok. And so um yeah, so all you gotta do is call CVS. Hey, I just want to refill my needles and they'll just refill it. Um but you should be ok. But if you need anything else, just give me a call back. Ok. Ok. All right. Well, you take care of yourself and I'll call you next month.
+Patient: Ok, thank
+Nurse: You. You're welcome. Bye bye. Bye bye.

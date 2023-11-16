@@ -1,0 +1,20 @@
+Nurse: Hello, this is Nicole.
+Patient: Hi, Nicole. It's [PHI-Personal]. Uh, calling you back. How you doing?
+Nurse: Oh, hi. I'm doing pretty well. Hi. So it's [PHI-Personal], sorry, remind me. Is it [PHI-Personal]? Ok. And what was your last name? [PHI-Personal]? Oh, ok. I thought you said the gene. I was gonna say, ok. A, oh, that's exciting. Yeah, no problem. Yeah. Let me just get you pulled up here really quickly. Oh, thank you for calling me back. I thought, you know what I, I should, I should call and just kind of check in on and see how you're doing. No problem. So, yeah, I just mainly, yeah, I mainly wanted to, uh, just check in with you and see how you've been feeling, you know, with COVID and with, now that you're, you know, medications done and that type of thing how you're feeling now,
+Patient: Einstein. Other than that you tiredness, I'm fine
+Nurse: Outside of kind of your normal little bit of fatigue, you feel like you're back at your baseline. Um, so that
+Patient: Whole time and that's it. I am fine. Otherwise
+Nurse: Perfect. That's excellent when we spoke. I believe it was last week I thought ok, I'll I'll get in touch with her, you know, and see how everything's going. Yeah. No. Um were you able to get those medication refills that we requested earlier this month? Yes,
+Patient: I got some of them. Yeah.
+Nurse: Oh, ok perfect. And then let me just see what else I was going to ask you about. Oh and how you have your blood pressures, your blood sugar level seemed pretty stable or have you had that machine going off during the night still?
+Patient: Oh, that helps me here or there, here and there? I mean, you know, it really depends on the day, you know. Um, but no, they're, they're, I, I think I'm managing it pretty good. I'm, I'm confident.
+Nurse: Good, perfect. And then, um, I'm sure you've already heard this but, um, you know, since you've already had COVID, you know, you'll wanna wait a little while, but I want to say that the current recommendations from the CDC are that, you know, after a little period of time, you know, you get your next COVID vaccine just to kind of prevent you from. I mean, hopefully you don't end up with this again. Yeah, really or anything like that. Let me just peek in here though. I think it's specific if you've had COVID to wait a certain period of time. Let me just see. Yeah. So if you recently had COVID, it's recommended that you wait to get a booster until four weeks after the infection and the recommended time has elapsed since the series. Ok. So it says about four weeks, you know, after your infection resolves with would be kind of when it would be recommended for you to get another one. So, but I just want everything you told me to get. Ok. Well, in your chart, we have down
+Patient: Another one. I had all my regular shots and all my boosters.
+Nurse: Have you had a vaccine since [PHI-Personal] of 2021 for COVID in the past year?
+Patient: Well, I don't have my numbers, my, my dates here, but I, I've had all the shots and the last booster I got was, I don't know, maybe six weeks ago.
+Nurse: Oh, ok. Ok. So in that case, I think your chart just isn't updated if that makes sense for, for the last vaccine you got? Ok. Well, I do have
+Patient: My office so I can get it updated.
+Nurse: Yes. Yes. And I want to say you see doctor at the end of the month. So if you have a way to bring that in and just update it with him, that would probably work, you know? Perfect. So, and then what I'll do is I'll just probably touch base with you just beginning of [PHI-Personal] and see how you're doing and then we'll just go from there if that works for you.
+Patient: No problem at
+Nurse: All. All right. Well, you take care
+Patient: And you too have a nice Thanksgiving and call. Ok. Bye, take care.

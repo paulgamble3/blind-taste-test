@@ -1,0 +1,43 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help
+Patient: You? Hi [PHI-Personal], this is [PHI-Personal]. How you doing? Hey mister [PHI-Personal], what's going on? Well, uh you asked me to call you back about the appointment? Yes, the n got it on the [PHI-Personal].
+Nurse: [PHI-Personal]
+Patient: [PHI-Personal]. Yes, perfect.
+Nurse: Let me just pull that up right here. Can you just confirm your date of birth real quick for me?
+Patient: No, it's gonna be [PHI-Personal].
+Nurse: We're in [PHI-Personal],
+Patient: We're in [PHI-Personal]. Sorry. Ok. Uh [PHI-Account].
+Nurse: Perfect. Ok. And then it's [PHI-Personal] 9th, I imagine.
+Patient: Yes.
+Nurse: Ok. All right. So [PHI-Personal] 9th and then uh do you have the time there? Just so I can make a note
+Patient: Of that? What now
+Nurse: The time, the time for the scan?
+Patient: Hold on a second.
+Nurse: I threw you off when I told you it was [PHI-Personal].
+Patient: Yeah, that's right. Exactly. Uh it's uh [PHI-Vehicle] a.m.
+Nurse: Perfect. [PHI-Personal] 9th at 8 30. I will let [PHI-Personal] know.
+Patient: All right, I have a question for you. Yes, sir. You know I got that, that glucose meter that was sent to me. Yes, sir. Yeah, that was you that did that right.
+Nurse: Um, I tried to get it organized for you. Yes. But that was the pharmacy who, the, the doctor initially who ordered it and then got you set up for it through the pharmacy. Yeah.
+Patient: Ok. Well, I, I gonna need some test strips. How do I get those?
+Nurse: All right. Yeah, I could help you with that. Let me see here. They didn't give you the test strips when you picked up the device.
+Patient: Yeah, but I'm doing a lot of blood testing. I take that before during and after good times a day and then plus he drops them a
+Nurse: Lot. So. Ok. Ok, good. I, well, I'm glad you're so, you're fine. You're fine. Don't worry. I'm glad you're uh checking your glucose now. And um, you said you're doing it like three times a day? Oh,
+Patient: I do [PHI-Account]
+Nurse: Or five. Ok. Good. Um,
+Patient: Log log book that the uh endocrinologist gave me.
+Nurse: Perfect. That's what I was, that was my next question. Perfect. I, I want you to keep a record of those numbers. Ok. So next month when we talk, I want you to pull up that book and say [PHI-Personal], hey, I got some readings for you and you just give me a couple of recent numbers and that way we can keep a record of it on both ends. Ok. Sure. Overall, what are you averaging right now?
+Patient: Well, I am uh really uh, this morning it was 1 41. Ok. So last night it was before bed it was 1 59. So low twos to high 2 to 2, you know, 2 [PHI-Account] down to 1 41.
+Nurse: Oh, ok. So greater than 200. But le, but, um, no less than
+Patient: No [PHI-Account].
+Nurse: We're up in the [PHI-Account] range.
+Patient: No, he's back down. Yeah, he's back down to the two high twos,
+Nurse: You know. Oh, ok. I'm sorry, I misunderstood then. So you're in the low two hundreds and the lowest you've noticed it is like 1 41 this morning, correct? Ok. What time did you take it this morning? He
+Patient: Takes it before he takes his insulin at nine o'clock.
+Nurse: Perfect. So that was today at 9 a.m. We had a reading of 1 41. Perfect. I just wanna make a note of that reading. Ok. Um, let me see here. So we need test strips. Ok.
+Patient: Um, hm. You got [PHI-Personal],
+Nurse: You got Lancets though, right? You got little syringes or you need those two poker ones.
+Patient: Yeah, I got the one for the chemo. I probably got a half a box of those. They're, no, they're for the insulin. Yeah, for the insulin. Yeah. Less than a half a box of the needles. The BD, ultra fine short pen needles. He's got maybe a quarter box of those left and a quarter box of the, of the lancets
+Nurse: Left. Ok. So we need both the test strips and the lancets. Yes. Ok. So what I have here in the system, you have them available at pharmacy. You have refills on those two things. Ok. So you should be able to get another box. No problem. Do me a favor. Do me a favor though. Call the pharmacy. Make sure they have that. Right. Right. Right. If they do then you should be good to go. No problem. You can pick them up without an issue. But if they say, oh, I don't see that order here or you don't have refills available, give me a call back and I'll make sure they send the authorization for the refill. Ok. Sometimes they just, they keep tabs on the numbers, but I mean, obviously you're running out so you need them. Yeah.
+Patient: Well, he's just, you know, it's new to him. So, oh, we have,
+Nurse: Hey, hey, hey, it is. Ok. Listen, it's, it's trial and error. Right. We, once we get the hang of it, it becomes second nature to us and it's boom, boom, boom, stick wipe test and you're good to go. Ok. Just, it just takes a little bit for us to get there the first couple of times. So that's totally understandable.
+Patient: Now, did you get anything from the endocrinologist that I saw Monday? Um, let me see here.
+Nurse: Um, I do have a note here but it does not look like it's been reviewed yet by the provider. So I, I see it. So for me, when I look at your chart, if, uh, you know, Doctor Wallace or Emily hasn't reviewed the note yet. I see the submission of the note but it says open. So it just means that the doctor hasn't reviewed it yet in the office. But I do see we received something. So, yes, I do have the note from the endocrinologist, but I can't review it yet. All right. Ok. So give me a call back. If there's any issue. If I don't hear from you, then I know you guys were able to get the strips and the lancets. No problem. Ok. Oh, perfect, perfect. Ok. All right. You guys give me a call. If anything you take care, may ok? Keep, keep testing, keep logging. You too guys take care. Have a good one. You too. Mm. Bye bye.

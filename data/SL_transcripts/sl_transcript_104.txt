@@ -1,0 +1,6 @@
+Nurse: Hi, good morning. This is [PHI-Personal].
+Patient: Actually, this is [PHI-Personal] and I'm calling you because you called me and left a message and everything. Hey, but um, anyway, would you do me a favor? Yes, absolutely. All good. Just, just call my wife. Ok, so you have your number. Actually
+Nurse: I do. Yes. Hers is the same exact year except [PHI-Geographic]. Correct.
+Patient: That's right. And then she'll, she'll go ahead and answer you. The, the the problem is is that, you know, if the stuff that you'll ask me and this and that and this and that and she wants to know and she missed her calling, you know, bless her heart. I love her. We've been married forever and she's a real good detective. Uh ok. Well, did you ask her about this? Did you ask her about that? No, no, I really didn't. So when you were here she's, she's coming the corner. Ok. Hey, thanks a lot, [PHI-Personal]. I appreciate your
+Nurse: Alright. You have a great day, [PHI-Personal]. Thank you. Hey,
+Patient: You too. Thanks. Bye bye.

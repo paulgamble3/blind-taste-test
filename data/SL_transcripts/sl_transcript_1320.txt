@@ -1,0 +1,79 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi [PHI-Personal], this is [PHI-Personal] returning your call from yesterday.
+Nurse: Oh, hello. Uh just give me one second to get you pulled up.
+Patient: All
+Nurse: Right. Alrighty. So uh let's see, looks like I was calling to kind of go over the care management program with you um, since I see you just recently enrolled in that. Um, so I'll be the nurse that calls you every month and kind of checks in on you see how you're doing and feeling right? Um I can take care of any medication refills you may need. Um I will provide education, you know, every call about, you know, what's going on with you and everything. Um and I can also schedule appointments with your primary provider for you. Ok. Ok. Um I'll send you a letter in the mail today. Um you'll probably get it, you know, maybe late next week uh with my name, contact information and some wellness goals um that you and your primary doctor have talked about too already like the flu shot and just some labs and stuff like that. Um.
+Patient: Ok. Well, one thing I can tell you is it like I just retired last year. Um, so I feel like I'm going into a new passage in light. But, um, I, the one thing I do need to do and it's been on my to do list and I'm glad they have you calling me because I'm terrible procrastination. Um I, I really need to and especially with it being a new doctor cause I've been with Doctor [PHI-Personal] for [PHI-Personal] some odd years. That's a big difference. Um. Mhm. But I really need to have a physical and come up with a game plan. Ok, because I am aging, I am feeling the effects of my age and yeah, I need to, needed to call him today to set up an appointment because I've got a, a shoulder issue that won't resolve itself. Ok. It has been like, it's been like, it's been on my to do list to call for the past several weeks and I just, I am terrible at phone calls. Mhm. Making you know, and that kind of stuff.
+Nurse: Uh huh. Ok. Yeah, I mean, I can definitely get you scheduled. Um, you do, it looks like you have labs coming up on [PHI-Personal] and then you see Doctor [PHI-Personal] on the [PHI-Personal] of [PHI-Personal]. Um, but I mean, I can get you scheduled sometime early next week for, um, you know, the pain you're having. And, um,
+Patient: And let's, I'm scheduled [PHI-Personal] at what time? Uh, 8 30. And that's the lab work. Y and then the [PHI-Personal]
+Nurse: At one o'clock
+Patient: At one o'clock. Yup. With, with Doctor [PHI-Personal]. Yes. Um. Oh, ok. I'm trying to put it in, in time wise. Right. So, yeah, um, I mean, I need to schedule a physical but that I know it's gonna be a while out and, you know, um, I need to take care of some, like, I've had an ongoing shoulder issue and it, well, it's actually shoulder and going down my arm and, you know, there's, there's some carpal tunnel there or, you know, everybody has carpal tunnel. Well, not everybody but it's very, it's very common. It's my right hand. It's my dominant hand and it's an ongoing issue that just is starting to interfere with my ability to do so. Ok. So it's a concern.
+Nurse: Yes, definitely. Um, yeah, I mean, I can make you an appointment, you know, for next week, um, with him to discuss just this issue. Um, and then we can keep your other one as scheduled and, and maybe, maybe they can, he can talk to you about, you know, scheduling a physical and everything at that appointment, right?
+Patient: Ok. Which sounds
+Nurse: Good. All right. Let me get his schedule pulled up quick. Uh, let's see, any specific day you're available next week.
+Patient: All right. What is next week?
+Nurse: Uh, the [PHI-Personal] through the [PHI-Personal]
+Patient: [PHI-Account]? Um, I could do it like any time Tuesday, any time after Tuesday. Ok, Monday, I've got stuff going on. But, oh,
+Nurse: Let's see.
+Patient: Hm.
+Nurse: Uh, let's see, the [PHI-Personal] you're only in, in the morning. Um, so Tuesday the [PHI-Personal], he has a one o'clock. Um, but you said after two, correct?
+Patient: When Tuesday the [PHI-Personal]
+Nurse: [PHI-Personal]? Yeah. One.
+Patient: Oh, yeah, do that.
+Nurse: I can do. Ok. All right. Let me all that. Mm. It was the right shoulder and it kind of radiates down the arm, you said. Yeah, to the hand.
+Patient: Ok. But the, the thing of it, and I mean, this, this goes back quite a while. Um, I, we think it's, it's a, it's, it's part of the mus, it's muscular in my deltoid somewhere or, you know, in that upper arm. So, um, yeah, it's been an ongoing.
+Nurse: Ok. All right. Yeah, I have you, I'm getting older, right. Um, I have you scheduled on the [PHI-Personal] at one o'clock with Doctor [PHI-Personal] to discuss this. Um, and then I just need to run through your current medications with you. Um, just so I have them updated on my end. Um, so let's see. I have the Telmisartan slash hydrochlorothiazide, right? Ok. Um, the pravastatin,
+Patient: I have not started taking that yet. Ok. And I could talk to him. I took, because I had taken one of the statins earlier and had a serious issue with muscle.
+Nurse: Oh, ok. Cramping and
+Patient: Everything. Um, we tried letting it if we tried to add the, um, her co, trying think on [PHI-Personal] um, and then we finally decided to start this, but then I ended up with COVID and that, like the first time I ever got COVID was over Memorial Day weekend and it did cause a lot of muscle pain and fatigue. Ok. And it ended up, ended up going for quite some time. It's like I felt like I understand the whole long COVID because, um, my boyfriend and I both, it's like, had a lot of muscle fatigue and brain fog. It just went for a long period of time. Well, if I'm having, if I'm having muscle pain and muscle fatigue and fatigue, I don't wanna be taking a statin to try to determine if it's going to
+Nurse: Make that worse,
+Patient: Impact my mu Right.
+Nurse: Right. Right.
+Patient: Basically it's my, I'm having enough muscle issues that are just aging related that I need to get them taken care of before I try taking a medication that could muscle issues.
+Nurse: Ok. Yeah. No, that's understandable. Um, yeah, you can bring that up to him, you know, next week or at your other, next appointment too. Um, and you guys can discuss that and they can, they can take it off there if they decide that. Um,
+Patient: And he's aware of that. Basically he tell I haven't taken you taking.
+Nurse: Ok, got you. Ok. Um, next I have the pramipexole as needed.
+Patient: Mhm. Uh, ok. That's for the, yes. How much do you have as far as the dosage because I know we were, we were playing around with dosage with Doctor [PHI-Personal] trying um, I mean,
+Nurse: The last I have 0.5
+Patient: Let me double check the size of these. I think they're, and I'm taking one a day or one in the evening. Ok. Uh, I mean, at times I was taking 1.5, we were trying to adjust the dosage to um, yeah, it's a half milligram tab and I am taking one a day. Ok. Right.
+Nurse: Ok. Um, and then Xanax as needed.
+Patient: Yes, but I don't take it. Ok. No, I haven't taken it lately.
+Nurse: Right. Right. Ok. Um, Adderall, uh, every morning.
+Patient: Yes. And actually on that one I need to get refilled. Ok. That was, that was also on my to do list because I, yeah, that I actually, I actually, you know, you need that refilled doctor and I discussed, you know, it's like, ok, does it sound ridiculous that somebody who's retiring? [PHI-Geographic], like, I've got several that are, that are like that. Um, although we cut those, I mean, we did cut it down because I was taking it twice a day. Although I really, um, actually it was originally prescribed by the psychiatrist that diagnosed me way back when, and that was when I was working and going to school. Ok. Anyway, um, I work there.
+Nurse: Uh, I'll send, I'll send that prescription order over to the doctor's office and they'll get that refilled for you. Um, and then, uh, lastly I have FLUoxetine.
+Patient: Ok.
+Nurse: Yeah. Ok. All right. Anything else?
+Patient: Uh, uh, I do take a multivitamin,
+Nurse: Multivitamin. OK.
+Patient: And, um, probiotic.
+Nurse: Ok. Ok. Yeah. The multivitamin and a probiotic.
+Patient: And let me check the acetaminophen because I do take acetaminophen for the arthritis. Not that it really does much, but, uh, [PHI-Account] mg once a day.
+Nurse: Ok. How many milligrams? [PHI-Account] [PHI-Personal]? Ok.
+Patient: I think it's supposed to be 1200 but these are 650 mg tablets.
+Nurse: Ok. So, ok. Um, let me see. Oops, as needed.
+Patient: Ok, I think that should be about the Ibuprofen as needed. Which. Ok, perfect. They is more frequent.
+Nurse: The Ibuprofen,
+Patient: The Ibuprofen I'm taking it almost daily. Ok? And that's, and that's a lot of it is, it's a combination of the arthritis and, you know, I mean, it's getting worse as I get older. Um, but then also whatever is going on with my arm. So, well, it's not time to deal with it.
+Nurse: Right. Well, we'll get you in next week. Um, you know, to see him and discuss all that. Maybe he can provide like a muscle relaxer or something. So you're not taking, you know, the Ibuprofen and the Tylenol. Um uh, and we'll, we'll kinda just see what he says at that appointment. Um, when you get your medication refills, do they come in the bottles with the labels on them?
+Patient: Yes. Ok. I usually get them from uh that one I usually get from [PHI-Personal] [PHI-Personal] scripts.
+Nurse: Ok. Which is
+Patient: I think there's one that I have filled locally.
+Nurse: Ok,
+Patient: But this one is through [PHI-Personal] which they would have the information on.
+Nurse: Ok. And then how about your Adderall that you need a refill on? Where do you want me to send that to?
+Patient: No that that's the one that goes to [PHI-Personal] scripts.
+Nurse: Oh that one. Ok. Alright, I'll send that out there, send that to there then. Ok.
+Patient: Yeah that's the mail order I use for most of them.
+Nurse: Ok. All right let me pull that up quick so I can just make sure express scripts. Ok. All righty. Um well let's see I believe that is all I need from you today. Um do you have any questions for me or need anything else?
+Patient: No I think that'll do um and now I at least I mean yeah now you're calling what month? Monthly?
+Nurse: Um it looks like it's every two months you signed
+Patient: Up for? Ok. Yeah I think it was every two months. Ok. Yeah and then you know and then that's just yeah your biggest challenge is just to me it's like ok, what's been on your to do list for the past month that you haven't got done to have to do with the doctor's office?
+Nurse: I will definitely ask you that
+Patient: But you know put on your little nose it's like yeah this is uh I am is a DH D as they com and I will prost in it. I mean, I'm, I'm a retired nurse. I, I've been a caregiver and I take care of everybody else.
+Nurse: Me, I know now it's time to take care of you. You know. So now
+Patient: It's, it, you know, now I have to focus. But the thing of it is it's like you're a baden because, yeah, I've been meaning to do these calls for way too long. Mhm.
+Nurse: Yep. And that's what I'm here for. You can just, just call me and give me the task and I will do it for you. Bye.
+Patient: Yeah. All right. So [PHI-Personal], I appreciate that and, uh, of course I will talk to you again.
+Nurse: Ok, perfect. Yep. I'll touch base with you in [PHI-Personal]. Ok. But feel free to give me a call at any time. Ok.
+Patient: All right. Great. Thank you so
+Nurse: Much. Ok. You're welcome. Have a good rest of your day. Yes. Thank you. Bye bye bye bye.

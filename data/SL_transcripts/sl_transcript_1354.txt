@@ -1,0 +1,16 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager.
+Patient: Hi. Um I had um missed a call from my c my care manager.
+Nurse: Uh Was it [PHI-Personal] or [PHI-Personal]?
+Patient: Is [PHI-Personal]? [PHI-Personal]? [PHI-Personal]?
+Nurse: Let me see if she's available. Your name one more time.
+Patient: [PHI-Personal]. Ok.
+Nurse: I'm gonna put you on hold for a second. [PHI-Personal]. I'm gonna see if she's in.
+Patient: Thank you. Oh,
+Nurse: [PHI-Personal], I think she's on the phone. Can I have her call you back? Um Yeah. Ok. Are you ok? Is it, is it an emergency? I'm
+Patient: Just uh, well, I'm just, I'm not feeling good today. So just been laying down on the couch because I've been very lightheaded when I get up.
+Nurse: Oh, every time you get up.
+Patient: Um, well, when I got out of bed I was like, I, I started when I was in bed last night and then when I got up I continued, I mean, it's improved a little but if I like if I tip forward I get really lightheaded. Ok. All
+Nurse: Right. So just sorry, she just messaged me and said she'll call you in 10 minutes. Is that an ok time?
+Patient: Yeah, I just keep going. Back to sleep so that's why you know what I mean? Yeah I'll make sure that I answer it I I usually hear it if I don't tell my fiance to pick it up.
+Nurse: Ok. All right. Yeah she said as soon as she's off the phone she'll give you a call.
+Patient: Ok. Alright. Alright you feel better. Bye bye bye.

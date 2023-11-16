@@ -1,0 +1,29 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes. Hi. Uh, this is Arlene [PHI-Personal]. Uh, I was returning your call.
+Nurse: Yeah, I just called you. I just left you a message so you can just disregard that message. I'm one of the chronic care nurses that work with doctor [PHI-Personal] and so is on vacation. So I'm covering for her and I got your voicemail. So, what's going on?
+Patient: I don't know, I broke out. I, I have a rash, I broke out on my face and my neck and, uh, and I'm having swelling in my ankles, my lower ankles. I've noticed that with fluid building up and so forth and I feel the pressure and, um, one of the things, um, I, I took myself off, they, they prescribed gabapentin. Um, but I, I stopped taking that two days ago. That was a new medication, uh, that was given to me by, uh, by another doctor, but I don't know if it's that, uh, I think it could be either my, uh, Lisinopril or CeleBREX that may be having problems.
+Nurse: Ok. How long have you been on those medications?
+Patient: Quite a long time? The Lisinopril I've been on maybe about 15 years, the CeleBREX, I'm gonna say probably about seven or eight years. Ok.
+Nurse: And have you ever had a rash or swollen ankles before?
+Patient: Not really. Not really. No.
+Nurse: When did those? Actually, when did that actually start?
+Patient: It started? Well, a, a small rash started maybe a couple of weeks ago, but I didn't take any gabapentin then. Uh, but I noticed a small ra rash a little bit on my neck and a little bit on my face and a little bit on my chest, part of that. But then with the gabapentin, uh, I was taking that for over a week and then I stopped taking that. Um, and then, um, because I was thinking because that was a new one to, you know, to, to remove myself from that. So I'm not sure it was that at all, but the swelling of my feet, uh, that just started really just recently, I would say in the past week or so, a little bit before that, maybe about six weeks ago. I had like an incident of one day, the swelling, right of the feet. Yes. And I, I elevated them. I've been drinking lots of water and so forth. Um, because I'm supposed to with it.
+Nurse: Ok. Um, have you used any new soaps or new laundry detergent or anything like that?
+Patient: No. No, not really. Nothing new. Ok.
+Nurse: Um, because it, so it doesn't sound like it would be caused by those medications since you've been on them for so long and it just recently started.
+Patient: Right. Well, that's what I was thinking with the gabapentin that, that maybe gabapentin that may have triggered it off. But I still, I haven't taken it in two days now. It's getting a little bit better but it's not, it's not, I've been taking Benadryl to counteract that and I was wondering if I could. Is there any way I don't, it is still there.
+Nurse: He is, I believe until [PHI-Personal].
+Patient: Oh, until [PHI-Personal]. Ok. Is there any way of getting in to see him, uh, to, uh? Ok. Did you make an appointment?
+Nurse: I will get a message over there to him. Um, but in the meantime, I'll get a message over there to the girls that are directly in the office with him, um, to call you and get you scheduled. But in the meantime, just make sure if that rash gets worse or you start having any trouble breathing or anything like that, you would go to the emergency room. Ok. And then, um, just for that swelling and stuff, just keep your legs elevated. Um, that's good. You can also massage them like if you rub them up towards your heart that, that can sometimes help, um, move the excess fluid out of that area. And then do you have any compression stockings or anything at home?
+Patient: No, not at this point. Not at this. Well, I have to look in the drawer I may have it, uh, but to put them on compression stockings.
+Nurse: Yeah, that'll help with that swelling if you have to. But I'm gonna get a message over there to Doctor [PHI-Personal] and let them know what's going on and then for that rash, um, you can put, keep taking that Benadryl and then if you can, um, if you have like any, like, hydrocortisone cream or anything like that, like an itch relief cream. Yeah,
+Patient: I've been doing that. Yeah, I've been doing that. Right. Right because I thought it was I thought it was the eczema also and kinda look like eczema starting in the beginning and so I have some Hydro Cortisone Cream at home. I've been applying that.
+Nurse: Ok. Ok, good good. Yeah just keep doing all those things and then like I said if you start having any shortness of breath, breath breathing problems or anything like that make sure you go to the hospital immediately.
+Patient: Ok?
+Nurse: And then I'm gonna, I'll get a message over there to the girls in the office and have them give you a call to get you scheduled. Ok. They won't let us schedule yet so.
+Patient: Right. Ok. Alright [PHI-Personal], thank you. Uh you're welcome. Uh the best number to reach me today is [PHI-Account] no [PHI-Account]. My phone number is the cell phone I'm having charges charging and then I have I have a, a doctor's appointment this afternoon. I have to leave her at three. This is the ecological, uh, surgeon that I have to talk to. So, um, do you want me to
+Nurse: Just, if they call you this afternoon, do you want me just to tell them just to leave a message for you? Yeah, if you're not there.
+Patient: Right. Right. Yeah. Right. Or the, or either or, or the number [PHI-Account]. If it's just a message, if I can, you know, uh, go to see him either tomorrow or, um, you know, or Monday, whatever. I don't, don't like to believe it, you know, go that long. But, uh. Right. Yeah. Ok, we'll work
+Nurse: At it. Yep. Let me get a message over there to them and then, um, they'll get in touch with you. Ok,
+Patient: Thank you very much [PHI-Personal]. You're
+Nurse: Welcome. You have a good day. You too. Bye bye bye bye.

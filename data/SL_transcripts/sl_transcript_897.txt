@@ -1,0 +1,18 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Uh, hi [PHI-Personal]. My name is and I was returning your call.
+Nurse: Hi, [PHI-Personal], how are you? I'm good, good. I was just in the process of actually getting back to your husband [PHI-Personal].
+Patient: Oh, ok. Uh, are
+Nurse: You with him by chance?
+Patient: Yeah. All
+Nurse: Right. So give me one second just to pull up your chart. Ok.
+Patient: Ok. Alrighty.
+Nurse: So [PHI-Personal], you are a patient with Doctor [PHI-Personal] and [PHI-Personal] is a patient with [PHI-Personal]. Is that correct? Yes. Ok, perfect. Um, so let me just tell you that this call is gonna be recorded for training purposes. Ok. Ok. All right. Um, so the reason I was reaching out to both of you is because the physicians within [PHI-Geographic] health recently started offering their Medicare patients a new program called Care Management. So with that you guys would receive a phone call from your provider's care management nurse. Um, the nurse works hand in hand with each doctor. Um, she would call you every few months to check in, make sure you're both feeling well, make sure your medications are working well. Um, and also to ensure that no new issues or problems have come up in between appointments with your physicians. You guys, you guys would always have the option to reach out to your nurses directly if you ever needed anything like refills or test results. Um Or if you just had any general questions about, you know, your, your health. Um So it is a billable service to Medicare, Medicare Advantage and secondary insurance plans and the calls are subject to deductibles, copays and coinsurance. Um Now [PHI-Personal] has Anthem [PHI-Personal]. Is that correct? Yes. And he doesn't pay any copays when he goes to the office. Is that also correct?
+Patient: Yes, I, I think so. I don't have, I have wellcare
+Nurse: And you don't pay any copays. Is that also correct? Yes. Ok. So yeah, typically the only thing that patients would be responsible for out of pocket would be a call from uh or would be a copay if they had one whenever they went to the office. Ok. Um And then you guys could have one phone call for the both of you or you each could have your own private call, whatever you choose and the physicians will get documentation of those phone calls sent to them as part of your medical records. Ok. Ok. So do you think this is something I can get you guys set up for?
+Patient: Uh I'll be interested. You'd have to call him and ask him. Ok. Yeah, but I would be
+Nurse: Interested. Ok, perfect. I can go ahead and get that set up for you. Ok. Now, the phone number I'm speaking with you on now, the six, so 62351166. Is that the best number for your nurse to reach you at?
+Patient: Yes. Ok.
+Nurse: Ok. And then I need to mail you some welcome information. Um, your nurse's phone number will also be listed on that letter too. Ok, I have your address is [PHI-Geographic].
+Patient: Yes,
+Nurse: Perfect. So I will go ahead and get this all set up for you. And your nurse should call you for your first call within the next few weeks. Ok. Ok. All right. Thanks so much for calling me back. I appreciate it and I hope that you have a great day and a [PHI-Personal]. You
+Patient: Too. Thanks so much. Ok, bye bye.

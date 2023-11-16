@@ -1,0 +1,25 @@
+Nurse: Hello. [PHI-Personal] speaking. Hi, [PHI-Personal]. This
+Patient: Is [PHI-Personal].
+Nurse: Hi, [PHI-Personal]. Hi.
+Patient: I'm still clogged up but I got a vaporizer going. Ok. I, I, I've been blowing my nose and green stuff has been coming out.
+Nurse: Ok. Um, do you have, uh, do you have fever or cough or any other symptoms? Well,
+Patient: Cough, I have a year around. That's, yeah.
+Nurse: Ok. That's nothing unusual for you. No. No. Ok. Ok.
+Patient: But like I said, I've been blowing my nose and it's been green and stuff coming up.
+Nurse: Ok. Ok. Well, that could be viral or it could be a little start of it. You don't have any pressure in your face, any facial pain, any and again, no fever, no chills or anything. No.
+Patient: No. But I don't know if it could be my sinuses because it's so dry in here.
+Nurse: It could be. Um, but you, but you are having cold symptoms, correct? Yeah. Like, yeah, you're not having no loss of appetite. No diarrhea, no nausea. Nothing like that. No. And you, and you haven't taken any Mucinex or anything like that. No, any over the counter. You taking that? Um, ok.
+Patient: I have a, I have a question. Let me find it.
+Nurse: I
+Patient: Went to the, to Walmart and I got Alka Seltzer plus cough, mucus and congestion, maximum strength. They have, they, they have day and they have night. Can I take them?
+Nurse: Um, let me see where you're on here? Oh, you were on Mucinex at one time?
+Patient: Yeah, because I had the same problem that I got now.
+Nurse: Yeah. Yeah, I don't, the problem is, is, I don't know what's all in that drug. Um, the best person to ask that is the pharmacist when you're at the pharmacy. Um, ok. That's always a good thing to do. Or you could call them and say, look, uh, you, you have my drug list there. I have this medication. Is it safe for me to take both of the night or in the day? There's, there's stuff in the day one that might not be desirable for you. Um, ok, because sometimes some of those daytime ones can, like, jack up your BP a little bit. So you have to watch that. Um, but, but the, but the pharmacist will know exactly what's in that medication.
+Patient: Ok. I have them open it just in case I have to take back to
+Nurse: Walmart. Yeah. Don't open it and then call the pharmacist and say, hey, can I take this with the meds I'm on and they'll tell you. Yeah, sure. You, it's safe or they'll say, well, you probably shouldn't take it because of XYZ and then you could take it back. Um,
+Patient: And I, I have some Mucinex 1200. So should start taking
+Nurse: That. You could take the Mucinex. Yes, absolutely. If you, you've taken it in the past, maybe you should take that other back and try the Mucinex because you, you know, you could take that. You've been prescribed that in the past. Yeah. So if you take that and see if that helps. Um, and then why don't you give it, uh, a day or two and listen, if it's not helping, I'll get you scheduled for a tele meed visit at the end of the week. You know, we could do a visit with the teed on the telephone. We could do a telephone visit. Yep. I could, or I could do that now, but I, I
+Patient: See the [PHI-Account]
+Nurse: Fourth, the 25th, but that's a little while. Yeah. So, yeah. So, why don't we? I could either schedule you now or you could give it a day or two on the Mucinex and see how you do and see if it gets better. It's up to you.
+Patient: I, I'll do that. I'll take a Mucinex, like I'll take one, you know, right now.
+Nurse: Yep. Yep. Take it for a few days. Um, because you're not supposed to take that longer than, like, a week or so. Anyway. So. Oh, really? You're really not supposed to take it for, I think two weeks is really as long as they recommend you take it usually unless the doctor tells you to take it longer. Um Yeah, so, so I would do it for, for a few days. See if it improves. But if you could, if you start having fever, you have all this facial pressure, you still have a bunch of nasty gunk coming out of your head, then you may, then we're gonna have to get you scheduled because you may need an antibiotic or a steroid, an antibiotic or something like that. So, um, so how about I call you back, um, Wednesday or you call me 11 or the other and give me an update and then if you feel like you need to get scheduled, I'll put you on the schedule at that point. Ok. Ok. Mhm. Ok. And keep drinking some fluids resting, you know, all the things you, yeah, all the things you would do if you have a cold and, um, again worsening symptoms, let us know. Ok. Ok. Yeah. Ok. Maxine. Ok. You take care now. Bye bye bye bye.

@@ -1,0 +1,19 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. You called me a little bit ago? I
+Nurse: Did, I just wanted to check in with you, see how you are doing? No, I'm
+Patient: Doing just fine. Oh, good.
+Nurse: Let's see. Nothing new.
+Patient: No, no, nothing going on.
+Nurse: That's not a bad thing. Oh, I'm just looking through your last note. I apologize. Oh, last labs looked really good. Your cholesterol is stable. Any flare ups of gout since we last
+Patient: Spoke? No, I haven't had any issues like that.
+Nurse: Oh, good. Perfect. And have you followed up with hematology at
+Patient: All? No. No, I, I think I'll go see them in [PHI-Personal]. [PHI-Personal]. Yeah, I believe that's what it is. I'll talk to them then.
+Nurse: Ok, because I remember last time we spoke we spoke about getting off the Eliquis. Um, but we were waiting for that return visit. Ok. I got myself all discombobulated this morning. I apologize. And you're staying as hydrated as you can, right? Yes. Perfect. I know we spoke about that last time too. You know, with the chronic kidney disease, we definitely don't want to over hydrate you because that will hurt your kidneys as well, but as much water as you can take in without overdoing it to keep them properly going. Hm. But your filtration rate has been stable the last 10 months or so. So, that's good to hear. No questions or concerns. Right.
+Patient: No, no, I'm not really concerned about anything right now.
+Nurse: Right. Any need for any refills that you're aware of?
+Patient: No, no, I'm good on all that.
+Nurse: Perfect. Right. And you along with the hydration, you're are you watching your salt intake as well?
+Patient: Yes, perfect.
+Nurse: Ok. Well it's one of those mornings nothing's working properly. Oh yeah, let's see. Right. Well, then I I will take or not take I will make a quick note just to let um Doctor [PHI-Personal] know that you're doing. All right. Um no flare ups of gout and we're still waiting on that hematology appointment just to double check on the Eliquis. Ok. Mhm. All right. And when do we follow up with nephrology again? May in May? Ok. Yeah, perfect. All right. Well, I'll keep my eyes out for hematology um and like I said, I'll just let Doctor [PHI-Personal] know that we touched base and you're doing. All right. Ok. All right. Well, I hope you have a wonderful day and thank you for returning my call.
+Patient: Sure. Alright, take care. Uh huh bye
+Nurse: Bye bye.

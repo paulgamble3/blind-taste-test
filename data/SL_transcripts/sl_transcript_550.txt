@@ -1,0 +1,21 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you? I'm
+Patient: Good. I passed my test this morning.
+Nurse: Ok, let me just pull up your chart here. I think. Do you usually talk with [PHI-Personal]? Have you been unable to get in touch with her today?
+Patient: Well, yes, that's right.
+Nurse: Ok, that's ok. Let
+Patient: Appointment today and I, I didn't get her a message until she already went home. So I called her and left her a message said I ain't gonna be able to make it tomorrow or it could be today. Ok, so she said it, uh, I think she rescheduled me for tomorrow at 2 30. If you look that up, see what you find. Ok,
+Nurse: Let me look and see for you. Let's see here. Yeah. So it looks like tomorrow at 2 30 your schedule. That's exactly right. Perfect. Looks like they have a couple things here for you. And uh, so you, you had your colonoscopy? Yes. Ok. And that one? Ok, let's see. That was, oh, you had that today? Oh jeez, you sound so good. Good and with it and everything you didn't have any trouble went
+Patient: Back to the hospital after he did the operation or some kind of thing. So, I had that throat culture done a year ago and boy. Oh, yeah, I wound up staying overnight.
+Nurse: Oh,
+Patient: My. Yeah, my, uh, BP was too high and I didn't know it here. He gave me medication to slow my heartbeat down. Ok. Went that low out at the O IP when I went to eat.
+Nurse: Oh, well, I did. Oh, jeez.
+Patient: I told my wife, I looked across through her. I said, listen, dear, I said, I don't feel good. Oh, I, I'm going to pass out. All I remember is the ambulance asked me to slide over on the,
+Nurse: Oh, because your BP was low. That's what happened. Oh, that's scary, isn't it?
+Patient: Me and the doctor had to talk about that this morning. He said that's right. We'll, we'll not do this.
+Nurse: Oh, so they were probably careful. Yeah, from now on, you know, tell him that you have that happen, you know, when you have anesthesia because they'll probably watch you a little bit longer afterwards. That kind of thing. But, yeah, anytime so signs of low BP, this is good to know, you know, lightheadedness, um, dizziness, fatigue, um, sometimes nausea too. Um, you know, and then of course loss of consciousness like you experienced. Oh, that's, I know that's, uh, it's scary when that happens. They say,
+Patient: Yeah,
+Nurse: They say, you know, if you have those symptoms to sit or lay down right away and put your feet up above the level of your heart. But of course, you know, if it's an emergency situation, you know, you're gonna call 911 and you're feeling good. Have you, have you eaten or anything today? Yes. Wonderful. Did they tell you you could resume a regular diet? Yes. Good. And you don't have any, like, nausea or vomiting or anything like that? Good. Wonderful. Um, well, did you want me to pass a message along to [PHI-Personal]?
+Patient: I I got that, I got the message and I'll be in.
+Nurse: Ok, I'll let her know that we spoke and that you're doing good and that you'll be at the appointment tomorrow. Wonderful. Ok, Larry, have a good day. You too. Alright. Bye bye bye.

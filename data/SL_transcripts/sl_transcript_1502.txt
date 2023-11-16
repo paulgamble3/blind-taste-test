@@ -1,0 +1,23 @@
+Nurse: Hello [PHI-Personal] speaking.
+Patient: Hi.
+Nurse: Hi [PHI-Personal], how's it going?
+Patient: Oh I I'm still sleepy I almost call last night and II I was I think you called me this morning, didn't you? I don't wanna I supposed to go to street doing
+Nurse: Hang on one second let let me let me get you up on my screen. Ok. Yeah you're supposed to see the nurse today
+Patient: Where here
+Nurse: Hang on let me make sure. Yes. Yes at 11 30
+Patient: No way I leave it now you won't be able to go in. Yeah right. All street [PHI-Geographic] it's right
+Nurse: It's it's [PHI-Geographic] in [PHI-Geographic]. Yes. Alright
+Patient: I you're gonna go.
+Nurse: Yeah. Ok. Ok are you are you just wanted to confirm that you have this appointment there today? Is that why you were calling?
+Patient: I feel sleepy when you when I call when I got that off.
+Nurse: That's ok that's ok. Are you feeling? Ok.
+Patient: Yes I try I try.
+Nurse: Ok well yeah get in there and get the the they wanna do that training with you for the injectable. Ok how's your breathing?
+Patient: I'm pretty good pretty good
+Nurse: Good you're not having any issues there are you using the new inhaler. Yeah and it's and it's working a
+Patient: New one. Yeah one it never got prescribed to me I never got it
+Nurse: So you didn't get it
+Patient: They never filled it
+Nurse: They were working on the auth I just wasn't sure if it went through or not
+Patient: You gave me the uh in stuff. Yeah I got app for that. Ok.
+Nurse: Ok well she's gonna teach you you're gonna take that with you and she's gonna teach you how to use it today. Ok? Alright. Alright and let me know if you have any questions after. Ok. Ok thanks. You're welcome have a good day. You too thank you bye bye now.

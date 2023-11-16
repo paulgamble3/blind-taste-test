@@ -1,0 +1,11 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, yes, you left me on, my name is [PHI-Personal] Dia.
+Nurse: Ok, let me pull you right up. Mhm. Ok. So it looks like I called you because it looks like you're eligible for our care management program. And so what that is, is a nurse that will be able to give you a call to see how you're doing. She answers any questions, refills, prescriptions. She will address any issues you're having and she could help with appointments and lab work, things like that. The program helps keep the doctors updated and it avoids emergency room visits and all the calls the nurse makes are documented and sent to the doctor for review. They are treated as a billable service to [PHI-Personal]. [PHI-Personal] Advantage plans and secondary insurance carriers. And they're also subject to deductibles, coinsurance and copay. So I have here you have United Healthcare [PHI-Personal] Advantage with a $5 copay. Is that still correct? Yes. Ok. And do you prefer morning or afternoon phone calls from the nurse?
+Patient: Well, see that's the uh issue because I'm a Uber driver and you know, I don't really have a set time when you can call.
+Nurse: Ok. Well, she could always call and leave a message and then when you have time you could call back that work. That would
+Patient: Be, that would probably be the best option.
+Nurse: Ok. All right. Let me make sure you're still at 9011 Sheldon West Drive Tampa Florida. 33626. Correct. Ok. I'll also send out a letter. It has all the information on it plus a phone number to call in to the nurse if you need to. And then your first phone call from the nurse should start within a week or two. Ok. Ok.
+Patient: I, I'm going to be out of the country until the [PHI-Personal] of a,
+Nurse: The [PHI-Personal] you said.
+Patient: Yes. August the [PHI-Personal]. I'll be back in the
+Nurse: States. Ok. So you want to close the store after that, correct? Ok. Got it. I'll put that in there. All right. Well, that's all I need for today. Just expect a letter soon and a phone call after the 10th. Ok. Thank you very much. All right. You're welcome. Have a good day. You as well. Bye bye. Bye bye.

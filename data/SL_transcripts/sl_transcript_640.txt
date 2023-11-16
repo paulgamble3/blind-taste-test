@@ -1,0 +1,64 @@
+Nurse: And this is [PHI-Personal].
+Patient: Yes. [PHI-Personal]. Good morning. How are you?
+Nurse: Good morning. I'm doing ok.
+Patient: Yeah, I'm [PHI-Personal]. Hi, Miss [PHI-Personal]. Uh huh. Um, I, I got you a message the other day and, um, I am, I am to have, uh, I have a doctor's appointment for some time. Yeah, but I haven't received anything to get blood work. It's usually I have the blood work done and after that, maybe a week or something like that, then I see the doctor but I didn't get any, um, for this year.
+Nurse: I see you do have this on the [PHI-Personal] and he does not have any labs pending because you last got labs in [PHI-Personal].
+Patient: Let's see. I can, I,
+Nurse: Can you hear me now?
+Patient: Good. Yes.
+Nurse: Yes, I see that you do have an appointment on the [PHI-Personal], but I don't see any labs that he has pending before your visit, so I can send a message to her just to see if she wants to order any labs. And if so I will go ahead and, um, and you said you would, you would like your lab appointment a week before your
+Patient: Visit Yes. Uh
+Nurse: Huh. Ok. So I can do that, see if she needs any labs. And also I was just taking a look at your BP readings and they're normally pretty good. You did have a few cases where your BP spiked up a little bit and even where it dropped. So, were you having any symptoms when
+Patient: It was bad? I usually know, um, it's coming on because of the symptoms. My, my, um, head headache is not exactly a pain. Uh, but it's just kind of like something crawling in my head or something. But I know something is different when that come on, you know, and then I'll take my BP and normally it's a little high. Ok. Once in a while it's a little [PHI-Personal] but mostly it's, it's the height of it, you know.
+Nurse: Can you tell when it's
+Patient: [PHI-Personal]? No. No, it's, it's, it's mostly the height. Not the.
+Nurse: Ok. Do you, what about any shortness of breath? Chest pain, dizziness. No, lightheadedness. I feel like you're gonna faint.
+Patient: No. No. Ok. So you're, you're doing good?
+Nurse: I said you're doing good majority of the days. But there are some instances where it's, it's elevated. Are you trying to take your, um, medication? And do you?
+Patient: Ok. Even sometimes I have to be fighting to get my medication. That's, that's another thing when I see the doctor I have to ask about. What's that? Um, my darn the prescription bottle, I'll bring in one of the bottles so she could see what I'm talking about because she writes in it that, um, I should, don't renew it. Don't renew my medication until I see the doctor. Something like that. I have the bottle here. Ok. Yeah, I don't know what that is about. I only see a doctor when I don't feel. Well, that's how I am. You know, I don't,
+Nurse: So the last refill, the last refill on the bottle, they place that you can't get any more refills until you have an appointment.
+Patient: Yes. Yes. Ok. Yes.
+Nurse: Yes. And they normally do that because with any medication it affects your kidneys in some type of way. So in order to have to monitor your kidney function just to make sure the medication is not harming your kidneys. So that's why they have you come in every once in a while just to do some lab work just to make sure your kidneys is doing ok. So that's why they have you come in here. That's why I have you come in in at least once a year just to make sure your kidneys is doing ok with the medication.
+Patient: Oh, and let me ask you something. Does kidney function? When for, for example, if I have blood work is any part of that is about the kidney
+Nurse: And you your medications for kidneys?
+Patient: No, if the blood work would say, oh, my kidney something is wrong or do the blood work. What, how, how do they know what if something is wrong with my kidney? Ok.
+Nurse: So she did a, uh it's a blood test called uh uh metabolic panel and she did it on
+Patient: You. It's
+Nurse: Got a AC MP and it, well, your kidney um test are called a bun and creatinine. And that, and that's what it tests your kidney function and looking for kidney function. So, yeah, that's how she keeps a record of how everything is doing. The numbers are too high or too [PHI-Personal]. Then she would probably say, well, let me take you off this medicine and put you on something else. So let's hold this medicine for a while, you know, just to see what your kidney function looking like. So if she hasn't said anything like that, then mean your kidney function is ok
+Patient: If she say anything about my blood work. So yeah, but she says it ok. I don't know. Yeah, she
+Nurse: Don't mention anything that it's probably ok. She'll probably say something if she really, if it's something really important or something that's really out of whack she'll mention to you then. Mhm. But it doesn't hurt when you go to those appointments. Just ask her, can you explain to me my blood work? Yeah, because it doesn't hurt just to know even if everything is good, you want to know everything is good. So it doesn't hurt just to ask her, can you explain this to me. What does this mean?
+Patient: Uh
+Nurse: Oh yeah. Did you need any refills on any of your medication or are you good until your appointment?
+Patient: I'm ok until my appointment. I just got one refill the, the other day. She was having so much problem. I just, I just didn't get that. Ok. But um, I had called here and, and somebody, one of the nurses, uh you talk to the doctor about it and, and then they called me and told me that the Medica medicine was ready to come and pick it up. So, ok. Well, then I guess I got it fixed.
+Nurse: So, yes. So once you go to this appointment, then she should be able to give you your medications like they once were. So, will she give it to you at least 90 days? Yes. Yeah. Ok. So once you go to this appointment, then she will start back doing it.
+Patient: Yes.
+Nurse: Yes, ma'am. She just hadn't seen you in a while. So she was trying to make you come in.
+Patient: Yeah.
+Nurse: Yeah. And you've been checking your sugar levels lately? Are they doing? Ok.
+Patient: Yeah, it was [PHI-Account] a week ago. I plan to do it this week. Once a week is, I don't like to be stuck. To be honest. That's why I'm inquiring about the blood work because I, I have a, a cardiologist appointment a week or so after doctor doctor. So I want to use the same blood work. So I don't have to be stopped two times, you know. So that's why I, I, about the blood work.
+Nurse: So, what day is the cardiology appointment? Is it on a Friday as well? Is
+Patient: It? Yeah. No, the, the cardiologist, he doesn't, I usually get my blood work done the, in the office for doctor doctor. But the cardiologist I have to go to a lab. He's just the one, you know, is not big. Like, ok, so I have to go to one of those big labs and I, and I appreciate, you know, going to doctor doctor and that
+Nurse: Way he can get the
+Patient: Result, you know. So that's why I try to get it, get it done so that they don't have to be stuck because some people just, they just stick you and I don't know if they remembering that it hurts. Yes. Yes, ma I try not to be. Yeah,
+Nurse: I understand. But I do see that you do have your appointment. I will contact her to see if you have any labs that she wants to do or if she doesn't have any labs.
+Patient: Yes. Please let me know. So I could get it done before. Yes, ma'am. I should come in there, you know, I'm, I'm outside when the weather is nice doing yard work. So by the time I get in, I'm tired, I go to bed. Yes,
+Nurse: I understand. So I will work on it and I will give you a call and if you don't answer, do you, do you want me just to leave a voice mail or do you wanna talk to me directly?
+Patient: I'll, I'll talk to you. Ok. If I see you, um, you did call, then I'll, I'll try and get you and, and see how things are going. There. There's another, there's another question but then go, it speaks about, let me see. I have a Tik off here. Oh, I, yeah, I need to see up my feet. I guess it's poor circulation or something. It, it, it turn in a little darker than, you know, the rest of my body. Ok.
+Nurse: So, do you feel any numbness or tingling at
+Patient: All? No. But sometime it hurts, you know, and I, I test it to see if I have any feeling in it, you know? And I do have, because, because I guess I have, I don't know.
+Nurse: And sometimes it hurts. Does it feel cold to the touch? Is it cold all the time?
+Patient: Once in a, once in a while? So I just put thick socks on, you know? Mhm. It's in the night, it, in the day time I'm up and down and so it's, it's, it doesn't bother me but the, the color is changing and it's just, yeah. Ok. Dark looking color.
+Nurse: And how long has that been going on?
+Patient: Um, maybe the middle of last year or something. But if it's not hurting I don't pay too much attention to it as I should. But, um, I don't just, you know, sit down and, and you do check your feet,
+Nurse: You check your feet every day and make sure they're clean and dry.
+Patient: Yes. Yes. And I cut my nails last week and all that, you know, and I, I do have feeling in my feet, you know, it's a color change and I'm getting to me,
+Nurse: When was the last time you saw a podiatrist?
+Patient: I've never seen one in my life. That's so, yeah, we would have to set you up,
+Nurse: We have to set you up with a podiatrist because when you have diabetes, you always have to assess your feet just to make sure everything's ok. But doctor doctor, she can also, um, look at your feet right at your appointment as well. Yeah. So depending on what's going on, she may refer you to a podiatrist just to go in a little deeper to see what's going on and why it's changing colors.
+Patient: Oh, yeah.
+Nurse: Ok. Is there anything else I can do for
+Patient: You? No, I keep it long enough but I have to get everything out because I don't know when I talk to you again. I know I
+Nurse: Try to call you every month but in between those call, you can always just write down all of your questions and that way when I call, you can just shoot them at me and you won't forget.
+Patient: Ok, all Right. Nice talking to you. You have a common voice. Love you. Yeah some people don't like to talk to them because yes I like the calm. Thank you.
+Nurse: Alright. You enjoy the rest of your day. You too.
+Patient: Alright bye bye.

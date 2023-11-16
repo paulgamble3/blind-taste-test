@@ -1,0 +1,13 @@
+Nurse: [PHI-Geographic] Medical. This is [PHI-Personal].
+Patient: [PHI-Personal]. This is Mr uh again today, I just, sorry, we got interrupted, but I just wanted to let you know it, it, it's no like no emergency and, and the girl was here to evaluate her the other day and um, she said common, it's, it's not something that's unusual with old people. They know they like to keep it in their mouth and swish it and everything else. But we had an occasion two or three weeks ago where she had Mucinex in her mouth and she wouldn't swallow and wouldn't swallow. And then she either had to cough or sneeze or something and it went down the wrong way and Mucinex was strong. So she coughed and coughed and coughed and I thought we were gonna have an emergency anyway. She's coming back this week to, to observe her eating. Ok. And, and she is the one, she's the one that said she has people friends, uh who are social workers and she was going to put a feeler out to them too about transportation. So we've got a lot of people looking into it. But, uh so far, like I said, the only one we've got is Dunbar. The other one that we tried $500 round trip.
+Nurse: Oh, my gosh. That's ridiculous.
+Patient: To God. Isn't that something? Yeah, that's
+Nurse: Ridiculous. Um, I just got a message here from somebody. Let me look this up,
+Patient: By the way, that, uh, that call from doctor s office was to inform us that they put in for blood draw. And I told him the same thing. I said you're too late they already got it.
+Nurse: Ok. Here are some ok so here's some resources here I'm gonna stick these in the mail for you. Ok? Terrific. Ok so I'll get all this information pulled up and put in the mail.
+Patient: Ok you got my your email address
+Nurse: Uh the. Yes um are you just gonna access [PHI-Personal]? Oh
+Patient: I can do [PHI-Personal].
+Nurse: Sure. Ok. Alright I'll send it through there then. Ok.
+Patient: Ok [PHI-Personal] I appreciate it thank you.
+Nurse: No problem. Ok bye bye bye bye.

@@ -1,0 +1,68 @@
+Nurse: Nurse care manager. This is [PHI-Personal]. How can I help you? [PHI-Personal]? This
+Patient: Is [PHI-Personal] calling you back.
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: Oh, all right, good.
+Nurse: How's, or, uh, doing?
+Patient: Uh, not too good right now. Oh, no. What's
+Nurse: Going on?
+Patient: His, his shoulder? He's gonna have to have surgery on it. Oh,
+Nurse: Dang it. Do they know when they're gonna do that? Uh, well,
+Patient: We have to wait for them to call us and let us know. He saw Doctor [PHI-Personal] on Tuesday and he was, he was moving his arm around and stuff a lot and now he's not doing too good. Mhm. So, they told us once, uh, they have an, an opening and stuff so they'll get a hold of us.
+Nurse: Ok. Um, when you said he was moving it around, was that the, are you talking about void or the doctor? The, the
+Patient: Doctor was moving it around and now more than what void can and now he's in a lot of pain.
+Nurse: Oh, no. When was that? When did that happen?
+Patient: Well, he's been having trouble with his shoulder for, uh, quite a while but his hand was worse. So we had him do the hand surgery first. Now, he's kind of wishing he would have got the shoulder surgery done first. Mhm.
+Nurse: Yeah, I definitely don't blame him for that. Um, yeah, remind me how long ago was the hand surgery,
+Patient: Uh, the hand surgery was done in [PHI-Personal] or [PHI-Personal]?
+Nurse: Ok. Yeah. And has he had any? Yeah. Has he had any follow up
+Patient: Visits? Yeah. He, uh, yeah, on, uh,
+Nurse: Tuesday. Ok. When he was saw
+Patient: Doctor [PHI-Personal].
+Nurse: Ok. So, Doctor [PHI-Personal] said that they'll call when they've got an appointment or a time to be able to do the shoulder surgery. Yes.
+Patient: For the, I'm hoping it doesn't take too
+Nurse: Long. Yeah. I don't, being in pain, especially for something that's used so often is not very fun. Yeah. And it's his,
+Patient: It's his right hand and that's what he writes with and everything.
+Nurse: So. All right. Um, ok. Well, I'll probably follow up, uh, next month too just to make sure and see if they get it scheduled. If he gets scheduled for surgery. I would call and let Doctor [PHI-Personal] office. Just know, hey, we've been, you know, fighting this shoulder issue. He's gonna have surgery on this day. I doubt that they'd make him, maybe he would have to do another pre op visit. But, ok, I'm not sure. It looks like he has an appointment with doctor for, in August. Ok. I'm not sure if they're gonna do, try to get him in for surgery. Sooner than that did they say? Maybe how long?
+Patient: No, no, he didn't. They just said that the, where he does the surgery at would get a hold of us as soon as they knew they, uh, if he had an opening or how soon he had an opening.
+Nurse: Ok. Ok. And how's he doing with his mental health? Depression, anxiety.
+Patient: Oh, that's, that's all good. Mhm. His, his nerves were like, doing really bad with the pain and stuff. But I found him something that's been kind of keeping him calm
+Nurse: For him. Right? OK. And what's that? Well, I have,
+Patient: There's an app on my phone. It's a uh call by number uh app. So I brought that up and he's been doing that and he said it's been, his nerves has actually been doing better since he's been doing
+Nurse: That. Is it kind of like a distractor?
+Patient: It just like, relaxes you. OK.
+Nurse: I kind of like a game.
+Patient: No, it's just like there's pictures that come up and then at the bottom there's numbers and then you push on the number and like all those numbers show up on the picture and then you like push those, those spots and it colors it. Oh OK. It's like coloring.
+Nurse: OK. Nice. That's great. It's a good way to, to help deal with this um you know, anxiety or feeling nervous. It's a great idea. I do
+Patient: That a lot. Like at night time when I'm trying to like calm down and relax because I take care of mom all day, which has been very tough and getting harder and harder. So yeah, it, it relax and he, he said this morning it was actually like helping with his, his nerve issue.
+Nurse: Oh, good, good, good. Um Is he by you that maybe he can answer some questions for the anxiety screening or on a second? You can just put him on speaker if you'd like.
+Patient: Go ahead.
+Nurse: Ok. In the last two weeks, how often have you been bothered by the following problems? Feeling nervous, anxious or on edge? Not at all? Several days,
+Patient: The, the doctor's office. But well, I don't understand what she's talking what you mean.
+Nurse: So I'm gonna, because of the an your anxiety diagnosis void. I, we do a screening to see how well uh like an assessment to see how well the anxiety is managed. So it's a series of seven questions. Um And it, in the last two weeks, just thinking about the last two weeks. How often have you felt bothered by, you know, feeling nervous, anxious or on edge? Not OK, not being able to stop or control worrying.
+Patient: No, I had no problem. Ok. My, I don't. Ok.
+Nurse: Ok. How about worrying about different things? It might seem like these questions are redundant.
+Patient: No, that is all I got is a pain in my shoulder. Mhm. That's it bothering me.
+Nurse: Yeah. How about becoming, how about trouble relaxing
+Patient: With my shoulder. Yes, I have trouble relaxing and my shoulder won't let me.
+Nurse: Right. Ok. Um, being restless,
+Patient: It just that my shoulder won't let me sleep because it gives me that much pain.
+Nurse: Ok. Yeah, that's kind of what, um, what [PHI-Personal] was telling me. Um, how about becoming easily annoyed or irritable? No. Ok. And feeling afraid of if something awful might happen. No.
+Patient: Ok. The only thing off would be if I would win a million dollars.
+Nurse: Yeah, that would be very nice.
+Patient: Yeah. Well, then I'll probably have a heart attack because I'd be so, so excited and the, and not believing that I would win something like that. But I don't have to worry about it. That's true. Hope you can take a, uh, uh, joking. Oh, of course, of course. Because I like to joke. Do
+Nurse: You? Good. It's nice to, to, to have a laugh, that's for sure.
+Patient: Yep. I like to ask people what they get me back. Yeah,
+Nurse: I'm sure
+Patient: They do. Oh, yeah. Uh, boy.
+Nurse: Are you feeling ok with, with anxiety or anything about that? Have you been worried about anything? Nope.
+Patient: Just my shoulder. Give me pain like a, excuse me. But I just like some jerk. I heard a language. Right. Right. Right.
+Nurse: Right. Um, well, you're [PHI-Personal] was telling me that you're possibly go, you're, you're probably going to have surgery on the,
+Patient: Oh, on should. So
+Nurse: Hopefully we can get that scheduled soon.
+Patient: Yes. So do I bru see.
+Nurse: Well, I told her once it's scheduled to give us a call and we'll follow up with you. Ok.
+Patient: Ok.
+Nurse: Ok. While I have you guys on the phone, do you need any medication refills?
+Patient: No, no. Ok. I'm sorry, I really have to take this phone call from the doctors for my mom.
+Nurse: Ok. Bye [PHI-Personal]. Bye
+Patient: Bye. Thank you.

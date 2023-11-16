@@ -1,0 +1,26 @@
+Nurse: No. Um, hi, this is [PHI-Personal]. Hi, [PHI-Personal]. Uh, somebody just called me from this number. Hey, is this [PHI-Personal]?
+Patient: Yes, this is [PHI-Personal]. All right, this is [PHI-Personal]. I'm the chronic care management nurse at Doctor [PHI-Personal] office. Yes. Hey, I was just calling to check in, see how everything's going, how you're feeling today. I'm
+Nurse: Feeling better. Thank goodness. Couple of long days in the hospital, but doing better.
+Patient: Sounds good. And are you using the lactulose right now still or is it? Ok.
+Nurse: Yeah. Um, and I've not really had any kind of a solid, um, go through me yet. So I just kinda, you know, waiting for that to go, but I'm taking that stuff every 12 hours.
+Patient: Ok. Yeah. And you, I mean, you had quite a build up from my understanding from what the note said. So it's gonna be a little while of getting all that cleared out.
+Nurse: Yeah, I had one was really soft, so, you know, that's fine. I feel fine. No pain, no swelling. Good, good.
+Patient: Well, definitely make sure you're drinking plenty of fluids to kind of offset anything you're losing through that stool right now.
+Nurse: Lots of [PHI-Personal]
+Patient: Lots of [PHI-Personal] good and then stay, just stay as active as you can. Um, the G I tract tends to slow down a little bit when you're not moving a whole lot. So, to prevent us from having these problems again,
+Nurse: My boyfriend and he's making sure that, yeah, I'm up and about, I get a little bit more exercise
+Patient: And you don't have to go crazy, you know, a little bit each day and kind of slowly build yourself up. Um, you know, you don't wanna overdo it. You don't wanna make yourself be aching or sore or exhausted, but just what you can manage.
+Nurse: Yeah. The only thing we're kind of concerned about at this point is I've lost some dramatic weight over the last two months. I've lost, uh, 25 lbs. We don't know why. We don't know why because I, you know, I don't eat a lot but I eat meals, you know, because we're always together and we have usually a late morning something and then I cook supper at night. So we, we just don't know why. There's no pain, there's no swelling, there's, you know, nothing to blame it on. It's just weight's coming off because everybody I run into, they're like, what do you do? And I'm like, nothing that's, you know, I, I don't know why. I guess I not complain but I'm getting ready to have all my teeth pulled, um, to, uh, get ready for dentures and we know that's gonna hold some weight off as well just because I won't be able to take in. Um, pretty much. So. Um, but I'll talk to Doctor [PHI-Personal] about that. I have an appointment with her on Wednesday. So, uh, we'll address that at the same time
+Patient: And with the past couple of weeks that you were so constipated, you know, your, your intestines weren't able to properly absorb a lot of your nutrients and things like that. The food wasn't being very well digested. Ok. So, you might have had a little bit of a decrease, um, in what you were taking in at that point. But it shouldn't have been something like 25 lbs. That's pretty significant.
+Nurse: Exactly. Yeah. So, but, uh, yeah, I'll be Doctor [PHI-Personal] office on Wednesday. So I probably wanna do some labs or something. I don't know.
+Patient: Yeah. Yeah, I'm sure. All right. And then, um, how are you with the rest of your medications? Anything you're running low on, need refills on right now?
+Nurse: No, I'm good right now. So, um, I'll go through my, I always go through the entire thing every week. So, just to make sure, you know, I stay on time with stuff, the reason stuff was so late was because my, I didn't have a mailbox, somebody tore out our mailboxes. So I had to change to my mom and dad's address and of course, you know, I had to change it back because I did just get a mailbox again but, you know, it just made things a little more difficult.
+Patient: Yeah. And now you're just having to deal with a whole bunch of little things and you should be trying to take it a little easy.
+Nurse: Yeah. Hopefully. Yeah. Trying, trying
+Patient: So. Right. All right. Well, like I said, just try to increase your water intake, increase your activity. Um, try to add a little more fiber to your diet if you're able to fresh fruits and vegetables, whole grains, things like that to kind of keep you cleaned out naturally. Um, and if you start noticing any kind of pain or any problems coming back up, you definitely give us a call, let us know right away. Ok.
+Nurse: Ok, I certainly will. All
+Patient: Right. Well, we will see you in office on Wednesday. Looks like 2 45. Yes, and then I will reach out to you again in another couple weeks. Um, but if you need anything before that, you definitely just let me know
+Nurse: Will do. Ok. Thank
+Patient: You. Oh, you're welcome. You have a good one.
+Nurse: Alright, you too. Thanks. Bye
+Patient: Bye bye bye.

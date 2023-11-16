@@ -1,0 +1,21 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, [PHI-Personal], this is [PHI-Personal].
+Nurse: Hey, how are you?
+Patient: Fine. I just had a b I had a low BP this morning and um, I just wanna know why is my BP so low if I take the medicine like daily,
+Nurse: Let me look here. [PHI-Account] yesterday. [PHI-Account]. Let me, how is your water intake?
+Patient: It's good. I drink water.
+Nurse: How much would you say?
+Patient: About 64 ounces a day? I only drink [PHI-Personal], [PHI-Personal], [PHI-Vehicle] [PHI-Geographic] [PHI-Personal].
+Nurse: Ok. So your urine would you say is it clear, yellow, lightly yellow, yellow?
+Patient: Yeah.
+Nurse: Ok. If it's still pretty yellow, um, you may try and increase it some more, try and hit at least, uh, a gallon a day. I know that sounds like a lot. But I want, if you're dehydrated at all and I know that you have your history of your UTIs as well. Let me see here. I'm looking at your meds and your oxyCODONE. You're doing it every six hours.
+Patient: Yeah, I have to. My back is killing
+Nurse: Me. Yeah. Ok. And the Xanax too.
+Patient: Yes,
+Nurse: It could be. I'm wondering if it could be a cause of both of taking both of those meds.
+Patient: Maybe I only take, I only take, um, I think 0.5 I take two of them and then when I go to bed at night, that's it. No, but I have a panic attack. I'll take, I'll take one but I only take two at night.
+Nurse: Ok. Um, let me look here and then when you saw me [PHI-Personal] on the [PHI-Personal], she didn't say anything about it.
+Patient: Should talk to my heart doctor, which I have an appointment on the, the [PHI-Personal].
+Nurse: That's so far away.
+Patient: Yeah, this is a, this is a, um, a specialist. I'll call my heart doctor when I got some of you and ask him what we should do about
+Nurse: It. Yeah, I would absolutely try and call them and see if you can get in sooner than that. And you, you need to tell him that your BP is running really low and you're having symptoms with it. Ok. Yeah. Ok. And then, um, I'll just keep an eye on you. I'll check your chart tomorrow and see where, where you're at. Ok. But really try and push those fluids, try and get some more water in too. Ok. Ok. Ok. All right, I'll call you, um, in a couple of days. See what cardiology says. All right. Thank you. Ok. You're welcome. Bye bye.

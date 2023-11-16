@@ -1,0 +1,11 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal]. You left a message on our answering machine? Oh, yes.
+Nurse: Let me pull you up here. Ok. How do you spell your last name?
+Patient: Car Ac [PHI-Personal] Lo [PHI-Personal].
+Nurse: So trying to find you here. Mhm. [PHI-Personal], what's your middle initial? RR [PHI-Personal]?
+Patient: C? And it's [PHI-Personal], V IC K I not [PHI-Personal].
+Nurse: Uh that's maybe where I'm there. You are. So uh [PHI-Personal], it looks like I called you. My name is [PHI-Personal] on behalf of Doctor Za because it looks like you and qualify for our new care management program.
+Patient: Ok, so you can let us what that's all
+Nurse: About. Yes. So what that is is a nurse that will be able to give you guys a call to see how you're doing. The nurse is able to answer any questions, help refill prescriptions, she'll address any issues you guys might be having and also help with appointments, referrals and lab work, things like that. The program, it helps keep the doctors updated and all the calls the nurse makes, they are documented and sent to the doctor for review. They are also treated as a billable service to [PHI-Personal] Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays. And so I have here, you guys have the [PHI-Personal] Advantage. Is that still correct? Ok. And so essentially they're around a once a month call from the nurse, but you're able to call in as many times as you guys would need to.
+Patient: Ok. Um, were you going any further? Yeah. Uh, we don't feel we need this. Uh we've been, we're, yeah, we yesterday we even had the um what do you call? The, the matrix come in and check us out and all that. So, and we do everything we're supposed to do. So at this time, we really don't feel we need this, these calls. We're pretty vibrant, we're, we're self sufficient and sustaining. So I mean, we think it's a good idea, but is that necessary right now?
+Nurse: Right. Absolutely. Was it ok if a nurse reaches out in about six months? Yeah, that's fine. Ok. And I'll mail you guys out a letter as well. Are you still the two Fieldstone Lane and Beacon Falls, right? Alrighty. Ok. Well, thanks for your time today guys. Have a great day. Bye bye bye bye.

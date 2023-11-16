@@ -1,0 +1,102 @@
+Nurse: [PHI-Personal] speaking. How can I help you? [PHI-Personal] is [PHI-Personal] there? I'm calling her back. She forgot to ask me something. Sure. One second. Ok. Ok. Thank you. Mhm. I'm gonna transfer you over to [PHI-Personal]. Ok. Ok, thank you.
+Patient: This is [PHI-Personal]. How can I help you
+Nurse: Return your call? Hey,
+Patient: [PHI-Personal]. Yeah, let me get back to your chart. Um There was [PHI-Personal] question and I hated to call you back and bother you. Um [PHI-Personal] question.
+Nurse: Ok.
+Patient: Oh, ok. Just as needed. Ok. Um when we were talking about the vitamin B 12 injections, I know you've been doing those for years um
+Nurse: From today.
+Patient: Yeah. And remember I asked you about the vitamin B 12 pill?
+Nurse: No, I never took that. That's my husband. He had to take it for a while with his blood level but he's ok. Now he
+Patient: Can. So you've never taken a vitamin B 12 tablet? Ok. Ok. All
+Nurse: Righty. I get the injection. That's why the injection, your blood faster works better with the, but my blood has been high so they want me [PHI-Personal] ounce of meat but then you don't get the protein.
+Patient: So that's right. It's the absorption. Yeah, the absorption is completely different with a, a pill and then an IM injection. So, they never started you off with the pill many years ago.
+Nurse: Ok. Like the diet and all that kind of stuff. And that really didn't work. Right. And I had a years ago from, so I, I help people come to the medical journal years ago. Mhm. As was younger?
+Patient: Oh, goodness gracious. Uh huh. Ok. Well, I blind
+Nurse: In [PHI-Personal] eye
+Patient: I saw that I'm making some notes. Well, I will make sure that I update your chart that you are just um you know, just have the injection of B 12. Is there anything else I can help you with today? [PHI-Personal]?
+Nurse: I should skip it but I don't think
+Patient: What now [PHI-Personal] [PHI-Personal] can you hear me
+Nurse: Natural if I could all his medicines? The medications? Mhm. Had a problem with my I BS this morning. I don't know what it was. I finally went I went like three or four times. Mhm. I drink more water that will maybe make it better.
+Patient: Right. Alrighty. Well I'm gonna get off here if you need me, you give me a call. Ok.
+Nurse: Told I have to figure out what to eat. Really?
+Patient: Um I have went over, let's see, let me pull your chart back up because I did read [PHI-Personal] of the notes. Ok, no problem.
+Nurse: I know it's warm in here
+Patient: But I mean, you know, we definitely want to, um, uh, follow through with the appointment with the dietician. Um, I did
+Nurse: Have [PHI-Personal] in [PHI-Personal] but she don't realize all these medical problems, patient dietician. I think I need a different, maybe I need a different kind dietician. I don't know.
+Patient: Well, this is what I read in the chart. So doctor said practice portion control, um, eliminate saturated fats, eliminate fried food.
+Nurse: I, um,
+Patient: Uh, eat healthy fats, like avocados and low fat cheese.
+Nurse: Oh I can eat cheese. Mhm.
+Patient: Low fat uh try to limit simple sugars. Um So
+Nurse: And when I would eat honey, when honey has a lot of sugar, look on the ground of sugar. And I said, you know, I really can't do that. So I'm drinking my warm tea without honey with nothing on there,
+Patient: Right? So you want to substitute. So instead of, you know, eating white rice, white bread, um you know, things like that, you want to have brown rice, sweet potatoes. Um You know, um I basically
+Nurse: They said no potatoes because my cardiologist said no starches and that's pretty hard but no starches.
+Patient: Yeah. So you wanna stay, you wanna stay away from the bad starches?
+Nurse: So what starches?
+Patient: Bad starches are all the pre packaged foods, you know, like little Debbie cakes and chips and you know, stuff that yeah, so you wanna stay away from things like that. Anything pre packed pretzels? I eat
+Nurse: No pre
+Patient: Yeah, I
+Nurse: Cut that out. So there's a car. Yeah.
+Patient: Yeah. So re really watch, yeah. Really? Watch any of the processed foods. You want to eat more whole foods. Um, you know, fruits, vegetables,
+Nurse: I string beans, carrots, um, and [PHI-Personal] salad, a salad. But I was down the week we had at 20 and I told him I can't do that, that both the stomach, but we seem to eat late all the time. And that's not good. My friend, we go back to 8 50 at night. I had a turkey burger. No, turkey burger. Not process fr, it's 100%. It's lean. So I have, you know, I always ban. Mhm. Which bananas are all the
+Patient: Time. Yeah. They're high sugar. So, the more rice, a banana is. Oh, yeah, the more ripe it is, the more sugar it is. But it's a better sugar. It's a better sugar than a candy bar. I
+Nurse: Don't eat candy bars. I was eating that dark chocolate and I said I stopped that too.
+Patient: Yeah. Have you ever heard of the whole 30 diet? No. How does that work? Um, it's about, you know, whole foods. Um, everything is focusing on fresh foods and I know that's hard sometimes. Um, but even like if you were eating, um, pasta, you wanna eat the whole wheat pasta. Not just that regular white pasta.
+Nurse: I have, I, I give a pasta for over a year.
+Patient: Yes. So, see, I mean, you're doing all the right things
+Nurse: I gave up potatoes and my husband has the white potatoes here and I said, yeah, I mean,
+Patient: You can have sweet, you can have sweet potatoes instead. Yeah. Yeah.
+Nurse: Yeah.
+Patient: Watch like your, um, salad dressing. A lot of times. Look at the label sometimes. Um, there's a lot of sugar in salad dressing
+Nurse: And I don't know if it's really good ba vinaigrette.
+Patient: Mhm. That sounds really good. Like the vinaigrettes usually are really good.
+Nurse: Yeah. And this has like um let me see what it has. This has um 15 mg of sodium. Mhm. And has the seven carbs and 90 calories. Mhm. That rate of fat is zero and fat is zero and protein is zero
+Patient: And listen even better is to make your own. So if you just mix that. Yeah. Well, you just mix up equal parts of olive oil and like red wine vinegar or apple cider vinegar and then put you some herbs in it and you know, maybe some uh lemon
+Nurse: That would be nice, you know to know
+Patient: That. Yeah, I'm gonna look to see what I can find and then I will mail it out to you.
+Nurse: Ok. Now the rice cakes are they OK. The multi grain things, are they? OK. The three.
+Patient: Well, you need to look, yeah, look at the carbs on those too.
+Nurse: OK. The carbs or your saturated fat is 00, cholesterol. Zero sodium is [PHI-Personal]. Total carbs are [PHI-Personal].
+Patient: Oh yeah. So that's, that's ok. Yeah,
+Nurse: Sugar is zero, added, sugar is zero. Everything is zero.
+Patient: Yeah. So those are fine. Yeah.
+Nurse: And I, because of the holiday, but I think, got my stomach a little bit. So I steak. Yeah, I haven't had [PHI-Personal] in a year that was like, my free for the weekend and then my friend has turkey burgers. But you find the 1% fat. So they got the 5% fat. So, I guess that was, I had a, with that my friend, friend dress and stuff. People put like a little bit of lemon juice in it to give it some flavor. Mhm. And because she has acid reflux too, but if you try oil and vinegar when you swallow it, it may burn a little bit. Let's go for acid reflux. She told me, well,
+Patient: Listen, that's the best salad dress and you'll ever have. And, you know, it's fresh, you've made it homemade. I mean, if you've got a little bit of Italian seasoning or something, you know, put a little bit of that in it, you know, you can send me that. You
+Nurse: Have my email address. Right? Can you send me that information? It'd be helpful. I can. Yeah, you send me email with some of the stuff that we discussed would be helpful.
+Patient: Ok. I was, I was
+Nurse: Told by [PHI-Personal]. No. No. Uh, well, no, not [PHI-Personal]. I was told by no dairy, but I ate there in the morning. You know, I, I eat like a light, I trade Joe's cream cheese, which is, has nothing in there. And then I have the peanut butter, which is no salt peanut butter. And it's with [PHI-Personal] g. It's like 15 g of fat though. It's a little high. Mhm. I mean, that's the most that I get. Total. Carbs are seven. Add sugar is zero.
+Patient: Right. So, that's ok.
+Nurse: Yeah. And the cream cheese, let me get the cream cheese out. Cream cheese
+Patient: Is, I mean, you can do like a lower, a lower fat cream cheese if you wanted to is four g
+Nurse: Of four g of fat. Rate of fat is three, cholesterol is 13, sodium is 95 total carb zero, dietary zero to sugars. [PHI-Account] g. Mhm. And then I bought also s like the salmon and the can. Mhm. And we make fresh salmon. I make chicken Perdue. Mhm. And we have the, the turkey burgers which are 1111 fat that's, that's in the lowest I can find. Mhm. You know, and then I eat turkey out. I question them what doesn't have in there and that, and sometimes I'll take the bundle. Sometimes it won't. Then [PHI-Personal] night and I had a crab cake. I had, um, stuffing and, uh, cucumber salad. But I asked them to drain the sour cream off of it because it's a dairy product and they did that. And then I had [PHI-Personal] time another thing. But I eat, I think when I eat really small meals it was my stomach. I'm really, really hungry, hungry and I felt the acid reflux and that up the stomach. So I find when I eat more, my stomach's better. It's weird. Right. You know, somebody be six more meals. Maybe that would work. But I really don't know. You know, it's really hard to tell.
+Patient: Yeah. I mean, you could try that spacing it out and doing like, six small meals.
+Nurse: I know. I find I'm more hungry that way.
+Patient: Oh, well, listen, I understand completely. Yeah. And make sure you're getting enough protein.
+Nurse: I vegan ice cream right out and I was vegan ice cream but then it irritated my esophagus. I can't eat that anymore. Just, it was a cold. I don't know what it was. Hm. Yeah, that's the first time that happened. But then they, they tasted and my friend's chocolate and I said, boy, this taste good and that didn't bother me. I only had a little taste of it. I, I can eat it. No, no, no, no, no, no ice cream. No, came me, he wanted for my, and he wanted my little ca which I don't eat and he, uh, he took some of that. Oh, wow. I was my best friend that,
+Patient: Oh, I, vegetables. You
+Nurse: Want to bring vegetables you want? He didn't like them and they all have diabetes. But they eat like, so weird redacted. Yeah. And then he said his diabetes, if we, for the diabetes medications, that's not good. He's only taking, it makes him tired. So, I know my medicine makes me tired too. II, I can't stand it. It's like I need my sleep. Mhm. You know, maybe that's why I get the headaches because throwing off the stress and trying to figure out this whole crazy stuff. So, what's the best way for me to be on this?
+Patient: I say we ju yeah, I say we just wait to um you know, speak to the um dietician and see what they completely recommend. But for right now I would try to do, you know all whole foods, um low fat, low sugar,
+Nurse: Low fat, low sugar. Ok. Yeah, because the sugar affects the I BS and sometimes I'll drink too much. So I go back to water, you know, I know I need to drink more water, the soda and the diet soda. Do I want water? Says no, let me have soda. It was only a little tiny bottle of soda and I had before I left I said my leg. So I drink, I stay in between, you know, I drink warm tea decaffeinated if they have it. If not my tea bag in so I can get my water right. I think I did a few pounds. Not lost a lot. I lost a few pounds. I can tell because my pants are a little bit looser. Yeah. And then they're dragging a little bit. So that means I've lost some weight. I'm trying, it's hard, you know, when you're out, it's hard. It's stressful. Try to stick to your diet. Try to stay there. And I eat the fish. It's 300 mg of sodium. But [PHI-Personal] time I, the diet it's ok. It's ok. But you can't live on that. So I, when you're out you can have like an egg white sandwich, you know, or something like that. You're out there. There's not a lot of choices when you're out. I know we were having breakfast. So I never, I haven't tried oatmeal in a while, but last time I tried oatmeal didn't agree with my stomach wasn't a lot of fiber. Fiber affects the I BS
+Patient: And that can be, you know, with, um, depending on, you know, the oatmeal that can be a lot of, um, added sugar in it too. So it's probably best to stay away from it.
+Nurse: Ok. So you especially like if they have egg whites or just regular eggs for the couple days just to get me approved. Ok. Yeah, because
+Patient: That's high in protein. So that will, that will definitely help. Well, [PHI-Personal], I am gonna jump off here and call back some more patients but you call me if you need anything. Ok. And I'll be calling back to check on you. I sure will.
+Nurse: There's a diet. Um, they told me to watch, but I don't know what that is. It, something to do with.
+Patient: Mhm. That's more like gastrointestinal stuff.
+Nurse: Yeah. That's what I have a lot of.
+Patient: Yeah. Yeah. Yeah.
+Nurse: But she never come back to me, [PHI-Personal] from, uh, [PHI-Personal] about that. I left messages, things change with the diabetes and no sugars and watch my sugars. But, and small meals. Which I know. Yeah. And then I, what I did when we went the holiday I had three meals out of it. They gave the other meal to, before it was gonna go bad here, here part of my turkey. And I had no gravy on. It had a little bit of stuffing and I had cauliflower, cauliflower. They say so, I don't know. I looked it up and it says, I don't know.
+Patient: Oh, yeah, cauliflower and broccoli.
+Nurse: I know I can, I, what can you eat? I said you poor thing. I said, I know it's hard. Ate the brown rice. So they said their dietitian don't eat brown rice. It's ok. When you're out, brown rice is better than white rice. You have to do that.
+Patient: That's exactly right. Yeah. And that's what it all boils down to. You just do the best you can. Um, because there's gonna be situations where you're out and you're with family and, you know, you, that's, you know, you wanna enjoy your life too and, you know, eat different things. So you have to find out what's the best thing to substitute. So if it's something that you probably shouldn't be eating,
+Nurse: But you had like, um, the fishes and all that. But that didn't bother me. Give her the, I can't eat the chocolate. Give her the sugar. It, ok, [PHI-Personal] time you go back in your diet. Ok. All right. All right. All right. But it was good. It was the three, you know, I don't eat, normally eat like that. you know, I don't have in the house for that reason because I know what happens. I won't even buy a
+Patient: Girl [PHI-Personal] that's I know
+Nurse: I'll eat it and I don't wanna eat it. I'll try an apple if it's too good and I'll stop an apple, I'll do that. Apples are good for you.
+Patient: Yeah, that's right. They are
+Nurse: Your are too much sugar, am I correct?
+Patient: They do so you can eat those but I would say maybe once a week.
+Nurse: Ok, once a week banana.
+Patient: Yeah, once a week bananas um the lower sugar um fruits would be like strawberries, blackberries, raspberries, blueberries,
+Nurse: I have blueberries in the house but they're a week off
+Patient: But th those are the fruits that I would be eating, you know, you could just do that on a daily basis.
+Nurse: Ok. I like it with peanut butter like a peanut butter and give it some nice taste. Oh
+Patient: God. Yeah that's so good. Ok. Alright Marcy. Oh you're welcome honey. I hope you have a Good day. You too, thanks. Ok, you're welcome, honey, talk to you later. Bye.

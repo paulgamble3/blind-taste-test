@@ -1,0 +1,13 @@
+Nurse: Care Management. This is [PHI-Personal].
+Patient: [PHI-Personal]. It's, yeah, I just uh, I just called the neurologist and I need a referral.
+Nurse: All right. Hang on one second. Let me get into your chart. I gotta
+Patient: Go to this one here
+Nurse: And can you verify your birthday?
+Patient: Yeah. [PHI-Account]. Ok. And then
+Nurse: You're trying to get the referral into um neurology.
+Patient: Yeah, at [PHI-Geographic]. Yeah, fine. Ok. I called the place they said the the hospital probably forgot to give the referral. So just
+Nurse: Ok, let me I'll ask doctor then to send it over there.
+Patient: Ok, thanks. That's uh you know what it is, right?
+Nurse: Yeah, I, I saw there was something on your discharge. You know what? Let me while you're on the phone there. There you are. Hang on, let me just bring it up quick. I'm pretty sure there's the discharge summary. Let me just scroll down. It's for health neurosurgery and Neurosciences. Uh 43 10 London road, suite 2 O2 Harrisburg.
+Patient: Right? Yeah, so I can get appointment. Ok, thanks so much. My wife, my wife went. So. All right, I'll ask that. Thank you. Bye bye.
+Nurse: Thanks. Bye bye.

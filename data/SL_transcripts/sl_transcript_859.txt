@@ -1,0 +1,35 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Yeah, this is [PHI-Personal]. You just call me.
+Nurse: Yes, [PHI-Personal]. I was just giving you a call [PHI-Account] check in on you see how you were doing.
+Patient: I'm doing alright.
+Nurse: Good good.
+Patient: Went [PHI-Account] my cancer doctor last Friday and everything. Good. Wonder my prostate surgery and all that. Mhm.
+Nurse: Ok but everything was good.
+Patient: Yeah yeah everything was good
+Nurse: Good everything else been going ok
+Patient: Over the last. Oh yeah yeah everything going good
+Nurse: Good BP doing ok.
+Patient: Yeah. Yeah doing good.
+Nurse: What's it running? That BP?
+Patient: Oh let me see on uh [PHI-Personal] uh uh one in the twenties uh 1 [PHI-Account] 11 20 anywhere there from 1 40.
+Nurse: Ok. 1 20 [PHI-Account] 1 40/70. Yeah,
+Patient: Somewhere around in that percent.
+Nurse: Ok. All right. Do you, do you write it down when you check it
+Patient: It? Oh no, no but it's on my machine though. Oh good good. Ok, as I can go back and look in.
+Nurse: Ok. As long as you've got it somewhere because I know sometimes when we go in the office, you know our our BP comes up a little bit and,
+Patient: Yeah, I know. Yeah,
+Nurse: That way she'll know what it, what it does at home. And, uh, yeah. Good. Good. Do you check yours in the mornings or? Do you, do you have a specific time? It
+Patient: Depends on whether my head is hurting or whatever.
+Nurse: Ok. Ok. So you just kind of check it when you have?
+Patient: Yeah. Yeah. Right. I'll kind of know if it's up or not. Right.
+Nurse: You get that,
+Patient: Get that and I'll check my sugar and I'll check it, you know, just make sure.
+Nurse: Ok, well, if you notice it's staying more towards the one forties on the top. Um I want you [PHI-Account] go ahead and check it every day whether you're having symptoms or not just so we can be sure it's not staying uh a little too high. Ok. Dokey. All right. So is there anything you need anything?
+Patient: No, ma'am. I still hadn't got that other medicine that shot here that one a week? Yeah, I know they hadn't sent it so. Oh
+Nurse: Gosh. Well, if I hear an update I'll let you know but
+Patient: Right and I appreciate it.
+Nurse: Absolutely. Absolutely. And you just call me if you need anything. Ok.
+Patient: Alrighty, I got your number.
+Nurse: Sounds good. I'll talk [PHI-Account] you later. You have a
+Patient: Good day. Bye. Thanks. You have a good day too. Bye bye
+Nurse: Bye bye.

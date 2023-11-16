@@ -1,0 +1,24 @@
+Nurse: [PHI-Personal] Cod Healthcare. This is Brittany, Brittany.
+Patient: It's Joy. ST you. Hi, Joy. Two good things. Two positive things. My temperature, my temperature is coming down good and I had a large long uh bowel movement. So. Ok. Two good things so far?
+Nurse: Great. That's great. Joy. Can you verify your birth date for me? [PHI-Personal] 32. Ok. So doctor had actually wanted me to reach out, um, to give you a call. I was, you were on my list to call before 3 30. So I'm glad you called.
+Patient: You told me if I didn't, if you, I didn't hear from you by three. So I've been watching the clock. Yes.
+Nurse: Thank you for calling. Um, so he wants to know how you're doing in ter in terms of being able to maintain hydration. Are you drinking plenty of fluids?
+Patient: I drink? I, I'm drinking Gatorade and then water. Ok.
+Nurse: Can you give me an estimate on how many like Gatorades or glasses of water you're drinking?
+Patient: Hm. Today, not as many as I was drinking practically a FAA bottle of Gatorade a day, but today, let me see. I think it's like half the bottle and then maybe four glasses of water. Ok. All right. Yes, that's right. It's a little below a half. I'm a G to read.
+Nurse: All right. So the fever has came down, right? Ok. Did you take Tylenol or Motrin or something to bring the fever down? Yes, I
+Patient: Took it after I talked to you this morning and I just took another one.
+Nurse: Was that Tylenol?
+Patient: Yes. Extra strength. Tylenol. Extra strength. Ok.
+Nurse: Yes, I remember us talking about taking that with food. Ok. So you took Tylenol and then you've taken
+Patient: My, uh, other medicine this morning for the infection and then I take it again tonight.
+Nurse: Ok. So as far as your overall feeling compared to this morning, when I talked to you, do you feel better?
+Patient: Slightly better? Ok. Quite a bit better. But, ok, very, very
+Nurse: Weak. Doctor [PHI-Personal] said that if you continue to, to feel sicker, then he would recommend you go into the er, yeah. Um, because Macrobid is good, it's a good choice. But if, um, you were developing like a kidney infection, I see that might cause the fever, the nausea and the vomiting and the, the weakness that you're having. So, um, he said that the Macrobid won't adequately treat the kidney infection because it doesn't penetrate into the kidneys. So it's a good choice for what you have going on now. But if there is an infection in the kidneys, you know, it's not going to help that So I see. Just keep that in mind if you do continue to, to feel bad, I know that you have several allergies to several different antibiotics. Yes,
+Patient: That's what the doctor said it in, in the, uh, urgent care. He said I have to treat you with this because you have so many allergies. Right.
+Nurse: So, if, if you do start to run a fever again this afternoon or become nauseous again, uh, because I know you were dry heaving earlier. Yeah, just, I would go on to the, er, and let them make sure that you're not getting a kidney infection.
+Patient: Ok. And I'm going to call now and cancel that appointment for my, uh, CT Scan and have it ne see if they will do it next week. Ok. Yeah, I, I don't think I'm going to be up to that tomorrow. Yeah. Ok. I was hoping to get it over with, but I didn't expect this to happen.
+Nurse: Ok. Well, uh, give central scheduling a call, see if they can get everything, uh, rescheduled for you. And then if you, if you do start to feel bad again, nausea, vomiting fever, I just go on to the er. Ok.
+Patient: Ok. Thank you very much. You're
+Nurse: Welcome [PHI-Personal]. And if you need me, you've got my number. Yes, I do. All righty. All right. I hope you feel better. Thank
+Patient: You. You have a good evening. You too, Joyce. Bye bye. Bye bye.

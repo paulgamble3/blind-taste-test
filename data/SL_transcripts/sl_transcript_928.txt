@@ -1,0 +1,85 @@
+Nurse: This is [PHI-Personal] speaking. How may I help you?
+Patient: Yes this is [PHI-Personal] returning your call. Ok
+Nurse: Hold on one moment.
+Patient: Mhm.
+Nurse: Ok so I was just giving you a call just to um finish up with the the care management um program that you're enrolled in at the doctor's office. I just wanted to make sure that we had your address accurate and make sure that all your medication is up to date for her. Hold on one second let
+Patient: Me pull you up. Uh is her name [PHI-Personal] or [PHI-Personal]? [PHI-Personal] with an A yeah with a ok you speak fast for an old part like me to listen I can't keep up with it.
+Nurse: Yeah I do I talk fast I try to slow down but it's a bad bad
+Patient: Habit. Ok. Alright
+Nurse: So for your address I have [PHI-Geographic]. Is it s or s
+Patient: Uh hey that's that's one of the better butcher jobs I heard of it but that's that's good. Uh nobody gets that right. Don't feel bad. It's actually pronounced shock.
+Nurse: Oh really? Ok. Like
+Patient: Electric shock. Yeah. Well with the sch it looks like or or school or something. Yeah. It it drives everybody nuts. Don't feel bad.
+Nurse: Ok. Alright.
+Patient: Yeah and uh [PHI-Geographic] chak [PHI-Account].
+Nurse: Yeah that's good. Ok. Alrighty. All right so for medication I'm just gonna run down the list I just need to make sure everything is we have
+Patient: Everything right? Ok. Well let me uh look at my list here so I can check them off and make sure I'm not missing anything. Oddly enough, it goes on to the second page. That means I'm gonna have to look fast. Ok? Go ahead and read them off. Alrighty.
+Nurse: So we have um amLODIPine 10 mg.
+Patient: Let me find that there it is. Ok. Check
+Nurse: Um Aspirin [PHI-Account] 25
+Patient: Aspirin [PHI-Account] 25.
+Nurse: Check atorvastatin calcium 40 mg.
+Patient: Yep, two tablets. Ok. And do you have that too? That's new. It was only one.
+Nurse: Yes, I take 22 tablets by mouth once a
+Patient: Day. That was just changed yesterday at my appointment. Uh My cholesterol is a little off so I have to start taking two of them, two of them. Ok. Next
+Nurse: One. then we have the ster five mg.
+Patient: Uh that's on the next page. Yes, that is I know it by the uh generic I think or is that the generic? Is
+Nurse: That the gene? Hold on, let me, let me click on it and double check
+Patient: It's uh prostate. Yeah, and I take two of my
+Nurse: Yeah, it says either it could be or?
+Patient: Oh, ok. That's the formal names. Yeah, this is the generic. That's what I have them. Ok. And the other one, where is that? Flomax.
+Nurse: Flomax. Yeah.
+Patient: So, Flomax. Yeah. No, I don't have that as Flomax. I have that as tamsulosin.
+Nurse: Oh, yeah, that's another name for that one.
+Patient: Ok. But it's a generic. Yeah.
+Nurse: Ok. 0.4 mg for that one though.
+Patient: 0.4. Yep, that's it.
+Nurse: Ok. Um, then we have FLUoxetine, FLUoxetine
+Patient: HCL 41 capsule night time.
+Nurse: Ok. And then um Latanoprost eye drops.
+Patient: Eye drop. Yeah that's that is written down on here incorrectly.
+Nurse: Oh, ok. What is it in there?
+Patient: It's my left eye. It just says one drop, right eye. My right eye is bad. It's blind doesn't pay to do anything to it. It will never get better. Ok. So I'm taking the other one to keep the pressure down in it because it's my good eye. So yeah that's uh it should be left eye.
+Nurse: Ok. I'll change that. That's what she. Ok. All right. And then we have Lisinopril 20 mg,
+Patient: Lisinopril. Yeah that's a BP medicine. 20 mg one tablet. Yeah, that's usually a morning do. Ok.
+Nurse: Ok. And then we have Metformin HC L 500 mg
+Patient: Take one tablet twice daily.
+Nurse: Yes. All right. Are you still taking um a multivitamin?
+Patient: Yes, adult one of the adult them I don't remember which brand it's generic pretty much. Ok.
+Nurse: Ok. Um Alrighty and then are you taking the Ocuvite um adult
+Patient: [PHI-Account] plus. Ok, that's the to Ocuvite there's I don't know if there's a difference but that's the one that is beneficial for my what my problem is. So. Yeah that's good.
+Nurse: Alright. Ok then we have this PriLOSEC 20 mg.
+Patient: OTC. Yeah it says OTC but it is prescription it's not over the counter I get it from Humana in uh 90 day supplies. So but it is the right uh 20 mg one that I take in the mornings. Yeah that keeps me from having acid reflux all day so it works.
+Nurse: Um and then we have the Sildenafil citrate 20 mg.
+Patient: Uh yes that is on there however I don't have any and I was supposed to get a post supposed to get a written prescription because I wanna shop around because of price and I didn't get that. I left the office and checked when I got out with my papers and it wasn't there so that didn't arrive so I'm gonna have to buzz them and tell them to get on the stick.
+Nurse: Ok. Alright I can send him a message if you uh want her to write you out one you just go pick it up. Yeah. Ok.
+Patient: Yeah. Yeah just have it at the front desk with [PHI-Personal] and I will get it when I can so. Alright.
+Nurse: All right then we have vitamin B 12 1000 MC G.
+Patient: Oh that's on the next page. Uh, B 12 1000 MC G one by mouth. Yes, that's great. I take that, I don't think it does anything but I take it.
+Nurse: Ok. And then, uh, vitamin D [PHI-Account] M CS
+Patient: Daily. Yep. 2000 international units. Yeah. Yep. Ok.
+Nurse: Ok. And I think that's all that I have. Now, is there anything that you have that I don't have in here?
+Patient: Yes, I have a, uh, glucose meter and I use one touch holter test strips when I feel like it, it's, I'm supposed to do it once a day but it never changes. So I don't get, I don't press it because they go with the A one C anyhow. Ok. Ok. And I do have a BP cuff the instant automatic one. I have one of those too. Yes. Ok. Now you have an allergy list there.
+Nurse: Hm. Let me see. Ok. So for allergies. Yeah, we have uh was this [PHI-Personal]? Yes. Um, and then Hydrochlorothiazide, Paxil and Zoloft.
+Patient: That's everything. Yeah. The hydrochlorothiazide I had taken before and I was just prescribed that again uh back in [PHI-Personal] or [PHI-Personal] and I took it for five days and then we took another blood sample and it was messing with my kidneys. Oh, ok. So we had to knock that off again. Ok. So I'm not, not taking that and I, I don't, I have some to dispose of but anyhow. Ok. Anything else you wanna know?
+Nurse: Ok. I think that's it. Now, have you had like, any issues, um, sleeping or any changes in your eating pattern or anything like that?
+Patient: No, if I seafood, I eat it. Ok. Good. That's, I do not have a problem with my appetite except that I can't control it. Ok. Yeah. And I don't fall down but I am light headed by times, a little dizzy off balance. I consider it a balance problem. Mhm. Because if I turn suddenly on one ft and then it'll affect me, but it usually clears up pretty quick and I don't usually fall down. Well, I have fallen down.
+Nurse: Yeah, that's a good thing. No falls. Ok. Alrighty. Have anything, anything else like any questions, any other concerns about anything?
+Patient: Hm. Mm. Oh, yeah. Well, we got a body mass index and I guess I'm overweight but I, I have lost a little. Mhm. I lost about 18 lbs or 19 lbs in, since [PHI-Personal], since [PHI-Personal].
+Nurse: Oh, ok. That's good. So you just, um, watching what you're eating or, or changing out what it is that you're eating?
+Patient: Yeah, I never eat with my eyes closed. Yeah. Yeah. And I'm last summer, I'm doing more mowing lawn and doing other stuff. I'm fully retired. You have that on there or if you're not.
+Nurse: Nope.
+Patient: And you don't have that on there. Ok. Put it on there. Yeah. And I have my personalized prevention plan right in front of me and there's a whole bunch of crap in there. I have no clue what it means, but whatever.
+Nurse: Ok. All right. So I will send over a message to, um, Doctor [PHI-Personal] see if she can write out that prescription for you and then they can just let you know when it's ready so you can come pick it up.
+Patient: Ok. Sounds like a plan.
+Nurse: Yep. Ok. And then she has your schedule. What is this for July? I don't know. Is that like a follow up for, I guess a follow up July. Uh there's
+Patient: Two, I have two of them listed. Uh [PHI-Personal] is a follow up. That's because she drew blood. So in case there's anything amiss and then I have a regular scheduled four months check. 9 [PHI-Personal] of 22 30. Ok. Yeah, 1 30. I have that one too. Yeah. Alright. And I'm slowly dying because that's what happens to people when they get old and they die and I have diabetes but not bad. I'm blind in one eye. I have overworked kidneys but my EKG is usually pretty good. My heart's in pretty good shape. I never smoked. That's good. My dad had a sensitive nose and if I come home smell like cigarettes, he gave me the third degree. Where the hell were you? I said well with my friend and your mother and father smoke. Oh, ok. He let me off but it worked. I never smoked. I shouldn't say that. Never kids all try it. You nitch one out of your mother's pipe, you know, pack. Uh, but I never had it in my mother. So, uh, it was only when I was with a friend and we were trying to play big shot, you know, stand up puff, puff and blow smoke. But no, I never had it as a habit. Yeah,
+Nurse: That's a good thing.
+Patient: And I never chewed to back. My grandfather made that about impossible. He was he was a dirty tobacco chewer, he drooled on his clothes. Uh huh and he was staying and he always smelled like tobacco juice and I never wanted to get anywhere near that stuff. Yeah
+Nurse: So sometimes like being around that stuff as a child it it may it deters you which is a good thing. Yeah.
+Patient: Yeah, exactly. So that works.
+Nurse: Alrighty. Ok well I'll go ahead and send over that message to her and then they'll let you know when it's ready for you to pick up. Ok. Good. Alrighty. So you're gonna get a letter in the mail it's gonna have the phone number on there. It's gonna be the same number that um that I called you from but it's just whenever you have any issues questions concerns you need refills anything like that anything we can help you with and just give us a call.
+Patient: Ok so that's the [PHI-Account] number. Yep. Mhm. Yep I got that wrote down on this prevent personalized prevention plan. So and that's why I had to ask about the name because you're real quick with that and I wasn't sure if it was [PHI-Personal] or with an A that's cool that's different too but I like that I cross out I wrote them both down because I wasn't sure it sucks getting old I'll tell you not fun.
+Nurse: Yeah I know about it. Alright. Alright. Ok, thank
+Patient: You very much. Alright I'll try to and you too have a good day. Bye bye
+Nurse: Bye bye bye bye.

@@ -1,0 +1,18 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Oh, ok. Uh, time, time damage. I think you just called.
+Nurse: I sure did. Hi. Um, and I had spoke to you on the 26th and we were talking about increasing your Finasteride. Yeah. Do you remember that conversation? Yes. Ok. So I thought I sent a message to and I just got it back that yes, you can go ahead and increase that to 10 mg.
+Patient: Ok. Ok. So I got plenty of them. Uh, I just got a new bottle and the other one is half full anyway. So. Ok.
+Nurse: All right. And if you run out, um, feel free to give us a call and let us know or, you know, when you got like a week left, um, give us a call and we'll refill that. Ok.
+Patient: Ok.
+Nurse: Alright. Any other questions or concerns today while we're on the phone?
+Patient: No, I'm over in uh, well, Island. Where, where you're from? Pennsylvania. Mhm. Oh, yeah, it's at [PHI-Geographic]. I got my sister's dog and we're not doing some hiking.
+Nurse: Oh, nice. Is it warm enough for hiking?
+Patient: Oh, yeah. Yeah, we do it all winter too but it did rain. We got a real lot of rain. Yes. Uh,
+Nurse: So did it snow?
+Patient: No, no, but it, it still might. Yeah, somebody
+Nurse: Said it was supposed to snow. That's why I was wondering.
+Patient: Yeah. Uh, sounds like it might but, uh, that it's gonna warm right back up, so.
+Nurse: Oh, ok. Well, if, if anything happens that, you know, you get, have any problems with that increased dosage, um, um, make sure you give us a call and let us know that. Ok.
+Patient: Ok. I will. Thanks for, thanks for getting back to
+Nurse: Me. You're welcome. And you have a wonderful day hiking.
+Patient: Ok, you too. Mm, bye. Bye bye.

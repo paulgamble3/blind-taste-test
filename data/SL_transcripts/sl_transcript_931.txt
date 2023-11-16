@@ -1,0 +1,20 @@
+Nurse: Hi, this is [PHI-Personal]. Hi, [PHI-Personal]. It's [PHI-Personal]. You just called me. Hi, [PHI-Personal], how are you? Good and you?
+Patient: I'm good, thank you. Um, give me just one second to pull your medical record back up. Ok. And you're a patient of
+Nurse: Doctor
+Patient: [PHI-Personal]? Ok. Yeah. All right. So let me just tell you real quick that this call is gonna be recorded for training purposes. And the reason I was reaching out is because the physicians at [PHI-Geographic] um have a new program for their patients that have Medicare insurance and that program is called Care Management. So with that Patricia, you would receive a phone call from one of our care management nurses. That phone call would be at your convenience as frequently or as infrequently as you wish. And your nurse would basically just call you check in, make sure that you're feeling good and continuing to stay healthy in between office visits. But she could also assist you if you were to need medication refills or test results or if you had any medical questions or concerns it is a billable service to Medicare, Medicare Advantage and secondary insurance plans and the calls are subject to deductibles and coinsurance. And your nurse would document the calls and send them directly to doctor [PHI-Personal] as part of your medical record. Ok.
+Nurse: I don't pay anything when I go. So the nurse calling me wouldn't be a charge. Then would it correct?
+Patient: Typically. Yeah, typically the only thing you're responsible for out of pocket would be a copay. Um, but if you don't have a copay when you go to doctor office, then you should not be responsible for a call or a pay for a call. Ok. Did you want me to go ahead and get you set up for a morning or an afternoon phone call?
+Nurse: Morning is probably good. Ok. And I don't need it frequently.
+Patient: Ok. Yeah. So when she calls you, um, that'll probably be within the next two weeks or so. Ok. And then is what she'll do is she'll introduce herself. Get to know you go over your medications and then you and her will make a care plan to determine how frequently you would like for her to reach out to
+Nurse: You. Ok.
+Patient: Yeah, we have some patients that get calls once a month. We have some patients that get calls once every three or even just every six months. It's completely up to you.
+Nurse: Ok. That's fine. Ok.
+Patient: Um, so the number that I'm talking to you on now, the [PHI-Account], is that the best number to reach you? At.
+Nurse: Ok, my cell phone uh and that's the only phone I answer. Ok,
+Patient: Perfect. And then your address is it [PHI-Geographic] in [PHI-Geographic]?
+Nurse: Yes, it is.
+Patient: Ok. I'm gonna mail you a um a little welcome letter and like I said, your nurse should reach out to you within the next two weeks or so. Ok.
+Nurse: Oh, terrific. Ok, I appreciate it again.
+Patient: Yeah, no problem. I appreciate you calling me back and I hope that you enjoy your day and your weekend.
+Nurse: Uh Thank you. You too. Thanks
+Patient: So much. Bye bye bye.

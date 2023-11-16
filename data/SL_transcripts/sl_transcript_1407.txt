@@ -1,0 +1,11 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi. Yes. Uh I just, I received a phone call from your office. I was on the other line with an important phone call. Uh from Temple physician. Is this phone number. My name is [PHI-Personal].
+Nurse: Yeah. So the reason you're being called today is my name is, and I'm calling on behalf of doctor. And so it looks like you're eligible for our care management program. And so what that is, is a nurse that would be able to give you a call to see how you're doing. She answers any questions, refills prescriptions, she'll address any issues you're having and she could also help with appointments and lab work, things like that. Ok. The program helps keep the doctors updated and it avoids emergency room visits and all the calls the nurse makes are documented and sent to the doctor for review and they are treated as a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. And they're also subject to deductibles, coinsurance and copays. So I have here you have [PHI-Personal] and Keystone. First choice. Is that still correct? Uh
+Patient: Yes, the [PHI-Personal], I guess I kicked in once. Yeah, [PHI-Personal] and [PHI-Personal]. Yes. Yeah.
+Nurse: So everything looks good. Would you prefer a morning or afternoon phone call,
+Patient: Uh, afternoon?
+Nurse: Ok. And then do you still live at [PHI-Geographic] and that's [PHI-Geographic]? Yes. Ok. Now I'll also send out a letter. It has all this information on it. Plus a phone number to call in to the nurse if you need to. Ok. Ok. And then your first phone call from the nurse should be within a week or two? Oh, ok. Alrighty. What,
+Patient: What happens? Like if I'm not feeling well? And uh do I call there, did I call that
+Nurse: Number? You could call that? Yep. Mhm. And she'll direct you on what to do and if she can't, can't help you and then she corresponds with the doctor as well. So.
+Patient: Ok. But I mean if I'm feeling sick that day, do they get back to you that day or?
+Nurse: Yes. Yes. Absolutely. Ok. Ok. Yep. All right, Susan. Well, thanks for calling back. I hope you have a good day. Thank you. Bye, welcome. Bye bye.

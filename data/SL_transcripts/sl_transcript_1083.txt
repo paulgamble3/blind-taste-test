@@ -1,0 +1,21 @@
+Nurse: Hi, this is [PHI-Personal]. I'm one of the nurse care managers here. How can I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Called me the other day and wanted to know how he's making out with my antibiotics. So, I sort of forgot to call her back. I've been busy. Uh, I'm on, uh, I have one more to take today and then I'm done with them and I feel much better. Ok. Good. I had a UT, I, and I had, I took the antibiotic for seven days. So, but I'm feeling better. Tell her. Thank
+Nurse: You. Ok. Good. Um, are burning or frequencies still not
+Patient: Now? No, two days of the antibiotic. And I felt much better.
+Nurse: Yeah. Yeah. Usually with the UTIs, the antibiotics kick in pretty quickly. Um, about any side effects. Did you notice any side effects with antibiotics at all?
+Patient: No. No. Ok.
+Nurse: So that does sometimes happen with antibiotics. Um, it can cause a little bit of stomach upset or, um, a loose stool. Um, so that, that can happen if you do ever notice that or in the future if you start on antibiotics. Um, you know, it's, it's good to try to do a probiotic with it. Ok. So you can do, like, a supplement. They have them in pill form.
+Patient: Yeah. II, I take, I take probiotics, not on a regular basis but a couple of times a week. Yeah.
+Nurse: Ok. Good. So you could, you could do that daily when taking antibiotics or you can also just have a yogurt daily that, that will do the same effect for you. Oh, ok. Yeah. And you are you also drinking cranberry juice?
+Patient: I have. Yeah. And water. A lot of water.
+Nurse: Yeah. Yeah. Cranberry juice is really good. The antioxidants in that help, you know, regulate the acidity in our urine. So it stops discomfort.
+Patient: I got the white cranberry juice this last time with Passion Fruit and it's good.
+Nurse: Oh, that sounds delicious.
+Patient: Yeah, it's different. It's like drinking a, a mixed drink. Really? It's a little bit of white to it, you know? But it's just, yeah,
+Nurse: Very good. Good. Yeah. Excellent. Sound
+Patient: Like I'm a drinker. I'm not, I haven't had a mixed drink for a long time.
+Nurse: Well, now you have a mixer if you ever want one. Ok,
+Patient: Great.
+Nurse: Oh,
+Patient: Ok. Well, thank you for all your help.
+Nurse: You're so welcome, Judith. If you need anything further, you certainly just give me a call. Let me know. Ok. Will do bye. Have a good one. Bye bye bye bye.

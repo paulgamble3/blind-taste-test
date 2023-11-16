@@ -1,0 +1,85 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hello? Is this
+Nurse: [PHI-Personal]? Yes, ma'am. How can I help you? Dear,
+Patient: [PHI-Personal]? This is [PHI-Personal]. Hey,
+Nurse: [PHI-Personal]. Can I get your date of birth real quick? Just to pull you up
+Patient: Of 1st, 2nd 53.
+Nurse: All right, thank you, dear. How are you doing?
+Patient: Not, I was in the emergency room again. Saturday. No, no. Yeah.
+Nurse: What happened?
+Patient: Um, I don't know if something happened to my hip. They put me on, um, steroids and just let you know. Ok, what
+Nurse: Happened to your hip? It was painful.
+Patient: I, um, I couldn't, I got out of the bathroom and, uh, I thought I twisted it myself. They said, no, I didn't, the hospital did and, um, they said the, between my and my leg, I don't know. The paperwork said it that it's not working right or something. It, it wasn't working right. And, uh. Mhm. So, uh,
+Nurse: So they put you into the, well, you went to the emergency room and, well, I was in
+Patient: Such bad pain. I was screaming. I, I, they couldn't get me into the, uh, you know, take an xray at first and I, they gave me something to calm me down. I don't know what it was and so I could take it. It was bad. So they put me on, uh, for three days and they just told me to notify you. And I should see, uh, let me get the paperwork on orthopedic center. Yeah, later on. But right now I'm walking, I'm fine. The, uh, uh, medicines work, uh, working. Ok.
+Nurse: Did they? So you're still there right now? Right here? Is that what I hear
+Patient: In the background? No, I'm home. Oh, you are home? I'm sorry, home that night? Oh, ok. Ok. I didn't get home 4 30 in the morning. But I just, you know, they just, I should see, but I do see an orthopedic already because I, uh, because, um, my spine, they also told me, you know, uh, doctor, uh, told me my spine was deteriorating anyway. So I already see, see one, I just need a referral after my surgery, I guess. Well, I don't know. I don't know if I should stay on this medicine for a little while or what. I don't know. That's why I called
+Nurse: You. Yeah, let me, um, try to piece some things together. So, what hospital were you at
+Patient: Dear? Um, a more plan this way you could get the paper work and find out for yourself.
+Nurse: Yeah, I about to say, I wish they had sent it over already but I don't see it yet. Um, no, normally we have you come in for like a hospital follow up after that? Did you, did they just want you to see orthopedics?
+Patient: No, they just, they just, they just said, uh, so, you know, because they know I have that surgery, they asked me, you know, they, so they said, uh, well, if you got, you have your orthopedic already, just have your doctor, you know, make a referral after surgery or something, you know, or three days or whenever you want to. I don't know, but I don't know if,
+Nurse: Yeah, what medication did they send you home with?
+Patient: Uh, let me read it to you. I can't pronounce these names. I
+Nurse: Know. They're long. They are.
+Patient: Yeah. So, let's see. Um, you need $17,000. I only have like two more days in it. I don't know if she wants me to stay on it for another couple days after that or not, if it seems to be working. You know what I mean? So I said to myself, oh, no, with that, you know. So let me see. Gotta get my glasses. Ok. Uh, P Pr Ed
+Nurse: P you said Pr Ed
+Patient: PredniSONE? Pr [PHI-Personal]? Ok. Uh, 20 mg take two ta, it says take two tablets by mouth every day for four days. I have four days for tomorrow. I got left to that because that started, um, Sunday yesterday. Actually, this started with my leg on, on Friday and I, right after I knew I didn't, I remember, I can't call [PHI-Personal], I can't call her because, uh, she said you went there on weekends. I remember that. Oh,
+Nurse: Yeah. Yeah. Yeah, we're same hours at the office. You're right. Um,
+Patient: Let me get her. I hope I get her.
+Nurse: Well, I'm glad you reached out to me. Yeah, I'm definitely going to update Doctor [PHI-Personal]. So they just gave you that one medication or they gave you some
+Patient: Water? That's it. That's good. Ok, so this way we can get my paperwork. I have a better idea why I was there. I mean, it was terrible. I could not stand. I couldn't walk. I was screaming, my husband, uh, uh, had to hold me up. It was really bad. I said, oh my God, I couldn't stand. I didn't know what was wrong. It was really, it was on my right side. Yeah.
+Nurse: And you couldn't, um, could you extend it? Like were you able to flex and extend that leg or was it locked up?
+Patient: It was locked up? It was that, that has that happened before? No, it's the first time. That's why I'm saying. Oh my God, what's happening to me? You know, I was so, you know, and she was explaining to me about the flat. They said it comes with old age. That's what the doctor was saying. Oh God, don't tell me that. You know, what else is gonna happen to me? You know?
+Nurse: Yeah. Yeah. And
+Patient: I'm just, I just said yes. So, because I, uh, my leg is fine now I'm walking.
+Nurse: Ok. Got you. Yeah. So what they gave you dear, that's, um, predniSONE is a steroid. Um, yeah, it's a steroid. So, so that's meant to be taken for a short course because, you know, steroids can affect uh, your BP and your bones. Um, if you take it for a long time. So usually they, they give it to you as long as they think you might need it because it's
+Patient: Gonna bring down more days and I'm good. So, yeah,
+Nurse: So I would say, you know, see how you're feeling if you're still having a lot of pain. Um, I would have you go in to see Doctor [PHI-Personal] and have
+Patient: Her decide I'll call you back like in two days and see how I am. Ok? Or like, yeah, right now I'm ok with it. I'm fine
+Nurse: If you're ok. Yeah, I mean, um, are you comfortable? So you just wanna see Ortho, you said you need a referral to see? Ortho? Is that right?
+Patient: Yeah, that's what the paperwork says that I would have to. I, but I have one, I have one for my, I, I got it at the, um, because I have, um, she told me on my spine it, it was a thinning so I already have one just so I just need probably another one when I, if I need it, you know,
+Nurse: You need another referral. Is that what you're saying?
+Patient: Yeah, for my hip. It's a different thing here.
+Nurse: Ok. Got you. Do you know who you saw or do you remember their name? No, I
+Patient: Don't remember. Ok. No, I went to the, to while ago I went to the tow. No, I went to the tow for that. For, for what, that my spine. Yeah.
+Nurse: Ok. And they did like some imaging. Is that what?
+Patient: Yeah, that's what they did. Yeah.
+Nurse: Sure. Yeah, I don't see, it must have been, I think it's been a little while since you've seen Ortho because I don't see anything recent. Yeah,
+Patient: It was been a while. It's been a while. So that's why I'm saying that another thing happening and I can't stand this anymore. I'm going crazy.
+Nurse: Got you. Uh Yeah, I'm not seeing, I'm just trying to see if I see like a name and I see where she referred you looks like she kind of just referred you to like a off, she didn't necessarily
+Patient: Something for my foot and I haven't heard them yet.
+Nurse: Yeah, that was back in [PHI-Personal]. Look like.
+Patient: And now it's my hip and you don't think any of this medicine all the because it, this just started on my hip since I've been taking that other medicine, you don't think that's causing it, do
+Nurse: You? I, it, it would seem unlikely. I mean, I can't say for certain. But I, I wouldn't,
+Patient: Yeah, I'm taking all this other medicine, you know, for my stomach that, and that's when it just happens after I started taking all that. You know what I mean? Yeah, that's what I was thinking. I said, I don't know. I got to ask the nurse.
+Nurse: Got you. Yeah, I wouldn't think so. But that's, you know, um, a good question for Doctor [PHI-Personal]. Um,
+Patient: Yeah, because I'm taking this medicine for my stomach and all of a sudden my hip. Mhm.
+Nurse: Mhm. Yeah. So, um yeah, so you're seeing doctor [PHI-Personal] looks like on [PHI-Personal]. Did you wanna try and see her a little sooner since all this happened? Or are you still
+Patient: Trying to get your, I was
+Nurse: About to ask about, yeah, because I know
+Patient: You wait for a call.
+Nurse: Yeah, I haven't heard from you since you were waiting on that call from them. When did
+Patient: I got on the [PHI-Personal] of this month? [PHI-Personal]. Ok. And I had my eye surgery so I can't be, you know.
+Nurse: Mhm. So um you're going in for the surgery on the [PHI-Personal]? Is that right?
+Patient: On the [PHI-Personal] of June? Yes. Ok. Got you. So that's what I'm saying. If I, I got, I ain't got much time I gotta get that. I want them to cancel that again on me. I've been waiting for that for over a year now. Mhm. Mhm.
+Nurse: Yeah. So
+Patient: That's why I called you to see what you want me to do here.
+Nurse: Yeah. So, uh, if I were you, since we have, you know, a little time for, between now and the [PHI-Personal], I would definitely say if it's bothering you, um, at
+Patient: All. Uh, yeah, just send me the referral. I'll just go to the orthopedic. If, when you send that, if it bothers me, I'll, I'll make an appointment with him. Ok.
+Nurse: Ok. So sure, I'll, I'll leave that on the, and the back burner and then I'll just say that, um, you know, we always have same day appointments too if you really need to be seen by someone, if the pain comes back really strong. But I'll ask Doctor [PHI-Personal] about a referral and so you're doing the eye surgery on the [PHI-Personal]? Did they work out the cost with you dear?
+Patient: Uh, so far it's supposed to being done. It's supposed to be being done in, um, uh, uh, hospital plan. Oh, ok. So just so it don't cost again. I don't know. They did this the last time they canceled it because two days before. So that's what I'm saying. I'm pra, this is just too much for me.
+Nurse: Yeah, I know. I hope that doesn't happen again. I hope, doesn't happen and I hope your side doesn't mean your hip doesn't bother you again either. Yeah. So, when they gave you those steroids, that was enough just to knock it out, they didn't need to give you.
+Patient: Well, that, that night I got out of there about four, something like that. 4 30. Maybe. That's the time I got home and they gave me two pills at the hospital because that's how bad it was. You know, I don't know what they, I think they said. Then I gave that prescription. Then my husband got this prescription and, you know, they put it in Walgreens, they got, it, picked it up the next day and then I started it ever since then I'm walking. I had no pain. I'm crossing my fingers, you know, I'm ok.
+Nurse: Ok. Good. Good, good, good. Yeah, it almost sounds like you have like a frozen hip or a locked hip or
+Patient: Something. Yeah, it was bad. I couldn't walk. I, the whole, uh, uh, right. It's my whole right side. It was on the right side, the whole right side. Like I, I just couldn't move. I was screaming so loud. Even at the hospital I was screaming and they couldn't get in, they made me wait almost three hours out in that waiting room. I hate that hospital. That's why I like to go to, I can't stand that. Right. Right over here by me.
+Nurse: Yeah, I heard that
+Patient: And I was in tears crying. I mean, and they, we have all, you, you got, like, three hour week. I said, oh, my God, I got in pain like that. Mm.
+Nurse: I got you. Yeah, that's too bad. I'm sorry that that happened. Um But yeah, so I will definitely send this message Doctor [PHI-Personal]. Um and then we'll move on from there. Something I was gonna ask you then just flew right on my brain but I cannot for life of me remember. But, but I will reach out to Doctor [PHI-Personal] in the meantime, dear, you said your pain now is is is gone. So you're able to get
+Patient: Down, ok? You feel? Yeah, I'm walking up and everything. It's gone since I'm on these, but I only got two more days. I just, so that's what I'm worried about after I stopped taking these. Mhm. What's gonna happen? You know what I mean?
+Nurse: Yeah. Yeah. So, yeah, yeah, I would say, you know, um, if you wanna, you know, hold off and make an appointment for now, definitely call me back. Let me know how things go when you finish the predniSONE. Um, you definitely don't wanna be on predniSONE too long because it can cause its own problems. But if, if your pain comes back, let us know and, and, uh, you know, we have to get you in to see someone. Ok. Um, but in the meantime, you know, try to take it easy and, you know, just avoid falls where you can, you know.
+Patient: No, I know you told me. I said no, I didn't. Yeah, exactly. That's the whole thing. And then they, then they took that, uh, x-ray and stuff. So then they found you got your bone, the fla, I don't know, a business. I don't even understand. Yeah. I, yeah,
+Nurse: Exactly. You're in a lot of pain, that's for sure. That's sure. Well, I'm glad I got your pain down. I'm glad they're able to get your pain down. So, just take it easy.
+Patient: I, I, yeah. Ok. Let me know. Yeah.
+Nurse: Absolutely. Dear. I will certainly let you know.
+Patient: Ok, and I have all this trouble right now. No,
+Nurse: You don't have to apologize. You're fine. So I'll reach out to doctor Thomas for you. Ok, dear. Ok. Thank you. No problem. Bye bye.

@@ -1,0 +1,58 @@
+Nurse: This is, how [PHI-Personal] I help you?
+Patient: Uh, you miss [PHI-Personal]? Yep, this is [PHI-Personal].
+Nurse: Hey, [PHI-Personal]. I was trying to call you about yesterday. You got time to talk. Yes,
+Patient: I did.
+Nurse: Good. Ok. Um, a couple of things, um, I called the office yesterday and asked him to go ahead and mail you, uh, the orders for your labs.
+Patient: Oh, wonderful. Ok.
+Nurse: Yeah, they said though. Ok, because I get conflicting information from the provider and my patients. But Quest is supposed to be one of the people that when you make an appointment, you ask them if they are able to view your lab orders from the doctor because they're one of the providers that's supposed to have access to the [PHI-Geographic] Bay Doctors and some patients tell me that and all they have to do is show their ID because the orders are already in the system that people say they take their paper copy because sometimes the person at the lab doesn't always know that. So
+Patient: I've done, I've had both problems.
+Nurse: Yeah. So you, so you've been down both roads then before, right? Yes. Ok. So that's why you probably take the paper one with you. Correct. Um,
+Patient: Correct, because I don't wanna get in there and have them say, well, sorry, we don't have anything in here. I know.
+Nurse: And this is so funny, uh, how people do that. But anyway, um, she said it would be about seven days which, uh, most of my patients, if they mail them out that day, which I called right after we talked, which around two o'clock. So I don't know if the mail got picked up yet, but either I would make your appointment out for some time late next week. Um, or if you're more comfortable waiting until the paper arrives, um, and making your appointment,
+Patient: I guess I need to know what and if I had a fax copy, I'd feel more comfortable. Um, I, I have an appointment with [PHI-Personal] in a week to get my, uh, you know, uh, call them today and get go in this week because I have an appointment with [PHI-Personal] on, um, the [PHI-Account]. Right.
+Nurse: Right. Which means, um, yeah, so that means
+Patient: If I have to wait a week, I'm not sure. I, and I'd be able to get the question or I can call and ask them
+Nurse: To fax it. But chances are they, they [PHI-Personal] or [PHI-Personal] not do that, they probably will mail it, but I can ask them to fax it.
+Patient: Ok. Well, I just want quest to have it because they're asking me when I'm making the appointment. What is my appointment for? And uh, like it one, you can circle glucose tolerance test and then the other, then, then another. Do
+Nurse: You do it online or do you do it on the phone?
+Patient: You do it online? Ok. So I thought the test was just for the A one C,
+Nurse: No, it's for, it's for uh, your thyroid.
+Patient: Ok. I don't have that then. No, I don't have that one and it's
+Nurse: For, uh, what they call basic metabolic, which is a PB as in boy, M as in Mary, [PHI-Personal] as in Paul.
+Patient: The, um, pe MP,
+Nurse: [PHI-Personal] as in boy. Yeah. M as in Mary, [PHI-Personal] as in Paul. It's called basic metabolic panel. And then you're supposed to do a T as in Tom, uh, S as in Sam. Yeah. H as in Harry. And it's called the thyroid. Ok. And then you're supposed to do your A one C,
+Patient: Ok. All right. So it's all three of them. Yeah. Right. Well, it's only, it's only accepting one. You take the A one C and I won't take anymore. So that's why I'm
+Nurse: Like, well, if nothing else call them, um, there should be a phone number on that website. I know they'd like you to do it online because I have seen it because when I had this problem before I wanted to talk to somebody at Quest in person to find out which way it worked. But I couldn't get anybody online hardly. And they kept sending me through the thing. So, um, do you, what, what, um, which quest office do you use?
+Patient: I'm going to the Seminole on Park [PHI-Geographic]. It's right past, um, a [PHI-Geographic]. Right. It's, uh, it's not even in the [PHI-Geographic] yet. It's between Park Seminole [PHI-Geographic] and a 113th on Seminole on, um, Park [PHI-Geographic]. And it's the only one right in that location.
+Nurse: Ok. Um, yeah. Um, so anyway, uh, I can call this morning and see if they can, uh, fax that over. Uh, but like I said, the office sometimes will give me grief because I go, like, well, they, it's like, well, you can tell me all you want what they're supposed to do if they told us, I know what happens when they get there. I know.
+Patient: But if I, I could go pick it up today, I'd be happy to do that.
+Nurse: You can go do that. You go by the office, they'll print it and pick it up for you.
+Patient: Ok. Maybe that's the best way to do it. Yeah, that's what
+Nurse: I would probably do. I'd go by the office and walk in and ask him for a copy right there.
+Patient: Right. Right. That's what I, that's
+Nurse: A good idea. I didn't think about that also. Um, I found out, I know, I see that you kind of use my chart. I found out another way is, and I don't know if you have this access, but they will also put it in my chart, but you have to be able to have a way to print it for my chart. I,
+Patient: I don't have a way to print it for my, and that's the most
+Nurse: Thing to say they use my chart but they don't have a way to print it. Um, OK. So the other thing is I obviously, um, you're getting ready to go to the office today and you are getting to see [PHI-Personal] next week, but you don't need any medication refills or anything like that at this time. Do you?
+Patient: Well, um, it was at the doctor yesterday and he forgot, she forgot, they forgot to give me my prescription for Togo Dayv. Wait a minute, I'm looking for it. I don't see, uh, wait a minute, hold on. They gave it to me. [PHI-Personal]
+Nurse: Syn.
+Patient: No, Dayvigo. It's like a very mild sleeping pill. And, um, is that a
+Nurse: New medication? Because I don't see it?
+Patient: No. Well, it's fairly new. This was just a, a trial to see how I, like they
+Nurse: [PHI-Personal] gave you samples until they decided it worked because I don't see it on your, I don't know, it's on your, on your medication list. I can't order it on
+Patient: Your list. Well, it's, uh, doctor ordered it for me and, um, and I have it, I have 30 I had 30 it cost me $100. And so then I got a call. Yeah. So then I got a call from [PHI-Personal] saying perhaps I would like to consider talking to him about changing that to a generic Ambien. Well, I, I didn't see the doctor, I saw his pa a and so you can't do that. So I get really mixed up with these people who aren't able to do it for you until the doctor does it. You know what I'm saying? So I need
+Nurse: To do that. Ok. It's kind of like this, this is, this is what gets confusing. So the doctor orders something, he doesn't care how much it costs. He's, he's not that he's working for the drug company, but he orders a medication. He thinks that will work for you, but he has no idea whether you can afford it or not. And so you have to communicate back to them. Hey, can I have a generic? Now, [PHI-Personal], there are several ways to do this. Um, you can call them back and tell them you the generic because if you're paying $100 chances are you might only be paying 15 or $20 and even if that's too much for you, there are other programs out there, um, that we can get resource. It's a matter of filling out paperwork to see if you qualify. But if you ever have any problem paying out for any of your medications, you call me and we can talk about
+Patient: That in there. I have a, I have a major, yeah, I have a major one and that's, I'm taking, um, I saw him yesterday about that. They put it through but that's another $100 every month for me to take and it barely works. Which one is that? Uh, ami vig? It's, hold on. I'll tell you.
+Nurse: Oh, my goodness. I think when you go see [PHI-Personal] next week take all your medications with you because I don't even see that one
+Patient: On your list. That's, uh, that's again, the neurologist, I don't think
+Nurse: So. Take all your medications next week with you, the [PHI-Personal] and in the bottles and everything and update your medication list so that she knows what you're taking and then, um,
+Patient: That's what I'll do.
+Nurse: And then also on the medication that you're, that you're getting from the urologist. Um, if you, if you wanna just wait a little bit, gather those two up, whatever it is or call them, see if they'll switch over, but call me back with the medications that you feel are high dollar and then we'll work on trying to see how we can get those costs.
+Patient: That would, that would be wonderful because I've got two of them like that.
+Nurse: Yeah. Ok. So, and I wanna give you time to gather that information because I know you're focusing on your labs right now.
+Patient: Right. Right. And I, I called yesterday and I, I brought it in and I said, well, how about this? And she said, oh, no commercial, it says commercial, uh, uh, whatever, um, insurance will take it. And she said, oh, no, no, this isn't the doctor. She says, oh, no, it's $256 for me a month. And I've got in front of me getting your tech OTD for zero is easier than ever. But you know what, it's a matter of qualifying for these things.
+Nurse: Yes, it's a matter of qualifying but you have to ask. Ok, so you can ask the doctor for generic, we can ask the pharmacy if they have any special programs, we can call these uh whatever the name of the medication is, we can see if they have a program and then um we can see and then what we can do is we can look up the qualifying uh factors, you know, and it [PHI-Personal] say um what if there's two people in the house, you have to make less than $70,000 and, and, and then you say, yeah, I qualify or if there's one person in the house, you have to make less than 55,000. So we, I mean I'm not gonna get into your finances but we'll kind of do a general thing like that and see what you qualify for. Ok.
+Patient: Ok. All right, that sounds good. Alright, sounds great. All right. Ok. Well I'll let
+Nurse: You get that sorry. And we'll work on the other stuff. Call me back um, when you gather that time and we'll go through that.
+Patient: Ok. Ok. Yes. Ok. Thank you so much for what you done today. I appreciate it.
+Nurse: Well, you're more than welcome. You haven't really done a whole lot, but we're starting to head down that road,
+Patient: Right? Ok. Thank you so much. Bye bye. Appreciate it. Bye bye. Uh huh.

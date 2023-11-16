@@ -1,0 +1,29 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Yes, this is [PHI-Personal]. I'm returning your call.
+Nurse: Yes. How are you this morning, [PHI-Personal]?
+Patient: I'm, I'm doing good. Thank
+Nurse: You. No problem. I'm glad to hear it. Well, I'm just the, the nurse care manager with primary care and I was finishing, um, your enrollment with the care management calls if you have a few minutes. Ok. Sure. Ok. So I'm gonna be giving you a call every month just to check on you see how you're feeling, make sure you have all of your medications and, um, we can go over any health questions or concerns that you have as well. [PHI-Personal]. Ok. Ok. Now, if you wake up one morning, not feeling well or you think of a question for me or you need help with something, you do not have to wait for me to call you. You can call me at any time. So I'm going to, um, send a letter with my contact information to you. So that way you have it on paper. Ok. And I'll send that to [PHI-Geographic].
+Patient: That's correct.
+Nurse: Ok. And then our enrollment girls put you down for Medicare part A and B and [PHI-Personal] Senior supplemental. Is that correct? Yes. Ok. All right, [PHI-Personal]. Well, typically what I like to do on this, this first call with my patients is, uh, verify the medication list I have for you. Just to be sure all of my information is correct. Is that something you can do with me this morning? [PHI-Personal]? Yes. Uh, do you know them if I read them off to you?
+Patient: I think I'll recognize them. Yeah.
+Nurse: Ok. Ok. All right, sweetie. I have the Xanax 0.25 mg twice a day as needed. Yes. AmLODIPine 10 mg daily. Uh huh. Vitamin C daily, right? Clindamycin 303 times a day.
+Patient: No, I'm not taking that. Did you finish it? Yes, I finished it.
+Nurse: Ok. I'll take that off of there and then I have a B 12 2500 microgram daily. Yes. Ok. Diclofenac 75 twice a day. Yes. FLUoxetine 40 mg daily. Yes. Furosemide 40 mg daily as needed. Yes, I have a Krill oil daily.
+Patient: Yes.
+Nurse: Levothyroxine 75 microgram daily. Yes, Lisinopril 40 mg daily. Yes. Mirtazapine 7.5 at bedtime. Yes. Cellcept 500 daily. Yes. Pantoprazole 40 mg twice a day. Yes. Mirapex 0.25 mg at bedtime. Yes. Primidone 50 mg one in the morning and four at bedtime. Correct. Crestor 10 mg daily. Yes. TraMADol 50 mg daily as needed as needed. Yes. Ok. Triamterene hydrochlorothiazide 37.5 dash 25 daily. Yes. Ok. And then I have a Vancomycin Daily. Are you still doing it or you finished?
+Patient: I'm through with that
+Nurse: One. Ok. I figured you are. But all right. Do you take anything that we missed [PHI-Personal]?
+Patient: No, that's about it.
+Nurse: Perfect. Perfect. And did you need anything refilled today?
+Patient: No, I have everything. I, I order them through Express scripts or if I have to have something immediately, I'll go to city prescription but I usually get them mailed through Express scripts.
+Nurse: Ok, perfect. Well, if you ever have any trouble getting your prescriptions or need help in a refill, let me know. Ok, [PHI-Personal] and I can help you with that.
+Patient: Ok, thank
+Nurse: You. You're welcome, sweetie. All right. Do you have any questions or concerns for me today?
+Patient: No, but it's nice to know that you're there. If I need
+Nurse: You. Absolutely. Any time you need anything at all, you just pick up the phone and let me know. Ok,
+Patient: I appreciate it very much.
+Nurse: All right, sweetie. You have a wonderful Christmas if I don't talk to you before then, but I'll, I'll put you down for next month. So call if you need me before then. Ok.
+Patient: Ok, hon. Thank you so much.
+Nurse: You're very welcome. Have a good day, [PHI-Personal].
+Patient: You too. Bye
+Nurse: Bye. Thank you. Bye bye.

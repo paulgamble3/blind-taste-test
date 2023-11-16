@@ -1,0 +1,22 @@
+Nurse: Hi, this is,
+Patient: How can I help you? Hi, [PHI-Personal]. It's calling and I got a like problem that I don't know what to do.
+Nurse: Ok.
+Patient: Come on Monday, I had gone through my nightly walk, which is usually like a mile and a quarter to a mile and a half got halfway through and all of a sudden across the top part of my foot, it just started hurting and I could hardly finish walking and I had another half a mile to get back home. And when I got her home, of course, I took my shower and put my foot up next. Well, yesterday I sat all day, I was at the hospital with my son. He had surgery. And so I, I've been there literally all day from 11 30 to about seven at night. So I come home and just, I sat basically all day yesterday and this morning I had an appointment and I thought, well, I just, we some, I had, I had to have a and so when I thought, well, I just wear tennis instead of tennis shoes, I wear sandals. But when I got there, take my shoes off my foot's bulging of the sandals at the top and it's starting to get black and blue and it's puffy. Not real bad, but it's puffy. What should I do?
+Nurse: And you don't remember, like, hitting it on anything. It just, um, you started having pain all of a sudden on your walk.
+Patient: Yes. We, my fiance and I, we walk in the street so it's like, you know, week where we live in a township. So, you know, and it's in that sac. And so we just kind of walk around and like I said, you know how sometimes like when you walk, you, you feel like your foot kind of cracks. Mhm. That's what it felt like. But it in a way.
+Nurse: Ok. And what, what did you say it was,
+Patient: It's my left foot, right, a uh right across the top part, not underneath but on top.
+Nurse: Ok. Well, let me send a message to doctor to give him an update. He may recommend um to have an x-ray done. In the meantime, I would recommend resting, keeping it elevated and putting some ice on it. Um and I will follow up with him, see what he recommends and then I can give you a call back. Ok.
+Patient: Yeah. Could I just go over to like maybe urgent care or that process?
+Nurse: Yeah, you could go to the pro medica urgent care if you wanted to. That's up to you. But yeah, I definitely think you need to have it looked at,
+Patient: Well, then I have osteoporosis. I, you know, I don't know, could I maybe, like, crack it.
+Nurse: So, it, it's possible that you, you know, you could have broken a bone in your foot even though you were just walking. Um,
+Patient: But I, I can still walk on it now. That's,
+Nurse: Yeah. Yeah. So you can still walk on it. Um, even if, you know it is, it is broken, um, typically you'll just have more pain that's associated with walking. Um And you've got swelling and other things as well. So that's why I would recommend, you know, potentially having an x-ray or having it seen. You can definitely go to urgent care and have that done though.
+Patient: All right. Should I do that or should I wait for doctor?
+Nurse: Um That is totally up to you. Um uh like I said, I'll send him an update either way. Um But if you would like to have him order the x-ray, we can do that or I don't think they have any availability this week as far as same day appointments go. Um, at least less that I knew of. Um,
+Patient: Well, I live in [PHI-Geographic] so there's that Pro Medica Lab I that's offered by that new cancer center. Mhm. You know where I'm talking in the office? Ok. I live five minutes from there and I also live five minutes from a Pro Medica lab or urgent care. So, what I'll do whatever he wants me to do. He's the doctor.
+Nurse: Ok. Well, I will follow up with him. I'll give him that information and then once I hear back from him, I'll give you a call and let you know. Ok,
+Patient: I appreciate it. Thank you so much.
+Nurse: Sure, no problem. I'll talk with you soon.
+Patient: Uh huh. Bye bye. Bye bye.

@@ -1,0 +1,60 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello, this is [PHI-Personal]. Hello,
+Nurse: [PHI-Personal]. How are you? Pretty good. Let me get you pulled up here. It's right in the middle of something. Let me, I didn't wanna miss your phone call. Let me fix this real quick.
+Patient: Pardon?
+Nurse: Just one moment. I'm gonna pull up your chart here. Ok.
+Patient: Ok.
+Nurse: Let's see here. It'll just take me a minute there you are. Ok. Let me see here. If I can find your paper here. There you are. Ok. So what have you been doing today? You must be a pretty busy man.
+Patient: Well, I just came back down from up checking some s bees. Yeah,
+Nurse: Honey. Oh, boy. Oh, boy. So do you do, honey then? Yeah,
+Patient: Try and to, oh
+Nurse: My. Do you get all geared up and everything or you don't need all that
+Patient: Stuff? Uh, I always put a bail on sometimes I, when it's cool out. Well, I put the jacket on and yet too but it, if it's a nice sunny day, why a lot of times I just work in a sleeve, shirt sleeve.
+Nurse: Mhm. Well, I bet that honey sure is good.
+Patient: Yeah,
+Nurse: Let me pull you up on my other computer also. Let's see here. [PHI-Account]. So, as I said, it looks like we need to do, go over your medications. Do you have them handy? So we can do
+Patient: That? Uh, just a second here. Hm. The church. Yeah. Yeah, I have them here.
+Nurse: Ok. If I read them off, can we do it like that? And I'll just go real slow.
+Patient: Ok. Yeah.
+Nurse: OK. I've got that. You're on Aspirin. 81 mg one a day. Mhm. Ok. Atorvastatin 40 mg. One a day. Yeah. OK. I know I'm gonna say this wrong but carvedilol 25 mg one tablet twice a day. Yep. OK. A multivitamin. Yeah. Coenzyme Q 10 100 mg one by mouth a day. Mhm OK. Losartan potassium 100 mg one by mouth every day. Yep. Metformin 850 mg. One tablet three times a day. Yep. And then they've got another multivitamin on there. So we'll have to delete that extra multivitamin because you're only taking the one multivitamin. Correct? Well, they've got it on there twice.
+Patient: No. Yeah, only the Yeah, one a day and then I take that Prevagen.
+Nurse: Yep, I have it on there one by mouth every day for the Prevagen. Yeah. And then nitroglycerin 0.4 mg. One as needed.
+Patient: Yeah, I haven't taken them for years
+Nurse: But that's a good thing, right? But it's good to have it on hand. Yes. Good to have, and you do know though there is an expiration date, right? You don't want to keep them until they get really, really old because then they will lose the effectiveness. Ok. Yeah, I
+Patient: Just got some uh, I think in [PHI-Personal].
+Nurse: I, ok. Yeah, I've got some too that I carry on me and I hate having to refill them and not use them, but I'd rather have them than not have them. So. All right. And then it's on, on four mg as per urgent care. It says,
+Patient: What, what was that? And again,
+Nurse: Ondansetron uh let's see, that was [PHI-Personal]. Did you get prescribed something? Is that Zofran? I think that might be Zofran. Let's see. I'm thinking that's the other name for Zofran like for nausea.
+Patient: Oh yeah. Yeah, I got prescribed for that but uh I didn't, didn't take any of them and any because I got to feeling better. I had him.
+Nurse: You still have it though as needed though. Yeah,
+Patient: I have them here.
+Nurse: OK. And let's see what this is. It says SBE Prophylactic per cardiology. I'm not sure what that is. S Pe Prophylactic per cardiology. I have no idea what that is. Do you,
+Patient: What, what is that? It
+Nurse: Says SBE Prophylactic Per cardiology? I don't know what the SVE stands for. Let me see if I can look it up and see what the medical abbreviation for that stands for. Let see, let's see. SB Prophylactic antibiotic therapy for subacute endocarditis. So, are you on an antibiotic?
+Patient: No, not unless I good. I get it teeth worked on her or anything like that?
+Nurse: Ok. Maybe that's what they're talking about. Like you go on um,
+Patient: An antibiotic. Yeah. Mhm.
+Nurse: I bet. So that way in case like, so they can prevent it from infection. Yeah. Ok. And then tamsulosin 0.4 mg one by mouth every evening. Yep. Tart cherry extract 100 mg, one by mouth every day. Mhm. And then Warfarin five mg dash 7.5 mg. Ok. So Monday through Thursday looks like you take
+Patient: Monday and Thursday is 7.5. Ok. So 7.5 is
+Nurse: Thursday and five mg all other days or as directed? Ok. And you've been taking that like you're supposed to, you don't wanna miss any doses of that which I'm sure you already know. So
+Patient: Yeah, I just got done with the uh NovoLOG from getting my shoulder, the cancer taken off of there. So
+Nurse: Yeah, I seen the note on that. They said to make sure that you follow up with dermatology, follow up with skin exams, per their recommendations and call or return to surgery clinic as needed. See what their
+Patient: Instructions were. I have an appointment tomorrow for dermatology.
+Nurse: Ok. So your appointment with dermatology is tomorrow then? Yep. What's the doctor for that?
+Patient: Uh uh I just have when I get my calendar out here
+Nurse: Again. Oh, you're Fine
+Patient: Doctor [PHI-Personal]
+Nurse: Doctor. Is it STR IC KL? Er, ok. Doctor ST ok. Well, do you need any medication refills or anything?
+Patient: I don't think I do.
+Nurse: Ok. Your medications are good for right now. Yeah. Ok. Well, you know, you can call us any time that you, um, need to like any time that we can help you with something we're willing to do that. So, just let me know. Ok, I'm gonna be your wellness nurse from here on out. Unless I'm sick or something. Or I'm not here for some other reason and it's your turn to be called, then you'll hear from somebody else, but for most of the time it's gonna be me. Ok. Mhm. Ok. Well, you take care of them. These, ok. Oh,
+Patient: I'm going to try to.
+Nurse: Yeah, I hope they do well for you. Produce some good honey. Well,
+Patient: They didn't do very good over the winter.
+Nurse: Oh, well, that's too bad.
+Patient: Yeah, I had six of them and I have two of them now.
+Nurse: Oh, boy. So it went from [PHI-Personal] to 2, huh? Yeah. Well, hopefully it'll get better. Do they multiply? Very easy? Pardon? Do they multiply? Very easy?
+Patient: Uh, not anymore. They used to. We used to find them in trees even. But, uh, there's hardly any in the trees anymore. They're just dying off that much.
+Nurse: Mm. Oh, that's too bad. Yeah, that's really bad. Well, I hope it picks up for you and they do better hope you don't lose any more of em. Yeah, me too. Well you take care [PHI-Personal]. It was really nice talking to you. Ok.
+Patient: Ok then thank
+Nurse: You. Alright. Uh huh bye
+Patient: Bye bye.

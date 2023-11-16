@@ -1,0 +1,22 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Yes. Hi. My name is [PHI-Personal]. Just trying to get in touch with [PHI-Personal].
+Nurse: He's off today. I'm, I'm the, I'm the gal today. Oh, all
+Patient: Right. Well, my, my question is this, I sleep with a CPAP machine. Mhm. And the thin rubber seal and the mask tore the other day. And is there any place around here where I can get that repaired?
+Nurse: Well, what you don't, they didn't give you extra masks?
+Patient: No.
+Nurse: Ok. So what, what you actually are gonna need to do? Those, those aren't repaired. Those are disposable. Um, and they actually, how long have you had that CPAP mask? Oh,
+Patient: I don't know. But it's probably [PHI-Personal] years.
+Nurse: Oh, my. Yeah. Um, well, it
+Patient: Was, it was broke for two years and it took Phillips about 2.5 years to get me my new machine. So that time it was just sitting unused.
+Nurse: Ok. And do you see a sleep specialist regularly?
+Patient: No.
+Nurse: Ok. So that's, that's, that's where my problem's gonna arise is that it's, it's been [PHI-Personal] years since you've had a new mask and I'm guessing it's been that long since you've seen a sleep doctor. Yep. Ok. So what I'm gonna have to do is I'm gonna have to message the office here and let them know because you need an order for the masks tubing. Like, because the mask, the tubing, all that stuff should be changed out regularly. Um, you should have actually been given a prescription for that, that they do that. Um, and with, without the prescription you can't get the stuff. So I'm gonna message doctor O and see if he's able to help with that. If either. Uh, you actually may have to go back to a sleep doctor. I'm not 100% sure. Do you know who you saw previously?
+Patient: Well, I was downstairs there and that guy ing your sleep study lab is where I went. I didn't see a doctor for that.
+Nurse: Ok. Sleep lab. And you said that was six or seven years ago?
+Patient: I'm guessing, I, I don't know. It's been, it's been quite a while. The, uh, when they sent me the new CPAP machine, they sent me some new tubing but they didn't send the mask. Uh, that's wasn't included in what went wrong with the old one,
+Nurse: Right. But like they, they should have been sending those regularly. Um, all right. So that's what I'm gonna do is I'm gonna message, uh, Doctor o'neil and let him know what's going on and see what he wants to do if he's able to put an order in for new without like, you know, you seeing anybody cause I mean, and, and honestly, when, when you have sleep apnea, you're really supposed to follow up with, with like the sleep doctor, like Doctor [PHI-Personal] usually the one for [PHI-Geographic] Center. He goes around and does all of that um at least yearly to be honest. Um Cause they're supposed to look at the machine results and all that and evaluate you. So, um yeah. Um that's, that's, that's gonna be our first step messaging doctor o'neal and see what he has to say if we have to set you up with, you know, the sleep lab again or if he's able to help out or if they would be able to, it like the sleep lab would be able to pull up your information from back then and, and help that way. But I imagine he's gonna want you to see a sleep doctor here regardless of whether we can get you a mask without it or not. OK. OK. So that is what we will do. I will um, message him and then, and Fridays tend to be a little crazy. So as soon as he gets back to me, I will give you a call and let you know what the plan is. Ok.
+Patient: All right. Sounds
+Nurse: Good. All right. Well, I hope you have a good rest of your day until I talk to you again and if you don't hear back from me today. It's because I didn't get an answer today. Um, and you should hear back from me or [PHI-Personal] on Monday then. Ok. All
+Patient: Right, sounds good.
+Nurse: All right. You have a good day. You too.
+Patient: Thank you. Bye bye bye bye.

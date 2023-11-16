@@ -1,0 +1,35 @@
+Nurse: Hi, this is [PHI-Personal]. Hey,
+Patient: Ain, this is [PHI-Personal]. Well, hey, how are you? Oh, ok. I guess you got a lot of things, too many things going on to be honest with you. Uh, I need some, uh, HYDROcodone.
+Nurse: Ok. Uh, me. Do you have any left?
+Patient: Yes, I still have some left. Ok. But I'll, I'll, I'll need some before, you know, next week, next week I won't even be, probably be able a call. Now, Monday they're gonna fix my port. So I guess they have to put me to sleep to do that because my porch is not working like it's supposed to. And then Tuesday I get a break and then [PHI-Personal] they're going to do a, ah, heart catheterization. And then Thursday I have immunotherapy and then Friday we changed the appointment with, uh, the radiologist doctor because, because that's almost too much for me to do in case I have to stay, I might have to change my immunotherapy too because it said it could be possible. I'd stay tonight [PHI-Personal] at the hospital, but hopefully I won't have to.
+Nurse: Oh, let's hope. Ok. So you have the port on Tuesday, you said I apologize. No,
+Patient: I pull up your chart that I have the, the port done on Monday on
+Nurse: Monday. Ok.
+Patient: Yeah, it's called a port study. Ok. And then Tuesday I don't have nothing good. And then [PHI-Personal] I have, ah, heart catheterization.
+Nurse: Ok. And we're waiting on the immunotherapy. Then we don't know. Would he be able to do that?
+Patient: Oh, yeah. I, I have the appointment for immunotherapy on Thursday but if something comes about with they have any complications or, I don't know, just said you may have to end up spending the night. So, what my daughter will do if they do tell me I have to stay the night, then she'll have to call them and make the appointment for next Thursday.
+Nurse: Ok. Mhm.
+Patient: They can do it later. They just can't do it early, the chemotherapy and then Friday, I was supposed to go to the radiation doctor in [PHI-Geographic]. But we decided to change that because I'd already had the CT Scan and pretty much talked about it with doctor, uh, at the [PHI-Personal]. But I can't say his name, my oncologist.
+Nurse: Ok.
+Patient: So I, but he, the, the guys, you know, the radiologist didn't want him to come. So we made another appointment. It's like 20 what? This is the [PHI-Personal].
+Nurse: Yeah. Well, I am going to get this refill request sent in for you. I'm doing it right now while we're on the phone. So you have it. Ok. And I'm also, while we're on the phone making sure. So your lab results are in, um, and there is a note they've already sent those over. Good, good to the other provider. Mhm. I wanted to check that too. I had you on here. It looks like, oh, they did it last night at [PHI-Geographic] 46 that got over there. So, you should have those. Um, what else can I help you with? I'm so sorry you're having a busy week I know.
+Patient: Yeah I I've really been short of breath and and yet when they checked me with that finger thing, it's on [PHI-Geographic] but at my house it's not I don't know if mine's off or what but all my tests they said was pretty much normal for for my heart. Hm. So she wants to be on the safe side and do the catheterization.
+Nurse: Uh huh I mean everything I'm looking at looks good as far as all the testing that they they've done the and we'll take that but when you check it at home, when you get short of breath I'm guessing you're talking about the pulse ox that you put on your finger. Is that? Yes? Yes. Ok and so when you're short of breath and you do that, what is that running? What is it? I mean what's usually
+Patient: [PHI-Personal] but sometimes I had I've had it twice go to [PHI-Personal] but that's the only time.
+Nurse: Ok. Alright. Do you use like
+Patient: That? Pardon?
+Nurse: Do you get, do you feel anxious when you get like that when you can get your address or are you kind of used to it by now?
+Patient: I don't think I get anxious. Do I get anxious when I'm short of breath? Do you think I'm kind of an anxious person anyway, I've always had that
+Nurse: Problem there. And so, how about your Symbicort? Are you doing that every day?
+Patient: Yeah. Yeah. And the other inhaler, I wasn't, I kind of cheated on the Symbicort for a while, but I've been doing it ok. And I've been pretty much doing, uh, ah, oh, what's that other nebulizer? I kind of backed off on it, but now I've been doing, it's, it, I don't know really if it's even helping but she said if my, if that doesn't my heart catheterization and that comes out everything. Ok, then she wants me to, which I have an appointment with Doctor [PHI-Personal] anyhow. And he's doing another breathing test. She says maybe I need my medicine changed from him.
+Nurse: Mhm. Well, I know it doesn't necessarily feel like that breathing treatments helping much, but it's doing more than you realize. Yeah. Yeah. Getting in there and really opening up those, yeah, down there, especially at the base or the bottom of the lungs. Yeah. So, really won't do that. And then I know you said you cheated on the Symbicort and that's ok. But make sure you're not twice a day. Yeah, morning and evening. So you should have a total of four puffs on that. You do two puffs in the morning and two in the afternoon, right? Ok. Ok. Well, I just sent that refill request over. Let me see when we see you back in our office and I have a note here on your chart. Now, of everything that you've got going on next week. So, what I'll do is I won't call you next week. I'll wait until the following, but I do wanna check in on you just to make sure you're doing ok and you don't need anything from me. So I'll call you here and I guess after next week, but we see you. No, you're fine. We see you in office in not until May, we're good there. But you call me if you need anything else. Ok. Ok. And try to enjoy your weekend. Ok,
+Patient: I will, I really don't do anything. I just kind of sit around the house. I'll be glad I wanna spend the night because I'm gonna try to get out and walk, try to get some, make you
+Nurse: Feel better. That's right. Get some fresh air.
+Patient: Yeah, me and my daughter tried to walk that. We had a couple of nice days but I had to keep taking a break and get winded.
+Nurse: Yeah. And I bet your daughter's just fine with that. Just so he is, you felt better, didn't you.
+Patient: Yeah, it felt good to get out, you know.
+Nurse: That's right. Come on warm weather.
+Patient: Yeah, for sure. It seems like it's really been cold this year.
+Nurse: Uh huh. That's right. So, well, you are doing a good job and as far as you're doing everything we're asking you to do so you can keep strong, keep going and you call me if you need anything.
+Patient: Ok, thank you so much.
+Nurse: Ok, you're welcome. I'll with you later. All right, have a good day. Ok. You too. Bye bye.

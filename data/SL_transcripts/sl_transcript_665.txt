@@ -1,0 +1,11 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Good morning, [PHI-Personal]. This is,
+Nurse: Hey, how are you doing?
+Patient: All right, I know you didn't expect to hear from me this morning. I listen uh I need to change my doctor's appointment. Uh I called for my transportation this morning and they told me I didn't call in time. I got to call them three days ahead of time. They told me it supposed to be 24 hours. I didn't know. So I called them this morning to try to get the trans transportation for Wednesday to go to [PHI-Personal] and they told me I didn't call in time, so therefore I need to go ahead and reschedule another appointment and then I call them and go see and ok.
+Nurse: Alright. Now are you still gonna be able to make the one at uh WKD I the imaging test or? Yeah.
+Patient: Yeah. Yeah. Yeah, I will definitely make that one. Yeah. Yeah, I will make that one. Yeah, I'm making that one. Yeah. Yeah, but they want to print it. If I could get it rescheduled, then I'll be all right. Now I know I miss the first appointment which is my fault but this one here. I, I tried and they said I didn't call in time. So this is all new to me because I want, I'm not used to taking it trying. I have somebody take me. But on this time I ain't got nobody to take me. So I got to use public transportation.
+Nurse: Got you. All right. Um, now is there any days times anything that works best for you or just like, try to push the week out?
+Patient: Well, well, I'll get, they can get me uh this week Thursday because I can call right back um, today as long as three days ahead of time I I told them and set it up.
+Nurse: Ok. All right. So let me reach out to them and get that rescheduled and I'll give you a call back here. Ok.
+Patient: Ok. Thank you very much.
+Nurse: Oh, you're welcome. Alright, I'll talk to you shortly. Bye bye bye bye.

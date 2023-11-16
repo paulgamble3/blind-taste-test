@@ -1,0 +1,34 @@
+Nurse: [PHI-Personal] Medical Group. This is [PHI-Personal].
+Patient: This is somebody called me.
+Nurse: Hi, this is [PHI-Personal]. How are you doing?
+Patient: I'm [PHI-Personal].
+Nurse: Oh, ok. I was just following up because you went to the, er, last time we spoke and you weren't feeling well. I just wanted to make sure that you were feeling better and whatnot.
+Patient: I'm insane. But I, I'm insane.
+Nurse: What kind of pain are you having today? My head. Oh, you're having a headache? Ok. Do you have a history of migraines? No, no. Ok. Any other, um, symptoms?
+Patient: No, my feet, them burning me, like, pepper my feet. Them what? I, yeah, I'm just very, um, I'm comfortable. My, my, I'm not feeling that good, you know, I'm just,
+Nurse: Have you had, have you had any improvement since you saw the, um, the doctor and whatnot?
+Patient: I went to the emergency room and they gave me morphine for the pain and they gave me Ibuprofen to come home with. Ok. Yeah. And I, and II, I went to home to see, um, uh, uh, uh, doctor,
+Nurse: The, the cardio doctor, cardiologist.
+Patient: Yes.
+Nurse: Yeah. Ok. And did that one go? Ok.
+Patient: Yes. And I, uh, you do a EKG. It was ok. But do you want me to go and do a test?
+Nurse: Yeah, I think it was an echo. Right? Did you want to do an echocardiogram and a stress test? Yep. All right. Do, do you have those scheduled yet?
+Patient: No. Yeah, I think so.
+Nurse: Ok. Yup, I see over, I see your echo. Ok. So you're gonna come see Doctor [PHI-Personal] on the sixth? Yeah. And that is, I think that's is that this Friday? Um it's Monday, Monday. Yup. On Monday you're gonna come see Doctor [PHI-Personal] and then on Tuesday you're gonna go for your stress test at [PHI-Geographic].
+Patient: We are in chamber I'm going um let's see
+Nurse: The [PHI-Geographic] Cardiac Services in [PHI-Geographic].
+Patient: Mm I don't know where that is. Mm
+Nurse: Let me look it up. Ok. Um It's on [PHI-Geographic] in [PHI-Geographic]. No in rumble. Hold on. That's about it. That's one that one says let me find the right one. Uh Yep. It's the one in [PHI-Geographic] on [PHI-Geographic]. It's [PHI-Geographic].
+Patient: Mhm. Ok.
+Nurse: Ok. So that's where you'll have your um stress test and it looks like you're gonna go to the same spot for your echocardiogram on the [PHI-Personal] and the the echocardiogram is just the ultrasound of the heart.
+Patient: Ok. So what time is the stress test?
+Nurse: Oh I can tell you what time hold on the stress test is. Let's see. 8:30 a.m. So it's a bright, you gotta be bright eyed and busy tailed that morning. Not early.
+Patient: Yep. Hm. Hm. Ok. Ok.
+Nurse: Do you, do you have anything else going on? Anything I can help you with?
+Patient: Not really, you know, uh, um, I not getting the concern anymore and I'm not eating well because I'm, I live alone. Ok. And sometimes I don't, I, I can't, I, I don't, I'm not feeling ready to cook so I don't know, the doctor could give me something else instead of the go and, and I, I could drink something else.
+Nurse: Um, do you have the Glucerna or they're not, it, is it not available at the pharmacy?
+Patient: It's not available at the pharmacy? Oh, let's see.
+Nurse: Ok. Um, why don't I call the pharmacy and see if, um, let me bring it up and see when it will be available? Ok. Ok. Let me, let me call and see when it's going to be avai available and I'll let you know what they say. Ok, and if we need to change it then we can look into doing that as well.
+Patient: Ok.
+Nurse: All right. All right. Thank you. I'll call you back. Ok. All right. Bye bye. Bye
+Patient: Bye.

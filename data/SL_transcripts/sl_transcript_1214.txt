@@ -1,0 +1,21 @@
+Nurse: Hi. Hello. Good morning. This is
+Patient: [PHI-Personal]. Good morning. I'm [PHI-Personal]. You just called a little while ago? Was able to answer the phone.
+Nurse: No, that's ok. Um, I was calling just to check in and see how you were doing since the last time we spoke.
+Patient: Yeah, I'm ok. I'm ok. I guess you doing? Ok. Yeah, I'm, I'm scheduled to have a surgery. Oh.
+Nurse: What surgery are you having?
+Patient: Oh, thyroid thyroid surgery. Uh,
+Nurse: The parathyroid surgery.
+Patient: Mhm.
+Nurse: Ok. Um, when are you having it done?
+Patient: They have been scheduled for the [PHI-Personal] of this month? Ok.
+Nurse: On me. Are you a little nervous or anything about it, or?
+Patient: Oh, I just, yeah, you know, I guess it's normal.
+Nurse: Yes. Yeah. Absolutely. Yes. But, um, yes. No, no, I think so. I've heard that it's a really, you know, like easy surgery. Um, a lot of people that have, uh, that I've talked to that have had it done, you know, say that it's a really quick recovery. Um, there's like, maybe a little bit of soreness, like in your throat afterwards, like the day afterwards. But after that they, you know, recover very well. Um, and they feel a lot better. Are you, do you have like a lot of tiredness? Are you always really fatigued?
+Patient: No, not really. Just because, um, the doctor sent me to the specialist, like two years ago, something like that. Ok. And, uh, they found they have, uh, that there was, uh, no, something like that in my thyroid. And this year that I went to see him on February, uh, he sent me to the surgeon because he, he noticed that it go up a little bit. Ok. And so I, he says, so, uh, he's gonna make a decision if it's ok to leave it like that or, uh, we, you need surgery, right? So I, I saw him on week ago and then she says, yeah, a lady doctor, she said yes, she, um, she wants to, to take it out, you know, to have surgery. Mhm. Ok. Yeah. So I said, ok, so let's get it over with the sooner the better, you know. So, yeah,
+Nurse: He's, I think so too. I think so too. So that'll be good. Um, well, good. I'm glad that you're going to get that done and it'll go, well, it really will. Um, so other than that you're doing ok, any medication refills or anything needed.
+Patient: No, no, everything is ok.
+Nurse: Ok. Good. Perfect. So, medications are good. All right. And let me just see here. I don't see. Yes, you had an appointment with doctor in what was that in [PHI-Personal]. So everything went well, I don't see that you're due for anything else. But let me just look. Mhm. So it looks like so with your insurance that you have because you have the United Healthcare, um, it looks like you are due for what they call like a Medicare annual Wellness visit. Um, and what that is is you would do it with not doctor but one of the, her nurse, [PHI-Personal] at the office, um, and she would just go over like, she would check your vital signs with you, uh, like, like a normal visit, check your BP, that kind of stuff and then just do some, like, um, testing and stuff like that with you. Um, some screenings. Um, I don't know if you wanna schedule that right now or if you wanna wait until after your surgery and I can schedule it with you next month when we talk. Uh, no,
+Patient: I want, I want to wait, I want to wait because you, I don't know when I, uh, I, I need to go up north after the surgery. So I, I, yeah. Yeah,
+Nurse: Absolutely. And I remembered that you traveled, uh, you know, I just didn't know when you would be leaving. So, and no worries because I know that you also have like an appointment, an actual appointment with doctor in [PHI-Personal] scheduled. So if, for some reason, you know, you leave up north and you're not gonna come back till closer to that time. We can just schedule it closer to that appointment or maybe even that same day. Ok. Yeah, so we can wait, we can wait and hold off on that, but no worries. Well, ok. Well, um, I'm glad you're doing well. If you need me for anything, you just give me a call. Um, if not, I'll check base back with you sometime in [PHI-Personal]. I see how everything went. Ok. Yes, ma'am. And thank you so much for calling me back and you have a great day. Thank you.
+Patient: You too. Bye
+Nurse: Bye bye.

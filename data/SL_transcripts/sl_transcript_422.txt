@@ -1,0 +1,80 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. O hi, [PHI-Personal], how are you, sir? Uh I'm doing ok. I'm doing ok. I have a couple of questions ago. Um, well, you know, I have that embolism, right? Uh the pulmonary embolism and, you know, I'm taking the medicine now only it's, it's 10 10 mg. But um, yeah, so, um anyways I'm, I'm still taking, I'm taking that but um, I've had right this second, I'm not having it but I get like I get cramps like in my body. Um, and um, I, I take uh Zanaflex for muscle spasms and, um, but I have this one that's like underneath my left, it's like underneath my left breast by my ribs, like uh like in there deep and sometimes it squeeze, it hurts. But then I was like, I wasn't sure if I should get that checked or not, but right now it's not hurting and I don't know, I, I guess I just don't know if I should get a x-ray or something.
+Nurse: Ok. How often does it happen?
+Patient: Um, it usually happens, um, maybe once a day once every other day.
+Nurse: Ok. Like, and it,
+Patient: It happens, it squeeze, it squeezes and it's like, oh, my gosh. You know, and it, it, well, it scares me more than anything because, yeah, I'm like, oh, great, my heart, you know. You know. Um, but, uh, so, yeah, I didn't know, I mean, like, like I said, right now it's not, it's not bothering me. But, um, but it does, it usually does, uh, you know, sometimes more than once a day. But, um, ah, so I'm just, um, I guess I was calling to ask you about that. Yeah.
+Nurse: So if it's been ongoing, um, oh, I know. You hate, excuse me? Hold on. Uh, sorry, I had a cough and I don't wanna cough on the phone. Um,
+Patient: Sorry,
+Nurse: Usually what we'll tell patients if you're having a heart attack. Um, you know, or if it's cardiac related, um, you know, there are the typical signs and there's atypical, um, with, um, like if it was cardiac related, um, what you would be looking at would be like a tightness, um, a pressure or squeezing, um, an aching sensation, mainly like in the sternum. So, like the, the center of the chest or the left where the, um, the, the heart would be, or in the left shoulder. There's also a lot of women, um, we experience heart attacks, uh, typically different than men. Um, but we still, um, you know, there's still like the, the typical signs where, you know, the left arm weakness, um, shortness of breath, cold sweats, lightheadedness. Um, you know, some people have mild symptoms, some people don't have any symptoms at all. Um,
+Patient: Yeah.
+Nurse: But, um, my question to you is if you do something, um, where you physically exert yourself, like going for a walk, um, cleaning up the house, something like that. Do you feel that it comes on or? No?
+Patient: Uh, actually it was, um, I noticed a really bad one. I think I bent over to pick up one of the dog's toys and it was like, it just kind of started squeezing, like cra, like a cramp. Ok. And, but a small area like a nine, well, maybe
+Nurse: When was the first time you noticed that?
+Patient: Oh, gosh, I noticed it a while ago and I just didn't, I wasn't thinking, I thought, oh, it's just this or that, you know. Um, so it's been a while and I, and I have a really bad cough sometimes but I mean, that does happen. I have, uh, you know, I, I take Trelegy and I take or not Trilogy, but one of those, um, powder puffs, you know what I mean? Yeah, the rescue inhaler. And, uh, yeah, and then a rescue inhaler. So I have those too. Um, I did, you know, II, I stopped taking Mote Lukas. Do you know anything about that medication? Yeah, it's, I'm sorry.
+Nurse: Excuse me? I'm like, that's
+Patient: Ok. It's ok. I, I got all
+Nurse: This issues today. It's basically, um, something that treats allergies, um, opens up
+Patient: Your, what's that? I think it was, I think it was for COPD. It is and asthma and kind of like asthma. The mo, well, I, I stopped taking that like, a year ago or something maybe longer. I don't even know. But I just found, I just found an open bottle and I was like, maybe that would help with my coughing because I cough, uh, like a lot. And I guess my, one of my biggest fears is that I would have another embolism or something. Yeah. I mean, I hope not. But, yeah.
+Nurse: All right. And then when, like, I hate to have you to repeat but when you had the first onset of, um, that you noticed the, the pain, when was that?
+Patient: Oh, uh, bothering me for like, 23 weeks, 23 weeks. Ok. Yeah. Yeah. I just, like, kind of, I, I don't know if I was ignoring it or trying to and I didn't wanna be a hypo hypochondriac and,
+Nurse: Yeah. Well, it's always better to let us know that, you know, like, because it doesn't, it's always a very touchy subject if some, if somebody's having, um, any kind of chest discomfort or chest pain, um, and nobody likes to say, you know, hey, this is, I think this is just, you know, indigestion or I think that this is, you know, typical cramping going on. Nobody wants to say that because there always could be that possibility if there's a cardiac related issue, if we can't see it going on, you know. Um So let me I can message um you know, Doctor [PHI-Personal] let him know about that. Um and then I can definitely give you a call back regarding further direction. He might want you to take like an additional aspirin um to see if that relieves it. Do you feel like when you rest that, it relieves
+Patient: That when I rest? I've been really tired. But, um, yeah. Uh, oh, when I'm resting, does it happen? Is that what you said? Yeah. Um, no, not usually. Well, I mean, it happens and then I, I might lay down, you know. You know, but I don't, I don't feel it coming on when I'm laying down, I don't think. Ok. Ok. Yeah. Um, I, I do, I, if I'm not mistaken, I, um, when I went to the cardiologist I probably should make an appointment. I don't know if I need to have a, a reference or, or a referral or not, but I've
+Nurse: Seen the cardiologist before. Right.
+Patient: Yeah. Yeah. I can't remember his name. Yeah. Doctor. Uh, oh. Or is that my, that's my blood doctor, hematologist. That,
+Nurse: Yeah, that's your, or your, um, hematologist. Yeah.
+Patient: Oh, ok.
+Nurse: All right. We've got Doctor [PHI-Personal] for urology. Doctor for the pulmonary embolism.
+Patient: Hm. Oh, I think my phone just went dead. No. 000, ok.
+Nurse: I'm just looking through the chart trying to find.
+Patient: Yeah. Yeah.
+Nurse: Cardiologist in here. Yeah,
+Patient: Because I do have, I, I do have, uh, an enlarged heart. Um, I don't know what they call that. I don't know. You know, it was, um, I was, see, I saw a cardiologist and I went to Dent. I was, I was supposed to go to physical therapy but I couldn't do it anymore and I called them and told them I told them I might have to switch somewhere else to do it. And then, um, um, um, they called me, they called me a while back and said I missed 26 appointments and, and I, and I can never go back there or I, yeah, I can't go back there and I was like, oh my God, I didn't know that I, I talked to somebody when I told them I, you know, we can't get out here. Um, I had transportation issues and, and, um, because, and I think it was snowing too. I don't remember, I don't know. But, um, I stopped going to that and, um, um, yeah, I don't know if I need to, what, I don't know what to do.
+Nurse: Ok. So what I was, you've been seen before for the, er, for chest pain? Right.
+Patient: Oh, yeah. Yeah. Well, the last time was when they found that embolism. Yeah, they found it there. It was such a such a miracle. I'm telling you I was about to go home and they said, let's do one more test and then they found that and treated it right away. I feel, I feel blessed. Let's see. Oh my God.
+Nurse: So let me, I'm just gonna ask you more questions just so I have something completely of them. So the when you are bending down, um that's when you notice it is anything else that does it?
+Patient: Um, no, sometimes it just happens. OK. No specific. I saw, I saw a doctor, I just saw a doctor for, uh, like a physical, like last week and I never saw, I don't think I ever saw him before. His name is [PHI-Personal]. Is that the right? Is that right? Well, I had a, I did, um, I had an appointment with, um, Doctor [PHI-Personal] and she had him, you know, come in and said, and, um, so I, I don't think, um, I didn't really know him and I, I don't, I don't, I don't recall if I even told him about that. I don't know. You know what I mean? I mean, like, I don't know, I, I don't, I don't think I, I don't think I did. I, I don't remember quite honestly. Mhm. I have a, you know, cognitive deficient, right? I appreciate, I forgot to look at the time for the, so, do
+Nurse: You have, I have a couple things that you're positive for but how about any, you said you have fatigue sometimes have what? Tiredness?
+Patient: Yeah.
+Nurse: Ok. Do you have any shortness of breath when it happens?
+Patient: Um, I'm trying to think. Yeah. Ok. Yeah. I mean, numb. Oh, go ahead. Go ahead. Numbness. I don't feel any numbness right now. I used to in my arms and stuff but, but I don't, I don't feel that now. II, I know that feeling, you know. Yeah. Yeah. How
+Nurse: Any kind of like cold
+Patient: Sweats? Um, not really, not really. I might a little bit at night, a little bit at night but it's just like too hot in here. And I, um, um, I'm sorry, that is quite
+Nurse: All right. Ok. So said recommendation, I mean, honestly if you have this. Mhm. Um, and it is, you know, I mean, sometimes not to scare you but there are sometimes where, um, you know, patients have recurrent chest pain, um, or chest pressure that's, you know, triggered by exertion and relief by rest. That's the angina. Um, but sometimes they are having symptoms of a heart attack where there's, you know, either like a plaque build up around the arteries or the heart. Um, and they, those are like the warning signs. So, um, I'd rather be safe than sorry. Um, they might suggest that if this comes on again, you might wanna go to the, er,
+Patient: Um,
+Nurse: But I will definitely, um, let me know right now. Now you're not having any, um, any onset of it, of like that cramping in the, um, on the left side right now.
+Patient: Right. No, no, it's not happening right now. It's not. Iii I have one more issue too. I'm sorry? Sure. My lower back is just crazy. It hurts all the time and my low back it's getting worse. Yeah. Ok. Um, it's like from my tailbone to my, um, up, like the pain radiates up through and towards my, towards my chat or towards my, my back, uh, uh, or, uh, the, the pain just, it just, yeah, it's, does that make sense? And it, it throbs not, not, right. Not right now. I mean, it hurts but I take Tylenol too.
+Nurse: Ok. Does the Tyle Tylenol help?
+Patient: Uh, yeah, I don't have anything stronger if I did, I probably would have taken.
+Nurse: Yeah. Ok.
+Patient: That could
+Nurse: Be a number. Yeah. [PHI-Personal], that could be a number of different things. Um,
+Patient: Yeah,
+Nurse: It could go anywhere from, you know, a degenerative joint disease to, if it's mid back then it's your, um, you know, it might be kidney issue or related.
+Patient: Um, so that
+Nurse: Could honestly be anything and I would just urge you to do some non pharmacological interventions before that.
+Patient: Mhm. Oh, yeah. Mhm. Thank you. You know, um,
+Nurse: Bef before you have your appointment?
+Patient: Oh, ok. Before I have my appointment with,
+Nurse: With Doctor [PHI-Personal] next month.
+Patient: Oh, ok. Ok. Yeah. All right. If it, if it happen, if it happens Oh I got some paperwork too. Did you do you have the paperwork from my my vi my visit to the doctor [PHI-Personal]? Yeah I I think that do you have that paperwork? I have that paperwork too and I'm wondering um I just found it um. Oh here it is um I think there's a sheet there here that tells me uh that some things I need to do um like let me I'm sorry I had to come upstairs now. Ok, here we go. Alright I think I have a healthcare proxy too. Let's see. Oh my glasses let's see. All right um instructions x-ray if you were ordered uh th x-ray. Ok. Labs diabetic pending. Ok. Uh I'm so I'm sorry I'm trying to see where the sheet is but it said like it has here it is. Ok so this is routine right? Pulmonary. Ok. It says here do you have the one? Um let's see primary ok. Secondary insurance. Um so uh pulmonary. Oh ok it says test name pulmonary function test not done at the E HMS. Chronic Destructive Pulmonary Disease unspecified and it says priority routine. So that must be do you see that one? Mm. Yeah order. Ok so that's ok so he actually he gave me a um a test to get done and that's the pulmonary function test not done at [PHI-Geographic] medical services. Ok. Ok so I need to I need to get that done.
+Nurse: Yeah. Pulmonary function test is what they gave you. The order for, um, what a pulmonary function test does is you blow into a tube, it gives you a reading on the computer of how well your lungs are functioning. So, it's able to tell how much oxygen you're taking in how much carbon dioxide you're blowing out, um, the flow of exertion. So, it's a really good test, especially with patients with COPD and asthma. Oh,
+Patient: Ok. Ok. That'd be all
+Nurse: Right. Mhm. And it kind of gauges where you're at and then from there when the physician gets the results, he might, uh, or she might adjust your medication. So, um, they might think that, you know, your lungs aren't getting, um, enough air. So they're gonna give you a bronchodilator which, um, decreases inflammation in the lungs so that you can get more oxygen into the lungs. Um,
+Patient: It might be good. I thought that's what the Mono Lukas. I don't know. I get confused but it will do that.
+Nurse: Yes. No, you're absolutely right. You're not confused. Mhm. Yeah. So they might say, you know what, you haven't taken the Montelukast in a year. Um, let's put you back on that. See how well you do?
+Patient: Ok. And I have, I, like I said, I have a bottle that's already it. I just opened it. I didn't take, I didn't take it, but I mean, I opened the lid and it was sealed so it should be, it should be fine. I mean, if they say it's ok if that's what they want me to do. Yeah, I'm, I'm down to [PHI-Account]. Oh, good.
+Nurse: Wonderful.
+Patient: Oh, my gosh. Like a year ago I was almost 200 lbs. Mhm. Hm. We're trying to knock that down. Ok.
+Nurse: So, I, I think I've got it all in here. Um, I will also let them know besides the intermittent chest cramping. I will also let them know about like the low back um pain getting worse that we might need an X ray on that and then I will call you back and let you know what they say.
+Patient: Oh, thank you so much for your help. Mhm.
+Nurse: You're welcome.
+Patient: All
+Nurse: Right you take care and I will talk to you. I yeah hopefully I'll get an answer for you before I leave today but if not I will definitely let you know no later than tomorrow.
+Patient: Oh ok. Ok. Oh, thank you so much [PHI-Personal].
+Nurse: Alright. You're welcome [PHI-Personal]. Is there anything else that you think of?
+Patient: Um um I can't think of anything. Um I I was having a left ear problem but I took some drops I put some drops in it and it's fine now so that's ok. Ok.
+Nurse: Ok. Well then I will plan on following up with you um later uh like in a half an hour or latest tomorrow. Ok.
+Patient: Ok, thank you.
+Nurse: You're welcome.
+Patient: Ok, bye bye.

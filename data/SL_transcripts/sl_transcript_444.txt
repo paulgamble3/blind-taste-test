@@ -1,0 +1,13 @@
+Nurse: Hi, this is [PHI-Personal]. Can I help you
+Patient: Trying to reach me? Good.
+Nurse: Ok, let me see who's been trying to reach you. It looks like [PHI-Personal] was trying to reach you. Um, let me see what she was calling you about.
+Patient: Ok,
+Nurse: Let me just look at our notes. I'm pulling up your account now.
+Patient: Ok. Yeah,
+Nurse: So it looks like she was getting you an appointment scheduled.
+Patient: Ok.
+Nurse: And let me see when your appointment
+Patient: Is
+Nurse: She has it scheduled for [PHI-Personal] on Monday at 10 45.
+Patient: Ok.
+Nurse: Ok. Does that appointment time and everything work? Hello MS Drake.

@@ -1,0 +1,18 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager. Yes,
+Patient: This is [PHI-Personal]. A calling and I had gotten bit by my little dog, um, on Sunday and he got me pretty good. Um, and then, uh, he, he's a rescue and he's very possessive of his little toys or his little treats and I was picking up his blanket and a treat fell out. He had hidden it and he thought I was going to take it from em. So he bit me a good one. But, um, and they say that's to be expected sometimes because they're, you know, newly getting trained here. Um, but he has all his shots. Everything is on the up and up. Um, but what I need is I think I need an antibiotic for my hand. It is swollen and, um, I ran a temperature yesterday and I took medicine for it and, um, but the swelling is there in the hand, you know, and it looks like it could be infected because it's right around the
+Nurse: Area. Absolutely. What was your temperature yesterday? Do you remember?
+Patient: Um, yes, it was. And I had a very high, it was 100.3 but for me that's high because um I, I have MS but my temperature usually runs like 96.7.
+Nurse: Got it. Is it warm to touch? Yes. Ok. And you said that was which hand?
+Patient: It was my right hand.
+Nurse: And can you spell your last name for me?
+Patient: Yes. A K am
+Nurse: There you are sorry, I was having trouble finding you. That's all right. Give me one second. So the doctor might want you to be seen just in case. I don't know if I, you have like an urgent care nearby or if you would just rather hear from the doctor first to wait to see
+Patient: If I could hear from the doctor first. I would do that and then it would be [PHI-Personal]. And then uh if I, if he wants me to be seen over there at the wellcare, I'll go there. Ok,
+Nurse: Perfect. So what I'll do is I'll send a message out. Uh let me just double check a few things and then if, if he responds, I'll call you right away unless they call you first. I'm not quite sure which one they're gonna do.
+Patient: And I didn't know on a dog bite. You're not supposed to put peroxide on there.
+Nurse: Oh, I, I never heard that. No. Why is that? I
+Patient: Never heard of it before in my life and I put peroxide in it on it immediately and, and put a band aid on it. Well, I put a, a cotton ball on it and then I put the band aid on it and then I wrapped it with that uh elastic uh the elastic wrap. And um, then uh the gal, a gal that lives behind me said, oh, [PHI-Personal], she said I was always told to use salt water. Never. You put peroxide on a, a dog bite. I said water heard
+Nurse: That. I'll have to keep that in mind.
+Patient: I never heard of it neither. So I did some salt yesterday instead of the peroxide. Um you know, so maybe it'll help maybe I was hindering it. I don't
+Nurse: Know and sometimes it's just the bacteria on your own skin that gets in there. It's not even might not even be the dog so that can cause cellulitis too just when that it gets in there. Alright. So let me send that message right over if they um again if they message me immediately back, I will call you um hopefully they call you directly but I will let you know as soon as I hear something. Ok, I appreciate that. No problem [PHI-Personal], I'll talk to you soon. Ok? Thank you so much. You're
+Patient: Welcome. Bye bye bye.

@@ -1,0 +1,31 @@
+Nurse: Management. This is [PHI-Personal]. Can I help you?
+Patient: Good morning, MS MS [PHI-Personal]. This is [PHI-Personal]. How are you? Good
+Nurse: Morning, MS [PHI-Personal]. You are on the top of my to do list today. Did you know
+Patient: That? Uh No, I didn't. I wonder if we're calling about the same thing. I got my breast, uh my mammogram reo results back and the hospital has called me and then I went in and looked in my and uh and it said on my chart that my care team has not reviewed it yet. So could you have doctor [PHI-Personal] take a look at it and tell me what exactly is going on with my poor little breast?
+Nurse: Hold on one second for me. Let me open this up. You're on the top of my to do list because I was gonna try to get your wellness visit the same day that we scheduled.
+Patient: Um Yes, I remember I was gonna do
+Nurse: That. Bear with me. Hold on.
+Patient: Ok.
+Nurse: Um She just may not have released the records yet.
+Patient: Well, they sent us uh what do they call those things? Uh a scan and when I open it uh and looked at it, it says, well, it, I, I'll have to go and open it and look at it, but it was in my chart. Have you seen it? Yeah. Ok. Terrible. Like me and they also sent it to doctor so she may not have gotten it yet, but
+Nurse: She may not have gotten it yet.
+Patient: But this fax kind of, it a actually worried me because I've never had them do that before and for them to call me yesterday and said please, you know, call us back blah, blah, blah. And I'm going like, ok, what's going on? Let me have doctor [PHI-Personal] take a look at this first and explain it before I talk to uh anyone at Saint Joseph's women imaging.
+Nurse: Ok, I'm not seeing the whole copy here. So let me call the office, let me try to do that and then I'll,
+Patient: You can't see it and I can
+Nurse: Um I can't see the final report. So let me go ahead and call there. It doesn't mean that, I mean, I just may not have access to it because it came from daycare. So I, I just can't see that last final report so they can send you all kinds of stuff we need like I specifically I need to see the final report from the doctor so that you know what I mean? Like that's because, you know, I'm uh nurse on the care team, I'm not the doctor. So I'm gonna go ahead. I'm gonna call the office um and try and get her wellness screen schedule the same day as your appointment, which would hold on. Let me go back to this. Ok? I will do that first and then I will ask them if they can please um send your results to my chart. Right? And then
+Patient: Right now my question is, should I go ahead and call them back because they have uh requested a call back?
+Nurse: Yeah, I would, yeah, I would call, call them back. Sometimes they just um wanted you like further imaging. Um you know, like now I feel like really talk all the time. So like my mom and my grandma had a breast cancer and I'm [PHI-Personal] years old. So I have a mammogram and a CT scan every year. So for
+Patient: Oh wait a minute, I'm high risk. Doctor [PHI-Personal] already commented on this. I just got into my Yeah. OK. Mammograms show lower left, lower breast microcalcification. This can be common and radiology recommends that further reviews to better evaluate diagnostic mammogram and ultrasound ordered. Oh, wow. All right. Well,
+Nurse: She must have just put that in because I haven't even been able to open it up
+Patient: Yet. Oh my gosh. Yeah. She just, she is so funny. She just did it I think seen by patient [PHI-Personal] and then written by Doctor [PHI-Personal] five th last night. Good grief.
+Nurse: I'm gonna refresh my screen and see what I can see because they might not have just loaded into the chart yet. Ok. So then go ahead and tell me what she said again that they
+Patient: Do. They want, it comes from doctor's office. Hi mammogram. Show left lower breast microcalcifications. This can be common and radiology recommends further view to better evaluate diagnostic mammogram and ultrasound ordered. So she's already put an order in and I hope she put it in at that office. I mean, you know, with daycare because I can get right in. There's just so much, I hate to say this, but there's so much better than TGH uh power then. Well, yeah, the
+Nurse: [PHI-Personal] is extremely hard to navigate. I would never argue with you on that one. It is extremely hard to navigate that. Yeah. Ok. Yeah. So you go ahead and call daycare. I will call to try and get your advanced wellness screening scheduled and, and it's like we just talked about, you know, like for me, they look, you know, I do my, I've been getting mammogram since I was [PHI-Personal]. So for five years and make me go back and get like a secondary thing and I used to get so worked up about it. But now it's like, well, I should just plan on doing a couple of different things every time.
+Patient: Ok. Ok.
+Nurse: Just because if you have dense breast tissue um then they can't see anything in just a plain mammogram. You know what I mean. Mhm.
+Patient: Mhm. Yes, I, I read about that. Yeah.
+Nurse: Yeah. So that's what I mean. So, so you call, you call daycare? I'll call the doctor's office.
+Patient: Sounds like a plan. All right. Thank you so much. I love working with you. We work so well together. Well, listen, you
+Nurse: We're [PHI-Personal]. All right, I will give you a call later.
+Patient: Ok. Ok. Sounds like a plan. Enjoy your morning. Thank you. Bye
+Nurse: Bye.

@@ -1,0 +1,13 @@
+Nurse: Good afternoon. This is, how can I help
+Patient: You? Hi. Is [PHI-Personal] there, please,
+Nurse: [PHI-Personal]. Hold on just a moment. Ok. Ok. May I ask who's calling
+Patient: [PHI-Personal]?
+Nurse: [PHI-Personal] Dest. All right. Hold on just a moment. All right, sir. It looks like she might be on the line with another patient right now. Um, I am also one of the nurses I work with [PHI-Personal]. Can I help you with something?
+Patient: Well, I called the other day and she was going to activate my prescription for uh, gabapentin. I wonder if she's activated it, do you know? Ok.
+Nurse: Give me just a moment. Let me get you pulled up and we'll take a look in the [PHI-Personal] office and see what I can find. Ok. Right. Have you run out of this prescription or is just just a normal refill? No,
+Patient: It's the, it's, it's an annual, just expired.
+Nurse: Ok. All right. I do see that the prescription was put in, um, for some reason it was not refilled though. It says it's still too soon to refill. It's not due until [PHI-Personal]. Um, it looks like the last time we sent in this prescription. It was sent to the mcgill pharmacy with three refills on it. Um Have they denied any refills? You've already contacted
+Patient: Them? Yes, I've been to today and they've got no record of it.
+Nurse: They don't have anything. Ok. All right. I will let the doctor know that you spoke with the pharmacy today and we'll see if we can get it straightened out. Ok.
+Patient: Ok, because I'm out. I got two days left on it. You
+Nurse: Got two days left. Ok. All right, I'll let him know. Ok, thank you. Thank you, sir. Take care. You too. Bye bye. Thanks. Bye bye.

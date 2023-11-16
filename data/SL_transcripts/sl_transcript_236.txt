@@ -1,0 +1,21 @@
+Nurse: Good morning. This is [PHI-Personal]. Hi, [PHI-Personal]. This
+Patient: Is [PHI-Personal]
+Nurse: [PHI-Personal]. Hi, how are you? Good. And you? I'm ok. Um, so doctor feels that you would qualify for our care management and behavioral health program. And what that is, is that a nurse would call you monthly just to check in on you to make sure that you don't need anything. Um, and if you needed something then we can offer that to you if you needed a sooner appointment with doctor. Um, if you needed medication refills really anything and uh, with your insurance, it's absolutely free. There's no copay. Ok. Um, and so we're just wondering if you would be interested in the program? Sure. Ok. So it is the behavioral health and uh, care management. So
+Patient: Let me see one second here. Um, yeah, of course, the computer wants to freeze on me when I want to be right in the middle of doing something. Um, ok, let me just pull this up for you. Um, so
+Nurse: Your n I'm
+Patient: Just trying to get your nurse's name here and it's just giving
+Nurse: Me a really hard time
+Patient: And I don't understand
+Nurse: Why. Ok, your nurse, I got it. Your nurse, her name is [PHI-Personal]. Am. Y now, is there a better time, um, mornings or afternoons for her to contact you? Afternoons, afternoons. Ok. And now this won't start until about [PHI-Personal]. Ok. Ok. So afternoons with [PHI-Personal]? Oh, that's fun. Um, is there?
+Patient: Ok, so
+Nurse: That's it. And like I said, there's no copay for you and, um, I'm going to send you out a packet just to give you a little bit more information
+Patient: On this and
+Nurse: Um you will have her number as well. So this way if you need to contact her at any point and I'm sure they'll be reaching out to you within a few days just to you know, introduce themselves and all of that. Um, so are you still at um [PHI-Geographic] mom.
+Patient: That's [PHI-Account]. [PHI-Personal] Street
+Nurse: [PHI-Personal]. Yeah. [PHI-Personal]. Um
+Patient: Yeah. [PHI-Account]
+Nurse: [PHI-Account]. Yes in Elton. [PHI-Account]. Yes. Ok. All right. So I got all that. Ok, so I will get this out to you and I'm sure they'll be reaching out in a few days just to introduce themselves.
+Patient: Ok. Ok. Alrighty.
+Nurse: All right. Well, you have a good day and thank you.
+Patient: You too.
+Nurse: Bye bye bye bye.

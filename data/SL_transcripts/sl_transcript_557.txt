@@ -1,0 +1,18 @@
+Patient: Hi, this is [PHI-Personal].
+Nurse: How may I help you? [PHI-Personal]. This is Don [PHI-Personal]. Hi, how are you doing? Well, I, I've got a UT I, that's driving me crazy. Uh, oh, ok. What's going on with that? Well, I had it all last weekend, uh, [PHI-Personal], I went to, uh, same day care doctor to, gave me a, uh, an antibiotic and a, a shot. Ok. And that, uh, that didn't do much, it
+Patient: Didn't do anything for
+Nurse: You. Right. Not very fast by Tuesday I called the VA, uh, to see if they had a neurologist. Well, there was a, um, oh, what do they call? The nurse that handles emergencies? Anyway. She, she recommended that I go to the emergency room at the hospital and the va would pay for it. Well, Doctor [PHI-Personal] at a hospital wanted results of the culture that Dr [PHI-Personal] did. And it had been long enough and we, we've had no response. He wanted, uh, doctor to send him the results so he could see if they were on, if I was on the right antibiotic. Right. Let me,
+Patient: Yeah, let me pull up your chart here and see what's going on and we called, we called Care and we call the
+Nurse: Lab and we've made several calls and with no response.
+Patient: Ok, let me take a look here. Give me just a second to pull up your chart. Um All right. And can you just verify your date of birth for me? Don
+Nurse: 37 44? Perfect.
+Patient: All right. Let's see what's going on with this? Oh, you said this was done [PHI-Personal]? Um Where is the culture? Oh, that, well, yeah, because you were right there. You saw. Hm, I know good about. Oh, ok. So I think it just came back but requires verification. So it looks like they're needing to, the doctor's needing to read over the culture before I can actually see the results. Ok. So he was yesterday afternoon and we never heard anything. They said he was a yesterday afternoon. Yes. Ok. Let me see if there's said that
+Nurse: Uh he had not read the culture results yet and that was yesterday afternoon.
+Patient: Ok. Yeah, I see. Um I see him in here. I just don't see where he has read them yet.
+Nurse: Well, Doctor [PHI-Personal] at the emergency room at the hospital was anxious for doctor to, to send him those results to verify that I'm on the right antibiotic. Yeah.
+Patient: Let me um let me see if I can get in contact with someone at doctor to's office, um dys office because they're in here. They're just not read yet. So, I'm not sure what they're, you know, what they're waiting on.
+Nurse: Um, well, in the meantime, I'm in a lot of pain.
+Patient: Ok. Yeah, with this, um, let me see, what did they put you on the sulfa? Ok. Um, yeah, let me try and get in contact with their office and see, you know, if he's trying to read it or if he's in to read it, um, because you're still having the pain, um just in case you do need to get on a different antibiotic, um, you have been taking the antibiotic that they gave you though, right? Twice a day. Ok. Ok. Perfect. All right. Yeah, let me try and get in contact with them and then once I hear something, um I'll give you a call back.
+Nurse: Thank you. Ok. No
+Patient: Problem. Thanks. Don bye
+Nurse: Bye bye.

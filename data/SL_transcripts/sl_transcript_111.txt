@@ -1,0 +1,21 @@
+Nurse: So you speaking,
+Patient: This is Ver somebody left a message on my answering machine. What's it about?
+Nurse: Ok. And you said [PHI-Personal].
+Patient: Yep.
+Nurse: All right, let's see here. All right. Ok. So, all right, I have you right here. So my name is, and I was calling from uh [PHI-Geographic] on behalf of doctor. Uh The reason for the call today was doctor is providing a care management program that she thought you could benefit from uh what her care management program is. It's a call for your dedicated nurse uh who will call in between office visits and she will provide you with any assistance on current um conditions. Also, she can help with prescription refills, prescription cost reductions, even setting up and rescheduling appointments. Now, the program is to help uh to stay up to date with the doctor, um your wellbeing and any changes that may happen. The whole purpose of the program is not to replace your office visits, but just to make sure that you're staying as safe and healthy as possible in between those visits. Uh The program is a available service to Medicare, Medicare advantage and secondary insurances and may subject to coinsurance, deductibles and copays. Now, I do see that you have [PHI-Personal], correct? Yep. Ok. Perfect. And then, let's see. Now, would you prefer your care management nurse to call you in the morning or in the afternoon?
+Patient: Well, I only have one day off and that's Wednesday.
+Nurse: Wednesday. Ok. I'll make sure I'll note that on her and let her know to call you on Wednesdays now, morning or afternoon or doesn't matter?
+Patient: Oh, when are you playing a s
+Nurse: I'm sorry,
+Patient: Where are you planning on calling?
+Nurse: Uh So it uh she will pick up your file uh to it probably today when I send it over to you. So probably take about a week for her to give you a call or maybe sooner than that. All right. All right. And then um just to make sure your address is [PHI-Geographic] OVI. I hope I said that right [PHI-Geographic], the bake oven. Uh I see, I see, I I read I over thought about that one. All right. So what I'll do is I'll send you the nurses contact information and you are able to reach out to her and then she'll be reaching out to you just to touch base and introduce herself. Alrighty. Alright. Alright, wonderful. I do appreciate your time and you have a wonderful week and have a safe weekend also.
+Patient: Now, can you send that information by mail then? Let my sister look at it then too. Yeah,
+Nurse: Absolutely. We can definitely do that. And what is her address?
+Patient: Well, he, well, it's, he lives in town.
+Nurse: Ok. Ok.
+Patient: Yeah, just send it to me.
+Nurse: All right, I got you. I got you. All right, Mister [PHI-Personal]. You have a wonderful day.
+Patient: Ok. She calls it be around nine o'clock.
+Nurse: Ok, sounds good. Perfect. You take care. You too.
+Patient: Bye. Thank
+Nurse: You.

@@ -1,0 +1,19 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. How are you?
+Nurse: I'm good. I'm good.
+Patient: I'm super stressed out because uh CV S again is out both in the square and in Ner and they don't know when they're gonna get it in. And um I called um Wegmans. They don't have any and they call Walmart and they don't have any. I didn't call Walgreens yet. But what is the doctor doing about this when people can't get their meds
+Nurse: As of right now? Um We've just been, patients have been actually like calling the different pharmacies usually though, like that's the first time I'm hearing it that all the pharmacies, local pharmacies are out of it.
+Patient: So maybe try Walgreens.
+Nurse: Yeah. Yeah. And I mean, if, if anything, um what we, sometimes what I've done in the past recently, um is I call pharmacy, I'll say, is there anything comparable that you have in stock that doctor can write for?
+Patient: Ok. And what do they usually write for? Just a different form of it?
+Nurse: Or it's, sometimes they'll have like, it might be like a stronger dose cut in half or um, it's the, I mean, I think I had one patient that had to have, they had just, um, straight oxyCODONE and they would take a Tylenol on the side. Um, for,
+Patient: I don't totally freaking out. I won't be, that's my biggest thing is I'm sitting here going, I really don't wanna go through the aches and pains. Nothing. Yeah.
+Nurse: The pain. Yeah. Yeah. I, yeah, there's, there's definitely still more options out there, but unfortunately there's a lot of patients are even like having to drive you know, 45 minutes an hour away to get
+Patient: Is gonna be in [PHI-Geographic] today. Yeah should I I mean is that gonna red flag anything if I have him? I try [PHI-Geographic] I'm not
+Nurse: Sure I mean you could definitely give them a call and if they have it um I'll just message him and see you know can we just cancel the the order that was sent to her original pharmacy and send it to the pharmacy out in [PHI-Geographic].
+Patient: Yeah because he lives out there and if in a bigger city might have a I don't know maybe they have a bigger problem but maybe they have less problem.
+Nurse: Exactly. Exactly. I don't know.
+Patient: All right I'll call and see right
+Nurse: Questions. Ok. Alright can give me a call back. Alright
+Patient: Thank you. Mhm bye bye. Yeah
+Nurse: Bye.

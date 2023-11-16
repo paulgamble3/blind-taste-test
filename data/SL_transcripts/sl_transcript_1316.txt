@@ -1,0 +1,38 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. You called me a little while ago. I just finally found
+Nurse: Uh, how are you doing?
+Patient: Oh, I'm doing fine [PHI-Personal]. Finally it ain't raining here today. We got, we got some sunshine today. Yesterday was all rain which we really needed.
+Nurse: Uh huh. Yes, you did. And I hear it's supposed to rain again tomorrow too, right? Yeah. Yeah. Well you definitely need it because what it was like a month y'all didn't have any rain at all. Yeah.
+Patient: All, all of a month, maybe a little over but yeah, we were getting pretty dry.
+Nurse: Yeah. How's your head?
+Patient: Good. Fine. Yeah,
+Nurse: Completely healed up. Yeah,
+Patient: There's still a little bit there but it's, it's, it's almost all done.
+Nurse: Ok. Well, good. I've seen that. They took the staples out and everything. Yeah.
+Patient: Yeah. Yeah, I went over the last week and had it taken
+Nurse: Out. Yeah. Did he have any issues getting them out or did they come out? Ok.
+Patient: No, they come out. Alright.
+Nurse: Good, good, good, good let's see here. Done that. Done your medicine. So I'm just reminding everybody while you're out. And about make sure that you're staying good and hydrated and sunscreen and all that fun stuff and, you know, try not to wreck, that's all.
+Patient: Yeah, I try to avoid that at all costs.
+Nurse: Yeah. Some
+Patient: People have it out for me.
+Nurse: I know that's the thing about those motorcycles. Nobody pays attention. Oh, yeah. No, they just help. We brought
+Patient: Out, yeah. Driving truck for [PHI-Personal] years. I get me, I, I watch when people start coming up on the side roads. I automatic. I told friends I slow down. I'm used to it. Driving truck with 80,000 lbs. You can't stop that on a dime. So, how do you slow down because you never know what you're going. I got to pull up from me in my, in my tractor trailer. Like, how do you miss something this big? Right. I know. Yeah. Oh, it's crazy. But
+Nurse: I know that's what I try to tell my son. He likes to pull out in front of people. He's just been driving, you know, we, we waited a little bit to let him take off on his own and he was probably [PHI-Personal], 18 before we let him completely loose. You know, and he still has those instances where he pulled out in front of people. And I said, son, I'm telling you, you do that again. I said if I was somebody's mama in that car, I would stomp your butt.
+Patient: Exactly. But we were allowed me, me and my brothers and sisters, we were allowed to have our permit until we were [PHI-Personal]. That's the way mom and dad was and stuff. And I know where I went to school, they started it all about five or six years after I graduated. They in the, in, in the, uh, driving courses and the class, what, how long they take him out to the football field and show him how long it takes a full tractor trailer to stop. The, they're like, it brings him real loud. He going, wow, because my nephew, he drives truck, he fall and today. But yeah, he said, told me to start teaching that, but he used to ride with me when he was little. He knew what was going on. Yeah.
+Nurse: Right. Yeah, it's, it's scary and [PHI-Personal] is too young to be behind the wheel. Even with your parents in the car. It's just, it's too young.
+Patient: Yep. I know my neighbor over here, her, her granddaughter, her, her son and daughter in law, they will not let her out by herself until she's [PHI-Personal]. Now she has her license. They bought, they got, well, her grandma bought her, bought her a nice little pick up because she wanted, she's a country girl granddaughter. So, but she, she don't drive it. Not unless that mom or dad's with her or [PHI-Personal]. So she does, one thing is she, she does like Chopin her grandmother around. Well, that's good. That's why I told her, I said her name is [PHI-Personal]. I said, boy, [PHI-Personal], you got it made now
+Nurse: Driving Miss [PHI-Personal], right.
+Patient: Yeah, I said you got a good granddaughter. Yeah.
+Nurse: Yeah. They're hard to come by. They wanna just take off and go on their own and, oh, yeah. Oh, they're too young. They're too young. Grow fast, that's for sure. They do. They do. It feels like yesterday is just changing. Dippers. Yep. Well, honey, is there anything at all I can do for you? No,
+Patient: I'm fine. Matter of fact, I just getting ready to head to the bank, do a little bank in here and then I'm going to look for some things from my porch, like curtains, like for the sun because the afternoon I got the afternoon sun on my front porch and stuff. So I got some to do today. Not gonna be nice out.
+Nurse: Well, that'll be good. Uh, they've got these, uh, Magnetics in my front porch has got the, the side in the vinyl side and stuff and they've got these, they've got ones that clip and then they've got ones that are magnetic for curtain rods and stuff and they're four outside. I thought that was pretty cool. Yeah, that's what I'm looking for.
+Patient: Something straight down. Yeah, the board of sun gets out in the front porch, especially when it gets hotter. Now, during July and [PHI-Personal] it gets pretty brutal out front and I, I sit on my back porch but I can't wave all the neighbors on my back porch there. You
+Nurse: Know, you gotta be social. I mean, I
+Patient: Live, I live on the south end of town on [PHI-Geographic] and I live here. Goodbye. We wa and I sit out front. Oh, that'd give me a great way to work on my can too.
+Nurse: There you go. See. Optimistic. That's what I like. Oh, yeah.
+Patient: After all the years of driving I can get both of my arms in one color that hanging out the window all the time.
+Nurse: Yeah. All right, sweetie. Well, if you need anything, you just give me a shout. Ok,
+Patient: I will do [PHI-Personal]. Thank you so much for
+Nurse: Checking. Thank you. No problem, honey. Bye bye
+Patient: Bye.

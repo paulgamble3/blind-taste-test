@@ -1,0 +1,77 @@
+Nurse: [PHI-Personal] Medical group. This is [PHI-Personal].
+Patient: [PHI-Personal]. This is [PHI-Personal] calling you.
+Nurse: Hi, [PHI-Personal], how are you today?
+Patient: I'm not doing too good. I have like a toothache for like three or four days and a toothache. Yeah, real bad toothache. And I, I have so many issues that, um, I don't have a dentist right now because they all tell me that I need a surgeon in my, for my tooth, but the pain is bothering me so much on my, my left side. Ok.
+Nurse: Yeah. Uh, do you have any swelling in your cheek or in your gums?
+Patient: Yes. Ok. Uh I've been in a lot of pain, really bad pain in the night time, especially.
+Nurse: Uh, what are you taking for it?
+Patient: Uh, I'm taking some, uh, something that you buy to put it around it.
+Nurse: Uh, like, like a gel to put
+Patient: On it, to put a gel and then I'm, I'm doing gargles with um salt. Salt. Yeah, and, and warm water but nothing is working. Um, it sounds like
+Nurse: It's infected.
+Patient: Yeah. Very.
+Nurse: Ok. I'm gonna message your doctor and see about getting you in so he can give you an antibiotic, the regular doctor can give you the antibiotic. Now, um, uh, as far as a dentist is concerned, we'll need to get you into the dentist so we can get it taken care of.
+Patient: Yes. Yes.
+Nurse: I'm sorry, sweetheart. I, I am sorry, I know this hurts, you know
+Patient: What it is? It, I haven't go to a dentist because I said that I need, um, because I have a problem ever since I was growing up, you know, I bleed a lot. So I'm afraid of dentist, you know, every time they took it or something, I bleed and bleed and bleed and no, I, I've been scared to go to. So that's why now I really need some something because it's affecting everything, my teeth and I can't, I've been like this since Friday maybe or Thursday and I been trying to do with uh,
+Nurse: Yes, ma'am.
+Patient: So calling and all that. But
+Nurse: Do you have um, like Advil or Tylenol or anything in the house?
+Patient: It's the only way I could sleep a few hours last night. Do you
+Nurse: Have, do you have any Motrin or Advil?
+Patient: I have um, the Tylenol, it's the only thing I could
+Nurse: Take. Ok, Tylenol is an anti inflammatory so it may help. Um, let me, I'm looking through your meds here. You don't have anything there that might help. Ok? I'll message your doctor and let him know what's going on and see if I can get you in, even if it's uh, can you do like a video visit if he wants to do that?
+Patient: I have trouble with my cell phone. I,
+Nurse: Ok. All right. I'll let him know. Um, you don't have a, a dentist that you're currently using, am I correct? Ok. We, well, we need to find you one. I know it's, I know it. It's
+Patient: A surgeon. Ok. Um, I'm in pain.
+Nurse: It's ok. It's ok. Um, let's see. [PHI-Geographic] in [PHI-Geographic]. Is that, is that close to you
+Patient: In?
+Nurse: Well, you're probably gonna have to be referred to a surgeon so you're probably gonna have to see a dentist and be referred out so that um so that your [PHI-Personal] will pay for it.
+Patient: Ok.
+Nurse: Do you want do you wanna try this place? Um it's called [PHI-Geographic] and it's in [PHI-Geographic] they're open now. Uh hold on I could see about an online appointment. Hold up let me see if I can make it for you that way you don't have to deal with it at all. Ok, [PHI-Personal] um do you have an email address that you use?
+Patient: Uh [PHI-Personal]? I have [PHI-Personal]?
+Nurse: Ok. What what is it so I can put it in for you?
+Patient: Huh? G um [PHI-Personal] capital [PHI-Personal], [PHI-Personal] E
+Nurse: Snel si Eie [PHI-Personal]. Uh huh.
+Patient: [PHI-Geographic]
+Nurse: [PHI-Geographic]
+Patient: Um [PHI-Personal] dot com at
+Nurse: [PHI-Personal] dot com. Ok.
+Patient: Um [PHI-Account]
+Nurse: [PHI-Account]. Let me put that in
+Patient: [PHI-Account]
+Nurse: [PHI-Account]. Uh, do you have dental [PHI-Personal]?
+Patient: I have some dental [PHI-Personal]. I've been having it but what is it called? Um, right now I hold out, it's not, it doesn't cover much. Ok, but it's, it's something to start.
+Nurse: It's something. Yeah. Now this pain, is it on the left side or the right side?
+Patient: Uh, and to go my husband and everything,
+Nurse: How long has this been going on?
+Patient: Um, since about Friday? Ok. I don't want to go to the emergency because, you know, they might not pay. Mhm. Oh, I'm sorry to, I speak, I don't find the little card. I don't find him right now. Um,
+Nurse: You don't know what your dental [PHI-Personal] is
+Patient: It? Oh, maybe physician. It's called, what? Physicians? Mutual, something like that.
+Nurse: Physicians.
+Patient: Me, you issue mumutal?
+Nurse: Oh, Mutual. Ok. That's physicians. Mutual Dental.
+Patient: Ok. Yes, that's it.
+Nurse: All right. I'll put that in
+Patient: [PHI-Geographic]. Sorry to bother you.
+Nurse: No, no, no, no, no, I am here to be bothered.
+Patient: Ok. Ok. And then with my sinus and congestion is, it's been terrible [PHI-Personal]. Ok. Da da, da. And do you think I need an antibiotic before?
+Nurse: I think you're probably going to need an antibiotic. I'm just wondering if the dentist can see you before we can see you. That's my, uh, that's my question. I wish I could do all your forms for you, but it won't let me crap. All right. Um, you should have an email right there. Um, did you get one?
+Patient: I didn't get anything yet. You
+Nurse: Didn't get anything yet? Ok. Well, let's call them in [PHI-Geographic]. Let me see.
+Patient: Of course.
+Nurse: No, you haven't gotten anything yet, right? Ok. Um, this back up. Do you want to call and see if you can get an appointment today?
+Patient: Ok, let me put the number down. Ok,
+Nurse: Let them know you're in a lot of pain and I did put on your um form that you've been using the um the gel and the Tylenol and the salt water gargles with a little relief.
+Patient: Ok. What's their phone number?
+Nurse: It's [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account] [PHI-Account]
+Patient: [PHI-Personal]
+Nurse: [PHI-Account]. And
+Patient: This is on [PHI-Geographic] in [PHI-Geographic]
+Nurse: That's Yep, [PHI-Geographic] in [PHI-Geographic], it's called [PHI-Geographic].
+Patient: Um [PHI-Personal] Dental. Ok. Ok.
+Nurse: Um they also have a partner on [PHI-Geographic] in [PHI-Geographic] so maybe between the two [PHI-Geographic] offices they can get you in today.
+Patient: Ok. Alright.
+Nurse: Alright try the one on Main Street and um call me back and let me know if you can get in. If not we'll uh I'll see about getting you into um the doctor. They may even call you in a um antibiotic before they see you. Alright. Ok, thank you. No problem, no problem. And like I said, call me back let me know if you end up getting in, if not, I'll see about getting you in with us. Ok? Ok, thank you. No problem. Alright bye bye.

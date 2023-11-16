@@ -1,0 +1,21 @@
+Nurse: CCM. This is [PHI-Personal].
+Patient: Yeah, I just missed just [PHI-Personal]. Hey, listen, I went to the ear, uh, the, um, walk in for my ears. They're blocked up and I, I got a referral. Uh, what doctor can you get me into to get my ears done over here?
+Nurse: Hang on just a second. Let me get it pulled up real quick. Ok.
+Patient: Yeah, I got the referral
+Nurse: Tomorrow. Do you have a specific doctor that you were wanting to
+Patient: See? Uh, I think my wife did. We, Doctor [PHI-Personal], you have him on the list there. Let me see
+Nurse: Here. We should be able
+Patient: To do that. One of them wanted me to wait, uh, 12 days. It, my ear is all plugged up. They said 12 days. I'll be killing me by then.
+Nurse: That sounds miserable
+Patient: Or what, whatever is on your list over here for Huntington, whatever he uses. You know, I forgot the one
+Nurse: That we can do that. Um, have you seen an, an ent doctor before your nose and throat doctor yourself?
+Patient: No, years ago, I don't remember their names. Been years since then. I used to usually go for the years to walk in clinics but they don't have the right equipment and it's, this one's pretty blocked up, she said,
+Nurse: Right. Did they give you an actual referral to ent,
+Patient: What? Here's what it, here's what it says here, uh, am B referral to ent order. They sent it to this doctor, but I'm not gonna wait that long. It's ridiculous.
+Nurse: Yeah. What's the doctor on that list?
+Patient: Oh, Jesus, some guy in [PHI-Geographic]. I don't even know if his name's on here. Uh, it was from [PHI-Personal], the m the doctor at the walk in clinic. Oh, it says here when placing referrals, names and preferred organizations, blah, blah, blah, blah, blah, blah, bacterial impacted Senium. Some, all this junk. I didn't even have the guy's name. I'll just cancel him whatever it is. All I want you to do is make, get me an appointment where I can get this done.
+Nurse: Yeah, I will um work on getting you an appointment. I'll look into doctor [PHI-Personal], um, schedule and see if I can get you in this week. If not, then um I will contact you and see um, once I have my
+Patient: Wife went to [PHI-Personal] before. Ok, I'll go to anybody but you know what I'm saying? You call me back and let me know. Yes
+Nurse: Sir. I will let you know. Ok.
+Patient: Ok, thank
+Nurse: You. You're welcome. Bye bye bye.

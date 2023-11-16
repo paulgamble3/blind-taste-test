@@ -1,0 +1,48 @@
+Nurse: This is [PHI-Personal].
+Patient: Uh hello. Good afternoon. This is a
+Nurse: Hi, how are you?
+Patient: Yeah. Uh uh somebody called me 10, I think 10 minutes ago regarding my BP and I took it because uh can I give you the may I know who's on the line? Please?
+Nurse: Give me just [PHI-Personal] second. Um Let's see. So yes, so you took your BP but um you didn't take it with the BP cuff that we gave you.
+Patient: No, I used it. I used it and I the BP I took was 1 47/74 at 3:56 p.m. and then I re repeat it. Uh and the second take is 1 42/71 and 72 is the heart rate. And by the way, you, somebody, the [PHI-Personal] who called me told me I have no record. I did not take my BP since [PHI-Personal], but I did it also in fact last, so it looks
+Nurse: Like the last [PHI-Personal] we got from you was on the [PHI-Personal]. So are you sure you're using the right pressure cuff that we gave you? Yeah,
+Patient: Everything the same, the BP cuff the, the [PHI-Personal], the antenna and everything, huh. Uh, why did it?
+Nurse: So, why don't we do this then? Why don't we do this? Are you near the antenna?
+Patient: Yeah. Go
+Nurse: Ahead and unplug it from the outlet.
+Patient: I'll do it again. Just
+Nurse: Unplug it. Yeah. Uh, no, no, you don't have to do the reading again. Just unplug the outlet or unplug the cord from the outlet. We'll wait a few seconds and then we'll plug it back in. It could have just been a loss of connection. Yeah. Uh, especially with the, that rolled through last night. You probably lost connection.
+Patient: Ah, uh, what am I doing to do now?
+Nurse: So, you're gonna pull out the cord out of the, the wall out of the outlet and we're gonna wait a few seconds and then plug it back in.
+Patient: I'll remove it first from. No, I put it on again.
+Nurse: No, you're going to the cord with the antenna with the little box that looks like AAA phone charger. Yeah, you're gonna unplug that cord from the wall.
+Patient: Uh, I, I'm putting it on the table together with the machine and the antenna.
+Nurse: Ok. We have to plug that back in. We have to, we have to plug that back in. That's why they want you to put it to a table. We have to plug that back into the wall.
+Patient: So I'll put it again.
+Nurse: Yes. Plug it back into the wall [PHI-Personal]. Yes. The outlet instead of it kinda into the outlet.
+Patient: Uh, I have the, it on the table and, uh, outlet and, uh, everything. So I'm going to put it back. Uh, can, uh, can you wait just a minute, please?
+Nurse: Yeah, I can wait. I'm waiting.
+Patient: Yeah.
+Nurse: Hm.
+Patient: Mm. This [PHI-Personal].
+Nurse: Mhm. There we go. Miss, I got it.
+Patient: I'm, I'm flipping it my arms now.
+Nurse: Ok, perfect. But I did get that the [PHI-Personal] reading. The [PHI-Personal] that you did today. I did just get that reading.
+Patient: Oh, yeah, I'm going to start it now.
+Nurse: Ok.
+Patient: People, I mean, hello? Hi. Uh, the reading is [PHI-Account].
+Nurse: All right. Give me just a few seconds. It's finding the connection. All right, I got it. You're all set to go miss? Ok.
+Patient: So you got it this time.
+Nurse: I did. So, what I'm thinking is, um, I think with the power you may have lost connection due to the storms last night and that's how that's all that happened. So, you're all good to go.
+Patient: Ok. Thank you. You're
+Nurse: Welcome. Absolutely. Have a good holiday. Uh,
+Patient: Excuse me first. Uh, um, uh, the [PHI-Personal] who called me said I have no record since [PHI-Personal] but I took my BP last [PHI-Personal]. I wrote it in the book.
+Nurse: I know. I know, honey, they all came up. They all came through. You're ok. They're, they're the, I have [PHI-Personal] for the [PHI-Personal], 19th and [PHI-Personal].
+Patient: Uh, so you received that this time, the, the [PHI-Personal] of last [PHI-Personal]. Uh I,
+Nurse: My name is, my name is [PHI-Personal]. I
+Patient: What, what's spelling,
+Nurse: [PHI-Personal] as in [PHI-Personal], [PHI-Personal] as in dog, [PHI-Personal] as in apple? Yes, [PHI-Personal] as in Nancy.
+Patient: [PHI-Personal]. [PHI-Personal]. Yep. Mhm. Uh Thank you. Thank you very. You're
+Nurse: Welcome. Absolutely. Have a good rest of your day. Yeah,
+Patient: [PHI-Personal]. You
+Nurse: Too.
+Patient: Bye bye bye bye.

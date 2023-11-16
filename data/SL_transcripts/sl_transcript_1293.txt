@@ -1,0 +1,67 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. Hi. It's,
+Patient: I'm calling you back.
+Nurse: Hey, how are you doing? I'm
+Patient: Hanging in there. How is your day going? You don't work late on a Friday
+Nurse: Night? Oh, gosh, I know. But I had, um, like internet issues and so it's like, ok, I lost some time. Yeah, like, oh, man, I was like, uh, I guess I'll work late but it work, it all works out because Fridays are usually my busy days where I can, you know, finish up charting and then I look down and someone will call and, and so, you know, going on weekends and such. So it's not terrible. Right.
+Patient: So, anyway, yes, I left a message for [PHI-Personal]. I have lower, even my lower back. I just, I put the heating pad on now and I took an Advil, um, and, uh, my right side and, uh, I'm still a little gassy. I'm not as much as I was but I still am and, uh, my lower stomach is like achy and gassy. So, I don't know. I don't know what that is. So that's still not feeling up to pour.
+Nurse: Yeah. Ok. So, let's see. Here. Hm. So I did reply to her message and let her know, you know, that we had talked and, um, she said if you're still having that discomfort to finish out the antibiotics, but otherwise, like she hasn't, um, responded and she, I know she works late too sometimes. So at least, um, finish the antibiotic. Um, did she talk to you about probiotics?
+Patient: Yes. I'm taking a probiotic in the morning. I'm taking a stomach pill in the morning. Ok. So I'm taking Corel and that famotidine first thing in the morning. So, yeah, I'm trying.
+Nurse: Yeah. Well, um, so, and that was on the [PHI-Personal]. So, just last this Monday, right?
+Patient: And this started a week before that, on a Sunday. So, it's like two weeks now. Although I'm a little better, I'm still not good. Maybe it'll take time. I don't know.
+Nurse: Ok. So, have you had UT I like symptoms? So, burning with urination or?
+Patient: No? Burning. Sometimes the urge, like, I feel like I have to go, but I just went. So I know I don't. Um, but other than that it's just, well, the lower stomach aching and that's it. Ok. My lower back.
+Nurse: Ok. And, um, how about your bowel movements? How often are you having bowel movements?
+Patient: I've been having a problem with that. Now, I used to, every morning, have this su, this cereal called Great Grains. Mhm. And it made me pretty steady and I stopped eating it because of the discomfort in my stomach. So, um, I was having yogurt and sprinkling a little bit of it on top of the yogurt, having yogurt with fresh fruit. But, like, yesterday I didn't go today. I said, screw it. I'm having my regular breakfast, my great grains and I went today. So it's like every other day lately.
+Nurse: Ok. But
+Patient: I'm glad I went without taking something.
+Nurse: Yeah. Yeah. Ok. And, um, are your stools normal or? No? No? Ok.
+Patient: No, there's nothing normal, all shredded pieces.
+Nurse: Ok. Any, um, changes in color, like, is it dark or light? No, no
+Patient: Normal color?
+Nurse: Ok. And, um, let's see. Do you, um, do you have, like, seeds or nuts, like, like in your cereal or [PHI-Personal]? My
+Patient: Cereal has pecans but I took them out. I wouldn't eat, I won't eat anything with nuts. Ok. No. Like, I can't do that. Even when I work, like, I work today, I usually bring a protein bar with me because I work until one. So I need something like in between and I, I won't take it because it's nuts. Mhm. So, yeah. No, I'm staying away from anything like that. Beans nuts. No, staying away.
+Nurse: Ok. Uh, let's see. And, um, when you said that your stool is kind of shredded or like in pieces? Oh, yeah.
+Patient: Oh, yeah. Oh, yeah. Nothing solid.
+Nurse: Ok. Hm. And are you drinking plenty of water? Yes,
+Patient: Ma'am.
+Nurse: Ok. Ok. So is, and how's your appetite because it says here that you're eating less this week and that
+Patient: Was, yeah, it's not too good. It's not too good. I'm not craving anything, uh, just eating to eat and just so. Yeah. Yeah, that's not normal either.
+Nurse: Yeah. Ok. Mm. What about coffee?
+Patient: I have coffee in the morning now, I did stop that and had tea a few days, but I said I didn't notice anything different, so I'm having coffee in the morning. I only have one cup. Yeah, I don't go crazy.
+Nurse: [PHI-Personal]. Mm. Any acid reflux? Like heartburn? No. Ok. What about, um, like sort of reflux maybe, um, kind of pressure in your kind of mid chest after eating or not in my mid
+Patient: Chest? I, my belly blows up. I get gas. Uh, I get very gassy.
+Nurse: I hear you.
+Patient: Oh, ok.
+Nurse: Well, what one, have you seen a gastroenterologist before?
+Patient: No. No. Oh, ok.
+Nurse: So, so,
+Patient: Yeah, that's not usually a problem with me. I'm not usually burping and, and ting and, uh, that's not normally until this came on board. So.
+Nurse: Ok. Well, so it does say, you know, the urine culture was contaminated. Um, it says that there is some, now that
+Patient: Happens a lot. That happens a lot over there. I, I don't understand why. Uh, I clean, I actually cleaned twice. Mhm. I don't understand. They always say contaminate. Contaminate.
+Nurse: Yeah, it's really difficult to get a clean catch. So, um, you know, you, you clean and clean and clean, um sometimes it's best like instead of trying to get all of your urine, you know, from start to finish, you know, if you um you know, begin to urinate and allow maybe just, you know, some urine to come to come out and then get a urine sample. That kind of helps. So for instance, like if there's any bacteria or anything that may be like in your urethra and such your urine kind of flushes that and then you get a mid stream catch. That would be my only, yeah, that would be my only suggestion for that. You know, because I do see that. Yeah, I do see it happen a lot where it says urine culture contaminated. Um You know, so I don't, yeah. So go
+Patient: A little bit first clean, clean everything out and then catch mid stream. All right. That's a good idea.
+Nurse: Yeah. And then um so it did have a little bit of calcium oxalate, which can increase kidney stones, right? And
+Patient: I've had them before.
+Nurse: Ok. All right. Um But otherwise, you know, she hasn't replied yet. Um So just continue the antibiotic. Um I would keep kind of like a food diary. So, OK, I had this and this and this and just kind of keep track of how you feel after eating. So, is it after every meal, every snack or every beverage or is it certain things because we don't know if it's you know, if it is a UT I, um, which your urine did appear cloudy. Um, and it's hard again, if the urine is contaminated, it's hard to do a culture on it. So we can see what kind of bacteria it is. So we can get the appropriate antibiotics. So, um,
+Patient: All right. Well, I'll just continue with those.
+Nurse: Yeah. Yeah. And just kind of keep track again of, uh, I call it a food diary or, you know, um, food log, you know, anything and just write down notes of, you know, I felt ok eating this, I felt ok with that or I didn't feel good with this. Um, so that way we can kind of just keep track of it, you know, are your symptoms improving with the antibiotics? Is it more of a urinary tract infection or discomfort and such, or is this more of, you know, something within your G I tract that may be that, you know, you may have an allergy to, or sensitivity or something, you know. So, yeah. Um, and then your, your bowel movements, they're not like green or
+Patient: The normal color, normal?
+Nurse: Ok. All right. And, yeah, you know, the nuts, it's a good thing to kind of cut those out. So nuts and seeds. Um. Oh, yeah,
+Patient: I don't. No, no. Yeah. Uh, it's rare that I eat, well, I don't eat seeds and the nuts. The only nuts I've been eating is if I have, like, a protein bar which I've cut out. I haven't had any of that all week.
+Nurse: Mhm.
+Patient: So, yeah. No, I stay away from that. I know they're gassy.
+Nurse: Yeah. Well, um, that and sometimes those little bits and pieces of nuts and seeds and such, they can get stuck in the lining of our intestines which then can cause abdominal discomfort. Um, yeah. So, which is, you know, another good thing just to keep track of is, you know, are there nuts in this, are there seeds? Um, [PHI-Personal]? You know what exactly is it that you're eating that's causing this irritation? Yeah. Ok. Ok. And, um, how's doing?
+Patient: Well he's doing ok. He's got a problem with his right hand. It's very, very bad arthritis and he, he's having a hard and even just hard time, even just gripping something, it really hurts him. Yeah. So that's a big deal for him cause he can't, I mean it's his right hand. He needs that hand, you know. So, um, he's got that going on. Um, he's saying is there anything he can use now? He has that like Voltaren stuff? Mhm. Rubbing that in. But I don't think that helped too much. I even have one of those braces you put on your hand. Mhm. What do you think that would help?
+Nurse: You could try, um, he
+Patient: Wore it a day or two and then he stopped.
+Nurse: Yeah.
+Patient: So, and he's going for surgery Monday on his eye. He's getting cataract surgery. Monday.
+Nurse: Ok, got it. Um, so yeah, you could try that brace, heating pad ice pack, you know, whichever one will feel better for him, you know, if there's, yeah, if there's arthritis pain, you know, so inflammation that ice pack or, you know, anything cool may kind of help with that. Oh, ok. That's good to know. Yeah. Um, is good. Um, what about Tylenol or any like pain medication? Well, he can't do
+Patient: Any Advil or the only thing he could do is Tylenol. So.
+Nurse: Right bye. Well, so I will check in with you definitely next week and just see how the both of you are doing and how you feel over the weekend. Um, you know, if anything happens over the weekend where you just don't feel well, um, you can always, you know, call the o after hour services. Um, I think we have, I think we have our Saturday clinic. I, yeah, they're
+Patient: There Saturday until like 11 30.
+Nurse: They usually say, yeah, I think, you know, some of that first come first serve. Um, but we can always, you know, fit you in otherwise if it's severe, you know, definitely go to the emergency room to be checked out. Ok,
+Patient: Will do [PHI-Personal]. You have a great weekend. Thank
+Nurse: You. You too. I hope you feel better.
+Patient: I do too. Thanks. You're welcome. Ok, bye bye bye
+Nurse: Bye.

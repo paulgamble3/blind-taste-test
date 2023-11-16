@@ -1,0 +1,36 @@
+Nurse: [PHI-Personal] speaking. How can I help you?
+Patient: Yes. Um Good morning. My name is [PHI-Personal]. I'm a patient of Doctor [PHI-Personal].
+Nurse: OK, good morning.
+Patient: And yeah, and I have been um um I tested again for a second time COVID. I was just getting off the meds last week and on Sunday, I tested positive again. So with,
+Nurse: So when did you first test positive?
+Patient: A I think it was the [PHI-Personal] or [PHI-Personal].
+Nurse: Yeah. So the thing is you, if you test yourself again that soon, you, you most likely are going to be positive. Um Sometimes we don't see this many value of people's systems for a couple of months at a time before they can actually test negative. So it's not that you um you have COVID again, it's just that you're, you're still going through um the emotions of, of COVID. But however, if you're, you know, you're feeling better for the CDC, it says that, you know, it's only a 10 day uh isolation period uh you after five days. Um and if your symptoms are, are feeling better or about gone, um and you uh don't have a fever, then you can go back into the public and just wear your mask for additional five days while around others. And then after that, that's it. So, you, it's not that you, um, are testing, you know, testing positive again. It's just that sometimes we see that people test positive for a month or so after.
+Patient: Yeah. Um, I, I guess I had heard that but, uh, I guess my other point was, um, that I have symptoms again, You know, I have so
+Nurse: You symptoms got worse or
+Patient: They came back? They were gone. I mean, I, I had, I took Paxlovid for five days, right? I was feeling quite a bit better and, uh, and then I went five days, uh, after that, which was Sunday was the [PHI-Personal] day. So that was day 10, if you will, right after first test positive, I had no symptoms until, until Sunday morning when I got up, I had a sore throat headache, runny nose, the whole deal all over again. So that's why I tested. So my question is, do I need to do anything different?
+Nurse: Um, let's see, I'm gonna let doctor since you're saying your symptoms came back full fledge, I'm gonna let him give us recommendations on this. Um, let me see something. I think he is. Well, it's gonna be the provider because he's actually out on today. So, let's see. Um, tell me your name again. Well, no, your name is [PHI-Personal]. Give me your date of birth.
+Patient: October 3rd, 1946. Yeah, I don't have a temperature. I just checked it and it was like 97. Ok.
+Nurse: So your first test was on [PHI-Personal], right?
+Patient: Uh, correct. Do you have the records there? Are you seeing them?
+Nurse: Well, I'm looking, I'm, I'm ok. I do see you could via phone. I was just kind of looking at the labs. But you called, then you must, you did a home test,
+Patient: Right? And then I did the test with Doctor [PHI-Personal] at the, ah, uh, emergency emergency area there. What you call it
+Nurse: Urgent care? You want ur care as well? Yeah. And then you, so you took the Paxil for the five, for, um, for five days, the full five days. And then you say you, you felt like you were better, everything was gone, every symptom was gone,
+Patient: Everything was fine. I was healed. And then I, when I waited five more days with the mask on inside and all of that and then basically Sunday felt crappy
+Nurse: Sunday. So yesterday, yesterday you woke up feeling bad.
+Patient: Yeah. Actually I went to bed with a sore throat and I was very suspicious on Saturday night, which would have been day nine, day 10, came around on Sunday and I took the test that, that I had it tested positive again. So, my question to Doctor [PHI-Personal] is, what should I be doing? Is it just, I, I don't know whether you go back on Paxlovid or not. Do you, do you, I don't
+Nurse: Think they will put you on another round. I'm not like, I'm not the doctor but, uh, um, but I've seen that, I don't think they will put you on another round of Paxlovid. Yeah. Um,
+Patient: That's probably a better thing because I did seem to have side effects with the medication. I think I had hives from it. Oh, really? You know, I, I called in and spoke to, uh, somebody on this line and, uh, they gave me some advice. My preference was I started getting it at like day three or four on the pa 11. And I basically, I said at the time that I just as soon finish the dosage and put up with the, what might, might likely be hives. And, uh, which is what I ended up doing. I, I finished the full five day paxlovid dosage, right?
+Nurse: Ok. So, so right now today, what your symptoms? I hear you coughing. Are you coughing anything up?
+Patient: No?
+Nurse: Ok. Dry cough. Um, are you still having that sore throat today? Yes. Ok. Headache. Uh, I'm sorry. Headache, headache. Ok. Anybody eats,
+Patient: No,
+Nurse: And no fever, correct? Um, any nausea, vomiting. No, any loss of appetite. Uh, no loss of smell. No. And are you congested nasally?
+Patient: Yes. The runny nose and fatigue. I'm quite fatigued all over again. Yeah.
+Nurse: Ok. Any other symptoms?
+Patient: Uh, no, I don't think so. Ok. I didn't catch your name? [PHI-Personal]. Who am I talking to
+Nurse: Again? My name is [PHI-Personal]. How do you spell it? It's [PHI-Geographic] A.
+Patient: Ok, perfect. Thank you.
+Nurse: You're welcome. So what I'm gonna do is I'm going to get this over to the covering provider and see what recommendations that they have for you. Um We got you tested, first tested positive on August the [PHI-Personal]. Um from there you started the paxlovid um and you, you felt better. Um and then as of Saturday night, your throat um began to hurt, you woke up the next morning and you had the rest of the symptoms that you're to me now, correct?
+Patient: Ok. And I took the test on Sunday yesterday.
+Nurse: Yes. Ok, so I'm gonna send this over and someone will be giving you a call back. Ok. Alrighty, thank you. Thank you.
+Patient: Ok, bye bye bye.

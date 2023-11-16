@@ -1,0 +1,17 @@
+Nurse: Hey, they put me,
+Patient: Do I have [PHI-Personal]? Do I have [PHI-Personal] at [PHI-Geographic]?
+Nurse: Uh, no, ma'am. This is [PHI-Personal]. Uh, hold on, let me pull up your chart. Ok. What's your first name?
+Patient: [PHI-Personal].
+Nurse: Excuse me? Ok. Yes, ma'am. This is [PHI-Personal]. Um, I'm one of the care management nurses. I can
+Patient: Help you. She, she made an appointment for me for eight o'clock on [PHI-Personal] the second, eight o'clock is not good for me. Could I have it later in the morning or early afternoon? Mm. On that or some time on the, even another day?
+Nurse: Ok. Um, you'll probably have to call the actual office, um, or I could, let's see, let's see if I could, um, get in touch with them to change it. So, what day is not good for you? Well,
+Patient: It's just the time. That's not good.
+Nurse: Ok. And is it for your appointment or just for your labs? It's
+Patient: Just a lab thing. And I, we've, I've already gone there and just walked right in for the lab thing.
+Nurse: Ok. So, is at eight o'clock that morning? On the second?
+Patient: Not good for me.
+Nurse: So, would you like a later time you said? Yes,
+Patient: Yes. Either later in the morning or early afternoon.
+Nurse: Ok, soon as, um, I'm gonna send a message to them. Soon as I hear back from them, I'll give you a call.
+Patient: Ok? And thank you very much.
+Nurse: Ok. You're welcome. Bye now. Ok, bye.

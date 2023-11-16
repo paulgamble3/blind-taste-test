@@ -1,0 +1,38 @@
+Nurse: Good morning. This is [PHI-Personal]. Can I help you?
+Patient: Yes, [PHI-Personal], this is [PHI-Personal]. Well, good
+Nurse: Morning, sir. How are
+Patient: You? Fine, thank you. How about yourself? Oh, I'm
+Nurse: Doing ok, thanks. Good, good. Doing ok. How have you been feeling
+Patient: Fine? Thank you. Yes, busy,
+Nurse: Busy, busy is good.
+Patient: Yeah, better believe it. Absolutely.
+Nurse: Yeah. Have you been able to see any doctors recently?
+Patient: No, I think the [PHI-Personal] uh [PHI-Personal]. I uh, I see Doctor [PHI-Personal]. Ok. Yeah. And the week before I get blood drawn to get my PSA number. Uh, yeah, we're watching that number. Ok. Yeah, that's where we are.
+Nurse: All right. No, recent medication changes.
+Patient: No. No. Well, I did have that allergy. Well, I was taking uh Claritin and uh Benadryl and uh a z-pak. But uh, I, I was about three weeks I had that episode and I found out it was from uh, whenever after I cut the grass that evening, then when I went to bed, my no nose would start clogging up. And uh, so I found out I need to wear a mask when I mow grass. Oh, ok.
+Nurse: Yeah.
+Patient: My doctor said that uh those fires that they had out west, out there in [PHI-Geographic]. Oh, that smoke came this way and settled well with the mountains that we have here. It settled down between the two mountains and, ah, that's what's causing a lot of problems with, uh, grass. No kidding. Yeah, that's what she, uh, attributed it to. Got you. Ok.
+Nurse: Well, at least you got to the bottom of it. That's a good thing.
+Patient: Yeah, because I had 33 weeks of that episode and I thought I was getting it, getting over with it and then Bingo, I had it again. Oh, yeah, I guess I should have played the lottery. Yeah. All right. Throw a little funny in there. Ok. Oh, yeah.
+Nurse: Goodness. So, everything's been ok. Urinary wise. Yes. Yeah.
+Patient: Ok. Yeah, I'm still taking that water pill every morning. Yeah, I know. Yeah, that's helping me. And, uh, that's about it. No pain, no blood, nothing like that.
+Nurse: Ok. Have you been getting up during the night
+Patient: At all? No, surprisingly, I've been sleeping right straight through, I guess because all this work I've been doing during the day. I just die.
+Nurse: Right. Right. No, I can understand that. You fall into bed and you're fast asleep.
+Patient: Yeah, that's a good thing. Yeah. Life is good. Ok.
+Nurse: Have you been making sure that you're drinking
+Patient: Enough? Yes. Uh, [PHI-Personal] has also been helping me because I've been working outside and, uh, she, I got this yeti cup and, uh, she feels that and then, uh, there's a chair there for me, sit down a time to take breaks and drink water. Oh, good. Yeah, especially the, the couple days has been like nineties and then it hit 101 day. Did it? Really? Oh, my goodness. Yeah, that's hot.
+Nurse: Yes. Yes. Absolutely. Yeah. Absolutely. Well, make sure you stay careful with the hydration because I'll tell you what, as you start to move into the more consistent hot, humid weather, we always see some dehydration cases pop up, so just be super careful with that.
+Patient: Ok. Um, I realize that, uh, I'm doing, uh, and [PHI-Personal] does too. My wife and, uh, yeah, she's been helping me and I've been, uh, I, uh, she said you've been using this yeti cut more often now and I said, yeah, I think I, I like it and not only do I like it but, uh, I enjoy drinking. Yeah, especially with the hot weather.
+Nurse: Yeah, that's important. Yeah. Absolutely. Ok. Well, I'll get everything updated here in your chart and I'll touch base with you next month.
+Patient: Ok. Next month will be [PHI-Personal] and then like I said, the [PHI-Personal], I'm pretty sure that's when my doctor's appointment is for doctor [PHI-Personal]. Perfect.
+Nurse: Yep. Ok. Well, you take care of yourself. You call me in the meantime if you need me. Ok.
+Patient: Ok, I can do that. All right. You, I'm happy. I got a hold of you right away here today.
+Nurse: I know you were lucky. You lucked out.
+Patient: Exactly. God is with us. Ok. That's the truth. Yeah. Ok.
+Nurse: All right. You take care and I'll talk to you soon
+Patient: And you do the same and enjoy the summer.
+Nurse: Oh, thank you. You too.
+Patient: And thank you so much. You're
+Nurse: Welcome. Mhm. All right. Bye
+Patient: Bye. Bye bye now.

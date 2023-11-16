@@ -1,0 +1,30 @@
+Nurse: Hello, this is Sco at the Pulmonology [PHI-Geographic]. How can I help you today?
+Patient: Oh, yeah, I'm sorry. Yes. So, how you doing, [PHI-Personal]? This is [PHI-Personal].
+Nurse: Hi, how are you?
+Patient: I'm doing all right. Um, I was calling, um, to see if we will be able to, uh, reschedule [PHI-Personal] appointment for tomorrow. He, uh, his PC P that day and he also, uh, she wants him to, uh, have a PT tomorrow as well.
+Nurse: Ok. Oh, that's a busy day, huh? Yeah, let me open up his schedule real quick. His birthday is 10, 10, 1988. Right. That's correct. Ok. And he was gonna see [PHI-Personal] at 11 20. Let me see what he has, what she has open now and this was at the main Temple location. Do you want me to see if there's something else at Genes? Like you want me to look at both places, Genes or, um, the main temple?
+Patient: Um, sure. Um, does she come over there to, um, come on?
+Nurse: No. No. Well, so she, she doesn't go over there, but I could see if maybe there's any openings for Doctor [PHI-Personal]. I mean, I know he's booked out but once in a while they'll be like something like someone canceled or something. So let me just look and see really quick there. Oops, hang on. I got really lucky the other day someone needed something and like their doctor had opening like the very next day at like a perfect time. I know I was like, let's just, have you come in um, that time. So let me just check real quick for a doctor for um no poop he's only at in September. Ok, so let me go back to the main I'll still schedule and see for me and
+Patient: He still is on the schedule for a though right? For Doctor [PHI-Personal].
+Nurse: Uh yes. [PHI-Personal]. Yep. Yeah. Yeah. Yep he is still there. Ok. What about do you wanna do Friday [PHI-Personal] instead at 11 20?
+Patient: Um sure wait. Yeah that's uh
+Nurse: Yeah or would that be like I mean it's a busy week but at least you don't have um. Ok it all on the same day so we could do hang on let me look this real quick. Yeah so we could do 11 20 but just on Friday instead [PHI-Personal]. Ok. Alright well I got you scheduled for that. I'm gonna cancel this one for tomorrow and then if anything else comes up let us know.
+Patient: Oh ok. All right so that will basic that will basically be around about the same time.
+Nurse: Yep it's the same time as what you have for tomorrow. It's just on Friday. So it's at 11 20 it's set for like a 30 minute appointment, same place and everything just to double date. What about,
+Patient: Um, next week?
+Nurse: Oh, do you want me to go back and look for next week instead? Um, let me see if they have something.
+Patient: Uh,
+Nurse: Ok. So the next one would be Wednesday the [PHI-Personal].
+Patient: Ok. I think that would actually be, uh, original one or I think she had one for like the beginning and then the [PHI-Personal], right? Ok.
+Nurse: Um, do you wanna do that one instead? She does have an [PHI-Account] and then she has [PHI-Account]. But I know those are too early, probably too early.
+Patient: Uh, what, what was the latest one? The, so
+Nurse: The latest one was 11:20 a.m. but there's also one at 9:50 a.m. or like 9:20 a.m. if you want, this is Wednesday the [PHI-Personal] May 20
+Patient: Fourth. Um, I could take, I could take the, uh, the, uh, 11,
+Nurse: 11 20. Yes. So you wanna do that on Wednesday the [PHI-Personal] instead of [PHI-Personal]? Yeah, the, the, I
+Patient: Know he has to get fitted for hand splints because I know he had it basically, uh, actually, uh, yesterday, but the, uh, hand splints, they, he has to get those customized for the most part. His are very, very, so I don't wanna you know I'm like ok, [PHI-Personal] but I'm not too sure like when he goes to see and doctor and PT probably do another one for the [PHI-Personal] and [PHI-Personal]. So I yeah
+Nurse: That's a lot covered. Ok, so I'll have Wednesday then May [PHI-Personal] at 11 20. Ok. Ok. All right. Well good luck with all the appointments. Thank
+Patient: You. Uh uh the the [PHI-Personal] for Doctor [PHI-Personal]. What time is that again?
+Nurse: Oh, in August, that's at 4:20 p.m.
+Patient: Ok. So that's the later one. Ok, I got you. Mhm. Alrighty.
+Nurse: Ok. All right. Well, thank you. Thank you. You're welcome. Bye bye
+Patient: Bye bye bye.

@@ -1,0 +1,59 @@
+Nurse: Good morning. This is one of the nurse, case managers here with Doctor [PHI-Personal] office. How can I help
+Patient: You? Hi, this is [PHI-Personal]. I'm finally getting back to you. Hi, [PHI-Personal].
+Nurse: How are you doing today?
+Patient: Well, I'm doing pretty good, I think.
+Nurse: Oh, good. I'll take that. That's a good thing. Give me one minute here. I'm fighting with the computer. Ok.
+Patient: You too. You have to fight with the computer also, huh? Yeah,
+Nurse: This thing is kicking my butt today.
+Patient: Uh, oh, well, you have to tell them to get you a new one.
+Nurse: Well, I don't think it's the computer as much as they're updating the system when they work in the system. It likes to glitch on me. There we go. Ok. So I got you all pulled up here when I was looking at your chart here. It looks like you were doing pretty good.
+Patient: Yes. Uh, I was, and I have to find out if I still am. Um, I, I gave him a blood sample, uh, for PSA and testosterone on Friday. They did not get back to me yesterday, which they usually do. And, uh, if I would have thought straight I would have tried to call them before I called you so I could give you the present number. Ok.
+Nurse: Things we don't, we don't do that lab work from what I'm seeing.
+Patient: No. No, you don't? No, that's at the, uh, [PHI-Geographic]. Yes. But you've been keeping tabs on it, I think.
+Nurse: Well, do you have any questions or concern, like, any symptoms I should say?
+Patient: Well, we, uh, my wife and I both all last week had, we're pretty sure it was just a cold because the only symptoms were cold, like symptoms, runny nose. She was coughing much more than me. Uh, sinus drainage, that kind of thing. So, she's got some over the counter stuff and we're pretty much over it. Although both of us are still blowing our nose frequently.
+Nurse: I fully understand that. I feel like I, I feel like that's almost everybody these days.
+Patient: Yeah. Yeah, we're finding out that, uh, many people have the same thing going on must be a really virulent. Uh,
+Nurse: Well, not only that is our immune systems have been taxed and tax and tax. So, it's one of the things where we're all kind of in the same boat along those lines.
+Patient: Oh, yeah, I hadn't thought of that. Huh? Well, uh, the good part for us is that the worst is passed on that too. So, uh, one thing I was wondering about, uh, uh, excuse me, I was in the store buying some medicine last week and, uh, ex, the, the difference between expectorant and, uh, decongestant. I know they're not the same. I'm thinking that a decongestant is something that would sort of, uh, clear your sinuses if you had a, like a head cold, uh, or stuffed up, uh, nose, is that, would that be correct on the decongestant or is that only a, to decongest your lungs if, if you have a cold, a chest cold, Um,
+Nurse: When you're talking about um, like a decongestant, you're talking like Sudafed or
+Patient: Uh yeah. Um I put, put them away because I didn't need them any anymore. Uh I think the one of them I got was epinephrine and I think that might have been a decongestant.
+Nurse: Um I don't, uh I don't think you necessarily get epinephrine generally. Those are those come with the, the EpiPen. Uh pseudoephedrine is a um decongestant.
+Patient: Ok.
+Nurse: So those help to decongest. Um They help decrease the inflammation versus, and um help on that front. Uh, expectorant work by thinning mucus.
+Patient: Ok. Would, would that be mucus that you might have in your lungs? Yep. Ok. And, and mucus in your nasal cavities?
+Nurse: Yeah, they both, they can work, they work hand in hand a lot of the times they work very similarly. Um Just this, the decongestant can help decrease inflammation and along in the sinus cavity in the upper airways versus the expectorant is merely working on the mucus itself.
+Patient: Oh, ok. Uh So to reduce mucus. Uh what mucus production or shall I say we would just want to use an expectorant?
+Nurse: Um, yeah, and the expectorant doesn't change the amount of mucus you have. It just allows you to get rid of the mucus, which is the end goal because if that mucus sits, that puts you at a high risk for pneumonia.
+Patient: Yes. Yes. Ok. And that would be the case even if the only symptom was in your head as like stuffy nose and all
+Nurse: That. Yes, that'll help the, that'll help thin out everything in your sinus cavity as well. Ok. All right. You just have to be careful because a lot of times this, um, Sudafed and such, um, interact with BP medications with. So a lot, they're not generally recommended for a lot of people, but when I'm looking at your list, you look like you should be fine with it.
+Patient: Yeah. But my wife is on a, uh, BP pill. So it would be good if she did not use anything that had Epinephrine in her pseudo.
+Nurse: Yeah. A lot of the, um, cough and cold medicines interact with BP medications. It's generally, um, like you look, you'll see, has a heart on it. Um, is one of those ones that works well with BP medication.
+Patient: Ok. I saw in their box one of them said Cor BPH and it had the hard on it. So that must have been one of those that you just mentioned.
+Nurse: Yeah, that's exactly what that was.
+Patient: Ok. All right. Um, for general health questions, I, I guess I don't have any right now. We're, we're doing ok that way
+Nurse: Good. And speaking of medication, I just wanna make sure, do you need any refills on anything, any new scripts since we're in a new year now?
+Patient: Um, you know, I don't think so. Let me, let me check them. I think you did do one of them for me here a couple of months ago. Ah, see, [PHI-Personal]. When, uh, why aren't they gonna tell me how many refills there are? Oh, refills one by [PHI-Account]. Uh, let's see. I don't remember whether that was you or my urologist or that is Doctor [PHI-Personal], my urologist.
+Nurse: Which, um, which medication is
+Patient: That? That's, I'm looking at the Tam [PHI-Personal]. Um,
+Nurse: I have doctor [PHI-Personal] listed for that.
+Patient: Ok. All right. Well, maybe I should continue that since it is a, for a urological situation. Um, let see, I guess
+Nurse: I him a call on that one. Pardon? I would give him a call on that one.
+Patient: Ok. But not until after it's filled this last time. Right.
+Nurse: Yeah. And then you can give them a call when you need it, um, when you're on your last refill there.
+Patient: Ok. All right. Um, right. Oh, right. Now, the only other prescription, uh, prescriptions I'm on are related to my, uh, cancer treatment. Ok.
+Nurse: Any changes in those,
+Patient: Uh, not, not to report now, but frankly, I suspect there's going to be a change because I think there is a change going on in, in me. Ok. I had a, uh, pet scan yesterday to see where it is. It was, uh, routine to evaluate the radiation treatment. I had, uh, in, uh, [PHI-Personal]. I'm sorry, [PHI-Personal], it was, it was doing real good as I think I told you, and you had the record there of the conti continuously dropping PS A and testosterone. Yeah. And, um, last month that, that was that way, the beginning of [PHI-Personal] it was 0.37. That's why I was so eager to learn what the reading is from last Friday's sample, uh, because I've developed some bone pain and, uh, I actually, uh, a little afraid to get the results of the scan yesterday, but, you know, we got to know. Mhm. Ah, so what an answer to your question? Because I would, I fear there's a change going on inside of me, uh, that they probably will end up changing medications. My, uh, medical oncologist in answer to a question I gave her, told me that the abiraterone first level chemo that I've been on for three years, uh, oftentimes doesn't remain effective more than a year or two. And as I said, I've been on it for three years now and it, you know, it's just been work wonders and now all of a sudden it's in the leg. This bone pain is starting up. It's less than a month because I went, I had a, uh, appointment, my oncologist left [PHI-Personal]. I don't know if I told you that. So, last month I had a regular appointment. Well, yeah, [PHI-Personal], early [PHI-Personal] and I met with, uh, her physician's assistant and I didn't have any bone pain to report then. But I think it was probably the week after that, I started feeling it in my, uh, femur, the left hip and, uh, the two of the metastatic spots are at the top of my left femur. So that's it. It was just a coincidence that the pet scan was planned for yesterday, but it was very timely. So, uh, Friday, coming up here, uh, Lucky Friday the [PHI-Personal], I, uh, I go to my radiation oncologist to get the results of the scan. Then I'll know what will happen as far as any changes in treatment or medication. Uh, you, you are keeping track of those medications, right? So, when you would call next month, I need to be sure, I tell you of any changes that are, yes,
+Nurse: We are
+Patient: Anticipated. Ok. All right. Uh, as of now though, everything is the same as it's been. All
+Nurse: Right. Well, that sounds good there. Um, so we'll just keep an update there if anything changes, you let us know, um, everything else is looking good. Do you have any other questions or concerns for me?
+Patient: Mm. No I don't think so. Right now I'll probably think of something that's been wondering me for uh probably a month or more but I right now I couldn't tell you what it would be. Ok.
+Nurse: Well if you think of it just give me a call. Ok.
+Patient: Well that's alright so we can it's ok to call you in between months conversations.
+Nurse: Yes if if anything comes up you have questions, you have concerns, you are worried about something. You can definitely give me a
+Patient: Call. Ok. All right, I appreciate that very much. All right. Well ah that's all for now. All
+Nurse: Right. Well you have a very good good day.
+Patient: Ok, I'll try you too.
+Nurse: Thank you. Mhm.
+Patient: So long now. Thank you. You're welcome bye
+Nurse: Bye bye.

@@ -1,0 +1,33 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, Carry. This is [PHI-Personal] calling. Uh, I'd like if you could. Hi, how are you doing? I'm doing good. How are you? Ok. Uh, uh, if you could, uh, renew a prescription for [PHI-Personal] for metoprolol. Oh, sure.
+Nurse: Let me jump on his chart here real quick. Ok. How's everything going with you? Are you doing better with the, the new medication?
+Patient: Uh, I guess I just wanna ask you, well, not the best, but I really don't wanna take any other medication. Um, uh, I'm trying to go walk more and do a little bit more exercise. Uh, I just wanted to just a minute to get my papers out here. Yeah.
+Nurse: Oh, my computer just put up on me. Ok. What's [PHI-Personal] date of birth?
+Patient: Hello? Are you there?
+Nurse: Can you hear me? Ok. What's his date of birth?
+Patient: Uh, [PHI-Account].
+Nurse: Oh, jeez. All right. Well, my computer has froze up, so, all right. So he needs metoprolol refill on the metoprolol? Ok. Is that all that he needs?
+Patient: Yeah, that I, that, yeah, that I have so far anyway. Yeah.
+Nurse: And what pharmacy,
+Patient: Uh, [PHI-Personal].
+Nurse: Ok. Yeah. Once I figure out what the heck's going on with my computer. Both my screens just froze. So I'll, uh, I will send that in and make sure we get that filled.
+Patient: Ok. Now, I just wanted to ask you a question. I, uh, started taking that on the eight, yeah, on the [PHI-Personal]. And, uh, I think I took it up at 8 30 every night, up until [PHI-Personal], which I took at 7 30. Mhm. Does that make a difference?
+Nurse: No, that's fine. No, no, it would make a difference if you started taking it like, three in the afternoon, you know. Well,
+Patient: I just wanted to say that in [PHI-Personal], I took it at 6 45 and [PHI-Personal] at six and then from that then on I was taking it at eight o'clock. Does that make a difference then?
+Nurse: No, I mean, that'll be fine but definitely try to keep it consistent daily. So, find what, you know, figure out where it works best for you. If it works best for you at eight o'clock or if it works best for you at six o'clock, figure out which one and just keep it at that.
+Patient: Ok. Well, I've been taking it eight at, um, well, so you could take it, uh, at six o'clock but not really go to bed. Is that what is that? Yeah, I
+Nurse: Mean, that doesn't make you tired when you take it.
+Patient: Um, yeah. Yeah, I guess Yeah.
+Nurse: So if you want to take it at six and it makes you too tired, then maybe you should wait until later. You know what I mean? So that you're not putting yourself to bed at seven o'clock, you know what I mean? Uh huh.
+Patient: Uh huh. Uh, so
+Nurse: That's what I mean, you figure out where works best for you if it works good for you to take it at eight o'clock. So then you kind of wind down and you're ready for bed, then at whatever time you go to bed is good. If you wanna take it at six, help you get through the evening. Um, you know, with less anxiety and things like that and then you can easily go to bed at your normal time. That's fine too. But whichever time it is you wanna, you take it at the same time every day?
+Patient: Uh huh. Well, well, uh ii I really don't want another pill added on until, you know, like two. I really don't want another one added on. So, um, so I should just stick with it with the eight o'clock then if
+Nurse: That's what works best. Yeah, that's what I would
+Patient: Do. Ok. Ok. Then so
+Nurse: And then you go to see when do you see Doctor [PHI-Personal] soon? Right
+Patient: On [PHI-Personal]. Mhm. Ok,
+Nurse: Perfect. So then yeah, so you can discuss that with him a little bit further and he can, you know, evaluate you and, and see what he thinks too.
+Patient: Yeah. I, I should have kept a later, I guess. And I didn't, that was another thing I guess I should have done, kept a later. Like, what time I went to bed and I slept and stuff and I didn't do that either. So
+Nurse: That's ok. You could do it from now until [PHI-Personal]. You know, that we still give him a little idea of how, how things are going with it so you could try that too.
+Patient: Ok. All right then.
+Nurse: All right, Sandy. If you need anything else, let me know and I'll make sure I get this, uh metoprolol in for Ernie. Ok. Thank you. You're welcome. Bye bye.

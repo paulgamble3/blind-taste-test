@@ -1,0 +1,26 @@
+Nurse: Great,I'mgladIreachedyou.Beforewebegin,Ijustneedtoverifyyouridentity.Canyoupleaseprovidemewithyourdateof birth?
+Patient: June ninthnineteen seventy eight.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great,thankyouforconfirmingthat.I'mcallingaboutyourcolonoscopytomorrow.Howareyoufeelingabout it?
+Patient: Well, I'm a little bit nervous. I have four kids,So I'm gonna have to do this prepwhile looking after them, and then after the testwhen I get home, I'm going to have to deal with four kids.
+Nurse: Iunderstandthatyou'refeelingabitnervousaboutthecolonoscopyandtheprep,especiallywithfourkidstolook after.It'scompletelynormaltofeelthisway.I'mheretohelpyouthroughthisprocessandmakesureyou'recomfortableandinformedeverystepoftheway.Doyouhaveanyquestionsbeforeweget started?
+Patient: No, ma'am.
+Nurse: Okay,great.Ijustwantedtocheckinandmakesureyou'redoingwellandthatyou'refeelingpreparedforyourcolonoscopyproceduretomorrow,August11that8AMwithDoctorEdwardChang.Doyouhaveanyquestionsso far?
+Patient: No.
+Nurse: Okay,great.Ijustwantedtoremindyouthatyou'llneedtoarrive30minutesearlierat7Andyourarrivallocationisonthe1stFloorofO'ConnorHospital.Doyouhaveanyquestionsabout that?
+Patient: No.
+Nurse: Okay,great.Ialsowantedtoaskyouafewquestionstomakesureyou'reingoodhealthfortheprocedure.Haveyouhadafever,chills,ormuscleaches recently?
+Patient: No. I haven't.
+Nurse: Great,I'mgladtohearthat.Ialsowantedtoletyouknowthatyou'llneedtoarrangeforaridehomeafterthe procedure.It'sessentialthatyoudon'tdriveyourselfhomeaftertheprocedureduetothesedationyou'llbe
+Patient: I do have someone who can give meride home.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Nurse: Great,I'mgladtohearthatyouhavesomeonewhocangiveyouaridehomeafterthe procedure.It'sessentialthatyoudon'tdriveyourselfhomeaftertheprocedureduetothesedationyou'llbeunder.Doyouhaveanyquestionsabout that?
+Patient: Now I think I understand.
+Nurse: Great,I'mgladyouunderstand.Now,Ialsowantedtoreviewthemedicationsthatyoushouldstopbeforetheprocedure.Youshouldstoptakinganybloodthinners,suchasCoumadinorPlavix,atleastfivedaysbeforetheprocedure.Youshouldalsostoptakinganyanti-inflammatorymedications,suchasibuprofenornaproxen,atleastfivedaysbeforetheprocedure.Doyouhaveanyquestionsabout that?
+Patient: Nope.
+Nurse: Okay,great.Ijustwantedtomakesureyouunderstandeverythingsofar.Doyouhaveanyquestionsformeso far?
+Patient: No.
+Nurse: make sure
+Patient: Well, yeah. I do. How long does this procedureeight.
+Nurse: TheGreatquestion.Thecolonoscopyprocedureitselfusuallytakesabout30to45minutes.However,you'llneedtoarriveearlyforpreparationandyou'llneedtostayforawhileaftertheproceduretorecoverfromthesedation.So,intotal,youshouldexpecttobeatthehospitalforseveralhoursonthedayoftheprocedure.Doyouhaveanyotherquestionsfor me?
+Patient: I can't think of any.

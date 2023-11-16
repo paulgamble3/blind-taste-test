@@ -1,0 +1,32 @@
+Nurse: Hi, this is
+Patient: [PHI-Personal]. Hello, this is uh, do you have a moment?
+Nurse: I do. What's going on? My dear?
+Patient: I wanted to, um, just, I don't know whether, whether you have anything to do with this or not, but um, I'm looking, I should have gotten it but the doctor's paper said that there was a transportation that I could um, a number to call which I called and um, that's not working and I don't know if, um, if she, if there's something else or I just don't understand. Um,
+Nurse: Hold on my dear. Let, let, let me, let me open your chart and double check. Ok.
+Patient: Ok, I'm I looking into here.
+Nurse: Ok. Are you doing ok today though?
+Patient: Yes, dear. Thank
+Nurse: You. Ok, good. My computer is moving a little slow so just bear with me.
+Patient: Alright. No problem. Ok. Can't find my papers either. Hm. [PHI-Personal].
+Nurse: Uh. Oh, ok. Let's see what we have here. I'm just looking for a telephone number maybe.
+Patient: Can you see where she has um, um, transportation?
+Nurse: Yes, I do. I don't see a phone number to call.
+Patient: What, what is, what is the name? What, what, what is the name that she has.
+Nurse: Uh, let's see. Oh, I don't have the name of the Transportation company. Did they send you something in particular?
+Patient: No. No. Um, may I ask one more thing? What does, what does it say? What? Because she wrote a couple of things she wrote about the Chhci. I think that's what it is, but I, I don't have that in front of me right now. I'm sorry. And then she wrote, she wrote something about home health care place. Ach sc, well, she wrote something about home health, which, that's fine. Right. But then alongside, you know, with that there was the, the, the, something about transportation and, and I don't, I, I don't know what that was. Ok. Let me see what it said.
+Nurse: Let me see if I can open that up here. See if there's anything else that
+Patient: Nurse navigate am b referral to th [PHI-Geographic] nurse Navigator. What's that, that the
+Nurse: Navigators? No, no, no, no, no. That's someone else that helps to coordinate things like, like something like this. Um, transportation. You have your
+Patient: Appointment? Yeah, I think that was it. I did call, I did
+Nurse: Call. Do you have the phone number that, that you, that you
+Patient: Called? I, no, that's what I can't find, I can't find my paper that I called a number and I don't know, I don't know what that was.
+Nurse: Ok. So tell you what, I, I can send them a message in regards to the transportation. Do you need an, do you need help to get an appointment that's coming up?
+Patient: Yes. I, when I go to the doctors I want to, um, see if I can get to Tampa, I have to get to Tampa and I wanted to talk to them to see just what that's all about for future appointments. Uh, and, uh, also perhaps this one, if that person that I ask, if she caves and doesn't go, I'm just thinking maybe I should just get something more reliable or I'm not quite sure what to do with that. Oh,
+Nurse: No, they usually coordinate with you, but I can send them a message and see if they can give you a call.
+Patient: Well, the thing is there, the thing is I did call, I did call, I did follow up on the, a phone call to them, I suppose it was, which I can't find the number and so forth and I, apparently this is what I came to understand that basically that was my insurance. That was going to be, no. Yeah, they didn't have a, uh, a record of me. Ok. So they didn't have a record of me. And why would they, I guess, uh, because I'm, why would they, so they sent, they gave me the number to, um, to another number and actually it was my insurance company with my insurance company. Uh, and, uh, of course I'm not covered for, for, for transportation with my insurance. So I don't know how, I don't know what the story is there.
+Nurse: Ok? What, so what I'm gonna do is I I'll send a message to get a little bit more information on my end in terms of the uh referral and then I will reach back out to you with an answer. Ok? Probably not today because it's the end of the day.
+Patient: Yeah, this appointment is for [PHI-Personal]. So I do have some time, but I don't wanna wait until the last minute. I'd like to start working, you know, get it done, or at least right now I'm lost, you know, as to what this is all about, I called somebody. Obviously, it was them. When I find that paper, I'll, I'll have what information they gave me, which was nothing that they don't have a record for me. They did mention, uh, they did mention, of course, that was my husband and I did, I remember from somewhere, uh, because at that, at that time, uh I was taking care of him and I had transportation to take him to the doctors, but he was in a wheelchair and so forth and so on. So that they did mention business, but they didn't mention anything. They said that we have nothing on s or something. Well, I don't know how they could but I thought so. That's what I'm wondering where she sent me or why would they have something on me. Number one, number two, I thought it was just a place I could go that would try to give me transportation to doctors. So I'm confused.
+Nurse: No, no, no, I, I think that they, they arranged for someone to bring you to your appointments and back home and they, I, what I think, I, the way I think it works is they'll call you closer to your appointment and they'll arrange, you know, a, a day and time that works for you to get to your appointment on time. But I've been so well
+Patient: And good. But they, they said they didn't, they couldn't help me, you know, and I, I'm not, they can't do anything for me. So they just put me in touch with another number, which was my insurance. I spoke with them and I don't have insurance for that.
+Nurse: Ok, I'll, I'll send them a message on my end and see what they say. Ok. All
+Patient: Right, sweetheart. Thanks a lot whenever you get back to me. Ok. Bye bye. Bye bye.

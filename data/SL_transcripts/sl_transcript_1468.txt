@@ -1,0 +1,16 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help you?
+Patient: [PHI-Personal]. Hi. This, this is [PHI-Personal] and I'm sorry, I didn't see your, your call. Oh, no,
+Nurse: That's ok. I was just making sure everything was ok. So I missed a call from you over the weekend.
+Patient: Uh huh. Yeah, I'm, I'm trying to prepare for my son who lives in [PHI-Geographic]. He came, uh, his wife had to stay in [PHI-Geographic] to take care of their six dogs. Uh huh. Yeah. So I haven't seen [PHI-Personal] in a long time and we're gonna really enjoy being with him for a couple of days. Oh,
+Nurse: Wonderful.
+Patient: I'm cooking now. And, uh, so I hope I get it done and I pray to God, I can take a nap later. Oh, gosh. Yeah, my back is really bad. So, anyway, there isn't anything new from what we've talked about before. Oh, ok. But, um, I appreciate you calling to check though.
+Nurse: Yeah. Yeah. No problem. No problem. Well, good. As long as you're, you're ok, you know, take it easy. Enjoy your time with
+Patient: Him. Yeah. Well, I'm a little worried because we've had beautiful weather here. We didn't get the snow that the stadium got, which is way south of us. So, uh, but it, the forecast now is for a storm coming on the day. He has to leave Friday or Thursday. So, and, you know, I can't help it. I, if I can, if I can get in there and text me that he's ok, then I'll be all right. And he'll get back to [PHI-Geographic].
+Nurse: Yeah. Oh, nice.
+Patient: That's what I do. That's part of my job. All right.
+Nurse: Oh gosh. Oh,
+Patient: Good. Well, I hope you have a wonderful Christmas. Thank you. Peaceful and enjoy family and uh thank you just really, you know, with the world happening, I'm so afraid for our country right now. Uh I try to think about it but, but it really is. I, I just worry for people with small Children and what's happening in the schools. It's just, it just, I, I cannot imagine what the parents will be going through when they find out what's happening and it's terrible. All right, I won't preach anymore.
+Nurse: That's ok. Preach away.
+Patient: Yeah. Well, ok then. Alright, I guess we're done and uh I'll talk to you again in a while.
+Nurse: All right. Well, hey, hopefully I'll talk to you after Christmas, but call me before and have a [PHI-Personal]. A very [PHI-Personal] Christmas.
+Patient: Yes, I sure will hope so. Thank you, Pamela. You're welcome. Bye bye bye.

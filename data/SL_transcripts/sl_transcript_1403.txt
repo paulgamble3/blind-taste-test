@@ -1,0 +1,19 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] and I got your message about my insulin and, uh, that's great. So,
+Nurse: Uh, so are you gonna have somebody that'll be able to get that for you? They do send the refrigerator?
+Patient: I'm not, I'm not going out of town right now. My brother is very ill. He's in IC, so I'll be home, uh, and if he gets, ok, then I'm gonna go on up to Tennessee, but it'll be after Tuesday, I'm sure. Ok. All right. Thank you so much.
+Nurse: Yeah, absolutely. Give me one second. I'm trying to get your chart pulled back up. I just wanna make sure there's nothing else I wanted to touch base with you on today. Hold on one second. Well, I certainly hope your brother gets better. What part of Tennessee do you go to?
+Patient: Uh, [PHI-Geographic]? It's close to [PHI-Geographic].
+Nurse: Yeah. Yeah. I'm familiar with that, that area. I used to live in [PHI-Geographic].
+Patient: Oh, wow. I love it up there. I probably, my daughter gets her house built. I'm probably gonna move up there with her.
+Nurse: Well, it's beautiful state for
+Patient: Sure.
+Nurse: Ok. Yeah. So they got that approved for you on that insulin. You should be good for a full year on that. Ok.
+Patient: That,
+Nurse: Yes, absolutely. Now everything ok with your other medications.
+Patient: Yes. No problems. Questions concerns.
+Nurse: Ok. All right. So I will follow up with you, um, around the middle of the week next week just to make sure you got the insulin. There are no problems and she said she expected it to be delivered to you on Tuesday. It would be Wednesday at the latest. Ok.
+Patient: Ok. Thank you so much. You
+Nurse: Are so welcome and you have a good weekend. I hope your brother gets better.
+Patient: Thank you. Ok. Bye bye
+Nurse: Bye.

@@ -1,0 +1,45 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. This is calling for my dad.
+Nurse: Hi, how are
+Patient: You? I'm good. It's, the weekend is wonderful.
+Nurse: Isn't that the truth?
+Patient: Um, ok. What I called for was, is there any way to have all my dad's records from doctor [PHI-Personal] sent to his primary care doctor at the VA that's what's holding up the prescription.
+Nurse: Oh, yes, I can request that. So, records.
+Patient: Yeah. As soon as she has all that, then she'll renew what prescriptions need renewed and yada, yada yada. Now we're trying to find out the ones that I did renew. We don't know where they went.
+Nurse: Oh, ok.
+Patient: That NovoLOG and Lantus out on the [PHI-Personal] of [PHI-Personal] and the [PHI-Personal] of [PHI-Personal] and they didn't come to my house.
+Nurse: So, you mean the, the, we don't know, were mailed but they just didn't get to their destination,
+Patient: Right. So she's looking into that now she's gonna call me back. But in the meantime, if we can get all that stuff sent even the beginning of the week, the doctor so that she just knows what's going on. She said he, she do. He doesn't, she doesn't need to see him, but she needs to know from another doctor what's going on and then the prescriptions get [PHI-Personal] in.
+Nurse: [PHI-Personal]. All right. So I'm going to send the message on over to the, um, office manager or if she's not working today, whoever is taking that job, roll on and asking for [PHI-Personal] W [PHI-Personal]. Born on [PHI-Personal] of 1930 three's entire medical records or like, what do you specifically need
+Patient: Just from when she started taking care of him? Ok, here we
+Nurse: Go. Ok, great. So, uh pretty much his EMR records from when he started with the practice last year. And that's the doctor show cho.
+Patient: Yeah. And I have a fax number. Go for it. [PHI-Account]
+Nurse: [PHI-Account]. Correct? [PHI-Personal]. And then after she gets the record, she'll be able to comfortably prescribe everything. So it's going through the va to be more cost effective.
+Patient: Yeah, because I said to I said to the doctor, I talked to the, the insulin doctor. She had said no, she said an outside doctor cannot just send to the pharmacy. You have to go through that. So what we'll have to set up is when they're ready to expire, get them to call [PHI-Geographic] to have them renewed or I can even renew them just so they go to [PHI-Geographic].
+Nurse: [PHI-Personal]. Excellent. So the only thing I'm doing right now is letting the [PHI-Personal] office know we need the records faxed to doctor at the fax number that you gave me and then va will then prescribe. So it's more cost effective. So it's more accurate and they'll get to where they're, they need to be and you'll still be able to assist in medication management and refills. Right.
+Patient: And as long as like if she feels she wants to change something, she just has to send it over to this doctor and then they'll put it through, I think it second channel, I guess is what it is.
+Nurse: Ok. And that's what they're, they're calling it a second channel.
+Patient: I, I don't know what they're called. That's what I'm calling it.
+Nurse: So, ok.
+Patient: You know what I mean to, you know, I guess they just don't wanna prescribe things if they don't know a doctor is doing that. I told him what was going on. I said it's really hard for him to get out. And I said, does he need to come and see you guys? And she says no, as long as doc, she said the doctor that you have at the nursing facility sends us any time she sees him send, you know what she's changed or what she feels needs done over to them, then they can get the prescription and if she needs something new, just put that in the fax saying that she would like to use this and then we, you know, we want the 90 days and have them send, I'm trying to get a hold of them to send all the meds directly to [PHI-Geographic] and send me the bill. But now I, I talk about 10 different people and, and it hasn't got there yet.
+Nurse: Ok. Well, with the first step, is this step and do you happen to know doctor first name? [PHI-Personal] spell that for me,
+Patient: [PHI-Personal] Gr [PHI-Personal] ce.
+Nurse: Oh [PHI-Personal]. There we go. Doctor [PHI-Personal] Gr [PHI-Personal] ce last name [PHI-Personal]. I have the fax number. Excellent. I'm calling the [PHI-Personal] office and sending a electronic message so it's covered both basis. Ok, perfect. Excellent [PHI-Personal]. Anything else on your mind right now?
+Patient: No, this is the end of the day. I'm out of
+Nurse: Here. Excellent. If I get any communication back, I'll call you and you let me know in the past, I can leave a detailed message on your phone line if need be correct. [PHI-Personal]. If I don't get a response today Monday morning, I'll open up the record. Make sure it was addressed. If not, I'll make a second phone call to the office. I will stay on top of the request for you.
+Patient: Yeah. So now we're now the doctor over there is trying to, to find where the medicines went.
+Nurse: I tell you Detective Columbo put on the
+Patient: Because I said, I said to her, I said, you know, I've been renewing these, they call me on the phone to, you know, the pharmacy calls to renew and I renew it and usually it'll come to me and I'm like, I haven't gotten anything and, you know, they don't tell you the whole name of it. They just give you the first however many letters and I really don't pay tax because I'm at work. So I'm just saying yes, yes. Send it, send it, you know, the whole nine yards. But now I'm trying to get a hold of somebody to get these addresses changed. But I don't know where it went. I said to her, I said the has to come refrigerated and so is the NovoLOG. So wherever it is it's no good.
+Nurse: Oh, how disappointing in what a waste. But you're right.
+Patient: But I mean, I, I couldn't figure out why they were order because I said to her, I said they're ordering Lantus and, and all that through care. I said it's like $[PHI-Personal]. She says, [PHI-Personal], you get three months for 25. I said, I
+Nurse: Know it's amazing the price differences. You just have to be a wise consumer and keeping [PHI-Personal] advocate like you are. And then as far as [PHI-Personal], they should be able to tell you the address that was on the box. That should be like a basic fact that they have in their computer. Yeah, once,
+Patient: Once they get it, but see a lot of them were coming to me, like, bottles of pills were coming to me and I was taking
+Nurse: Them over. Right. But [PHI-Personal] Pharmacy was the one sending them to you. Correct?
+Patient: Yeah. Yeah, they send the, um, whatever they couldn't get, um, to send.
+Nurse: And are they sending it the post office fedex? Um, up,
+Patient: Si, don't it? I think it comes fedex actually. So, they're, they're tracking it now for me to see where it went.
+Nurse: I was just gonna say no matter what they should all have a tracking number. Fedex has a beautiful, like on online. You can even go to fedex website if you have a tracking number and put it in yourself.
+Patient: Yeah, but I don't have the tracking number. So doctor, the, the endocrinologist is looking into all that for me. She goes, I'll get back to you at the beginning of the week if I don't talk to you today. I said ok, perfect,
+Nurse: Great. All right, they are on top of it. I'm on top of your request. When I see your request on it, I'll give you a buzz back to let you know.
+Patient: Ok, I'll talk to you later. Thank you so much.
+Nurse: Absolutely. Him. Keep the open communication going. That's what I'm here for. Thank you. Bye bye. Have a safe fun weekend. Bye. Thanks.

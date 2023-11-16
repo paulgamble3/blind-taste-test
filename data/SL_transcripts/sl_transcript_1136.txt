@@ -1,0 +1,40 @@
+Nurse: Good morning speaking. How can I help you? Yes, I just received a call from you. My name is [PHI-Personal]. No, it wasn't for me. Did they leave a message for you? Uh They told me to uh call Co Health Care? No, [PHI-Account]. Uh I didn't catch the name. It was too quick. Ok. Ok. Hold on one second. Let me see if I can find who call you. Hold on. Ok, Mister [PHI-Personal], I'm gonna transfer you now. Hold one second. Ok, thanks. Welcome.
+Patient: Healthcare. This is [PHI-Personal].
+Nurse: Yes, [PHI-Personal]. Uh I guess you just called me.
+Patient: I did. You had caught our triage line. I'm one of the triage nurses.
+Nurse: I'm sorry, running up by me again.
+Patient: I'm one of the triage nurses for Cape Cod Health Care. Doctor [PHI-Personal] office. I, I had got a call that you were having abdominal pain.
+Nurse: Uh Yeah, I need to come in, have a physical and have uh my paying checked out.
+Patient: Ok. When did the pain start?
+Nurse: Uh So about a week and a half ago, I'd say
+Patient: Any nausea or vomiting. Uh
+Nurse: No.
+Patient: Ok. Any uh feelings of faint or dizziness.
+Nurse: Uh no,
+Patient: Any pain that's radiating to the back or to the legs.
+Nurse: Uh, a little bit of pain on my right leg, on the inside of my right leg.
+Patient: Ok. How is, has that right leg pain been going on for a week too?
+Nurse: Uh, no, it's, uh, it was there, but now it's kinda gone away.
+Patient: Ok. Any swelling in the abdomen. Uh, no. How are your bowel movements?
+Nurse: Uh, they're fine.
+Patient: When was your last one?
+Nurse: Uh, yesterday?
+Patient: Ok. All right. Can you describe where the pain is on the, on the abdomen, if it's all over or if it's in more the left side, the right side, upper, lower,
+Nurse: Uh, the right, lower side. [PHI-Personal] I had a hernia operation on, that's basically in the same area about a year ago, almost to the date?
+Patient: Ok. Have you been doing any heavy lifting or anything that could cause a flare up of that, uh, hernia,
+Nurse: Uh, a little bit of working around the yard and lifting and I don't know if I strained, uh, a muscle down there or, or what, but I haven't seen Doctor [PHI-Personal] in a while. So, [PHI-Personal] I should have, you know, a physical check up and what have you, you know, that sort of thing.
+Patient: Ok. Is, do you feel like you're in any acute distress that would prompt a visit to the, er, uh, no. Ok. Any fever or chest pain.
+Nurse: Uh, no.
+Patient: Ok. All right. I will get scheduling to give you a call. To see, uh, cause I can't see Doctor [PHI-Personal] schedule to see what's available. Are you wanting? Oh yeah, it would be time for a physical. So I think the physicals are booked out several months. Looks like you were here last in [PHI-Personal] of [PHI-Personal].
+Nurse: Yeah, that sounds probably about right.
+Patient: Ok. Yeah, it, it may be a while to get you scheduled in for a physical but maybe we can get you in for an appointment before that to address the abdominal pain. Ok. Ok. Are you ok with seeing any provider if Doctor [PHI-Personal] isn't available?
+Nurse: Uh, I guess as long as my medical insurance, uh, covers it, he's my primary care doctor. So.
+Patient: Ok. All right. I'll have scheduling to reach out to you shortly. Ok. Ok. Can you rate the pain in your stomach on a scale from 1 to 10 in your right lower belly?
+Nurse: Uh, probably about a four?
+Patient: Ok. And is that a steady pain or does it just come and go?
+Nurse: I kind of comes and goes. I mean, today it, yesterday it seemed to get better today seems to be, you know, a little bit better. So that's why I was wondering if it was a strain more so than something really serious, you know.
+Patient: Ok. All right. Well, I will get with Doctor [PHI-Personal] and let him know I'll also have scheduling to reach out. Ok.
+Nurse: Ok, great.
+Patient: All right, [PHI-Personal]. We'll talk
+Nurse: Soon. Thank you. Ok. Bye
+Patient: Bye.

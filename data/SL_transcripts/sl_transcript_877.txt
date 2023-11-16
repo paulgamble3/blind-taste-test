@@ -1,0 +1,104 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, good morning. This is [PHI-Personal]. I'm returning your call from yesterday.
+Nurse: Hi, [PHI-Personal]. Um, let me get you pulled up. Can you verify your birthday for me?
+Patient: [PHI-Account].
+Nurse: Mhm. Ok. Yes, it looks like I was calling you to get you in or to get you started with the CCM program. The Chronic Care Management program looks like [PHI-Personal] talked to you about it the other day, right. So I was just calling to um, re really get you started, get the ball rolling on it. Um, let me pull it over here. Did she kind of explain to you the, you know, purpose of the program, my role as your nurse, anything like that? Well,
+Patient: Sort of, but I, I, to be honest, I'm still not totally clear.
+Nurse: Ok. Hey, that makes sense. Um, so basically it's a call that you receive not in person and not telehealth or anything like that. It's just a call over the phone. Um, and depends on how often you want it. Um, some people wanna do it every month, every other month, every six months. Just depends on what's going on with your health. Um and it's basically just like a go between, helps you, you know, have better communication with your doctor. We can schedule appointments for you, do medication refills, we can talk to you about referrals, we can review imaging. It's just basically a direct line to someone that can help you with your health care instead of kind of what you'd experience calling the doctor's office, the different extensions and whatnot.
+Patient: What what if I had um a question say about uh blood work?
+Nurse: Yeah, we can help you with that too.
+Patient: Ok. Ok. We're just
+Nurse: To be your nurse basically.
+Patient: Yeah. Um The last time I, I had blood work done, um it included test for my thyroid T three T four TSH and uh the T three came back really high. So um and I was feeling really kind of hyper. So uh and it took forever for the doctor to get, to get back to me. So I just kind of stopped taking my, my Cytomel which is the T three. And uh you know, and I started feeling better and uh then she eventually got back to me and after a lot of back and forth, she prescribed um I had been, you know, cutting a 25 I think, a microgram pill in half. So I'd have like 12.5 a day and that was apparently too much. So she prescribed um to five micrograms. In other words, it would be like 10, going down from 12.5 to 10. And, um, so I, I think that's ok. I'm about, I'm about to get a blood test again. She suggested, you know, 23 months since the, the, uh, the other one was in February. So I'm gonna do it sometime this month. Um, but I was wondering if it's possible to get a referral to, uh, um, endocrinologist because I had one when I lived in [PHI-Geographic] and he, you know, he's very knowledgeable and my primary care doctor there was able to, to get me a good referral. It was a smaller practice. I'm sure than your practice. But, um, you know, my primary care doctor really knew all the doctors and I don't think Doctor [PHI-Personal] does. But, um, I know there's a few
+Nurse: Windows that we usually recommend. Um, yeah, I'll request that you get a referral to an endocrinologist. I know we have a couple in the area.
+Patient: Yeah, because it, it just seems to be like up and down and I, I think it's seasonal too and I just feel more comfortable having somebody that really specializes in that
+Nurse: 100%. Yeah. I would definitely want my thyroid played with by an endocrinologist, for sure. Yeah, I'll put that, um, request in for the referral. That's not an issue at all. Ok. Um, but usually, yeah, I can do that. That's no problem. Have you had any, any other medical events recently. Any healthcare activity?
+Patient: Mm. Not that I can remember. I don't think so.
+Nurse: Yeah. And no. Yeah, your, um, chart looks like you haven't had too much activity. Just sometimes there's things from other providers that we can't see. So that's why we like to ask.
+Patient: 00, no, no.
+Nurse: Ok, good. And let's see. So you understand, like, my role and the benefits of the program and everything like that after?
+Patient: And I could just call you with questions, you know, when they come up.
+Nurse: Yes, you can always give us a call. That's no issue at all. Um, if for whatever reason I don't answer, you're always welcome to leave a message and I will get right back to you. Um, the only reason I usually don't answer is if I'm on the phone with someone else. Uh huh. Um, but yeah, that's no problem at all. And is it, are you want to be called every month or every other month?
+Patient: Um, well, I mean, what if I don't have any issues or, or do you just, like, kind of check up on me? Is that how you
+Nurse: Check up? Yeah, if you don't have any issues, I mean, we don't, you can just say that it's no big deal. Ok.
+Patient: Yeah, because I mean, things are, are flowing along pretty well right, right now. But that happened to me last fall, you know, and, and I was really feeling good and then I tripped over cement parking block and broke a bone in my butt. So things can change in a heartbeat.
+Nurse: That's true. So, you wanna just do every month calls for a little bit and then, yeah. Yeah, if you feel that we need to space out, you're always welcome to change it. Ok. Ok, great. Yeah. Also, um, if you're able, I would love to go through your medication list just to make sure that we're the provider and everything is on the same page with what medications you're taking and whatnot? Ok.
+Patient: You want to do that
+Nurse: Now? Yeah, I have your list in front of me. Oh,
+Patient: Good. Because I, I don't have it in front of me. So
+Nurse: I got you. Um, so I see I have an albuterol inhaler. It's 20 not 20. I'm sorry. 90 microgram,
+Patient: Right? It's a rescue inhaler. Ok.
+Nurse: So it's just as needed. Yeah. Ok. AmLODIPine or Norvasc five mg tablet, right? Is that daily? Yes. Ok. And then Ascorbic acid or vitamin C 100 mg tablet daily.
+Patient: Um I think it's [PHI-Account]. Actually let me just check. Um, because sometimes it, it's hard to, to buy smaller amounts, you know. Hm. Um Yeah, it's [PHI-Account].
+Nurse: Yeah. Ok, [PHI-Account]. I have to get that. Um, then I have [PHI-Geographic] root extract. Yes. Is that a pill every day?
+Patient: That's right. Ok,
+Nurse: Great. And then Lipitor or atorvastatin 20 mg tablet daily,
+Patient: Right?
+Nurse: All right. Co Q 10 100 mg daily.
+Patient: Um let me see. I think it's 100 I probably put that down. Um hm. Yes
+Nurse: And then I have some Cosopt eye drops. Right? Is that how often do you take those
+Patient: Uh twice a day, morning and night?
+Nurse: Alright. And then Allegra 180 mg tablet daily.
+Patient: Um I kinda take it as I need it
+Nurse: Depending on what's going on outside.
+Patient: Mhm. Yeah.
+Nurse: Um that I have an Advair diskus inhaler. Right? All right. Is that one every day or as needed as well?
+Patient: Uh No, that, that's, that's one that you take every day. So it's twice a day
+Nurse: Med list looks like it's all right. It just doesn't have frequency on it. Um but I have a, what's this Ultravate ointment or halobetasol?
+Patient: Oh yeah. Yeah. Um that I take twice a week.
+Nurse: Alright. And then Atrovent nasal spray,
+Patient: Right? I take that um 3 to 4 times a day. Postnasal drip.
+Nurse: Ok. Mm. All right. And then a probiotic.
+Patient: No, actually I, I don't take those. I've just been, you know, getting it through food.
+Nurse: Ok. Yogurt is a good way to do that. Let's see. And then we have your Synthroid or levothyroxine. This is 50 micrograms. Yeah. Ok. And you take that an hour before breakfast before anything else?
+Patient: Um Yeah, at least, I mean I, I normally don't eat until noon so I take it when I get up in the morning, I do intermittent fasting. Oh,
+Nurse: Ok. And then I have that Cytomel, which we have is five micrograms which I know we already discussed that.
+Patient: No, that's um 2 10, 2, 10. Yeah. So it's a total of 10 a day. Yeah.
+Nurse: Magnesium 200 mg daily.
+Patient: Um, I think it's [PHI-Account]
+Nurse: Mobic or Meloxicam one tablet as needed. Ok. E
+Patient: Every day.
+Nurse: All right. And then I have a travoprost eye drops. Mhm.
+Patient: Is that once
+Nurse: A day? Do you take it around the same time as your other eye drops?
+Patient: Um, around the same time? I take it at night before I go to bed. Ok.
+Nurse: Um, they usually suggest that you take eye drops five minutes apart for best absorb. Oh, I
+Patient: Do. I, I do take it apart. Yeah. Good.
+Nurse: Just sprinkling things in as we go. Um, then I have traZODone 50 mg tablet as needed at night.
+Patient: What is that?
+Nurse: Um, it's a sleeping medication. It's also sometimes use an antidepressant but mainly a sleep medication. You know,
+Patient: I don't think I ever filled that. Um, I think the doctor gave me a prescription and told me I could do some research on it before I filled it and I decided I didn't like the side effects so I didn't fill it. Got you. So you can take that off. Will do.
+Nurse: And then I have Turmeric oil oral. So I guess a
+Patient: Pill. Oral. Yeah. Pill. Yeah. 11 a day. I don't remember the dosage? Hm.
+Nurse: It's over the counter. Mhm. Yeah. Yeah. Usually those dosages aren't on there to hunt for them. Um, vitamin B complex.
+Patient: Right.
+Nurse: Daily. Ok. And then vitamin K two oral.
+Patient: Right.
+Nurse: And let's see, make sure
+Patient: There's nothing else. Do you have the vitamin D D three? Vitamin
+Nurse: D three? Uh,
+Patient: But daily. And also I take fish oil.
+Nurse: All right. And then looks like on the other page, I have a predniSONE 10 mg tablet. Oh my
+Patient: Allergist just uh prescribed that because I was having some trouble breathing. Um it was like during that time this past week I guess it was or last week. Um you know where they had this alert for the polluted air? Mhm. Um and I don't know if that's what it was but I I kinda had trouble breathing so that's, that's why he prescribed it. It was a one time thing.
+Nurse: Ok, so it's not like a continuous.
+Patient: No. All
+Nurse: Right. All right. Well that's all the medications I have for you and I
+Patient: I just wanna say I just, I just had um another COVID booster so I think it's my third. I don't know.
+Nurse: Ok. Do you remember what day you had that on Sunday? Sunday? Alright, I will [PHI-Personal] that
+Patient: Off. Oh also also I had I had a Tetanus shot same, same day. Was it Tetanus? Uh that one? Yeah, just just the area. Yeah, whooping cough
+Nurse: On Sunday.
+Patient: Uh yeah because when I came for my wellness visit. They told me I should probably get a tetanus shot, so I did
+Nurse: Good. Ok. Yeah, I'll [PHI-Personal] those off of your care gaps. Um, I'm also gonna go through your care caps and send you a letter just with the other things to do. Um, it's not like you have to do them right now or anything like that. It's just throughout the year, 2023. So you'll have all the things complete before the year. Um, I know we wanna do an indo referral. Are you seeing any other doctors that I can put on that list for you?
+Patient: I'm sorry, say that again.
+Nurse: We also on the list of to dos, we also include different doctors to see. I know you said you wanted the endo endocrinologist and then assuming allergist as
+Patient: Well. Well, I, I have an allergist, I have a cardiologist, um, an eye doctor. Um, I think that's on.
+Nurse: Ok. And then we also will just, you know, check them off throughout the year or if you've already seen one after we put the list in, then I'll just [PHI-Personal] it off after we call after we talk next. Ok. It's like a running checklist, I guess just for you to make sure that we stay on top of everything with you. Right? Ok. Yeah. So that's that, and you should be getting that in the mail probably right after you get the, um, other letter from Miss [PHI-Personal] jo, that she sent you?
+Patient: Oh, I didn't know if she was sending one.
+Nurse: Yeah, she always sends a welcome letter. Oh, ok. But yeah, is there anything else I can help you with?
+Patient: No. No, I think that's, that's it. I'll
+Nurse: Probably call you one more time this month if I have an update from the doctor about the indo referral. Ok.
+Patient: Oh, yeah. You think that'll be a while?
+Nurse: No doctor to, usually takes a little bit longer than the other doctors, but not too much longer. Not when it's like a referral being put in.
+Patient: Yeah. Yeah. Ok. Ok. All right. Thank you. Of
+Nurse: Course. Thank you. If you need me, give me a call. Ok, I
+Patient: Will. Ok, thank you. Talk to you later. Ok, bye bye.

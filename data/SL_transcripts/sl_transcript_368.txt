@@ -1,0 +1,12 @@
+Nurse: Hi, this is morning.
+Patient: This is [PHI-Personal].
+Nurse: Hi, how are you?
+Patient: I'm all right.
+Nurse: Good. I'm pulling up your chart. Give me just one. All right, I got you pulled up. Um, so what I was calling for is to go over the care management program. Um, that doctor [PHI-Personal] is wanting for you and what that is, sorry. My voice is being weird. Um, it is on a recorded line. What doctor [PHI-Personal] is wanting is for his designated nurse just to give you a call once a month. Um, just to check with you, see how you're feeling, how everything's going if there's any questions concerns. Um, and she can also help with any prescriptions, test results, lab results, anything regarding your health. And it's to help keep doctor [PHI-Personal] up to date with your health in between the office visits. Ok. And then she can call, um, either in the morning or afternoon if there's a better time of day.
+Patient: Uh, it doesn't make much difference. Probably mornings might be better.
+Nurse: Ok. And then, um, it is billable on your insurance. Um, I just wanna make sure we have everything correct here. Give me just a second my computer doesn't wanna move fast today. So I've got the, uh, Medicare and the American Retirement. Um, I believe that's through [PHI-Personal]. Right. Yes. Ok. They keep putting it under different names. So we're trying to keep them all correct. Um, and then I'll also, yes, sir.
+Patient: I didn't know what that first thing you said was all I know is it was [PHI-Personal],
+Nurse: Um, in the system, for some reason, in our system it puts it under the American Retirement Medicare, but it is the [PHI-Personal]. So it's I think it's just a branch of the exact mailing address that it goes to. Ok. It likes to confuse us because we look at the card, we look at the card, it says that like why are we sitting under that? But I don't question the billing part that's out of my room. Um but iii I am gonna mail you a letter as well and when you get this letter, it will have the nurses' direct phone number on there as well. So at any time, if you need to reach out, you'll be able to reach out to her directly as well. Ok. All right. And I'll send that to the [PHI-Geographic]. Yes. All right. Well, I'll get that. Yes, [PHI-Personal]. Yes, sir. Ok. Alright. And well you have a great day today. Ok.
+Patient: All right. Thank
+Nurse: You. Thank you. Bye
+Patient: Bye.

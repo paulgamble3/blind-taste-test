@@ -1,0 +1,94 @@
+Nurse: Good morning. This is [PHI-Personal]. [PHI-Personal]. Hi, [PHI-Personal], how are you? Uh,
+Patient: Not too good. Not too bad.
+Nurse: Not too good, but not too bad. Right.
+Patient: Um, I was gonna call Optum Rx to find out what the story was on that medication that the doctor had ordered for my, uh, anxiety. Uh huh. And I can't remember the name of it.
+Nurse: Ok. Well, it, it was, it's Lexapro, um, for the, um, uh, the antidepressant and then it's hydrOXYzine for the anxiety. But she sent it, um, she sent it to your local pharmacy. She sent it to [PHI-Personal] for
+Patient: You. Ok. So I'll go down to [PHI-Personal], pick it up.
+Nurse: Yeah. Well, if they haven't, if they haven't let you know that it's filled yet, then you need to, uh, give them a call first because I wouldn't want you to go down and have to wait for them to fill it for you. So, she actually sent the Lexapro and, um, the hydrOXYzine there. What did they say at the hospital?
+Patient: Uh, they put me in psych [PHI-Geographic] for two days.
+Nurse: OK. And what came of that?
+Patient: I don't know. I still got anxiety. I still got depression.
+Nurse: Well, you're going to, um, did they give you any medications? I
+Patient: Don't remember if they did or not. Uh, they, they gave me my, my normal medication and I think they gave me, I think they gave me something else and I'm not sure what it was but, uh,
+Nurse: Did you ask them to share, um, the records with doctor?
+Patient: I think I did. And, uh, whether they did or not, I don't
+Nurse: Know. Ok. So let me look here real quick
+Patient: Cause I'm, I'm, I'm, I'm really down in, in the dumps. I'm really, I'm really hurting hard.
+Nurse: Yeah, I know you are and those medications will help you. Um, let me look here real quick. That's my note. Um, trying to see if they sent anything.
+Patient: No, if they didn't send anything, how do I get in touch with them so I can have them send it. You
+Nurse: Would have to call medical records. Um, let me, let me find the number for you. Give me one second, refresh my memory. Which hospital did they send you to? [PHI-Personal]? Right.
+Patient: Yeah, it was, uh, yeah, yeah, that's where eventually they sent me. I went to, uh,
+Nurse: [PHI-Personal] Regional first, right?
+Patient: Uh, no, no, I went to, uh, the division where I live. Um, for, uh, I can't remember where the hell I live.
+Nurse: Take a deep breath, try to calm yourself down and, and think if you're still feeling that anxious, why did they release you from the hospital.
+Patient: Well, they said I, I went through, uh, a prescription or not a prescription but I went through an interview with the psychiatrist and everything and I guess I gave all the right answers, you know, because they, they released me and, uh, and, and now I'm home.
+Nurse: Mhm. Now, do you have family members nearby?
+Patient: Yeah, I got, so I got a son that lives in [PHI-Personal].
+Nurse: Ok. So I would recommend getting your son involved. Um, let him know what's been going on with you and they, he,
+Patient: He does know because he's the one that picked me up at the hospital and brought me there and everything.
+Nurse: Ok. Well, let him know that you need him to be around a little more for the next couple of days until you can get those medications in your system and start feeling better. Yeah, because I, it's, that's a good idea to have somebody there to help calm you.
+Patient: Well, my daughter in law took me home last night from, uh, her house where, and, uh, she did a lot of talking and she, she was serious about, uh, you know, being concerned about me. In fact, uh, we talked about, I'm gonna book a flight to [PHI-Geographic] to go up there for a month or so to, to, to see what, what, what's problem. The problem is II, I, right now the feelings I have, I, I can't live in [PHI-Geographic]. [PHI-Geographic] is not my thing, you know, and, uh, I thought I could, you know, and, but, uh, my family and friends and everything are up north and I kind of wanna be near
+Nurse: Them. Yeah, absolutely. Of course, you would. So, go ahead, I'm gonna suggest do you have, um, an ipad or anything like that? Any type of, um, device that would allow you to um, face time with your family?
+Patient: I got a phone.
+Nurse: Ok. So, um, I would talk with them and try to schedule maybe later this evening when everybody's not busy, see if they can schedule for a little meeting with you and everybody talk and, you know, get together that way virtually for now until you can book your flight there.
+Patient: Well, I'm gonna be with him all day tomorrow. So, uh, we can do with some serious talking then.
+Nurse: All right. Yeah, if that's what you want to do, that was just a suggestion,
+Patient: Right? II I understand that I've already talked to my son and daughter in law and, uh, and, uh, talk to him, you know, about my feelings, you know, and how I feel like I, I wanna move to [PHI-Geographic] and, uh, and then they're back to me. I called my other son in, in [PHI-Geographic], talk to him about it and they're all in agreement, you know, whatever I decide I wanna do. Yeah. So it is, is happy with them. I'm in the process of talking to my sister now. She's, she's not available. She will be here in an hour or so, uh which has facilities where I could live. She's got a big house. She's got extra bedroom. So
+Nurse: Good. Good. All right. Um So then next step really, uh honestly, you have to really focus on whatever makes you happy and, and feeling calm and then get a hold of [PHI-Personal] and get them, make sure they fill that medication for you and go pick it up. Now that hydrOXYzine, the anti-anxiety medicine, it should work fairly quickly for you. Um, just know though it can cause some drowsiness. Um, so make sure that you don't have intentions on, you know, driving or until, you know how it makes you feel.
+Patient: Right. Right. Now, when I take, what's the there, once a day?
+Nurse: Yeah. Let me, let me, no, I don't believe it was once a day. Let me open it back up. It's three times a day. It's take [PHI-Personal] mg by mouth three times daily as needed for anxiety. Ok.
+Patient: Ok. Yeah. So that'd be morning, noon and night.
+Nurse: Mhm. Yeah. Yeah. Now, what about the other one? Let me just discuss that with you a little bit. Well, the other one, it should be once a day. Yeah, it's, um, five mg one time daily.
+Patient: Now, would that be in the morning or at night?
+Nurse: Um, you can check to see it doesn't specify, um, and some medicines affect others differently. So, you just have to see, you can start off taking it in the morning, but if you notice that it's causing you any type of drowsiness or anything that you don't feel comfortable with, then switch it to where you're taking it at night time. Ok. Ok. That's, yeah, when you're taking those types of medications, that's basically how you got to do it unless you've been advised specifically by the provider when to take it. So let me, um, let me just discuss the hydrOXYzine. That's the anti anxiety medication. And then it's, it's also um that this is really why I wanna discuss it. So, hy hydrOXYzine is an antihistamine, um, that reduces the effects of natural chemical histamine in the body. So that's um, a histamine can produce symptoms of itching or hives on the skin. Um hydrOXYzine may be used to treat allergic skin reactions such as hives or contact dermatitis. Uh, since hydrOXYzine also reduces activity in the central nervous system, it can be used as a sedative to treat anxiety and tension. It is also used together with other medications given during and after general. Anesthesia. HydrOXYzine is also used to treat allergic skin reactions such as hives or contact dermatitis. I already said that, but it repeats itself. So, yeah, it, it hydrOXYzine is not just for anxiety. It's technically an antihistamine that helps with anxiety. Ok. So it would
+Patient: Help with the anxiety. Right.
+Nurse: Yes, that's, yeah, it, it does. Yeah,
+Patient: That's why it's like that's what I need.
+Nurse: Mhm. Yes. Exactly. So, once you start taking that, uh, it's my understanding it about 30 it, it'll take effect pretty quickly, about 30 minutes or so, you should feel some, some, um, difference from it. So, um, let's discuss the side effects from hydrOXYzine. So get emergency medical help if you have, uh, signs of allergic reaction to hydrOXYzine. So hives, difficulty breathing, swelling of your face, lips, tongue or throat. Um, in rare cases, hydrOXYzine may cause a severe skin reaction. So if it does, you wanna stop the medication and call your doctor right away. Um, if you have any sudden skin redness or rash that spreads and causes white or yellow, pustules, blistering or peeling, um, you know, these are the side effects that go along on all medications. So don't get anxious over them. This is just, you know, it's what they are. You know, if you would, if you read down through the side effects of almost every medication, you, you're gonna have these types of side effects. So, um stop using hydrOXYzine and call your doctor at once. If you have faster pounding heartbeats, a headache with chest pain, severe dizziness, fainting or seizure, convulsions. Um, side effects such as drowsiness and confusion may be more likely in older adults and common hydrOXYzine. Side effects may include, again, drowsiness, headache, dry mouth or skin rashes. Um So those are the more common ones. Um Again, the drowsiness is, yeah, the drowsiness is what, you know, a, any time you take an antihistamine and an antihistamine would be Benadryl or something like that. This is a very similar medication. Um, except for it does more that it affects the central nervous system as well. And that's how it works for anxiety. So, it's not the same as Benadryl. It's just similar, but it has different effects on your body.
+Patient: Right. So, the feeling I have right now, you know, by making this move, by making this move to [PHI-Geographic], I will be in contact with people all the time, you know. Yeah. You know, I would have somebody there all the time to keep kind of keep an eye on me. So, so which I don't have here.
+Nurse: Right. Yeah. Yeah. I'm sure it'll help you settle down for sure.
+Patient: Well, I think that's, uh, like I say, I'm gonna, I'm gonna book a flight, you know, for the next couple weeks or so, I'm going up there for a month or so and uh
+Nurse: If you could just let me know when you're leaving and, and so I know when you're returning and then I'll need to know when you plan to move permanently because then I won't be your care manager nurse any longer because you won't be seeing doctor.
+Patient: Right. Exactly. I'd be looking for another family practitioner up there. Yes.
+Nurse: Exactly. Ok. So, but while you're there, if you need anything, you're still under doctor care so I can still discuss things with you. So, while you're in [PHI-Geographic] visiting,
+Patient: I'm just on vacation.
+Nurse: Yes. Exactly. Yeah.
+Patient: Ok. All right.
+Nurse: So, oh, you know what, let's go back to um, your, we didn't discuss how you get your medical records transferred. Um, so it was [PHI-Personal] Hospital medical records is who you need to call and ask them to share your medical records with doctor [PHI-Personal]. Can I give you the phone number?
+Patient: Yeah hold on just a second. That was [PHI-Personal]
+Nurse: [PHI-Personal]. Yes. Isn't that who you said where you said you were at at the end?
+Patient: Yeah I think yeah yeah I'm almost that's where I was.
+Nurse: Ok. Um so [PHI-Account]. Ok [PHI-Account] [PHI-Account] that's the number um two medical records but then I'm gonna give you a fax number of where they need to fax them for you. Ok. Alright ask them to fax them [PHI-Account] [PHI-Account]. Ok. [PHI-Personal]
+Patient: [PHI-Personal]. That's
+Nurse: Yeah that yes and then they'll be scanned to your chart that way doctor will be able to review them.
+Patient: Ok. Ok. Yeah I I'll get right on that definitely.
+Nurse: All right if you need anything else you let me know just remember uh try to keep yourself calm um anxiety will always try to get the best of you but you gotta try to stay calm and that hydrOXYzine will help you. So,
+Patient: I'm definitely gonna give [PHI-Personal] a call and, mhm. Make sure my prescriptions there they go down and get it and start right on it.
+Nurse: Yeah, I would call them fi, call [PHI-Personal] first and then, yeah, and then call medical records afterwards that way. While they're working on filling your medication, you can call and request that.
+Patient: Yeah, they usually send me something on my phone that my prescriptions are ready and I haven't received anything on that yet. So now they haven't got, they don't have a record of prescriptions for me. What do I do then have, give you your number or doctor number.
+Nurse: You can call me back and just let me know that they're saying that they don't have it, but I can tell you that it shows that they received it electronically on the [PHI-Personal] at 6:03 p.m. for both medications.
+Patient: They only keep it for so long before they'll put it back. Right.
+Nurse: Well, they'll still have the order.
+Patient: Ok. You still have the order. Ok.
+Nurse: Yeah, they'll still have the order. They might just put your, you know, put the medication back in stock, but they'll still have that order. You
+Patient: Still have the order. Ok. That's definitely what I'll do. Now, there's going to be two, prescriptions, right.
+Nurse: Yes, they're going to have Lexapro and hydrOXYzine.
+Patient: Ok. Lexapro.
+Nurse: Yeah, it's Lexapro five mg. Ok. And then, um, hydrOXYzine Al it's also known as Vistaril. That's the brand name and that's [PHI-Personal] mg.
+Patient: Ok. Can you, uh can you spell that for me?
+Nurse: I'll spell the Vistaril. I'll just because those are both the brand names. Uh vist A [PHI-Personal].
+Patient: Ok. And that was [PHI-Personal]
+Nurse: MGS. Yep. And you're to take that three times daily as needed for anxiety.
+Patient: Ok. Now that'll basically stay on the bottle.
+Nurse: Yes. Yes, absolutely. Absolutely. Yep. The instructions will be right on the bottle for you.
+Patient: Ok? You've been very helpful, very helpful.
+Nurse: I'm, well, I'm glad that's what I'm here for. So, if you need anything further, you just let me know. I
+Patient: Wanna try and calm down and get this taken care of, then, uh, go from there.
+Nurse: Yep. Just try to think about the happy times you had while you were in [PHI-Geographic] with your family. Keep yourself calm knowing that you're going back. So,
+Patient: For a visit anyway, you know, and, uh, I think it's originally gonna happen and I'm like, uh, [PHI-Geographic] is just not for me, you know, I thought it was, you know, and I came down here under the impression, you know, that I'd be closer to my son, you know, and spend more time and everything, which is fine. I do. I see him every weekend. But, uh, my lifestyle, my, like the way I feel and everything, it's just, it's just not happening.
+Nurse: Yeah. Well, you gotta make sure that you're happy and healthy if that's part of what makes you happy and healthy then going back to [PHI-Geographic] is what you need to do.
+Patient: Right. Exactly. Exactly. Definitely. Ok. Well, thank you [PHI-Personal]. I certainly appreciate your
+Nurse: Help. You're welcome. Have a good day. Let me know if you need anything.
+Patient: I certainly will. Thank you again.
+Nurse: You're welcome. Bye
+Patient: Bye.

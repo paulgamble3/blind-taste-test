@@ -1,0 +1,54 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, this is Laura Lee. Thomas.
+Nurse: Hi, MS [PHI-Personal]. I was trying to give you a call. Give me just one second while I pull up your chart.
+Patient: Yeah, I've heard a lot of that.
+Nurse: Let's see, we had a response from doctor [PHI-Personal], um, let's see, trying to pull it up. So he did send in the antibiotics for the UT. I, did you receive it?
+Patient: Um, [PHI-Personal] said they didn't have anything.
+Nurse: Oh, let's see. He did send it in.
+Patient: I also need the, uh, the other, uh, medicine. Oh, good for the, um, high BP. I think that was it.
+Nurse: You take BP medication?
+Patient: Yes.
+Nurse: See it on your chart that you take BP medication. And I'm trying to see. Where did he send this Bactrim to? Ok. So that's the thing. He sent it to the wrong pharmacy to
+Patient: Publix? Oh, ok. I can get it. Do you know which one he
+Nurse: Sent it to? The one on [PHI-Geographic]? Um, the phone number is you have a pen to write this down? Yeah,
+Patient: Just a minute. Let me grab it. Ok. Yeah. Ok. What's, what's that number?
+Nurse: Ok. So, the number is [PHI-Account], [PHI-Account] [PHI-Account],
+Patient: [PHI-Account],
+Nurse: [PHI-Account] [PHI-Account]. So, just call that Publix and have it tran transfer the medication to, um, what was the location? The Publix on [PHI-Geographic] [PHI-Personal].
+Patient: Ok. Yeah. Ok. Um, I'm not feeling very good. It's been a lot going on. Um, I, I was, um, first of all, there's eight Children here. Mm. The oldest one is but anyhow, um, sometimes I, it just, um, no, I think, and I, um, woke up this morning and I, I think it's because I ate some meat that was processed. Uh-huh. And my whole chest was vibrating and I, uh, cause I, I eat healthy, organic stuff like that. No. Junk food. No. Yeah. Not much so food. Um, and, um, I'm just shaky, shaky all over. It started last night. Uh, w when I woke up this morning but I did eat some processed meat and I didn't realize it was processed but I still feel kind of weird. My chest [PHI-Personal]. Do you get
+Nurse: Short of breath at all?
+Patient: Um, no, I just, no, I don't feel short of breath. I, it's just, um, I don't know how to explain it. It's like I over ate something. Mhm. Yeah.
+Nurse: Ok. Let's see. Is it possible that you can check your BP right now?
+Patient: I had one but I don't, um, I don't know where it is. I think my got put into uh, ST ok, I had a, uh, I did have a, any, what
+Nurse: I was gonna ask you if you had any, um, urgent care clinic or would you like me to schedule an appointment to be seen? Because that's also what the doctor he, um, said that if you don't feel better you would have to schedule an appointment that way you can give a urine sample. But let me see what's going on.
+Patient: Yeah, let's see. I don't know if something's going on or I ate, you know, because I ate this processed food, which I don't usually eat, but I was hungry because I only had breakfast and we had to go somewhere and it was like 10 o'clock at night by the time I got to eat something and, um, and I eat, you know, two or three times a day. Mhm. Let me see. And, uh, so I don't know if it's because I ate that food.
+Nurse: You wanna try to go tomorrow or something for today?
+Patient: Um, I don't have a car so I can probably get a ride tomorrow. I had a car accident. Ok. Let's
+Nurse: See.
+Patient: In the afternoon would probably be better. Ok. Yeah, like my co che che vibrating. Oh,
+Nurse: Goodness. Ok. So I do have, we, well, see something that's closer to, it's not something that's closer to OOD clinic and we don't anything that open right now. I do have a Wesley [PHI-Personal]. Is that close? Wesley [PHI-Personal]? Armenia?
+Patient: Um, yeah, I don't know. Yeah. No. Yeah, that's, no, those are too far away. Um,
+Nurse: [PHI-Personal].
+Patient: Oh, that's way too far. Yeah. Um, I can go to the office if you have an opening. Let me see if I can get my, my niece work. So, um, she works half a day. She usually gets out. Ok. Good, nice.
+Nurse: They actually don't have anything until [PHI-Personal] and [PHI-Personal] let me see if any other office has anything. Do you have a smart phone where you can do?
+Patient: Uh, no, my, my phone was stolen up to my daughter's house. They were doing drugs. I didn't realize that she did drugs again. It's been a nightmare for me. My life is usually calm but it, um, let me, let me, um, yeah, I woke up. It was, it was awful and I'm, um,
+Nurse: Do you have any shortness of breath or feel dizzy or lightheaded?
+Patient: No, it's tight. When I take a deep breath, I usually have, um, a good deep breath and I can't feel it real deep, deep breath. So, I don't know if it's the, like I say, the food that I ate. Mhm. And it's a little tight when I take, try to take a deep breath.
+Nurse: Can you take a full deep breath or? It hurts to get a deep one.
+Patient: It hurts a little to take a deep one and my lungs were checked out and my lungs are good.
+Nurse: It just started this morning. I do recommend a visit but since OOD doesn't have any locations that's available or that's available that closer. Do you have any urgent care clinics that's near you that you know
+Patient: Of? I, I can, I can look it up and see what I can find. Um, I, I don't know if you have my address here.
+Nurse: Think you um, you last time I talked, you said it was on Oxy?
+Patient: Yeah. Ok. Ok. So you do have it? Good, good. Yeah. Um, I'll, I'll, I'll see what's around here and I, I won't be able to get there because I don't, you know, I don't have a car but I can get there around three o'clock so that I give me plenty of time to find one. Yeah. Ok. I do
+Nurse: Have, I'm trying to help you. I'm trying to pull up on Google was close.
+Patient: I had a visiting nurse but I, um, it, um, something that was always coming up so I had to, you know, cancel.
+Nurse: Oh, goodness. So they stopped coming out.
+Patient: I, I didn't, I didn't have any information to call them and, and say, you know, hey, you know, everything is better now because when I first got here, the kids were uncontrollable but now they are controllable and I had stuff going on. Somebody hacked my, all my money. I have no money with your car. Over $20,000 that you have. Yeah, it's been a nightmare for me. And, um, so I've been trying to get my money back and, um, it's actually, it's more than that, but it's in three stages. I'm trying to get at least 20,000 back out of one section and, uh, [PHI-Personal] working on that instead of my health. But like I say, I did eat something. What's that? I
+Nurse: Said that is a lot to
+Patient: Take on. Yes, it's been a nightmare but it's just gotten much better, you know. Um, yeah,
+Nurse: I'm having trouble actually finding something that's closed. I think it would be better if you did it from your phone and they would have your exact location and it would pop up better from with me. You doing it on your phone?
+Patient: Ok, I'm gonna, um, trying to do that right now. There's not a car here anyhow. So that they give me time to, uh, I was in a horrible car accident. I think I told doctor until I talk to you or talk to somebody and I lost five te um, and it was a mess and, um, and the guy just kept going and what's wrong with people or maybe he was drunk. I don't know. And, um, so that put me behind a lot to, um,
+Nurse: And also try to check your BP. Ok? Just to rule that
+Patient: I have, I have one that goes on my arm. I have to look for it. I don't know if they put it in stores or brought it out and she might have one here I don't know. Mhm. Yeah so I I I'll do that.
+Nurse: Ok and when you schedule your appointment and if you're feeling if um the tightness in your chest get worse just go to the er. Ok.
+Patient: Ok. Alright dear. Alright thank you feel better. Alright right take care. Alright bye bye.

@@ -1,0 +1,38 @@
+Nurse: Hello. Good morning. This is [PHI-Personal].
+Patient: Good morning, [PHI-Personal]. This is [PHI-Personal].
+Nurse: So,
+Patient: Um three times during the night, not uh following each other, but I got up or I wanted to get up, sat on the end of the edge of the bed and I was dizzy. So um I'm lucky that I can go to the bathroom hanging on to all the furniture I have, which I did. And then um I took my BP at 7 45 on the 10 of [PHI-Personal] and it was 1 71/1 O2. Then it went down, I did 45 an hour later to 1 24 88 and at 9 50 it was 1 60/6 62. I had taken my medication. Now on the [PHI-Personal], the same thing happened, I woke up, I was dizzy and at 7 46 I took my BP. It was 1 36/70 and then on the 20th, which was yesterday, wasn't it? Yes. Um it was um at [PHI-Account]. So I think I made a mistake when I was taking the BP medication, amLODIPine because I was prescribed one tablet by mouth one time daily. And I had cut it in half and then I had cut it in half again. So I was, excuse me, I don't know what's wrong with me. I was taking one quilter at night and uh doctor, um, my doctor and knew about it and she was amazed I could cut it that, you know, that small and I was like that for a while. And then of course I had this problem. So last night I took half of the pill instead of a quarter and I am better. I was just going to take my BP now, but I did, I wasn't dizzy there in the morning or um another thing and I sit down at night and I'm in front of my computer and on the [PHI-Personal] at 8 50 my watch told me my blood, my heart rate was 106 and on the [PHI-Personal] at 10 o'clock at night it was 101. And so I don't know with all of this what we do, hopefully by taking more of the amLODIPine, I'll be OK.
+Nurse: Right. OK. So, so now you're gonna currently, yes, I think so because the amLODIPine is gonna help your pulse as well. Um So now you're gonna take half a dose of the amLODIPine instead of 1/4.
+Patient: Yes, I did. I stopped it yesterday and I took some quarters by my night table thinking well, if I still feel dizzy, I'll take a quarter right during the night or whatever.
+Nurse: Ok. But you didn't have to the half a pill.
+Patient: No, I didn't but just in case. Yeah,
+Nurse: Absolutely.
+Patient: Ok. So that's my story.
+Nurse: Ok. Let me just look here and I think, let me see. Ok, perfect. Yes. Yes. Yes. And even like, you know, when you monitor your BP on the BP cuff that sends over the readings to us. You we I have noticed that your pulse has been running a little bit high as well.
+Patient: My pulse and
+Nurse: Like your heart rate uh uh like it looks like yesterday it was 1 11.
+Patient: My pulse. Yes. But uh the the monitor, your BP monitor showed 58.
+Nurse: Yeah. So that's what I was looking like but it looks like the one when you did your pulse ox showed 1 11. 0,
+Patient: Ok.
+Nurse: So that is a big, that's a big difference. Were you up and moving around after doing your BP?
+Patient: Mm I don't remember. Ok. Ok. We'll we'll we'll
+Nurse: Just see what right. We'll see what it is today. And the good thing is is if you have a watch that also monitors it and then it will also notify you when you are having a a high reading. Um so that, that's good too. So
+Patient: Am I supposed to be doing something if it's uh above 100
+Nurse: Just uh, maybe take, just taking some time and just sitting down, resting, kind of taking a few deep breaths and seeing if that helps it go away and then of course, if it doesn't help it go away, then, um, you know, it's something that we probably need to address with doctor.
+Patient: Yes, because I noticed that, uh, you know, if I take my pulse with my other finger, uh, it, it is fast. I don't know how fast because it's not monitored, but I can tell.
+Nurse: Right. Ok. Let's see. All right. And your BP has been really good, BP has been looking really good for the last few days. So that, that's really awesome. Ok.
+Patient: So I'm going to take it, you know, um, after I talk to you and you can have a look at it.
+Nurse: Ok. Perfect. Yes. And then of course, in about 10 minutes. Ok. And then if it runs, um, high or something like that, well, then I will, of course, and give you a call back and see what's going on. Yes. But have you taken your other medications already? Like your other, um. Oh, yeah.
+Patient: Yes. Ok. I get up and I take it, so I take it, um, between 77 30 something like that. And then I went on a, uh, I wait an hour and a half, uh, you know, before I measure the BP. Right. That's
+Nurse: Perfect. That is the correct way to do. It. Ok. Um, and so you said no dizziness today? No headaches, nothing like that going on. No, no blurry vision. Ok. No good. All right.
+Patient: So I think it was because I didn't take enough of the amLODIPine.
+Nurse: Right. Right. I definitely think that's what's, that's probably what it was definitely going on there. So, um, well, I will go ahead and send a message over, um, to, to doctor [PHI-Personal] and just let her know that, um, you know, you think it was because you were just not taking that BP medication the correct way. But now that you're on taking that half a pill every, you know, you take it in the evening. Yes. Ok. Yes. So you, you're taking the half a pill at night time, I'll let her know and then of course we'll continue to monitor your BP. So if it, for some reason starts to get elevated or, you know, too low or anything like that, you know, you can call me back or we'll give you a call back because we'll keep monitoring it as well. So,
+Patient: Yes, because you can see it where you will. Ok.
+Nurse: Yes. Yes. Yes, ma'am. So, so you just keep doing what you, you're doing, um, and continue to monitor, continue to take your BP medications and then like I said, I'll send over a message to doctor if she wants to relay anything back to me, she'll get back with me if not, we'll just keep monitoring it and we'll keep, I'll touch base with you again. Um, probably sometime next week just to see how you're doing. But if you need me before then you can just give me a call.
+Patient: Ok, I will. And I really appreciate all of your help. Yes,
+Nurse: Absolutely. Yes, ma'am. That's what we're here for. Um, and so my name is [PHI-Personal], I'll be the one that's gonna be in touch with you from here on out and then of course it'll be um some other nurses that kind of monitor your BP as well. Um but you have my direct number so if you need me for anything, you just give me a call.
+Patient: I will thank you very, very much a you're
+Nurse: Welcome. Yes ma'am. Absolutely and you have a great day.
+Patient: Thank you and you as well.
+Nurse: Thank you. Alright
+Patient: Bye bye bye.

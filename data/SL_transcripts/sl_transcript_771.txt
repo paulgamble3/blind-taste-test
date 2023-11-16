@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager. Hi,
+Patient: This is [PHI-Personal]. How are you?
+Nurse: Good. How are
+Patient: You? Well, um, I don't know. Y my mom tested positive and doctor [PHI-Personal] put her on meds and I've been sick and on antibiotics and I just tested positive for COVID this morning. I woke up with a COVID headache. Ok. May I have your, uh, last name again? Waddington. W ad Dington,
+Nurse: You said [PHI-Personal]?
+Patient: Yes. My mom, [PHI-Personal].
+Nurse: Oh, ok. Yeah, I think I just talked to her yesterday. Yes, she did.
+Patient: Ok. Um, yeah, we live in the same house and I was taking care of her. So I know. And my
+Nurse: Care nurse, did you want me to get her or did you want? I can help you if
+Patient: It, that it's, this is pretty straight forward. I mean,
+Nurse: Are you just looking for the same medicine? The
+Patient: Paxlovid? I'm just looking for. Yeah. And, and to remind them that I'm finishing up antibiotics for, um, I still have all that lung stuff going on. So,
+Nurse: What antibiotics where you work? Are
+Patient: You amoxicillin?
+Nurse: Ok. And how many days do you have left of that?
+Patient: Uh, maybe [PHI-Personal]. Mm, maybe less. [PHI-Account]. Yeah. [PHI-Account].
+Nurse: Ok. And what are your symptoms for the COVID? What are you, what are you currently experiencing right now?
+Patient: Well, it was the co, the headache in the front of my head that alerted me. And, uh, II, I don't know because I've been sick. I have the co, I have a cough and feel tired and achy and. Ok.
+Nurse: Do you have a fever currently?
+Patient: No, but I think last night I woke up all sweaty.
+Nurse: Ok. So it may be like an intermittent fever coming and going.
+Patient: Yeah. Mhm. And like I said, it didn't, it didn't, I was just up, up this morning taking care of my dog and my dad had said that doctor [PHI-Personal] said that one of the main symptoms was that people complain about first, was that headache in the front of the head and I never get my headaches there. So that's why I tested that and I've been caring for my mom. So I'm like, oh, my immunity, you were gonna get it. Yeah. I had it, um, a year ago this past October I had it.
+Nurse: It's funny, it affects everybody differently. Like I lost my taste and smell a few, a couple years ago when it first came out and I never fully got it back and other people I know, you know, had other problems lingering. All right. Um, let me send a message over. Let me just review your chart real quick. Um So most likely I, because you're still on antibiotics, I don't think he's gonna prescribe Paxlovid. Um He may just say kind of wait it out, but in the meantime, make sure lots of fluids like chicken broth, bone broth, coconut water, things like that along with regular water, uh lots of rest, um treat symptoms as needed. Um Those are the basic stuff. Also, some immune things like vitamin C garlic, raw honey, uh some more natural ways too. I know a lot of people don't like to take medicine so um just you know a few things to do in the meantime until I hear back. So I'll send that message over as soon as I get a response I'll give you a call or I'll have give you a call uh but God forbid things get worse, definitely reach out and let us know. Ok. Alright. Alright Molly, you're welcome talk to you soon. Bye bye bye.

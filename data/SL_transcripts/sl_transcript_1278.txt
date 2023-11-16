@@ -1,0 +1,60 @@
+Nurse: Nurse care manager. This is [PHI-Personal].
+Patient: This is your pain in the butt. Did you get my message?
+Nurse: I did, I was actually getting ready to give you a call back. Um I
+Patient: Was able to talk from uh
+Nurse: What's that? Uh
+Patient: Then I hear from two lovely
+Nurse: Ladies. Oh, yeah. So I, I um did talk to [PHI-Personal]. She did send over a, a script to Rite Aid for you for the hydrOXYzine.
+Patient: Ok. I'm waiting a little bit to go down and get it.
+Nurse: Yeah. So she did send that over for you. Um
+Patient: Because the one that had it with my friend [PHI-Personal] there and he's in [PHI-Geographic] right now. Well, going to, he's going to go visit her sister and grandchildren in [PHI-Geographic].
+Nurse: Oh, ok. Ok. Well, I didn't get any. Yeah. So I, I did explain that to [PHI-Personal]. I had left a message with her just so that way it wouldn't hold things up. And um so she did send that over for you. So it should be there. You can take that every eight hours as needed for itching
+Patient: Right now. It's right now. It's itchy.
+Nurse: Yeah. Yeah. So you might want to try that and see. And hopefully that'll help a little more than the Benadryl.
+Patient: Well, hopefully you won't get sleepy.
+Nurse: Yeah.
+Patient: And then you were your leg cramps this morning? Oh,
+Nurse: Ok. All right.
+Patient: And your sleep and you still got this feeling, but they're not getting knotted up.
+Nurse: Yeah. Oh, goodness. Now, are you, you said you took the magnesium?
+Patient: I took an extra magnesium pill.
+Nurse: Yeah. And then you haven't felt any improvement yet
+Patient: Slightly. I ain't got the shooting. It still aches there. That back muscle above the ankle, low, the knee, the back
+Nurse: Side, the calf back there. Yeah, I know sometimes that does ache for a while after you had if you had a pretty significant cramp. But um the other things that they suggest for cramping is vitamin [PHI-Personal]. They, they
+Patient: [PHI-Personal] as in
+Nurse: [PHI-Personal]. Yes. Yep. Sometimes those can help too. And then even getting some potassium. Do you like bananas?
+Patient: Only a banana cream pie? Because it tastes like otherwise? Oh,
+Nurse: Ok. Ok. Because bananas are a good source of potassium sometimes that helps too with cramping. But um
+Patient: Is there any other thing you could take for the potassium?
+Nurse: Um Let me see. Let me see. That's our main one that we suggest, but I know there's other ones. Uh
+Patient: Let me see what I eat bananas as a kid and I kind of my taste seems like they don't taste as good,
+Nurse: They don't taste as good. Uh OK. So also other things that are good high in potassium says leafy greens. Here
+Patient: We go with the green
+Nurse: Stuff. Yeah, beans, nuts
+Patient: Like um what about baked beans? Like grandma, brown faked beans, for example.
+Nurse: Yeah, baked beans, baked beans would have. The beans itself would definitely have a good amount of potassium in there. So you could try beans. See if that helps or if you like nuts, they're, they're high in potassium too. Potatoes,
+Patient: Mashed potatoes are bad.
+Nurse: Yeah, mashed potatoes that would still have it in there. So. Ok. Yeah, if you try some of that, see if any of that helps too. I can mention it to [PHI-Personal] to see if she has any other recommendations. But a lot of times
+Patient: We were in a west and I'd be the horse that got that with the patient that got left and they had there to knock them out to do the surgery. Oh, well, [PHI-Personal] going to be going about a two weeks to a month she said. Oh,
+Nurse: Ok. Ok. So you can
+Patient: Tell [PHI-Personal] that.
+Nurse: Yeah, I'll let her know that she'll be out of town for a little while.
+Patient: I don't know if, um, hopefully I told her to cancel an appointment and then with that, with that transportation. I don't know if they have yet. Oh, ok. Expecting to hear from her today too. Yeah.
+Nurse: Oh, well, good. Well, hopefully she has a nice trip. I know she's had a lot going on with her eyes and everything too, the appointments. So, hopefully she'll have a good visit out there.
+Patient: She needs to come back in and see me where she belongs. Oh, and then you get the p, you go out through the head like that. Yeah. Haw. Where the guy in his old long on the woman? Hit him over the head with a rolling fan. Yeah, you're probably too young to remember that show.
+Nurse: Yeah, I, I never did watch that show but I can envision it. Definitely. Ok. All right. So, yeah, so head on over, get that, that, um, hydrOXYzine prescription. If you can, that, the sooner the better to start with that itching and then maybe pick up some vitamin [PHI-Personal], um, vitamins there if you, if you can
+Patient: Vitamin [PHI-Personal], not a multivitamin.
+Nurse: Well, they have vitamins that, um, it has the different types of vitamin BS. So sometimes it'll have, you know, like a [PHI-Personal] complex which has just a bunch of different BS. So you could do that and see if that helps. It also should help with energy and there's a lot of different things that, that [PHI-Personal] helps with.
+Patient: So, well, being hot out there, I ain't got much energy.
+Nurse: Yeah. Yeah, I know. Well, hopefully it'll help. But, um, now when do you have your next appointment with doctor's office?
+Patient: That's the 15, I think it's the appointment time, two or 2 30 then medical transport is going to pick me up.
+Nurse: Ok, perfect. So a couple weeks, hopefully he'll have more information. Yeah. Oh, I
+Patient: Know when I go the foot doctor you got, you all want me to go on the 21st of next week.
+Nurse: Right. Right. Ok. All right. Well,
+Patient: I'll, I taking enough of your time, but thank you. No,
+Nurse: That's ok. That's all right. I'll check back in with you again then sometime um, next week and see how things are going. Ok?
+Patient: Sounds good. Thank you. Have a lovely day and hope you enjoy some of the sunshine.
+Nurse: Oh, I know. You too. Take care.
+Patient: Bye bye, bye bye. Thank you. Bye
+Nurse: Bye. You're
+Patient: Welcome.

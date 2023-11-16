@@ -1,0 +1,21 @@
+Nurse: This is Joy. Joy. This is Y again, honey. I, I'm sorry to bother you. Uh I, I neglected to update you on something. I um I um had an EKG um because I was having a little bit of uh feelings in my um underneath my left breast. I was having little shooting pains. So I um told my doctor and she did an EKG and she said it was just a little bit abnormal. So she wanted me to see a cardiologist. Ok. So, so I did, I went last week and that's when I was hurting so bad. Last week I went and um anyways, so I am having a stress test.
+Patient: Ok. When is that scheduled? Did they tell
+Nurse: You? Yes. OK. I'm having a echocardiogram on the [PHI-Personal] of [PHI-Personal] and I'm having the stress test now. Wait a minute. Let me, let me check. My could be the [PHI-Personal] and [PHI-Personal]. That's OK. I'm, I'm having the echo I believe on the [PHI-Personal] and the stress test is on the [PHI-Personal].
+Patient: Ok. What day of the week, last week? Did you see cardiology?
+Nurse: When did I see the cardiologist?
+Patient: Yeah. What was the date so I can put it in.
+Nurse: Oh dear. Ok. Is last, is last Thursday. Last Thursday was the fifth. Yes, the fifth I saw her. Ok. And the echocardiogram for sure is on [PHI-Personal] and the stress test is gonna be on the [PHI-Personal].
+Patient: Ok. Did cardiology make a follow up appointment after all those tests for you?
+Nurse: I haven't had those tests yet.
+Patient: Right. But did they schedule that cardiology follow up appointment after everything is done?
+Nurse: Yes, that's on the [PHI-Personal]. Got you. I'm the, the [PHI-Personal]. I go,
+Patient: I'm glad you called because I was updating the message and I was about to send to doctor. I'm glad you called.
+Nurse: Yes. Ok. II I got to thinking, I thought, you know, I shouldn't leave her in the dark. I forgot to tell her about that, that update. So I thought I would give you a call right away. So I
+Patient: Appreciate that. I'm gonna, I'm gonna plug it in your chart. So she's aware. Um, did he say anything at that time or did you mention to the cardiologist about the Crestor thing or? No?
+Nurse: Uh, no, she, she just said I see that you're on a statin and at that time I wasn't thinking and I'm thinking what is wrong with me? I wasn't really, you know, understanding why, why I was feeling so bad, you know, because, uh, I don't know I had, uh, anyway, I, it just didn't hit me. I, I knew I was feeling pain in my body, but I didn't um you know, I didn't say anything that day to her because it just didn't, I wasn't registering with me anyway. So she just said she said I see you're on a statin and blah, blah, blah and you know that was it. So, yeah. No, I didn't mention to her about how I was feeling that day.
+Patient: Ok. That's fine. I will go ahead and, and update Doctor [PHI-Personal]. I was about to send my note, I'll go ahead and include your dates in the note and if she has any further recommendation, like after the pravastatin, I'll let you know. Ok? Yeah, I'll go ahead and put that that information in your chart. So she's aware.
+Nurse: Yeah. Yeah. Yeah. Ok. Well, but she's gonna, she'll be getting me on another statin right away, won't she?
+Patient: Yeah. After I let her know because I'm putting in that you're having um body aches throughout your body and your arms and legs. So it's kind of like she she, if you can't tolerate the Crestor, you just can't tolerate it. You know what I mean? So she more than likely, you know, more than likely she's gonna transfer you to a different statin. But um she, when she responds back to me um because she'll, once I send the message, she'll look at it and tell me your name and what she's gonna do. But when she responds back to me, I'll call you.
+Nurse: Ok. Ok, [PHI-Personal]. Thank you.
+Patient: Well, thank you. I appreciate you. Let me know [PHI-Personal]. Ok,
+Nurse: No problem. All right. Take care. Bye, honey. Thank you. Bye.

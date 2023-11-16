@@ -1,0 +1,30 @@
+Nurse: Great.I'm just going to verify your details before we continue.Could you please tell me your date of birth?
+Patient: Sure.September eighth nineteen eighty nine.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to check in with you about your upcoming Total Knee Replacement procedure on your right knee.It's scheduled for August 13th at 8am with Doctor Edward Chang.How are you feeling about the procedure?
+Patient: I am really ready for thisprocedure, especially if my painand mobility, you're gonna get bettermy my pain has just been so bad with this arthritis.
+Nurse: I understand.It sounds like you're really looking forward to getting this procedure done and improving your mobility and reducing your pain.It's completely normal to feel a mix of emotions before a surgery, but I'm glad to hear you're feeling positive about it.
+Patient: I am
+Nurse: Great.I'm glad to hear that you're feeling positive about the procedure.Now, I just want to go over a few details with you to make sure you're prepared for the day of the surgery.
+Patient: Okay. I'm ready.
+Nurse: Okay.So, the procedure is scheduled for August 13th at 8am.You'll need to arrive at the hospital at 7am to get checked in and get ready for the procedure.The location for your surgery is 1st Floor Pre-op Suite, 1111 Parnassus Ave in San Francisco.Does that make sense and can you make it to the location on time?
+Patient: I know where it is, and I will definitely be there on time.
+Nurse: Great, it sounds like you're well prepared.Now, have you had any fever, chills, or muscle aches recently?
+Patient: No. I haven't.
+Nurse: Okay, good.It's important to let us know if you have any signs of infection.Also, remember that you cannot eat or drink anything after midnight the day before the procedure.This is to ensure your stomach is empty during the surgery and reduces the risk of complications.
+Patient: I understand.
+Nurse: Great, it sounds like you're doing well with your pre-procedure instructions.Now, after the surgery, our anticipated discharge plan is for you to go to a rehab facility.This will allow you to receive physical and occupational therapy support as you recover and work on regaining mobility in your knee.
+Patient: Excellent.
+Nurse: Great.It sounds like you're well-prepared for your procedure and rehab.Remember, the goal of the rehab facility is to help you regain mobility and strength in your knee after the surgery.
+Patient: Wegovy. Because that's what I want.
+Nurse: I'm glad to hear that you're looking forward to regaining mobility and strength in your knee after the surgery.Now, I just want to go over some medication changes with you.For your Lantus, you'll need to take only 2 units the night before the procedure and the morning of the procedure.Can you confirm that you understand these changes?
+Patient: I do understand.
+Nurse: Great, it sounds like you're on top of your medication changes.Now, I want to go over some skin prep instructions with you.It's very important that you use a chlorhexidine scrub in the shower the night before and the morning of the procedure.This will help to clean your skin and reduce the risk of infection.Can you do that?
+Patient: I definitely can.
+Nurse: Great, I'm glad to hear that you're ready to follow the skin prep instructions.Now, do you have any questions about the procedure itself?
+Patient: How long would this procedure take?
+Nurse: The total knee replacement procedure typically takes about one to two hours.However, you'll be in the hospital for a few hours after the surgery as we monitor your recovery.Does that answer your question?
+Patient: Yes. It does. Thank you.
+Nurse: You're welcome.It sounds like you're well-prepared for your procedure and rehab.If you have any other questions or concerns, don't hesitate to call us back at 641-381-6523.Thank you for your time, and we'll see you on the day of your procedure.Goodbye!
+Patient: Hey, Rachel. Before you go,I have a question if you don't mind.
+Nurse: Of course, I don't mind.What's your question?

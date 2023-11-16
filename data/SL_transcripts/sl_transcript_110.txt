@@ -1,0 +1,61 @@
+Nurse: This is Place.
+Patient: Hi, [PHI-Personal], how are you? This is [PHI-Personal]. Yeah, how you doing? I'm good. Good. Oh, I'm ok, honey. Ok. Well, I, you know,
+Nurse: Check back with you. I know we talked the other day and I said I would reach back out in a few days just to see how you're doing.
+Patient: So. Well, I appreciate that. I'm not crying as much, but I'm ok. That's good. Yeah,
+Nurse: I did a little of my own research because I wasn't super familiar, um,
+Patient: About the disease.
+Nurse: Yes, ma'am. Uh, and so I could see where that definitely would be very tough to deal with it. You may experience some, um, like overly, uh, what's the word? I'm
+Patient: Looking hyper mobility. Yes.
+Nurse: Yes. Over intended flexibility.
+Patient: Right. Yeah. My daughter was, uh, uh, champion in [PHI-Geographic] and gymnastics and come to find out hyper mobility is not always a good thing. Not really. Yeah. Yeah. And hernias, I've had three surgeries and I've had, I have a Hiatal that's never been operated on, but two of the hernias were, uh, attached to my colon in the back which I think contributes to my issues of, uh, you know, I have constipation and stuff so I'm sure that contributes to it. It's connective tissue. So, my muscles hurt, uh, when they had to reattach some of my rotator cuff. He reattached my, what is that? A bicep? He reattached it because it, like, exploded on both sides. Oh, yeah. It's a horrible thing. I mean, I live in pain. Yeah. Chronic. It's terrible unless I'm laying down. Right.
+Nurse: And that's just not, not ideal
+Patient: For. No. I mean, my quality of life sucks. I, I'll tell you that. Well, but it is what it is. I can't do anything about it. So, uh, just take each day as it comes. Some days are good. Some days aren't.
+Nurse: Well, you said your, um, your hiatal hernia it had never been done anything with.
+Patient: Oh, no, no. They put me through the rock and roll of, you know, $20,000 worth of tests. Only to tell me that it's not big enough in their head, uh, to do anything about it, which is fine. Um, I have a thyroid that is covered in cysts. So, swallowing sometimes is a problem.
+Nurse: Hm. And they're not gonna do anything with the cysts on your thyroid either.
+Patient: No, no, no, no, I'm not having it removed.
+Nurse: It can be risky sometimes to have your thyroid removed and that can cause a lot of issues. So, I, I understand [PHI-Personal] on the, yeah,
+Patient: I've had like 25 surgeries and, um, I just can't take any more, you know, that last surgery I hope is the last, but I feel like I'm getting another hernia but I hope not. And, but I'm ok. No, I think it feels like a hernia in my back on the other side from this. But there's not much I can do until, you know, I can see the skin pop out. Right. I just know what it feels like. So, maybe it'll just stay like that for a long time.
+Nurse: Right. Where you don't have to necessarily do anything
+Patient: For it. Right. Right. You know, I understand from doctor [PHI-Personal]. My chronic pain doctor that Dalo people should not have unnecessary surgeries because we're bleeders.
+Nurse: Oh, ok.
+Patient: And, um, I also really can't do much surgery. Every, everything that they've tried to use in my body is so scarred that, uh, they can't get, I have to have a specialist put an IV in, you know. So it's, uh, not a lot of fun.
+Nurse: No. Um, I imagine not.
+Patient: But I'm, you know,
+Nurse: Do I eat? Yeah. Like a, do you get a good intake of fiber and fluid
+Patient: With? Oh, I do fiber and water all day.
+Nurse: Good. Ok. That may help some. Not, yeah, not drastically. But it will help some.
+Patient: It, you know, I have, I'm using the lactulose and then, you know, I have the issues of, uh, aside from the chronic constipation when I get constipated, I get sick to my stomach. Mhm. And I do a lot of puking. I, I, you just don't wanna be me. That's all I can say. I
+Nurse: Get that.
+Patient: But what I do, I appreciate you calling you.
+Nurse: Absolutely. Well, I mean, sometimes all, all we can do for someone is, is be there and listen, you know, part of nursing is that we don't necessarily have to have an answer for everything.
+Patient: Oh, I don't expect you to, sweetheart. That's not, that's not your job.
+Nurse: No, but I like that part of my job that sometimes as much as we are fixers at heart. Um, sometimes just being there for another person is, is very helpful.
+Patient: So. Oh, I agree. It definitely is good. Um, you know, and since you are connected with doctor [PHI-Personal] office, I left there the other day for the first time in my life with no kind of follow up appointment. So I don't know if I've had a flu shot. I don't know if I've had any kind of, if I need a booster. I don't know.
+Nurse: Let's take a look here. I can see quite a bit. So it does look like we're due for a booster.
+Patient: Ok.
+Nurse: Um, it looks like the flu vaccine as well.
+Patient: Ok.
+Nurse: Do, and your shingles dose two of two? Ok.
+Patient: So I'll just need to call and make an appointment.
+Nurse: Well, I can help you schedule an appointment.
+Patient: Um, well, let me hold off a minute on that because [PHI-Personal] has to see doctor in the morning, um, because he has a terrible hernia that needs to be operated on. So, I don't know if I'll be able to come into the office with him tomorrow or not. But let's see, maybe I can do it then.
+Nurse: Yeah. And that's fine. I know that they were doing some clinics and just like with the nurse to do those vaccines and stuff. Right. Right. So, you might be able to just ask tomorrow and walk right in and do the vaccine.
+Patient: Ok. All right. I'll get that a, yeah.
+Nurse: And if you have trouble and they don't schedule it for you, give me a call and we'll schedule it. I can, I can get into quite a few of them. I just scheduled some stuff earlier. Ok. So, and I know her schedule books out a little bit. You don't have a follow up with her schedule at
+Patient: The moment. I know. It's weird. I've never, I mean, for almost 20 years I've been going to her really. And I've been so sick the last five or six years because I almost died. Uh, the, uh, ambulance and the sheriffs found me is about five minutes before I kicked the bucket and that was before [PHI-Personal] was announced that was in January and in [PHI-Personal], everybody locked down. So I probably had
+Nurse: [PHI-Personal], I would imagine.
+Patient: Yeah, I don't, I'm not a healthy person so I don't, I know, man, I just kind of stay home. But anyway, I'll, um, check it out with s office tomorrow. I do
+Nurse: Inquire about that. Like I said, I mean, hopefully since you're in office they'll schedule it for you there. Yeah, but if not, then by all means just give me a call and we'll get it. Ok, we'll get it going.
+Patient: All right, sweetie. Thank you.
+Nurse: And then other than that, you know, it sounds
+Patient: Good.
+Nurse: Ok, you definitely sound a little better today, right? So that, that's good. Um and then yeah, I think, I think you've got a good idea of what you need as far as I
+Patient: Do. I mean, you know, I know what I need. Yeah, I do.
+Nurse: Well, can I do anything else
+Patient: For you today? No, sweetie. But you've just been wonderful. I appreciate the fact that you called.
+Nurse: Well, you're more than welcome. I, I don't mind at all. Is that like I said, if that's something I can do that helps, I'm more than happy to do it. Ok. You just ask them tomorrow about those vaccines
+Patient: I will and like I
+Nurse: Said, if, if they don't schedule, reach out to me and we'll get you something. Ok. Ok.
+Patient: All right, sounds good. All right, sweetie. Thank you. You have a good day, miss. You too, darling.
+Nurse: Thank you. Bye bye.

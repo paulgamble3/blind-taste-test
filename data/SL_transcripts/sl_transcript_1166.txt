@@ -1,0 +1,92 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Hi, this is [PHI-Personal]. Were you the one that called me yesterday?
+Nurse: I did, I was just checking back in. I know we got off schedule um with your appointment and the med changed. So it was time for our regular scheduled call. So just checking in to see how you've been doing. Any questions or
+Patient: Concerns. No, no, I'm doing fine making
+Nurse: Sure you did get the new dose of levothyroxine. So
+Patient: Yeah, I got it.
+Nurse: Anything going on different, no side effects. I mean you've been on it for so long changing doses. So I was just checking in to see how you've been doing. Is there any other meds that we're low on? I know we refilled the meds before your appointment
+Patient: Yet. I'm low on the Las Lasix.
+Nurse: All right. Hang tight for me. Let me if you don't give me 30 seconds to finish up where I'm at, so I don't lose this note. That's
+Patient: Fine.
+Nurse: I will be happy to get that sent over for
+Patient: You. Ok? And also the brutal.
+Nurse: Ok, let's see
+Patient: Here, but I can pick that up probably on Sunday.
+Nurse: Ok. Ok. Let's see here. All right, [PHI-Personal], thank you for a moment. Sorry about that. Uh, sure.
+Patient: That's ok.
+Nurse: Our system sometimes if we back out of one chart and I go back, that note is not there. Oh, yeah. Ok. It's Friday. Oh,
+Patient: Yeah. A crappy, a crappy Friday. It's snowing. Did you know that
+Nurse: We started with, um, at about 37 and it was kind of like sticking on, you know, sidewalks and things and then it's turned to a very heavy cold, right? So,
+Patient: All right, we're supposed to go out tonight, so I hope it's decent. Yeah, it supposed to
+Nurse: Be pretty crappy here all weekend. High 30. Um, I think the rain is supposed to move out tonight and then end up getting kind of winy over the weekend. So, uh yeah. All right. So you said the Lasix, um, was that, and that is to? Yes. Mhm. All right. And what was the other one that you needed?
+Patient: Albu my inhaler? All
+Nurse: Right, let's see here, Albuterol also. All right, perfect. Let me go ahead and put both of those through. We talked to you since you had your appointment. Looks like you had your Dexa and your mammogram. Did somebody talk to you about those?
+Patient: Well, they, they called me about the mammogram, the paper, but I didn't hear anything about the Dexa, the bone density one. Let's
+Nurse: See what they wrote here. You got some results. Uh Dexa scan. All right. Uh looks like somebody hold for mammo. Please call patient in for a mammogram. Normal repeat in one year. Dexa scan has showed that bone density has worsened and advanced to osteoporosis treatment is weight bearing exercise, calcium, 800 mg daily. Uh vitamin D [PHI-Personal] units daily. They're both available over the counter.
+Patient: Ok. Now, I do have vitamin D but I don't, I, I have to look to see what the dosage is. What did you say?
+Nurse: [PHI-Personal] the dosage? Let's see what your list is in here. Your vitamin D. I'm actually showing it [PHI-Account] every day. So that would be fine to continue with that. But they do [PHI-Account]. Yeah, calcium and, um, vitamin D go hand in hand. So I do, I,
+Patient: I do have the calcium. But what strength for that? 18
+Nurse: 100 they recommend at least 800 for that.
+Patient: 0, 800. Ok.
+Nurse: All right. And then it says, um, I would also recommend a prescription medicine called called Fosamax to Prevent Fractures. It must be, here we go. It must be taken on an empty stomach apart from all of the other medications. And,
+Patient: Oh my gosh, I'd have to get up three hours early to take all these pills. Yeah, but I'm not doing that.
+Nurse: This one here is only taken Fosamax monthly. Let me double check. Some of them are weekly. Some of them are monthly. Fosamax. Um, what ma dosage? This one is once weekly. And so it's only one time a week and then, but the, the key to this one is you've got to stay upright for at least an hour, ok. Um, to prevent any type of back watch anything like that, um, we recommend you trying it, people that are on it really do build good bone density. Um, like 2% a year on average from six to like 24 on the average ones that I see. So if it's something that you, um, would like to try, she said she can go ahead and send in the prescription now or you can discuss it at the next office visit.
+Patient: Um, oh, I'll discuss it the next office visit. Give me some time to think about it. I mean, I'm already taking vitamin D and um, um, um, I can't think it begins with ac
+Nurse: The calcium. Yes. Ok. So I or
+Patient: Something
+Nurse: Uh like citracal or
+Patient: Yes, that's what I'm taking. All right.
+Nurse: CCM call from patient uh reviewed this triage with patient. She is already on [PHI-Account] in a uh vitamin D three. So she will continue that. And you said you already are taking some calcium?
+Patient: Yes. I, but I take that once a day and I take vitamin D once a day. Maybe I should take it twice a day. No, the
+Nurse: D is fine because you're above, you're at [PHI-Account] units of that calcium. They do recommend upping to 800 what I am showing on your list is 500
+Patient: 0 500. Yeah, you mean is that what I should take or the 800?
+Nurse: You, you're, you're currently showing 500 under your med list. So I would go up to the 800 or even the 1000 you know, but at least 800 is what they recommend of that. Ok. And, and calcium is 500 milligrams. So she will increase to 800 to 1000. That way, if you just, if you don't want to buy different one, you can do just two of those. Ok. Ok.
+Patient: All righty
+Nurse: Daily. Yeah. Do you have internet
+Patient: Access for? No, I don't have, I don't know a thing about computers
+Nurse: Or, uh, somebody who could pull up, um, like a web MD and let you see what Fosamax is. You know, somebody with a smart phone if you're out and about or something. Yeah. Well, let's
+Patient: See. Nobody that I know right now has a smart phone.
+Nurse: It is going to consider Fosamax and we discuss at next office visit. She states she already has to take thyroid medicine on its own. Right. Thyroid.
+Patient: Yes, between the two of them. And then that one would be three, it'd be three. I have to get, you might as well say four o'clock in the morning to start, remind
+Nurse: Me the other med separate. I don't have your med list back in front of me. What's the other one that you take separately, you got your thyroid, um,
+Patient: My, my thyroid and the um uh pill for my stomach.
+Nurse: Uh, the like Protonix, omeprazole.
+Patient: Let's see. Yeah. Proton, I think it's Protonix.
+Nurse: Yep. Take thyroid medication separate and then stomach. All right. There we go. So I told her that, um, review triage, she's already on [PHI-Account] units of vitamin D three. So she will continue that and calcium is 500 mg. So she will increase to 800 to 1000 daily patient is going to consider Fosamax and we'll discuss it next office visit. She already has to take thyroid medicine separate and then stomach meds. Ok. Good.
+Patient: Yeah, that's good.
+Nurse: And like I said, you know, the thing is with the osteoporosis if you know, we don't want you to tumble, have a fall or anything. But if you do, we certainly want you to be your bones to be as strong as they can be. So.
+Patient: Right. Right. No, I understand that. Yeah. Oh, I was so hoping that that was staying, you know, even uh huh I guess it's not.
+Nurse: Let me go back and we'll see what the decrease was. Let me send that. Um let's go back and review again but mammogram was good. Correct. Mhm All right, perfect. Let's see. Back to the Dexa. It is. Yeah. And let's see you went from a minus 1.9 in [PHI-Personal] to a minus 2.6 that [PHI-Personal] uh um about half of a little more than half of the there. So, yeah, I do recommend and then you, that was in um, the right femur went from minus 1.4 to minus two, the right forearm. That one took a big jump from minus 0.7 to minus 2.4. So yeah, I definitely want to try to be as pro active as you can about this because like, um, you want them to be as strong as they can. I'm also going to send you a list of some vitamin D foods, um, that we about, you know, egg yolks, mushrooms, things along those. I lost
+Patient: You.
+Nurse: Uh, can you hear me now?
+Patient: Yeah. Now, now you're back, I
+Nurse: Said I'm gonna send you a list of some vitamin D foods out in the mail, um, talks about like egg yolks, um, salmon tuna mushrooms, things along those lines. Um, but that you can boost up some of your vitamin D foods as well. Of course, calcium, you know, dairy products, things along those lines. Um, so, yeah, we just want those bones to be as strong as they can be. So,
+Patient: Um, um, what about if, um, uh, now I like milk but I don't drink as much as I used to because I get a lot of phlegm with it. So I try to take, um, the low fat milk, like I've always taken, which I like for my cereal or something, but occasionally to drink it, I get the almond milk. How's that?
+Nurse: That's fine. They should have the added calcium just double check your calcium levels in it. Uh, um, but most of them all have calcium and vitamin D and you don't get, I get mucusy with milk too. Ice cream makes me cough like crazy. I don't know what it is. Yeah. So, I like the unsweetened vanilla almond milk. That's one of my favorite. You have to be careful though. With some of them that are sweetened. They're really high carbs.
+Patient: Well, I, that's what I liked. I like the vanilla but then I thought, well, I'm gonna try drinking just a plain, uh, silk uh, almond milk and see how that is. Yeah. So I'll have to get some of that
+Nurse: And there's a lot of, you know, other, um, that are, um, lactose free and things too. That's usually what creates the mucus. So, yeah. Um, see that, but just double check your calcium and your vitamin D and make sure that it's not a lot of pack extra. Um, because with the sugar to give it that sweet taste so that people buy it. So,
+Patient: Yeah. Yeah, I see. Yeah,
+Nurse: We try for another sometimes but, um, checking any blood pressures at home.
+Patient: No, because I haven't gotten my new uh, thing yet. I hadn't had the money, so I'll be getting it shortly. One
+Nurse: 30/84 here and you may check with United Healthcare, your insurance. Some of them are doing vouchers or sending out what they call a Wellness kit. It doesn't hurt to ask the worst they can tell you is now a few people with uh like humana and things ended up with like BP cuff oxygen fa scales. Um So just check and see if they offer anything to monitor your BP. Some of them are called like Wellness programs and they like healthy. If they can, the worst, they will tell you is no, but if they do it's worthwhile. So I would check with them and see. But yeah, like I said, be me here. So I will send over for the Lasix and the Albuterol and let's hope everything else goes well. Any other questions concerns all everything resolved them, no problems with that.
+Patient: No, I think that's about it.
+Nurse: Ok. No headaches, dizziness, nose bleeds, anything like that. BP, BP can be elevated. And since your watchman is your afib pretty good, we haven't really talked about that much lately.
+Patient: Um occasion but uh but then it, it stops. See before I didn't feel it, but after I got the watchman put in and then I got COVID after COVID, it seemed like I noticed it a lot more than what I did before. A lot
+Nurse: Of people after COVID complained of palpitations. I'm not sure what, what the connection is with COVID and palpitations. But they know they were doing like fast runs or extra beats. Um, they said they were just more cautious, uh, conscientious rather of their heartbeat after COVID. Right. Right. First told me that. But, you know, with the afib palpitations, fluttering, weakness, shortness of breath, dizziness, anything along those
+Patient: Lines, it, no, it's, it's more the palpitations. And I notice when I walk really, really fast, uh, and then I stop is, then I, I notice it a lot more or if I'm hurrying around here, you know? But otherwise, and then it goes away. Now, now I, I don't feel, I haven't felt it all morning so it, it just, you know, comes and goes,
+Nurse: Ok, well, you know, trying to eat the heart healthy diet. Um, a lot of alcohol, caffeine that can always send people into AFIB too. Um, over the counter cough medicine things along those lines.
+Patient: Well, I don't, I don't take over the counter cough medicines. I can't, it makes me sick. So, I, that's why I take the pills, the pills.
+Nurse: Yeah. Those work pretty good for most people. I had a friend, her husband was only in his [PHI-Personal] at the time and ate really cold ice cream and it sent him into AFIB.
+Patient: Oh, my goodness. Yeah.
+Nurse: Hot, hot, hot per day. And the difference, I guess in the temperature outside and licking an ice cold ice cream cone, he ended up being ted out over the, you know, you just never know. So, um, but yeah, I haven't asked you about the watchman for a while because I know it was a sore subject there for a while. So,
+Patient: No, I, I guess it's, uh, working, it better be working.
+Nurse: So, um, but, you
+Patient: Know, now I, when I, when I got the, uh, mammogram, I, she really went up high and I was a little concerned. I said, don't push so hard because I'm not exactly sure where the watchman, where they put the watchman and I didn't want it now. It might not affect it. But I was really cautious about that.
+Nurse: So I understand now. Um, I, and I'm not sure. Did they show you one? How big are those? I'm not. What, how big of a size did you see one, like before surgery?
+Patient: No, he was supposed to. But somehow that went by the wayside and I saw it the other day on TV. And that's the first I've seen it and I thought, oh, that's what it looks like. So, yeah, he, he was supposed to show me and, uh, he didn't, so I really can't say what it looks like.
+Nurse: Yeah, there's not really a picture of it on, on their, their page or anything. So, that's what I was curious of how big it was. Um, because I, I
+Patient: Don't think it's very big. I think it's small. But there, again, that's my thinking. I don't know.
+Nurse: Yeah. Understood. I, I would think it would have to be so, uh but again, I don't know it on their website. Right. I'll get that sent over anything else I can help you with? Questions? Concerns.
+Patient: No, I think that's it. Thank you
+Nurse: For getting back up with me. And like I said, I sent her the message about the vitamin D, the Fosamax that we'll send in the albuterol and the Lasix. And if you need anything this month, please let me know. Otherwise I'll set to call you back after [PHI-Personal]. Ok, I hope you have a great time wherever you're
+Patient: Well, thank you. You too. Bye bye.

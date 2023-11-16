@@ -1,0 +1,11 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: Yeah. Um, this is, yes. Could you, could you call me?
+Nurse: I let me pull you up. I'm sorry, give me [PHI-Personal] second. Um, you may be responding to a voice mail that was left a while back. Um, I
+Patient: Was the uh huh. Is it [PHI-Personal]? Yes.
+Nurse: Uh huh.
+Patient: She left a message on my phone yesterday. My sounds like today.
+Nurse: No, I'm [PHI-Personal]. I didn't call you today.
+Patient: Ok. And I, I said, I guess when you call me back, I didn't know you guys know that
+Nurse: You're in the hospital right
+Patient: Now. Yeah, I've been in here. I had [PHI-Personal]. Ok. I thought she knew that but I know this is doctor [PHI-Personal] knows it.
+Nurse: Uh, let's see, hold on, give me one second to see something as well. So see one, no, no recent phone calls started here, my dear. Ok, thank you. Ok. You're welcome. Bye bye. Have a good day. You too.

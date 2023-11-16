@@ -1,0 +1,16 @@
+Nurse: Thank you for calling Care Management. This is [PHI-Personal].
+Patient: Hi. My name is [PHI-Personal] and I don't know if I should call into her directly or if I'm supposed to be working through you guys. But I just wanted to get a message to uh [PHI-Personal] in office. I guess it's [PHI-Geographic]. Ok.
+Nurse: Could I have your name again ma'am?
+Patient: It's [PHI-Personal] Hol or [PHI-Personal] with ac my date of birth is [PHI-Personal].
+Nurse: Ok. One moment here, I'm gonna pull up your chart.
+Patient: Ok.
+Nurse: And who are you trying to get in touch with?
+Patient: Uh [PHI-Personal]? Ok, like I said, I don't know. No. Now whether to call you guys or to call directly into the office. So I guess that's my first question.
+Nurse: Ok. Sure. No, I understand. Yeah, I would, I would say just call into the office, um, because that'll be more of a direct line to her if you, if you were trying to make an appointment or, um, if you needed, you know, any help with an appointment, you could reach out to your nurse. Um, do you have that number there?
+Patient: I, I actually do, I, I'm just looking at a piece of paper. Um What I'm asking her is we've been trying to get approval for uh a migraine drug for me and they're supposed to have their final decision on the [PHI-Personal] of this month, which is fine, but I wanted her to kind of check and see if there was anything, maybe like the old Imitrex or something that I could take with my warfarin because I'm on blood thinners. So that limits what I'm allowed to take. And, uh, I've been getting, you know, one day a week for two days or more. I get these migraines that I, I can't move because, you know, I also wanna throw up all the time from them if you know, you move your body. So I was just trying to see. So I guess I can just call in and I can just ask if, if there would be any other drug that I could take. I'm limited. So, uh, I'm desperate.
+Nurse: Yeah, I'm sure. Well, [PHI-Personal], I would encourage you to call the off to call the office. Um, and then I'll send a note to [PHI-Personal], your nurse and I'll see if she can get anything going as well.
+Patient: Ok. As I said, if there's anything else that, you know, an older, one of the drugs, I don't care what it is. If there's something else I could do, I would appreciate it. But I do, I do see, I do see on the [PHI-Personal] actually. So, you know, I don't want you to go overboard. It was just, I just talked to, you know, [PHI-Personal] today and I thought, well, let me call in and see, um, but as I said, I see what on, uh, Thursday, so I can follow up, I'm just starting to get one now and I know I'm gonna be down for two days. So it, it's, that's ok. But thank you for listening to me. I was just, you know, you get safe.
+Nurse: Absolutely. Oh, I'm sure I'm sure you do. I'm very sorry to hear that and I'm gonna send her a message just, you know, it's not gonna hurt to have somebody else looking into that as well. So I'll shoot her.
+Patient: It would just be actually if, if I get refused on the [PHI-Personal], if there's any, you know, anything else that I can take, I guess. Ok, thank you so much. I appreciate
+Nurse: It, [PHI-Personal]. Thank you. Have a good one.
+Patient: You too. Bye bye bye bye.

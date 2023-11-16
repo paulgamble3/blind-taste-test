@@ -1,0 +1,7 @@
+Nurse: Ok. Hello. Hi, this is [PHI-Personal]. Hi, this is, hi, how are you? Yeah,
+Patient: Let me see if she's available. She's helping me out today, as you can tell. I'm a little bit under the weather.
+Nurse: Yeah.
+Patient: Yeah. Hold on one second. Ok, let me. Oh, thank you. Hold on
+Nurse: Probably. Ok.
+Patient: Do you mind if she gets you back shortly? Oh, that's fine. That'll be fine. Perfect. I'll tell her. Thanks so much. Have a good week. Ok.
+Nurse: Bye bye bye.

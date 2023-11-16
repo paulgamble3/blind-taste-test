@@ -1,0 +1,23 @@
+Nurse: Hello, this is [PHI-Personal]. Yes,
+Patient: [PHI-Personal], this is [PHI-Personal].
+Nurse: Hi, how you doing?
+Patient: Alrighty.
+Nurse: Yourself good. I'm doing well. Thanks. Um I was just calling, you know, for our monthly chat. I kind of wanted to check in see how things were going with you and to see if you needed anything.
+Patient: Well, I need a winning lottery ticket. Have you got that for me?
+Nurse: I do not. I wish I did.
+Patient: I guess you'd like to have one too,
+Nurse: Right? I would split it with you though.
+Patient: That's nice. Well, I'm doing fine. I don't have any uh problems to speak of.
+Nurse: Awesome. Ok, perfect. Um, do you need any refills of any medications today?
+Patient: No, we uh, I've got the two doctors uh, prescriptions that I get filled out and I take every day. But uh other than that nothing.
+Nurse: Ok. Awesome. Alrighty. Well, I uh see you saw cardiology that at the end of last month they started you on a new medication. The amiodarone. Um, how is that going? Are you taking that? Uh, let me see every day. I think it is.
+Patient: Yeah. One a day. Yes,
+Nurse: One a day. Ok. How's it going? Any, um, you know, side effects, uh, like no
+Patient: Need at all.
+Nurse: Awesome. Ok, perfect. Um, all righty. Let's see. So that, you know, kind of treat can help treat that afib, it kinda can help regulate the, um, uh, heart rhythm. Um, you know, it kind of works on the heart tissue and slows the nerve impulses kind of to keep that rhythm normal. Um, do you feel like it's helping or? Haven't you noticed a difference?
+Patient: Well, I, I think it's helping because I haven't noticed any difficult quality of, uh, the heart. It would. Ok. Working fine.
+Nurse: Awesome. Perfect. All right. So, um, I'll just, I just have a couple of questions then for you about this, you know, afib um, you know, and the symptoms and everything. So, do you experience any pounding or racing heartbeat? No, ma'am. No. Ok. Um, do you notice that any exercise or activity kind of leads to unusual heart rhythm? No, ma'am. All right. And then do you ever kind of feel your heart beating out of your chest? You know, palpitations? No, ma'am. No. Ok. Awesome. All right. Um, let's see. Make sure I didn't miss anything. Um, are you ever dizzy or do you feel lightheaded when you, you know, get up? Not really. No, not really. Ok. All right. Perfect. Well, if you do, you know, please give us a call, um, especially if you're having, you know, shortness of breath or, um, you know, different feelings in your chest, you know, pounding hard or anything like that. So just, you know, keep an eye out for those, but I'm glad things are going well for you now and that medication seems to be helping. So, you know, from, from my standpoint, we can, you know, touch base again next month. But, uh, if you need anything before that, you're always welcome to call. Ok,
+Patient: Thank you and I appreciate it.
+Nurse: Yep. Absolutely. Have a good rest of your day. Thank you
+Patient: And same to
+Nurse: You. Bye bye. Thanks. Bye bye.

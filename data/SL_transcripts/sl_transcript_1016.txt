@@ -1,0 +1,17 @@
+Nurse: Hey, Miss [PHI-Personal].
+Patient: Hello, this is her son.
+Nurse: Hey [PHI-Personal], it's ok. What's going
+Patient: On? I just wanted to let you know, um you know, you, as you're probably aware if you remember how you get a lot of patients, mom has an appointment tomorrow with her primary. Um she won't be able to make it. Oh, she's in the
+Nurse: Hospital. Yeah, that's right. I don't know why I said, hey [PHI-Personal] like it. Oh, that I tried to call her this morning and I saw that she was in the hospital. I was like, oh my gosh, ok. What, what happened then?
+Patient: Well, it was one of those um yesterday where she was dizzy and she took the meclizine a couple times throughout the day. Only twice. She says I
+Nurse: Must have been bad if she took
+Patient: It then. Yeah, so and then um she started throwing up, you know, had some nausea that more than once. So I went over and she couldn't open her eyes, you know, the little dizzy thing. Yeah. So um uh she was transported GH you know, the uh emergency room and what it is that she's low on sodium again. That's happened before. I mean, they were monitoring her sodium, I mean, her intake and everything and it, she went ll low low. I've never heard of LL, but I haven't,
+Nurse: I haven't heard of that
+Patient: Either. Yeah, I seen LL on the results. It's like what? But, yeah, and they were monitoring everything, monitoring her intake and everything and, you know, but anyway, she was low. So they said, yeah, it's a good thing you came in but they're also gonna keep her overnight tonight to do some tests, you know, that like Vertigo head test and things like that. So I doubt that she'll be released tomorrow in time for the to be there. Uh [PHI-Account] 45 whatever it was. Yeah. Ok.
+Nurse: And they may have already let me get her pulled up. They may have already um they may have already taken her off because she's in the hospital but if they haven't, I'll cancel the appointment for tomorrow and, and see if I can't reschedule, but she has one in, I think she has one in [PHI-Personal], but I don't know if I, I don't know if I canceled that one or not, I'll figure it out and get her scheduled for something.
+Patient: Ok. Yeah, so I don't good. So I don't need to go on into my chart and cancel it and everything. No,
+Nurse: I'll take care of that for you.
+Patient: All right. Thanks a lot. I, I sure appreciate
+Nurse: It. Yeah, no problem. [PHI-Personal], thanks. Ok, thank you and tell mom if you see mom, tell her I said she better get better quick.
+Patient: That's right. I wanna hear from her. Yeah.
+Nurse: All right, Steve. I appreciate you calling me. Ok, thank you. Uh Thank you. Bye bye.

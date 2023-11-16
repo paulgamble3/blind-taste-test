@@ -1,0 +1,13 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you?
+Patient: Hi, it's hers.
+Nurse: I'm sorry. Can you
+Patient: Say that again? It's [PHI-Personal]. Oh, hi, [PHI-Personal]. How
+Nurse: Are you?
+Patient: All right.
+Nurse: Do you wanna speak with [PHI-Personal]?
+Patient: Yes,
+Nurse: Please. Ok. Let me see if I can get a hold of her. Ok. One second.
+Patient: Oh, [PHI-Personal]. [PHI-Personal] is on the
+Nurse: Other line. Can I have her call you right back? Ok. Are you
+Patient: [PHI-Personal]? Oh no, I'm not at work.
+Nurse: Ok. She has your cell phone. Yeah. Ok. I'll have her call you right back. Ok, thank you. Mhm. Bye bye.

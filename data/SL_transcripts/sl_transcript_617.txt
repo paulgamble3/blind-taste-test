@@ -1,0 +1,19 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] Case.
+Nurse: Hi, how are you? Uh,
+Patient: I'm doing pretty good. Pretty
+Nurse: Good. Good to hear.
+Patient: I'm in a pickle here. Uh, what's going on? I have a nebulizer. Right. Ok. A and I was missing the cup before you put the medicine in. Mhm. Well, so I got all the pieces and I can't, I don't know how to put it together.
+Nurse: Ok. Did they send you, did they, did you receive the ones from the, um, durable medical equipment?
+Patient: Yeah. Yeah, I received those.
+Nurse: Ok. Good. Um, let's see. Tell me, um, well, did they send you a few of em?
+Patient: Yeah, there's, uh, [PHI-Account]
+Nurse: Of them. Ok. Tell me, tell me what is the, what's the brand? There should be a brand on it, on the package, on the, no, on the package for the nebulizer cup that they sent you?
+Patient: Ok. Hang on.
+Nurse: Ok. Take your time.
+Patient: Ok. I got a, a, uh, thing here, Dr, uh, it's called Drive Dive
+Nurse: Drive Medical. Ok. This is what I'm gonna do. I'm going to, um, let me, I'm just in the middle of a note. I'm gonna finish this note up to go over to a doctor and then I'm gonna um, I have to look the drive medical one up because they're all just a little bit different and then I can try to walk you through.
+Patient: Ok? Thank you very
+Nurse: Much. Ok, so I'll give you a call back, just give me about, oh, I'd say maybe 10 minutes.
+Patient: Ok? Very good. Thank you very much.
+Nurse: You're more than welcome. I'll talk to you soon. Bye bye bye bye.

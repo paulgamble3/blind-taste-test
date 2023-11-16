@@ -1,0 +1,41 @@
+Nurse: Good morning this is
+Patient: Hi [PHI-Personal] it's Arlene [PHI-Personal] calling for how are you?
+Nurse: Hey how are you? I'm good how are you? I'm
+Patient: Good hearing yesterday on her prescription. Alright let me so I was wondering where we
+Nurse: Yeah I looked at it yesterday too and I didn't see anything either. Let me check again.
+Patient: Ok I figured if you heard something you call me so yeah but I'm not here tomorrow so I was hoping we could square it away today.
+Nurse: Yeah let me see what I can find out here. Ok. Yeah they had tried to let's see um they're going to um try to send that prior auth again tomorrow. Um you have to wait so many days before you can send another prior auth like another request so they have the to do in there for tomorrow to send that back to the insurance so we'll find out then.
+Patient: Ok, Doctor [PHI-Personal] because he said that if it's too long we could take another route and I'm not sure if we should take the other route because [PHI-Personal] definitely needs some help.
+Nurse: Ok. She's getting worse.
+Patient: Yeah yeah she's it's every day hon. Ok she's sitting right here, I just saw here and she's, she's all worried. She goes to orthopedic today but she's afraid she did something wrong. And, uh, if, if it, if it's inflamed will they do anything? It's swollen and it's inflamed.
+Nurse: Yeah, they'll take a look at it. Um, and they'll, yeah, at that point they'll determine what the best treatment plan is. That's about all I can say. I don't know what the treatment plan is that they'll choose. It just depends on, you know, the severity of the tear and things like that.
+Patient: I, so I, I'm trying to explain to her, let the doctors do their thing, but she didn't do anything wrong. You know, she was beating herself up and upset about it that she's afraid that she's going to go and she messed something up and I thought there's nothing she can mess up. It, it, it, it, she's been doing phenomenal with it, you know, and she went on a bus trip and she felt like she overdid it. But then we did a lot of laying around until we talked to you and I said no, [PHI-Personal] said to move it and not let him keep it off, stay off of it. And ever since she stayed off of it, I feel like it's gotten that it bothers her more. I felt like when she was moving it every day it was better.
+Nurse: Ok. Um,
+Patient: But, you know, it's hard to tell you you think in your mind, what you think is there and it might not even be there. Right. You know what I mean? Yeah.
+Nurse: She might definitely get inside your head even
+Patient: Though that's how it's feeling to her, you know. Yeah, it's nothing. And I said to her, let's not, I mean, it's easier said than done. Don't worry about it. So, we know there's a problem. But, you know, I told her, I said, you know, you gotta be in the right frame of mind and stuff too or they're not gonna give you any kind of plan. You go in there hysterical. I'm not sure what they're gonna do, but I know they're not gonna give you anesthesia. No. Yeah, that's for sure.
+Nurse: No. Yeah, you need to just go let the doctors do what they do. Let them look at it, evaluate it, look at the imaging and then at that point they'll determine your treatment plan
+Patient: You. Ok? Any more questions for? No, I, I just, that's
+Nurse: Ok. I know it's, it's the, like I had said before the other day when we talked, it's the waiting game. That's the worst sometimes I think because, you know, just not knowing is, is worse than knowing sometimes I think. Um, so I understand that. What time is the appointment?
+Patient: Uh, 12 15, 12 15. Ok. Yeah. And then you said you were gonna let me know tomorrow if you got the report.
+Nurse: Yes, it should be in there tomorrow. Um, yeah, typically it doesn't take Doctor
+Patient: [PHI-Personal] refilled her LORazepam too. Uh, let me look. Is that what she called over? Did you give her that? No, you talk to her the last time, I think. Yeah, we have to call for it. Yeah, this is, we have to call them right. When we get drugs from neurology, we have to call neurology.
+Nurse: Correct. Yeah. Doctor [PHI-Personal] won't fill anything. He didn't prescribe. Oh.
+Patient: Oh, they might have them on file though. Yeah. Yeah, we'd have to call for that. See, what we do is we do calls every six months with, with, with, uh, neurology and then they refill their meds. But we have the bottles here that we had for 90 days and we, we didn't go and refill it yet. But I know I had, she had the scripts refilled because I knew we wouldn't have enough for the next, until, until [PHI-Personal] 1st. So I think has this on file like the other drug. Yeah. So this one's not you? No, but I think it is.
+Nurse: Ok. Does she still have Ativan?
+Patient: She has a couple left but I have been having her one in the morning, like I did the other morning when you called when I called you and it definitely helped. It definitely brought her down. Definitely, definitely back to, you know, that we could think clearly and, yeah, it helped her and I said to her until we get the med squared away. She's afraid to take one a day if needed because of being addicting because he didn't want to give her just that every day. And I said, yeah, but right now we're in between drugs. So we got to take something before it gets bad. It gets really bad, you know. And then I know myself because I, I, I've already been through something like this and it's very hard to control it. So, well, you got what you got and they say it's ok, you got to do it for now. You can't suffer because you don't wanna get addicted. One a day is not gonna make you an addict until we figure out this other med. Right. Yeah. I don't even know she's still on an antidepressant. I mean, is this an antidepressant that she's getting
+Nurse: What the,
+Patient: Whatever it is? I don't know what he even prescribed her. [PHI-Personal] went with her for that. It
+Nurse: Is. Hold on. Let
+Patient: Me, well, I don't see Lexapro here anymore. She has other drugs. I'm just wondering if they're in transition period. You know, where they're not working and we weaning off the other, but I didn't hear anything about being weaned off anything because she was on something before and to my knowledge you had to be weaned off antidepressants and, and then start, I don't know if you start them at the same time, but I know you should wean yourself off. But I don't know if they substitute another drug, if that process doesn't have to happen. Um, I don't know how it works. Just
+Nurse: Depends on if it's in a different drug class, I guess.
+Patient: Ok. And, you know, nowadays they have drugs and then they have another drug that'll, you know, help boost the other drugs. So, I, I, I'm not sure. All I know is he's definitely, definitely, definitely, definitely suffering from some anxiety and panic attacks and depression and it's been like a couple of months now going back and forth with medication, but I'm not seeing any improvement. I'm seeing it declining. Ok? But I don't know like I said she goes today and she hears from them and she'll feel better. I don't know. Yeah.
+Nurse: Well I have a message out to him. So as soon as I hear something I'll let you know.
+Patient: Ok. And do you see LORazepam? Did he refill it?
+Nurse: He did not refill it yet. No II I put a reminder in there in that note that I just sent him.
+Patient: Yeah, just because she'll only have enough for like until Saturday and this way she'll have it for Sunday too. Yeah, we don't have that run out and panic is what I'm saying.
+Nurse: Right. And I won't be here. Ok. Yep. Like I said, I have a message out so as soon as I hear back from him, I will let you know what he says.
+Patient: Ok, sounds
+Nurse: Good. Alright. Ok. Have a good day.
+Patient: You too. Bye bye.
+Nurse: Thanks. Bye.

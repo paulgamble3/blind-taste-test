@@ -1,0 +1,24 @@
+Nurse: Hello. Yeah. Can you hear me? Yes. Is this [PHI-Personal]? Yeah, I'm sorry, [PHI-Personal]. This phone was messing up. Uh, how you doing?
+Patient: That's ok. This is Ashley. [PHI-Personal]. [PHI-Personal] is on vacation.
+Nurse: Yeah. Oh, ok. That's ok.
+Patient: I'm good. How are you, [PHI-Personal]?
+Nurse: Pretty good. Pretty good.
+Patient: Good. I'm glad I was just calling for your monthly check in to check on you. Um, see how you're doing. And if you needed anything,
+Nurse: Everything, everything is right. Except I'm trying to find, um, I need to have an, uh, a x-ray done of my liver because my, my primary care saw a little spot on my liver. She wanted me to have an xray done, but I can't find, I called us s, um, and I called and they gave me a couple places but neither one of them takes mena and I'm having a problem finding, um, someone just, just, just, you know, your insurance. Yeah.
+Patient: Yeah, absolutely. Um, the towers does not take your insurance. No. Ok. All right. Give me, give me a second here. Uh, ok, let's see. Ok. Have you tried, um, outpatient imaging on [PHI-Personal]?
+Nurse: No, you have. No, you have their number. Yes, I do. Hold on, hold on. Ok. Ok, let me hm. Ok. Right. Let's see. Ok, go
+Patient: Ahead. Ok, the number is [PHI-Account] [PHI-Account] [PHI-Account]. Ok. Do you want the address for them?
+Nurse: Yes.
+Patient: Ok. The address is [PHI-Geographic]. Mhm. [PHI-Personal] Boulevard [PHI-Personal]. [PHI-Geographic].
+Nurse: Ok. Um, I'll give them a call. That's the only that's the only one you have. Um
+Patient: I have a I see another one in [PHI-Personal] it's on [PHI-Geographic]. Ok give me that. Ok the number is [PHI-Account] [PHI-Account] [PHI-Account]
+Nurse: [PHI-Account]. Yes sir. Ok and what's the address?
+Patient: [PHI-Account] North [PHI-Geographic] number 1 O2 in [PHI-Personal]. [PHI-Geographic]
+Nurse: Number 1 O2. What's that?
+Patient: Uh it it would be like in a um a complex number?
+Nurse: 000 ok. Ok and what's the what's the zip?
+Patient: Um it's [PHI-Personal] so it is [PHI-Geographic].
+Nurse: Ok. All right my dear I'll I'll give him a call and and see um how it goes I appreciate
+Patient: Absolutely ti if you need help with anything else just give me a call back. Ok hon
+Nurse: I will. Alright. Alright
+Patient: You're you're welcome you too bye bye.

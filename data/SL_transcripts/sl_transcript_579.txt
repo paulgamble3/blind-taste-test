@@ -1,0 +1,20 @@
+Nurse: Good afternoon. Thank you for calling Care Management. My name is [PHI-Personal]. How can I help you today?
+Patient: Yes, this is [PHI-Personal]. I got a phone call about uh a new benefit at the practice.
+Nurse: Yes, thank you, [PHI-Personal]. I appreciate you giving us a call back. I do wanna inform you the calls are recorded for quality purposes for reaching out to you. No problem in regards to our care management program, which is a call from our nurse where she checks in with you in between office visits, answers questions or concerns. She'll help manage chronic conditions. She can assist you with medications, lab results, community resources. Anything that pertains to your health, the nurse will be a good resource. Yep. Hello.
+Patient: You hear. Oh, sorry. No, don't worry.
+Nurse: Sorry about that. It's a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. It would be subject to deductible copay co insurance. You may receive a statement from the practice for those services. Now, [PHI-Personal], would you prefer if the nurse reached out to you in the morning or afternoon, afternoon, afternoon? Perfect. And would it be ok for her to speak to you regarding any mental health like anxiety, depression, anything that falls into that category. Yes, perfect. And again, subject to deductible co pay co insurance. Now [PHI-Personal], I'm showing that you have [PHI-Personal]. Do you have any secondary insurance?
+Patient: I have a [PHI-Personal] Advantage [PHI-Personal],
+Nurse: [PHI-Personal] Advantage [PHI-Personal]. Ok, perfect.
+Patient: The gold.
+Nurse: Oh, perfect. Excellent. All right. And I'll be mailing out the nurses information. I've got you at [PHI-Geographic] A P A. Correct? Excellent. Ok. We are all set, [PHI-Personal]. I appreciate your time. You have a great day. Stay safe. I just
+Patient: Did wanna clarify. I'm sorry. Um, I, I didn't hear if you were saying how often would the nurse call? I
+Nurse: Apologize that. So that's completely up to you. The nurse, um, the program is once a month, she, she'll reach out once a month. But if you um, get
+Patient: Broken up, I'm sorry. Oh,
+Nurse: No worries. You can. Uh, the nurse would reach out once a month,
+Patient: Once a month. Same. Yes.
+Nurse: Ok, perfect. You have a great day
+Patient: Then and you guys don't need anything else from me. No, that'll
+Nurse: Be it.
+Patient: All right. Thank you, ma'am. You have a wonderful day as well. Thank
+Nurse: You. Bye
+Patient: Bye bye bye.

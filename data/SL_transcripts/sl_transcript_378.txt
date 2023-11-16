@@ -1,0 +1,30 @@
+Nurse: This is [PHI-Personal].
+Patient: Hey [PHI-Personal], this is [PHI-Personal].
+Nurse: Hi [PHI-Personal], how are you?
+Patient: Good, how are
+Nurse: You doing? Good thank you. So I saw where you sent in your BP log um since doubling the Diovan and it looks really good. I know [PHI-Personal] looked at it and let you know everything looks fine. Yeah. How are you feeling? Good, good feeling. Well.
+Patient: Yes. Yeah.
+Nurse: Ok. And since you sent in the log has your BP still been? Ok.
+Patient: Yeah. Yeah it has
+Nurse: Been. Ok good. So not having any dizziness headaches. Nothing like that. No, no. Ok. Ok, good. I want to pull up this log real quick and just take another quick peek. Yeah. So on the [PHI-Personal] and how often are you checking your BP?
+Patient: Uh usually about once a week.
+Nurse: Ok. And when do you take it in the morning or in the evening?
+Patient: Uh usually in the morning?
+Nurse: Ok, good before you take your meds.
+Patient: No. Ok
+Nurse: After after. Yeah. All right, perfect. All right. When are you leaving for the cabin?
+Patient: Uh we're leaving tomorrow evening.
+Nurse: Ok. Alright. Are you all ready to go?
+Patient: Uh not yet. No, we're running to s today.
+Nurse: Uh, we're never quite ready, are we?
+Patient: No, not for sure. No.
+Nurse: All right. And you're feeling ok in regards to the, uh, the ovarian cancer in the lymph nodes, everything's, you're feeling no pain or anything.
+Patient: Yeah. Everything's good right now. Yeah. Good. Yeah, I'm, I'm played out but I think that's part of the meds. So, you know, I'll deal with it.
+Nurse: You, you said you're tired? Yeah. Yeah. Ok. All right. Make sure you're getting your plenty of rest and enjoy your family for Thanksgiving.
+Patient: I do that. Ok.
+Nurse: All right. Well, thank you so much. I just wanted to check in with you and make sure everything was still ok with the BP and, you know, I saw you sent the log and all of that. Do you need any refills on medicines or are you? Ok.
+Patient: Um, I, I picked one up today and I think I'm ok.
+Nurse: Ok. All right. So no refills needed. And, um, you're going to follow up with oncology after Christmas, right?
+Patient: Yes. Yes. The, the [PHI-Personal] I have, I meet with [PHI-Personal] and the fourth. I have ac T,
+Nurse: Right. Ok. All right. Well, I will check back in with you next month and see if you're all ready for Christmas and all that good stuff. Ok. Sounds good. Have a nice Thanksgiving, [PHI-Personal].
+Patient: Yes. You too. Thank you. Thank you. Bye bye bye.

@@ -1,0 +1,11 @@
+Nurse: Good morning care management nurse [PHI-Personal]. How can I help you?
+Patient: Are you the one that talked to me a little bit ago? I [PHI-Personal].
+Nurse: Um, may I have your name,
+Patient: Please? [PHI-Account]. Yes, sir. Yeah, I think you re, I think you refilled my wrong pill. They just uh text me and said my me was ready which is my thyroid pill. Um I needed that BP pill.
+Nurse: No, sir. I haven't put that in just yet. I haven't requested it just yet. I'm working on that now.
+Patient: Oh, well, I wonder why they, I wonder why they text me and said my was ready. I have a lot of them. I thought maybe you
+Nurse: Got mixed up. Let me, let me take a look. Mm. No, sir. I don't see where anyone from the office has requested that medication for you. It looks like yesterday there was a request put in for oxyCODONE but that um the one did not come from us that may just have been an auto refill for you. Or um, the endocrinologist office may have put a new one in for you for the 15 mg. Oh,
+Patient: Ok. All right. That's probably what she did. Yeah. All right. I thought maybe you made a mistake. I'm sorry.
+Nurse: Oh, no, sir. It's fine. I'm actually um working on that request right now, so I haven't hit in just yet.
+Patient: Ok. All right. Thanks a million.
+Nurse: You're welcome. Bye bye. Bye bye.

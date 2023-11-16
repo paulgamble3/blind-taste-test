@@ -1,0 +1,20 @@
+Nurse: Speaking. How can I help you? Hi, someone named [PHI-Personal] just called me. Ok. And this is ok. Hold one second, ma'am,
+Patient: [PHI-Personal] Cod. This is [PHI-Personal].
+Nurse: Hi, [PHI-Personal]. You just left a message on my voice mail. My name is [PHI-Personal].
+Patient: Um, yes, I did. So, doctor. Um, first of all, thanks for returning my call. Uh, doctor has a message in here stating that it's reasonable to treat with Paxlovid, um, which is the antiviral and he sent it, uh, the CV S and does not have this in stock, but the CV S in [PHI-Geographic] does. I've sent a prescription to CV S [PHI-Geographic] Falmouth.
+Nurse: I picked it up last evening.
+Patient: Ok. All right. So, yeah, that's all he wanted us to do was let you know that. Ok. All right. Is there anything else that I can help you with?
+Nurse: I don't think so. Ok. I just have to get through this, I guess.
+Patient: Um, and did you, uh, discuss with anybody, the isolation guidelines and things of that sort?
+Nurse: Yeah, I'm fully aware of them. I work in, I work in health care.
+Patient: Ok. All right. Yeah. Unfortunately, it does take a little while to get through. But hopefully that Paxlovid will help you with feeling better.
+Nurse: I hope so. I'm just really congested and lots of wheezing and [PHI-Personal].
+Patient: Ok. Well, if you, uh, you know, if you're having any difficulty breathing shortness of breath or anything chest pains, then you need to go to the emergency room to be seen. Excuse me, if you feel that you have something going on in your chest and, uh, you feel that you'd like to have somebody listen to your chest and possibly do a chest x-ray, then maybe go to urgent care. They could help you with something like that.
+Nurse: Ok. I've been taking Mucinex.
+Patient: Ok. Does the Mucinex seem to be helping
+Nurse: A little bit? It seems to wear off very quickly. Yeah. Ok. But I also have allergies so that could be big part of it too. Yeah,
+Patient: It would make it worse. I'm sure just like I said, just be mindful and it's basically that's what it is. It's just treat your symptoms. Um, so, you know, with the congestion, if you, you know, I can't recommend any medications. But um, if you're taking the Mucinex and it seems to be helping, then obviously continue that.
+Nurse: Yes. Ok. Well, thank you so much, [PHI-Personal]. You're
+Patient: Welcome. I hope you feel better. Let us know if you need anything further. You. I will have a good day.
+Nurse: You
+Patient: Too. Thanks. Bye bye. Thank you. Bye bye. Uh huh bye bye.

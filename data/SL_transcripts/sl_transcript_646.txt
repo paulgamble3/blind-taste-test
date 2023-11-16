@@ -1,0 +1,14 @@
+Nurse: This is
+Patient: Hi [PHI-Personal].
+Nurse: Hi, how you doing? Good, good, good. How's that toe?
+Patient: Um, it's good. Uh, I did. It is, it's good. I accidentally knocked it, um, on one of my tables. So, um, you know, it hurts a little but otherwise it's doing good and I have an appointment, um, next Tuesday to, to see, you know, the doctor. Good deal.
+Nurse: Good deal.
+Patient: Yeah. So, you know, I accidentally knocked it. So, you know, it's a little sore but that goes without saying, being clumsy, you know? Yeah. But otherwise I'm good. Yeah.
+Nurse: Good. I'm glad to hear it. Yeah, I wanted to check in and make sure that you were. All right. Well, thank you. Well, you're very welcome and I'll, I'll talk to you probably next week after your appointment with the Podiatrist. I'll call and check in and see what they had to say.
+Patient: Ok. Sounds good.
+Nurse: All right. Well, thank you very much. And you have a good weekend.
+Patient: You too. And I hope you have a good, uh, what is it? Memorial Day? Is that what it
+Nurse: Is? Memorial Day? Yep.
+Patient: Yep. Yep. So have a good one. You
+Nurse: Too. Thanks. Bye. Bye bye
+Patient: Bye.

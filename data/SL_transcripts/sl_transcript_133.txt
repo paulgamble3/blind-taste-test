@@ -1,0 +1,33 @@
+Nurse: Hello. It's [PHI-Personal]. How can I help
+Patient: You? Hi, [PHI-Personal]. It, it's sister [PHI-Personal].
+Nurse: Hello. How are you?
+Patient: Well, right now I'm in the [PHI-Personal].
+Nurse: Oh, my
+Patient: Goodness. Remember I told you I did have to go for that pelvic exam. Ok. Well, we did have that but in the meantime, my right leg has been swelling. I think I mentioned that to you.
+Nurse: Yes. And I sent that
+Patient: Message over to so they wanted to check what's wrong with the right leg up to the hip. When they took x-ray, they found out I have some blood clots.
+Nurse: That's what I,
+Patient: What they need to do is, um, have four, have 24 I mean, 48 hours of their own therapy here at the [PHI-Personal],
+Nurse: 48 hours of therapy at the
+Patient: [PHI-Personal], you know, so they could put me on medication for blood thinner and, and things like that. Uh, but I guess what I was thinking of is if it would be extended, I might need some health care help. Remember we talked about, uh, they are the home care. Mhm. Now, did get me that and when my brother came back from the, from the, uh, I mean, the record you, which was a, um, nursing home and she used to come in, like, only once a week to be able to check on him because I was here taking care of it. But we would probably need more help, like, somebody to come in maybe twice a day, once in the morning and once in the evening. And so I'm once
+Nurse: In the morning and once in the evening, huh? So, you're saying you want somebody to come in for your brother once in the morning and once in the
+Patient: Evening in the evening? Yeah, just to kind of check on his bum. And that's what they were doing. Basically when they came before. I mean, checking on, you know, his pressure and all that too. But, uh, basically it was the bum because they were, uh, um, what do I wanna say? Open sores and we needed to heal them up. We did get them healed. They're pretty much healed now, as long as we can get him up and moving a little bit and he's continuing to take his medicine.
+Nurse: Ok. So,
+Patient: With, with the, that I could go home today.
+Nurse: Yeah, I, I didn't think you'd be able to, we, no. Mm. Mm. So, you want this to go through the, um,
+Patient: [PHI-Personal],
+Nurse: [PHI-Personal]? But the, like, the regular [PHI-Personal] nurse or the, the per, you need the personal care. Well, they were
+Patient: Called but I think right now, I forgot they must have a new name and then I think if you call the, now they might be able to tell you what the other name was and if that is a possibility, ok, for someone to do that, I know we'd have to pay him or whatever. But,
+Nurse: All right. And you're using this one out of [PHI-Geographic], right? [PHI-Geographic] part. Ok.
+Patient: Yeah, the one closest to this diocese, I mean, to this, uh, residence. Ok. Because the last one we like to do is, uh, I don't know if, is still in their group. So she was the last one to visit us.
+Nurse: Ok. Was the last one to visit? Ok. How long ago was that, [PHI-Personal]? Pardon me? How long ago was that?
+Patient: Oh, I guess a couple months ago, you know, because he didn't need check and he was doing fine at the time. So he, he didn't really need it, but that was her follow up call because we had another girl, [PHI-Personal], but [PHI-Personal] was moved and was, was taking her place. So that's how she got here. Ok. And so I don't know if you can do some contact stuff for me.
+Nurse: I'll, I'll try, I'll work on that as soon as I get
+Patient: Off the phone.
+Nurse: And I, are, you still got your cell phone on you? Right. Yes. Mhm. Ok. And how many blood clots did they find? I'm sending a message over to
+Patient: Tell me how many, but they're around the knee and up the calf. I mean, th around the knee and probably what was causing all the pain.
+Nurse: Oh my gosh. All right. I'm sending a message now. I can see. Doctor told the staff there that they should see about getting you in for an appointment. Well, forget that now because, well, you're where you gotta be, you know.
+Patient: Right.
+Nurse: All right. Ok. Let me get working on this. I'll get back to you.
+Patient: Ok. Thank you very much, [PHI-Personal]. God
+Nurse: Bless. Oh God bless you. Mary. Hope you feel better.

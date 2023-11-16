@@ -1,0 +1,15 @@
+Nurse: Good afternoon, [PHI-Personal] speaking.
+Patient: Yes, this is [PHI-Personal]. Someone called me, I just return the call.
+Nurse: Mhm. Absolutely. Give me one moment here. Let me pull you up. Uh, let's see here. Uh, it looks like it was me that did call you. My name is and I was calling from uh doctor Care Management team. So pretty much, um, what it is, the doctor is providing a care management program for you and you're gonna get a call from your dedicated nurse who's gonna call in between your office visits. She's going to provide any assistance if there's any current health conditions. Also as far as prescription refills, prescription cost reduction, setting up a rescheduling appointment as far as lab results. Also the program just wait a
+Patient: Minute. What? Yeah, what are you talking about?
+Nurse: So the doctor is providing a care management program for you that he thought that you can benefit from.
+Patient: I I thought they would call with my test results. That's all.
+Nurse: Ok. Ok. We can def did you just recently take one? Let me see. I'm gonna look up on your file. Did you just recently do some tests?
+Patient: No, I guess I called this morning.
+Nurse: Uh, got you, got you got you. Ok, let's see here. I'm looking that up right now. Ok. I will definitely let her know. And then just to make sure, uh, we do, um, the program, it is a billable service to Medicare and I do see that you have Medicare and Medicare advantage and secondary insurances. So it may be subject to coinsurance, deductibles and copays. Now, would you prefer a morning call or an afternoon call?
+Patient: I don't know what you're talking about
+Nurse: For the nurse to call you for the care management program.
+Patient: Oh, well, the morning, I guess the
+Nurse: Morning. Ok. And just to make sure we still have an updated address here. I have a 601, Ley road, Camp Hill, Pennsylvania. Correct? Ok. All right. What I'll do is I'll mail you the nurse's contact information. She's going to reach out to you in the next few weeks just to touch base and introduce yourself to you. Ok. Ohh. Right. All right. Well, you have a wonderful day, Miss [PHI-Personal].
+Patient: Thank you. Bye. You're, you're
+Nurse: Welcome. Bye bye.

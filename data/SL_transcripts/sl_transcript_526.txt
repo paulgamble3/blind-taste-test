@@ -1,0 +1,30 @@
+Nurse: Hello, this is [PHI-Personal]. How may I help you?
+Patient: Yeah. Uh, just someone just called our number.
+Nurse: Hi. Yes, that was me. This is [PHI-Personal]. Um, we spoke last month, um, and I just wanted to touch in to see how things are going for you.
+Patient: Yeah. Well, I, I was very sick. I had a, they say it's a 24 hour bug, my own knee. I had it for three days throwing up and diarrhea and I, um, I missed an appointment yesterday with [PHI-Personal], uh, because I didn't even look at my schedule. I was so sick. But, um, I'm much better now. Things are ok. Now, today is my real good day.
+Nurse: Ok. Awesome. Were you able to reschedule that appointment? Looks like [PHI-Personal]. Is that right?
+Patient: Yeah, that's it. Yeah.
+Nurse: Ok. Perfect. I'm glad you're feeling well. Did your husband contact it as well or just you?
+Patient: Oh, I didn't hear you.
+Nurse: I said, are you the only one that contacted that virus or did someone else in your family have it
+Patient: As well? No, no, no, I'm the only one. My husband was fine. He took good care of me and, uh, he didn't get it. So,
+Nurse: What was it? Just nausea? Vomiting and diarrhea?
+Patient: Oh, God, it was awful. Oh, it was horrible.
+Nurse: Ok. And you had it for about three days?
+Patient: Yeah. Now I'm ok.
+Nurse: Ok. I'm glad you. Ok, make sure that you're getting plenty of fluids and electrolytes. Um, so that you don't get dehydrated or feel very weak, um, just make sure that you're getting plenty of fluids for the next, you know, a few days and, and just try to, and just introduce foods kind of mildly, um, try not to eat anything heavy very soon. Try to start with like, soups and things like that and then go back to your normal diet as your stomach is able to tolerate it.
+Patient: Right. Right. And that's just what I'm doing yesterday. I, yesterday I ate a little chicken and mashed potatoes and I was all right with it.
+Nurse: Ok. So that's really good chicken and mashed potatoes. Ok. Well, that's awesome. I see that they were able to get you in, um, you know, in our last conversation you were dealing with the dizziness and I see that, um, [PHI-Personal], you know, was able to get that resolved for you. So, have you had to take that medicine?
+Patient: I only took it for a couple of days and I got, I was fine.
+Nurse: Oh, wow. I'm so glad I was able to get that taken care of for you. So, you know, you can continue that as needed up to four times a day. But I'm glad you're not needing it anymore.
+Patient: Right. Right.
+Nurse: Ok. And so, um, so the dizziness is, is even when you stoop and then you don't feel any dizziness. No. Oh, wow. That is, that's like a miracle peel then.
+Patient: So, that's awesome. Yeah, it took about 33 days to help me and then I was fine. Yeah, I couldn't have deal with it. I couldn't have deal with that. And, uh, with the, with the virus that I had, it was horrible.
+Nurse: Oh, no, that would have been a bad combination together. So that worked out perfectly. Um, that you got one fix. I know I would, I don't like for you to be sick at all, but I would rather take, um, them separately than together. Ok. Um, but as far as like if the symptoms do worsen, I do see where she recommended physical therapy. So just be sure to notify myself or the office if th if those symptoms, you know, kind of worsen to where medicine isn't helping. And so that way we can go to physical therapy, but hopefully we don't have to do that since the meclizine is helping for you.
+Patient: Yes. It, it's done wonders, honestly.
+Nurse: Ok. Well, awesome. Do you have any plans for today?
+Patient: Well, we're right now at Walmart picking up a couple of prescriptions for my husband and, uh, and then we have to do a little food shopping uh for uh I'm trying to, I'm trying to get stuff so I can make real easy. Yes. Yes.
+Nurse: Yes. Ok. Well that's awesome. Well I'm not gonna hold you up um I'm glad you're feeling better um, if you need anything, please don't hesitate to give me a call. My name is [PHI-Personal].
+Patient: Ok, honey thank you so much. You're
+Nurse: Welcome. Enjoy your day. Bye
+Patient: Bye bye bye.

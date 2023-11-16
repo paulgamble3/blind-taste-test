@@ -1,0 +1,34 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hello, this is [PHI-Personal]. Uh calling my nurse care manager to do the monthly update.
+Nurse: Yes. Give me just a second.
+Patient: Ok, let's see here.
+Nurse: Let me get your chart pulled up here. All right. One second. Ok. There we go. Sorry. Took me just a second. Yes, I was just calling to do your monthly call. Wanted to make sure everything was going. Ok. Um doesn't look like I got to talk to you in [PHI-Personal] so I just wanted to make sure um you didn't need any refills on anything or didn't have anything new going on.
+Patient: Don't think I've got anything new going on except for, let's see, last month. Uh for three days I was dizzy in the morning when I got up, but I think it ended up being a bug because then that happened to my wife and then that happened to my boy. So that's all gone.
+Nurse: Ok. But since no dizzy episodes since or anything like that. No.
+Patient: Uh no. Ok. That was the only symptom. It was weird just for three days.
+Nurse: Yeah, that is really odd. You didn't have any other symptoms other than, than dizziness. No. Was there any, like, congestion or anything like that? Nothing
+Patient: Like that. It was just, when I got up in the morning I was dizzy for a little bit and, and, uh, that was it. And, and then, uh, when, when he had it, he also had a seizure with it. Oh, bless his heart. But that's, yeah, when, whenever he gets a, a bug he, he has a seizure and, or even, even if he's, doesn't have any symptoms, you know, if he's just got some stressor so that I, I didn't know what the sever was for until all three of us got the dizziness and then I figured out it's gotta be a bug.
+Nurse: Ok. Well, I'm glad that that's resolved that you've not had any, you know, further issues. Um, all right. And then let me hold on one second. Excuse me. Um, now as far as your medications are concerned, do you need any refills on anything?
+Patient: I don't think so, but I'm not in front of them. So, let me see here. I think I'm good.
+Nurse: Go back here. Um, ok. So if I name your medications off to you, can you tell me what I have is correct. Yep. So I've got an amid five mg, one tablet daily. Yep. A Cialis five mg as needed a fish oil, 300 mg, one capsule daily.
+Patient: No, that's not a, uh, a prescription.
+Nurse: It's just over the counter. Yeah. Ok. And then Lisinopril 20 mg daily. Yeah. Uh looks like we've got a magnesium and it's 30 mg. Take one with uh meals.
+Patient: The, the rest is, the rest is just, you know.
+Nurse: OK. And then your lovastatin 20 mg. Are you still doing it? The what is it? Rosin calcium, 20 mg. One tablet every day should be uh statins like for cholesterol.
+Patient: Oh yeah. Yeah. Yeah. Yes, I'm doing that
+Nurse: One and then omeprazole 40 mg that's for like GERD or acid reflux rather. Yep. Yep. Ok. Um All right. So we'll check all that and then it doesn't look like you have any appointments coming up any time soon and don't saw any specialist in the month of [PHI-Personal] or anything like that. No. Ok. All right. So let me update this, that your medications are correct and you don't need any refills and all of that looks good and we'll confirm that. Ok. All right. So what I'll do is, um, I've got all that updated that we went over that everything's up to date and you don't need any refills. Um, if you know, for some reason that the symptoms return, you know, if you have the dizziness again, um, you know, or you see that it's, you know, occurring more than once, you know. Definitely let me know and we'll look into it. Um, but other than that, everything looks good on my end. Um, so I'll call you again. You get that
+Patient: Chronic uh uh scalp itch. But I
+Nurse: Still going on with that. Yeah. OK. And you said the, was it the, the, did you say didn't help much?
+Patient: Uh So [PHI-Personal] seems to be the one that helps the most, but it still doesn't get rid of it. And, and you know, I get these pimples right below the hair line, which are really annoying. OK, from it. So
+Nurse: Now, uh let me go back to that visit because it does say here, did they mention ok, uh use SS some daily or every other day may use oil if skin is too dry, can ask for [PHI-Personal] Cali zole if needs. I wonder if that's prescription.
+Patient: Yeah, that's a prescription. One.
+Nurse: Is that the, I mean, um has it gotten to the point where you feel like you need to try a prescription?
+Patient: What does that do?
+Nurse: Let me get this pulled up. So I can tell you the exact like action of it because
+Patient: He told what he told me was, you know, these shampoos. So basically just break it up and you just have to keep it, keep working it. And if you know, if there's not something that's going to cure it, I've heard that maybe just uh ultra violet uh kill this stuff. So I'm, I've basically given up wearing my hat.
+Nurse: Um So basically, it's, it's described as an, an antifungal shampoo. It treats fungal or yeast infections in your skin. Um OK. Mhm. Yep. So, um, it just says that it treats fungal yeast infections of the skin. Um, and let's see, [PHI-Account],
+Patient: [PHI-Personal]. At this point, it's been almost [PHI-Personal] years. Maybe I should, should probably try something like that.
+Nurse: I mean, what I can do is, um, let me go back over here, I can send doctor, uh, rea a message and let him know that, you know, you tried the s and it didn't work. The, you know, seems to, you know, help a little bit, but it doesn't, you know, relieve it, see if he'd be willing to, um, get you a script for that. Um, or see if, let me see here. Let me go back.
+Patient: Yeah, he said he would, uh, when I talked to him, I, and I said, well, let's just try the over the counter stuff
+Nurse: 1st 1st. so let me, let me shoot him a message and let him know what's going on. Um, and ask him if we can get that, um, you know, prescribed for you. And then let me see here, uh, as far as pharmacy information, uh, excuse me, [PHI-Personal], is that who you use? Ok. All right. So that's where it needs to go. Um, so what I'll do is I'll send that over, um, with it being 3 40 I don't know that I'll have a response this afternoon. Um, it may be in the morning, but as soon as I get a response back from that, I will give you a call back and let you know, um, and, you know, be worth a try, you know, I mean, if nothing else has helped, um, I mean, you know, doesn't sound like you have anything to lose to try something else that, you know, I mean, even if this doesn't work either, you can at least say you tried. Um, and then, um, like I said, as soon as I get a response from doctor I'll give you you know a call back and let you know what he says. Ok. Ok, very good. Alright you have a great afternoon. Thank you for returning my call. Mhm bye bye bye bye.
+Patient: Yeah.

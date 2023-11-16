@@ -1,0 +1,42 @@
+Nurse: This is [PHI-Personal] nurse care manager. Hi, this is
+Patient: [PHI-Personal]. You had called and left a message for us.
+Nurse: Yeah, I was just calling to get you started with that new program we got you enrolled in.
+Patient: Ok. Well, we was at a doctor's appointment so we just got back.
+Nurse: Oh, ok. Here. Let me get you pulled up here. Ok. Your date of birth. [PHI-Personal].
+Patient: Yes. Ok. You need the money. So I'm sorry, do you need also,
+Nurse: Um, I was going to let you know, unfortunately he does not qualify due to his diagnosis with the end stage renal disease. Um. Oh, ok. I don't know why it's one of [PHI-Personal] things. It's unfortunately, um, once you hit the end stage renal disease diagnosis, they no longer qualify for the chronic care management program. I don't understand why that specific diagnosis. Ok. Um, so I did wanna let you know,
+Patient: Ok, because I knew when they, they said for both of us and that's why I didn't know.
+Nurse: Yeah, it was initially for both of you and then whenever I was putting in my notes that I called you, I noticed he had that diagnosis and unfortunately, um, that, that makes him ineligible. So, uh, but if you, uh, my name is [PHI-Personal] and I'm gonna be your nurse care manager. If you have any questions or anything with him too, I'd still be happy to help out. That's not a problem
+Patient: Because I know he goes to doctor, uh, to [PHI-Personal] also and I, I, that's why I didn't understand, but that's ok.
+Nurse: Yeah, it's a [PHI-Personal] based program through the doctor's office. So they have certain requirements and everything like that. And, uh, for some reason, the one diagnosis that disqualifies you is that end stage renal. I, I don't know why it's only that one, but unfortunately it is. But if you need help with anything, I'm still here, I'll, I can't, I, I don't mind. Um, so again, like I said, my name is [PHI-Personal]. And if you have any sort of medical related questions concerns need help with refills, medications, appointments, anything really at all related to your overall health or general well being I'm here for you. Like your own personal nurse. Ok. All right. And then
+Patient: I get, and I call this number, I call this number each time.
+Nurse: Yeah, you can call this number. Um, and then I'll be sending out a care what's called a care plan. It's basically the m uh, medical milestones that [PHI-Personal] likes their patients to hit. Now, these are not a requirement to complete, to stay in the program, but it's things like if you're due for a colonoscopy or certain lab work or the flu shot, things like that are on there. Um, but it's more talking points like whenever you go see [PHI-Personal], like, hey, I thought this was on my list. Do I still need to do these or is this something I should follow up with type thing? Ok. And on that care plan is also gonna be my name and phone number too in case you need it. Um, and then I don't work in the office with [PHI-Personal]. I work outside of the office, but I'm generally in from 8 to 4 30 Monday through Friday and I'm in constant communication with [PHI-Personal] and his care team throughout the day.
+Patient: Ok. Um, you're there Monday through Friday. Yeah. Ok. And if you would need a refill from [PHI-Personal], I can still call you for that.
+Nurse: I, I wouldn't be able to do refills for him. Um,
+Patient: So I still have to just come to [PHI-Personal] office to get them.
+Nurse: Yeah. Unfortunately, since he doesn't qualify, um, I know that makes it a lot more complicated too, but you can, for your prescriptions, you can call either me or the office. That doesn't matter. Uh, but I can help you out with that if you can't reach them.
+Patient: Ok. All right. That would be fine.
+Nurse: Do you have any other questions or concerns?
+Patient: No, I think we're, um, [PHI-Personal] was the one that had the problem here last week, but I got a hold of [PHI-Personal] and we got that taken care of. So, and if I can't, you know, I can't go through you for him. There's probably no, no other reasons. Nothing right now.
+Nurse: Ok. Um, well, if you have like, any question about like, his, I can still help with some things. I just can't, um, do any, like office based communications, um, since he's not part of the program, but if you have any questions or still need help with anything for him, I know this is a lot going through. I saw that he was on the transplant list and everything. So you've got a heck of a lot on your plate right now. I'm still happy to answer any questions or anything that you may have and help out as much as I can.
+Patient: Ok? Because what I was calling for the last time was for, um, he had a bladder infection or something, uh urine infection and I was trying to get a whole to get something for that, but we got that taken care of now and that's something you wouldn't have been able to help me with. Right.
+Nurse: That's something that I can help you with. Um I mean, I would just call the o if you can't reach the office, even if it's in regards to Donald, give me a call and I'll still do what I can to help out. I think it's silly that that one diagnosis, um, excludes him. But I'll, I'll see what I can do still. Ok.
+Patient: I appreciate that.
+Nurse: Yeah. Not a problem. I know. He's the one that has a lot of the big health concerns right now too, which is, I think he would benefit the most from this program. Unfortunately, they're silly guidelines. Um,
+Patient: Help me the, the best to, to help, to go through you, to help with him. But that's fine. I, there's rules and you can't do what you can't do.
+Nurse: Yeah. But if you still have any questions about his medications or if you still have any need, any help or questions regarding any he, his health problems, you can still give me a call and I'll see what I can do. Um,
+Patient: I appreciate that.
+Nurse: Yeah, because I, I know that you've definitely got a lot on your plate. So if any way, if there's any way that I can help with either of you too, let me know. I just can't do the refills. Um, I can't, I can't do any inter office communication through the messaging system for him. Um, but I can still, you know, make phone calls and stuff on his behalf, so.
+Patient: Ok. All right. I appreciate that very
+Nurse: Much. Not a problem at all. And then one more little thing that we like to do during the first phone call is just going over your med list. I see you're not on a lot of stuff so that shouldn't take too long. Um, do you know what you take today?
+Patient: Uh, yes, I take vitamin D, uh, 4000. Uh, I take um, um, Synthroid with the generic for Synthroid. I take 1 25. Yeah, I just, because she just changed it on me. Um, and I take, um, oh, Le [PHI-Personal]. I know what it is. But then I select CeleXA. Yeah, I take that. I take 40 g of that. Ok. 40 mg. And I have um for my, for cholesterol
+Nurse: Pravastatin 20 mil. Yes. Yes. Yes. Ok. So I got the vitamin D added in there. And you, what was the dose of the Synthroid?
+Patient: Uh 1 25 because they just changed, it was 1 12 and then just upped it to 1 25. But I do blood work here in a couple more weeks to see if we keep it at that.
+Nurse: Ok. So let me adjust this here because I still have 100 and 12. So it's 100 and 2025. Ok. I got that fixed there and then you still the only other change? She just changed it. Ok. And then the only other thing I have here is meclizine as needed for dizziness. Vertigo.
+Patient: Yes. I, I forget about it until it hits me and then I remember I have the meclizine. Yes.
+Nurse: OK. So I got you up to date. We're good to go then. Ok. All right. Do you have any other thoughts, questions concerns or anything for me today?
+Patient: No, I don't think so did today.
+Nurse: All right. Well if you need anything, don't hesitate to give me a call. Ok, [PHI-Personal].
+Patient: Ok, I appreciate that. Thank you.
+Nurse: You're welcome you take care you too bye
+Patient: Bye bye bye. Alright.

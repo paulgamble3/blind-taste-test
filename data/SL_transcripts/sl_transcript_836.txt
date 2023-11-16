@@ -1,0 +1,53 @@
+Nurse: [PHI-Geographic] Medical. This is [PHI-Personal].
+Patient: Hello, [PHI-Personal].
+Nurse: Hi. Is this [PHI-Personal]?
+Patient: That's me.
+Nurse: Sorry, I got stuck on the phone.
+Patient: That right. I got customers coming in and you can't talk, you know, when you want to, you know. You know. Yeah. How have you been feeling? Your lovely, my dear, how my,
+Nurse: What, how are you feeling?
+Patient: Well, to be honest with you, [PHI-Personal] gave me a prescription for something there. I got, it started taking, it stopped taking the Metformin after about a week and a half. I noticed my ankles are starting to swell up and it got worse. Finally, I'm like, look, you know, I got a dam start and I'm taking these Lasix to, um, keep that mean, the other pill was to replace the blood sugar, but it was interfering with the LASIK or something anyway. So I stopped taking them and the swelling has gone down. Some, it still aches and hurts but it's not over with. So I just, uh, abandoned that one. I was gonna call him up and tell him. But, uh, hard to get to him
+Nurse: Too. Yeah, I'm looking here to see what the medication is. I see. That your dilTIAZem, uh, was increased. Um, and then you have a prescription for antibiotics.
+Patient: No, not now. Oh, ok. That's if you take that, like, if you take an antibiotic, you know, 10 days later you're not taking it anymore.
+Nurse: Ok. I didn't know if that was a new one or not.
+Patient: No, I haven't. Nobody takes an antibiotic forever, you know. Um, well, maybe somebody,
+Nurse: I, yeah, some people do. Um, ok. Yeah. I don't see a new medicine listed on here.
+Patient: Yeah, it was, um, wait a second. It was. Mm. I'm, I'm not home, of course. But, uh, we can take, was it the, what you said before? Ditz or something like that?
+Nurse: DilTIAZem? Yeah. But that, that's not a new one. That's, that's one that was just increased and that one is for BP.
+Patient: Yeah. Well, what did he give me? What, what prescription did he give me, uh, when I was there? About three weeks ago?
+Nurse: Yeah, that's what I'm looking for. Hold on. I see. Metformin is still listed. Yeah. And I don't see any other diabetes medication listed.
+Patient: Yes. But
+Nurse: You're, you're pretty sure it's for diabetes.
+Patient: Yeah, because I was getting diarrhea and he said, well, that's because of the, uh, the Metformin, the Metformin. He said that's a symptom of it because I got, taking it twice a day. Ok.
+Nurse: Let me look at something else. Oh, [PHI-Personal]. There it is. Ok. Ok. Big cell. Yeah. So you started that caused ankle swelling. So you stopped it.
+Patient: I stopped it. I'm like, wait a second. No, I don't know if it's a side effect of it or it's just me.
+Nurse: Now. Um, did you go back to the Metformin or? No?
+Patient: Oh, yeah. No, I went right back to the mem.
+Nurse: You did? Ok. Yeah. And how, any more diarrhea?
+Patient: No. Ok.
+Nurse: Ok. Well, let us know if it starts and maybe he can, uh, switch that to something else. Ok, I will. Ok. All right. Um, how's your BP been doing since they increased the dilTIAZem?
+Patient: My BP is still out of control. I mean, there's a few times when nobody's bothering me and I'm sitting home and nothing on my mind that, uh, affects my BP. Um, and the BP comes down. It's usually then 1 40 over something in the seventies. Ok. I got a daily chart. I mean, um, has got me charting it every day, you know, good taking it all the time and writing it down. But, um, I just wound up with, uh, you know, I had high BP all my life. People just don't think of it that way. Yeah. But if it's 200/90. Yeah. Ok. What else is, you know? Well,
+Nurse: That's pretty, that's pretty dang high.
+Patient: I know it is. Ok. But when you own a garage in [PHI-Geographic],
+Nurse: Yeah, I know you've got a stressful, stressful job
+Patient: And, uh, you're trying to deal with people that don't have enough money to fix their cars. Mhm. Mhm. And, uh, just drive in here for, you know, it's 44 miles from my house. So now you're gonna take a ride in here and back out again. Just the highway can get your BP up too.
+Nurse: Right. Exactly. Yeah. Yeah. So you would say when you're more calm, your BP average is pretty normal. Ok. Oh,
+Patient: Yeah. You know, so, um, that I'm not so bad but, um, it is what it is but I could take it. Uh, well, I've got these things doctor gave me. So I've been doing it every day, every morning and every evening. Sometimes if I, on the weekends I might put another one in between what it was, uh, mid, mid day. But, um, actually I should, I could take and write a book with the BP. I'll give my BP, um, just get all the doctors on the same page, you know. Yeah.
+Nurse: Well, uh, just keep, keep checking it, writing it down like you are and then let, uh, cardiology know and if you notice that it continues to stay 1 40/90 or above, make sure you let them know. Don't put that off until your next appointment.
+Patient: Ok. Well, it's always not the 90 part but most of the time that's seldom with the, you know, but, um, if I'm 1 40 to 1 70 over something in the eighties or around 80 even in the seventies, that's where I've been running. Ok. Ok.
+Nurse: All right. Ok. Do you ever have any chest pain, shortness of breath? Dizziness?
+Patient: No, not really. Yeah. Ok. Ok. Um, I, I get, I can almost tell when my BP is rising, depending upon who I'm having a discussion with. Right. Ok. Or what I'm dealing with. Ok. So, um, that's basically where it gets down to, you know. So, uh, I think I've got my wife pretty well trained. We know that
+Nurse: I'm not gonna tell her, you said that
+Patient: You could tell her she's home. Um, anyway, darling, I'm eating a salad if you can't tell my crunching. Well, that's good. Well, no, I, I make these somewhat outrageous salads but this time of the year it's tough because I'm not picking them out of my own garden, you know? Yeah. And you can't get out of your garden around here.
+Nurse: Oh, I wish
+Patient: I'm trying to have these poor fig trees have been growing in my backyard. Me a damn figure ready. I gotta build a greenhouse around them anyway. I'll talk to you again sometime.
+Nurse: Yes. You let me know if you need anything and you just keep an eye on that BP. Ok. Ok. Yeah. Um, wait real quick so I can let, uh, doctor know how's your blood sugars doing since you went back to the Metformin? I never tested it. Ok. All
+Patient: Right. I'm sorry, I, I, ok. Ok. That's fine. Well, listen, I'm thinking about it though.
+Nurse: Ok. Well, listen, some symptoms to be aware of low blood sugar, you're feeling dizzy, lightheaded clammy skin, high blood sugar is going to be excessive thirst, urination, hunger. Ok. No,
+Patient: It's like, uh, when the blood sugar gets up there my vision gets changed. Oh,
+Nurse: Yeah. Yeah, that's a big one. Ok.
+Patient: And, well, I'm aware, well aware.
+Nurse: Ok, so all right
+Patient: You know if I can't understand I know how people get along with it, taking care of themselves if they don't understand what's going on, you
+Nurse: Know. Right.
+Patient: Yeah that's right.
+Nurse: All right. Well I'll give you a call next month. Ok? Yeah I do that. Ok. Alright thank you. You too. Bye bye bye bye.

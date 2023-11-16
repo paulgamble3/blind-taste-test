@@ -1,0 +1,9 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Hello, Miss, this is [PHI-Personal]. Yes.
+Nurse: Ok. Let me pull you right up.
+Patient: You talked to my wife yesterday?
+Nurse: Ok. And there you are. Ok. So it looks like you might be eligible for doctor Sco's Care Management program. And so what that is is a nurse that'll be able to give you a call to see how you're doing. She answers any questions, helps refill prescriptions. She'll address any issues you're having and she could also help with appointments and lab work, things like that. The program, it helps keep the doctors updated and it avoids emergency room visits and all the calls the nurse makes are documented and sent to the doctor for review. They are treated as a bill service to [PHI-Personal]. [PHI-Personal] Advantage plans and secondary insurance carriers. And they're also subject to deductibles, coinsurance and copays. So I have here you have [PHI-Personal] and a ARP. Is that still correct? That is correct. Ok. So there will be no copay for your phone call. So that's good. And would you prefer morning or afternoon phone calls from the nurse?
+Patient: Um, probably boring.
+Nurse: Ok, good. And let me make sure you're still at the [PHI-Geographic] in Brandon, Florida. [PHI-Account]. Ok. So I'll also send out a letter. It'll have all the information on it plus a phone number to call in to the nurse if you need to. And then your first phone call from the nurse should be within a week or so. Ok. Ok. All right. Well, that's all I need for today. Thanks for giving me a call back.
+Patient: Uh, what, what, what have it. Yes. Oh, two morning of the week, I have a, an exercise class from, uh, [PHI-Account]. Ok. On Mondays and Wednesdays. You going? So, I'm, I'm busy during those hours, but other than that, I'm pretty open,
+Nurse: Pretty free. Ok, I'll mark that down. Thanks for letting me know. All right. But thanks for calling back. Have a good day. Bye bye.

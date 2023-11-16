@@ -1,0 +1,18 @@
+Nurse: Hi, this is
+Patient: [PHI-Personal]. Uh, yes, my name is [PHI-Personal]. I think you tried to get a hold of me this morning and I am just returning the call.
+Nurse: I did let me pull up your chart. How are you doing today?
+Patient: Oh, I'm doing fine. Good.
+Nurse: Well, if my computer wants to work, I think my computer is saying no, we're out for the day.
+Patient: It is Friday. They take off at noon. I guess it's. Yes.
+Nurse: Um, ok. So I was giving you a call to go over the care management program. Um, and what that is, it is on a recorded line. But what it is is doctor [PHI-Personal] is wanting you to get a call from his designated nurse, um, a month just to go over, um, your health to see how you're feeling. If you have any questions, any concerns, if you need any help with any prescriptions or changes, refills, really, anything pertaining to your health. It's to keep doctor, um, [PHI-Personal] up to date and, um, in between the office visits. So it doesn't replace any office visits in the office. Um, and then it is billable with the insurance pulling that up. Right now these computers and I've got your insurance as Medicare and the M MA, um, secondary. Is it,
+Patient: Uh, yeah. Uh, [PHI-Personal].
+Nurse: Yes. For some reason it says M ma in our system. So it throws us all off. Oh, ok. Yeah. So, uh, it is to insure it and then we can, um, have the nurse give you a call either in the morning or the afternoon, which works best for you.
+Patient: Ok. Um, I, I'm trying to think why I would want to do that. I'm, I'm doing fine. I don't, I just don't, I haven't had any problems with prescriptions or anything. Everything seems to be fine. Fine, fine. Um, so I guess I'm, I'm just thinking well, leave well enough alone.
+Nurse: I understand. Um, and, and that's fine. It's something he is recommending, um, for the patients and it doesn't have to be monthly just so, you know, in the future. Um, it could be every three months, every six months. Um, but if you don't want to do the phone calls right now because everything's going good, what we could do is, um, I can mail the letter for you that has all the information on, um, and it will have the nurses direct number.
+Patient: Ok. That, that sounds good. Maybe a bit more information might turn my head a little bit. I don't know. Who knows.
+Nurse: Yeah. And then if anything changes, you can reach out to us that
+Patient: Way I can always always give you a buzz. Yeah. Yeah. No, I've, I've been very pleased with Doctor [PHI-Personal] and his care and all this sort of thing. So, it's, it's not, uh, once, you know, I'm not ducking anything. He's, he's a good guy. I just appreciate him so much. So.
+Nurse: Yeah, no problem at all. Um, and like I said, I'll get that letter mailed out to you and I've got the address as the [PHI-Geographic]. That's correct. Ok. Like I said, that'll information on there and if anything does change and you decide, you know, something is going on, you want to call, we can change it at any point.
+Patient: Very good, very good.
+Nurse: Alright. Well, you have a wonderful weekend. Ok.
+Patient: Likewise, likewise. Thank you. Bye bye bye.

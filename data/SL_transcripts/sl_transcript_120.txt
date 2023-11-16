@@ -1,0 +1,46 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi. Oh, I can't believe I got somebody on the line. So II, I forgot, I don't know if it was. Oh, I don't remember. Is there a [PHI-Personal] there?
+Nurse: Oh, yeah, [PHI-Personal]. Mhm.
+Patient: Yeah. Ok. Well, anyway, somebody called and we supposed to got together. I'm [PHI-Personal]. We're supposed to get together at three o'clock yesterday. But I got stuck on helping somebody in the country and I didn't get home until after four and I had just missed their call. So I don't know if someone can help me now because I have a [PHI-Account] o'clock and, uh, I have to be leaving at, at least about a quarter or no, at least about a quarter after nine. So I wanted to know, is there any way that somebody can help me now?
+Nurse: I can help you right this minute.
+Patient: Oh, terrific. That's what I wanna hear. So, how about cuff here? Um, see, I used to have a, a cuff. I, uh, I am a nurse but I love it. Oh, you got your little, uh, sticker on there? I tell you. I'm just feeling so privileged here. Good BP. Cuff and I have this little contraption which I don't know which. So let me just decrease and let you tell me what to do. Oh What did you say your name is? What is [PHI-Personal]
+Nurse: Jo? Yeah, [PHI-Personal]. Yep. All right. So the little contraption that is the antenna and you're gonna see it comes in two pieces. The one piece is just that little black box with the cord attached to it and then the other piece just looks like a little wand. Yeah. Ok. So there's a golden fitting. It kind of looks like a screw sticking out of the side of that black box. Yep. Twist that wand right on there
+Patient: On there. OK. Twist the wand right on there. OK. The one is uh wait a minute. OK.
+Nurse: It might still flop around. It is um movable.
+Patient: No, no. Yeah, I'm doing right. OK. Oh OK. It's on there.
+Nurse: All right. So that just gets plugged into an outlet. Um and it doesn't use a lot of power so you can put it into an extension cord, preferably one that you could see right now. You can always unplug it and move it later.
+Patient: Yeah, I have it in there.
+Nurse: Oh, and I see that you are
+Patient: [PHI-Personal]. Oh I Yeah. Oh You are
+Nurse: Perfect. Great service that you're
+Patient: Having. So when I take my BP it's going to register. Now they were saying that no matter what room I'm OK. So now How does that? Ok.
+Nurse: So I'll let, I'll let you know with that, with the BP cuff. It does have a longer range. Um, but it's about [PHI-Account] ft from that antenna. So, you know, you can, if you wanted to have it plugged up in your living room and take your pressure in the kitchen and stuff, that would be absolutely fine. You know, we would still get that reading.
+Patient: So can we, um, can we, can we check? Yes,
+Nurse: Absolutely. Let's, let's do the pressure right now. So I can make sure everything comes through.
+Patient: Ok, let me, well, so you want me to do this every day, right? Uh
+Nurse: Yes. So what we ask is for the first week that you do this every day. Um, and we did include log books in there. So for the first week we just ask that you jot down these readings. So that way when your nurse [PHI-Personal] gives you a call, she's gonna give you a call in about a week just so we can make sure that she has the same numbers that you have.
+Patient: Ok. All right. So, um, the wire, um, the wire goes down. Uh, um, ok, because I, I lost a lot of weight. Ok. So the wire goes down.
+Nurse: Yeah, it would go down. Yeah, down your arm towards the palm of your hand.
+Patient: Yeah. So, ok, towards the palm and the word, ok, happens to be on the top. Is that how it, it would be. Ok. So I'm just trying to get it in the, uh, in the space that is supposed to space. Ok. I'm just trying to twist it. Uh, oh, come on. That's why I had bought the wrist one. because, uh, I wanna make sure, I think it's just, at least if it's close to it, what it does is it keeps twisting a minute. Maybe if I do it this way it,
+Nurse: It does, it will twist. So if that, um, the tube, if it does get moved and adjust like a little bit, it's ok. It'll still give you an accurate reading.
+Patient: Ok, so I know I can't believe how, how much weight I have to walk. Ok, let me see. I'm just like wrapping around it. Ok, so let me just this like that. Ok, that's what payment is those [PHI-Account]? Yeah. Ok. All right. Oh, ok. That was a good workout. Ok. So now I'm gonna start it. I'm gonna sit back and be quiet. Ok. Did you all, what did you, um, what did you get?
+Nurse: I got 1 [PHI-Account].
+Patient: Ok. Um,
+Nurse: And yours disappeared on you, right?
+Patient: Yes. And so you want
+Nurse: To right where it says Sys on the machine? There's a little gray button. It has an M and that's the memory
+Patient: Button. That's the. Ok. So, yes, it was 1 [PHI-Account] and I had an 88 pulse.
+Nurse: Absolutely. That's what I've got.
+Patient: Ok and what's the uh and I know that was for memory, what's the s for?
+Nurse: So the s is how you would um change the date and time which it should have automatically changed for you after you took this pressure and then also if you wanted to press and hold it, it just deletes everything.
+Patient: Yeah, we won't, don't wanna do that. So. Ok, so [PHI-Personal] which is tomorrow is my birthday and happy birthday. Thank you. And so it still says I'm living and I haven't even taken my BP medication so that's a good BP. First thing that is a really good pressure. Yeah. Ok so um ok, so yeah and
+Nurse: That's it you are completely set up, that's all you have to do.
+Patient: Oh that's awesome. Thank you. Alright, so much. Oh you're very very
+Nurse: Welcome. Now you can just leave that antenna plugged in like kind of set it and forget it but you can also unplug it and plug it back in. You just wanna wait for the blinking red light to be a solid red light before you take your pressure.
+Patient: Ok. So. Ok, so it needs to be a solid. Ok, so that's good because then just take it anywhere. Um yes
+Nurse: You can I actually had a couple take theirs to Europe and we got their readings all the way from Europe. So.
+Patient: Ok, that's awesome. All right, so uh Jo thank you. So much that was harmless. Oh,
+Nurse: Thank you. We try, we try
+Patient: Yes and happy holidays. Well, doctor as well because I think he thinks that I'm, uh, well, you know, nurses and think he's like, ok, she, she won't be too compliant. So let me give her some. So thank you. So. Ok.
+Nurse: Oh, you're welcome. You have a great day.
+Patient: Ok, you too. You too, ma'am. Ok. All right. Bye bye bye bye.

@@ -1,0 +1,4 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Uh hi, this is [PHI-Personal] speaking. Um The saga continues. Um I got a, yeah, I got a call from Walgreens saying they can't fill my prescription because it's too early. I guess they must have seen that. I have a prescription at Optum Rx or something, but I don't know, I mean it's unreal so I don't know what to do. Who should I contact her?
+Nurse: You do me a favor, call Walgreens and speak to the pharmacist and let them know, you know what happened and see maybe if they can give you a few days supply and that you're waiting on the, the script from Optum to be delivered.
+Patient: Yes. Ok. Alrighty. Alright, my dear. Thank you. You're welcome. Bye bye.

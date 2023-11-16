@@ -1,0 +1,7 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal] M when you called.
+Nurse: Yeah. Hey, I just wanted to call, um, and let you know that doctor, um, looked over your lab results and wanted to, wanted me to let you know that they did show improvement. Um, and he wants you to go ahead and continue with all of your medications as prescribed, including your, uh, vitamin B 12 supplementation if you're doing any of that.
+Patient: Yes, I've done that right from the beginning when I was a couple of months ago. Yeah. Ok.
+Nurse: Good, good. Yeah, that was, that was all I needed. I just wanted to give you that update so that you, uh, you know, weren't wondering or anything, what, how those had turned out.
+Patient: Yes, I did call like, uh, a week after that and then he said that doctor had to look over that when they did. They would let me know he had to see the results first before they let me know. So, yeah, I wondered, but thank you so much.
+Nurse: Yeah, no problem. Not a problem. Just wanted to get that to you. So you take care. Ok. Yep. You too. Bye bye. Thanks Geraldine. Bye bye.

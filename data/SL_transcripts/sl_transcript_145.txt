@@ -1,0 +1,29 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: [PHI-Personal]. This is [PHI-Personal] calling back. Hi,
+Nurse: How are you?
+Patient: Well, well, I, when I went down, I sat there a little while before she took my BP. It was 28/1 28/58. Ok. Then, um, then a little and then the uh, heart rate was 69 and the oxygen was 95. Ok. Then I stood up for a little bit and then it was 1 17/71 with heart rate at 80.
+Nurse: Ok.
+Patient: Then I sit back down and she took it again and it was, uh, 1 21/62. So I don't see anything that looks bad on there.
+Nurse: No, I don't either. Those look good but,
+Patient: But I do think that my sinuses are playing havoc right now. I mean, they're just, I just can't get over my sinus problems and it's just an ongoing thing with me, but it's worse this time around, but I don't know what else to think.
+Nurse: Ok. So, um, let me ask you ha in the last two days, have you had any, um, facial pressure like underneath of your eyes or on the top, like across your forehead, um, that feel
+Patient: On the left of my, on the left of my nose towards my eyebrow and that's the side of my sinuses are always bad.
+Nurse: Ok. Ok.
+Patient: I wasn't thinking about that when I had it, but.
+Nurse: Right. Right. Um, let's see. So this is what are, what are you thinking, [PHI-Personal]? I mean, as far as BP wise, I don't see anything of concern there. Um,
+Patient: When I read it that I knew there was no concern for that.
+Nurse: Ok. Ok. Do you feel like, um, you know, you're willing to do like a, a COVID test or do you think it's more sinus, like your sinuses? Like you're starting with a sinus infection?
+Patient: I think it's mostly sinus because I sinus. I think I could tell if I was on the way. Everybody tells me everything that goes on when they get the COVID. I don't really have any of those except for the last two days. And it's, it's my, so my sinuses seems to be taking over really. So, I don't know,
+Nurse: Do you have, um, any like sinus, um, medication that you can take, like over the counter that the, um, you know,
+Patient: Like somebody told me, somebody told me to get Allegra, they said it works really good for it.
+Nurse: Ok.
+Patient: Yeah. No, I'm on medicine for my nose two drops a day, but they don't do any good.
+Nurse: Is, is the, uh, Flonase is that the one that, you know,
+Patient: It's, um, it's the one that the doctor prescribed for me, let me read it here. It's, um, yeah, Flonase. Yeah, that's what it is. Nasal spray, 50 mg. But, uh, you know, I could scored him two times and a couple of hours later there. I am trying to blow my nose and I can't blow anything out and it's just
+Nurse: Awful. Yeah, that doesn't, yeah, that definitely doesn't sound, sound like any, any fun or like, that's really doing much to, to help, you know. Um, the other thing is, is, you know, so you could try, try the, um, Allegra. Um, the other thing I was thinking for sinus medication, they have a lot of, you know, over the counter sinus medication that you can try. I mean, they've got like, generic brands of, of Sudafed sinus congestion, um, which also hits, hits the, uh, headaches too, you know, that goes along with the, the sinus infections. Um, you know, you could try that to, you know, for a couple days, see if it's, if it does any good for you. Um, and then, you know, if you still aren't getting any relief or you start with any other symptoms, you know, anything like body aches or fevers or anything like that,
+Patient: Then I'll, then I'll worry about it.
+Nurse: Yeah. That's, uh, you know, and I, and I think, you know, and it's, uh, I'm not necessarily thinking you're, you're working on, I think you're working on something, um, whether it's, you know, uh, maybe a sinus infection, you know, with the weather changing, back and forth, you know, one day it's raining the next day it's, you know, nice. Um, but I would suggest trying, you can try any of those over the counter medications. I don't see any reason. Um, that would really, you know, usually anything with high BP, anybody's got high BP, then we kind of watch those things. But you're ok that route. Um, and then of course, you know, making sure you stay hydrated throughout the day with, with water or Gatorade.
+Patient: I always have a bottle of water in my hands.
+Nurse: So. Good. Good. Good, good. Yes, that'll help keep everything kind of, um, what do you wanna say, kind of broke up and loose so that if there is anything that needs to come, come up, then you can get rid of it that way. Um, do you want me to [PHI-Personal]? Uh, do you want me to check up on you tomorrow? Um, just to see, but especially before the weekend. What do you think? Yeah, that'll be ok. Yeah. Ok. Ok. I think
+Patient: That's it before noon sometime. Oh, yes.
+Nurse: Yep. Ok. Yeah, because I'm, I'm only in the office until noon tomorrow, so I'll give you a call before that. Um, and then I'll update doctor too, kind of what our plan, what our plan is at this point and then um we'll just kind of go from there. Yeah. Ok, I appreciate it. Yeah, no problem. Yep. Absolutely. And if you notice something, something happens, give me a call and we'll get we'll get things moving along. Ok? Ok, I appreciate it. All right, I'll talk to you tomorrow. Alright, thank you. No problem bye bye bye bye.

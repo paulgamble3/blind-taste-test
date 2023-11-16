@@ -1,0 +1,33 @@
+Nurse: Care manager. This is [PHI-Personal]. How can I help you? Hi. I believe it was [PHI-Personal]. I was talking with all day. The doctor's office called, messaged her and said I'm supposed to go in for a shot. Um, but I've been trying to call them and I just keep getting the ring. It just rings, rings and rings and then it goes through a dizzy signal. Something's wrong with their phone again, I guess. Yeah, let me put you on hold and I'll see if I can get [PHI-Personal] for you. Ok? All right. Thank you. You be you one moment. Ok. Ok. I'm gonna transfer you to, uh, your nurse. Thank you. You bet you.
+Patient: No, [PHI-Personal].
+Nurse: Hey, this is, hey,
+Patient: Sorry, I wasn't gonna bother you again.
+Nurse: No, it's ok. I got your message and I tried calling the doctor's office because my son's on his way over to get me now and it just keeps ringing and ringing and ringing and ringing and then I get a busy signal and it hangs up on me.
+Patient: Somebody else had that problem today as well.
+Nurse: Yeah, it's crazy. Their phones are always messed up with that stupid t Ds.
+Patient: Ok. So you're going over now,
+Nurse: As soon as he gets here, I would say, within the next half hour I'll be there. Ok.
+Patient: All right, I will message them. Um, yeah, I don't know what's going on with their phone system because they had somebody with, like, didn't come to an appointment today and didn't call and I had actually just happened. Can't get through. I just, yeah, I pulled, pulled him up because it was just his day to be called. And, uh, he was like, I tried calling eight times this morning. I was like, all right. So sometimes I question that when it happens but now that this other person is, yeah.
+Nurse: But if I, uh, I don't know what else to do but to call you.
+Patient: No, that works. I will send them a message right now.
+Nurse: How good are they open?
+Patient: They are open until [PHI-Personal].
+Nurse: So, ok, I should definitely be there by [PHI-Personal]. So I just wanna make
+Patient: Sure. Yeah. Yeah. And I mean, it's a quick jab you and, well, you know, on your way.
+Nurse: Right. Right. It
+Patient: Shouldn't be a problem. Well, good. I'm glad. Yeah, it was one of the nurses that had responded earlier about the oral stuff. Now, she did. Doctor [PHI-Personal] did still call in looks like they did still send you in the oral medication.
+Nurse: Yeah. My son picked that up and he's on his way to get me to take me for the shot.
+Patient: All right. Perfect. I was gonna say so. Maybe, you know, between the two of those things and doctor said she does think it's probably just from restarting everything.
+Nurse: I hope so. Yeah.
+Patient: So, but you know, this way, hopefully that'll help you enough that you can get some food in your stomach. And,
+Nurse: Yeah, because now my granddaughter called and she can't get a hold of pop. So, yes,
+Patient: You heard you are having a rough
+Nurse: Here? Really am? Hm.
+Patient: Oh. Right. Yeah. And I don't know. Well, no, they're not. Half their stuff is not working either. Ok. There we go. Now it's let me, I had to start new messages today because it shut me out. Let me in. I'm not sure what's going on. Um, yeah, I will message him and up update the status of it so that they get it right away or hopefully they'll see it right away. If not just tell them, you know,
+Nurse: I will. Yeah, I tell him I tried calling and, and that you tried to send a message. Yep.
+Patient: And, yeah, and doctor [PHI-Personal] said that you could stop in for the shot and obviously all they have to do is pull your chart up and they will see it all. Yeah. So I'm gonna let them know too that there must be something going on with their phones. Oh, my gosh. So, all right. Well, you go get the shot and then you rest and hopefully you will feel better. And what's today Thursday? Right? Yeah. Um, probably call you on Monday to see how things are going. Ok? Um, and then we can go from there and then, you know, more problems over the weekend, there's always urgent care or the on call number.
+Nurse: Ok? I don't see on call. Sounds good.
+Patient: So, but yeah, to, to be seen, but hopefully this will take care of it, like I said, between the shot and the, oh really? The, the oral medication my brain, my day is almost on. Thank goodness because my brain down. So. All right, honey. Well, good luck with all of that and like I said, I will call you on Monday to see how you're doing. I'm actually gonna write.
+Nurse: All right, sounds good. Thank you.
+Patient: Oh, you're welcome. You have a good rest of your
+Nurse: Day. You too. Bye bye. Thank you. Bye bye.

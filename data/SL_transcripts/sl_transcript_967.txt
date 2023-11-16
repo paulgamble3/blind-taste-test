@@ -1,0 +1,31 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi. Uh, my name's [PHI-Personal]. I was on the phone actually with a hospital and, uh, I saw that this number was calling.
+Nurse: Yeah. Um, so I'm one of the nurses that works with your care manager. Nurse [PHI-Personal]. I was just calling to check in and see, um, how your BP is doing since you started on Atenolol.
+Patient: Um, well, I've been on Atenolol which just was doubled.
+Nurse: Ok. So they increased it.
+Patient: So this morning it was 10 8/66. Um, yesterday I only, I didn't do the PM one for the first time. I just fell asleep. It was 1 29/92. I, I mean, I think it's much better than what I was registering in the doctor's office. Absolutely. Um, you know, 1 12/73 on Saturday and 10 1/73 Friday 1 12/68 1 23/77 Thursday 1 14/77 and then 1 [PHI-Geographic] Wednesday 1 10/74 and 10 4/70.
+Nurse: Ok. So it sounds like it's really came down.
+Patient: Um, it appears to. Yes. And, and also, uh, my blood sugar was, uh, also was up when I took, uh, oh, I forget the name of it. I, it was an antibiotic. It kinda spiked up but it's now, you know, down, um, almost always less than 1 20 uh, between [PHI-Personal] slight variation.
+Nurse: Good, any side effects, uh, with the increase in your BP, medicine, dizziness, shortness of breath, anything like that.
+Patient: Not that I know of. No
+Nurse: Good, good deal. Like I said, I just wanted to follow up with you. Um, and I was gonna make sure that you were able to get the BP cuff. That's I was reading through.
+Patient: I went out and got it right away. Somebody suggested I got an Ron upper arm one. Um
+Nurse: You haven't had any issues using that at home? No,
+Patient: It seems pretty simple. Ok? Every now and then I get it say error and then I have to do it again. But um, no, bye.
+Nurse: And you notice it with your feet flat on the floor back straight. No trying to eat or talk while you're checking your readings.
+Patient: Ok. Good. I mean, I, I, so now, I mean, I kind of have a routine in the morning. I come and take my one pill that I have to take uh, first and, and then I have take my blood sugar and then I take the BP, then I make my coffee and before I leave I take my other morning meds and [PHI-Personal] and then I go out and work for a while and then come back. Good. Then I do almost the same thing at night. I, you know, I don't do the blood sugar. I just do that in the morning. Ok. And I usually, I didn't do it last night for the first time. My BP, I think I went and laid down and that was it. That's ok. Yeah. And, uh, you know, but I took my medicine and good,
+Nurse: Well, good deal. Well, it looks like it's really improving. I'll let doctor re know, um, what your numbers have been running. I'm sure she'll be very happy to see the results that we're getting. Um, and if she has any further recommendations or, you know, orders concerns, I'll give you a call back.
+Patient: So I did get some, I, I've gotten a few messages on my chart which I don't fully understand what, that's why I was on the phone to the hospital because I, I get this thing saying I owe money, but it doesn't tell me what it's for and it, like, really [PHI-Personal] me. Like I, I don't even know what it's for or, you know, so I called him and I requested a paper statement.
+Nurse: Yeah, absolutely.
+Patient: I, I'm not tech savvy. I, I don't know how to navigate around. I would love to somebody to really teach me, but nobody really has wants to or I don't know how to do it anymore. Um I'm
+Nurse: Not sure exactly how the Mychart looks on the patient and I just see it from this end.
+Patient: Right. Um Well, I hit view details. All it does is spit it back out that I owe $[PHI-Personal] and you know, it says make a payment. It's like I'm not making a payment if I don't even know what it's for basically it my
+Nurse: Yeah I don't blame you I wanna know where my money is going if I owe it somewhere right?
+Patient: You wanna make sure that the insurance paid what they should have paid right? At least I found out what it was for um and it looks like it's probably accurate. Well
+Nurse: It still won't hurt to get a paper statement just to re review it and make sure
+Patient: Um all right um so that's all you wanted that's
+Nurse: It I just wanted to follow up on that BP and make sure that it was coming down. Ok. Alright so we'll be in touch and if you have any issues uh before you hear from me or [PHI-Personal] again just let me know. Ok.
+Patient: Ok I mean the other thing that I guess was something about a living will um which I've actually been thinking about both doing a real will and a living will. Ok. Um but
+Nurse: I'll look and
+Patient: See if I uh stuff together for that it's gonna take a little doing. Ok?
+Nurse: Thank you. Alright. Well you have a great day. Bye bye bye.

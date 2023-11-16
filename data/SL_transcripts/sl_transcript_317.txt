@@ -1,0 +1,28 @@
+Nurse: Care management. Can I help you?
+Patient: Yes. This, this is, um, I spoke to you earlier this morning. Yeah. Yeah. She, she, she should set an appointment with Doctor [PHI-Personal]. I see doctor at, um, [PHI-Geographic] orthopedic and [PHI-Personal].
+Nurse: Hold on one second. Hold on. I'm gonna open up your chart. Bear with me.
+Patient: Ok. Yes.
+Nurse: I don't know if I think you just need the orthopedic referral. I think you can end up going to any doctor that you want.
+Patient: Ok. All right, because she usually just sent the office,
+Nurse: Um, I think that they put it in. I, hold on, let, hold on. I'm trying to look at it because she answered me back that she placed it into [PHI-Geographic].
+Patient: Oh, ok. Right. Like,
+Nurse: So the referral is to ambulatory orthopedic surgery. So, I don't, hm. Is doctor, is the doctor that you have been seeing? Is he, does he do surgery as well or is he just an orthoped? Like what? Yes. No,
+Patient: He doesn't do any surgery. He just do, um, injections and stuff and all stuff and if you need anything else he referred you to whoever.
+Nurse: Yeah. I don't think that they should um, I don't think that would be an issue because the one you had was from a year ago and that was also the orthopedic surgery. Um, so you should be able to use that same referral for the doctor that you currently have him going to hold on. I'm gonna tell me his name again. The doctor,
+Patient: His, his name is, I think, I think it, [PHI-Personal], it's sell ma N,
+Nurse: I'm clicking
+Patient: On. Oh
+Nurse: He's got a whole thing here. He's pretty fancy.
+Patient: Mhm. Yeah and I go to this office and branded.
+Nurse: Yeah I was gonna say I think that you're fine I think that we because looking back at the other
+Patient: Uh huh I
+Nurse: Think it will be fine um you can call them and tell them you have a referral um to make an appointment and if you run into any other issues you can give me a call but I don't think that that should limit you to going to a specific doctor um because you have a history with doctor. So at this point I would just go ahead and schedule and then if there's any issue that comes up along the way, then we can always have doctor [PHI-Personal] change um the provider but I think as long as you have the referral in place, we should be ok.
+Patient: Alrighty I'm gonna give him a call. Uh huh. Go ahead
+Nurse: Before we hang up hold on let me look at this other doctor that she has in here. I wonder,
+Patient: Hold on start.
+Nurse: Let me see where this one
+Patient: Is.
+Nurse: Ok. So [PHI-Personal] is also at the [PHI-Geographic] orthopedic Institute. So he just another doctor there. Ok. So, I mean, if they're both at the same place, then I would imagine we won't have any issue whatsoever. Um You know what I mean? They might just be colleagues of one another. Ok. But I would still make it with because that's who you see.
+Patient: Ok.
+Nurse: If you have any issues here, just give me a call back. Ok?
+Patient: I will thank you so much. Bye now. Alright, bye bye bye.

@@ -1,0 +1,75 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hey, good morning. This is calling. I missed your call yesterday. Dealing with a family issue.
+Nurse: Oh, I'm sorry. Um, let me, uh, check my chart here real quick. Ok. Can I have your date of birth?
+Patient: [PHI-Account] and address? [PHI-Account], East Mount. Oh, [PHI-Personal]. So,
+Nurse: Ok. So I was just calling to, um, just to check in, see how everything's been going since we had talked last,
+Patient: Uh,
+Nurse: Any, um, any big changes.
+Patient: No, no, everything's healed up there in that back end and, uh, wonderful. And, uh, yeah, the only issue I'm having right now is I'm having trouble getting my, uh, ing supplies. Mm. I supposed to get it, you know, usually like the first full week in the month I have it marked on the calendar when I usually call and I think I called the, whatever. Was it the second or the third? And they said that, you know, their way to process it. And I called the following Friday and they're still waiting that they were waiting for authorization from the doctor's office. That was a Friday afternoon I called and then it was So I, you know, the family practice was closed at that time. It is after three o'clock on Friday. So I called Monday and the nurse there said that yes, they sent that paperwork out on the sixth. So then last Friday I called to uh ABC medical again and they said, yeah, we just received the documents that they're, I forget what they were waiting for. And I'm like, ok, so then they said we'll send you out a sample, you know, of the internal catheters. And I got that on Monday. And I'm like, you know, today is Wednesday. Yesterday I went out, you know, I thought, ok, well, I sent the rest of the stuff the way it's sound and, you know, I was talking to the lady on the person on a Friday and sh because she said, I said, I, you know, I use the external catheters too. And then I said, I'm, I, I'm almost out of them and she said, well, we can't send because I already that same week they sent me a trial, a sample of them. They can't send the same sample out the same week, you know, so she had, so I called last night when I got home, I was surprised they were there and they said they're still waiting for documentation and I'm just ii I don't know. Uh they have me, you know, in a pickle here. So they said they'll send out another sample. But I, I still need my, you know, 90 day supply stuff.
+Nurse: All right. So there is a note in here from this morning. No, that's not right from the [PHI-Personal]. Um, they keep asking for a diagnosis code from Doctor [PHI-Personal] on the order and he keeps putting it on there and, uh, for some reason there was an issue but it's the same, it's the same or, or it's the same diagnosis he's been putting on all of them.
+Patient: Right. I, that's, I don't understand.
+Nurse: Now, they're saying it won't work. So he's been putting on there, neuromuscular dysfunction of bladder. Now, they're telling him that's not an appropriate diagnosis. So he appended the note. I'm not sure what he put in it. Um, because it doesn't say, it just says he just wrote back that he had appended it and then they went ahead and resent it to that ABC medical with his appended note. So that was this morning that they resent it. So maybe, um, maybe call them this afternoon, make sure that they got that appended note from him. And, you know, because then they can kind of, I think if you would call them, they might expedite that, you know, be able to look through there and look at their fax it and make sure they got it.
+Patient: Like I said, I've been calling, you know, like every last two Fridays and then yesterday I've been calling three or four times now and usually they call me and say, hey, you know, your stuff's due for reorder your, you have two weeks supply. I'm like, yeah, I, you know what I do, I usually have at least two weeks worth. But, yeah. Ok. [PHI-Geographic]. Yeah. Well, I will
+Nurse: Be very frustrating. You need it. Um, ABC ma, do you want me to call them?
+Patient: I, it doesn't matter. I'll call them then. I mean, if you wanna call that's fine. I don't care more people that bug them, maybe they'll get my stuff together.
+Nurse: Right. Do you happen to have their phone number off hand? If not, I can look it up.
+Patient: Uh, hang on to get my cell phone on the table
+Nurse: And that's what it's called ABC Medical.
+Patient: Yeah. Yes, I know that. It's [PHI-Personal]. She's bringing my phone. I have a house phone.
+Nurse: How's your BP been? Are you checking that?
+Patient: You don't want to check it right now? I have it.
+Nurse: Honestly. What's it running when you're not frustrated?
+Patient: I had it when I was there for my [PHI-Personal]. My, it was good. Yeah, it was, uh, [PHI-Account]. Ok. And that was that family practice that I took. Ok, here's the number. It's [PHI-Account].
+Nurse: Ok. I'll call them and just make sure they got that note from this morning. Um, at about eight o'clock they sent that the, um, the appended note out. So we'll see what happens with that.
+Patient: Ok. And that's just the funny thing. Like, when I called last Friday, I said, I called Monday and, uh, the nurse at family practice was not able to see that. Yeah, we sent the note out on the sixth and when I called on that Friday they, uh, said, oh, yeah, we just got the note. I'm like, what? Yes, because last week was, the last week was the [PHI-Personal] or the [PHI-Personal] and the sixth was the week before. Yeah. And then when he called
+Nurse: Yesterday they said, oh, well, we don't, we didn't get the paperwork from
+Patient: The daughter's office. That's what she said. The paperwork. They were, they weren't accepting his code. Is that, am I right to say that?
+Nurse: Yeah. Yeah. Which doesn't really make sense because like I said, that's the same code that he's always used.
+Patient: Yeah. And now all of sudden a good co, well, I mean,
+Nurse: When you have a neurogenic bowel and bladder, what do they expect? Exactly. I mean, there's not really any other way to say that, you know, if they have a diagnosis code for it then that's because it's a acceptable diagnosis. So, I don't know what, I don't, I don't know. [PHI-Personal], you know, they, they do their own thing. I don't know. But I will, um, everything was so good all these years. You never have any problems. And now all of a sudden it's just horrible. It is horrible. I agree. I agree. And, uh, I just think, I, I don't know. I hate insurance. I think that they rule the world and it's ridiculous. We pay all this money to have health insurance, but yet they hardly cover anything. And then we still have to pay. Yeah. And amount out of pocket for other stuff anyway.
+Patient: Yeah.
+Nurse: And I was, I said to him, well, maybe it's ABC medical because the last few times that they've sent things to him they would send several boxes, like one box was just loose
+Patient: Catheters.
+Nurse: Like, you know, it seems like, I don't know if they're having shortages or employee problems like everyone else right
+Patient: Now. I, I do have a question. I was talking about, you know, company and it's like anything else you get. Is there another company that supplies medical supplies? That's, you know, the only reason I went with them is because I, you know, I heard about them through people when I was going at a good sheer and I thought we give it a try. So I just was wondering if there's another facility out there that can, you know?
+Nurse: Right. And I'm sure there is. Let me do some research on that. Um, it probably depends on who his
+Patient: Insurance will. That they, anybody takes a lot of people take Medicare. That's all they, they, yeah, it's easy money.
+Nurse: Right. Um, they're, yeah, let me do, let me get in touch with my, the other nurses on my team. Um, we all kind of help each other since we work remotely, we all kind of help each other figure out this kind of
+Patient: Stuff. Have a better, you know, what most other people are getting there because I'm not the only person that's getting supplies and we, you have a better, can have a better outlet to find out, you know, where everybody else is in the, you know, they're having issues too or right. If this company is just going downhill fast.
+Nurse: Yeah, and that's definitely what it could be. Your, your wife is very right. It could be staffing and everything else that's going on with, you know, all companies at this point. But um, yeah, I mean if they're starting to get a little floppy with their orders, I'd say that uh, maybe it is time to look, you know, elsewhere and yeah, let me get in touch with my other nurses and see if they have any information or if they know of anything and uh, I'll see what I can find out for you.
+Patient: Alright, I appreciate it. Oh yeah. No, we we're
+Nurse: Doing good, good, good, good. I'm glad to hear it. Um. All right, so let me check your appointment. His ok, so you don't have anything coming up at the office until [PHI-Personal]? Do you have any other appointments coming up?
+Patient: Yeah, I have uh for my back the pump to get refilled. That is next Friday. Ok, that's with uh Doctor [PHI-Personal].
+Nurse: Is he pain management?
+Patient: Uh she, is she? Yeah, it's through good [PHI-Personal]. I guess you could say it's through pain management because just to refill my pump and what it is is I got the pump here last, yeah, last year I'm going on a year now, last [PHI-Personal], I got it because to help with my spasms in my legs and, you know, my lower back and legs. So that's why we got that. And it's been doing great and I have a doctor that was for my hand, but I think I'm gonna pass on that. I just got a shot in my shoulder last Friday down at OAE cos I, he puts a shot of Cortisone in there. That's what I was gonna ask and it, it's starting to feel better. It's still a little tender, but he said it could take a couple days but he felt good. He, he said that, you know, usually that's a good sign right after the shot because he put lidocaine in there with it and he, and it felt great. It felt great when I left there. It felt good that evening and it felt pretty decent on Saturday. So, yeah, me went out and doing stuff Saturday afternoon. I was Saturday night. I was like, oh God, why did I do that? Right. That, that's how we are. Yeah. Yeah,
+Nurse: You get, you get five minutes of relief and you're like, yes, I'm cured. Yeah, I can do it all.
+Patient: Yeah. Gotta go, gotta get stuff done.
+Nurse: Uh, are you, do you use any, like, topical cream? Like a Voltaren pain relief cream or anything like that for it?
+Patient: Uh, for my wrist. I've been using, uh, it's like an arthritis cream. It's a generic but I, I use that on my wrist that night and that helps and I did put it on my shoulder that one night and it does help. I try not to use. I use, I usually take, like, when it's really bugging me, I'll just take a, uh, ibuprofen. That, that, that helps I can tolerate it with that
+Nurse: Soon. Um, all right. What else did I want to ask you something else? What was it? Um. Ok. So you said your backside is healed up, correct?
+Patient: Yeah, that's all. Ok.
+Nurse: Um, and yeah, like in, for future, if you ever notice you're getting another sore spot, just do the same thing, you know, use that cream that you have and just kind of treat it the same way. Use those opti foam pads if you have any left repositioning that kind of stuff. Um, any, any more symptoms of a possible ut I,
+Patient: No, not lately. Ok. Good. I've been trying to just do everything I can, you know, be very careful. Huh? Again. Yeah.
+Nurse: Yeah. I mean, unfortunately when you cath it's, you know, that's just kind of things that come along with it. It's just, it's unfortunate but, you know, it happens.
+Patient: Yeah, unfortunately,
+Nurse: But, you know, catching it early is good too, you know, so that we can be treated quickly before it gets too bad. But,
+Patient: Right.
+Nurse: Um, ok. Any other questions concerns anything else?
+Patient: Oh, I think we, uh, filled the out for today. I don't know. That was pretty much my biggest concern because like I said, I called last night. Well, like I said, I was awake, my mom was in the hospital and I had, was out with my dad and, uh, I came home and I, and I said to my wife, I said, did my stuff come today and we looked, you know, because sometimes they'll set stuff out in the front porch and we don't see it. And, uh, so we looked and there was nothing there and I'm like, oh, great. So I called, I just, you know, if I didn't even think they'd be there at seven o'clock at night, but they were, and then, oh, we're waiting for documentation. I'm like, what, you know, uh, so I figure, well, I'll just, you know, then I saw there was a message that you called. So I figure I'll just call you this morning when I get going and here's where we're at.
+Nurse: Ok. Well, I'll see, I'll call them, see what's going on. And then, like I said, I'll do some research to see what other medical facilities, um, you know, are available for that to give you that. Um, what all, tell me, give me a list of the supplies that you get from ABC.
+Patient: I get, uh, external catheters. I get 90 of them.
+Nurse: What size are there? Is there a size on those?
+Patient: Yeah, I have it right in front of me. Here. It's, uh, [PHI-Account] millimeter. Ok. And the ones I'm using right now are bars, spirits and it's a style two. Ok. And then, uh, I use, uh, and it a catheter that cures and I think they're [PHI-Personal] in [PHI-Geographic]. Ok. And then I also got [PHI-Personal] bedside bags, like drainage bags. Ok. And I usually get [PHI-Personal] leg bags.
+Nurse: Ok. You're, um, your catheter, not the external ones, but the other one, is it a cute at tip? Does it have the bent tip or is it straight?
+Patient: I don't know. II I don't have it in front of me? Hang on a second. Hey, would you grab me one of my catheters out in the bathroom? I sort of think they're straight but I, she's bring me out. It has all the info. Yeah,
+Nurse: There's a re catheter catheter hydrophilic code in with, uh, the pa they have the water packet and gripper.
+Patient: So what were you saying,
+Nurse: The tip of the catheter? Uh, it's called, it's, it's like bent.
+Patient: No, this is straight. This is straight.
+Nurse: Ok. No, bend in the catheter anywhere at the tip. Ok. Ok. Um ok, so the external catheters the regular catheter, [PHI-Personal] bedside bags and [PHI-Personal] leg bags. Is that it that you need?
+Patient: That's, yeah, that's what I got. Ok.
+Nurse: Ok. I will see what I can do.
+Patient: All right, thank you. Oh, you're
+Nurse: Very welcome. I'll let you know as soon as I hear something. Ok. All
+Patient: Right, thanks.
+Nurse: You're welcome. Take care. Have a good day. Yep. You too. Bye bye.

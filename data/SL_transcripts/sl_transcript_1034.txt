@@ -1,0 +1,33 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. I missed your phone call. I'm [PHI-Personal].
+Nurse: Hi, [PHI-Personal]. Give me one second. Let me get your chart pulled back up here real quick. Thank you for returning my call. Not a
+Patient: Problem
+Nurse: Getting it all pulled up. Let me refresh my memory real quick. All right, you had called in, um, stating that you had tried your CPAP for the first night. Um, but you had the nose, the, the nose pillows and then you realized that you actually breathe through your mouth. So you wanted the mask instead. Um, did you reach out to adapt [PHI-Geographic]? Which is where you would have received your.
+Patient: Yes, I took me a couple of days when I got through.
+Nurse: Ok. Good.
+Patient: And in a couple of days they mailed me a 12 pack of the pillows again.
+Nurse: Oops. Yes. So they did. They say if they, if they need a new order to get the mask or,
+Patient: Oh, I says I need to send them back to you because, uh, the day before I finally got through and we, I ordered a full mask over the phone and they, you know, they took a selfie of me and all. And they measured it somehow. I don't know, but for that to come in the mail now they said 7 to 14 days.
+Nurse: Ok. But they're actually, they've handled it then they're gonna, actually, it's,
+Patient: It's been a nightmare since this all started. It, it
+Nurse: Sounds like it. And if I'm being perfectly honest with you, unfortunately, it seems like any time you're dealing with, uh, durable medical equipment supplies there's a lot involved in and it, and it does feel like a nightmare at times. Um, I have become the DME nurse, so I'm getting to see that first hand because I'm dealing with all of the patients that need the durable medical equipment supplies. So, yeah. Um, I do apologize that it has been difficult but I hope they do get that mailed out to you. Well,
+Patient: I'm worried about the way the insurance covers this because I haven't really started yet.
+Nurse: You mean for the compliance issues?
+Patient: Yeah. Like, I haven't been doing it. I was supposed to be doing it like, four hours a night average.
+Nurse: Yeah. Did you ask them about that when you talked with them at adapt [PHI-Geographic]?
+Patient: Yeah. But they didn't really, I don't know. I didn't really get a good answer. I mean, like, don't, don't worry about it. You'll make it up or something. I, what do you mean? Yeah. It's still like a nightmare. I, I don't, I don't know. Uh, you know, I'm I, I'm ready to throw everything out the window.
+Nurse: Yeah, I understand your frustration. So let's just, uh, con hopefully you'll get those soon, but just continue as you have been. Um, I mean, even if you can try to use it with those pillows in the meantime, that way it'll at least show some compliance if you're able to use it at all. Um, that would prevent them from trying to take that back from you the recovery of the machine, right? So maybe at least try to use it that way until you receive that mask.
+Patient: Ok. Also, are you in with my uh doctor?
+Nurse: I work with all of the pulmonologists. So
+Patient: Send him my test and I haven't heard from them. So I guess no news is good news for the breathing test. I guess everything's
+Nurse: Same. Let me see for the pulmonary function test. You mean?
+Patient: Yes, because he didn't have it. They did. He said they didn't send it over to him where I got it done at. But I, I gave the CT scan and that piece of paper that I got to his office when I did it for the mask. Ok. The pillows. That was like two ago.
+Nurse: Yeah. So I can see the pulmonary function test results here so I can just forward them over to Doctor [PHI-Personal] and if there's any concern at all, um then uh he'll reach out to you.
+Patient: All right. Great. Ok.
+Nurse: Great. Ok. All right. So, all right. Well, if you happen to have any difficulties with getting that mask, then feel free to reach back out to me. Ok.
+Patient: Oh, ok. I can put your number into my phone book.
+Nurse: Sure. If it has to do with your durable medical equipment, then yeah, feel free to reach out to me. Oh, great. Yeah, if it's something that you should talk with adapt [PHI-Geographic], then obviously talk with them. But if it's something that uh needs to be handled at the office, feel free to reach out to me and I can attempt to assist you. Ok,
+Patient: Great. Thank you
+Nurse: Very much. You're welcome. Have a wonderful day.
+Patient: You're welcome. Thank you. Bye bye.
+Nurse: Thank you. Bye bye.

@@ -1,0 +1,58 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you? Yeah, this is Betty. Betty, how you doing?
+Patient: I'm doing M [PHI-Personal]. You, uh, you hung up before I got to the
+Nurse: Phone? Oh, I left you a voice mail. I went to voice.
+Patient: Yeah. Yeah, I know. Ok, that's what, that's, that's why I'm calling you back my back. How have you been doing? I'm hanging in there, my back, but otherwise I'm hanging in there, you know, nothing you can do for that. You know, I
+Nurse: Got a little concerned because they said you missed a couple appointments in the office. Were you aware of that?
+Patient: No, I have, you know, no clue, you know, when I supposed to go or anything, you know? Ok.
+Nurse: Ok. So they, they said you had like three missed appointments since [PHI-Personal]. So I want to make sure we're on because, you know, like I, I get nervous because, oh, yeah. Yeah. If you, if you miss too many then they won't see you anymore and then you won't have anybody to order your medicine. Right. Right. I want to make sure, do you have a next appointment written down anywhere for doctor? [PHI-Personal].
+Patient: Oh, I don't believe I do, honey. I don't believe I do. No, let me, I'm looking at my calendar. Let me look for next month. No, nothing on [PHI-Personal]. I have no, no, I don't anything
+Nurse: In [PHI-Personal].
+Patient: Uh [PHI-Personal] [PHI-Personal]. Let me check. No, I have nothing on [PHI-Personal].
+Nurse: Ok. So I need you to write this one down. They
+Patient: Have, we have, uh, oh, ok. Let me just get this paper here, honey, real quick. I got all kinds of stuff. I just got there. Ok.
+Nurse: Ok. Scheduled with Doctor [PHI-Personal]. [PHI-Personal] 22nd.
+Patient: [PHI-Account]. Ok.
+Nurse: At 11 a.m.
+Patient: 0 11. That's a good time. That's a good time for
+Nurse: Me. And then you'll get blood work that, that morning. Too
+Patient: Fast. Blood too. Ok. So I, I'll fast so I won't eat. Ok. Yes. Yes. Yeah. Ok.
+Nurse: I don't know. Do you have like a phone that you could set reminders on or anything or? No? Like a smart
+Patient: Phone? I got, I, I, no, no, I got, uh, uh right on my calendar and I look at it every morning so I just write this right on my calendar here. I'm writing it right down right now. Ok. Yeah, I, because I,
+Nurse: I got a little worried because Doctor [PHI-Personal], you know, if you miss one with him it's like pulling teeth to get another one. So I,
+Patient: I, oh, I know because last time I got his, his son, I thought he would change, change a new to the boy, you know. So. Yeah. Yeah. Oh, ok. And my medicine. Ok. Now I have it through the mail, right. You know, it comes on, you know, uh, do I have to do anything on that or would they just renew it automatically or? Well, when it's due, let's see. Let me take a peek here. I'm just checking to see, you know, they sent me my insulin the other day, but I'm talking about my pills.
+Nurse: Did, have you been getting the pills from them?
+Patient: I, that's what I'm, I think that the first ones I got from them. Yeah. You know, I'm pretty sure I did but I'm not sure because I, you know, I went from, to them so I don't know if these are, if these were from or, you know, because I don't have to have them because they give me those, you know, 30 days supply. So, and I'm not out, but I just was thinking, you know, will I get them automatically or? No? Well,
+Nurse: It doesn't look like we've sent any to, um, any prescriptions to, to express scripts. The [PHI-Personal] wasn't sent there. Um, do you need all your prescriptions then sent to express scripts?
+Patient: Yes. If you would do that, that would be perfect for me. You know, I, I would appreciate it. You know, it'd be so much easier for me because I can't get the, you know, it's too hard for me to get out there. I have to get somebody to take me and you can't always do that. You know what I'm saying? Yeah.
+Nurse: Yeah. Let me, um, I'll have them. So, do you have enough medicines for, like, a week or two?
+Patient: Oh, yes. Yes, I do. I just didn't want to run out. So I, that's why. Yeah.
+Nurse: Ok. So, yeah, I have, tell me if you're take, like, if I say the medicine, tell me if you're, if you're taking it. Ok. Ok. Um, the aspirin. Yes. Um. Ok. The, um, stool softener. Replace the colchicine. Yes. Ok. Then I've got your, do you want the, um, the, the diabetic test strips and lancets sent there too?
+Patient: Oh, yeah, we could, yeah, we could do that. Ok. No.
+Nurse: Yeah. No, I'm wondering, um, which ones we're using the Freestyle light or the micro thin? No,
+Patient: The freestyle I freestyle.
+Nurse: Ok. Yeah. And your HumaLOG Pen. Ok. The [PHI-Personal]. Yes. The Lantus. Yeah. Ok. The Lipitor for your cholesterol. Oh, yeah. Mhm. Ok. The Lisinopril for your BP,
+Patient: Right? Yeah.
+Nurse: Ok. And then I have [PHI-Personal]. Uh huh.
+Patient: Ok.
+Nurse: And what about, um, and then they have vitamin B 12 and vitamin D? Yeah.
+Patient: Yeah. I, I still got some of them but I'm getting low, you know? Ok.
+Nurse: Ok. What about you're not taking a steroid, are
+Patient: You? No, no. Ok.
+Nurse: Ok. All right. I will have them send these to express scripts. Ok.
+Patient: So I appreciate that. Sure. What I
+Nurse: Would do is, um, and even if you wanted to write it on the calendar today is Thursday tomorrow or Monday, I would call Express Scripts to make sure they got everything and let them know you want them to send them to you as soon as they can.
+Patient: Do you have the number or let me see? Express
+Nurse: Script? Ok, I have a number. Do you have a pen?
+Patient: Yep. Right here. It's [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account].
+Nurse: [PHI-Account]
+Patient: [PHI-Account]. Ok.
+Nurse: Yeah give them a call. Have you gotten anything at all from Express Scripts yet in the mail?
+Patient: Yeah, I got my my pins you know that my my pins came. Yeah but not not any of my medicine medicine. Yeah. Mhm.
+Nurse: Ok because that was just sent [PHI-Personal]. That's
+Patient: Yeah. Yeah I got him honey. Yeah. Ok.
+Nurse: Ok. Let me have them send the rest of the stuff and like I said, make sure you call them and tell them you know make sure they got everything and tell them you want everything sent to you.
+Patient: Ok, I would do them. I'll call them tomorrow. Ok,
+Nurse: Sounds good. All right, I'll take care of that now.
+Patient: Thank you, Gabby very much and you have a blessed day. Ok. All right. Ok. Yeah. Thank you honey. Bye bye bye bye.

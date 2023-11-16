@@ -1,0 +1,66 @@
+Nurse: Hey, [PHI-Personal]. Hold on for a minute. Ok. Sure. Ok, let's see. I plugged in. Can you hear me?
+Patient: Yeah, I can hear you just fine. Ok.
+Nurse: All right. It was a rough start from this morning. The Children are not ready. They're not ready for the,
+Patient: The kids are not ready.
+Nurse: No, no, no, I'm not ready. The kids are not ready. And it's so funny because I just pulled up all my charts, the ones that I had to follow up with today and I was like, you were the first on the list. I'm like, ok, just gonna pull these three up and then we're gonna call. So I'm glad you called me.
+Patient: Yeah, I'm sorry your kids are being kids. Wow.
+Nurse: Yeah, it happens right. It happens to the best of us.
+Patient: But um the shaking. Ok.
+Nurse: So the shaking. How did this weekend go? Did you call up then and tell them you were gonna stop? Yes,
+Patient: I have an appointment. [PHI-Personal] on Monday. My
+Nurse: God. Did they tell you? No. Are you, did they say hold the medication or did they say keep on taking it until [PHI-Personal]
+Patient: [PHI-Personal]? I didn't actually call them. I didn't have to because I already had, I already had an appointment for [PHI-Personal] that I didn't know. And I was like, well, I can hold out until [PHI-Personal]. Ok. But I'm shaking really bad.
+Nurse: You know what? You maybe let doctor know and just say if she calls up and she's gonna see Dent on the [PHI-Personal]. But is there something else you wanna do
+Patient: In the meantime? Well, doctor is the one who prescribed the medication for the shaking. Oh, yeah, he is. Yeah. Doctor is the one that prescribes the rea, well, that's
+Nurse: Weird. And I have 20, I'm looking at your medication profile and it says, oh no, the directions are take a 45 40 mg tablet and 80 mg tablet for [PHI-Account] 20
+Patient: Days. I think it's [PHI-Account] and [PHI-Account]. Is it [PHI-Account]? Give me my med bag.
+Nurse: I know your levothyroxine. Don't, hey, hey, no, be gentle with him. Go find something else
+Patient: To bother. Seriously. I like that. Be gentle.
+Nurse: I'm talking to the dog though. So.
+Patient: Oh, that's funny. Oh my God. There's two. I say I need my glasses but they're on my head. My daughter is sick so I'm just all sorts of not together this morning.
+Nurse: Oh, good. So we're together, we're in it together.
+Patient: Yeah, she can't talk. My poor baby. Her throat is red. I left a message at family health medical for them to call me let
+Nurse: Me check her char. Oh you're
+Patient: Right. It's 80 mg and 40 mg.
+Nurse: You know what throws me off. Uh you said 8 [PHI-Account] and [PHI-Account] and the levothyroxine is [PHI-Account] micrograms. So I think that may be where it came from. That
+Patient: Might be where um but my levothyroxine my levels, he wanted to check those because it was like way up here and then way down there.
+Nurse: Bye. What are you doing?
+Patient: And I take it like I'm supposed to. Ok, I take it like I'm supposed to, I take it an hour before my other meds.
+Nurse: Yep. On an empty stomach.
+Patient: Yep. Unless the coffee counts. That's sugar.
+Nurse: Uh, no, I usually don't unless you have like a lot of cream in it.
+Patient: No, I'm a double, double drinker. Are
+Nurse: You? Oh, me too. Me too. Well, I mean, I still don't think it's a problem. Uh, if you were, if you had breakfast then I'd be like, well, I don't know, but it's liquid. So
+Patient: I really don't eat breakfast. I'm not hungry in the morning.
+Nurse: Me neither.
+Patient: I'm really not. And then I hope they don't tell me I need to eat in the morning because I, I just can't, I just am not hungry. Yeah, I, I
+Nurse: Don't foresee that happening. Especially with the levothyroxine. Unless you feel like you have, you end up having high BP. There's a lot of medications for BP that we tell you to take
+Patient: With food. Um, my BP is always low doctor. Feel always happy.
+Nurse: Oh, do you have your medications out in front of you? Yes, I do. So, who, who, like, if there should be, um, a physician, like an ordering physician on that bottle
+Patient: For the brother? Yeah, it's dr,
+Nurse: Where the heck did this come from? Because I don't know if it's wait, maybe it was discontinued.
+Patient: Yeah. And I'm looking, I'm looking, I
+Nurse: Know it's like a really tiny
+Patient: 10, no, it says doctor that's from my psychiatrist. I need to be calling that nurse. Yes.
+Nurse: Well, wait is though, I thought, wait, wait, let me see. Yeah, when we talked on Friday, um, I thought it was the, the Keppra and the Amitriptyline that was new and that's when the shake started.
+Patient: Yes. All right. Let me tell, let me tell you. And doctor has me on Depakote too. So I haven't been taking doctor me's Depakote. I've been taking neurologists, Depakote.
+Nurse: All right. I'm gonna tell you something here. There is a significant interaction between dero, so Depakote and tracing it's, and it says it's probable that that could, there could be an issue there. Like it's not like, um, you know, once in a great while we've had patients have that problem where they start the tremors. It's mainly if anybody gets prescribed this, the, the chances of them, you know, kind of doing both.
+Patient: Oh, you can do both. You cannot do both. So that's what I was thinking. So I choose the one for my neurologist and one man, I don't wanna have seizures. That's more serious. I, I have a dog. This is what I, I left a message. Can you set up an appointment? Yeah. Can you set that up to my daughter? Yeah. Oh, your kids are wild this
+Nurse: Morning? I know. I know. You know what? It's because there's a, like we just got off the they have a four day weekend. Yeah I will be with you in a minute.
+Patient: Oh put me on hold and go take care of that
+Nurse: Let me give you a call back because I'm actually I'm in the process of taking them to school too so
+Patient: Let me call
+Nurse: You back. Are you gonna be home for a little
+Patient: While? I'm gonna be home? Ok.
+Nurse: All right. I will give you a call back, I'll schedule her for an appointment but remind me what's her first and last name?
+Patient: Ikkil A
+Nurse: [PHI-Personal]
+Patient: A [PHI-Personal] [PHI-Account] est. Er.
+Nurse: Ok. All right, I have it in here so I'll just put her on for a visit. Oh and then mornings afternoons.
+Patient: Oh any time today, any time today? Ok. Alrighty I will give you. Ok but doctor could call too. He's my doctor. Yeah. Yeah
+Nurse: They kind of if, if one's really busy then they'll talk to another one, right? Ok, I will give you a call
+Patient: Back. All right. Take care of your kids. I'll talk to you in a bit.
+Nurse: I'm so sorry [PHI-Personal].
+Patient: No, you're good, you're good. I remember those days.
+Nurse: Oh God I hope there's a line at the end of the tunnel soon. Alright.
+Patient: Alright. Alright I'll talk to you. Alright, bye bye.

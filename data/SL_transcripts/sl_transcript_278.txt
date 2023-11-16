@@ -1,0 +1,10 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Um hi [PHI-Personal] my name is [PHI-Personal] and I was wanting to follow up with you to see if you guys are getting my mom's um BP reading still.
+Nurse: Can you tell me what your mom's name is?
+Patient: Um [PHI-Personal]. Er
+Nurse: Alright give me one second to pull that up.
+Patient: I'm asking because I know I my my sister texted me and I got it early this morning and she said she was like at 1 60 something. I'm like, well did you? And she's like go and I'm like why the hell not?
+Nurse: Ah ok, so yes the readings are still coming over. Did anyone speak to you today or your sister? No, no. Ok let me have the nurse give you a call um let me make sure it's the right number. Is it this mobile number here that ends in [PHI-Account]?
+Patient: Yeah [PHI-Account]. Perfect.
+Nurse: Ok, I'll have the nurse give you a call shortly. Ok.
+Patient: Ok. Alright bye bye bye.

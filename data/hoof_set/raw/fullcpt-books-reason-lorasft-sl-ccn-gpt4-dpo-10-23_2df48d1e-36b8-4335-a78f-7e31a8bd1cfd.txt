@@ -1,0 +1,41 @@
+Nurse: Great, I'm glad I reached you.Before we begin, I just need to verify your identity.Can you please provide me with your date of birth?
+Patient: Sure. Augustsecond nineteen sixty four.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling on behalf of your primary care doctor, Doctor David Thornton.I'd like to have a chronic care check in with you about your CHF.Do you have a few minutes to talk now?
+Patient: Sure.
+Nurse: Great, I appreciate your time.I know you're busy.I'd like to start by asking how you're feeling.Can you tell me about your current health status?
+Patient: I am actually feeling awesome.So happy to be back from the hospital.And I hope to never go there again.
+Nurse: I'm so glad to hear that you're feeling great and that you're happy to be home!It's important to us that you're doing well and that you're able to stay healthy and out of the hospital.
+Patient: Me too.
+Nurse: Great.I'm glad to hear that.Now, before we get started, do you have any questions or concerns that you'd like to discuss?
+Patient: I can't think of any.
+Nurse: Okay, great.I'm glad to hear that.Now, I'd like to review your medications with you to make sure that everything is correct and that you're taking your medications as prescribed.Can you tell me the names of the medications you're currently taking?
+Patient: I'm taking Valsartan, eighty milligrams,two times a day, and I'm taking Lasix, twenty milligram.Two times a day.
+Nurse: Great, I'm glad you know your medications so well.I'm going to read them back to you just to double-check that everything is correct.You're taking Valsartan 80 milligrams, two times a day, and Lasix 20 milligrams, two times a day.Is that correct?
+Patient: That is correct.
+Nurse: Great, I'm glad to hear that.Now, I'd like to ask you a few questions about your symptoms.Can you tell me if you've been experiencing any new or worsening symptoms recently?
+Patient: No. No symptoms at all.
+Nurse: I'm glad to hear that you're not experiencing any symptoms.It's essential to keep an eye out for any changes in your health.Now, I'd like to ask you a few specific questions about your symptoms.Have you noticed any new or worsening shortness of breath with activity, laying down, or at rest?
+Patient: No. Not at all.
+Nurse: Okay, that's great to hear.It's essential to monitor for any changes in your breathing.Now, have you been experiencing any ongoing or worsening chest pain?
+Patient: No, ma'am.
+Nurse: I'm glad to hear that.It's critical to keep an eye out for any chest discomfort.Now, have you noticed any new or worsening dry cough?
+Patient: No. No dry cough at all.
+Nurse: Okay, that's great.It's essential to monitor for any changes in your cough.Now, have you noticed any increased swelling in your feet, ankles, stomach, or legs?
+Patient: No, ma'am. No swelling at all.
+Nurse: Okay, that's great to hear.It's critical to monitor for any swelling in your body.Now, have you noticed that you've gained more than two pounds in the past day or five pounds in the past week?
+Patient: No. I've gained no weight at all.
+Nurse: Okay, that's great to hear.It's critical to monitor your weight for any sudden changes.Now, have you been using more pillow at night to sleep?
+Patient: No. Same amount of pillow.
+Nurse: Okay, that's great to hear.It's critical to monitor for any changes in your sleeping habits.Now, have you been experiencing an uneasy sensation or feeling that something is not right?
+Patient: No. I haven't.
+Nurse: Okay, that's great to hear.It's important to monitor for any feelings of unease or that something isn't right.Now, based on your responses, it seems like you're doing well and not experiencing any new or worsening symptoms.We just performed a simple CHF assessment and it's important that you do this at home every day.This way, you can catch any changes in your condition early and seek help if needed.
+Patient: Excellent. I appreciate that.
+Nurse: I'm glad to hear that.I think it would be helpful to text you more information about how to do the CHF assessment yourself at home.Would that be okay?
+Patient: Absolutely.
+Nurse: Great, I'll go ahead and send you that information.It's important that you're able to monitor your condition at home.If you have any questions or need help with anything, don't hesitate to call me.
+Patient: Thank you so much, Rachel.
+Nurse: You're welcome.It's my job to make sure you're well taken care of.Now, I also wanted to talk to you about your diet and fluid intake.It's critical for you to follow a low sodium diet and restrict your fluid intake.This will help manage your CHF and prevent any complications.Do you have any questions about this?
+Patient: No, ma'am.
+Nurse: Okay, great.I just wanted to make sure you understand the importance of following a low sodium diet and restricting your fluid intake.It's all part of managing your CHF and staying healthy.If you have any questions or need help with anything, don't hesitate to call me.
+Patient: Thank you so much, Rachel. You've been awesome.

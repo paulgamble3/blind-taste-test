@@ -1,0 +1,43 @@
+Nurse: Hi [PHI-Personal]
+Patient: [PHI-Personal], how you doing? Good, how
+Nurse: Are you? We're playing phone tag.
+Patient: Yeah sorry about that.
+Nurse: Oh that's ok. Are you uh working?
+Patient: I'm well right now. Yeah I just uh getting ready to cut the grass. Are
+Nurse: You a good time to do it in the morning before? It gets too hot right out. So you're not in the middle of this heat today? What are, what are you guys gonna get up to?
+Patient: Well, probably in the [PHI-Personal] I think
+Nurse: In the [PHI-Personal]. Yeah. Well it's gonna be a hot one today. Yeah,
+Patient: By the way I got an appointment with my dermatologist for next [PHI-Personal].
+Nurse: Oh, they called you already? Yeah. Ok. Uh I know they're so booked up.
+Patient: Yeah. Well I hope I'm still alive so I can make the appointment.
+Nurse: Oh I know there are you you can go on a cancellation list.
+Patient: No, that's ok. I'll be alright.
+Nurse: Um ok um let's see. Um ok so you have your appointment and what was that for? Because you have an area.
+Patient: No, just a general check up. I I used to go to the nurses up there at [PHI-Geographic] somewhere or new [PHI-Geographic] and uh I quit them a couple of years ago. Oh, so
+Nurse: It's just like for a full body assessment kind of thing? Yeah. Yeah. Ok. So you're gonna do that? Ok.
+Patient: Um, I used to go to them every year just, just for the, just for a check up, just
+Nurse: For a check up. Ok. All right.
+Patient: Yeah. Well, I
+Nurse: Continue to monitor your skin. You know what I mean? If anything changes, just let doctor know too. Um, do you use your sunscreen? Oh, yeah. Ok. All right. And how's your eyes? Do you see? Do you have any cataracts or anything, or?
+Patient: No, I had cataract operations a few years ago. Ok. I can see, I can see very well still having hearing issues and I haven't heard back from my hearing aid guy, uh, or company. Uh, I don't know why they tell me that they're waiting to hear from my insurance but they indicated it might be two months, two months, wait before they find out. So I'm gonna call them again soon and see what is going on because it's been at least two months where, um, hearing test it's in your, it's, I go to the girls there, the lady there in the, in your office. You want me to
+Nurse: Check on that for you?
+Patient: No, I can do it. I'll just call and ask him what, what it is. Yeah. If I need help, I'll call you and have you get, yeah,
+Nurse: Call me if you need anything. Um, make sure you're using your sunscreen sunglasses. Good for your eyes. 100% 99% UVUV protection and, and stay hydrated today too. You know, a hat wouldn't hurt too. Um, because you don't want any more eye problems or anything like that. No. Um, no. How about refills? Do you know
+Patient: If you need? I'm all set right now. Yeah.
+Nurse: Oh, you're all set? Ok. So nothing new to report to doctor [PHI-Personal] then. Uh huh. No. No. Ok. All right. Well, definitely call us if you need anything. Your appointment's not until [PHI-Personal]. What's your plans for this weekend? Anything?
+Patient: Uh, I might go fishing.
+Nurse: Oh, fish will be nice.
+Patient: Yeah. Yeah, I like the best fish.
+Nurse: Um, that'll be good. Yep. Well, good luck on fishing. I didn't even get out fishing this year. Have you been out or? No?
+Patient: Uh, a couple of times. Yeah, with a friend of mine. We did pretty well.
+Nurse: Did you, do you eat them?
+Patient: Uh, I, I usually eat them maybe once a year but I'm not real fond of eating them.
+Nurse: Yeah. I'm not, I don't eat fish or seafood so.
+Patient: Well, they, they taste good. They're like bass, fresh out of the water, do
+Nurse: They? Yeah. I don't know. I never got into it for some reason but, you know, people did and happy birthday, by the way. What did you do for your birthday?
+Patient: Uh, June? 30 I remem I don't remember. You're a hell of a lot. All
+Nurse: Right. Well, happy birthday.
+Patient: Yeah. Well, thank you very much.
+Nurse: You're welcome. I hope you have a great day and have a great weekend too.
+Patient: Ok. Alright take
+Nurse: Care. Bye bye.

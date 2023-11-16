@@ -1,0 +1,9 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes, [PHI-Personal]. This is [PHI-Personal] calling and, uh, I received a message the other day and I'm not sure what it applies to because, uh, she said I signed up for something and I don't sign up for anything that I don't have papers and I have nothing in my files for. Ok, let's
+Nurse: See. So it looks like back in December, um, you spoke with [PHI-Personal], an enrollment specialist for chronic care management for yourself and your father?
+Patient: Well, I know I spoke with somebody on the phone. I told them that I didn't sign up for anything over the phone that, um, if they could email me the paper so I could look at it, um, or even put it in the patient portal that I would be more than happy to look at it, but I never received those items. So, um, I don't know how it came about saying that I signed up for anything but, um, from what she explained on the phone that day, it doesn't really appear to be something that my dad and I are interested in at this time.
+Nurse: Ok. Uh, we can, we can change that, that's not an issue. Ok. And, um, if you ever change your mind or you want to speak with, um, [PHI-Personal] any more about the program or even myself, feel free to reach out. Ok. We can always change it back. That's not an issue either.
+Patient: Ok. Ok. All
+Nurse: Right. All right. Have a wonderful day. Thanks.
+Patient: You too. Mm.
+Nurse: Bye bye.

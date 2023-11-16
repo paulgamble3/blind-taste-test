@@ -1,0 +1,5 @@
+Nurse: Hello. Care Management. This is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal]. I'm returning a call from [PHI-Personal] on Friday about a program that doctor is having. Ok.
+Nurse: Yep. Hold on one second. How do you spell your last name?
+Patient: Lebo.
+Nurse: Ok. I just want to get the chart up for you. Let me see if she's available here. She's available. Hello? Yes. Oh, hi. How are you? Good. How are you? Hello?

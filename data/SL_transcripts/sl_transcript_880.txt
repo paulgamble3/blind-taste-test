@@ -1,0 +1,41 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you? Oh,
+Patient: Is [PHI-Personal] working today or? Hi,
+Nurse: [PHI-Personal] is off today until tomorrow. She'll be back. Is there anything I can help you with?
+Patient: Yeah, I just want some information. I run it by her and she tells me if I can do it or not. Sure. Who
+Nurse: Am I speaking with?
+Patient: [PHI-Personal]? Patient of [PHI-Personal].
+Nurse: Ok, [PHI-Personal], let me just pull your chart up here. Ok. Can you tell me your birth date? [PHI-Personal]?
+Patient: 10, 29 31. 10, 29 30.
+Nurse: All right, I got you. What can I do for
+Patient: You? Well, it's just a question. I had a stroke in [PHI-Personal]. Um, and now I, I have a car or a walker and I am a little more active now than I used to be. And I'd like to know what's the protocol for getting a cane so that when I go with someone to get my hair done or, or just some small thing getting in the car that walker is so clumsy and hard to do. And then now I wondered, um, if I went through, would I be able to financially get this cane without an expense to me or what? Yeah.
+Nurse: Well, I can definitely ask him for an order for a cane. Now, I, I know that I've talked to like [PHI-Personal] and places like that in the past about that and I've always been told that it's because canes are not very expensive. No, no, I, now, right. So I've always been told that it's better to, you can only, there's only so much and so many times you can get a cane and, and, or a walker and the walkers of course, are much more expensive. Uh-hum. So there's some sort of a rule that says if you got a cane through Medicare, you wouldn't be, they wouldn't pay for a walker if you were to need a new one any time soon. I'm not exactly sure what the timeframe is.
+Patient: Well, I, I did get a cane when I broke my femur, my right. Umh femur and that was specially made for me. However, when I moved here, I don't know what the heck happened to that cane. I, we've looked, I went out in my, I have a cage, Jesus, everything in it, but the kitchen sink. Yeah, but it's not in there and, you know, I have a habit of leaving things. I forget.
+Nurse: Yeah. Who made the cane? Where did you get it at?
+Patient: I was in, um, in [PHI-Geographic] at, at [PHI-Geographic] or something. They made me stay there for 30 days. It like a rehab. Ok. Yeah. And it was through rough child. I got my memory working. Right. I don't mind paying for it. I just want to know.
+Nurse: How about this, how about I ask for an order? Where would you want to get it from? Like, ney home care or like, where?
+Patient: I don't know. Ok. I know my walker came from.
+Nurse: Right. And now is no more. It's [PHI-Personal] home care now. Ok.
+Patient: Well, whatever, I just would like one that's geared for me because I'm short. Yeah. Or that's tell me one time. Don't just going by it because it's got to be fitted to your height.
+Nurse: That's, and that's true. That's very true. Can
+Patient: You hold on just
+Nurse: One second? I sure can take your time. Ok. Yes, I'm here, [PHI-Personal]. Ok.
+Patient: Well, it's, I, I can pay for it out of, out of my pocket. That's no problem. It's just that I want to make sure it's not for a tall person or something.
+Nurse: No, I get it. So why don't you, let me see if Doctor [PHI-Personal] will send an order for a cane to [PHI-Personal] Home care and we'll take it from there because I'm assuming if they deal with that kind of thing, they would have you come in and, and make sure they're giving you the right size and, and all that
+Patient: Stuff. Heaven, it fitted the one that I did get when I broke my leg
+Nurse: Right now. That's a little different because I'm sure there was some physical therapist involved with that because you were in rehab. You know what I mean?
+Patient: They got you up at six o'clock
+Nurse: Ami know they do. They're relentless. So, wake her up or? Yeah. You don't go to therapy now though, do you?
+Patient: No, but I go to log on the fifth of [PHI-Personal]. Um, and I thought if I could, if I couldn't see him before then, if he could tell me if he thinks a cane is what I can use. I don't know. Yeah, I mean, I'm going on one. Yeah. Or
+Nurse: Do you feel like with that, that past and, and I get it. Trust me, I, I understand the bulkiness of a walker and stuff.
+Patient: Well, they're hard to collapse. They are, once you get them collapsed, then you got to use t strength to get it open again. And, yeah, so I never use my walker when I go anywhere. I use my two ft. But I never go where I have to walk very far either.
+Nurse: Ok. So, in, so at that point you're not using anything.
+Patient: That's right. And I seem to get along. But I, to be honest, I don't feel safe when I'm doing that. Like, and
+Nurse: I hate, I hate to say it, but you're probably not [PHI-Personal], you're probably not at that point without anything. Um, I think with your history and the falls and the fractures and, and that you definitely need at minimum of a cane.
+Patient: Uh Well, that's what I thought and, and without going and buying something you're never gonna use.
+Nurse: No. Now I can definitely have him send, send an order over, ask him if that's, you know, something he thinks you can, you know, you can do. Now, um, see here's where the funny part comes in to downgrade from a walker to a cane. Honestly, you know, in re in reality, a, a physical therapist should probably evaluate you to make sure that that's a safe thing. So just in case he comes back with that, I don't want you to be shocked. Ok?
+Patient: Ok. The only thing is at my age it's so darn hard to get out, get out. I get it going if he could do it when I come in in [PHI-Personal]. I don't know. I, I, for so many things I
+Nurse: Know that's ok. That's ok. Let me, let me send a message. Um, first I'm going to call [PHI-Personal] home care and see exactly what they need.
+Patient: And it isn't that I don't wanna use the walker anymore. I, I use that every day. It's with me. But I just thought if someone asked me to go, uh somewhere to a concert or something and I, I'd love to go. I don't go because I don't wanna carry that clumsy walker. It's hard for me.
+Nurse: No, I, I understand. I do. I understand, I just want to do it right where you're gonna get what you need and um, you know, hopefully you won't have to pay anything out of pocket. That would be the best case
+Patient: Scenario if I do, I don't want to sound like a screw
+Nurse: Or no. Why would you, you know, I kind of, I would do anything in my power to not, you know, not let that happen. So let me, um, I'll take care of it on this end. See what Dr Kellogg says? And I'll let you know. How does that sound? Ok. All right, Mary. No problem. It's gabby. Yeah, I'm Teresa's partner. Ok, Marlene. No problem. Talk to you soon. Bye bye.

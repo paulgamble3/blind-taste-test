@@ -1,0 +1,25 @@
+Nurse: Hi, this is [PHI-Personal]. Hello.
+Patient: Uh, this is, you're calling me?
+Nurse: Yes, I was just calling to check on you for the first of the year and see if there were any changes or any concerns.
+Patient: Oh, no, everything seems to be ok, I guess.
+Nurse: Ok. Is your insurance still the same? Yes, it is. Ok. And your mailing address is still [PHI-Geographic]. Yes. Ok. Um, have you had any medication changes? No. No. Ok. Everything going ok with your medications.
+Patient: Yeah. Yeah, I know. Except, uh, I did get my Trulicity and they gave me that, uh, Xamax or that other name for it. I don't know. But anyway, I did take it back today and I told them that was supposed to be discontinued. So I don't know if they just, you know.
+Nurse: Yeah, they might have just accidentally left it on the, uh, automatic refill instead of removing it. Ok. Yeah, because you're still not doing any supplements, right?
+Patient: Uh, no, not. I, after that, I mean, other than calcium, I take calcium now.
+Nurse: Ok. And then how's your BP? Have you checked it recently?
+Patient: Yeah. It, uh, hm, I think it was like 1 37 I forget now 1 27/73 or something. It wasn't bad, you know, it was good. Pretty good. Ok,
+Nurse: Good. And it looks like you're up to date on your bone density screening, which is for osteoporosis. Have you had any mammograms?
+Patient: No, I haven't. Uh, I haven't in a couple of years because I didn't think [PHI-Personal] recommends them anymore at my age. So.
+Nurse: Ok. Yeah, it's, it goes person to person sometimes too. If you have a history, family, history of breast cancer or your, you yourself have had any issues, um, you know, like lumps dimpling anything like that, they would recommend it. But if as long as everything's looking and going. Ok.
+Patient: Yeah. Yeah, I don't have any problem and, uh, no family history that I know of, you know. Good.
+Nurse: Ok. And then have you gotten any vaccines recently? Like the shingles vaccine? Pneumonia?
+Patient: No, I, I've already had the pneumonia. Um, but I haven't gotten the shingle one.
+Nurse: Ok. And I know, um, no COVID vaccines. Have you thought about getting the flu shot this year?
+Patient: Yeah, I was going to, but now, uh, I don't think I will for this year, you know, at this stage of the game, the wait until the, yeah, I will get next year, you know. Ok.
+Nurse: Ok. Yeah, sounds good. Um, I will be sending out the [PHI-Account] care plan list which just says what you'll be due for like the mammogram flu shot in the fall and it'll have my contact information on it. So if you do need anything in between office visits, feel free to call. Ok. Ok. But otherwise you're doing ok, no questions or concerns.
+Patient: No, not really. No. Ok.
+Nurse: Ok. Good. I'm glad everything's going ok for you and I will reach out to you again later call if you need anything.
+Patient: All right, I will. Ok.
+Nurse: All right. Well, you have a good night and take
+Patient: Care. Yeah, you too. Thanks. Bye bye bye
+Nurse: Bye.

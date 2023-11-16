@@ -1,0 +1,10 @@
+Nurse: Care management. This is nurse [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. Um, this is [PHI-Personal] calling you back? Oh, ok. Yes, ma'am. Um, I got a hold of, uh, [PHI-Personal], the, the Cri Christine [PHI-Personal], the lady that, uh, the podiatrist that you, uh, told me the number for. Mhm. Ok. Um, she's telling me [PHI-Personal] and I explained to her about what we were going away and I'd really like to make sure that this was healed up properly before that she said she will call, um, she will send a message to [PHI-Personal]. She's in surgery right now. Hopefully she can get back to her and they're gonna see if they can give me an appointment earlier than that.
+Nurse: Ok. Wonderful. I'm so glad to hear that.
+Patient: So, um, I don't know if you still wanted to work on research because she said she might call me back today. She might call me back Monday or if you just wanna hang on and see what happens with her,
+Nurse: Ma'am. I'll hang on, um, until like Monday or Tuesday and I'll give you a call to follow up with you just to see where
+Patient: We're at. Ok. And, or I can call you on either one of those days and um that works and leave a message. Ok. Yes,
+Nurse: Ma'am. Thank you so
+Patient: Much. Oh, and thank you for giving me that information.
+Nurse: Well, you're very welcome. You enjoy your weekend. Thank
+Patient: You. You too. A rainy one, But we need it. Yes. Ok. Bye bye.

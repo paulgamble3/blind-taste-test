@@ -1,0 +1,131 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: I don't know [PHI-Personal], this is [PHI-Personal]. I seen your number on my phone.
+Nurse: Hi [PHI-Personal]. Yeah, I got a message from you yesterday stating that you didn't realize you had the appointment yesterday. Oh yeah, it happens, it happens but they they are charging you the $[PHI-Personal].
+Patient: Well, um who usually pays for my visits there
+Nurse: Who pays for your visits?
+Patient: Yeah,
+Nurse: I am not sure. Um usually it's it's you unless you have like um um oh my God, what are they called? They're like a case manager that you know, helps you with, manage your money. Do you have a person like that? No, no. Ok, so then yeah it would have to come uh um out of your your pocket.
+Patient: Alright. What what appointment was this that I missed?
+Nurse: Ok, let me pull up your
+Patient: Chart. Sorry about that. And besides that they got my name wrong. It says [PHI-Personal]. It ain't [PHI-Personal], it's just [PHI-Personal]. Oh
+Nurse: Yeah. Oh, how did they mess that
+Patient: Up? Well, very easily [PHI-Personal] instead of Jenks. Yeah, I guess
+Nurse: Let me see what kind of appointment it was
+Patient: Ok. Oh, wait a minute. Um, how could I miss an appointment? Oh, right. Is this card says it's from Lakeland, Florida?
+Nurse: I don't know what card that is.
+Patient: I don't,
+Nurse: Originally it was scheduled, um, they wanted to discuss, they, you had the appointment for your follow up from the hospital. Um, and there was some cognitive issues that they didn't address. So they made another appointment for you, um, originally on the second of [PHI-Personal]. But then because the [PHI-Geographic] was closed, they moved it to the fifth. I don't know when it was done. Oh, look at, uh, [PHI-Account] and they mailed the letter to you. And so I'm assuming you got it because it got rescheduled.
+Patient: Right. Hopes I got papers in my lap and I don't even know what? Oh, all right. Who am I talking with right now, please? Sure. It's
+Nurse: [PHI-Personal] with [PHI-Geographic], medical services. So, [PHI-Personal] [PHI-Geographic].
+Patient: No, that's ok. Uh, uh, so I missed an appointment at, at the. Mhm. Right. Well, I have been kind of like under the weather and I haven't really done much of anything. Mhm.
+Nurse: Do you feel like you're a little forgetful?
+Patient: Well, yeah, a little, yeah.
+Nurse: Yeah. So, I mean, usually what I, I tell patients, um, if they have like, a little bit of forgetfulness is, um,
+Patient: Make a joke past side effect
+Nurse: Of nausea from, sorry. Um, I would write this, the, um, appointment reminder down but then what I'd also do, is make sure that I have, um, somebody else who will remind me.
+Patient: Yeah. Well, I, I usually have an aide but, um, I guess I didn't, I just, I, I guess I just forgot. II, I can't make excuse because I, I don't have any, I just, I don't, that said that I had an appointment anyhow. That's not, it, it,
+Nurse: They do mail them to you, um, appointment reminders or appointment changes. Um, but they call as well and I think like a lot of times not, I'm not blaming you or anything. Um, a lot of times you do have some confusion so you forget.
+Patient: Yeah, that seems to be happening a lot lately. Yeah.
+Nurse: Sorry. Yeah. No. Hey, um that's why he wanted you to come into the [PHI-Geographic] to see if there was some kind of like test that they can do or to see what's going on like if it's um, a complication because of, you know, some changes in the brain or if it's a medication even though you don't take any, um, you know, I wanted to just review that with you. I think that's a, that would be a good appointment to reschedule.
+Patient: Yeah, because I, I don't, I don't take anything. I um, I have more cars around here. I'm trying to figure out who it is. I'm talking with. Mm. Mhm. Ok. Oh, crying out loud. Bye. That's about it. Let's see. Being [PHI-Personal]. Um, who am I talking with again. I'm sorry,
+Nurse: It's [PHI-Personal].
+Patient: [PHI-Personal]. From, from where? Huh? [PHI-Personal] Chi's [PHI-Geographic]? Oh, I don't know how to spell his last name. [PHI-Geographic]? Ok. That sounds good. Mhm.
+Nurse: [PHI-Personal]. Er,
+Patient: Sorry, you went faster than that,
+Nurse: Did you? Oh, I'm sorry. Did you want to write it down?
+Patient: Yeah.
+Nurse: Ok. You have a pen and paper. You ready? Yeah. Ok. The first name is [PHI-Personal] C
+Patient: H AD. Mhm. Ok.
+Nurse: And then the last name is [PHI-Personal].
+Patient: Ok,
+Nurse: Tes.
+Patient: Ok.
+Nurse: T er,
+Patient: How do you? Mhm. That's right. Ok. [PHI-Geographic], [PHI-Personal] where, where's the doc, uh, doctor's [PHI-Geographic]?
+Nurse: Um, you usually see [PHI-Personal] at the [PHI-Geographic] [PHI-Geographic] in [PHI-Geographic].
+Patient: True. Ok. I have to write everything down anymore. I'm sorry, I know. I know. Ok, [PHI-Geographic] Office. All right. So I missed an appointment. I, I'm, um, um, I got paid for it. Yeah. Ok. So, but
+Nurse: What I'd like to do is schedule you for a visit so you can, when you go in to speak with [PHI-Personal] and he does that evaluation, he might wanna waive that $[PHI-Personal] because it's, you, it's not your fault, you know, like, I mean, it, it, technically, so you missed the appointment but we didn't set up enough, um, you know, reminders for you.
+Patient: Ok. I'm sorry, I just, I, I forget so easy anymore.
+Nurse: I know. I know. Is your aide with you today?
+Patient: Yeah, she's at the
+Nurse: Store. She's at the store. Ok. Um, maybe when she gets back I'd like to call and speak with her.
+Patient: You want her to call you?
+Nurse: Yeah. Sure.
+Patient: Ok. Um, well, I know I must have called it but I don't.
+Nurse: No, that's ok. I will give you the name and number. So ready.
+Patient: Well, I got the name [PHI-Personal].
+Nurse: That's, yeah. But my name's [PHI-Personal].
+Patient: Ok. Oh, I got that down to [PHI-Personal] [PHI-Geographic].
+Nurse: Yeah. Yeah, I want you to write down my phone number even though I know you have it.
+Patient: Well, you bet you're right. I need to. So what is it please? Mhm.
+Nurse: [PHI-Account].
+Patient: Ok.
+Nurse: [PHI-Account]. [PHI-Personal]. Yep. O2.
+Patient: Ok.
+Nurse: Ok. What is my number? [PHI-Account]
+Patient: O2 [PHI-Account]. Yep, that's it. Ok. 716265 O2 [PHI-Account]. Yep. And your name is [PHI-Personal]? Yes, ma'am. Ok.
+Nurse: Um so make sure you give that to your aide. Ohh. Right. Um to call me and then you the next appointment that [PHI-Personal] has open for you to see him is next Wednesday. The time is 9:45 a.m. Is that too early?
+Patient: Yeah, a little but yeah because I'm not you I it depends on what kind of a night I had, you know. Ok, so
+Nurse: Let's see here. See if I have any other open appointments.
+Patient: Ok, thanks and I appreciate appreciate your time. Yeah, no
+Nurse: Problem. How about, can you do around lunch time at noon.
+Patient: Yeah, I could do that. Is that Thursday? On Wednesday?
+Nurse: It is gonna be on a Thursday. Does that work?
+Patient: Oh, sure. I don't usually have anything Thursday at what time? Noon at noon? Mhm. Ok. And that's at [PHI-Personal] [PHI-Geographic] on [PHI-Geographic]? Mhm. Ok. And your phone number is 716265, O2 [PHI-Account]. And your name is [PHI-Personal]? Y ok. Hey, I'm doing pretty good. Yeah, you
+Nurse: Are. You are. And what I'm gonna do is, um, I'll, when your aide calls back I'll let her know so that she knows and then I'll also call you the day before
+Patient: The appointment. It's probably a pain in the butt. You got a lot of people
+Nurse: Now. Well, hey, you're important to me. So,
+Patient: Ok, now your phone number is 716265, O2 [PHI-Account]. Ok. And your name is [PHI-Personal] and Office? Yeah. [PHI-Geographic]. Well, I should be able to find that. Do
+Nurse: You want me to give you the address? The specific address?
+Patient: Ok. Ok.
+Nurse: So it's [PHI-Personal]. Ok, [PHI-Geographic].
+Patient: That's close to, um, um, oh, heck I can't think what's the name of my street is, um, the hospital. Yes, it's by the hospital. Yeah. Ok. [PHI-Personal] [PHI-Geographic], right? Yy. Ok. And it's Thursday at noon. Yes, ma'am. What's the date on that? Hon the [PHI-Personal]? [PHI-Personal] [PHI-Personal]? Ok. Are you, uh, here every day? Are you gonna? Oh, ok, because I got, oh, well, then this appointment for Thursday, [PHI-Personal] the [PHI-Personal] noon. That's about the time I leave. So, ok. Well, I was gonna have you go with me, I guess you can. Oh, I'm sorry, [PHI-Personal]. That won't work. That's ok. Well, she leaves it then. So.
+Nurse: Ok. So how about, can I put you on for that 9 45 appointment instead?
+Patient: I didn't hear at MU? All right. Um. Oh, is it that same day? [PHI-Personal]
+Nurse: 12? No, that's the, it's the day before? Ok.
+Patient: That, I don't know. That's, uh, we only here Thursday. Oh, she's only here Thursday. Ok. Um,
+Nurse: So let me
+Patient: Just see. Sorry about this. No.
+Nurse: Hey, not a problem. Not a problem. We'll figure it out and we'll get you into the [PHI-Geographic]. It's a really important one because he's gonna assess the, you know, the changes in, in your thinking. Um, so I really want you to be able to come to this one. Uh, here we go. I have a [PHI-Account] 30 on Thursday. [PHI-Personal] [PHI-Personal].
+Patient: Ok. That works. You wanna wait? She's gonna write it down.
+Nurse: Ok, good. Yeah,
+Patient: Thursday. When,
+Nurse: At [PHI-Account] 30?
+Patient: No date, [PHI-Personal]
+Nurse: Date is, no, it's gonna be [PHI-Personal] the [PHI-Personal].
+Patient: Oh, [PHI-Personal] the [PHI-Personal]. Ok. At what time?
+Nurse: [PHI-Account] 30.
+Patient: And this is in the [PHI-Geographic] down here by the hospital.
+Nurse: Yep, the [PHI-Geographic] [PHI-Geographic].
+Patient: Ok. What's the doctor's name? Uh, [PHI-Personal], what, what's the doctor's name.
+Nurse: [PHI-Personal] Tester. Hm. [PHI-Personal] Chi Tester. You wrote it down. Yes, she did. I see
+Patient: That now. Ok. All right. Running fit.
+Nurse: God, love you. God, love you.
+Patient: Ok, so you're here, you're gonna be here. Yep. Ok. I will put that in my calendar. Ok. My, yeah, my aide will pro my aid will come with me too, but I, I can walk right to the [PHI-Geographic]. Ok, because I live on, on Maple [PHI-Geographic],
+Nurse: Whatever you do make sure you don't go alone. Oh, ok.
+Patient: Ok. Right. I'm gonna get lost. Uh
+Nurse: Honestly. Yeah. Yeah, I am I don't want you to get lost. My
+Patient: Yeah. Yeah. Mhm. Yeah. Yeah. II I it makes me feel really good, you
+Nurse: Know. Yeah. Right. I was glad because the appointment in so. Oh gosh,
+Patient: I do, I use my GPS otherwise, you know. Oh, there you
+Nurse: Go. There you go. Yeah, because see like when I scheduled the appointment that I scheduled with you guys and reminded you of was back in December and you made that one, they made this next appointment and they didn't tell me that they made that next appointment. So I didn't know otherwise I would have been on you and I would have reminded you, hey, this appointment's coming up and stuff. So yeah, I think I'm gonna tell them they need to let me know if they schedule you for an appointment because I got, there's, there's something we have to do for you to make sure you get
+Patient: There. I'm sorry about that. But
+Nurse: No, no, I mean, it's, it's age related change but it's also, there's definitely something else that's going on in your, in your head. I don't know, like, if, you know, sometimes people have like mini strokes and they don't know that because they're still, like, able to do things and say things like, without any slurred speech or, or, you know any like anything like that but they might have like a lot of forgetfulness so you know hopefully they they you know chad can do uh an assessment and get you some tests and we could see what's going on.
+Patient: Look at my phone she got it on the phone I don't know wait a second phone. Oh alright I had it was just waving all over the place you got it on here? Oh ok. Ok. All right um did you get that? Yeah I got it and you're gonna be here that day? Yeah. Ok. What day is that the [PHI-Personal]? At [PHI-Account] 30 in the morning? What's today's date
+Nurse: Today? Is
+Patient: The sixth? Ok that so it's not until the [PHI-Personal].
+Nurse: Yeah so what I'm doing is I'm gonna mail you a letter. Ok it's gonna have the date the time and the location and the doctor who you're seeing and then I'm gonna call you on the. No no no don't worry about it then I'm gonna call you on the [PHI-Personal] and just remind you if you want me to, I could even call that morning and just say, hey, you have an appointment at, you know, [PHI-Account] 30.
+Patient: Ok, I appreciate that.
+Nurse: No problem [PHI-Personal]. No problem. I don't want you to, I don't want you to have to like, keep on paying this, especially when it's not really your fault. You know, like it's just, you know, a condition you might have, um Alzheimer's you might have dementia. So you know there's there's treatment out there but there's nothing really to stop the disease from occurring.
+Patient: So my cat she's all big eye and around because you know we came back from the store and she has trees. Oh of course she was wrestling wrestling with the bags and he came tearing in here. Mhm. Big guy this is. Oh
+Nurse: Gosh all right then girlfriend well then I will talk to you in a couple of weeks. Ok. Ok I'm gonna send you the letter.
+Patient: Did I write that down? Yeah I guess I did.
+Nurse: Yep I'm gonna send you a letter. Ok.
+Patient: Well I'm sorry and that seems like a lot of bother.
+Nurse: No no you're not
+Patient: [PHI-Personal] the [PHI-Personal] at [PHI-Account] 30. Yeah. What day is that? Is that a Thursday? That's a Thursday. Ok. Ok. Ok. [PHI-Account] 30. Alright.
+Nurse: Ok I'm gonna let you go.
+Patient: Alright honey thank you for your
+Nurse: Patience. You're welcome. Oh my gosh no problem no problem at all.
+Patient: [PHI-Personal]
+Nurse: Right. Have a good day. You too. All right. Bye.

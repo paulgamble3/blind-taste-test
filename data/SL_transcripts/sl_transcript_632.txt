@@ -1,0 +1,70 @@
+Nurse: Hi, good morning. This is [PHI-Personal] of the nurses here at Doctor [PHI-Personal] office. How can I help you?
+Patient: Hi, it's [PHI-Personal]. Oh, excuse me?
+Nurse: Hi, how are you? I'm doing
+Patient: Ok. Um, I thought I'd give you my BP readings. They have been all over the place.
+Nurse: All right. Let me get, you pulled up here. Fight with the computer. You are on my list to call here next. So, I have you all queued up?
+Patient: Ok.
+Nurse: All right. What have your blood pressures been?
+Patient: Well, I'll give you the first [PHI-Personal]. and like I say, they're all over the place. Oh, it was 1 76/59. When
+Nurse: Was that?
+Patient: [PHI-Account], 12 this morning? No, [PHI-Account] [PHI-Personal].
+Nurse: I'm, I'm sorry, I wasn't sure clear. Leap in the morning. Oh, right. Wasn't very clear on
+Patient: That [PHI-Personal] either.
+Nurse: All right. So, what was, uh, was that the morning BP then?
+Patient: Uh, let me see what that said. Oh, you know what? I didn't, I didn't put the, the time on that. Oh, yeah. Yeah. Yeah, I did. No. Yeah. [PHI-Account], 9:09 p.m.
+Nurse: 9 p.m. Ok, perfect.
+Patient: Ok.
+Nurse: All Right. What, um, do you have the [PHI-Personal]?
+Patient: Yes. [PHI-Account]. And that was, uh, [PHI-Account] a.m.
+Nurse: Ok. Did you have a evening reading for that
+Patient: [PHI-Personal]? No. Listen, I was lucky if I got [PHI-Personal] of them a day. My, my life is very stressful.
+Nurse: I understand that. Heck, I thought you were talking about the time. Not the date. So I get,
+Patient: Oh, ok. II, I
+Nurse: Fully understand how stress works. So, um, I'm just happy we have some numbers here to go off of, since he came off of the medication. Um, did you get the 14th by chance?
+Patient: Yes. 1 70. Over 55.
+Nurse: Hm. Morning or afternoon.
+Patient: That was 9:[PHI-Account] a.m.
+Nurse: Ok. Definitely.
+Patient: That day I did do two. I'm just getting on to this cuff. I think I, I learned something from some, a friend of mine, uh, how to make it easier. So I think I was doing some things wrong too. Ok. Ok. So then, uh, that evening was 1 59/[PHI-Account]. Do you want my pulse too?
+Nurse: Um, if you have it? Yeah.
+Patient: Yeah, I did, I didn't, I just didn't give them to you. Uh, last, or that day was [PHI-Personal].
+Nurse: Ok. Have you had any irregular heart rate readings real high or real low?
+Patient: Uh What do you mean the pulse? Yeah. Uh, not below [PHI-Account] but I run very low.
+Nurse: Ok. All right. How about the [PHI-Personal]?
+Patient: Apparently? I did not take it that day but but I have the rest of the days. Ok.
+Nurse: Uh do you have the [PHI-Personal]?
+Patient: Yes. 1 73/[PHI-Account]. Ok. That was [PHI-Account] p.m. and the pulse was 64. All right, that's
+Nurse: Good. All right. How about the [PHI-Personal]?
+Patient: [PHI-Account].
+Nurse: Yeah the heart rate for that [PHI-Personal].
+Patient: Yes. [PHI-Account].
+Nurse: Alright morning or afternoon
+Patient: That was 11 a.m. Ok
+Nurse: And yesterday the [PHI-Personal]
+Patient: 1 47 [PHI-Account]
+Nurse: Right coming back down I like that
+Patient: It's yeah but it it's crazy uh then pulse rate was 53. Ok I think that was morning um I didn't have a time but I believe that was am
+Nurse: And did you take it
+Patient: Today? Well I have [PHI-Personal] more for yesterday then and by the evening it was 1 72/59.
+Nurse: Ok
+Patient: I read [PHI-Account].
+Nurse: Yeah that definitely went
+Patient: Up well then this morning it was 1 42/59. Hm and that was at 11 a.m. today this [PHI-Personal] so it's all over the page. Yeah.
+Nurse: Oh we do uh you can end up with a little bit of what's called rebound hypertension after you come off of BP medication and since you did come off the hydrALAZINE um that might be a little bit of what you're seeing um
+Patient: And let's see and I was taking three of those a day. Mhm.
+Nurse: Ok so what I'm gonna do is I'm gonna send these back to Doctor [PHI-Personal] because he wanted you to give a call if it's over 1 40. So we're going to send this back to him, see what he has to say, see if he wants to bring it in, see if he wants you to try a new medication because with it being as high as it is expe, you know, 1 40 is, we definitely don't want to. Mm, [PHI-Personal] forties is still high, but the [PHI-Personal] seventies and [PHI-Personal] sixties are definitely too high and that puts you at a higher risk for strokes. Heart attack increases the b the, um, pressure and your vascularization there, which can lead to an aneurysm formation. It can damage your kidneys, um, if it's untreated over periods of time here. So let's send these back to him and see what he wants to do.
+Patient: My problem is my lower number is always low. Mhm. It's very hard to regulate it to tell you the truth
+Nurse: When that lower number tells us when your heart's at rest. What that pressure is. So, that's actually a good thing when it's lower. That means that you, that it's at least having a little bit of a break. So we wanted to have that diastolic number to be, you know, around 80 is the normal, a little bit less than that as long as you're feeling. Ok, it's perfectly fine. Um, and that gives your vessels a little bit of time to rest in between that being said, you know, if you're feeling lightheaded, if you're feeling dizzy, if you're feeling symptoms, that's all something we do wanna keep an eye on. So it is something that Doctor [PHI-Personal] is taking into account when he does your medication. Um So we'll see here what he, what he wants to do cause you are, you're definitely in the high BP. Stage two range, anything over 1 40 is high BP. Stage two, hypertensive crisis is when you start getting in the [PHI-Personal] eighties and you've crept up close enough to that that I definitely wanna make sure we're addressing it. Ok.
+Patient: Yeah. Mhm.
+Nurse: All right. Let me just see here. So we'll track this, let me get it back to him. See what he wants to do. I have a feeling he's either gonna want you to come in and be seen or he's gonna wanna make a change. Are you OK with either of those? Yeah. Mhm. Ok. Would you be able to come in this week if he wants you to come in?
+Patient: Uh Yes. All right,
+Nurse: Perfect. All right. Well, let me get this back to him and see what he wants to do. OK. Have you been feeling lightheaded, dizzy, headaches, anything like that? No, no. OK. Perfect. Um Any flushing on the face changes in vision. Headache. All right. So the biggest thing is headaches, dizziness, flushing of the face, all of those things we'd wanna know right away because that tells us that your body is not compensating for that BP.
+Patient: No. Uh,
+Nurse: Ok. Have you been feeling better, um, with your eyes? At least since stopping the hydrALAZINE.
+Patient: Yes. Yes, I have. Mhm.
+Nurse: Ok. Good. Well, that's a plus side. Right.
+Patient: Yeah. All
+Nurse: Right. Well, let me get this back to him and we'll go from there any other questions or concerns that I can help you with today?
+Patient: No, that's
+Nurse: It. All right. Well, you have a good morning. I'll give you a call back probably in the next hour or so. Sounds good. All right, I'll talk with you soon. All right, thanks. You're welcome. Bye bye. Bye
+Patient: Bye.

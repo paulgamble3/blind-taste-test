@@ -1,0 +1,42 @@
+Nurse: [PHI-Personal]. Hi. Hello. Hey, how are you?
+Patient: Um, I'm ok. I guess could you please send a message for me?
+Nurse: Sure. Can. Hold on. Let me go to your chart though. Ok, I just have to get out of this other patient's chart. You're fine. You're no, you're fine. I just have to, it takes like a minute just to get all this other patient's chart here. Um, ok, you, you had your appointment? Doctor [PHI-Personal], didn't you?
+Patient: Yes, I need you, but I need you to send her a message for me.
+Nurse: I sure can.
+Patient: I think I have an appointment. I have a face to face with her on Thursday, but I need a, I need a message sent about today. Ok.
+Nurse: All right. I'm in your chart, my dear.
+Patient: They wanted to know when I had, um, if, when I had a bowel movement it was bloody and black and yes, it's still bloody and black
+Nurse: Course. So she wanted to know.
+Patient: Yes. So yes, to know
+Nurse: If her stool continue to have she to be black, um, and blood, right? And blood in the stool.
+Patient: Yeah, they're still, it's
+Nurse: Still. So every time you're having a bowel movement or
+Patient: No? Well, I just, I just had one a few minutes ago and yes, it's still black and bloody and she, that's why I'm going to see her on Thursday. She's the one that made the Thursday appointment
+Nurse: Bill continues.
+Patient: Yeah, she, she knows, but she wanted to know on Monday if it was, you wanted to know by Monday if it continues. So, I, I'm,
+Nurse: Yeah. Ok. No blood and stool. any other symptoms associated like anything else you wanted to know? Um I'm gonna go to your, he
+Patient: Didn't really wanna know much else other than that and then she's gonna, I'm gonna see her on a on Thursday. It's a face to face the [PHI-Personal] I believe [PHI-Account] [PHI-Geographic]
+Nurse: I think she may have. Ok. Um ok, so she still wanted to know. Ok, so she is aware of all this. She just wanted us to know if it continues. Um ok. Ok. Now, are you on now you're still following what she recommended like you're on the pantoprazole, 40 2040 mg twice a day for eight weeks and then go down to once um you need a scope. She said so that's why she's referring you. Um and then I just always review everything and then you're fine dear. And then she's adding the Carafate. What is it one by mouth before meals for eight weeks? Ok. And then she just said, you know, avoid spicy foods and foods that are high in caffeine also. Um,
+Patient: And I think she took me off bread too.
+Nurse: She took you off where dear? Um,
+Patient: Oh, no, no, no, I'm not eating. She told me not to eat very much bread. Did she? Ok. I don't know if that's in the chart, but I do know that that's what she said in the tele call and I'm going to see her face to face on Thursday.
+Nurse: Ok. Ok. So she is aware of that. Um, ok. Please know. I did ask her, let me know if she's still having black stools on Monday. Patient really needs to be seen for regular visits. Ok. Um, ok. Nausea continues. Ok. Let me just let her know, um, reports, nausea continues. Ok. Um, when I'm
+Patient: Going, especially when I'm having a bowel movement
+Nurse: A moment. Ok. Um, you are, I'm gonna tell you you are taking your medications as ordered.
+Patient: Um, I am,
+Nurse: Let me let her know medication as ordered and you have not heard on the referral yet? Right? To the G I,
+Patient: No, I have not.
+Nurse: Ok. Let me put that in there. So maybe she could bump something up.
+Patient: No, there's nothing she can do. Oh, really? Yeah, we talked about that on the, on the tele call. There's nothing she can do. She hasn't heard from him either. Are they
+Nurse: Just that busy?
+Patient: I, I have no idea but I have, yeah, I'm, I believe it's the, can you check just to be on the safe side. Is it the [PHI-Personal] [PHI-Account] [PHI-Geographic] that I'm going the
+Nurse: [PHI-Personal] [PHI-Account] [PHI-Geographic]? Yep. Ok,
+Patient: So that's Thursday.
+Nurse: Mhm. Yep. Let me just double check my calendar. Let's see, [PHI-Personal] would be Thursday. Correct? Yep. Thank you. You're welcome. And I'm gonna give her this message um to her and I'll just explain that. I mean just to remind her and I'll attach her telemedicine, you know, appointment what when you guys last had your appointment um too. Mhm. Ok so that's when it was. Ok. Yeah let me get it out to her um and we will go from there. Ok. Alright, how was your weekend?
+Patient: It was good. I'm gonna let you go because I have somebody else here so. Oh
+Nurse: Yeah go ahead. Ok. All right, I'll let you know what she said.
+Patient: Thank you so much for getting that message out to
+Nurse: Me anytime I'm going to send it right now.
+Patient: Thank you. Ok. Have
+Nurse: A good bye you too. I'll let you know what she says. Mhm.
+Patient: Bye bye bye dear.

@@ -1,0 +1,21 @@
+Nurse: Hey, this. Hello. Hey, how you doing? So this
+Patient: Is [PHI-Personal] calling. Uh [PHI-Personal] said uh I guess you're taking our call uh if we need refills and stuff.
+Nurse: Uh Let me pull up your chart. Let's see. And what is your first name? [PHI-Personal]?
+Patient: And last name? [PHI-Personal].
+Nurse: Ok. Yes, sir. Do you need any refills on anything?
+Patient: Yes, I need the one touch. Oh Del IC A [PHI-Personal] Lantus.
+Nurse: Let's see. Not the test strips. You need the
+Patient: The one touch Del IC A [PHI-Personal] 3 3 GL.
+Nurse: Ok. And that's what you use to prick your finger, right?
+Patient: Yes.
+Nurse: Ok. I see it here. It's the needle. Um Let me make sure how often do you check your
+Patient: Sugar? Uh [PHI-Account] times a day?
+Nurse: Ok. Um I'm just trying to make sure this is the same thing. No, that's different. So we got one touch.
+Patient: I have 22 lances, [PHI-Account] it's for my [PHI-Personal].
+Nurse: Yeah, that and that's the one I thought. So the one that you have um the one that you need the refills on. We don't have any in the computer system. So can you tell me is one touch
+Patient: It says on the, on the package here on the bottom, it says one touch and it says Del IC A [PHI-Personal] [PHI-Account] inches,
+Nurse: Right? [PHI-Personal]. And what's the size? Pardon? Do it tell you the size of the needle? Like a gauge? Like you usually have like 31 gauge or 32
+Patient: [PHI-Account]?
+Nurse: Ok. Good. Is a 33 gauge. Ok. And what pharmacy would you like that sent to?
+Patient: It's CV S Pharmacy, South Sport.
+Nurse: Ok. And that's exactly what I have on file. Ok. Yes, sir. I will get that out to you. Ok. Ok. Alright, thank you. You're welcome. Have a good day. You too, thanks. Ok, thanks. Bye bye.

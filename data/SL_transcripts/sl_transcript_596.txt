@@ -1,0 +1,49 @@
+Nurse: Hello, this is [PHI-Geographic].
+Patient: Yeah, this is [PHI-Personal] calling. Ok. Hi,
+Nurse: How are you
+Patient: Doing? Well, uh, I'm not doing too bad. I had my surgery and I'm trying to recover.
+Nurse: Ok. Let me pull up the chart here, ma'am. Ok. And this is [PHI-Personal]. Yes. Ok. All right. And you said you had surgery, ma'am? Ok. Um, ok, looking here and see. Ok, it was on your finger. Yes. Ok. All right, ma'am. How did that go?
+Patient: Um, well, I just had it Friday, so I'm still having pain.
+Nurse: Ok. Ok. And they're gonna want you just to kind of continue your medications. Of course they have, um,
+Patient: Oh, I'm allowed to have a power now.
+Nurse: Yeah. Yeah. Your Tylenol. Yeah. The, yeah. Uh, has that been kind of somewhat happen? Helping?
+Patient: Uh, it helps some. Not totally. No.
+Nurse: And then they want to do your two, POSTOP, uh, tube for two weeks. Um, you've been changing your dressings, ma'am?
+Patient: No, I didn't touch it. Can't touch it until I see the, until I see them on the [PHI-Personal].
+Nurse: Ok. Ok. And what's your pain, ma'am? From 1 to 10? With that.
+Patient: Well, all the time it's probably about eight. Ok. And it still does, it does rise up, huh?
+Nurse: Ok.
+Patient: I guess that it healing. I don't know.
+Nurse: Right. Yeah. You don't have any chills or fever or anything and no sign of a infection.
+Patient: No. Ok. Ok. It was a local, uh, local surgery. Ok.
+Nurse: Ok. But you are having, are you having any, still the increased pain at the wound site? No redness or swelling. Are you around it? I, I have
+Patient: No idea. It's in a tube. They cut the end of my finger off. Uh huh. Ok. And it's in the tube and I can't touch it. So, um, I have no idea what's going on in there. Uh, the swelling I probably has to come down somewhat because my, um, finger is looser in the tube than what it was. Ok.
+Nurse: And so no fevers, chills or nausea or vomiting.
+Patient: No, no, no. Ok. No, no side effects just, uh, the pain.
+Nurse: Ok. Yeah. If you ever start, um, having any yellow or green dr, uh, discharge or anything coming out or any of those signs or symptoms while odor come around from the wound or any change or color and amount of drainage from the wound.
+Patient: No, no, there's, there's no way I can really tell and I don't have nothing on my dressing. I have a little blood on my dressing, but that was expected.
+Nurse: Ok. All right. Yeah. If you have any of those signs ever to come, you know, let the doctor know, you know. Well, I talked
+Patient: To them this morning. Ok, because I was concerned about the finger being movable, kind of.
+Nurse: Yeah. Have you been able to move it?
+Patient: Uh, I, I know it, I know it moves back and forth in the tube.
+Nurse: Yeah. Ok. Move back and forth. Ok. Yeah. And you, you still, uh, is it, is you have the feeling too of it, ma'am?
+Patient: I have the feeling, uh, I have some numbness because of the surgery and, uh, I can just basically, uh, yeah, I have some, I have some, uh, feeling but then of course I have, uh, at the end I'm sure it's kind of numbing.
+Nurse: Oh, yeah, it's kind of numbing numbness. Yeah. Ok. Ok. And you reported that to the office? So that's good.
+Patient: Yeah, they didn't tell me it was gonna be in a tube. I, I had no, II, I just assumed they just wrapped it up and, uh, didn't know that procedure was to stick it in some kind of a tube. I wish they would have told me that ahead of time. Right. Yeah, I knew what to expect. So, somebody gonna get a talking to when I go back.
+Nurse: Oh, yeah. Yeah, they kind of, yeah, they could have, yeah, I agree. They could let you know what was going on.
+Patient: Yeah. Yeah. Be because I knew the end of it was hard. But I couldn't figure out why it was hard and, and being that, I, you know, I, I only got basically four inches of finger left. Yeah, because they took out the, up to the first joint. Uh huh. And, uh, but anyway, uh, it's hopefully it will. I know he has stitches in it because I saw it before he wrapped it up. Yeah. And, uh, but so, but hopefully he'll be ok.
+Nurse: Yeah, hopefully you'll be healing up. Uh, uh, but
+Patient: They want me to go back in on the eighth and either, or, I don't know if they're gonna, he said something about taking the stitches out. But to me that seems a little soon, but maybe not.
+Nurse: Right. Right. Yeah. Yeah. It, yeah, it probably wouldn't be a little soon but they'll look and see and, you know, go out.
+Patient: Right. Right.
+Nurse: You have to just kinda, um, be able to see what the next step.
+Patient: Yeah. When I got your first call, that was the day of my surgery. So I wasn't, wasn't back here yet.
+Nurse: Oh, ok. Well, thank you for calling me back, ma'am.
+Patient: Well, I've gotten, I guess three calls totally from your office. So. Oh,
+Nurse: Ok. Yeah, ma'am. And, you know, if you start, you know, uh, feeling, you know, feeling, you know, anything or have issues or concerns you can always call us as well. Do you need any medication refills, ma'am?
+Patient: No. No, I'm, I'm fine. I take, I take care of that. I call in when I need medicine. Ok, I call my drug store.
+Nurse: Yeah. Yeah. Well, if you need anything, you can call us any time. I was just calling to check in on you to see how you. Fine. Thank you. Ok, ma'am. And, um, you know, if you need, um, I saw too that you did see, you know, uh, Doctor o'neill, uh, [PHI-Personal]. Yes. And,
+Patient: Um, I, I see him every three months.
+Nurse: Yeah he just wants you to continue, you know, those medications that he wanted you to continue and just to follow up um and so you know if you ever you know need anything just call us and just want to check in on you I'll probably be calling you in the next couple of weeks just to check in to see how you're doing and see how you're healing up. You're welcome ma'am. Thank you you have a good day.
+Patient: Thank you.
+Nurse: Ok. Alright bye bye.

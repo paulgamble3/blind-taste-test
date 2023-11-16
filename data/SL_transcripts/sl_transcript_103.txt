@@ -1,0 +1,47 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Sorry, I missed your call.
+Nurse: That's ok. I just wanted to give you a quick call to check in with you and see how you were doing.
+Patient: Doing fine. I, I had my, uh, my uh uh meeting with uh, doctor, doctor and everything. You know, he, I ended up with 22, 8.5 by 11 sheets of paper with all the, all the stuff that, you know, the sugar and all that kind of stuff and everything was, everything was perfect.
+Nurse: Good,
+Patient: Good, good. So, so, yeah, I was, uh, I, you know, you, you, you get a little apprehensive when, when you're going to get it because you, you know, you hope there's nothing the matter but see, he takes, he took blood last week and then this week I had had my uh, I had my regular appointment and um, right, everything worked out fine good. Let's see, a couple of things we, we were talked about, I have some tremors, a, a few little, little tremors. Not a lot, not a lot. But uh, and we, we do take a pill for that. I think, uh, with my daughter's a nurse. So that really help, really helps out there. [PHI-Personal]. So, um, but everything else seemed, I, I, everything else seemed to be pretty good. I mean, you know,
+Nurse: Go ahead and no residual effects from COVID. Right. You're feeling better
+Patient: From that. Yeah. Nothing, nothing from that. Yeah. Nothing from, nothing from that. And that Melanoma I had too, you know, and that, that, that's fine. Good.
+Nurse: That's
+Patient: Good to hear. Yeah, it really is. Uh, I mean, that doesn't mean I couldn't walk outside and get hit by a car or, or?
+Nurse: Absolutely. You very, very right.
+Patient: Yeah. But, uh, yeah, things, things are going pretty good. I just, I gotta be careful walking. Uh, you know, I'm a little shaky there. But, uh, I had, I had, I had a foot doctor appointment, you know, I, I have a Charcot foot and I went, I was there today and he said my foot looks better than it ever did. The problem [PHI-Personal] seeing is it's, it's never going to heal completely because I walk with him. Mhm. Right. I have a very, a very small incision, a very small one. But, you know, I've been pretty lucky with this stuff. Hopefully it doesn't stay like that for a while.
+Nurse: Right. Absolutely. I see your, your BP is stable. It was 1 20/80. 0, that's
+Patient: Beautiful. My sugar's fine. And my, uh, you know, like I say, everything, everything was well below the, the, I guess the minimum, minimum min minimum standards.
+Nurse: Yes. Your glucose was 103 on your blood work, which is beautiful. Uh, and your A one C was 5.7. So below six is where we like to see it.
+Patient: Right. Good. So, things, things going pretty good. Hopefully it'll stay like that for a while. I,
+Nurse: I hope so. Yeah.
+Patient: Yeah. Uh, so any anything else?
+Nurse: No, I just wanted to check in with you. Make sure you're doing all right.
+Patient: Nice, nice to talk to you. You know, I'm going, I'm, I'm doing fine. I mean, you know, just, uh, I, we, you know, you don't do anything, a lot of places aren't open or you can't go any place and it's like, you know, you, you don't, you don't get a lot of wear and tear on your body. I, I can hardly wait for the nice weather because then I can walk outside a lot when it's cold, it's cold like I could, I, when it's cold I don't even like to, I don't even go outside. I hate, I'm one of those WW, with, uh, II, I hate the cold weather.
+Nurse: Me too. And the risk of falling is much higher in the cold weather too. Def
+Patient: Def, definitely. You're, you're exactly right. You when there's lights on the ground, [PHI-Personal], I don't go, I don't go near the, the door.
+Nurse: I don't blame you. Me either. Thank you.
+Patient: Yeah, it does, does help with my, my oldest daughter is a nurse and so she, you know, she makes sure I take my pills every day and, and, you know, she always goes to see the doctor doctor and, you know, we probably spent 45 minutes yesterday talking about different things and he, the COVID and, you know, all that other kind of stuff. But, like I say, I, I left there with a feeling pretty good,
+Nurse: Good. All right, then I'll make a quick note of that. Um, no, I probably asked you this last time and I can't remember. But do you check your blood pressures at home?
+Patient: O once in a while she does, I, you know, I, I've never had any problems so she says she doesn't really do it very often, you know, and I've been going every, every quarter of, you know, two [PHI-Personal] doctor. So. Mhm. But, uh, you know, I mean, so far it's, uh, she'll have it out one time. They just do it and, you know, but, uh, it, it's, we don't, we don't do it on a regular, regular basis. Right? Ok. Because I, I've never, you know, I'm, I'm, I'm [PHI-Personal] going on [PHI-Personal]. My daughter's always telling me so. So, so I, I, uh, you know, we don't, we don't, we never, I never had a problem with blood blood pressure or with sugar either. I've never, you know, fortunately and I, I remember not this time but the time before when I went to [PHI-Personal] doctor for my thing, he had one of these young I know. Are they interns or what? Yeah. And, and, and she's in there sitting and he's saying about how good everything is and everything she says to me, she says mister say, what, what do you do that, that, you know your, your numbers are perfect. I said, well, I'm on a seafood diet. She said, ohh, you are? I said, she said, what is that? I said that's what you, you eat whatever you see.
+Nurse: Yeah, eat what you want but in moderation.
+Patient: Oh, yeah. Right. Right. Right. Yeah, we don't, we don't because my territory is pretty tough with that with, uh, you know, they, they do the cooking and everything and, um, you know, we do watch what we eat, you know. Yeah. Ok. So that's nice talking to you. You're wel you're welcome to call anytime, you know, like you sweetheart on the, on the phone. And, uh, like I said, I just worry, I worry about more doctor because, you know, he, he said he had like three days off in the last 60 days with, with all this COVID and everything like that. Yeah, it's very
+Nurse: Busy down there.
+Patient: Yeah, it's, it's, uh, but, but it's, it's because he, he does a good job and, you know, he's the people like him and he works, he has, he works at AAA, diverse diversity of people. I mean, he has, you know, different people and, uh, but it seems to be working out pretty good.
+Nurse: Right. Yeah, he is a very well liked provider.
+Patient: Yes. Yeah. And I, I worry about him because I think he, I mean, between you and I, and it won't go any further. He, he, he looked like he gained a little bit of weight and he, you know, he, he said he had 66 stents, stents in his heart or something. Does that sound right? Oh, my goodness.
+Nurse: I mean, it's
+Patient: Possible. Yeah. But, you know, you, sometimes things are invincible and you, you're never not, you know, you, you never know. I think I asked you your question before. Where are you at? Where are you at?
+Nurse: I am in [PHI-Geographic].
+Patient: Oh, are you? Ok? I see. They, they're letting the people make their decisions, I think. Is that, was that the final decision for [PHI-Geographic] as far as the masks are concerned? Oh, I don't
+Nurse: Know.
+Patient: I
+Nurse: Don't pay too much attention to. I, I,
+Patient: Yeah, I, I know, I know exactly what you mean. You, you, now, when I went to today I, I go to the hospital, the, uh, uh, uh, hospital in [PHI-Geographic] in [PHI-Geographic] and, you know, you, you have to wear your mask over there and everything. But, uh, it seems, it seems like it's, it's, you have people fighting about whether they should or whether, whether they should, I mean, get, get the shots and, and hopefully we'll all be safe, you know. Yeah, I have, I have two, I have two great nephews that have [PHI-Personal], yeah, Children between them and none of them have, none of them will get the shots. I did tell him, don't knock on my door and tell me you're sick because I'm not going to do a damn thing for you. Right? What are you going to do? Are you in the are you in the city or are you in the outskirts or what?
+Nurse: Oh no, I live in upstate [PHI-Geographic]
+Patient: [PHI-Geographic]. Oh where all the snow is? Yes sir. Well it's good good talking to you. Welcome to call me any time and check on it and um you know whatever whatever you if you see anything you should I shouldn't I should know about you. Let me know but uh like I say my reports were all my reports were all fine and he went through the main ones like like cholesterol and everything like that and nothing, nothing whatsoever
+Nurse: Good. We like to see that
+Patient: I'm sure so do I. Alright. Well you have you too have a yeah you have you have a great, great uh year and um keep in touch.
+Nurse: All right will do. Thank you so much.
+Patient: Thank you for right bye. Mm bye
+Nurse: Bye.

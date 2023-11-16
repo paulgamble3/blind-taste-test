@@ -1,0 +1,21 @@
+Nurse: Care Management. This is [PHI-Personal].
+Patient: Hi. You just called, uh, Gail [PHI-Personal]. I didn't know the number, so I didn't pick up. I'm a patient of [PHI-Personal] Bates in York.
+Nurse: Oh, yes. How are you? Good. Thank you. Good. So, yeah, I was reaching out to give you information about the care management program that they are offering. Mhm. Um, and so what's involved with that is the doctor would just, um, provide you with a care management nurse and what she does is she would just be giving you a follow up phone call in between those office visits with [PHI-Personal]. Um, so basically, you know, she'll call just to make sure nothing has really been changing with your health in between those appointments. Um, she's also there to help, um, assist and address well, with you, if you were having any issues or concerns or if you just have questions in general. Mhm. And then also does go over any medications that you might be on. Um, and if you are, she will ask, you know, like how they're working for you or have you come across any issues with any of them? And she will also call and get them refilled for you as well if you need her to. Oh, ok. Mhm. Um and then after every phone call she does go back and reports everything to your do uh to [PHI-Personal]. Um so this way, you know, she's always kept updated and aware if there were anything that might change in between those appointments and so it just helps her to better manage your health and they just wanna make sure that you're staying as healthy as possible. Mhm. And then on the program it is covered by all Medicare insurances. Ok. Um so what they do is they do treat the program as like an office visit um and it is billed to um all Medicare um any Medicare Advantage plans or any secondary insurance carriers you might have and it also may be subject to a deductible and copay from the office if you were to have any of that when you went in to go see them. Um, but if you don't, you know, it acts the same, it wouldn't cost anything out of pocket and then you also do get the same nurse with each phone call and you also get her direct contact number. So if something does come up, you can contact her directly
+Patient: And is that just during working hours? Yes. Mhm.
+Nurse: Mhm. Yeah. So they just wanted, you know, me to call and reach out and see if that is something you might be interested in trying
+Patient: Well, I actually have something similar to that, um, Blue Cross Blue Shield. They call me, like, um, every, I guess twice a year we go over my medications and stuff and, um, does that mean if you take this program that you don't get to see [PHI-Personal] or
+Nurse: Do know you'll still keep your appointments with [PHI-Personal]. This would just be like a follow up call in between those appointments with her.
+Patient: Ok. So, it's not seeing the nurse as opposed to like a nurse practitioner opposed to seeing [PHI-Personal].
+Nurse: Right. So, mm. Mm. Yeah. No, these, this is, would just be a follow up making sure nothing is changing and going on. Mhm.
+Patient: Um, do I have to let you know right now?
+Nurse: No. No, not. Absolutely. You can take time, think about it. Um, what I can do, I will send you a copy of the information on it with our number. So, you know, if you ever do decide you can just reach out to us at any time.
+Patient: Ok. Great. And I'm glad they kept the practice the same because we've been there for a very long time. My brother goes there. My husband, my husband's brother, um, the whole, like a whole family.
+Nurse: Yeah. Oh, that's good.
+Patient: Yeah. So we're real happy with [PHI-Personal]. Um, we haven't seen the new guy yet. Um, ok. It, is it Stanley or something?
+Nurse: Uh.
+Patient: Oh, [PHI-Personal]. Ok. Yeah, we haven't seen him yet. So. Ok. Yeah. If you don't mind sending me the info, I'd like to look over it.
+Nurse: Ok. Yeah, I will get that out in the mail for you.
+Patient: Ok, sounds
+Nurse: Good. All right. Well, thank you so much for returning my call and I hope you enjoy the rest of the afternoon.
+Patient: Ok. Thank you. Thanks again for calling.
+Nurse: You're welcome. Welcome. Ok, bye bye bye.

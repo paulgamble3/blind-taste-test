@@ -1,0 +1,13 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Yeah, it is Rusty [PHI-Personal] calling. I was calling because uh my cancellation uh I'm gonna go get that refilled tomorrow. I only have like three left and there's no refill on it.
+Nurse: Oh, well, I think we might be able to help you out there. Well,
+Patient: I was hoping
+Nurse: Let's see. And do you, you want that to her? Yes. All right. I think we can do that. How are you doing? Otherwise?
+Patient: Good, good busy. A little hot out there but
+Nurse: It is and it's how the humidity is. That's fine.
+Patient: Yeah, for sure. Little a lot of time indoors.
+Nurse: Yep. Yeah, I start with the mornings with windows open but before noon I I ended up yesterday air conditioner on windows closed and yeah, so.
+Patient: Ok. All right. Do you need any more information or? I
+Nurse: Don't think so. I think we're good to go. I will have them send that over for you. All
+Patient: Right and I'll for her to pick it up tomorrow.
+Nurse: Alright, sounds good. You have a good day. Yep. You too. Thank you. Bye bye bye.

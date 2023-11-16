@@ -1,0 +1,6 @@
+Nurse: Yeah, care management. This is [PHI-Personal], can I help you?
+Patient: Hi is [PHI-Personal] available? [PHI-Personal]
+Nurse: Is off today. I'm [PHI-Personal]. Her partner. Is there anything I can help you with?
+Patient: Well, she had called me that I moved out of [PHI-Geographic] into [PHI-Geographic] and my doctor there who you people work? Uh Doctor [PHI-Personal], he asked her to uh get in touch with me just to see how I was doing and she did, she left a message and I hadn't had a chance yet to call her back and I'm just calling her back. You can tell her to try again if she'd like to but I am doing fine and just cleaning up from the hurricane. So. Oh God. Ok my first and last 10
+Nurse: God I hope so. Jeez. Yeah that's scary. So ok I will have her give you a call tomorrow because she may um there may be something specific that he may be wanted her to ask you. Ok, I'm not exactly sure but um you know if it's just for an update I'll definitely have her give you a call tomorrow. Ok, thank you so much. Alright, no problem. Take care. Good. Luck with everything there. Thank you. Bye bye
+Patient: Bye bye.

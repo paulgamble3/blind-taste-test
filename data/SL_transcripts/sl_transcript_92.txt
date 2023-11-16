@@ -1,0 +1,74 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hey, [PHI-Personal]. This is [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are
+Patient: You? Ok. Uh, I guess we have to take cover for the tornado warning. Yeah. Right. Yeah. Really?
+Nurse: Oh, I, I know. It's scary but we'll get through it. I know.
+Patient: I know.
+Nurse: Um, so let me tell you, um, I was calling in regards to a program we had called you and [PHI-Personal] about back in December. Um, not sure if you remember. It's called the Care Management program.
+Patient: Oh, yeah. Yeah. Yeah. Where
+Nurse: You would receive a phone call from a nurse in between your appointments with the doctor.
+Patient: Oh, ok.
+Nurse: Yeah. Do you re, do you remember that call or do you need a refresher?
+Patient: No, I think I remember but give me a request here.
+Nurse: Ok. Yeah. So it's basically, um, this would be for you and [PHI-Personal]. Ok. Um, you guys would receive a phone call from a nurse who works hand in hand with doctor. Um, that nurse would reach out to you guys in between your office visits completely at your convenience. Um, you both would be able to also call her directly if you ever had any medical questions or concerns? Ok. Ok. And that nurse will al also keep doctor s updated with your current conditions and any changes that you both may be having if any? Ok. Ok. Ok. Yeah. So um the care I do need to let you know that the care management program is a billable service to [PHI-Personal], [PHI-Personal] Advantage and secondary insurance carriers.
+Patient: Ok. I have Medi um uh [PHI-Personal] um and that United uh dual coverage.
+Nurse: Ok. The it's like the United United Healthcare dual complete plan.
+Patient: Yeah, and I got the special needs snd. Ok. Yeah, so you don't, and now Jo doesn't have the United, he has [PHI-Personal] and wellcare dual coverage because of what medications and insulin he's on. Ok.
+Nurse: Ok. Now did you by chance have those cards with you handy?
+Patient: Uh, let me, yeah, hang on.
+Nurse: Ok, thank you.
+Patient: Yeah. Ok. Yeah. Oh yeah. Yes that's something different. Uh. Oh. Mhm. Do. Ok. What are you? Hm.
+Nurse: You can never find it. You can never find when you need it, right? Yeah.
+Patient: Yeah. Oh, let's see. Ok, Friday [PHI-Personal]. Sure. Ok, see I've got [PHI-Personal], I don't have his [PHI-Personal] number offhand but I have here the wellcare [PHI-Personal] dual Access Open PPO and it's uh S MD.
+Nurse: Ok. What is the ID number on that card?
+Patient: Ok. It's [PHI-Account]. Zer ointment [PHI-Account].
+Nurse: Perfect. Now, does he have any copays?
+Patient: Uh, no, perfect. Let me, let me see. Just in case. Um well you guys are in all our the doctors are in network. No, no
+Nurse: Perfect perfect and I will be uh and I'm ready for yours whenever you are.
+Patient: Ok? Let me let me get my OK. Yeah. Ok let me good question what this one? Well this is my um for the my [PHI-Personal]. Are you ready?
+Nurse: I am ready now. Let me real quick let me just go back to this. So is this your [PHI-Personal] card or is this your United Healthcare card?
+Patient: This is my [PHI-Personal]. Ok, I
+Nurse: Am ready.
+Patient: Ok um it is 00 [PHI-Account] [PHI-Account] and let me where is my other one? Cause I that I knew that one we can call do do I better find it? Yeah let me doublecheck. I'm um almost there. Let's see. Ok and here is mine. Ok. Um it's United Healthcare Duo complete. Uh let me see. Oh complete choice uh uh PPO um SNP.
+Nurse: Ok and the ID number whenever you're ready?
+Patient: Ok. E I make sure I'm looking at the ID. Ok. [PHI-Account] wait a minute that's the Rx number. Ok hang on. Ok. [PHI-Account] uh [PHI-Personal]. Mm. Ok. [PHI-Personal] and I just want to make sure uh oh whoops let me start over. Sure. [PHI-Account] [PHI-Account] [PHI-Personal] [PHI-Account].
+Nurse: Ok got it. Perfect and you also don't have any copays correct?
+Patient: Correct?
+Nurse: Ok, great. So, you guys should
+Patient: Be, even my medications are, um, I don't have to pay anymore. Oh, that's great. Yeah. Good.
+Nurse: Good. I'm glad to hear that.
+Patient: And see, now I, um, you would call it, uh, my pharmacy now is the Sheldon's on [PHI-Geographic], the Peach Tree one.
+Nurse: Ok. Ok. So, yeah, if you ever need any refills, um, just let your nurse know that, that your pharmacy changed. Ok. Ok. And now did you have a time of day preference for calls? Morning afternoon?
+Patient: Um it doesn't matter. It just depends.
+Nurse: Ok, no problem. Now, I will
+Patient: Tell you, I will tell you that sometimes my phone doesn't ring. So if you wanna leave me attach, I get all my texts.
+Nurse: Ok, I can let your nurse know that. Ok. Now this is the best phone number for her to reach you at, right? Yes. Ok. So I'm gonna go ahead and get this set up. I'm also gonna mail you some welcome information. Oh, ok. I have that your address. The address is 6099 Scottsville Road. Apartment 213 in Bowling Green.
+Patient: Correct? Yes. [PHI-Account].
+Nurse: Got it. Perfect. So I will get this all set up for you and [PHI-Personal].
+Patient: Ok. Now you know stuff I will tell you have been in Village. Ok. And, and, but next Friday, um he is moving to the, it's still run by Genes, I guess. Um [PHI-Geographic]. In [PHI-Geographic].
+Nurse: Ok. So is that like a skilled nursing facility? Like does he, um, ok, he's
+Patient: Skilled and assisted living. So, I think there's like half and half. Ok. He's gonna be in the nursing section.
+Nurse: Ok. So should the, so should the nurse call a different number for him or would you like to speak with her about him as well?
+Patient: Um, I'm his power of attorney. So, uh, and with his dementia I would have, it's better to call
+Nurse: Me. Ok. No problem, no problem at all.
+Patient: But if they, if they wanna talk to a nurse over there, I don't have their phone number quite yet, but sure,
+Nurse: That's no problem. We can always get that.
+Patient: Yeah. Ok.
+Nurse: Ok. All right. So I, like I said, I'll get this set up for you guys. Um, I'll mail you out, I'll mail you out the information and, um, your nurse will call you for your first call in the next couple of weeks. Ok.
+Patient: Ok. Now we do see Doctor [PHI-Personal]. Uh, he's gonna be in [PHI-Geographic] so he's gonna be much farther out. So, um, I'll have to, because we're both scheduled, you know, back to back and, um, I'll have to see if, um, how would you say you'll probably be seeing more the doctor that goes around there? I don't know yet. Ok. You know, or if they, um, would transport him and I can meet him at Doctor Js. Ok. I will um, keep it like it is. Um, we'll see because, like I said, his first day there is gonna be next Friday.
+Nurse: Ok. Yeah. So we'll just go over that whenever, whenever, um, the nurse calls. Now, now she might not reach out until after that appointment. Is that ok?
+Patient: Oh, yeah. Ok. Fine.
+Nurse: Ok. Just wanted to make sure, um, all right. Do you have any other questions for me?
+Patient: No, I'm looking forward to seeing doctor [PHI-Personal] because um I had my left knee uh replaced and wondering he copycatted me because he had his.
+Nurse: Yes. Yes. That's what I've heard. Uh Well, I'm glad I'm glad he's coming back. His, all his patients are excited. So that's a good thing.
+Patient: Mhm. Oh, he's the best. That's what I hear. Yeah. Yeah.
+Nurse: All right, [PHI-Personal]. Well, thank you for calling me back and giving me all that insurance information. Um and I'll get this all set up for you and [PHI-Personal].
+Patient: Ok.
+Nurse: You're so welcome. Enjoy the rest of your day.
+Patient: Well, I, we have to take cover because she has a warning. So
+Nurse: Well, stay
+Patient: Safe. Oh, yeah. Yeah, there's not too many windows in this apartment, so we're ok. Good, good. All right. Well, take care.
+Nurse: You do the same. It was nice talking with you
+Patient: Likewise. All
+Nurse: Right. Bye now.
+Patient: Bye.

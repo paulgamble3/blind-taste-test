@@ -1,0 +1,49 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. Hi. Yeah,
+Nurse: How are you
+Patient: Doing? Well, thanks. Um, I know I've missed a call from you before but I'm telling you it seems like time slips away from me so easily.
+Nurse: It's everything, it's, it's not just you, I promise.
+Patient: Terrible.
+Nurse: Nah, it's alright. You know, it's, it happens, it happens.
+Patient: Well, I doing well because if I had a problem I'd be on that phone so quick. Right. Oh, I'm
+Nurse: Sure. I'm sure. So, yeah, it's, it's a good thing that, uh, you know, you're not thinking about it too much anyway.
+Patient: No. Yeah. Was, was there anything special you called for or just, just to catch up, there was anything going on? Yeah, I'm
+Nurse: Just calling, you know, we typically try to call you once a month just to check in, see how you're doing.
+Patient: Well, everything seems to be going pretty well. I don't really have any problems, you know, not, not any that you could help me with and, um, you know, like I said, I guess I'm doing pretty good. Uh, and I haven't had any, anything going on. So that's why I really haven't called but I will definitely call if anything comes up.
+Nurse: Yeah. Um, and you know, just, well, I do have, yeah, definitely. Um, just a couple of things to think about since it is summer time, the next couple of days are gonna be hot.
+Patient: Extra hot, hot. Yes. Yes. Yes. I just, and I couldn't believe how hot it was. I
+Nurse: Know it's, it's toasty. Absolutely. Um, make sure you're definitely drinking enough fluid, keeping yourself hydrated on these especially hot days. Um, you know, it's thought about 30 to 50 ounces of water a day, which is about 68 ounce glasses at the most is usually enough to keep everybody pretty well hydrated. Um, certain fruits and vegetable, like your melon berries, um, grapes, oranges, carrots, lettuce, spinach, all of that will also help with your, uh, water content to help get you enough fluid and that's always just good stuff to eat in the summer because it's not heavy, you know.
+Patient: Yeah. Yeah, for sure.
+Nurse: Yes. And, um, yeah, if you're gonna be outside in the sun for more than a couple minutes, definitely make sure you got some sunglasses, hat, sunscreen, or at least, um, some kind of clothing that's enough to cover your skin and to kind of protect you from any sunburn.
+Patient: Well, I, I'm really pretty careful about not even going out more than I have to, you know, from the house to the car to Wegmans or wherever I got. I did see my, yeah, I saw my dermatologist recently and she went through all that. So I'm pretty up on that. Um, and I, you know, I try to, to stay hydrated. I probably could do a little better with that. I've been on my husband's case because Doctor [PHI-Personal] told him he needs to stay, you know, more hydrated. So, uh, I'm, I'm trying to do the same.
+Nurse: It's hard. It's, I mean, you don't think about it and it's just like, ok, I don't really feel thirsty and it kind of just slips your mind. You're doing something and then you realize like I haven't really drank that much today, so I, I get it. But yeah, I get
+Patient: It.
+Nurse: Yeah, I mean, I'm, I'm guilty of it. I'm really guilty of it. I know I don't drink enough water and yeah, it's something I'm also trying to work on, but I mean, I forget about it too. So
+Patient: Well, then I feel better. It's not just me. No. No, I
+Nurse: Know it's pretty common. Definitely. You know, you get in the middle of doing things and you just, you forget, you know, you don't think about it.
+Patient: No, that's just what happens too. And uh I'm lucky. I mean, all I have to do is press a button on my fridge and I get cold water, but I still walk right past it and don't do it. I am getting a little better though. I've been paying more attention. Like I said, I'm trying to do it for my husband and it seems like you could do something to someone else. You have to do it for yourself. Yes.
+Nurse: Absolutely. Yes. Yeah. So, it's good. You're trying, you're making the effort. So, that's definitely a step in the right direction.
+Patient: Yeah.
+Nurse: And, um, how are your moods? How, how's, um, the anxiety and stuff been?
+Patient: Um, it kind of comes and goes. It, it kind of depends on what I'm doing. I try not to let you know, let it get too bad. But I have, my daughter lives with me and she has some mental health issues and then I have her three, her three kids that are college age but they're home for the summer. So I've been a little bit more and they're wonderful kids. They're not, they, they work, they help me and everything, but sometimes you get a little bit more stressed out, see how everything is going. But I'm doing better. I think I am anyway.
+Nurse: Ok. Perfect. Um, just in general in the last couple of weeks. Do you feel like you've been more nervous or more on edge or that you feel really worried about anything?
+Patient: Oh, I have been the last few weeks. Yes.
+Nurse: Ok. Like, um, would you say almost every day, half the days of the week or just like several days?
+Patient: I would say almost every day. My husband's been having some health concerns and he's looking into it. I go with it but he hasn't been doing as well as he did. So, right away, you got a big, a big stressor there then? Like I said, it all, all the other. Excuse me, all the other with it. I got you. So sure. Um, something you have to live with, I guess you feel.
+Nurse: No, you're ok. Um, do you feel like restless or like you have some problems relaxing or feeling extra irritable, anything like that?
+Patient: Um, usually what happens is I, I just stress and, uh, I, I'm not, I'm not having problems sleeping. I can go to bed at night and, you know, go to sleep. So that's a good, that's a good sign. And, um, you know, so, and I, I don't know, I think it's, um, it's just, you know, it's just like you don't, I don't have to tell you, I'm sure when you get nervous about something it just makes your whole move different. Oh, absolutely. My dog just ran under my car. I gotta watch that. Oh, he's spoiled rotten and he can't stand it when I'm not home. You know how they are when they're young, young, he's [PHI-Personal], but for some reason he feels like a baby or a puppy, but that's good. Uh, so I'm doing ok. I don't, I don't wanna hold you up or anything. But, um,
+Nurse: Um, yeah, any fear. Just the last question, any fear that you feel like something terrible might happen.
+Patient: Well, I guess, uh, I worry about my, my husband a lot. I mean, we've been together, you've been married for [PHI-Personal] years. So you, you worry and I look at it and I can see he, he's having problems. So, other than that, you know, I just worry about getting everybody back at school because of course, my health is a mess. Both are small things. I'm not worried about, you know, getting beaten up by anyone or, or not being able to eat something like that, you know.
+Nurse: Are you doing ok with the alprazolam or do you feel like you maybe need more or are you? Ok.
+Patient: No, I think I'm doing good with it. I'll probably need another refill. I don't even know how many I have left. I try not to take them unless I real I don't like to take them if I'm gonna drive, you know, just because, yeah, and so, and lately I've been having no problem going to sleep there for a while. I really did. So I took one at night but ok, I have taken them. I, if I know I'm going to be home dealing with a problem, I'll take one good but I'm very careful with them. So,
+Nurse: Yeah, take them if you need them, you know, that's why they're there. If you do feel like, oh gosh, this is really bad. Take it, you know, it's not a big deal. But I get it, like you said, you don't wanna take it unless you need it and I don't blame you. I feel the same way. So. Yeah. Yeah. Yeah. All right. Well, do you need any refills on anything?
+Patient: Um, well, I don't even know, like I said, if I, I think I'm probably due for the, but I can't remember for sure and I'm not home so I can't look. I, I think every oh, thank you and I think everything else is uh is you know, going the way it's supposed to as far as I think I still have refills and uh if I don't I I'll call you. How's that? Perfect? Perfect. Well,
+Nurse: Yeah, I'll get that one sent over though or at least let him know that you're potentially running low on it so we can get that taken care of. Ok.
+Patient: Right. Thank you so much [PHI-Personal]. You're very
+Nurse: Welcome. Um You know, if anything like we said comes up, you realize you need refills. You have any questions concerns you think of anything, the anxiety gets worse. Definitely give me a call or reach out to me. Ok?
+Patient: I will do that for sure.
+Nurse: Ok. But otherwise then um you know, I hope that you have a good rest of your day. You stay safe and you take care. Ok?
+Patient: Well, thank you. Do the same. Ok, thank
+Nurse: You.
+Patient: Good bye bye
+Nurse: Bye.

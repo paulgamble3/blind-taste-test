@@ -1,0 +1,99 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you?
+Patient: Yes, this is [PHI-Personal]. I'm returning your call.
+Nurse: Hi, [PHI-Personal]. I'm good. How are you doing? Excellent.
+Patient: Thank you. Oh,
+Nurse: Good. I'm so glad to hear that. I'm just gonna pull your chart back up here.
+Patient: Ok. Ok.
+Nurse: Ok, [PHI-Personal]. Ok. So I was just calling to follow up with you just to see how you're doing. As doctor [PHI-Personal] wants me to give you a call, um, monthly just to check in, make sure things are going. Ok. Um, see if you have any concerns at all. Looks like you see him next month. [PHI-Personal] [PHI-Personal]. Ok. Are you, you're in [PHI-Geographic] now or? No, I,
+Patient: I meant right. I'm up in [PHI-Geographic].
+Nurse: You are in [PHI-Geographic]? Ok, good. Um, so [PHI-Personal] [PHI-Personal] at 11 20 he has you scheduled and he does have you scheduled for blood work like right before that visit. So if you wanted to be there maybe 10 minutes earlier or so, thank you. And it looks like it's fasting. Are you able to fast till around 11? I,
+Patient: 00, yeah, I get kind of mean and they should other than that.
+Nurse: You get hungry. Yeah. Um, ok. So, because, you know, he wants to check your lipids, your total cholesterol, good cholesterol, bad cholesterol. And, um, it's a 12 hour fast water only. You could have black coffee if you need to, but even like a little bit of milk in the coffee will throw those lipids out of whack. Yeah. Um, yeah. And you don't want that because, you know, based on that number, you know, um, you're on that Rivastatin, you don't wanna make any medication changes unnecessarily. Ok. Do you feel like you're doing ok with your pills?
+Patient: Yes. Mhm. Yes. But I don't see any problems at all.
+Nurse: Ok. Um, your, do you have enough medications to get you through until you see doctor next month?
+Patient: Yeah. Yes, I do. Ok, good. I'm
+Nurse: Up to date. Ok. And I was just looking here, um, recent visits outside of Doctor [PHI-Personal] office. Just one popping up here is rheumatology, uh, last month,
+Patient: Right? I
+Nurse: See. Did that seem to go ok for you at that visit? Ok. Did that provider change any medications for you or any part of your treat plan?
+Patient: No. Ok, good.
+Nurse: Just looking at their note here. Continue current medications with no changes, labs ordered prior to next visit, return in six months. Ok. Good. That seems like a good, a good
+Patient: Thing. I'm not for when I talked to you last, but I had some changes in eye drops, uh, last I'm going way back to last [PHI-Personal].
+Nurse: Let me take a peek here and see if I updated that. Oh, let me go into 2022. I don't think I do have that. And you haven't been to the office since these changes, [PHI-Personal]?
+Patient: I think I have. Um, and, uh, but you, yeah, II, I believe I've been. Well, no, I'm sorry, I was at the office, I think just prior. Mhm.
+Nurse: Ok.
+Patient: So I, I had eye operations in [PHI-Personal]. Yeah. And I had, uh, a clearance, I had an office visit to clear for my operation and then I believe around the same time I had to have a regular visit too.
+Nurse: Ok. So let me ask you this. Are you still taking the land?
+Patient: Yeah. Yeah. Taking that. Ok. Yeah, I, on a regular basis I'm taking, uh, Mon Brimonidine Tartrate [PHI-Personal].
+Nurse: Let me find that here. Ok. That's not moral. That's a different one than row.
+Patient: Yeah, I believe so. I don't see anything like moral on there.
+Nurse: Ok. Can you say the name of that one again? That you just said
+Patient: I'll spell it for you, [PHI-Personal] ID [PHI-Personal].
+Nurse: Ok. And that's [PHI-Personal],
+Patient: Right? And that's 2/10 of a percent. Ok.
+Nurse: And how many drops?
+Patient: Mhm. And I am also taking, at the same time, I take both of these twice daily and I'm also take a Timolol. Timolol. Mhm. [PHI-Personal]. Ok. Of a percent
+Nurse: 0.5% 1 drop each ideally,
+Patient: Yeah. Uh, it's, uh, actually 5/10 of a percent. Ok. Got it. And, um, one of those that I was wondering about is a statin. Mhm. To, low, to lower BP. Pardon?
+Nurse: To, to, are we talking about BP or cholesterol?
+Patient: No, it's an eye drop. But I think it, it has a statin in it. Oh. And I, uh, yeah, check on that for me. I was concerned about that only because I'm already taking a statin and I had read some.
+Nurse: Now, which one of them is that?
+Patient: Yeah, I'm not sure now. Oh, I would set up.
+Nurse: Hm. Ok. Well, it's definitely something to discuss with doctor when you see him in [PHI-Personal]. Now, the doctor that ordered them, knows what medications you're on. [PHI-Personal].
+Patient: Well, yes. And I have to be [PHI-Personal] with you. I go to, I go to [PHI-Geographic]. Mhm. They're not really good with, in giving information. I, the doctor that and, you know, sometimes I get concerned, you know, she doesn't react nor do any of her staff the way I would like to. No, I get it. I, I think she's a good surgeon and everything but they're hard to communicate. Ok.
+Nurse: The drops, do you get the drops filled at the same pharmacy as your pills?
+Patient: Yes, I do. Ok. That's
+Nurse: A good thing. Ok, because they have like, a database that would, would, would register an alert.
+Patient: Right. Mhm. And, uh, also she is supposed to be keeping track of my, the fact that I take, uh, Plaquenil.
+Nurse: Yes, for sure, for sure. Um, and did, did they say anything about the eyes and the Plaquenil with your last visit?
+Patient: No, they didn't. And I asked about it and, you know, I asked, uh, I, without getting too frustrated, they just don't seem to respond, uh, you know, type questions. They just kinda, uh huh. Or that's ok or something like that.
+Nurse: Right. Um, yeah, the, the, um, the hydroxychloroquine that can definitely mess with your vision and your eyes without a doubt. So, is this an ophthalmologist you're seeing?
+Patient: Yes, it's, uh, it's doctor S, I've, I've gone to her for many years. She seems to be a good surgeon. I've had several surgeries with her. I'm pleased with that. But the follow up and it might be, well, I just have some concerns about the information I get from her. Mhm.
+Nurse: Mhm. Ok. Um, well, I'll be totally honest with you. Um, we're, I'm not, um, an eye specialist by any means. When do you see this doctor again?
+Patient: I am going to see her next week. I believe it is. It's, it's very soon I do go every three months. Oh, good,
+Nurse: Good. I will
+Patient: Ask again. And, uh, this time I will make sure that I have her explain to me what she's doing because my, uh, rheumatologist was concerned that she wasn't getting information back either even though she had requested it.
+Nurse: Yes. And you know what else if you let me just see. Has she ever sent stuff here for notes if you would be so kind as to let them know that you would like the progress notes sent to rheumatology and to Doctor [PHI-Personal]. That would be fantastic.
+Patient: I've done that before. Mm. I followed up on it and they weren't set.
+Nurse: Ok. If you run into an issue. see, and I'm, I'm saying it would, of course, it would be nice for Doctor [PHI-Personal] to see them, especially before he sees you [PHI-Personal] [PHI-Personal]. But if you, um, if you just request it because you might have to sign a paper, a special paper for them to do that, um, ask them again and if there's any issue with it before [PHI-Personal] [PHI-Personal] that we don't have it, I will, um, I'll call and get them myself but make sure that there's nothing you have to sign with our office. Like a release of information because me calling won't do anything if that paper is not signed by you. Ok. Ok. And then, yes, I would, my biggest concern listening to what you're saying and looking at your medications would be, what are you doing to make sure that my eyes are ok on this hydroxychloroquine. And how can you tell that they're ok that I don't need a change in the dosage
+Patient: Of this. Right. I'll ask it exactly that way.
+Nurse: Ok. Because
+Patient: My, my rheumatologist has requested that I be sure that,
+Nurse: Well, yes. And that's how, you know, that's how I would put it because, you know, it's, it's a very, very, very important thing, um, to make sure that, you know, your eye health is ok, being on this medication, for sure. Ok.
+Patient: The good news is, my new lenses are excellent and my, uh, the operation seem to be a great success.
+Nurse: Oh, that's fantastic. That is fantastic. You know, anything with your eyes be something, be wrong with your eyes can be scary. Um, because it's, you know, you only, only have one pair of eyes. That's it. Ok. All right. And
+Patient: Oddly, I have my, I have my glasses off. I just realized I didn't put them on because I really don't need them around the house. And, uh, oddly I'm sitting here reading all the fine print. I didn't even think of it, but I'm reading all that little tiny print on these medicine bottles, which I've never been able to do in my life. Really? So, so it's like a miracle. That is
+Nurse: A miracle.
+Patient: That's fantastic. I mean, like everything on the bottle just so clearly and because I received those, the, uh, three stage lenses.
+Nurse: Yes. Yes. Now, do they have like, you mean three stage, like, they have different levels, like, almost like bifocals or trifocals in them?
+Patient: Right. It's like a trifocal lens. Mhm. Uh, you have to pay extra for this. If you're, if you're having a, um, a glaucoma and a, what's the other cataract operation? Those lenses cost extra above and beyond your, your normal coverage. So they're not, they're not free,
+Nurse: Nothing's free.
+Patient: No, it is. But they're well worth, they are well worth the added expense. And then that I have extra good vision. I continue to wear eyeglasses. Yeah, I, you know, I got eyeglasses because I like to bird watch. And so I'm, you know, I want perfect, uh, as good as I can vision, which the glasses, the glasses, clear things up a little bit.
+Nurse: Oh, that's great. That is great. Um, now where do you bird watch, like from your home or do you go out place
+Patient: That, yeah, wherever I happen to be. But I, uh, I live in a place where birds are all around. I live in kind of a wooded area and so we're watching them constantly and that's
+Nurse: Supposed to be extremely good for your, for your emotional health. Well,
+Patient: From what I read that way, but I, my, both my wife and I have done that forever and ever and
+Nurse: It's relaxing it when
+Patient: We, when we travel it gives you something to do, uh, you know, above and beyond the, or, you know what they normally. So, and, uh, when you travel, taking bird watching trips allows you to get to see other things about, you know, the countryside and, you know, things that you anyway. It's just a good, it's a good, good thing to do. It is.
+Nurse: It's a nice hobby. That's for sure. That's
+Patient: For sure. I'm not a nut by any means and, and, you know?
+Nurse: Yeah. Yeah. Oh,
+Patient: Bird watches can get kind of nutty.
+Nurse: Yeah. I could see that, you know, there's extremes with every Sahay out there, I guess, you know, for sure. Yeah.
+Patient: Any past time you can get, go overboard on. Yes. Yes. So I will make sure that, that one up.
+Nurse: Yeah, most certainly. And I need to ask you because we didn't bring this one up unless it's called something else. And I don't know it, this prednisoLONE acetate eye drop. Are you
+Patient: Taking that? I, I don't take that anymore. That was a treatment after the operation. Ok. That was a temporary thing which I'm glad I don't have to take because like any predniSONE, it's just the bad effects, right?
+Nurse: Ok. So we got rid of that one. I don't
+Patient: Take, I don't take that and there were some other drops in there that I took temporarily that I may not have reported to the doctor because they were so temporary.
+Nurse: Ok. All right. Cause that's the only one. So I'm gonna remove that one. I'll have them remove that one and we're gonna add this um Brimonidine. Bri Brimonidine. I think it's how you say it.
+Patient: Yeah. She's having me do that twice a day. Mhm.
+Nurse: Along to both eyes.
+Patient: Both eyes. Ok, twice a day. Along with the timolol, they're both intended to reduce eye pressure for glaucoma.
+Nurse: Got it. Oh, that's a good
+Patient: Thing. Along with the s
+Nurse: Sure. Sure. Ok. All right. Well, as long as it's working, that's the most important thing. So, so sounds like you're doing pretty good.
+Patient: My last eye pressure report was good.
+Nurse: Wonderful. Ok. I will send the message for this. Sometimes they don't, depends on who gets the message. Whether or not they update the med list. Sometimes they say, oh, we'd rather do it when the patient's here in person. So, you know, they'll go over your medications. Of course, when you get there, they, they always do if they're still on there. Not correct. Know that I did send them a message. So if they want to just even refer to this message, if they didn't update it, they'll have the, the information there that we just reviewed. Ok. All right. And you know, if there's anything I can help you with call. Ok.
+Patient: Absolutely. I've got you. You're like one of 10 people in my call list.
+Nurse: Good. Keep it handy. Ok. Right. All right, [PHI-Personal]. Nice to talk to you. You take care.
+Patient: Always nice to talk to you. Thank you. Mhm.
+Nurse: My pleasure. Take care. Bye bye bye bye.

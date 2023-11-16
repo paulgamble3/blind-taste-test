@@ -1,0 +1,83 @@
+Nurse: Rheumatology, nurse care manager. [PHI-Personal] speaking.
+Patient: Hi, [PHI-Personal]. It's, uh, [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you doing? Good.
+Patient: How are you? Good, good. All right. How's everything been going? I ran to the phone but you hung up before I, uh, oh, you,
+Nurse: Ok. That's no problem. How did your appointment go the other day with Doctor [PHI-Personal]?
+Patient: Ok. Uh, all my blood work was o ok, my blood sugar was a little high but that's because, uh, I think I ate before I went to the, uh, the lab. But, uh, everything else was ok [PHI-Personal], uh, my, er, uh, or, or my, uh, my, uh, primary care doctor called [PHI-Personal] she said she saw the, uh, blood that she was satisfied. Ok. And,
+Nurse: Uh, that's good.
+Patient: What else? And then, uh, oh, he, uh, my knee, he gave me a, uh, a shot of Cortisone that, uh huh. In my knee. So, ah, yeah, it feels better now, since he gave it to me, you know, I don't know how long it'll last, but it feels good. Now he gave me a shot. Uh, so I put these patches on it. I got these patches on K patch. It's, uh, uh, that helps. It's, it's got weird stuff in it. Wormwood, uh, rad a con ac onit, I [PHI-Personal] Ginger. Oh, ok. And II I, [PHI-Personal], you know, you just wrap it around your knee. Uh-huh in front of your knee [PHI-Personal] that, that helps it k, it keeps, it kind of keep, gives me, uh, I don't know, what's the word, uh, sort of like keeps the knee together, you know, like it keeps it tight, you know? Uh, yeah, like stability. Yeah. Yeah, it gives you stability on that. Yeah. And what else? That, that's the big thing with my knee. And I'm taking these, uh, you ever hear of fact? They, they advertise it a lot. Yeah, I think
+Nurse: So.
+Patient: Yeah. Uh, I take, I take that for my knee to, uh, just regular pain that, that seems to help a little bit. So, it's four capsules [PHI-Personal] the, uh, weird stuff in the two, Omega. Omega is like it. That's the, the fish oil, right? I, I, did you ever hear of that? IC A R I in, I don't know what that is. Well, I'm
+Nurse: Not sure. I know it's supposed to be more natural ingredients, like, uh, herbal things like that.
+Patient: Yeah. Tro, uh huh. You hear that? I don't know. That's what, that's what these things, they, they seem to just help my pain overall, you know?
+Nurse: Ok. Yeah, I, I looked up the, I, I, [PHI-Personal], [PHI-Personal] it says, it says it's like a Chinese medicine. Um,
+Patient: Yeah. So those
+Nurse: Go weed, it says, I guess they know what they're doing, right. They do it all together [PHI-Personal],
+Patient: [PHI-Personal] I, I heard of this trial, I forget, I don't know what it is though. It says it's a, a potent tree. Ok. Oh. Potent tree. Radical [PHI-Personal]. That other? Oh, I don't know. Well, anyway, I don't know what's in it. I'm taking, it helps me. So, yeah.
+Nurse: Oh, I see. The reit trial they say is a, um, it's, ah, something that's produced in, in can be in blueberries. Oh, blueberries, grapes, raspberries, blueberries, peanuts.
+Patient: Ok. Yeah, I, I've heard of that word before but I didn't know, you know where [PHI-Personal] [PHI-Personal] that's, you know, that's the tumor in ac, right. Yeah, I take it, yeah, I'm taking a tablet of that too. Or not a tablet but a soft gel. Uh-huh. So, everything now is, uh, centered on my knee. Uh, uh, I, I lost, uh, six lbs since I've been to the doctor. I'm trying to lose weight. I try to lose weight to see if it, it'll help my knee before I, he said, you know, try to lose weight before you do anything radical, like, you know, knee surgery or anything like that, you know, right replacement. So, I'm trying that [PHI-Personal], uh, everything center around my knee right now. My blood, my blood sugar is ok. You know, uh, II, I watch what I'm eating now, so I don't eat as much. I try to try to just right fast for about, like, six hours a day [PHI-Personal] [PHI-Personal]. Do you? Yeah.
+Nurse: Yeah. What kind of stuff do you eat otherwise? Like, are you trying to cut out certain things? I
+Patient: Mean, uh, I was eating salads, uh, uh, making, uh, sweet potatoes, uh, broccoli [PHI-Personal] cauliflower, not cauliflower but, uh, Brussels sprouts. Oh, that, [PHI-Personal], uh, I bought this stuff, all of my steaks. I, I was thinking, have like, uh, for supper. I'm having like a little piece of like a red, red meat [PHI-Personal] a hamburger. Uh, uh-huh, baked chicken. Yeah. Uh, oatmeal, uh, eggs. Uh, uh, I have my bread, you know, I still eat bread stuff but, uh, I try to cut out sweets. I think if I, I had like a sweet attack. So, if I, I cut out sweets, I think that to you.
+Nurse: Yeah, definitely. And some, sometimes if you just cutting out, you know, the sweets, cutting out the soft drinks if you drink a lot of soft drinks.
+Patient: No, the only thing I drink is like a B 12, uh, drink it. Uh, it's like a, it's like a B 12 shot. There's no, no sugar in it or anything.
+Nurse: Ok. Well, that's good. It's
+Patient: Called, I get it at Sam's [PHI-Personal]. Uh huh. You come in tubes, you put it in water [PHI-Personal] shake it up. Oh, ok.
+Nurse: Yeah. I've heard that before.
+Patient: Like two, like two of those right now I'm drinking, I may drink water [PHI-Personal] coffee. Yeah, the coffee is a diuretic. I go pee a lot but uh, trying to, I drink so much coffee but it's just my main drink right now. So a
+Nurse: Couple of coffees a day is not too bad for you. Yeah. Black
+Patient: Coffee. I drink [PHI-Personal].
+Nurse: You don't put nothing in it. Oh, ok.
+Patient: My air force days when I was working every night shift, drink a lot of [PHI-Personal] coffee. So. Oh,
+Nurse: Ok. And once you get used to that, you know, that's, that's it. You don't have anything else in
+Patient: It kind of addicting because if I don't drink at least a cup a day I get like one of those, uh, gaine headaches. Oh, do you? Yeah, I'm like, sort of like addicted to it, you know, a cup a day.
+Nurse: Well, one cup a day keeps you moving. I'd say keep going for it. Especially since you don't put anything in it, you know, not, not a lot of sweeteners or sugar or creamers, all that stuff. That's not, not the greatest for you. Yeah.
+Patient: Right. I don't drink those Dunkin Donut coffee. Oh, yeah. Lot of tea. Uh, no, they're more with cream [PHI-Personal] coffee in it. That's true. And then they say I got to have my cup of coffee [PHI-Personal] you go, [PHI-Personal] you get, like, go home with the,
+Nurse: With a cup full of sugar [PHI-Personal] not much coffee actually. Yeah.
+Patient: Right. I know. But anyway, that, that's what's going on with me. Yeah.
+Nurse: Well, how much better do you think your knee is after the injection if you had
+Patient: To percentage? Uh, it's, uh, I don't feel pain [PHI-Personal] it feels like it's, uh, I know it's only a temporary thing [PHI-Personal] because I used to get cortisone shots [PHI-Personal] I was, like, 30 years ago all the time because I used to get my, that's when I started getting my knee drained [PHI-Personal] everything. Uh-huh, for a while there, when I was to play a lot of tennis [PHI-Personal] stuff. That's, I got water on the knee. I used to get my knee drained. I get it once a month. Oh, ok. And I got, I got a few Cortisone shots then so I know it's not, uh, permanent. But yeah, it, uh, it helps a lot.
+Nurse: Yeah. So what you think about 80% better or more or less?
+Patient: Uh, I say it's like a, 100% better. Oh, ok. Well, that's awesome because now I, I can walk without feeling though, like it's going to give out on me, you know, uh-huh, before it was like tender [PHI-Personal] I was, I was walking [PHI-Personal] you feel the pain [PHI-Personal] they put one of these, these patches, the, uh, yeah, uh, pain relief help but not as much as the Cortisone shot.
+Nurse: Yeah. What's those patches called? That's something you found over the also.
+Patient: Yeah, I got these on the internet. They're called W Will Will Knee Pain Relief patch? Ok. Wellnee pain relief patch. I just ordered some again last night.
+Nurse: Ok. Well, did you order it like off of Amazon or something or? So, or? You have to? Uh, no, I, I
+Patient: Heard a commercial that I investigated on the internet. It's a specialty design for a knee area for increased flexibility. OK. So it's like, it's like uh the only way I got it was because I didn't want to pound down the ibuprofen [PHI-Personal], you know, I didn't want to take a bottle of, you know, yeah, I pound down a bottle a month of ibuprofen. So I don't take that. I just put these on [PHI-Personal] it's like it absorbs through the skin, you know, uh for uh so it's like pain relief that's absorbed directly to the skin instead of taking, taking the ibuprofen or, you know, regular because that's what I'm mainly concerned about because I need, I need a pain killer, but I didn't want to take Ibuprofen. I know what that does to your stomach.
+Nurse: I know [PHI-Personal], [PHI-Personal] sometimes can affect your kidney function [PHI-Personal] all that too.
+Patient: So, uh so I take this, I take it right through the, right through the skin, right to the bone. Uh what it's called, it's the, well, the pain relief patch. Weolnee. Yeah. And long lasting natural warm wood formula, uh, remove.
+Nurse: It sounds kind of like the sort of thing that those, the, uh, the release pills that you're taking too. Yeah.
+Patient: It, uh, other ingredients are cinnamon menthol. [PHI-Personal]. Born, born, born [PHI-Personal] cancer.
+Nurse: Ok. So, like cooling action in there. Yeah.
+Patient: So, uh, yeah, ingredients are weird but [PHI-Geographic]. So I'm taking them. Yeah,
+Nurse: I don't blame you. I think they sound good better than, you know, a lot of other products that are out there for sure.
+Patient: I put them on my plate, my knife [PHI-Personal] fork [PHI-Personal] that's my supper.
+Nurse: That's your
+Patient: Supper. The four pills [PHI-Personal] other medicine I'm taking, I take about, like, without one a day [PHI-Personal], uh, fish oil [PHI-Personal] everything [PHI-Personal], uh, huh, like 10, 10 different pills.
+Nurse: Oh, gosh. Yeah, that's, I would say there's one,
+Patient: Two, only four of them are prescription
+Nurse: Prescription. Yeah. Well, that's not bad. Just what you take. Your BP pill, your cholesterol pill [PHI-Personal] your, uh, diabetes medication. Right.
+Patient: Yeah. And my, uh, Zoloft
+Nurse: The sertraline. Yeah. Yeah.
+Patient: Uh, I said my, or, or not my, or, but my, uh, primary care physician PC P called, she said she, she, whatever it was [PHI-Personal] she was, she said everything looks normal. So I was good with her too. So,
+Nurse: Yeah, I mean, your blood work looks, looks pretty good. And he checked your inflammatory markers in your blood too [PHI-Personal] those were normal. So, that's a good thing.
+Patient: Yeah. Yeah. Yeah. So that's where I stand.
+Nurse: Well, I'm glad you're doing well [PHI-Personal] you at least got some relief, you know, with the, with the knee injection.
+Patient: Yeah. I didn't want, I didn't call you back the first time because, like, I had a doctor appointment, like, two days after you called. So,
+Nurse: Yeah, that's no problem. I figure where you went to see your, a family doctor or you had another doctor? You went to Doctor [PHI-Personal] when I went to go? Oh, you mean doctor [PHI-Personal]? Yeah. Yeah, you
+Patient: Gave me the Cortisone shot. When did you call last time? About, about what, two weeks ago? I had like, I have like a doctors appointment, like, with him two days after you call. So I see the point of
+Nurse: Calling. Yeah. Yeah. No, that's no problem. Well, I'm gonna send you a letter in the mail [PHI-Personal] just, you know, because it's the beginning of the year. We kind of redo the care plans [PHI-Personal] set some goals that we might be able to check off throughout the year. So, just so, you know, you'll be getting a letter in the mail. Um, [PHI-Personal] I'm going to put on there. Of course, I know you see doctor [PHI-Personal]. Um, [PHI-Personal] then your primary care doctor. Do you see any other specialists throughout the year? No, no, I don't go anywhere else. You don't go to anyone else. Not the, um, what about for your diabetes? Do you see an endocrinologist or? That's just your family doctor,
+Patient: Primary care physician. Yeah. You take Metformin [PHI-Personal] take my, my blood test [PHI-Personal], [PHI-Personal] she takes my A one C, so, yeah.
+Nurse: Yeah, a one c, what was, what was that last time they checked it? You remember?
+Patient: I forget what number is six point something. I don't know. Oh, that's
+Nurse: Good. Do they like it under seven?
+Patient: Yeah. He, yeah, he, uh, he was satisfied with the number so I forget what it was.
+Nurse: Ok. Well, yeah, it must be, I would say it was under seven. Otherwise they pro, he probably would have tried to adjust your medicines or something.
+Patient: Yeah. Well, she says in the range for, for diabetic care.
+Nurse: Yeah. Yeah. And, um, let's see anybody else. Do you see the dermatologist for your skin?
+Patient: No, I was just taking the Humira [PHI-Personal] see doctor, uh, uh, watching that for me.
+Nurse: So, ok. And what about the eye doctor? Oh,
+Patient: Yeah, I went to the eye doctor about, oh, maybe in, uh, December sometime. And, yeah, everything was fine there too. Ok. I go, I go to the Northeast Eye once a year around November or December. Uh, get my eyes checked. Yeah. So she gave me a diabetic eye exam [PHI-Personal] everything is fine. Yeah, the pressure was normal is like 13, I guess. Right. For somebody in their sixties. That's right. The sweet spots are normal. Yeah.
+Nurse: Yeah. Well, good. Yeah. So I will put that in the mail for you? Do you need anything as far as prescription goes? Did he, um, you good on your Humira with the refills?
+Patient: Yeah. Yeah. Uh, ok. Yeah, no problem there. And, uh, no, I don't take anything new. So everything I get prescriptions, like I run out, I just call them [PHI-Personal] they send them to the, uh, the drug
+Nurse: [PHI-Personal]. You don't have any issues.
+Patient: No. No, I get, I get 90 day supplies there. Yeah.
+Nurse: Yeah. Well good. Well call me if you need anything. If not I'll check back in with you next month. Ok. Ok. Alright you have a good day. Happy New Year. Happy New Year to you. Bye bye bye.

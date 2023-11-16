@@ -1,0 +1,14 @@
+Nurse: Hi, this is [PHI-Personal]
+Patient: [PHI-Personal]. This is [PHI-Personal] call.
+Nurse: Hey, [PHI-Personal], just one second. Let me pull your chart up. Ok. Mhm. And your birthday is [PHI-Personal] right? Ok, how you doing today?
+Patient: All right. Well, the weather but I just got a sore throat, the cold, but the reason I'm calling is I have to have an examination by doctor [PHI-Personal] before I have surgery. They just called me to remind me.
+Nurse: Ok, let me see here.
+Patient: Well, they called and asked me if I made the appointment yet.
+Nurse: Ok. So when's your surgery scheduled for again?
+Patient: [PHI-Personal], I believe.
+Nurse: Ok. So your surgery is [PHI-Personal] and you need a appointment for a, a sur like a presurgery consult? Ok,
+Patient: I need his permission to.
+Nurse: Ok. Oh, all right. So I'm gonna put that in and um, they'll give you a call with a time and date. Does that sound good? You're gonna be home today?
+Patient: Yeah.
+Nurse: Ok. All right. So I'll put that in, um, any other concerns or questions today? No. All right. Well, I'll talk to you again soon and I hope you have a great holiday weekend. You too. Alright, bye. [PHI-Personal]. Bye bye. Bye
+Patient: Bye.

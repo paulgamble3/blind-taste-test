@@ -1,0 +1,20 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes, this is [PHI-Personal] returning your call.
+Nurse: Hi, thank you. Let me just look in here real quick. Get in your records and see. How are you doing today?
+Patient: Ok,
+Nurse: Good. Did you get a good rainstorm there?
+Patient: Uh, morning?
+Nurse: Yeah, we were under tornado warning. So at that point they tell you to get in your, um, basement and go and hide, but I didn't and I'm still alive. Ok. So what I wanted to tell you, um, per our conversation with the ear pain. Did they call you and tell you, um, that they wanna set you up with an ent doctor?
+Patient: Yes.
+Nurse: Ok. Do you have that appointment scheduled?
+Patient: No. Uh, I said I would rather go to, uh, [PHI-Geographic] rather than going to [PHI-Geographic] in [PHI-Geographic]. I'd rather go to the evangelical and she said they would get in touch with them to call me to set up an appointment. I didn't hear anything yet.
+Nurse: Ok. Well, that was just two days ago. So, if you don't hear anything, like mid week, next week, will you please give me a call and let me know that? And I will see what's going on with that.
+Patient: Ok. Sure.
+Nurse: All right. And how are your ears feeling? Are they still feeling as bad?
+Patient: Uh, no, no, not really. Uh, there's still a little ringing in the right ear but I have to pinch my nostrils shut. I, like I told you before and, and blow out the ears and then they open up.
+Nurse: Ok. Oh. Um, I just wanted to make sure because they, they kind of went down the list. I sent it in for the predniSONE not working and it says if they don't um help get the nt involved and he sent that to another girl in the office instead of sending it back to me. So I didn't realize that, you know, I hadn't heard and I had a, I had a you on my list to call back and I looked and I'm like, well, I wonder if they talked to him about that. I wasn't sure if they took care of it. So, um that's good. Ok. Well, again, if you don't hear from them, um you know, like mid to late week, please let me know and I will help facilitate that appointment. Ok.
+Patient: Ok, I will.
+Nurse: Alright. Thanks for calling me back and I hope you have a wonderful weekend.
+Patient: Ok. You too.
+Nurse: Thanks [PHI-Personal].
+Patient: Ok, bye.

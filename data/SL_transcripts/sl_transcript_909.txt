@@ -1,0 +1,21 @@
+Nurse: This is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. All you on calling, returning your call. Hey, how are you
+Nurse: Doing?
+Patient: Fine. You sound like you're in a cage. Oh, do I? Well, you're going like in a tunnel or something. Yeah, how are you?
+Nurse: I'm good. Thank you. Hey, I was just giving you a call just to check in to see how you've been doing this month. It's been a little bit since we spoke last. So just to get an update,
+Patient: I think about the same, my son's here from out west for a week, which is very nice. He's leaving tomorrow. Otherwise, otherwise, um, just feeling a little bit older. That's all.
+Nurse: Ok. Nothing super exciting. Like any fall injury trips to the hospital. Nothing like that.
+Patient: No, thank God none of that. Yes.
+Nurse: Thank goodness. Hopefully we can keep it that way.
+Patient: I hope so bad. Kind of
+Nurse: Exciting. Well, no problem. I'm glad you have your son there for a visit and, and just to confirm you'll see doctor [PHI-Personal] on the [PHI-Personal] of next month, right?
+Patient: I don't know that, but I'll mark it down on my calendar [PHI-Personal] of next month. Yeah.
+Nurse: [PHI-Personal] at [PHI-Personal].
+Patient: Ok, thank you very much.
+Nurse: Well, thank you and you feel free to give me a call if you need anything. Ok,
+Patient: That's [PHI-Personal], right? Yes. Mhm. Ok and I'm sorry I go through it once more. [PHI-Personal]. At what time?
+Nurse: Um [PHI-Personal].
+Patient: Ok, thank you very
+Nurse: Much. You're very welcome and like I said, I'm here if you need anything.
+Patient: Thank you, but I may have to
+Nurse: Bye. Better safe than sorry. Thank you.

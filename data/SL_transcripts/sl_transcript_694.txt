@@ -1,0 +1,16 @@
+Nurse: Hi, good afternoon. This is [PHI-Personal]. How may I help you? This is [PHI-Personal]
+Patient: [PHI-Personal]. Uh returning your
+Nurse: Call. Hi, [PHI-Personal]. Just checking in to see how you're doing. So I can let doctor [PHI-Personal] know if there's any new issues or concerns how you
+Patient: Been. I'm fine. Well,
+Nurse: Wonderful. That's a good problem to have these days. So, yeah. Uh let's see here. Do you have any upcoming appointments or you just seen [PHI-Personal], didn't
+Patient: You? Yeah, I think I'm uh I'm down the road here uh for an appointment.
+Nurse: Yeah, suture removal. It says um did they get the biopsy back from what they took?
+Patient: That's all taken care of. And uh yeah, and I got a call about that and so forth. So I'm re reportedly good shape for the shape I'm
+Nurse: In. You know, it's funny we just, I just told the patient it sounds like you're doing all right for the shape you're in. Yeah, I do see that. It says um [PHI-Account]. Um they tried to leave a message. Please inform patient pathology came back. Seborrheic keratosis. This is a benign lesion. No further intervention is needed, right? So, no cancer which is good. Um, but, you know, it's important because not all skin cancer follows the traditional, you know, darkened shape, irregular shape, things like that. So, it's definitely good to get it looked at. So, and since I've talked to you, I also see you had your Medicare yearly physical. Did she change anything on that? [PHI-Personal]? Looks like everything was good with it. Right. Wonderful, wonderful. Um, she did mention a murmur though. Um, has that been something in the past or anything? She did not think it was big deal, but
+Patient: No, she said it's routine with me.
+Nurse: Ok. Good. Very good. Always good to know that. So we see we did the um, depression screen on you last time. Looks like all your blood work was good. Checking any BP numbers at home.
+Patient: No, there was nothing. Ok.
+Nurse: No headaches, dizziness, nosebleed, anything along those lines. No. Ok. Wonderful. And just remember your summertime safety. She always likes me to go over that this time of year trying to do things early morning, late evening, um, sunscreen, sun glasses, wide brim hats and plenty of hydration because that sun is quite powerful these days. So well, it sounds like you're doing well. Is there any questions or concerns that I can answer for you today? No, thank you. I, all right. Well, glad everything came back with the lesion and all of the area healed up fine. No redness warmth, anything like that. No. All right. Perfect [PHI-Personal]. Well, thank you so much for getting back in touch with me for the quick check in. This is [PHI-Personal]. I'll give you a holler back in August if you need med refills. Are you good on all of your meds? Nothing you need refill?
+Patient: Ok. Yes.
+Nurse: All right. Take care then. Thank you so much. Thank you. Uh
+Patient: Bye bye bye.

@@ -1,0 +1,11 @@
+Nurse: Good morning this is [PHI-Personal] was this lady
+Patient: That called me. No.
+Nurse: Yes um I do have a message for you let me see if I can find it here. Oh boy um so I talked with doctor [PHI-Personal] and uh she was asking if you would do physical therapy for your back
+Patient: I ain't doing nothing because I can't walk this morning. I'm having a hard time.
+Nurse: Uh did you go anywhere over the weekend like to I know you
+Patient: I went. No. Oh no oh
+Nurse: I I really think you should go to the er to be evaluated.
+Patient: Yeah. Yeah. Alright
+Nurse: Do you need me to call an ambulance for you or do you have somebody that can take you?
+Patient: No I I get that. Oh man go I just walk this morning I don't know what's wrong with me. My back I took a I just took my but feel like I got a sharp pain I can get her I can I can sit. Mm
+Nurse: Yeah I definitely think just go to the emergency room to be evaluated. Ok. Ok um and if they if you come home today give me a call and let me know what they say, if not I'll follow up with you tomorrow and see how everything went. Ok. All right. All right. So just keep me updated. Ok. Alright. Alright I hope you get some answers. Bye bye bye.

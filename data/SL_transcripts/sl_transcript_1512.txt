@@ -1,0 +1,74 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Nolan. Hi, how are you? Well, a little disappointed right now
+Nurse: What's going
+Patient: On? I called, you know, for, to get prescriptions refilled. Yeah. And the girl that was covering for you. Yeah. Never called it in. Oh, let me
+Nurse: See. Let me see. I know, I noticed I didn't, she called, I don't know, she took some of my patients last month because I was off a couple days because my husband, yeah,
+Patient: The, the, the one that I, that I need is for the, uh, um, yeah. Oh, Chlo RT hal ID one. Yeah. And because I was completely out and, um, I went down, I went down Saturday. I was gonna go down Saturday to the pharmacy and I thought, no, I, I had too much to do here. I'll go down Sunday right after church. So I went down yesterday right after church and the pharmacist said nothing has been called in for you, [PHI-Personal].
+Nurse: So, she sent a message over but nobody looked at the message at the office. Mhm. So, she, she sent it but they didn't pick it up yet. So,
+Patient: Let me see. So he gave me [PHI-Personal] tablets to time me over until I've talked with you. Ok.
+Nurse: Alrighty. So I'll send a message over directly to is what I think I'll do today.
+Patient: Um yeah because I have her, you know, fill it. Yeah, because I have to go to a today for my rheumatoid arthritis and uh my son's picking me up to take me but um then I, you know, he said when I get, we get back, you know, I'd have time maybe to skip down and get it if you know, if it was called in.
+Nurse: Ok, I'm sending a message over now. Yeah, because the girl said to let me see, that was when Friday that you told me.
+Patient: Yeah.
+Nurse: Yeah. Yeah. It doesn't look like for some reason they didn't look at the message at the office. I don't know, maybe that girl was off. I don't know because she said,
+Patient: She said to me, she said I'll get it sent in right away because I said, yeah, because I'm out and she said I'll get it set in right away. I said I got enough for one more day and that's it. And, uh, so I figured, well, I'll go down right after church to, you know, yesterday and, and, um, the pharmacist said, no, he said there was no, nothing called in for that prescription. And, um, I said, well, I know the girl told me Friday that, you know, she, you know, get it, get it in right away. And um, so he said no, he said nothing was called in here for that. So he says I'll give you I'll give you [PHI-Personal] tablets to tie you over until you hear from them. So that's what he did. He gave me [PHI-Personal] tablets to time me over. Yeah.
+Nurse: Ok. So let me see, I'm gonna send looks like she sent it to the, the nurse. [PHI-Personal], but [PHI-Personal] did not do anything with the message yet or didn't see it. I received a call from [PHI-Personal]. She is out of her Chlorthalidone. Please send to Walmart. That's what I'm sending to. Mhm.
+Patient: Right.
+Nurse: And I'm going to send that over to her right now, [PHI-Personal], we'll get this taken care of
+Patient: Because I said to the pharmacist, I said, well, when I was talking to the girl on Friday, she said I'll get it sent in right away. Yeah. Well,
+Nurse: And she sent it on her end but the, the office didn't,
+Patient: They didn't pick it up. No. Huh? They said that's not good
+Nurse: Sending Dak [PHI-Personal] as an urgent so she takes care of that. So.
+Patient: Mhm. Yeah, because I could, the pharmacist said to me, well, I can give you [PHI-Personal] tablets to tie you over and I said, well,
+Nurse: It's gonna have to do
+Patient: For now. Right? It's gonna have to do for now because I said I have to, I have to head to IVO pretty soon. And, um, oh, I don't know.
+Nurse: Well, I would keep looking at it if it looks like they're not seeing it, which I don't, I don't foresee a problem. Uh, I will call them directly and call the office. Ok. So, um, I'll keep looking at it. [PHI-Personal], I don't think there'll be a problem. But, uh, now I sent it as an urgent. So,
+Patient: Yeah, she's, yeah, because I said to the guy, I, I told him the pharmacist there. I said, well, you know, I know I'm, I'm due, you know, I'm out of it. And uh, he said, no, he said nothing was sent in [PHI-Personal]. So I said, great,
+Nurse: You have everything else, everything
+Patient: Else. Ok. Everything else is ok because it, I, I had, you know, other prescriptions for refill and they came through. Ok. Oh,
+Nurse: Good. Ok.
+Patient: But um just this one. Oh, I don't know. But uh, yeah, I have to go down there for that infusion and treatment today.
+Nurse: Yeah. Ok. Oh, gosh, how long does that
+Patient: Take? It takes about 40 minutes for them to go through it because it's intravenously. Uh-huh. Right. And so my son takes me down and then, um, because he, he told me one time, he said, mom, I don't want you to try to drive after you've had that intravenous treatment. He said, you don't know how you might feel.
+Nurse: Sure. And I think that's smart.
+Patient: And he said, so he says whenever you have to go down there for any of those treatments. He said get your appointments on Monday. So that, because that's my day off. He said,
+Nurse: Right, good. You, you have such a good son. He's so good. I think so too. Yeah. Yes, he's doing it right now. [PHI-Personal], I can see she's working on it.
+Patient: Ok. Well, I, my, um, my other son was here yesterday and he said, well, call first thing tomorrow morning and, and I said it wasn't the girl that I usually talk
+Nurse: To. Exactly. I'm sorry, I was off for my birthday. Well,
+Patient: Happy birthday. Thank you. Oh, I
+Nurse: See it for you.
+Patient: But, you know. Oh, I'll tell you. It's, yeah, my birthday's coming up in May. Uh, oh, and
+Nurse: I, it's the big eight.
+Patient: Oh, that's right. It might be the big 80,
+Nurse: Mine was the big 50, this time.
+Patient: Yeah, they creep up.
+Nurse: They sure do my word.
+Patient: I don't know. Yeah. I, and then yesterday in church they announced in church there's one, lady that goes to our church. She passed away the other night. And, uh, so I got to work to the, uh, funeral dinner. Do you?
+Nurse: Yeah. Yeah, I remember you said you do that.
+Patient: Yeah. So, yeah, she was, she was 100 and [PHI-Personal].
+Nurse: Wow, my goodness. Yeah, she
+Patient: Was 100. She was a, would have been 100 and [PHI-Personal] the 30th of this month. Oh, wow. And she was a lovely lady. I mean, she, she was a sweetheart. Oh. And, um, she was over in the nursing home. But, um, she was doing pretty good in the nursing home. She, I mean, she was in a wheelchair but she, she was doing pretty good. Mhm. And, uh, but for 100 and [PHI-Personal]. Wow.
+Nurse: Oh, gosh. Yeah, that's, that's
+Patient: Amazing. And, you know, I got to thinking last night, you know, I'm the oldest one here in the village now. Are you really?
+Nurse: Yeah, that's, that's surprising. Yeah, I'm surprised
+Patient: About that. Everybody else is younger than me.
+Nurse: Mhm.
+Patient: Oh, so I, I got to thinking that last night, you know, you're the oldest, oldest one here in the village now. I'm the old folks.
+Nurse: Oh.
+Patient: Oh, [PHI-Personal], gosh. That's funny. Right. 00, I don't know. Like
+Nurse: She's taking care of it. Let me just double check. Yes. She took, she sent it over. So it should be ready for you soon. [PHI-Personal].
+Patient: Ok. Well, thank you so much.
+Nurse: Sure. No problem. I will talk to you soon if I don't talk to you before Christmas. Have a [PHI-Personal] Christmas and the same need
+Patient: Anything and the same to you. Have a [PHI-Personal] Christmas also. Thank you. Thank you. Yeah, I'm, I'm going to be down to my one son's for Christmas. Oh, good. I was down to my youngest boys for Thanksgiving. Oh, nice. And, uh, my brother in law took me down to my son's for Thanksgiving. And then my, my oldest boy is having Christmas at his house and he said we'll be up to get you mom. So he said, don't you? Because I told him, I said, you know, I don't drive at, at night time anymore. Oh, so, you know, he said we'll get you there, mom don't.
+Nurse: That's right. He'll come get you. Just let them do it. That's fine.
+Patient: Right. Exactly. No, I've got, I've got wonderful kids. I'll
+Nurse: Tell you. You really? Do. You really do. I have some that can't get them to help them at all. It's terrible.
+Patient: That's right. Exactly. That's right. But I, I said, I'm, I'm very lucky that way. I'm, that I have such wonderful
+Nurse: Kids. Well, right. And I, I'm sure it, because it was because you were wonderful to, to them always. So. That's right. That makes a difference.
+Patient: Uh, that's right. Yeah.
+Nurse: But have a good day and I hope your Children goes well, I'll talk to you soon
+Patient: And I hope so too. I, I usually fall asleep when they do that. You know, because they, it's intravenously, they put it in the right arm and, uh, I usually fall asleep in the chair because it's a big, easy chair that they have you sit in. And the girl always says to me it when it, it takes about 40 minutes for that to go through. And she'll always say to me, well, le you're all done, you can go home now. Oh, [PHI-Personal]. But that's, it's right down in Avoca where I go. So,
+Nurse: Yeah, good. That's good. Well, that gives you, it's some forced relaxation. That's
+Patient: Right. Exactly. Exactly. Take a look, you take care too and have a good day and you too,
+Nurse: Talk to you
+Patient: Soon. Ok. Alrighty. Bye bye.

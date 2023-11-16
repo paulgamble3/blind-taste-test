@@ -1,0 +1,25 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is Marian. Ate. You left me a message?
+Nurse: Yes. Yes. How are you doing this morning? Um,
+Patient: I just fell. I, I don't know, I got out of bed. I, I went to put my coffee cup in my wheelchair because that's what I could take it back into the kitchen and the coffee cup went flying. I went flying. I hit my head on, on the thing. I got in front of me. So. Oh, my God. It's, it's just crazy.
+Nurse: Yeah. Are you sure you're ok?
+Patient: Yes. In your head. If I'm not ok, I'll call [PHI-Account].
+Nurse: I'm, oh, my goodness. Yeah, I'm so sorry. So, you tripped over something?
+Patient: No, I didn't. The right leg went nuts. It just went out on me. So I know I wound up on the floor but I'm Versatile and, and I got up without a problem. So, you know. Yeah.
+Nurse: Is there anybody at the house with you?
+Patient: Oh, yeah. My son's here and my granddaughter's here. Everybody's here.
+Nurse: Ok. Ok. Yeah. Well, good. I'm glad that you have people at the house. But definitely, um, you know, with you, I know that you're taking a blood thinner. So if you have, you know, you fall and, and hit anything, you know, we want you to get checked out. Um, exactly. So, yeah, I would probably, I, you know, oh, my goodness. I would definitely recommend getting checked out, especially if you hit your head.
+Patient: Yeah, but I, my head is hard. Ok. And my head is very hard. I'm fine.
+Nurse: Ok. All righty. Well, um, well, I just, I was calling you to let you know, um, that doctor that had placed the order or the prescription for, um, some promethazine and I had this cough medicine. So it looks like he placed the order yesterday. Um, let me see
+Patient: Here. She didn't call me. Usually she calls me.
+Nurse: Yeah, it looks like it. He said to take, um, let's see, five ML four times a day as needed for up to seven days. Um, so he, yeah, so,
+Patient: Uh, he did get it.
+Nurse: Yes, he, he did. So he sent that in. Um, and then he also had mentioned too if you get no relief with that medication, um, then he wants you to get, you know, evaluated in office or at like an urgent care, you know, something to see if there's something else going on. Yeah, but that, that should definitely help with the cough and congestion.
+Patient: Oh, please. Something's got to help with it.
+Nurse: I know. Oh, my goodness. Yeah. All
+Patient: Right, [PHI-Personal]. I appreciate that. And I'll have my son, I'll call [PHI-Personal] this morning and, because she doesn't open until 10, um, I'll call her this morning and see if, uh, you know, it made it there. It should. But, you know, usually they call me.
+Nurse: Oh, yeah. Yeah, usually it, yeah, it looks like it was sent. Uh, it might have been like yesterday evening. I can't see the exact, that's the time. Um, but yeah, and then definitely to um you know if you're feeling you know, different or anything, you know, after your fall definitely make sure that you get checked out. Ok, I will. Ok. All right. Well be careful
+Patient: I'm trying [PHI-Personal], I'm trying.
+Nurse: Alrighty. Well, let me know if you need anything. Ok,
+Patient: I will. Thank you so much.
+Nurse: K you're welcome. You have a great day. You too. Thank you. Bye bye.

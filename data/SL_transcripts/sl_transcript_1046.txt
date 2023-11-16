@@ -1,0 +1,11 @@
+Nurse: Hello. This is nurse case manager here at
+Patient: Office. This is [PHI-Personal] again. I just, oh, my, no wonder my nerves are bad. My daughter in law just called and my son broke his toe and, oh, my, she was going on and on and on. So I went to take an Ativan and my gosh, I already have four left. I usually get them before the month is up. So, will you, uh, call that in or have, uh, [PHI-Personal] call it in? Of course, my Ativan. So I'll, I'll probably get it tomorrow. It's kind of getting late now, so I'll get it tomorrow. I still have four, but I'm really nervous now. She, she upsets me so easily sometimes my daughter,
+Nurse: Of course, I'll get that taken care of on the plus side. Um, there's very limited issues as far as toes go and unfortunately there's not a whole lot you can do anyway. You just got to tape them up and, and go on your day.
+Patient: Yes. Yes. I know. And just deal with it,
+Nurse: Unfortunately. Yes.
+Patient: Ok. Well, I'm sorry, I didn't, uh, I usually, I'm up to date, you know, I check on my pills. And, uh, but my gosh, I went to take one and I've got to calm down now because she can just get me upset so easily sometimes. Mhm. And well,
+Nurse: Do you have a cup of tea? Tea, tea works very well. Hot
+Patient: Tea. Yep. Hot tea. Oh, ok. I don't especially like hot tea but I, I mean, if I'm sick I can sip at it. So, uh, ok,
+Nurse: Sometimes warm beverages have a calming effect.
+Patient: Oh, ok. Ok. Then I'll do that. Ok. Well, thanks a lot. You're
+Nurse: Welcome. Ok, bye bye. Bye bye.

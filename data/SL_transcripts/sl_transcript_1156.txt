@@ -1,0 +1,13 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Hi, [PHI-Personal]. Good morning. Um Well, let's see. I just took my pressure with this new machine and the first one was just awesome 1 27/70. And I thought, well, just for the heck of it, I'll take another one and then that was 1 62/88. So I don't know what to believe.
+Nurse: So I would say [PHI-Personal], I would say go ahead and go to your appointment, ok? Um And just take that blood, take the new BP cuff with you. Um Just so that they can also calibrate it against theirs while it's while you're there. Um And then that way, um a deal can go ahead and give you that. Uh prescribe that amLODIPine w while you're there. And then that way you have it for when it does run super high. And then y'all can discuss it like that cause I was going through your chart a little bit this morning and they have not gotten back with me on that message about the amLODIPine and then you were supposed to follow up uh on your BP in March. So I say, because it's fluctuating so much, I would think that he would want you to doctor, would want you to come in and, and at least talk to a deal about it since it's, you know, up and down so much.
+Patient: Ok. Yeah. Just really strange. I don't.
+Nurse: Right. Yes.
+Patient: Yeah. This looks like I said, this is, this is the best one on the market for, you know, just regular people. So I don't know but uh what else to do? So I in the box here and I'll take it in and I'll uh I didn't check in because I didn't know if I would. I mean I did confirm that I was coming but I didn't do the the automatic check in, check in,
+Nurse: Right? Ok,
+Patient: I guess that
+Nurse: Yeah I think that'll be ok. Um but yeah I would definitely go to that appointment and then what I'll do [PHI-Personal] is I will check in with you tomorrow and see how everything went. Um and then that way we can just talk about what what happened.
+Patient: Ok. Very good. All right. Well I better get on my way here. Yeah. Ok, I'm about 20 minutes away so I'll be I'll be
+Nurse: Alright. Yeah. All right. Well you have a great day, [PHI-Personal] and if you need me for anything, just give me a call,
+Patient: I'll do that. Thank
+Nurse: You. Alright. You're welcome. Bye bye bye.

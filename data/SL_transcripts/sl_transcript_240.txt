@@ -1,0 +1,13 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes, sir. How are you? Hey, uh I'm, I'm good, good. I uh, I talked to you yesterday. Yes. And uh, I thought the uh, clinic, uh doctor s office was supposed to call me.
+Nurse: Yes. Um, the nurse had to leave yesterday early. So she's got you in her queue to call you today
+Patient: About the me. Alrighty, I'll be after uh like one o'clock, I'll be working at hardware. That num that number is [PHI-Account] [PHI-Account] [PHI-Account] and I'll, and she can call you there. Yes, at one. So I'll be, we were talking about you. You said you, you worked for a urologist?
+Nurse: I did, I worked there for over 15 years.
+Patient: Yeah. So you, uh, you've probably had heard all of it. I've been, I've been having all kinds of, uh, you know, thoughts about this does size really matter.
+Nurse: Um, I would say I don't probably, no, I was like, I don't know, I'm sorry to put,
+Patient: I don't, I won't, I won't put you on the spot but I, you just, you, you know what I'm saying?
+Nurse: Yes. Yeah. No, no, no, you're good. No,
+Patient: So you don't think that matters?
+Nurse: No, not at all.
+Patient: Ok. Yeah I'm just uh maybe I'm probably out of my mind but I just I was just curious what what uh what it is but anyhow ok, I'll uh uh I know I know the more I use it the better it goes but right. Well if it don't work it don't work.
+Nurse: Yes, definitely. But there's things out there so. All righty. All right, you're welcome and I'll put that note in for you uh for her to call you there this afternoon. You're welcome. Alright, bye.

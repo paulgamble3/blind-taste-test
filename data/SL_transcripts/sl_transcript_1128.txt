@@ -1,0 +1,37 @@
+Nurse: Hi, this is [PHI-Personal], the [PHI-Personal] Care manager.
+Patient: Yeah. Hi. Hello, I'm [PHI-Personal]. Hi, [PHI-Personal], how are you? Good. How are you?
+Nurse: Good. What's going on?
+Patient: Well, uh, I just got a question because, uh, I don't know why they discontinue my breo, you know, and, uh, I want to pick up my medicine today and it wasn't there. And then she gave me a paper saying that they, they discontinue it, they stop it and otherwise I don't know why I don't inactive. That's what I say. [PHI-Account], [PHI-Account].
+Nurse: Oh, last
+Patient: [PHI-Personal]. Yeah. But,
+Nurse: So did you have just had extras this whole time?
+Patient: I had, but I, right now, but I don't know if he wants me to just take the other one along or what. I don't know. So I'm calling you and see if you can find out that information for me. If you could. Let
+Nurse: Me take a look here. Thank you. I'm just browsing through, bear with me here.
+Patient: Yeah. I mean, if you're busy or something you can get back at me, you know?
+Nurse: Not, not for you.
+Patient: Oh, I really appreciate that. Thank you very much.
+Nurse: It looks like it was just reordered.
+Patient: He was yet. Oh, really? But I
+Nurse: Let me make sure, looks like there was a new script written on. Oh, no, that's last [PHI-Personal]. I'm sorry, I forgot it was 2023.
+Patient: Yeah. Um,
+Nurse: It was reordered in [PHI-Personal],
+Patient: In [PHI-Personal],
+Nurse: Reordered on [PHI-Personal] 3rd. Was that the last one you have?
+Patient: I don't recall because I threw everything away. Ok. Yeah.
+Nurse: So what I'll do is I'll, I don't see any order to any. Let me just check your appointments from last [PHI-Personal]. Did she, when did she say it was discontinued?
+Patient: Uh, let me see if I can see it here. [PHI-Account], [PHI-Account] inactive. Yeah.
+Nurse: All right. Let me try to find an appointment from around that time. See if I can. Yes, I don't see anything that the doctor discontinued it. Um, maybe your pulmonologist. Do you have? I got the pulmonologist, right.
+Patient: Yeah, I did see the pulmonologist. Yeah. But, uh, this paper that they give me here don't say they won't stay. Who? Ok. Who was the one who discontinue it? Well,
+Nurse: It looks like doctor is the last one that reordered it. So let me send a message over to him. Ok. If we can get another. Um, what other, did you start a new inhaler that you know of? Let me see.
+Patient: Well, yes, I start.
+Nurse: Was it the cruise
+Patient: In cruise? Yeah. But I, according to the doctor I was supposed to take them together.
+Nurse: Ok. All right. So, let me see if Doctor [PHI-Personal] will reorder that for you. Um, I know he just saw you as well. Right. You just had your yearly wellness.
+Patient: Yeah. And I got to go for my, uh, diabetic. No diabetic. Um, my arthritis, I gotta go the 12th, I believe. Yeah. The T 12. No, the [PHI-Personal],
+Nurse: The [PHI-Personal]. Yeah, [PHI-Personal].
+Patient: Ok.
+Nurse: All right. So, what I'll do is, um, let me just double check one more thing. Ok. Yeah I don't see it. Ok, so what I'll do is I'll see if doctor can re order it, order it or chat or somebody. Um worst case scenario they wait until they see you at the appointment but I don't think it'll be an issue because it's something you've been taking for so long. Ok. And I'll see what they say. I'll let you know as soon as I hear something either way.
+Patient: Ok, I really appreciate it, of course.
+Nurse: Alright [PHI-Personal] I'll I'll let you know talk to you soon.
+Patient: Yeah you have a nice evening. You
+Nurse: Too. Yeah bye bye.

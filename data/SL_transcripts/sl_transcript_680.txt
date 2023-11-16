@@ -1,0 +1,12 @@
+Nurse: Hello, this is [PHI-Personal], the nurse. Hi, [PHI-Personal].
+Patient: Hi. Hi, this is [PHI-Personal] calling.
+Nurse: Oh, hi, [PHI-Personal], how are you today?
+Patient: Ok. You called earlier? And for some reason, uh, your calls and Doctor [PHI-Personal] calls don't come through on my cell phone. They go directly, they don't ring on the cell phone, they go directly to voice mail. I just happened to look at my phone and see it was a missed call. If you could put my home number down on that and my house number on that, that'd be, you know, be a better number to contact me on for. I'm gonna have my son check my phone and see why these calls aren't, are just going to voice mail and not coming through a ringing system. Ok.
+Nurse: I'm gonna pull you up one second. May in. Mhm. How are you doing
+Patient: Today? Doing? Ok.
+Nurse: Ok. So I do have your home number. [PHI-Account]. Yes, I'm getting an echo. Do you mind if I call
+Patient: You back? How's that?
+Nurse: Ok. Is that better? No, I can still hear myself
+Patient: Talking. I took you off the speaker phone.
+Nurse: Um, it might just be the connection. Ok. Can I, which number, home number?
+Patient: Call you back? Yes. The home number. Ok, I'll call you back.

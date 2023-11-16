@@ -1,0 +1,45 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Yeah, hi. I think I just missed a call from you.
+Nurse: Yes, Mr [PHI-Personal]. Hi, how are you today?
+Patient: Fine, thank you, ma'am. All
+Nurse: Right. So I'm calling on behalf of your doctor's office. Um, and uh, do you remember where somebody discussed the program with you where a nurse would call you? And um,
+Patient: I think, I think you might have talked to my wife about that. Ok, I did, she did mention that there was something, you know, that you're gonna stay in contact with us and, and uh whatever will be will be, everything is fine with us. So,
+Nurse: All right. So, so this is what's gonna happen. We're just gonna call you periodically just to make sure that you don't need anything. Um, we put notes in the chart so the doctor sees it and he knows what's going on with you in between appointments. So it's always a good thing. Wonderful. And also if you need anything, you have our phone number so you can call us at any time. Um If you need a medicine refill, you need a referral. You don't feel good. You know, if you should go to the emergency room, that kind of thing. Yep. All right. So Mr [PHI-Personal], if I read your medications off to you real quick, would you be able to tell me if that's what you were taking?
+Patient: Probably not, but there's no change. My wife takes care of that and that's one of the, one of the things I don't have to worry about. That's her area. So,
+Nurse: Is your wife there right now? Because she's on my list too?
+Patient: No, she's just went upstairs, take a shower. So, I'm sorry, go on.
+Nurse: No, no, go ahead. How about if you have her? Give me a call back when she gets out of the shower or later today? And I can discuss this program more with her too.
+Patient: Yeah, it's ok. Now we're snowbirds. We, we leave here and spend the winter in [PHI-Geographic].
+Nurse: Oh, nice. Are you, are you in [PHI-Geographic] now?
+Patient: No. Well, we're still up north. We enjoyed this last snow storm and, uh, and had a nice time how to get into, to plow us out. But, uh, but anyway, uh, we're, we're gonna be here for about another 10 days. I, I, I've got an appointment on the seventh in [PHI-Geographic], uh, medical appointment and, uh, after that, we're gonna leave, go to [PHI-Geographic]. So we'll be here until around what, while we've been doing that for 30 40 years, we went in [PHI-Geographic]. So it's not, not necessarily, in fact, is if anything it's upsetting this year because the place we normally go to, uh is a new place in go. We used to go to the Keys and own property for years in the keys. But now we went last year to and we loved it and they called us not very long ago and told us that what they had told us after the hurricane didn't fly any longer, there is some major damage to the house. They report everything was ok. You know, but now they said there's major damage. So we had to scramble to find another place. And in fact, I just got confirmation minutes ago that we're, we, we've got a place secure now, a very nice place back in the keys. So we're going back in the keys for another year. So, so, you know, it's around, but that's what you get when you, you know, when you're absentee owners or you're not owners any longer, we just rent. So, but, uh, that's the game you play, I guess just, there's no cost and except change. Right.
+Nurse: You're right. And so how long will you be in [PHI-Geographic] for?
+Patient: Uh, we're probably gonna be just January, February and [PHI-Personal]. Well, part of [PHI-Personal], we'll be back sometime in the latter part of [PHI-Personal].
+Nurse: Oh, ok. So you'll be there for Christmas.
+Patient: Oh, yes. Yes. We normally do. We normally go down about that time of year, you know, we usually go down somewhere in mid [PHI-Personal]
+Nurse: I bet. Do you miss your family though, in the north? Do you have family in the
+Patient: North? Yeah, we got, we got family. We don't have family immediately in this area. Most of our family is in, still in [PHI-Geographic] and the fact all of them, virtually all of them. We got some in Tennessee, but most of them are in [PHI-Geographic] one place or another. So, yeah, we spent Thanksgiving with them. We had a bunch of them here over the holiday and then, you know, we'll see him before we leave and then, uh, and then they always have a gathering before we leave. So we'll go south and, you know, God bless the telephone and the internet. So we stay in good contact with them.
+Nurse: Hey, man, I hear you. It would, it would be a sad day if you didn't. Right.
+Patient: Yes. Yeah, you're right.
+Nurse: Did you have a good Thanksgiving?
+Patient: Yeah, everything went fine. Went fine. [PHI-Personal] daughter had a heating problem in [PHI-Geographic]. She lost her furnace two days before. So she wanted to stay home. So she put up with the cold there. I couldn't believe it just to make sure everything was ok. You know. Oh, wow. So, so anyway, now she's back, they, they put the furnace in, on Friday and, uh, everything is ok, I guess now. So, so anyway, we, we miss them for the holiday. But, uh, we have five daughters. So, you know, once in a while, we always miss one or two. So,
+Nurse: So five daughters. How many grand babies do you have?
+Patient: Oh, a passel and grapes? I, I can't, that's a women's question. I can't remember. I think there's something like 16 grapes or something like that. So. Oh,
+Nurse: Wow. That is a lot. That
+Patient: Is a lot. You know, they didn't want to leave. We're the ones that left [PHI-Geographic]. See, iii, I don't say I come from that school that says, you know, you, your parent, your Children are supposed to disperse. Well, ours didn't want to disperse but so we felt we had to. So we, we came out here uh that, that asked backwards. But anyway, that's what we
+Nurse: Did. It, it's done. Right.
+Patient: Yeah, it's done. It's been done for a long time. We've been here for, we've been here for about 30 years, 25 years now.
+Nurse: Oh, wow. All right. And do you ever check your BP?
+Patient: Uh I used to, I don't anymore. It's been well under control. Um We had a problem getting it under control but I really run ideal now. You know, I, I'm into, I'm in the one twenties, one thirties in that range. So I, I'm happy with it. I haven't checked it in, in a long time other than doctor's office, but it always stays good.
+Nurse: Ok. And you're taking some Lisinopril. Yeah, the amLODIPine
+Patient: There, there's no changes from what I was taking uh, there's no recent changes. Everything is the same and it's the right, everything seems to be clicking good. You know, it's the right combination and I feel good. I'm very physically, I'm very active, I'm old but I'm physically active. And, uh, so that's, that's an enjoyment. And I just talk, that was why I was talking when I missed your call in the beginning. I was, uh, just talking to a friend of mine that's uh on the opposite side of the spectrum. He's having a serious problems. I'm sure you know, when you get, get our age, you start losing your friends and this is dear friend and this is a tough thing, but that's the way things go, you know, can't live forever, you know,
+Nurse: He it would be a scary world if we did for sure.
+Patient: Well, that's a good way to put it. It be a different world. I know it scary different. So
+Nurse: The world's already scary enough, right?
+Patient: Oh boy, it's terrible. Whoever thought [PHI-Personal] would end up like this. Oh, good
+Nurse: Thing for sure.
+Patient: No, no.
+Nurse: All right mister [PHI-Personal]. So my name is [PHI-Personal] and I'll just be checking in with you periodically if you need anything. You give me a call.
+Patient: I sure will. Thanks [PHI-Personal]. Alright.
+Nurse: You have a safe trip to [PHI-Geographic].
+Patient: Well, thank you, ma'am. I appreciate the call. Bye bye. Alright,
+Nurse: Bye bye.

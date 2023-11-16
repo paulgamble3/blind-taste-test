@@ -1,0 +1,11 @@
+Nurse: Thank you for calling. This is [PHI-Personal] nurse care manager. How may I help you?
+Patient: [PHI-Personal]? This is [PHI-Personal] birthday. [PHI-Personal]. What time does the doctor come in? Um
+Nurse: I think the office might be open. What do you mean?
+Patient: Well, I wanted to ask him about something. Uh, they were supposed to let me know if I'm supposed to take iron pills or not. And also the [PHI-Personal], I have to go for an x-ray of my leg and they wanted me to get blood work done. I wanted to check to see if I get both done at the same time instead of, you know, um ending up uh making two trips.
+Nurse: Ok, I can, that
+Patient: Was what I wanted to know.
+Nurse: Yeah, I can send him a message over.
+Patient: Ok, and tell him to please get back to me. So I know what's going on.
+Nurse: Ok, so you wanna know if you should be taking iron pills and then on 8 25 you're supposed to have an X ray and you wanna know if you can do blood work at the same time?
+Patient: Yes. So I only have to make one trip and I'm supposed to, um, wait a minute, they're supposed to let me know about my blood work too that from before I didn't hear back about that either. Ok, [PHI-Personal]. Thank you so much for your help. You have a great day. Bye
+Nurse: Bye bye bye.

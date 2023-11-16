@@ -1,0 +1,28 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hey, this is [PHI-Personal] o'neill. Um, I just missed your call, so I'm calling you back. Hi,
+Nurse: Bar, I just wanted to check in with you and [PHI-Personal] and see how things were going.
+Patient: Um, let's see, he still has one more appointment to get a cancer taken off the year. That's on the [PHI-Personal] of this month and they have canceled his appointment with the cardiologist and they were gonna make it for the end of [PHI-Personal], but we'll just see one when we go home that, um, I am going to have hip surgery.
+Nurse: Ohh, my goodness. I think, uh, they
+Patient: Already approved it. They approved it before we left and I don't know whether I probably need to see [PHI-Personal] when we get there sometime in [PHI-Personal]. Can you make the appointments or I'll call them and make them? I
+Nurse: Can, um, if you give me, um, what days work better and times of day I can have the office make them for you.
+Patient: Ok. Times a day are not a problem. We should be home sometime, I would think by the second week in [PHI-Personal]. So maybe around the third week in [PHI-Personal] we can do that. Ok, let me just check my list and make sure I don't have another appointment any day. And, uh, that would help. No, I have a dentist appointment on [PHI-Personal] and then something with, but that's on the [PHI-Personal] of May, but that's fine. Ok. So the end of [PHI-Personal] with time, that's good. And then you can just send me a text that works fine. Ok, I will
+Nurse: Let them know. Excuse me. And let's see. Come on computer. We're running a little slow this morning. That's ok. Um,
+Patient: The surge room will be in Lake because I see a doctor from, um, Lake Placid. Right? Ok. Oly, the [PHI-Geographic] over there. So. Oh,
+Nurse: How's the [PHI-Personal] down there? Is it still really nice?
+Patient: It has been a weird winter. It gets hot. It'll be 80 today, but it's been in the thirties and [PHI-Personal] and it was like 32 again yesterday morning. So I just up and down there's no big trees like we have. So when the sun goes down it gets cold. Hm. It's ok. We're not shoveling anything. So, if that's
+Nurse: True. Very true. Yeah. Hm. Computer keeps freezing. Let's see any issues
+Patient: That you should have a on today because I think it's supposed to get up in the [PHI-Personal] where you are today, right. Yes. Yeah. Ok. So the maple syrup should be running. Oh, I hope
+Nurse: So. I can't wait after the weekend. We've had, we could really use some of this warmer
+Patient: [PHI-Personal]. How much snow did you get
+Nurse: Where I am? We got about 13 inches. Even though they called for seven.
+Patient: Where are you?
+Nurse: I'm just [PHI-Geographic] of [PHI-Geographic].
+Patient: Oh, ok. Well, you're not anywhere near, but now you really are working from home. Yeah. Ok. Do you see to?
+Nurse: No, I don't.
+Patient: Ok. So you're just off site, period. Yes.
+Nurse: Yep. And no issues with blood pressures. Everything's running normal there. Right?
+Patient: He still has, um, notices on his watch that he goes into AFIB. No, they have changed his medicine a couple of times and we will see his cardiologist when we get home. I will call actually, I'll call today and make an appointment with doctor. That's who he sees, but he needs to see to too. So. Right.
+Nurse: Ok. All right. So I'll get these messages sent over to the office, um, for appointments for the third week of [PHI-Personal]. Um, and I will make sure they reach out either by text message or some way. Um, ok. So you guys are notified and I will reach out again sometime in [PHI-Personal]. We'll see how things are going. Ok.
+Patient: Ok. Thank you so much [PHI-Personal].
+Nurse: You're welcome. Have a wonderful day.
+Patient: Ok, thank you. Bye bye. Yeah.

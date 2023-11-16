@@ -1,0 +1,7 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. This is calling you back. Hi, how are you doing? Doing fine. Hey, I got an appointment for [PHI-Personal]. Yes, at noon.
+Nurse: Ok. And did they request anything be sent over?
+Patient: Yes. Uh Any radiology and uh lab work? Ok. Uh Let's see. I think that was it.
+Nurse: Ok,
+Patient: That sunshine, sunshine neurology going to.
+Nurse: Ok. All right. Um Perfect. Then I will get that faxed over today and then I'll call you back next month after your neurology appointment to kind of check in and see how it went. Ok. Sure thing. Alright. Anything else I can help you with? No, thank you Sandy. Of course. Have a great day. Bye bye bye bye.

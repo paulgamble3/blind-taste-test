@@ -1,0 +1,14 @@
+Nurse: Care management. This is [PHI-Personal]. How may I help you?
+Patient: Hi, this is [PHI-Personal] returning the call. Oh, hi,
+Nurse: Gary. Gary. They want you to come in for an appointment tomorrow.
+Patient: Ohh, boy. Um
+Nurse: That's what Doctor [PHI-Personal] said.
+Patient: Ok.
+Nurse: And he wants you to be seen. Do you have anything going on tomorrow afternoon?
+Patient: I do. Um I see and just checking, I got uh somebody coming in between two and three o'clock
+Nurse: So um two o'clock is not good then. Um Right. I understand. Yeah. Um this is by doctor. He wants you to call by because I, they sent him the message. Um, he can't make it. Um, so you can't make it in the afternoon tomorrow. You have to be like a morning appointment or what? I,
+Patient: I I'd have to be home by two
+Nurse: So you can't do anything after like 1 30 tomorrow. See, can't do any um appointments tomorrow after 1:30 p.m. Let me see. Is there anything mm available? Ok. I'll get back to you when she messages me but because I asked him if he would prescribe an antibiotic and he wants it checked out.
+Patient: All right, I hope this morning. Feel better this afternoon I've been mowing the lawn. I didn't hear your call.
+Nurse: Mhm. Um All right. Well let me get back to you. Um. Alright, I'll call, I'll talk to you soon.
+Patient: Ok, bye.

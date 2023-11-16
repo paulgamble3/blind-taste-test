@@ -1,0 +1,33 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Yes, [PHI-Personal]. And this is [PHI-Personal]. Yes. You tried to call me.
+Nurse: Um, I have let me get you pulled up here. Ok.
+Patient: Right.
+Nurse: Hm. Mm. Right. Looks like it was someone else to reach out but um, they were just doing their routine call for you. So,
+Patient: Um, maybe,
+Nurse: Yeah. Yeah, it looks like I had tried to call you earlier in the month. So just checking in seeing how everything uh was going. I know you had that urgent care vis visit back early in the month. So just
+Patient: Get one. Yeah, I think, uh, I think, uh basically, uh I'm over that. Um, I think the cough is kind of, uh, it's almost all gone. Whatever is, is left, it's kind of, you know, not bad. Uh I have been using the uh vaporizer for probably three weeks and I think that has, uh, has helped, uh, yeah, 11 thing that's kind of started, uh, I think it started this week and it's um, occasional sporadic. Um, it's really not bleeding from the nose but some, you know, some blood somehow just, uh, you know, kinda dry. Yeah. So, I'm just wondering, uh, uh, what might be? Yeah, I'm on blood thinners. Ok. For any treatment.
+Nurse: Um, it's been a little cool this week. Have you been using your heat? Oh, yes. Ok. I would lean to think that would be the cause of it, especially since you just recently, you know, kind of have this cough, sore throat, things going on. Right. Um, the vaporizer should definitely help with that. Uh, but when you, when you have more exposure to the heat, it kind of dries your passages out a little more. So they are, are prone to having a little bit of blood, nothing to be concerned about. Um, unless you start having actual nose bleeds. Um, and were you to have any trouble stopping a nose bleed then that would be a cause for concern?
+Patient: Ok. And that, that makes it really what you just said, makes, uh, makes a lot of sense because, you know, like at night when I sleep, I sleep with a vaporizer, you know, I turn it on at 10 o'clock at night and then turn it off at seven in the morning. So there's a lot of moisture in the, in the bedroom, but then during the day I turn it off and, uh, and there is heat, you know, in, in the house. So that, that makes sense and that's when it starts, you know, kind of during the day. It's not, uh, it's not bad. Ok. But it's just, uh, uh, annoying nuisance.
+Nurse: Understandable. Well, it looks like our weather is getting a little warmer. So, maybe you, oh, yeah, quite so much heat and it should, it shouldn't be an issue for you.
+Patient: Maybe, maybe I'll turn off the heat and just see what happens. Yeah. There you go. Ok. There you go. All right. Well, thanks for, uh, thanks for calling and, uh, we don't have any, I don't have any visits coming up. Do I with Doctor [PHI-Personal]?
+Nurse: Um, you don't see him again until [PHI-Personal] looks like you do have a hematology visit in
+Patient: [PHI-Personal]. Yeah. Uh huh.
+Nurse: And then cardiology on the [PHI-Personal], right? Uh, dermatology looks like coming up later in January, right? And then that's all I see until [PHI-Personal],
+Patient: That's all you see in [PHI-Personal]. Ok. So you see dermatology? I'm just wondering how that's, uh, showing up in the system.
+Nurse: Um, it, it is with the Watson Clinic, we can't pull information from them. Um, so as long as we have that record updated, um, we can see it.
+Patient: Ok. And what, uh, what about I'm curious, what about, uh, uh, you know, I've been seeing a, um, urologist, I guess. Right. Yeah. Uh, Doctor [PHI-Personal], uh, the, I think it's called the Bay Area urology. Are they, are they part of the Temple General now or not?
+Nurse: Um, let's see.
+Patient: Do you see any, do you see anything in there from a visit that I had uh, with him in [PHI-Personal].
+Nurse: Let me look, [PHI-Personal] 2nd.
+Patient: It could have been. Yeah.
+Nurse: Yeah, with Doctor [PHI-Personal]. Right. Right. Yeah, I can see that.
+Patient: You cannot see that. I, I
+Nurse: Can see it.
+Patient: Ok. So how does, how does that get into your system?
+Nurse: It looks like they're on the same system as we are as far as, um, what we use the, the epic system, um, that allows us to have easier access to it. We, we can still access from certain organizations um that do not use that system. Sometimes the information is very limited. Sometimes, um, the other organization will upload the document so we can see it. It's just really organization dependent. Ok.
+Patient: Ok. Yeah, I was just curious because, you know, with all the, uh, uh all the acquisitions and mergers uh going on, I was wondering if, uh, uh, you know, the group was swallowed up by general. I don't know
+Nurse: That probably happens frequently. They are a big organization. Um But yeah, we can't see their
+Patient: Visit, right? Ok. All right. Well, thanks for, uh, well, you didn't call me but somebody else did and they listed that number for me to call back and that's why I called back.
+Nurse: That's perfectly fine. Yeah, it looks like that's one of our nurses in training, um, is what it looks like. So sometimes they, you know, they just kind of have a little sample of, of groups to,
+Patient: To and I didn't pay attention to the name on the voice mail. I just, uh, I, I heard it and then I just press call without paying attention to the number to the name. Ok. Thank you. And [PHI-Personal].
+Nurse: Same to you, Alex. I'll talk to you. Bye bye bye.

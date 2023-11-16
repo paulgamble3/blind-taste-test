@@ -1,0 +1,5 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Yes, my name is [PHI-Personal]. I am returning a call from me.
+Nurse: Ok. All right, sir. Hold on just a moment and I will see if she's available for you. Ok. Ok. All right, sir. It looks like she is on the phone with another patient right at this time. Um I will let her know that you called. Is there a better time for her to reach you today?
+Patient: Uh Any time uh this afternoon will be fine.
+Nurse: Ok. All right, perfect. I will let her know. Alrighty. Thank you. You take care. Bye bye bye.

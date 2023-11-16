@@ -1,0 +1,36 @@
+Nurse: Good morning. Thank you for calling. This is [PHI-Personal] nurse care manager. How may I help you? Hi, [PHI-Personal].
+Patient: Hi, [PHI-Personal]. Hey, you had called and said about, uh, my depends. No, I didn't get them yet.
+Nurse: You haven't gotten them yet? Well,
+Patient: The reason is, is now I did see the truck go down when I was coming home because I'm away a lot. Uh, because I have to watch my twi, uh, you know, my help, my daughter with the twins and so, and so forth. Uh, and I've been having doctor's appointments. Ok. Um,
+Nurse: You should be getting them because they, when I called the office last week they said it was taken care of.
+Patient: I was about to say if I don't know, I mean, because Tuesdays. No, well, tomorrow I'll be going to for an eye doctor's appointment. And [PHI-Personal], what's it is? [PHI-Personal]? Second.
+Nurse: Oh, wait, no, I think [PHI-Personal] is the first.
+Patient: Ok. Well, the second I go, I have another doctor's appointment over at the, uh, over at, um,
+Nurse: So they won't leave him if you're not home.
+Patient: No, because the last time I had to sign for them. Oh,
+Nurse: Did you you probably wouldn't being, um, a Medicaid program where you're getting them.
+Patient: So, I, I, you know, I don't know. You know, let's see. I know, I don't think I'm doing anything on Friday now. I had to step out today to go, uh, pay a bill for my daughter. Mhm. Uh,
+Nurse: Do you have a phone number that you can call and ask? You know, I don't have, I
+Patient: Don't have, no, I don't have a phone number for
+Nurse: Them. Yeah. All I have is that fax number? I don't have a phone number either. I can look back through some documentation and see if there's anything else in there. But um, all I have is that fax number? Ok,
+Patient: Because you know. Yeah. And do you have access, do you know when my doctor's appointment is with?
+Nurse: Yeah, hold on just a second.
+Patient: That should be coming
+Nurse: Up. Let me bring your chart up. Hold on a minute
+Patient: Because I had that blood test done
+Nurse: Just a second.
+Patient: But usually I get a phone call and I haven't gotten anything or even, or even a text and I haven't gotten anything and I'm thinking, well, I should have been having my appointment by now. I
+Nurse: Thought. Ok, hold on taking a second to get it all up here. [PHI-Account] at 2 30
+Patient: On, on the [PHI-Personal]. Ok, next time. All right. So. Ok. All right. So is that what that, what, that's not a Tuesday? Is it
+Nurse: I don't know what date that is. Oh,
+Patient: I'll look it up if it, is it
+Nurse: Friday. So the 3rd and 4th is starting Sunday fifth. No. Sounds like it might be about a Wednesday.
+Patient: Ok. All right. Yeah, because I told him no, we, no, Tuesdays or Thursdays.
+Nurse: Ok. I'll see if I can get a phone number for that place. I don't know what else to do. Um,
+Patient: Yeah, because this week I'm still be going you know because now today like I said I'll be stepping out to go make that you know that bill you know pay that bill for my daughter if I
+Nurse: Can get a phone number I'm gonna let you call because you know what your schedule is so you can coordinate with them to deliver. Ok?
+Patient: Yeah just you know you could just text me or call me and let let let the number if I don't answer. Ok.
+Nurse: Alright I'll do that I'll see what I can find out.
+Patient: Ok thank you very much uh
+Nurse: Huh bye
+Patient: Bye bye bye.

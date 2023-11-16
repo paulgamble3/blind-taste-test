@@ -1,0 +1,16 @@
+Nurse: Good evening. This is [PHI-Personal]. How can I help you?
+Patient: Hi, it's [PHI-Personal]. I just wanted to let you know I called CV S and his prescriptions ready.
+Nurse: Yay. Excellent. I am glad to hear that. Great.
+Patient: Ok, I just want to call you back. I didn't, didn't want to leave your hanging.
+Nurse: Excellent. And I was still in your record. I was just literally reading the words can increase Tylenol to 325 mg four times a day. How much Tylenol are you taking?
+Patient: Uh, usually just two in the afternoon and two at night.
+Nurse: Ok. So if this was when you were in the office on [PHI-Personal], doctor did let you know you can increase that Tylenol 325 mg to four times a day. And uh this was talking about orthopedics for your knee pain, follow up as needed. Ok, I was just ironic. I was literally reading those words about to close out your record as the phone rang and I heard your voice.
+Patient: See, see must have been a reason why there
+Nurse: We go. Great. So [PHI-Personal] is going to get the 100 from the pharmacy when you're able to pick it up. Um Are you gonna continue the 200? So you're not wasting or you just gonna go right into the 100? I think
+Patient: He's gonna go ahead and finish that out and then just go ahead and start with the 100
+Nurse: Then. Great. Excellent. I love the plan. You know, my name and number. If anything comes up,
+Patient: We already, I have it programmed into my phone, so I always have you there hon.
+Nurse: Excellent. Thank you and your fast work on that phone. Thank you for the good news update.
+Patient: You're welcome dear again. Have a good evening.
+Nurse: You too. Bye, [PHI-Personal].
+Patient: Bye bye, honey. Bye.

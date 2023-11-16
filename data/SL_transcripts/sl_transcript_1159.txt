@@ -1,0 +1,66 @@
+Nurse: Chronic care management. May I help you?
+Patient: Uh, yes. Uh, is [PHI-Personal], this is [PHI-Personal]. Uh, [PHI-Personal], this is, um, gay isn't available.
+Nurse: She is not actually I'm covering for. Can I help you with something?
+Patient: Well, ok. Uh, yes. Uh, ok. I'm trying to get in touch with uh, Doctor [PHI-Personal]. Uh, the office is busy.
+Nurse: Mhm. It's probably gonna be very busy today,
+Patient: I'm sure. Ok. Ok. Uh, I saw a Doctor [PHI-Personal] last Thursday. Uh, it, my issue is concerning my BP. Ok. They took Ortho stats last Thursday and they were very low. Uh, uh, like 100 and eight over. I see, I do see
+Nurse: Them here. You
+Patient: See them there? Ok, good. All right. On Friday, I was out at es department store and the ambulance brought me into [PHI-Geographic]. They were still, the blood blood pressure was low. Um, while I was in the emergency room. Uh, let's see. Is that here?
+Nurse: Let me see. So you, you did end up in the hospital, um, Friday on Friday. I don't even see that thing here. Um, ok. Patient date. So that was the first of
+Patient: [PHI-Personal].
+Nurse: So [PHI-Personal]. Ok, [PHI-Personal], I don't even think she knows this [PHI-Personal] 1st. She so yeah, they called the ambulance. Yes,
+Patient: They did was called
+Nurse: And she went to the er, um, ok. Did they discharge you or did you stay in the hospital
+Patient: Weekend? No, I uh was discharged from the er, ok. And at the hospital they gave me Lisinopril 40. Ok. And amLODIPine five mg. Ok. Lis Lisinopril
+Nurse: 40 mg daily. Right? Is it daily? Ok. And Li Li ok, Lodipine, I say it wrong.
+Patient: That's ok. Uh,
+Nurse: Five mg daily. Right. Right. Ok.
+Patient: No, Doctor [PHI-Personal] told me not to take any at all. On Thursday they put me back on them on Friday to doctor the point told
+Nurse: Her not to take any, any BP medications. Right. Right. Medications on Thursday and on Friday. Uh, now when the ambulance was called on Friday, was your BP high?
+Patient: No, it was not, it was low. It was very low but ok, I'm so
+Nurse: Confused why they would put you back on them. Um, ok. Now, did you take them all weekend?
+Patient: Yes.
+Nurse: How's your BP today?
+Patient: Uh, it has been uh around, I have a, a talking BP cuff here at home and it's been around 1 45 over um, [PHI-Personal] all weekend. I take that once a day.
+Nurse: Ok. 1 45 over nineties. Yeah, all weekend. So you've been taking the BP medicine. Um,
+Patient: Yes. And doctor Doctor [PHI-Personal] told me if it went over 1 40/90 to call her. Ok,
+Nurse: On occasions. Um, Doctor LA [PHI-Personal], I just wanna make her aware. Yup.
+Patient: Um, told
+Nurse: Her to call the office if her BP went
+Patient: Over
+Nurse: 1 40/90. Ok. Just so I get this all straight. I'm gonna read this note to you. Ok. Um, so you see doctor's appointment at 6 30 like, I mean the [PHI-Personal] of [PHI-Personal] for low BP. Right. Right. Ok. Um ok, so doctor [PHI-Personal] told you not to take any of your BP medication, right? Ok. Friday, you ended up in the, er, right. Um, you ended up in the, er, now did you have symptoms on Friday?
+Patient: Yes. Ok. Light, [PHI-Personal] dizzy reports.
+Nurse: Ok. I just wanna make her aware of everything. Um. Oh well, [PHI-Personal] and dizzy. Ok. So you're [PHI-Personal] and dizzy. So you called the ambulance? Um um, and your BP was low, was running low. Um, they, and she went to the, you went to the er, um, did they do anything at the er, like
+Patient: What they do? Uh they put me on, they
+Nurse: Put you on the, the Lisinopril
+Patient: And the amLODIPine? Ok. Patient take your time. Ok. And they uh put me on the BP monitor where they were taking the BP like every five minutes or so. Ok. And uh they took a ct scan of my head.
+Nurse: Did you fall or anything?
+Patient: No, I did not. But they took it anyways. They took, uh, a chest x-ray, chest x-ray. Ok. And an eeg and they drew some blood. I asked them to do an A [PHI-Account] I don't think they did, but I asked them because Doctor [PHI-Personal] had asked me, she said I'd like an A [PHI-Account], but I'm not going to do that today. That was Thursday. So when they drew some blood on Friday, I said, can you do an A [PHI-Account]? And I never heard back whether they did or not.
+Nurse: Ok. So I'm just gonna put patient was asking to get an A [PHI-Account] check but doesn't know if it got done. So let me tell them, put her in it.
+Patient: Hm. Yeah. Ask for uh A [PHI-Account]
+Nurse: To be
+Patient: Drawn but does not know if this it done.
+Nurse: Ok. Um ok. So in the hospital you were instructed to take 40 mg of 40 mg of Lisinopril daily and amLODIPine five mg daily,
+Patient: Right? And I am not taking it today.
+Nurse: You didn't take it today? When do you usually take it?
+Patient: Uh probably around 11 o'clock?
+Nurse: Ok. Um So, but your blood pressures have been over, been running 1 45 over nineties all weekend you said? Right? So they haven't been running low then? Ok. And how is your symptoms?
+Patient: Um I have not been uh I, I haven't been on my feet walking around that much. I've just been, well, sleeping. Not a lot of energy.
+Nurse: Not much. Ok. Poor. It's not a lot of energy and you've been tired all weekend. Yep.
+Patient: Ok. Um,
+Nurse: Ok. Um, so, ok, and you've been taking your pressure meds though, you said? Um, ok, I told them that too. Ok. Well, let me send this to sue. Um, and see, I mean, do you want, she's probably gonna wanna see you, I'm assuming because of the hospital visit, um too but I wanna tell her that uh they put you back on the BP medications too and I just wanna make sure you haven't had a lot of energy you've been tired all weekend um and I'll let her know that you were instructed by the hospital to take the BP medications too. Ok. Yep um and I will see what she has to say. Ok um any other changes um on there?
+Patient: No no no.
+Nurse: Ok but you haven't been dizzy or [PHI-Personal]?
+Patient: No no I have not all
+Nurse: Light headed or dizzy this weekend since the hospital right? Um. Ok. All right well let me get the message out to you um and um I'll talk to you soon. Alright thanks. Alright
+Patient: We appreciate it very much
+Nurse: Any time any time and I mean when [PHI-Personal] is back in the office I'll also update her but I wanna let her know what the office I am I'm gonna see what further direction the doctor will point wanna see you um, what, you know, and I just wanna make sure where you're just continue to be tired and everything. But I said, you know, if ever any distress, I always say, you know, go to the emergency room or something. Ok. And did you update your home health
+Patient: [PHI-Personal]? Uh, do you have home health? I have an eight. I don't have, oh,
+Nurse: So you don't have a, um, you don't
+Patient: Have public health coming in any longer don't? Oh ok. Ok
+Nurse: So when? Ok so you just have an aide you don't have a no um a [PHI-Personal]? Ok I wasn't sure sure on that um either. Ok.
+Patient: Ok.
+Nurse: All right dear because if you did I was gonna tell them to just you know make sure you update them um.
+Patient: Ok. Ok well thank you very much I appreciate it.
+Nurse: Alright you're welcome I'll talk with you soon. Ok.
+Patient: Yeah. Alright. Alright bye dear bye bye bye.

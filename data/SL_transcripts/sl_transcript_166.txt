@@ -1,0 +1,4 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. I have to have it
+Nurse: [PHI-Personal] ok. Ok.
+Patient: Ah, oh, three oil thing. Bye bye. Bye bye.

@@ -1,0 +1,27 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes, someone called me from this number yesterday and told me to call them back. Ok, can
+Nurse: I have your name
+Patient: Please? My name is [PHI-Personal], [PHI-Personal]
+Nurse: A [PHI-Personal]. Ok. So yes, it looks like I called you. My name is [PHI-Personal] and I called on behalf of doctor [PHI-Personal]. And so I'm on a recorded line to talk to you about our new care management program. So what that is, is a [PHI-Personal] that would be able to give you a call to see how you're doing. The [PHI-Personal] is able to answer any questions, help refill prescriptions, she'll address any issues you might be having and also help with appointments, referrals and lab work, things like that. The program helps keep the doctors updated and all the calls the [PHI-Personal] makes, they are documented and sent to the doctor for review and they're also treated as a billable service to [PHI-Personal]. [PHI-Personal] Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or Copays and [PHI-Personal] I have here. You have [PHI-Personal] and [PHI-Personal]. Is that still correct? That's
+Patient: Correct.
+Nurse: Ok, good. And essentially they're a once a month call from the [PHI-Personal], but you're able to call her directly as many times as you might need to. Would you,
+Patient: If, if I have a problem with something? Yeah. Ok.
+Nurse: Yes. And, um, would you prefer a morning or afternoon phone call?
+Patient: Uh, I would put, now, how often would this be?
+Nurse: So the [PHI-Personal] will call around once a month
+Patient: And she's checking, uh, to see if I have a problem or
+Nurse: Any, yep, any issues problems or if you need help with anything, things like that, it helps update your doctor.
+Patient: Ok. Um, now how is this, uh, [PHI-Personal] being paid, um, through a grant or, or what?
+Nurse: Uh, I'm not sure that information how she gets paid. I'm not sure.
+Patient: Now, would this be doctor [PHI-Personal] calling me? Yeah.
+Nurse: Yeah. Uh, and then all her calls that she makes, she reports back to the doctor. Ok.
+Patient: But right now I'm doing pretty good and, uh, I'm able to do my own work and grocery shopping and, oh, yes.
+Nurse: So, yeah, you still do everything you normally do. This is giving you a [PHI-Personal] you could reach out to if anything comes up. Ok.
+Patient: Oh, so right now I don't think so. I'm not interested in this but maybe when I do come in and see her for my yearly physical I'll talk with her and, you know, if I need someone to call and check on me.
+Nurse: Ok. Do you mind if I send out a letter with some information and a phone number.
+Patient: Well, that would be good. Ok, I have my address and everything right?
+Nurse: Uh Yeah I have here. You're at 95 Clark Lane, apartment 214 in Waterford. That's
+Patient: Correct.
+Nurse: Alrighty. Ok. Well, I'll send out a letter. Thank you for your time today
+Patient: And thanks for
+Nurse: Calling. You're welcome. Bye bye.

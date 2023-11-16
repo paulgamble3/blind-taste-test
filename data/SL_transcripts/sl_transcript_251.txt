@@ -1,0 +1,10 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Hi. Is [PHI-Personal] Available.
+Nurse: She is not, she, she'll be in Monday.
+Patient: Ok. Um, this is [PHI-Personal]. Um, I was just wondering if, um, the doctor read my blood report and if he had any suggestions for it,
+Nurse: I do not see anything about that yet. You usually? Yeah. No, not, not yet. I haven't looked at it yet. Um, the office will call you though directly when they do look at. Ok. Ok.
+Patient: Ok, because it came back on Wednesday and I don't understand why they didn't read it yet.
+Nurse: Yeah. No, I mean, they have that they received the lab results and everything. Um, but nothing, you know, no recommendations or anything as, as of right now.
+Patient: Ok. All right. Thank you so much. Oh, you're
+Nurse: Welcome. You have a good day. You
+Patient: Too. Bye bye.

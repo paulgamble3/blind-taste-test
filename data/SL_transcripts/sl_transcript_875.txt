@@ -1,0 +1,33 @@
+Nurse: Hello. How are you?
+Patient: Good. How you doing? Good. Is everything? Ok. Well, yeah, they, I ended up getting the pills for the replacement of my Trulicity. Got them Monday.
+Nurse: I thought that you picked up the Trulicity.
+Patient: No, my insurance didn't cover it. So you told me to go over there and get the ones from Rite Aid and stay on them. Seeing that they already ordered me a 90 day supply. Wait, wait,
+Nurse: Wait, wait, wait, you were on Trulicity before. So why all of a sudden is your insurance not covering it?
+Patient: Was that Wegman or Walgreens? And I don't know they didn't have the authorization for my Medicare or something like I don't know. So, uh, yeah, the doctor's office called the next day and they said, well, Chad said just uh seeing that they already got your 90 day supply of the pill. Why don't we just try you on that for a while and see how that goes? But my sugar is going down. I'm below 200.
+Nurse: Ok. Good. And, and is this the [PHI-Personal]? Yeah. Ok. So someone eventually had it.
+Patient: Yes, ma'am. Rite Aid. Matter of fact, uh Rite Aid is so messed up because the big Rite Aid on [PHI-Geographic] closed down the big one and the one on [PHI-Geographic] is just a little one. So, they're taking the whole side, um, north side of town com business too. So, we only got one Rite Aid here besides the one in [PHI-Geographic]. So, well, you figured the people that have come all the way from across town now to get their medication?
+Nurse: Oh, my gosh. So, did they have it the whole time and just didn't know it, or they had just gotten in a new shipment?
+Patient: No, they just got a shipment in. Ok. But no Trulicity. So that's why they, uh, he had the nurse call me from over here at [PHI-Geographic] and tell me just, uh, see they got the 90 day supply and now just go get that and see how you're doing on that. I mean, it makes me, I've been sick in my stomach for the last, but my sugar is going down. So I feel sick.
+Nurse: So, [PHI-Personal] is making you feel sick
+Patient: Two days now. I just, well, maybe I gotta get used to it because I'm used to the one shot a week.
+Nurse: Yeah. The, um, it's common to upset your stomach unfortunately. And, uh, I believe you're supposed to take it on an empty stomach. Right.
+Patient: Yeah. Only four ounces of water. And that's it for at least a half hour.
+Nurse: Yeah. So, um, but I did have a patient who said after about a week straight, she got used to it. Uh, and she's feeling much better. So, um, hopefully, you know, if you can tolerate it for a few more days, hopefully it'll, it'll, you'll start to get used to it if not. And it's too much. Just give me a heads up and I'll let the doctor know and, uh, you know, if you can't take it, you
+Patient: Can't take it I think the nurse said something about you thank you.
+Nurse: Say that again you broke up a little bit.
+Patient: Um the nurse said maybe it might be better if I take it before bed.
+Nurse: Oh you could try that as long as that you're you know it's been a few hours since he ate.
+Patient: Yeah well yeah I never eat before I go to bed anyway.
+Nurse: Yeah try that then and see
+Patient: See how I I feel like crap all it's like really one feeling after another I wanna get outside. Did
+Nurse: You ever get results for the other test?
+Patient: No ma'am I'm still I I figure it should been here this week they said take like 2 to 4 weeks or something like that. Ok. Alright to get all the results because they sent it away so while we got the sugar co coming back down there's there's one thing
+Nurse: One thing cross it off the list.
+Patient: Yeah the list the list. Yeah no next thing is maybe payment wait for s office to clear me on my pain. Yeah. Yeah, I'm going to give them a call now after I'm done with you to say, hey, did you send my script in or what? You know, it's been what, four or five days now? Yeah. But I called Rite Aid and they say, well, let, let us know when you do because we're in a limited supply of them too. So, oh boy, here we go.
+Nurse: So it's gonna be an adventure all summer it sounds like.
+Patient: Yeah, for me anyways. Well, honey I just wanted to give you a heads up and
+Nurse: Yeah, thanks for updating me. I'm glad at least you got something and the sugars coming down, try it at night time and if it works for you great. If not, you know, just let me know we'll
+Patient: Go from there. Yeah I just figure I'd give it a couple of days work test my blood and see how I feel. Yeah, blood is going down when I'm feeling like crap
+Nurse: Pros and cons pros and cons, you know.
+Patient: Yeah, I deal with I deal with this though. At least I don't feel like I'm falling out
+Nurse: Good. All right, good. So that went away. That feeling. Yes, honey. Awesome. Alright. Well, keep me updated, I'll be in touch. Ok, thank you. Alright bye bye.

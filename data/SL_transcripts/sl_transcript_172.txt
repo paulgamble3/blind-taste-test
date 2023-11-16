@@ -1,0 +1,78 @@
+Nurse: Hi, [PHI-Personal]. How you doing? Ok. How are you? I'm good. I'm good. Are you guys home or traveling?
+Patient: We're not traveling yet. Next, uh, we're traveling. When are we leaving the 15th [PHI-Personal]? We're leaving to go down to my daughter in [PHI-Geographic].
+Nurse: Oh, nice. That'll be nice.
+Patient: Yeah, we're gonna be there for the winter.
+Nurse: Yeah. Sounds good.
+Patient: Yeah. Yeah. So far so good that I had injected my back a couple of weeks ago. So it works. Yeah. So, I think it works. I'm really glad I did.
+Nurse: Right. So, what did you have done? I saw that you had something. Was it? Yeah,
+Patient: I had an injection but I asked them to, I didn't want to be awake when they did it. Ok. So, but, so I had to do it at the hospital. So I did it at what hospital was? I month or two? I think it was in the Bronx. We were. So I said
+Nurse: Something about [PHI-Geographic]. So that's good. I'm glad it's working.
+Patient: Oh, yeah, I think I can stand longer. I can walk longer. [PHI-Account]. Right.
+Nurse: That's very good. I had an epidural. It was it that
+Patient: Yeah, I guess that's what it is. Yeah, I think. Ok.
+Nurse: Yeah. So far mine's feeling a little better too. I feel like I noticed a little something on the left suddenly now that it's been a couple weeks, I feel like it's changed a little bit. But, I mean, much, I, I didn't notice it near as bad as I usually do when cooking, like, a holiday meal. That's when I usually cooking seems to be the
+Patient: Worst. I don't have to sit down that like I was doing, you know. Right. So it's so I worked, I'm glad it worked.
+Nurse: Yeah. Good, good, good, good.
+Patient: I have to go back but I'm gonna call and see if I can do the visit on the phone and say you're going back to the Bronx to see him. I should calling you want to check and see to make sure that everything is alright.
+Nurse: Ok. Right.
+Patient: Right. But I can find out if I can just call and you know, do it like that instead of going back. So we'll see.
+Nurse: Yeah, that would be nice to not have to go in and go into the city for, for recheck in the middle of winter. Um and everything
+Patient: Seems to be going good.
+Nurse: Oh, good. Ok, I saw, let me see. What did you have? Did you have an appointment? What did I write down here?
+Patient: I think I have an appointment with Doctor [PHI-Personal] before I go away. I think it
+Nurse: Looks like it's the [PHI-Personal]. So, what was the [PHI-Personal]? [PHI-Personal]? Oh, I know. So [PHI-Personal], I knew I wrote down something was when you were having trouble with your blood sugar. Was that because of the shot, do you think? Yeah. Is it elevated for like, a couple
+Patient: Days? Oh. Yeah, it was very high. But II, I took it, I think it was yesterday. I've been taking it, like, every other day so it's been fine the other day. I had 90 something really good. Yeah. Yeah.
+Nurse: Ok. That's better. I, I, when I read that I thought, oh jeez, it's probably because of your injection.
+Patient: Yeah, I took my, well, I, I waited a whole week until after the injection, then I went to take it and it was like sky high. I forget what it was 100 and 80 something. It said I'm like what? Or it was 100 and 60 something. What I called Doctor [PHI-Personal] office and they saw me that day and see what's her name? Took my sugar when I was there and it was like something I'm like, huh? Well, so we thought doctor thinks it's the meter so they gave me, I got a new meter.
+Nurse: Ok. All right, that's good. Well, who knows, who knows whether it was, you know, was it the injection with the Cortisone or, you know, sometimes the steroid
+Patient: Over a week not to take my night, it was gonna be high but so I don't know we think maybe it was the meter so they gave me. Yeah, so I got a new it, I've been taking it and it was like 1 12 and [PHI-Account] which is perfect.
+Nurse: Yeah. Yeah, very fine. That's much better.
+Patient: So I think that would. Oh yeah, in fact I'm gonna take I've been taking it like every other day so tomorrow I'm gonna take it again. Yeah, tomorrow so it's been good. So that got me a little nervous to say that. Yeah, I
+Nurse: Don't blame you. That would have me concerned too. So you see him the [PHI-Personal]
+Patient: And yeah, before we go away I see him before you go
+Nurse: Away and then let me get on [PHI-Personal] chart here. He's and he had the knees, the knees all taken care of before he goes to [PHI-Geographic]. Got his and now a tune up
+Patient: You gotta redo his A one C before we go away. He was high.
+Nurse: Oh gosh. Ok so let me see he has an appointment with [PHI-Personal] or [PHI-Personal] Doctor [PHI-Personal] sorry, I always think it's both [PHI-Personal]. Um the third, right? Yeah. Ok. And the result for the
+Patient: A one C because he can until after the [PHI-Personal] because of my insurance.
+Nurse: Yeah, that's
+Patient: Fine. Yeah, he can't take it until after that. He'll do it,
+Nurse: He'll get it done. I'm sure that's fine. What was it last time?
+Patient: [PHI-Account]?
+Nurse: Yours was eight. Yeah. Ok. I'm seeing it. Yeah, it was, it was 8.1. Yeah, that's a little high. I mean, that kind of gives you, that's showing that you would have an average of about 1 83 or one eighties when it's eight when it's eight. So that's why, you know, when you do you check a blood sugar normally
+Patient: He does it. No, but I'm gonna use my wife's uh, I'm gonna maybe I'll use a new meter,
+Nurse: I don't think. Ok, right now they don't have you doing it? Yeah. And it might, sometimes they'll have you do that just to, kinda, I mean, to, to give an average of 1 80 like, here's the thing, I have patients that don't check their blood sugar and then they'll say, well, you know, my A one C is high but when I checked it, it was, you know, 98 or something. But it just, uh, sometimes they'll have you check it just to kind of see where the, where the fluctuations are, you know, and, and kind of give a better idea.
+Patient: Yeah. Usually I'm anything from like [PHI-Account] and under,
+Nurse: Usually. Yeah, you're in pretty good darn control. I have a lot of patients that are not but yours is. Well,
+Patient: I take my medication and
+Nurse: You're a good girl. [PHI-Personal].
+Patient: I take my meds and I really try not to eat a lot of stuff that I'm not supposed to.
+Nurse: Right. Right. You have to live a little, especially over the holidays. You have to, you know, um, that's my conversation. Don't, you know, think that you can't have anything but try to plan around it.
+Patient: I, I watch, I try, I eat whole wheat bread or, you know, the whole grain. I try, I, I do all that stuff and I try really because I don't wanna have a problem. I know the last time. So I should be ok. That good.
+Nurse: That's good. So hopefully it will improve.
+Patient: We even. Oh, is it ringing?
+Nurse: So let's see. So if I, if I wanna talk to you call, let me see. I have, let me see. [PHI-Personal]. Is this your cell number? It's the [PHI-Account]. Is the cell, right? Yeah.
+Patient: Ok. Cell. No problem. Yeah,
+Nurse: I have, well, I'll wait until like the end [PHI-Personal] but call before that if you need anything or you guys, either of you come home from the appointment and think. Oh, shoot, forgot to tell him this or you know, whatever. Um, and
+Patient: I'll make sure I have all my medication before I leave and everything.
+Nurse: Yes. You're driving down, right? Yeah, we, yeah. Ok. So just make sure you have your phone numbers and medication information and all that good stuff with you. Yeah, that's good. I'm jealous. I'm hoping to get down over the winter at some point here. My daughter just scheduled her flights, her and her boyfriend go down over their spring break. From college. So she came in the office today and said to me, I'm going to [PHI-Geographic]. I said it'll be quiet. I'm going to, but I just haven't decided when it,
+Patient: Oh, we were invited back again. Good. Of course, I, here and in the cold and II, I really, it makes me nervous with the ice and everything. I
+Nurse: Know. Right. I talked to somebody, they call, they called me, I wasn't working yesterday but they called and left a message and I called her this morning because she said she fell and I thought, oh, shoot, here we go. And she hit her head and hurt her leg and, oh my gosh. Right. So to the season, you gotta be careful. Yeah, I
+Patient: Get used to it. Season shovels, we have a path to the car where we go and you know what I do? I have that the cane that I used to use before I got the walker and whatever I do now because of the, because it's all between the ice and the snow there. And even though he shoveled the pack, I take that cane in the car there with me. I, I
+Nurse: Used to, I, that's a good idea. It gives a, it just gives you a little, you know, a little more stability for sure.
+Patient: Exactly. I, I feel more confident with walking out in this weather. You know, when I out from the house, even though he shoveled the pad it, it's cold. I see there. So that's, I feel better, more in control when I'm doing that.
+Nurse: Yeah, I fell last year and it was, there was like a little layer of snow and here it was over top of ice that I didn't know was there. And that's what happens. You don't even realize, I thought, oh, it's just a little snow. But boom, whoops. It's a little snow and ice
+Patient: To get out of here.
+Nurse: I know. I don't blame you. I, I'm looking forward to it too. I'm, I'm hoping to stay down there for a while but I gotta wait a little bit to figure out when.
+Patient: Yeah, I'm just, you know, waiting until I get done with the oncologist and the, and the, uh, the other one I had the radiologist. I have to go there to get checked. Plus I got all those appointments before I
+Nurse: Took them all.
+Patient: Yeah, I try to get them earlier but they couldn't, everybody, you know, it's around holiday when everybody wants to go away or
+Nurse: Whatever. Yes, I know. I do have a lot of patients that are already in [PHI-Geographic] but actually, I mean, it's cold down there right now, so hopefully it'll warm up before you get there.
+Patient: And as long as it's not ice and snow gotta
+Nurse: Be better than this. That's what I say.
+Patient: That's it. That's,
+Nurse: That's good. Oh, well, call, if you need anything, have a safe trip. If I don't talk to you and I'll catch you once you're down there so you can tell me how warm it is.
+Patient: No, I won't do that. I won't do that to you.
+Nurse: No, I like that. I like that because, because then I go tell my husband and he's like, oh jeez.
+Patient: Oh, all right. Thank you so much.
+Nurse: Take care. You too. Talk to you soon. [PHI-Personal] New [PHI-Personal]. Thanks. Bye
+Patient: Bye bye bye.

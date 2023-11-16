@@ -1,0 +1,29 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yeah, this is [PHI-Personal]. Hi,
+Nurse: How are you?
+Patient: I'm alright.
+Nurse: Good. Give me one second just to pull up your chart. Ok. Ok. All right, [PHI-Personal], you're a patient with [PHI-Personal] at Med [PHI-Geographic]. Health. Correct. Correct. All right. So let me just tell you real quick that this call is gonna be recorded for training purposes. Ok. Ok. All right. So I was calling in regards to a new program that [PHI-Personal] and the doctors are offering their patients, that program is called care management. And with that you would receive a phone call from a nurse that works hand in hand with [PHI-Personal]. That nurse would reach out to you in between your appointments, she would check in but also be able to assist with refills, lab results appointments and anything else pertaining to your health. Your nurse would be an added resource for you as you would be able to call her directly with any acute medical questions or concerns and your nurse will always keep [PHI-Personal] updated with your current conditions and any changes you may be having. Ok. So I do need to let you know that the care management program is a available service to Medicare, Medicare Advantage and secondary insurance carriers and those calls are subject to deductibles copays and coinsurance. Now, you have Humana gold choice Medicare and a $15 copay. Is that correct? Correct? Ok. So there would be a chance you would be responsible for that $15 copay. However, you would choose how frequently that nurse calls you, you could choose to get those calls monthly or every three or every six months. Do you think that
+Patient: You could go ahead? Do? What man,
+Nurse: I said you would be able to choose how frequently you get those calls?
+Patient: Oh, ok.
+Nurse: So do you think that you would prefer a morning or an afternoon call from your nurse?
+Patient: What do you mean one in the afternoon?
+Nurse: Would you, what time of day would you like for her to call you? Oh, [PHI-Personal], uh, her nurse, her nurse would call you? Oh, [PHI-Personal] nurse.
+Patient: Oh, [PHI-Personal]. [PHI-Personal]
+Nurse: [PHI-Personal] nurse. Yes.
+Patient: Oh, ok. In the morning times?
+Nurse: Ok. You like more early morning?
+Patient: Yeah. Like when I have, when I have blood work done, like, is that what you're talking about? Nn
+Nurse: No, this would just be a phone call from a nurse in between your appointments with [PHI-Personal]?
+Patient: Ok. Ok, about nine o'clock.
+Nurse: Ok. No problem. Is this the best phone number for her to call you at?
+Patient: Yes, ma'am. All
+Nurse: Right. And then your address? I have 1120, Washington school. Road in [PHI-Geographic].
+Patient: Yes, ma'am.
+Nurse: Ok. So I'm gonna mail you some welcome information. Your nurse's phone number is gonna be on that letter if you need anything and she'll call, she'll call you in the next couple of weeks for your introductory call. Ok.
+Patient: Ok. Who is this from, uh, from the, the Med [PHI-Geographic] Health or who is it from?
+Nurse: It's from med [PHI-Geographic] Health. Ok.
+Patient: Ok. Ok. All
+Nurse: Right, [PHI-Personal]. Well, thank you for calling me back. I hope you have a really good rest of your day.
+Patient: Ok. Thank you. You have a good day too, ma'am.
+Nurse: Thank you. Bye now. Bye.

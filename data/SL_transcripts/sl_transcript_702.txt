@@ -1,0 +1,33 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is we spoke yesterday. Yes. Hi, how are you? Ok. Um, I'm calling you because I'm sitting outside of a doctor's office right now for an appointment I had this morning. Ok. Uh, they wanted me to see doctor s office, referred me to a doctor A S at [PHI-Geographic]. Ok. I went for the visit. He was the wrong doctor to go see. Ok, so doctor [PHI-Personal] is referring me to a gentleman by the name of [PHI-Personal] and I'm gonna spell it for you. Ok. [PHI-Personal] at [PHI-Geographic] in [PHI-Geographic]. Ok. They suggested that I call the doctor's office and let doctor know of the dilemma that it occurred this morning. Ok. I'm wondering if you can relay that message to the office for me.
+Nurse: I can. What kind of doctor was that for the vascular doctor we talked
+Patient: About? Yes, it was. I, I walked in and they had me start changing. They were gonna do uh do an ultrasound of my legs. I said, why are you doing my legs? I'm here for my arm. Oh,
+Nurse: Jeez. So they sent the referral to um, Doctor [PHI-Personal].
+Patient: Yes, I did. Ok. So, now doctor is sending a referral to this gentleman. I just gave you the spelling of his name on and they want, they want doctor to do the same.
+Nurse: So they want that sent to Doctor Gis. Yes. Ok. All right. I will let him know that. I am so sorry. I don't know how, how they, I don't know how that got misconstrued. Well, this
+Patient: Has been a dilemma since I had the ultrasound. Ok, after I had the ultrasound, there was a gentleman who, because it was early evening who read the, read the CT Scan. Ok, when I had the CT Scan for my chest. So that's when I discovered this, this aneurysm. Ok. So the, at first they were, they had, they were gonna schedule me all the way up there on Williamsport. I see. They said, no, I'm not driving an hour and a half for a consultation.
+Nurse: Yeah. Oh, my.
+Patient: So they changed it and then it came up doctor who now turns out to be the wrong guy to see. So we wanna just get this referral taken care of. That doctor is sending me to through doctor as well.
+Nurse: Ok. So they, it looks like they found that, um, are they doing an MRI of your liver?
+Patient: Uh, they've never done one that I'm aware of. Ok.
+Nurse: I do see, uh, they're worrying about the aneurysm before that it looks like
+Patient: But no one ever said anything about an MRI from my live.
+Nurse: Yeah, the CT Scan, um, who did, who ordered this? It was doctor, it was Doctor [PHI-Personal]. Ok. So it looks like it says no acute process in the chest. There is an aneurysm. Um, there is a segment of the liver that looks like there's a little hypodensity which means there's a little, um, spot that they're not sure they recommended doing an MRI um for further evaluation.
+Patient: Ok, visit. He didn't recommend that he didn't say anything to me.
+Nurse: Ok. And maybe it's because they're just keeping an eye on it with. Um, what kind of ultrasound are you ordered?
+Patient: I, I don't know if I'm ordered an ultrasound. Uh quite honest with [PHI-Personal] at this point, they were going to do one on my legs here today until the confusion started. Ok. Ok. Yeah, no one told me that I was going to get an ultrasound. I was under the understanding, understanding that all I was here for today was a con uh consultant uh to be consulted.
+Nurse: Yeah, I'm just looking at your office visit to see what I can find here. I apologize. I didn't uh you're new to me. So I'm still learning what's going on here. Um,
+Patient: Ok.
+Nurse: I don't see, I, I just, I'm shocked at how that got misconstrued. Um Well, I will send the message back to him and see what he says. Um
+Patient: And I do know that the referral is going from doctor office over to this gentleman now, you know
+Nurse: Today. Yeah, so they're making the referral but they want doctor [PHI-Personal] to do the same, so it's definitely covered. Ok. All right. I'll send him a direct message and let him know that. Alright. Alright, I apologize. I I really truly don't know how that that was misconstrued and maybe he thought that was the correct place to send you. Um, vascular is tricky, unfortunately. Um because you can have clots in your legs, you can have clots, you know, everywhere and sometimes it just depends on what's going on where they
+Patient: Send you. I think the way he said it to me, he used to do a hell of a lot more than he does. Now. Now he's limiting himself to just leg. That's,
+Nurse: And that's, yeah, and I, and I think, and I think unfortunately you had to go down and um deal with that, but I'm glad that we know that now because I think we always did send people to doctor [PHI-Personal] for any type of vascular issues. So um I will let him know that and then um we'll go from there. Ok. And I would
+Patient: Like to have someone get back to me because they told me I should call doctor whatever his name's office to set up the appointment unless doctor wants to have them contact me. So
+Nurse: What do you prefer?
+Patient: I'd rather have doctor, whatever his name is so I can schedule the appointment. Let them call me.
+Nurse: Ok. That sounds good. I will gladly tell him to um ask him to do that. Ok?
+Patient: Great. Thank you very much.
+Nurse: Oh, you're welcome. Take care.
+Patient: Alright [PHI-Personal]. Thank you again. Oh,
+Nurse: You're welcome. Bye bye bye bye.

@@ -1,0 +1,13 @@
+Nurse: This says Temple Pulmonology.
+Patient: Hi. Um, my name is [PHI-Personal]. I had a call from doctor this morning that I missed and I got a message to call back about
+Nurse: Medication. Yes, I think I did try to call you. What's your date of birth? That way I can pull up your chart.
+Patient: Sure. [PHI-Personal]. Ok.
+Nurse: I love it here
+Patient: There at the top of it. They're so efficient. I know they always fight, you know, it makes it very hard. Nice. The nurses too.
+Nurse: Ok. So it looks like um one of the pharmacies called, it was actually the uh the West Patient Assistance Foundation. They were calling to confirm um how you've been taking the Adempas. And then when I called them back, they said, uh they were just making sure it looks like I spoke with [PHI-Personal], a pharmacist for the pharmacy Crossroads by which is through the West Patient Assistance Foundation. She just wanted to make sure that you're still using uh them for the Adempas or if you're going through a reo for the Emp,
+Patient: I am going through the H company far as I know that everything has come from h I don't know anything about any cross through or whatever. Um
+Nurse: OK.
+Patient: Accreta. Ok. So um I talked with them this morning and what they're doing is they're titrating up every two weeks. So I called today to get the two mg up from the 1.5 and they were waiting for approval from your office and then they wanna send it out tonight. So I think that's really all they wanted. Yeah,
+Nurse: I think they said that um they just, I was just calling to make sure because it looks like when you saw doctor, I believe it was Doctor [PHI-Personal]. You had an appointment just a couple weeks ago. She had mentioned that you would get um the titration through a reto so maybe she just wasn't sure that you were using the Bayer Pharmacy, so I just wanted to make sure. Well, ok, I'll call them back, made a mistake. Yeah, yeah, that's fine. I'll call them back right now and just confirm that way. You do get that two mg shipped out for your next titration.
+Patient: Thank you so much. You guys are so great. Oh,
+Nurse: You're welcome. No problem. You have a great weekend. Ok. You, you too bye. Thank you. Bye bye.

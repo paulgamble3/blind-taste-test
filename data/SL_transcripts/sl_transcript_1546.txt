@@ -1,0 +1,31 @@
+Nurse: Good afternoon. This is [PHI-Personal]. Can I help you?
+Patient: Yeah, this is [PHI-Personal]. My phone hung up.
+Nurse: I know it did. And then I tried to call you back and it went right to your voice mail and I thought, I bet you we're trying to call each other at the same time.
+Patient: Yeah, I tried to. Yeah, I don't know what happened. Everyone, I don't, when I, I just add it to my ear, I was watching, watching television and I didn't touch anything. So. Oh, boy. Yeah, it's cold out. I know that. Oh,
+Nurse: That's the truth, isn't it?
+Patient: Yeah. So
+Nurse: That is the truth. How have you been feeling
+Patient: Good? Good. Yeah. Well, yeah, I got dentist appointment tomorrow next day. Endocrinology. Oh, boy. You got a busy week. Yeah, I got, yeah, I, I've been busy. Well, that's a good thing for, I've seen. Oh, how did that go? Oh, I went fine. He's going wait another, he said six months or a year. I said make it a year. Ok. Yeah, I was at [PHI-Personal] so he was happy. Oh,
+Nurse: Good,
+Patient: Good. Yeah. PS A was [PHI-Personal]. So, ok. Other than that, that's, I see neurologist, cardiologist and, and endocrinologist. And I more the only one I didn't see that pathologist. So,
+Nurse: Got you. Boy, you were definitely busy.
+Patient: Yeah. Yeah, for sure. Yeah, I'm busy. I, yeah, I got tomorrow. Dentist two Wednesday, uh, endocrinologist and Inr on, I guess Wednesday too. Oh, ok. Yeah. Ok. Yeah. So that's what's going on around here?
+Nurse: Oh, goodness. How's everything been urinary wise? He doing? Ok.
+Patient: Oh, yeah. Yeah. Yeah, it's up and down, just depends what I drink when I drink it. Sure stuff. So, yeah, I pretty, I don't have no problem with it. I know what I'm up against. So. Sure. And I don't drink much beer. Uh, I try, I try to stay away from liquids before up to after six o'clock. So. Ok. Ok. Yeah, because I go to bed at eight. So,
+Nurse: Got you, got you. No, and that's helpful, that's helpful to back off a little bit, you know, to make sure that you're not getting up and running to the bathroom too many times overnight. I know you already go a couple times.
+Patient: Oh, yeah. Yeah, sometimes it's, you know, I, I'm used to it now after how many years. Right. Yeah. So, mm. That's about it.
+Nurse: Are you making sure that you're drinking enough?
+Patient: Well, I try to drink enough but I, I drink mostly I don't drink a lot of water. I never did, but I drink when I take my pills, I drink it. I take it with water. So, ok. So, you know, but I'm not a, I don't know that senior there, [PHI-Personal]. And he said he drinks a couple gallons of water a day. Right.
+Nurse: Right. Oh, goodness. That's a
+Patient: Lot. Yeah. But my dad always said anything you can put out and I can't be any good for you.
+Nurse: I never heard, I never heard that one, but that's a good
+Patient: One. Well, my dad passed away 20 years ago but then when I was young, that's what he said. Oh, God bless him. Yeah. Yeah. We know she said too is when you tell us you mentioned something about another kid. He says I'm not raising them, I'm raising you. So, that's, that ends that conversation. Yeah, that ends that do as I'm told. Yeah. Yeah, that's true. Yeah. So, yeah, that's the way he was strict. Yeah. Yeah. I was never strict with my kids. Oh, my, I got two daughters and they never smoked or anything. Oh, well, that's good. Yeah. Yeah. One's [PHI-Personal] and the other one's [PHI-Personal]. So. Oh, goodness. Yeah. Didn't have to worry about the smoking and drugs.
+Nurse: Well, that's a great
+Patient: Thing. Oh, yeah. I wouldn't to, I never touched the drug in my life. No, me neither. Other than other medicine. That's, you know.
+Nurse: Oh, sure. Absolutely. Absolutely.
+Patient: I, I always, yeah, go ahead. I
+Nurse: Was just gonna say I have two good kids as well. Thank goodness. Yep.
+Patient: Yeah. Well, my daughter, you wanna hold on and my daughter's calling me from the dentist office.
+Nurse: Oh, well, that's ok. I'll let you go. I'll check in on you next month.
+Patient: Thank you. You're
+Nurse: Welcome. You too. Bye bye.

@@ -1,0 +1,24 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Uh, is this [PHI-Personal]? Yes, ma'am. Uh, hi, this is [PHI-Personal]. You had called me? I
+Nurse: Did. How are you doing
+Patient: Today? Uh, I'm doing ok. I'm doing ok. I'm sorry, I didn't get back to you, but I have a lot of things going on today. That's
+Nurse: Ok. That's perfectly fine. I was just kind of checking in on you seeing how you were doing.
+Patient: Yeah, everything, you know, I saw, um, Doctor last Friday, the orthopedic doctor. He gave me a Cortisone shot in my right knee and I see him again in [PHI-Personal] and, um, you know, we're treating conservatively, you know, that's the last resort is a knee replacement. I don't wanna have it. But
+Nurse: Right, you're like, let's try not to. Yeah.
+Patient: You know, and, and he's very conservative, you know, and I, and he, he, so, so he gave me a Cortisone shot that seemed to help and I take, he told me he wanted me to take one Tylenol three times a day, breakfast, lunch and dinner. I said, well, I take, I take 400 mg when I get up in the morning to move around. I want you to take three Tylenol one and repeat it. Right. Oh, ok. Doctor, I will, I will, you know, uh, and, uh, because he said Tylenol seems to help with, you know, your discomfort, your pain, you know, where Motrin is an anti-inflammatory, you know, kind of work hand in hand. But, but anyway, um, you
+Nurse: Know, well, you know, they've actually done some studies where if you take Tylenol and Ibuprofen, take Tylenol and Ibuprofen together that it has more, it has better relief than, like some prescription pain medications.
+Patient: That's fine. So, I'm not one, I, I take, I take a lot of vitamins and stuff like that, you know. Um, but, but other than that, other than my news, I'm ok, I'm still volunteering at hospital twice a week and, you know, and, um, trying to keep myself, you know, busy and, you know, so, like, how would you say, socially, you know, getting my, you know? Right.
+Nurse: You're, you're being busy and staying where you're not just sitting at home,
+Patient: Uh, uh, doing my best, doing my best and to keep
+Nurse: You walking in your volunteer stuff.
+Patient: Oh, God, yes, you do. I, I keep my, I keep my phone in my pocket and usually the average is about for four hours. Any, anywhere between 3500 and close to 5000 steps. So,
+Nurse: That is great,
+Patient: You know. So, but I go at my own, you know, you're not racing, you just, you know, so you are, you are busy, you know, but that's ok. You know, and I make sure I hydrate myself, you know, old people, you know, we have to keep hydrated so we don't get, you know, but, uh, as far as my prescriptions go, uh huh, everything is ok. I don't need any renewals or new prescriptions quite yet. Ok. You know. You know what I'm saying? Um, and, and, um, you know, but, uh, it, when I do, should I call you or you
+Nurse: Can just give me a call and let me know and we'll see what we can do about
+Patient: It. Ok. Ok. Because I know the, the el inhaler that originated when I was up like, uh, with the, you know, up up there. So I know that, that probably, you know, that would have to be a doctor. But prescription what? But it's not ready yet. It's, you know, but I will, but I will, I will call you and I apologize for not
+Nurse: Getting. Oh, no, honey, you're fine. You're fine. Um, one thing I will tell you, I know you're doing all this walking and et cetera, make sure you're also doing some range of motion, not just, you know, walk and stand, do some range of motion, kind of making sure that the gentle stretching, et cetera. So you go full span of your legs and your knees because if not, it will just go that far, like what you're walking and it can still actually cause the pain. So make sure, you know, once you're getting home and on those days off you're, you know, doing those regular flexibility kind of things to keep you moving. So,
+Patient: Like if I'm sitting that, um, you know, I do like, see the flexion. Oh, that's good. That's good. That's good. Yeah. You know, so, well, that's
+Nurse: Great. I'm so glad to hear that. If you need anything, give me a call. Um I will, I do, I know you have coming up next month on the 24th. Um I have a lot
+Patient: Going next
+Nurse: Next. Yeah, you do. You have a kind of appointment. Um, but if you need anything before you know, next month, give me a call and we'll see what we can do. Ok? Thank you so much. Absolutely. You have a good afternoon. Bye bye bye bye
+Patient: Bye bye.

@@ -1,0 +1,111 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello, [PHI-Personal].
+Nurse: All right, Mister [PHI-Personal]. Is that what you said your name is? Yep. All right. Let me pull your chart up. Ok. How are you doing today? Not too bad. Not too bad. Well, I'd like to hear you say you're doing good. You're feeling all right though. Any complaints or anything going on? No, not really. Not really. Ok. Can you tell me your birth date?
+Patient: 9, 10, 57
+Nurse: 9, 10 57. Ok. So it looks like you did have a recent appointment, didn't you
+Patient: Last [PHI-Personal]?
+Nurse: Mhm. So, continue using the Miralax and the stool softener re repeat the colonoscopy in two years. Continue to follow up with colonoscopy surveillance and then
+Patient: Next, uh, summer I see him. Ok. Providing, providing some idiot in the White House. Doesn't mess everything up.
+Nurse: Let's hope not. And you remember what they told you about natural ways to help, um, memory, right? Do you remember that? Yeah. The Mediterranean diet exercise, good sleep habits, cognitive exercises and social interaction. So, do you do any puzzles or anything like that? I could but
+Patient: I don't, I get off my feet.
+Nurse: Yeah, I
+Patient: Do things in my head. Like I hear a song, like I picked, I say, go, what movie it is? There's a lot of songs that go with movies. Mhm. And that's how sometimes I figure out who the movies or to the song.
+Nurse: Mhm. That's good stuff like that. Mhm. And, you know, though they have those crossword puzzles or, like, they have the puzzles where you fill in the word and all that kind of thing, which might help some too. So, how is your constipation? Are you still having some issues with it?
+Patient: It's about the same as it's been.
+Nurse: Oh, right. And right now you're doing just what the Miralax and the stool softener. Yeah. Are you drinking enough fluid? Yep. Let me get up here. Let's see here. I, eating enough fiber. Yep. Ok. Ok. So the things that you do need to do is drink plenty of fluids. Avoid caffeine and carbonation. Stay as active as possible. Eat the high fiber foods. Like fresh fruit and vegetables. Take fiber supplements like, um, psyllium, which is Metamucil or Dextrin Benefiber. And then also another tip that they might not have told you is have hot beverages with breakfast, warm up, juice, decaffeinated coffee or tea. Have you tried that? Because that actually does work for a lot of people like the hot beverage in
+Patient: The morning. I drink my milk in the morning.
+Nurse: Do you heat it up?
+Patient: No, we try to do that.
+Nurse: Well, try heating up even just water and see, like if you can get things moving that way. Ok. Just like, try it and see if it would be beneficial to you at all. If not. I mean, you know, at least you tried it to see if it would help. Right. So it does look like that you are due for [PHI-Personal] of those P HQ nine surveys. Those are the ones where we ask you those questions and you, um, answer them to the best of your ability, but they're regarding depression just to make sure that you're not getting depressed or anything and that you're staying on the healthy side. Those are just like [PHI-Personal] time a year though. Ok. So after we do [PHI-Personal] today, we won't have to do it for a while unless you start feeling depressed or something. Ok. Yep. All right. Let me get down here. So this is gonna ask out of the last two weeks. Have you been been, have you been bothered by any of these things? Little interest or pleasure in doing things? And the answers are all gonna be the same. Not at all, several days, more than half the days, nearly every day. So little interest or pleasure in doing things. Not at all, several days, more than half the days, nearly every day. All right. Do you still like to go out and do things? Yeah. All right. So you do still go out and do things all Right. How about feeling down, depressed, feeling down depressed or hopeless? Oh,
+Patient: About half way from there.
+Nurse: So, you think it's several days or more than half the days I get half the
+Patient: Days.
+Nurse: Ok. Trouble falling or staying asleep or sleeping too much.
+Patient: Oh, I go up stairs and watch a movie and next thing I'm out then I'm up by around 2 30 to 3.
+Nurse: Ok. Is it several times a day or just once? Like a nap?
+Patient: Oh, I take a nap once in a while, just watching a movie downstairs. But most of the time I just go upstairs to sleep and that's it. Ok. Well, my feet are tired. Uh.
+Nurse: Mhm. Is this happening several days? More than half the days or nearly every day? Nearly every day, nearly every day? You're falling asleep? All right.
+Patient: Yeah, I'm getting good sleep and.
+Nurse: Mhm. Ok. Feeling tired or having little energy,
+Patient: Probably feeling a little tired,
+Nurse: Like several days. More than half the days, nearly every day.
+Patient: I, half the days
+Nurse: Of the days. Poor appetite or overeating. No, them, ok. Feeling bad about yourself or that you're a failure or have let yourself or your family down. Hm.
+Patient: Oh. What, what was them again?
+Nurse: It's feeling bad about yourself or that you, you are a failure and have let yourself or your family down. Not at all. Several days. More than half the days. Nearly, I guess the first
+Patient: [PHI-Personal].
+Nurse: Not at all. Um, or you do feel like you've let him down some, probably a little bit. So you think in several days is how you're really feeling a couple? All right. I got you either several days or not at all. Which [PHI-Personal] is it closer to the several days or not at all? Several days? Ok. How about trouble concentrating on things such as reading the newspaper or watching television?
+Patient: Oh, trying to read sometimes it just a little bit hard with my eyes. I don't know what thing with them.
+Nurse: Ok. What about, like watching TV or something though? Or like, even listening to it? Are you able to focus and concentrate on what the TV is saying? Ok. So we're gonna say not at all then? Ok, because I think that's more related to a vision problem and stuff. Ok. So moving or speaking so slowly that other people could have noticed or the opposite being so [PHI-Personal] or restless that you have been moving around a lot more than usual.
+Patient: Well, I move around while I'm at work but when I get done then my feet are tired. Mhm. Are you [PHI-Personal]
+Nurse: Or you, are you [PHI-Personal] though, or you just, like, pretty normal? Like the way you're moving around? Normal? Me normal. Ok. Thoughts that you would be better off dead or hurting yourself.
+Patient: No, I, no,
+Nurse: If you checked off any problems, how difficult have these problems made it for you to do your work? Take care of things at home or get along with other people. Not at all, somewhat difficult, very difficult, extremely difficult. And those were the questions where you feel depressed, more than half of the days you said, and then trouble falling, staying asleep or sleeping too much. That was nearly every day you said, um, feeling tired or having little energy was more than half the days, uh, feeling bad about yourself or that you're a failure of let yourself down that several days. So how hard has it been to work through those things? Well, not too bad. You feel like you can work through them? Ok. Yeah. All right. Let me see. I'm gonna see if you have, um, a score. Let's see what your last score was. So I know what to compare it to. So it looks like your last score was zero actually. So something is like changed and you're like feeling a little bit more depressed than you used to feel, huh?
+Patient: Oh, not really.
+Nurse: Well, your score changed the newly, let me see how much your score actually got. Ok. Let's see here. Phone number [PHI-Personal] at all. And I also seen where they, um, talked to you about the prescription plan or something. Did you get that worked out? Like where they help you pay for your medications? Did you ever get that taken care of?
+Patient: I don't know if I did or not.
+Nurse: I don't know if you did or not. Prescription plan. Uh huh.
+Patient: Subscription plan or whatever.
+Nurse: Yeah, the prescription plan. I think he filled out the application for it. Right.
+Patient: Yeah, I think
+Nurse: So. Have you heard anything back from it?
+Patient: No.
+Nurse: Ok. So, are you taking your medications now though? The way that you're supposed to, the way
+Patient: I'm supposed to?
+Nurse: Ok. So you have been able to get them, it's just been hard to afford them.
+Patient: No, not afford very affordable.
+Nurse: They are affordable.
+Patient: My prescriptions. Yeah.
+Nurse: Ok. So you scored an eight, which shows that you have minimal symptoms of depression. So, um, if that doesn't go away they want you probably to see the doctor within a month. Ok. Like, I guess because if you're getting depressed and everything we need to get that turned around for you because that can affect it. I can have a lot of, that can have a lot of effect on your body.
+Patient: Well, I have to work with some people that don't like to move. I get a bit tired of it. Mhm. I like to sit down when I get home but I can't, because I gotta keep going. Mhm. Do I get them? Mhm. Oh, the way my ankles are
+Nurse: Right. Do you have anything that's been keeping you busy or anything, any kind of hobbies or anything?
+Patient: Oh, watching movies and that?
+Nurse: Ok. Let me see here. I wanna, I pull this section up, let me see here. Well, I can't find out, find what I wanted to tell you. Let's see. All right. Well, some things that you can do to try to help yourself feel better is to try to be active and exercise just as much as you can. You know, like, don't go out and try to run.
+Patient: I can't exercise. I work, I'm on my feet about seven hours over work. So, what kind of work do you do?
+Nurse: Ok.
+Patient: [PHI-Account]. You do what? I, I milk over [PHI-Account] cows four days for me.
+Nurse: So you're getting plenty of exercise then, right? You're getting plenty of exercise if you're like, do walking around being on your feet and doing all that. Ok. So that, that, that can, the reason why they say exercise helps though is because it releases the natural endorphins and it can help your body and your mind feel better. Um If you're feeling overwhelmed, you need to break up large task into small ones, set priorities, do what you can as you can. Don't let yourself get overwhelmed, it doesn't have to be done, right. That second, just break it up into a small task and do it as you can. Ok? Um, make sure you're spending time with other people confined in a trusted friend or relative. Um, if you have a big decision to make like that's really important life decision, wait until you feel better, discuss decisions with others who know you will. All right, and make sure you're reaching out if you're like, if you do start getting any more depressed because I will send a message to the doctor because I gotta let him know about your depression score. But um if you feel like it's getting worse or something, you probably need to be seen by the doctor. Ok. Yeah. Is like like I said, it has a negative effect on your body and your mind. So we don't want you to live in that state of depression. All right. So try some of the tips that I gave you and if you need anything at all, you can reach out to me. Do you need any medication refills right now? Are
+Patient: You good on your
+Nurse: Medicines in a couple of weeks? Let's say when do you have your doctor's appointment? You don't even have [PHI-Personal] scheduled, do you? Let's see what we, you don't have enough doctor's appointment schedule
+Patient: About [PHI-Personal].
+Nurse: Let's see here.
+Patient: Yeah, because I have a
+Nurse: Problem. I don't even see where you have any refills on your atorvastatin.
+Patient: [PHI-Personal] is gonna be the [PHI-Personal].
+Nurse: What is it gonna be? What [PHI-Personal] do you need?
+Patient: Met ar in a couple of weeks?
+Nurse: Uh
+Patient: That's high BP.
+Nurse: Mhm. Reordered on [PHI-Personal]. That was really old. Oh, wait, I guess it would have
+Patient: No.
+Nurse: Hang on a minute. Let me get back here. Hang on a minute.
+Patient: Well, I got this [PHI-Personal] probably back at the beginning of the year.
+Nurse: Ok. So Allopurinol is that what you're talking about the allopurinol or? Ok. Metoprolol. There it is.
+Patient: Yeah, I got two refills on it. Yeah, I have two refills.
+Nurse: Ok, so it was reordered on [PHI-Geographic] [PHI-Account] and it said you had re three refills. So you should be good. I would think so. Yeah, I have to
+Patient: Get couple
+Nurse: Weeks, 6, 12, 18. So that's a three month supply. So 12 [PHI-Account]. Yeah, that should take you to like what [PHI-Personal] or something. Let's see here. When's your doctor appointment? Yeah, you don't have a doctor's appointment until later on. So I will be calling you in. Yeah, I will be calling you anyways before then and then we will address like your um your refills that you needed. And I think I pulled up the wrong thing. Let me go back to this depression score and look and see what you were the last time. So I think I was looking at the wrong thing. Let's see if it's page. I don't even see [PHI-Personal] in there. Have we not asked you all these questions before?
+Patient: I think I'll think them ones. I like I did last week.
+Nurse: Did you do [PHI-Personal] at the doctor's office? Is that what you're talking? It was
+Patient: About memory. That's what it
+Nurse: Was. Oh the memory [PHI-Personal]. Ok.
+Patient: Not depression. We nobody was talking about that at all. Ok? It's just the memory that was it. Mhm.
+Nurse: Ok. But you feel like you're not getting depressed even though your score is showing that so shows some depression then. Right? Well,
+Patient: That some of that stuff don't help too much anyway.
+Nurse: Ok. Well, I just wanna make sure that you're not just try some of the tips that I gave you. Ok, and make sure that you're trying to stay positive and do all that kind of thing. Um, since you've got me, since you've got refills on your medication, I don't think that we need to address anything. Right? This second like are you good on the other ones?
+Patient: Yep, I'm good on all the other ones.
+Nurse: Ok. So just metoprolol, you need to call it into the pharmacy whenever you need it then. Ok. Yeah. Well, if you need anything at all, sir, you reach out to me and let me know. Ok, and I'll try to help you the best I can. All right. All right. You get feeling better. Ok. Yep. All right, sir. Have a great day.
+Patient: Yeah. But next [PHI-Personal] I have a doctor appointment up the pain management.
+Nurse: Oh, do you? Ok.
+Patient: In the morning, around 10, [PHI-Geographic] o'clock, huh?
+Nurse: [PHI-Personal] you said for pain management? And what was it, what is it regarding? What pain is it that you're having for pain, pain management? For ankle? Ok. For ankles. Oh yeah. If you're on your feet all day, milking cows and everything else, that's hard, isn't it?
+Patient: Doctor uh, Doctor [PHI-Personal] found the problem about, about 12, 13 years ago. Mhm. Twist in my ankles around the, you could feel them stretching whatever to the lone, uh, the last, since my last [PHI-Personal] haven't been too bad pain. But,
+Nurse: Mhm. Well, hopefully they can get, you, get you feeling better and find something that's gonna work for. You
+Patient: Was like, uh, operating would be out because the risk of infection that, and they're talking about regenerate stem cell. But that's not, that's cost about $10,000. There's no proof that works
+Nurse: Well. Does insurance pay any of that or? No?
+Patient: Nope. They didn't cover for, they won't cover for, to regenerate or the, oh, that you use needles? Mhm. I pay that out of pocket.
+Nurse: Are you talking about the acupuncture? Is that what you do? Acupuncture? It
+Patient: Works. Um, yeah,
+Nurse: It, it does. But the thing about the thing about the acupuncture though, you, you have to keep going. Right. Like, because if you, if you stop going then like it doesn't, it doesn't work anymore. That's the only thing it can get pretty costly, but it does help um, whenever you can do it, like I have found relief from acupuncture as well. So, yeah, I wish like insurance was better. Unfortunately, it's not, but hopefully pain management can get you set up and get you taken care of and get you feeling better. But you call me in the meantime, if you need anything Ok. All right. All right. Take care and have a good day, sir. Yep.
+Patient: Bye.
+Nurse: All right. Bye bye.

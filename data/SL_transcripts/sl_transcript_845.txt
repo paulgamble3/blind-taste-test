@@ -1,0 +1,38 @@
+Nurse: CC
+Patient: And [PHI-Personal] speaking. Hello, this is [PHI-Personal].
+Nurse: Hey, [PHI-Personal]. Hi. Uh did, did you get a chance to hear the message?
+Patient: Yes. Yeah, I'm still, I'm still on vacation.
+Nurse: Oh, ok. Ok.
+Patient: That don't matter though. No, you were supposed to check instead of the DULoxetine you were gonna see. Yeah. The Xanax.
+Nurse: Xanax. Oh, ok. I thought it was the DULoxetine. Ok. The Xanax. Ok. Uh That's
+Patient: Right. Ok. Is the generic? Got
+Nurse: You. Ok. Yeah, I was under the impression with the other one. Ok. Yeah, I can ask her about that one. just because, um, you know, with, you know, your mood and, you know, you're checking your pressures as well because they were um elevated too. Um and you know, that all can tie into, you know, how you've been feeling with the elevated pressures going up too because of, you know, your mood situation as well. Um I know you're on VAC. Yeah, absolutely. Absolutely. It's all connected. Um, anything that's um stress related or um anything that, you know, causes anxiety, um depression, things like that can definitely affect your BP um because it is a stressor. Um anything that's, yeah, absolutely. Anything that's a stressor. Yeah. Anything that's a stressor can definitely affect your BP as well. So, that's another reason too. Um, why it's good to keep track of your BP. Um, like you've been doing, like you've been doing,
+Patient: Um, I know you brought it along with me.
+Nurse: I was gonna ask that. I said, you know, what, if you didn't bring it? That's ok. We would just go over some symptoms, what to watch. But I'm glad you were able to bring it. Um, have you, uh, had any high readings? How, how have your readings been?
+Patient: Uh, [PHI-Account] was the highest?
+Nurse: Ok. Ok. [PHI-Account]. And around what number was the bottom kind
+Patient: Of the bottom number was good. It was like 79 I believe it was 70 my blood. Ok.
+Nurse: Ok. Good. Good. Ok. Great. And no signs of any, you know, um, headache, blurry vision, chest pain, shortness
+Patient: Of breath. Good. Good,
+Nurse: Good. That is good. That is good. Yeah. Absolutely. Ok. Yeah. So we definitely wanna keep that BP down. Um, and also one of those ways to keep it down is to, to get the anxiety, any depression under check so that, you know, it won't flow over into making your BP um elevated because anything that Yeah.
+Patient: Yeah, that, that's probably it,
+Nurse: Uh, it, it could be anything an, you know, anxiety doesn't cause longterm BP issues. But, you know, if you have episodes of anxiety. It can definitely temporarily spike that BP and you've been through some stressful situations um within the last couple of months, you know, with, you know, your health concerns um different things like that. Um you know, having that neurology appointment and your memory. Um that's all, you know, issues that can be stressful and affect your mood. So it definitely, yeah, it, yeah, it definitely can, you know, be a contributing factor. Um, so, you know, people who are anxious or stressed are more likely, you know, to, to worry more, sometimes overeating, uh, drinking or just things like that in addition to the stress can raise your BP too. So, definitely be mindful of, you know, the eating any drinking habits. Are you a smoker? Yeah. Yeah. Ok. So, yeah, that can also be, um, contributing to, you know, if you are smoking
+Patient: More, it's not smoking down here. Ok.
+Nurse: Ok.
+Patient: Where we have, yeah.
+Nurse: Ok. Ok. Ok. Yeah.
+Patient: Yeah, I've been smoking much. Good.
+Nurse: Good. That's a good thing. That's a good thing because, you know, all, you know, smoking does increase your BP naturally anyway. And then from the smoking being stressed, you're, you know, concerned about your medical issues, that anxiety, depression, it is all compounding. Um, yeah, I have
+Patient: To keep her eye out because I think the MRI is back in. Oh, ok. Yeah. And I'm not home on my computer so I can't, to check got
+Nurse: You. OK. Let me put that on here too because she did not mention that
+Patient: And that was done at the.
+Nurse: Mhm. OK. Bloom. And then we're gonna do the anxiety alprazolam. OK. So let me ask her about that and right now you're taking 1.5. Yes. Yes. Every day. Ok. That's what I thought. Ok.
+Patient: Yep, I take it last night.
+Nurse: Ok. All right. Yeah. So let me, um, I'll, I'll reach out to her about that medication. Um and I'll also run by for her to um check for the um MRI if she does not have the MRI, I'll let her know that it was done at Bloom Geisinger. Um and then she can you know get the report herself if they haven't sent it over already, so I'll message her about that too.
+Patient: Ok.
+Nurse: All right. All right. Well, you'll continue to enjoy your vacation. Um I'll be back in touch as soon as um uh [PHI-Personal] gives me a a response and we'll go from there, [PHI-Personal].
+Patient: Ok. Alright,
+Nurse: Thanks. Thanks for returning my call. Absolutely. Absolutely. Alright. En enjoy relax.
+Patient: I'm trying.
+Nurse: Alright, you take care. Ok. Alright bye bye. Uh huh.
+Patient: Mm.

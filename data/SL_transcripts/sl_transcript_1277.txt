@@ -1,0 +1,9 @@
+Nurse: Hi, this is Nicole
+Patient: When I call you for me. My I phone, what was that? This number came up earlier? So I'm calling you back to see what this is now.
+Nurse: Uh Yeah, can you remind me of your name? Right? I said yes. Uh would you please remind me of your name? Sha Hey there, [PHI-Personal]. Uh yes, I was actually calling to uh coordinate with you. Um I got a message in your chart about uh there's someone named trying to think. Let me just pull her name up. Uh So your case manager from Blue Cross Blue [PHI-Personal]. Yeah, was reaching out uh to coordinate things with you like all your different services you're getting and wanted to see if I could speak with them about uh you know what we're providing you with chronic care management. Would that be ok with you? That's fine. Ok. Just wanted to make sure. Um and then I saw a message back from your provider in your chart that said that they, the plan is from my understanding that they're wanting you to see orthopedics and then see the
+Patient: Orthopedist.
+Nurse: Oh, perfect. And it looks like doctor said once Ortho gives their recommendations, their opinion, you know, then we'll go from there and, and kind of reassess
+Patient: It, it really, we're having a hard time. Like I can't put my socks on my pants on a little bit better, but I can't take a regular or a bath. I have a handicap accessible for what I need now. I feel a little now, so I don't know what the,
+Nurse: Yeah. And it, I think if it looks like doctor, um, if, if you're feeling like you may need some home health, the Ortho would be the perfect person to, to see if you can get that coordinated with. I have
+Patient: To go. Can I call you
+Nurse: Back? Absolutely. We'll chat with you later. Yes. Bye.

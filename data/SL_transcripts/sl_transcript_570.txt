@@ -1,0 +1,46 @@
+Nurse: Chronic care management. It is. How may I help you?
+Patient: Hi, it's mcgovern. Hi. I just wanna report some BP. Ok. On the [PHI-Personal]. 0,
+Nurse: Hold on one second. Ok. Um, let me go to your thing. Let me go to your chart. How are you today? Ok.
+Patient: Yeah, I'm feeling pretty good. How are
+Nurse: You? Good. Um, let me just get
+Patient: Through everything about my,
+Nurse: Well, you did have a bad fall.
+Patient: Yeah, I did.
+Nurse: Um ok, I just had to get out of this
+Patient: Other. Ok. There was only one done on the [PHI-Personal] and that was 3:27 p.m. and that one was [PHI-Account]. Ok. And my pulse was 60. Pulse is 60. Ok, Enzo. And on the [PHI-Personal] at [PHI-Account], I took, took it myself and it was 1 42/54. Ok. And my pulse was 64. Ok. And that same day I took it at [PHI-Account]. I don't remember why. And it was 1 14/47 and my pulse was 60 and I took it that night at 9 10 and it was 1 34/67. What day was this?
+Nurse: Huh? What date
+Patient: Is this? [PHI-Account]
+Nurse: Uh, [PHI-Account]. Ok. So [PHI-Account], I have [PHI-Account]. Which, what day was that, that the [PHI-Account]
+Patient: Fourth that was on the [PHI-Account]
+Nurse: Fifth? Ok. And that was in the morning?
+Patient: Ok. And that was 1 42. Over 54. Yeah.
+Nurse: Ok. And I got the [PHI-Personal]
+Patient: And at 9:10 p.m. I took it myself and it was 1 34/67. Ok. And my pulse was 71. Ok. And then on 9 26 the next day, which is today I took it this morning at [PHI-Account] and it was [PHI-Account] and my pulse was 63.
+Nurse: Ok. No symptoms of anything that, what, no symptoms of anything at all.
+Patient: My head feels a little bit clearer this morning than it was. So, I hope it stays that way all day because
+Nurse: You kind of feel foggy sometimes or.
+Patient: Yeah, I know because of falling and I don't know whether I gave myself a concussion or.
+Nurse: Well, they checked you in the hospital,
+Patient: Huh? Because I didn't come to until they were putting my last, uh, staple in my head. Yeah.
+Nurse: Um, so, ok,
+Patient: But I don't remember a whole lot of what happened. My ankle, the swelling is down in this morning. From
+Nurse: Which ankle is it left the left ankle,
+Patient: It's still sore. It was really swollen. Up and it hurt like the double, uh, last week ago or I can't remember. Um-hum. And they did four x-rays but there's no broken bones. So. Ok. But I just use Tylenol for the pain. Ok. So, ok. And I think I've got my medications figured out it's basically the same except for taking the Triamterene at noon time. But I only take half a Triamterene. Um,
+Nurse: Yeah. Did they call you from the hospital or?
+Patient: No? I haven't heard from him. Oh, I, oh, yesterday I tried calling neurology man. They got a confusing answering system. Ok. And because they called here while I was still in the hospital because the doctor wanted me to go see a neurologist and, uh, they don't even answer their phone. Everything goes by machine, I think then they don't call you back because I left a message and I said I was returning their call from Tuesday. I think it was Monday or Tuesday. I can't remember now. And, uh, I just never heard anything back. Well, let
+Nurse: Me, let me call them for you. Pardon me? Let me call them for you. Um,
+Patient: I wanna see doctor. I told the doctor in the hospital that I refuse to go there if they assigned me to because when my son at MS, he wound up in the hospital. I can't remember why I'm out so many years ago and, uh, but they wanted to see him in his office again. So I made an appointment and he looked at and he goes, what are you doing here? You don't need to be here. I said, well, he was just in the hospital and you wanted to see him in the, in your office. I'm telling you, we just, I told [PHI-Personal], come on, let's go. And I just paid him 60 bucks in cash. I was, he just made me so mad that day I refused to see him. I said to him, you're a quack. You're not a doctor, you're a quack. I guess I could have been sued for that. I, you know, m my son, I knew what, there was something wrong with him. I didn't know what it was. I was trying to find out what it was. I took them all the way to [PHI-Geographic]. Yeah, to find out what his problem was. And it was multiple sclerosis. It's just, it wasn't a book. Standard case. It was totally different. Mhm. So, uh, that's why he wound up in [PHI-Personal]. Oh, jeez. Because I changed doc, I went back to Doctor [PHI-Personal] and [PHI-Personal] with him and he said the doctor [PHI-Personal], I gotta find a neuro or a doctor who specializes in MS closer to here. So I said to him, I'd like to go to [PHI-Personal] because I understand there's a good, I don't remember his name now. There's a good one there up strong because even the one in [PHI-Geographic] refused to see [PHI-Personal] because, oh, what was her name? She was supposed to be so good. Mhm. And she refused to see [PHI-Personal]. Yeah. I think because of the case was baffled them. I really think that, that baffled me. I didn't know what was going on here. I'm a lay person. I don't know nothing, you know. Yeah. And, uh, I was just reaching for straws just to find them. Mhm. Call me a pain in the ass. I don't care. Yeah, just like this phone number keeps calling here this morning. I called and I picked the phone up. It says spam risk. I
+Nurse: Don't go
+Patient: Through that one more time and I'm reporting you to the do not call registry and you can be fined out $2000 for calling here. I hope. Yeah.
+Nurse: Um. Ok. No, your your heads you feel clear, your head feels clear. Um No lightheadedness, di dizziness, fatigue
+Patient: This morning. It's pretty good. You
+Nurse: Feel pretty good? Ok. All right. Well, I just think of low BP sometimes that could be the symptoms. So continue to monitor your BP. Those look pretty good. Um I would definitely keep the log book for doctor um Bogs because you have an appointment coming up on the second. But um also what I wanna tell you um I'm gonna call neurology for you and see if I can get you. When's the best time to get you an appointment?
+Patient: Well, I can't go next Wednesday and next Friday I have an appointment with doctor, get my stitches or
+Nurse: Staples and they should have your referral. Right. That what they should have your referral from the hospital or?
+Patient: Yeah, it's a referral from doctor [PHI-Personal]. I think the name of
+Nurse: [PHI-Personal]. Ok. And what, what phone number do you have hon, uh, about what, what, what phone number are you calling?
+Patient: Um, it's in my, where is it? The last four digits are [PHI-Account]
+Nurse: [PHI-Account].
+Patient: What? I don't remember what the ones in the middle where? But the last four digits were [PHI-Account] because that's the number that called me. Oh ok
+Nurse: I got it here. Ok let me call you back let me see if I can get in touch with them. Ok. Ok. All right bye dear.
+Patient: Thank you. You're welcome. Bye bye.

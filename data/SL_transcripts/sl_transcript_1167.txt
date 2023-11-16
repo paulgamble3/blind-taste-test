@@ -1,0 +1,47 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you? Good morning. This is [PHI-Personal] returning your call. Oh, give me one second. [PHI-Personal] you up. Oh, that's ok. That's another girl that called you. Sorry I can transfer you. No, it happens. Um Let's see. Let me find who in the world that was there. It is. Ok. I'm gonna try to transfer you if she's on the phone. It won't let me. So if that's the case, I'll just um message her and have her call you back as soon as she's off. Ok? I I'm in, I'm in the house. Ok. Sounds good. Um It's snowing. I'm in the house. I don't blame you. Nice and warm. Yeah, I dust. Yes. All right. Let me try and see what we can do here. Thank you. You're welcome honey, [PHI-Personal]. There she is. All right. I'm gonna send you over now. Ok,
+Patient: This is [PHI-Personal]. Can I help you?
+Nurse: Oh, hello, this is [PHI-Personal]. Yes.
+Patient: Hi, [PHI-Personal]. Thanks for returning my call. I appreciate that. Yeah, I
+Nurse: Couldn't get there fast enough.
+Patient: That's ok. That's ok. I was just reading your notes and I thought, oh, she has horses she's probably outside in the barn tending to them. Um, I was,
+Nurse: And then I had a fight with the yearling. She spooked and I broke my arm. So, yeah. So I was, I've been frequently even. And, and,
+Patient: Oh, my goodness. When did you, when did you break your arm? [PHI-Personal] Monday.
+Nurse: Monday morning.
+Patient: Which arm?
+Nurse: My. Right. Oh, you should see my Christmas card. They look really weird. Oh, no.
+Patient: Right. Oh, my goodness. Uh, what, so was it your wrist that got broke, or?
+Nurse: No? It was above the wrist. It was like, it ripped the bone, it looked like on the X rays and a v because I got jerked that hard. Oh, my God. Yeah, I know. And I've had horses since I was [PHI-Personal]. That was a long freaking time ago. It was one of those moments. Well, you think you're under control? And you're not,
+Patient: Um, we, my father got trampled when I was like, [PHI-Personal], a chicken jumped into the horse stall and he was in there cleaning. Yeah. And it spooked the horse and he fractured his pelvis because she, and had a collapsed lung. And luckily he was home alone when this happened, he was able to crawl up to the house to call for paramedics. But yes, you just never know. And they're, they're huge animals. You know, the strength behind them. It's just, oh, my goodness. I'm glad I'm glad it was just your arm and she didn't kick or, you know, do anything more damage. No, she,
+Nurse: She spoke and ran forward and I couldn't get away,
+Patient: Couldn't get away.
+Nurse: But, you know, babies are babies and you never know. But the only good thing is I did it in the barn and I have a sand pit for riding that's attached to the barn so that I can turn out in there. So I have very soft landing. Uh, but I heard the fracture in M air. Oh,
+Patient: My goodness. I
+Nurse: Heard a rip. I went, no, and it's my right. It's my right arm. I'm like, no,
+Patient: Everything that you do. Yes. Then did they give you anything for pain? Are you having pain associated with it? [PHI-Personal].
+Nurse: Yeah, it hurts. Um, I have to look, I usually don't take medicines. Ok. Yeah, I try not to anyway. But it, it's stable. I, I was at, and he, he fixed me up with a, with a
+Patient: [PHI-Personal]. Oh, good. And, and, you know, take some Tylenol if you need to if you feel like it's. Oh, that's
+Nurse: Right. He did call, I have one called in, I have one called in at the pharmacy. I didn't get there yet, but that would be really nice. So I could sleep.
+Patient: Yeah. Yeah, I'm sure, I'm sure you have moments where it feels like it's throbbing. Um, exactly. You've been active for the day. Oh, my goodness. Well, I'm so glad you are. Ok. I mean, I know that's gonna put a little hindrance to everything that you're able to do for the next eight weeks. Um, yeah. How about that? You have help on your, with the horses, [PHI-Personal].
+Nurse: Yeah, my kids took over and one of my, uh, boarders is here and they're lovely people. I mean, I couldn't ask for anything anybody better. So.
+Patient: Oh, good. Well, I'm glad to hear that. Well, just, you know, take it easy, Get lots of rest. Take that Tylenol as you need it. We don't want see that arm swell too much in that [PHI-Personal]. And if you have any questions or concerns, you know, you're more than welcome to reach out to us. But, oh my goodness. Just take it easy and get through the holiday season in one piece came. Ok.
+Nurse: I have one question. Where's
+Patient: Say that again? I'm sorry, where is Doctor
+Nurse: [PHI-Personal]?
+Patient: Is he out of the office?
+Nurse: Well, [PHI-Personal] said she had an appointment and he wasn't there and I wondered, is he still
+Patient: There? Yeah, he do. Doctor [PHI-Personal] is still with the practice? Yes, he might have not been, not been, uh, in the office that day, but yes, Doctor [PHI-Personal] is still there.
+Nurse: Good because he, he handles us.
+Patient: Ok. Yes. No. If, if he were to leave the practice, [PHI-Personal], you would get notified. He, you know, it wouldn't just be a leave, a letter would be sent to you to let you know if he was leaving, you know, who you could uh follow with or if you chose to follow him to a different location. But no, he's still with us.
+Nurse: So, why were you calling me this morning, dear?
+Patient: I am just doing your monthly wellness call to check in with you to see if you had any questions or concerns. Um I'm just helping [PHI-Personal] with the holiday season. She's off today. So I just thought I'd give some of her patients a call and see if anyone needed any assistance.
+Nurse: Ok. No, actually I'm in the hands of other people. Right. Oh,
+Patient: Well. Yes. Take it easy. Thanks for giving me a call back. And if there's anything we can assist with, you have our number, you know, don't hesitate to reach me. Yes, there
+Nurse: Is. Yes, there is. Uh somehow I misplaced my United Healthcare Card and you have everything I I'm involved with in written down and cataloged right there because I've been at that practice for a long time. Is there any way you could email me copies of my insurance
+Patient: Cards? Yes, I will send a message to the office to see if we can get copies in the mail
+Nurse: And they should have my email address. So, oh, or in the mail it doesn't matter, whichever is easiest is great in the mail. I have a physical copy and then I can um Yeah.
+Patient: Ok. No, I will do that for you as soon as we hang up and I'll get that out in the mail to you. Ok. I, I
+Nurse: Appreciate it and happy, you
+Patient: Know. Yes, you too. I hope you have a wonderful holiday and we'll reach out to you after the New Year. Ok.
+Nurse: Yeah. Thank you very much for the call.
+Patient: Thanks [PHI-Personal]. You have a good day.
+Nurse: You too. Bye bye. No.

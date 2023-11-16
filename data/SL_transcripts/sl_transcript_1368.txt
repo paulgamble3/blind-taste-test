@@ -1,0 +1,14 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] calling. Hey, hi.
+Nurse: Yeah. So I called earlier because I just wanted to be sure that you were able to pick up your medication refills.
+Patient: Yeah, I did. Um, but seems like every time I come another one, the methadone as soon, uh, it won't be for a while yet. It's over a week away. So I guess we don't need to do that yet. Ok. So, yeah, everything's good, so far.
+Nurse: Good, good
+Patient: And everything pretty much squared away.
+Nurse: What's, uh, you kinda cut out there at the end? What was that?
+Patient: I said I have everything, uh, pretty much in order now. I think so. Should, shouldn't need anything for a while.
+Nurse: Ok. Yeah. Well, if you wanna give me a call, you know, closer to, you know, maybe the, the first week of September. So. Oh, gosh.
+Patient: Yeah, I'll make sure I
+Nurse: Get back to you. Yeah. Yeah. Ok. Yeah, if you need anything, you know, definitely give me a call, uh, you know, if you start to run out or, or have any questions but, um, we can get those going for you. Ok.
+Patient: Ok. Yeah, sounds good. Perfect.
+Nurse: All right, thank you. You're welcome,
+Patient: Take care. You too. Bye bye bye.

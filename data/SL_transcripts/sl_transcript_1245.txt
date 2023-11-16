@@ -1,0 +1,10 @@
+Nurse: Manager. This is [PHI-Personal], how can I help
+Patient: You? Uh, good morning. Uh this is es calling I had a call from [PHI-Personal] this morning. Is she
+Nurse: Available? Ok, I'm sorry, what was your
+Patient: Name? [PHI-Personal]? Ma Ss er,
+Nurse: Ok, let me put you on hold, I'll see if she's available. Ok, [PHI-Personal], will you spell your last name again for
+Patient: Me? Ma Ss? Er.
+Nurse: Ok. Alright and it's [PHI-Personal] you said [PHI-Personal]
+Patient: Lyn?
+Nurse: Ok, one moment. Uh huh, [PHI-Personal], she's on the other line. I'll have her call you right back.
+Patient: Ok, thank you. Bye bye bye.

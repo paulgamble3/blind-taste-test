@@ -1,0 +1,5 @@
+Nurse: Management. This is [PHI-Personal]. How can I help you?
+Patient: Thank you. This is [PHI-Personal] returning a call. I got a message that I was to call about some new benefit or something. So I'm just returning to call, ma'am.
+Nurse: Ok. Give me one second here. Let me pull up your chart. Ok. Ok. It looks like that was [PHI-Personal] who had given you a phone call. Let me go ahead and uh see if I can just transfer you right over to her. If not, then I can um have her give you a call. But can you just
+Patient: Tell me what it's about? I'm a retired physical therapist and I really stay on top of my health. So if this is just fishing, I really, I don't think I'm probably interested. Can you tell me what it is, ma'am?
+Nurse: So it's a yes. Um it's a program on behalf of doctor. Um I can get you over to BECA she's actually available and she can definitely speak with you, you know, um you know, more in depth about it. It only takes a six minutes or a couple of minutes to, you know, explain, but give me one second here. Ok. Mhm. All right, thank you.

@@ -1,0 +1,140 @@
+Nurse: This is,
+Patient: Hi. I, I was trying to get you back. I lost you. Oh, that's
+Nurse: So, that's all
+Patient: Right. But, so I kept calling until I thought I'll get you somehow. Ok. Oh, and I couldn't get back. So I'm so sorry. No, that's ok. Um, so anyway, yeah. Do you know what kind of a doctor? I should look up and then I would need a referral anyway.
+Nurse: Right. Which side is it that it's, that's hurting
+Patient: My, right, your right side and it feels like it's in my side, but then it goes, it's in my back too.
+Nurse: Ok. Are you having any other symptoms? Like stomach pain, nausea,
+Patient: Vomiting? No, no dizziness. But I don't think that's from that. But no, my stomach's ok and my bowels are moving. Ok. And I'm peeing. Ok. But something's wrong in there. Maybe it's a muscle but I don't know how to know if it's something to really worry about or not.
+Nurse: Right. I'll send a message over to Doctor [PHI-Personal] and ask him about it. Um, and see what he has to say.
+Patient: Ok. Now, like I said, I do have one at O IP on the [PHI-Personal]. And he's a, he's for the spine and stuff, but I don't know that that would be this my, my side isn't my spine. I'm sorry, what were you going to say?
+Nurse: Oh, no, you're absolutely fine. Um, I was just gonna say that I'll keep him up. I'll let doctor [PHI-Personal] know that you do have to wait a minute for your appointment with the orthopedic and that you're concerned that it might be something else. Um, and see what he has to say about it. Um, all righty. Um, and then as far as the traMADol, um, you can take it up to three times a day. So don't wait for your pain to get uncontrolled before you take it. We want to keep you under
+Patient: Control. Oh, ok. Yeah. See, and I wasn't, I just took it when I got it bad. Right. I mean, take
+Nurse: It only take it as needed. Um,
+Patient: But
+Nurse: Don't wait for it to get unbearable to take it.
+Patient: Ok. Yeah. Yeah. Well, that's why I take it about an hour before I go to bed so that I can sleep and turn. Right.
+Nurse: Ok. Let me see here. Um,
+Patient: I know what to do. Yeah.
+Nurse: Um, yeah, for now, just continue the traMADol. Um, and then have you been, uh, have you been doing like heat or ice or?
+Patient: No, I did have ice on it a couple times but it's hard. Yeah. [PHI-Personal].
+Nurse: Ok. And how have you been sleeping.
+Patient: Well, I don't sleep well, anyway, even before this, I mean, I might go to bed about 10 o'clock and I wake up at two o'clock and I'm wide awake and I can't go back to sleep and then maybe about four o'clock I'll go back to sleep and I wake up at six o'clock. My sleeping is terrible and I don't know why. But thank God I don't have to work.
+Nurse: Yeah. Do you have nightmares?
+Patient: No. No.
+Nurse: So, what is it that wakes you up?
+Patient: I don't know. I don't know. I just, well, I do get up to pee but sometimes I can go back to sleep after that. I get up two or three times during the night to pee. But then I can be sleeping and, and just wake up and I don't know why.
+Nurse: Ok. Have you ever tried taking Melatonin or something to help with your sleep?
+Patient: No, I have that. My girlfriend told me about that and I bought it but I never took it. I don't know why. I'm not big on pills but, and I should, I always worry about if my husband needs me. I, he sleeps in the other room and, um, he's getting, uh, why can't I say what it is? The words not coming to my mouth. I think I have it dement the dementia. Oh, ok. And I, I need to hear what's going on at night and I think maybe that's in the back of my mind. I don't know, maybe
+Nurse: Some anxiety with, you know, making sure that he's
+Patient: Ok. Yeah. Right. Right.
+Nurse: Do you have trouble falling back asleep or is it just the staying asleep that you have trouble
+Patient: With? Yeah. Staying asleep? Ok. Because then, like, I, about four o'clock then I can feel myself getting sleepy again and I can go back to sleep then. But I wake up at six, my sleep is all broken up and it's been that way for a long time. Hm. Uh,
+Nurse: How's your appetite?
+Patient: Um, I don't know. That's what's all messed up too. My meals, I, I don't have breakfast and if I have lunch I don't have dinner and if I don't have lunch, I have dinner, I usually like, once, once a day and I never know when it's gonna be. I know that's, and that's horrible too and I had lost 25 lbs and now I'm putting weight back on.
+Nurse: Ok. Um, uh, is it a change in your appetite? You just don't feel like eating or you're just too busy or
+Patient: A little bit of everything? Ok. Yeah. How has that
+Nurse: Been going on?
+Patient: Uh, about two months? Ok. And I know that's terrible. And I say to myself, I have to get up and have breakfast and then when I do it's just, I gotta do this and I gotta do that and then before I know it, it's 12 or one and, and then I'm just tired and I wanna sit down and I don't, I'm not hungry. Ok. I, I do eat tough rice and skim milk and, because it's quick and I can get it down and my husband said there's nothing to that. But that's ok. That's what I eat sometimes for dinner. My, my eating is horrible. Hm.
+Nurse: Ok. This may be something that we need to, you know, talk to the doctor
+Patient: About. Yes, I'm planned on that. Ok.
+Nurse: When's your next appointment? Your next appointment's not until [PHI-Personal].
+Patient: Um, yeah, that's no good. Yeah.
+Nurse: Um, I could send him a note about that too and let him know that that's, that's going on. Um, and you said that you put on weight?
+Patient: Oh, yeah, I put on what I took off and I hate it and I'm uncomfortable and I know.
+Nurse: No. What do you eat whenever you do eat? [PHI-Personal]? [PHI-Personal]? Are you there?
+Patient: Hello? You hear
+Nurse: Me now?
+Patient: Yeah, I can hear you now. I am, I don't know what happened. And what did you just ask me?
+Nurse: Um, I asked you what you eat whenever
+Patient: You do eat? Yeah, I said, well, my son makes most of the food for him and my husband because he uses a lot of hot spices and garlic and a lot of onion and I can't do any of that. So when I do eat, um, like if we go out, oh, we at [PHI-Personal] or, um, pork chops. My daughter is a big cook and she lives across the street and she'll send stuff up like she brought me, um, new on clam chowder the other day and I didn't want it right then. And I just looked in the fridge and it's still there. I never did have it. I don't know why. And I used to eat eggs in the morning but I don't wanna do eggs anymore. I don't know. And I'm trying to think what I do eat and when my son makes burgers on the grill, I'll eat one of them and pizza. He'll, he brings pizza a lot and I'll eat one piece of that.
+Nurse: Ok. Yeah, I'll send doctor [PHI-Personal] a note letting him know that, you know, you've had a decrease in your appetite, but a weight gain. Yeah. See what he has to say about that. Ok. And how are you doing mentally? Are you, are you feeling ok? Any, any feelings of sadness, depression, anxiousness, a
+Patient: Little bit of everything. Yeah. Yeah.
+Nurse: Have you noticed anything that triggers it or
+Patient: Waking up? Who is she now?
+Nurse: Uh, so it just kind of all the time.
+Patient: Um, pretty much and they're like, I broke my shoulder and that's, that's getting better. I went to O IP and they did X rays and then I, I had to go for AC A T scan and then my last appointment I went back and he said, oh, yeah, it's broke, you broke it. And I said, ok, I thought so and he said, ok, and then I left, he didn't tell me to do anything, go to physical therapy or he just said up and I thought, what's that mean? What am I supposed to do? I guess nothing
+Nurse: I would mention that at your upcoming Ortho appointment?
+Patient: Oh, I'm, I was going to. Yes. Ok. And I can get my arm up but not like way up.
+Nurse: Ok. So whenever you do have these feelings of, you know, sadness or depression or anxiety, what do you do to make yourself feel better? Do you have any hobbies? Do you exercise?
+Patient: Um, I don't exercise check. So I'm going in here. Um, I know he didn't hear me though. I'm, excuse me, I'm going in my room to talk right now. My son's coming home. Yeah, I gotta turn around and get through here and my balance is terrible. Ok. No, [PHI-Personal]. I, I got a cat in the way. Um, I don't know. I was feeling, I don't know, so useless or so worthless. Like, it's hard for me to do anything right now. I, I ran the sweeper but it hurt and I made to dust and there's always dishes in the sink and I was never this way. I never just sat around. I'll watch TV, to try to get myself somewhere else, you know, like I'll try to get interested, not movies. Nothing. That's a long time because I don't want to just sit, I get up a lot. It and I just, I don't know, I didn't ever think I was depressed and I do have hobbies. I sew and I scrap book and I have puzzles, new ones that I got and I got like an easel type thing but I haven't started them and I, I just, I'm tired all the time. I'm so tired and, um, I'm trying to think what else. But, yeah, I guess I try to watch TV, to get lost and whatever is on. Oh. And I don't know if that's anxious or depression. I don't know what depression is and I never thought, you know, like, like people that are depressed, they wanna kill their self or none of that ever entered. But I just, I feel like there's so much I have to do in the house and I can't like steps even bother me now. And, oh, I don't know what happened to me. Just getting old is ridiculous.
+Nurse: Just feeling a bit overwhelmed by all the things that you
+Patient: Have to do. Very, yes. Be
+Nurse: Limited as far as your mobility is concerned.
+Patient: Yes. Yes. And my granddaughter, the oldest one, she's home from college, she had to have surgery on her hip, not her hip, but the lab, lab, lab, the thing that connects to the hip, they did an x-ray and it was torn. So she had a specialist at O IP, there's only one doctor in [PHI-Geographic] that could do this surgery on her. But, um, he, when he got in there, the whole thing was ripped in half. So we had to put it back together and, and put it back in her hip joint. And usually you use two, not staples but clamps. But he had to use six and she was recovering from that and I was trying to do all well. Now she just started therapy today and she has to go three times a week. So we set it up for three weeks, made appointments and I'll be the one taking her. And now I thought finally I have something that I'm needed for and I know my husband needs all this but sometimes it just overwhelms me. I did take care of my parents. My, both of them had Alzheimer's but it was so different than, than my husband's and it's just a lot right now. I don't know why. I don't know. I should be able to handle this better. Maybe if I didn't hurt I could. But the hurting is kind of a problem too.
+Nurse: Uh, yeah, it's absolutely a problem. Um,
+Patient: I just, I don't know what's the matter with me? I just feel like, like I don't know what, I don't wanna go anywhere anymore. I do go grocery shopping but I just feel so out of it and I used to always get dressed up nice and do make up and I still do. But today is the first time I didn't, I took her to physical therapy and I said, oh my gosh, I never go out with make without makeup but I didn't, I went out without it and I got out of the shower and my, I had my hair cut now it wants to be curly because I got it cut. I don't know why, but I just scrunched it all together and went and that is not me. If anybody would have run into me, they wouldn't have even known it was me. Hm.
+Nurse: Have you talked to anybody about this?
+Patient: No, you, the first, I like that. So,
+Nurse: You might wanna talk to, talk to about it. I mean, there are medications that you can take to help with these symptoms and help, get you, you know, back on your feet.
+Patient: Yeah. I never told him all this and maybe I should have, I thought about it and I think he'll laugh and think I'm silly. No. No, not at all. Not at all. He just, and I told him before when [PHI-Personal], well, my husband had open heart surgery and I think it started back then and he just said you have too much on your plate. But, ah, it's there and it can't just go away.
+Nurse: Right. You do have a lot on your plate. Um, and I see that he has prescribed you citalopram. Are you still taking that?
+Patient: I do take that. Yes, I take one every morning. Oh, right.
+Nurse: I think that you would benefit from ha, like with all the stuff that you have going on and all these questions that you have, um, that I really can't answer. Um, as far as, like, what's going on inside and with your pain. And, you know, and now these concerns here, I really think that you would benefit from an appointment with Doctor [PHI-Personal] and make a list of the things that you wanna talk about before you go in so that you don't get, you know, lost and forget to mention things. Um, make a list of all the things that you wanna talk about and make sure that you get all of your concerns out there and see what he has say about it. Um,
+Patient: You do
+Nurse: Have a lot going
+Patient: On. Yeah, I do and I'm not [PHI-Geographic] anymore.
+Nurse: Um, so why don't I just make you an appointment with Doctor [PHI-Personal]? Would you be ok
+Patient: With that? Yes, that sounds good. Ok. And usually any time was ok for me, but now I've got to work through my granddaughter's schedule for therapy, but that's not far. It's there and it's right down the road from us. So that's not bad. Ok, seven days a week. That's usually
+Nurse: Better for you
+Patient: When,
+Nurse: And do you have a day of the week? That's best
+Patient: For you? I'm looking at her schedule right now and let me, see, we're into the [PHI-Personal]. She goes Wednesday. She doesn't have any appointments Thursday. But then next week she has Monday, Wednesday and Thursday because my husband has one on the 30th. So, the [PHI-Personal] or the [PHI-Personal]. And then I guess we're in July. Huh? And I've, well, on the [PHI-Personal] she goes at eight o'clock so it could even be the [PHI-Personal].
+Nurse: Mm. So, uh, oh, the [PHI-Personal] is not gonna work because the only appointments he has available are the [PHI-Account] and 8 [PHI-Account] on when on the [PHI-Personal] you said her it in the morning?
+Patient: Nothing available
+Nurse: On the [PHI-Personal]. So let's look at the [PHI-Personal]
+Patient: You said no good on the [PHI-Personal].
+Nurse: No, there's nothing there. Um. Ok, so the [PHI-Personal] his afternoon is wide open, uh, from 1 [PHI-Geographic] on or we have some morning appointments if you'd rather do that.
+Patient: What, what did you say after that?
+Nurse: He does have some morning appointments available if, if you'd rather do
+Patient: That. Um, wait, I just lost my calendar. Ok, on the [PHI-Personal], actually 1 [PHI-Geographic] would be great. 1 [PHI-Geographic].
+Nurse: Ok. All right. No, we're gonna talk to him about,
+Patient: Yeah, I'm getting a pen, do it
+Nurse: And back pain. I'm writing this all a note so they know what you're, you want to talk about too. We talk to them about your, your side and back pain.
+Patient: Um, I have a pen but I'm trying to get this tablet out. Ok, I have it and you're writing it down too. So they'll also know. So, my back,
+Nurse: Your decreased appetite. Ok. Um, your disrupted sleep.
+Patient: Yeah. Ok. What was the one you said before? My, the pain,
+Nurse: Um, side and back pain?
+Patient: Oh, my side. Yeah. Yeah. See, that's it when I'm there and have him or I have an appointment I'm going for whatever the appointment is and I forget about everything else and I was never forgetful but there's just so much to think of and so much going on. It's too much.
+Nurse: Yeah, I have a lot
+Patient: Going on. So, the back pain and not eating right. Not sleeping. Well. Was there anything
+Nurse: Else? I think that you need to talk to him about, um, your feelings of, you know, feeling useless and being tired all the time.
+Patient: Um. Right. Yeah. Writing it all down. I can re look at it and think then sometimes I think, oh, my God. Am I getting, am I getting, um, dementia? And that's when he says you're just fine. You just have a lot on your plate. And I do and my son lives here now because of pollen. He's [PHI-Personal] I don't always do things to keep him happy. I mean, I upset him. You know, I don't know why. Oh, can always be worse.
+Nurse: You've just got a lot going on but we'll get you, we'll get you figured out. Um, I have all of your notes in here, side, back, side and back pain, decreased appetite, disrupted sleep and increase in your, um, I believe what I believe are an increase in depression symptoms. Um, so I've put that in here, um, so that he can, he can see it as well, but make sure you bring your list too.
+Patient: Oh, I will and make sure that you
+Nurse: Talk to him about all of this.
+Patient: Ok,
+Nurse: And we've got it down for the [PHI-Personal] at 1 [PHI-Geographic]
+Patient: Right? That'll be great. Ok, and I thank you so much for being so kind and thoughtful. Oh, it's no
+Nurse: Problem at all. None at all. Oh, hey, right on your list to tell him about your appointment with um, the orthopedic doctor not being until July [PHI-Personal].
+Patient: Oh yeah. Ok.
+Nurse: I'll, I'm gonna send um, a note as well. I'm gonna send him a message with all of this information as well, but just in case bring your list with you,
+Patient: I sure will and I won't forget it. I'm gonna put it in my purse now. I have it all written out and I thank you.
+Nurse: It's no problem at all. Do you need, do you need any medication refills or anything?
+Patient: No, I think everything's ok. I'm pretty sure it is. Yeah. Ok. Yeah, because I just picked up some. Yeah, that's all good.
+Nurse: Ok. And have you, have you ever taken traMADol before? Before
+Patient: This. Huh? Uh,
+Nurse: No. Ok. So, um, be careful whenever you're taking the traMADol, um, with, you know, driving or doing things that can cause injury. Um, because it might make you a little bit loopy. Your reaction is a little bit slower. So I
+Patient: Seen that. I read all the directions I like to read and I read everything about it.
+Nurse: All right. Good, good. So, be careful with that and don't drink any alcohol while you're taking this medication.
+Patient: Oh, no, no, I'm not a drinker.
+Nurse: Ok. And one daughter, pardon me, watch out for side effects. Um, you're probably well versed with those as well because you read, you read all the,
+Patient: Yeah. And, you know, before I, before I read it I was, when I would get in bed at night I was itchy, like my wrist and last night it was my toes and then my arm and I thought, I wonder if this is from that because I read it. It's not bad though. I'll scratch it and then, then it's ok. But I don't have any. Hi. No. No, this is itchy. Ok. And I thought, I wonder if that's coming from the traMADol.
+Nurse: Um, it could be, um, but, but as long as you're not having like, extreme itching where there's hives or rash or blisters.
+Patient: Yeah. No, none of that. None of that. Ok. That would be
+Nurse: Like, um, like an allergic reaction.
+Patient: Right. And this is just a good itch.
+Nurse: Ok. Ok. You're not having any nausea. Vomiting.
+Patient: No. Now, for a while and before the traMADol I would get up in the morning and, oh, I almost feel like I can throw up. But, uh, like, like when I was pregnant I get sick in the morning, but I'm not, of course, but I would be dizzy and feel like I was gonna throw up. And I think that's when I stopped eating breakfast because I thought, oh, I just can't eat, I'll throw it up. So I didn't, and now I don't feel that way every day sometimes, but not as long it goes away quicker. But I, I don't like to eat breakfast. Yeah, that's weird. I just thought about that. That's the new one or one that I remember.
+Nurse: Uh, make sure you tell him that, that you notice that whenever you wake up you're feeling that way.
+Patient: Yeah, I'm writing that down too. Ok. Yeah,
+Nurse: Whenever you get out of bed in the mornings, make sure that you're like you sit up on the side of the bed, you know, get up slowly off, onto the side of the bed, let your feet dangle off the side of the bed for a couple of minutes and then try to stand up.
+Patient: I would, but when I wake up, I have to go to the bathroom right away. Like I said, I drink so much water and I have to bring a cup of water. To bed with me or a glass and when I wake up I have to go and I couldn't sit that long and do that. Ok. One problem after another.
+Nurse: Huh? Yeah. Yeah. Be
+Patient: Careful. Oh, I will actually, I, my son said mom, you need a cane. I said, no, not until I can't walk, but my balance is not good. So I went to pick up a prescription and I seen the canes there and I actually bought one. Not that I like it and that I'm happy about it, but I bought one and I do use it to get to the bathroom in the night and I even used it a couple times going out until I get to the car. Ok? But I'm not happy about that either. That's another donor. Well,
+Nurse: No, you're not happy about it but it's, it'll keep you safer.
+Patient: Yeah, that's what my grandkids are telling me. Just use it, grandma use it. I just never pictured myself doing that using can. Um, but like I said, better days ahead and it could always be worse.
+Nurse: That is true. We'll get you, we'll get you sorted
+Patient: Out. Ok. Thank you. You're
+Nurse: Very welcome. And if you think of anything else that you need, you just give me a call. Ok.
+Patient: Oh, I will. Thank you dear, so much. You're very welcome. Ok. Have a good day. Bye bye. Mhm. Bye bye.

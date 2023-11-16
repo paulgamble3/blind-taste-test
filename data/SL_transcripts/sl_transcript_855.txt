@@ -1,0 +1,27 @@
+Nurse: Hello, this is [PHI-Personal]. Yes, this is [PHI-Personal]. I'm calling uh about no o'clock. Uh, say that again. I'm
+Patient: Sorry, I didn't hear you.
+Nurse: This is [PHI-Personal]. I'm calling about a house [PHI-Personal].
+Patient: Ok. What's your date of birth honey?
+Nurse: About? No, I'm recording your call. I
+Patient: Think Miss [PHI-Personal] called. You. Give me just a second. What's your date
+Nurse: Of birth? Honey? [PHI-Account]
+Patient: [PHI-Personal]. You said 9, 10 34?
+Nurse: [PHI-Personal]
+Patient: 10, [PHI-Account]. Ok. [PHI-Account], [PHI-Account].
+Nurse: Ok, bye. And who
+Patient: Are you calling on behalf? I'm sorry, honey,
+Nurse: [PHI-Personal]
+Patient: [PHI-Personal]. Oh [PHI-Personal]. Ok. I was gonna say I haven't talked to you yet. I did call you, honey. Um I was just checking up on and see how she's doing.
+Nurse: She's fine but I have a message to talk to the doctor. He called.
+Patient: Oh, the doctor called, let me see what he said. Give me just a second. Um, there's something about physical therapy from today. Uh, there was no response from the doctor in there. Give me just a second. They were calling about the swelling in her feet from yesterday. What about it? Yeah. He was wondering, Doctor [PHI-Personal]. Yeah, he was wondering if he can do, um, if [PHI-Personal] could do a swallowing study,
+Nurse: I guess. What, what is that?
+Patient: No, he wants to do one. So, that's one where he would put a referral in. And so pretty much what they do is they have her drink something. They'll check to see if she's having any trouble with her esophagus. Um, and that might be the best way to know what's going on with the swallowing difficulties and the coughing as well.
+Nurse: All right, so I have to wait to reschedule that.
+Patient: Yeah so I'll let them know that you are that you guys are ok with that um just keep your phone handy and once they get that all taken care of and put through they will give you a call to get that scheduled but it looks like they just wanted to make sure that you guys were ok with that first. Ok. Sounds good. Ok. Alright. Anything else going on?
+Nurse: No.
+Patient: Ok. All right. Um is she doing ok since she got home from the hospital?
+Nurse: I believe.
+Patient: Ok. All right, keep your phone next to you. They'll be calling you back shortly. Ok.
+Nurse: Ok, but I'm not gonna I'm leaving work.
+Patient: Ok. Um if not, do you want me to just have them leave you a detailed voice mail? Would that be ok? That would be great. Ok, we can do that. Alright. I'll see if they can give you a call if not today it'd be sometime tomorrow. Ok. Ok. Alright honey thank you you have a good day.
+Nurse: You too.

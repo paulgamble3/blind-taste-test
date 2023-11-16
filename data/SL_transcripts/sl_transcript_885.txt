@@ -1,0 +1,42 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is
+Nurse: [PHI-Personal]. Hi, [PHI-Personal]. I just hung up from leaving you a message so you can just disregard that message. Yeah, I saw
+Patient: You calling but it didn't, it didn't like ring or anything. So,
+Nurse: Uh, yeah, there, sometimes those cell phones, those things act up. How are you this morning?
+Patient: Oh, I'm kind of weird today. I'm dropping everything today. Oh, no. Oh, well, I don't know what that about but, oh,
+Nurse: Well, goodness. Well, be careful. You're, are you ok, like on your legs and stuff? Your legs aren't weak or shaky?
+Patient: No. No. It just, I don't know, maybe I just had too much stuff in my hands or whatever.
+Nurse: Ok. You know. Oh, yeah. Um, well, the office did, uh, send me another message. They wanted me to reach out to you. They did fax the, um, order for that lift chair with the headrest, um, to hubs, which is a, um, durable medical equipment place in [PHI-Geographic]. Um, so all the paperwork, the orders and everything was completed and faxed, um, they said if you don't hear back from the company or you don't get your items within 14 days, so two weeks, um, they want you to call, um, the, the office there at family practice and, and let them know. Um, yeah, and I mean, if you, if I, if you wanna call me, you can call the office, either one. you know, but everything was sent. So usually, you know, you should at least hear from them within a couple weeks. Um, you know, to, to give you an update about, uh, you know, when the chair is gonna be delivered and things like that.
+Patient: All right. So that'll be about the time I come back home then.
+Nurse: Right? Yeah, because you'll be leaving here in a handful of days. So, um, and this number that I'm talking to you on, this is a cell phone. So you'll have this when you're in Tennessee, correct? If they reach out to you.
+Patient: Yeah. Oh yeah, I'll have my phone with me and everything. Yeah. Ok.
+Nurse: No problem. Yeah. Ok, perfect. All right. Well, is there anything else I can help you with today, [PHI-Personal]?
+Patient: No, honey, I don't think so. I'm, I did look on the itinerary for uh, what I could carry on my plane and I can carry my, uh CPAP with me. So perfect, but that's not an issue.
+Nurse: So. Ok. Excellent. Yeah, I figured they can't deny somebody taking a medical something that's required medically, you know, because if you don't use your CPAP, you can do a lot of damage Um, so.
+Patient: Well, yes. And I don't want that because I'm trying to straighten myself out now as it is. So.
+Nurse: Exactly. You know.
+Patient: Oh, all right. Well, I know it's horrible.
+Nurse: Did you look ahead to the weather in Tennessee? Is it supposed to be any nicer than Pennsylvania?
+Patient: Well, it is it that they have like, warmer weather now, but my sister said it was, like, really nice but then it was raining and stuff and it was a little cool there. So their weather is just about as unpredictable weather.
+Nurse: So, 70 degrees one day and negative 20 the next time. Yeah.
+Patient: Yeah, that's about it. That's about the way it is. So, I told her, I said, well, I'll just pack up a little bit of everything. So if I get cold then I have something warm to wear.
+Nurse: So, there you go. Yep.
+Patient: Oh,
+Nurse: Well, enjoy the time with your siblings. I know it's not going to be a fun trip per se on what, you know, you want to get together to do. Um, but, you know, enjoy the time that you have with your siblings and I'm glad that it's nice that you don't have to make this decision on your own and you have other people. Yeah. To get together and
+Patient: Discuss, to do that.
+Nurse: Right. Yeah. Oh, gosh.
+Patient: But I, I thought about calling you before I left. So, anyway, so, yeah, I'm, I'm kinda like that now anyway, you know, because I know it's getting closer, uh you know, all the time. So
+Nurse: And like I said, [PHI-Personal] take my number with you and if you, you know, if you need to discuss anything, please feel free to give me a ring. I
+Patient: Appreciate it. Like I said before, you guys have done so much for me and it makes it so much easier for me to, to reach out. So, you know, uh I you guys really do care about me and that makes me feel good because it's very hard to the doctors that do that. So,
+Nurse: Yeah, this, that's um, the and family
+Patient: Practice. I, I really have a good team of, of nurses and doctors that really do care about me. So,
+Nurse: You know, well, that's that, I wish everyone could have that because that means, you know, that's very important whenever you, it's important for the patient to have trust in their, you know, not only their doctor and their, but also everybody who's involved with that provider. So. Right.
+Patient: Exactly. So you just let everybody know that I appreciate what they're doing for me and it makes it so much easier for me to, to deal with things and stuff like that. So,
+Nurse: Yes. Yeah. Well, thank you for letting us know that too. That's, you know, not everybody shares whenever, you know, people are easy and fast to share when something doesn't go. Right. But, you know, they don't share all the time. Whenever they're appreciating things. So, thank you for that too.
+Patient: Oh, well, honey, I've been in that kind of a field for years, so I, I understand so I understand how hard you guys work and how hard you try to, to make the patients better and stuff and I, I understand that fully. Good,
+Nurse: Good.
+Patient: Just let everybody know that I said that I appreciate it and, um, I'll let you know, you know what things are, what's going on. So
+Nurse: Perfect. That sounds great. Ok. Ok. All right, [PHI-Personal]. Well, enjoy the rest of your day and have a nice weekend and like I said, reach out if you need anything when you're on your trip, when you come home or whenever. Ok. Ok,
+Patient: I appreciate that. Thank you so very much.
+Nurse: You're welcome. You take care.
+Patient: I will. Thanks a lot. Uh huh. Bye bye.

@@ -1,0 +1,41 @@
+Nurse: Co healthcare. This is [PHI-Personal].
+Patient: Yeah. Hello [PHI-Personal]. It's Ron calling and I I you were responding to my message to doctor [PHI-Personal].
+Nurse: I was uh [PHI-Personal]. Can you verify your birth date?
+Patient: Yep, June 18, 1947.
+Nurse: Ok. Give me just a minute to pull your chart back up. All right. So, uh when you started the Losartan, was that just recently, was that last week?
+Patient: It was about 10 days ago. Ok.
+Nurse: And when you check your BP, when are you checking it?
+Patient: Oh gosh, about four or five times a day. It first thing in the morning, middle of the morning get trying to get a feel for it over the course of the day and then then before I go to bed and it's always way up. It, it's, it's, it's gotten higher as a result of the changes.
+Nurse: Ok. Are you taking it first thing in the morning before coffee before medicine to kind of get a baseline for the day.
+Patient: Um I take the Losartan in the morning but I've been taking uh actually I went back to, to taking a half of amLODIPine out of fear, but I was taking it in the evening, the lo the a, a amLODIPine, which I'm not taking any, any. Uh, well, let me go back. Doctor made the change. He said, let's go higher with the Losartan to the maximum dose, which is 100 mg. He said, and because of all the swelling on my ankles, he said, we're gonna try to get rid of the amLODIPine and let's so we're gonna cut the amLODIPine and uh increase the Losartan fine. Well, you know, from what my readings say it hasn't worked because now they're gone up to like 94/86 92/100 things like that. And then I, then I said, ok, out of, out of concern, I started thinking, well, maybe on Friday, I'll take a half of amLODIPine um, each day and so far nothing has happened with that changes.
+Nurse: Mhm. Ok. Uh, when you check your BP, first thing in the morning, have you taken any medicine other than the medicine that you take at nighttime?
+Patient: I, I take nothing. I just get out of bed, walk over to my, the counter and take my blood
+Nurse: Pressure. Ok. And this morning it was [PHI-Account] 52. Over 99.
+Patient: It was 11 92 over it. No. What was the, what was it? I, I have, I have it written down, I can tell you exactly was [PHI-Account] 52
+Nurse: Over [PHI-Account]
+Patient: 50 something over 92. Can you wait for one second 10, I have to check here. Mhm. I'm in the car right now. So let me just check. Exactly.
+Nurse: Ok.
+Patient: Oh, where is that?
+Nurse: Where goes?
+Patient: Yeah. Let me see if I can find this.
+Nurse: Ok. Yeah. Are you, while you're going to look for that run? Are you having any other symptoms, headache, chest pain, shortness of breath. No,
+Patient: No, no, nothing at all. You know, and on the positive side, uh, my, my, um, swelling as a result of slowing down on the amLODIPine going to half and then to zero. all the swelling is gone. Now, um, you know, so that's the good part. Ok. So this morning, this morning it was [PHI-Account] 66/94. Ok. Last night it was at 10 o'clock at night. It was [PHI-Account] 51/94.
+Nurse: Ok. And when you check your BP, is it with a [PHI-Personal] cuff or is it with a wrist cuff?
+Patient: Arm, [PHI-Personal]
+Nurse: Cuff? Ok. So automatic [PHI-Personal] cuff.
+Patient: Yep. No, no, no. You know, it was my father in laws from a few years from years back and, uh, because he had to check his BP when he passed away. Mhm. He gave it to me, to me that they gave it to me. And, uh, uh, it's one that you inflate with a bulb.
+Nurse: Oh, ok. So is someone checking it for you? Is your wife able to check it? I
+Patient: Do it myself. I do it myself.
+Nurse: Ok. All right. And how is your heart rate when you check this? Perfect.
+Patient: Actually, you know, my, I've always been, you know, in the fifties and, and all these numbers are like, I've got about 15 numbers. [PHI-Account]. It was [PHI-Account] 62. But that was after, I think exercising and then 55 it's, it's always in the fifties, which is exactly where it should be.
+Nurse: Ok. So it's just the BP that we need to get a handle on.
+Patient: You're right. And doctor had said, you know, this is like a little bit of a trial and that if, uh, we have to, we'll go to plan B and I'm not sure what that is. He, he mentioned another medication. But II, I, no, I just, I know that he was consulting with doctor, my cardiologist before making this change. So, uh, you know, I did, I'm kind of torn like, who do I call? So I called since he made the change, alert him to this and hopefully, again, talk to and see what can be done. I've, you know, I've had, I, uh, you can see from my chart, I had a stroke and I have, uh, type one diabetes. I've had it for years and years and years. So, um, you know, he's the target, as he mentioned to me was we need to, uh, uh, to get like around [PHI-Account] 20 over and [PHI-Account] 20/70 it, it's gotta be lower. It has to be lower because you, you said you're diabetic and I agree with him, I'd be happy with the one [PHI-Personal], you know, with my age, but whatever, this is not. Right.
+Nurse: Ok. So there, but there's no other, no lightheadedness. No dizziness. No, nothing that would require an emergency room visit today. Oh, no, no,
+Patient: Nothing like that.
+Nurse: Ok. All right. Well, doctor is out for the day but I will have him look at this first thing in the morning. He doesn't work on Mondays. Uh, but I will have him look at this first thing in the morning and I will give you a call. Ok, better yet. Let me give you my direct number. So that way if you don't hear from me, we'll say by 11 o'clock in the morning, you give me a call.
+Patient: Thank you. What, what
+Nurse: Is it? Mhm. It's [PHI-Account]. Yes. [PHI-Account],
+Patient: [PHI-Account],
+Nurse: [PHI-Account]. Ok. And my name is [PHI-Personal].
+Patient: Got it. Well, thank you [PHI-Personal]. Do appreciate it.
+Nurse: Welcome. You're welcome Ronald. Now, if you start to experience any chest pain, shortness of breath, things like that, especially with your history of the stroke. Absolutely. Go to the er, today. Ok. But just um, take it easy, don't do anything to increase your BP today. Watch your caffeine intake, your salt intake today and then we'll discuss this with doctor in the morning. Ok. Ok. Yeah, will do. All right, Ronald. We'll talk soon. Thanks. Bye. Mhm. Bye bye.

@@ -1,0 +1,21 @@
+Nurse: This is [PHI-Personal].
+Patient: Hello, this is Pat [PHI-Personal] calling. Uh, I see that you called here. Is there any particular reason?
+Nurse: Let me see. It was probably for your, for the monthly, um, check in. Let's see. Yes, we were calling to see how everything's going, um, for the monthly check in,
+Patient: I guess as, as far as I know. Good.
+Nurse: Ok, good. Um, I didn't see any recent appointments that you've been to. Um, I'm just pulling up your chart real quick. Let's see. You had your labs drawn just the other day that, that was good for the TSH. Have they gone over those with you yet?
+Patient: Yes, they said they turned out fine except he wants to, uh, check it again in, I think six weeks.
+Nurse: Ok. That's good. Um, let's see what it was last time. So last time it was 28.85 and this time it's gone down to 9.88. So that's a lot better than it was.
+Patient: Oh, is it? Mhm.
+Nurse: Yeah. And that's your levothyroxine? That's helping that. So, um, that's great that it's able to bring it down that much.
+Patient: Ok, because he increased my levothyroxine. He increased that.
+Nurse: Ok. Yeah, that levothyroxine is that thyroid medicine? It replaces your hormone, um, normally produced by the thyroid gland. Um, and whenever your thyroid gland doesn't produce enough then that kind of intercepts it and yours is doing really well with it. Um, bringing that that number down. That's fantastic. Ok. Good. Mhm. Are you having any signs or symptoms from the levothyroxine or side effects? I mean,
+Patient: No good. Ok. What side effects am I supposed to have?
+Nurse: Um, no, some of some people get um weight gain or even weight loss headache, um sensitivity to heat.
+Patient: Ohh. Well, that would be good if I was sensitive to heat.
+Nurse: Are you cold normally
+Patient: Normally? Yeah.
+Nurse: Yes. Oh my goodness. No. Well, good. Well, I'm glad that it's doing well for you. That is fantastic. Um, so that sounds great. I guess after your next uh lab draw we'll get to see, you know, how much more it's even come down. So that's, that's really awesome.
+Patient: Ok, good.
+Nurse: Yes. And do you need any medication refills or is there anything I can do for you?
+Patient: Not that I know of?
+Nurse: Ok. Alrighty. Well, then I will just check back in with you next month but if you need anything from me, just holler. Ok, thank you. Ok, thanks. Bye bye.

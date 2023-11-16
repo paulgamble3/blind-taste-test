@@ -1,0 +1,20 @@
+Nurse: This is [PHI-Personal].
+Patient: Uh Yes. Excuse me. I got a call. I don't know if it's from you or not, but I got a call from somebody tell, um, talking that appointment I made in in [PHI-Personal]. Is there any, by any chance I can change it to another day?
+Nurse: So you um let me look you up quick. Can you tell me your last name?
+Patient: Um [PHI-Geographic].
+Nurse: Ok. And [PHI-Personal], can you tell me your date of birth?
+Patient: [PHI-Account].
+Nurse: All right. So I definitely called, we spoke on the [PHI-Personal] last Thursday. So and then somebody called you in between then,
+Patient: Yeah, to um give me a um just talking about the she, she is gonna be a um nurse where they call me or something when I need them or I can't. Yeah, that's me, that's me. Well, then, um you called and, and made an appointment if it's this. So I could see ear to see a earlier than [PHI-Personal], which is nice and it was [PHI-Personal]. Um I was wondering by any chance can I make the date a day different?
+Nurse: I don't see an appointment for [PHI-Personal]. [PHI-Personal] let me pull up our notes quick. Oh,
+Patient: I hope, I guess I wasn't talking to you.
+Nurse: No. And I don't see an appointment for [PHI-Personal] on your chart at all with our office. I just see the one in [PHI-Personal].
+Patient: Well, somebody, somebody name, um, gave me an, because I, well, she, she asked me how I was doing and everything and I said, yeah, I said I'm having problems but I'm doing it and then she said something, I can give you a number to, you can reach a during the times where, uh, you might want to change your schedule or to see how you're doing and everything like that.
+Nurse: So that, that is me. That is correct. But I just don't see a [PHI-Personal] appointment on your chart anywhere with our office. So when did that call come
+Patient: In? I thought it was yesterday or the day before.
+Nurse: So that was Saturday or Sunday. Did, let's see. So I don't have anything in your timeline since we spoke. Do you still have the message on your phone?
+Patient: No, because usually after I talk to the person and I, I use it when it goes off.
+Nurse: Ok. Um, so I am not showing any appointment in [PHI-Personal].
+Patient: Is there any possible way that you could get me down into [PHI-Personal]? She said it was [PHI-Personal] at 10 30 but, uh, my rider couldn't make it. And she says change, can you change the date and I said, well, I'll see if I can find out.
+Nurse: Hm, let me click on your appointment history. Yeah, I don't have anything but I can help get you through to the front desk to work on scheduling. You wanna do that? Yeah. Ok. Hold on one moment.
+Patient: Thank you. Hello?

@@ -1,0 +1,33 @@
+Nurse: Hi, good afternoon. This is [PHI-Personal]. Is,
+Patient: Uh, in.
+Nurse: Hi. So, no, um, unfortunately she's not in, um, but, uh, I'm, I'm, and I'm one of the nurses that works with her. Uh, and I did see that, you know, answered, uh, that triage that she was talking with you about different, different concerns you had. So I, if you would like, I can go over those with you. No,
+Patient: I'm all right. I just wanted to call her back because I had, I wanted to make appointment or, uh, therapy place.
+Nurse: Ok. Ok. I was
+Patient: Gonna have her do it but I already did it. I got a hold of then. Oh, you did it? Ok. Yeah, I called right down the lot to my doctor down here and did it. Sure. I just wanna let her know that I, I did that. I made an appointment to go to therapy. That's all I wanted.
+Nurse: Ok. Ok. It does look like. Oh, sorry, go ahead.
+Patient: Just let her know that I made that appointment then.
+Nurse: Ok. Ok. So, um, for, for the recommendations that [PHI-Personal] had though, uh, I just didn't know if you were interested. He did recommend um, you know that it's possible to increase that, that gabapentin, you know, if
+Patient: That was something I told, I told that because the other ones that he gave me ain't freaking doing nothing. Yeah. Gabapentin that I take that he gave me.
+Nurse: Ok. Ok. Yeah. Um, so I'm glad that you, you got scheduled with the PT, I'll let her know, um, if you would like to do the gabapentin twice a day, that's the 300 mg. See if an increase in dose is helping, then then was agreeable to that. Um
+Patient: So yeah, because I'm taking one of them and at night.
+Nurse: Yes. Yeah. So you could do it, say take one in the morning, one at night.
+Patient: Ok. That I'll try that. Then
+Nurse: It can take a while. Unfortunately, it's, it's hard, you know, when you're in pain and, and want in relief, but it can take a while for them to take effect. But um you know, just if you wanna try it and stick with it and see if, if it does make a difference over time, then I can tell him to he can send in an increase of a dose. So you might run out, obviously, you'll run out quicker because it's an increase in dose. So he can send that in. You can, and that way when you start running low, you can pick up the new um script from, from your pharmacy. So. Ok. Good, good. I'll have him do that, um, the other thing [PHI-Personal] did say, uh, he, he doesn't think you'll be able to get any of the diabetic shoes from, from the CV S in Ville. Um, but the other way to do it could be to go to a podiatrist. Sometimes they will cover shoes, uh, if you go to a specialist. So he's, he's open to placing that referral, you know, if that's something that you want to do as well.
+Patient: Yeah. So you do that
+Nurse: Good? Ok. I'll have him and of course, I'll let [PHI-Personal] know all this but I'll have him send then in, um, a referral to a podiatrist. Now, do you have any preference? Have you been to one before? Is, is there one that, you know, of you wanna see?
+Patient: I don't even know if there's any, I don't know of any. I never went to something like that around this area. I mean, around my area.
+Nurse: Yeah, of course. So I'll, I'll let him know, you know, we'll, we'll pick one that's close to you and we'll put a referral in and then that might be a good way to get, you know, those shoes, better shoes for you covered and that could help with what's going on as well.
+Patient: Right. Right.
+Nurse: Ok. Good. And then one more, the last thing is the glucometer, um, he did send in an order to the pharmacy for the test strips and the lancets did, were you, um, able to get those yet. No, not yet. Ok. Ok. Let me just double check here in, in your chart. Um, which, let's see, you are using, uh, [PHI-Geographic] Pharmacy. Is that the one that you're using?
+Patient: I was using? And I'm using down at a family practice in.
+Nurse: Ok. Um, so are you, are you using the CV S then, or Walmart?
+Patient: No, I go through Humana, Humana. Oh, ok.
+Nurse: Ok. They changed their name.
+Patient: Yeah. Yeah.
+Nurse: Ok. Um, let me see where, because they may have been sent. Uh, let's see. Ok, they get really specific but with what they need on those, those orders. So, um, you already, do you have a Glucometer currently? What do you have one that works? You don't have one?
+Patient: Ok. I don't have one.
+Nurse: All right. So this will be your first one. That way we know they'll cover it. It may be that you might have to get, um, the, everything, the set up, the test strips, everything from, from a certain pharmacy. So it may not be the one that, that you usually use the mail order. Um, so I'll see about that. I'll see how to, how to best get that for you. That way it's covered. You don't have to pay anything. Um, so that's good. And, and how about using a glucometer? Are you familiar with, with using it? Um, have you?
+Patient: No, if it's an easy one, I can't, I wish there was one that I could do with my phone. I saw that where they put the phone again or body or whatever that stick thing that sticks on your body or whatever that was. My step mom has one. She can show me how to use it. Yeah.
+Nurse: Ok. Because I was gonna say, yeah. Yeah. When you know, of course, when, when you get it, if it feels like it's, you know, since it's your 1st, 1st time doing it, you can always, we can set up a visit if you want to come in and the nurse can go over it with you, you know, one on one if it becomes, you know, because it can be confusing using a new, new thing like that. So um if if you're having a hard time and then sometimes um you know, uh walking through different things over the phone, if you're having trouble, we can try to do too. So um we'll we'll figure out how the best way it is for you to get it and then what the best way is gonna be for you, you know, if you're having trouble with it to to figure out how to use it. So good. Ok, so we'll get all of that started. I'll work on that and I'm gonna update [PHI-Personal] on everything for you. Ok? All right. Well you have a great weekend
+Patient: And you too. Thank you very much.
+Nurse: You're very welcome. Bye bye. Alright, bye bye.

@@ -1,0 +1,87 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Yes, this is [PHI-Personal]. Hi,
+Nurse: [PHI-Personal], how
+Patient: Are you? Just fine. I've got four prescriptions that I don't have any refills on. Oh, no. Yeah, so I need to get these refills.
+Nurse: Ok, hold on just one second. Let me get you pulled up here.
+Patient: Ok,
+Nurse: Bye, almost there my computer. There we go. Ok, I am ready whenever you are.
+Patient: Ok. I need to get the Singulair refilled.
+Nurse: Ok. And that's 10 mg
+Patient: Daily. Yes. 10 mg
+Nurse: Daily. Ok.
+Patient: And the uh I'm not saying that right. I know it's bume P ami [PHI-Personal]
+Nurse: Ok. And that's two mg daily.
+Patient: Yes, ma'am. Ok. And naproxen 500 mg
+Nurse: And that's twice a day as needed.
+Patient: Yes. Ok. And um NexIUM 40 mg,
+Nurse: A 40 mg and that's daily. Correct? Yes. Ok. Is that all of them? Yeah. Ok. And you want those sent to the [PHI-Geographic] Pharmacy?
+Patient: Yes, ma'am.
+Nurse: Ok, I believe um today is [PHI-Personal].
+Patient: So that's why they're, they're close. That's ok. That's I, yeah, because I've got enough to get through to Saturday.
+Nurse: Ok. Um hopefully they'll get them sent in for you tomorrow.
+Patient: Yeah, that that'll be fine.
+Nurse: Ok. Um, so how's everything else been going?
+Patient: Pretty good. I'm just really tired today.
+Nurse: Oh, no. Did
+Patient: You? We, we went to [PHI-Geographic] today and that's a big trip for me to go down there and come back. So, uh, but it just wears me out. I'm just tired this even.
+Nurse: Oh. Did you go for like, an appointment or did you guys, like, go grocery shopping or something?
+Patient: Uh, my husband needed to go to Rule [PHI-Personal]. Oh, ok. So I told him if he's going to rule [PHI-Personal], he had to take me to Ali.
+Nurse: That sounds like a fair tree.
+Patient: Yeah. And then we, I looked at him. I said we're gonna eat at [PHI-Personal] because I want some of that concrete ice cream.
+Nurse: Concrete ice cream.
+Patient: Yeah. Well, it's actually [PHI-Personal] at Freddy's. It's not ice cream. It's [PHI-Personal] and it is some of the best stuff you ever eat. It doesn't bother. Like ice cream does sometimes
+Nurse: Interesting. I don't think I've ever heard of it.
+Patient: Yeah. You have to go by there and try it. It's, uh, right there where, uh, just pass the Taco Bell as you're going through, through, through town.
+Nurse: All right, I'm gonna have
+Patient: To look into it and I got some best burgers and hot hot dogs you ever eat? And little bitty skinny fries. Ring fries. I call them,
+Nurse: Oh, those are my favorite. And especially when they're crispy.
+Patient: Oh, and theirs are, they're crunchy and I want you when you get an order fry, you get enough for two people. Oh, wow. They really pile them on.
+Nurse: That sounds delicious. And now I'm hungry.
+Patient: Ok. See.
+Nurse: Oh, goodness. Have you been checking your BP at
+Patient: [PHI-Personal]? Have I been doing what? Oh, my pressure pressure. Yeah. Not in the last few days. No, I will do that this evening. I, I promise you, I'll check it this evening.
+Nurse: Ok. Do you normally take, take it like daily? You're just kind of out of
+Patient: Uh, no, it's just kind of hit and miss with me. I, I guess I should check it daily.
+Nurse: Yeah, I mean, you know, monitoring at [PHI-Personal]. I, I know we've talked about it with um, [PHI-Personal], it just kind of helps you monitor those changes and, you know, helps the doctor make better decisions about your treatment. Um, it can also help with the early diagnosis and again, just kinda help track that treatment and it, you know, having just that occasional reading in the office, it helps them to have, you know, more than just that uh I
+Patient: Can do that. That's not a problem.
+Nurse: Ok. Do you have a place to write them down or would you like me to send you a log?
+Patient: Uh, I just have a little scratch pad, land on my chair in there that I can ride it on.
+Nurse: Ok. Um, that, that works, that's fine if that's um ok for you to use. It's just um, like we have, you know, just something that you would take to your appointment so that they can kind of look over. We see that. Um,
+Patient: So, well, can you send me one for myself and one for [PHI-Personal] then?
+Nurse: Absolutely, I can.
+Patient: Ok. That would be great.
+Nurse: All right, I'm gonna write myself a note here for both. It is. I've got a little bit of the Somers
+Patient: And, uh, I have a little bit too, sometimes, a whole lot.
+Nurse: Sometimes you have a lot of Somers. Uh,
+Patient: Yes, very much so. All right. Well, since
+Nurse: I've got you on the phone, how's [PHI-Personal] doing?
+Patient: He's doing good. Um, he's been very good here lately. The heat is hard on him and I've made him stay in, in the afternoons when it's so bad. I said you just can't go out there and stay out there like you're used to. You just can't.
+Nurse: Oh, it was so hot too. Oh,
+Patient: Yeah, it's this last two days. It really been nice.
+Nurse: Absolutely. Like you can go outside and kind of breathe.
+Patient: Oh, yeah,
+Nurse: It was miserable. Does, does he need any refills today?
+Patient: Uh, let me ask him real quick. Do you need, he says he's good. He's
+Nurse: Good. Right. So, um, I know we've talked in the past about his BP. Is he still checking it?
+Patient: Yes, he is. He's taking it every evening
+Nurse: Daily. Ok. And how's it running?
+Patient: Uh, it's been like 1 54 over, over 70 then it might jump up a little to like, 1 60 something over, uh, [PHI-Personal]. You know, it's not, it's staying under that [PHI-Account] close to 40 sometimes. It's, it's, but, um,
+Nurse: Right, so that top number, he is still a little high on that top number
+Patient: Occasionally. But I think a lot of it is because he's overdoing it and this heat, ok. I really do because it, when he comes in, in the evening he's kind of pale and I say, go get cleaned up and sit down and sometimes he doesn't wait long enough to take that BP. Oh. Um, y yeah,
+Nurse: That'll do it. Um, yeah, he definitely needs to, uh, you know, wait about at least 30 minutes. Um, if he can. Yeah, after, you know, getting all hot and everything like that. Um, and they game,
+Patient: He, he has Somers like I do. So, you know, sometimes he forget and sometimes I do so, uh, occasionally class I
+Nurse: Understand. Does he take it at the same time for the most part, every day, though?
+Patient: Pretty much? Yeah, it's usually between I'd say nine and 10 at the latest
+Nurse: At night. Yeah.
+Patient: Ok. Uh, by the time he gets done with these chores outside it's usually going on 8 39 o'clock timing. He gets everything finished and we get in the house and he gets cleaned up and that's where he needs to wait a little longer. Sometimes he comes right from the shower, gets the BP thing and sits down and takes it and he needs to wait a little.
+Nurse: Yeah, that, yeah, that might help. Um, it not be so high if, if he's not, you know, we, um, he should definitely make sure he's got at least which we said, you know, 30 minutes after exercising or drinking or smoking or eating, um also having an empty bladder and make sure he's got like five minutes of quiet rest kind of before he takes
+Patient: That reading. Ok. All right, I'll tell him.
+Nurse: Ok. All right and he doesn't need any refills today. I will get a BP log for both of you and I will request your refills for you.
+Patient: Ok? I appreciate that a whole lot.
+Nurse: You're welcome. Um do you guys have any upcoming appointments?
+Patient: No we don't.
+Nurse: Ok. All right I was looking at [PHI-Personal] to make sure he didn't have anything sitting out there.
+Patient: Yeah. No
+Nurse: No you don't either. All right honey. Well if you need anything else don't hesitate to call me. Ok.
+Patient: All right. Thank you and you have a good rest of the week. Thank you. You too. Alright bye bye
+Nurse: Bye.

@@ -1,0 +1,44 @@
+Nurse: Chronic care management. This is [PHI-Personal].
+Patient: Yeah, good morning. This is, did you just call? This is,
+Nurse: I did, I did. Yeah, I was just calling to, I called you guys yesterday but presurgery was calling you. Mhm. Yeah, I was just calling to check in on you, um, and see how everything was going. So you have surgery for carpal tunnel. When is
+Patient: That we
+Nurse: On Wednesday? What, um, hand is it? Right, right hand. Ok. On Wednesday. So, um, did they go over the surgery with you? Not yet. Not yet. Ok.
+Patient: Um, call Monday or Tuesday.
+Nurse: Yeah. Y so just some things to look out for, um, after surgery once we, you know, if we have surgery and we always have that risk of infection, um, postoperatively. So if you're having any redness, warmth, swelling, fever, anything like that at that ex excision site, um, some foul odor drainage that has a color then, um, then we just like to know that, that way we can, um, take a look at it, maybe get an antibiotic, things like that. But, um, just main thing if you start to get a fever, nausea, vomiting, if it feels a little, um, funny then. Yeah. You know, we, we do consider an infection here. It might feel a little tight after the surgery. Um, are they cutting it open or are they doing? There's like different methods, um, for surgery, are they doing, um, like an open surgery,
+Patient: Do you know? Yes. That's what it is. That's what the, yeah, told me. She showed me on her wrist, you know, she says the incisions about this long.
+Nurse: Yes. Yeah. So, um, they make an incision kind of at the palm of your hand. Um, and it cuts through the ligaments and the nerves and then, um, they just kind of, um, I, I don't wanna say, like, open that up but they open that up, get all that stuff out of there that's pinched, close, you back up. Um, the healing takes a, um, several months on the inside and then outside just a few weeks. Um, and then you'll, you'll have to do some stretches and stuff like that to kinda help work out those nerves but simple surgery. I worked in Ortho for a long time and we've had a lot of people, um, have some really good success with it. So, um, yeah, pretty easy surgery. But just, you know, look out for those, for that infection.
+Patient: Yeah. Yeah. I was hoping it would bounce back sooner than that because I've been putting up with just since Thanksgiving and it's, you know. Yeah. Yeah. Pain really painful.
+Nurse: Yes, it, it is very painful. Um, you know, some people will feel an instant release. I had a couple of people feel like an instant release. Um, I had, um, a couple of people take a couple months. So it really all depends. But, um, you might instantly feel that relief whenever they cut that ligament. Um, so, yeah, so just, you know, like I said, make, make sure we're looking out for those POSTOP, um, complications.
+Patient: So, yeah, I go back the [PHI-Personal] or a POSTOP
+Nurse: The [PHI-Personal] for POSTOP. Ok. Do you have any questions regarding the surgery at all? No. No. Ok. Um,
+Patient: They'll tell me, well, whenever they call
+Nurse: That lady was
+Patient: Probably, she said they start calling Monday at 12 o'clock.
+Nurse: Ok. Yeah, they should, they should go over anything with you and any questions that you have, they should, um, help, be able to answer it. But it's not, it's not too bad of a surgery. Yeah.
+Patient: And, um,
+Nurse: I know I had, um, when I was pregnant with my first child I got carpal tunnel in my wrist. Um, and it's very painful. It is very, very painful. Yes. It is just a constant.
+Patient: Yeah, like I said, and this is worse.
+Nurse: Yeah. Yeah, because it's just constant and there's nothing you can do. Mhm. Yeah, absolutely. Um, is available. Uh,
+Patient: She's still sleeping,
+Nurse: She's still sleeping. How's everything going for her?
+Patient: Uh, pretty good. Yeah. Yeah.
+Nurse: Good. I was just looking at her last office note and it doesn't really look like much happened. Um, at that last, um, office note for her. I just wanting to keep an eye still on her hyperlipidemia, her high cholesterol and things like that. So, um, a big thing with that is just diet, um, some diet changes. So, um, eating lots of fruits, lots, lots of vegetables. Um, no red meats, healthy fats, things like that to help with your cholesterol. Yeah. Yeah. Got any plans for today? You guys, any plans for the weekend?
+Patient: No. Huh? No. No.
+Nurse: Yeah, it's [PHI-Personal] here right now.
+Patient: Where you at? I'm in boy. Oh, boy. Oh.
+Nurse: Mhm. Yeah. Yesterday I was saying yesterday I had my windows open and today it's [PHI-Personal].
+Patient: No. Yeah. Oh, shows here. Mm. Probably in the high [PHI-Personal]. Oh, because they're lucky.
+Nurse: Yeah. Oh, my goodness. Yeah, there's some flurries here today. Hopefully it won't last long.
+Patient: Yeah. Yeah.
+Nurse: All right. Well, you guys take care. Do you guys need any prescription refills or are you both? Ok,
+Patient: We're both. Ok, for now, I think.
+Nurse: Ok, perfect. Um, yeah, take care. Good luck on your surgery. But if you need anything in the meantime, don't hesitate to reach out, but if not, I'll, I'll touch base with you probably after your POSTOP appointment next month.
+Patient: Ok. Ok. Yeah.
+Nurse: All right. Well, you take care.
+Patient: You too. Thank you so much. Have a good, you,
+Nurse: You too. Yeah.
+Patient: Well, we're retiring. So, every day is a weekend.
+Nurse: Well, I don't have much going on this weekend. My kiddo gets surgery on Monday. So we're gonna kinda make sure he has a good weekend this weekend because he'll be down for a couple weeks. So, hopefully, hopefully it's a nice weekend. We can get him outside.
+Patient: Yeah. Yeah.
+Nurse: All right. Well, we'll talk to you soon.
+Patient: Uh huh. Thank you much. Bye bye. Yep. Bye bye.

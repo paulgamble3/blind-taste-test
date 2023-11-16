@@ -1,0 +1,17 @@
+Nurse: Hi, it's Chi. Yeah.
+Patient: Uh, yes, this is [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are
+Patient: You? I'm doing pretty good. Uh, just wanted, ok, I just wanted to know if, uh, you got, uh, if you happen to get that, uh, uh, appointment, uh, canceled or
+Nurse: I was able to, so I got your voice mail and I called and spoke to a lady named [PHI-Personal]. She canceled it for tomorrow. I told her that I had received a voice mail from you. I wasn't sure why you were canceling or if you wanted to reschedule. But for now, can we just go ahead and cancel? She said that's fine. So she canceled it if you wanna call them back to reschedule whenever you're ready. Um, I'm sure they'll be waiting for you to do that.
+Patient: Ok. Well, we, well, we, we called out there and, and, uh, uh, uh, and we, they, we, we, we couldn't get the number. They, they, they said it was, the number was out of service. So that's why we called you.
+Nurse: Oh, ok. Do you have a pen? So I can give you the number so that you can call back to reschedule?
+Patient: No, Well, no, I'll just, uh, I'll take care of that later. You?
+Nurse: Ok. Ok. That's fine. Um, I, I do have their number though whenever you, um, wanna call, so that's
+Patient: Ok. Well, I, I appre I appreciate your help. I really appreciate that.
+Nurse: Yeah, no worries at all. How are, how is everything else going with you? You doing? Ok.
+Patient: Yep. Yep, we're doing good. Ok.
+Nurse: Ok. Good, good. All right. Well, um, it's canceled, everything is fine there if anything changes and you do need me to reschedule for you. Um like you did today leave a voice mail and say, hey, you know it's [PHI-Personal]. I just need you to um reschedule my ultrasound for me or whatever and I could do that too. So you just let
+Patient: Me know. Ok, I really appreciate that. I thank you a lot.
+Nurse: Yes, sir. You're welcome. Have a good day.
+Patient: You too. I thank you.
+Nurse: You're welcome. Bye bye bye.

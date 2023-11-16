@@ -1,0 +1,56 @@
+Nurse: This is [PHI-Personal] speaking.
+Patient: No then I'm calling for her. That's my husband. We got a message today something about a payment plan, a
+Nurse: Payment plan that would not have been this direct line calling. Hold on let me check
+Patient: The number I gave us and this is the number it came from.
+Nurse: Huh? We don't give me one second. Hold on the message
+Patient: Didn't make sense but because we have insurance that pays everything.
+Nurse: Yeah hold on one minute let me just pull up his stuff real quick. Ok what's his date of birth?
+Patient: Uh [PHI-Personal].
+Nurse: Ok hold on for me. Ok hold on I just had to pull up his stuff so thank you for bearing with me for a minute.
+Patient: Yeah that's fine. Yeah make out the message either because
+Nurse: We we had called earlier just to follow up with him but there wasn't anything about a payment plan. Ok, so that's what I was confused about so that's why I'm looking through his stuff to see if there's anything else in here about that.
+Patient: Ok. No. Ok so you were just doing a follow up on him. Yeah
+Nurse: We could
+Patient: Get message. Ok.
+Nurse: Oh, I apologize.
+Patient: Oh God.
+Nurse: Um, but yeah, no, we just, we were just following up to see how he was doing. So, I'm sorry, we worried
+Patient: You. No, that's fine.
+Nurse: No, that, that was not the intention.
+Patient: Ok. Ok. He's doing fine. He's doing fine. Ok.
+Nurse: So he does, does he need any refills on any of his medications at all?
+Patient: No. No, he's fine.
+Nurse: Ok. And no, no changes in any of them.
+Patient: No, I mean, you don't need any, you're, are you on medication?
+Nurse: I don't have him on any, but that's what we're just trying to make sure it hasn't changed.
+Patient: No. No, he doesn't need anything.
+Nurse: Ok. And he's feeling good. Does he take anything over the counter for the GERD? The, like, acid reflux?
+Patient: Yeah, we have, we have, um, pills here. I, I, and him both take that.
+Nurse: What is it that he takes? We don't have that noted either.
+Patient: Uh, well, if we take, we take, uh, the same as Pepcid. A seed. Let me get it a generic for Pepcid, a seed Faine. Yes, that's it.
+Nurse: Ok. And he just takes it as needed. No.
+Patient: Yes. Just whenever he gets heartburn and stuff.
+Nurse: Ok. Does he tend to get it often or depends on what he eats?
+Patient: Yeah, it would depend. He doesn't get it very often.
+Nurse: Ok. Is it, is it certain foods like tomato sauce or tomatoes that kind of do it?
+Patient: Yeah. Maybe just certain things.
+Nurse: Ok. Well, just, those are some of the ones that can really do it. Like caffeine, chocolate onions, garlic, spicy things. Fats. Do you know what I mean? I didn't know if there was one particular type of food that affected him more than others.
+Patient: No, I don't think so. It's just, every now and then he gets it.
+Nurse: Some people, it's dairy and some people it's bread. So you, yeah. But, yeah, usually tomatoes and tomato sauce is the worst ones.
+Patient: Yeah, probably.
+Nurse: Ok. Ok. If you guys do tomato sauce at home, if you put a little brown sugar in it, it helps balance out some of the acidity. So that might not bother as much.
+Patient: Yeah. And we do, we, I eat, we eat sweet chili and sweet spaghetti. I
+Nurse: Like smart. See, I like the sweet stuff anyway. So it
+Patient: Best our, our, ours is sweet.
+Nurse: Ok. Well, that's good. And I'm glad that not too many foods bother him at all. That's a good thing. You know, the low fat ones aren't as bad with the milks and no problems with bread. You said?
+Patient: No, no.
+Nurse: Ok. Or citrus fruits or anything like that.
+Patient: Yeah. Just certain things that he might eat, that might, but we're not really sure what it
+Nurse: Is. Well, that's ok. We'll just put in here that he takes the over the counter one as needed. Do you know the milligrams on it? Is it 10?
+Patient: Ok. Let me look at, it's 20 Yeah. Ok. 20 mg
+Nurse: And you just take one of them as needed. Right.
+Patient: Right. Yeah.
+Nurse: Ok, perfect. All right. Well that sounds great. Well, thank you for giving us a call and I apologize for the miscommunication
+Patient: Because we've been listening and listening. I wasn't gonna pay attention to it. And that funny he said it's health center. You gotta call that. So then I thought, well I'll call and see what it is.
+Nurse: No, no, you guys are fine. Nothing about a payment plan or anything, I promise. Ok. All right. Well, you folks have a wonderful night. You too. Ok.
+Patient: Bye bye bye.

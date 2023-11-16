@@ -1,0 +1,14 @@
+Nurse: Hey, [PHI-Personal].
+Patient: Hey, I'm sorry to bother you again. Uh I would like my friend asked me to ask you she did, she goes to Doctor [PHI-Personal] and has gone there for quite a time, but she don't have a care manager. She don't understand why they didn't contact her.
+Nurse: Does she have it? There's two qualifications. One is, she's going to be on a Medicare or Medicare Advantage plan. So that's like senior choice. Um, and two, she has to have at least two product diagnoses like high BP, um, high cholesterol diabetic.
+Patient: She has, she has both. Yep. What's her name? Uh Well, how's this? Can I just give her your number and you can talk to her because I don't like giving people's phone numbers out.
+Nurse: Absolutely. Absolutely. Have her give me a call because sometimes, um, you know, patients will, like we did the initial start of this program a couple of years ago and since that, um, you know, we haven't really been getting too many, um, they haven't really been updating us when patients switch from like a primary insurance to Medicare. So, um, it's kind of fall through the cracks a little bit. So some patients who would really benefit from this program are not. Um but yeah, if the patient is familiar with this and wants this program, why not? We could definitely enroll them.
+Patient: OK. She's, she's not that familiar with it. That's why I want her to talk to you. Uh She is on Medicare. She's 80 something and I think like 82 or three. And she, when I said I had talked to you about the COVID shot and she says, well, that's weird. How come they never connected me up with somebody? And I said I have no idea.
+Nurse: I don't know. I don't know. They're losing, losing touch. I think it's like the business manager has to do it and they have so much things that they worry about that.
+Patient: Glad they connected me up with you. I'll tell you I'd love it. Um, so what, what would be a good time for her to call you?
+Nurse: Oh, any time I'm here from [PHI-Account] the only reason I don't pick up the phone sometimes is because I'm on with another patient.
+Patient: Ok. [PHI-Account]. All right. And then that's entirely up to her if she wants to call you or not. And then I don't have to hear her say, well, they never did that for me. Yeah. Ok. Her name, if she calls you, her name is [PHI-Personal]. So
+Nurse: [PHI-Personal]. Ok. Well, I will be looking forward for a call from [PHI-Personal].
+Patient: Ok, thank you.
+Nurse: Oh, you're welcome. Great. Anytime, call me any time I don't mind.
+Patient: Ok, thanks. Bye bye bye.

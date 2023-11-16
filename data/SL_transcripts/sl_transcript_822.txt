@@ -1,0 +1,17 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is calling.
+Nurse: Hey [PHI-Personal], sorry about missing your call earlier.
+Patient: Yeah, II, I went into uh, office to pick up that placard. You said that was in there and, uh, they didn't have anything on it,
+Nurse: Right? Yeah, so I called the office right away and they let me know that apparently it's an application that you're gonna pick up and then we'll bring to the Department of Transportation. Who will, that you'll take the application and bring it to the Department of Transportation to get the placard is what the nurse in the office? Let me know. Ok,
+Patient: So after sign it, can they, can they just send it in the mail to me? So I don't have to stop in [PHI-Personal] office.
+Nurse: Um, they said that you planned to go back today to pick it up from him
+Patient: And I, I didn't plan to go back in today.
+Nurse: Ok, that's what they had. Let me know. I said
+Patient: II, I was, I was going to go in but I didn't plan to, to go in today. I have no way of getting there today.
+Nurse: Ok. So you plan to go back to pick it up the application or you're asking if they can mail it to you. So you don't have to go back.
+Patient: So I don't have to go back.
+Nurse: Ok. I'll send a message to the office and see if that's something that they can do, um, and give you a call back. Ok.
+Patient: Yeah, because I, I don't, I don't have a car right now. My, my daughter has my car and, uh, it's, it's different. Uh, there's no way of me getting into the, uh, [PHI-Personal] office today. So, uh, if I sign it today, if they could send it to me
+Nurse: In the mail, I'll see if that's something that they can do. Ok.
+Patient: Or, uh, hold on a sec. Um, hold on a sec if I, if, if we do it, um, how can I get this done? Um, Thursday. Could you, uh, take me to, to get the thing picked up? Now, I'm not gonna be around Thursday, Friday. I work Friday. You work Friday? Ok. Um, tomorrow I be able to do but I won't be able to do Thursday or Friday. I got an appointment at [PHI-Personal] Tel tomorrow. Maybe [PHI-Personal] can take me in tomorrow to get it. Yeah. Yeah, I'll, uh, I, I'll tell you what, I'll, I'll pick it up tomorrow if, if that's ok.
+Nurse: Yeah. Yeah, that shouldn't be a problem from what I understand they were planning on you picking it up this afternoon. Um, so I'll just send a message and let them know that you plan to pick up the application for the placard tomorrow. Ok, thank you. Yes, you're welcome, Frank. Take care. Bye. You too. Yep. Bye bye.

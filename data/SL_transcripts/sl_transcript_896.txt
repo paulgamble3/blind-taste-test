@@ -1,0 +1,52 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hi [PHI-Personal]. This is Don. We were and I missed your call on Friday. You called? Yes. Yes,
+Nurse: [PHI-Personal]. Yep. Let me get your stuff pulled up here. One second. There we go. Yes, I was just calling to check in on you. I had saw where you had had a um visit with doctor [PHI-Personal] on the [PHI-Personal].
+Patient: Yes.
+Nurse: Um and looks like um did they get you on your palliative care evaluation? Did they come out and do that?
+Patient: Uh, now no one I had, no one has come to my house for the p tell you I, I went and saw doctor uh uh also with uh I went to his office but that was all.
+Nurse: Ok. Yeah, so let's see here. Um looks like, oh, looks like they had went over everything with you um completed ad nr just reading the notes here. Mhm. And well, if I can get down to the bottom here, looks like they had discussed um you're gonna be having a bone marrow biopsy in the near future. I
+Patient: Already had that. Ok. You
+Nurse: Did. Ok.
+Patient: Yes. And then uh uh they're gonna initiate uh more treatment for my, uh, CLL. Ok.
+Nurse: Yeah. And do you know when you'll be beginning that?
+Patient: Well, no, I, I'm gonna have to call them because, uh, uh, I saw them last week and so far I haven't heard anything about the prescription. They'll have to go to chart well, for that, uh, for that. Ok. Yes. But I haven't heard anything yet. Ok.
+Nurse: Um, and let's see here, let me go back to this other note. Um, looks like Doctor [PHI-Personal], um, had told you to do the Medi, was it metOLazone until you lost the 10 lbs? Yes. And then to stop it, did, did that help? Uh,
+Patient: Well, I just started it last week because I just got my prescription filled for the 0.2 or for the 22.2 0.5 mg. Yeah. Ok. Yeah. All right. Yeah, I really have to give that a try. I just started that this last, uh, this last week.
+Nurse: Ok. So you just started it. So you've not got,
+Patient: Yes, I did. Yeah. Ok. Yeah.
+Nurse: All right. I'll make note of that. Um, other than that, is there anything else new going on? Everything? Um, else seem to be going? Ok.
+Patient: Yeah, I'm just, uh, I have dyspnea in the morning and, uh, as, as the day wears on, I'm much better. That's the only, my only, uh, really my only complaint.
+Nurse: Ok. Now, the dyspnea, do you think that, that I, where you're having to have the more frequent transfusions.
+Patient: Uh, well, I haven't, no, they haven't. Um, I, I haven't had a transfusion in two weeks. Ok. I think, yeah.
+Nurse: All right. Now, does anything, you know, make that worse or better as far as the shortness of breath
+Patient: Goes? Uh, I'm, it's funny because, uh, in the morning I'm really, I, I am short of breath and fatigued and that's, that's ironic because I, I just get out of bed and, uh, you know, uh, until I've had breakfast or something, I'm really tired. Um, but then I, my, uh, shortness of breath, uh, dissipates and, and I feel a little more energized. I can, I can do things then. Ok. It's strange. It's weird
+Nurse: But it's, but it's been like that for a while. That's not something that's like,
+Patient: No, it's someone suddenly is, it's been like that since I had really. Ok. All right. Just wanna, I, I'm not really worried about that.
+Nurse: I just, ok. Yeah, I just wanted to make sure that it wasn't anything like, you know, new and ongoing, you know, something that
+Patient: Had come on, something that we needed to really come on and, you know, address, you know. Yeah. All right. I know. I know what it is.
+Nurse: Yeah. Ok. Good. Now, as far as, um, how about your medications? Are you doing ok with everything? Do you need any refills on anything?
+Patient: Uh, no, II, I like to go on the, uh, I usually try to go on the uh uh FC portal if there's, you know, if I have anything, I have to re refill or anything. Ok,
+Nurse: Perfect. All right. Well everything else um from you know, from my end looks good doesn't, you know, you don't have any appointments with doctor [PHI-Personal] for quite some time. Um and looks like you also saw nephrology on the 31st. Yeah.
+Patient: Yes, I, I
+Nurse: Was trying to get down here to the notes. Ok. So let's see. Um, they wanted you to return in three months. Mhm. Um, and didn't think a kidney biopsy was warranted and you need to have, it says, uh, they recommended you to have [PHI-Account] g of protein supplement each day and to make sure you're drinking at least 50 ounces of fluid a day. Uh, and let's see, call with any changes and to continue the current medications.
+Patient: Does he, does he have any change medication on there? Uh,
+Nurse: I do not see any, um, this just said, um, the
+Patient: [PHI-Account]. Oh, I'm sorry, go ahead. I, I'm a little concerned about the furosemide because he, uh, on the paper he gave me, he had, uh, boosted the, uh, uh, 40 to 2 times a day then that like 100 and 60 mg a day I'd be taking and I, I didn't, wasn't sure that was what he really wanted. Can you tell on his, uh, thing there? He does
+Nurse: Not see, I do not see anything that's listed about that. The last one that I had for listed for you was the 120 mg. Ok.
+Patient: I think I'll just stay on 120 because, uh, what I
+Nurse: Can do is I can call nephrology and clarify with them because if that was on the paper, you may have a different, you know, not always do we, everything that they give you in office, do we get a copy of? Um, so I'll place a call to nephrology. Um,
+Patient: Appreciate that.
+Nurse: Let me, let me clarify. Ok. And then what I'll do is I talk to somebody and get it clarified. I will give you a call back.
+Patient: Um Oh, that's wonderful.
+Nurse: Should I call you back on your home phone? The [PHI-Account]? Ok. All right. So let me, let me give them a call and see what I can figure out. And then, um, once I speak with somebody I'll, I'll return your call. Ok.
+Patient: That'd be great [PHI-Personal]. And listen, there's one more thing [PHI-Personal]. Um, could you pull up my wife's thing? She's not sure about what she's supposed to get, uh, a blood test for her for her blood sugar. And I wa I wasn't sure whether they wanted a one C or a, um, just a routine, uh, fasting blood sugar two hour post. Would you mind doing that? Well,
+Nurse: I could, if she was enrolled with us as a patient, but I don't have her enrolled as a patient. She is. Um, no, I do not have her listed. Let me, or let me if she's, let me see if she's not just added to your chart for some reason. What's your wife's name?
+Patient: [PHI-Personal]? To be the, uh, time?
+Nurse: Ok. And what's her first name? Ruth? Ruth. Oh, well, right there she is. Wow. Oh, that's why, because she's not, she is, um, she's with a different nurse, but that is perfectly fine. Let me, um, let's see here. Let me get her stuff pulled up here. Oh, yeah. All right. And you said she, she had questions about labs?
+Patient: Yes. Uh, they, I think when she thought she was in, uh, doctor said something about ge getting a lab test for, for her blood sugar. She's diabetic for now.
+Nurse: Go down here to this last visit. Let me look again. So. Ok. Um,
+Patient: There's no rush on the. No, it's
+Nurse: Ok. So I, I see where it says her A one C was at its goal last time and they wanted to recheck it, but I don't see an order for that. So let me check that out as well. Um, and then we'll, I'll see what I can figure
+Patient: Out. Ok, I appreciate that. You're such a hope.
+Nurse: Yes, you're welcome. Um, as soon as I hear something and then I figure something out for both of those, um, I will give you a call back. Ok, thank you very much. You're welcome. Have a good morning. You
+Patient: Too. Bye bye.

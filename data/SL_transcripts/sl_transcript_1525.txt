@@ -1,0 +1,3 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Yes. Uh This is [PHI-Personal]. I got a call from the [PHI-Geographic] saying that the X ray results came in and I was supposed to call back.
+Nurse: OK. I'm gonna transfer you to the office, honey, so that they can talk to you about it. OK? One second. You're welcome. Let's.

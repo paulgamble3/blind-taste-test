@@ -1,0 +1,50 @@
+Nurse: Hello, thank you for calling. This is [PHI-Personal]. How may I help you?
+Patient: [PHI-Personal]? This is [PHI-Personal] calling you? Hi. Hi. I have a question. Um, I'm supposed to go for, uh, blood work on this Wednesday with Doctor [PHI-Personal], but it's only for my, uh, thyroid and to check my, uh, vitamin D level. Ok. Then I see him on the fifth of [PHI-Personal] but then I go back and in may I get blood work to a full blood work then? So would I have to still have to go on this Wednesday?
+Nurse: Um, so you have an appointment before that, right? Is that what you said?
+Patient: Um, I have an appointment this coming Wednesday for blood to check. Yeah, for, uh, my thyroid. It's only for my thyroid level and, uh, my vitamin D. But then, uh, in, may I go for the full blood work? The full panel.
+Nurse: Did he do some changes the last time with your thyroid medicine?
+Patient: Yeah, they changed the, they upped the medicine.
+Nurse: Yeah. So that's probably why since you're only getting the thyroid and the vitamin D checked, your vitamin D was probably low on your last blood work. They
+Patient: Said it was normal.
+Nurse: Hm. Yeah, I don't, I don't see that it's out of whack. Um, but definitely the thyroid has to be checked if you did some, um, if you did blood work, which you did and the TSH was off because it takes about 4 to 6 weeks for that dosage to take effect. So he want to see if that's improved. So that's why the 3 [PHI-Account] is there and then the [PHI-Personal] is a follow up. So when you get in on at [PHI-Personal], ask him if you still need to keep you probably will. It's probably your routine visit. Yeah. So your labs. So when you go in, in [PHI-Personal], ask him about the [PHI-Personal] schedule? Ok, then. Ok. Ok. Mhm. Doing all right. Yeah. Good. Well, I got you on the phone. I just wanna check in on you see how you're doing this month. I haven't talked to you. It looks like in [PHI-Personal]. So just wanna check on you.
+Patient: Yeah, aches and pains. But that's normal.
+Nurse: I guess if it's just aches and pains, that's livable.
+Patient: Right. Yeah,
+Nurse: That's good. Um Usually too, I like to talk about a diagnosis that's on your chart and let's just talk about hyperlipidemia. It looks like we talked about GERD the last time. So, do you understand what hyperlipidemia is?
+Patient: Hm. No,
+Nurse: It's um related to cholesterol. They all kinda go in together and with hyperlipidemia you have to, the part of the treatment is lifestyle changes, eating the proper foods and exercise. So, the recommendation to try to avoid it worsening or even get it to change to a better number is to eat a, uh, plenty of fruits and vegetables, beans and nuts and whole grains. Kind of avoid red meats and processed meats, like bacon and sausage and lunch meats. And if you're doing any dairy do skim or low fat in the dairy and try to exercise and maintain a pretty healthy weight. So, that's part of the treatment. Mhm. I'm looking to see if you're on anything for, yeah, you're on Simvastatin. 10 mg for cholesterol. So, you know, the medication you got the medication there. So, those are the things that you can do at home is to make lifestyle changes. Um, well, I
+Patient: Couldn't do no exercises for the longest time because I, when I had my, um, my partial mastectomy done, right. That was last year. And I still have pain. But, uh, because I, I have to wear a lot of times I have to wear one of those sports bras, uh, to bed because otherwise it's painful, really painful when I get up. So, um, when I was there the last time, uh, the nurse told me to get this one kind of cream to put on. So, I've been rubbing that on and that seems like it's been helping. But I, like I said, I, I would, I love, I have a treadmill but I couldn't use it because of bouncing around.
+Nurse: Right. Right. Um, some people, you know, just have a balance problem even and you can, you can sit in a chair and still exercise, you know, moving your arms even make marching like you're marching. But you're sitting down and, you know, bringing your legs out to the side and kicking, you know, kicking them up in front of you and if, um, you know, if you're worried about the upper body because of the surgery, then, you know, just do minimal upper body stuff. But, um, or just walk, walk through your house. I know the weather is not the greatest. But if you have, um, if you can just walk, take like a 10 or 15 minute walk through your house a couple of times a day studies have been showing that if you exercise a solid 10 to 15 minutes, that's just as good as a big workout. Uh, so, so maybe just, you know, set aside 15 minutes and if you have a place to walk or you, you can walk through your home, maybe just try that even to get started.
+Patient: Yeah. Ok. Right. I'll see, I'll see what I can do.
+Nurse: Ok. And then you also have a diagnosis of anxiety. So I just wanna check and see how that's doing, how you're doing with that. Are you still struggling?
+Patient: Um, more so with depression? I get depressed. Yeah, I get depressed very fast. I think it's because I can't, there's so much I have to do to, you know, I'm so far behind with, with, with everything and I'm frustrated because I can't do it because I can't do no real lifting. So I, you know, I get frustrated that way that,
+Nurse: Ok, I wanna do a depression screening with you. Uh, it's just a survey and we do these about if you have a depression as a diagnosis, as, excuse me, if you have depression as a diagnosis, then um, we'll do these more than once a year. So let's do one. I don't, it doesn't look like I did one when I talked to you the last time. So let's do a depression survey and see where you're at. And then if we need to do another one next month, we'll do another one next month. If you're still feeling depressed, we'll see what's going on and too talk to doctor [PHI-Personal] about it when you go in and that way this depression survey will be on your chart if he needs to look at it. Ok. Um, so we're just thinking about over the last two weeks. How often that you've been bothered by any of the following problems? Have you had little interest or pleasure in doing things? Not at all? A few days, several days or every day for two weeks,
+Patient: A few days,
+Nurse: Feeling down depressed or hopeless, not at all. A few days several days every day for two weeks.
+Patient: Mm. It's just a few days there.
+Nurse: Trouble falling. Or staying asleep or you're sleeping too much. Not at all. A few days, several days every day for two weeks.
+Patient: Um, I have my on and off days. Maybe a few. Yeah, a few days,
+Nurse: Feeling tired or having little energy. Not at all. A few days, several days or every day for two weeks.
+Patient: Oh, that's just about every day.
+Nurse: Poor appetite or the opposite. You're overeating. Not at all. You feel like your appetite's good. A few days, several days or every day for two weeks.
+Patient: No, I have a poor appetite every day.
+Nurse: Yeah. Ok. Feeling bad about yourself or that you're a failure. You've let yourself or your family down. Not at all. A few days, several days every day for two weeks.
+Patient: A few days,
+Nurse: Trouble concentrating on things such as reading the newspaper or a book or watching television that you can't quite hang on to what the book or the movie is about. You have trouble concentrating. Not at all. A few days, several days every day for two weeks.
+Patient: Uh, there's a few
+Nurse: Days and moving or speaking so slowly that other people could have noticed or the opposite. You're fidgety and restless and just constantly moving and can't sit still anything like that. Uh, not at all. A few days, several days every day for two weeks,
+Patient: A few days.
+Nurse: Thoughts that you would be better off dead or of hurting yourself in some way. Not at all. A few days, several days, every day, for two weeks.
+Patient: Not at all.
+Nurse: I always like to tell my patients about the suicide hotline has changed to the suicide and life crisis, well, crisis lifeline. But their number, the important thing is their number has been changed. All people have to dial is [PHI-Account]. If they feel like they need to talk to somebody that's all you have to dial and it'll get you to a call center and someone trained to talk to, to you about what's going on. Um, I encourage my patients also to, uh, spread this around to anybody because I just don't see it advertised at all. Mhm. So, the new number for that is [PHI-Account]. And then if you choose any problems or difficulties you're having, is it hard for you to try to complete your work at home or get along with people? Not difficult, somewhat difficult. Very difficult, extremely difficult.
+Patient: Uh, what was that last part to do stuff around the
+Nurse: House and, uh, with the problems that you're facing and dealing with things you're dealing with? Is it hard to take care of your things at home or get along with other people?
+Patient: It's hard to do stuff around the
+Nurse: House. Very difficult or extremely. Yes. Which one? Very or extremely.
+Patient: Hm. Room [PHI-Account],
+Nurse: 4 to 12 on the survey. And that's, um, minor depression but you, you want to pay attention to see if your depression symptoms worsen and make sure you call and report if you feel like you're getting more depressed. Ok. Ok. Just stay on your medicines. You know. Don't we talked about that the last time, don't go off of them. You can get in some trouble trying to take yourself off of them.
+Patient: No, I don't. The only way I go off of them is I talk to doctor [PHI-Personal] first,
+Nurse: Right? Ok. Um, you got any, any other concerns that I didn't mention,
+Patient: Not that I can really think of as of now.
+Nurse: Ok. So when you go in [PHI-Personal] ask him if he still wants you to come in in [PHI-Personal], more than likely he will. That's probably your routine visit with this visit and this lab work is just for your thyroid. Yeah, I'd be surprised if he says, yeah, you need to come.
+Patient: Ok. Ok. Ok then. Ok. Ok. Thank you. Mhm. Bye bye. Ok, bye.

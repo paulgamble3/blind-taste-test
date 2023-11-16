@@ -1,0 +1,18 @@
+Nurse: Chronic care insurance. [PHI-Personal]. How may I help you? Yes. Hi. Is [PHI-Personal] available? [PHI-Personal]? Uh, may I ask ca who's calling [PHI-Personal]? What's your name? [PHI-Personal]? Ray? Ok. [PHI-Personal]. [PHI-Personal]. Creedence. Sorry. Oh, [PHI-Personal]. Creedence. Ok. Hold on a second.
+Patient: Hello.
+Nurse: Hello. This is [PHI-Personal].
+Patient: Yes, it
+Nurse: Is. Hi, [PHI-Personal]. It's
+Patient: Hi. I forgot my, my, um, my, one of my coworkers told me that you called and I was supposed to call you back and I was, like, so busy that I didn't get a chance. So, what's, what's going on? You have some wheezing?
+Nurse: Yeah, I've been getting a lot and it's been really bad at night though when I lay down. It gets worse at night and I, it wakes me up and I'm spitting yellow and it's disgusting.
+Patient: Ok. One second. Let me bring up your chart real quick. You know how slow computers can be. And
+Nurse: I really swap myself twice for COVID and I trust a know those. So.
+Patient: Ok. All right. So you've tested, um, other than the, the, the wheezing. Do you have a cough?
+Nurse: Yes. It, it wakes me up at night. Oh, my, I wake up coughing and I end up spitting out and it's yellow, my stuff.
+Patient: Ok. Um, and yellow mucus, any other symptoms such as sore throat, runny nose, fever, my
+Nurse: Throat. No, my throat's been a little raw, but that's because I've been coughing a lot and
+Patient: You know how that is? Yeah. And are you taking anything that can help? Well, like anything over the counter for it? No. Ok. And when did the wheezing start? It's
+Nurse: Been starting for the last I'd say a couple of weeks now. I thought it was stress because you know, I thought I just, I don't know what I thought, but it's just been having a couple for the last couple of weeks, I guess wheezing at night the
+Patient: Worst. Ok. And that's when the other symptoms started too. Yes. Ok. So I'm gonna send it and doctor is doctor [PHI-Personal] your doctor? Yes. Ok. So I'm gonna go ahead and send a message over. Um, so once you know, I hear your cough like say you go in the bathroom, turn the shower on, don't get in the shower but turn the shower on and breathe in that, that mist and stuff and that would should help a little bit with your cough and congestion and stuff like that. Um, make sure you're drinking plenty of fluids and I'm gonna send this message over to the doctor and see what he wants to do.
+Nurse: Ok. Thank you.
+Patient: You're welcome. I will give you a call back as soon as I hear from him. Ok, thank you. You're welcome. Bye bye.

@@ -1,0 +1,121 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help
+Patient: You? [PHI-Personal] Block. How are you? I finally got to talk to
+Nurse: You. You did what's going on? Let me see here. I'm pulling up your chart right now. Let me see. Look
+Patient: Under old,
+Nurse: Old, you sound not a day over 20.
+Patient: I like the way you think anyway.
+Nurse: Right. Hold on one second. I'm pulling you up, Mr [PHI-Personal]. Hold on one second. Oh alrighty I got you up here. So what I'm calling about is the chronic care management program through doctor [PHI-Personal]. Yes. Um so you had spoke to one of yeah, so I just wanted to get you started on the program. Um what I have here. So what we're gonna do is monthly phone calls. Um I talked to you about your chronic conditions such as your hypertension heart disease. Um we educate you on the same. I can help with medication refills. Um You'll also be talking to one of the other nurses. I work with [PHI-Personal] so she may be calling you as well. Um let's see here. I do wanna verify a couple of things quick. I have your address as [PHI-Geographic]. Yes, I have that. Do you? I don't, I'm in [PHI-Geographic].
+Patient: Ok, I'm sure you don't know. I
+Nurse: Do not. Ok. Um, I have your birth date is [PHI-Personal]. That, that
+Patient: Means old.
+Nurse: Yes. No young. I'm gonna tell you again. All right. And you're gonna believe me by the end of the call. Let's see. I have your insurance as Medicare part A and B and Blue [PHI-Personal] of [PHI-Geographic]. Perfect. I'll be mailing you out some wellness goals. So just reminders of things you may be due for this year such as vaccines, screenings, your annual wellness visit, stuff like that. Um, any falls or accidents since your last appointment with doctor,
+Patient: Any falls or accidents. Yep, I, I don't think so. Ok,
+Nurse: That's good. Let's see. Um, I do want to let me see here. So, with your diagnosis of hypertension, do you have a BP cuff at home?
+Patient: Oh, yeah. But I don't have hypertension. What, what did you guys ever get at?
+Nurse: Let me see here. I'm looking through your chart now. They have you marked, you're on metoprolol, that's for high BP.
+Patient: Oh, yeah. Yeah, I got, I, I've had open heart surgery and [PHI-Personal] since, uh, I, I, I've been doing good. Ok,
+Nurse: That's good. Are you checking your BP at all at home or? No?
+Patient: Well, I, every time I get to feeling a little bit all I I used to check it every day and I got tired of doing that. But anyway, uh, it, it's been staying pretty, pretty regularly. I, I did get off of, uh, uh, one day, one week I ran out of, uh, the name, the one you just said metoprolol. Yeah, I, I ran out of that for a few days and it seemed like my BP did shoot up a little bit. Ok. But when you get, when your BP goes up a little then, then you, you set off a trigger in your head.
+Nurse: Yeah, you may feel dizzy, headache, you know your
+Patient: Body. Well, you just, you, you just think you're sicker than you are.
+Nurse: Oh, ok. I understand. So, um, it is a good idea to spot check your BP, whether that's weekly, three times a week. Ok. And when you do dr, when you do check it, what's a typical reading you may get?
+Patient: Oh, I, I'm, I'm usually like [PHI-Account] over. It's not very high.
+Nurse: [PHI-Account] over what, I'm sorry? Oh,
+Patient: It, it was what? 60 or 70? It's not. Ok. Uh, now I get, uh, uh, I mean, it's not one day. I had 2 [PHI-Account]/100 and 30 which was bad. It's definitely
+Nurse: Not good. That,
+Patient: That day I got a ride on the helicopter.
+Nurse: Yeah, that would definitely grant a ticket to the helicopter.
+Patient: I had open heart that afternoon.
+Nurse: There you go. So, yeah. Um, I do wanna just go through your medications quick. I have that. You're taking amiodarone 100 mg daily.
+Patient: What, what
+Nurse: Is it amiodarone or Pacerone?
+Patient: Ok.
+Nurse: Uh, are you taking that?
+Patient: What was, uh, spell that for me?
+Nurse: Ami give
+Patient: Me the last, give me the last four
+Nurse: [PHI-Personal].
+Patient: Yeah, I still take it.
+Nurse: Ok. And then I have Eliquis 2.5 mg twice a day. That's the blood thinner.
+Patient: Yeah, I, I, I've been, I've been on that a long time. Ok. My, my uh, both of my arms are totally black and blue all the time. Oh,
+Nurse: Jeez. Yeah, that's definitely from that. And then I have that you're taking aspirin [PHI-Personal] mg daily.
+Patient: I take a half of, half of aspirin a day. Yeah,
+Nurse: You're taking a half of the [PHI-Personal].
+Patient: No, no, I'm taking the [PHI-Personal].
+Nurse: Ok. Got you. And then I have, um, let's see here. [PHI-Geographic] [PHI-Account] 25 mg. You're taking a half tab daily.
+Patient: What was it?
+Nurse: [PHI-Geographic]. [PHI-Account]. Let me see if I can pull up the other name of it. Let's see. It's for your BP. It's a diuretic chlorthalidone.
+Patient: That's not, that doesn't end in pine. Does it pine?
+Nurse: No, done? Yeah, I still take that. Ok. And then I have vitamin D 3, 2000 units daily.
+Patient: I still take that.
+Nurse: Ok. I have vitamin D two. Are you taking that also? Ok. I have Zetia. Um, that's for your cholesterol. I have [PHI-Account] mg daily. What's,
+Patient: What's the last four of that?
+Nurse: Um It's either TI A or Mibe
+Patient: M ID E and what was the other way?
+Nurse: It's, it can either be called Ezetimibe Mibeb as in boy or Zetia. Zeti A.
+Patient: I don't think I take that anymore. I, I'm, I'm, I'm, I'm driving now. Oh,
+Nurse: Jeez. I'm
+Patient: Sorry, I still work five hours a day.
+Nurse: Ok. Here I'll mark that one as, that's ok. I'll mark that one as unknown and we can go back to that next time. I have that. You're taking an iron supplement.
+Patient: Well, I, I, uh, I've got it, I haven't been taking too much of it. Uh, it, uh, I, I was, uh, having some issues with the rate. Ok. So, II I had taken it off because it turns everything black while I was doing a biopsy and, uh, some other stuff and, and, and, and then not, it's, it's a joyful store. So I didn't have anything wrong. I had a polyp on the prostate, but it was
+Nurse: Ok. Ok. So then if that's all cleared up, I would advise to start taking that again. As long as the doctor that told you to stop is ok with it.
+Patient: Ok. Ok. Well, iii I go to the va for all my medication. Ok. And every six months I have to go in and do a blood test and, uh, seem like every time I do, I come out of there with another medicine. But,
+Nurse: Ok, you're busy.
+Patient: But, but my, my iron was, I don't, I don't remember now what it was high or low, but,
+Nurse: Ok, that's ok. Just double check with the provider at the VA and see what they want you to do. Ok. Um, I have that you're taking Synthroid or levothyroxine for your thyroid? Yes. Ok. I have meclizine or Antivert. That's for dizziness. It's for vertigo.
+Patient: Well, they, I don't take that. They, it's, uh, I, I got a big note on it that says dizzy pill. OK. I, I, if, if, if I have vertical ever, I, uh, uh, will take one of those or two, but it says don't take over three a day.
+Nurse: Ok. Perfect. So you're only taking it as needed
+Patient: As needed? Yes. And I haven't really needed it.
+Nurse: Ok? And then you said that much? Took one,
+Patient: Huh? Go ahead. I'm sorry. Continue because the last time I took one I got drunk.
+Nurse: Oh, Jeez. Yeah, that, that could make you feel that way a little bit.
+Patient: Well, I, I didn't realize that. I, I went out to the winery that day and, uh, and I can't drink wine anyway, but I had three glasses of wine. I couldn't, uh, hardly walk across the room. Oh, I quit drinking one.
+Nurse: That's a good plan. I like it. What else? Um, I have so the metoprolol I have that you're only taking 25 mg daily.
+Patient: Yes.
+Nurse: Ok. Um, I have Myrbetriq 25 mg or it's also called Grand.
+Patient: Tell me the last four numbers,
+Nurse: [PHI-Personal] or? Oh, yeah.
+Patient: Yeah. Yeah. Yeah. [PHI-Personal].
+Nurse: Yeah. Yeah. Yeah, I like the way you remember these.
+Patient: Well, you know, I, I am, uh, my lovely wife passed away a couple years ago. She was my, she was my medicine organizer. So I've got one of those Monday, Tuesday, Wednesday little cra, ok. So every, every, uh, Saturday I fill it up. So that's how I, and I got a chart tells me morning or night. So. Well,
+Nurse: That's good. She, she, she must have taught you well while she was, while she was with you. So she prepared you.
+Patient: She was one in a lifetime, but she spoiled me anyway. What
+Nurse: Else? All right, I have that you have nitroglycerin on hand if you ever need it. Those, those little tabs you put under your tongue with chest pain.
+Patient: Yeah, I, I carry them every day with me and, and I, I haven't taken one in probably four years. So, and, and I haven't replaced them, I guess. I think they go bad after a fashion.
+Nurse: Yeah. So definitely check that expiration date and if they are expired, let us know and we can get you a new refill of those.
+Patient: Well, I do, uh, they have expired, I'm sure. Ok.
+Nurse: All right. Um, where's your preferred pharmacy? I'll send in a refill request. Uh
+Patient: Kroger
+Nurse: Kroger. Ok. I will send in so Nitro to Kroger. OK. I will send that over for you.
+Patient: Yeah. And uh I use very often or ever. So
+Nurse: That's OK. It's good to have functioning ones though on hand. Um I have potassium chloride and it says you're taking one half tablet daily. OK. Uh The pravastatin that's another cholesterol medication. [PHI-Account] mg or it says half tab.
+Patient: Yeah.
+Nurse: OK. I have lovastatin. Another cholesterol medication. Which one are you taking?
+Patient: Well, I'm, I'm still the, the first one you mentioned. I'm still taking it.
+Nurse: Ok. The pravastatin.
+Patient: Yes.
+Nurse: Ok. And you're not taking the Rosin the Crestor.
+Patient: Uh Well, you know, I'm, I'm really confused on that. I, I had to change. I had to get off 11 and, and go with another. I, uh,
+Nurse: Ok. So here I'll mark that as unknown. And then when you're in front of your bottles, we can decipher that at another time.
+Patient: That, that'll be wonderful.
+Nurse: Ok. And then I have, um, Viagra as needed.
+Patient: Yes. Well, and, and of course, at my age that didn't come about very often. So I
+Nurse: Thought you were young. I thought we've established this,
+Patient: Well, the hope still there.
+Nurse: That's all you need to keep it alive. Right. I hope that's all you need.
+Patient: There you go. Yes, you be you all righty. Now I had one medication that ended in pine. Yes. Doctor. Well, I, I had terrific swelling, uh, in, in my legs and couldn't hardly walk. Uh huh. And he, he took me off of that five mg and, and I took [PHI-Personal] years of my age, day after I took cut off of that. Well,
+Nurse: That's good. That means it was a good decision.
+Patient: It was, it was a miracle. Really?
+Nurse: Go ahead. Um, let me see. Everything else looks good here. So just the cholesterol medication we'll clarify next time we talk. Um, I'll get doctor to send over, um, a refill for that expired nitro. Do you have any other questions or concerns for me?
+Patient: No, I tell you what I had, um, uh, a year ago, uh, a little over a year ago I had a knee replaced and when I came out of, uh, the, the, the week following the knee replacement, I, I developed a, uh, bladder infection. Oh, my urination. And I had four different strange back to back. Mhm. That, that, and I had an awful time with it and it always hit me on Friday afternoon when the doctors all all gone. And I was wondering if, if it will you, will you react to something like that if I need to keep, you know, when you have that, it's a miserable feeling to try to run back to the bathroom.
+Nurse: Yeah. No, if you ever need it, you could call me at any time and I can get messages over to doctor.
+Patient: Well, yeah. And of course, and I understand his reasoning. He's he's, uh, it's hard to give you a prescription over the phone because you, but, uh, I need, you know, guy needs something to relieve the irritation and that's why, uh,
+Nurse: Are you, are you experiencing that now?
+Patient: No, no, no, no, no. Of fact, after my, uh, when I had the biopsy on my prostate, uh, I was still having a little burning and I told my, uh, uh, talk about that and, uh, he called me on an antibiotic and it, it's took care of everything. Ok.
+Nurse: Good, good, good. So, um, it looks like you are due for your annual wellness visit. Um, is that something you wanna set up now or do you want me to follow up with you another time since you're driving and don't really have a look at your calendar?
+Patient: Yeah. Well, we better do that. I'll forget it before I get home. That's
+Nurse: Ok. Then we'll do that another time. Um, if you need anything you call me, otherwise I will touch base with you in about one month.
+Patient: You are. Do I? It's nice to talk to you?
+Nurse: You as well tell,
+Patient: Tell the other girls if they're as nice as you are, we'll get along. Ok.
+Nurse: Sounds good, Mister Black. Bye. All right, bye bye.

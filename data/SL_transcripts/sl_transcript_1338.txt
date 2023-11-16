@@ -1,0 +1,32 @@
+Nurse: Speaking, how can I help you?
+Patient: Yes. Uh, good morning. Uh, my name is [PHI-Personal] and I am a patient with, uh, Doctor [PHI-Personal]. Mhm. And I'm on Paxlovid. Ok. And, um, II, I don't know if I talked to you or somebody else with the same number,
+Nurse: But you probably talked to [PHI-Personal].
+Patient: [PHI-Personal]. Ok. That sounds right. Ok. Um, so I'm on my day four of Paxlovid and, uh, for the last couple of days I've been itching and breaking out and stuff. Um, and I thought I was getting bug bites because I've been spending some time outside but concluded that this is a lot more than bug bites because there seem to be a lot of em. And, uh, so I looked at the side effects and I guess that's one of them is hives. So, what should I do next if anything?
+Nurse: So, you've been taking this medicine for four? Did this start, like after day one or it started? When did the, the, the b, I'm sorry,
+Patient: The breakout start, breakout started probably after day 22. I would say something like that and it's not an enormous amount of em. There's probably I don't know, eight of them all over me welts, you know, itchy welts. Uh, it, huh? No, you're
+Nurse: Not having any issues with your throat closing in or? No? No. What's your date of birth? Mr [PHI-Personal]
+Patient: October 3rd, 1946. Mhm.
+Nurse: Ok. Ok. So you're broken out and it's all over your body.
+Patient: Well, it's mostly mostly on my arms and legs a little bit on my back of my neck. But I, you know, I'm not, uh, having any problems breathing or anything. I mean, my preference of, yeah. Yeah. My preference would be to just continue taking it, finish it up. So, I
+Nurse: Was, well, I would have to get, I'm going to have to get some recommendations from the, the provider, um, uh, to see what he would like you to do. Um, well, the covering provider because the machine is actually out today. Um, so, uh, you, and you say it's itchy and it's, or is it bumps,
+Patient: Bumps, bumps? Ok. Looks like a mosquito bite. Feels like one.
+Nurse: And they're not any, uh, you know, drainage or anything coming out of the bumps,
+Patient: Correct? Nothing?
+Nurse: Ok. Ok. And no other symptoms. No, like you say, no, thorugh closing in but no, no other symptoms.
+Patient: Correct?
+Nurse: Ok. And how is your COVID symptoms? Are they getting better or they're
+Patient: Gone? Yeah, they are get, they are getting better.
+Nurse: Ok. And are you running a fever or anything?
+Patient: Uh, no. Ok. But I do have some questions also a, after I'm done with the Paxlovid, I'm not sure what I'm supposed to do next.
+Nurse: That's not to the next. I mean, once you're, there's nothing to do next. Once you're finished with your pa little bit then you know, you're finished. Um,
+Patient: Do I take a test? Do I take another test or like that done?
+Nurse: I mean, he does that because he works around people constantly and I guess that's their protocol but you don't have to take another test. Uh, unless your job says if you have a job that you have to go on and they say that you need to take another test, but no, you don't have to take another test.
+Patient: All right. And then the next question, what about masking inside with my family members?
+Nurse: I mean, so I will continue on. So the, the, the CDC recommends, you know, it's a 10 day process. Um, the first five days you isolate. Um, and then on, if on day five, your, your symptoms are getting better. Um, and you have no fever, then you can be around other people, but you need to wear your mask additional five days around other people.
+Patient: Ok. Ok. And what? Ok. All right. I'm writing this down so I don't remember what's going on. Ok.
+Nurse: Yes. So I'm gonna send this over to the covering providers to see if you would, they would like you to just stop the, um, medication. Um, and you say you have been spending some time outside but you don't think that's that
+Patient: It just seems like at first I thought it was mosquito bites but I'm getting them in places mosquitoes don't want to go.
+Nurse: Ok. Ok. Ok. Alright. Well let me send this over and somebody to give you a call back to let you know what um their recommendations are for you to do. Ok.
+Patient: Yeah my like I say my preference is I can put up with this, you know what I mean? This is not a big, not a huge problem but um I would rather continue the thing and finish it up.
+Nurse: Right. Right. And you say you're on day four now? Right. Yes. Correct. Ok. And also like if you should start to feel like maybe something is going on with your your throat um you should stop taking it and you should call 911. Ok. Sure. Ok. Ok, so let me get some uh get this over to the doctor. Ok. Alright. Thank
+Patient: You. Bye bye bye bye.

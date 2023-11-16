@@ -1,0 +1,11 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Yeah, [PHI-Personal], this is [PHI-Personal]. I talked to you this morning.
+Nurse: Yes sir.
+Patient: Uh I would could you go ahead and make me an appointment for tomorrow? Cause
+Nurse: Sure let me see what we got. Ok. Not feeling so well.
+Patient: No I tried to cut some of that grass and I'll tell you it just took everything out of me I had I mean I just I'm aching all over.
+Nurse: Ok? Oh ok. Do you usually see doctor for? Yeah. Ok.
+Patient: Well him or [PHI-Personal] either one I mean I've seen her before too. Ok.
+Nurse: Mhm. He has a [PHI-Account] tomorrow.
+Patient: Ok. Sounds all right.
+Nurse: Ok. Get you put in my computer is being slow so give me just give me just a minute. Ok. There we go. All righty. I have you in for tomorrow the 14th at 1 30. Ok. Thank you very much. Alright. You are so very welcome. Thanks again. Bye.

@@ -1,0 +1,20 @@
+Nurse: Speaking, how can I help you?
+Patient: Yes, I think we got disconnected. I'm trying to reach,
+Nurse: Ok. Yeah, I had you on hold. I don't know when I look at the phone, you, it, it was, you were gone. I was just about to give you a call again. Um [PHI-Personal] is actually on another line right now, but she did ask me, um, to uh speak with you about your concerns on what's going on with your mother. Um ok, let's see. I'm just trying to catch up on the chart and read what's going on. So, um, and she did tell me that your, your mother has a referral that is placed for um, hematology as well. Um So is that your, that's your concerns you're calling on or?
+Patient: Well, my concern is that she continues to uh complain about being very fatigued. Uh huh. And I would like to know whether they, her high level or low levels uh are considered abnormal or? Ok. Or is there anything that can be done?
+Nurse: Ok. Uh Hold on one second. I think that's what I'm trying to find some notes from uh doctor as well and maybe that's why has she, has she ever been seen by a hematologist before?
+Patient: Uh, no, I don't think. Well, she has been, hold on. I, she's doctor, uh, patient but he was not available. We made the right and the, I have the results but I don't know if there is anything that we should be doing or should not or is there anything that can be done for her fatigue?
+Nurse: Ok. I will cause, uh, so doctor is the one who put in the referral for the hematologist. Um I will, um, have anybody called you guys with the referral to set up that appointment?
+Patient: What referral
+Nurse: Has anybody called you from hematology to, to set up an appointment for your mother to be seen? No, no. OK, because he put in a referral for her to see a hematologist and that's usually where you go when you're having, excuse me, issues with um, with your, your blood count being low and things of that nature. So I, I'm, I'm trying to read back and see his notes to see if that's all he wanted to be done. But that, that is why he uh put that referral in for her to see the hematologist to see what's going on. So the referral is in and it, it has been authorized. So that's why I was asking if someone reached out to you guys to schedule an appointment just yet.
+Patient: Well, I'm afraid they might have tried to reach my mother instead of me. So that might be the case. Who is the hematologist?
+Nurse: Hold on, let me go back to that referral. So the hematologist that he uh referred her to is uh [PHI-Personal] and you spell it JJ Ac [PHI-Personal] and the last name is [PHI-Personal] [PHI-Personal]. Would you spell
+Patient: The last name for me again, please?
+Nurse: It's fa L I'm sorry, [PHI-Geographic]. Um I'm trying to see here. Hold on, let me get that number so you can call them. Hold on one second. Thanks. Ok, so she they can be reached at uh [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]. Thank you very much for your. You're
+Nurse: Welcome and you and just call them and let them know that your mother has a referral in. She was referred, referred to them by doctor and uh the referral is authorized and you're calling to see about the status of getting her scheduled to see doctor [PHI-Personal].
+Patient: So thank you very much.
+Nurse: You're welcome. Have a great day.
+Patient: You too. Bye bye.

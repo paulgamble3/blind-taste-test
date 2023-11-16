@@ -1,0 +1,69 @@
+Nurse: Care Management. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is Precious. How are you? Oh,
+Nurse: I'm good. How are you? I'm ok. Can you verify your birthday?
+Patient: 6, 13, 40
+Nurse: Two. All right. Let me just get into your chart here. And how is everything? How are you feeling?
+Patient: Oh, I guess about the same.
+Nurse: Any issues concerns for doc?
+Patient: Well, I do have a question, um, in regards to, uh, my, uh, walking.
+Nurse: Ok.
+Patient: And the numbness, I mean, I know I get, uh, blood circulation IAB problem with blood circulation. But I was just wondering if, uh, anything that, that I do, I feel like the numbness is a little more in my, like in my thigh area and it once was like in my leg and foot. So I wanted to know is, is, is that something I'm to expect as far as, uh, I think your
+Nurse: Numbness is in the thigh,
+Patient: It, in the thigh area. I feel numbness there. I exercise it and, but I, I still feel like a little numbness there.
+Nurse: How long has it been bothering you?
+Patient: Oh, I would say the last couple of weeks.
+Nurse: Ok. And is it one thigh or both of them,
+Patient: Both of them. It's like when I lift my leg I feel the pull and then sometime when I touch with my hand it, I don't, it's not, it's like a little numbness there.
+Nurse: Mhm. Do you feel any cramps or pain? No,
+Patient: No,
+Nurse: No. Is there any discoloration?
+Patient: No, I don't think so. I, I don't, oh, recall in, no, they still look clear. Ok. Sometimes my vein, I can see the veins a little clearer. Mhm. There. But, uh, as far as the coloration. Mhm.
+Nurse: Well, you do have [PHI-Personal], you know, and that could make you have like, numbness, weakness, heaviness in the muscles. You could get pain, um, discoloration, like reddish blue problems walking. Are you having problems walking?
+Patient: I can walk pretty good. Uh, you know, and sometimes I can't, I, I, like, if I step down a step I have to, uh, ease down and not, but that's mostly because of, uh, the pain that's under my breast area there. Mhm. I don't think it has anything to do with the walk in area.
+Nurse: Ok. Now, are you getting regular exercise? Are you taking your medications as prescribed? Eating properly?
+Patient: I, I think I am. Yes. I, I remember one day, one day last week I, uh, I think, uh, I missed my evening dosage, but normally I'm on every day.
+Nurse: Do you inspect your feet?
+Patient: Inspect it?
+Nurse: Like, like, uh, are you looking at your feet to make sure there's no, no changes, like no cuts, no blisters, no open areas.
+Patient: Right. No, they're, they're, they're clear. It's just that numbness that's there about when I exercise it to try to, to keep it like exercising,
+Nurse: Like walking, it's low impact and that can help increase blood flow to your legs. Um, you don't smoke. Right. Because that could damage blood vessels and cause more damage. Um, and then you should make sure that you're changing, uh, sleeping position if you have pain, like in your legs, feet while you sleep. Um, let me see something here. You were in to see doctor in [PHI-Personal]. It, it wasn't bothering you when you saw him in [PHI-Personal] for the annual appointment.
+Patient: Uh, it's about the, I guess about the same and, and I didn't know, I guess by continuing, that's why I question it. Mhm. I didn't know if it was something that would come and go away or it would remain or whatever. So that's why I, today, but I still, I had the numbness when I was there, but as I said,
+Nurse: I, I didn't talk to him about it.
+Patient: No, I didn't. I, because it didn't seem like it was any different than it had been
+Nurse: Any other time. Ok. Well, I could send him a message about it. It doesn't look like you see him now until [PHI-Personal]. So, you know, he might want you to come in sooner than that. If it's something that's really bothering you. Are you having any kind of chest pain or dizziness?
+Patient: No, I, I think my reason for asking is that, am I to expect this from the uh what is the uh disease called apparatus? Where'd you say it was
+Nurse: [PHI-Personal]?
+Patient: Peripheral vascular. So that's, that's like a bone deterioration.
+Nurse: No, no, no. It's like, um, it has to do with your, your arteries, things like um, circulation. It's a slow progressive circulation disorder. It's like a narrowing blockage or spasms and blood vessels can cause it, um, it could affect any blood vessels outside of your heart organs supplied by these vessels. Like your brain legs may not be getting enough blood flow for proper function. And if you're mentioning about your thighs, you know, that makes sense. Um, legs and feet are the most commonly affected by that. That's why I asked you if you're inspecting your feet, you know, um, because if your feet are your feet getting numb too.
+Patient: Uh, well, on the bottom, just under the bottom, has it been that it's been that way for quite some time? Mhm. I been the, the numbness under the bottom. I, I tried to uh massage them like I, I have this m uh pale massager that, that I do maybe once a week or twice. Uh and uh hoping that helps to, you know, increase the flow.
+Nurse: Yeah. Well, [PHI-Personal]. Um, it's the most common cause of it is our, you know, it's like coronary artery disease is, is the most common cause of it. Um, plaque reduces the amount of blood flow to your limbs. It decreases oxygen nutrients available for tissues. Blood clots may form on the artery while further decreasing, you know, the inner size of the blood vessel blocking off major arteries. Um, the most, you know, important thing you could do is definitely, you know, make sure that you're maintaining, you know, a good diet and exercise regimen, you know, take your medications like your doctor, you know, has prescribed, you're on aspirin 81 MGS a day. Correct? Yes. Ok. And you take your rosuvastatin 40 mgs every day for your cholesterol, right? Yes. Ok. That's good. And then you, you also have the Hydrochlorothiazide 25 mg daily, right? Yes. Ok. And let's see. What's this one that you're on the, are you taking this too?
+Patient: Yes.
+Nurse: Ok. And that's to help lower triglycerides and cholesterol. So that's all all of this, you know, plays in the, helping reduce that. Um, did I miss anything? You're also on like traMADol 50 mg, right?
+Patient: No, I'm not on traMADol.
+Nurse: Ok. That one's done. All right. But that's all your medications then, correct? Yes. That's
+Patient: All my medications.
+Nurse: Um, ok. And no chest pain, nothing like that.
+Patient: No, no, just pain. Just, just the discomfort with the, uh, uh, no, this is concern and I was just wondering, and I wanted to find out if it's, this is something I to expect or does it ever get better?
+Nurse: Well, I mean, definitely with lifestyle changes it could help.
+Patient: Mhm. You said lifestyle mean,
+Nurse: Meaning, you know, that you're, you're eating the proper foods, um, you're getting exercise. Um, it, it could lessen over time but, you know, it may not go away but you want to do your best, your due diligence to make sure that you're, you're doing everything that you can not to like like don't like just let yourself go and be like, yeah, I can eat this, I can eat that. You know, you wanna at least try to maintain everything as best as you can. Um But like I said, I'll send a note over to the doc, you know, to see if he wants, you seen any sooner, if he thinks any other test should be run that kind of thing.
+Patient: Mhm. Ok. Uh I, I said I my, my alertness was that if uh I was just stating if for that, am I to expect this or, or is there anything to do to make it even better or? That was, that was my question. That was all.
+Nurse: Yeah. Well, I'll send a message to doc and we'll see, we'll see what he says, you know, because like I said, he may want some tests ordered too. I'm not sure.
+Patient: Mhm. Ok.
+Nurse: And you're definitely on some medicine that should help with that.
+Patient: Yes, I think I think the main thing I was, I was concerned about my walking ability that I, I think that was my concern.
+Nurse: Right. But you said you're not having any trouble walking right now?
+Patient: No, no, no. Uh, no, no problem walking. It's just that, like I said, I feel that little numbness and when I'm, when I'm moving about more it seems to be less and, and I think, you know what you're saying to me is the exercising and the walking, the exercises is, is, is good for me. So. Oh, yeah, I, oh yeah, I try to do that for motivation and so forth. Mhm.
+Nurse: Definitely. Ok. And then did you need any medications refilled today?
+Patient: Oh, let me check on the, I don't think so, but let me just check 11 of them. Ok. How are you doing?
+Nurse: Oh, I'm doing good. Thanks for asking. Appreciate it.
+Patient: Yes. Yes. Good to know how my nurse is doing.
+Nurse: Oh, thank you.
+Patient: Bye. I think I'm good with everything. I look like I, yes, I think I'm good for now.
+Nurse: Ok. All right. Sounds good.
+Patient: Ok.
+Nurse: All right. Precious. When I know something from doc, I'll let you know. Ok.
+Patient: Ok. My love. Thanks a
+Nurse: Lot. Oh, you're most welcome. You have a great day. Thanks and you too. Oh, thank you. Appreciate that.
+Patient: Uh huh. Appreciate it. Bye
+Nurse: Bye. You're welcome. Bye bye.

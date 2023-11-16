@@ -1,0 +1,31 @@
+Nurse: Hi, [PHI-Personal]. It is Trace. How are you?
+Patient: Hi. I'm fine, how are you?
+Nurse: Um, I'm good. Did you get your appointment with doctor [PHI-Personal]? Haven't heard from him. Uh, let me call them just to make sure everything's in line for you. Ok.
+Patient: I keep calling and they just say we'll call you when we get the referral. So I gave up.
+Nurse: Ok, I'll call for you. Oh, my God. You think they would have had it? And I was, I was expecting to be like, oh, we have the appointment. Let me call doctor for you. Ok. Yeah,
+Patient: I, I picked a, a big, like, scab like callus off my foot but it's got a, a sore spot on it and it was in it red when I picked it off. So it needs to be cleaned off and scraped off, I think. Yeah.
+Nurse: Well, I don't want you to end up with an infection. Is there? Um, yeah. What, what does it look like?
+Patient: Yeah, I covered it with some, and some, a band aid. Ok. What
+Nurse: It look like?
+Patient: It just looks like a scab over a callus. Like, you know, I can't put a shoe on it though. Yeah. Mhm. I can let me call them until a, on the 30th. And they, they called this morning and I also got an eye appointment that same day. So I have to, I better call Doctor [PHI-Personal] and make another day.
+Nurse: Well, you haven't seen Doctor [PHI-Personal] though. You had to reschedule your last one, didn't you?
+Patient: I don't think I did. I live the log not too long ago but I'll call and, um,
+Nurse: Ok, let me call. Let me, let me go to your chart quick. Uh,
+Patient: Um, I have so many appointments. I can't keep track of when, when they were.
+Nurse: Um, all right. Let me see. Let's see on here.
+Patient: Yeah, I got to go to the eye doctor to get plugs in my eyes for dry eyes. Mhm. Mhm. So, that's the same day. Mhm. Ok.
+Nurse: I wanna look at this, uh, your foot. Yeah. So there was a scab on it. Um, and it was a bit worried because you're diabetic. Yeah,
+Patient: It was just, it was a thick, thick piece of, like, of a callus that dried up. See, I use a stone on it and I think I made it too, I push it too hard or something and I made it like a scab, like over it and then that's when it got sore and then, uh, scab dried up and I got a, a piece of callus off on it, but there's still more callus on it, and now there's a spot on it where the scab like it, it's not better or nothing. It's not sort to touch it. Just look like a callus with a big scab.
+Nurse: Ok. Is it open or?
+Patient: It? Was, it bled a little bit and I put some peroxide on it and some ointment and a band aid over it to soften it up, like in the key. How big is it? It's probably about the size of a penny, right?
+Nurse: Ok. And uh, you don't have any drainage.
+Patient: No, no, it's not draining or nothing.
+Nurse: Redness. No, you're not running a fever.
+Patient: I know. No.
+Nurse: Ok. So you had a thick piece of callus and then you used the PMA stone and then you had a sore, right? Yeah. Ok. I wouldn't use a palm stone on it anymore.
+Patient: No, I haven't since then, you know, it was, it was a little too hard.
+Nurse: Let me see when uh, you can get in there. Um,
+Patient: Because I don't want to go to, er, because there's no podiatrist there and they won't do nothing but send me to a podiatrist and have to wait more,
+Nurse: Make sure you're keeping it clean and dry, you know, just because I mean you do have diabetes so things take a little bit longer to heal. Yeah, but it's left foot, right.
+Patient: Uh. Yeah.
+Nurse: God, no swelling. No. Ok. All right. Let me call doctor. Ok, for you. Ok. Alrighty. Alright, I'll call you right back. Thank you. You're welcome. Bye.

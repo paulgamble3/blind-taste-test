@@ -1,0 +1,46 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: This is [PHI-Personal] calling from. Hi, [PHI-Personal]. How are you? The one that, are you? The one that
+Nurse: I am the one? Yeah. How are you today? Pretty
+Patient: Cool. I'm pretty cool. Yeah. Oh,
+Nurse: Wonderful. Let me just jump in your chart here real quick. Ok. Just one minute. Are you enjoying this beautiful fall
+Patient: Weather? Oh, I, I stay at this all the time. Do
+Nurse: You, are you more of [PHI-Geographic] fall person than [PHI-Geographic] summer person?
+Patient: Uh. Oh, like this?
+Nurse: Yeah. Yeah, I think this is probably one of the prettiest falls we've had in [PHI-Geographic] long time as far as the tree fo and,
+Patient: Oh, yeah.
+Nurse: Yeah, it's so nice. Um, all right. So, how's things been going since we spoke last?
+Patient: Oh, real good. Everything's fine. Every, yeah, everything seems ok. Good. I'm, I'm staying home, try to keep active and still
+Nurse: Good for you. That's the best thing for yourself.
+Patient: That's the main
+Nurse: Thing. That's right. That's right. Now. I only have you on two medications. The FLUoxetine and Lisinopril. Is that still correct?
+Patient: Right. Yep. Ok.
+Nurse: And how's the FLUoxetine working for you? Ok. Ok. Mhm. Good. Good. Um, BP. Are you checking that at home? Yes. Yeah. What was it today or last time you checked
+Patient: It, it, here on [PHI-Account] over [PHI-Geographic] [PHI-Personal], you know, it's, it's pretty cool.
+Nurse: Good. That's great. Uh, do you ever get any lightheadedness? Fatigue, dizziness.
+Patient: Well, for [PHI-Geographic] while, for [PHI-Geographic] while I do know.
+Nurse: Wonderful. And then, you know, um, watching your salt intake too that can help with, you know, if your BP is too high. So, watching your, you know, your cheeses, your processed meats, like lunch meat, um, sausage bacon, your canned soups, that kind of stuff. Mhm. You wanna watch all that? Um, and then your GERD, are you having any trouble with that? Any flare ups?
+Patient: No, everything's fine.
+Nurse: Ok. Um, I
+Patient: Guess I'm pretty, I don't wanna bra but I guess I'm pretty good for [PHI-Personal] year
+Nurse: Old. I think you're, I think you're right. Doing very good, I think. Um, all right. Looks like you had, when was the last time I talked to you in [PHI-Personal]? And you had an appointment with Doctor [PHI-Personal] in [PHI-Personal]? Do you remember how that appointment went?
+Patient: I think it's pretty bad. It seems pretty good. Everything like it, see right now. All about it. Yeah.
+Nurse: All right. Very good. Um, all right. So as far as your GERD goes, you know, just watching the things that trigger that also like your spicy fatty foods, carbonated beverages, your citrusy foods, like your tomato sauce or some fruits can do it, orange juice, that type of thing. So you wanna keep an eye out on that? Um All right now you are due for [PHI-Geographic] depression screening. So I'm gonna go over those questions here quick. Um and this is just over the last two weeks. Any feeling um down depressed or hopeless.
+Patient: Um No at the, at the same, at the same [PHI-Geographic] with that.
+Nurse: Ok. Um any, um, having little interest or pleasure in doing things.
+Patient: No, everything's fine.
+Nurse: Ok. And how's your sleeping? Are you sleeping? Ok. Or do you have [PHI-Geographic] hard time sleeping?
+Patient: No, I'm, I'm sleeping pretty good, I think. Yeah. Right. And
+Nurse: You have pretty good energy. It seems like you said you're pretty busy, good. Um, any trouble concentrating on things like reading [PHI-Geographic] book or reading the paper.
+Patient: No. No, I'm, I'm good with that.
+Nurse: Perfect. Perfect. Ok. Right now I have you scheduled for, with Doctor [PHI-Personal] in [PHI-Personal]? Mhm. Yeah. Do you have any other appointments coming up?
+Patient: Uh, not that I know of right now. You don't, you, you know what the date is? You don't know the date
+Nurse: Yet. I do. Yes. [PHI-Personal] 27th at [PHI-Personal] 15.
+Patient: But I'll put that on the calendar and, uh, that way I can tell if it's gonna, I mean, if it's ok or if I order appointment come in.
+Nurse: Yeah. Yeah. And they'll probably, they should call you prior like [PHI-Geographic] couple days prior, just to remind you too. Right. Yeah. Um. Mhm. And I think that's probably your medical wellness. Yeah, that'll be your Medicare wellness check will be that visit.
+Patient: Yeah. Ok. Yep.
+Nurse: Um All right. So I just wanna double check. We have you at 15, 21 West Maple Street in Valley View, right? You still have ing your gold for your insurance. Yes. And [PHI-Personal] Pharmacy. Yes. Ok. Very good. Um All right. Now let me check your lab work last time you had labs done which was in [PHI-Personal]. Uh kidney function was good. Um Were you on [PHI-Geographic] medication that they were checking that kidney function? Do you remember?
+Patient: I guess that's also I think I don't think it changed. I don't see it change. Ok. Over the last couple of years.
+Nurse: Oh, it's because you're on the Lisinopril. That's why. Well, it looked like that was all still really good. I was trying to check your lab work from your cholesterol last time you had that done your lipids, but I don't see it. So must be alright if he's not checking it. Mhm. So. Ok. All right. Well, do you have any questions or concerns for me today?
+Patient: Not at, no, not at the present time.
+Nurse: All right. Very good. Well, just continue to check your BP. If you notice that you know it's getting too low or it's getting too high, please call and let us know we can see what we can do about that um and then if you do have any other questions or concerns don't hesitate to reach out. Ok. Yeah. Yep. Alright [PHI-Personal]. Well, thanks for calling me back and I will talk to you again in [PHI-Geographic] few weeks. Ok.
+Patient: Ok. Yeah. Yeah. Alright bye bye bye. Yep.

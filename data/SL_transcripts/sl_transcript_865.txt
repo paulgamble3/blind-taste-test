@@ -1,0 +1,17 @@
+Nurse: Hello, this is [PHI-Personal]. Uh, yes, hi. Hi. I apologize. We're playing phone tag this morning.
+Patient: Yeah, we are.
+Nurse: Ok, quickly. I know that you were recently in the hospital. It was a one day admission. But, um, I am calling to just verify the medicines and kind of get everything order in order on our side. I know that you have an appointment with doctor next week. Correct.
+Patient: Correct.
+Nurse: All right. If you have a, a minute or two, we can briefly review. Luckily your list is not very
+Patient: [PHI-Personal]. Correct? All right.
+Nurse: Ok. So I have here atorvastatin 20 mg daily. Yes. Ok. Zebeta, uh, 10 mg daily, correct? Ok. Cetrizine or Zyrtec 10 mg. Yes. Ok. Cinnamon Bark daily. Yes. Ok. CloNIDine or Catapres. 0.1 mg twice a day. Yes, [PHI-Personal]. Is that daily? Yes. Ok. Hydrochlorothiazide. It looks like 12.5 daily. Yes. Meclizine 25 mg three times a day for 10 days. Uh Yes. No. Is that helping?
+Patient: Yes, it is good, good. It's
+Nurse: A good medicine. All right, then I have uh, B 12. Is that 1000 Mc Qs
+Patient: Daily? Uh Let me take a look. Actually, I'm not taking B 12 anymore. I'm taking calcium. Oh, plus plus vitamin D 3 1200 mg.
+Nurse: Ok. So it's the calcium vitamin D together. Correct.
+Patient: Correct.
+Nurse: Ok. I'll remove the B 12. Ok, perfect. Then I have the Protonix or Pantoprazole, 40 mg twice daily. Correct. And then Kenalog cream uh for your rash.
+Patient: That's no longer. That's he.
+Nurse: Ok. I can take that out. All right, I'll clean up this list for you. That is all I really needed was just to check in and make sure because I already see that you have your follow up appointments that you need. All right, we are all set on my side. Thank you so much for returning my call.
+Patient: Ok. You're welcome. Thank you.
+Nurse: Bye bye.

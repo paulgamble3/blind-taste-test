@@ -1,0 +1,33 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you? Uh Yes this is [PHI-Personal], someone from there just called me. Um Doctor [PHI-Personal] wants me to uh have one of the BP cuffs and I'm assuming that's what this is about. Alrighty, let me just transfer you to [PHI-Personal] Jo. Oh ok, thank you. Sure
+Patient: Thing. Hi [PHI-Personal].
+Nurse: Yeah.
+Patient: Hi [PHI-Personal]. This is [PHI-Personal] Jo. How are you today?
+Nurse: Just fine thanks.
+Patient: Well, [PHI-Personal], the reason why I was calling you is because I got a message from Doctor [PHI-Personal] um asking us to see if you might be interested in our remote patient monitoring program,
+Nurse: Right? That's a BP cuff. Correct.
+Patient: Yes, ma'am. Ok.
+Nurse: Yeah, we we talked about it last week in my in our um in our appointment and I definitely I've never found one at home that would work on me.
+Patient: Ok. So we're we're gonna give it a whirl and we're gonna attempt it. Um so I I'm hoping I, you know, I have all the confidence in the world. I do believe that we can get this to work on you. Ok?
+Nurse: Sounds wonderful because it's never checked anywhere except at doctors and I would assume I have a little bit of white white coat syndrome. Ok. So we're kind of working on seeing. Do you know how much do we need to lower it? What do we need to do? So, there you go.
+Patient: Perfect. Ok. Well, then let me get through all the, the red tape. So um, so with the remote monitoring program, it is a billable service to your insurance. Ok. So it is subject to deductibles and copays and coinsurance. But I do see that you have the Medicare and [PHI-Personal]. So you definitely qualify.
+Nurse: Yes, I, I've not had any issues with it. So I stay in the hospital for four nights last year and didn't pay a penny. So. Oh, wow,
+Patient: That is, um, that's excellent. Oh, I love to hear that. I hear so many horror stories about insurances. Oh,
+Nurse: Well, why, you know, and, and it carries on what you're paying for that [PHI-Personal]. Yes, I am, but I'm paying up front for my [PHI-Personal] and it's covering everything.
+Patient: Excellent. I love that. Right. All right, [PHI-Personal]. Now, we also have um, a care management program as well that they kind of go hand in hand and basically what the care management program is. It's basically a call from one of our dedicated nurses, uh, where she would call and check in on you in between your office visits. Um, she can answer questions or concerns you might have she can even assist with medication and explaining lab results. Um, even getting prescription cost reductions, you know, pretty much anything pertaining to your health. She's just an added resource for you.
+Nurse: Interesting. Interesting. Mhm.
+Patient: Yes. So, they kind of do they go hand in hand? Um, and what we do have, we do have triage nurses on staff that once we get you set up with your BP cuff if you have any, you know, readings that might not be satisfactory, we'll say they'll, they're just gonna call you, check in on you, you know, go through some signs and symptoms just to make sure there's nothing more going on. All right,
+Nurse: I need that. I live alone. So that's, that's oh, all
+Patient: Right. Well, then let us help
+Nurse: You. Ok? That would be nice.
+Patient: All right. Beautiful [PHI-Personal]. All right. I've got you at [PHI-Geographic], is that right? Still correct?
+Nurse: Right. Ingo
+Patient: Ingo. Perfect. All right. Then what I'm gonna do is I'm gonna send you out a letter just basically explaining everything that I just told you. But I'm also gonna send you out your BP cuff and it's gonna come with an antenna, um, when it does get delivered, that's gonna come fedex. So you should have it in just a couple of days. I'm gonna be giving you a call and we're just gonna walk through how to set everything up. Um, I'm putting it in the box for you. Exactly how you're gonna put it on. So it's gonna be super easy. Ok.
+Nurse: Ok. Is it something I have to wear all the time?
+Patient: Uh No, no. So what we do recommend and I do see. Yeah. Yeah. So it'll just be, you just have to check your BP. Now the antenna you can just leave that plugged in and set it and forget it. So
+Nurse: Got you um, got you. Ok,
+Patient: Beautiful. All right. Well, then I will be giving you a call in a few days and your nurse is also gonna be giving you a call, um, probably in about a week or two just to check in and everything. Introduce yourself and get to know you a little bit better. All right. Ok.
+Nurse: That sounds wonderful. I appreciate it very much.
+Patient: Of course, [PHI-Personal]. Well, I hope you enjoy the rest of your day.
+Nurse: Well, thank you very much. All
+Patient: Right. Take care. Bye
+Nurse: Bye. Uh huh. Bye bye.

@@ -1,0 +1,37 @@
+Nurse: Are you
+Patient: Good to see you again?
+Nurse: [PHI-Personal]. Did you know that you missed your urology appointment today?
+Patient: That's what I was want. I was trying to find out, when was it? When is
+Nurse: It? It was today? You missed today and you missed the [PHI-Personal] appointment? So they could schedule you an appointment. Um, but this would be your, because, I mean, you don't wanna be missing these appointments. Um, so when are you available if I schedule you an appointment?
+Patient: Well, I'm going right up now but that's too soon probably.
+Nurse: Well, well, you're going to the pharmacy now, right?
+Patient: Going to the pharmacy. Yeah, that'd be the city.
+Nurse: Ok. Well, we need to make you a urology appointment. Ok. Ok. Um, do you know that, you know you, did you forget about your appointment today or you didn't write it down or what? I, I
+Patient: Never knew I had one. Remember I said I was trying to call Friday and, and I couldn't get, couldn't get through with the phone system and it was, then it was a little bit late. So, no, I didn't and I can't get it off my phone here.
+Nurse: Ok. So when are you available this week? All week? You're available all week
+Patient: As soon as possible,
+Nurse: As soon as possible. Ok.
+Patient: Yeah, if, if they say in from them today is wrong way, I'll do
+Nurse: That. Do you wanna hold on for one second? And I could, I will. Yeah, you know what? Actually we are go I'm gonna, we're gonna call there, hold on, let's see if I could do this, we're gonna call there. let me see if I could do this and we could both be on the phone let me see if I could do this.
+Patient: Um it take long I you know I can do it the end of the day.
+Nurse: Well, I want we wanna get the schedule right? So.
+Patient: Ok, I'll
+Nurse: Hang me see if I hold hang on. Yeah
+Patient: If this is an emergency. Alright
+Nurse: You're there [PHI-Personal] [PHI-Account].
+Patient: Please look at all options as our menu is recently changed to schedule, cancel or change an appointment. Please press one
+Nurse: We're gonna schedule. Ok.
+Patient: Yeah and
+Nurse: Then you can
+Patient: This is [PHI-Personal]
+Nurse: [PHI-Personal] it's [PHI-Personal] from Chronic Care Management with [PHI-Geographic] Internist. I have [PHI-Personal] on the phone um to schedule an appointment. Did I just speak with you? No, no. Ok. It's [PHI-Personal] from chronic care management. Um I'm trying to help [PHI-Personal] get an appointment with urology with you guys. Um he had a referral sent over but he missed his last two appointments later. You stay on the methotrexate. Right. So I, right. Um,
+Patient: I can do Wednesday afternoon at two o'clock.
+Nurse: [PHI-Personal]. Is that good for you?
+Patient: That, that'll work. But if you want sooner, like I said, I could, uh, I don't know, I remember you guys quit at a certain time but I could go there and set, somebody didn't show up today. Uh, I, you know, I could leave now, but Wednesday at two, you said the only time I still have open for today is uh, 1 30. What time is it right in?
+Nurse: It's one o'clock 107 II, I
+Patient: Can get there with it within 20 minutes. Oh, if you can be here in 20 minutes, I can put you on for 1 30 today. Good. You, you got a little five minute relay in there, right? We have a short one but he's got a busy afternoon. So I'll be, I'll be going right now. You need to leave right now. I'm in work close but I guess that doesn't
+Nurse: Matter. That's ok. Ok. And [PHI-Personal], you know where you're going right?
+Patient: Uh uh uh up [PHI-Geographic]. Uh, give it to me again. It's right up on the summit building. Number two. Building two. Yeah, Washington. Ok, I go there before I go to the pharmacy. I go right now. You right now. Ok.
+Nurse: Ok, thank you.
+Patient: Yes. Ok, I'm gonna get out of here right now. Ok. Oh,
+Nurse: Ok, David, so you're gonna go to that appointment. Today, right at 1 30. Ok. All right, I'll talk with you soon. Ok. Bye bye. But, um.

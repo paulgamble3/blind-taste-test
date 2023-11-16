@@ -1,0 +1,19 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Is this right? Who? Hello? Is this
+Nurse: [PHI-Personal]? No, [PHI-Personal] off. This is [PHI-Personal]. I'm one of the other care manage.
+Patient: Yes. Uh I have my, my caregiver. It arrived yesterday and he said she can bring me to the, what is that? Hm. Uh uh the pharmacy, mm uh pharmacy to pick up my medicine and then I can bring it to the office of doctor Y days. Is that correct?
+Nurse: Who did you talk to your caregiver?
+Patient: Yes, because the doctor, your office said you have to pick up that medicine and bring to all my clinic so that I can administer it to you. I said I have nobody but yesterday my caregiver arrived and he told me she can pick it up and bring it to your, to doctor your, the clinic. Um
+Nurse: I'm not sure which medicine you're referring to. Honey. How about I transfer you to the office so you can ask them they would know better. I,
+Patient: I, I, they, you know, it is for my [PHI-Personal]. Never mind. I already contacted them. I'm just, I just returning your call. Oh my God. Oh, ok.
+Nurse: Alright. That, so you
+Patient: Might that.
+Nurse: Oh good. Yeah, it gets hard sometimes when the other care, the other nurses are off because, you know, we don't necessarily know exactly what's going on with everybody but I'm glad that you got things taken care of and if you're good but, but
+Patient: Maybe by there is one thing more I, I don't know if you know how to answer it. I have my um s on WS it is being also canceled. I said what happened? She, they told me because the opposite, the office of doctor yd don't have, don't file a paper work. And I told them in that case, I can apply for, to apply to do the paperwork, right?
+Nurse: You can what? For the paper?
+Patient: Ly, yes, because they said, uh, the told me you, you cannot receive our, our services because your doctor did not do her paperwork. I think this is not the case. So I will go to the office and I will do the paperwork.
+Nurse: You can ask them in the office. But they said that they, they did not, they're not the ones that stopped those. So I would definitely ask while you're there today.
+Patient: I don't know. Maybe you don't understand. We don't understand it. Other [PHI-Personal] can explain it to me. There are a lot of things that is missing in my life. I don't know what happened. Ok? I
+Nurse: Will let know when she comes back. She's, she's back at the end of the week here. So I will send her a message to call you.
+Patient: Ok. Thank you dear bye. You're welcome.
+Nurse: You have a good day, honey.

@@ -1,0 +1,58 @@
+Nurse: Hey, this is [PHI-Personal], one of the nurses.
+Patient: Hi, this is,
+Nurse: Hi, how are you? Oh, yes, I did. This is [PHI-Personal]. I was just checking in to see how you were doing. I know you have that appointment coming up on the [PHI-Personal].
+Patient: Yeah, so I'm doing fine.
+Nurse: Ok, good. All right.
+Patient: Uh, I went and saw doctor last week. Perfect. And, uh, you know, everything was seem to be ok.
+Nurse: Right. Yeah, I mean, hopefully they can get to the bottom of what's going on, like why it's just, you know.
+Patient: Yeah.
+Nurse: Keeps running low. Uh,
+Patient: Yeah. Been that way for a while. Yeah.
+Nurse: So it looks like from the visit some of the recommendations were, um, for the weight, um, follow up with endo for diabetes management. Your BP is at goal. Um, continue the amLODIPine and Lisinopril. Correct. Yeah. Does that sound right? Tolerating? Well, carvedilol DC due to the Bradycardia for the AFIB, uh, rate controlled. Continue Eliquis follow up, uh, as scheduled with, uh, cardiology and then for the secondary hypo coag state state due to AFIB, uh, continue Eliquis. So, really nothing. I'm sure that you're, we're surprised with.
+Patient: No, no.
+Nurse: No surprises. Right? So, and you're feeling OK? No, no, like you're not weak or feeling like an irregular pulse or chest pain or difficulty breathing? No. No. OK. Good. So that's at least that's good. So
+Patient: Yeah,
+Nurse: So let's see. I don't we go. Yeah. So same thing, you know, just keep an eye on it.
+Patient: Yeah, I take my um BP twice a day which gives me the heart rate and I do the, um, oximeter twice a day
+Nurse: And you're doing your weight, you're doing everything. So,
+Patient: Yeah, I'm trying hard. Yeah.
+Nurse: Oh, you had a high BP reading? Yeah. Huh.
+Patient: Yeah. Well, I think part of it is I'm under a bit of stress right now. I just found out we're going to be moving.
+Nurse: Oh, that's hard.
+Patient: Yeah. Well, it won't be for almost a year. But still we're moved into [PHI-Geographic], which pretty much means I will at some point in the, you have to find new doctors. I, I
+Nurse: Think, I think that TGH is out there. Is it? I think they, I think they do because I feel like, um, you could still stay with me but I feel like some of the nurses have [PHI-Geographic]. That office. So, so I think that it's out there. Yeah. I think they have one out there so I can find out for you. So. Mhm. BP. And when you had that elevated reading, did you have any chest pain or? Difficulty breathing. No, any headaches, confusion, uh, difficulty speaking, visual changes, numbness, tingling in your arms or legs or dizziness. No. Ok. That's good. Right. So, ok, so, you know, bradycardia, it's a normal, uh, lo um, slower than normal heart rate usually, uh the heart rate of adults at resting usually beats between 60 100 times a minute. Yeah. So if you have Bradycardia, your heart rate is lower than 60. So, which yours is lower than 60. So,
+Patient: Yeah, I mean, I have trouble, I've always had trouble getting it up over 80. Oh, really? I can be on the treadmill for over half an hour and I can't get my pulse rate over 80. Wow. Yeah. So my pulse rate doesn't go up and, ah, let's see, there is TGMV, West Chapel. Uh huh. It's, well, I went in under TGH capital and this is what it gave me. So, that's good. I, yeah, so
+Nurse: There is one. Yeah. So that way all your records will be in there. Um, you don't have to worry about changing anything over. Yeah. On. So,
+Patient: Oh, I don't need to change anything for a while. So,
+Nurse: But that part don't stress about that part because that, that'll be, I can help you with that. I can even help you make your first appointment. So, don't worry about that. Yeah. Yeah,
+Patient: This is two moves in three years.
+Nurse: Moving is tough.
+Patient: Oh, yeah. Well, I left the house. I've been living in for like, 50 years to come here. Uh huh. And they've lived here for over 20 years. Wow. But being in [PHI-Geographic] and worrying about during the hurricane and it, uh, evacuation zone and all, why don't you go somewhere else? Yeah. So, and they've already found the place and we just have to wait for it to be filled.
+Nurse: 00, so, oh, that's nice. So, you guys are going to build a house?
+Patient: Yeah, they're, um, they've got a lot of development going on up there and this development is huge. It's, um, mostly two story houses but the one we're getting gonna be, uh, one
+Nurse: Story. Oh, that's good. So, hopefully it won't be too disruptive. I mean, at least, you know, they were able to find a place that's gonna work for everyone that's, you know. Oh, yeah, because the market's crazy.
+Patient: Yeah.
+Nurse: As I'm sure you've noticed. Yeah.
+Patient: Yeah. Well, you know, they have the pool here and I don't think they've used it for years. I used it for a little while when I first moved in here but I can live without a pool.
+Nurse: Yeah. So you don't use the pool?
+Patient: Not too much. I don't do sunlight. Well, not a whole lot of fun out by myself. Yeah.
+Nurse: That's, yeah, that's, that's understandable. That's understandable, you know.
+Patient: Yeah. Mm.
+Nurse: Ok. So, same thing as before you don't, didn't have any chest pain, no chest pain or confusion. Dizziness. Lightheadedness. Um, do you easily tired during, uh, when you're, uh, exercising? Do you get tired? Um,
+Patient: I, I do a little bit, a little
+Nurse: Bit. Ok.
+Patient: But, uh, but too I do fall asleep a couple of times in the morning. Yeah. But I'm working on that with the sleep apnea. Ok. Good.
+Nurse: All right. And then, uh, fainting. No fainting and no shortness of breath. No. Ok. So any worsening symptoms call over either to cardiology or p primary care, anything severe should be addressed in the emergency room and then you have that appointment. So hopefully they'll be able to figure out what the best next step is. I hope. Yeah, I hope so so. Yeah, it's been a little bit. Yeah. So you did have a reading of, uh, let's see, looks like you got a couple of fifties in there at least.
+Patient: Yeah, I think I had one that was in the [PHI-Personal]. Really?
+Nurse: I don't think that one showed. It's probably just, it, it didn't flag because, um, it wasn't out of range. So. Oh, yeah. [PHI-Account] and [PHI-Account]. 0, that's a good one. The [PHI-Account] is good.
+Patient: So it just stays there. Yeah, it
+Nurse: Just has to stay there. That's all. So. Ok.
+Patient: Hopefully we'll work it out.
+Nurse: Yeah, hopefully. Yeah, hopefully you'll work it out and you'll work with cardiology and hopefully when you move, you're in a good space to move and it's not. Um, yeah. Yeah, it's not too stressful because you're moving into like a whole new place. So that's, that's built. You don't have to worry about fixing, fixing anything up or painting or, you know, any of that kind of stuff and hope hopefully it's a smooth transition. But like I said, with the whole changing, uh, providers, I can help you with that. That's not a big deal. So, don't stress out about that. And are you good on your medications? Yeah. Ok. Do you need any refills? Um, not
+Patient: Right now. I don't think so. I just had a couple refilled, so. All right. Ok.
+Nurse: So, all right, if you see that you need a refill, you can give me a call and again just watch your symptoms, call with worsening symptoms and then anything you go to the hospital, that's all. And then you see your cardiologist on the [PHI-Personal].
+Patient: Yeah, that Friday.
+Nurse: Mhm. Uh, the month just f by. So it really is just like flying by. So. Oh, gosh. All right. Well, thank you so much for your time. I appreciate it.
+Patient: Oh, you're welcome. I appreciate this whole program.
+Nurse: Thank you. Take care.
+Patient: You too. Bye bye bye bye.

@@ -1,0 +1,19 @@
+Nurse: Good morning. This is [PHI-Personal] with [PHI-Geographic] Group.
+Patient: Good morning. This is [PHI-Personal]. I'm returning my call.
+Nurse: Yes, sir. How are you doing? Not too bad. Thank you. Well, good. Um, I was just calling to let you know that I got news this morning that, uh, your office has ended their contract with us. So I was just calling to let you know that if you have any questions or follow up, uh, just reach out to your office and they're happy to help you. Ok.
+Patient: My office, my carrier,
+Nurse: Uh, give me just a second. Let me get you pulled up here.
+Patient: Ok.
+Nurse: But doctor re, um, their office there at, um, they've ended their contract with the nurse care managers where we were calling all the patients and checking in on them between doctors appointments and things like that. Um, they ended their contract with us today. So I was just gonna let some of my patients know that if you had any questions or concerns to reach out to doctor [PHI-Personal] office, uh, directly to speak with them.
+Patient: Did they give any reason as to why?
+Nurse: Um, not particularly, uh, it was a decision from one of the providers specifically, but I won't go into that. Um, they just said that it wasn't working out but if this is a program that you feel like you benefited from and that you like having a nurse call in to check on you between your doctor's appointments, please let your doctor know that at your next appointment.
+Patient: Oh, so it wasn't the carrier, it was the pro the providers that would come to visit the home.
+Nurse: Right? It was uh, I don't know how to exactly to word it. Um, they're at [PHI-Geographic] with the [PHI-Geographic] group. They decided just collectively to discontinue the program
+Patient: Of the nurses
+Nurse: Visits. Well, just these phone calls with me. Oh, the, the phone calls you'll still have your home health nurses coming out to you.
+Patient: Ok. I still have my primary care physician. Doctor [PHI-Personal].
+Nurse: Yes. Yes. Yes, that this does not affect that them at all. I just won't be able to contact you between your doctor's appointments anymore to check on you. 00, ok.
+Patient: Ok. So I'm going to contact Doctor [PHI-Personal] and find out uh more in detail as to what's going on. I appreciate your, I appreciate your acknowledgement and thank you very much.
+Nurse: Absolutely. You have a good day. You too
+Patient: And be safe. Alright, bye
+Nurse: Bye bye bye.

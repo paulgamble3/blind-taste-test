@@ -1,0 +1,32 @@
+Nurse: This is [PHI-Personal]. How can I help
+Patient: You? Yes, I need the renewal prescription.
+Nurse: Ok. I can certainly help with that. Can I get your name and date of birth, sir?
+Patient: My name is [PHI-Personal] [PHI-Account].
+Nurse: Alright, I'm just getting you pulled up here. Give me just one minute. Ok. Yep, thank you so much. Ok, I got you here Mr thank you so much for bearing with me there for a minute, you know technology, not what it's cracked up to be. Ok. So what prescription were you looking for? My friend?
+Patient: Uh it's I'll spell it for you. Ok. DilTIAZem Hydrochloride. Ok. 180 mg,
+Nurse: 180 mg. Ok. The dilTIAZem. Ok. Got you. Ok and what pharmacy is that going to? Pardon me? I said the um pharmacy I just wanna confirm the pharmacy
+Patient: That oh this is uh CV S Caremark and it's from uh ph
+Nurse: Ok got you CV S Caremark. Yeah I can definitely work on that for you um because you last saw him. Yeah this [PHI-Personal] so yeah that's no problem we can just I'll send that out for you right now.
+Patient: Ok. I get I get two more. Oh yeah. Go right ahead. OK. You ready for the next one? Uh
+Nurse: Give me just one second. Get my pen together. Yes, I'm ready.
+Patient: OK. It's uh met O Pr Olol and it looks like it's succinate. Er 200 mg.
+Nurse: OK. That one for your BP? OK.
+Patient: OK. One more. Mhm. And this one here is omeprazole. OK. Tw 20 mg.
+Nurse: 20 mg. OK. Got it. And that one you take just one tablet uh daily, right? Just one, every one of them. Yeah. Yeah. OK. Just one. All right. And they're all going to CVS Caremark, right? Yes, perfect. OK. Yes, that's perfect. So I I can get started on that. So you're good on the Januvia then and the levothyroxine.
+Patient: Yes, those are good right now.
+Nurse: OK. Great. And then the other things I hear here are Pradaxa and Rosuvastatin. So those two you're good on those are fine. OK. Great, great, great, great. All right. Well, I'll get working on that. How are you doing otherwise?
+Patient: Oh, I'm doing fine good.
+Nurse: I think your, I think your wife told me that you um I think you were visiting some family. She told me you all were gonna be going out on the boat. Pardon me? I think your wife told me that you uh y'all would be um unless I'm mistaken, I might be mistaken but I think she mentioned that you were going to be visiting some family and going out on the boat, I think she mentioned that to me.
+Patient: What, uh, we're going up in, uh, in July. Yes.
+Nurse: Oh, in July. Ok. I got, I put you there too soon. Sorry about that. I was just curious how the trip went. Well, enjoy. That'll be nice. That'll be really nice. But, um, I'll get started on this for you and then as long as you're doing well, I'll just check you off that we already spoke. Um, unless you need anything else from me, you can always give
+Patient: Me. No, that's, that's it right
+Nurse: Now. Ok. Good. And things are still going good with the, um, hematologist.
+Patient: Yes. Yeah. Are
+Nurse: They gonna do more infusions or are they kind of just leaving things status quo for now?
+Patient: Uh, yeah, I think we'll leave everything the way it is for the moment. I'm going to the dentist this morning. Unless that counts.
+Nurse: I hope they're not going to pull anything out. No. Who's going
+Patient: To do the cleaning? Jesus? I hope they don't pull anything out. I don't have that many left.
+Nurse: I about to say that and I hate going because I feel like they always find something wrong with my teeth when I go. But,
+Patient: Yeah. Oh, they, they get their money, don't worry about it.
+Nurse: Yeah. I was telling my husband and it's, it comes right out of your pocket too. So they, you know, they don't have to wait on insurance. They get their money. That's all right, my friend. Well, I'll send this over so nice talking to
+Patient: You. Ok. You too. Thank you. Have a good day. Thanks. Bye bye bye bye.

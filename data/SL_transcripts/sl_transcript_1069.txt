@@ -1,0 +1,13 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal].
+Nurse: How are you doing?
+Patient: You know, honey, I'm fine. I mean, you know, for what I am and what I have. I'm good.
+Nurse: Ok, good. So you don't need anything right now? I don't
+Patient: Think so.
+Nurse: Huh? Ok. Are you able to, um, recheck your BP while you're on the phone with me? No. Huhu. Ok.
+Patient: It's in the other room and, uh, it's not even plugged in, but my blood pressure's been great. Ok,
+Nurse: Perfect. Make sure that you leave, um, the wall unit, the, that goes to the wall, leave that plugged in because they're starting to do update on them and they just automatically the time change. Yeah, if you plug it in, if you don't have a, you won't get the update. Ok. Right. I'll tell him to plug it in. Yeah, just do that. Let me just make sure there wasn't anything else I needed to address with you. Oh, ok. Yeah, just go ahead and make sure you, your readings, um, and make sure that that's plugged in just so it gets updated as long as you're feeling. Well, you're not feeling like dizzy or chest pain or short of breath or anything?
+Patient: Oh no, I don't have any of that honey. I got that Aller [PHI-Personal], which is a horrible disease, illness. I have type three. I live with pain, horrible pain all the time, but my heart's good. My lungs are shot but the heart's good.
+Nurse: Ok then. Alright. Well we'll just keep following up with you. Just go ahead and uh you know, monitor as you've been monitoring. Ok? Yes, ma'am. I really appreciate your phone call back. I hope you all
+Patient: Right. I just keep missing y'all. I, you know, I do church in the morning and it's just the scheduling is not, you know, but yes, I'm fine.
+Nurse: Thank you. Perfect. Ok, thank you. So have a great one. All right bye. Thank you. Bye bye bye.

@@ -1,0 +1,22 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Hi, how are you? Not too bad. I was trying to get a hold of somebody to get my depo code. Ok. New beginnings. I tried to call them back three different times and they didn't return my call. They said that they, I missed an appointment so they discharged me. I need my Depakote for schizophrenia.
+Nurse: Ok. Let me just jump in your chart here. Ok. Um, so who, who discharged you?
+Patient: New beginnings,
+Nurse: Right. Um hm. All right. So are you just looking for a refill? Yeah. Of the Depakote you said?
+Patient: Yes, I take three a day
+Nurse: And where do you want it sent? Um, well, ok, hold on, I'll have to send a message to Doctor [PHI-Personal] because since he didn't prescribe it. Yeah. Um, so let me send him a message. Let's see. You saw [PHI-Personal] on the fifth, right? Yeah. All right. Let me see. Now, when did you miss an appointment? Because you just had an appointment on the [PHI-Personal]?
+Patient: No, that new beginnings,
+Nurse: Right. You had an appointment with new beginnings on the [PHI-Personal], correct? Yeah. So what, what appointment did you miss that they discharged you?
+Patient: Hey, uh hello, [PHI-Personal]. I got you.
+Nurse: Do, they don't even give you like a [PHI-Personal] period there
+Patient: Or, and then leave a message?
+Nurse: What the heck, I'm sorry that happened. So am I um, and you talk to them and they won't like try and take you back.
+Patient: I'm, I'm gonna try get me the refill and then I'll have a month to uh, get a hold of them because trying to get them to call you back is ridiculous.
+Nurse: Ok. Um All right. So if doctor [PHI-Personal] does agree to fill that, um, where do you want it sent?
+Patient: Um, medicine shop?
+Nurse: Ok. Um All right. So let me, I'll send him a message and as soon as he gets back to me, I will let you know. Ok. Do you have enough to get through? Like do you have some now or you completely
+Patient: Out? No, I have some now. I got enough for the weekend.
+Nurse: Ok. And you said you take it three times a day?
+Patient: Yes. 500 mg.
+Nurse: Ok. All right, I'll send him a message here and I'll get back to you as soon as I hear back. Ok, thank you. You're welcome. Bye bye
+Patient: Bye.

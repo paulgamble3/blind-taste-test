@@ -1,0 +1,11 @@
+Nurse: This is [PHI-Personal], can I help you?
+Patient: Hi, my name is [PHI-Personal] and I was just checking back with um my case manager. Let me see
+Nurse: Here. This is [PHI-Personal]. Can you confirm your date of birth for me? I can check if she see if she's available? Two
+Patient: [PHI-Account].
+Nurse: Ok give me one second.
+Patient: Ok.
+Nurse: Mhm. Let me send her a quick message to see if she's available. Ok, she's gonna call you back. She's on the line with someone else. What's the best contact number for you?
+Patient: Um [PHI-Account].
+Nurse: You got it. Not a problem. I'll have her call you back in time.
+Patient: Thank you.
+Nurse: Bye bye bye.

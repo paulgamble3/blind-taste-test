@@ -1,0 +1,63 @@
+Nurse: Hi, good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. Are you one of? I was trying to get a hold of [PHI-Personal]. This is [PHI-Personal]. Yeah. I'm actually, did you
+Nurse: Call me back? I did. I did. Yeah, I'm actually your nurse, case manager. [PHI-Personal] just helps me from time to time when she's caught up. Oh, ok. But how can I help you? [PHI-Personal]?
+Patient: Yeah. Um, I'm just a little confused about if I should go to the doctor or, uh, it's, I think it's a fier, is that how you say it fissure?
+Nurse: Yeah. Fistula. It's a fistula. Yes.
+Patient: All right. It's in the area of the, I think it's the sacrum. Does that make sense? Mhm. Mhm. And it's, um, I, I googled it and it says, uh, aspercreme and Lidocaine, which I got and it's just, uh, it's, uh, upsetting me because I can't see it
+Nurse: Well, and I mean, is it, is it in the hold
+Patient: On a second? I've got Rees duty. Do you hear him
+Nurse: Yelling? I can hear you fine. But, yeah, you take your time.
+Patient: Um, yeah, hold on, let me see if I can put the speaker on. Ok. So I can hear. Ok. You
+Nurse: There? Yeah, it's ok for me to speak freely. No one else can me. Ok. Is it in your rectum area then? Is it,
+Patient: Ah, yeah, I think it
+Nurse: Is ok because sometimes they can be kind of up at the top, like an open area or sometimes they can be like a really bad protruding hemorrhoid too.
+Patient: Yes. That's what I'm, thank you. I think it might be a hemorrhoid. Well,
+Nurse: And here's this, I'm not sure here's the thing. They make medications to treat it, but being this is the first time you've had it, I need to make sure that that's truly what it is. Does that make
+Patient: Sense? I can't see it to give you any more details, but I
+Nurse: Don't wanna give you, um, the wrong information by all means, but I do feel that someone should lay eyes on it. Yes.
+Patient: But here's why I called because, and really, I really appreciate the service that you guys have. Um, it's like so good to have somebody like this that you can call. Uh huh. So I'm really happy about this but, and tell me doctor that, um, what I said that it's, I think it's awesome but here's
+Nurse: When it's in the office you make sure you tell them too so that they keep, yeah,
+Patient: I sure will. But I don't come until [PHI-Personal]. But, um, here's the thing I was wondering if, if I should go to the gynecologist or to, uh, ok. That's what I thought. But I, I wanted to hear
+Nurse: That to be a faster look at, um, can be weeks out, maybe even months. Yeah. Well, my
+Patient: Office, um, that I go to is really, is usually pretty fast. Um, it's doctor and I work with, uh, um, he, uh, she's a physician assistant, I think. But, yeah, when do you think something, uh, might be able to look at
+Nurse: It? Yeah. Well, you, I mean, you're welcome to call them. But if it's more on the, on the back side than the vaginal side, I'm not sure. There's a lot they can do with that.
+Patient: Yeah, exactly. So, no, I'd rather do what you're saying.
+Nurse: Yeah. Sometimes we even have to refer out to like, a AG I doctor if it's bad enough. Yeah,
+Patient: I know that. Yeah, that's not what I want to hear, but hopefully we can get on top of today. Mhm.
+Nurse: What time do you leave school today?
+Patient: Um, I don't get out until, like, five after four.
+Nurse: Yeah, I was gonna say I do have a three, a, 2 45 or a three o'clock today. If someone could cover your kidneys there, we could get you in before the weekend.
+Patient: Ok. Hold on a second. Um, it's just really hard for me to hear you. Oh, I, I'm trying to, ok, I got it turned up. You don't have one after four, do you? Yeah.
+Nurse: No, her last appointment today is three o'clock because it's a Friday. I was just trying to think if anybody could cover your kiddos. Um, today we could get you one in before the weekend to truly make sure what it
+Patient: Is. The problem is that, uh, they're really short here and I can't do that to him. I probably shouldn't be really, I should be there, you know? But
+Nurse: What about, um, can you take a, um, a lunch and go back? Uh,
+Patient: No. So our teacher didn't show up. So that would have
+Nurse: Been 1 45. Um, I have from 1 45 to 3 available with [PHI-Personal].
+Patient: Yeah, I, I'm sorry. Um, I'm not gonna be able to do that. I don't think.
+Nurse: Ok, just trying to think if we could get you in before the weekend. Um, do you want me to look at next week then?
+Patient: Yeah, the problem is, I don't have, um, do you, what do you have available? At least I could write down. I do have a piece of paper and a pencil. I
+Nurse: Have a [PHI-Account] on Monday or a 5 30 on Monday.
+Patient: Here's the thing, I'm pretty sure I work. So, um, I'm gonna be very close to the school over in town so I can get there after I leave and be there. Um, did you say what
+Nurse: Time, um, what time do you start in the morning? She even has a 7 15 available on Monday? Morning.
+Patient: Yeah. Um I don't want you too, too much.
+Nurse: Ok, sure thing. Um I have a, um, like I said a [PHI-Account] or a 5 30 on Monday.
+Patient: Yeah, the [PHI-Account] would be perfect. Ok and this is gonna be with,
+Nurse: Yeah. Yeah, I'm keeping you with um let's see here got it there office visit.
+Patient: Yeah, thank you.
+Nurse: I mean you're not having any bleeding, severe pain with it like so much that you can't sit down anything like that.
+Patient: No. Um I think I am concerned about it but I here's the other thing I always think about um herpes and I don't think it's that. Mhm. The last time I didn't think it was that it was that so
+Nurse: Um it's better to have it look at,
+Patient: It's probably a uh the one that you said what? Um Yes. Yeah, but it is
+Nurse: In the rectal area. Can you feel like uh a protruding or
+Patient: It feels like a raised area? That's the best I can. It's just frustrating that you can't see it. You know, normally you can just see everything and I can't even, maybe I can get in some kind of a position to take a picture. I don't know, it's not easy. I live on
+Nurse: Page in the rectal area.
+Patient: I take it in.
+Nurse: Ok. Um I'm just gonna say patient describing symptoms of raising rectal. It
+Patient: Sounds like somebody else is on.
+Nurse: Ok, I'm just gonna say describing symptoms of raised area and rectal area, very unsure of what it is. Ok. That just kind of gives her a guide of what we're, what we're coming in for. Um, but I do have, I did confirm that at [PHI-Account] on Monday the seventh.
+Patient: Ok, thank you so much. Is it,
+Nurse: Uh, you cut out on me there for a minute. I'm sorry.
+Patient: Uh there's, there's another like, uh going on in the background
+Nurse: That's fine. Uh huh. Well like I said, ok,
+Patient: Have a good one.
+Nurse: Yeah you too rosemary and like I said, if anything worsens head on over to an urgent care especially if you see any type of bleeding, severe pain or fever otherwise we'll see you at 4 45 on Monday. Take care. Alright bye bye bye bye.

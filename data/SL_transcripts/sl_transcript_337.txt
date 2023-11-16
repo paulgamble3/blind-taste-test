@@ -1,0 +1,71 @@
+Nurse: Hi, this is
+Patient: Uh this is [PHI-Personal]. I had a message to call [PHI-Personal].
+Nurse: Yes, that's me, my dear. Give me one second to pull your chart open. Thank you for returning my call. Ok. Yes. So I'm calling on behalf of Doctor [PHI-Personal] Care team. Um I am a nurse and I was just calling to get you set up in the care management program. I know that you were enrolled in the remote patient monitoring program, but this call is about the care management. Ok. Ok. Ok. So the way the program works is you'll be assigned a nurse, which is me and my job is just to work with you either on a monthly basis every two months, every three months, whatever you feel comfortable with and um work with you towards your health goals and then follow up with Doctor [PHI-Personal] in regards to your progress. Um along with that, I can help with things like medication refills, scheduling, answering medical questions and concerns and a plethora of things in between. Um ok. So what I would like to do first is just confirm some information on my side just to make sure that they're still correct. Um, I have your birthday as [PHI-Personal]. Yes, that's correct. Ok. And your mailing address? I have 1932. [PHI-Geographic], um, Florida. 33573. Yes. Ok. Do you still have [PHI-Personal] as your primary and Blue Cross Blue Shield as your secondary? Yes. Ok. And let me confirm your pharmacy. Uh, are you still using deliver Rx? Yes. Ok. Ok. Is that like a mail delivery
+Patient: Service? No, uh, they bring it out but they, uh, uh, I, I don't know what the difference is except that they deliver, but I found them extremely reliable and easy to deal with it. And a pharmacist answers the phone when you
+Nurse: Call. Oh, that's nice. So, it works for you. Keep it beautiful.
+Patient: Yes. I've been very pleased with them if it's something short term, I don't have them delivered there up in [PHI-Geographic] somewhere. But, uh, for regular medications, I do all of them with it.
+Nurse: Um, how do you organize your medications? Do you keep them in the bottles? Do you have like a weekly organizer? Uh,
+Patient: I keep them in the bottle. I label the tops and then I have a little plastic container that they all fit in. Ok. And, uh, you know, just put out in, in the, uh, um, medicine holder cup. Medicine cups are what I need for a day at a time. Ok. Sounds good. And then I can just take that box with me if I travel and I don't have to count out pills and all of that
+Nurse: Stuff. Oh, you have a nice little routine.
+Patient: Well, it's, it's been hard to come by. I developed it through the years, but particularly with travel because it's so difficult to make sure you've got everything. It takes so much time. So it's easy just to put that little plastic container in my luggage and off like that.
+Nurse: Ok. Works for me. So, what I would like to do next is, um, I wanna review the medications that I have on my side just to make sure that they're up to date and correct. Um, if I read them out loud, will you be able to confirm that for me?
+Patient: Yes. But give me just, uh, 30 seconds or so to pull my list up?
+Nurse: Sure.
+Patient: Ok, I have
+Nurse: Them. Ok, let's start. Um, uh, are you preparing to do a colonoscopy?
+Patient: I've been trying to get an appointment. I've had trouble getting somebody to answer the phone and then I've gotten cut off a few times. So I give a trial online and see how that works.
+Nurse: Ok, if you don't get the line, um, maybe I can give them a call. Ok. So.
+Patient: Ok. Well, yes, if I could call you back, if I don't, uh, I would rather, you know, talk to somebody because they, uh, I don't know. It just, maybe just because I'm used to it. But yeah, it seems like there's more flexibility that way.
+Nurse: OK. Well, let me know we'll, we'll circle back around to that. OK. Ok. So let's see. So I see that doctor [PHI-Personal] ordered the prep for the colonoscopy. Excuse me. So, yeah, that's why I was like um most people are not drinking all of that on a regular basis. Ok. Um I have database or sotalol. Um That's half a tab twice a day.
+Patient: Yes. 40 mg twice a day.
+Nurse: Mhm. And I have levothyroxine 100 MC GS um every morning before breakfast. Yes. Ok. I have a baby aspirin that you take daily. Yes. Um Are you still taking the bethanechol 25 mg? Um twice a day. I
+Patient: Take that pr en only. No. Ok. I, I don't know if you have Flomax on my list but I'm taking that instead.
+Nurse: Oh, yes, I do have Flomax. I'll get down to that one. So the bethanechol is as needed. Um Then I have this Metrogel Cream um insert. Are you still using that one?
+Patient: I am I'm not totally compliant because it's difficult, but I'm supposed to be using it. Let's put it that
+Nurse: Way. All right. Um Then I have, let's see. Trimethoprim 100 mg. Monday, Wednesday, Friday. Yes. Ok. And then I have Topamax 200 mg twice a day as needed.
+Patient: Yes, but I don't take that very often. It's probably been months since I took it.
+Nurse: No worries. I, I won't remove it though. I'll just leave it there. Um Then I have the Flomax like we talked about. That's the 0.4 mg once a day. Yes. Um Then I also have Colace or docusate sodium 50 mg once a day.
+Patient: Yes.
+Nurse: Um Then I have gabapentin 100 mg once a day. Yes. All right. Then I have rizatriptan 10 mg once a day. Um
+Patient: S Pr [PHI-Personal] I believe.
+Nurse: Oh, yes. I'm sorry. As that is pr [PHI-Personal] I apologize. Then I have the nystatin um, sus oral suspension as needed as well. Yes. Ok. Rosuvastatin five mg once a day.
+Patient: Yes, you're so good at pronouncing holidays.
+Nurse: And uh thank you and uh albuterol uh two puffs into the lungs daily. Uh Then I have Flonase, that's the nasal spray, two sprays daily or I would assume as needed.
+Patient: Uh I do two sprays in each nostril at chips
+Nurse: Every day. Uh huh. Ok. Um, then I have Prevacid um, 30 mg once a day. Yes. Ok. Then I also have vitamin D 3 25 mg once a day. Yes. And then this one's a little bit of a Oh, no, no. Ok. Then I have Voltaren Cream. That's the topical cream that you use that daily or as needed. Uh, I
+Patient: Always use it daily on most of my sore joints and uh, sometimes use it twice a day.
+Nurse: Ok. Ok. Uh, let's see here. Are you taking anything else including vitamins and supplements that I did not mention
+Patient: I am taking methenamine H IP P one g. Supposed to take, uh, two a day. I usually get 1.5 down.
+Nurse: I'm sorry, one second. You said Nifedipine?
+Patient: Yes. Uh huh.
+Nurse: For your blood
+Patient: Pressure? No, it's for, uh, uh, to prevent urinary tract
+Nurse: Infection. I'm sorry that I, I heard the wrong medication. Do you mind repeating it one more time for
+Patient: Me? I'm sorry, let me spell it for you because it's one of those unpronounceable things. It's M PM. Ethen Ami Ne? Oh,
+Nurse: Ok. Ok. Ok. Ok. Uh
+Patient: PP, yeah, I, what that means.
+Nurse: All right. Let's see. I believe that's [PHI-Personal] is the brand name that's for, um, your bladder. Uh huh. Yep. Ok. And what is the dose?
+Patient: I'm supposed to take one g twice a day. But, uh, it irritates my G I tract. So I usually take, uh, half a gram three times a day, 1.5 a day.
+Nurse: Ok. Um, and when did you start that medication? Mhm.
+Patient: I can't remember, uh, uh, Doctor [PHI-Personal] prescribed it. I can't remember if it was just this July when I saw him or if it was the visit before that. Ok. So, but I've been taking it since July for sure.
+Nurse: And Doctor [PHI-Personal] is your, uh,
+Patient: Mark [PHI-Personal] is urology,
+Nurse: Urology. Ok. I'll put that down urology
+Patient: And I usually ta I take, uh, Tylenol for Pain Hs and, uh, I take [PHI-Account] uh what is it? 1950 million way? O2 to 3 of the 6000 mg.
+Nurse: Ok. Ok. And how often do you take that one?
+Patient: Uh every night, every
+Nurse: Night? Ok. Ok. Uh Anything else that you take that? I did not mention,
+Patient: I think everything sounds good. It's hard to
+Nurse: Tell. Ok, I know you saw doctor yesterday, so I don't believe you'll need a refill
+Patient: Or no, I don't. Uh the pharmacy ordinarily just calls him. The only thing there was a question about was like, can I pharmacy couldn't get cardiology about the sotalol and of course he preferred for them to prescribe that. Right. Right. Right. He said he would do a couple of months to get me through.
+Nurse: Ok. Sounds good. Beautiful. So what I'm gonna do is I'm gonna send out a letter to you in the mail. It has your wellness goals just to keep you healthy. My name and my number will be on there. Um
+Patient: I have it all printed out.
+Nurse: Yes. So you do have my number because you did return my call. Um but do me a favor, save my number in your phone because sometimes it comes up as like a scam and we miss our patients.
+Patient: It did come as a scam but with the voice mail it came through it.
+Nurse: Ok, beautiful. Um So if you have any questions for me, you can always give me a call back at this number. I'm here Monday through Friday. We're just not here on the weekends. Um, but if not, I'll give you a call, you know, around this time next month just to check in. Are the monthly calls ok, with you or did
+Patient: You want to? Yes, that's fine. I know. I'm really, uh, doing fine. My BP varies quite a bit and I think that was his main concern, but I had just been to the pulmonologist the day before and it was 1 24/60. So. Ok. Uh, and, uh, Doctor iIn, his cardiologist said as long as it was up and down, just leave him alone.
+Nurse: Ok. Well, we'll keep an eye out for everything and if you have any questions, my dear, please give me a call. But if not, you have a wonderful day. And I, well, you
+Patient: Too and I appreciate it very much. Oh,
+Nurse: You're welcome. Have a good day, my dear.
+Patient: You too. Bye bye bye
+Nurse: Bye.

@@ -1,0 +1,22 @@
+Nurse: This is [PHI-Personal]. How can I help you? Hi, this is [PHI-Personal]. Hi, [PHI-Personal]. I was, that's funny you called. I was just looking at your chart to see if I'm on. That's so weird. I already have it
+Patient: Pulled up. Well, that's, that's a good thing. We're on the right page. You must have known. Well, I'm just concerned about my leg.
+Nurse: Right. Um, how's it doing today?
+Patient: That's still red.
+Nurse: Ok. Is it out of the boundaries?
+Patient: No. No.
+Nurse: Ok. Is, is there any, um, open places that are draining anything on
+Patient: It? They're not, there was a little stuff on my pad. But, you know, when I took the pad off this morning, um, is it ok to have kind of white stuff in there?
+Nurse: Yes. Yes. That's fine. Um, we just don't want green yellow infection looking drainage. Um, is it hot to the touch at all?
+Patient: To the touch? I took a shower. But, ok, it, it's sore, it's sore to the touch, you know, but not, not as much as it had been. Good,
+Nurse: Good and no fever. Right. No. No. Ok. All right, sweetie. Um, so I had talked to [PHI-Personal] on Friday and, um, [PHI-Personal] was out on Friday. Um, so she was gonna ask her first thing this morning if, uh, she could go ahead and work you in today. Um, but, uh, it doesn't look like she's, that's what I was looking for to see if she had, uh, responded yet, [PHI-Personal], but I'm gonna send another message here in just a few minutes, [PHI-Personal] over to see if, see if she can work you in I know she's probably just getting there um but I'm gonna try to see what I can do about getting you in there today sweetie.
+Patient: Ok. Uh huh. Yeah. Alright ready I'll be ready. Ok.
+Nurse: Right. Sounds
+Patient: Good I'll be ready and I live in Bowling Green I live in Bowling Green so it would take me now if the interstate doesn't shut down I can get there and you know 20 minutes but oh my gosh last night there's solid traffic from Bowling Green to [PHI-Geographic]. Yes. Yes it does horrible accident
+Nurse: You're fine. Well you just go ahead and and get ready so that way um when I know something you know you'll you'll be ready but um I me or will go ahead and and call you when we when we need. Ok.
+Patient: Another another thing when I got home yesterday my refrigerator was out and that's where I keep that's where I keep my insulin or whatever for my diabetes. Uh huh. So I had one that still has some in it and then I have a brand new box that I haven't even opened yet. I can't, the, the temperature in the refrigerator was like 50. I think. So. I know if those are any good still, it seems like if I hadn't opened it is still fine. But if it was open it couldn't stay out very long.
+Nurse: So usually what's, what's best, um, you know, even when we have it happen at the, at the clinic, what they always tell us to do is, um, on the, on the box, contact the manufacturer and see what they, what they recommend. Um, because each medication is gonna be just a little bit different and some of them are ok if you, you know, they've, they've gone to room temperature or this temperature, but they'll be able to give you, um, specific information and, and let you know whether or not it's ok to use. Um, now if, if they tell you it's not ok to use and you need to throw it out, let me know [PHI-Personal] and, um, I'll contact the pharmacy for you and kind of coordinate what we need to do from there.
+Patient: Ok. Ok.
+Nurse: All right, I'll work on, I'll work on [PHI-Personal], see if I can get you in today and, and you go ahead and call the manufacturer and, and see what we need to do with the influence.
+Patient: Ok. Thank you. Yeah, you,
+Nurse: You're welcome.
+Patient: Right. Bye bye. Bye bye.

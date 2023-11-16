@@ -1,0 +1,14 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Can I help you? Is this [PHI-Personal]?
+Nurse: Nope, this is [PHI-Personal]. Um, she might be on the other line. Let me see. I'll try to transfer you if I can, I will give her the message and have her call you back. Ok.
+Patient: Uh I don't know my phone number and I'm not at home and I'm on my cell phone and I don't know the cell phone number. That's fine. Um,
+Nurse: We should. Are you calling on your cell phone?
+Patient: Yeah. Can you see it? Eight, I think it's [PHI-Account].
+Nurse: We have it on file then because your name popped up when uh, you called. So
+Patient: Regardless. Yeah. Ok, then she can call me back. Ok.
+Nurse: Ok. Well, let me try to, let me see if she's on the phone real quick.
+Patient: Ok,
+Nurse: Honey, it looks like she's not on the phone. Um, she might be at lunch but let me try to transfer you. If not. Like I said, I, I'll, I'll get back on the line and let you know that I'm gonna message her. Ok.
+Patient: Ok, Pharma [PHI-Personal] has a, I thought I check with you. In a month then a
+Nurse: Yep, she didn't pick up, so we definitely have your mobile phone number here. Um So I will message her and have her call you right back. Ok,
+Patient: Thank you so much. You welcome. Bye bye.

@@ -1,0 +1,13 @@
+Nurse: Hello, this is nurse manager. How can I help you? Um,
+Patient: I need uh two, prescriptions um, done out. Uh tell
+Nurse: Me your name? [PHI-Personal] mit. Ok. Give me just one moment. I think I called you too to do your check in. Let me see here. Let me pull up your information. [PHI-Account]. Ok. And can you verify your date of birth for me?
+Patient: Uh, June 24th, 1953.
+Nurse: Ok, I know you're not due. So we did your check in on the 28th. Ok. So you need refills on which medications
+Patient: Um, on my Ven Xin? Er
+Nurse: Ok, Venlafaxine. Er ok. 150 mg you're taking that once a day? Yeah. Ok. Is that the only one?
+Patient: No, I got another one. Ok. Now it's Li Lisinopril or something
+Nurse: Like that. Yeah, Lisinopril for your BP. Ok. And that's five mg, right? Yes. Ok. What Pharmacy [PHI-Personal]. Ok. Ok. Let me take a look here and you normally do a 90 day supply at a time. Yes. Ok. All right, perfect. No worries. We'll get that taken care of for you. Do you have any other questions or concerns.
+Patient: Nope, that's everything.
+Nurse: Ok. Wonderful. Take care and have a blessed week.
+Patient: You too. Thank
+Nurse: You. Bye bye.

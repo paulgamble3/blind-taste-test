@@ -1,0 +1,16 @@
+Nurse: Nurse care manager. This is [PHI-Personal]. Hi,
+Patient: [PHI-Personal]. This is [PHI-Personal].
+Nurse: Oh, hi there. How are you? I am good. Good. Thank you so much for calling me back. I just wanted to check in and see how things are going. Things are going. Great. Good. So you've been feeling good? Mhm. Good. I like hearing that. Perfect. How's your appetite? Doing?
+Patient: Good. It's um, I can always tell when it's getting close to shot. Day
+Nurse: One more. Oh, I got you. So when you're starting to get hungry. Uh huh. What day do you normally get it? Mondays got you. Well, do I, I should have know the answer to that question. I am on the phone with you. Got you. Well, wait a minute, I'm going crazy. It's Tuesday. All right. I got you. Good. Perfect. Now, have you had any recent medicine changes? Anything like that? No? Good. Perfect. And it doesn't look like you really? I think your last like specialty appointment was in [PHI-Personal] and then he saw us beginning of a,
+Patient: That was with a
+Nurse: Doctor. [PHI-Personal] got you.
+Patient: Yeah. And he had a and a half.
+Nurse: What did he have to say? Let me bring this up. Maybe I need to read this
+Patient: Because I was, um, when they test, when they diagnosed me with having asthma, they did allergy tests and they said I'm allergic to wood cats and dogs.
+Nurse: Oh, man,
+Patient: When they first diagnosed me, I had two cats. I actually had three, then one died and then I'm down to two. So I get back today this year and he says, um, you have two cats, right? I said I have [PHI-Personal]. He's like why allergic to cat?
+Nurse: You have [PHI-Personal]?
+Patient: Yeah, I had the I had got we got cut down to the two and then I rescued one. We let me call you back, you
+Nurse: Can call me back. Yeah. Ok, that's fine. Thank
+Patient: You. Bye bye.

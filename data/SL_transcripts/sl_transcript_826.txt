@@ -1,0 +1,10 @@
+Nurse: Good morning care management nurse [PHI-Personal]. How can I help you?
+Patient: Hi,
+Nurse: This is [PHI-Personal], how can I help you?
+Patient: Hi, I'm calling for.
+Nurse: Ok. Um give me just a moment, let me see if she's available in the meantime. Um can I have the person that you're calling about their full name and date of birth, please?
+Patient: Um It's [PHI-Personal].
+Nurse: Ok. Alrighty give me just a moment. It looks like she had just left you a voicemail. Let me see if she's available. Ok. All right. And um the voice mail that she left you, what was it in regards to
+Patient: Um she was supposed to hear back from my doctor doctor to see if I'm supposed to go go tomorrow morning for an appointment or not?
+Nurse: All right, let me go ahead and get you transferred to her. Ok. All right. You may have a brief hold. Ok.
+Patient: Ok.

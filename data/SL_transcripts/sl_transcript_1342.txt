@@ -1,0 +1,25 @@
+Nurse: Can I help you?
+Patient: My name is, and, and yesterday I went to Dermatology of Cape Cod and, and, and I'm going on a, on [PHI-Personal], I'm gonna have a, a basal cell cancer cell removed from my back. But it, in, in, in um the name of the place of Cape Cod. So they're gonna need a AAA referral from doctor for me to have my um uh when you basal show removed a referral to who uh a referral to top. Uh uh uh my tops insurance, Medicare tops insurance. What they, what they need, they need. I don't know if they say the cop said they need 22 different numbers, the procedure code and the diagno diagnosis code. And I haven't been able to get a hold of those more numbers from Dermatology Cod.
+Nurse: But yeah, that's what I'm saying. The people at the dermatologist will have to call that information wouldn't be able to do that. What's your, what's your birthday?
+Patient: 9, 26 43. I, I have a number for traps if you want that.
+Nurse: And you saw who did you see in uh for uh dermatology?
+Patient: Uh oh God. Um a, a woman, uh, Doctor [PHI-Personal], I mean, uh, his name was Doctor, aka, but II, I, uh, I saw a, a woman in, in, in,
+Nurse: Did you call them back and let them know what your insurance company is saying? I, I,
+Patient: I haven't been able to get into them.
+Nurse: Ok. You gonna, because they're the ones who's gonna have to ultimately do this because that they can't code a procedure that they're doing, They have to code that procedure.
+Patient: Ok. So I have
+Nurse: To give them a call back to let them know that your insurance company is needing codes. [PHI-Account]
+Patient: Can you can, can you find account that I'm having a procedure done?
+Nurse: No, I can't because I didn't, we didn't order that procedure.
+Patient: Ok. Can you, can you authorize it?
+Nurse: No, we can't authorize it because we didn't order it. They have, you have to call back the Dermatology clinic and, and let them know what they need to send in the, the codes for them to be able to authorize that procedure.
+Patient: Ok. What, what my, my doctor, my, uh, my doctor says it's ok. Right. They, they always want a referral from your primary doctor.
+Nurse: Well, that's, that's, yes, you need a referral. It look like you have a referral. You had a referral to see dermatology. So you saw dermatology. Now, dermatology, uh, is doing a procedure and they have to order their own procedure code and send their own codes in.
+Patient: Ok. All right, I'm trying
+Nurse: To so give that the office a call. Yeah.
+Patient: Ok. All right. Thank you dear. You're
+Nurse: Welcome. If you have any problems, just give me a call
+Patient: Back. Yeah, I, I'm, I'm feeling up a week lately. I that's why I'm trying something. That's all ok.
+Nurse: All right. Well, just give them a call. Ok. Ok. Thank
+Patient: You. Bye
+Nurse: Bye bye bye. Yeah.

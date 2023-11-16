@@ -1,0 +1,43 @@
+Nurse: Hi, good afternoon. This is
+Patient: [PHI-Personal]. Yes, [PHI-Personal]. This is [PHI-Personal]. May I give you a little update on my condition? Absolutely.
+Nurse: How are you doing?
+Patient: Well, this week? Not so good. I, my, my legs are, are not doing bad. We've been using s with uh uh charcoal on them and they're softening up a little and looking a lot better with my itching. Was it? What,
+Nurse: What was you using with charcoal? I'm sorry, the phone cut out.
+Patient: Well, she made a pulse out of, you know, wrapped it in, uh something wrapped around the legs that seemed to uh help to reduce the uh swelling and things like that. But, um, my question now is regarding uh the terrible itching over my body and I think it's, I think it's the anxiety is what I can only thing I can come up with because I've been doing a little uh practice of a thing called uh tapping eft and it's uh for emotional freedom technique and wanna do that. It helps a little. But I guess I'm, you know, I don't have a, a real uh handle on this, but it seems to me like somehow I've been reading on the line a lot about how anxiety and emotions affect pain and itching and it's the same
+Nurse: And that is truly possible. I mean, you know, um the stress of it, things can definitely create a systemic response, you know, I mean, uh where you're itching are you still seeing any areas or?
+Patient: Well, you know, they, they don't look too bad or too good. There's sort of some spots on the arms and, and it, it just looks red. Uh, that's it and it feels hot and we do use, uh, I do use, we've used, oh, coconut oil, we've used, uh, um, other oils with some of the things in them to sort of soothe them. I've taken cool and hot baths and, uh, you know, showers and, uh, tried all the different things and it, uh, you know, I'm, I'm getting some sleep but it's not, not so good. And, um, during the day it, like this morning we had an appointment with a, have an MRI done for ano another situation. And I didn't, they, when I got there, they, they said they didn't have all the things necessary. And so I guess I got worked up a bit and, and it just got terrible issue and so I think that's what, what's causing the problems. I'm not a, what do you call that nervous person. But I think maybe underneath there's something causing this. I, I started taking those pills again that you gave me the green pills. We, I got off of all the medications except for the, uh, BP and, uh, thyroid thinking that maybe it could be medications, but I don't think it's medications. Now, that's what, um, that's, uh, that's where I am and I, I'm not sure just where to go from here.
+Nurse: Ok. Ok. Well, my suggestion would be to come in and talk to her about something with anxiety. Um Let me do the, uh what we call the GA D [PHI-Account] score, that's an anxiety disorder. Um And these questions would be in the last two weeks. Want to know if you've been bothered by any of the following problems, Glen and the answers I ask you or not at all. No problems. Um, several days, maybe a day here a day there. Um, over half the days or nearly every day. Um, any problems with feeling, nervous, anxious or on edge.
+Patient: Yeah. II, I guess I do but I, it's not like I'm worried about them. I've had a lot of problems in my life and I don't and I've been able to handle them without any trouble. But this one is, I told [PHI-Personal] I said this morning, I've, I've gone through a lot of operations, broken legs, hip replacements and so on. And there's been nothing. It's been more trying in this situation. I almost wish I could die. It's that bad. So, I don't know just what to, do
+Nurse: You feel, um, that, that's been several days, over half the days or nearly every day of the past two weeks? Well, I,
+Patient: Well, probably several, I mean, several days. Not, not every day. No, I mean, how about try to do things to keep my mind occupied and
+Nurse: All right. How about not being able to control or stop your worrying? Same, same time frame?
+Patient: Well, if I get, if I get really quiet and I sort of meditative state, it helps. But in the background I can feel those, those, uh, what do you call them little fellow, just picking at me all the time in the back and,
+Nurse: And every day or several days,
+Patient: Pretty much every day. Yeah. Uh huh.
+Nurse: OK. How about worrying too much about different things?
+Patient: Well, I don't think I do a lot of worrying about things. It's just that, uh, I, I think it's a kind of an underlying thing that maybe in my, in or whatever. II, I don't have any, I mean, financially we're fine, we have a nice home, we have a nice relationship. There's nothing, nothing causing, uh, any outward stress,
+Nurse: But with anxiety sometimes we don't know what that cause is. It's subconscious, you know. Um, how about worrying too much about many different things?
+Patient: No, I don't have that
+Nurse: Problem. Any trouble relaxing.
+Patient: Well, just because of the itch, I would say I, I can sometimes just, I, I don't want to, uh, get up, I'd rather just stay in bed and one day I did stay in bed most of the day, half of the day anyhow. And would
+Nurse: That be several days? Over half the days? Nearly every day?
+Patient: Well, just a, that, that was a rare situation.
+Nurse: Ok. So maybe just several days
+Patient: It was yesterday. I,
+Nurse: Ok, how about being so, being so restless that it's hard to sit still in the past few weeks
+Patient: Being so restless that it's hard to get what? Hard to set still. Well, not, not really. I can, I can sit still. It's just that sometimes when I, I get this itch, I start doing it and then, and it, and it works me right up into a frenzy. I, uh, like I have to tear into things. It's just like that.
+Nurse: So, maybe several days then that you've been restless. Yeah. Ok. How about being easily annoyed or irritable in the past two weeks?
+Patient: Well, I think maybe I might be a little bit irritable. You, you say am I?
+Nurse: And let's ask [PHI-Personal], that one,
+Patient: Uh, she said I don't show it so,
+Nurse: So no problems with that kind of a,
+Patient: Ok, she's anguish.
+Nurse: Yeah. Understood. Ok. How about feeling as afraid as if something awful may happen?
+Patient: No, no problem that way. Except that I
+Nurse: Wanted to, let's see, the way you answered those Glen is, of course, my computer is gonna actually [PHI-Account] they call that a mild anxiety. Ok. I mean, and, and again, with the situation that's to be expected, here's the thing. I mean, you know, if, if it's, if you're thinking it's anxiety, Doctor [PHI-Personal] will have to physically see you to be able to prescribe something. And of course, you know, that would be at her discretion because I can't speak that she definitely would. So, you know, I do have some appointments available this afternoon if you wanna come in, um, and talk to her about it. I know you canceled the appointment that was on the seventh or somebody did that we were supposed to have on Monday. Um Would you like to, to come in today and talk to her?
+Patient: What, what time are the appointments?
+Nurse: Um, I have a 2 15, 2 32 45 and 3 15.
+Patient: Do you wanna do that much? [PHI-Account]
+Nurse: 22 30? I think it would be wise Glenn only because um, we're not getting any relief from anything else that she's tried. So, I mean, and I, I'm someone who has had itching from an autoimmune disorder and it's no fun. It's no fun at all. So let's get you in um at [PHI-Account]. Um Yeah, I was you say still itching concerned. It is caused by anxiety G AD [PHI-Account] completed a score of six last but not least questions on that. Um The ones that you did say several days for has news that we talked about it made it difficult for you to do your work, take care of things at home or get along with other people. Answers are not at all. Somewhat difficult, very difficult. Extremely
+Patient: Well, I'd say somewhat difficult just because, uh, I think that the, uh, it's irritating to me and then I feel bad about it. So,
+Nurse: No, I perfectly understand Lin. So, like I said, um, I've got you in at 2 30 so I'll do a favor, I'll call you back next week towards the end of next week. Um, so I can get um an update and um and then if Emily doesn't, does she need to talk to me today? If not, I'll just do her visit is due next week. I'll talk to her next week if that's ok. Unless she has something pressing to talk to me about that way y'all can get ready and get on the road and you're not late. Ok. Alright. Sounds great. All right. Thank you. Take care Glen. Bye bye bye bye.

@@ -1,0 +1,20 @@
+Nurse: Hey, [PHI-Personal], what's going on?
+Patient: Hey, I thought I missed you. I was trying to, for some reason I couldn't. Well, I get, uh uh I, I,
+Nurse: Ok, what's going on
+Patient: My chart since? So you're
+Nurse: Cutting one second, you're cutting out? Say that again?
+Patient: Ok. My, I, my hr person. Uh huh. Ok. She's claiming my FML A is over on the [PHI-Personal]. Ok. And I know doctor for the [PHI-Personal]. Ok. And I also know that I can't go back to work until I get the, ok, from the surgeon that I'm supposed to see on Thursday. Ok. This is the [PHI-Personal], that's the day after I be back at work. Ok. I realized he can't uh uh you be ok for anything. And when, when, oh, I talked to the uh uh hr person, she said she said we'll just have him sign it as the [PHI-Personal] and resubmit it. I said you already get submitted at the point, but she's claiming and I'm, I'm kind of stuck here. Well,
+Nurse: If we let me look, if we reprinted off the current FML A paperwork, would that be enough?
+Patient: Yes. If you just send it back in, uh, with the [PHI-Personal]. That's what she's saying, how the hell she got. I have no clue.
+Nurse: Let me look here. Um, I'm pretty sure it said the [PHI-Personal], but let me read it here.
+Patient: Yeah, I'm, I'm positive at the [PHI-Personal]
+Nurse: End date. [PHI-Personal]. So that if I have this printed off, could you pick it up from the front desk?
+Patient: Uh, could, could you fax it to them?
+Nurse: Um, I'll have to make sure it's ok because I, I can't fax it. I don't, I don't know how to do all that. I'm not that fancy, but let me have somebody. Let me see if somebody else can fax it, it goes to [PHI-Personal]. Right.
+Patient: Yes. Is there a number right there? She should have, I do have a
+Nurse: Fax number on this. So I don't know where she's getting the [PHI-Account]. Let me look at it again. See, I don't, nowhere says the [PHI-Personal]. So
+Patient: It's, it's the [PHI-Personal]. I read it 8 billion times. It's a 20. How did you get the [PHI-Personal]? I have no idea. But she said if you can resend it at the [PHI-Personal], that would be good.
+Nurse: Ok. Well, then, let me, let me find someone who can send it because I'm not, I'm not technologically advanced to be able to do that. Let me get somebody in the office to send it off. Um, and I'll give you a call once it's sent just so you know. Ok, it may not be until this afternoon that I'm able to get a hold of somebody to do it, but we'll get it, we'll figure out what we need to do here. Ok,
+Patient: Thank you so
+Nurse: Much. Of course, [PHI-Personal], I'll give you a call after. Ok? Ok, thank you. Alright. Yep. Bye bye
+Patient: Bye.

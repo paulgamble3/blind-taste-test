@@ -1,0 +1,25 @@
+Nurse: This is speaking. How may I help you?
+Patient: Yes, hi. This is [PHI-Personal]. I'm sorry, I missed your call. I left the house and did not take my phone with me.
+Nurse: Oh, that's ok. Uh I was just giving you a call just to do your um, your monthly nursing call just checking in to see how things were going with you.
+Patient: Everything is good. Ok.
+Nurse: That's good to
+Patient: Hear. I have no complaints about anything.
+Nurse: Well, that's always good. Yeah, it is. Yeah, let me, let me just pull up your chart real quick so I can update everything. Ok. All right. So everything's going well you haven't had like any changes? No falls, er, visits, changes in your health. Ok. No. All righty medication. You're still taking everything as prescribed, right? Yeah. Ok. Alrighty. Um, so let me see no issues with your BP or um, diabetes. No. Ok. All right. And then for you manage your diabetes with uh Metformin, right? That's the only thing you take the Metformin. Ok. All righty. Um, diet and exercise. You, you were, you were going to the, you were going somewhere for um, exercise, weren't you? Were you doing,
+Patient: I go, uh, to the, to the mall and walk at the mall.
+Nurse: Ok. Yeah, that's
+Patient: What I, I, I'm a fair weather walker when it's nice. I'll go outside and go over to the marina. But, um, I don't, I don't like the weather so I stay inside if it's sticky winter.
+Nurse: Yeah. No, definitely. I understand that. Ok. So that's good cause, um, yeah, with the medication and then the exercise definitely helps to improve your blood sugar levels and overall fitness. So that's good. Um, let's see and just make sure you know that you're also when you, on the days that you do walk, you make sure you're drinking plenty of water to stay hydrated for a week. Good. Ok. And then you have, you have ever had any issues with the Metformin, like any side effects from it at all? Like, so a lot of people say that they have like stomach issues and stuff like that when they take Metformin.
+Patient: Um No, not really. Um, I think some days it all kind of make you run to the bathroom. Yes. Yes. Thing in the morning. But other than that, it, it's been nothing that that's unmanageable or totally annoying.
+Nurse: Ok. All right. That's good. Um, so if you ever feel like any muscle pains or like feeling cold or trouble breathing, feeling dizzy, stuff like that, those are like the major symptoms but the stomach upset and you know, sometimes people get diarrhea every now and then typically comes like a normal side effect from that. So, as long as you're not having any issues, that's good.
+Patient: Oh, no, nothing. That was that major.
+Nurse: Ok. Well, that's good. All righty. Um, now, did you need any refills on anything right now, or are you good on your medication? I
+Patient: Think I'm good on everything. I think I just picked up, uh, refills on most everything. So I'm good for at least another 90 days, so. All
+Nurse: Good. Ok, that's good. All righty. Um so I know you have an appointment coming up in [PHI-Personal]. [PHI-Personal] the 14th at 2 p.m. and that's gonna be your four month follow up with Doctor [PHI-Personal]. Ok. All right. Do you have any other um outside appointment scheduled for anything right now? I
+Patient: Have uh my eye follow up is also coming up in [PHI-Personal].
+Nurse: Ok. Ok, good. I'll just note that in my in the chart so we can check that off. Ok. Um Did you have
+Patient: You have any that was on my, that was on my list? I think so. Yeah, but yeah, they s they scheduled me pretty regular for my for my eye check up so I usually don't miss them.
+Nurse: Ok. That's good then. Alrighty. Um Now, did you have any questions or any concerns about anything right now?
+Patient: Uh No, I'm pretty good actually.
+Nurse: Ok. That's good to hear. All right, so I'll go ahead and I update it here. That we spoke um and put my notes in so that I can [PHI-Personal] here that you're gonna get your eye exam next month and then they'll see you in the office on the 14th of [PHI-Personal] and I'll give you a call next month. I'll call after that appointment so we can see if there were any changes or you know, check your labs and all that stuff um but if you need anything in the meantime, you can just feel free to give me a call. Ok.
+Patient: Ok, very good.
+Nurse: Alrighty. Well, you have a good day. You too. Thank you. Thanks. Uh huh bye bye bye.

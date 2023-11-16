@@ -1,0 +1,106 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi Carry. This is [PHI-Personal] calling. I'm returning a call somebody had called me.
+Nurse: Oh, ok. Give me one second. Let me see. Yeah. What's your date of birth?
+Patient: 11, 5 52.
+Nurse: And can you confirm your address for me? One
+Patient: [PHI-Personal] Pleasant Valley Road, Pine Grove.
+Nurse: Yeah. Mm. Looks like it was [PHI-Personal]. So basically she was just calling to, um, let you know about the program, the, uh, chronic care management program. Has anyone spoke to you about that yet?
+Patient: No, I haven't heard nothing. No, they said there'll be a nurse calling me.
+Nurse: Yeah. So I'll be your nurse. My name is [PHI-Personal]. Um, I work close with Doctor [PHI-Personal]. Um, basically it's kind of a way for patients to, um, kind of better manage their care. Um, and it kind of expedites. Um, you know, like if you call me and you have any questions regarding medications or if you have concerns, you know, you're not feeling too good. I can get in touch with Doctor [PHI-Personal]. He gets back to me. Um, kind of freeze up the phone calls into the office and, you know, you just kind of handle it straight through the nurse rather than trying to get in touch with them.
+Patient: Oh, that's kind of like a good idea, I guess. Yeah.
+Nurse: So, it's kind of like having your own person,
+Patient: I guess they're swamped with phone calls.
+Nurse: Right. Yeah. So, um, yeah, and, you know, being short staffed and all that other stuff. So, um, you know, just kind of, I don't know, just kind of helps you guys out too because like I said, you know, you can get in touch with me, I can get in touch with the doctor right away and, um, you know, we can kind of handle it that way
+Patient: It certain hours or anything.
+Nurse: Um, [PHI-Account]. Ok. Yeah. Um, so with that being said, oh, I just need to jump into your chart on my end here. Um, so you can opt for how often you want a phone call from me. Um, it could be monthly every two months, three months, six months, whatever you think is necessary. Um, I'll call you, you know how however often you want me to, but you can always reach out to me as often as you need.
+Patient: Ok. Oh, I mean, if I need anything I could call you but you can call me any time. I mean, as far as checking up on me, that's fine too, but I, I don't know how many, how long to tell you to, to do that. You call me every day if you like.
+Nurse: Well, I don't know if I'm allowed to do that but you can call me every day. You might get, you might get tired of hearing from me if I do that.
+Patient: Yeah. Yeah. It's like whenever you, whenever you, like, get around to it or that's fine. But if something's wrong with me or something like that then I, yeah, I'll give you a call.
+Nurse: Yeah. Yeah. And I'll send you a letter in the mail. It'll have my contact information on there that way you have that for your reference. So, but while I have you on the phone, I just wanna go over a couple things as far as like medications just to make sure we have everything up to date. Um, so medications for you that I have listed. Um, we have you on Aspirin atorvastatin. Uh, you have your CPAP. Do you have that? Did you get the new stuff yet? Yeah, I got the new one. Ok, perfect. Um dilTIAZem. Um, Dutasteride, glipiZIDE, Lisinopril with Hydrochlorothiazide, Metformin, metoprolol, omeprazole, Ozempic, tamsulosin, Tradjenta and Xarelto. Do you take anything else I didn't mention?
+Patient: Oh, I don't know. I don't have my card on me. I, I got a card in my pocket but I don't, it sounds like it probably about eight or nine or 10 maybe.
+Nurse: Yeah. Yeah, because the rest of the stuff on I have on here is just like your glucometer strips and stuff. Are you checking your blood sugars at home. Yes, I am. How was
+Patient: He? He, he just, he just upped it my, uh, uh, uh, Ozempic I'm taking, I don't know if you have that on the list but you, you mention that.
+Nurse: Yeah. And I have it at 0.1 0.1 or one.
+Patient: Well, he had me on, I don't know what it was, it was 0.2 or 2.5 or something like that. And then he boosted it up to, to five and that, and now he put it up to one, whatever, if it's 0.1 or one point
+Nurse: One. Yeah, it would be one. So, one mg. Yeah. Or, well, it would be five mL. But,
+Patient: Yeah, so I took that for, for the past two weeks, the one, the number or the account that,
+Nurse: How have your, uh, sugar been?
+Patient: Well, it brought, it seemed like it brought it down to around 1 40 to 1 50 stuff like that. But that's before I eat. Ok. So I don't know if that's good or bad or what
+Nurse: Is that a fasting? Like first thing in the morning, first
+Patient: Thing in the morning I check it. Yeah, without eating, without eating anything.
+Nurse: Ok. And so how many times a day are you checking it?
+Patient: Just the one in the morning in the morning, morning
+Nurse: And that's it? Ok. Um, are you having any, like, symptoms of it being too high or too low? That you know, of, you know, if your sugars before
+Patient: I was, before I was taking it, uh, before he, he bumped it up to one. my sugars were right around 200 every morning, right around in that area, you know, like 200 or 9, uh, 99 in the nineties. And then, uh, or 1 90 then they like 1 81 70 but very seldom. But the last two weeks it seemed like it brought it down after he bumped it up to one.
+Nurse: Ok. Um, ok. Well, that's good. So, since you're taking a higher dose now, you know, you're gonna wanna watch for signs of it being too low. So you, those would be like hunger, shakiness, sweating, feeling dizzy, sleepy, confusion, that kind of stuff. If you notice you're having some of those check your sugar just to double check and see what it is. If it's real low, meaning like typically you get those symptoms, like if it falls like below 70 you know, you'll wanna take a drink of orange juice or eat a piece of candy or like some peanut butter, something like that to kind of bring it up real quick.
+Patient: Yeah. Yeah, I never had that problem yet with it being low. Always, always running high.
+Nurse: Ok. Ok. Um, hm. What, let's see, you're on the glipiZIDE and you take, you're on Metformin as well. Ok.
+Patient: Yeah. And I'm also on the Tradjenta.
+Nurse: Oh, yeah, I see. That too. Yeah.
+Patient: Ok. And you know what, next month, uh, I get that prescription filled every month and it's like, it's costing me too much and I can't afford it right now. And I'm thinking about stopping the Tradjenta because it's like 100 and $37 for 30 days. It's the same with the Xarelto. That, that's 100 because it, it cost me 100 and $276 for the just them two meds, right? So one of them, so one of them is gotta go and I can't be the Xarelto. I don't think I got, I think maybe hopefully I can back off of that Tradjenta though or I just don't have, I just don't have that kind of money I could put out for months.
+Nurse: So let me work on something on my end here. Um, you know, there is programs and stuff out there that we can get you enrolled in that helps with those medications. So let me see what I can find out about that before you stop anything.
+Patient: Well, they should have, they should have done that five years ago.
+Nurse: I know, I know, I agree. I agree. Um But since you are on [PHI-Personal], oops, I just jumped out of your chart. Yeah, there are things available. So like I said, let me do my research. Let me see what I can get you enrolled in. Let me double check your pharmacy too
+Patient: And the pace. You might as well forget that. I tried that already.
+Nurse: Yeah, I know that if, yeah, that's, you're only eligible for that if you're not on any kind of health insurance.
+Patient: But you know what, that, uh, Ozempic that I'm taking, I get that. I get, I, I, I've been getting that and that's free for, for the last year and a half.
+Nurse: Ohh. Good. Yeah. So that you, uh, how did you get that?
+Patient: I, I went right through Ozempic. I called them and they said they, they sent me a form and I had to fill out the form and then I turned it into Doctor [PHI-Personal] over there and, and, uh, they had to put my insurance information and, uh, how much money I, I, you know, get a year yearly and then I had to sign it, send it in and they sent doctor the, the medication last year. They sent me 12, 12, uh, pens for whole year. Yeah, they handed me a, they handed me a on bag. I said, what the heck, I just ask for samples and then they give me this. I wasn't arguing with the point. I wasn't arguing that point at all.
+Nurse: Well, that's awesome. Yeah.
+Patient: So now, so now II I called out there and I talked to, uh [PHI-Personal] and [PHI-Personal] did it again for me, but I only got four months of pence. So I'm good. Probably until October, maybe September, October, maybe October Ok. And, and then I gotta do that again
+Nurse: For the Ozempic. Right? Ok. So you have to fill that form out at each time. Yep. That seems goofy there. Good information. You think they'd be able to just, you, you know, have you had any financial changes? If not, then they should just be able to use the information you already provided.
+Patient: Yeah. And I don't understand why they just sent me four pens when they sent me a dozen of them last year, last time. Yeah, but I'm not complaining at all.
+Nurse: Yeah. Yeah, that's good to know. I'll, uh, I'll keep that in mind for other patients too. You know, if they have that option, do that. All right. So pharmacies for you, we have CV S Tri Valley and CV S [PHI-Personal].
+Patient: No, the only one I use now is that CV S because that's the one insurance goes through
+Nurse: And that's the one in on, uh,
+Patient: Yep, [PHI-Geographic]. Ok.
+Nurse: Perfect.
+Patient: [PHI-Personal] Advantage. Uh, plan I have now, uh, I did have [PHI-Personal] but I don't have that now.
+Nurse: Ok. Yeah, I have, I have that in here. [PHI-Personal]. Yeah.
+Patient: And you know, and another thing I give you, uh, I'll give you heads up too here. I don't know what, what happened here in January [PHI-Personal]. But I had, I got, I talked to Doctor [PHI-Personal] about it. I had carpal, I have carpal tunnel in my both hands and I got numbness in my fingers and I had talked to him about it and he, he, he said that he would get somebody, look at, look it over and see where he could send me. So it was either, uh, [PHI-Geographic], Allentown, [PHI-Personal], I mean, he give me a bunch of places that was like an hour or two away. And so I picked [PHI-Personal], I went to [PHI-Personal], got, I got the test done on my carpal tunnel and he, he said, well, you need to, you need to get it checked for your, for neuropathy or whatever in your fingers because it's numb. And he says it's a little bit of both. That's what the guy set up at Ville when he tested me. And, uh, so here, here last year I had gold and then when I went up to get this test done on my wrist, they, I give her my card if she, and then my new card, [PHI-Personal] and I give her that card and she punched everything in the computer and I get a bill in the mail for $[PHI-Account].
+Nurse: [PHI-Personal].
+Patient: Yeah. Yeah. I, it's like, I don't know what I gotta do about that. I can't, I ain't gonna be able to pay that. No way. No,
+Nurse: No, no, no, you shouldn't have to because [PHI-Personal] should be covering all of that. Have you called [PHI-Personal]? Did you? There should be a number on that bill. Have you called
+Patient: Them? They said, um, that I wasn't in the system. Ok. I might, I might have not been in the system but somebody should have told me when they punched me in there at the hospital.
+Nurse: Yeah, that wouldn't matter though because [PHI-Personal] will go back three months and pay unpaid bills. You know what I mean? So, if you had it done in January and you were active, your insurance was active. Yeah, that, that shouldn't have been. I would like that.
+Patient: Well, I, I even talked to [PHI-Personal] about it and they said that they're not, they want in the system, they're not in the network or whatever. And I,
+Nurse: Oh, you mean that position is not in the network for [PHI-Personal] to pay through? They don't accept [PHI-Personal]? Oh, yeah. And then I would be taking that, ok, then I would be taking that to that office and fighting that because they should have told you that because typically when you go to a, yes, when you go to a clinic and the reason being is because this is what happens, um, because then the office is gonna have to be responsible for that.
+Patient: Well, somebody's gotta be responsible because I'm not, I, I'm not paying that. I mean, if I have to pay it, they, they're only getting $20 a month.
+Nurse: Yeah, they should not have, they should not have rendered your services at all. They should have told you that when you, you know, before they did that when they verified your insurance. They should have said, I'm sorry, we're, you know, we're not from that network now. I would take that right back to that office and I would, I would fight it. I would take it to their billing and take it straight to their billing office.
+Patient: Well, I'm gonna have to do something like that. I would have to go all the way to [PHI-Personal] to do that, but it's worth it if I can get do away with that. $[PHI-Account]. That's, that's ridiculous.
+Nurse: Yeah. How far is [PHI-Personal] from you?
+Patient: It's about an hour, an hour away.
+Nurse: Um, I would, what's, hold on? I'm gonna get you a phone number. What's the, uh, who, what was the office that you went to? What was it called?
+Patient: Oh, my God, it was. I don't, I don't know what office it was but, uh, they have all different, different locations for different things up there. Oh,
+Nurse: So you went to [PHI-Geographic] in [PHI-Personal], [PHI-Geographic] Health Network in [PHI-Personal]? And then you just went to, was it a, um, orthopedic office?
+Patient: I really don't know. They give me the address and it's like, ok, am I at the right place? You know, when I get up there? I'm thinking, well, am I at the right place here or what? Because there's guys in your clinics all over, around up there, right around in, in the same area and I have no clue. I think it looked like the hospital when I was
+Nurse: At. Ok. Probably. Yeah, because most of them are there. All right. So, I'm going to give you the patient billing services, phone number for [PHI-Personal] and you can, I would just call them first, tell them what the situation is and
+Patient: Their number be on my, on my bill that they sent me.
+Nurse: Oh, yeah, it should be.
+Patient: Yeah. Well, I could just use that to call them. But, but my told me to, to get a hold of them and, uh, and, uh, but I haven't done that yet because I just ain't got the time for it right now.
+Nurse: Yeah. No, that's understandable. But, yeah, I would definitely fight that and like I said, they should be held responsible for that because they shouldn't have rendered the services if they could not bill it, you know? Right.
+Patient: So. Right. That, that's not, that just wasn't fair to me. That's all I know.
+Nurse: Right. Because then what happens is since they can't bill that the, that physician that treated you won't get paid.
+Patient: Well. See, another thing they paid him like $500 because I seen it, it's on the bill that said patient or, or doctor fees were $500 and, and they paid his fees, but they wouldn't pay the bill. I think that was right. That was, that was
+Nurse: Sneaky. Yeah, sneaky. They are.
+Patient: But I, I don't understand. I don't understand it. Whatever, uh, I get around to it, I'll go up there or whatever I gotta do. Uh, because they're gonna let them know that I can't, I can't do, I can't pay it. There's no way I'm gonna pay that.
+Nurse: Yeah. No, I would definitely call that. I would definitely call [PHI-Personal] and, yeah, argue that for sure. You can fight that all the way.
+Patient: I'm sure. I'm sure I could get, you know, if I gotta pay a little bit, that's fine. I'm not uh, 2, 300 that I'm ok with that but uh, [PHI-Personal] on
+Nurse: That. So, yeah, no way. That's crazy. Yeah, that's crazy. Um All right. So let's go back to your diabetic management here. Um, how are you as far as following a diabetic diet? Do you do pretty well with that? Trying to watch the carbs and the starches? Your sweets?
+Patient: Uh, no, I, I mean, I cut back on my meals and stuff like that but it's like, ok, a strict diet. No, no. Ok, I don't, I don't think.
+Nurse: Ok, that's all right. Um, I'm gonna send you out some paperwork that just says just kind of give you some ideas of, you know, what's good and what's not as far as a diabetic diet. So you can reference it if you want. Um, just, you know, a little educational paperwork. So I'll send that out with the letter. Um, you seem like you're in pretty decent health, so I'm gonna put you on for every two months if that's ok. So I'll reach out to you every two months. But if you have any concerns questions, anything, you know, you can call me any time in about two months.
+Patient: That's from 8 30 to 4, from 8 30 to 4, right? From
+Nurse: 8 30 from [PHI-Account]. That's right. Monday through Friday.
+Patient: Right. Don't say, don't say any time, then
+Nurse: I know I catch myself doing that. You're not the only one that said that to me. I've had other people say the same thing, like not any time I can only catch, catch you from [PHI-Account]. Like, oh, that's true.
+Patient: Now, would I be able to text you and leave a text message?
+Nurse: No, because the number I'm providing you is a landline. Ok. Yeah. Yeah, it's not, it's not through cellular.
+Patient: No. Ok.
+Nurse: Um All right. So do you have any questions for me? No, not really. No. Ok. Well, I'll get that letter out in the mail today. It's, it's still early. It should get out today. So you should have it before the weekend. And, uh, again, if you need anything, don't hesitate to call me. Ok.
+Patient: And you say your first name again?
+Nurse: Carry. Carry.
+Patient: Ok. Yeah.
+Nurse: Ok. All right. Well, you take care, have a good day and enjoy your holiday weekend.
+Patient: Ok, you do the same. Thank you so
+Nurse: Much. You're welcome. Bye bye bye
+Patient: Bye.

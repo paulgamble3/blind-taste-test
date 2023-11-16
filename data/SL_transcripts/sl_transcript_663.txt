@@ -1,0 +1,37 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you? On a chronic care management nurses?
+Patient: Uh, this is, and I, uh, am doctor patient and I don't know who his care, who his nurse is. I had a name of [PHI-Personal] but I think the last time it was changed. So I don't know.
+Nurse: Ok, so it's me now I'm [PHI-Personal]. So I'll be taking over for [PHI-Personal]. Did you receive a phone call for your monthly check in?
+Patient: No, but why I called because I have blood work tomorrow. Ok. No, I have not been feeling good for the last couple weeks. Oh, ok. Like I have a headache, upset stomach and I don't know if it's, you know, the change in my BP medicine that, that I had, uh, one Friday. I went to doctor [PHI-Personal] and he had changed it because I had a cough on the Lisinopril. Mhm. So, I don't know what it is but I'm cold all the time. I mean, I can't get warm and I went down this Thursday and I have it across the back of my neck and up, you know, up and around, like under your neck. Here, you know, in your skull or whatever. And I get such terrible headaches.
+Nurse: Tell me your date of birth m so I can pull up
+Patient: Your chart. 11, 10, 37. Ok. Now they did, uh, I will start therapy Wednesday for my, my neck. I just finished for my back and now I'll start for my neck. Uh, but he, you know, he just said, oh, that's your arthritis and all this. I wanna make sure what it is.
+Nurse: Got you. So, you've been having a headache? Yep. And upset
+Patient: Stomach, upset, stomach feel that I just don't feel
+Nurse: Good. Yeah, we need to get you in for an appointment. Let's take a look
+Patient: Here. Now, I, one week from tomorrow I think I do have a, a follow up on my blood work but I wanted to make sure if you wanted any additional blood work and it was tomorrow. Right.
+Nurse: Well, we need to figure out what's going on. So, you've had a headache and a upset stomach,
+Patient: Right? And I, I'm not running a temperature because I take my, well, you know, I take my temperature.
+Nurse: Mhm. How's your BP been? Do you check your BP at home? No,
+Patient: I haven't because I have one of those BP cuffs and I can't get the thing tight enough.
+Nurse: Ok. Is it the arm one or the wrist one?
+Patient: It's the arm
+Nurse: One, the arm one.
+Patient: Yeah. Which one's the easiest,
+Nurse: Um, the wrist one is a little bit more easier. Um, but you have to really sit still and hold your, your arm up at heart level to get an accurate reading. But sometimes getting it on the arm and getting it tight enough and getting it just in the right position can be a little challenging. Um, and when was your BP medication changed? Oh. Has it been
+Patient: About a month ago? Because, uh, I came in on a Friday and doctor gone in on Fridays, at least he wasn't.
+Nurse: Ok. And when you say upset stomach, are you having diarrhea?
+Patient: Well, I kind of have that from time to time, but, I mean, that's ever since I had my gallbladder out. But I did have that this morning, but then I was out at mcdonald's yesterday and had one of those Murry, which I shouldn't have because milk and I don't get all.
+Nurse: Ok. So, do you feel bloated? Are you having any gas? Do you feel like nauseated? Like you might vomit?
+Patient: Well, I got slightly nauseated but I haven't thrown up and I don't have gas. I mean, as far as going to the bathroom that's, you know, I have no problem there. Um-hum.
+Nurse: And you said no fever. Have you had any chills or night sweats or any, uh, achiness? Do you feel like body ache, like flu, like symptoms?
+Patient: No, I've had, like, at night, I've had an electric blanket but then I turned, I had it turned up and a couple of nights I got awake and I was sweaty but then that it had warmed up during the night. So I just had to turn the blanket back. But I, I, that's what I attributed that to. Mhm.
+Nurse: And how many days have you not felt? Well,
+Patient: Oh, I told you at least two weeks or 2.5 weeks. Um,
+Nurse: And it's just getting worse or?
+Patient: Well, it seems to be and I just, I just don't like going around, you know, feeling like I have an upset stomach and a headache all the time.
+Nurse: Mhm. Mhm. And that's what I'm trying to determine cause he may want you to be seen and hold off on the blood work and not do any blood work when you're not feeling well. Um, cause that can potentially cause levels to be um, abnormal and out of source because you're not feeling well. Uh, would
+Patient: He think, does he think I should go back on the Lisinopril and leave the Diovan alone? Does he think it might be the BP medicine?
+Nurse: Well, what would be helpful, to be completely honest, [PHI-Personal] is to have that BP check. He's really gonna want some of those readings. Do you have someone that can maybe help to assist getting a cuff on you? Right. Because we need to know know what your BP is doing if it's going too high or if it's going too low after medication adjustment if you're not feeling well because it's coming from your BP or if you're not feeling well because you got some kind of little bug or virus going on.
+Patient: Well, I'll call my neighbor [PHI-Personal]. Um, yeah, she used to work down there. She's, you know, uh, she, she was a, a phlebotomist and then she went to Holy Spirit and, you know, she's retired now but she's good. She knows all that.
+Nurse: Right. That would be extremely helpful because it's kind of hard to adjust medication when you don't know what the BP is doing. Does that make sense? We really need to know how those medications are affecting your blood pressure. Yeah, that's real important to know that. So that would be great. I'm gonna send a message, um, to the doctor and let him know the symptoms that you're having and see if he wants you to schedule an appointment to come in to be seen, um, instead of doing the labs tomorrow. So we can kind of sort out what's going on, but you haven't run a fever. Right.
+Patient: No, I'm ok. I've been taking my temperature and I'm not running a fever. Um, ok. At least not by my thermometer.
+Nurse: Ok. All right. Well, I'm going to send this message and I'm going to get back in contact with you and once you're able to get a BP reading for us, so you can call the nurse line back and I'll send that to Doctor Stuart as well and then he can decide on if he wants to adjust the BP medicine or not, or if he feels that this is totally unrelated based on whatever reading you get. Ok. Ok. All right. We'll be in touch. Ok. All right. Thank you. You're most welcome. Bye bye.

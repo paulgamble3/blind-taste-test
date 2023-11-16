@@ -1,0 +1,40 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, how you doing?
+Nurse: Hey, I'm good. How are you?
+Patient: Not too bad. You called me?
+Nurse: I did, I was just calling to check in, see how you're doing?
+Patient: Ok. Not too bad. Good. I was gonna jump
+Nurse: Into your chart here. You recently saw [PHI-Personal], right?
+Patient: Yes.
+Nurse: Ok. How did that appointment go? Good. Did she make any changes to medications or anything? No. Ok. Ok. All right. And then you and I had talked like a week or so ago. Did you get your sensors?
+Patient: Not yet.
+Nurse: Ok, because we had faxed that too. Um, the pharmacy. Yeah. Yeah. So you should be getting those because I faxed it that same day.
+Patient: So. All right. Well, they didn't text me or anything to let me know. I'll give them a call.
+Nurse: Yeah, I, that's what I would do too because like I said, it was sent in,
+Patient: Let me just double check. No, not that one. Hold on.
+Nurse: Yep. We ordered on the [PHI-Personal]. Ok. Yeah. So hopefully you should be getting a call from them soon. I'm not really sure how long it takes for them to come in. How long do you typically wait
+Patient: For. Yeah. Not in, unless they don't have them. Um,
+Nurse: I would reach out to them and just wanna make sure they got the,
+Patient: Yeah, I'll give him a call, you know. I
+Nurse: Mean, there's no reason why they shouldn't have gotten it but you never know. You know. Yeah. Um, all right. How have your blood sugars been running?
+Patient: I don't know. I don't take them, I don't have extension.
+Nurse: Any feelings of it being too high or too low.
+Patient: No, not really
+Nurse: Good, good. So no dizziness, shakiness, hunger, uh, thirst or anything. Now, last time you were checking them, how were they running?
+Patient: Two hundreds?
+Nurse: Ok. Are you um how are you doing with trying to watch your carb and starches and stuff pretty good? Ok. Um, you know, carbs, you want, you wanna have some carbs throughout the day because it does give you energy but too many will make your sugar go too high. So you wanna be with that try to eat those three meals a day with your snacks in between. That'll keep your sugar at a kind of like a baseline for the day. Yeah. Um All right. And then BP. Are you checking that at home? No. Ok. Any headaches, nose bleeds, blurred vision, no, um, fatigue good. All right. And then when do you go and see your um therapist again?
+Patient: Um I go out there this month. Ok. The end of the month.
+Nurse: All right. Very good. Um, and you're taking all the medications and do you need refills on anything today? Nope,
+Patient: Not that I know of.
+Nurse: Ok. All right. Bowels and bladder moving. Ok. Yeah. Any nausea or vomiting?
+Patient: No
+Nurse: Good. Um, all right. Well, do you have any questions? Concerns anything today? Oh, ok. Um, it looks like you see [PHI-Personal] again in September. And then do you have any other appointments coming up before that with anybody? No. Ok. Do you see cardiology or does Doctor [PHI-Personal] and [PHI-Personal] handle your cardiac meds?
+Patient: I don't have cardiac meds.
+Nurse: Uh, well, you're on some BP medication. Yeah. [PHI-Personal]
+Patient: AmLODIPine.
+Nurse: Is that just come from doctor
+Patient: [PHI-Personal]? Yeah.
+Nurse: Ok. All right. Very good. Well, um, I will reach back out to you again about a month from now. Um, but if you need anything before then just give me a call.
+Patient: Ok. Thanks [PHI-Personal]. All right. You're welcome, sir. Have a good
+Nurse: Day. You too. Bye now. Thanks.
+Patient: Bye.

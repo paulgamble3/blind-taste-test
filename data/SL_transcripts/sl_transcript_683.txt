@@ -1,0 +1,27 @@
+Nurse: Good morning. Didn't want any joking to happen. Hello? Hi, this is [PHI-Personal]. How can I help you? Is this [PHI-Personal]? Oh, no, let me get her for you. Just a moment for me. Ok, thank you. You're welcome. Right. What wrong. I make a little game. Mm. My my is out. Ok. End of only when you have a chance I'm returning a call, the doctor's office. So I'm having to wait. I, yeah. Oh, all right. I'm gonna get you transferred right over to her right now. Just checking for her. I'm sorry, I can't hear you too well.
+Patient: Hi, this is [PHI-Personal]. Is this [PHI-Personal]?
+Nurse: It is. Hi.
+Patient: Hi, how are you doing?
+Nurse: Oh, I'm o I'm ok. I'm in a car and I'm going someplace and I'm not sure why you called.
+Patient: I was just, I was giving you a call to do our monthly follow up. I saw you've been in the hospital recently, so I was gonna go through some of that, um, information with you.
+Nurse: Well, I just saw my p uh nurse practitioner yesterday so I don't know if you need anything further, but go ahead.
+Patient: Ok. Um, so I was just gonna review what, um, [PHI-Personal] had talked about with you. Have you followed up with your neurologist yet to get scheduled for an appointment? No,
+Nurse: I had that. No, I just got home yesterday.
+Patient: Um, is that something you'd like me to help you get set up or? Um, are you just gonna call and set it up whenever is convenient?
+Nurse: I have to check my calendar. Get
+Patient: Cool. Yeah. Ok. And how has your BP been doing? Have you taken it, um, today?
+Nurse: No. No. Ok. She said just once in a while so I haven't.
+Patient: Ok. Um, so
+Nurse: Do you want me to take it later on when I get home around the 44 30 or so, or because I have an all day activity today?
+Patient: Oh, ok. So you can do it whenever you get home if you would like. That's totally up to you. You know, she looks like she just a
+Nurse: Little more short. Thank you. Ok. Ok. Go ahead.
+Patient: That's ok. Um, you know, if you would like to, that's totally fine. I would just keep an eye on it. Um, how has your balance been? And your, I know you were having some trouble with lightheadedness.
+Nurse: Oh, it seems to be pretty, pretty good today. I have a cane with me.
+Patient: Ok. Good. Well, I'm glad that has gotten better. Um, are you needing any refills or anything like that? On any medications currently?
+Nurse: Mm. I don't think so. Um, I'm not at home, so, I don't remember. I think I'm ok.
+Patient: Well, um, what I can do is I'll plan on following up with you in a couple of weeks. Of course, if you're needing anything before that, feel free to give me a call or, you know, if you'd like me to reach out to your neurologist and get you set up for an appointment, you know, I can do that as well.
+Nurse: Just let me what are your hours too?
+Patient: So I'm in the office [PHI-Account] 30. I'm sorry I I'm in the office from [PHI-Account] 30
+Nurse: [PHI-Account] 30. Ok, good. Well I'll get back to you if there's anything specifically or I'll hear back from you said about a month did you
+Patient: Say? Yep about a month?
+Nurse: Ok, great. Thank you. Alright. Ok, have a good day. Bye bye. You wanna get more.

@@ -1,0 +1,14 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Good morning, [PHI-Personal]. My name is Augustine Ayers A Y, er, s and I'm calling you because I want, I'm wondering, my wife and I are headed north for four months and we live in [PHI-Geographic] during the, you know, our residence is Tarp and Springs, Florida. But we, but we, uh, are going up, up to the [PHI-Geographic] of [PHI-Geographic] for, uh, for the summer and I'm wondering whether, uh, you guys want me to keep this remote, um, BP thing going on or whether it'll work from any, from, from, from there or whether I should just let you know, I'm not gonna be doing it until, until [PHI-Personal].
+Nurse: So the, as long as you take the antenna and the BP cuff with you and you plug the antenna in there, just like you do at home. When you take your reading, it'll work internationally.
+Patient: Ok. Good. That's that. And that's what you'd prefer.
+Nurse: Um, that would be preferable just so we can make sure that everything's staying all right for you.
+Patient: Ok. I just, uh, just so you'll know, I just took a a blood a reading that, that looks quite low. So I'm gonna do it again in about 15 minutes.
+Nurse: Alrighty. Sounds good. And
+Patient: If I don't feel, I don't feel like I have low BP but the machine told me I did. So I mean it was 107 over, it's
+Nurse: We got 10 9/70 which is actually pretty healthy but it is lowerer than normally for you.
+Patient: Yeah. Yeah. Well, yeah, I go in and out of that. I mean it's, it seems to, it seems that that II I go from, from something like that to 1 27 or 1 30 something but uh alright, so I'll I I will take everything with me and uh you'll continue to hear from me uh on a regular basis.
+Nurse: Alrighty, perfect. If you think of any questions about your machines, our phone number is on that antenna for you.
+Patient: Yep. Yep, that's what I use. Thanks [PHI-Personal].
+Nurse: Thank you and have a good one.
+Patient: Bye.

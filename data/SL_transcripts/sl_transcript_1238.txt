@@ -1,0 +1,17 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Uh, yes, this is [PHI-Personal]. You called me yesterday? Hi, [PHI-Personal],
+Nurse: How are you?
+Patient: Fine, good.
+Nurse: All right. So let me just tell you real quick that this call is gonna be recorded for training purposes. Ok. Ok. All right. So the reason I was reaching out is because I had received a referral from doctor requesting your enrollment to his new care management program. Did you receive anything in the mail in regards to that new program?
+Patient: No, not yet. No.
+Nurse: Ok. So recently, um, the physicians within [PHI-Geographic] started offering their [PHI-Personal] patients a new program called Care Management. So, [PHI-Personal], with that, you would receive a phone call from doctor S care management nurse and your nurse would basically just call you and check in. She would make sure that you're feeling good and staying healthy in between appointments. But you would also be able to reach out to your nurse if you had any acute medical questions or concerns or if you needed assistance with things like medication refills, test results or scheduling appointments. So it is a billable service to [PHI-Personal], [PHI-Personal] Advantage and secondary insurance plans and the calls are subject to deductibles, copays and coinsurance. Now, you have [PHI-Personal] primary and a ARP secondary. Is that correct?
+Patient: Yes, that's right.
+Nurse: All right. And you don't normally pay a copay when you go to the office. Is that also correct?
+Patient: Y yes.
+Nurse: Ok, perfect. Then you should not be responsible for any out of pocket cost for a call from your nurse. And you would choose how frequently she calls. You, you could choose a call as frequently as every month or you could get a call once every three months or just every six months in between your appointments. And doctor does get documentation of those calls sent to him as part of your medical record. Ok. Do you think I can set you up for a morning or an afternoon call from your nurse?
+Patient: I I don't think I'd be interested in that if I'm sick I'll call and not have an a problem. I'll I'll give you a call with that.
+Nurse: Alright. No problem. Can I mail you some information in case you change your mind in the future?
+Patient: Yeah, you can send me some literature and stuff.
+Nurse: Yeah. Ok, I have that. Your address is 288 West Railroad Street, Mapleton Depot. 17052. Yes. Ok, I'll mail that info information out to you and if you change your mind, just give me a call. Ok.
+Patient: Ok.
+Nurse: Alright, thanks buddy. Bye bye bye.

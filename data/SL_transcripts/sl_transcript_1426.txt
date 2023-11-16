@@ -1,0 +1,32 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you?
+Patient: This is [PHI-Personal]. Hi, [PHI-Personal]. I don't know what in the world I'm going to do. I got a new medicine. The goal of my pancreas not making enzymes. Yeah.
+Nurse: What did they give you? [PHI-Personal]? Can you tell me what they gave you?
+Patient: Just a second? Mhm.
+Nurse: Take your time.
+Patient: It's right here. Ok. See creondr [PHI-Account] unit capsule. Three times a day.
+Nurse: [PHI-Account] unit.
+Patient: Yes.
+Nurse: Ok. Let me just see if I can pull that up here. So tell me what's, what's going on. Did you start that medication?
+Patient: Yes. I think, uh, my second day. Ok. Third day. I don't know which now. But mhm. These episodes of diarrhea are getting worse all the time. I was up at six o'clock this morning. Mhm. And I had to strip completely. I was a mess. Ok. And I still all alone.
+Nurse: Yeah. Um, let me just see here. What they, what exactly they did, [PHI-Personal]. Ok. So stool shows pancreas is not making enzymes. Start [PHI-Personal] with meals. Is that how you've been taking it three times a
+Patient: Day with meals? Ok. Hm.
+Nurse: So tell me about the Imodium. Have you taken any of that since you started this new medication?
+Patient: No, I didn't think I was supposed to.
+Nurse: Yeah, definitely. Because this medication unfortunately is not going to work overnight. This is going to do. Yeah. So, in the meantime, you know, you can't just stop the Imodium because, you know, of, of course, that's probably why your stools are worse now. Ok. Um, I know it's not something you want to have to do, but in order to keep it under control or as minimal as possible until this medication can work, that's important for you to do to take that also cause I don't see any
+Patient: Stuff that
+Nurse: Yes. Yes. Awesome. You can have that four times a day.
+Patient: Oh, I know four times. Yeah. Yeah.
+Nurse: So, and I, if you're having a bad day with it, I would not hesitate to take it once every six hours. Oh, absolutely. Ok. Um, I
+Patient: Never know when I'm going to have one. Well,
+Nurse: That's it. So, you know, if you're having a bad day, like you had a bad morning, I would take it, you know, at least 3 to 4 times in the day. And so you don't have such a bad morning tomorrow. Now, this medication here is, you know, like you said, it's supposed to help improve your digestion. Um, if you don't have enough of the pancreatic enzymes to do that, but I'm not an expert in this medication, but I can pretty much guarantee that it's not going to work right away.
+Patient: It doesn't work immediately. Yeah,
+Nurse: I'm sure it's gonna have to, you know, to kick in but you have to, you know, keep an eye on things if, if a couple of weeks goes by and there's no improvement, you know, make sure you call us. But it's important that, you know, you give the medication a chance and, you know, I don't see anything here that he says stop the Imodium. So if you're still having loose stools, take the Imodium. Ok. Ok. Yeah, without a doubt cause that's probably why it was worse today. I would imagine until this medicine kicks in and starts to work.
+Patient: Ok, I will do
+Nurse: It. Ok. Sorry, I really am sorry you're going through this. I'm wondering like do you wanna talk to your daughter about maybe having the caregivers come earlier or stay later or maybe have somebody there throughout the night that can help?
+Patient: You know, I can do. It's hard to find them.
+Nurse: Yeah, I know it. I know it. Um,
+Patient: Nobody wants to work at night. Nobody wants to work early in the morning and yeah. Well, I understand. I don't know.
+Nurse: I understand. Um give it a chance though but take, you know, I would get the Imodium to you as soon as you can. Ok. And don't forget, I know you were taking it twice a day but you can have it up to four times a
+Patient: Day. Ok. All righty and you know, I could have it four times. Yeah.
+Nurse: And let us, let me know how you make out. Ok, I will. All right, [PHI-Personal], good luck. Take care. Bye
+Patient: Bye. Bye bye.

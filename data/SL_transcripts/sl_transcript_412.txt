@@ -1,0 +1,17 @@
+Nurse: Hi, this is [PHI-Personal]. Hi, [PHI-Personal]. This is [PHI-Personal]. You just called?
+Patient: Hi, [PHI-Personal]. How are you?
+Nurse: I'm doing well, thank you.
+Patient: Good. Um, do you have just a minute to chat with me? I
+Nurse: Sure do.
+Patient: All right, perfect. So, um, let me just tell you real quick that this call is gonna be recorded for training purposes. Ok. Yes. All right. And the reason I was reaching out is because Doctor [PHI-Personal] sent over a referral requesting your enrollment to her new care management program. Are you familiar with what that is at all?
+Nurse: I have no idea.
+Patient: All right. So the care management program is a phone call from one of our care management nurses that work hand in hand with Doctor [PHI-Personal]. That phone call would be at your convenience as frequently or as infrequently as you wish. We have some patients that get calls once a month, some patients get calls once every three or even every six months. That's up to you. And your nurse would basically just call, you check in, make sure that you're feeling good and continuing to stay healthy in between office visits. But you would also be able to reach out to your nurse if you needed things like medication refills or test results. Um or if you had any acute medical questions or concerns. So it is a billable service to [PHI-Personal], [PHI-Personal] Advantage and secondary insurance plans and the calls are subject to deductibles, copays and coinsurance. Now, when you go to the office, do you normally have a copay? Yes. Ok. So there is a chance that you may have up to, uh, whatever your copay is at office for the care management call. But like I said, you could choose how frequently you want that call once a month, months, every three months or just every six months. And Doctor [PHI-Personal] does get documentation of those calls sent to her as part of your medical record. Ok. Yes. Do you think I can set you up for a morning or an afternoon call from your nurse?
+Nurse: Well, I have no idea.
+Patient: Well, I can, I can tell you this. Um, Doctor [PHI-Personal] does think that you would benefit from the program and if you wanna try it, you can always get, you know, one phone call. Have your nurse call you back in three months. I have her call you back in even six months if you like. Um, and, and see how it goes from there. It's not something that you're set in for life. You can opt out at any time.
+Nurse: Oh, ok. I then, yeah. Ok.
+Patient: All right, perfect. Um, so let me just confirm your phone number. I have [PHI-Account]. Is that the best number for her to reach you at? It is? Yeah. All right. All right. And then I have your address is 111 West Water Street, Mount Union. [PHI-Geographic].
+Nurse: That's correct. All
+Patient: Right. And I'm gonna go ahead and mail you out some welcome information and your nurse's phone number will be on there if you need anything before she reaches out to you within the next two weeks. Ok.
+Nurse: Ok.
+Patient: Alright [PHI-Personal], I will go ahead and get that all set up for you. I appreciate you calling me back. I hope you have a really great day
+Nurse: And I hope you do too have a great one. Thanks so much. Alrighty bye bye bye.

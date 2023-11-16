@@ -1,0 +1,26 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes, [PHI-Personal]. It's [PHI-Personal]. You've been, I got a letter that you've been trying to contact me.
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: Ok. I, I've been out of the country for the last like seven days.
+Nurse: Yeah, no problem at all. Give me one second to pull your chart up. Ok.
+Patient: Ok.
+Nurse: Hm. [PHI-Personal]. All right. So, [PHI-Personal], you are a patient with doctor [PHI-Personal]. Is that correct?
+Patient: I'm
+Nurse: Sorry, you're a patient with doctor. Is that correct? Ok. Ok. Yeah. So let me just tell you real quick that this call is gonna be recorded for training purposes. Ok.
+Patient: Ok.
+Nurse: All right. So, yeah, I was reaching out to you in regards to a new program, doctor offering patients. Um, that program is called care management. So, [PHI-Personal], with that, you would receive a phone call from a nurse that nurse would reach out to you. She would be able to answer questions, assist with refills, lab results appointments and anything else pertaining to your health, your nurse would be an added resource for you and you would also be able to call her directly with any medical questions or concerns and your nurse will always keep doctor [PHI-Personal] updated with your current conditions and any changes that you may be having. Ok. Ok. So the care management program is a billable service to Medicare, Medicare Advantage and secondary insurance carriers and the calls are subject to deductibles copays and co insurance. Now, I'm just confirming with you that you have devoted health and a $0 copay. Is that correct? Right. Perfect. So you could choose to get calls from your nurse on a month, monthly basis or you could get those calls every couple of months in between your appointments. Would you prefer a morning or an afternoon call from your care management nurse?
+Patient: Ok. But why do I need a care management nurse when I have uh Doctor [PHI-Personal].
+Nurse: So it's just a new program that she's offering patients. Um, they're looking, looking for some extra communication with their patients in between visits. But also would like to give patients the option to call a nurse directly if they ever had any issues or problems.
+Patient: Ok. So you're not uh, charged a copayment or anything if you don't call the nurse. Right.
+Nurse: Correct. The only time you would be cha you would, your insurance would be billed is if you spoke with the nurse.
+Patient: Ok. And I will call, I will initiate a, the call to the nurse, not the nurse calling me. Right.
+Nurse: So she would be, she would call you at your convenience. Um, typically she would call you for your first call in the next couple of weeks and then you would let her know when you would like for her to call you back, whether that be in one month or three months or six months.
+Patient: Ok. Because I'm trying to really limit the time that I go to the doctor and learn some things on my own with all natural. So, um, I only call doctor [PHI-Personal] about when I need a prescription or there's a medical emergency. Other than that I don't need a doctor, you know, unless I'm sick cause I'm trying to get from under the doctor cause I'm tired of all the visits and just the whole thing.
+Nurse: Sure. Yeah. So in that case, you would be able to call your nurse and she'd be able to do that stuff for you like refills and um you know triage problems over the
+Patient: Phone. Ok. But what about going to my chart? So my chart will no longer be available. That's how I do refills.
+Nurse: Ok. Yeah, you can still use my chart that's not going anywhere.
+Patient: Ok.
+Nurse: Do you think I can get, get you set up with a nurse?
+Patient: I don't see the need.
+Nurse: Ok. Well, I can mail you out the information about the program and if you change your mind in the future, then you can just let us know. Ok. All right. Let me confirm your address at [PHI-Geographic] in [PHI-Geographic]. Right? All right, I'll mail you out the information if you change your mind, just let us know. Ok,
+Patient: Thank you. Thanks. Bye bye bye.

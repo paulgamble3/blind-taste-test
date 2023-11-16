@@ -1,0 +1,15 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Yes uh was calling uh bea um um yeah doctor uh nurse it says I got that letter is care management nurse. Ok. What's your date of birth? It's [PHI-Personal].
+Nurse: Let me just bring it up here. Sure and your name is [PHI-Personal], right.
+Patient: Correct. Ok.
+Nurse: Uh alright just give me a second. I'm getting into your info. Ok. Um yeah so it looks like she sent you out the letter. We have you enrolled in the care management program that if you ever have any questions or anything you can always give us a call. Did you have any any issues or anything that
+Patient: I'm calling when I was there and saw him on the [PHI-Personal]. He wrote out three prescriptions. I got two, the one I didn't get is the traMADol. I know last time it took forever to get traMADol from the drug store. I don't know where he sent the prescription either to Giant or mail in Optum Rx. It was supposed to be for 100 100 mg take 1.5 at bedtime. Ok. And I didn't get those at Giant. I don't know where they are or where the prescription was sent.
+Nurse: All right, let me take a look here. Um, I'm just taking a look to see, doesn't look like he sent it anywhere. Oh,
+Patient: Ok. So that would be, I had, I, I had some at the house I 50 mg and I used all those because supposed to take 1.5. So that's with, with 50 mg. That's 2.5. Mhm. So I don't have any more.
+Nurse: So you need a refill. So where do you want it sent to? Do you want it sent to the Giant pharmacy on [PHI-Geographic]?
+Patient: Yeah, that'll be fine. Ok,
+Nurse: So I can get a message over to him and let him know that you need a refill and you want it sent there. Um I'm not sure why he didn't send it anywhere and he didn't give you like a paper script for it either, right? When you were in.
+Patient: No, no. The other prescriptions I got at Giant and they don't have that one like his last time I got the 50 mg it took forever and they said the insurance company or somebody asked ok, before they can fill since it's a controlled substance,
+Nurse: Right? Yeah, sometimes they need like a prior authorization done um for the insurance and the insurance has to ok. It's uh it can be a pain in the butt. Um but I will get the message over to him that you need that refill of that and you want it sent to the giant. Ok.
+Patient: All right. That'll be fine. Thank you.
+Nurse: You're welcome. Bye bye.

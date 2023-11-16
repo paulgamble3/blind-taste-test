@@ -1,0 +1,25 @@
+Nurse: Nurse care manager, [PHI-Personal]. How can I help you? Hi, [PHI-Personal],
+Patient: This is [PHI-Personal] Res sister. Um, she just walked back in so she is right here on speaker phone.
+Nurse: Hello? Awesome. Hello. How are you guys? Oh, hanging in
+Patient: There waiting for
+Nurse: The next tornado. Oh, I know. Right. Isn't it coming, like tomorrow or Thursday or something?
+Patient: Yeah. Both, both
+Nurse: Days. Yeah, that's kind of scary because we just had one. Right. Right. Right. Oh, my goodness. Yeah. So I was just calling to check in on you see if there's been any changes in your health. Um, since we last spoke. No, I don't think so. It's about everything the same. Ok. Well, good. That's what I'd like to hear. That means you're healthy or at least as healthy as you can be. Right? Awesome. Awesome. Um, yeah, so I was just reviewing, um, your lab work from back in August and I noticed your, uh, cholesterol level was a little bit high, so I was just gonna give you, um, a little tips to maybe kind of change that, um, of course, diet is key when it comes to your cholesterol level. Um, so, you know, choosing healthy fats is really important, you know, and avoiding the saturated and trans fats. Um, you know, the saturated fats are found in red meat, bacon sausage and full fat dairy products. Um So when you can choose lean proteins like chicken, turkey and fish, um, if you're a big milk drinker or cheese eater, you know, try and switch to the low fat or fat free dairy products. Um, yeah, the trans fat of course, are, are found in fried food and processed foods. You know, the cookies, the crackers, I tell everyone all the good stuff. Of course, that's where those are found. Um, and say that again,
+Patient: Those are her favorite things to eat.
+Nurse: Oh, I know. I think they're, everybody's, they're mine too. But, you know, it's important to, um, at least attempt to lower your cholesterol level because, you know, the higher the cholesterol level, the increased risk you are at for a stroke and heart attack and things like that. So, um, just trying to, you know, again, keep you healthy as possible. Um, just the last thing, you know, I like to tell my patients is if you increase your fiber intake with like, um, veggies, beans, certain fruits, things like that. That can a actually help lower your LDL cholesterol level, which is the bad cholesterol. And yours was 1 31. So we like it to be below 100. So not too far to go. Ok. Ok. Awesome. Yeah. Like I said, just trying to keep you healthy. You know, I don't, I don't want any of those bad things to happen to you. So,
+Patient: Yeah, I
+Nurse: Understand. Yeah, I do. I love it when you say that
+Patient: She puts apples in her salad.
+Nurse: Oh, ok. Good. Yeah. And more salads. Maybe less processed foods, right.
+Patient: Uh, she's a processed food addict.
+Nurse: I know. You know, maybe just try once a week picking a salad or some veggies over those yummy foods that you like?
+Patient: Uh, uh, [PHI-Personal]. Do you know at her last visit with Doctor [PHI-Personal], he was gonna recheck her sodium because he said her initial lab was low. Mhm. And do you know, was that, was he still concerned after it was checked in the office?
+Nurse: Um, I think last time I talked to her, I went over this, let me just double check.
+Patient: Oh, sorry.
+Nurse: She, no, no, that's ok. I totally understand. Um,
+Patient: Yeah. Can't remember stuff.
+Nurse: Yeah. No, that's ok. Yeah. So her sodium level the first time around was 1 31. Um, and then the second time he checked it, it did come up to 1 41 which is, you know, within normal range. So, yes, he was happy with that.
+Patient: Good, good, good. Ok, thank you so much.
+Nurse: Yeah, no problem. Um, I hope you guys have a great rest of your day. Ok. And I'm always here if you need anything from Doctor [PHI-Personal]. Ok.
+Patient: All right. Thank you. Thank you, [PHI-Personal].
+Nurse: You're welcome. Have a great day. Alright, bye bye bye.

@@ -1,0 +1,27 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, hi, this is uh, somebody had called here a while ago and I didn't get to my phone in
+Nurse: Time. Yes, that was me. Uh, let me just get you pulled back up quick. All righty. Ok. So it looks like I was just calling because, um, or to, to kind of explain the care management program we have here. Um, it looks like you see Doctor [PHI-Personal], correct? Yes. Ok. So his practice, um, takes part in this care management program. So typically, uh, you know, once a month, one of our nurses will call you for a few minutes. Um, and kind of touch base with you, see how you're doing. Um, and see if you need anything. Um, we can handle, you know, your medication refills. We'll give you some education every call. Uh, we can help assist in uh scheduling provider appointments, you know, if you're not feeling well or something like that. Uh Basically we're a direct line to the provider to kind of notify them of any issues or changes with you. Does that make sense? Yeah. Yes. Ok, perfect. All right. Um, so I just need to go over a couple of things with you. Um, do you still have Blue Shield [PHI-Personal] Insurance or did you switch?
+Patient: Uh, we got new insurance this year. I don't know what it's called off hand. Ok. Shall I look for my, my card?
+Nurse: Um, let me see. Have you been to the office yet this year?
+Patient: Not up to Doctor [PHI-Personal], another doctor for my eyes, but,
+Nurse: Uh, got you. Not the trial.
+Patient: Ok. Just um. Ok. Ok. It's [PHI-Personal].
+Nurse: All right. Let me high [PHI-Personal]. Ok. And what's the ID
+Patient: Number? Uh, I still have the letters first. Ok. QMV. [PHI-Account].
+Nurse: All right. Let's see. Mm. It's thinking come on. Perfect. Got it. Ok. Um, and then current address I have po [PHI-Geographic]
+Patient: Five, East, Market street
+Nurse: Five East. Ok. [PHI-Geographic]. All right. Got it. All right. And then, um, do you need any medication refills today?
+Patient: Uh, not that I can think of.
+Nurse: Ok, perfect. Um, and then current medications, let me see. You just have a few um, prescriptions and then the rest are some vitamins. Correct? Yes. Ok. All right. And then also every month we will kind of go over um, some anxiety related things too. So first off, I need to ask you a couple of questions about that. Um How long have you been treated for anxiety?
+Patient: Oh, I don't know. Uh I'm still working as church secretary at [PHI-Personal] years old. So, can you explain that?
+Nurse: Oh, good for you.
+Patient: Uh I, I don't know. I anxiety. What, what am I taking now? What's, what am I taking? The? Toprol? Uh the alprazolam, alprazolam? That's to help me to relax so I can go to sleep. Oh, ok. The only reason I take it for at night.
+Nurse: Got you. Ok. Um All righty. And let me let me pull up your last visit to see if he's. How long have you been taking that? Do you remember?
+Patient: Oh, it's quite a while. I I don't know, I
+Nurse: You know. Ok, that's fine. That's all right. Um and does your primary doctor manage that or do you see uh anybody else for it?
+Patient: No, my regular doctor retired. So that's why I changed to Doctor [PHI-Personal]. Doctor [PHI-Personal]. I had Doctor [PHI-Personal] for years and years and years until he retired.
+Nurse: Oh, ok. All right. So Doctor [PHI-Personal] kind of manages that medication then. Yes. Ok. Alrighty, let's see. Ok. Well I'm gonna send you a letter in the mail. Um it's gonna have some goals on it for this year that we kind of just check off as you get them done. Um those will be, you know, your routine labs and the annual wellness visit, uh things like that. So we just kind of check them off on our end and give you a list. So you if you wanna look back on something you can um it will also have our name and number on it. If you have any questions, you can always give us a call. Um otherwise I will have one of our nurses reach out to you um next month.
+Patient: Ok. All right. Ok.
+Nurse: Alrighty, perfect. Have a good rest of your day and thanks for your time, you bet. Bye
+Patient: Bye
+Nurse: Bye.

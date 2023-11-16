@@ -1,0 +1,8 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal] calling back.
+Nurse: Hey, [PHI-Personal].
+Patient: Hi. I got a um a message that this visit is a telemedicine visit. Oh, is it teed? That's what the message said. But then, well, why would
+Nurse: She tell me to have you wait out in the car then and everything if it was tele? Yeah, let me, let me look at something here. I know because I know originally she was gonna be looking at Tele just because she thought that was the only option. So let me, yeah, so let me see here. Ok, so it just says appointment. I'm trying to see where it's gonna specify if it's
+Patient: Ok. Yeah, because when I went into my chart, you know, it asked me to fill out the pre registration stuff and I did all that sounded like it was an in person visit. But then like right after I hung up with you, I got a text saying that this was an ee visit. So I,
+Nurse: Yeah, it's not specify. Let me give him a call and just verify and then I'll give you a call back and let you know Ok.
+Patient: Alright. Alright. Yeah, thanks cy bye bye bye.

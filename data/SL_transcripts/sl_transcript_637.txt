@@ -1,0 +1,6 @@
+Nurse: Are you calling for [PHI-Personal]?
+Patient: Well I'm calling for someone who I can talk to about uh get my uh prescription sent in to [PHI-Personal].
+Nurse: Ok one second. Yeah let me see if I can get her. We're on the phone all day and your number comes up unknown instead of going straight to her.
+Patient: Oh, isn't that something? Well no, what I'm doing is I'm getting a call from [PHI-Personal] my medical pharmacy. Yes about mm Express script they seem to don't have that information on me. Ok through uh Express script. Ok so I was trying to call someone to find out how can I get some help. Ok.
+Nurse: Alrighty um let me see if I can transfer you. Yeah looks like she's on the other line let me have her call you back just sit by the phone. Ok.
+Patient: Ok. Alright thank you. You're welcome bye bye bye bye.

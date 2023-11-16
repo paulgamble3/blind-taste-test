@@ -1,0 +1,29 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is
+Nurse: Hi, how are you?
+Patient: Uh, not too bad. I need to contact you because the medicine that they have me double up on is going to run out on Saturday. Uh, and they will not refill it again without the prescription change in the dosage.
+Nurse: Absolutely. And I had you on my list to give you a call anyway because we needed to get your log unless you'd already done that. Let me pull up your chart. Can you verify your date of birth for me?
+Patient: 12, 2019 51. Ok.
+Nurse: Thank you.
+Patient: And I, I'm actually, we're out down the road. Um, my n my numbers, I got the individual log, but my numbers have been coming out around 1 50. Over [PHI-Personal] with the heartbeat between 60 70.
+Nurse: Ok. Um, like consistently, like it's always there,
+Patient: Uh, within three or four numbers, it's been as high as 1 55 and down, as low as is uh 60. But basically it's, it's about 1 50 over that. Yeah, over [PHI-Personal]. That, that's what,
+Nurse: So highest has been kind of 1 55/[PHI-Personal] since, since the change. What's the lowest then
+Patient: I think the lowest was like, [PHI-Account]. And I can't remember what the other number was. I have the whole log at home for the whole two weeks. But I just remembered that if I don't get started on that other medicine, if I don't get started on the other medicine, the chances get it before I run out are pretty slim. Yes.
+Nurse: Yeah.
+Patient: Change and all that. But I am having another problem with this whole thing and that would be, apparently I'm holding a lot of water in my legs. My legs are swollen and like the socks, it takes a couple hours after I take my socks off. Even to, to get the swelling to go back on.
+Nurse: Mhm. When did that start?
+Patient: Um, it hasn't been this bad until, until I started pounding the water trying to drink my, my four bottles a day. Mhm. So, the more water I drink per day, the more I end up swelled up.
+Nurse: Yeah. Um, ok. And was that like a week or two ago?
+Patient: Uh, yeah, when it got severe enough that I'm actually, my wife said she was gonna call and report me if I didn't tell you.
+Nurse: So, uh, ok. Are you, do you have any open areas? No. Ok. Any, so no open areas or no, we, we, no weeping.
+Patient: No, I, I fell, I fell again. I got some scrapes on my knees. Oh,
+Nurse: Ok. Um, when did you fall.
+Patient: Oh, I, on a step down here at work and went across the concrete pad but that was bright sunshine going into the dark and I just didn't lift my foot high enough by very little, but I didn't catch myself.
+Nurse: Ok. Um, so just no, no head trauma. No, no deform swelling,
+Patient: No swelling, no
+Nurse: Deformity. Nothing, no, nothing. Broken scrapes. Ok. Um, yeah, for the edema, you know, try to keep your legs elevated as possible. Um, just like, you know, keep, keep them up as, as, as much as you can when you're not doing something else. Um, you could try compression socks that would kind of help to keep them down throughout the day, even when you're standing. Um, you know, try to try to cut down on salt if you can, um, and try to and really try to, um, you know, since try to like keep it clean and moisturized. Um, you know, it's, it's, you're gonna, when, when you have that swelling, your, your skin is a lot more thin so it's a lot more prone to injury. So you have to be more careful there. Um, but I am gonna let them know and let her know that when we need, we need the, um, the medicine refilled at a higher dose of Felodipine, er, if, if, if she wants to stay at that level. Um, and two you're having the leg swelling. Um, so I don't think we're on anything I don't see that you're on anything specifically for swelling. So I'm gonna let her know both of those things. Um, besides, besides the refill on the Felodipine. Um, do you need any other refills or have any other concerns?
+Patient: No, they, they filled all my medicines except that one. They left me get early, but I told them two a day. It only lasted two weeks instead of a month.
+Nurse: Yes. Yep. Um ok, good. So I will, I will get back to you about what, you know what, what she wants to do about the edema and if she still wants you doing the 10 mg when your BP is kind of 1 50/[PHI-Personal] still with it. Um And then call me back if you think of anything else. Um, before then. Ok.
+Patient: All right. Thank you very much. Of
+Nurse: Course, my pleasure. All right. Stay safe. Bye bye.

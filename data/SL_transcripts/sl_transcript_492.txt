@@ -1,0 +1,51 @@
+Nurse: Good and you? Hello? Hello. This is I see you tried to get a hold of me. Hi, how are you doing? Real, real good good. Let
+Patient: Me get your chart up. Give me just a second
+Nurse: Then they might turn it down a little bit. There you are. Is a co thanks.
+Patient: Ok, let me see. Alright, it looks like here you had an appointment last month. How did that appointment go?
+Nurse: Oh, real good. It's yeah we went in when he took blood samples and then we did a PSA test because well this month and I got to go down to doing a MRI and the gallbladder and all that stuff to make sure everything's fine. So everything went good. So
+Patient: You're getting an MRI when
+Nurse: In [PHI-Personal]? So I think it's the [PHI-Personal]. I'm not sure that's on the from the gallbladder from when they did the surgery they wanna check and make sure everything's all right. Oh, are
+Patient: You having stomach issues at all? No. Huh? Ok. So, so check to make sure everything looks good.
+Nurse: Yeah, it's just a routine check up that they have to do that. She told me they have to do. Perfect.
+Patient: Perfect. Ok, let's
+Nurse: See. But I'm doing real good. That's
+Patient: Really good. Let me look and see what your labs look like. Yeah, it looks like your labs looked really good other than your A one C was up a little bit at 7.1. So doctor kind of recommended working on a low carb diet. But no other, what
+Nurse: The hell is a low carb diet?
+Patient: Well, it is like a low, well, it's not a, no sugar but it's like a low sugar diet. Um. Oh, ok. And I can definitely send you information on it as well in the mail.
+Nurse: Well, yeah. Well, well, [PHI-Personal] said it sugar too and I said, well, I don't eat candy and all that stuff. Candy and ice cream. And I, but she told me I get, you get it from bread and all that stuff to sugar.
+Patient: Exactly. Anything high in carbs. So, like, you know, breads are usually pretty high pastas can be pretty high. But, you know, recently grocery stores are really good at, um, I mean, they have a lot more options now that are low carb. Like I know I get the low carb tortillas and they taste the exact same.
+Nurse: So, yeah,
+Patient: Let me and I'll, I'll send you some information kind of on what a low carb diet is. But really it's just kind of reducing the amount of carbs you have in a day because, you know, that's, um, how that works is if there's a lot of sugar in your body, your body is not very good at getting rid of that sugar. Oh,
+Nurse: Just so I don't have to give up meat and potatoes or I'll starve to death.
+Patient: Meat is generally fine. Potatoes can be high in carbs. But, you know, as long as it's part of a, a healthy diet, usually it's ok and your A one C is just a little bit high at 7.1. So we just wanna slowly work on bringing it back down. It looks like last year around this time it was at 6.6
+Nurse: Is really,
+Patient: Really good. Um, the goal is to have it at or below 6.5. Um, so we'll just kind of keep working on that. I'll send you some information on that,
+Nurse: Um,
+Patient: And see if that's helpful for you. Oh, let's see. Did I already ask you if you need any refills on any of your medications?
+Nurse: The, no, I, I'm fine and everything perfect.
+Patient: Ok. And then that buspirone the one, the five mg that you can take up to twice a day for anxiety or have you been using that one?
+Nurse: Yeah, I take it once a day, I take it once in the morning when I go, I take out, take all my pills in the morning when I get up
+Patient: And you feel like that's been helpful. Adding that to the Yeah.
+Nurse: Yeah. Yeah, I don't take any at night. And I said I just take them in the morning and I said everything seems fine good.
+Patient: And you get pretty good sleep.
+Nurse: Oh, yeah. I slept through Thursday yesterday. I had a little bit of a cold, so I took a, a dayquil, I clock out. He, I cut up, I didn't get up until 12 o'clock today, so I missed it all Thursday. Oh, my goodness. What I have to see, huh.
+Patient: Do you feel like you're getting over that cold now?
+Nurse: Yeah, I'm getting there. It's getting there. It's, I think, I think it's a change in the seasons. Plus, you know, [PHI-Personal] years where, like, got arthritis. So this change is like [PHI-Personal] outside. You can see other people running around with shorts and t shirts or not. Me, I, I still put a jacket on. [PHI-Personal] is a little bit too cold. Yeah.
+Patient: Yeah. And you know, the change of the weather and just like you said, change of seasons can cause horrible allergies and,
+Nurse: Oh, yeah, I get them right
+Patient: Now because the weather is all over the place.
+Nurse: Everything's trying to, that, the truth. Cold and my goodness. Yeah, it's, it's terrible this year.
+Patient: Ok. Well, if you feel like your symptoms aren't getting better, like, if you think maybe it's a cold or maybe if you think it's allergies, of course, let us know there's some things we can help with. Like, we recommend doing humidification. In the home and, uh, there's some over the counter nasal sprays that can help as well.
+Nurse: Yeah. Well, they told me that one doctor before that I had told me to take, uh, nasal spray, use the spray because he said a pill, a pillow affects the whole body and the spray affects what it's supposed to affect.
+Patient: Yeah. And it, it works really well. Usually you do have to use it kind of consistently but a lot of people do find some good relief with that. So, that's definitely something to try.
+Nurse: Yeah. So it's, well, I didn't get any yet. What, like, usually when March is done in [PHI-Personal] starts when all that stuff starts coming out. But, uh, that's when I have the sinus problems. Oh, yeah. Ok. So, yeah, I'll, I'll be, I think it's called Flonase Nason, something like that. One of those two, I use the spray. I, I don't take that. I can't take anything. Like, if you had the, the, anything with the d, like Allegra D, I can't take nothing with ad. I haven't been able to take that for years with AD. Yeah. I don't know what the hell ad stands for, but I, I'm not supposed to use that. It's
+Patient: Supposed to be a decongestant but it's actually common for people to not tolerate it. Well, actually very frustrating because it's over the counter and you think you should be able to do it. But a lot of people do have issues with it.
+Nurse: Yeah. Well, I know that that was a long time ago. Doctor [PHI-Personal] and doctor told me that a long time ago. Nothing with ad for like Allegra D or anything like that. Nothing. No D no Ds.
+Patient: Ok. So yes, the over the counter version is the Flonase. So I would recommend picking that up and then doing it once a day, every day during the allergy season until things start feeling better.
+Nurse: Ok. All right. Just mark that down because I'm gonna get that then. Ok. All right,
+Patient: Perfect. All right. And then I'll send you some information on diabetic diet as well. Ok.
+Nurse: All right. Thank you. Ok.
+Patient: If you need anything else you let me know but if not, I'll be
+Nurse: Our next month. Alright. Will do. Thank
+Patient: You. Of course you have a good day, [PHI-Personal]. Right.
+Nurse: Bye bye bye.

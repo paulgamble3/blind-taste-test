@@ -1,0 +1,66 @@
+Nurse: [PHI-Personal] Medical Group. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal].
+Nurse: [PHI-Personal]. I'm well, how are you?
+Patient: I'm ok. I called to tell you that I got the Ozempic number. 0.5. Um,
+Nurse: Hold on, let me bring up your chart here. You got the 1.5
+Patient: The 0.5.
+Nurse: Ok. Is it the three ML or the, um, bye. Yep. Ok. So, yeah, it's because he changed the order. He just signed it in. Good, good, good. Ok. Yeah. So, uh, what it was is, um, they gave you more quantity. It's the same dosage but there's more of the Ozempic in the pen. Yeah, the one that he had ordered the last time was 1.5. That was the quantity and now you have a three. Ok. So that's the only change is how much is in the pen. But the, uh, the pharmacy said that they weren't, they weren't getting the, um, the other one that you were getting, they're not getting that in supply. So I had them change it to the three ML. Ok. So, uh, now the pharmacy says with this medication you should, with, with this dosage of it you should be able to get this on a regular basis without an issue. Oh, ok. So that was the hope.
+Patient: That's the
+Nurse: Hope, huh? That's definitely the hope. How's everything else?
+Patient: Good, good,
+Nurse: Good, good. No issues going on. You're feeling ok.
+Patient: I feeling ok. Just my legs hurt.
+Nurse: Oh, ok. Is that something new or is that something that's been going
+Patient: On? No, it's been going on because I have terrible arthritis. Oh,
+Nurse: Ok. Um-hum. Yeah. The best thing for that is movement.
+Patient: Yeah, it really is up before.
+Nurse: Oh, good. Good. Yeah.
+Patient: Mo
+Nurse: Regular daily movement will help keep your joints fluid and it'll keep the pain down.
+Patient: Yeah. Very painful. Yes.
+Nurse: Yes. Mhm. And you could also do, um, like warm compresses or heating pad, certain areas and stuff like that. Now, did your daughter come home last weekend or is it this weekend coming? It, it's,
+Patient: This weekend coming?
+Nurse: Ok. Ok. I couldn't remember whether it's been a week since we talked or less than that.
+Patient: It's only been a few days this weekend.
+Nurse: Ok. Are you getting prepped?
+Patient: Yeah. I just had my whole house done. Ok.
+Nurse: And cleaned
+Patient: And
+Nurse: Stuff. Well, no wonder your legs hurt you.
+Patient: Yeah. Yeah. Tomorrow I'll be on them, on them too because I got to make salads.
+Nurse: Ok. Mhm. So, you might want to take some, take some Tylenol prophylactically in the beginning of the day just because, you know it's gonna be happening. Um, yeah, and take time to rest. Don't, don't be on your feet too much. Take time to rest in between things. Ok. All right. Well, I'm glad you got your medication because you might need it this weekend. Yeah. A little barbecue. You'll overeat for sure.
+Patient: Um, I'm not big on barbecue. No, you're not. Ok. No. No, I'm not a big barbecue person.
+Nurse: I'd be in trouble.
+Patient: Really?
+Nurse: Oh, yeah. If there were ribs or something I'd be in trouble. So
+Patient: We're gonna, we're gonna, um, smoke a pork, you know. Mhm. Yeah. I got a smoker. So we're gonna smoke the pork, you know? And then they're gonna have pulled pork sandwiches with coleslaw on it, you know. Good, good. And then I'm gonna make salads. That's for Saturday, Friday is just pizza. So. Mhm.
+Nurse: Yeah. Yeah. Something easy.
+Patient: Yeah. And then Sunday we'll just do prime rib. Oh, that
+Nurse: Sounds delicious
+Patient: For her before she leaves off, you know? So, yeah. Now,
+Nurse: How's Ed been? Has he been doing all right?
+Patient: Yeah, he has, you know. Mhm. Tired, you know,
+Nurse: He's been working a lot.
+Patient: Yeah. Yeah. Mhm. Very stressful in his
+Nurse: Job. I bet it. Yeah, I bet it is. Yeah.
+Patient: Yeah. So,
+Nurse: Is he close to retiring?
+Patient: No, he's not ready.
+Nurse: Not ready.
+Patient: Ok. Well, there you go. I mean, he's [PHI-Personal] but he's not ready.
+Nurse: Ok. Well, there you go.
+Patient: Yeah. Ok.
+Nurse: Well, then II, I guess he'll deal then, huh? Yeah. Right. If he's not ready.
+Patient: Not
+Nurse: Ready. Ok. And, and he has all his medication, right. He hasn't complained about being out of anything. Right. No. Ok.
+Patient: No problem. Ok. We got everything. Yeah. I asked him, I said, have you talked to [PHI-Personal]? You know, it's good to talk to him once in a while. Yeah. You know. Yeah.
+Nurse: II, I, um, uh, I, I try, I try to wait for him to call me because I, I know he's busy at work and I don't wanna be bugging him all the time. Yeah I know I know he has odd hours and whatnot so I figure he'll call me if he needs me.
+Patient: Yeah
+Nurse: And I figured when I talked to you I would just you know touch base and make sure he's not complaining about needing anything.
+Patient: No, no he's good.
+Nurse: Ok good.
+Patient: Yeah and I I just wanted to touch base and tell you I got it so I'm
+Nurse: Glad you got it. I'm glad that all went through because now hopefully you you'll have you'll have less of a problem picking it up so
+Patient: Yeah so it's good you know everything's good so good.
+Nurse: Alrighty. Well if you if you need anything you let me know.
+Patient: Ok honey. All right bye bye bye bye. Take care. Ok. All right bye bye bye.

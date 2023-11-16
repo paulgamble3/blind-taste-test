@@ -1,0 +1,10 @@
+Nurse: This is [PHI-Personal].
+Patient: Yes, it is.
+Nurse: Yeah. Yeah.
+Patient: Ok. I, I just wanna let you know there is they gonna keep me,
+Nurse: They're gonna keep you at the hospital. Did they say what you got going on?
+Patient: Well, with my history and, uh, with the stents and everything and things a little bit off, um, potassium and stuff like that. Uh, they're gone. They're gonna observe me overnight to see what's going on.
+Nurse: Ok. Good, good deal. I was trying to answer the phone. I was in a meeting so I was trying to get out. Go ahead and call you back. That's ok. No, I definitely wanted to get an update if there was one. So I'm glad that they're keeping you gonna kind of observe everything and mhm. Uh, just keep me updated when you come home and we'll get you taken care of. Ok. Do you need me to call somebody?
+Patient: Uh, no, I, I've called my husband already.
+Nurse: Ok. All right. Good deal. Well, I hope you get to feeling better and, uh, like I said, just keep me updated. Ok. All right, I'll talk to you later. Ok. Bye
+Patient: Bye bye.

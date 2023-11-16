@@ -1,0 +1,17 @@
+Nurse: You know, hello, this is [PHI-Personal] from [PHI-Geographic].
+Patient: This is from Temple.
+Nurse: Yes. Is this [PHI-Personal]?
+Patient: Yes, it
+Nurse: Is. Hi. Sorry, I was just trying to call you. So the provider already answered back. Um, the doctor did and so they went ahead and, um, sent over an antibiotic and some predniSONE for you.
+Patient: Ok?
+Nurse: Um, so I just wanna review that with you really quick.
+Patient: So that's so,
+Nurse: So the predniSONE is gonna, so the predniSONE is gonna be 40 mg a day and you're gonna take it for 10 days.
+Patient: Uh huh. Once a day, right? Yep, once a day. Then,
+Nurse: Then the antibiotic, it's called Azithromycin. And you're gonna take two of those on the first day,
+Patient: Two and then the [PHI-Personal] the other day, right? And then one the other day. Correct? Yeah, I had them before.
+Nurse: So the doctor did say, um, that just with being around like a family member that's been kind of sick and with your symptoms that you've been having, you might consider getting tested for COVID and the flu just to make sure you don't have one of those.
+Patient: Ok? I'll get my husband to, um, tested.
+Nurse: Ok? And then she said, just make sure if your symptoms get worse or you start having really bad shortness of breath and trouble breathing that you go to like the er, urgent care. Ok. Ok. And hopefully like this, the, the will just help clear it up the medication we gave you, but we just want to make sure, you know, with kind of your symptoms and sometimes if you've been exposed to someone that maybe does have some virus or something and you have that it can make things get worse really quick so we just wanna make sure that you don't end up in the hospital so it'd be better to just go to urgent care or the er if you're like man, I'm taking this medicine but I am just not getting better, I'm getting worse, it's better to go in sooner.
+Patient: Ok? Any questions? Thank you. No questions. Thank you. All right you're
+Nurse: Welcome. Take care. Bye bye. Alright bye.

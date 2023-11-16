@@ -1,0 +1,74 @@
+Nurse: Hey, this is [PHI-Personal]. Hi. I, I purposely stayed off the phone so I didn't miss your call.
+Patient: How are you
+Nurse: Doing? Good, thank you. How are you this morning? Very
+Patient: Good. Thank you very
+Nurse: Much. Excellent. So, I did hear back from Doctor [PHI-Personal] about your, um, your throat irritation and your cough. Yes. Um, he said, um, maybe take a break and save your voice might help a little bit, you know, with like the screaming exercises. Um, he did send Tessalon Perles to your pharmacy for the cough.
+Patient: Ok. What did you send?
+Nurse: He said maybe give your voice a break. Ok. Sure. Yes. Yeah. And he sent Tessalon Perles to your pharmacy for the cough. Um,
+Patient: Ok. So, so I have to, I, I would expect that. Uh, right. Yeah, he
+Nurse: Sent it to, I don't, I, so I changed your, your pharmacy to CV S but for some reason he sent it to Publix. So, Publix. Yeah. So that went to Publix. So you could pick that up. Um, I know, I apologize. I did change it in the system. Um, you definitely wanna, other ways to help your voice is, um, stay hydrated. Right. Um,
+Patient: Well, no, I cannot be dehydrated.
+Nurse: No, no, I said stay hydrated. Stay hydrated, drink, drink water, stay hydrated. Um, give your boys some breaks, little naps throughout the day. Um, using a humidifier can help with that as well. So, um, eat healthy, avoid, uh, spicy foods as that can cause some irritation from GERD. So, and make sure you're getting enough rest.
+Patient: Oh, ok.
+Nurse: Yeah. So those are some things, right. So that you wanna do to kind of rest your voice. So, and the Tessalon Perles, they'll help with the cough.
+Patient: What is it?
+Nurse: The Tessalon Perles that he sent to Publix? That'll help with your cough?
+Patient: Oh, ok. Yeah.
+Nurse: So it's a, it's, it helps like, relieve coughing. So.
+Patient: Oh, ok. All right. And you wanna,
+Nurse: Yeah, you wanna take them as directed. Um, I'm trying to see if there's any side effects you should watch out for, let me see.
+Patient: What are some side effects?
+Nurse: No, that's not what I want. Give me one second. Let's see.
+Patient: Hm. Per Midline.
+Nurse: Mm. I guess you're just working that voice too much, right?
+Patient: I don't know if it's too much. Um, but I can't speak right. Yeah. You, yeah, of course. Yeah, just like
+Nurse: Yelling exercises, maybe take a break and, like, give your vo voice a break throughout the day. So, yeah, of course
+Patient: You can speak. But, yeah, so just, no, no, I don't, I don't mean speaking to you. I mean, big presentations. Which is a somewhat different.
+Nurse: Yeah. So, I guess, um, make sure you're resting up until then. Right. So, if you continue to have issues, you should call for an appointment. Um, the Tessalon Perles help relieve cough. It's a, a cough suppressant. Um,
+Patient: Do what I say,
+Nurse: The Tessalon Perles that he sent for the cough.
+Patient: Oh, ok.
+Nurse: It's a cough suppressant.
+Patient: But you [PHI-Personal] altogether.
+Nurse: Ok. Yeah, I, I did, I don't know why it went back. I'll have to change it again. So I do a apologize. So, um,
+Patient: I don't know what's more convenient to, to pick it up at the, the mailbox.
+Nurse: Yeah. So, and then, uh, side effects to watch out for, with the Tessalon. Perles for the cough are, um, uh, any nausea, difficulty moving your bowels, um, drowsiness, right? If you feel kind of tired from taking it, headaches, uh, dizziness, nasal congestion, uh, chills or like your eyes are irritated if you have any of those symptoms, certainly call back and let us know. So, so it's important just to give us that update. But, um, yeah, other than that, hopefully that will help you, you know, with your cough and some of that irritation. So, so, and I see you using your device so great job, you know. Oh, yes. Yeah, that's awesome.
+Patient: The reason why it didn't work for us is the device has an antenna and we didn't set up the antenna and without antenna. Well, there's no communication.
+Nurse: Yep. So, yeah, you gotta have the antenna in the same room. Mhm. The hub. So, was it just
+Patient: Not? Ok. Well, and connected, connect was connection and I made it and, and it, it works fine.
+Nurse: Good. Good. So, all right. And then how often are you trying to check it, like, every couple of days, or
+Patient: How often you, I don't know. I'm, I, I'm feeling other than the cough and the, the nuisance with my voice, which is more a nuisance than, than a business. The everything is just
+Nurse: Fine. Everything is fine. Ok. All right. Alright. So maybe try like at least once a day.
+Patient: Yes. II I will. Ok, perfect. So if once a day is good when I use it, it gets recorded elsewhere,
+Nurse: Right? It comes into the computer over here. Yeah.
+Patient: And then the computers have records it and keeps it right.
+Nurse: Yeah. And then they send it over to doctor Ko. So it looks like the last time we have on record for you using it was um Valentine's Day. [PHI-Personal].
+Patient: Right? Yeah. So. Oh, ok.
+Nurse: Ok. And I just, so you're aware, um I did send a message over to the office to have all your scripts um sent over to express scripts. So I did ask them to
+Patient: Change that because II I don't like um Publix and it's inconvenient. I have to take the car and drive, for instance, right now the car is in the shop, I cannot go pick it up.
+Nurse: Yeah. So, yeah, I, I, because I had called, what happened was I had called Express Scripts, right? And they said Publix needs to call and I said, I don't think that's correct. So then I called Publix and they said Express Scripts. So they're going back and forth. So I just asked the office to please, you know, send it to the correct pharmacy. So, and it's, I have it as um probably
+Patient: Was [PHI-Account] once and only once because the, the CV S does not provide uh for the Cialis period and Publix will provide the Cialis at a reasonable price. But other than that, everything is just fine with, with CV S and
+Nurse: So let's see. I'm gonna go back in again. That
+Patient: Was the reason of the for the mistake. Why?
+Nurse: That is. So I changed it to CVS [PHI-Personal] mail
+Patient: Service. [PHI-Personal]. Yes. Yes. [PHI-Personal].
+Nurse: Ok. All right. Ok. So yeah, so I had changed that. So somehow it got changed back. So, so you only want the Cialis to go to, to Publix?
+Patient: Yes. Yes, please. Yes, because the [PHI-Personal] do doesn't provide it at all and at any price. Ok. Alright. They, they just don't do not supply it.
+Nurse: All right. So that makes sense. So I'll have to send another message um to the office so to update them and then hopefully they'll be able to straighten it out. So is it do you want to keep the Tessalon Perles at public, they can get it relatively quickly.
+Patient: Cialis. Well, Cialis to, to Publix and not only Cialis everything else. Ok. Yes. Ok.
+Nurse: So. Ok. All right. Um I'll have to call again then. Alrighty. Sounds good. And you have, uh and so you're good you're good for right now on your medications. I just need to get that straightened out for you. Right. Yes.
+Patient: Yes. I, I placed an order and, and I'm II I placed an order myself and it should arrive, didn't arrive today. It should arrive tomorrow or the next day. Perfect. Ok.
+Nurse: Alrighty. So. Ok, so that's what we'll do. Um I'll have to send that, I'll have to call over and then are you going to call to book your followup with doctor [PHI-Personal]? Are you planning on just calling on your own or?
+Patient: No, I'll let you know. No, no, I I I'll let you know and then maybe if you can help me make the appointment, but right now there's no reason to, I was planning to go out of the country and, but apparently I'm not going to go out of the country and if I don't, I'm not going there, I'm not II I don't feel the need to go to see the doctor. Ok. All right.
+Nurse: Ok. All right. So, and then you know, if it, if the cough and irritation continues, you should call to be evaluated. So, um, uh, how often. Do you do your public speaking?
+Patient: Sorry.
+Nurse: How often do you do public speaking? How often do
+Patient: You? Well, I, I speak as often as I can and now I'm in a big project. Um, I have some training, uh, Wednesday, Wednesday and Thursday coming week and, uh, uh, two more days the following week. Uh, I don't know exactly what the training consists of. Uh, uh, maybe I have to watch some presentations, maybe speak.
+Nurse: Yeah. So, yeah. So, so I guess you'll have to see, like, kind of like, see how much you can, what you can tolerate.
+Patient: The, the most irritating thing is the, the yelling. I mean, I have to scream to the top of my lungs to strengthen the voice and to make it louder and I do that daily, but I will put it off until a couple of weeks or so.
+Nurse: Yeah, maybe take a break from that and then see if there's an improvement. So that,
+Patient: Yeah, that has to irritate me and I feel it in, in my throat.
+Nurse: Mhm. Yeah, I can hear your irritation so, in your throat as well. So maybe give your, uh, voice a break, you know, and then see how you do with like, the daily, like, day to day things and doing your public speaking and if you're continuing to have issues, certainly call for evaluation. So, I think that's like a fair plan. Right. So, and then go from there. Yeah, that's all you could do, right? So. Ok. Ok, sounds good.
+Patient: Ok, and so thank you so much for your help. You. You are absolutely adorable.
+Nurse: Thank you so much. Take care. You
+Patient: Too. Bye bye bye bye.

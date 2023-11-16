@@ -1,0 +1,15 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes, ma'am. This is [PHI-Personal]. I called earlier or y'all called me earlier this morning. Ok. I plugged in my deal and so far it's working. Ok. Yeah, that's, no, that's not, that's not a sign. I mean, you know.
+Nurse: Yeah. No. So it's working, just leave it plugged in. Um, we are working on trying to figure out what's going on with it. Um, and then [PHI-Personal] Jo, who is in charge of the R PM, she's gonna let us update us when she has more information, but for now just leave it plugged in. It should still be working. I do see that you have your readings and everything in here.
+Patient: Yes, ma'am. Well, I haven't done my, my test yet. What I, I do every day because it wasn't working. So I didn't know to go ahead and do it or just wait to see how it's gonna react.
+Nurse: You can, you should be able to go ahead and do it and it should still pick up and everything.
+Patient: Ok. Well, I tried to do it last night and I, I don't know if it, it red or, I don't know because it was acting so strange, you know.
+Nurse: Ok. Let me see here. I do have one last night at [PHI-Geographic]. Yes, ma'am. Yep. I do have a reading in here at [PHI-Geographic].
+Patient: Ok. So when it's really acting up it's still reading.
+Nurse: Yeah, it seems like it is and we are in the process of, um, talking to the, um, people that, that are in charge of that hub to get it straightened out and everything.
+Patient: Yes, ma'am. No problem. Well, I just wanted to let y'all know, you know, because I don't know what to do about it, you know what I mean?
+Nurse: Yeah, just leave it plugged in and just kind of keep doing what you do and it looks like it, it is picking up in our, in our system so we'll be able to see it and everything.
+Patient: Ok. Good enough that I, I appreciate you working with me.
+Nurse: Yeah, no worries. And then whenever I, we, I get an answer from [PHI-Personal] Jo about what's going on if it's an issue or if we need a new one or anything, I'll let you know.
+Patient: Ok, I appreciate it, ma'am. Thank you.
+Nurse: You're welcome. You have a good day. You too. Bye bye. Thank you. Bye bye.

@@ -1,0 +1,13 @@
+Nurse: Good morning. This is
+Patient: [PHI-Personal], uh, this is, uh, [PHI-Personal] calling. Uh, my birthday is, uh, 10, 11 52. Why? Yeah, I'm supposed to, uh, get a blood, uh, work done. Ok. Ah, I have, I, I have to talk to do, uh, doctor, uh, on [PHI-Personal] and two weeks before that. I'm supposed to get blood work done for a, uh, PS A level. Ok. And I'd like to make an appointment to have that done.
+Nurse: Ok. All right. Let me jump in here. All right. So give me the dates again. So when do you need the blood work done by,
+Patient: Uh, two weeks prior to [PHI-Personal],
+Nurse: Two weeks prior to [PHI-Personal]? Ok. Let me jump on the calendar. [PHI-Account]. So that would be, that would actually be next, um, next Monday if we can get you an appointment for next Monday. Is that ok? Ok. Uh, all right, let me see what we got available here. Ok. Now, are you just gonna go to doctor [PHI-Personal] office to get the blood work done? Yes. Ok. All right. Let me see what we have for that day. Monday the [PHI-Personal] doesn't have to be fasting
+Patient: That, that, I don't know.
+Nurse: And you said it's just PS A levels, right? That's
+Patient: What it has on my paper.
+Nurse: Ok. Then that won't be fasting. All right. Let me see. Oh, boy, that's gonna be a tough one. Um, I might have to move you to Tuesday. Let me see. Boy, he's pretty, pretty. So here, let's see. What time of the day do you want?
+Patient: I guess that doesn't matter too much, doesn't
+Nurse: Matter just where I can get you in. All right let me see here um hm. All right let me keep I'm going to put you on hold for one minute. Ok. Ok, thanks [PHI-Personal]. Yes. Ok, so I'm just waiting for um I had to message [PHI-Personal] in the office just to let her know what you needed um since there's no times available next week to have that done. So I'm gonna have her add an extra slot for you somewhere so once she does that I'll give you a call back and let you know what time we put you in for. Ok.
+Patient: Ok then. Alright,
+Nurse: Sounds good I'll talk with you soon. Ok then. Thanks. Yep bye bye.

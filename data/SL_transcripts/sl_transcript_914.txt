@@ -1,0 +1,61 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal] speaking. How can I help you?
+Patient: Uh, yeah, I just got a call from [PHI-Personal]. It's, uh, I think her name.
+Nurse: Yeah, it was me. Oh,
+Patient: I have, I have so many names written down for your number.
+Nurse: I know it, it, ok, [PHI-Personal] was before me. Yeah, you're ok. Ok. How are you doing?
+Patient: Uh, today I'm having a bad day. It's really funny that you called. No, I, I uh, been having some back problems and, um, today it feels like my legs aren't there when I go to walk. It actually feel they both feel like they're not there. I mean, they're, I'm able to walk but it just feels weird and I sleep funny or something. Pardon? Did you
+Nurse: Sleep funny?
+Patient: No, it's been like this for the past couple of days and my foot is still swollen from, is it? I
+Nurse: Was going to ask about
+Patient: That. Yeah. Yeah, it's still swollen. Hm. So, I don't know. I'm just getting ready to go to our river lot for the weekend and I'm like, what am I gonna do if I get down there? And I can't walk right?
+Nurse: That is bizarre. Have you called to make an appointment or anything?
+Patient: No. Uh, uh, no, I didn't know what to do.
+Nurse: Um, I can send a message to the provider but I would think you'd need to get seen if you, if you can't, like, feel your legs there.
+Patient: They're just so, yeah, they're just, I can feel them but they're a little numb. It's like, weird. Hm. And I'm wondering if I walk or I can walk it out or, you know, and have
+Nurse: You, how long has this been going on?
+Patient: Oh. Oh, a few days.
+Nurse: And it's your right leg that's swollen, right? Or both of them
+Patient: Now. No, my legs aren't swollen. It's my left foot. Left foot. That's what? Yeah. And then, uh, by, by trying not to, uh, bother with my ankle that get, that hurts all the time I put my knee out. So.
+Nurse: Oh, no, you're just having a rough way to go.
+Patient: I am. It's like, man, oh, lot what is going on? I don't like this old age stuff. Yeah.
+Nurse: Yeah. It, it's only getting worse every year that creeps up. I'm like, man, this is good. I better get it figured out something.
+Patient: Yeah, if I wanna keep going, I do now, what happened was I pulled something in the back of my knee. Mhm. And, uh, when I did that and then when I went to walk it felt like my knee went. This is funny to say, this, but it felt like my knee went inside out. You know, it's like it, it rubbed bone to bone kind of thing when it went inside out and sometimes when I walk, it's fine, sometimes when I walk it hurts. So it's like it's going back and forth, you know what I mean?
+Nurse: Right. I wonder if maybe with all that there's a nerve pinch but that would usually be one, like, not both unless it was your lower back or something.
+Patient: Well, my lower back has always bothered me when we went to, uh, ing for the day last week and we walked quite a bit and by the time we were almost ready to get back to the car across the bottom of my back was like really hurting and both of my, I wanna say hips, but you can't say hips because hips are in the front but it felt like hips and, and since then my, my legs feel weird. So I don't know if I did something to my back. That's
+Nurse: So this came about after you were walking all day. Is that right? Yes. Yes. OK. Yeah. And you have like a lower back. Yeah. Yeah. Yeah.
+Patient: Real low. Yeah,
+Nurse: I'll say lower uh on the sides or in the middle.
+Patient: Well, it goes like all the way across but the hurt really bad hurt was on both sides. OK. Real low. Hip, hip area.
+Nurse: OK. OK. Um I'm gonna get a message out to the provider. He's probably gonna wanna see you but you're gonna be out of town, you said for the weekend. So you wanna come back next week?
+Patient: Uh Yeah, if this continues, I will have to do something. But I don't know, I'm not real fond of MRI S or anything like that. So we gotta see,
+Nurse: I'll reach out to the provider just to make him aware. Uh, who do you look? I'm sorry, I'm on a different screen. Uh, with he, oh, do you see her? There's also [PHI-Personal]. Do you?
+Patient: Which one do you see? No, I see. I've never, actually, since I've been there. I have never met the doctor.
+Nurse: Oh, ok. Yeah, there's a lot of nurse practitioners and physician's assistants in there.
+Patient: Yeah. Yeah. Yeah, I've never met the doctor yet. Um, he's down with my doctor but now I can't even remember his name because I've never met him.
+Nurse: Right. Uh, there's all, there's, it's
+Patient: El, it's doctor [PHI-Personal]. Yeah. Um,
+Nurse: Let's see here. So I will put in, I'll make a note, I'll let the provider know that you're going out of town for the weekend and if it's still bothering you next week you'll schedule an appointment.
+Patient: Yeah. Ok. Ok. All right. Meanwhile, I don't know. I'm just gonna kinda sit, I was going down there to walk in the river because I usually walk in the river and that cold water feels kind of good. And, uh, but uh, I don't know, we're having a bad weekend with the rain, so I don't know if I'm gonna be down there.
+Nurse: Right. I would say try and do some stretches too. Like leaning, like toe touching stretches slow, you know, moving slow, don't do anything that hurts or cause any issues, but it doesn't ever help, hurt to stretch. So maybe you can stretch out that back a little in your hamstrings and stuff in your legs. Um, keep, you know, keeping your hands feet in front of you maybe to the side trying to stretch out a little and see if that helps some relieving any of that. It may just be something pinched in there that just needs release, you
+Patient: Know. Yeah. I actually think that's probably what it is because it starts hurting in night at night time, you know, in bed it starts to hurt. But,
+Nurse: Yeah. Yeah, I, I'll get this note to the doctor. Are you taking anything for pain for that, like over the counter or anything like that? No, I'm
+Patient: Not. I, ok, I have, uh, a prescription but it doesn't help. What is it? But then it's only like five mg or something, I think.
+Nurse: Oh, let's see. Oh, the Meloxicam. Yeah. Right.
+Patient: It used to help it. Is
+Nurse: This 15 mg? Did your dose get lowered or?
+Patient: No? No, it is 15. It is.
+Nurse: Yeah, just double checking on that.
+Patient: Yeah, that was my mistake.
+Nurse: Um, ok, I'm getting this message out. If I hear anything back where he says different, I'll let you know, but I'll let him know that you intend to make an appointment next week if it doesn't go away over the weekend. Ok.
+Patient: Ok. All right. I'm glad you called. I was starting to get a little worried. I thought, I don't know what to do. I just didn't know what to do.
+Nurse: Yeah. I would also encourage, um, hot and cold, you know, like uh uh I know it's hard to wear anything hot during the summer but um maybe a heating pad or something or ice to see if that helps on your lower back, even in lower hip area in the back, you know. Yeah, maybe that helps too. Ok.
+Patient: Yeah, that sounds good. I'm gonna go out right now and soak my foot to see if I can get the swelling down in that.
+Nurse: Yeah man, you're having a rough.
+Patient: I was like, oh my gosh, what is?
+Nurse: Yeah, a well if you need anything just give me a call um uh otherwise I'll I'll call you again next week and check in. Ok.
+Patient: Ok. Now you're not [PHI-Personal] you are.
+Nurse: I've been with you since [PHI-Personal].
+Patient: Yeah, I remember I remember I need to change your name on my phone.
+Nurse: That's ok. All right. Alrighty, you have a good day and enjoy your little trip.
+Patient: Ok, thanks.
+Nurse: Uh huh bye bye bye.

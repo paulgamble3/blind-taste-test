@@ -1,0 +1,46 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is, how are you? I'm
+Nurse: Good. How are you?
+Patient: I'm doing good. I'm sorry. It took me so long to call you back. It was like, oh, that's ok. Ok. Um, before I forget it we have an appointment, um, the beginning of May with doctor [PHI-Personal] and my husband's not going to be home so we have to change it. Ok. Ok. Can I do that through you?
+Nurse: Yeah. Sure. And it was ok for both of you or just?
+Patient: Yes. Yes. Ok. I'm looking to see. Right. Ok. I don't know exactly when it is. I have the paper.
+Nurse: Pardon? [PHI-Personal].
+Patient: [PHI-Personal]. Yeah, that sounds right now. Um, we would like it for in [PHI-Personal] if possible.
+Nurse: Mhm. Ok, let's see here. Ok. What is this, the three month follow up and then you're due for your [PHI-Personal]. Uh, so what we [PHI-Personal] do is reschedule this and we'll move to [PHI-Personal]. And do you prefer morning or afternoon,
+Patient: Um, morning if possible? Ok. But then that depends on the day. So, yeah. Yeah, let's see here.
+Nurse: Looks like he's about looking for some, um, like back to back appointment that his colonoscopy date? Good. Like his earliest is [PHI-Personal] in the morning.
+Patient: Ok. That'll be a yeah, so um let me see. Does he
+Nurse: Have be able to? Oh, his colonoscopy. There we go. I have a 7 [PHI-Account] and a [PHI-Geographic]. Ok. On [PHI-Personal] 22nd.
+Patient: Mm [PHI-Account] [PHI-Geographic]. Ok. Ok, let's block us in for that. What day, what day of the week is that o
+Nurse: That will be let me just make sure the date on this is right [PHI-Personal] 22nd. It's a Friday 7 [PHI-Account] and then get [PHI-Personal] in there. Mhm. A follow up right? So that will be 7 [PHI-Account] and [PHI-Geographic] for the both of you you both [PHI-Personal] come in. Um and again that is the that Friday, [PHI-Personal] 22nd. Ok. And then I will go ahead and cancel. I have let's see, let me just refresh it uh patient. Ok, so, ok, looks like that is all saved in there. So um we'll just go ahead and keep those appointments and then um we'll need to schedule for your annual wellness visits. Um, so we [PHI-Personal] do that when you guys check out or you know, we [PHI-Personal] schedule that now if you'd like.
+Patient: Ok. Is, is that the one where they ask us questions? Yeah. Ok. Is that possible to have it done at the same time? Um I
+Nurse: [PHI-Personal] check and see
+Patient: Because usually he they do that when we come in. Mhm.
+Nurse: Well, let's see here. This one that got canceled. Ok. I [PHI-Personal] look if you'd like to look for. Ok, why is it only what's going on here? [PHI-Account] that's there? See if I [PHI-Personal] find, um, might be able to find one that has a little more time available. See, because you both need your, well, your yearly. Yeah. Ok. Let me see what the, um, one of the other girl says, uh, one of the front office girls is a little bit better with like, who knows his schedule time.
+Patient: Yeah. Right. Yeah, because we travel from the East [PHI-Geographic], uh, Colonial [PHI-Geographic] to, to come. So, you know, uh, he usually likes to make everything together, you know. So,
+Nurse: Ok, so I will check on that.
+Patient: Ok.
+Nurse: And then if we [PHI-Personal] do that, um, either myself or one of the other girls will give you a call. Ok. But I at least have the ones canceled and then rescheduled for that date in there.
+Patient: Ok, great. And they [PHI-Personal] just leave a message. I ha have to go out, um, today and [PHI-Personal] is leaving for hunting this morning. So, um, uh, I did wanna say that he is on the Eliquis now instead of the Pradaxa. And we had spoken about that last time. We talked that the, that the heart doctor, um, and he seems to be doing well with that.
+Nurse: Ok. For so is [PHI-Personal] or, um, discontinued,
+Patient: Correct. And um Eliquis is an Pradaxa is like an old, you know, when he first went on when he had his ablation and stuff. Um And so then since then, um the heart doctor said that they have very good um uh results from Eliquis. Um some of the things that [PHI-Personal] happen with Pradaxa, um you know, don't have it with Eliquis and they felt with his history that they could go on with the Eliquis. So um yeah, and I make an appointment for him and um I call in [PHI-Personal] in order to get an appointment so that follow up is, is going to be taken care of, you know, if that's a question from doctor, you know?
+Nurse: Ok. And um do you know how many milligrams he's
+Patient: Taking? Um Eliquis? Yes, just a minute here. Bye. Ok.
+Nurse: Ok, perfect. And is the insurance covering that for you?
+Patient: Uh Well, they gave us a bunch of it's, it covers it somewhat. So I have to find out I still have some um samples but I have to find out from um our pharmacy, you know how much it covers, but so was always expensive, you know, like even with the coverage was like a 100 and some dollars, you know. So um but, and I, oh I know that it's on the formulary for our uh high mark. Um. Ok, perfect. Ok. Well that sounded like I knew what I was saying.
+Nurse: Yeah, because I have some patients who are, like, I don't know that, you know, insurance said to change it to something else, you
+Patient: Know. Yeah. Oh, that's
+Nurse: Too funny. Ok. So there's, um, programs that will help cover the cost of the medication or there's some that, as long as you are within the, the gross income for a year, uh, you may get that prescription for free. So, um, and then I've, you know, just kind of been looking around for other alternatives. So if, um, you run out of samples and it's too costly, let me know and I [PHI-Personal] send you one of those applications.
+Patient: Ok. That sounds great. Um, I am going to, um, you know, talk to the pharmacist and everything and see just what it will cost us, you know, and, or even call, I could basically call, uh, high mark and, you know, find that out. So, um, I'll have that, I'll do it as proactive, you know, so that we [PHI-Personal] have some time. So one other thing that I wanted to know, I, uh, take Citalopram. Mhm. And last time we were in the doctor asked if it was, you know, if I thought I could go off of them and I know that that was in like February or whatever. And I know that time of the year I seem to have a problem with, you know, depression and that because of light and all of that. But I'd really like to try. I'm, I'm down to, um, pill, uh, a number of pills that I know that you, you have to do it gradually or you used to have to do it gradually. So I just wondered what that is. Um, you know, so that I [PHI-Personal] start, um, getting ready for that.
+Nurse: Sure. Sure. And you're still taking the, uh, let's see, 20 mg.
+Patient: Let me just look. I believe that's correct. Just a minute. Yes.
+Nurse: Ok. Ok. So I will ask him because yes, you would have to taper off of it and it's usually like, you know, you're taking your daily dose and then you take half a dose for a couple of days and then you go off of it. Um, you may have like upset stomach, feel kind of dizzy, lightheaded tired like that. So, um, I'm
+Patient: Tired. Yeah, right off of it. Yeah. Yeah. So yeah, I just wanna do it correctly, you know. So if you do that, you [PHI-Personal] also leave that. If I'm not at home, you [PHI-Personal] leave that on and if I have any questions I [PHI-Personal] give you a call.
+Nurse: Sure. Ok. All right, will do.
+Patient: Ok. Thank you very much. Is there anything that you have that I didn't cover?
+Nurse: So I think that was everything I just wanted to, you know, go over medications, but since you're, you know, we're rescheduling that's fine and it doesn't sound like there's any changes and then, um, I will get back to you about um scheduling and see if we [PHI-Personal] just make that your yearly.
+Patient: Ok, sounds great.
+Nurse: Ok, perfect.
+Patient: Ok. Thank you very much. You're
+Nurse: Welcome. Have a great day. Thank you. You too.
+Patient: Mhm. Bye bye bye.

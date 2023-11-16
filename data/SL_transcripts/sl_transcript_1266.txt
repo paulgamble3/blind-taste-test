@@ -1,0 +1,37 @@
+Nurse: Care management. This is how may I help you? Is
+Patient: [PHI-Personal]
+Nurse: Available? She is not, she's not here this week. Can I help you with something?
+Patient: Yeah, this is [PHI-Personal] and I wanna know what doctor appointment gave me. I don't know how many months ago it was because I was having, um, I sweat terrible. Uh, and she gave, she gave me two kinds of pills. I took 11 day and 13 days later and it helped it. Well, I got it again and I don't know what to do about it.
+Nurse: Well, what kind of sweat is it? Is it like, are you having a rash or you? Is it, uh, let me look a, there's a
+Patient: Rash with it. Yeah.
+Nurse: Um, was it for like a yeast infection or something?
+Patient: Yes, it is a yeast. Ok. I think they told me that
+Nurse: Before. Ok, let me see. So is it like your vaginal area?
+Patient: No, no, it's on my boobs under my boob.
+Nurse: Ok. Patient states she, ok. Has a rash under, ok, under
+Patient: Fungal. It looks like fungal. To me. It looks fungal,
+Nurse: It looks fungal. Ok. Right. Uh, it's usually happens. Does it happen more in the summer when it's warm.
+Patient: Oh, yeah,
+Nurse: It looks ok. Let's see what she has to say. I message to [PHI-Personal] as soon as I got, it looks fungal. Um, so there was a time, um, do you remember when that was?
+Patient: No, I just, it was probably a couple months ago.
+Nurse: Ok. Um, let me see if I could look back quick. Um, so she gave you, um, one pill one day and another pill. Mhm. Three days later,
+Patient: Something like that. Yeah,
+Nurse: Later for her sweat. Um, ok, let me just see. Maybe I could, you know, figure that, let me just look at your med list. Maybe I could figure that out when she ordered it on the discontinued medications. Um, so, ok. Ok. So we wanna go back, I'm just seeing if I could. It's usually like, um, oh, ok. Flu fluconazole, maybe fluconazole. 5 28 20. Ok. We're getting better. Fluconazole three. Let's go back to, ok, [PHI-Account]. Let's see what she has to say. Ok, we could just check it out here just to make sure he's been. How are you doing anyway, dear?
+Patient: Oh, I'm doing,
+Nurse: Yeah. You want to probably get this taken care of as the weather is supposed to get really warm and stuff.
+Patient: Oh, yeah. Ok. Then I've got to go down for that test on the 19 to my, my liver doctor and I don't want to go down there with that.
+Nurse: Yeah. Um, I'm just looking back in one of [PHI-Personal] triages just so and [PHI-Personal] was taking care of you when you prescribed this right before. Ok. Rash. Ok. Three. Uh, Rx. Ok. Um, ok. It wasn't like, um, is, is it in your groin or anything?
+Patient: It's down, it has been, that's when I got the medicine the first time for her for it. It was down in where I pulled my underwear off and then they, they wouldn't, you know, in, in, in between my legs and in my, in my stomach. So
+Nurse: Is it still there like that too? No, it's just underneath your breast. Mhm. Ok. Just definitely make sure you're keeping the areas clean and dry obviously. Um
+Patient: So I just, I just sweat. Terrible.
+Nurse: Do they? Ok. Um, well, just, just the season here. I'm just seeing if there was anything. Um, let's see what she says. Um because I don't know where this. Oh, ok. Let's see. Ok, maybe I found this. I know there was Diflucan but that was when you had a vaginal yeast infection. So she might prescribe you some kind of it was after that. Ok. Well, let's see. Um, ok, but you don't have anything in your groin area. Um No yeast infection, no itching or anything, no infection. Um itching or rash in her groin area. Ok. All right. Well, I'll definitely get back to you. No fever or anything. No. Ok. Denies any fever. Yeah. [PHI-Personal] out. Um, this week. She's ok though, but I'm just filling in for, um, and stuff, everything. Um, sometimes when the, when the rash gets uncovered, like, is it itchy underneath your breast too, or? No? No, no itching? Ok. Um, it's just a rash then. Maybe she could figure out what she think. Ok. Irritation then. Right. No itching. No blisters. No. No. Ok. Um, ok. Let's see what she says. Um, like I said, if you do end up with like a fever or anything, um, let us know. Ok. Mhm. Ok. All right. Uh, let me see if there's anything else I have to ask you nail that. Ok. Anything like, is it like a pimple, like bump or?
+Patient: No? No, it's smooth.
+Nurse: It's a smooth, but it's just a lot of the rash is smooth. Mhm. Ok. Um, I'll tell you, told me it looks, um, fungal rash is smooth. Ok. Um, and no open areas, right? Ok. All right. Right there. Well, let me send her a message right now. Um, what's your, um, [PHI-Personal]?
+Patient: I would have to go to the [PHI-Personal] and on, uh, street because we haven't been going to Walmart because he just, we just don't like to go there anymore.
+Nurse: It's too hard to get there. Ok. Ok. And so it's [PHI-Personal] on [PHI-Personal], you said?
+Patient: No, no. Um, [PHI-Personal].
+Nurse: I believe you just said that. Sorry. [PHI-Geographic]. Ok. I got it for you. Um, So um. Ok. Ok um let me send a message right now to [PHI-Personal]. Ok. Mhm. Right. I'll get back to you as soon as they get back to me. Ok,
+Patient: Thank you. You're
+Nurse: Welcome anything else I could do for you?
+Patient: No.
+Nurse: Alright I'll talk to you soon then. Alright bye dear.

@@ -1,0 +1,36 @@
+Nurse: Hello, this is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal]. You left me a message about some new program. Yes,
+Nurse: [PHI-Personal], how are you
+Patient: Today? I'm ok.
+Nurse: Good. Give me one quick second. Just to pull up your profile here. Just closed it.
+Patient: Oh, did you just call?
+Nurse: Yeah, I just called, uh, about five minutes ago.
+Patient: Oh, see, I'm just getting off the pickle ball court. Got you got, you got you. Look at my messages.
+Nurse: Awesome. Yeah, I just wanna, uh, just let you know this call is being recorded for quality purposes. Ok. Uh huh. Uh, and the reason for the call today is Doctor [PHI-Personal] actually has a new care management program which he is providing for you. Basically, all it is is just a call from a dedicated nurse to help answer any questions, refill prescriptions, chat about previous or future visits, discuss any new issues going on and things of that nature. This is a program you which you were qualified for which allows you to maintain peak health by having this nurse contact. You. All of these calls are documented and sent to Doctor [PHI-Personal] for review and are, uh, treated as billable services to [PHI-Personal]. [PHI-Personal] Advantage plans and secondary insurance carriers and may be subject to deductibles. Your $20 copay and coinsurance [PHI-Personal]. Is there a time of day that works best for the nurse to give you a call morning or afternoon?
+Patient: Ok. Well, before I answer that, let me understand this. So if they call me, I, I assume you have me on uh, speaker phone because I'm echoing my voice here. Uh
+Nurse: No, you're, I'm, I'm just talking directly with the hard line. You.
+Patient: That's weird. Ok. So if this nurse calls me, you bill [PHI-Personal] and I pay a
+Nurse: Copay. Yes. So if you have a copay, when you see the doctor in the office, you would also have a co pay for this program. And I see on the [PHI-Personal] [PHI-Personal]. Is that correct? You have the [PHI-Personal]? Yeah, there's a $20 PC P copay. So uh when, when the nurse calls you, if there's a uh what's called a billable service, you would have to pay that copay as well?
+Patient: Ok. So is this to decrease doctor's visits in the, in the actual hard copy office or what? So that point, this
+Nurse: Does not replace your visits with doctor in the slightest, this is just an extra resource for you to have but also allows him to stay more up to date with everything going on with yourself. So, should anything happen? This nurse, like I said, it's just an extra resource now, if it's the copay, that's the issue, what we can also do is change the frequency of that phone call. So you get called less. Therefore, build less. Does that make sense?
+Patient: Yeah. How often do they know? Is the normal
+Nurse: Schedule? Normally it's around once a month. But a lot of people who have, uh, have questions about the copay don't wanna pay, they opt to go for the, uh, the once every three months phone
+Patient: Call. Ok. And what makes someone eligible? I assume being on [PHI-Personal],
+Nurse: [PHI-Personal] is one of them. They have to have a certain uh list of uh medical diagnoses, like simple stuff, like high BP. Any, anything like that. Uh insomnia is one of them uh bunch of other random stuff. You have to have seen your uh your doctor within the last year. Um All of that kind of stuff.
+Patient: Ok. Um The reason I'm asking all these questions is I work at [PHI-Geographic] and I'm a pharmacist. Ok. So I'm just not sure unless it was like an emergency or my cancer reoccurs, I think I kinda know what's, what's going on.
+Nurse: Yeah. And doctor totally has that under like um understood, he totally gets it. Like I said, he just wants to provide this for all of his patients regardless as an extra resource.
+Patient: Ok. Well, I come in and see him twice a year. I think
+Nurse: It looks like it looks like your next appointment. Is [PHI-Personal]. Right.
+Patient: So, and I was there in like [PHI-Personal]. So maybe when we set it up that in between those two visits they call me twice a year. Absolutely. I can do that. And why don't while I have you on the phone, my husband's there this morning and maybe if you're gonna talk to him and set it up the same way for him.
+Nurse: Give me one quick second.
+Patient: Yeah. His name is [PHI-Personal] because he's just not as much of a pain in the neck yet as I am and he'll agree to monthly phone calls. Oh,
+Nurse: If his chart would load, I would abso there we go. Ok. Just gotta make sure he qualifies really quick and it looks like it looks like he does.
+Patient: I saw you on our ring [PHI-Personal], bringing my dog back. Hold on one sec. I was out of town first. It was you the next day it was [PHI-Personal]. So he's out there waiting to get picked up to go out with the guys and I'm talking to him through the ring [PHI-Personal]. I'm like, you need to pay more attention. The dogs are all over the neighborhood and he's like this. Sorry, not a problem. Did you, did you get his chart?
+Nurse: Yep. I got it right in front of me. I will schedule him for a phone call as well.
+Patient: Yeah, because I think he's every six months too.
+Nurse: Ok. Got you. So we're gonna do you for every six months and to do him once a month. Is that correct?
+Patient: No. So every six months for him, every six months. Ok. Got you. And as we get older and we get more feeble and idiotic then we can increase that.
+Nurse: I thought idiotic. It happened when you were younger like myself, but
+Patient: That's the thought. Oh no, no. It circles, it circles around, I guess it, I guess it's called Dementia. Got you
+Nurse: Got you got you. Ok. Awesome. Well [PHI-Personal] just wanna confirm a couple more pieces of information here really quick. Uh I do wanna mail you some paperwork about the pro I just kind of making sure I just uh explaining everything in more detail. I have the address here for both of you at uh [PHI-Geographic]. Is that correct? Correct? Ok, great. And you guys both do still have the uh the [PHI-Personal] [PHI-Personal]? Yes, I'm under him. Fantastic. Awesome. Well [PHI-Personal], thank you so much for your time. I greatly appreciate it. Hope you have a great rest of your day.
+Patient: Alright, thanks. You have a good day too. Bye.

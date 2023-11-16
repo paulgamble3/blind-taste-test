@@ -1,0 +1,14 @@
+Nurse: This is free. Hello? Hi, this is [PHI-Personal]. May I speak with [PHI-Personal] please?
+Patient: [PHI-Personal]? Um, she is with enrollment. Give me just a second. Did she call you?
+Nurse: Not today? Not today, but I wanna speak with her.
+Patient: Ok. Um about the en enrollment in this program?
+Nurse: No, I'm already in that damn program.
+Patient: Ok. Um Give me just one second. Would you like to be unenrolled?
+Nurse: I like to be what unenrolled. No, I just would like to speak with [PHI-Personal].
+Patient: Ok, let me see here. Uh try to send you over. Ok. So um we just got a new phone system so um I'm gonna try to transfer you over. Um, but if she doesn't answer or if you get cut off, don't worry, I'm gonna send her a message also. Um, like a text message through our uh messaging system to let her know that you called and you'd like to speak with her. Ok. Um I'm gonna give this,
+Nurse: They just got a new phone system. Hello?
+Patient: Hi. I wasn't able to, I wasn't able to reach back up but I'm gonna send her a message and I'll have her call you back as soon. As I as soon as she gets a minute. Ok
+Nurse: It's it's not an emergency I just wanna talk to her.
+Patient: Ok I will let her know. Ok.
+Nurse: Ok.
+Patient: Alright thank you bye bye.

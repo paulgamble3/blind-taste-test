@@ -1,0 +1,64 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, it's [PHI-Personal].
+Nurse: Hi, [PHI-Personal]. How's it going?
+Patient: Pretty good. Sorry, I'm
+Nurse: Good. That's ok. It's no big deal. Um, I just wanted to, I have to update everyone's care plan, so I just wanted to check in with you before I do that because I send out a letter. So I just wanna make sure your insurance didn't change or, uh, address. I have [PHI-Geographic].
+Patient: Yeah. Nothing, nothing has changed. Good. And we're, and we're still in [PHI-Geographic]. So, yeah.
+Nurse: How's the weather? Did it warm up? A little bit
+Patient: Cold? Yeah. Well, it's still cool but it's, it's a lot, it's warmer than where, you know, where you are. Probably.
+Nurse: Yeah. Oh, for sure. I hope so. Yeah.
+Patient: Well, it was down, I mean, we had a pretty nasty ice storm, uh, the end of last week and, uh, I'll tell you, I, I don't think I've ever seen as much ice on a car. Oh, my gosh. Uh, they just don't have the snow, you know, it's, you know, you get, you get down south of Caroli, you know, south of the Carolinas and kind of draw the line across the country they get more ice than they get ice.
+Nurse: Yeah, for sure. And that's, that's worst to deal with. I think. So. Was everything closed today or? I know school
+Patient: They, all they have to do is think about it and they close, you know
+Nurse: What my husband says? He's, he got stuck in, uh, I think it was [PHI-Geographic] one time because of like a half an inch of snow, You know? And I know, uh, my cousin's kids, you know, they're in North Carolina and same thing, uh, they were off for an entire week of school because they do it through the, they do it by county. So if, if one side of the county has a half an inch of snow then, you know, the whole county has to close down. They were closed for a week, you know. Yeah. So, kind of crazy. Um, any changes with your health? Any, no,
+Patient: Everything right now is, is fine. And I actually don't, I guess I see Doctor [PHI-Personal] in the middle of [PHI-Personal] or maybe the end of [PHI-Personal].
+Nurse: Let me see. End of [PHI-Personal]. It looks like the [PHI-Personal]. Yeah. Ok. Um, and no changes with medications. Right.
+Patient: No, no medication changes. No changes at all.
+Nurse: Do you need anything refilled?
+Patient: Uh, not right now. Um, ok. I, and I don't, I don't really know. I just kinda, I do my meds, you know, for my daily doses, like three weeks at a time and I just did them yesterday and I don't need anything and I won't need anything until after I get, you know, probably after the next three weeks. So I figured the only thing that he normally renews for me is the, uh, uh, I say, well, [PHI-Personal], but it seems to developed to be just NIACIN. But, uh, yeah, so those, uh, those two are the NIACIN, I think I've got plenty of the OK sin, it's fine because I only take, I get, I don't even know how I got. I, I probably got a dozen or two about a dozen uh pills, but I only take half a pill. So. Oh,
+Nurse: Ok. All right
+Patient: One because I get them through the va and, and they only have 40 mg and I take a 20 mg dose.
+Nurse: Oh yeah, he does have that down. So. Right. I see that. Um So let me see. So your appointment. So when are you coming? You're coming before coming home before that. Yeah,
+Patient: I'll be right now. Our plan is to be home the first. Yeah. Uh [PHI-Personal]. But uh somebody told us I, I, you can't get in our driveway at all because the community they plow it and like any, any snow plows they plow across your driveway.
+Nurse: Lovely.
+Patient: Yeah, that's now, now it's solid ice. So thank you. Right. So we'll need a little, we'll need a little warmth to either a good rain. Storm or, or, or, or some warm warmth or something like that to get. Uh, so, you know, I won't be in a rush but I, I won't bother it so I just have to work at it a little bit to get in.
+Nurse: Right. We, well, my driveway is a sheet of ice. You could slide down it. Um,
+Patient: Kind of,
+Nurse: Yeah. Well, yesterday it was sunny and so I think things, you know, kind of melted and then of course, it got down to, I don't know, [PHI-Personal] or something last night it was so cold and of course, then it froze back up. So now it's even worse. You have
+Patient: A, you have a paved driveway.
+Nurse: No, it's long. So we, it's stone. We, it's stone. And so when my husband plows it, he doesn't, he doesn't skim it real low because he doesn't wanna pick up the stones. Yeah. So it's,
+Patient: Otherwise he'll, he'll spend the winter pushing the stone down the driveway and in the
+Nurse: Summer and then spend the summer getting him back in the driveway. Yes, it's, it has happened and that's why he plows it himself.
+Patient: I did that for a lot of years because our driveway is, uh, downhill and, uh, now it's black it and as long as I get out and get it shoveled right away, you know, the sun, even if it's freezing the sun, you know, melts it. You know, it, it, from that standpoint, the pavement is great. Right.
+Nurse: I know we've actually talked, we just built a garage, uh, like a bigger garage. And, uh, we've talked about paving at least, you know, part of it in front of it because it's too long to wanna spend the money to pave the whole darn thing. But we've talked about that. At least that would be, you know, a nicer situation. So, I don't know, we'll see either that or we just moved south. I'm ok with that too. We'll see you
+Patient: Then, then you have to decide. I mean, like down here, you know, come, come [PHI-Personal], you start having, you know, 90 plus degree days and, uh, see
+Nurse: There's, there's the whole hang up. I'm ok with that and he's not.
+Patient: Oh. Right. Yeah. Yeah. My wife doesn't want to have any part of that. I mean, that's why we're here
+Nurse: Now. Yeah. Right. Well, I'm, I'm ok with that. I haven't talked him into it and my parents now are living part of the year in [PHI-Geographic] and of course, you know, my mom's sending me houses and stuff like that. I said that's, it's not happening. At least I haven't talked him into it yet. So we'll see. Well, a
+Patient: Lot of our friends do, you know, do that, you know, snowbirds that come back and forth. Yeah.
+Nurse: Right. And I'd be ok with that. I, it's nice here in the summer we have a pond. We got a lot of land you know, we've, we've dug and chicken, you know, he, he has a garden, you know, stuff like that. But I just, I can't stand the winter and the older I get, the more I hate it, I just have no tolerance for it anymore. But I have to say I at home and I can't, I can't complain now.
+Patient: Yeah. Well, that's, that's the tough part. As a couple you can't, you know, one's willing to go. See. I, I think, I don't think either one of us really wanna go. My wife's talking about, you know. Well, we should move. So we're somewhere between the kids. I said we got one lives in [PHI-Geographic] DC and the other two and their families live in, uh, in [PHI-Geographic]. I said, oh, it doesn't matter. They, they, it's not like they can drive over for dinner in the evening.
+Nurse: That's true. You know. So. Oh, yeah, I'm already in a panic about that. How that's gonna roll because I have two daughters and I'm always thinking, oh, my gosh. What I, and I'll even say to my husband what's gonna happen if they don't end up near each other. I don't know what I'll do. No one's [PHI-Personal] and one's 9, 19. And I'm already in a, you know, in a panic about that. I said, please just go south.
+Patient: I, you're in trouble the first. It's tough to follow them because they move. Originally. We had our, our, one son that's in [PHI-Geographic], lived in [PHI-Geographic]. Oh, he was, he, he was, you know, 250 miles away, or 270 miles away. And the other one lived in [PHI-Geographic] DC. He was 270 miles away. And my daughter lived in Morrisville, Pennsylvania. Um, and it was great. Well, she decides to move to [PHI-Geographic] and then the other one in [PHI-Geographic] decides to move to [PHI-Geographic]. And so I said to, I said, so you're gonna move down there and they're gonna move somewhere else.
+Nurse: Right. Ok. So that's the, that's the thing. You gotta make sure they're set on staying where they're going before you follow. Right.
+Patient: Well, the only thing is what we look at, like she said, and I said, then the other problem is whichever one you move closest to, you're kind of telling them they're gonna have to take care of you when you turn [PHI-Personal]. Right. Right. And, and I said that you can't do that. I mean, we've got a good community, we've got a lot of friends, you know, it's, you know, we don't have problems here, you know. And, you know, it's so, ah, so it's, it's just, it, there's never a good answer.
+Nurse: Yeah. No, there really is.
+Patient: My son in [PHI-Geographic] DC. His wife and her whole family is in [PHI-Geographic] just north of San [PHI-Geographic]. So, you know, if they moved anywhere, they probably, that's probably where they'd move
+Nurse: Yeah.
+Patient: Right. I said, then what good is that? We moved to [PHI-Geographic]. So, you, to them
+Nurse: And then, uh, you can make you move to [PHI-Geographic]. You better off just selling and getting a camper.
+Patient: Well, that, that's, well, I, we talked about that too. Just get, you know. Right. Uh, but now you got, you go to all these places with homeowners associations. You can't park camper in the drive. Well, you can't park in the street. You can true
+Nurse: That. It is true.
+Patient: Yeah. So, then you, you go, you can't even, you gotta find a campground that you can go to or, uh, right. Or a storage and, you know, move in with them and put the trailer in, in storage or
+Nurse: The store. Yeah. What a mess. So, it,
+Patient: It really, it, it's just, it was the old days when families didn't move more than a, you know, it stayed in the same county, you know. Yeah. Uh.
+Nurse: Right. It does make a difference. Yeah, for sure. Yeah. That's, I, I wish the only thing is here.
+Patient: Once your daughters get old enough to start having Children, then it makes it a little tougher for them to move too because, you know, like, your daughters probably wouldn't be real happy with you if you said, oh, we're all moving to [PHI-Geographic] tomorrow.
+Nurse: Oh, well. Right. Well, my husband happened to lose his job after 20 years. Um, last spring he was gonna get, um, you know, they, they outsourced the IT department where he worked for 20 years to India to that Mahindra company. And so in finding a new job, one of the places he almost took a job was up MC and it was, wasn't in, you know, that's [PHI-Geographic] Medical [PHI-Geographic], but it was a branch that was in [PHI-Geographic]. So we had to go down and look and it was like, well, you know, he, he needs a job so this might have to happen. And my, my daughter that's in 10th grade was like, are you kidding me? So, um, you know, it ended up that he, it ended up that he took a job,
+Patient: That remote whole conversation.
+Nurse: Oh, exactly. That's exactly. I am not going, I will stay here. I, I'll move in with my boyfriend's family. Oh, no, you won't.
+Patient: Yeah, she'll go to and, and then she'll go away to school, you know, when she graduates she'll go away to school and then she won't even look back and say, well, is it alright if I move to this state, she said go wherever she wants to go.
+Nurse: Right. Right. So he didn't end up taking that one. He's doing a remote job, which is great. So he's actually in [PHI-Geographic] DC this week, uh, has been sending me pictures today of him outside of the White House and, you know, I guess he wasn't, wasn't too busy today. I don't know. So
+Patient: I have to go I have to go.
+Nurse: Yes it was good to talk to you let me know if there's anything I can do for you. Alright take care. Bye bye
+Patient: Bye.

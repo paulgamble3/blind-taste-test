@@ -1,0 +1,40 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help
+Patient: You? Hi, [PHI-Personal]. It's [PHI-Personal]. And how you doing? I'm good. How
+Nurse: Are you?
+Patient: Ok. Um, I'm the [PHI-Personal], I'm supposed to have another EMG and I, I don't have their number because I'm gonna cancel it. Ok. Um, I don't know if you have their number. I left a message for them because it's, I don't know, it just kept on saying you've got the maximum hold line or something. Let's see
+Nurse: Here.
+Patient: And then, uh, should I call Fancy or, or will you call them because they have to be notified that it's being canceled?
+Nurse: Yeah, I can definitely can, um, cancel that for you. No problem.
+Patient: Can you cancel the appointment for me too. So I, I mean, I left a message for him. Let's see
+Nurse: Here BN A Transportation and answered Vascular. I'm sorry, I'm trying to look for it up MC and [PHI-Personal]. Right.
+Patient: Yeah, and I have it written down on my calendar. Um, uh, heart something. I don't know why, why it would be under that. I say
+Nurse: I, I do have like the one appointment on the [PHI-Personal] is the G I specialist and the other one is the cardiovascular appointment on the [PHI-Personal].
+Patient: Yeah. Why is it under cardiovascular one? It's, they're gonna just be doing GG in my arm.
+Nurse: That is a good question. And I don't know,
+Patient: An EMG, that's what that is. Right. That's what it's called. That's when they shocked me before, to curb in my arm. Yeah.
+Nurse: I mean, it usually will reveal like what kind of nerve dysfunction you might have. Um,
+Patient: And there's, there's nothing you can do about it though. Um, because, well, I already told you I was looking into doing something about it because, you know, my hand constantly hurts and aches and is numb. And, uh, the attorney from [PHI-Geographic], he, he did get back to me and he said that it's indicating that I have carpal tunnel in there and instead of saying hand in, you know, handing our as and he just said it due to other things, you know, that or fibromyalgia or whatever. So, basically there was no, there was no case. So I see no point because he said you can stretch muscles, other things, tendons stuff. But when you stretch nerves or you do something to the nerve, there is nothing you can do. So, what's the point of me going and getting shocked? Um, you know what I mean?
+Nurse: I get where you're coming from.
+Patient: I mean, there's, there's no point. It's still the same. I, I can, I know the feeling. I mean, like when I really work or I'm pounding when I'm using my arm. Of course, the hand gets real, real numb. I don't know. I'm hoping that I start using my weights, you know, like doing a butterfly thing, you know, come on up and down from your chest might help it. I don't know. And also I found out I've got to have this freaking bag on for another nine months until [PHI-Personal]. Oh, yeah,
+Nurse: We were hoping for, you know.
+Patient: Yeah, he said shorter amount of time, you know, he said um, there's swelling in there. You, you don't wanna go back in there too soon because you can end up with leaks. Uh, and you know, he just said that so. Ok, you know, I'm not gonna take any chances. I just deal with it when I'm mowing the lawn. You know, I'll put my back brace over it so it's not jo jo one around. Yeah.
+Nurse: Ok. I'm afraid, I mean, I'll call and see if I could cancel it.
+Patient: Yeah, because I don't wanna just, you know, not inform them that, you know, I'm not gonna be there.
+Nurse: Yeah. The only one because I don't have the phone number for them. I'm looking for it. I can't find it. Oh,
+Patient: I don't either. I, I, that's what I was like, wait a minute. How come I don't have a phone number of these guys?
+Nurse: I mean, I'm wondering if maybe they wanted to, like, I'm nervous about the, if it was a cardiovascular appointment. I mean, even though they're doing the EMG, um, I wanna make sure that there wasn't like something that they, you know, that you had during your hospital stay that they wanted you to get a follow up with the cardiologist.
+Patient: Oh, I don't know. Nobody said anything about my heart or anything. This was just, he just doctor [PHI-Personal] just said the last time I saw him that, uh, you need to have another emg done, you know, to see what the nerves are doing. You know, that, that's what he said. Yeah, because he just flatly told me, he says, you know, by this time it's not going to change your hand's gonna be numb.
+Nurse: Gen just dietitian. I don't need that.
+Patient: I don't know. Uh, maybe I shouldn't, I don't know if they're saying carpal tunnel, maybe, I don't know. Maybe I, I don't think it's from in my wrist. It's carpal tunnel because when the, the, he said he's a doctor at the attorney's office and he said, like under your arm pit because when I rub my peck muscle, so I went under there a little bit further and I could feel that in my hand more and it did seem to help it. So, just like the doctor that did the, the nerve testing, he said it's right where the incision is and that's right in line where I'm rubbing and I can feel it down in my hand because, I mean, ok, if I've had carpal tunnel all these years, then how come my hand had, wasn't this bad? Yeah. You know, but the attorney's office said he, he just said that, that they're just gonna throw that at us. You know? And he really did sound like he was, you know, knew what he was talking about.
+Nurse: Conduction study. Well, I will see if I can, I'll see if I can call first. I,
+Patient: I left an appointment with Doctor [PHI-Personal] office for them to call me. So then they get back to me before the [PHI-Personal]. You know, hopefully I can ask them. Exactly. Is this just to, to check the nerves again? Mhm. And if it is like that, that to at the attorney's office, he said there's nothing you can do with nerves once they're damaged. So, I don't know. I left a message with their office. So,
+Nurse: All right then, um, I will then call up.
+Patient: I, I guess I'll just leave it at that right now and let them get back to me. Um, not gonna, you know, it was Tuesday. Yeah, it's next Monday.
+Nurse: Let me know if they don't call you back by Thursday.
+Patient: Ok.
+Nurse: And meanwhile I'll call them too and just double check and see what they plan on doing on the [PHI-Personal]. Um, and just let them know that your concern is that, you know, you're gonna get this nerve conduction study that's not gonna tell you anything that you don't already know
+Patient: Right
+Nurse: Out. Right. T Alrighty. Um I will call you back um either when I get a hold of the heart and vascular institute or um if you hear back from them sooner, give me a call.
+Patient: Ok? Alright. Alright. Well, thanks for your time. Oh,
+Nurse: You're welcome. All right, I'll talk to you later.
+Patient: Ok? Bye bye bye.

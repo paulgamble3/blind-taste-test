@@ -1,0 +1,29 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: Yeah, [PHI-Personal], this is,
+Nurse: Hey, [PHI-Personal], how are you?
+Patient: Oh, I'm fine. Now. I just want to bring you up to date on everything. My daughter called, uh, was over here the other night, she called [PHI-Personal] to check on how things was there. They said everything was fine. Uh, everything had been paid but they hadn't received anything for first of [PHI-Personal]. So yesterday he called the billing department. I don't know who she talked to but by giving, uh, her, you know, uh, power of attorney and everything for me and that they talked to her and they found out that it was the doctor's fault. Now, I don't know if that's doctor [PHI-Personal] or not, but he didn't, uh, put it in as insurance, he put it in as patient. So that's why I got a bill. So they're, they were going to resend it and I just want to let you know in case you come up against something like this again. Where's the first place to look at for who put the, you know, sending the, uh, papers to Pro Medica?
+Nurse: Wonderful. I appreciate that. So much. Yeah. Like I said, when I talked to them, they just kept saying that it lapsed and that's all that they would tell me. And I was like, you have to have something more to give me.
+Patient: And I don't think that's right because you are in the medical profession and they should talk to you, I feel. But I just, uh, I told my daughter, I said, I'm gonna call, carry in the morning, bring her up to date, tell her what's happened and everything and give her a heads up in case and we hope you never run into it again.
+Nurse: Oh, yes. And I appreciate that so much. Thank you so much for calling and sharing this with me
+Patient: And so as far as we know everything is ok? Ok.
+Nurse: Very good. Oh, that's such a relief. I'm so happy to hear that. Thank you so much.
+Patient: But would that have been doctor [PHI-Personal] that put that in like that or not? Or would that have been another doctor in the office? I
+Nurse: Honestly do not know who puts that in. Um, but I will see if I can find out answers on that.
+Patient: Well, I figure when I see him on in [PHI-Personal], I'm gonna have a little fun with him. See if, see if he says anything and if not, I'm gonna look at him and say, did you really wanna give me a heart attack? Oh, I could, I wouldn't be able to resist it. I, you know, but I'll explain things and that. But, uh, I was pretty well, uh, messed up as, you know.
+Nurse: Yeah. I, and like I said, I felt so bad when I was trying to get as much information as I could beforehand and I was just hitting all these dead ends and I was like, oh, I'm at the point I can't find anything else out. So I was, I was trying so much before I relayed that information just to find more information because I knew it wasn't good to hear.
+Patient: I knew you was and you can let your manager know too what, what had happened.
+Nurse: I definitely am. I'm gonna pass it along when we get off the phone, I'm gonna get in touch with her and let her know.
+Patient: And uh, but that's what they told my daughter that it was uh a doctor that had pressed the wrong button or whatever and they were going to submit the papers again. So I hope that everything goes through. So we don't have to go through again.
+Nurse: Yes. Well, I am so glad there's an answer and there's a resolution and things will move forward. Hopefully without a hitch.
+Patient: I do. Yeah, I feel so much better on that. But my daughter, she said mom, if anything happens again, whatever it is, don't hesitate to let me know. So I kind of got chewed up from her a little bit, but she was very tic about it and I told her why I hadn't told her, you know, and I, because I said, I figure you had enough stress on you working like you do and everything. And she says, hey, you're kind of stress I can handle.
+Nurse: Mm. Well, you know, as daughters, we're kind of like that with our moms too. Try to try to help and try to make things work. So,
+Patient: Yeah, but I told her I says no if anything happens again, whatever it be I'll let you know
+Nurse: I will for now on I promise.
+Patient: Yeah I said and I don't know, I think she believes me but it'll take some uh thinking on my part as to what's what and what the episode might be but no, well you never pardon me?
+Nurse: I was just say well you have her to to utilize and you know she would like you to so I understand wanting to kind of think about it but you've got her and that's wonderful.
+Patient: Yeah. Ok, [PHI-Personal], I won't keep you anymore. I just wanted to let you know I
+Nurse: Appreciate it so much. I'm gonna pass this information along right now so I thank you so so much for calling and letting me know. Alrighty. Alright, have a good day. You too and have a great rest of the week and a wonderful weekend.
+Patient: Well we're gonna try. Oh
+Nurse: Good. All right bye
+Patient: Bye [PHI-Personal]. Ok, I'll talk to you. Next month. Ok,
+Nurse: Sounds good. Alrighty bye.

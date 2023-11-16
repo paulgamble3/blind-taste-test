@@ -1,0 +1,34 @@
+Nurse: Good morning. This is [PHI-Personal]. Yeah. Who's this? This is [PHI-Personal]
+Patient: [PHI-Personal]. This is [PHI-Personal] speaking. Hey, [PHI-Personal],
+Nurse: How you doing?
+Patient: I'm well, we're doing ok. How you go? Um, big question. Sure. What that vitamin D or vitamin B, uh,
+Nurse: D? Let me double check just to be safe. I'm pretty sure it was vitamin D. Yes. Vitamin D.
+Patient: All right. Oh, I, I'm gonna finally go and get some. Ok.
+Nurse: I thought, were you buying some online? Is that what, what it was?
+Patient: The what? No, ma'am.
+Nurse: I think you were trying to buy some online. You couldn't find any.
+Patient: No, I didn't. I, I gave that up. Ok. Got you. Got you because I didn't know, I didn't know it was 2024 mg for 1000. Uh, it, it was, it was confusing.
+Nurse: Got you. Yeah, it would be easier if you want the pharmacy Walmart, they'll all have it and it should say 1000 units. Ok. If you get there and it's overwhelming or confusing, usually the pharmacy will help you. They'll point out the right one for you.
+Patient: Ok. Ok. And then it's vitamin D, right?
+Nurse: Vitamin D. Yep, D as in dog.
+Patient: Yeah. Or ted
+Nurse: Everything else doing.
+Patient: Uh, I know my legs are just literally giving out. I just, like, I, I, when I get up out of a chair or something, I feel like I'm drunk.
+Nurse: Got you. Are you getting dizzy?
+Patient: Not [PHI-Personal]? But I juggle all over the place. Like, I don't know what it is.
+Nurse: Ok. Um, I know you were trying to follow up with the endocrinologist. Did you ever end up going the diabetes doctor?
+Patient: Uh, uh, the [PHI-Personal]? When, when in Wednesday? [PHI-Personal]? Oh, of
+Nurse: This month? Oh, yeah, you're right. Yeah,
+Patient: That's next, next Tuesday. No, it's running in, in between my, uh, what you want to call it the, the level. Yes, it's running around 1 20 to 1 40. That's good. And I ain't taking the medicine and no Metformin. Ok. So,
+Nurse: Have you felt any better after stopping the Metformin?
+Patient: I feel I have more
+Nurse: Energy, more energy. Ok.
+Patient: Or let's put it this way. I wanna do things but I can't do things. Got
+Nurse: You. Right. Um, I guess what we'll do is, um, yeah, pick up that vitamin D, we'll wait and see what the endocrinologist says. Um, in regards to the medication, um, I really have no idea if there was a Metformin causing that or if it's just a combination of things. But, um, you've done physical therapy, you've done all of that, right?
+Patient: I, I've done the therapy already but I don't know if that's gonna help or not. I, you know, the strength in my legs. I don't know. I really don't. Ok. I'm so confused right now. I, you know, I don't know in what to do. Got you
+Nurse: Got you, we'll wait and see what they say. Um, and we'll go from there, I'll wait for their notes next week. Usually I get them sometime the same day after you go to the doctors. so we'll take a look and see what they find um and we'll go from there and I'll see what I can do to help you with that
+Patient: And see what I can you said this is uh and strengthen my muscle. That's yeah.
+Nurse: Do you feel like you're getting enough enough protein in your diet? No I
+Patient: I'm a meat eater I guess I I guarantee I guarantee you I get enough of that but alright. Alright but anyhow I guess that's what brought the the sides of it so.
+Nurse: Ok well we'll wait. Alright you call me if you need anything else call I'll be here. Ok. Alright you you're welcome bye. No
+Patient: Problem bye bye.

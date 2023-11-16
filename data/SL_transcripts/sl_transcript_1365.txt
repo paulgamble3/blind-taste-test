@@ -1,0 +1,24 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help
+Patient: You? Hi, this is [PHI-Personal]. Hey, [PHI-Personal]. Hi. Uh CV S just called and said they can't fill my script until [PHI-Personal] giving me a hard time about it. I don't know, they just, I don't know if somebody called it in. I did. He.
+Nurse: Yeah. So, did you talk to a person? You was the automatic one that called you
+Patient: Automatic thing. I have the worst time getting through
+Nurse: Right now. Ignore the automatic guy because I talked to the pharmacist there. The earliest they can refill the 90 day prescription is [PHI-Personal] the [PHI-Personal]. So he tried to push it through and it wouldn't work. So, what happened?
+Patient: Yes,
+Nurse: They're sent, they have, um, the metoprolol. He has it actually there right now. He has enough to carry you through until the [PHI-Personal]. Um, the only thing is that it's, um, it's a different price and he did not quote me on the price, um, because it's a discount, like he's using a discount for the, um, for the medication. So, like you're not paying full price for metoprolol. But let me see here.
+Patient: Well, my insurance always covers it. I don't normally pay anything.
+Nurse: Ok. Yeah, it's not gonna, it's not gonna be, if there's gonna be a charge. Um, let me see. Um, how much
+Patient: Is it? I've already got the headache because I haven't taken any.
+Nurse: Yeah, you're looking at like he's probably gonna charge you. Let's see. Loading coupon because she's probably gonna use the same one that I have.
+Patient: What's,
+Nurse: It's gonna be less than $10?
+Patient: Oh, that would be great. Yeah, so I can go there and get it. Yeah. Why they have that automatic thing? If they're doing something else they shouldn't. Oh,
+Nurse: I got aggravated with it because they, I originally the one that I use like the, the prompt that I hit it, it usually will take me to a pharmacist. And now it says like this phone line is no longer working so like you can't even talk to a person. So I had to use the back route and say I was uh you know, a provider like I was the doctor and that's how I got a hold of somebody which is, you know, sad that I had to do that. But yeah, it's there, there's only gonna be enough to be like there's, he's gonna send in enough to get to the [PHI-Personal] and then on the [PHI-Personal] he'll refill it for 90 days and then it won't cost you anything for
+Patient: That. Ok, great. Thank you. That'll work fine. Thank you. Yeah,
+Nurse: You got it. You got it. And, yeah, ignore those stupid automatic things.
+Patient: They make me so angry.
+Nurse: Oh, my goodness. I have [PHI-Personal] Aid and it calls me all the time telling me to pick up my prescriptions when they're not due. I get, like, I, but I just picked this up. Yeah. Don't
+Patient: Fill it. I just go back to talking to people. I hate these machines. I
+Nurse: Know. I know. And you would think more people are working from home. Can't there be somebody like just on the phone with you just giving you a call? Come on.
+Patient: Ok, thank you a little.
+Nurse: Yeah, no problem, no problem I'll call you with the rest of it. Ok? Thank you.
+Patient: You're welcome. Alright bye bye. Alright bye.

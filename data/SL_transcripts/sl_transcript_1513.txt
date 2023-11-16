@@ -1,0 +1,86 @@
+Nurse: This is
+Patient: [PHI-Personal]. I'm looking for [PHI-Personal].
+Nurse: He is off today. I'm the one that just called you.
+Patient: Oh, ok. It's [PHI-Personal]. Yep.
+Nurse: Yes. I, yeah, she's, I'm covering for her. So I just was calling to check and see how you're doing.
+Patient: I'm doing pretty good. Um, trying to do things by myself again. Ok. Running my vacuum, working on my cards, putting jigsaw puzzle together, playing games on the computer, working in a puzzle book and baked a cake.
+Nurse: My goodness.
+Patient: That's a lot. I'm busy. It
+Nurse: Sounds like it. Yeah. So I was looking over your last doctor's appointment that you had what's going
+Patient: On with your stomach. I don't know. I got real, real hard pain in my stomach and then when I go to the bathroom I throw up before I go poop and then I get real sick and then after I go, I'm all right. Oh, my. So I started taking, um, soft do again and it seems to have gone away, but I'm going to get a test done on it anyway. Ok.
+Nurse: What did you start taking again? I'm sorry,
+Patient: Soft gels Colace. Ok. So that it, you know, I, it might just be that I'm not emptying out control. So, so I started taking these and now it seems to not as bad. I had one, I did have last week when I get this throwing up with the real, real hard pain. Ok. And now it's the last one I had now so far. Don't know what it is, but I know I don't feel good with it. Oh, no,
+Nurse: That's a terrible thing to have happen when you, oh, nobody wants that.
+Patient: No.
+Nurse: Um, it looks like they did send like, the prior authorization. Do you have your test scheduled yet?
+Patient: Yeah, it's down in [PHI-Geographic] on, uh, I, I don't have it in front of me. It's around the 20 [PHI-Personal] or something like that in [PHI-Geographic]. Ok. I have it scheduled to go to in, um, [PHI-Personal] in Ja, so [PHI-Personal]
+Nurse: [PHI-Personal].
+Patient: Yeah. Yeah. All right. Good.
+Nurse: Now, you know, if things get worse or anything in the meantime, make sure you let us know. Ok.
+Patient: Yeah, I will. But I'm right now I'm doing really good. Good. I don't feel up bad. I'm getting things. I've been working with, like carding, making my cards and I've been running the vacuum. I'm trying to, but I'm tired today so I'm around with that a little but not too much. I'll get that tomorrow. There you
+Nurse: Go.
+Patient: I'm too tired for it.
+Nurse: That's right. Don't, don't overdo it and
+Patient: Then, you know? No, because when I run the vacuum and get a shower, I'm done for the day and then I usually have to take a nap. That's terrible. That's terrible.
+Nurse: Listen, a nap sounds wonderful. Right now I could go for a good nap.
+Patient: I know. But that's ok. It's no fun getting old. No,
+Nurse: I know. That's what, that's what they tell me. I'm, I'll be [PHI-Personal] in [PHI-Personal]
+Patient: And, oh, you're just young. My daughter's [PHI-Personal] she's [PHI-Personal] she's, she's all upset because she turned [PHI-Personal].
+Nurse: Listen, I had a big problem with [PHI-Personal] now at [PHI-Personal] it's been, uh, and the thought of getting even older here is it's just throwing.
+Patient: Ok, I cried because I didn't want to turn [PHI-Personal]. I did. But when I hit [PHI-Personal] I was so happy because I hit that half century thing.
+Nurse: Well, there you go.
+Patient: Yeah, I hit the high mark and then everything went downhill. I got diabetes. I had to go and have my, and then the following 10 years later I had to have my tonsils out. I had to have my, uh, what you gonna call it out? My, oh, can't think of it. Oh, yeah, it would have burst. Well, it did burst before they got out, but not my gallbladder. The other one, the appendix. Yes, I couldn't think of that. Uh, yeah. And, and then, uh, that's where all the trouble started there because after they, that burst and it was blood transfusion because I lost, they nicked my liver trying to scrape the, uh, adhesions out and I bled out and I just, it's like a roller coaster ride. Uh, it
+Nurse: Sounds like it sounds like you've had some good luck there.
+Patient: Oh, I had God with me. I had my, um, [PHI-Personal] with me because while I was in surgery she came down and picked me up and held me in her wings. I saw the wings. I saw her and I, and I, it was beautiful and it, it made me feel so. And I, I was up the next day running around with all them staples. Oh, jeez. Oh, yeah. I crawled right out of bed and went to the bathroom on my own. I got, I didn't know I wasn't supposed to but I had to pee
+Nurse: Like that. Huh? I said I was going to say, I bet they didn't like that.
+Patient: Yeah. Well, when you have to pee, you have to pee and if they don't come right way, uh, it's hard to lay there. No, they didn't say it. It was fine with them. And they were just amazed because they said they usually have to throw people out of the
+Nurse: Bed. Oh, yeah. Especially after belly surgery because that's a painful, you know, those,
+Patient: Well, I have that high pain tolerance thing going on which I don't feel is a good thing because you can overdo it. You can. Yes, I didn't know I had appendicitis. So I didn't call the ambulance to go out to the hospital right away. I lay down and fell asleep for a couple of hours until three o'clock in the morning. And then my belly hurt and I woke up and I said to [PHI-Personal], I don't know, maybe we ought to go to the hospital. I said this really hurts now and he knows when I say I really hurt, there's something wrong because I don't usually mind the pain and they said it was just ready to burst when they went to get it out. It was on it. They cut me down below my, on my right side and the adhesions were all there. So, and there was no appendix. Yeah. My appendix was on my left side. Oh, wow. They move when, well, whenever you have surgery, your organs move around. Mhm. So, mine all moved to the left side. Yeah. So then they got it and it burst. So, I don't know. I was, I was on a, uh, the respirator then for up to 3.5 days and they broke, all my front teeth are broke and now they're really broke. They're, they're falling apart. Oh, my. I know I had to have two pulled. Now I have another one that broke and one on the bottom that just broke. They're just like, and I can never get dentures. I have what you call a backwards pallet. Oh, So if, instead of having the hair lip you get with the pallet, I got the two holes going back towards the back of my mouth.
+Nurse: What about like, implants? Would they be able to do dental implants?
+Patient: Probably not because of the way, uh, I don't have no gums left on the one side because they had to cut out all the, uh, roots and stuff. I have a double bone. I have what they call a boxer jaw and they had to cut, no, I don't have no thumbs on my, um, right side on the top and part of the bottom. That'll be baby mush. I just have to buy extra baby food.
+Nurse: Real good.
+Patient: Yeah, I'll do something. I know that if I get hungry maybe I'll freaking lose weight once.
+Nurse: Oh, as long as you're getting the nutrition you need.
+Patient: Yeah, I'll make sure I get that. But I'm gonna, I'll, I'll find a way to eat. There you go.
+Nurse: Any problems with your blood sugars at
+Patient: All lately? My sugars are at 6.7. Mhm. They were at 66 or at a 67. They've been really good. Yeah, that's
+Nurse: Absolutely,
+Patient: They're down yet. I mean, they're really good now. They're like 1, 11, 1 15, 93.
+Nurse: Very good. So, how are you, are you just staying away from carbs and sweets or
+Patient: Where you only eat the center? Feel just a little center of my plate? Mm. And that's what I eat three times a day. Ok. Now I gained six lbs. How I did it where I, I have no clue. I have no clue.
+Nurse: Just one of those lucky ones. Huh?
+Patient: I look at food and there it goes, cut pounds grew because I have no, I'm, I've been watching how I eat and, and the way I eat and I have, my sugar is pretty much under control. Now I check my sugars four times a day, which helps because then you know exactly where the problem is. Mm. So I've been really, I just wish I could walk. That's my big thing. Right. If I'm up standing more than 2.5 minutes I'll fall, I'll fall right down cause it's too much. Mm.
+Nurse: No. Fall. And we don't want anything breaking. I
+Patient: Won't fall. I, I have my, uh, cane. I have an electric wheelchair and I have a rollator. It's just that it to, it's my back that causes that and to be like that going from walking and be able to do everything and working hard to be nothing. You know, that's a shock
+Nurse: That it, it does, that takes a toll on you. I losing some of that is very hard. Absolutely.
+Patient: It's hard because, I mean, I'm getting through it. I found my hobbies and I found things to do and I know I have to find things to do so that I don't sit and think about it. It is hard when you look out and it's nice out and you, and you can't go out because you can't walk. Right. So, where I live, I've been through words,
+Nurse: Keep at it and, you know, you're doing your vacuuming and all of that stuff and hopefully you'll, you'll work yourself up there where hope you can at least get out and, you know, see a little, well,
+Patient: I use my chair lot of times come, I say we're gonna go on the care. We, he built a little thing for my puppy. He sits in his little basket on the side. Mhm. And he, he thinks it's his chair. Now, what? So when he, see when the chairs, well, when we have the chair, if we move it, he has to make sure it don't go outside. He sits by the door, you're not leaving with the chair without him. And then he looks for his little basket because he wants to get in his basket and go for a ride. We take him out by the lake and stuff. Oh, right.
+Nurse: It's, it's good for you. All of
+Patient: That. So, yeah, you gotta do something.
+Nurse: Absolutely. So, how, how has your mood been? You're doing ok with,
+Patient: Yeah, I'm good with my mood. I just get like everybody else. I have my moments of miserableness, I guess.
+Nurse: Yeah. Absolutely. And this time of year gets hard because it's cold and it's dark early and,
+Patient: Oh, our house isn't cold we had gotten, and I talked into this, I told him to get a wood and a wood coal burning [PHI-Personal]. Mhm. And we got one for $25 and we put 100 and $30 into fixing it up. And our house is that warm? We have to open the windows. I was gonna
+Nurse: Say, yeah, those, they, they'll make you toasty.
+Patient: They will. And there's no oil being bought in this house.
+Nurse: Good. It's expensive these days.
+Patient: Well, that's why we had oil. That's why we went to this and I love it. We let the fire go out overnight and it's still warm the next day. Oh, wow. Yeah, we don't burn a lot of wood. We aren't really burning a lot of coal and our electric bill came down $[PHI-Personal]. 0, wow. Yes. $[PHI-Personal]. Because we're not using any, uh, electric heaters and we're not using the furnace running constantly. Yep. That's wonderful. It is. I mean, we found our way. So my son said about doing this because they do that. You hook it up into your chimney where your oil furnace was hooked. Mhm. And it can be run that way and you won't, you can always hook your [PHI-Personal] back up if you'd want to. But my son said about doing this and we did it and we're just so happy. We did good. We are so happy. We, because we are just content and is so warm. I'm sitting here with short sleeve shirt on. Very nice and I love it as I'm comfortable.
+Nurse: Absolutely good. Good, good. Well, it sounds like you're doing pretty good dear. You're heading in the right direction.
+Patient: I'm trying.
+Nurse: Well, it shows it definitely makes a difference when you try. So you keep it up and
+Patient: Ok, honey, and you have a wonderful Christmas, please. You
+Nurse: As well. Thank
+Patient: You. So, oh, I will. I make my Christmas the way I want it. Good.
+Nurse: Wonderful. That's the way to do it. You got a good outlook. So if you need anything, honey, you give me a call. Ok,
+Patient: I will right now I'm pretty good. Everything's under control with what I need next month. I'm getting a card off of my [PHI-Personal] and they're going to give me a card with, I think it's like $250 when it towards getting food over the counter products. And if I want to, I can use it to pay bills or whatever I need it for and it'll carry over each month if I don't spend it all. Oh, very good. Yes, [PHI-Personal] is giving them out after this year. That's what they're giving. Instead of ordering through them every month stuff you don't need because you got too much of it. They're finally gonna give us the cards that you go in and buy your own, what you need.
+Nurse: Good. Yeah, that's, that's a
+Patient: Big help. Right. And it can also be used for, they said gas, pay your, pay your bills, whatever you need it for you to use it for it.
+Nurse: Wonderful. That's a big help. That's, that's
+Patient: A, it will be, I mean, there's $250 that we didn't have.
+Nurse: Absolutely. That's a good amount of money.
+Patient: Yes. So that's awesome for
+Nurse: Us. Good. Well, if you need anything at all, you give us a call. Ok,
+Patient: I will hon. Thank you for calling. Oh, you're
+Nurse: Very welcome. You have a good evening dear.
+Patient: You too. Thank you. Bye bye. You're welcome. Bye bye, honey.

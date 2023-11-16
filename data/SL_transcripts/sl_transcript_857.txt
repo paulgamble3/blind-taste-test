@@ -1,0 +1,9 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal].
+Nurse: Hey, [PHI-Personal], how are you doing? How's, how's [PHI-Personal]? Well, it's,
+Patient: Hasn't been a good week, let's put it that
+Nurse: Way. Well, no, I just saw that. I was, I was looking through the, uh, uh, her chart, I saw she was back in the, er, yep, what's, what, what, what happened with that? Like what, how, what brought her back there?
+Patient: Basically, what happened? We, we first came into the, well, she came in on the [PHI-Personal] too because her BP was very low and then on the sixth, which would be last Thursday, we came in because she was very nauseated and wasn't able to keep anything down. And so we brought her in for that and they, they basically, they checked her out, they did blood work and then they gave us some Zofran and sent her home. Well, unfortunately, and they did, they, when they did the blood work, her sodium was 1 29 and, and the paperwork they gave us, it mentions hyponatremia, but we got home about 2 30 in the morning. And unfortunately I didn't really look at the paperwork and I don't remember them talking about. Uh, can you hold on a sec? Sure. No, no, no, please stay. I'll call you back, [PHI-Personal].
+Nurse: Sure. Any, the ot people are here, I'll, I'll, if you, if I'm on the phone, leave you a message, I'll call you right back.
+Patient: Ok, thanks. Bye bye
+Nurse: Bye.

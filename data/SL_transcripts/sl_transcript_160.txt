@@ -1,0 +1,49 @@
+Nurse: Good morning. This is one of the nurse, case managers here at the office. How may I help you?
+Patient: Hi, this is, uh, [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you? All right. We seem to be playing a little bit of phone tag here. Yeah.
+Patient: Really?
+Nurse: All right. Let me just get you pulled up. Um, wasn't calling you for anything urgent or anything like that. It was just the, the monthly call go over a few things, check in, see how everything was going, make sure nothing has changed.
+Patient: Ok.
+Nurse: All right. Have you had any changes recently? Any concerns that you're having?
+Patient: Uh, not really. Um, I am, urine seems like I'm urinating at night. Uh, pretty often it's getting me up.
+Nurse: All right. Is this new?
+Patient: Well, relatively new? Yeah. Ok.
+Nurse: How many times you say you're getting up at night?
+Patient: Uh, maybe three or four times?
+Nurse: Ok. Do you feel like you're fully emptying your bladder when you urinate?
+Patient: Yeah. Ok.
+Nurse: Do you feel, and do you feel like this has gotten progressively worse over a period of time? Yeah. Ok. And when did this start?
+Patient: I'd say maybe a month or so ago.
+Nurse: All right. Um, any burning or painful urination. No, any difficulty starting or stopping.
+Patient: No.
+Nurse: Yeah. Have you changed anything in your diet? Um, maybe increased your caffeine intake or anything like that? No,
+Patient: I can't say that I've done that.
+Nurse: Ok. And how have your blood sugars been doing?
+Patient: Oh, ok. I, I don't check them regularly
+Nurse: And no blood in your urine. No, any pain or, or, um, pain in your lower abdomen or be lower belly. Ok. All right. That could be a number of things. And are you drinking before you go to bed or is there a time at night that you stop drinking?
+Patient: Uh, usually I stop drinking, uh, maybe an hour before I go to bed.
+Nurse: Ok. I would up that, um, to about two hours before you go to bed. Ok. Maybe stop drinking around like eight o'clock, right? Or something. So, um, because your body is still processing everything that you drink it from an hour ago, right? Um, one of the things I do and the reason I was asking about your blood sugar is one of the things that you can have side effects of, um, as a diabetic is increased, thirst, increased, urination changes in vision fatigue. All of those things can be a sign of high blood sugar. Uh, um, have you lost any weight recently?
+Patient: No, I haven't. Ok.
+Nurse: And no changes in your medication. Correct. Correct. Ok. Yeah. And no changes in your diet. Really? You're not eating more sweets than you used to or something like that. Ok. All right. And you're still taking the furosemide 20 mg a day. When are you taking that,
+Patient: Uh, in the morning?
+Nurse: Ok, perfect. So if you're taking that at night, that would be a quick problem solved right there.
+Patient: Yeah. Ok.
+Nurse: All right. Um, I will get this over to doctor and see what he says. It could be. He might want to do some lab work here to check on your diabetic.
+Patient: I'm due for some lab work in, uh, beginning of, uh, [PHI-Personal]. I think it is.
+Nurse: It's actually [PHI-Personal] 21st. Yeah. So he might just say move it up. We'll see what he has to say on that. Um, anything else that's been going on that you're concerned about?
+Patient: Uh, not really. I, I need a, um, the, uh, prescription filled,
+Nurse: Right? Which one is that
+Patient: For oxyCODONE?
+Nurse: Ok. How many, how many tablets do you have left?
+Patient: I don't have any left.
+Nurse: Ok. And how, how often are you taking those?
+Patient: Oh, I'd say a couple of times a week. I'm particularly when it filled before, um, the first of, uh, [PHI-Personal] because I'm having some oral surgery done.
+Nurse: I can understand that. Um, yeah, I can get that filled for you today. I believe I'm just, it looks like last time it was sent was in [PHI-Personal]. So, yeah, that shouldn't be a problem. Oh, the other, so I'm looking at your chart here and it looks like your fema fetz I ma 120 mg daily might need to be refilled too. Do you know if you have any refills left on that one? I
+Patient: Don't really know right now. Ok.
+Nurse: Mm. And now you're taking the 120 mg once a day and then 80 mg as well that
+Patient: I believe so. Ok.
+Nurse: And that that one's just once a day for the as well. Correct. Correct. I'm gonna add that to the chart. Ok. All right, I'll get that ordered for you. If you need refills on anything else you can also give me a call, ok? For now. One of the things definitely definitely cut stop drinking a little bit sooner than you are. Um and let us know if anything changes on that front. I'll see if Doctor [PHI-Personal] wants to move up those labs or just wait and see until [PHI-Personal] um and go from there. Ok. All right. Is there anything else that you had a concern about that I can address for you today?
+Patient: Not that uh I have a real concern about except what I told you about, you know. Ok.
+Nurse: All right. Well, I'll get that addressed for you and if anything changes between now and your appointment definitely give us a call. Ok. Ok. Alright, you have a great afternoon. You too. Thank you. Bye bye bye
+Patient: Bye.
+Nurse: Mhm.

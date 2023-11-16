@@ -1,0 +1,29 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is [PHI-Personal]. How are you doing today?
+Nurse: Good. How are
+Patient: You? I'm fine, thank you. Um Did you say that we could call you to request uh, uh, prescription renewals?
+Nurse: Yeah, absolutely. Let me pull up your chart.
+Patient: Yeah. 8 18 54. 0,
+Nurse: You're way ahead of me. You know what I was going to ask? Um, let me pull this up. How are you doing today?
+Patient: I'm doing fine. Thank
+Nurse: You. Good. Ok. So, um, oh, you just came in on the [PHI-Personal]. Let me see. Yeah, I
+Patient: Didn't realize I needed one. I would have asked again for one. But uh,
+Nurse: No, that's, I'm, I'm more than happy to help. What, what, what can I help you get refilled today? The
+Patient: Advair Diskus, please.
+Nurse: Advair Diskus. Absolutely. Let me pull this up. Um, let's see because we hadn't sent that. Yeah, we hadn't sent that in a while since [PHI-Personal] 2022. Um, let me see. Do you want that to go to the pharmacy?
+Patient: Yes, please.
+Nurse: Good. All right. Um, besides that, let's see, I know they were, they added, they added a medicine. Did you start um,
+Patient: Amide. No, but they did not have it in stock. So I'm hoping that they filled it and I can pick it up with the Advair. They, yeah. Um, I did have a question about that. Uh, doctor wanted labs on it after three weeks. I know a two day delay isn't significant but if it goes into a third or fourth day waiting for them to get it in, should I reschedule my lab? I have it out three weeks now. Should I put it out? Four weeks? Um, should I be on the, the question is, should I be on the medicine for three weeks?
+Nurse: Yeah, because usually you're gonna see, it takes a little while to see the full effect. So, so that's, um, so I would, I would reschedule that. Do you want me to call the pharmacy and see if they have the aMILoride, um, in stock? Um, and then, and it's just that one. Correct.
+Patient: That's it. They just, I called yesterday. They just weren't sure when it was going to be in stock.
+Nurse: Well, I was gonna say I could call other pharmacies around that area too to see if anywhere else has it in
+Patient: Stock. So I, I'd prefer to get it through wise with the, with the Advair but, uh, hopefully pick them both up at the same time. But, uh, yeah,
+Nurse: That's ok. Yeah, I just, you know, we don't wanna delay it. So I was gonna say like, I can call other pharmacies around just, but if you'd rather wait by all means,
+Patient: Yeah, I'd rather have [PHI-Personal] only make one trip. You, you know, I can't drive. So [PHI-Personal] is gonna, my wife is gonna have to be, I'd rather she not have to make multiple trips to pick up single prescriptions. Y yes.
+Nurse: Exactly. Um, I understand. So I was gonna say, um, you know, if, if they don't, they'll let me know, I can call around to other pharmacies and find one that has in stock. Um, you know, just and just so, you know, when you, when you do start it, um, you know, some people get like heartburn from it or like g I side effects like loss of appetite, nausea, diarrhea, vomiting. So look for that or gas or maybe like even a headache, but not everybody gets those just be aware. Um, but I, I will request the Advair. Um, and then besides that to go over to the wife, um, besides that you had, I had you as inbound only because you were kind of gonna double check on the insurance. Did, did you want me to call you next month or do you wanna stay as you calling me only,
+Patient: Uh, stay inbound for the time being, please?
+Nurse: Absolutely. You can call me any time. Um I'm here. Yeah, we're here from 8 to 4 30. Um, I was gonna say, although I will be out for a little bit in August. So there'll be another nurse here that but there's always a nurse here.
+Patient: Ok, sounds good. Well, thank you for my pleasure and thank
+Nurse: You. Thank you. You too. Stay safe. Ok.
+Patient: Ok, take care. Bye.
+Nurse: Thanks. Bye.

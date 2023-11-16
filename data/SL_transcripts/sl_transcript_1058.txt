@@ -1,0 +1,46 @@
+Nurse: [PHI-Personal]. How are you?
+Patient: I'm good. Finally connected.
+Nurse: I know what's new dear?
+Patient: Well, nothing different.
+Nurse: Nothing different. Everything's pretty good. Yep. Yeah. Ok. Any med changes or anything? No. No. Ok. Can I read off your medications to you? Yeah. Ok. You, you haven't had any appointments though, right? I didn't see anything on here. No, I don't. Ok. And before I start you had no med changes. Um, you don't need anything from the doctor, right? You said, right? Ok. Uh, acetaminophen, that's Tylenol 500 mg every six hours
+Patient: As needed
+Nurse: As needed. Ok. AmLODIPine, Besylate five MGS one by mouth every day for your BP. Yeah. Aspirin 81 mg one by mouth every day, right? Um, atorvastatin calcium 41 by mouth every day, right? That's, uh, for your cholesterol fish oil. Do you still take your fish oil every day? 1000 right? Ok. Isorbide t 60 mg every day, right? Lasix. Um, one tablet every other morning, right? Um, Vothy for your thyroid one by mouth every day. All right. Um, I have the Nitrostat, um, that's for chest discomfort, you know, one under the tongue, right? Ok. But you haven't used it yet, right. No, no. Ok. Um, natural magnesium. 2 50 by mouth every day, right? Toprol XL 51 by mouth every day. Right. And vitamin D 3, 1000 units, one by mouth every day, right? Ok. And I mean, you're not on Xanax. That was just for your MRI, correct? For me, you're not taking Xanax or anything, right? No. No. Ok. All right. And do you need any refills?
+Patient: No.
+Nurse: Oh, ok. And how do you set your meds up?
+Patient: Uh, I have old place on my shelf that I know which position they're
+Nurse: In. Ok. Is it like bottles? You use bottles or a pill box?
+Patient: Oh, I use the
+Nurse: Bottle, the bottles. Ok. And it works for you then? Yeah. Ok. Very good. And I always say to make sure you keep a list of, you know, your medications on you, um, just in case you go to a different doctor or you're somewhere and you need to know, you know. Um, so make sure that's always up to date. Even if you take, like, you know, have your Tylenol, any, any vitamins on there too. Um, sometimes, you know, pill organizers are good if you can't, you know, having a hard time, you know, remembering if you took them. Um, that's good for, you know, morning lunch and bedtime if you needed it and you do take your medicine at the same time every day. Right? Ok. I always say do that. Um, just so you you know, remember too um and remember to plan ahead of refills. Do you have like a do they automatically refill them for you or? Pardon me? Do they automatically refill them? No, I
+Patient: Do it on my by myself.
+Nurse: Yeah. Um ok, so you just do that. Ok. And I always say if you have a mail order that takes a little longer. So always remember to go. So. All right. Mhm. All right. Anything I could do for you.
+Patient: No. Uh, no. Well care doctor was here a couple of weeks ago and she was not happy with my weight.
+Nurse: She wasn't happy with your weight, right. What'd she say?
+Patient: I was too
+Nurse: Thin. You were too thin. Yeah. How much did you weigh?
+Patient: [PHI-Personal]?
+Nurse: You're down to [PHI-Personal]. Yeah. Oh, boy. Are you eating enough? Yeah. Yeah. Um, how about, uh, do you take, what do you eat during the day?
+Patient: Whatever I have available. Sandwich at lunch generally. And meat and potatoes for supper last,
+Nurse: Eat? Ok. Hm. Now, have you lost a lot of weight, um, like in the last month or something? Because you were, you know, um,
+Patient: I can't remember what I was at the doctor the last time.
+Nurse: You lost five lbs last time. So then that would bring you down to more weight, um, that you're losing too. Um, now you do eat and drink throughout the day. Any diarrhea or anything like that. No, no. Ok. Um, well, do you take nutrition supplements or anything like that or? No? Is that
+Patient: Boost? Mhm. I've been do doing that lately since she told me my weight was down. Ok. Oh. And there's no problem with taking that with, uh, all the medications I'm on because
+Nurse: I'm gonna let them know that you take boost anyway. So I'm gonna, so if they have a problem I'll let you know how many boosts do you take a day?
+Patient: Hm. Half of one, maybe, sometimes a whole one. You gonna have to [PHI-Personal]
+Nurse: Daily. Um, you don't have any, you know, um, did he say anything about your weight last time?
+Patient: No, he didn't.
+Nurse: No. Um,
+Patient: Ok. Which I was surprised.
+Nurse: Ok, I just wanna let him know because then you even lost more weight, you know. Um, but any change, like no tiredness, weakness, anything like that,
+Patient: Just tired.
+Nurse: You're just tired a lot. Yeah. Um, ok. Well, make sure you're having a well-balanced meal too, you know, lots of fruits and vegetables. Um, ok. But like no nausea or anything. No, like that. No, no, no. Ok. Um, um, and, uh, so you do eat, you don't, you don't know why you still lost weight, right. Pardon me? You don't know why you, you're down?
+Patient: No, no, I don't.
+Nurse: Ok. Are you fairly active? Well, you fairly active or?
+Patient: Yes, I'm active. Ok. Right. Thank goodness I can still drive and walk without help.
+Nurse: Yeah. Um, that's good. That's good snack. Um, yeah, try to do some snacks in between meals. Um, um, well balanced meals, you know, um, too, but you're not having any like, um, G I issues or anything. And no, no. Hm. Um, and no, like other, otherwise you're tired. That's our only really complaint, right? Um, eye issues. Ok. So no G I issues.
+Patient: Ok.
+Nurse: Um, ok. Any other complaints? No, she is and you're just always tired, right? You said? Ok. All right. Um, ok. Well, I'll definitely let him know that your weight is down to [PHI-Personal]. Um, because that's another weight loss, um, from [PHI-Personal], right? Um Awesome. Ok. Ok. Ok. And if they have anything to say I will let you know.
+Patient: Ok. Very good.
+Nurse: I'll talk to you
+Patient: Soon. Ok. Glad we finally connected.
+Nurse: I know me too and I will definitely update them on your weight though. Ok. Um, just so they're aware. Ok. All right. Bye
+Patient: Dear now.

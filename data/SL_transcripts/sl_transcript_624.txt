@@ -1,0 +1,21 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello. How you doing? Well, good. How
+Nurse: Are you? Yes. How are you today? All right, good. So, I was reaching out to you about your, um, headgear and face mask for your, um, CPAP
+Patient: And I need it back.
+Nurse: I'm trying to figure out where it needs to go to. Are you, is it still community surgical?
+Patient: Um, they said that, that they closed down or something. I, I don't know what's going on. They told me that something closed down in [PHI-Geographic] and that they, it, it had a new place but I'm, I'm, I'm not know, I used to get stuff from URG medical but I don't know if it's still open.
+Nurse: Ok. Yeah. And that's what I was trying to figure out and I don't know why, but it looks like back in [PHI-Personal] we had faxed an order to adapt health. Um, they're another DME supply company but when I called them they don't have any of your information.
+Patient: Yeah, I called them too and, you know, I know I sent, I know somebody sent me a piece of, of, uh, a machine of the, of the Bipap. They sent me the front part and the back part I had to, yeah, they get that but no tubing. No mask. No, nothing. Now,
+Nurse: Does, is there a, uh, sticker or anything on that? That shows the company?
+Patient: No, not that I know I'm blind. It wasn't a stick on it though that I know of. And, uh, it was, uh, the company that you just said though. Um, A
+Nurse: T,
+Patient: Yeah, because, yeah, they said
+Nurse: They don't, have you? I actually talked to two different locations and I mean, they would both be able to see
+Patient: Regardless. Yeah, somebody sent the, in the machine. I don't know.
+Nurse: I'm gonna call this number for community surgical supply and see who picks up. But that, that used to be who he was with. Correct. So maybe the new company has their phone number now or they'll provide a number. No. Ok. So let me work on that. If you happen to come across whomever it might be, then just reach back out and let me know. Ok.
+Patient: Yeah. II, I don't know who it is but I just know that the, the hospital told me that they, that I, that, that name that you said, that's why. But I know that the machine came and I don't know where it came from but it was on the front part. I don't know if it came from being recall or if it came from them because I don't remember exactly. I didn't really get the box of the paperwork. Ok. So
+Nurse: If community surgical supply, when I call them, if they're closed, are you ok with me sending the stuff, the order to adapt?
+Patient: Yes. As long as they make sure I get it. Yes.
+Nurse: Ok. All right. Let me work on that for you.
+Patient: Ok, thank you.
+Nurse: You're welcome. Have a good day. You too. Thanks. Bye bye.

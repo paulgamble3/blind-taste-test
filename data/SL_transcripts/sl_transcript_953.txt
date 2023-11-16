@@ -1,0 +1,16 @@
+Nurse: Co health care. This is [PHI-Personal].
+Patient: Yes, this is [PHI-Personal] Hammer speaking. I'm speaking. I'm just returning your call about my mom, [PHI-Personal].
+Nurse: All right, [PHI-Personal], let me see. Did I didn't call today? Right? Excuse me, I didn't call today. I don't think.
+Patient: No, I called in and you were at lunch and I, and I thought maybe you were calling me back. Maybe I, I am the I'm mistaken but I spoke to someone who was going to let you know I can't.
+Nurse: Right. What is Z [PHI-Personal] birthday?
+Patient: [PHI-Personal].
+Nurse: Ok. Oh, ok. Looks like you spoke to um, my coworker appointment. Doctor [PHI-Personal]. Oh, ok. The appointment with Doctor [PHI-Personal] in [PHI-Personal],
+Patient: [PHI-Personal] 14th. And I am looking to get my mom to see a hemo. He, no, it specialist as soon as possible or not. Two months from now.
+Nurse: Bye. Um I did follow up with doctor on that but it doesn't look like he has gave any feedback where he's seeing patients. So as soon as he gives me some feedback on, um because it looks like is asking him for recommendations for he cap right whenever he gives me some information. I will give you a call back, [PHI-Personal]. Ok,
+Patient: Good. So, this is my mistake. I thought you, you called me today? So it was a while.
+Nurse: Ok. I did call. Uh, let's see. I called, I think one day last week I remember. Right.
+Patient: Right. Um, calling and I, I have an appointment for [PHI-Personal] 14th with, um, the hospital in, but I'm really hoping that we can get a fast appointment.
+Nurse: Ok. All right. Well, we'll see what we can do and as soon as he gives me some answers, I'll give you a call. Ok.
+Patient: Thank you very much. Thanks.
+Nurse: Welcome [PHI-Personal]. Mhm.
+Patient: Bye bye.

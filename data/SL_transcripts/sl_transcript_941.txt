@@ -1,0 +1,80 @@
+Nurse: Good morning. This is how can I help you?
+Patient: This is available
+Nurse: Um MS [PHI-Personal] and uh uh uh uh [PHI-Personal] is out of the office today. Is there anything that I can do to
+Patient: Help you? Well, I was um doctor [PHI-Personal] from the Pain Management Group was um had given me 800 mg gabapentin and now that I'm not uh going back to him, I was wondering if uh uh my doctor uh doctor uh I'm so confused. Doctor had given me [PHI-Account] mg and they switched it. I was wondering if uh doctor could write a script for 800 mg. They seem to help me a little better. Yeah. Can you confirm
+Nurse: Your date of birth for
+Patient: Me? [PHI-Account].
+Nurse: Ok. Thank you. So you're, you're on you have [PHI-Account] now.
+Patient: Yes. And they had um we had discussed it before and I was wondering if she could up the milligram because that they have started giving me. Yeah, the [PHI-Account] who who
+Nurse: Prescribed the [PHI-Account]
+Patient: [PHI-Account] that little ri
+Nurse: Ok. And you're asking if you can get them to be 800 please? Ok, I see. And what's going on what, what, what do you, what's happening?
+Patient: I have a diabetic neuropathy and they had um doctor, I think his name is, he had um prescribed Lyrica, not, it's not that pregabalin. And it had made me so sick that I had to, I had to, I couldn't get in touch with nobody from the pain management to tell me what to do about that. So I had kept calling them and even [PHI-Personal] called and they wouldn't get in contact with her either. So, um, I was told to stop taking the pregabalin and, uh, so now I need something that's gonna help me with this pain until I can get back. And the, the, the I'm taking too many, I think too many of them. So I'm hoping if they increase the, the, the gaba pain
+Nurse: [PHI-Personal] right now,
+Patient: My pain [PHI-Personal] is like you wouldn't believe it if my feet are burning. And, uh, but if I can take the, the, the gabapentin, I get a little with a pill. I get some relief for maybe an hour or so hour or two. And, uh, so I'm hoping that especially [PHI-Personal] night, that's when it's the worst. I'm not able to sleep. They got me on, uh, traZODone, uh gabapentin. And what? Instead of here
+Nurse: Any tingling and numbness?
+Patient: Oh, the burning is awful. You can't sleep [PHI-Personal] night. Yeah. So, are you having any
+Nurse: Tingling or numbness?
+Patient: Yes. Tingling, numbness and burning. My legs are, are numb right now. But, uh, the, the, the, the burning is in my toes and, uh, in my right up under my toes and going into my ankles.
+Nurse: Now, um, are, do you have any swelling?
+Patient: Uh, just a little, just a little, not mu, not very much. And I don't see the doctor for until the first of, uh, [PHI-Personal] I think is when I see doctor. Do you have
+Nurse: Any open areas on your feet?
+Patient: No, no. Now, under the bottom, I think I may, I keep putting on a simple antibiotic cream because certain things I like, I don't know, it feel like it's, it's uh open in there a little bit but you can't really, I can't see
+Nurse: On which foot do you feel there's an open
+Patient: Area? Uh The ma I think you can't see anything but I, I, what I did was I, I had put some, I rubbed my feet with alcohol and that was a bad thing. Could never do that. Now, why,
+Nurse: What made you start taking the, the, put the cream on there if you, if you can't see anything, do you feel something there?
+Patient: Because uh because you could, I could see on the toe where it my skin was uh peeling a little bit. So I said just on my toe. And do you have a
+Nurse: Mirror? Do you have like a cosmetic mirror that you can look [PHI-Personal] the bottom of your feet?
+Patient: No, that's the same thing. But do you
+Nurse: Have a cell phone with a front facing camera? Yeah, you can do that. You can also use your cell phone.
+Patient: Ok. To
+Nurse: Check the bottom of them. That way we know if there's, if there's something on the bottom we, we, because, you know, you don't want your feet to get infected.
+Patient: Right. Right. Right. But I'll do that then,
+Nurse: And then, you know, that way we can know, um, when was your
+Patient: Last foot exam? They, they, you know, they, uh, only thing they do from doctor or to the other doctor, they check that they put that pin on there for, to see if it's numbness so I can feel it. But the a, I actually examined my foot, I don't know when the last time that was done problem before I started going back there and I been going to doctor for over a year and nobody looked down [PHI-Personal] the bottom of my foot or anything like that. Check my, you know, toes or anything.
+Nurse: Any, is, does your hands hurt [PHI-Personal] all or is it just your
+Patient: Feet? No, my hands. Well, they a little bit, but I just thought it was from, uh, what you call that carpal tunnel. They go to sleep. My left, my left hand, go to sleep. Ok.
+Nurse: Yeah.
+Patient: Oh, ok. Um, and what was your sugar today, dear? Oh, I never check it. It one more and I didn't check it.
+Nurse: Do you have your, uh, glucometer nearby where you can check it really quickly? Uh, when I send the message over I wanna be able to give them the number.
+Patient: Ok. But, uh, do you live alone? Um huh. Do you
+Nurse: Live alone?
+Patient: That's why I had to stop taking that medicine. I, [PHI-Personal] pregabalin I was so sick. I thought I was gonna, actually, I should have went to the hospital but I didn't know I, I'm checking it. Yeah. It's probably, I haven't taken my medicine this morning. I eat a breakfast sandwich, a small breakfast sandwich and a cup of coffee. That's all I can do the stomach. Oh, that hurt. Mhm.
+Nurse: Have you had any foot surgery?
+Patient: No. No.
+Nurse: And you said your, was your foot exam? Your last foot exam was about, was it less than three months ago or 3 to 6 months ago?
+Patient: Oh, about three months ago. Just that pen is 1 [PHI-Personal]. Uh, it's, uh, [PHI-Personal]. Yeah. And I still haven't taken the medicine yet. Oh,
+Nurse: Ok. All right. Good. Ok. 1 [PHI-Personal]. Got you. All right. In the meantime, we gotta get you to make sure you, um, I didn't hear you.
+Patient: I said that and I, that was after breakfast. So, so I still take the medicine. Ok.
+Nurse: All right. Well, listen, make sure you, uh, keep your, uh, making sure you're not, uh, never walking barefooted and wearing your shoes and socks [PHI-Personal] all times, you
+Patient: Know. And I, I can't wear shoes and I can't wear socks that aggravate my feet so bad. I go to the doctor. Uh, uh, I tried just wearing socks that it's horrible. And shoes. I got some, uh, like a cloth shoe with a little, uh, the other thing on the bottom. That's the best I can do. And soon as I get to the doctor where I'm going, I come out of my feet on the cold floor, even [PHI-Personal] the doctor's office because I can't wear anything on. They aggravate my feet.
+Nurse: Ok. I got you. Don't worry, don't stress thing because if it's gonna exacerbate it, you know, don't worry. Do you use a cane or a walker or anything to walk?
+Patient: I got a walker.
+Nurse: Ok. And when you're walking, you walk barefoot.
+Patient: Well, I try not to but, um, when I go to out I wear shoes but only to get where I'm going. Even if I get in the middle of a cab or something, I take, slide them off my feet and put my feet down anything. I, oh, nothing. But now if I put them on this cold towel that give me a little, like [PHI-Personal] night when I go to bed, I have to put ice packs on my feet until I go to sleep. So it seem to help a little bit. The coldness. Ok.
+Nurse: I understand. Ok, dear. Um, yeah, we don't want any complications there. I'd like for you. To make sure you're checking those feet. Uh, the bottom is the main thing. How long has it been going on that? You've been feeling that the pain is worsening? Or the, the neuropathy is worsening?
+Patient: Oh, it's been worsening over the, but it, uh, last 78 months the doctor know about how bad the pain is getting. That's why they sent me to pain management and then they finally gave me the pregabalin about two weeks ago, but I didn't get it delivered for about a week. So I started taking it like a two day, a day, two days before Thanksgiving. And uh that night Thanksgiving night, the the the, the uh the nausea and the sickness and all of that. I I was like it was bad. So why
+Nurse: Didn't pain management give you the um because it looks like pain management is the one that gave you the [PHI-Account] mg.
+Patient: No, somebody gave me, let me see his name. Doctor [PHI-Personal]
+Nurse: Pain Management prescribed they,
+Patient: They upped it to 800 mg. Uh Let me see her name on here. Doctor was giving me uh I got the prescription in my hand, the pills in my hand. Doctor prescribed [PHI-Account] mg. Pain management upped it to 800. But I only took, they only gave me like one prescription and I'm just trying to get something to, to and I, I had the so pain management
+Nurse: Gave you the eight hundreds, right? Ok. So you need a refill of the eight hundreds from pain management.
+Patient: Well, uh, I'm not, them, people tried to, they did, they wouldn't help me [PHI-Personal] all. They wouldn't even answer phone calls when I was so sick. And like I said, they don't answer phones. I mean, you know, you leave messages, they don't call you back and it was just bad and I, I even called [PHI-Personal] home call and doctors and stuff and they call [PHI-Personal] called doctor. They wouldn't answer. So I'm really tired of them. I just wanna see if she could up. I'll try if they
+Nurse: OK. No, I'll send a message over and see what movement we can make. You know, I don't mind it [PHI-Personal] all. I just wanted to be clear that doctor is the one that prescribed it. The 800 I think. I
+Patient: Think so. Uh Yeah, I think so and, and, and I googled it to make sure that that's the one for nerve and if it is, that'll help. If, if it'll help me [PHI-Personal] all, I don't wanna have to take two of this [PHI-Account] mg to get any kind of relief because I called another uh in y'all network, another um pain management doctor. But I don't see them until, because I, I tell you them people, I said they were just let me that with this stuff that I was throwing up. Oh, it was bad. I know we're gonna,
+Nurse: I'll, I'll send a message, don't worry about it. I'll get a message sent over and see, you know what, uh, if there's anything that doctor can do about the, um, uh, gabapentin and see if there's,
+Patient: And see, because I think it does help a little and see that and if it does help, that'll give me so I can get through the day. Even the pain is bad now. But I can get through the day. But [PHI-Personal] night I'm on all night. It only, you know, two hours, I'm lucky. So I get three hours of sleep [PHI-Personal] night.
+Nurse: Ok. I'll mention that also to let her know it's affecting you and your Ad Ls. In the meantime, I want you to again, like I keep stressing, I need for you to check to see if that area is open. Keep your eyes out for any type of headaches, any type of blurry vision, any fruit, smelling breath. Those are all signs that perhaps your sugar may be a little high. Ok? But in the mean time, the most important thing right now, in between time is to see if there's an open sore [PHI-Personal] the bottom of your feet so that we can get that taken care of immediately so that it doesn't um you know, nothing happens. Ok? Increase your water intake. All right, and elevate your
+Patient: Leg. I drink a lot, a lot, lot, lot of water, a lot of water. Ok? Ok. Now my um the legs above my ankles before and right before you get to the knee, it, it feels like, uh, when I get up, my feet hurt so bad because it, it makes you get up and they give you a
+Nurse: Walker or a cane. I say
+Patient: I use a walker cane is that can actually, and, uh, I'm tearing my shoulder shoulders up trying to, I don't walk. I hold on so tight. Um, it's just, I don't know what I'm gonna do next. Mhm.
+Nurse: All right, dear. Well, let me get going on this. Um,
+Patient: I'll check my feet soon as I have with you.
+Nurse: Ok. And if, and once you see, uh, call me, call me back and let me know you, you have the number, call that same number right back and then, uh, let me know if, uh, you, if you, um, if there's any open areas on there,
+Patient: Uh, uh, uh, it, I, I take, uh, what's the name of that medicine? Uh, omeprazole, but every morning it's my stomach. It's just, uh, I guess it's from all the medication, more than likely a medication to tear my stomach up. You know, I wake up every morning with a kind of nauseated and, and a little bit of a stomach ache and then, then, uh, when I take, I take, uh, they want me to take it every day. Of course, I can't take it because I've been on the toilet for like three hours. With that. It's so strong, I guess. And, and I give me a little relief for, for the rest of that day, but the next day is right back. I know that's a lot to be telling her that somebody need to do something.
+Nurse: Ok. So what do you want her to do? Take you off the medication?
+Patient: Uh, no, I can't take it. Not take nothing. I don't know what to do but just work on whatever the first things I told you about. Ok.
+Nurse: Omeprazole. And yeah, so listen, this is what we're gonna do. We're gonna work on this part and then let her handle that one and then we'll send over another message after we situate this one because I don't want it to get lost in the sauce and pushed aside like it's not important. And if we send it as two different things, it can be addressed. Like, so you know what I mean? Yeah, I got you. Ok. But yeah, we're definitely gonna address it. Don't feel like it's not important, but let's do it in a systematic way so that we can, you know, strategically get what we need. All right.
+Patient: All right. Thank you so much. It's a pleasure
+Nurse: Dear. Let me get busy working here on um uh getting your uh message sent over about the um 800 mg um gabapentin. OK. Thank you. You're welcome dear. We'll talk soon. Take uh look, look your, look [PHI-Personal] your feet right now and call me right back.
+Patient: I will, I will. Ok. All right. Bye bye. Ok.

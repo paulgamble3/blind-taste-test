@@ -1,0 +1,33 @@
+Nurse: Hey, this,
+Patient: This, uh, this is Reclaim calling [PHI-Personal] gave me some medications to take and I was supposed to quit taking the Metformin and he gave me another medication and I was take five mg and stay with my regular medications. Then after so many, seven weeks I think it was, I went to, uh, another medication. Oh, just a second. I got to get it and I have a question.
+Nurse: Wait, hold on and let me pull up your chart. Hold on. Ok.
+Patient: Ok.
+Nurse: Yeah.
+Patient: No, no, you have to go see mom.
+Nurse: Ok. You, ok. So I do remember us talking Mister [PHI-Personal]. Um, you were to stop the Metformin and start the Xigduo.
+Patient: Yeah, I don't, yeah, I guess that's what they call it. 10 mg of
+Nurse: What, 1000 mg. Yes. It had Metformin in it already.
+Patient: Ok. Well, I'm having a pro, I don't know, I got, I think it's a problem but I don't know. I did take a steroid shot here about a week ago. So I know that's gonna [PHI-Personal] it up. But my blood sugar, my blood sugar for seven days is [PHI-Account]. My 14 days is [PHI-Account] 30 days. [PHI-Personal] 90 days, 1 64. Is that good, bad, or indifferent?
+Nurse: [PHI-Account]
+Patient: For seven days, [PHI-Account] uh, for 14 days and [PHI-Personal] for 30 days
+Nurse: To say you took that shot. That's not bad.
+Patient: Yeah, it's been about
+Nurse: A week ago. Yeah, that's, that's not bad. Have you been stressing? Do you have any, uh, infection going on?
+Patient: No, just the only stress I got these numbers. I don't wonder why I can't get them down because he said that medication should bring them
+Nurse: Down. And how often are you taking that pill once a day? Yeah, I take it once a day. Yes, sir. Um, and are you still taking your NovoLOG 70 30 [PHI-Personal] units before breakfast? Ok. Yeah, I said
+Patient: [PHI-Account] in the morning and [PHI-Personal] at night.
+Nurse: Ok. Let's see. Is that what I have? [PHI-Account]? Yeah. And [PHI-Personal]. Yeah, that's exactly what I have. Um, so I, you know, these
+Patient: Numbers aren't been, you know, you know, or, you know, to you, that's ok if it's ok with you. I, I mean, I'm just, I'm just questioning it. I mean, I thought maybe this stuff would start bringing it down, get it and I, I don't eat that much. I eat once in the, I eat in the morning and I eat very little in the afternoon and then I'm good until the next
+Nurse: Day. So you just started that medicine. You haven't been on that medicine for a month yet though, right? No, not for a month. Yeah. Yeah, it takes time. It, it could take a couple weeks to a month for the medication to get in your system. Ok. Well, all right, we'll just, yeah, and [PHI-Account] is not bad at all. That's not a bad. No, sir. That's, that's not a, um, that's not a bad number at all. Um, like you're not feeling bad or anything, huh?
+Patient: No. No, it's just the idea. You know, I was just wondering about these numbers because, you know, like when you, from, when I first became diabetic, they told me to keep it under 100 and 20. And I thought, oh, boy. And now I better check with the doctor and find out what's going on. Now. I, I realize that steroid shot they gave me was gonna [PHI-Personal] it
+Nurse: Up. It will, it will. Yes. So, look, let me tell you the steroid shot will also increase your, um, diabetes and also stress whenever we stress it, release the hormone that increases our sugar. So that also is not good, but that's not a bad number. Like I thought she was about to say like the three hundreds or something, then we have to worry like the number you, the [PHI-Account] is not bad.
+Patient: Ok. All right. Well, I got an appointment, I think [PHI-Personal] the first with him.
+Nurse: Hold on. I can tell you, let me look it up.
+Patient: So. Ok, that's what I wanted to know. I just want to, you know,
+Nurse: Check it out. You have 1 [PHI-Personal] the first. You have an appointment with him. [PHI-Personal] the first at 9 45. Ok.
+Patient: Yeah. All right. Well, we'll write it out there and then see what
+Nurse: Happens. Yeah, let me know. Um, like if you start feeling bad, like, if you start getting, um, like, um, excessive thirst, um, frequent urination, uh, blurred vision headaches, um, like, um, like really tired, like that's all signs that your blood sugar is like super high. But at [PHI-Account] you shouldn't feel any of that because that's not high. I think that's that in that steroid injection that you got a week ago, right? That's what's in, in, um, that's what's affecting your sugar. Um, so why did you get the steroid injection?
+Patient: I have, I have sciatic nerve problems in my lower back and they, they were, they were trying that shot to try to ease that pain in my lower back. And now I told, I said I can't take them. Now. They're considering doing nerve blocks. Would that do anything to sugar?
+Nurse: Oh, I'm not too sure about the nerve block. I'm not too sure is not a steroid. So to me it shouldn't do anything. Ok. Well, they
+Patient: Want me to go six weeks and then we're gonna check back on them and then we'll talk about the nerve block because right now it it affects my hips. Um, so, all right. Well, we'll see you then on [PHI-Personal] the first and we'll play, we'll see what the ball game is by then.
+Nurse: Yes, sir. Yes, sir. Sounds good. Have a good day. Alright, thank you and ok, you're welcome. Bye.

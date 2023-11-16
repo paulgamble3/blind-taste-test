@@ -1,0 +1,39 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Uh, [PHI-Personal]. Hi. I missed your call.
+Nurse: Yeah, that's all right. I, I was just calling to check in with you both today. See how you're doing? Oh, doing good. Good. Ok. So, when we spoke on Friday, yeah, about the cramping in your legs. Do you feel like it's gotten any better?
+Patient: Is your leg getting any better? You cramping in your leg? No, she said
+Nurse: No. Ok. Got it. And then how about the shortness of breath and breathing?
+Patient: How about the exercises at home? That's it. How about, uh, your breathing and stuff? My breathing is fine. Your breathing is fine
+Nurse: And then good. Ok. And so she's still doing the, every three days for her cholesterol medications, right?
+Patient: Yeah, every three days for your cholesterol. Perfect. Three days for your cholesterol. Yes.
+Nurse: Ok. Good. And, um, and then Ted, how are you doing with that cough? Is that any better?
+Patient: Uh, it seems to get better. I took 10 of them. Uh,
+Nurse: The steroid. Yeah.
+Patient: Yeah, I got, uh, I'll be all done with that Friday,
+Nurse: Friday. Ok.
+Patient: Um, I'm on my two a day, two a day now and tomorrow will be the last day of that one.
+Nurse: Ok.
+Patient: Oh good and my uh my wife sells her uh what's that medicine you gotta have from the doctor? Oh the pharmacy just text me that um they haven't heard from my doctor to refill the vitamin but they didn't say what vitamin.
+Nurse: Alright let me look here. Thank you [PHI-Personal]. You're welcome. Yeah of course and so it looks like um there is your B [PHI-Account]
+Patient: B [PHI-Account]
+Nurse: Could be vitamin D buy me D
+Patient: Vitamin D. Are you still taking it? Is that gonna have it? Didn't they didn't say what it was
+Nurse: They didn't say
+Patient: DVF didn't say all they said to the doctor how it got back for
+Nurse: You. Ok, I'll give them a call and I will check to see which vitamin it is and I'll let doctor [PHI-Personal] know so we can get the prescription going.
+Patient: Yeah, now what about my uh my X ray?
+Nurse: So with that um I did let [PHI-Personal] know that you know, we spoke kind of briefly on Friday and um so let's see here I don't see a response yet. Uh but you know because you have had the COVID in the past and you still have this cough. Um you know, we could always see how you feel Friday once you've completed the steroid. Um and you know, go from there see if she still wants you to get the CT scan. It's just she hasn't um, she hasn't responded, so, I'm not sure. So, I don't exactly have an answer for you yet. But that's kind of what, what our options are right now,
+Patient: What they're talking about. Uh, my wife says she's got a ball. I don't know. You know,
+Nurse: The, the CT scan.
+Patient: Now, my wife talking. Yeah.
+Nurse: All her vitamins.
+Patient: My outer sin. Yeah. [PHI-Account] left it in. Yeah. [PHI-Account]
+Nurse: Left. Yes. And that's the medication that she would be taking every three days
+Patient: That the medicine you take it every three days. This this is the one. Yeah. Yeah. Yeah.
+Nurse: Yeah. Ok. So as soon as I hear from doctor [PHI-Personal], what about the chest ct scan? I will let you know.
+Patient: Ok, are you still gonna call the pharmacy and find out what that is and you
+Nurse: Call me back? Definitely I will give you a call back as soon as I have an answer um from the pharmacy and get the refills going.
+Patient: Ok then. Thank you very much.
+Nurse: Yes, you're very welcome. I'll talk to you soon.
+Patient: Ok
+Nurse: Bye bye. Alrighty bye bye.

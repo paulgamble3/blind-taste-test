@@ -1,0 +1,20 @@
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you?
+Patient: Hello. I just received a call from one of your folks about, um, me, uh, what, what can I tell you? Um, I guess you're doing something with Doctor [PHI-Personal] as far as, uh, and let me, what can I give you to identify me quicker other than the other smart ass on the other line.
+Nurse: Uh, just your, what is your name?
+Patient: Hi, it's [PHI-Personal].
+Nurse: Give me one second. I information. Sure.
+Patient: Sure. Sure. Oh, come on, I talk to my computer too to do.
+Nurse: Right. Yeah. And then, uh, what is your date of birth?
+Patient: It is [PHI-Personal] [PHI-Account].
+Nurse: Ok. Let me see who called you. It looks like was trying to contact you. Let me see if she's available.
+Patient: Oh, that's fine.
+Nurse: How's your day going today?
+Patient: Good, actually. Good. Yeah, I'm, well, I'm having a little procedure done in about two hours. So.
+Nurse: Oh, in two hours today. Yeah, we a hemorrhoid
+Patient: [PHI-Personal].
+Nurse: Oh, ok.
+Patient: So that's a happy thing actually. Ok,
+Nurse: Let's see here. Well, what I can do is I can let her know that you've called back so that she can reach back out to you. Ok, that's fine but I'll also let her know you said in about two hours you're not gonna be
+Patient: Available from two o'clock to about three o'clock.
+Nurse: Ok. All right, I'll let her know. Yeah. Ok.
+Patient: Yeah after that I'll be free. Ok. Well many things. Alright thank you very much. Bye bye.

@@ -1,0 +1,38 @@
+Nurse: This is [PHI-Personal]. No we got
+Patient: Cut off.
+Nurse: Yeah, so. Ok can you hear me? Ok. Yes I can. Ok. Ok. Um so I was saying for your address we have you still at [PHI-Geographic], is that right? Ok. And then um for your insurance do you still have the gold PPO?
+Patient: Yes.
+Nurse: Ok. All righty. Um since the last time we spoke, have you had any changes to your medication? No. Ok. Alrighty you need any refills on anything right now? Not
+Patient: That I know of. Ok.
+Nurse: Ok. Um have you had any changes since we spoke last time?
+Patient: What kind of changes you talking about? Um
+Nurse: Like any changes in your medical um history? Any changes in your health or anything like that? How you go
+Patient: Get a colonoscopy?
+Nurse: Ok, you got it already or you said you have to go get one? I keep
+Patient: I keep putting it
+Nurse: Off. Oh ok you have you have you have an appointment scheduled already? Yes I do. Yes. Ok. When do you have it scheduled
+Patient: For? I I don't know exactly my wife takes care of that stuff. Oh, it might be might be next month, I think.
+Nurse: Ok. Ok. Yeah. Well, that's good. Yes. Try to keep that so we can go ahead and get that out the way and make sure everything is ok. Yeah. Uh, how is your wife doing anyway? Is she? Ok?
+Patient: Yeah, she's has good days and bad, bad days. Mhm. Yeah, she got, she has to have a new of surgery.
+Nurse: Ok. Ok. Yup. All righty. Um, let me see. You haven't had like any, any falls or, er, visits or anything like that in the past month? No. Ok, good. All righty. Um, let's see. Let me make sure. Yeah, we have all your goals checked off. Yeah, everything is checked off from last year. So I'm gonna send, uh, we're gonna send you a new, um, 2023 wellness letter goals. It's just gonna basically have like, um, the appointments you need to come to or procedures you need to have done this year just to kind of keep track of everything. Um, let's see. Have you had any, any issues with your depression over the past month?
+Patient: No, just, just that I'm stressed out every
+Nurse: Day. You stressed and tired and everything. Is it more so from work or you still having the same issues, like with your brother that you were having before?
+Patient: No, it's, it's my brother and my wife, you know, I'm trying to do the best I can for both of them, you know. Right. Right. It's all right.
+Nurse: Yeah. Ok. Well, I hope everything works out with that. Um, let me just while I have you on the phone, I'm just gonna update your depression screen really quick. Ok. So over the last past two weeks, how often if at all have you been bothered with the following problems? Um, little interest or pleasure in doing things
+Patient: That's negative. Yeah, because the is doing so.
+Nurse: Yeah. Yeah. You, you stay busy? Ok. Um, how about feeling down, depressed or hopeless? No, no. Any trouble falling asleep, staying asleep or sleeping too much.
+Patient: No, I, I have one problem. I set, I set my, I set my alarm at 4 30 I always get up before the alarm goes
+Nurse: Off. Oh, do
+Patient: You? That marine Corp for? Yeah,
+Nurse: Your body is probably train to, to that time. Yeah, your body is probably trying to get up. Really?
+Patient: Right. Yeah. Even, even my days off. I, oh, you still get up? Yeah. Yeah.
+Nurse: Ok. Um, how about feeling tired or having little energy?
+Patient: I am too much. Mhm.
+Nurse: And how's your appetite? Good. Good. Ok. Um, any issues, like feeling bad about yourself?
+Patient: No. Ok.
+Nurse: And any trouble concentrating on things like reading or watching TV,
+Patient: Reading, forget it. II, I wear glasses and, uh, and I have to, I have to get a surgery on my eye too. Yeah. Ok.
+Nurse: All right. And then no thoughts of harming yourself in any way. No. Ok.
+Patient: All right.
+Nurse: So I'll update that and let me see I think that's it. Um did you have any questions or any concerns about anything? No I don't. Ok. Alrighty so you do have an appointment coming up um [PHI-Personal] at 5 p.m. in the office. Yeah so yeah um and that's on a Tuesday so. Ok. Ok. Alrighty. Well if you need anything or have any questions or concerns you can feel free to give me a call. Um I'll go ahead and send that letter out to you and then I'll talk to you in about another month or so. Ok. Ok, thank you very much. Alright you're welcome
+Patient: Have a good day. You have a nice day. Ok, thank you. Bye.

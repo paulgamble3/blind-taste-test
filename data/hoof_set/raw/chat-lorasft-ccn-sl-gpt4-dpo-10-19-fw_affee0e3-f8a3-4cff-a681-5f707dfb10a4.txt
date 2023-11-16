@@ -1,0 +1,23 @@
+Nurse: Great, thank you for confirming.I'm just going to quickly verify your details.Could you please tell me your date of birth?
+Patient: December first nineteen fifty six.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that, Mr. Gannet.I'm calling on behalf of Myelin Medicare.We're just doing a routine health check on all of our patients.I'll be asking you a few questions about your health.Can you spare a few minutes for this?
+Patient: Well, only a very few minutes.I I don't like these calls, to be honest.
+Nurse: I understand, Mr. Gannet.We'll try to make this as quick as possible.The purpose of this call is to gather some information about your health.It's essential for us to know how you're feeling and if you're having any issues with your health.This information will be shared with your primary care doctor to ensure you're getting the best possible care.So, let's get started.
+Patient: Okay.
+Nurse: Great.The first question I have is about your living situation.Do you live alone or do you have someone living with you?
+Patient: I live alone.
+Nurse: I understand, living alone can have its challenges.Now, I'd like to know about your mobility.Do you have any difficulty moving around your home or doing daily activities?
+Patient: No. I don't. And for the record, I like living alone.
+Nurse: I'm glad to hear that, Mr. Gannet.It's critical to enjoy your own company and the space you live in.Now, let's talk about your medications.Are you currently taking any medications, and if so, could you tell me which ones?
+Patient: Well, I'm taking something calledMetoprolol.And I take a tour of the statin.
+Nurse: Okay, thank you for sharing that.You're taking Metoprolol and a statin.Do you know what these medications are for?
+Patient: Of course, I do.
+Nurse: Great, it's important to know why you're taking each medication.Now, I'd like to ask about your diet.Are you careful about what you eat or do you eat pretty much what you like?
+Patient: I hate what I like.
+Nurse: I see, it sounds like you enjoy a variety of foods.Now, in terms of your physical activity, do you exercise or engage in physical activities on a regular basis?
+Patient: No.
+Nurse: Okay, it's completely fine if you don't do regular exercise.We can talk about ways to incorporate some physical activity into your routine if you're interested.Now, let's talk about your mental health.How have you been feeling emotionally?
+Patient: You know, I'm gonna be honest.With you. I don't wanna answer that. That's really nobody's business but my own.
+Nurse: I completely understand, Mr. Gannet.It's important for you to feel comfortable sharing information.If you'd prefer not to discuss your emotional well-being, we can skip that for now.We can always revisit the topic in the future if you're open to it.
+Patient: Yeah. I just don't feel like it's anybody's business.

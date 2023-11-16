@@ -1,0 +1,22 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hi, how are you?
+Nurse: I'm good. How are you?
+Patient: I'm hanging in there. It's a 1.9. I think it
+Nurse: Was 1.9. Yeah.
+Patient: Ok. It just like fluctuating between 1.81 0.92 0.2. Not 1.9. It's like back and forth that little area which is maybe a good thing. It's not like it's going heavy into something different.
+Nurse: Ok. Uh, let me see. I'm just pulling up your chart now and then, um, did you get a hold of doctor office?
+Patient: Uh, no, she's, they're gonna call me back, see if they can get me in because she's pretty busy and they book, she's booked up for a while. So they're gonna talk to her and see if they can get me in sooner. They call me back.
+Nurse: Ok. All right. So, oh, I'm sending a message over to and then, um, so Inr was 1.9 and you're taking Coumadin five mg. Yes. Ok. Got it. Do you need any refills of any of your Coumadin? No. No. Ok. Ok. Oh, I will let her know. Um, I'll let know and then either myself or will give you a call once Doctor [PHI-Personal] or [PHI-Personal] has reviewed, um, your inr and just let you know if we need to make changes. Um, how are you feeling today? You know, I mean, neck, uh, you get the headache pain and, ok,
+Patient: The pain is bad but, I mean, I guess the headache, which I have dark glasses on. Um,
+Nurse: Ok. Well, so how's your appetite? Have you been eating?
+Patient: And we don't have an, I don't really have one.
+Nurse: Mhm. Ok. Well, keep track of your weight, like you said, um, at least once a week to make sure, um, I can't remember what your weight was. Let me just look at my notebook. Um, let's see yesterday. 1 58. So, in a week or so when you check your weight, if you're down from that 1 58 definitely. Let me know, uh, because I don't want you to lose too much weight along with taking that Lasix every other day. Um, so we don't want you dehydrated either. Ok. Ok. Do you wanna schedule a follow up with [PHI-Personal], you know, for your case
+Patient: Or? Ok.
+Nurse: Ok. Well, as soon as I hear back from sh, um, I'll call you or, you know, can you
+Patient: Send that stuff to Doctor [PHI-Personal] or who does that go to?
+Nurse: I sent it to Tish and then she will forward over to Doctor [PHI-Personal].
+Patient: Ok. Yeah. Trying to figure where, where it all goes.
+Nurse: Mhm. Yeah. So, is normally my, like, my main contact and I'll let her know, you know, if there's any changes or whatnot and then she'll forward it over to Doctor [PHI-Personal], um, or sometimes [PHI-Personal], you know, if Doctor [PHI-Personal] is out of the office.
+Patient: Ok. Mhm. All right. That sounds good to me. Just kind of see where it goes.
+Nurse: Yeah. Yeah. Ok. Well, I hope you feel better and, um, you know either myself or will call you back but I'll definitely check in with you again at some point this week just to see how you're doing, you know, before we get into the weekend and such. Ok, sounds good to me. Ok, hang in
+Patient: There right I will. Alright I will talk to you later. Alright bye bye. Alright bye bye.

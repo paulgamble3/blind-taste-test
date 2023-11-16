@@ -1,0 +1,22 @@
+Nurse: Hello. Hey,
+Patient: [PHI-Personal], this is [PHI-Personal] Mornings, daughter. I, I called about her BP this morning when she got up. It was when I took it last night, I couldn't get the machine to work on her arm. It kept giving me an error but this mo but it worked on my arm. So I don't know what was going on there, but this morning it was 1 18/58. Ok. And now she, and then she went back to bed this morning and laid down and slept. Actually, she just got up and I took it again and it was 1 18/57. Ok.
+Nurse: So I did remember, let me actually let me pull up her chart. Can you verify her date of birth so I can open that? It's
+Patient: 99, 16, 27. I I know her lower. That bottom number has been low before. I, I think when she's had BP taken, but I'm not, I'm not sure.
+Nurse: I, you know, you had mentioned you were concerned about it when it was 1 35/58. Um and I had, I did let [PHI-Personal] know that just because you were, you know, it was, it was borderline because they say under 60. Um, and she said that that's not concerning, that was what she responded on the [PHI-Personal]. So, um, yeah,
+Patient: If it, my mom took the pills this morning, uh, right when she was eating breakfast and she thinks she thinks that that's, this is, they're affecting her because she had an empty stomach. But she ate right when she was taking em and I thought I had read that you could take it with or without food. Which the
+Nurse: Paxlovid or the, the BP
+Patient: Medicine. Yeah. The Paxil. Yeah. The other, the BP medicine. The, the one that interacts she doesn't take that to the evening.
+Nurse: Yes. Ok. So that one you can take, I, I was told, you know, you can take it with or without food.
+Patient: Yeah. And I, I took it without, and with, and it never upset my stomach. So I think she, it's just, you know, she feels that way. She can't take the pills but I'll make sure she have something to eat. Takes it a half hour after she eats or something. I just was concerned a little bit because of what you said about the BP. But just if you double check or check with doctor [PHI-Personal]. Yeah. And just let, let me know she's, I mean, she seems fine but other than she was tired this morning and went back to bed. Yeah,
+Nurse: And that's, that's, um, that's kind of, I mean, she does have COVID. Um, but so that, that could be a sign but usually what you would see, you know, fatigue is a sign. Um, but like you would also see if it was concerning, she would probably be lightheaded or dizzy. Um, she'll also report like nausea too.
+Patient: Um, she didn't, um, she hasn't complained about that and I, I said, can you walk out because I had her come out to the kitchen to take her BP so I could get her sitting correctly. So I, because I think the cuff is, her arms are so thin, you know. Oh, yeah, to get the cuff on. Right.
+Nurse: Yeah, that's another thing is, is maybe the cuff's a little bit too big because if the cuff is too big it'll give you a false low.
+Patient: Well. Oh, really? Well, yeah, it didn't hurt when I used it last night. It didn't, it, mine actually was a, a little bit high, like it was 90 the bottom number, which is unusual. Usually it's not like that, but probably I'm nervous about my mother.
+Nurse: Yeah. And, and you know, Paxlovid, I think causes more, is more likely to cause like high BP than low. Just, just so, you know,
+Patient: Um, I just keep my eye on her. I just wanted to call because that's what you said if it's below 60. So, but it's not, you know, it's
+Nurse: But, but she doesn't, she doesn't have symptoms, like, if she started, like, acting, confused or depressed, like she was, you know, passing out when she stands up or reports, you know, she has clammy skin, blurry vision, any of those things besides the fatigue, which is kind of probably the COVID. Um,
+Patient: Well, we're gonna have a shower now, so I'll be keeping a good eye on her and, yeah, then we'll eat lunch. Ok.
+Nurse: Yeah. Now if she does report the symptoms, have her lay down, put her feet above her heart, you know, give us a call. Um, but yeah, she, the, um, they weren't concerned about, about the, the lower number being like 58 or, you know, around the. Ok, it's, it's just borderline but no symptoms.
+Patient: Ok. Thank you. Anything else I can help with? No, I hope not.
+Nurse: Ok, good. All right. I hope she keeps feeling better.
+Patient: Thank you. Bye bye. Thank you.

@@ -1,0 +1,79 @@
+Nurse: [PHI-Personal] calling. This is [PHI-Personal].
+Patient: Hi. Uh this is [PHI-Personal] and um, Doctor [PHI-Personal] who is my doctor and he left a standing um prescription for my um lips that were all um had canker sores and he said if it came back to just call and um they'd be able to send it out to the, the pharmacy.
+Nurse: Ok, [PHI-Personal], let me have your birth date if you don't mind so I can get your chart
+Patient: Pulled up [PHI-Personal] [PHI-Account].
+Nurse: And I'm sorry, what did you say your last name
+Patient: Was Sor Fa N Os? Ok,
+Nurse: Let me get you pulled up here. Give me one moment. Was it the Valtrex that um you're referring
+Patient: To? Yeah, I guess that's how you pronounce it. [PHI-Personal] Ac yclov. That's
+Nurse: The generic name. Yeah, that's CYCR. Um So that was actually sent to your pharmacy [PHI-Personal] Cod um health Pharmacy on [PHI-Personal]. It was [PHI-Personal] tablets with one refill.
+Patient: Yes. And then um I got that but he also on if I needed more. He said to the, oh God, I can't think of her name that the one that, that, you know, stays in there that he would have one available. I wouldn't have to go through him that they would have it on my chart that, um, if I needed it, if I needed more, all I had to do was call and um, say that I, you know, needed an another
+Nurse: Refill. Right? So you took the 1st [PHI-Personal] tablets already.
+Patient: I've taken them and I've been fine up until today, I've got the, um, canker so bags and on my lower lip. Uh I wanna catch it before it gets real bad like it did before.
+Nurse: So he put one refill on that order for you. So all you have to do is call [PHI-Personal] Cod Health Pharmacy and let them know you need it filled. So he ordered the [PHI-Personal] tablets and then he also done one refill.
+Patient: Ok. So I just, I have to go where I go back. Just
+Nurse: Call your pharmacy. Yeah, just give them a call. Let them know that you need them to fill it for you.
+Patient: Ok. Uh I'm in which I normally go to Walgreen in, but I've been staying with my grandchildren in. So it's been going to CV S um in common. So hopefully they have it on record.
+Nurse: No, they wouldn't have it on record. It was sent to [PHI-Personal] Cod Health uh Pharmacy.
+Patient: Where is that
+Nurse: Um at the
+Patient: [PHI-Personal]? Oh, no, you're kidding me. That's
+Nurse: Where you would have filled it the first time. Um but I can forward a request to him letting him know that you needed to go to the CV S and fee.
+Patient: Yeah, that's where I picked it up before.
+Nurse: That's not where you sent it. It must have been maybe transferred there. Did you request to be transferred? Maybe
+Patient: I asked him to be transferred from [PHI-Personal] and port to CV S and Common, which they did and I picked it up there. Ok, give me one
+Nurse: Second. Let me, let me just confirm that, that.
+Patient: No, I don't wanna go to the [PHI-Personal] I'm in.
+Nurse: Right. You don't have to. I'm just telling you where it was ordered at. That's all. Um, the CV SB, there's eight [PHI-Geographic], that's one of the pharmacies listed on your chart. Yes. Is that the one you're referring to?
+Patient: Yeah, I guess it's [PHI-Geographic]. It's in common. So I don't know what the street, I guess it's that one. I don't think there's any other one in.
+Nurse: Ok. So I will, um, pen this and forward it back to doctor and asking that that order be sent to that CV SS.
+Patient: Oh no, I, I, he, he put it so that I wouldn't have to go through him again. But well,
+Nurse: Because he ordered it through the [PHI-Personal] Cod Health Care Hospital Pharmacy. A new order has to be sent through. That's where he sent it the last time he sent it on [PHI-Personal], he sent it to the [PHI-Personal] Cod Health Care Hospital Pharmacy. [PHI-Personal] tablets with one refill.
+Patient: Isn't that funny? Because I picked it up at CV S and MA Common. I'm not
+Nurse: Sure. The only way that
+Patient: I know, I know there was another, uh, uh, there was another pill that I had to go to the [PHI-Personal] Cod Hospital, but that wasn't this one.
+Nurse: And you, and you said it's the Valacyclovir, correct? You spelled it out to me.
+Patient: Yeah. Va L AC Yclov. It's for um cancer sores on the mouth. Mhm. Yep. Yeah, I have to take uh yeah,
+Nurse: So if you picked it up the first time at that CV S maybe they requested the order be transferred to them. So they might even have that refill. I can give them a call just to confirm that and if not, then I'll request that it be sent
+Patient: There. Ok? For the second one. They, they um first they sent only 15 and I had to go and say no, I need [PHI-Personal]. The girl couldn't understand that six times five is [PHI-Personal]. She kept saying no, it's 15 and I said no six times 55 days, six pills a day, the
+Nurse: [PHI-Personal]. She she just
+Patient: Couldn't, she just couldn't get it, you know. Um So two s went in for that last request. So um they were a little confused down there but I do need the [PHI-Personal] for, for the five days because I have to take six a day,
+Nurse: Right? You gotta take two tablets by mouth three times a day for five days. Right.
+Patient: And I, and since it's just started to break out again, I wanna catch it before it gets real bad because it got real bad before.
+Nurse: Right. Yeah, I understand. And I will forward the request for you. Ok. So go, well, first I'm gonna call CV S to see if they happen to have a refill for you because if you got the first one at that CV, s most likely it's, it got transferred there somehow. Um, instead of the [PHI-Personal] Cod Health Pharmacy, which is where I can see that it originally was sent. So, if they have that there, then no wonder,
+Patient: No wonder that was a mess up.
+Nurse: Yeah, I'm not, I'm not exactly sure, but that's where Doctor [PHI-Personal] had originally sent it to on the ninth. Hm.
+Patient: That's very strange because he's known me [PHI-Personal] years and, you know, I don't pick up medicine.
+Nurse: You don't ever get it at [PHI-Personal] Cod Health Pharmacy because if not, then I can remove that pharmacy from your list. That way. There's not a mistake in [PHI-Geographic].
+Patient: They did it once before and I went and got it because I didn't wanna transfer it back to [PHI-Personal], which would take another day, you know. So
+Nurse: You have a whole list of pharmacies on here. So let's, let's go through them real quick. You do? You have a list? That's,
+Patient: I know it is. Yeah, because I'm over in and I was sick one time. I had to be here about three months and I had medicine transferred over here and then back to, and then back here, you know, it's very confusing. I know.
+Nurse: That's ok. How long will you be there in? Mash be, do you know?
+Patient: Oh, I'll be leaving here Thursday as far as I know.
+Nurse: Ok. All right. But the [PHI-Personal] Cod Health Care Pharmacy, we can remove that. Correct.
+Patient: Yes, please. I'm back. I don't care to go to the, yeah, I don't care to go there again.
+Nurse: Ok. [PHI-Personal], [PHI-Personal].
+Patient: That's original. But since I'm here, since I'm here, um, I'm going to CV SS and because it's right down the street,
+Nurse: Right. But once you go home on Thursday or whenever you go back home, will you be using that [PHI-Personal], um, in [PHI-Personal]?
+Patient: Yes. Not that I want to because they mess up so much.
+Nurse: Right? Ok. I'll leave it in there. Ok. Well, if you do just let us know the stop and shop pharmacy in, are you using it for anything?
+Patient: No, no, I, yeah, I did, I did when I had diff because they're the only ones that would accept my insu both insurances for that particular pill.
+Nurse: Ok. So I'm gonna remove the stop and shop be. Yep. All right, next one is [PHI-Personal] in, right? Are you using that [PHI-Personal] at all? I know you said you was using the CV S and B, are you using the [PHI-Personal] and B?
+Patient: No, not anymore. I'm, I'm kind of upset with that. Uh, [PHI-Personal].
+Nurse: I can understand that sometimes I read, um, CV S and are you using that at all?
+Patient: Um, yes, I have the one that's in area, it,
+Nurse: The road is all I can see here. Yeah,
+Patient: It's right next to a couple of doors down from you guys down in doctor
+Nurse: Office. Ok. Yep. So, now we only have [PHI-Personal], [PHI-Personal], um, the CV S and S, and the CV S and so now we're down to three and those are the three that you use that'll make it a little bit easier when looking through your list.
+Patient: I, I know, I know. It's like, I know because I'm over here, I'll be back over here in July too. So. Ok.
+Nurse: Yeah. All right. So I will first, I'll call the CV S and see if they have a refill of that medication and then if they don't, I'll request a doctor [PHI-Personal] and send it for you.
+Patient: Ok. Oh, well, he's not there today. I know there tomorrow. Yeah.
+Nurse: Well, we have covering providers and depending on, um, depending on different situations I'm able to fill certain medications myself, but I have to gather all the information first so I might be able to handle it. Yeah,
+Patient: I know when I was there when I was there. Um, we, I, I don't think it was last Monday on Monday before he, um, he asked that it be put on my record that I could get it without having to go through them. Mhm. Right. If it popped up, you know, if it started up again.
+Nurse: Right. Yeah. And that's why I gave you one refill. That's what that was, that was the refill. So, we just got to find out where that refills at because it appears that it's at the [PHI-Personal] Cod Pharmacy. But if you picked it up originally at CV S, then most likely the order got transferred to CV S and they probably have that one refill for you, but I'm gonna look into
+Patient: That for you to see. Yeah, I did have a little problem with them um at first with that, but that was because they didn't send enough.
+Nurse: Ok. All right. I will check into this morning and try to get it handled. Ok. Is there anything else I can help with?
+Patient: No, not at the moment. Thank you very much. Appreciate.
+Nurse: You're welcome. Absolutely. Have a great day.
+Patient: You too. Thank
+Nurse: You. Thank you. Bye bye.

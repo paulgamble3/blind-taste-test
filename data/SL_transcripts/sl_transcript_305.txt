@@ -1,0 +1,62 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi. I'm sorry. That's ok. Uh, it takes me a long time [PHI-Account] get this time. So let him bring a couple more times.
+Nurse: Oh, but it, it went [PHI-Account] your voice mail so I just left a voicemail. Yeah.
+Patient: Ok, sweetheart. Um, what we needed [PHI-Account] know was the doctor, did you order the supplies for incontinence or did the doctor or what? Because we can't find out who ordered them.
+Nurse: Let's see. Well, did he, has he went, he's not seen doctor anybody at our facility, has he?
+Patient: Not yet? He has doctor and they were supposed [PHI-Account] call me with the cancellation and they still have his appointments in [PHI-Personal]. He needs his date. Go
+Nurse: Back. What's his date of birth? I think I actually tried [PHI-Account] call you. I think I got one in [PHI-Personal]. What's [PHI-Personal] date?
+Patient: A August [PHI-Personal], 1941.
+Nurse: Yeah, this shows that he had one on [PHI-Personal] [PHI-Account] fi, oh, you weren't able [PHI-Account], it just, it was a no show on that one. He has one on the [PHI-Personal] of [PHI-Personal] with [PHI-Personal]. Then let me see. Let
+Patient: Me write that down.
+Nurse: Let me see. If I can [PHI-Personal] [PHI-Account] find something earlier, when's the, when would you be able [PHI-Account] get him in for a new patient appointment?
+Patient: Um, let me think. Oh, right. I've got two appointments this week, one tomorrow and one the next day. So, uh, then my daughter has signed [PHI-Personal] up for long term care with Sunshine. Is that gonna be a problem?
+Nurse: Uh, uh, what is, is that, what is that exactly? Is that he will be in like a facility or?
+Patient: No it's um no I don't want him in I'm trying [PHI-Account] get hours and I need the doctor [PHI-Account] recommend him for more hours because you got [PHI-Account] have 14 hours and I'm the one that has [PHI-Account] be his caretaker in the middle of the day and it's killing me and I can't do it um I'm doing it but it's it's hurting me really bad so um yeah if you can give me who what time is that appointment? The
+Nurse: [PHI-Personal] on the [PHI-Personal]? Yeah.
+Patient: Ok what time is it? [PHI-Account]
+Nurse: It at 8 [PHI-Account] just one moment. Ok honey. Alright it's at the [PHI-Personal] at 8 [PHI-Account] in the morning. Yeah
+Patient: [PHI-Account] is awful early too.
+Nurse: Yeah that was just the earliest appointment we could get [PHI-Account] [PHI-Personal] [PHI-Account] get him in there [PHI-Account] get some hours.
+Patient: I'm gonna [PHI-Personal] [PHI-Account] get him in there. He has a caregiver from 6 30 [PHI-Account] 7 [PHI-Account] 8 [PHI-Account] 9 on in the morning. So I have [PHI-Account], um, I don't know, I'll, I'll make it, I'll find some way [PHI-Account] do it. Um, now we
+Nurse: Can go the, now looking after that the earliest would be [PHI-Personal] 27th.
+Patient: No, that's too late. I want him [PHI-Account] come soon. He's got [PHI-Account] have those hours. Um, and I need [PHI-Account] know if, if sunshine, well, I can ask them tomorrow if they are in the pro in the, um, live with, um, as a provider, with Doctor [PHI-Personal], as a provider and [PHI-Personal] because I don't wanna change doctors, you know, I wanna keep him. Oh, my gosh. All right. So 8 30 I'll call, I have plenty of time [PHI-Account] call the squad and get them here early enough [PHI-Account] pick him up because I have [PHI-Account] do a wheelchair thing.
+Nurse: Ok. So you want [PHI-Account] keep, and you want [PHI-Account] keep the, the right.
+Patient: Right. And if I can't make it, I'll call you. But we're, we're gonna go for that. Ok. Ok.
+Nurse: Yeah, because I just don't want it [PHI-Account] be even further out for him. Now, this is what the, the physician's assistant because, I mean, uh, from the doctor office there, but that was the earliest. So maybe we can get some help for him. Ok. So
+Patient: She can tell him that he needs the hours. Right. And he'll, she should be,
+Nurse: She should be able [PHI-Account], she [PHI-Personal] even be able [PHI-Account] prescribe those. I'm not entirely sure how that works. But uh that would be our best. I think our best bet. Now, um I know before you had mentioned having some anxiety, how are you doing? Are you still,
+Patient: Uh I'm still having the anxiety. My hands are so broken out with a rash from, from trying, I'm allergic [PHI-Account] the gloves that they sent me. Um, that I'm having a problem with that company because, and that's why I wanted [PHI-Account] find out if you order the products or if the nurse practitioner did because they won't talk [PHI-Account] me. They said, oh, you can't tell us, we have [PHI-Account] have it from your doctor. So, because I called him, I said you sent the wrong size diaper and they won't change it. They're sending him extra large diapers when he needs a large,
+Nurse: I don't think that since they've, since he's not been seen in our office, I doubt that they're the ones that have ordered
+Patient: It. Ok, because they called office and they didn't do it. And I've got, I had one visit from a home doctor because I thought she was in the plan and then I found out she's not in the plan. I'm gonna get a bill for her. So it's like, but I think she ordered them. I just can't get her on the phone. I'll [PHI-Personal] again. That's what that lady was calling you about. Ok. Yeah, that,
+Nurse: Yeah, it, it would, I would almost have [PHI-Account] be one of the other providers because since he's not been seen in the office, I don't see anything here.
+Patient: Ok, good. And, um, I'll tell the girls [PHI-Account] tomorrow I'm gonna find out if doctor is in that plan. So she should bring my daughter. Really is the one that set this up and she should have checked on it because I'm not changing doctors again. Mhm. I'm happy with doctor. I've had him before. He's great and I just need [PHI-Account] get my husband [PHI-Account] him because I know he'll give him the attention he needs.
+Nurse: Now, are you now regarding you, your anxiety, your rash and everything, would you like [PHI-Account], [PHI-Account] have an appointment? Yeah, I have 1 [PHI-Personal]. But would you like an earlier appointment [PHI-Account] go check these things out?
+Patient: Yeah. If uh, if Doctor [PHI-Personal] had or the nurse practitioner, I, I'm coming there on the [PHI-Personal]. Can they see me like an hour later? Some?
+Nurse: Um, I'll look but I'm, it's kind of prior. It's hard where they, uh, I know, let me see if I can cancel. Now. There's one with Doctor [PHI-Personal] on the [PHI-Personal] of [PHI-Personal].
+Patient: Ok. Give me that one. Who's doctor? Is he new?
+Nurse: No, he's actually not gonna be in the office for, uh, much longer. I think he's leaving. But, um, or there's one, now there is one the [PHI-Personal] at [PHI-Personal] o'clock. That's [PHI-Personal]. I'm sorry. That's [PHI-Personal]. Um, so would you rather have the [PHI-Personal] [PHI-Personal] 1 with doctor?
+Patient: Um, yeah, I guess he's just gonna report [PHI-Account] Doctor [PHI-Personal], right? Yeah, they'll
+Nurse: All report [PHI-Account] Doctor [PHI-Personal].
+Patient: Ok. Ok. Good. Um, yeah, and that's what time
+Nurse: That will be at 11:[PHI-Account] a.m.
+Patient: Ok. 11 [PHI-Account]. And the date again,
+Nurse: Uh, [PHI-Personal] [PHI-Personal].
+Patient: Ok. Ok. I've got everything written down and doctor [PHI-Personal], I got that now. Ok. So I can write it on my calendar. Mars the first. I can't believe it's not finally gotten here. But, uh, my anxiety is really bad. I've been hollering at my husband and I shouldn't. And I told him, I said I have [PHI-Account] holler or scream in order [PHI-Account] get the strength up [PHI-Account] change you. You know, like people with karate. Yeah, they got, they got, I have [PHI-Account] holler in order [PHI-Account] get it coordinated because I can't get him [PHI-Account] turn or do anything for me. It's really hard and I've hurt my left arm twice. I know. And it's like I'm not supposed [PHI-Account] even be using that arm and I have been trying and I have [PHI-Account] use it [PHI-Account] change them, but it's really bad. I'm just a mess. I've been crying and everything else and it's like, you know, it's not me. I don't, I'm not usually a cry baby or a screamer. I'm a good person and they
+Nurse: Will do that [PHI-Account] you. So, I mean, honestly, it's,
+Patient: Yeah,
+Nurse: Ok. So I have you. So I have him, uh, let me look, let me pull him back up just so I can confirm this date with you. I think he's the [PHI-Personal] at [PHI-Personal],
+Patient: Right?
+Nurse: Is the [PHI-Personal] of [PHI-Personal] with [PHI-Personal] Dunn, the physician's assistant at 8 [PHI-Account]. And you're gonna be on the [PHI-Personal] of [PHI-Personal] at 11 [PHI-Account] with Doctor [PHI-Personal].
+Patient: Ok. Well, that'll work and hopefully I'll meet you there.
+Nurse: Well, actually I'm not actually in the office so I, I work outside of the office but, um, but you know, they'll hopefully they'll get some, get some things, get took care of for him and for you. Um, maybe [PHI-Account] help with that anxiety, just [PHI-Personal] your best. I know that it's hard but just [PHI-Personal] [PHI-Account] relax and, and take deep breaths and have moments [PHI-Account], you know, [PHI-Account] kind of [PHI-Personal]
+Patient: Even though my hands hurt. I've been making jewelry because I got [PHI-Account] do something with myself. Yeah, in between him, between him calling me. Yeah, sometimes he calls me every 15 minutes and drives me nuts.
+Nurse: I'm so sorry. Well, hopefully this will get, um, taken care of, um, and you'll feel a little bit better. Do you need refills or can I help you with anything else? Um,
+Patient: Yeah, I, you know what? And I think I've got enough of everything right now. Ok, I'll let you know.
+Nurse: Perfect. Ok, if you need me, let me just look and make sure that I've got everything in here. You let's,
+Patient: And I haven't gone [PHI-Account] the MRI yet. Um.
+Nurse: Ok. Mhm. Yeah. Ok. Sorry. Yeah, you haven't gone [PHI-Account] your MRI. Yeah. Well, hopefully we'll get some of this taken care of and they'll be able [PHI-Account] do that for you.
+Patient: Ok. Thanks, honey, because I, you know, I know I need it done because my vision gets double and it lasting longer periods of time now and it really upsets me when it happens. You know that my vision goes, I'm not gonna be able [PHI-Account] do anything. Yeah. All right, I'll talk [PHI-Account] you later. You'd be a good
+Nurse: Girl. I'll
+Patient: [PHI-Personal]
+Nurse: Just give me a call.
+Patient: Ok, I will, honey. Thank. Thank you. Bye bye.

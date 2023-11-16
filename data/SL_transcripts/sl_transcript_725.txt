@@ -1,0 +1,68 @@
+Nurse: Hey, [PHI-Personal].
+Patient: I, I guess I need a new phone. I don't know.
+Nurse: I was wondering what happened.
+Patient: Yeah, it just went bonkers on me.
+Nurse: Yeah, it happens to the best of us. Um, it looks like you have three refills, um, left on that Losartan. So all you have to do is call the Walgreens and get one going.
+Patient: Ok. Yeah, that's no problem. And she does that on the computer.
+Nurse: Ok. Good. Um, but I was gonna go ahead and just do a med rec with you because you're due for it. Is that ok? Just, it's called a med rec. It's where I just go through your medicine and list them and you let me know if you're taking them or not. Ok. Ok. It'll be quick. Um, the Albuterol inhaler two puffs every four hours as needed. Yeah. Hm. Hello? Yeah. Oh. Um, and then I have Azithromycin or Zithromax 2 50 mg. You might be done taking that. I said the antibiotic.
+Patient: Oh, yeah. No of that.
+Nurse: Ok. And then Klonopin.
+Patient: Yeah, I still take that
+Nurse: Then Cyclobenzaprine or Flexeril five mg every night if you need it. Uh,
+Patient: No, the ze pain. Yeah. It actually
+Nurse: It says you stopped taking due to making your head feel heavy.
+Patient: Yeah. No, I don't take that.
+Nurse: Thank you. All right. And then an Advair inhaler that one's marked as not taking,
+Patient: Right? I have two inhalers one I use, you know, as needed one once a day. Or that the purple, a purple one and a blue
+Nurse: One. Yeah. Yeah. Yeah. Um and then I have HYDROcodone acetaminophen or Norco 7.5 every eight hours as needed. Yeah. You're not having issues with taking that, are you? Yeah. Yes. As in you are. Yeah. What issue are you having? Uh, I said, are you having any issues? And you said? Yes. Uh,
+Patient: No, no. Uh, not issues. Just, you know, my back, my leg. I just, uh, that and so, yeah. No, I like, prefer some other way but I don't know of any other way. Got you.
+Nurse: Um, what about the Lexapro 20 mg?
+Patient: Lexapro?
+Nurse: That's, it's an antidepressant.
+Patient: Yeah, I think it's called a Phra.
+Nurse: Yeah, I think that's the other name for it.
+Patient: Yeah. Yeah, I think that's it.
+Nurse: Yeah. Now, I know you're taking the Losartan and then Singulair 10 mg at night.
+Patient: Hm. No. What's that?
+Nurse: Um, what's the Singulair? Yeah. Um, it's like a anti-inflammatory. It's for, like, allergies and preventing asthma attacks.
+Patient: Uh, no, I don't know that,
+Nurse: Um, Protonix 40 mg.
+Patient: What the hell is
+Nurse: That? It's for like, um, GERD or stomach ulcers or preventing reflux?
+Patient: No. I take a, uh, preventive heartburn medication.
+Nurse: Yeah, same kind of thing. Pantoprazole.
+Patient: Yeah. Yeah. Like, uh, for some heartburn tablets,
+Nurse: I think. Yeah. And then predniSONE.
+Patient: No, I'm out of those. I took that just, she just give me a week's worth of that or something.
+Nurse: Ok. And then the SEROquel, you're no longer taking that either.
+Patient: The SEROquel that's at night. No. Bye for sleeping.
+Nurse: Yeah.
+Patient: No, I not, I have it and once in a great blue moon I might take it, but not.
+Nurse: Oh, well, then we'll keep it on there just in case you need more and, you know, for whatever reason we don't want to get rid of it completely. And then let's see, what else we got Meloxicam every morning. What's that Mobic? It's like an anti inflammatory.
+Patient: Not that I know of.
+Nurse: Ok. All right, then that's all I got for you. That sound about right. Yeah. Ok. All right. Well, you have those refills for the Losartan. So if you need it you can call them or, you know, do it on the computer and get it filled. Um, is
+Patient: That better you? My appointment's like in [PHI-Personal], right.
+Nurse: Let's see. Yes. [PHI-Personal] 16th at [PHI-Account]:30 p.m.
+Patient: [PHI-Account] 30. Yeah. I don't understand. Let's deal with the, uh, [PHI-Personal]. What do you mean? Well, supposed to be? I'm supposed to see these [PHI-Personal] before I see the doctor.
+Nurse: Oh, that's the nurse visit. That's just the normal things. To make sure you're doing good. Like, make sure you're not having any, like, dementia, like, symptoms. They have, you look at a clock, like, little Medicare annual Wellness visit check stuff. It's really no big deal. It takes, like, no time at all. And the nurses do it. You don't have to meet with anybody. Just the nurses. Which, you know, I already,
+Patient: Yeah, because that one nurse said it's, oh, it's like a physical,
+Nurse: It's really not that big of a deal like really it's not they, they do less than a doctor would do really? They're just, you know, making sure you haven't like gone down functionality wise in the year.
+Patient: Yeah, cause my wife wanted to go with me.
+Nurse: That'd be nice.
+Patient: Yeah, cause she knows I don't, I understand half the shit they say
+Nurse: That's fair. Yeah. That wouldn't hurt. You can always bring her along but it's no biggie, I promise.
+Patient: Ok. Alright. Well, thanks for calling
+Nurse: Me, of course. Otherwise you're doing good.
+Patient: Yeah. Yeah. Yeah. If I could just get out in this heat and try to do something but it's too hot outside.
+Nurse: It. Yeah. And it's only [PHI-Personal]. Oh [PHI-Personal] my bad.
+Patient: Yeah. Yeah. June, July and [PHI-Personal] used to be my three dreaded months.
+Nurse: Well, you can always, you know, get a cold rag and put it in the freezer for a little bit and go outside and do something with that on your neck that'll keep your blood nice and cool.
+Patient: Yeah. Well, when they make a, uh, air conditioned suit to wear then I'll do that. I'll go outside more.
+Nurse: They, now they have those, um, wrestler Halloween costumes that you can blow up full of air. Yeah. Right. I don't know if it have the same desired result, but maybe, yeah, it sounds
+Patient: Like a sound like a body condom.
+Nurse: Oh my God. Something like that. Something like that,
+Patient: Something like that. Right?
+Nurse: Well you have a good day mister [PHI-Personal] you call me if you need me. Ok?
+Patient: I sure will.
+Nurse: Alright thank you
+Patient: Take care bye bye.

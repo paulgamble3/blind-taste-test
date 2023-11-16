@@ -1,0 +1,21 @@
+Nurse: Hi, [PHI-Personal]. It's [PHI-Personal].
+Patient: Yeah. Sorry, I was in the bathroom when you called. That's ok. Let me go
+Nurse: Back to your chart. It's always par for the course, isn't it?
+Patient: Right. Go on.
+Nurse: Um, he said he thinks if you feel the symptoms are becoming more frequent to move your appointment up, um, and he wants you to avoid caffeine until you see him.
+Patient: So I can just wait until the [PHI-Personal]. Most likely you
+Nurse: Can, unless you feel that they're moving like the, it sounds to me like yesterday pretty quickly. Yeah. And, and yesterday with you having the dizziness. That's kind of concerning. So, um,
+Patient: Well, I, I'll, I'll stop the caffeine. I'll just drink water. Ok. And I, I hate that just as bad.
+Nurse: Yeah. How much coffee do you drink per day?
+Patient: Uh, between one and two cups and it's generally early in the morning.
+Nurse: Yeah. Well, he's saying to avoid it because that does put your heart rate up, unfortunately. Um, do you want me to talk to them about moving your appointment up or do you wanna play it by ear? How do you wanna do it?
+Patient: I think I wanna play it by ear right now. If need be, I can call him if I feel like it's, it's too frequent. Getting too many.
+Nurse: Ok. Or if it gets severe, obviously, you know, if you have. Yeah, I did. Yes. But if you're getting like, um, the dizziness like you did yesterday and things I, I would move the appointment up. Uh, you don't wanna play with that? Ok.
+Patient: I don't know. I just, if I, if I may move the appointment up, when would I be able to get an appointment? You, you can you do that? I mean, I, I'm not sure if I'm going to have a ride, that's the whole thing.
+Nurse: Yeah, I don't, I honestly don't know. I don't, uh, they don't let me try
+Patient: To go for the [PHI-Personal] and if, if something comes up I will call
+Nurse: Immediately. Yeah, I made a note in there to doctor [PHI-Personal] that you don't have a car and you have, you can only do morning appointments so they'll see that. What if you need to call them? Ok.
+Patient: Ok. All right. Thank you for calling and I'll, I'll talk to you the next time around. Oh,
+Nurse: Certainly. Well, I'll check, I'm gonna check on you after your appointment and see how everything's going at that point and see what we're doing. The other thing is, um, call me if your symptoms get worse or you have any questions. Ok. Ok.
+Patient: I will, I will. Thank you so much. Oh,
+Nurse: You're very welcome. I'll check in on you later. Ok. Ok. Bye, bye. Bye, bye. You're welcome. Bye bye.

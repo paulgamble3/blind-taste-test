@@ -1,0 +1,53 @@
+Nurse: This is, how may I help you?
+Patient: Hi. Um, my name is [PHI-Personal]. Uh huh and I was uh, returning a call that I got for my uh huh.
+Nurse: Let me, let me pull your chart up.
+Patient: Ok, thank you. You're welcome. Could you hold on a second, please? Uh huh. Hello.
+Nurse: Hello. Are you
+Patient: There? Yes, I am. What a busy day. Everyone's calling, they're calling me from uh another doctor's office but I, but I, I took care of it and I, you thank you.
+Nurse: You're, you're welcome. Now, how do you say your first name again?
+Patient: Like a bell. Bell and a kiss
+Nurse: K be uh that's such a pretty name. Thank you. That is definitely a pretty name. Were you named after a family member or something?
+Patient: Um, well, in, I come from [PHI-Geographic] and they, you know, like [PHI-Personal] is a common name here is a common name there. Oh, really? Ok. Well, that's cool. Ok.
+Nurse: And so, um, what I was trying to reach out, well, obviously you've got my name and my phone number now. Um, but um, in, in between my, me trying to reach out to you periodically. Um, I do have a lot of patients that call me and the reason they call me is for multiple things and I'll give you examples. Uh, they either wanna cancel their appointment or make their appointment or they need to review their labs or they're not feeling good or they have a question. And I do see that, you know, you have uh multiple providers which um, yes, your, your pharmacy tech, your, the post transplant, um, your gynecologist, your, your diabetes, all that stuff going on. Um, so I do have access again to your charts. So I'm just going to verify your birthday with you. Yes, it is. What?
+Patient: September 9th? 1960.
+Nurse: Ok. And, um, of course, you know, as you know, you, it looks like you have my chart and all these providers hopefully coordinate with your doctor girl and sending in information and things like that. Um, so I basically call and say, hey, do you, have you had any medication changes? So, like have you had any new medication changes recently with any of the providers?
+Patient: Um, no, but I, I did forget to ask doctor, um, for some test because I have problems with constipation and they seem to work. So, you know, sometimes that happens and then I, oh my God, I forgot now I have to wait, uh, because it's difficult to get in touch with them to get anything.
+Nurse: So, do you want me to reach out to her to see if you can get that
+Patient: Refilled. Yes. And so I have like this itching in my belly. I don't know if it's allergies or what, but I started with this itching all the time on my, my stomach area.
+Nurse: Ok. Does it break out or does it just itch? It
+Patient: Breaks, it breaks out, it breaks out and it itches.
+Nurse: Ok. So there's a rash constantly or,
+Patient: Um, right now there is no rash. Is itching.
+Nurse: Just itchy. Ok. Well, you know, with the, and I
+Patient: Just saw her so then I will have to wait until next time I see her because I'm not going to bother her for something unless it's pain, unless it's pain.
+Nurse: Right. And, well, I'll, I'll let her, I'll update her about it. Um, but, you know, with you being a transplant candidate and all that stuff on the medication, you know, um, if, like you said, if you have the itching, it could be anything, a combination of, of all your medications. Um, if the rash or the itching persists like 24 7, you can't get rid of it. Um, definitely want to do that and go. So, so, um, do you take your BP on a regular basis?
+Patient: Um, I, when I go to the store pharmacy waiting for them because I don't, I don't have high BP. Um, I take the Losartan only half of it, uh, because, uh, ever since I had the kidney transplant, my BP has been, uh, regulated. It's not bad anymore. When
+Nurse: Was your transplant?
+Patient: He was about eight years ago. Now, I think it's almost a year. So eight years first, I have rejection but now I don't have any rejection.
+Nurse: Well, that's good. But it takes a while for the body to get used to that. Definitely. Ok. And then it looks like you take some insulin or is that not true?
+Patient: II, I do take insulin. I had a pancreas kidney transplant. But, uh, the, the fact that my body kept rejecting, um, the doctors, uh, give me large amounts of predniSONE and the diabetes came back. Mhm. I lasted, I lasted three years without dia diabetes, but then it came back. Oh,
+Nurse: That's too bad.
+Patient: Yeah.
+Nurse: Yeah. So, but a blessing. You've got a new, a, a new transplant. So that's really good. And is it a, it's a kidney, right?
+Patient: Yeah. Kidney and pancreas transplant. I have the
+Nurse: Kidney and pancreas. Ok. Yeah. Ok. Ok. Well, um, what I'll do is, um, send you a letter. Um, and like I'll reach out to doctor re and, um, either I'll follow up with you and, um, either, uh, let's do this right now while we're thinking about it because there are a couple things I will have to ask them
+Patient: And, and also I, I have more to tell you, uh, I need to see the doctor at [PHI-Geographic] General. I haven't seen them in a couple of years because of the COVID and the pharmacy at General, um, told me this time that they send me the, the prescription, they send it to me in the mail. They told me that this would be the last prescription. Unless I see a doctor. I put in a call last week to re she's my coordinator for the transplant, but she hasn't returned. I was gonna call her again today, but since I'm on the phone with you and you say that you are here to help me, I am telling you, you tell me what you think I should do about it. Um I should try reaching her again or if you can do it uh because I need an appointment ASAP, like I said, I, I don't have, first
+Nurse: Of all like hold on, hold on. Uh ok, so who's the appointment that you need a sp with
+Patient: Uh a doctor, a [PHI-Geographic] from the kidney transplant? Uh team? They usually see me, they, they would see me, you know, every few months and whatever. But so
+Nurse: One of the, the coordinators for your transplant. Do you go? Do they have? OK. Do they have like a kidney? Ok. Sometimes they have a clinic um but you don't have one doctor you see there.
+Patient: Yes, they have a clinic and I will see any of the doctors that are there because all of them know about my case or have treated me at one time or the other?
+Nurse: Ok. Ok. Whatever's available. Ok. And so going back to your, uh, constipation with, uh, medication, what pharmacy do you want that to go to?
+Patient: Um, is the pharmacy, uh, a Publix pharmacy? A
+Nurse: Ma? Ok. I just wanna make sure. Ok, but there's other medications that you're, that the pharmacist called and told you he's not gonna be able to refill unless you go to the clinic transplant. Right.
+Patient: Right. But this is another pharmacy, this is the pharmacy at [PHI-Geographic]. Yeah, that sends me only the medication for the transplant. Right.
+Nurse: Right. I understand that. I understand what you're saying. I just, I just didn't know what doctor you were trying to see. So I will also reach out to or however you say her name. Yeah, I have it right in front of me. I have her number here. Um, I will also reach out to her and leave her a voicemail that you need an appointment. A sp um, so that you can get your other medications related to your transplant refilled. Is that what I'm assuming?
+Patient: Yes. And you know, the, the yearly visit that they, that they give, they give a yearly visit. That's the one that I need to go to.
+Nurse: Ok. And so, and then, um, so do you have a preference in first available, morning, afternoon,
+Patient: First available?
+Nurse: Ok. And then, um, just let you know sometimes I make appointments and I call and I'm able to get out and I will ask her to either call you or call me. Um, they, you know, they're still doing the COVID precautions. So you may have to wear a mask and you may be limited to how many people can come with. You. Just fy I, ok.
+Patient: Yes. No. II, I will go by myself and I have masks with me because I, I wear them still because of my condition.
+Nurse: Ok. Ok. So, um, the goal is to get, um, your medication refilled by doctor and you gave me the pharmacy that you wanted it to and then I'll try to reach out to um, your post transplant coordinator as well to see if we can get you an appointment because you're running out of your medications because the pharmacy, which I see here, the tech, um, has informed you that you're not gonna be able to get your refills if you don't get seen soon.
+Patient: Right? I do have, you know, she did send these refills. She's just saying that in the future she cannot send anymore. This is a lot that she can send unless I see the doctors.
+Nurse: Yeah, I understand and, and people, unfortunately they start, I mean, not that it's a new role but I know in the past sometimes they'll refill. But if you're not seeing your doctor on a regular basis, at least every six months or once a year, your specialist, like you said, they're not wanting to fill them. So that will be what I will do. Um I will, you can call me today is Monday. If you wanna call me at the end of the week, if you haven't heard from us, um, me or your transplant coordinator with an appointment, feel free to give us a call. I will also try to route this through the system as well if I can. Um, but I definitely will call her as soon as we get off the phone. Ok. All
+Patient: Right. Thank you so much.
+Nurse: Ok. Thank you. Bye bye. Bye bye.

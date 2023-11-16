@@ -1,0 +1,19 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Um, yeah, I was calling for [PHI-Personal].
+Nurse: Ok, one minute please let me see if she's available. Um, who, who am I talking to? [PHI-Personal]?
+Patient: Oh, ok. I was just calling to see if um, so my aunt [PHI-Personal] um they want an inr on her for today and her um nurse, she is home health come in and the nurse is coming in. I want to see if um, they could fax the order to the nurses uh [PHI-Personal] and they were gonna draw it at home for them.
+Nurse: The nurses [PHI-Personal]. Yeah, so you order, do you by chance have a fax number for them? I do. Ok ready when you are.
+Patient: Ok. It's [PHI-Account] [PHI-Account] [PHI-Account].
+Nurse: [PHI-Account].
+Patient: No, I'm so sorry. One. No, it's one, it's [PHI-Account]
+Nurse: [PHI-Account]. Ok. Yeah. [PHI-Account] ok. [PHI-Account].
+Patient: Yeah, [PHI-Account].
+Nurse: I was gonna ask what her date of birth is. Her date of birth is
+Patient: [PHI-Personal] [PHI-Account] [PHI-Personal].
+Nurse: Ok. All right, I will.
+Patient: Yeah, the nurse is coming, they're going to get her blood work that we couldn't get done last week. Ok. And the inr they're going to try and do again. So, yeah, because my aunt is not a morning person and I cannot get her up to get her in there for morning. There's no way
+Nurse: I understand. Let me see here. I'm trying to see my computer is being crazy here. I just wanna make sure that I get her chart pulled up. Yeah. Oh so shit. Ok. Is it [PHI-Personal]?
+Patient: What? E I [PHI-Personal]? Ok,
+Nurse: Perfect. All right. I have the right chart. I'll get a message over, right. Anything else I can do for you today? No, that's it. Ok. You have a good day.
+Patient: All right. Thank you.
+Nurse: You too. Thank you. Bye bye.

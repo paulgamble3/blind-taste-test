@@ -1,0 +1,15 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Hey, this is [PHI-Personal]. I missed your phone call.
+Nurse: Yes. Uh, so I was able to get you scheduled with doctor, um, on [PHI-Personal] at three o'clock. They said that she is booking pretty far out since she was gone on vacation. I guess she, you know, trying to get caught up. Yeah, absolutely. Now, they did say that you, they could get you in with [PHI-Personal] sooner if you preferred, but I, I figured you would prefer to see doctor.
+Patient: Yeah, I'd rather stay with doctor. That's what
+Nurse: I thought that she told him. Yeah. Ok. And that area is not red or painful or anything. Right.
+Patient: No, it's just a little, I notice it more, feel a little sore and I told her I'm gonna go get a check because it's a knot that normally wasn't there. So,
+Nurse: Yeah, I, I think that's a good idea.
+Patient: Yeah, because my dad had a couple issues and, uh, so I'd rather just get, get ahead of it.
+Nurse: Absolutely. Ok. Uh, yeah, unfortunately they didn't have any mornings available though. Is that 3 p.m. Ok.
+Patient: Yeah, that's fine. You know, normally when it's that far out I could adjust my schedule and do what it is.
+Nurse: Ok? Perfect. All right, so [PHI-Personal] at three o'clock.
+Patient: Thank you. I think this is gonna work out great.
+Nurse: I'm glad to hear it. You're welcome and if you need anything else don't hesitate to call. Ok.
+Patient: All right. Thank you so
+Nurse: Much. You're welcome, Shannon. Have a great day. Alright? You too. Thank you. Bye bye.

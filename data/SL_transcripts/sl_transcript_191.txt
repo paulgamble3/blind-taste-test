@@ -1,0 +1,17 @@
+Nurse: [PHI-Personal] Cod Healthcare. This is [PHI-Personal].
+Patient: Oh, [PHI-Personal], this is [PHI-Personal]. Hi, [PHI-Personal]. I have a, uh, a, uh, pre uh, prescription problem.
+Nurse: All right, [PHI-Personal]. What's your birth date?
+Patient: Uh, 10, 10, [PHI-Account].
+Nurse: All right. I've got you pulled up. What's your, uh, prescription issue?
+Patient: Yeah, it's, uh, uh, med me pro Mmeto pr [PHI-Personal]. Mhm. And, and, uh, it says no refills and I was just there and they didn't give me a refill and, and I'm out.
+Nurse: I do see that [PHI-Personal]. Let me look for a second. Ok. And does Doctor [PHI-Personal] write that for you usually?
+Patient: Well, uh, uh, I've been, uh, I've been getting that since I was in the, um, in, in the, in the, what, uh, the, uh, what do you call it? Uh, the, the, uh, rehab.
+Nurse: Ok. I do see that on here. And you take a half a tablet two times a day. Is that right? Yes. Yes. Ok. And which pharmacy do you want this sent to grant
+Patient: At, at the one in, um, or Mills
+Nurse: CV S and [PHI-Geographic],
+Patient: CS CV S. Yes. Ok.
+Nurse: All right. I will, um, work on getting this there. For you today? Ok.
+Patient: Ok, very good. Thank you. You're very
+Nurse: Welcome. If you need anything, just give us a call.
+Patient: Ok, thanks.
+Nurse: You're welcome. Bye bye.

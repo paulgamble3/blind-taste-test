@@ -1,0 +1,4 @@
+Nurse: Hello this is
+Patient: [PHI-Personal]. Hi is [PHI-Personal] in [PHI-Personal] that me?
+Nurse: All right hold on just give me one second and I'll double check for you. Ok. Mhm. Alright just a moment I'm gonna place you on a brief hold
+Patient: Man. Oh so from what I?

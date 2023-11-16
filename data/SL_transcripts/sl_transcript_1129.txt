@@ -1,0 +1,88 @@
+Nurse: Chronic care management. This is [PHI-Personal]. May I help you?
+Patient: Yes, I'm not trying to get a hold of [PHI-Personal].
+Nurse: She's not in today. Can I help you with something?
+Patient: Uh Yes, this is and I need a re um, a refill on my, and they said that they don't have that anymore that I have to talk to doctor [PHI-Personal] to have a different one. I asked her what they would have and she said they have ol
+Nurse: Ok, hold on, let's, let's see. Um, ok, so you spoke with the pharmacy?
+Patient: Ok. Who
+Nurse: You,
+Patient: Uh, I did? Yes, I call, I call pro and I go, that's where I get.
+Nurse: Ok, let me just explain that. Ok. With her pharmacy proact, right? You said? And governor? Ok,
+Patient: You want the telephone number?
+Nurse: No, they would have it on file there. Um, ok, so they're, they don't carry [PHI-Personal] anymore.
+Patient: There's something to do with the insurance or something.
+Nurse: Ok.
+Patient: Maybe it's a generic that I'm not sure, but I thought it was something to do with the insurance.
+Nurse: Ok. Um, ok, but they won't probably cover it, right? Is that kind of thing
+Patient: On the program? They wouldn't Yeah. Ok.
+Nurse: State. Ok. Insurance won't cover Premarin and that's your cream, right? The one you take 1.25 mg twice a week.
+Patient: Yes, it's a pill. A tablet
+Nurse: Milligrams. Oh, that's not your OK. It's not a cream. They make this as a cream too. So hold on. Ok.
+Patient: Getting that down. Yes. 1.25 mg. Oh my
+Nurse: God. Um patient that but they will cover what is it called dear? It's
+Patient: Est R ad Ol.
+Nurse: Um Did they give you a milligram?
+Patient: No, they didn't.
+Nurse: OK. Est [PHI-Personal]
+Patient: Olddol.
+Nurse: OK.
+Patient: Let me as in olive.
+Nurse: OK. Let me just make sure I have the correct spelling on here. So Est R ad
+Patient: Ol, right?
+Nurse: There's no I in there. No. OK, let me just look this up quick. Uh I think we might, you might have missed a pill. Um You might have missed an I in there.
+Patient: Oh, I'm sorry
+Nurse: Because there's no, I can't find one that pulls up like is it, it's for your vaginal changes and stuff, right?
+Patient: It's uh hormone, your
+Nurse: Hormone. Yeah, this is what that's pulling up. It's a form of the estrad is a form of estrogen, you know, a female sex hormone that regulates, you know how the body works like it comes as a tablet and I believe it's like the basically the same thing. Um Let's see what your other names are. Um OK. MEDLINE Plus. So you want to know if doctor can order that for you. Right? Yeah. Yeah. Ok. Um ol ok, let's see if anything pulls up on. I wonder if it's the generic form of this. I'm just looking
+Patient: It, it could be, that's the only one that I have out of about 15 pills. That is not a generic.
+Nurse: Yeah, it's just coming up when I type it up, it's just coming up as estrogen. You welcome two. Ok. Yeah, let me get the message out for you. Um too. I mean um and so yeah, you're missing an I in there. It's Est R ad Io
+Patient: [PHI-Personal]
+Nurse: Iol. Um because nothing comes up on the other name that you gave me um there. Ok. Um cover um so you want it in a pill form?
+Patient: Yes,
+Nurse: Patient.
+Patient: Um whatever that equivalent would be to the 1.25
+Nurse: Can be ordered for her done of the pre Yeah, let me see. Um what they have here and pharmacy is proin Goor. Right.
+Patient: Right. Mhm.
+Nurse: Ok. How's everything else going? Ok.
+Patient: Yep, I know.
+Nurse: Did we talk to you this week? I
+Patient: Think is uh last week I think maybe I think
+Nurse: Maybe let's see what does she have to say? I'm just covering for her so I'll see if there's anything she wanted me to follow up with. Um oh, she got you an appointment, right. Uh Yeah,
+Patient: The dermatologist. Right. I went there about, hm four or five times and I the last time they gave me a different kind of a shampoo and said that if it got any better that I could cancel the last appointment. So I did.
+Nurse: Oh, ok. Ok. So just do that. But you also saw um [PHI-Personal], right? Yeah. Yes, I did.
+Patient: Ok. And that is not going too good. Uh He gives me, yeah, he gives me um [PHI-Personal] it's an arthritic pain. Uh and he told me to put it on my neck, uh, like under my left ear, I did it for 11 days and towards the end like day nine, I started getting a headache at night when I would put my head down and you started
+Nurse: Getting what a headache, a headache from it. Yeah. Ok. I wanna see if you, you don't want PT, right?
+Patient: No physical therapy. He said it's uh arthritis and some muscle or something underneath there.
+Nurse: Ok. Ok. Cause he did say heat Tylenol arth like Tylenol arthritis, general stretching would benefit from physical therapy, but you didn't want that. Um, no, but you don't feel like you are improving, right? Um
+Patient: Well, I'm not taking it anymore because it just, it, I don't know it just with that headache that, that bother me,
+Nurse: You get a, a headache from the Voltaren gel. Yeah. Yeah. Ok. Um, during
+Patient: The day when I'm kind of up and around, I didn't notice it, but just to sit and put my head back, I get this headache and,
+Nurse: But now you don't have it since you haven't been taking it. Right. No headaches since you haven't been taking them now. Ok. Headache. After. Are you, you're doing the correct dosage and everything?
+Patient: I was doing it. Yes. When I was taking it, um,
+Nurse: I just wanna let him know because he did say, don't let him know
+Patient: Because it did, it did help,
+Nurse: It did help with giving you a headache. So you stopped taking
+Patient: Headache.
+Nurse: It's for your neck pain. Right.
+Patient: Yes. When I turn my head to the left it was a real sharp pain. Yeah. And it would kind of go up, up my head and I have a, like, and I have very little of that now and to turn my head to the left there's hardly any pain at all. And that was only 11 days that I was doing the, uh, oh, I know. Yeah. The both, both of them,
+Nurse: She and a headache from the, well, she stopped taking it. Do you want another cream ordered?
+Patient: No, I went to Sam's and bought it was a three package deal that they had on for $[PHI-Personal]. And I bought that. I haven't even opened it up. I still have a little bit in the first tube. I'm always allergic to a lot of different things. That's why, what are you using now? Nothing.
+Nurse: Oh, ok. Um, ok. Do you think it's worsened or do you think it's improved?
+Patient: Well, it improved it, but then I started getting the headache so I stopped taking it or, you know, getting it done.
+Nurse: So, do you think? Well, do you think you wanna see if he wants to order you something else though?
+Patient: No, I'm just gonna play it by ear until I see. Doctor [PHI-Personal] in April.
+Nurse: Ok. But it's improved as of now. Right. Yeah,
+Patient: If it gets worse, uh, you are, you know, it kind of comes back again. I'll start it up again. But right now,
+Nurse: Ok, has improved. Ok. But, um, if it, her, her pain comes back, you'll call right. Or let them know
+Patient: I'll start the, you know, and,
+Nurse: Well, I'm not gonna say they use, like, if it's giving you a headache, um, um, I mean, if it's giving you a, he, I wanna let them know it's giving you a headache too. Um, maybe it's something like a side effect or something. Um, but neck pain has improved but if it, if it, if it doesn't continue to get better, you're gonna call. Right.
+Patient: Right.
+Nurse: Has improved. But if her, if her pain comes back or worse things she will call. Um, ok. Yeah, I don't know. Let me see if it says Voltaren gel, if that's a side effect or not. Let's see. Where is it on here? Is it on here or do you just get it over the counter?
+Patient: It's an over the counter. But it used to be a prescription. It used to be a prescription. Yes. But now it isn't. And on the box it says that it shows a picture that it's for the hand, wrist, elbow, foot, ankle and knee. And, um, he told me to put it on my neck. Well, on the back of the box it says, let me find it. Um, it says it's not to be used on the back, the hip or the shoulder. So I went to the pharmacist and said, what's the deal on this? It says not to use it. Um, anything, you know, like the back or the hip or the, the shoulder. I said, what about my neck? And he says, well, if the doctor told you to use it, it's ok that they put that on there. So get this, if there's a lawsuit, they've got it on the back that you weren't supposed to use it. That makes you feel real good. Yeah. But he said, you know, as long as my doctor told me to use it to do it. Yeah. So now that I'm starting to, you know, a couple of days ago I started to get a, a headache, I thought, well, the heck with that and the neck itself is better. It, there's a little tightness in it but it's not like it was, I mean, it was bad just turning to the laughter constantly.
+Nurse: They don't want any further cream. Um, oh, my goodness. I didn't even know that I don't want any other cream or cream ordered. Um, ok. Um, ok, so, you know, if it does, does not improve or come back or worsen, you'll call. Um,
+Patient: Yeah, I'll just call and I call [PHI-Personal]. It's easier to get [PHI-Personal] than try to get, uh, you can't get an appointment. So,
+Nurse: Yes, so, um, ok. Well, let me send a message. Ok,
+Patient: I appreciate that
+Nurse: Anytime I'll talk to you soon.
+Patient: Ok, thank you very much. You have a good day.
+Nurse: Ok, I'll talk to you soon.
+Patient: Ok, bye bye. Ok.

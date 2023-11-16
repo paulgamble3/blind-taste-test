@@ -1,0 +1,74 @@
+Nurse: Chronic care management is [PHI-Personal]. How may I help you? Hi, [PHI-Personal].
+Patient: This is mcdermott. How are you? Good. How are you? Good, thanks. Um, do you have a second? Yeah. Yeah, great, great. Um, ok, so [PHI-Personal] having some, um, been having some major problems with his digestive. Mhm. For actually quite a while now we've sort of dealt with this. He didn't, I mean, he's just, it's loose and then it's like, not constipated and, I mean, like when I say it's loose, I mean, it's like, uh, just water and he gets these really weird loud things happening in his, um, abdomen area. Um, um, and he's been getting a lot of cramps and this cramp way up on him. I'm afraid there could be something very serious and don't want to wait for an appointment with an, until the end of [PHI-Personal]. Um, and I, how
+Nurse: Long has this been going on? Uh,
+Patient: Probably, mm, several months.
+Nurse: Ok. So this is not just something that has been going on like yesterday or this week. But, um,
+Patient: Ok, I mean, because it's not getting any better and, um, I mean, today he was in quite a bit of cramping pain. Um, and, you know, I mean, a lot of days you can just hear his stomach and, and then he'll rush to the men's room and
+Nurse: You did, you, did you call the office or? No?
+Patient: Um, you know, I did and that's one of the reasons I called you. Um, I called and twice and they put me on hold to wait for a nurse 20 minutes
+Nurse: Later they are gonna schedule him with. So it looks like she just got this message so they might be calling you. Let's see. Um, but I'll let them know. Ok, so um, ok, I'm just gonna let her know too and I do see that. Did you call and leave a message or I,
+Patient: I wasn't able to leave a message because I didn't hear from any nurse. So I hung up. I was, it was like 2025 minutes later and I just can't wait that long. I said [PHI-Personal] will get through for me. Ok?
+Nurse: Um, spoke with reports of stomach issues. I don't know if spoke with them.
+Patient: It might be who called. He thought it was you?
+Nurse: Oh, mindful. It's all reports depends. Ok. His wife manager. Ok. Checking to see why schedule. Ok, see, I
+Patient: Think he got confused. I left for a little while and they must have called back when I came in. He said he had talked to you but I think
+Nurse: He, uh, I think it was um, I know. Ok, I'll send this to her. Um, ok, it's ok. Um, so it's a lot of cramps off and on. He's not in any distress or anything. Right.
+Patient: Um, um, what do you mean by that? Physically or,
+Nurse: Like, physically, like, and done any? I mean, if it's that bad, I'd say go to the emergency room. But you said it's been like an ongoing thing kinda. Yeah. And you just,
+Patient: Ok to the point where, um, I don't want to wait a full month, a full month. Ok. I really feel like he needs to take care. I mean, this has got to be dealt with, with whatever direct feels that she wants to go with. He
+Nurse: Wants to go. Ok. Ok. Um, so his stools are watery. Um,
+Patient: They, it, and it, it's varied but a lot of times he'll go for days with, um, just watery stools. Um, and then he'll be constipated. Um, and his stool just isn't normal. He's had different color stool. Um, never black. Yeah. Um, but it's been, it's, it, I know when we were on our trip it was green
+Nurse: On patient comes constant. Ok. Um, but it's got like you don't want to wait another month in case. Um,
+Patient: There's something, I mean, yeah, I mean, and this has been too long now. We, you know, I mean, we've tried fiber, you know, just like trying to deal with that that,
+Nurse: You know, and the cramps are off and on some days are worse than others, in other words, or?
+Patient: Yeah, I think so. Um, today he's been, been really gripping him and I can see in his face that there's a lot he's not telling me. But, um, you know, I think
+Nurse: Because he don't like to tell you a lot.
+Patient: Oh, he, I, I can kind of coerce it out of him because I'm telling him if you, you know, if I need to speak up for you at, wherever we might have to rush to, you know, medically. I, I need the information. I need to know what's going on.
+Nurse: Yeah. I mean, I'd always like, if any distress or like, or like, he's led over in pain, anything like that. I mean, I'd take him to the emergency room if he's like that, you know. Um, because, I mean, there could be seriously something wrong there, you know.
+Patient: Um, um, yeah, well, I, at this point I think he, he really wants to, you know, start with because I, I thought maybe we should just go, he has a gastro. Um, but, but he didn't wanna go to this one he wanted to deal with. I, you know, because I think he just has a lot of, how's
+Nurse: His stools today. Um, they're,
+Patient: He said he had some salad but they're, they're not like at, you know, normal. Ok. It small
+Nurse: Has had solid stool. Ok. Um, today,
+Patient: But his, his stomach is not I mean, it's, I could say it sounds more like it's in his abdomen area. It's just ongoing. He, I mean, he constantly has these noises I can hear across the room, you know, and it's just, this has been ongoing for a long time now
+Nurse: And a long time and does not. Ok, I need to get some. Ok, going on. Um, doesn't wanna wait another month. Um,
+Patient: Like to get in earlier so we can get moving on it
+Nurse: A month. Um. Ok. Um, no fever, nausea or vomiting or anything like that.
+Patient: Um, he gets nauseous at times. He's not that I know of, he has not had a fever, he's not vomited. Um mm. Ok, but he, he does get nauseous at times that
+Nurse: No fever or vomit. What did you just think it was something he was eating kind of before or? I,
+Patient: I've been trying to track it with food and it does, it, it doesn't seem like there's any, um, cause and effect with any particular foods. Um, I mean, you know, he, he, he gets acid reflux but that's a, that's entirely different. I give him a pill for that and that helps it like he'll get a coughing jag because he's got type [PHI-Personal] GERDs. But this is more in the lower part of his di digestive, you know. Um, I don't, I'm not sure which intestinal part but I'm a little concerned. I, I mean, yeah, I mean, I, I don't know if we might, I'm not, I don't want to sound like a doctor or anything like that, but I, I hope we're not dealing with some kind of blockage, partial blockage or anything like that.
+Nurse: Well, I mean, if you're concern with that, the best thing would be to bring him to, like, an emergency room, you know, um, if it's worse than it's been, do you know what I mean? Um, what I'm saying? Like, I don't know, he'd have to be assessed. That's the thing, right. You
+Patient: Know, I think we'll start with, I, if we can get in as soon as possible, um, you know, like this week maybe or next week, whatever. It, it's just, um, it's hard to, like I said, it was hard to, um, hang on like 20 or 25 minutes on to that phone then I thought, oh, there she, she,
+Nurse: Yeah. Um, I mean, you can also, I mean, if you're concerned tonight at all, I mean, there is an on call doctor, you can also call as well. Um, too, you know, um, if it's worse than like his normal, um, but like signs and symptoms of a blockage could be cramping and abdominal pain that comes and goes, um, loss of appetite could be constipation, um, like inability to have a bowel movement, pass gas swelling of the abdomen, vomiting. Um, I mean, that could all mean, you know, um, as well. Um, so, um, because I know you didn't get to talk with the triage nurse either. Um, right. You didn't get to talk with them. Is he able to pass gas and stuff or?
+Patient: Um, well, I got to think, I mean, I haven't heard any, like, you mean, like, just a general fart type thing. Yeah. I haven't, to be honest with you, I haven't really heard anything coming out like that in quite a while. I know when he goes to the bathroom, you know, it, it's not pleasant after, but that's the only kind thing I could detect you. Do you know what I mean? Mhm. So, I don't, um, I, I have not heard him passing gas in a long time now that I think about it. I hadn't even thought about it.
+Nurse: Uh, um, ok.
+Patient: I'm not sure if it's a part of getting older, but,
+Nurse: Yeah, I don't know. So when was talking to him he said, spoke with [PHI-Personal] who reports his stomach today is better than usual. Was it better today?
+Patient: No, no,
+Nurse: Sometimes it growls roars and has loose stools symptoms for about a month. Um, also reports urinary problems. It has a mind of its own reports. Depends due to incontinence. Um, again,
+Patient: He thought he was talking to you. So he, he, he didn't realize that the office was calling about the specific problem that I was calling them about. So all those items I can tell you right now, um, that he saw the, um, the, uh, urinary, um, urologist in [PHI-Geographic] just a couple of weeks ago and he put him on a new medication that's helped. Mhm. Um, new medication is Jim TSA. So, and it's, it's helped a lot. He's been able to have a little better control. Mhm. But again, I, I think he's getting confused because he didn't know who he was talking to before. He thought it was you,
+Nurse: He might have, he might have and he, um,
+Patient: He gets confused with the timing on things, you know, like, I mean, a week ago could have been a month ago. It could have been, you know, he, um, so I, I can better tell you because I'm with him every day.
+Nurse: Yeah. Yeah. I mean, like I said, he'll have to be assessed, I'll let him know, you know what I mean? Um, too. Um, uh, so, um, you know, and I always say like, I mean, if he has, you know, seek medical care, if you have severe abdominal pain, like if it's worse than, nor like his baseline, it's been for a couple of months or any of the other symptoms. I mean, cause he can end up with serious complications. Um, from that [PHI-Personal]. How is he right now? Like, is he still complaining or,
+Patient: You know, my husband, he, he'll sit and he'll hurt but he keeps pushing. I mean, this sounds stupid but he's out in the tree stand right now. Because he said I might as well be in the tree stand because it's better than sitting here keeping my mind on the paint. Yeah. Huh. But that's him, he'll be out there with his cane walking out to his tree station. He just, um, he doesn't that rust out or wear out syndrome, wear out or rust out who just doesn't want to be stuck in the chair unless, I mean, unless it's completely, you know, got him laid up. Um, he's just in that kind of mode where he doesn't wanna give it
+Nurse: Up. Yeah. And is he, like, stubborn, kinda too like you?
+Patient: Well, um, look at, um, it's, it's a philosophy, I mean, on one hand I, I want him to use good judgment with what he, what choices he makes, but on the other hand I, I don't want to, I wanna let him make the choices as long as he can make good choices, you know? And, um, but these are good choices for him. Um, do you know what I mean? It's, it's a, it's a balancing act as they, if he gets older and anybody gets older, you don't wanna micro, manage them to the point where you're smothering him and telling them everything to do and
+Nurse: Everything to do.
+Patient: Yeah. You know, you don't want, I mean, I just don't want to take that away from him if he feels he can be in the tree stand and hurting as much as he could in his recliner. Well, you know, um, I'm right here for him. You know, I, if he needs any help you can call me. He's not that far away. He's, I mean, you know, he just, he's just on our property just 200 ft out. But, you know, do you know what I mean? You just, you gotta, you gotta let people make their decisions as long as cognitively they can, Um, I mean, he's not telling me he's gonna go find a skyscraper or something, you know. Um, he's, he's making, I guess what would be reasonable to me, I guess, but not to other people.
+Nurse: Ok. Yeah, I just say, like, you know, any concerns of a bowel obstruction, I mean, I'd always get that taken care of as soon as possible. Um, like, I mean, like I said, he would have to be assessed. They'd have to, you know, do a X ray or something on him, um, kind of thing.
+Patient: Um, we'll do whatever tells him to do. Um, ok.
+Nurse: Um, I mean, like I said, if you don't wanna wait until tomorrow, you can always go to the emergency room or
+Patient: No. Um, I think that he would, I don't think he would, um, concede to an emergency room unless he, he couldn't even stand up and, you know, he's, um, he's pushing himself. So, um, I'll, we'll wait for an, I, I can. Ok.
+Nurse: Um, so, ok, and then, like, I said there's always an on call doctor as well. You guys can call, um, if anything, you know, because I know it's after hours now, but
+Patient: As well,
+Nurse: Um, usually like 4 35 o'clock. Um, I was hoping I'd
+Patient: Be able to get a hold of you.
+Nurse: But, um, ok, so, ok, um, so watery stool some days and then, so then he becomes constipated and then, I mean, he did have some solid stool today though, you said, um. Right. Yeah. Um, but it's not like you said it's been ongoing for a long time. Um, and you don't wanna wait for another month.
+Patient: Yeah, we've waited way too long and we have tried, you know, like, um, Citrucel, I mean, just some fiber and, you know, increasing fiber and, uh, I don't think it's really done anything. In fact, it's probably they say on the label if you have this kind of problem not to use it. So, you know, after three or four days.
+Nurse: Um, ok. And if any concerning symptoms, I mean, I'd go to the, you know, um, emergency room but you said you don't feel like that's needed, you want to see what says first.
+Patient: Um, um, yeah, I, and I don't think he would go anyways, even if I felt like he should, I, I mean, unless he was, it was a, like a death, life or death situation, I don't think he'll go, you know, and the pain was so bad. He couldn't stand it, he wouldn't be up in a tree stand right now.
+Nurse: Ok. Um, ok. Um, so I will give him an update to, um, to, um, I can't believe he's going out in the tree stand to
+Patient: Believe it.
+Nurse: Um, ok. Um, ok, just so [PHI-Personal] gets this too, so she'll get this first thing in the morning. But, um, if you need it on call, I know you just call that regular number and then on call I call you back if you need to as well. Ok? Or if in any distress or anything. Ok. You're welcome anytime anytime I'll let you know if they get back to me or um vice versa. Ok, so
+Patient: Thank you. Ok,
+Nurse: Perfect. Alright
+Patient: Bye.

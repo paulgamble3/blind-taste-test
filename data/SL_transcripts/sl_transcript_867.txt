@@ -1,0 +1,28 @@
+Nurse: Hello, this is [PHI-Personal]. How are you?
+Patient: How on the road are you?
+Nurse: I'm alright. How are you doing? Art? Uh
+Patient: Art is doing pretty good I guess but II I have a question for you.
+Nurse: Of course. What can I do for you? I was
+Patient: Over I was over this morning and had my had some blood work done for the lab and I should have said something then but I didn't uh can you look at my medication list and see if there's anything on that medication list that you would say is causing me to have no energy whatsoever. I have no energy whatsoever. None.
+Nurse: Alright give me a minute to pull up your chart fighting with the computer today.
+Patient: Ok, no problem I thought maybe you wanna check with the cardiologist first. I don't know I I'm just at the end of my s.
+Nurse: Ok. When did this start? When did it start?
+Patient: Oh well this it's it's been ever since I come home from the hospital on.
+Nurse: Ok well I know after everything you've been through um you are gonna have some decreased endurance and we'd expect you to be more tired as your body's recuperating. I mean, you went through a trauma, you ha basically had wounds on the inside that have to heal. Mhm. So, that could play a big role in it. I'm still pulling up your chart. So give me two seconds to do that,
+Patient: You know, relaxes and not doing anything. Not expecting anything for a while.
+Nurse: It, I mean, it could be that, um, I'm not seeing any new, you because you didn't add any new medications. They just changed your current medications.
+Patient: Correct? The only one they added, was that, what is it? Uh, I don't know. No, there's r, I don't know what it was in the morning.
+Nurse: Let's see. The only new one I'm seeing is amiodarone. Right.
+Patient: That's it. That's it. That's it.
+Nurse: Ok. Um, I can reach out to let him know they'll probably wanna see what your lab work is first to see and make sure it's not like a hemoglobin issue. Mhm.
+Patient: Ok. Well, I'd like to say I had, I had some lab work done today for, uh, and it, uh, the urinologist, you know, but I don't know what all their lab work they did, you know, lately he scheduled some for the [PHI-Personal], but I don't think there's anything supposed to be scheduled before that. But, you know. Yeah, if you wanna, if you can look into it and trying to come up with some kind of solution, talk to [PHI-Personal] and see what he thinks and maybe you can get back to me sometime then.
+Nurse: Yeah, I'll let him know that you, um, that you're feeling quite a bit of fatigue and like you have no energy. And see. So I'm just pulling up your labs right now. I don't have, of course, I don't have anything resulted from today. It was a B MP, um, which will give us your hemoglobin as well. Um, so that'll give us a good idea what is going on. Um your last one was good.
+Patient: All right. Well maybe then once you get those results you can take a look at it and see if there's something out of whack somewhere along the line then.
+Nurse: Yeah, how about I give you a call back on Monday?
+Patient: Ok, that'll be fine. Um
+Nurse: All right, so I'll plan on Monday afternoon that way it gives um the doctors enough time to get back to me too because they're already gone for the day.
+Patient: Sure. Ok. Alrighty, thank you.
+Nurse: You're welcome you have a good day. Ok, rest and make sure you're getting enough fluid and dehydration is gonna make you feel tired too.
+Patient: Yeah. Ok. Will do.
+Nurse: Alright. Well have a better weekend. Bye bye
+Patient: Bye.

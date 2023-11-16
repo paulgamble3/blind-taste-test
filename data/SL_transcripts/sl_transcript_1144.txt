@@ -1,0 +1,7 @@
+Nurse: Good morning. This is [PHI-Personal], the care management nurse. How can I help
+Patient: You? Um Hi, this is [PHI-Personal] calling through. We just received a notification in the mail that said that you guys signed her up for like the call um for the nurse to call her every month. And I'm pretty sure that she said to the care practitioner that she didn't really want that service and we don't know why you guys went ahead and um pushed this
+Nurse: Through. Uh ok, got you. Give me two seconds, let me pull her chart up and I'm speaking with her granddaughter [PHI-Personal]. You said
+Patient: I'm on her HIPA too.
+Nurse: Ok. Awesome. Alrighty, darling. So yes, they did reach out to her uh for the CCM program. She's not fully signed up yet. If she's not interested, that's perfectly. Ok. Uh She's more than welcome to opt out and then if it ever comes up in the future that she is interested again, she's more than welcome to just let the office know and we will put her in. Ok? I can go ahead and opt her out.
+Patient: Thank you. Um Can you opt us out now? Yeah. Ok. Thank you so much.
+Nurse: You're welcome. You have a good day. You too. Bye bye.

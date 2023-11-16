@@ -1,0 +1,15 @@
+Nurse: Hello, this is [PHI-Personal]. How may I help you? [PHI-Personal], this is
+Patient: [PHI-Personal] S.
+Nurse: Hi, how you doing today, sir? Alright, good. Give me one quick second just to pull up your profile really quick. Ok? I just wanna let you know that everything on this call is being recorded for quality purposes. Ok. So the reason for the call today here [PHI-Personal] is uh [PHI-Personal] has a new care management program which she is providing basically it's just a call from a nurse to help answer any questions, refill prescriptions, chat about previous or future visits, discuss any new issues going on and things of that nature. This is a program that you are qualified for which allows you to maintain peak health by having this nurse contact. You. All of these calls are documented and sent to [PHI-Personal] for review and you're treated as billable services to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers may be subject to deductibles your copay and co insurance. Now, I do see you have the high mark uh Community blue [PHI-Personal]. Is that correct? Yes, awesome. It looks like there's a $0 copay for when you see uh [PHI-Personal] in the office. Is that also correct? Uh Yeah, great. Let me just have a $0 copay for this program. Is there a time of day that works well for the for the nurse to give you a call morning or afternoon?
+Patient: Oh, actually I feel alright. I think it would be a waste of time.
+Nurse: Ok. Not a problem. I tell you what, I can also adjust the frequency of the call. So if that, if it interests you to get called a little bit less often, just kind of have a rough check up. That would be fantastic. But that's also an option. I'm sorry. Are you my
+Patient: Doctor?
+Nurse: I'm not your doctor now. All
+Patient: Right. Well, I got to see him. When do I see him?
+Nurse: Uh Let's see. I the next appointment is the [PHI-Personal] is what it looks like [PHI-Personal] of [PHI-Personal]. No, of [PHI-Personal]
+Patient: [PHI-Personal] and my blood sugar is real good.
+Nurse: Yeah, it looks like you have a lab on the 23rd of [PHI-Personal] and your actual visit, your four month visit is with Doctor [PHI-Personal] on the [PHI-Personal].
+Patient: Yeah. Ok. All right. I'll make that and if there's, I mean, I, I feel fine.
+Nurse: Ok. Hey, great.
+Patient: Not a problem. I'm uh running around like an Indian.
+Nurse: Sounds good. Awesome. Tell you what I can do is I can send you some information about the program. So if you do get interested later on, if you need it later, you can Uh you can definitely call us back and let us know. Ok. All right, I have the address here of eight Red Gravel Road in Still Water. Is that correct? Yes, sir. Awesome. Fantastic. Well, thank you so much for your time, Jim. I appreciate it. Have a great rest of your day. Ok. You too. Alright. Bye bye bye bye.

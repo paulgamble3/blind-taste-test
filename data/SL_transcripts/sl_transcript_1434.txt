@@ -1,0 +1,23 @@
+Nurse: [PHI-Personal] with the care management team. How can I help you?
+Patient: Yes, it's [PHI-Personal] there. This is, oh, ok, [PHI-Personal], this I, I'm calling for [PHI-Personal] and [PHI-Personal], this is [PHI-Personal]. I'm here. Ok.
+Nurse: Just bear with me here for one moment. [PHI-Personal], let me just pull up information. Ok,
+Patient: How are you doing today? Oh, pretty good. How are you?
+Nurse: I'm doing good. Thank you.
+Patient: You're welcome. Ok, so we have,
+Nurse: Let's see here, [PHI-Personal] and
+Patient: [PHI-Personal].
+Nurse: Yes. So I just wanted to go over information about the new program that Doctor [PHI-Personal] is offering for them.
+Patient: Ok. All
+Nurse: Right. Um [PHI-Personal], the call is recorded just for quality purposes. Ok. Ok. Um Let me see here is one of them around. I just need for them to a uh to confirm it's ok that I speak to you.
+Patient: Yeah, I was standing right beside her. It's ok.
+Nurse: And it's alright that I speak with [PHI-Personal] regarding your and [PHI-Personal] uh medical information. Yes, ma'am. All right. Thank you, [PHI-Personal]. You're welcome. All right. So [PHI-Personal], um it's a new care management program. Um and that's in a behavior health program. Um and that's just where our nurse is gonna call and check in with them to see how they're doing in between office visits and she's gonna, she's gonna go over their full medical health with them answering any questions, addressing any issues or concerns that they might have. And she'll also go over their, uh, medic, uh, medications. So, if they had questions about those or if they needed refills, um, or if they had questions and needed help with appointments, labs, community resources. Those are things the nurse would discuss with them during the phone call.
+Patient: Ok. Now, do they have to have this done?
+Nurse: No, the, the the program is optional. It helps doctor [PHI-Personal] stay on top of how his patients are doing in between appointments with them and it offers additional support to for the patients as well. Ok.
+Patient: She said she go ahead and do it.
+Nurse: Oh, ok. Ok. Um I do wanna let you, you know that the care management programs and behavior health programs are both billable services to Medicare and Medicare Advantage plans and secondary insurance carriers. Uh, they are both subject to co insurances and deductibles and co payments. So when they have contact with their dedicated nurse, uh they may get a statement from the practice for this service. Now, the service is considered to be an office visit and they get to choose how often their nurse calls. So if they'd like their nurse to call once a month or maybe once every three months or maybe even just once a year that's up to them. Uh I'm gonna mail a letter to the program with their dedicated nurses contact information. So that way they can call their nurse with any questions or concerns also. Ok. Now, would it be better for the nurse to call in the mornings or in the afternoons
+Patient: Morning? She said? Ok,
+Nurse: And then if I could just confirm the information we have is still the same uh with the mailing address still is [PHI-Geographic] on the INS. Ok. I have the insurance for [PHI-Personal] as Aetna Medicare and then for [PHI-Personal], we have Humana. Ok, great. Then you guys are all set. I hope you all have a great day and stay safe
+Patient: And you too. Thank
+Nurse: You. Take care.
+Patient: You too. Bye
+Nurse: Bye. Thank you. Uh huh bye bye bye bye.

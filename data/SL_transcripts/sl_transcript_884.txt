@@ -1,0 +1,32 @@
+Nurse: Hi, [PHI-Personal].
+Patient: Hello, together. I
+Nurse: Know. I know they're, we were playing phone tag there for a while.
+Patient: Yes.
+Nurse: Um, so I just, uh, like I said, my name is [PHI-Personal], I'm gonna be your care management nurse moving forward. Um, so I'll just be giving you a call once a month to check in with. You. See how you're doing. Um, you know, if there's anything I can help you with, I can help you refill your meds, you know, help, make, you know, appointments with, um, your PC P. Um, you know, if you aren't feeling well, you can give me a call, um, can just kind of try to figure out some different ways to help you with that and anything else that you might need. I have a,
+Patient: I have a problem, um, had for a couple of weeks. It's uh my scalp. It started out as the back half of my head. It's at night here. You know, a lot of older women do suffer with this. It's kind of a neuralgia pain. It's, it's kind of fleeting. It started this, uh, tingling. Now it's uh at night sometimes it's kind of burning and I kinda noticed a little bit of ache or a feeling there in the daytime but nothing like the night, I think the pil laying on the pillow. Um, ar, yeah. And I read, I've been reading a lot of read on it. It's called [PHI-Personal], [PHI-Personal]. And, uh, which is, I think scalp pain or something like that and some things that, uh, you know, if it's nerve pain, maybe, uh, gabapentin or Cymbalta might help. And, uh, I take, I've been taking Aleve in the morning and at night for my hip pain so I can lay on my left hip and I, I go off of it every once in a while to see if I still need it. But I, on a leave morning and night and vitamin E and, um, calcium. But, uh, I read where heat might help. So, right now I've got heat on a heating pad on my, uh, neck and it does seem to help. Ah, ok. Do you, um, uh, uh, I just don't know if it's gonna get worse or. Ok. Have you, have you ever heard of it?
+Nurse: Yeah, I have. And it does sound like nerve pain. You're right. Um, I can send a message over to, um, [PHI-Personal] and let her know that you're having this, this problem and see if there's maybe something that, I don't know if she'll want to see you or maybe she can call something in for and,
+Patient: And put it like this, uh she's been having tingling. Uh and it's kind of progressed to burning, it's scalp, it's kind of a burning sen sensation. There's no itching, just tingling, burning. Uh And it's, you know, mostly at night and I've heard it's called tri tr [PHI-Personal] mi A. You,
+Nurse: You said you're using Aleve or you said you're using this
+Patient: Morning and night? I do that and I've been doing that for a couple of months because my hip had a, broke my hip in Septe, the end of September. So, um, oh, shit, I just don't know, uh, if I need to, do you get, how long has
+Nurse: This ho how long have you been having this pain on your scalp for? Do you know?
+Patient: Yes. It's been a couple of weeks, maybe three. It, it started with just like, wow, that's a weird tingling sensation. And now it's like every night and it's, I, I can sleep through it a lot of times. Yeah, I sleep though is just, oh, it's uncomfortable.
+Nurse: Yeah, that sounds like very uncomfortable. Um, ok. Well, I will send over a message to her letting her know what's going on and then when I hear back from her, I will give you a call. Ok.
+Patient: Sounds wonderful.
+Nurse: And then before I let you go, um, do you have just a minute to talk about your medications that you're on? Yes. Ok. So, um, I'll just read you what I have here and you can just tell me if that's correct. Ok. Ok. Ok. So are you still taking the calcium 600 mg? Two per
+Patient: Day? It's a 12, a 1200 slow release of the 24 hours.
+Nurse: Ok. Um hold on one second. And then are you still taking the vitamin D 3, 100 and 25 micrograms?
+Patient: Yeah. Which is 5000 units of the? Ok.
+Nurse: Mhm. And then are you still using the [PHI-Personal] root? 500 mg. Yes. Ok. And then are you still using a sleep aid? 25 mg.
+Patient: Yeah. [PHI-Personal] uh root um and Melatonin five mg.
+Nurse: Ok. Melatonin five mg
+Patient: And [PHI-Personal] of aspirin.
+Nurse: OK. Is that all you take?
+Patient: Yes, I I I'm th I'm thinking of starting up uh because I, you know, I'm just thinking what all might help this because I saw, you know, I'm seeing all kinds of things googling it. Uh I'm questioning maybe just start up the co Q 10 200 um Omega three is 1000.
+Nurse: Ok. Um well, let let me talk to her and see what she wants to do. Um I'll I'll let her know all this and I'll, I'll update your med list for you. Um and then um let me just see and then what, what pharmacy do you do you use?
+Patient: [PHI-Geographic] SDA [PHI-Geographic]? Hi, it's [PHI-Geographic].
+Nurse: Ok. And you said [PHI-Geographic]. What was the rest of that? I'm sorry,
+Patient: [PHI-Geographic] H A RT Zdale [PHI-Geographic] Drive, Camp Hill.
+Nurse: Ok. All right. Well, I'm going to go ahead and let her know all of that and then I'll get back with you when I hear something from her. Ok.
+Patient: Sounds good. Thanks [PHI-Personal].
+Nurse: All right, you're welcome. Thanks, [PHI-Personal], take care. Mm, bye. Bye
+Patient: Bye. Yeah.

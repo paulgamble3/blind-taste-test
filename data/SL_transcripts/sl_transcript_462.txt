@@ -1,0 +1,61 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help you?
+Patient: Yes, my name is [PHI-Personal]. Um, I can't remember my nurse's
+Nurse: Name. Sure. I think it's me but uh let me just double check. Yep, it's me. How can I help you? [PHI-Personal]?
+Patient: Um, ok, I have a weird question. Um, about a year ago, gave me a shot. So six on the spine and one in the butt cheek.
+Nurse: Ok. Let me see here. If I could pull it up. You said it was last year,
+Patient: About a year ago. I think it was like [PHI-Personal] or [PHI-Personal] of last year. Ok. O2
+Nurse: [PHI-Account]. No, that was hard
+Patient: Baseline.
+Nurse: I'll find it darn it,
+Patient: It happened around [PHI-Personal] or [PHI-Personal] or something like that. I see beginning of [PHI-Personal]. Ok. It was [PHI-Personal] early [PHI-Personal], right? Yeah. Yeah, I know it was either late [PHI-Personal] or early [PHI-Personal]. I couldn't, I can't remember exactly. Ok. How, how do I go about setting up an appointment for tomorrow to get that done again? Oh, sure, no
+Nurse: Problem.
+Patient: I'm, I'm, I'm, I'm literally have been laying in the bed for this is uh day two where I can't sit for more than three minutes without my back spasing. Walking is just, it's atrocious. I, I can't deal with the pain anymore and nothing is working. Do
+Nurse: You think you'll be able to get to the 25th or do you need an earlier appointment?
+Patient: Nope, I need to be there tomorrow morning. I got a driver and everything. I, I can't, I can't do it no more. Mm uh ok,
+Nurse: I'll look tomorrow and see what he has
+Patient: Anybody can get. Well I don't know that anybody could give me the shots but right now I don't care who who gives it whoever has the ability to know how and can do it. Uh I'll take anybody at this point um
+Nurse: I don't ha he is booked solid tomorrow and only physicians can do the back injection because of the location
+Patient: Any way I could get squeezed in at any point tomorrow
+Nurse: I will send over. Yeah I'll send in a request it looks like doctor is available. I'm not sure if he does the I'm not sure if he does the back injections but I can definitely check
+Patient: I know [PHI-Personal] did them last time. Yeah it only took like five minutes but
+Nurse: All right let me send it right now
+Patient: Um I cannot wait two weeks.
+Nurse: Yeah. Alright
+Patient: I can get a ride Tuesday or I could get a ride Thursday injection because I'm not gonna be able to drive afterwards. Ok I'm sorry what is your name again? Oh, sure. It's [PHI-Personal]. I need to change it. I have it with me. It's ok. Well, when he was the last one, so yeah, I will definitely change it. So I have your name.
+Nurse: All right. Yeah, I'll send this over right now. They'll get back to me and then I'll let you know. Thank you. So yeah, and yeah, hopefully he does it and we could just do it that way where he's
+Patient: To let you know, I'm, I'm 100% against these shots. The Cortisone with him and everything because I know it deteriorates everything. Yeah. And it can make problems worse in the long run. But I'm at the point where it's like, sign me up. I can't, yeah,
+Nurse: I know. He,
+Patient: He's like wanting shots again. It bad.
+Nurse: I mean, you do have side effects that are through, like, with any, um, with any kind of, you know, um, injection. But there's, I mean, it's, it, it'll definitely help with the acute, you know, pain and, and inflammation.
+Patient: Well, this isn't cute. Yeah.
+Nurse: Yeah. Yeah. So,
+Patient: Yeah, I'm, um, I'm ready for another one. I, it's not getting any better and I've tried, I've tried doing nothing. I literally laid in bed all day yesterday. I did nothing. I got up to pee and it's, it's, it's not getting any better. It's not, I tried those exercises when I, yeah, those, uh, I don't know, I don't know, looks, looks like you're having sex with your, put the in, put your feet, shoulder with apart and you move your hip over. Oh, yeah, I've done them. It's not, it's making it worse when I do it and I just, I don't know what else to do. Yeah.
+Nurse: I mean, I definitely think that, oh,
+Patient: Fuck the,
+Nurse: Yeah, the exercises will help a little bit. But, you know, if it's, if it's to the point where, you know, they're not even getting you to the next, um,
+Patient: I'm not working my way through this pain and I, yeah,
+Nurse: Yeah, you're better off just relaxing, putting some, either some heat or some ice on it until we get you in and then kind of resting it. So, um, a lot of times, yeah, the, the best thing to do, I mean, and it's not even like it's due, if you asked for it once every three months, then we'd have like an issue with it. But you're, you know, yeah, it's been over a year. So I think you're well within the parameters, you know, where it's not going to really, we're gonna be worried about, you know, um, break down and, and things like that. But if anything, you know, it's gonna definitely, how about a little bit.
+Patient: Right. And, and I did the last time I got it after I'd say, like, maybe three minutes after I had the shot, mm. Zipped up and stood up, you know, started going numb down the one leg and he's like, oh, that's normal. It's just doing everything right now so that it'll go in for you better. And I took it easy. I sit straight up. I was able to physically stand straight up. You jerk. Stop it. Sorry, my dog checked on me. Mm. I'm so glad it's just a tiny, little still. Yeah, he's a jerk. Um, but yeah, it, it helped, it numbed me and then I went home and I laid down for the day just to let the medicine do its thing and it helped so much and then I, and then when they went in and the discs finally went in, that hurt. Yeah. But, but once they were in, they were in and I haven't had problems with it. So now I don't even know what I did or how I did this, but any, it's not right right now. Hm. Hopefully it will be. They all are,
+Nurse: As soon as I hear back, they're usually pretty good. If, even if they don't message me back, they'll just call you and say, oh, hey, you know, we reviewed [PHI-Personal] triage and, you know, I got you, we've got you in for the appointment, um, tomorrow at 10 15. So if you don't hear back, um, from anybody by, I wanna say, like, what is it? It's almost one o'clock now. 2 33 o'clock. Give me a call back.
+Patient: All right, I will call you around three.
+Nurse: Alright, sounds like a plan.
+Patient: Thank you so much, [PHI-Personal]. I appreciate it. You're
+Nurse: Welcome. Hey, no problem, no problem. Mental health. You're ok.
+Patient: The mental health. Yeah, I'm good but it's it's been it there's a lot going on but it's it's I I'm dealing with it like yeah the anxiety of everything. Ok. It's still we talking about smoking pot with people ever since I started, I've been able to deal with things a lot better. Yeah, I've been able to deal with the anxiety of everything and so when things do come up it's like, yeah, it's a shit show here. But I was hoping, like, yeah, getting through it. Like, it's weird because I'm things and because currently I'm dealing with three different lawyers for three different problems. Oh, my gosh. Yeah. One is to carry out a will. One is, and one is to buy a new house. Oh, my God. All of which as you can imagine are stressful topic to begin with. So, um, and was moving [PHI-Personal] and, you know, I have two kids with mental health needs. Yeah. And it's stuff, it just keeps piling up. But, but I'm getting through it. That's the other thing, you know, I mean, like, yeah, there's a whole bunch of stuff going on right now so I, I'm able to cope and deal with it. Yeah.
+Nurse: It's almost like a bottleneck kind of situation where, like, everything's kind of getting closer and closer and eventually everything will come out, you know,
+Patient: And it'll be good for him out too. Yeah. Yeah, definitely. So, I mean, I'm taking care of myself. Oh, yeah. Yeah. Yeah. So, um, like I said, I'm, I'm doing everything I can, I mean, there's not much we can do right now except here, literally just here. So the appointment is supposed to be for tomorrow at 10 15. Yeah,
+Nurse: Hopefully.
+Patient: Ok. I'm hoping, I hope, hope, hope. Yeah, I'm really not wanting it, but it's not even a lot yesterday. Yeah. Yesterday I was at the point where I almost went down to the hospital and said, listen, just shoot my lower back up with Novocain. So I don't feel nothing. So I go home and go to sleep like that's all I wanted. Novocain to numb it. So I didn't feel the pain like I didn't want anything for the pain. I just wanted it numb. So I didn't feel it, you know. Yeah. Just because I can't get comfortable to, to sleep. Right. And Novocain numbs everything. You don't feel anything when you're on Novocain. So that's Novocain, be appropriate for the back but probably
+Nurse: Not no
+Patient: Numb the back and I'm, I'll go home and go to bed thinking it would help. But I don't know, I don't wanna go to the hospital either. I don't wanna sit down there for hours and hours for something. I can go to the doctor's office and be in and out, you know, for uh, I mean, it, it's not, not like urgent like hello, it's not urgent enough to go to the hospital but it's bad enough. Yeah, it's tempting. Mhm. All right. Well, thank you so much and I will get a hold of you around three o'clock if I haven't heard from them yet. All right. Sounds good. Now, who would the appointment be with [PHI-Personal]? Mhm. That's fine. Just so I know who I'm supposed to have it with. And where would that be? [PHI-Geographic]? No. Yeah, that would be next to the hospital. Right. Excuse
+Nurse: Me, it might be next to the hospital. But you might actually like the, the, it might actually be in [PHI-Geographic].
+Patient: [PHI-Geographic]. Mhm.
+Nurse: Because doctor [PHI-Personal] is the only provider on [PHI-Geographic] that could do a back injection, like, and chad or pa, so they can't do back injections. They could do, I think, knee and elbow, but I don't think that they could do. Yeah. No, they definitely can't, they can't do Lumbar injections. And Doctor [PHI-Personal] is on the [PHI-Geographic] office. He's not available. Um, so then the only other place is the main office in [PHI-Geographic].
+Patient: And that are you from around here?
+Nurse: Um, I'm not, but I'm familiar that it's pretty much like a half an hour away from Jamestown.
+Patient: Is it like when you get to the jail you turn right and it's right there down that road
+Nurse: Do you know where the school is? What? That's it's across the street from school?
+Patient: Yeah. Mhm. Yeah. Right. Yeah. Yeah. Yeah I know where it is now. All right. Well, thank you so much. That's fine. I'll get it out there. Ok, I just need to know where I'm going. Yeah.
+Nurse: Yeah I have to have an idea I get it. All right. Well I will talk to you at three o'clock.
+Patient: Alright. Sounds good. Thank you.
+Nurse: You're welcome. Bye bye.

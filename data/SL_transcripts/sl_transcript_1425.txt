@@ -1,0 +1,19 @@
+Nurse: Hello, this is
+Patient: Carry. Carry. Hi, it's [PHI-Personal]. How are you?
+Nurse: Hey, I'm doing well, thank you. How are you?
+Patient: I'm ok.
+Nurse: Good, good. Good to hear from you. How's things been going for you?
+Patient: Ok. Wonderful. Ok, on Sunday I'm having my Christmas. I always the Sunday before the holiday. That way that the families don't have to run one extra place on the holiday. Oh,
+Nurse: That's nice.
+Patient: Yeah. Yeah. Yeah. So I'll be a fucking fool.
+Nurse: Yeah, I bet you will. Yes. Well, uh, do you just do like a traditional Christmas meal ham and that kind of stuff?
+Patient: No. No. Uh, I did Italian for Thanksgiving and I'm doing a chicken dish for Sunday.
+Nurse: That sounds delicious. That'll be nice.
+Patient: Yes. And of course we have a dessert menu. The kids always ask what's for dessert. And Nana makes five desserts. You know how that goes?
+Nurse: You're like my mom. Oh, she makes way more than we need. But, you know, she just can't help
+Patient: Herself. That's right. And then I send it all home. Yep.
+Nurse: Yep. That's exactly right. Oh, that's wonderful. I hope you guys have a wonderful time. Yes.
+Patient: Yes. So, thank you for checking in [PHI-Personal] and you too.
+Nurse: Thank you so much. If you need anything, don't hesitate to reach out.
+Patient: Ok, bye. Alright
+Nurse: Bye bye.

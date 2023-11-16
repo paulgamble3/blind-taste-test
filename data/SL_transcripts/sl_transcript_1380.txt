@@ -1,0 +1,45 @@
+Patient: Hello, this is [PHI-Personal] [PHI-Personal] care manager. How
+Nurse: May I help you? Hi, good afternoon [PHI-Personal]. This is [PHI-Personal]. Doctor patient. Hi, how are you doing? Hi, my dear. Uh I have a couple of questions for you. [PHI-Personal]. [PHI-Personal]. Number one I never did get the ultrasound results on my on my chart. [PHI-Personal],
+Patient: Let me see here and uh I
+Nurse: Got the mammogram but the ultrasound I didn't get it on my chart.
+Patient: [PHI-Personal]. And then could you just state your date of birth for me?
+Nurse: [PHI-Account].
+Patient: [PHI-Personal]. Thank you. So you said you said you got the mammogram results but no ultrasound.
+Nurse: Well, because it says on the te on the thing it says we will be doing an ultrasound for further results but it doesn't say it on there on my chart. Maybe my I don't know. [PHI-Personal].
+Patient: And when was the date that you want to go get it done? [PHI-Personal]
+Nurse: [PHI-Personal]? [PHI-Personal].
+Patient: Mm. All right. Let me see here. Mm. Mhm. Mm I'm just looking here.
+Nurse: [PHI-Personal],
+Patient: Let me see here
+Nurse: Unless it's just not ready. Maybe I don't know.
+Patient: I'm not sure because I can't see everything on my side too. Mhm Definitely send the message uh to make sure that they follow up on that so you can get what you need.
+Nurse: [PHI-Personal]? My next thing is very important that I have to tell you. Uh yesterday I received a referral from doctor saying urgent that I see a a breast surgeon, ok? And he sent me to Doctor [PHI-Personal] Way up in [PHI-Geographic] way far from here. So I am seeing, he needs to know that I'm seeing another doctor with General. So I need to tell you is Doctor [PHI-Personal] um at [PHI-Geographic] and it's [PHI-Personal] [PHI-Personal] at 2 p.m. because he sent me to doctor if it's too, too far. I can't go way up there.
+Patient: [PHI-Personal]. And what can you spell the doctor's name for me?
+Nurse: [PHI-Personal]? Er she's a onco oncologist with [PHI-Geographic] surgical oncologist. [PHI-Personal]. She's in the network. She's with doctor and all them. [PHI-Personal].
+Patient: Uh and then you said on [PHI-Personal] [PHI-Personal]
+Nurse: At two o'clock, I'm seeing doctor. Yes, at the [PHI-Personal] office.
+Patient: [PHI-Personal]. And when did you receive that referral information yesterday? And
+Nurse: Doctor [PHI-Personal]? [PHI-Personal]. I don't know what her name is the whatever her name is. Uh huh. Do doctor. It's on my chart, it says urgent to see doctor, but I I'm not gonna go way up there. I'm gonna go to [PHI-Personal] instead I see
+Patient: It here. I see the one you're talking
+Nurse: About. So I'm not going to him, I'm going to doctor for the [PHI-Personal]. [PHI-Personal]. So he need, he needs to know that. [PHI-Personal]. [PHI-Personal]. Sure. Because he wanted me to go to Doctor [PHI-Personal] and now it's too far for me to go.
+Patient: [PHI-Personal]. And then you were just saying that nobody, um went over the results as far as I
+Nurse: Haven't seen the results of the ultrasound because on there it says ultrasound will be performed for further evaluation, but it doesn't say it on there. And doctor [PHI-Personal] wants me to go and get the disc uh at the tower to take to her, you know, for her to see the disc, but the ultrasound isn't on there.
+Patient: [PHI-Personal]. Are you looking at it right now? Are you
+Nurse: Looking? No, no, I'm on the phone with you. I'm, it's on my phone. [PHI-Personal]. But I know Doctor [PHI-Personal] needs to know that I'm not going to Doctor [PHI-Personal]. [PHI-Personal].
+Patient: [PHI-Personal]. I will definitely let them know and then, um, I'll let them know about, you know, you getting your results and everything from the latest testing too. Yeah,
+Nurse: The ultrasound, I, I didn't get it so it's not on my chart, you know. So. [PHI-Personal].
+Patient: All right. Other than that your appointment and everything go good. It looks like you just had another appointment. Is that with urology
+Nurse: With doctor? Yeah, doctor send him a, a letter, a note to doctor. [PHI-Personal]. But I am concerned about the ultrasound because doctor tell her her need the disc and I don't, it's not on there. So,
+Patient: Ok, you're saying that is, and, um, this office, I can look them up if they're with. TGH, I can just look it up
+Nurse: If you need. What, what look up office. Yeah, the information, I know, I know where it is. It's [PHI-Account].
+Patient: Well, I was saying to get the information sent over there so they would have it. Isn't that what you said about them needing that information or the?
+Nurse: Yeah, yeah. Um but she's with the network, she's a general, you know, so I don't know if she has access to it on the computer. She probably does. They just want the disc, the disc with all the information.
+Patient: [PHI-Personal], sounds good.
+Nurse: She's at the Palm River Road, [PHI-Geographic]. [PHI-Personal]. [PHI-Personal]. Thank you [PHI-Personal]. You're very kind. Thank you. Oh, sure. No
+Patient: Problem. You take care. Thank
+Nurse: You.
+Patient: Thank you that you just let me know and
+Nurse: I know I know I can count on you, [PHI-Personal]. Thank you so much.
+Patient: Alright,
+Nurse: Bye bye my dear. Thank you. Bye bye
+Patient: Bye bye.

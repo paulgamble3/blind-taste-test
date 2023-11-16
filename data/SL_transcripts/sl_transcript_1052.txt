@@ -1,0 +1,28 @@
+Nurse: Afternoon. This is [PHI-Personal]. How may I help
+Patient: You? This is [PHI-Personal] for [PHI-Personal].
+Nurse: Hi, how are
+Patient: You? I'm fine. I think I talked to you this morning, didn't I? Um, I
+Nurse: Don't, I'm not sure. I, I honestly let me pull up, let me pull up a lien chart and [PHI-Personal] is how you spell your name? Right?
+Patient: [PHI-Personal]. Yeah.
+Nurse: Oh, ok. Hm. If I called
+Patient: Somebody called this morning and I went over her BP and everything with them. Oh, ok.
+Nurse: It must have been one of the other nurses in the office. Um,
+Patient: Yeah,
+Nurse: Let me see here. Let me pull up the other part of the chart. Um, if I don't write this down, I'm not gonna remember to do it and then they're gonna come back at me and say you forgot to do this.
+Patient: Mm mm.
+Nurse: So we wouldn't want that. At least not for now anyway. Yeah. So I wanna go back out of this and see. All right. So add. Oh right. Ood here we go. All right. Beautiful. How are the BPS? Yep. Reports recent, uh, [PHI-Personal] that you talk to? Nice.
+Patient: Ok. Ok,
+Nurse: Good. So, yeah, he didn't want you, um, stress out about it. No changes with anything. Um, he, you know, he likes the, the treatment to be what it is at this time. Ok. So, what is she taking?
+Patient: He just got rid of, yeah, he just got rid of her Losartan and her, um, metoprolol. Um, he put it in half, cut it. Ya, she's been doing good since then?
+Nurse: Oh, wonderful. Wonderful. Uh, any, um, any other changes that she had, like, has she been doing, like, has she been a little bit more active, um, you know, eating good foods.
+Patient: Nothing's different. She eats decently and, well, most of the time we just had a, from, from Taco Bell for lunch. Oh, nice. But, um, yeah, she usually eats good and, and, ah, she's sleeping fairly good. No.
+Nurse: Yeah. No. Increased stress in her life or? Ok. Not too much salt in her diet or too potassium good. And then, um, yeah, being over, well, there's risk factors to high BP too, which, you know, of like, yeah. Um, age as we age. Family history. Yeah. She's, um, being overweight. Yeah,
+Patient: She is overweight and she has breast cancer in both breasts. Yeah. She's doing well.
+Nurse: Yeah. Oh, yeah. Well, very good. Very good. Well, then I won't keep you much longer. Let me see if I had anything else that he needed to follow up with. I highly doubt it. But pain is controlled.
+Patient: Yeah. She, if, if she has a lot. She takes a, a pill and she's got plenty of the pills left. She doesn't have very often.
+Nurse: All right. Good. Ok. That's good. That's good. So. Oh, yeah. Then all I'll do is confirm our upcoming appointment, uh, with [PHI-Personal]. It is on [PHI-Personal] which is load, load, load a Thursday at 10:25 a.m. Strange time. But
+Patient: [PHI-Personal] at what time?
+Nurse: At 10:25 a.m.
+Patient: 25. Ok. I will get put it on the calendar. I don't have that on here. All right. Ok. That's
+Nurse: Wonderful. And then that's it. You have a wonderful day. Thanks for calling me back. Yeah, you're
+Patient: Welcome. Alright. Ok. Alright, bye bye.

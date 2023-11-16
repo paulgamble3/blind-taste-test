@@ -1,0 +1,38 @@
+Nurse: [PHI-Geographic]. This is, how can I help you?
+Patient: R it's [PHI-Personal]. Hi, [PHI-Personal]. Hi. Hey, is having a feeding tube put in on Friday. Is they, they, yes, they want him to stop his aspirin and they told me I had to call his family doctor and ok, it with him.
+Nurse: Ok. Yeah,
+Patient: They said he should have stopped it last week already. Nobody told us.
+Nurse: Oh, boy. Yeah, up here. Oh, uh, let me get you a doctor. Right? And who was the doctor that wanted you to? Ok. It with him.
+Patient: It was, it was, uh, UPNC [PHI-Geographic], the surgery center nurse.
+Nurse: Ok. S AC, ok.
+Patient: And he was supposed to stop his pre Prevagen for his memory and his multivitamin too. Nobody ever told us that. Oh,
+Nurse: Boy. Yeah, they should have told you that at the surgery center.
+Patient: They should have told us that two weeks ago already.
+Nurse: Oh, my gosh. But
+Patient: Nobody did. So,
+Nurse: So you said this Friday he's scheduled for it?
+Patient: Yes. They're going to call on Thursday with the time and tell us where to go at the hospital?
+Nurse: Oh, ok. Surgeon. You said it was up MC? What, what was the? Yeah. Ok. I know. Ok, thank you. Um. Mhm. I'm sure this won't be an issue.
+Patient: I don't think so either. He stopped it before when you had stuff done, but she said I had a colon, ok, with his family physician, he can start, he can start taking it the next day again. Oh
+Nurse: Yeah. Ok. All right. I sent that over to him then. Ok. Um. Ok, good. Are you guys gonna have home health come in to help him with the feeding tube at first or?
+Patient: I hope, I hope
+Nurse: So. Ok. All right. Are you familiar with the feeding
+Patient: Tube? Yes, I am. My first husband had a feeding tube. Ok. All right. But that was, that was 22 years ago. Yeah, 2023 years ago. Yeah. And I was a lot younger then and I wasn't as nervous as I am now. Right. So. Yeah.
+Nurse: Yeah. Right. Well, and, you know, [PHI-Personal] should be able to manage it a lot as well. Um, you know, it's, it's, but
+Patient: He won't, he won't. [PHI-Personal]. Hm. I do everything for him.
+Nurse: Yeah. Everything
+Patient: Except give him the
+Nurse: Back. Are they going to need an order for the, the? Ok, for him to hold the aspirin sent over there or?
+Patient: I, it probably wouldn't hurt to do that.
+Nurse: Ok. I'm wondering if we have the, in the contact information here. I'll let them know that whenever, once he gets that back. Um, All right. Ok. Well, I'll follow up then after. Is it just supposed to be an outpatient procedure? Yes. Ok. All right. I'll follow up then next week. Um, doing ok.
+Patient: Ok. And I have one other question, is it in [PHI-Personal] file that we have, uh, an advanced directive I saw. And if, if we did, I gave it to Doctor [PHI-Personal]. So, I don't know, I can't find anything in my safe and I thought for sure we did. We had one, both
+Nurse: Of us. Yeah. Let me see here. Uh. Mhm. They have a paper chart from Doctor [PHI-Personal]. It looks like. So I wonder if they may have it in the paper chart. Yeah. Here, let me look at the home failure problem problem chart. Ok. Um, yeah, I'm not sure. Like I said, I can ask them if they, if they have it on. 0000, hold on. Advanced directive living will. Yes. Yes, they have one here. It looks like from, it was scanned in [PHI-Personal] of [PHI-Personal].
+Patient: Ok. Yes. Ok. Well, if has one then I have one too. Yes, because I thought for sure we did that but I don't have anything in my sha I don't understand unless it's in there and I'm just, there is so much going on here. Uh, you should see my house here. I have paperwork all over my house for, for, for, for, for the bank, for everything.
+Nurse: Yeah. I'm sure it's very, and it is, I mean, when times like these happen, things get very chaotic. Yeah.
+Patient: Yeah. Well, I was in, I was in to see [PHI-Personal] last week and, uh, she can't up my Viibryd, I'm taking the max amount, 40 mg a day. But she did up my Buspirone two in the morning and two at night and she said, even if I get that bad, take one in the middle of the day. And I started that, I think on Thursday and I don't see a difference yet, so I don't know how long it's gonna take.
+Nurse: Ok. Well, I mean, give it, give it a little bit, I would say at least weeks, at least two weeks and then, yeah, if you're, if you're not feeling any change, you know, let her know
+Patient: And that's what she, that's what she told me. Yeah. Yeah. Yeah.
+Nurse: Ok. Well, I'll just hang in there. Um, then I'll, I'll touch base with you next week then and, and if you need anything, give me a
+Patient: Call. Ok. All right. Thanks a lot
+Nurse: [PHI-Personal].
+Patient: Uh huh. You too. Bye bye.

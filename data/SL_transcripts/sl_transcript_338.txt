@@ -1,0 +1,48 @@
+Nurse: Hi, this is [PHI-Personal], one of the nurses here. How can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal] Fun. And you left a message, uh, for me to return your call yesterday.
+Nurse: Oh, yeah, how are you doing? I'm
+Patient: Fine, thank you.
+Nurse: Good. So let's just start with your date of birth. 8, 18 57. All right, great. Ok. So I was, um, just giving you a call. I am the nurse that was assigned to you for that care management program. Yes. So I just wanted to go over that a little bit and, um, just check in on those medications. So, what I'll be doing is I'll be giving you a call about once a month just to check in and see how you're doing during those calls. We can talk about anything you need, whether it's, um, a new appointment that you recently had or symptoms that are popping up, make sure you don't need any medication refills. Just your, your typical routine. Things like that every month will be a different call based on what you need. Ok. Ok. In addition to that, we also set you up with some wellness schools. Those are things that um [PHI-Personal] and I have put together to make sure that we work on throughout the year and get done before the year end. Those are just your routine tasks, like making sure you get your annual wellness visit done. Um Have any lab work completed or imaging that was been ordered, you know, just your typical routine stuff. So I will write that up in a list for you and I'll get that mailed home. So you have a copy, I'll send you my contact information. So if at any point in between my monthly calls out to you, you have any questions or anything or want assistance in any way, you're more than welcome to give me a call and I'll help you out in whatever way I can. Ok, great. Thank you. Ok. Yeah. Any questions on that at all?
+Patient: No, I think I'm good.
+Nurse: Ok, great. Um, so for your medications, um, do you use a pill box or do you have a list that you go by? How do you keep track at home, um,
+Patient: With my pill bottles?
+Nurse: Ok. That's fine. Yeah. All right. So if I just read through the list that I have here, can you tell me if you are taking these medications or not? Sure. All right. So I've got rosuvastatin five mg daily, correct? Ok. And then I have an Albuterol inhaler two puffs as needed for wheezing.
+Patient: I have it, I haven't had to use it. I was really sick when I was in to see her last time and she gave it to me, but I haven't had to use it for a long time.
+Nurse: Ok. And then I have a Z pak, which I'm assuming you've already finished. That was back in November. Ok. And then I have Valsartan Hydrochlorothiazide 3 20-25 milligrams daily. Correct? Ok. And Ezetimibe 10 mg daily. I'm sorry, what? It's Eine or [PHI-Personal].
+Patient: Yeah. Which one is? I don't know what that is. I I'm not.
+Nurse: Is that the other name for it is [PHI-Personal]. It's for your cholesterol.
+Patient: My uh cholesterol medicine. Wasn't that the best?
+Nurse: Yeah. So that's a right. That's another form of it.
+Patient: OK. Yeah. She changed me over to the Crestor or the generic version of from that one. That's what I was taking prior now I remember.
+Nurse: All right. So you're not taking the [PHI-Personal]? No,
+Patient: She switched me
+Nurse: Over to the other. OK. I'll take that off for you. And then I have an amoxicillin to be taken just prior to dental procedures. Yeah, I have to do that. OK. Omeprazole 20 mg one capsule daily. Correct? OK. A vitamin D three, I've got 4000 units daily. Yes. OK. And then I have buPROPion 1 50 mg twice a day. Correct? Ok, great. All right. So I will go ahead and update that medication list for you. Do you need any refills at this time?
+Patient: Uh See I don't. Thanks. So, right there. No, most of them still have two refills left on them. So, I think I'm good for a couple months anyways.
+Nurse: Ok. Excellent. All right. And then with the buPROPion, we do have to do these surveys, um, a couple times a year just to check in and see how the medication is working. Ok. So I will, um, I'll do that now with you. It's just a quick, it's like nine or 10 questions and I will tell, ask you a question and you can, um, answer it based on your symptoms or if you've been bothered by the issues over the last two weeks. So the past two weeks that have just gone through and then you can either tell me that you have not at all been bothered by, it, been bothered by it for several days, more than half the days or nearly every day. Ok. Ok. So if you had little or no interest in doing things,
+Patient: Uh, no, I'm, I'm good there. No, I don't, not having any trouble with that.
+Nurse: Ok. Have you felt down depressed or hopeless?
+Patient: Not lately? No.
+Nurse: Do you have any trouble falling or staying asleep?
+Patient: I do have trouble sleeping. I will give you that.
+Nurse: So, is that like, uh, every, every night you have an issue more than half the night in the past two weeks or just several nights.
+Patient: It's mostly every night. It's like three o'clock in the morning until I can finally go to sleep. Um, and then, then sometimes I don't stay a, I don't, I don't stay asleep and then the, then I'll get, you know, maybe I'll go a week or so and then I'll get so tired and then I'll get a good 6 to 8 hours sleep. You know, it, it's just off and on like
+Nurse: That. Right. Ok. All right. Do you, um, feel tired or, like, you have little energy throughout the day? No. No. Ok. Do you have a poor appetite or do you feel that you overeat?
+Patient: I do think I overeat and, and that's only because I don't sleep at night and I get bored and it's the worst time of night to eat, but that's what I
+Nurse: Do. Right. Ok. Uh, do you ever feel bad about yourself? Like you're a failure or that you're letting others down?
+Patient: No. No, I just wish I wasn't so fat.
+Nurse: You and me both. I, I struggle with that too. Um, any trouble concentrating on things such as reading or watching television? No. No. Ok. All right. And do you ever feel that you are moving or speaking so slowly or the exact opposite where you're so fidgety and restless?
+Patient: Mm. No, I wouldn't say so. No.
+Nurse: Ok. And any thoughts of self-harm at all? I'm sorry, what did you say? Any thoughts of self harm? No. Ok. All right. So, the things that you did say that you have, um, issues with, with the sleeping and the snacking. Um, how often does it make you, how difficult does it make you to do your normal day to day activities with those issues?
+Patient: Um, well, if I get several nights where I don't sleep more than, you know, like 234 hours, um, I'll get a day where I'm really tired and I just don't feel like doing anything so then I don't do too much and then I usually get a good night's sleep, you know, it's just, it, it, it's sporadic. It's not all, you know, it's not consistent.
+Nurse: Right. Ok. Ok. All right, great. So, I will, um, go ahead and update her on all of that. Do you have any questions or is there anything I can help you with today?
+Patient: No, no, everything else is good.
+Nurse: Ok. Excellent. Right. Gene. And, um, do you go by Gene or is there a nickname that you would use for me is fine. And, um, is there any certain days that work better or don't work for me to call you? Uh,
+Patient: Uh, no, I think not right now. I don't think any, any day is fine. I should be fine.
+Nurse: And morning versus afternoon is their preference.
+Patient: Uh, no, just not too early.
+Nurse: Ok. All right. That's fine. And do you live alone or do you have someone
+Patient: With you? My husband, my husband
+Nurse: Is there with me. Ok. Great. All right. Excellent. So I'll collect that information for you and mail it home so that you have a copy of all of it. And my contact information again, you can give me a call at any point if you need anything. But I will go ahead and put you on the schedule for next month and I'll give you a call and check in then.
+Patient: All right, talk to you then. Thank you,
+Nurse: [PHI-Personal]. You're welcome. You have a great day. You too.
+Patient: Thank you. Thank you. Bye bye bye bye.

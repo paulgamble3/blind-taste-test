@@ -1,0 +1,9 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, I received a call from this number from
+Nurse: My grandfather. Ok. What's your grandfather's name?
+Patient: Um, uh, a, a [PHI-Personal]. His first name is [PHI-Personal], last name is [PHI-Personal].
+Nurse: Ok. And your name?
+Patient: Um, I'm his granddaughter.
+Nurse: Ia, ok. It looks like Marlene called. You. Do you mind holding? I can see if Marlene's available. Yes, ma'am. Ok, thank you.
+Patient: Mhm. Oh, Penny. Penny. Oh, but I, but it. Ok. Mhm.
+Nurse: Eater. Yes, ma'am. Ok. I'm sorry, Marlene is on the other line with another patient. Is it ok if she gives you a call back? Yes, ma'am. That's fine. Ok. Thank you. Thank you. Bye bye bye bye.

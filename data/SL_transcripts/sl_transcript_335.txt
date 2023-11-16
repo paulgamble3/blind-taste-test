@@ -1,0 +1,18 @@
+Nurse: This is speaking how may I help you?
+Patient: Hello this is David. Ight you called left me a message to call you and I apologize I was on vacation and didn't have service and I just got home.
+Nurse: No it's ok. Um hold on one second let me just pull you up. Ok. Alrighty so I was just giving you a call just doing your um your monthly follow up I was just checking in to see how things are going with you see if you had any change. No no. Ok you said you just got back from vacation. Where did you guys go?
+Patient: What was that?
+Nurse: I said you said you just got back from vacation I said where did you go for vacation?
+Patient: Yeah yeah we we were at a motorcycle race up above [PHI-Geographic] but we went up a week early just to camp. Oh we had a good time. Very hot so a lot of open. Oh
+Nurse: Yeah that's nice you can make sure that you um stay hydrated and didn't stay in the sun too much when you were there.
+Patient: No I try and stay out in the sun. Ok
+Nurse: That's good. Um, how your, uh, blood sugars been? Have you had any issues with your blood sugar?
+Patient: No. Ok. It's been running pretty well. Ok. 1 20 to 1 40 in that range.
+Nurse: Ok. Well, that's good. All righty. Um, any issues with your BP, like any headaches, dizziness, anything like that. No. Ok. All your medication up to date.
+Patient: Yes, I have one at, it's another message. I just found it called. Yes, I have a I'm assuming it's a pen need a pen for this Thursday and took my last shot up there Thursday so I have to go up there tomorrow morning and.
+Nurse: Ok. All right you need any more you need any other refills?
+Patient: No just got to and how to email that something's on the way and I didn't get the email yet but I mean that it was shipped I haven't seen my bottles lately to see which one it's gonna be but. Mhm.
+Nurse: Ok. Alrighty um you got any questions or any concerns about anything?
+Patient: Nope, nope everything's been staying pretty much the same and I like flooring my cat. Mhm.
+Nurse: That's good. Right. Let's see. So you're scheduled to come into the office on [PHI-Personal] at 8 30. Ok. All right if you have any questions or concerns before that or you um have any changes or anything you can just feel free to give me a call back. Ok, I'll do that. Alrighty. Alright. Well have a good day.
+Patient: Yep, you too. Thank you very much. Uh huh, bye bye bye bye.

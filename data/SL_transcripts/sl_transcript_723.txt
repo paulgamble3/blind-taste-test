@@ -1,0 +1,24 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager.
+Patient: Hi, [PHI-Personal], this is [PHI-Personal] Ry calling. Hi,
+Nurse: How you feeling?
+Patient: Um, now there is something going on. I mean, between my ears and my throat and my head, the Mucinex is worthless because I'm not that, but now I have white crap in the back of my throat. I don't know what else to call it. It's all way back in there. I need to get into that. Right. I've, I've said strep throat from day one. Did they test for it? No, because there were no white, little, what do you call them corpuscles? And I totally little white. There was no white stuff. When I went to the, er, on Saturday, it was just real red. Well, now it's just, it's real red and then there's like thick streaks of white stuff. Ok. So what would
+Nurse: You prefer doing? So what we can do is I can reach out to the doctor and they could try to fit you in or you could try going to urgent care. Do you? Is that something that you would be ok
+Patient: With? See, he's gotten, he didn't like it the last time I went to urgent care. No, no, no. He said you go to the, er, I'm not going back to the, er, I like it. Um [PHI-Personal], he said rather you go to the emergency room. I don't wanna sit in the emergency room in a chair for three hours like I did Saturday. So
+Nurse: I, I have mixed feelings about that. I know that he's the doctor but I've had patients who had wonderful experiences with urgent care because I
+Patient: Don't have a problem with urgent care at all.
+Nurse: They're able to get everything done right there and prescribe what they need to prescribe and they, and they come in with, um, sometimes when you go to the, er, or the doctor and they've seen you before, they have a pre um, they have already have a view of you and so that kind of uh can alter their diagnosis a little
+Patient: Bit. Yeah. And with a
+Nurse: Little more objective. Right. Right. So I always think that's if, if you don't wanna wait for the doctor to get back to us, wait for an appointment or wait in the, er, for five hours, that's a good option. I, I prefer going to urgent care but it's all, it's all up to you.
+Patient: Well, yeah, I mean, if I, I ha, I, I've got an older guy I take care of and he's actually in, in the hospital with kind of the same thing I have but he's in IC U because he's got COPD so bad, but I have to be here until 11. He's got workers coming to totally demolish and remodel his bathroom. So I have relief at 11 if I can't get in to see one of your PA S or doctor, uh I'll have to go to urgent care.
+Nurse: Ok, so what I'll do is I'll send the message over now if we don't hear anything, I'll let you know. um or if you don't hear from me by 11 or by noon then yeah you can make that decision either way because yeah sometimes they they get back quickly sometimes they take a while in the meantime I would gargle with salt water, warm salt
+Patient: Water, ok?
+Nurse: Just to help relieve some of the pain it's gonna help you know with some of the bacteria in there and that that'll temporarily.
+Patient: Ok. Alright I can do that. Yeah of course I look now I was looking for blister.
+Nurse: Yeah list screen you don't wanna do because it has a lot of um I can't think of the word right now. It's actually not the best thing when you're sick. Yeah so
+Patient: It does it does
+Nurse: Work sometimes with bacteria but um so I want to be good for now. Ok.
+Patient: Yeah. Alright thank you so much. You're
+Nurse: Welcome. Yeah I'll be in touch or and if and if you don't hear from me then uh you can either give me a call and let me know you're going or just go and, and uh let me know how it went.
+Patient: Ok. All right. Thank you so much. You are awesome.
+Nurse: I hope you feel
+Patient: Better. Oh, thank you. Me too. Ok. Mm bye.

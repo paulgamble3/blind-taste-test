@@ -1,0 +1,7 @@
+Nurse: This is [PHI-Personal]. Can I
+Patient: Help you? Hi. Um this is [PHI-Personal] calling. Um I was calling to speak to, I guess she's not available. Let me see.
+Nurse: [PHI-Personal].
+Patient: Yeah. No, Nullnull. Let me see here.
+Nurse: Give me one second. Let me see if she's on the phone. Ok, thank you. No problem. All right, [PHI-Personal]. Yes. Hey, I'm sorry she's on the phone right now. Um Let me see.
+Patient: Let me send her a message there. Mm. Have her just give me a call when she's free.
+Nurse: Yeah. Sure. No problem. I'll I'll let her know to call you back. Ok. All right. Thank you. Thank you. Bye bye bye.

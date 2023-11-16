@@ -1,0 +1,5 @@
+Nurse: Hi, this is [PHI-Personal]. How may I help you?
+Patient: Oh, somebody coming for that number.
+Nurse: Yeah. Is this? Yeah, hi. Um my name is [PHI-Personal]. I'm calling from the Chronic Care management team with your PC P's office. How are you doing today? Very good, good. Um, so I was just calling uh let me pull your chart back up here. Well, all right, I was just giving you a call um because it looks like our enrollment team reached out to you last week. Um, so I wanted to call and introduce myself and kind of go over some stuff about the program would now be a good time for you.
+Patient: Yeah, but I I don't like somebody supposed to come. Can somebody speak [PHI-Personal] or
+Nurse: Not? Uh Spanish? Yeah, let me um let me reach out and I'll see if we do have a Spanish speaking nurse. Ok. All right. Thank you. Alright, bye bye.

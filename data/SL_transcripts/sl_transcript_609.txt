@@ -1,0 +1,38 @@
+Nurse: Good morning. This is [PHI-Personal]. Can I help you?
+Patient: Hi [PHI-Personal]. My name is [PHI-Personal]. I'm calling for source. She had a message, I believe, uh, it might have been from [PHI-Personal] but it was, but she used to
+Nurse: Call you. Ok, let me just look up her information. And how do you spell the last name? [PHI-Personal]
+Patient: [PHI-Personal]
+Nurse: Delma? Yep. Ok. Oh, I'm her nurse. Oh, ok. I'm her nurse. Um, the reason I was calling her is because she is, um, enrolled as a new patient on the case management program, which means I'm her case manager nurse on behalf of [PHI-Personal] Robb. And so what I do is I'll call monthly check in with her, see how she is, um, help her manage her chronic conditions in between her doctor appointments. Uh, let me just put her stuff down here and are you her daughter? Yeah. Ok. And I'm sorry, what was your name? Barb? Barb? Ok, let me just get her information down here. So what I'm gonna do is I'm gonna be sending her out a letter with my name and phone number on it. Ok. And she can keep that and in the meantime, like if she needs anything from me or if she has a question about anything or you have a question about anything you can call me and I can, um, help you with that because I work right off of the doctor's system. Ok. Ok. Um, let's see here. I see. She was there in January. Upcoming appointment for labs in [PHI-Personal]. Yeah. Ok. So let me just check her medications. Um, aspirin, 81 mg a day.
+Patient: No, she's not taking any aspirin right now. No.
+Nurse: Aspirin. Ok. And when did that stop
+Patient: When she went in the hospital in [PHI-Personal]?
+Nurse: Ok. So that was discontinued at discharge. And
+Patient: Now she does, she sees the cardiologist today so I don't know if they, that might change but.
+Nurse: Ok. Ok. And then I have atorvastatin calcium 20 mg. Yeah. Calcium, 600 plus D. Yeah. Eliquis five mg. Yep, fish oil. Yep. [PHI-Personal]. What's that? Fluconazole? 100 and 50 mg.
+Patient: Hm. Let me just see what the uh let me just see what the other name for it is. Yeah, that's what I'm thinking.
+Nurse: Oh, Diflucan.
+Patient: Hm. Nope. What is that for?
+Nurse: That is for fungal infections?
+Patient: Oh, no, no, she's not on that.
+Nurse: Ok. Um yeah, and that's 600 mg. Levothyroxine sodium 88 micrograms.
+Patient: Yeah.
+Nurse: Lexapro 10 mg. Yeah. Metoprolol 25 mg twice a day. Yeah. Multivitamins. Mhm. Nicotine patch. Nope. Nope. Uh Macrobid 100 mg.
+Patient: Mm I don't know what that. Is. So, no,
+Nurse: It's a nitro for, for macrocrystals. It's an antibiotic. No, no antibiotics. And then pantoprazole sodium. That's the omeprazole.
+Patient: Gosh, that doesn't sound familiar either.
+Nurse: That's for acid reflux. Oh, yes.
+Patient: Yes.
+Nurse: Ok. Quinapril. HCL. 20 mg. Half. Uh, so cra felt f before meals. She's
+Patient: Not on, no, she's not on that anymore. Ok. Now, does she have a CPAP? Yes. Ok. Now, the Quinapril she's only taking, I think it was, it was 20. Now it's half,
+Nurse: Half, half a tablet, once daily, half a tablet, twice a day. Hm. Let me see here. So it's half a tablet.
+Patient: No, it says once. So it is, it is
+Nurse: Once. Sorry. It is once. Ok. That's fine. Yeah, that's fine. Not a problem.
+Patient: Too, too many
+Nurse: To keep track of. I know. I know. And now she use the pill bottles or the pill box. The box. Ok. Yeah. Several, several. Yeah. You know what I did? I had two knee replacements last year and I didn't want anybody to have to mess with my medicine. Like my sisters when they were coming over to help. And so I went to the dollar tree and I bought four of the pill boxes and I had all my pills ready for, like, the whole month other than what I need. You know what I mean? Yeah, I was, I was like, don't touch anything because it's not even that I take a lot of medication. It's that I take vitamins too and my sisters were coming here going, oh, my God. You take so much medication. I'd be like, half of it is over the counter. It's vitamins now. Um, let me just look at her things here. Oh, I see why she was on the, uh, the antibiotics now. Is she still smoking? No.
+Patient: No.
+Nurse: Mhm. Mm. Ok. Ok. All right. So, like I said, what I'm gonna do is I'm gonna send out those letters and she'll get one that's an annual Wellness school thing. And that's just, that's just a list of the stuff that she goes for on a normal basis yearly. Like her, um, you know, like her labs, her wellness visit, things like that. So that'll all be on there and then now her anxiety, how long has she been being treated for that?
+Patient: Um, since my ba dad passed? So,
+Nurse: 10 years. Ok. You've been longer than five years then? Yes. Ok. All right. Just so I know what to put down for it. All right. Well, I'm gonna discontinue all these medications she no longer takes and I'm going to send an update over to the office. Um, in the meantime, if you just need me for anything, by all means, you have my number, please call even if it's a question about something or she's not feeling well and needs to get into the office sooner than what her scheduled appointment is. I can do that for her. As well. Ok. Ok. All right. And it was great talking to you.
+Patient: Thank you.
+Nurse: You have a good day. You too. Thanks. Bye bye
+Patient: Bye.

@@ -1,0 +1,17 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hey, [PHI-Personal]. It's [PHI-Personal]. I just wanted to tell you that there was nothing else that I had like, really to talk about.
+Nurse: Ok. Well, I wanted
+Patient: To, sorry, go ahead.
+Nurse: No, I, I called you and left you a message and said if there was anything else call me, if not, um, I know you're in a dead zone and we lost the call that way and just call if you need anything. That's basically what I said in the message.
+Patient: Oh, ok. Yeah, it didn't come through yet. Probably because I was,
+Nurse: Yeah, I could tell, like, at the beginning of the call it was kind of like, um, iffy, but I could understand you and then all of a sudden it went, like dead, like I didn't hear anything and I'm like, oh, she must be in the dead zone and then you came back when you're like, I just want you to know I'm in a dead zone and then it went, it went blank again. So I didn't hear anything but I think we got the gist of everything. Um, yeah, taken care
+Patient: Of when I got the second test for herpes, my value was in the false positive range. Oh, really? Yeah. So now I have to go through this, like, the most accurate, like confirmatory test, but it's gonna be a few months until I do that because they said they didn't know if they would accept care credit for it and it's an out of state test. So if I go to bill it with care credit and they, it ends up that they don't take it. I have to have the money so I have to save up for it in case.
+Nurse: Is that the western blot? It is. Yeah. Ok. All right. Yeah. Well, hopefully, hopefully it truly is negative.
+Patient: What's that? The second round of testing? My result was a 2.4. Wow. Yeah, it was a huge drop.
+Nurse: Yeah. Well, hopefully it does come out to be false.
+Patient: I'm hoping, but I usually don't have that good of luck.
+Nurse: Well, fingers crossed.
+Patient: Yeah, really? But yeah, it did. I did get a uh flag from the lab that I was in the false positive range and they suggested a confirmatory test. So
+Nurse: We'll see. All right. Well, keep me updated. Ok, I will. Alright, be safe in your trip home and um call if you need anything.
+Patient: Thank you so much. Have a great day.
+Nurse: You're welcome. You too, Nikki. Uh huh bye bye.

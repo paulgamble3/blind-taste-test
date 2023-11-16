@@ -1,0 +1,67 @@
+Nurse: Hello. I, one of the nurses with Doctor [PHI-Personal] office. How are you?
+Patient: I'm fine, thank you. Hello.
+Nurse: What can I do for you today?
+Patient: Well, there was a message for me to call, so I'm calling. Oh,
+Nurse: Ok. Give me one second. The computer is running so slow today. I am trying to pull up your chart. Right. It looks like we had, uh, given you a call to try and get you set up with our chronic care management program. Um, let it had gone out a little bit ago. So we were following up on that to see if that's something that you would be agreeable to. Um, Doctor [PHI-Personal] had asked that we reach out to you. Um, chronic care management service is a fancy way of saying you have a nurse that's available to you. Uh, if you have any questions, if you have any concerns, um, we're here for you. Uh, we'd be giving me a call, checking in, going through some education, making sure you understand what's going on with your body. Make sure you understand what medications you're taking, why you're taking them. If you need any refills on those medications, we can help you out with that as well. Uh huh. Is that something that you would be interested in?
+Patient: Yeah, I guess so. I mean, I get bronchitis a lot but I'm with, I'm not, I'm with Children all day long. I have no, there's no way out for me.
+Nurse: I fully understand that. No, our, our whole goal is to keep you as far away from that hospital as possible. So, we definitely love to help you out with that and uh just go through a few things and catch it early when it starts to happen.
+Patient: Right. So, you know, I uh he always gives me a particular um, antibiotic which gets rid of it quickly. So right now I just took the last one. So I'm feeling good last time I was there, I was sick and I'm, I'm positive I'm positive based on how I felt at Easter that I had pneumonia. He gave me 10 days of the antibiotic and I was still not good. And when I went back, I had a chest x-ray and I had of course severe bronchitis. So I know that at the time before I took those 10 pills because he gave me 10 more to get rid of this. Yeah.
+Nurse: So you're still finishing up the Levaquin then
+Patient: I just finished it. Yes, yesterday.
+Nurse: Ok. Let me just clear that out of your system that you're done with it.
+Patient: Right. Chase, get away from there.
+Nurse: You have a daycare.
+Patient: Yeah. Just, actually it, the Montessori school but they just never listen to you no matter what you say, they just sneak around. This is rest time and I'm watching them. I asked me to go over there, get on your back.
+Nurse: I got three of my own. I know how it goes. All right. Are you still taking the, uh, cough syrup then as needed?
+Patient: I'm keeping it if I need it. I am not. Yeah, that stuff was that stuff helped me good.
+Nurse: All right. And how about the Albuterol? You still using your rescue inhaler?
+Patient: Um, I used it once yesterday. I haven't used it today yet but, you know, I'll use it. Um, like if I'm going outside with the kids, ok, I'll use it sometimes you get on your bed. Am I on the phone? Thank you. As soon as you turn your back or do anything that you sneak around? Oh, unbelievable.
+Nurse: I fully understand that. All right. And the Zofran is completed then too. It looks like, what's that? The nausea medication?
+Patient: I didn't take any of that.
+Nurse: Ok. How about the predniSONE?
+Patient: Yeah, he gave me a lot of that. That cleared it out. Yeah, I'm not taking, I'm not taking that. It's over. Ok. But that was scary. I, that was the sickest I've been in a long time. I was really ill. I really had a terrible time breathing. It was awful.
+Nurse: Yeah, that pneumonia is nothing and pneumonia. With bronchitis is hard.
+Patient: Well, it didn't show pneumonia after 10 days of taking an antibiotic. But I know, I know when I've had it. So I, after 10 days I'm sure it cleared out the pneumonia but the bronchitis was still there. So, uh, you gave me 10 more days and it's so far so good. Oh, good.
+Nurse: All right. And you still doing your, uh, Symbicort?
+Patient: Yeah, I do that every day.
+Nurse: Ok. And then I also have every day. You've got the Lyrica 100 50 mg three times a day. Yeah, you have furosemide 20 mg. You're taking one tablet by mouth as needed for, uh, swelling.
+Patient: Now that the weather's changed. I know my right ankle swells a little bit. I take it every day. Ok.
+Nurse: Perfect. I also have a vitamin E and a vitamin D. Yep. And Restasis. Eye drops twice a day.
+Patient: Yeah. And I,
+Nurse: Oh, sorry, go ahead.
+Patient: Um, what is it? I don't know what it is. It's that pill that's supposed to make for your heart and your, uh, one of those pills big. I've been taking it a long time. Is it a, uh,
+Nurse: Vitamin?
+Patient: No. Well, it's not, it's like a vitamin. You buy it at the drug store.
+Nurse: Fish [PHI-Personal].
+Patient: Yeah. Sure.
+Nurse: Do you know what dosage?
+Patient: Uh, no. Ok.
+Nurse: Doctor. Right. All right. Well, I will add that to your list once we know the dosage. So there's too many dosages and I don't wanna guess on that and then I also have the Prolia every six months.
+Patient: Yeah. Well, I just, I called the drugs him. He apparently ordered it. I got a message from the drug store that they're out of it and they're ordering it. Ok. So they're supposed to send me a message when it comes. All right.
+Nurse: Well, that sounds good. All right. Uh, so be
+Patient: Careful and I'm due for that Prolia shot.
+Nurse: All right. Well, when you get it, let us know, um, we can get you all scheduled for you if you need to come in and get it done. But in the meantime, can I
+Patient: Call you to go scheduled to come in to get the shot?
+Nurse: Yeah, once you get it. Yeah,
+Patient: Let me run them. What are you doing? That is not nice. It's dirty. Put your socks on you too, honey. I don't care, is not doing what I just saw you and the two of you doing that is disgusting behavior. We don't act like that. You're a gentleman. Do gentlemen do that. Uh, you know, animals don't even do that. They clean their feet because they don't take a bath like you do but doesn't even make the bottom of his feet. He licks the top of his hair. He doesn't lick the bottom of his feet and you're humans, they're sitting there licking the bottoms of their feet. Can you believe that
+Nurse: They gotta be boys?
+Patient: Right. No one's a boy and one's a girl. Oh, no. Yeah. Oh, well.
+Nurse: Um, so, uh, yeah, when you get that, give us a call, that way we can get you scheduled to come in and get it, get your shot then. Ok.
+Patient: Now I just call the office or I call this number. What number is this?
+Nurse: This number comes directly to the nurses. Uh, unfortunately I don't do the scheduling. Um, Doctor [PHI-Personal] likes to schedule done, um, through, through the main office there because they, they know him so well and I can't blame him. I don't wanna mess up the schedule. Um,
+Patient: Yes, ma'am. I will
+Nurse: Call you. Yeah, every everything else you can give us a call. But scheduling is the one thing I can't do.
+Patient: Ok. So if I start getting sick again, I call you.
+Nurse: Yes, ma'am. You can give us a call. We'll go through everything. Um, triage. See if there's anything we can do to help prevent it, help you feel better. Um, if we need to get you in, we can get you in. No problem. Um, Doctor [PHI-Personal] normally gets, I can send him a message and normally he gets back to me within like 15, 20 minutes or at most an hour or so. No,
+Patient: He's a wonderful man. He's great. Yeah, I've been going to him since he opened. Oh, yeah, I was one of his first patients. So, yeah, his Children came to school here for a little while. His wife passed away, so I've known him for years. Oh, well, they grow their little babies when they came here. A little tiny thing.
+Nurse: Oh, boy, you've known him for a long time then
+Patient: I have. Yeah.
+Nurse: All right. Well, I won't keep you too long. I do wanna remind you, you do have a follow up appointment here with Doctor [PHI-Personal] on the [PHI-Personal] at two o'clock.
+Patient: Well, no, I have an appointment to have a pap smear on the [PHI-Personal]. Ok. Yeah. Ok.
+Nurse: Yeah, and so make sure you come in for that. If anything changes in the meantime, you can give us a call at this number. I'll send you out a letter in the mail with my name and our phone number on it as well. That way if this number gets buried in your phone, you'll you'll know where to find it.
+Patient: Ok, good. Alright. Do you
+Nurse: Have any other questions or concerns I can help you with?
+Patient: Uh No, I'm fine. Thank you, but I appreciate the call.
+Nurse: You're welcome. Well, you have a good rest of your day.
+Patient: Thank you dear.
+Nurse: You're welcome. Bye bye bye.

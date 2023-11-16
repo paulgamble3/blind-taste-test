@@ -1,0 +1,25 @@
+Nurse: How may I help
+Patient: You? Yes. Is this Natalie? This
+Nurse: Is [PHI-Personal]
+Patient: [PHI-Personal]. Ok. This is [PHI-Personal] and I have a question about my husband [PHI-Personal] and I, I thought I'd like to discuss it with you.
+Nurse: Oh, yeah. Sure. Hold on. Let me go to, I think I spoke with you last time.
+Patient: Yes, you probably did.
+Nurse: Let me see. Re right.
+Patient: Yes. Yes.
+Nurse: Oh, ok. What's going on dear?
+Patient: Well, what's going on is about, first of all, let me tell you he's, he's been seeing as, you know, he has cancer and he's been to [PHI-Personal] for almost two years and he also saw a, another doctor who's a hepatologist and whatever. And because he was having diarrhea, he gave him a medication called chool to pull anyway, I can spell it for you. But it doesn't matter. And he was supposed to take one tablet for diarrhea. Well, it didn't help that much. So he told him to double up on it when we saw him. Did you in [PHI-Personal]
+Nurse: One second? Did you talk to [PHI-Personal] last time?
+Patient: I, I might have, I'm not really sure. Let me see if she said then we'll
+Nurse: Yeah let me because she talked to you last time I think mine was just for like a quick refill. Um I'm like wait I didn't know any of this so hold on one second my dear um where is she? Oh she's right here. Ok hold on one second. Ok. Ok where are you? Oh here it is that what I'm gonna have her do? What's this number you're calling me from it?
+Patient: [PHI-Account]. I can't
+Nurse: Find my thing that sends it technical. I'll have her call you right back. [PHI-Account]
+Patient: [PHI-Account]
+Nurse: 71. Ok. 93
+Patient: [PHI-Account]
+Nurse: [PHI-Account]. I'll have her call you right
+Patient: Back. Yeah that's my number and not [PHI-Personal]. Ok good. Ok can
+Nurse: You call that and you're gonna be home right now? Right?
+Patient: Well we're in [PHI-Geographic] but yeah we're in we're the help. So
+Nurse: About her husband [PHI-Personal]. Ok. [PHI-Account]. Is that it? Ok? Ok. As soon as she gets off the phone, I'll have her call you right back. Ok,
+Patient: Thank you very much. You're welcome
+Nurse: Dear. Ok bye bye.

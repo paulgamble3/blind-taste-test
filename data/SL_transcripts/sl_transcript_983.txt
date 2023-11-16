@@ -1,0 +1,27 @@
+Nurse: Hi. Is this [PHI-Personal]? Yeah, I got you. This is Nicole [PHI-Personal] out right now. I got your voice mail. Um, so I was just returning your call. How you doing?
+Patient: I fine.
+Nurse: Yeah. So I think [PHI-Personal] was, um, probably just checking up on you seeing how you're doing, um, seeing if you're needing anything.
+Patient: Well, no, I'm ok. Yeah, I, the doctor to see my primary, um, on the [PHI-Personal], I guess I can get some of these referrals out of the way because I have to cancel doctor's appointment because I don't have, I gotta have a referral now. Yeah. According to my insurance. So that messed me up. Goodness. So after that [PHI-Personal] I should be good.
+Nurse: Perfect. And it's almost here. It's coming up. It's just next Wednesday. That's nice.
+Patient: I can, I can't wait because I, you know, I got all kind of stuff on hold and out. Positive. Yeah. So other than that, no, I'm doing real good. I was ok. Need anything or nothing like that. I made a, um, appointment to see, um, to come out and make a nurse visit. Ok, a home visit from the insurance. Oh, yeah. Yep. Is gonna come out on the [PHI-Account].
+Nurse: Oh, ok, perfect. We're getting everything done, aren't you? Yeah,
+Patient: I'm trying, I'm trying, I got my teeth, um, went to the dentist the other day, got my teeth cleaned and everything. I'm waiting until the last of [PHI-Personal] so I can go back there for them to finish the work with the, the surgery is the first of [PHI-Personal] and I'll be down for two weeks. So I'm trying to get most of this stuff out of the way. And these, oh, I can't believe it. These referrals threw it all off. I know
+Nurse: That's a pain, isn't it?
+Patient: Yeah. Well, you got a new doctor. You can't ask for a refer and you have never seen her, you know? Yeah.
+Nurse: Yeah, I get it. Um, so when did you go to the dentist? Was it last
+Patient: Thursday, last Thursday? Yes.
+Nurse: Perfect. One week from today. All right. Yeah. All right. Any medication refills or anything that you need right now.
+Patient: Uh, no, they, they filled everything just about, I think. Yeah. Yeah. It right. My, my amLODIPine but they said it was gonna mail everything out this month together. So. Oh, ok. So they're doing really pretty good with that, no problem.
+Nurse: All right. Sounds good. How's your BP and blood sugar been? Everything been ok.
+Patient: Yeah, BP is good. Um, my blood sugar is kind of fluctuates a little bit.
+Nurse: Yeah. You doing ok on, you know? Your diet exercise. Are you getting any exercise?
+Patient: Do I, I got a, a little 10 lbs. Makes me walk through you. Awesome. Yeah, she makes me walk three or four times a day when I wanna go. She's scratching on the door and looking at me like, oh, no. You know, she makes me move. She makes me move. That's good. Good.
+Nurse: Make sure you stay very hydrated, especially in the heat, you know, make sure you're drinking a lot of water
+Patient: By my chair right now with ice and water.
+Nurse: Perfect. And then you know, after you go for a walk, if or even well, any time really, if you feel dizzy, headache, fatigue, you know, just not well check your BP, check your blood sugar, make sure everything's good and then check there. Um sometimes exercise can kind of take it out of you, you know. Yeah, just lay down if you feel like that after checking all those things and get your feet in the air and just kind of relax and drink some water. Ok. Well,
+Patient: Yeah. Well,
+Nurse: All right. Well, I'm glad you're doing well and I'm glad that appointment's coming up next week for you to get everything situated. Let me know if you need anything. Ok?
+Patient: I will honey. Thank you so much. Alright.
+Nurse: Yeah, no problem. Have a good day.
+Patient: You too bye
+Nurse: Thanks. Bye bye.

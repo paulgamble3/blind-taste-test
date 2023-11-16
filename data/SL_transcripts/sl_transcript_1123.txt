@@ -1,0 +1,44 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal]. My name is [PHI-Personal]. How are you? Good.
+Nurse: How are you? I've talked to you before. It's been a while though.
+Patient: Yeah. Uh, usually the girl I talked to has a southern accent.
+Nurse: Yeah. [PHI-Personal]. Let me think. I think it's [PHI-Personal]. Yeah,
+Patient: That's her name, that's her name. That's her name.
+Nurse: She, she
+Patient: Left, did she? Yeah, I'm sorry. My son's laughing at something he's reading on Facebook.
+Nurse: Oh, ok. I was gonna say like, I know you had a couple different care managers. So I thought it was just the irony. You're like, oh, of course.
+Patient: Well, I have a really stubborn [PHI-Personal] in my eye. What can I do? Because it's really, it's been there for months and it's not getting any better. It's getting,
+Nurse: Well, usually for a side we, we tell you like the uh, like a warm compress. Um
+Patient: Yeah, I've tried that. It ain't popping, it ain't going nowhere.
+Nurse: Yeah. Yeah. Do you do like a, even like a um, like a wet, like a, like a warm wash cloth kind of?
+Patient: Yeah, I've tried everything. I tried to mess with it after a hot shower. Um, and it's just making my eye really sore. It's down at the, it's down on the bottom eyelid where you would put, like, your eye liner. Yeah. Yeah. It, it's down in there. It hurts. Yeah. So I did, instead of making an appointment I just thought I'd call, my son keeps insisting that I, um, use a warm green tea bag.
+Nurse: You can do that.
+Patient: I can do that.
+Nurse: Mhm. Absolutely.
+Patient: Oh, is there anything else I can do?
+Nurse: Um, sometimes you can, like we can, um, you said it's been months though.
+Patient: Yeah, it's been months. It's been there and I didn't wanna make an appointment with doctor over a [PHI-Personal] in my eye. Yeah.
+Nurse: Yeah, because we usually will tell you, like, we, we won't even encourage you to take an appointment. Um, unless there's, like severe in, like, if it looks like there's an infection, there's pus coming from the eye or a blister on the eyelid. Um, but if it's been going on for months and using that, um, the warm compresses is not working, you might need like a, at,
+Patient: It is just irritated the more I pick at
+Nurse: It. Yeah. I mean, there's, there's antibio antibiotic ointments out there. Um,
+Patient: Hm.
+Nurse: What I would do is I would actually usually we recommend you call the eye, like your eye doctor. Um. Oh,
+Patient: Ok.
+Nurse: Yeah. And have them just to make sure, like, because we're more, if it's, um, if the whole eye is swollen and there's issues like that we'll put you on like an oral antibiotic. But for, um, it sounds like it might benefit from a, an, uh, like an eye drop or an eye ointment. They make like little, almost like gels now that have antibiotics in them and you put them like, kind of like in the, in
+Patient: Eye with my eye doctor.
+Nurse: Yeah, it might be, uh, you, and you'll probably get in a little bit faster with the eye doctor. Um, so if anything, yeah, I would call them and see what they say. Um, if they say, oh, no, this seems like an issue with your primary care provider then, you know, um, I'll still send them the message, you know. So, so, um, doctor, we just saw the message and let him know. Um, well,
+Patient: You know, I've got those big white pockets above my eye. Huh? But I don't think that's what this is.
+Nurse: Yeah. Yeah, this is something else.
+Patient: It's irritated because I keep picking
+Nurse: At it. Yeah. All right. Stop. Right.
+Patient: Well, I'm gonna try, I find my eye doctor and see, see what they say and I'm gonna do what my son said and do the green tea thing.
+Nurse: Yeah. Yeah. If I think of anything else because usually I just tell people like a warm compress, um, like a warm,
+Patient: Um,
+Nurse: Yeah, the, the wi the washcloth is usually good. Don't put makeup on it.
+Patient: Yeah. I haven't been wearing makeup at all. Mhm. I don't have to, I stay at home all the time.
+Nurse: Yeah, I gave up, I was like, I'm not doing this anymore.
+Patient: Yeah. I haven't been putting any makeup on it or anything like that. But, um, I'm gonna take your advice and call the eye doctor and see what they say.
+Nurse: Yeah. Yeah. And then call me back, let me know.
+Patient: Ok. [PHI-Personal]. All
+Nurse: Right good luck and yeah just even if it's if they say like oh we'll see you and they see you and everything gets straightened out just call me let me know. Ok. Well. Ok sounds good.
+Patient: All right I'll talk to you soon. Alright bye. Alright bye bye.

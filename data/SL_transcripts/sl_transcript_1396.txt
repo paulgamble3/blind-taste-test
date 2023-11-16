@@ -1,0 +1,21 @@
+Nurse: Hi, [PHI-Personal].
+Patient: Bye.
+Nurse: I tried calling you can, is there any way you could see Doctor [PHI-Personal] today [PHI-Personal] o'clock? Yeah.
+Patient: Let me just make sure. Huh? They don't let me go over there when I'm congested.
+Nurse: Well, you did COVID test, right?
+Patient: Yeah.
+Nurse: Ok. Well, I told them, hold on, let me go back to
+Patient: The, yeah, but I can get over there by three because I live across the street.
+Nurse: Ok. Let me just make sure it's still available. Um, because they said they think it's a good idea. You get it checked by her. Um, you know, she said with your, because I did, oh, hold on
+Patient: Again. Like I just got out of the shower. My hair should be dry by that. Ok. I
+Nurse: Just wanna
+Patient: Let me just send it to her. I can see Doctor [PHI-Personal] [PHI-Personal]. Is this still available? Um, that, that was my luck. Well, let's see. I have a look.
+Nurse: I told her everything you told me this morning, so they wouldn't have offered you an appointment. Do you know what I mean? Um, I told her you have the chest congestion and everything. So she said, um, I didn't know if you took another nap. I was like, I don't know if you took another nap. You know,
+Patient: I did and then, um, my phone went dead because I didn't charge it last night and then I got in the shower after I woke up again. Yeah. Yes. Ok.
+Nurse: Your phone all charged up and everything. Yeah. Now it is, it is. Ok. I just wanna make sure it's still available because now it's one
+Patient: Yeah because I don't wanna go there for
+Nurse: Nothing. Well that's what I'm saying so that's why I don't wanna be
+Patient: Like yeah I just want her to get back to me here anyway go from there
+Nurse: So. Ok well I'll let you get your your stuff done um if you could just keep your phone on you um
+Patient: I. Ok.
+Nurse: Ok and I'll call you back as soon as she gets back to me. Ok. Alright you're welcome.

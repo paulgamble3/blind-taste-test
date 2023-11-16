@@ -1,0 +1,17 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal]. You called me and left a message yesterday and you wanted to go over my labs?
+Nurse: Yes. Let me get that pulled up real quick. Ok. Um, they said please notify you of the normal baseline results. These include blood sugar, kidney function, liver, urine protein, vitamin B 12 and your inflammatory markers. Your cholesterol is normal. Um, your complete blood count is normal. So all of those levels are normal. Um, your vitamin B 12 level was confirmed to be low and they want to start you on 1000 micrograms of vitamin B 12 over the counter daily. Um, and then they wanna recheck your B 12 in eight weeks and see if that's brought it back up.
+Patient: All right. What, and what was the sed rate?
+Nurse: I will have? Let me look at that. Um, he also said your inflammatory markers have improved significantly compared to where it was prior um, to starting the predniSONE in [PHI-Personal]. So continue your current medications. Um, and then if you'd like a copy of the results, we can, they can get them to you. Let me look at your sed rate. Yeah. I,
+Patient: I know my sed rate back when I was first diagnosed with this PM R was 71 and normal range is 0 to 15. So, just wondering where that, where my sed rate
+Nurse: Is, you know, right now it's [PHI-Personal]. Just fantastic. Ok. Yeah, normal is 0 to 15. So that's good.
+Patient: I'm almost in the range. You're almost there.
+Nurse: You are.
+Patient: So, uh my uh liver, liver uh test, what was that like?
+Nurse: So your liver came back normal? Let me see if I can get those numbers. Let's see. You're in the normal range. Yours, um, was 41. The normal is 10 to 40. So he went ahead and counted it as normal because it's not significantly elevated. Ok.
+Patient: All right. Um, so the only deficiency is B 12. Yes. Right. I'll, I'll get some B 12. And how much, uh, what was the dosage?
+Nurse: 1000 1000 micrograms a day?
+Patient: 1000 a day? Ok.
+Nurse: Mhm. And then he wants to recheck it in eight weeks and see if that helped. Ok. All right. Well, if you have any questions, just feel free to give me a call.
+Patient: All right. Thank you. Thank
+Nurse: You. Bye.

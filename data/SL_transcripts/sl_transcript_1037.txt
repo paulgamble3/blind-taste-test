@@ -1,0 +1,18 @@
+Nurse: Chronic care manager. This is [PHI-Personal].
+Patient: Hello. Yeah. Uh, call, I can call me but, uh, the message is wrong but my name was wrong on that. So let me check if she called me. She called somebody else and,
+Nurse: Ok, hang on just a second.
+Patient: Yeah. Um,
+Nurse: The only one that I can see that has reached out to you that left a voice mail was back at the first of the month and then it looks like you talked to [PHI-Personal] on the [PHI-Personal]. Um, and you weren't waiting for us to check on anything, were
+Patient: You? No, I was not waiting for anything but, I don't know, ah, she just got, the message was, was wrong on the message. It came, it was land, land or something like that. I said, maybe, and I said my name who, maybe they, they couldn't write it wrong. And today I got it in the morning about, I think nine o'clock phone. Um,
+Nurse: It might have been cardiology. Um, um, I, our group has not, not tried to reach you since the first of the month. So, I don't
+Patient: See. Um, yeah, I'm, I'm going for, I have already went to cardiologist already and I have on the monitor right now and I'm going to, uh, for, uh, ultrasound on Friday. Ok. Yeah. Do you know, um,
+Nurse: Does it say who it was that called you again? Mhm. Who tried to call you?
+Patient: No, I know, I know. I called the same number and she said I message for him, call me back at this number and the name on the, I get the message also down, you know, when somebody calls me with the uh I got the message also. So the like that, so the person that wrong, something like that. So I don't know. Yeah. Um well,
+Nurse: If I find something, I will call you back and um
+Patient: Let you know. Yeah. Sure. Yeah, sure. And I have one question uh I want some uh or this uh my uh sugar sugar test. Yeah. Yeah, it is. Yeah, it is that for you. Yeah. Yeah, but I don't have any. That's
+Nurse: The only medicine per say that you need.
+Patient: No, I called you back for that. Yeah. Yeah, I will go
+Nurse: Ahead and uh put this in for you. And um which pharmacy do you want me to send this
+Patient: To? Uh it is uh [PHI-Personal] down. Ok. Yeah.
+Nurse: All right, my dear. I will get this sent over. Ok.
+Patient: Ok. Thank you so much. Thank you. So you're welcome. Thank. Thank you. Bye bye bye bye.

@@ -1,0 +1,34 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Yeah, hi. My name is, you just called here [PHI-Personal] ago? Yes.
+Nurse: How are you, [PHI-Personal]?
+Patient: Yeah. Hi, how are you doing? Good. How are you? Yeah. Uh, is from the, uh, right.
+Nurse: I'm the, um, yeah, I'm a chronic care management nurse. I'm calling with the chronic care management program. Your RN care manager. Um, I was calling to complete your monthly call. I talked to you about a month ago.
+Patient: Oh, ok. Well, you know what? I, I stopped doing it right now. You stopped what? Honey, I just stopped doing it. I'm not, uh, with, uh, my blood test and all that. It's getting confusing, you know what I mean? It can include program but it's just not, uh, uh, if I have a, uh, sometime I have a, any problem I just set an appointment to see a doctor. It, it gets confusing for me.
+Nurse: Ok. So you're saying you don't want to be in this program anymore?
+Patient: No, not, well, not really because the last time, you know, I was having, uh, like that, uh, some kind of high BP but it's actually, it's not and then I call the doctor, doctor gave me prescription and then it get worse. So I just want to stay where I'm at. And II I, I'm a good other BP, blood test, you know, I mean, I, I would like to have to go to see doctor if I have, uh, anything like that.
+Nurse: Ok. Well, last time you, yeah, we did contact the doctor and just let him know what you told us your blood pressures were and then they
+Patient: Really good with the BP machine. I have the, the machine I have. Yeah, I cannot depend on it.
+Nurse: Ok. Um
+Patient: It gets getting confusing.
+Nurse: Ok. So I I'm just trying to clarify [PHI-Personal]. You're, are you saying that you don't want us to call you anymore?
+Patient: Well, you could call but I'm not answer the phone.
+Nurse: Ok? I mean, we're just calling to check in with you and see how you're doing. Um You know, if there's a concern that, you know, your blood pressures were looking kind of high last time and that is why we messaged the doctor. Um and he also thought that those numbers looked high. Um You know, at the time we were unaware that you think that your machine was messed up. Um And that's why we did it, you know.
+Patient: Right. You know what I told you was uh my ma my machine that I use over here, it not accurate is not accurate. Ok? Give me confusing. I'm not expert on the do all that.
+Nurse: Ok. Um, have you tried to look into getting a new machine or taking it to the office to get it looked at?
+Patient: No, I just wanna, I don't wanna spend any more money on that if I have that problem. I just go see a doctor. Ok.
+Nurse: Ok. Um, if you don't wanna spend money on another machine. Ok. I understand that you can take it in with you, your machine that you have now to the office and they can look at it, it might need to be calibrated or something. So next time that like next time you go to the office, just bring it with you and just have them look at it for you and make sure it's working. Ok. Ok. Ok. Um, and how has your, um, do you try to eat low cholesterol in your diet for your heart disease? Low cholesterol that's gonna be like trying to avoid like fried foods, um, like fast food restaurants, eating out things like that.
+Patient: Ok. What, what is your concern?
+Nurse: You have heart disease and so with heart disease you want to prevent, you want to avoid eating high cholesterol
+Patient: Food. I have a heart disease. But what I, the main thing on that is, uh, my blood, I use my blood thinner. It been like years and years. Not just now.
+Nurse: Yeah. Yeah. No, I understand that. We just wanna make sure that you're, you know, you're doing preventative things as well. Like, like eating a diet that would be healthy for you. Um, so that
+Patient: You don't, I'm not very concerned about that right now because I, I, everything under control. Ok. And, and you just see me and you think, oh, yeah, something might be a major thing but everything is, uh, better control. And then I, I got a good doctor and I kept a good medication and work out for me.
+Nurse: Yeah. And that's good. Yeah, you definitely should take your medications and, uh, I'm happy that it's under control. We just wanna keep it that way. So, we're not saying that you're out of control that there's something wrong. We just wanna make sure that we maintain that and keep it so that you're healthy,
+Patient: Right? So, food is ok. Like, you know, I can, I don't know. II, I like to eat the, the food. My diet is not good.
+Nurse: Ok. Um, what's your birthday? [PHI-Personal]
+Patient: [PHI-Personal] was like, uh, [PHI-Personal].
+Nurse: Ok. How have you been feeling lately? I feel good. Feeling good. Any, any concerns at all?
+Patient: No, I go to the gym. I work out, I have at the gym in my house and I, I do a lot of
+Nurse: Exercise. Wonderful. Wonderful. I'm glad being active is really good for you.
+Patient: I been in years and years over 10, 15
+Nurse: Years. Good. That's really good that you're active. You keep up with that. That's wonderful. Um, have you had any falls or accidents since your last visit? No good. Any change. I'm sorry,
+Patient: I, I gotta go here. I'm sorry. Bye bye.

@@ -1,0 +1,53 @@
+Nurse: Good afternoon. This is, how can I help you?
+Patient: Hi, I'm returning your call from [PHI-Personal], the nurse manager for [PHI-Personal]. Oh, yes.
+Nurse: Hi. Um, my name is [PHI-Personal]. I work alongside with [PHI-Personal]. Let me get you pulled up here. Ok, thank you. How are you doing today, ma'am?
+Patient: I'm doing ok.
+Nurse: Good, good.
+Patient: Um, your office said they would try to get me a walker with wheels, maybe that's what this call is about.
+Nurse: Ok. Um, so we are actually calling in regards to the care management program. Um, chronic care management looks like we had attempted to call you back in [PHI-Personal], but then it was just kind of placed on hold until it reactivated. Um, so we were just calling to kind of introduce you to the care management program. Um, and I can certainly check on that walker as well while we're speaking. Ok. Ok. All right. So, um, [PHI-Personal], like I said, [PHI-Personal] is [PHI-Account] of my coworkers and I am working with Doctor [PHI-Personal] as well. Um Our goal as your part of your care team is just to speak with you on a routine monthly basis, checking in, um, making sure that there haven't been any changes or any acute concerns or any, even routine, you know, reviewing lab results or follow.
+Patient: Let me, let me tell you, I was just in doctor's office but I fell [PHI-Personal] and I, uh, your office would not see me for two months. I finally got to see her the other day. She was very concerned and I'm concerned and Holly, the nurse, I spoke with her and, um, she didn't remember, but, uh, I do need to be able to talk to this office. I've been very discouraged and very, uh, doctor who trained. Doctor [PHI-Personal] said doctor [PHI-Personal] was a great person, a good nu nutritional nurse. And, uh, I been very concerned because I couldn't get any care in two months.
+Nurse: Oh, my goodness. I do greatly apologize. I know. I know Doctor [PHI-Personal]. I used to work with her practice as well and she is right. Doctor [PHI-Personal] is excellent. I'm so sorry about the scheduling issue and things like that. Um, that's what we're here for. You know, me as an outside source. Um, you can reach out to me, um, for those concerns, you know, I have kind of a extra pull and conversation with Doctor [PHI-Personal] so we can kind of address things that need to be done quicker. Um
+Patient: That's wonderful. [PHI-Personal] your name is. Yes.
+Nurse: Yes, ma'am. How do you spell it? It's spelled Kar Iss [PHI-Personal]
+Patient: And your last
+Nurse: Name, um, last name [PHI-Personal], West Lock, West Dock. It's spelled Les Eot as in Tom. Ock.
+Patient: Well, I'm glad to hear from you and maybe she ask you to look into this or the follow up because of the terrible mix up.
+Nurse: So, yeah, I do apologize for all that.
+Patient: Well, she did too. I, I'm, I'm over that now, but I'm happy to hear from you. What is the direct number to reach you?
+Nurse: Um, so this number that you called me on? Yeah, that's my direct line. Um So if I don't answer, I'm just on the line with another patient but always leave me a voice mail. Ok.
+Patient: [PHI-Account].
+Nurse: Yeah, that [PHI-Account] or [PHI-Account] also.
+Patient: Well, thank you. My husband and I are both uh with doctor [PHI-Personal] as new patient. So,
+Nurse: Ok. Um So yeah, you have my number, you can reach out to me. I'm available weekdays Monday through Friday 8 to 4 30 for those acute concerns and things like that. Um And then also like I said, all be reaching out to you on a routine basis just to have a conversation and kind of uh follow up on any things that may be unfinished or, you know, checking in medication refills, all of those things to help kind of bridge that communication. Yeah. Yeah, absolutely. Um And as far as the order for your walker, I do see that that was placed um to a supply company called Baycare um and it was just confirmed two days ago that [PHI-Personal] at Daycare has the order and it is working on being processed for you. Thank you so much. Yeah, yeah. So once they get that process through your insurance and, and get those, um sometimes they need some measurements and things like that for the appropriate size, um once they get all that wrapped up, they should be reaching out to you. They have all of your information. Um So you should hear from them as to whether they can deliver that or whether you're gonna be picking that up at their location. Ok. Thank you so much. Yeah, absolutely. Um And then you said your husband is a patient as well?
+Patient: Yes, [PHI-Personal] Ri. Yes.
+Nurse: Ok. Let me see if we have Mister [PHI-Personal] in our system. Ok. Uh I do not have him enrolled in our care management, but he would likely qualify being a patient with doctor [PHI-Personal]. What's his date of birth?
+Patient: Um [PHI-Personal].
+Nurse: Ok. All right. I will give him a look up. Um The only other thing that I would want to do uh normally is just run through your medication list to make sure we haven't had any changes or updates. Um Did you happen to do this on your visit recently at, with Doctor [PHI-Personal]?
+Patient: Yes, I did, but I just got a new prescription for Candesartan and that was for eight mg. I need 16 mg. Ok, Candesartan. That's what they had me on. I don't know why I got a prescription for eight, maybe it was a long time ago.
+Nurse: Ok. Let me double check and see if I can find something in here. Yeah, we have it as an active 16 mg prescription.
+Patient: I take two of these pills instead of [PHI-Account].
+Nurse: Yeah. Yeah, it looks like the most recent prescription was sent in on [PHI-Personal] with 90 tablets and three refills. So that went to the Publix on. Ok. Um, so you should be able to get refills with them that was called in from your cardiologist. Ok,
+Patient: Good.
+Nurse: Uh, did you see your recent or your cardiologist recently?
+Patient: Um, I'm waiting to see her. I have an appointment.
+Nurse: Ok. All right.
+Patient: Who did that? Who called that in doctor or?
+Nurse: Let me click back into that. Yeah. No, that [PHI-Account] in [PHI-Personal] was prescribed by Doctor [PHI-Personal].
+Patient: Ok, good. That's who I'm seeing now. Yeah.
+Nurse: Yeah. Yeah, I see you have an appointment with Doctor [PHI-Personal]. Not until [PHI-Personal], but we do have it scheduled. Ok.
+Patient: Ok. Um,
+Nurse: Since you just went through all those refills and everything at your office visit, we'll kind of check back in on that later to make sure that there aren't any more updates or changes. Ok. Um, and then let me see about finding your husband really quickly. Um,
+Patient: Are there any other, you're gonna be my friend?
+Nurse: Yeah, absolutely. I'm glad to be here for you. I wish we would have had everything, um, lined up before. It looks like I said, I tried to call you in [PHI-Personal] but the phone must have been, I, I have a note that the phone just went to like a, a non existent number or something like that happened when I tried to call you. Um, but yeah, I'm glad that you were able to get a hold of us today and we're getting this all straightened out. Ok. Um, well, I will have to, yeah, I will have to check in with your husband. Um, I've got his information to see if he could qualify as well. There are just specific, um, health conditions that, uh, insurance will cover.
+Patient: All right. He has [PHI-Personal] and, yeah.
+Nurse: Yeah, I'm seeing hypertension so he takes medication for the BP. Um, yeah. No, he doesn't, he doesn't have any medication for his BP, but I do see the [PHI-Personal], he's on the Sinemet. Um, and then the history of, uh, ti a
+Patient: Check his BP often and it's been like 101 and he, he thinks that's ok. 1/1 60 something.
+Nurse: Ok. Yeah. Um, it's a little bit lower than his previous visits in the office. But
+Patient: I wondered if there was anything wrong with that or what should he could keep watching it?
+Nurse: So. Ok. Yeah, just really try to encourage him to drink lots of water to stay hydrated. Sometimes the dehydration can be a cause of that lower BP. Ok.
+Patient: Ok, thank you. All
+Nurse: Right. But yeah, I'll check in and see if he can qualify if he does. We'll get the things that we need from doctor and give you guys a call back again. Um yeah, let me let me verify your phone number. We have the [PHI-Account].
+Patient: Correct. I phone yesterday. So.
+Nurse: Ok. Ok and then your address is still the [PHI-Geographic]. Yes. Ok, perfect. I'm gonna be mailing out a letter so I just wanted to confirm that um and then you've got my number so if there's any delay in that Walker or any concerns, um just give me a call. Ok.
+Patient: Yes ma'am. Thank you. You
+Nurse: Too. Take care. Bye bye.

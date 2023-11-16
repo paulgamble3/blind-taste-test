@@ -1,0 +1,9 @@
+Nurse: Good afternoon. This is [PHI-Personal]. May I help you?
+Patient: Um yeah my name is [PHI-Personal]. I got a call from I think it's [PHI-Personal]. Oh,
+Nurse: All right let me see if she's available. Ok, her line is busy. Can I have her call you back or if you wanna hold a moment? What's easier? I hold
+Patient: I hold a minute. Ok.
+Nurse: Alright thanks. Mhm.
+Patient: Oh right. Yeah.
+Nurse: Yeah. Ok. Her line continues to be busy. Can I have her call you back? [PHI-Personal]? Sure. Ok. And you said it was [PHI-Personal]? And what's your phone number? My Myers
+Patient: It's uh [PHI-Account].
+Nurse: Ok. All right, I'll give her the message. All right, thank you. Sure. Bye bye bye bye.

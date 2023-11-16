@@ -1,0 +1,39 @@
+Nurse: Hello, this is
+Patient: Carry. Carry this [PHI-Personal]. Hi, [PHI-Personal], how are
+Nurse: You doing? Good, good, good, good. Uh, let me jump in your chart here real quick. Um, yeah, I was just calling to check in, see how things have been going since we spoke last. Good.
+Patient: Yeah.
+Nurse: Ok. Jump into your medications here. Um, all right. I still just have you on the atorvastatin, LORazepam and a multivitamin. Is that correct? Yes. Correct. Ok. Do you need refills on any of those today?
+Patient: Not today. I'm gonna need that Ativan. Probably when I go in June. Ok.
+Nurse: That's fine. Yeah, at that point you can have him, you can have Doctor [PHI-Personal] refill that
+Patient: Then. Yeah, because I didn't get any for the last almost two years. Oh, wow.
+Nurse: Well, that's good.
+Patient: That's
+Nurse: A good thing. Um, ok. So it looks like back last month you had a chest xray,
+Patient: Um, and a shoulder x-ray. Oh, this is
+Nurse: Chat. Ok. And what was that for?
+Patient: Well, the shoulder x-ray was for, I had a pain in my shoulder. I had sprained it or whatever I done to it. And, uh, chest x-ray when I took the shoulder x-ray there was a, a shadow in there and they didn't know if it was the nipple shadow or if it was something on the lung, but then it, it came out all right with the shot off the nipple. Ok.
+Nurse: Perfect. Glad to hear that. Glad to hear that. Um OK. So I have a question for you. I have you um enrolled. So in this program, I have you enrolled both in just like the nursing part of it and then the behavior health because you've had um history of anxiety. Do you want me to keep you enrolled in that, or because if you're saying you're not taking the LORazepam for two years or, or you haven't had a script in two years? I don't think that you're really experiencing much anxiety. Is that true?
+Patient: No, that's true. I haven't had anxiety really since I uh whenever it was maybe, what, 10 years ago or,
+Nurse: Yeah, I'm out of the behavioral health then and just keep you on the nursing portion. Is that all right with you? Yeah, that
+Patient: Would be good. OK.
+Nurse: That's fine. Um All right. So as far as BP, are you checking that at home?
+Patient: Not too often right now, I'm pretty busy right now.
+Nurse: Hey, that's good. It's good to be busy. And now that the weather's uh you know, weather is cooperating, it's nice to be outside and getting that stuff
+Patient: Done today. I had to get some water in because it's so cold in the morning. So I, yeah,
+Nurse: It's definitely been chilly. I know we had to turn our heat back on too. Yeah. Yeah. Like last week I had my air conditioner running now this week I have my heat on. That's
+Patient: Right. You're right. 100%. Can't decide which one I want. Yeah, 100%.
+Nurse: Yeah. All right. So, any symptoms like headache, blurred vision, dizziness, um, nausea, shortness of breath. No,
+Patient: No. Ok. No, if
+Nurse: You do experience any of those um if you have a BP cuff at home, I do recommend just checking your BP to see what it says. Yeah. Um yeah but it seems if you're not have any having any symptoms, it seems that your BP is probably pretty well controlled so that's good I
+Patient: Believe. Yeah. Yeah.
+Nurse: Alright. Wonderful, wonderful. Um all right so yeah you're due for Doctor [PHI-Personal] June 19th at seven o'clock. Do you have any other appointments coming up? No, no. Ok, perfect. Well I'll reach back out to you again next month. Um if you need anything,
+Patient: Go ahead. Uh you could call me on my cell phone. You'd be better off because I I'm usually usually outside or or some place else but I usually have my cell phone alone.
+Nurse: Ok. Can you give me that phone number just to make sure I have it?
+Patient: 570554. Ok. 3732.
+Nurse: Perfect. I have that on there. Do you want me to take your home phone number off of there? No,
+Patient: Just leave your house. No, just in case you couldn't get a hold of me on the phone. But it's easier to get on the cell phone than it is at home.
+Nurse: Sure. Yes, that's true. If
+Patient: You're out. Yeah, I usually outside or some place else.
+Nurse: Ok. Yeah, that's no problem. I will make a note here for myself. So I remember to do that. Um, if you need anything between now and next time I call, don't hesitate to give me a call. Ok. All right, [PHI-Personal], you take care. Have a good
+Patient: Day. Ok, thank you.
+Nurse: Yeah, bye bye.

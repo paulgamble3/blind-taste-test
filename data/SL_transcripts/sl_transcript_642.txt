@@ -1,0 +1,27 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Yes, this is [PHI-Personal]. I was wondering, is there anybody there that could possibly look at my ear? See if it needs clean?
+Nurse: Give me one second here. Let me get into your chart. Excuse me? Mm. Ok. You normally see Doctor [PHI-Personal]? Yes. And I don't think he's in the office until next week. I can see if one of the other providers are in [PHI-Personal]. Hello? Yes. Oh, sorry. I thought I lost you. Um, Da, um, Doctor [PHI-Personal] isn't in until next week and I don't even know. I don't think he, yeah. So his soonest appointment would be [PHI-Personal]. Do you want me to see if there's something sooner with somebody else?
+Patient: Well, it, what is happening is it, I don't know, it's, it needs cleaned or it's, or it's oozing but it hurts. And, uh, is, is that new over
+Nurse: There? What new [PHI-Personal]
+Patient: That, what's his name? [PHI-Personal] or? Oh,
+Nurse: [PHI-Personal]. [PHI-Personal]. That's ok. Let me see. Let me see if he has anything available. Oh, my [PHI-Personal].
+Patient: You know what, it's a holiday weekend? I know. And I won't pass anybody. It's not real, real, it doesn't hurt that much. It's just that I, I'll take Tylenol and, and then I'll call next week to see if I can see somebody if it's still bothering me.
+Nurse: Are you
+Patient: Sure? Yeah, I think I'll be ok.
+Nurse: What year is it?
+Patient: It's my right ear. It's
+Nurse: Your right ear. Mhm. And are, do you, and you said when did the pain start?
+Patient: Well, it's been off and on and I, I wear hearing aids and I think it might be possible that it's just the hearing aid bothering my ear. Ok.
+Nurse: And how long has the pain been off and on like days weeks? How long do you think it's been going on just today? Oh, ok. Well, you said the pain comes and goes like, have you had it before?
+Patient: Yes, I had, I had, uh, [PHI-Personal] look at it once before and it was ok. He said too that it was just the way my hearing aid is pushing against my hear.
+Nurse: Now I can get you in with Doctor [PHI-Personal] tomorrow at 11 45. Ok. You wanna do that? Ok. All right. So let me get you scheduled there and we're gonna do, uh, oh, ok. So right. Ear pain. Ok. All right. So we got you scheduled tomorrow at 11 45 in the morning. Just think I just don't want you to go that whole weekend and you know, I don't want anything happening to your ear if there is like some kind of infection or something going on because I don't want your eardrum to bust. So I would feel better. Ok. And then you said the ear, when did the ear pain start
+Patient: Just today? Early this morning?
+Nurse: Ok. Ok. All right. And are you, are you, um, do you have any decrease in your hearing at all? Have you had any changes in your hearing?
+Patient: No, no,
+Nurse: No hearing loss? Ok. And did you say there is drainage or no?
+Patient: Yeah, I think it is um it itches from time to time and when I, ok, try to clean it, there is heat
+Nurse: There. Ok. All right. And do you have any pain anywhere else? There's no pain that like goes into your jaw or anything? No. Ok. And no dizziness.
+Patient: No. Uh
+Nurse: Ok. All right. They will see you tomorrow at 11 45. Ok. Ok, thanks. You're welcome. Have a good day.
+Patient: You too.
+Nurse: All right. Bye.

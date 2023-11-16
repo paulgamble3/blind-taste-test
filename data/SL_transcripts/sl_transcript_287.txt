@@ -1,0 +1,9 @@
+Nurse: Hi, this is
+Patient: [PHI-Geographic]. I miss your call.
+Nurse: Hi. Can I ask, can I ask who's calling?
+Patient: You are calling for [PHI-Personal]? Right? I
+Nurse: Was calling for [PHI-Personal]. Yes. Yeah. Ok. May I ask who I'm speaking with? Ok. Are you, are you [PHI-Personal] wife?
+Patient: No. Mm caregiver.
+Nurse: Oh caregiver. Ok so um well the reason I was calling um [PHI-Personal] is because [PHI-Personal] he qualifies for a care management program through Doctor [PHI-Personal] office. Uh um and I'm just gonna let you know that this call is gonna be recorded for quality purposes. Are you familiar with what care management is? No. Ok. So care management would be a phone call from a care management nurse just calling [PHI-Personal] or you if you speak on his behalf just calling in to check on you guys to see how [PHI-Personal] has been feeling. Um just to make sure that [PHI-Personal] doesn't have any acute issues or problems in between his office visits with doctor [PHI-Personal]. Um the care management nurse can help you with any medication questions, any medication refills. And basically the whole point of the program is just to make sure that we all keep [PHI-Personal] as healthy and safe as possible? Ok. Ok. Now [PHI-Personal] does have Medicare health insurance. Correct? Yes. Ok. So this is available service to Medicare and all of the all of the calls that the nurse that the nurse um has with you guys will be documented and sent to doctor [PHI-Personal]. Ok. Ok. Does it sound like something that you and might be interested for, for [PHI-Personal]?
+Patient: He's he's on a program right now. He's not here to speak. He can, he can speak for himself but he's not here right now. So. Ok, I will talk to him about it and then uh I will get back to you.
+Nurse: Ok. That sounds like a plan. Thank you. Thank you so much for your time. I appreciate it. Thank you. No problem. Bye bye.

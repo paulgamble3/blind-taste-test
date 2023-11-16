@@ -1,0 +1,22 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal]. I found my paperwork. Made it out. It's in my calendar.
+Nurse: Wonderful. So this is from the surgeon,
+Patient: Right? The one that's coming up um when they get lap ban? Ok, I wait, so they gave you a date? Mhm. Oh, I'm waiting to hear from the nurse about Monday stuff.
+Nurse: Ok, good, good. And you and, and ok, good, good. It sounds like you got the the directions pretty much down but if you have any questions I just want you to triple check. Ok. Yeah, that's
+Patient: What I wanna do too. I don't wanna do
+Nurse: Anything. I don't blame you
+Patient: But I love, yeah, take certain pills but with little sips of water. So.
+Nurse: Exactly. And you said you put them in your pill case already?
+Patient: Right
+Nurse: Hour or so? Ok, good. So did, did you, do you actually have a date for that surgeon appointment?
+Patient: Um. Oh, you I knew you were gonna ask that. I don't know. Wait, let me look, check my book here.
+Nurse: I thought that's what you found.
+Patient: Well, I found the paperwork. Yes, I have the, I have the [PHI-Personal].
+Nurse: Oh, Ok, then you better get that paperwork done sooner than later.
+Patient: Yeah.
+Nurse: Ok. All right,
+Patient: I'm all set dear that
+Nurse: I have. All right. That sounds good.
+Patient: All right, thanks.
+Nurse: Ok, [PHI-Personal]. Take care.
+Patient: Yep. Bye bye.

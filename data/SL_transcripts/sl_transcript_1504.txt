@@ -1,0 +1,23 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Yes, [PHI-Personal], this is [PHI-Personal]. I'm returning your call.
+Nurse: Hey, yeah, I was just calling to check in with you see how you're doing.
+Patient: I'm doing all right. God.
+Nurse: Yeah, I am.
+Patient: I'm feeling good.
+Nurse: Ok. Uh, let's see here. So just looking over your medications. Um, are you still taking the propranolol 60 mg? Ok. And the simvastatin 20 mg. Yes. And your Xanax half a tablet as needed. Ok. And the meloxicam. Mm. Ok. Um, it looks like caltrate with vitamin D. Mhm. Yeah. Ok. All right. And then your aspirin 81 mg. Ok. All right. And then have you seen any specialty doctors? Like a heart doctor? [PHI-Personal] doctor? No. Ok. Ok. So it looks like for your next appointment. I just have a note here. Um, your appointment with Doctor [PHI-Personal] that's gonna be [PHI-Personal] and then you have your blood work scheduled the week prior [PHI-Personal]. Yes. Ok. Uh, and then have you had your flu shot?
+Patient: No, but I, uh, that reminds me I want to get it. Are they, do I need an appointment or should I just wait until I go for one of my, um, visits. Um,
+Nurse: I believe you can walk in and we can put you on the schedule with the nurse. Um, and I'll make sure that we have the flu shot available
+Patient: Where you, I was going to say, yeah, uh, maybe if I wait too long it won't be available.
+Nurse: Ok. Yeah, so I'll double check and make sure that we have, um, a flu shots, um, on hand, you know, that we have a supply and then you can always just come in and so I'll check and then I'll give you a call back. Um, and then let's see here. And then are you sleeping? Ok.
+Patient: Well, yeah, I am, I'm, I'm not a, I'm not a, uh, a good sleeper. I, it takes me a while to fall asleep at night. I mean, that's, that has always been my problem from little on up. So I, but no, once when I'm sleeping I sleep good. Yeah.
+Nurse: Ok. Ok. And then, um, you know, over the past two weeks or so, have you felt anxious or nervous? No? Ok. No. Ok. What about, um, worrying about different things or not being able to stop that? Worrying?
+Patient: Well, no, I, I have things on my mind but I'm not, I don't think I'm worried about it. Um, I'm just kinda, um, well, my husband passed away in [PHI-Personal] and I'm, I'm kinda at the point where I don't know. Do I want to make a change in my life or not, you know. Uh, so it's, uh, but I just, I'm gonna try to do the winter here in my home and see what happens. Ok. But I am looking around for different options, you know, maybe places to go
+Nurse: Like a retirement home or.
+Patient: Well, I like an apartment, like an apartment some place or. Yeah. Yeah. But I'm just, um, it's just, um, a big decision to make.
+Nurse: Yeah, it's a big decision and it's uh time consuming and yeah, yeah, kind of overwhelming. Yeah.
+Patient: Yeah, it is. It's um yeah, so, but I'm I'm taking it day by day. Some days are better than others.
+Nurse: Ok. Um, and are you relaxing? Like are you able to just like sit down and read a book or read the?
+Patient: My goodness, that's all I do. Just relax. I sit and read and do puzzles and yes, I can relax. Yeah.
+Nurse: Good. Ok. And then have you noticed any changes in your mood? Like maybe feeling annoyed, irritable, frustrated. Ok. No. Ok. Alrighty. Well, I will find out if we have those flu shots and then I will give you a call back as soon as I have an answer. Ok. Yeah. Ok.
+Patient: Ok. Well, thanks a
+Nurse: Lot. Yes, you're very welcome. Ok. Ok, bye bye. Talk to you soon. Bye bye bye.

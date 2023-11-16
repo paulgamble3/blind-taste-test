@@ -1,0 +1,48 @@
+Nurse: Nurse care manager, [PHI-Personal]. How can I help you?
+Patient: Yes, [PHI-Personal]. I just got a call from you. Oh,
+Nurse: Hi. Yeah, my name is [PHI-Personal]. Um, I'm a nurse care manager with Doctor [PHI-Personal]. Um, I, I was calling to let you know that I will be calling you on a monthly basis to check in. I believe it's your husband Patrick El. Yes. Yeah. So yeah, it's part of that chronic care management program. Um, that Doctor [PHI-Personal] offers.
+Patient: Ok, no problem. Um, yeah, he's, you know, he's got dementia so I always tell him to call me because he doesn't get it. Yeah, I
+Nurse: Got you. Yeah, I totally understand that. Yeah. So I'll just be calling you. It looks like actually every three months instead of every month. I do apologize about that, you know, just to check in. Um, I can also be a resource if you need any refills for him or anything like that. Ok.
+Patient: Ok. Just use this number then.
+Nurse: Um yeah, this is my direct number.
+Patient: Ok, sounds good then. Yeah. Yeah.
+Nurse: Do you have a few moments to go over his medications with me? Sure. Ok. Um, you need to get the list or if I name them [PHI-Personal] would you know?
+Patient: Oh yeah if you name them I know.
+Nurse: Ok. All right, perfect. Um So the first one I have is Lisinopril 30 mg every day. Yes. Ok. And then I have atorvastatin 80 mg nightly. Yes. Ok. And then it looks like he's taking a copper supplement um eight mg each day for a week and then six mg the second week and then that OK. Yeah. And then two mg after all of that.
+Patient: No, he hasn't been taking it daily because see this was when he went by himself and this is what he told me that they, he told me about the eight and the six and whatever, but I didn't, is he still supposed to be taking it according to your records?
+Nurse: Um So how many weeks back in [PHI-Personal]? So yeah. Um um yeah, I mean it seems like he should be taking two mg uh daily to daily. OK. Yeah, because on this prescription it says thereafter. So it's not very specific. Um I would assume that he means, you know, two mg daily.
+Patient: OK. I'll start giving him that again then
+Nurse: Yeah, just uh you know the two mg, one tablet once a day. Um I can also send a message to Doctor [PHI-Personal] to see, you know, if he wants him still taking it just so we can clarify.
+Patient: I think he, he was taking it because of his, he had a low platelet count. Yeah.
+Nurse: Yeah. I, I don't know, I was doing a little research here. Um and it says low copper. So that's probably why he was supplementing him. So, yeah, I would just suggest that he continues to take it. Ok. OK. All right. Let me get back to my list here. OK. And then the, the next one I have is memantine or Namenda. It's uh 10 mg two times a day. Great. Ok. And then I have a fish oil, um, cap. It looks like he's taking 1200 mg. It doesn't specify whether I'm assuming it's daily.
+Patient: Yeah, he, well, he takes one capsule in the morning and one in the uh uh evening. So. Ok. Ok. I'll
+Nurse: Add that in here. Um, and then I have Metformin 500 mg tablets but he takes 2000 mg uh with breakfast,
+Patient: Right?
+Nurse: Ok. And that says here, um hold on, sorry. He reported not taking it back in [PHI-Personal], but is he, so he's taking that the Metformin?
+Patient: Yeah. And I don't know why he said that because he's always taken it. He doesn't want to, he probably was trying Doctor [PHI-Personal] and taking him [PHI-Personal] of it. No, he's been taking it regularly.
+Nurse: Ok. Awesome. Um And then I have a folic acid one mg tablet.
+Patient: Hm. Doesn't sound familiar. Does it have another name?
+Nurse: It's called Full Full? Right? It's just folic acid. Um Oh yeah.
+Patient: Folic acid. He takes, yeah, OK.
+Nurse: Awesome. And then I have Cialis um it just says take by mouth and it says also he's not taking that.
+Patient: Uh you know, and I guess you could say,
+Nurse: Oh yeah, absolutely. I know, I know how that works. Ok. Um And do you know the milligrams on that or? No, it's OK if you don't.
+Patient: No, I really don't. Ok.
+Nurse: Yeah. No, that's fine. Um All right. And then the next one I have is um Donepezil or Aricept uh 10 mg nightly,
+Patient: Right? He's taking that. OK.
+Nurse: And then I have an Ativan 0.5 mg tablet um as needed for anxiety. It's also called LORazepam,
+Patient: Right? The only thing he only time he takes that is when he's flying because he gets kind of anxious then. So you know, it's very rarely. Yeah.
+Nurse: Um yeah, that's gonna be me tomorrow. I'm flying and I'm very nervous. Uh OK. And then let's see, I got the fish oil. Is he taking a multivitamin? A the vitamin is OK. This one it says with folic acid. Do you know if it has folic acid in it or? No?
+Patient: Mm no, not [PHI-Personal] hand.
+Nurse: OK. Um And then I have an Aspirin 81 mg daily.
+Patient: Now he stopped taking that be because he was taking that. But then you know the TV has been talking about um that is a good idea. So he just kind of stopped taking it. I don't know that Doctor [PHI-Personal] ever told him to, it was a previous doctor who he had had. So,
+Nurse: Yeah, I know, I know what you're talking about. I've seen it on TV, too where they're telling people not to take it. So,
+Patient: Yeah. So he stopped taking it. But, um, there was a low platelet count and all that. I don't, I don't know how that would affect it.
+Nurse: Yeah. That's probably a good idea that he doesn't take it. Oh and then I just have a a z-pak like the Azithromycin. It looks like it was from last year. He's not taking that. Right.
+Patient: Right. Right. Yeah he had an uh respiratory infection.
+Nurse: Got you. Alrighty. Awesome. Um I just need to verify your address with you. Are you still at [PHI-Geographic] in [PHI-Geographic]? Yes. Ok, perfect. Um yeah, I'll be sending you a letter in the mail. It will have my phone number on it in case you need to call me for anything, you know, in between the three month calls or anything like that. Ok.
+Patient: Ok. And you work
+Nurse: Every day uh Monday through Friday 8 to 4 30. Okie doke. Yeah. Um and we'll also have some wellness go um included in the letter that Doctor [PHI-Personal] would like him to achieve throughout the year. I to me I tell patients if they're like little reminders, you know, things that they suggest like the flu shot and stuff like that. Ok. Ok. All righty. Well, it's been a pleasure. Thank you for going over his medications with me and I will be calling you in three months. Okey
+Patient: [PHI-Personal]. Sounds good. Thank you. You're
+Nurse: Welcome. You have a great day. You too. Bye
+Patient: Bye.

@@ -1,0 +1,61 @@
+Nurse: Care Management. This is [PHI-Personal].
+Patient: Hi. This is [PHI-Personal]. Oh,
+Nurse: Hey, how are you?
+Patient: I'm, I'm good. I guess we've been playing cat and mouse here.
+Nurse: Yes, we have. Well, I'm glad I finally, uh, we got in touch with each other.
+Patient: Yeah. Something strange because every time I get a call from either doctor [PHI-Personal] office or, or your call it goes directly to my voice mail. I, I don't understand it.
+Nurse: So. Oh, yeah. That is weird. Yeah, because every time I called you back I went right to voice mail.
+Patient: Yeah. That's really strange. So, so I have to, I have to talk to my son in law. He's the expert on phones. So,
+Nurse: Yeah, I have him figure it out. Right. Yeah.
+Patient: So, so, so what's the deal? What were you wanted to talk to me about?
+Nurse: So, um, the doctor's office at [PHI-Geographic] is offering a care management program. And so what that involves is they would just have a care management nurse just giving you a follow up phone call in between your office visits with your doctor. All right. Um, so she just calls, you know, just to make sure everything has been going ok in between those appointments, she will, you know, address and discuss any issues or concerns that you might have been having, um, or if you, you know, or if you just have questions in general that she can help you with and then she reviews over like, she'll see what kind of medications that you're taking. Um, she'll ask you how are they working for you or if you've had any problems with any of them and then she'll also call and get them refilled for you as well.
+Patient: Ok. That sounds good. And, and, and actually I, I do have a problem right now because, um, uh, I, I have a back problem and, and I was, I'm, I'm actually sitting in front of the orthopedic, uh, I mean, the, uh, physical therapy right now and it was a back problem and a neck problem. So it was two different things and, and the neck problem is doing really well, but the back problem, it, it wasn't working and I, and I had a MRI from two years ago down in [PHI-Geographic] and nobody ever really explained it to me or looked at it and, and I started looking at it myself and it didn't look very well and then I had a couple of incidences lately with my back and, and then, uh, I, I saw doctor here the other day and, and, uh, and told him about it and, and, uh, so then I got a call yesterday that they wanted me to set me up for, uh, ok, he sent me for, for an xray right next door and, and then, and then, uh, they, they, uh, they, I got a call yesterday and that went to my voice mail that they wanted to set me up with a back surgeon. Oh, ok. The problem is that I, I'll be [PHI-Personal] in a couple of months and I doubt very seriously that I'm gonna have a ba back operation. I, I don't think I would go through that. So, so I, I called up and I left that message. Then I got another call back saying, ok, we'll set you up with a pain management system. Now, the pain when it happens, I never know when it happens and then it goes away and if I have like a linger and a little bit of pain, I, I take, uh, uh, uh, uh, diclofenac and that usually takes care of it. So I don't need a pain but, but I would like to sit down and, and find out. Do I have any other options? I mean,
+Nurse: Options? Yeah, there's, yeah, there's different options where that nurse can help you with that. Absolutely.
+Patient: Yeah, that would be good because, you know, maybe I can talk to a back surgeon or, or maybe they can give me a shot or something or maybe I can get a brace or I, I just don't think that I wanna go through a, a back operation.
+Nurse: Yeah. And there's other things that they can do to keep the pain under control and manage where you don't have to be living in pain every day, you know.
+Patient: Well, I, I don't, you, you know,
+Nurse: Every so often it's,
+Patient: It's every couple of days, three days, all of a sudden I get that, uh, shot in the back, you know, like somebody knifes me and then, and then it's almost over with immediately. So, so there's really nothing I can take for that because I, I don't know when it's gonna happen. So.
+Nurse: Mm Yeah, I see what you're saying
+Patient: But, but I would like to know is there any other option? Can I get a brace or can I get a shot of Cortisone or can I get, you know, that's, that's fine.
+Nurse: Yeah, definitely. What I can do if you're interested in um participating in this program, I can send a message over to your nurse. Um because they also do provide you with the same nurse each phone call. So you and your nurse, she'll know your whole medical history. You know, you guys will have a good report with each other. Um You know, anything comes up or anything happens, you're able to call and report everything to her and talk to her directly, you know, instead of going through the office waiting for somebody to call you back. Um This way you don't have to wait for any of these answers or for any help because you'll have your own direct nurse that you can call at any time.
+Patient: Ok. That sounds really good.
+Nurse: All right. Um, so if you would like, I will send her a message today and tell her to contact you by the end of the day today, so then she can get started and you know, get you the help that you need and you know, different recommendations and stuff like that.
+Patient: Ok, that sounds really good.
+Nurse: All right. Um so I just wanna make sure that your insurances are the same so you still
+Patient: Have that's all the same. Yeah. Ok,
+Nurse: You have [PHI-Personal] and [PHI-Personal]. Yeah, that's right. Ok. All right. So I just wanna let you know so like you're not surprised about anything. Um they do, they do treat this program as like an office visit. Ok. Um, so they will bill like [PHI-Personal]. [PHI-Personal] Advantage plans, any secondary insurance carriers that you may have, which you know, it is covered by your insurance. Um, it also may be subject to a deductible and co pay if you have that when you go into the office, but if you don't have a copay, then this is the will act as the same and it wouldn't cost you anything out of pocket. So I just wanted to let you know if you've seen something on a bill, it is you know, covered by your insurance but it will be on there just so, you know.
+Patient: Ok. Sounds good.
+Nurse: All right. So, ok, I, have you set up with the nurse to contact you in between office visits? And I also sent a message to her to contact you by the end of the day today.
+Patient: Ok, good. And I hope if I get the call
+Nurse: I know. Oh, I forgot. It keeps going to voice mail.
+Patient: Yeah. Well, I, I don't understand because I had my daughter call me, uh, my wife called me and my friend of mine called me and my, and, and my phone rings and there's no problem.
+Nurse: Do you have like, a setting on their set for, like, uh, maybe if you had spam calls to be blocked, maybe our number might come up under that and doesn't know it and it's blocking it from ringing.
+Patient: Maybe I don't know how to, how, how, how I would, uh,
+Nurse: What kind of phone do you have?
+Patient: It's an iphone, it's an old iphone, like an iphone six or something, but it's a
+Nurse: Smart phone. Yeah, I don't know how to work iphones because I have the Androids. Oh,
+Patient: Ok. Yeah, I got cellular personal hotspot notifications and, ok. Yeah, I don't know. Maybe if you
+Nurse: Went to your, your call settings, I think you would go into.
+Patient: Ok. That settings. Yeah, I don't see that anywhere here. So that,
+Nurse: Oh, yeah. Yeah. Check general settings.
+Patient: Ok. Software update. Air drop airplay. Hand off picture pla home button. Phone, background, data, time, keyboard language dictionary.
+Nurse: I wonder if I wonder if something would be under phone. Could you click on phone
+Patient: Transfer and reset phone?
+Nurse: No, you wanna do that? Oh, well,
+Patient: My, my son in law is gonna be around this evening so maybe I can have him look at it. Oh, yeah. But, uh, if I get a, uh, voice mail from her, I'll, I'll call right back.
+Nurse: Ok. All right. Yeah, I'll let her know that too that sometimes it goes right to voice mail to just leave a message and then you will call her right back.
+Patient: Yeah. Ok, that sounds good.
+Nurse: All right, perfect. Well hey I'm glad we got in touch with each other finally. Yeah good I I'm happy about that
+Patient: So I guess I'll just wait for her call then.
+Nurse: Yep, yep she'll be calling you by the end of the day today.
+Patient: Ok, sounds good. Thank you very much.
+Nurse: Alright. Yeah you're very welcome and good luck with
+Patient: What is your name or? Uh
+Nurse: I A? Oh,
+Patient: Ok. Ok. Yeah it's funny because I called up the uh your office there. Nobody heard of you.
+Nurse: Yeah because I don't work in that office with them.
+Patient: Oh ok so that's the thing. Ok. Yeah. Ok, so yeah. Ok sounds good so I'll just wait for the call.
+Nurse: Alright. Yeah, perfect and uh good luck with everything. Enjoy the rest of your evening and have a great weekend. Ok,
+Patient: Same to you. Thank you very much.
+Nurse: You're very welcome. Ok, bye bye.

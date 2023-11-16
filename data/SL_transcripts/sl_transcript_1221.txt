@@ -1,0 +1,11 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hey, [PHI-Personal]. This is, I haven't heard nothing from the people about the [PHI-Personal] or nothing yet. Oh,
+Nurse: Ok. Let me, um, pull up your chart real quick. Ok. Uh, what, what kind of doctor is that,
+Patient: That you? Uh huh. He's a pain, pain to give me shots in my right knee and thing. Ok.
+Nurse: Got you. So, let's see. I got your chart pulled up. Let's see. All right. So it's for physical [PHI-Personal]. Let's see. Let's see. So I know you spoke with them back in, it looks like March and, um, you had chosen Baycare, is that right? Yeah. Ok. Let's see here.
+Patient: Ohh God. Gonna miss some, let's see
+Nurse: Here. Let's see. And is it for, it's for the scooter? Right. Yes. Ok. So I know with one of my other patients, um, kind of the way that they were doing it or kinda how they explained it to me. Um, was like, you have to have the vendor list, which I see you picked and you already picked daycare and then after that, once it's, um, they have like the scooter and everything done, um, they reach out but I will. Um I think it's, it's been over a month, obviously. So I can definitely um message the referral department because it pro you probably should have heard something by now. I would think. Let's see. And I know they do it also through like the, the TGH um like outpatient rehab stuff. So let me see, let me see it called ok, because I think what they had told me um when I was trying to do it for another patient, um, with TGH rehab, they get the vendor you chose daycare. And then let's see. And then I think once they get whatever the scooter delivered or um, something like that, they will call and schedule. Um, but I'll reach out to TGH outpatient rehab. I have their phone number here and I'll see. Um, what kind of, yeah, I can give it to you. It's um, [PHI-Account] [PHI-Personal]. And what's the name of it? Um, this is TGH outpatient rehab. So the physical [PHI-Personal].
+Patient: Ok, I just do physical
+Nurse: [PHI-Personal] and um, I can give him a call real quick and just kind of get a status update and then I'll give you a call right back and let you know um kind of where they are at in the process with daycare. Ok.
+Patient: Ok. And if I'm not here, leave it on my voice mail. Yes,
+Nurse: Ma'am. You got it. Thank you, sweetie. You're welcome. Bye bye.

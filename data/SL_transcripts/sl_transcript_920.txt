@@ -1,0 +1,8 @@
+Nurse: Hi, this is [PHI-Personal]
+Patient: Nurse care manager. Hi, this is again. I see you had called.
+Nurse: I did. Yeah, so it looks like they had finished the letter. Um, let me just see if they're gonna mail it or if you can pick it up, it might be easier. Oh, I'll
+Patient: Pick it up if necessary.
+Nurse: Yeah, let me just see. Sorry, I'm just going into your chart
+Patient: Here.
+Nurse: Ok. The letter itself, uh, says due to patient's chronic medical condition, it is recommended that patient have a working air conditioner in the home to help alleviate worsening of his condition during warmer weather. So it's broad enough that there should be no issues with that. Um, and herself signed it and let me just see. Ok, so it um yeah, I'm sure if you go to any of the offices, they can just print it out from your chart. I don't think that'll be a problem. So if you need it today, you could probably pick it up.
+Patient: All right, I'll just grab it tomorrow then. All right. Sounds good, Richard. Thank you very much. You're welcome. Take care. Bye. You too. Bye.

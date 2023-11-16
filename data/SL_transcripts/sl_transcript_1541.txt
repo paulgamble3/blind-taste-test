@@ -1,0 +1,7 @@
+Nurse: Care management. This is Natalie. Hello. Hello. Hello. Hi. Can you hear me? Ok, sir?
+Patient: Yes. No, I can. My name is [PHI-Personal]. Someone had left me a voice mail about uh yeah, some benefit with doctor [PHI-Personal].
+Nurse: Ok. Sure. And could you spell your last name for me? [PHI-Personal]
+Patient: Kis? Si ng er
+Nurse: Great. Thank you. All right, let me just see if she's available. Give me one second. Ok, thank you. Thanks.
+Patient: Yeah. Oh that's that's with doctor. Ok. Ok. Uh huh. Yeah, I just want you to listen to this to see what's going on. I don't know what just give me a minute. What is he doing? There was a treat under my bag. Ok. Yeah. Yeah. Right.
+Nurse: Hello, Ricky. Yes. Hi. She's gonna give you a call right back. All right. Thank you. Ok. You bet. Have a good one. You too. Thanks. Bye bye.

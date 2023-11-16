@@ -1,0 +1,104 @@
+Nurse: Hello, this is,
+Patient: This is [PHI-Personal]. Hi, [PHI-Personal]. How are you? Ok, honey. Good.
+Nurse: I just called to check in, see how things have been going since we talked last.
+Patient: Ok. I'm going to a gastrologist or however you say that gastro, uh, down in, yeah, down in [PHI-Geographic]. One in March. Doctor trial. Set that up for me right now. I'm making peach [PHI-Personal]. Oh, that sounds good. I love peach [PHI-Personal] pies. I just have to be careful when I eat them that I don't overdo it. Yeah. Yeah, that sounds really good. I thought I just hungry for it. I don't know. I'm not sure what I have because the girl didn't know what it meant and she tried spelling it and it's like real long word. Ok. Let me
+Nurse: See.
+Patient: So, I don't know.
+Nurse: All right. So it says, is this, is she reading from your CT Scan?
+Patient: Yeah.
+Nurse: Ok. Um, shows significant hepatomegaly with hepatic steatosis,
+Patient: Whatever that is.
+Nurse: Yeah, we're just gonna look that up. Well, that would be an enlarged liver is what the hepatomegaly would be.
+Patient: Yeah, I know. I have that. I always had a fatty liver. What is
+Nurse: Hepatic steatosis? Um, so risk factors are obesity and type two. diabetes. It can also be exo be associated with excessive alcohol consumption. Um, let me see.
+Patient: Well, we're not drinking.
+Nurse: So basically it's just saying, yeah, you have a fatty liver, but you already knew that. Right.
+Patient: Yeah. They, they said that out at, when I was going through my cancer treatment, that was one of the things that prevented me from keeping on going because the enzymes got real high in my liver. Ok. And I had to stop after my fourth thing. I couldn't, I wound up in the hospital with that really sick from it.
+Nurse: Oh, ok. How long ago was that
+Patient: When I went to the can, about two years ago when I was doing cancer treatment?
+Nurse: Ok. Um, well, yeah, I mean, I guess just take it, you know, just have to wait and see what your, um, the gastro doctor says when you go, um, are they gonna do any procedures or is this, is it just a follow up?
+Patient: I don't know what it is. I just, he set me up with him to, like, whatever he wants to do, I guess. I don't know what they do for that.
+Nurse: All right. Hold on. Did he send you set you up with gastro or a hepatologist?
+Patient: Which would be the, I, no, gastro, I don't have the HEP thing if you mean hepatitis and that. No, no, no,
+Nurse: No. A hepatologist is a liver specialist.
+Patient: No, he set me up with, uh, Doctor Gastro Gastro. Ok.
+Nurse: Ok.
+Patient: Mhm.
+Nurse: Ok. Well, yeah, we'll just have to see what that report says. Um, they'll probably, it'll probably just be a consult being, it's your first visit with them. Um, and then they'll decide on, you know, some type of action plan after that. Ok. Well, good. I'm glad that that's set up, um, any, I
+Patient: Was having so much pain in my side and in my stomach that I'm throw was throwing up and stuff all the time. Oh,
+Nurse: That's awful. Like after you ate or any
+Patient: Time. No, just in the morning when I had to go to the bathroom. Ok. So it could be something else. I don't know. I just was there one day at a time here.
+Nurse: Yeah, that's all you can do. No,
+Patient: There was no change in the stool. Nothing was wrong. My, uh, in fact, my, uh, colonoscopy this year last year when I had it done came back. Perfect.
+Nurse: Good. That's
+Patient: Good. So, I think what it is is Doctor [PHI-Personal] think I don't empty my bowels. Right? Ok. So we're gonna look into that. I guess we'll see what happens if I keep drinking that contour stuff. I'm gonna start going when I go outside. Yeah.
+Nurse: Um, all right. Any changes to medications recently?
+Patient: No. Um, I stopped taking the au and I went to Metamucil. Ok, because when I was taking the, I think that that's what was the onset of, of my belly pain because, since I stopped it I don't have it.
+Nurse: Yeah. Some of those, um,
+Patient: Probiotics can be pro,
+Nurse: Yes, they can be very hard on you if you take too much or, you know, um, a lot of times that really should be prescribed per patient because,
+Patient: Right, that's,
+Nurse: Well, he
+Patient: Did it, he did it and checked into everything and it went along with my pills and that, but I have a sensitive. So, ever since I had surgery done and they nicked my liver and I have pain. So, I don't know because, see, I, they licked my liver and liver and I brought out, they had to take me back in surgery right away and, and mend my liver. So, yeah, I went through a lot with that, uh, when I got my appendix out, they scraped the adhesions and then in doing so they nicked the liver and didn't know it. So, within an hour after I was out of surgery I was back in surgery. That's crazy. And then they put the respirator on which broke all my teeth in the front. Oh, my word. Yeah, they're all cracked. Or they're falling apart. I have two. I have to go to the dentist now because I have one that broke right completely off again and I have the bottom two that just put down the middle. Oh, my. I know. And then it's like whatever but my daughter's looking into something for me right now because she found a dentist that said he could make me dentures nice because I just told I could never have dentures because of having that backwards pal. Right. Right. And this dentist said he can help me out with that.
+Nurse: That would be awesome. That would be awesome.
+Patient: So, when she gets back to me, then I have to call my insurance to see if it's covered. Yeah. So that would be
+Nurse: Great. Yeah,
+Patient: That would be great. Yeah, because I got a card off of [PHI-Personal]. 100 and $75 goes towards groceries or a bill and then I have three, $[PHI-Account], for eye and [PHI-Account] dental to add what the, if the there's no coverage or there's no, if it's not fully covered to add to it, like, say if I go to the dentist and I need something done and it's not covered, they'll cover it anyway with this $1000 on the card. Ok. So that's a big help. Mhm.
+Nurse: Yeah, that's good. That's good
+Patient: Because I get money for dentures and for cleaning and for my teeth to be done. So, yeah, hopefully I get that done this year. Good. Yeah, that, and I saw doctor and everything is great. No cancer. Nothing on the, nothing in the lungs. That's great. When did you
+Nurse: Have, when did you have that appointment
+Patient: Last Friday? On Friday? I'll look
+Nurse: And see if we have that report.
+Patient: So I did really good. That's
+Nurse: Wonderful. That is good
+Patient: News. She said there's a lymph, a lymph node. That's that swell. But she said that's always like that for me. She said we're gonna watch it, but she said, don't worry about it. She said it's just something I wanna keep an eye on. So.
+Nurse: Ok. How are your blood sugars running recently?
+Patient: Excellent.
+Nurse: Are you checking them daily?
+Patient: I check them four times a day. Ok. And, and I add, add a 6.7. Nice at my A one CS and my sugars are running anywhere from. I'd say the highest one would be 1 89. All the rest are. And that's once in a while I did have a higher one, one in a whole month. 2 23. Which to me ain't bad because all the rest of the day it was like a low numbers like 1 21 31 stuff like that. So I think it, it, I'm not even worried about that 12 23 thing.
+Nurse: No, I would be either it pro possibly could have been something you ate, you know, did you have extra bread that day or extra?
+Patient: I don't, I'm not sure. Yeah, it, it might have been something I ate that I didn't eat for a while and it's too much carb.
+Nurse: Yeah. As long as it's pretty well controlled. Otherwise I wouldn't be too worried about it. Um, I'm
+Patient: Doing fine. I'm doing great.
+Nurse: What was it, what was it this morning when you took it
+Patient: This morning? I, when I got up it was 1 71. Now it, and then it's down to one, went down to, uh, I checked it again because I knew my sugar got low after I did all my morning routine with my morning insulin. And I take, I drink, uh, that boost, I drink boost with, uh, for diabetic. It helps with your sugars. And I did my Metamucil. It dropped down to 90 93. So I'm fine. Good. I'm keeping it down. Hi. I can tell when my sugar is getting low. Ok. My, I, I feel it, I feel it. I get nervous. I get edgy. Ok, I can get miserable. My daughter said I can get very miserable. She didn't say it like that though. She goes, she said, you know, I knew your sugars were low. You were being bitchy. That's funny because he spent the day with me on Friday. Oh, that's nice. She meets me at the doctor's office and goes along in and then we do a day of shopping.
+Nurse: How nice. That's wonderful. It's always good to have an extra set of ears when you're at the doctor's. And then, yeah, to spend that time afterwards is nice.
+Patient: Oh, it was awesome to be with her. She's always so much fun. She's always working now. Get to come up much. She works until sometimes 8 30 at night. She, uh, works, she works for, she, well, she works for, uh, [PHI-Personal] doors and windows. Uh huh. She masters the doors and the windows. Ok. And she does a lot of head math a lot. Her day is very tiring because of how she has to do math all day long.
+Nurse: Yeah, I'm sure that would be very exhausting.
+Patient: Well, for her, it isn't really that exhausting because her and my one, my youngest son are like, math brilliant. When we had, when we were in school we had trouble with calculus and all that. Not her and, nor my youngest son, they blew right through it. I mean, that's the, the, and she, one salary, well, she actually just became a boss where she's at. Good for her, a man, a manager. She has, I think two people that she's training right now. She was traveling, she was traveling all over until the pandemic started. She was in [PHI-Geographic], out in, down in [PHI-Geographic]. She was all over [PHI-Geographic]. She would drive, get off the plane, get a car, go drive where she had to go. Wow. There's all over [PHI-Geographic]. I'm kind of glad she's not doing that anymore with the way things are.
+Nurse: Yeah, I'm sure.
+Patient: So,
+Nurse: Um, all right. So a couple things to remember, make sure you're getting your three meals a day snack in between if you're active. Um, that'll keep your sugar from
+Patient: Right. That, uh, yeah, hard boiled eggs are good for that. And red [PHI-Personal]. Yeah. Ok. That's one of my biggest thing is the hard boiled egg and I love red [PHI-Personal]. Yeah. So, that's my favorite vegetable, is it? Yeah, I love red beans right out of the can. Red [PHI-Personal]. Just give me red [PHI-Personal].
+Nurse: All right. Any, um, symptoms, like depressive symptoms recently? No.
+Patient: All right. So, I'm gonna do with you
+Nurse: Good. So, this is just within the last two weeks, any little interest or pleasure in doing things.
+Patient: I'm, I'm fine. I'm good.
+Nurse: Ok. Um, I just have to finish the screening questions. It's just, yeah, requirement. Um, any feeling down, depressed or hopeless, no trouble falling or staying asleep.
+Patient: I always do that. I don't, I don't sleep through the night. I'm one of these people that worked from anywhere 12, midnight one, we've had
+Nurse: Conversation before.
+Patient: Yeah, I know. I'm just not gonna sleep through the night. I'm up and down. I mean, now during the day then I feel like I should take a nap and I try not to, but then that throws me off. So I take a nap now I lay down and take a nap in the afternoon.
+Nurse: Yeah. And, you know, I mean, you know what your sleeping pattern is and as long as it's not affecting you in other ways, right. You know, then you should be
+Patient: Ok. No, I was up at six this morning. I made a card already today and played with my puppy and now I'm, I'm baking my peach uh [PHI-Personal], which I'm using my diabetic sugar for. There's sugar that I get. Yes. So I get that a big bag of that sugar that at Walmart. They have it brand and it's for it. Got no calories and no sweetener in it. It, but it's sweet. It's sweeter than regular sugar. It's not sucrose. I, I forget what it is. I haven't had a bag but I use that in my desserts. I just have to watch cause of the peaches. Right. But yeah, I was just so hungry for a [PHI-Personal].
+Nurse: Hm. Yeah. Sounds delicious.
+Patient: Yes, I [PHI-Personal] and I cook, I was nurses aide for 13 years but I was a cook for the army for 11. 0, ok.
+Nurse: That's interesting. Yes, that's interesting. Um All right, ma'am. So, since it's a new year, I will be sending you a new care plan letter. It's just gonna have any um, screenings, lab work, office visits. You have du are you still at [PHI-Geographic]? Yes. Ok. And I have you, you have [PHI-Personal] and P [PHI-Personal] and
+Patient: [PHI-Personal]. Yes.
+Nurse: Perfect. Ok. All right. So I will send this care plan letter out. You'll get it probably by the end of the week. Um, there will be dates on it next year. Wellness goals, but those are just due dates. They're not scheduled appointments. Ok. I just been trying to tell everybody that because I've had some patients that were like, I don't remember having this scheduled. I'm like, no, it's just a due date. And so anyway, so I will get that.
+Patient: I, I know I gotta do the mammogram this year.
+Nurse: Ok, let me
+Patient: Check and see. The mammogram has to be done this year.
+Nurse: Ok. It looks like that is due in [PHI-Personal].
+Patient: Yes.
+Nurse: Ok. Very good. Um All right. So let me see. I don't know if I finished your goals from last year. I didn't. Do you see a podiatrist regularly?
+Patient: Yes.
+Nurse: Ok. Um, let me see. What else? Eye exam. Did you get an eye exam last year?
+Patient: Yes. And I'll go this year. I go every year. Perfect. Like once a year I did have a little blood behind my eye, but that was after they were treating it for that ulcer. Oh, ok. It wasn't, she don't think it was my diabetes because I had that ulcer and for six months they had my, kept selling my eyes shut, which I was getting aggravated with it. They'll never do that again. I'm telling you. Yeah, that never again.
+Nurse: Um, all right. Any vaccines, flu vaccine
+Patient: Shingles. I got my flu, I got my shingles and I got my other, I think I got another pneumonia one too. Ok. So I have, I'm updated on all that now when I come over on the 20th of [PHI-Personal] I shouldn't need nothing.
+Nurse: No, you shouldn't unless you have labs.
+Patient: But that's about the only thing. Yeah. He's gonna check the A one C and stuff.
+Nurse: Yeah. Other than that there shouldn't be anything else due. Um, flu doesn't, flus aren't due until fall.
+Patient: Right. So, you should be, and we're staying away from everybody that's sick. So, yeah. Yeah. So you should be ok. Yeah. I don't go out much. I was shopping with my daughter but it's one of those things where you go shopping, you carry your hand sanitizer and every time you touch something you wash your hands.
+Nurse: Yes, exactly. All right ma'am. Well, I will reach out to you again a month from now if you need anything before that though, just give me a call.
+Patient: I will thank you. Alright, care and take care. You too. Hun have a good day. Thanks. You too. Mm bye bye. Ok bye bye.

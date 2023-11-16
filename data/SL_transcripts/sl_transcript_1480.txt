@@ -1,0 +1,18 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hey, this is [PHI-Personal] again.
+Nurse: Hi, how are you?
+Patient: Good. Uh The pharmacy said I have refills on it and they're gonna go ahead and get it ready. She says I don't know if they'll do early refill. I said I don't care, I'll just pay for it so I can have it. She said it'll be ready by noon.
+Nurse: Ok. Did you give them the Goodrx number? I have a number I can, I can give them a call to see if they can run it. Did they give you a price?
+Patient: No, I'm not worried about it. Uh If, if they don't, they don't, I, I would rather be alive to worry about it. I'm not gonna, I don't, I don't have time to run around and look for it somewhere wherever the good Rx thing is all. But if the insurance won't do an early refill, I can
+Nurse: Text you a coupon for the good Rx. What's your, what's your mobile number? Right? Read it to me.
+Patient: Uh [PHI-Account]
+Nurse: [PHI-Account]. All right. [PHI-Account]. I wanna just send you this coupon to the um, it's 10 [PHI-Account] for a 30 day supply of the f er, five mg. So I already had it pulled up. I was about to call the pharmacy um, after I sent a message to doctor about your current BP. Um but I'm glad you got back to me. I was, I was literally about to dial in their number. So um to give them that and see if they needed, needed another refill.
+Patient: When does the new doctor start?
+Nurse: Um I believe they have already started because I got a message back. It's something new. It's a, it's a nurse practitioner. I got a message back from them about a different patient that I have to call. So I know they've already been, been seeing patients. Um Yeah, but with, with the, you know, when it's something complex, it goes to doctor. So since you've obviously been having uncontrolled BP and we made a lot of med changes like anything that is like he, he looked at this one basically. Um So this is going to doctor the message. Ok. Ok. All
+Patient: Right. So yeah, you can, you can go ahead and text me that if, if they will honor it, I'll, I'll use it if they won't. Um maybe the insurance will cover through. We'll see what happens when I get there, but either way I'm gonna get the medicine by noon.
+Nurse: Ok? Good. Um, I did text it to you. So hopefully that goes through, but I mean, the wife should be able to look up the good Rx as well if they're, you know, you know, get a customer service. Some pharmacies will, um, but just let them know anyway. Um, I will call later to see how you're doing. Um, try to keep your BP under 1 80 over 90. Um,
+Patient: Well, I, I won't be able to I'm not gonna be able to check it at lunch because I'm gonna run down to s and pick that up so I won't know anything until probably going on four o'clock until I get
+Nurse: Home. Ok? So maybe I'll give you a call tomorrow or maybe after four but I will I will check on you um to see how things are going but if you start having symptoms you do have to go to the er so promise you that. All right. Ok. Alright I will talk to you later. Ok?
+Patient: All right. Thanks
+Nurse: [PHI-Personal] my pleasure bye
+Patient: Bye.

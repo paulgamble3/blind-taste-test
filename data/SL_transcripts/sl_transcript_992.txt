@@ -1,0 +1,84 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. How can I help you?
+Patient: This is uh na did you just call
+Nurse: In? Ok.
+Patient: I was on the phone talking with a dentist.
+Nurse: Oh, ok. No worries. No worries. I was just calling to do the monthly phone call and see how you're doing.
+Patient: Ok, we're doing fine except I broke ad uh [PHI-Personal]. Oh,
+Nurse: No. What happened?
+Patient: Well, I been into a candy bar and it just snapped the [PHI-Personal] off right in the front.
+Nurse: Oh, that's a bummer. So did you get a, did you get an appointment uh for
+Patient: August [PHI-Personal]? Oh my heavens. I was just going to try calling another number that she, I've called two already and one, they're not taking new uh patients and the other one, the phone number that the insurance gave me is not, it's no longer in service. What
+Nurse: It let me look, maybe I can help you find the number. What's the, do you know what the office is called?
+Patient: Well, I'm calling uh I got an appointment now for, I come in Ma for August [PHI-Personal].
+Nurse: Ok. I mean that's not too bad. Realistically it's only about three weeks away. I don't know if you'd be able to get in anywhere else sooner.
+Patient: Well, that's, uh, well, it was Benton or La [PHI-Geographic] and Laporte is the one that the number is no longer in service. And, ah, and anyway, uh, no one's heard of it. [PHI-Personal] Bar, [PHI-Personal] RT UTO.
+Nurse: Let me s, let me look it up here, [PHI-Personal] B, spell it again
+Patient: For me. [PHI-Personal] RT UTO in
+Nurse: [PHI-Personal]. [PHI-Personal]. Is that close to you? [PHI-Personal]? The, the town
+Patient: [PHI-Personal]. No, I didn't never heard of that one. That was supposed to been at Laporte. Oh, dentist. Here we go. Yeah. Ok. That, the girl from, uh, the guy singer evidently screwed up. She gave, well, see, I knew that number didn't unless it was a cell phone number. And, uh, anyway, it's no longer, I'll look quicker. I
+Nurse: Have a, I have one here. Let me see. [PHI-Geographic].
+Patient: No.
+Nurse: Um, I have one in Ali.
+Patient: He, no, I don't even know where that is. Me either. That's why. And, uh, some of them doesn't take a go. Right. Right. Anyway, I'm gonna call, uh, the [PHI-Geographic] and see there's a dental clinic right there at the [PHI-Geographic], but I called that number and they didn't return the call either. So. Oh, so I don't know if they take the, uh, card or
+Nurse: Not. Yeah. Now, are you having any pain with your
+Patient: [PHI-Personal]? No, it's ok.
+Nurse: Ok. Good. So, if you have to wait until [PHI-Personal], at least you're not having pain. Yeah. Yeah. Oh, heavens. Wow. Well, so what else is going on? Other than the [PHI-Personal]? I see you had an appointment there at the end of the month. Yeah. On the
+Patient: Third. Yeah. Ok. And, uh, she's sending out the, all the, uh, some kind of information. I probably have to fill out the card and take it with me as I go back, you know. Anyway. But I have to go to town. We got a nice rain last night. Oh, did
+Nurse: You see? We haven't, I didn't get any rain last night. It's been [PHI-Personal]
+Patient: Bad. But, you know, the ground don't even look like it was wet but it was just about dark. Yeah, when it rained maybe. And I'm not sure how long it rained but it was a nice slow rain. But I went out to the garden this, just this morning and the ground's not hardly wet at all. Uh huh.
+Nurse: I was going to say it's probably so thirsty. It needs much more. Yeah,
+Patient: We, and it's cloudy today but I have to go to town and get groceries and. Mhm. Go to Walmart and get me a line for my weed [PHI-Personal] and a
+Nurse: Couple of different things going on, huh? Yeah,
+Patient: All that stuff going on.
+Nurse: Yeah. So you had a, you had an appointment there at the end of [PHI-Personal]? I see with [PHI-Personal] and how that, yeah, there at the, at the end of [PHI-Personal] you saw [PHI-Personal] for your check up?
+Patient: Oh, well, I better look.
+Nurse: Well, it was, it was on [PHI-Personal] 27th. Yeah, here on the tw [PHI-Personal] 27th. It just passed.
+Patient: Oh, yeah, I must have went down and sell that. Oh, well, I must have, if I had one down there then. Yeah, I saw
+Nurse: It. Yeah. And how everything went. Ok. It looks like when you did your blood work there it looked like, um, that's
+Patient: What, that I had to go down there the week before and then, then. Yeah. Mhm. Um, everything went fine there. Someone missed his appointment with, uh, Doctor [PHI-Personal] that, uh, the, uh, wound center doctor, he did miss that. And that was my fault and we got to call and get that straightened out again and hopefully,
+Nurse: Uh, oh, but does too. So. Oh, absolutely. Yep, you're right. So, how is he doing? Overall?
+Patient: He's doing good. Uh, I think the last time we talked I said he's doing good. It was that day or the next day he had trouble with his catheter. Yeah.
+Nurse: Yeah.
+Patient: But, uh, other than that, well, that's not unusual. That thing gets plugged up now and then. So. Mhm.
+Nurse: Mhm. Now, do you guys have home health coming in to help
+Patient: Him? Uh, [PHI-Personal] comes in once a month to change the catheter.
+Nurse: Ok. Ok. And did they flush it or anything? Or did they leave anything there for you guys to be able to flush the
+Patient: Catheter? I, I flushed it. Uh, Monday. What's today? Thursday? I think Monday, I think, I think I had to flu flush it Monday during the night. It, it, uh, plugged up.
+Nurse: Yeah.
+Patient: Yeah. But anyway, uh, it's working good right now. Well, he thinks, I think it's working good but he said he has a, feels like there's pressure in his stomach. But, uh, I think he's, uh, it's not bad. I think he needs to go to the bathroom and hasn't gone.
+Nurse: Yeah, I was gonna say, and he takes, he takes oxyCODONE. Right. And he's on fentaNYL. Um, yeah. So, does he, what does he take any kind of laxative or anything for the constipation? Oh,
+Patient: Yeah. He takes the laxative every day. Uh, it's, but right now it's, it's a, it's a senna but it's a different name but it's once a day. Uh, one, twice a day. Ok. And then the other day I gave him some milk of magnesia. Mhm. Did that help? Yeah. Oh, yeah, that works.
+Nurse: Ok. Good. Good. Yeah, I mean, you got to keep, he's got to keep going or else he can definitely get a bowel obstruction with being on the, um, the opioids, you know, they definitely can, can cause constipation and, and obstruction. So, he's got to be, be
+Patient: Very cautious with that. Now, he doesn't take much of that oxyCODONE. Uh, No, he only as needed. And, uh, actually it's not very often so good.
+Nurse: Good. That's good. So, the pain is fairly controlled with the fentaNYL.
+Patient: Yeah. But he takes gabapentin and all this other crap and, yeah, it's all a sort of a pain thing. So. Mhm. Yeah. But he drinks plenty of water. He tries to anyway. So.
+Nurse: Yeah. Yeah. So, how is the, um, area on his bottom? Is it healing up at all or?
+Patient: It's good? It's good. It's,
+Nurse: You're doing ok as far as that goes. Uh huh. Good, good. All right. And how, how is, um, everything going in with you? I mean, how are you feeling as far as mood wise? Are you, oh, having any issues with depression or anxiety? Are you? No doing ok.
+Patient: Fine there. Yeah. Ok.
+Nurse: Good feeling. All right. Yep. Very good. All right. Well, if there's anything more I can do my goodness for your, for your [PHI-Personal]. That's too bad. Now, is it a front [PHI-Personal] or a back
+Patient: [PHI-Personal] or front [PHI-Personal]? Oh, the top one too. It's not. No, you can't hide it.
+Nurse: Yeah. Did it chip or did it like fall off or how,
+Patient: What, how broke completely off? It just snapped right off. Right. Oh, my heavens. But I'm looking, I saved it darn thing. Yeah, it has. I think it had two. It's probably, he's got two, two other fillings in it. Mhm. So, uh, and that might even be a third one. Little one. But anyway, it broke off and I got a hole in my head.
+Nurse: Oh, boy. Well, I mean, if it does start to cause you pain, you can always do like a warm compress there to try to help with the inflammation. Um, of course, or gel to try to help numb the area. Um, warm salt water mixes, mouthwash, mixes to try to keep any kind of infection out also.
+Patient: Well, I brush my teeth and then I use the whitener to help, you know? Yeah. But anyway, yeah, I was always took care of my teeth. Yeah. She, yeah, my twin sister, she's had dentures for the last, I think thir [PHI-Personal] or 30 years. And I still have my teeth. Yeah. We was at a, a friend of ours one time who was a tenants and, ah, he, well, the guy is actually a distant cousin and he's married my girlfriend, um, best friend and he said to me, are those your teeth yet? He had dentures? And so does my girlfriend have dentures? So, but anyway, I said, yeah. So, you know, me being smart, I open them up. You can't pull them out. So, but, ah, yeah, I mean, a lot of people my age don't have their dentures. Yeah. Yeah. Oh, I'm so glad I still had mine and I took care of em and then I broke the darn thing off.
+Nurse: Oh, well, you know, it's hopefully it can be an easy fix. Hopefully they can. And it, it's good thinking that you kept that, you know, that extra of that [PHI-Personal] because they may be able to just maybe seal it up, you know,
+Patient: I don't need. Yeah.
+Nurse: No. Well, let's hope so. Anyway,
+Patient: I'll tell you this and I gotta get off here. Our daughter who is, she was born in [PHI-Personal]. What is that? [PHI-Personal] and [PHI-Personal]? She's [PHI-Personal]. She just got new dentures. So last I think she got last Thursday they pulled the bottom ones and put her dentures in uh huh but ok so she said she told him she wanted her teeth. 00 no that would be a they can't do that. Why not? She said I've had them in my head all this. She said I'll tell you the first time she got her top one pulled she cut her, she kept her teeth. She said every time they got to bother her and she thought what am I doing this? She looked at these ugly old teeth and then she felt better. So anyway they gave her her [PHI-Personal] her teeth after she said I it's just so I have something to hold on to in case my mouth hurt. But anyway she had a [PHI-Personal] that was filled with [PHI-Personal]. Mhm. Ok. They gave her her [PHI-Personal] but they didn't give her the [PHI-Personal]. They took the
+Nurse: [PHI-Personal]. Oh for
+Patient: Pete's sake. Well, the next day when she went up she said you gave me the [PHI-Personal] but you didn't give me the [PHI-Personal]. It's been in my mouth for 30 some years. He said, oh, it's not any use for monetary use. He said, well, not to you maybe, but, and not to me either, but it's my [PHI-Personal]. But they wouldn't give it to her. I
+Nurse: Was going to say she paid for that [PHI-Personal], you know. Yes, she did. Oh, my heavens. Yeah, I was going. And what were they going to do with it? I mean,
+Patient: What, well, if they saved enough of it, [PHI-Personal] is expensive. And so you go to the dentist and they just throw all those [PHI-Personal] pieces or fillings in a thing, you get a pound and I don't know what a pound of [PHI-Personal] rings. But, but anyway, oh, my house a little upset with them. I said I'd demand my piece of [PHI-Personal].
+Nurse: Yeah. Absolutely. Absolutely. Yeah. Oh, my. Wow.
+Patient: So, uh, that, uh, I'll tell you who as, and out there and win for the, uh,
+Nurse: Uh, are they, they're the ones that did that?
+Patient: Yeah. If they told her it was no monetary value, then why would I own it? Right.
+Nurse: That is, that is so silly.
+Patient: It is.
+Nurse: Well, oh, my
+Patient: Goodness. But anyway, I got to get off this phone here.
+Nurse: Ok, man. All right. Well, it was nice talking to you if you need anything. Give me a call. Ok,
+Patient: Thank you so much. Alright.
+Nurse: Ok, bye bye.
+Patient: Oh.

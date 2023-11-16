@@ -1,0 +1,43 @@
+Nurse: Hey, this name.
+Patient: Yeah, hello. This is [PHI-Personal]. You gave me a call here?
+Nurse: Yes, sir. Hold on, let me pull up your chart. Sure. Yes. So I was just calling Mr [PHI-Personal] just to see how you are doing today. Um, just to see if anything changed since we last talked.
+Patient: Not really. I was, I'm at physical therapy. I just came out of physical therapy and got your call.
+Nurse: Oh, ok. How's that going?
+Patient: Not too bad, I don't think, but it's slow, but sure.
+Nurse: Just wanna take time. Yes. How's your BP been? It's been pretty decent.
+Patient: It's been running around 1 25 1 28
+Nurse: Over
+Patient: Usually in the 72 73 range.
+Nurse: That's not bad at all.
+Patient: No, for an old geezer. Ah. Right. Right. Now it's probably a little, a little high because I've been about 65 minutes worth of physical therapy. So,
+Nurse: And how often do you go to therapy?
+Patient: Three days a week? I had a knee replacement, so I'm trying to get back so I can walk again.
+Nurse: And how's that going? Any swelling, any pain?
+Patient: Oh, yeah. I still got a lot of swelling in it, I'm six weeks plus out, but I still have a lot of swelling.
+Nurse: Ok. Do you try to, like, you know, put the cold compresses on it?
+Patient: Cold compresses and warm compresses? Depends on what time of the day
+Nurse: And you elevate it.
+Patient: Well, as much as possible, actually not really supposed to elevate. I'm supposed to keep it bent. So it keeps bending. Yeah, that is, get it elevated if you get it el elevated and get it straight, that makes it harder to bend it.
+Nurse: Yeah, that's, that's very true. Yes, sir. You don't wanna keep it, uh, elevated for too long periods of time. No. No. And how often do you? I'm so sorry. What did you
+Patient: Say? Three days a week, usually Monday, Wednesday, Friday.
+Nurse: Ok. And what about, um, your pressure, your BP? How often do you check it?
+Patient: Uh, usually once a day, sometimes I skip a day. Depends on how I feel.
+Nurse: Ok. And how's your diet been?
+Patient: Well, I don't think there's anything wrong with my diet. I eat anything I can see. Usually as long as it isn't still moving, I might, I might take a light out of it. Well, no, I don't have any problem. I don't really have any problem with my diet. I eat a lot of salads. We fried foods good since I had the heart attack.
+Nurse: Ok. That's what I was about to tell you about, uh, with having cholesterol. You have to go for the lower fat food. Like, uh, yeah, the more leaner meat, chicken, turkey fish. Yeah. Um, a lot of fruits and veggies
+Patient: Eat a lot of veggies because we eat a lot of salads.
+Nurse: Ok. Good, good. And, um, try to keep some fiber in your diet. Try to stay away from, like, the, um, sugary snacks and drinks those kind of things.
+Patient: Yeah. I don't drink, I don't drink any soda, so I don't have any problem there. About the only time I get sugar is the first thing in the morning with a cup of tea. I get a little bit of sugar in that. But no, I'm not a sugar, I'm not, not a sweets person. I don't like cakes and pies to begin with. So.
+Nurse: Ok. And do you need any refills to tell you the truth?
+Patient: I don't know.
+Nurse: Ok. Do I
+Patient: Think? I don't think so right off hand. No.
+Nurse: Ok. Well, if you notice you need some, just let me know.
+Patient: Yeah, I'm not at home so I can't really, you know, really pinpoint that I know all the bottles I have right now. Are we have enough in them for three or four more weeks? At least? Nice thing. About 90 day supplies.
+Nurse: Yeah, that's true. Yeah. Act,
+Patient: Actually, I think the last time I got drugs was in [PHI-Personal]. Maybe the end of [PHI-Personal]. So I'm the end of [PHI-Personal]. [PHI-Personal], October. I'm good. Probably until mid [PHI-Personal] and I think if I'm not mistaken everything except maybe the tamsulosin has refills on it.
+Nurse: So once you get home, just let me know like if you see you need refills, just let me know. All right, I can do
+Patient: That. That's no problem.
+Nurse: Ok. Yes. Alrighty. Well, be careful. Have a good weekend.
+Patient: You too
+Nurse: Have a good day. Ok, thanks. Mm bye now. Ok, bye.

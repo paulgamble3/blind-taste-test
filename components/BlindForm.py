@@ -105,11 +105,11 @@ def BlindForm():
     with open(script_fn, 'r') as f:
         script_text = f.read()
 
-    turns = script_text.split('\n')
+    #turns = script_text.split('\n')
 
     st.write(f"The following transcript is a conversation between a patient and **{label} nurse**. Please read the script and answer the following questions.")
     st.write("[Somes lines may have been omitted for brevity.]")
-
+    turns = script_text.split('\n')
     for turn in turns:
         st.write(turn)
 

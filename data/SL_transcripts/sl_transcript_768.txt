@@ -1,0 +1,13 @@
+Nurse: [PHI-Personal] Cod Healthcare. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal], one of doctor [PHI-Personal] patients. Mhm. Um, I'm trying to get a hold of some test strips. Uh, some one touch ultras so I can pick them up at the, uh, pharmacy here. Could you send or have somebody send a prescription? I think it's what we need or some authorization to pick up test strips.
+Nurse: Sure. Let me look and see here. Yeah, I see that this was requested a couple of days ago.
+Patient: Uh, I was just over at the, uh, pharmacy and they, they hadn't received it. So I might have, I don't know what would have happened, but,
+Nurse: Well, it's saying that it was sent on March the first, but let me call, uh, the pharmacy and make sure that was the right ones because he sent it on March the first with three refills. So let me give them a call and, uh, look into it.
+Patient: Ok. Ok. And now it's what they're called is one touch ultras.
+Nurse: Ok. One touch ultra. All
+Patient: Right. All right. Well, I'll just, uh, you'll give them a call. Can you call me back and tell me what happened?
+Nurse: Sure. Yeah, I'll keep you in the loop today.
+Patient: Thank you very much and you have my number, don't you? Uh [PHI-Account].
+Nurse: Let me make sure that's the [PHI-Account]. Yep [PHI-Personal]. I have that as your home number.
+Patient: Ok, thank you very much
+Nurse: Britney. You're welcome talk to you in a little bit. Ok. Doke bye. Uh huh bye bye.

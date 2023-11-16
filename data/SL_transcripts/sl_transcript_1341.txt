@@ -1,0 +1,10 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes, good morning. This is Doctor [PHI-Personal] uh office.
+Nurse: Oh, I don't work there in the office, but I do work on behalf of Doctor [PHI-Personal]. Yes.
+Patient: Oh my God. Ok. I'm a patient of Doctor [PHI-Personal]. Ok. And I've just been diagnosed over the weekend with COVID. So I need the doctor to prescribe him uh the proper medication for this problem that I have.
+Nurse: Ok, let me pull up your chart here. Just give me one moment. Ok, perfect. So I see that you are, uh you're enrolled with nurse [PHI-Personal]. So, what I'll do is I'll see if she's available really quickly. Just give me one moment here. I gonna reach out to her really quickly. Ok. So she'll be able to help you out for sure. All right. Let me go ahead and just place you on a brief hold and, ok, can
+Patient: You please speak up?
+Nurse: I'm going to place you on a brief hold
+Patient: And I'm losing you. I don't believe this.
+Nurse: I'm gonna place you on hold and see if she's available to transfer. Ok. Ok. All right. Just a moment.
+Patient: Welcome.

@@ -1,0 +1,10 @@
+Nurse: Hi, and this is [PHI-Personal]
+Patient: Jo. Hi. This is [PHI-Personal]. I got a missed call. I'm sorry, who is this? My name is [PHI-Personal]. I got a missed call from this number.
+Nurse: Ok. Let me just look you up real quick. All right, [PHI-Personal]. We're just calling about your BP cuff and your antenna.
+Patient: Ok. What about it?
+Nurse: We haven't gotten readings in a while.
+Patient: Ok. Uh, basically because I've been in and out of town and stuff, but I did put it on my suitcase and I did plug it back up so I can try. So in the morning you'll get a reading.
+Nurse: All right. Sounds good to me. I am actually seeing the checkmark now. So you're good to go. Thank you very, very much. I hope you enjoyed your holidays.
+Patient: Thank you and [PHI-Personal] Year.
+Nurse: Thank you. You as well.
+Patient: Bye bye bye.

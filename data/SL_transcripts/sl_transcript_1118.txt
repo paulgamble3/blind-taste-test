@@ -1,0 +1,14 @@
+Nurse: Good morning. This is one of the nurses here at Doctor [PHI-Personal] [PHI-Geographic]. How can I help you?
+Patient: This is good. I think you called me, uh, yesterday and I was at PT.
+Nurse: Oh, yes. Um, I did give me one minute, let me just pull you up here. I'm sorry, I'm so much better with faces than I am with names. I gotta pull up your chart and see your pretty picture. How was PT yesterday?
+Patient: Oh, it, it was good. But my, and my BP is still up at PT. You know, I'm, I anxious to see what happened this morning. I'm going there in like five minutes and, and I just took my BP at home right now at 10 o'clock and it was 1 15/60 61 if it goes. Yeah, that's one. And, and so if it goes to 100 and 70 I think their, their BP machine is not right.
+Nurse: Either that or, um, maybe you just get really nervous when you're there. I don't know. II I,
+Patient: I shouldn't, my land, I've been there, uh, since [PHI-Personal], I've been there. I don't know how many times but I know I've had to do this learning to walk over again as I call it four times since [PHI-Personal]. 0,
+Nurse: Ok. Yeah, that was one of the main reasons I was calling is checking to see how you're doing with the walking and checking to see on that BP cause you were, last time we talked, you were pretty high there. You were decent at home but high there and it sounds
+Patient: Like, yeah, and it's still high there. So I don't know that one PT person said he's bringing his machine over to see whether it gets the same numbers as theirs does. That's right there.
+Nurse: Do they, um, do they do it manual or do they use a machine? Well,
+Patient: I, it depends who, who you have for PT one person does it like the nurses do it and everybody else does. It just like I do it at home. Ok. And so I, I don't know what it was, it with that BP reading at home, it's got to not be 100 and 70 over a PT. So I'm really anxious to see. So I, I gotta go right now but I just wanted to call you back and let you know, uh, what was going on. All
+Nurse: Right. Well, I will let you go. I'll keep that here in the back of my mind and we'll just go from there when, uh, and you know, uh, maybe I'll give you if you wanna
+Patient: Call me tomorrow, you can call me tomorrow and uh, I'll tell you how it goes to PT today.
+Nurse: All right. Well, I will cross my fingers, cross my toes, find a lucky four leaf clover and send up a prayer that this one works well for you.
+Patient: Yeah. Ok. Thanks a lot. You're welcome. Have a nice day. Thank you. Bye bye. That is a different.

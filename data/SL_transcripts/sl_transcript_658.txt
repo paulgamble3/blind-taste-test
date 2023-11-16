@@ -1,0 +1,19 @@
+Nurse: This is speaking, how may I help you?
+Patient: Yeah, this is [PHI-Personal] you had called me?
+Nurse: Oh, ok. Hold on, let me pull you up, hold on one second. Ok. So I was just giving you a call just to do your monthly update. I was just checking in to see how things were going with you.
+Patient: Ok. Everything is going fine.
+Nurse: Ok. Um, have you had any changes since we spoke a month ago? No. Ok. Um, any falls or er, urgent care visits? Anything like that? No. Ok. Have you had any changes to any medication? No.
+Patient: Ok.
+Nurse: Yeah, let's see. Hold on one second. I'm trying pull this up. Ok. All right. And then you had a visit with the doctor. Um, I think this is like the end of July. No, that was the end of July. Ok. All right. So you haven't had any recent visits with her? No. Ok. All righty. Um, any issues with your BP in the last month? No. Ok. No headaches, dizziness, clammy skin, nothing like that. No. Ok. And then you're taking all your medication as prescribed about. All right. No issues with that. No. All righty. Um And then have you had like, any, any seizures lately? No. No. Ok. And you're still taking that Keppra? Right? Yes. Ok. Ok. Good. All righty. All righty. And then making sure to drink enough water throughout the day to stay hydrated. Ok. And do you plan on getting the flu shot this year?
+Patient: Uh, not really.
+Nurse: No. Do you typically get it or you typically skip it every
+Patient: Year? I haven't had it, uh, since the the the the thing came on I just get it before and I have not had it since. Oh,
+Nurse: Ok. Ok. All right. Well if you do decide you wanna get it usually the best time to get it in between like [PHI-Personal] and [PHI-Personal] um if they don't offer it in the office, you can always go to the pharmacy and get it if you you know decide to um. Ok. All right um you have any questions or any concerns about anything? No
+Patient: Everything seems to be ok.
+Nurse: Ok. Alrighty you need, did I ask you if you need any refills or anything or? No?
+Patient: No I don't need brand right now.
+Nurse: Ok. Alrighty, so I update it here that we spoke. I know you're not scheduled to come into the office until um [PHI-Personal] for a follow up. So um if you have any questions or concerns or anything like that you can give me a call and I'll probably call you in about another month or so to follow up.
+Patient: Ok.
+Nurse: Ok. Alrighty. Ok, thank you very much. You're welcome. Have a good day. Yep, you
+Patient: Too. Bye
+Nurse: Bye.

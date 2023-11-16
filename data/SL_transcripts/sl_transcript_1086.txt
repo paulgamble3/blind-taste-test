@@ -1,0 +1,20 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: [PHI-Personal], you said? Yes,
+Nurse: How can I help you? This
+Patient: Is, this is [PHI-Personal] calling. Never spoke with. I usually speak with Ry, but uh I wanted to follow up. She had called last week and I was in the middle of something. I never got a chance to talk with her. So, uh we'll probably have to regroup on that one. But another thing I was gonna ask her, you could check on, I had uh sent in through my chart yesterday a refill for prescription. Ok. And I seen that it still had, had been noticed or anything, I guess what the term is and that, so trying to follow up with that. So, before I run out of uh certain med.
+Nurse: Ok. Which medication were you needing a refill on?
+Patient: Am uh amLODIPine? Ok.
+Nurse: Ok. I do see that here and just to confirm you're taking the, oh, go ahead.
+Patient: No, I'm so I just have to see if we can get a 90 day versus uh 30 days, I guess.
+Nurse: And you're taking the five mg once a day. Correct.
+Patient: Correct.
+Nurse: Mhm. Ok. And then we have that you're using the Walmart Pharmacy in, looks like on [PHI-Geographic].
+Patient: Mhm. Correct.
+Nurse: Ok. Ok. Yeah. So I am, actually the nurse is no longer working with the Pro Medica Practice. So I'm the nurse that will be taking her place. So, um, any calls, anything like that moving forward, you'll, um, you'll get in contact with me.
+Patient: Ok. There's no [PHI-Personal] either now.
+Nurse: Um, no, so [PHI-Personal] is still here. Um, she works more so with training, um, nurses so she still can, you know, speak with her, but it will for the most part be
+Patient: Myself for you. Ok. Ok. I'll let my wife know too. So Ta [PHI-Personal], right? You said [PHI-Personal]? Yes. Yeah. Ok. I'll let my wife also know too because she's, uh, used to call her also also. So. Ok. So, yeah, so I guess I, I got, I think I have enough for tomorrow. So, and then Friday morning, I'm going out of town for late morning Friday. I'm going out of town. I'm gonna, so if you could expedite that, I appreciate it.
+Nurse: Sure. Yeah, that's no problem. I'll get a message sent over to them. We'll get it refilled for you. Ok.
+Patient: Ok, thank you. Appreciate
+Nurse: It. No problem. Ok,
+Patient: Bye bye.

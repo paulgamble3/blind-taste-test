@@ -1,0 +1,27 @@
+Nurse: Hello, this is one of the nurse, case managers here with Doctor [PHI-Personal] [PHI-Geographic]. How can I help you? Hello, you too, [PHI-Personal]. Are you there? Hello? Hi. Can you hear me?
+Patient: Yes, I can. I don't know what happened. Is this,
+Nurse: This is, yes.
+Patient: Pardon me?
+Nurse: Yes, this is the nurse at Doctor [PHI-Personal] [PHI-Geographic].
+Patient: Oh, I'm sorry. That's what happened. The phone, I tried to hang up and then I thought I called Doctor [PHI-Personal] [PHI-Geographic] anyway. I'm returning your call from yesterday. Yes,
+Nurse: I wanted to check in and see how you were doing. I know you were in to see Doctor Jumper on the [PHI-Personal] and he started you on a few things.
+Patient: Yeah. He started me on that sim simvastatin or something. Yes. Yeah. Ok. But I, I only took it one time because I take it at night now and, but my blood, I feel good. My, my throat still isn't quite cleared up yet but it's getting there and my, and my BP has been good.
+Nurse: Good. Ok. So, um, yeah, your BP was pretty good here in the [PHI-Geographic]. Um,
+Patient: And, but yesterday if you wanna know it was 11 30/70 yesterday morning. Oh, that's pretty good. And this morning it was 1 27/59.
+Nurse: That's not bad either. That's actually
+Patient: Really good. Yeah, I missed you yesterday because we got, we go to the health club every Monday, Wednesdays and Fridays for about two hours.
+Nurse: Ok. That's,
+Patient: That's good too. I know. And then I guess I told you we started a, uh, a di, a diabetes class there. Mhm. Yeah. And that's gonna last for about a year. But, you know, every month for a while and, or every week for a while and then every other month or whatever. I don't know. But it's going to last a year. So we just started last, uh, Thursday. We're going tonight then.
+Nurse: How you feeling about that? Feel like you're, you're learning a lot from that. Pardon me? You feel like you're learning a lot from that?
+Patient: Well, we just, just talk to introduce ourselves the first time and we really didn't get anything done really? Because we, there's about eight people we introduce and talked about our problems and all stuff like that and that's all we did. Yes. But it'll probably be more tonight. Mhm.
+Nurse: Ok. All right. Well, that sounds good. That'll be, give you some really good information and tips and tricks on how, uh, on your diet and how to prevent everything from getting any worse as far as your labs and such.
+Patient: Yeah. Yeah. Yeah. So,
+Nurse: If you have any questions or concerns along with those two, you can always give me a call, we can go through that. Um, but generally those classes do really well. They've, um, have some really good options for you and some really good information.
+Patient: Yeah, we're hoping so because my wife's, you know, she's on a borderline too. So, ok, then I will call you if I have any problems. All
+Nurse: Right. So, you, you haven't had any, any side effects or anything with the simvastatin? You're doing ok with that one
+Patient: So far, like I said, I only took it last night was the first time.
+Nurse: Ok, give me a call. If anything changes or you start noticing any changes, it is in the same family as the other medication. Um, a lot of times people do fine with another drug in, in the same family, but sometimes, um, it can be a problem. So just keep your eyes out and if anything starts acting up, give us a call. Ok.
+Patient: Ok. Well, thank you for calling. You are
+Nurse: Welcome. I appreciate you too. I appreciate you taking the time to give me a call back.
+Patient: Ok, no problem. Ok. Ok. Talk to you later. Thank you. Ok, bye bye
+Nurse: Bye bye.

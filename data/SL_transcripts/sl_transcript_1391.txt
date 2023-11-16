@@ -1,0 +1,37 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Personal], it's I'm calling on behalf of uh the [PHI-Account].
+Nurse: Um let me just get him pulled up here. Good. Yeah, I'm on the computer. Alright, my dear. What can I do for you?
+Patient: We still haven't gotten authorization for his uh insulin. I just got off with the pharmacy. Pharmacy says that it's the doctor's office that needs to get um approval and oh my good as of right now they've got 100 and $15 on his Lantus and sh had said that he had put in all the information to the pharmacy and the pharmacy says, nope, doctor's offices have to do it and we're gonna be running out. I'm already out of the um test strips. So I bought some of those. But uh what can you do to help me? Because this, I'm getting a run around and as you're well aware it's been how long since we've spoke.
+Nurse: Absolutely right. Let's see. Is what was it that he used for um, the prescription insurance? [PHI-Personal] [PHI-Personal]. All right. Bear with me, my dear. Mhm. Mhm. And is it the [PHI-Personal] [PHI-Personal] plan or commercial plan?
+Patient: [PHI-Personal] Complete prescription drug plan, prescription uh [PHI-Personal] prescription drug coverage.
+Nurse: Ok. Drug list. I just wanna make sure that I am picking the correct. Um,
+Patient: There's a copy in his, on his records.
+Nurse: [PHI-Account] Lantus [PHI-Personal]. I'm gonna try and get in the formulary here and see what I can do. Mhm. You get a three ML [PHI-Personal], right? Yes. Depend or something.
+Patient: [PHI-Personal]
+Nurse: Yeah, it says that it's a tier three. Mhm. And it's covered. So I don't know what the hold up is here. Hold on just a
+Patient: [PHI-Personal]. Yeah, thank you so much.
+Nurse: Oh, you're fine, my dear. Ok. Oh,
+Patient: They've got a Lantus injectable three ML 45 and it's got a price of 100 and $5 and they're saying the NovoLOG uh [PHI-Personal]. Mhm. Too soon to refill. So they're waiting for us to get some sort of authorization.
+Nurse: Oh, ok. Let me think. No, I don't want that amount. Insulin.
+Patient: Can I have it? How you doing?
+Nurse: I don't know for some reason it's saying is it. Hm. Hold on, let's go back. Yes, I wanna really cancel that. Be done again. Oh no. Yeah. So um oh, that's why, so it's saying that the insulin aspart or the NovoLOG is not covered by your insurance.
+Patient: Why?
+Nurse: I'm not sure. What did he say the really
+Patient: Was,
+Nurse: Came to a point? Let me hm. Mhm. I might have to reach out to [PHI-Personal] and talk to him and see exactly what they got going on here. Um,
+Patient: Yes, because, uh, as I said, we're gonna run out. Right. His, his insulin, his glucose is still erratic.
+Nurse: Oh, no. All right, my dear. And let me give the office a call and talk to [PHI-Personal] and see what he's got going on. Um, you
+Patient: Want all the card information or do you have it all in there because he has it all. But even so I'm getting the run around so
+Nurse: It looks like the [PHI-Personal] um is not in here. We have the A ARP and the [PHI-Personal]
+Patient: But the [PHI-Personal] here's uh [PHI-Personal] information. Uh huh member ID, H as in Harvey [PHI-Account]. Rx bin B as in boy in mhm is [PHI-Account]. Then it's Rx PC N is [PHI-Account] [PHI-Personal] [PHI-Account]. And then Rx group [PHI-Personal] as in Paul [PHI-Account] and hit the name on the card is [PHI-Personal] comma [PHI-Personal] E and the isu is [PHI-Account]. [PHI-Personal] complete pre prescription drug plan.
+Nurse: What was the issuer number again?
+Patient: [PHI-Account]
+Nurse: [PHI-Account].
+Patient: On the bottom. There's ATM [PHI-Account] number. So that's gotta be the [PHI-Personal] number is it says C MS, [PHI-Account] as in Sam [PHI-Account] [PHI-Account]. Ok. And do you want their phone number?
+Nurse: I would
+Patient: Uh, let's see, physician inquiries, physician Rx inquiries. [PHI-Account]. Customer service is [PHI-Account]. That's for me, [PHI-Account] is customer service and C pharmacy and drug list [PHI-Personal].
+Nurse: Yes, I just did that [PHI-Personal]. Ok. I will let me, I'll talk to [PHI-Personal] and see,
+Patient: Gotta get off his butt and do this today and I I'm not, I'm not saying that rudely. It's just as I said, we're gonna be out, you know how long we've been waiting for this and so does he and I'm just getting uh run all around and it's too brittle to call the situation here.
+Nurse: Absolutely. I completely agree.
+Patient: So I'll await your phone call.
+Nurse: All right, my dear I will get back to you. You're welcome. Alright bye bye bye bye.

@@ -1,0 +1,11 @@
+Nurse: Bye, this is [PHI-Personal]. How may I help you?
+Patient: Uh Hello nurse at uh for uh say that again. I'm sorry. Hello? Yes. Can you hear me? Uh no, I can't hear you.
+Nurse: Ok. One minute let me try something different. Ok, can you hear me better now?
+Patient: Yeah. Yes I can thank you.
+Nurse: You're welcome. My name is [PHI-Personal]. How may I help you? Oh,
+Patient: Hello. Um I'm [PHI-Personal] and I'm calling because I I have brought papers up to yesterday from my urine uh my urine specialist doctor I was there on last week and she they looked in the system and they're not showing that you did them when I was up there. I'm supposed to get the U two urine test through up MC and her name is my urine specialist doctor. It is [PHI-Personal] somebody. Um um my birthday [PHI-Personal].
+Nurse: Alright, one minute let me get your chart pulled up here. Ok. It looks like your nurse is [PHI-Personal]. Let me see if I can transfer you over to her one minute please.
+Patient: Ok, and it was today,
+Nurse: Today is um Tuesday, [PHI-Personal].
+Patient: Oh yeah, she's in it's Thursday. She's not in. Ok, thank you very much.
+Nurse: Right. Yeah, one minute.

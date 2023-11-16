@@ -1,0 +1,43 @@
+Nurse: Medical. This is [PHI-Personal]
+Patient: [PHI-Personal]. This is [PHI-Personal]. El.
+Nurse: Hi, how are you? Good, how you doing? I'm good thank you. Let me get you pulled back up here. Mm give me one second. Sure. Ok. Date of birth. [PHI-Personal] right? Ok. So you got a call from [PHI-Personal] not too long ago and she explained to you the chronic care program and I was just calling to introduce myself to you as your nurse care manager. Ok.
+Patient: Ok. Chronic care mean
+Nurse: Chronic care means that you have two chronic conditions that Doctor [PHI-Personal] is following. Um, so with yours it is AFIB and diabetes. Uh, so what I do is um, I help with any kind of medication refills. If you have questions or issues with your meds, I can help with that if you need help getting in for an appointment. If you have questions or concerns in between office visits, I can help with that as well. And then what I do is reach out to you once a month just to check in on you. See if you need my help with anything. Um, we do a lot of education on the chronic conditions. Um, and, yeah, that's what we do. I'm kind of like your own personal nurse.
+Patient: Ok. All right. Um, ohh. Right now I don't have any questions.
+Nurse: Ok. All right.
+Patient: I, I don't even know I have it except I take this very expensive pill is the only thing, that's the only thing I know about it.
+Nurse: Ok. So
+Patient: I don't hear it. I don't smell it. I don't do anything, you know.
+Nurse: So, no palpitations, no rapid heart rate, no fluttering of the chest. Great. That's good. Some people have it really bad. And even after like, um, a procedure called a cardioversion or medication, you know, they're still really symptomatic. So that's good that you don't have any symptoms.
+Patient: Right. Right. And the other one, the diabetes I think is, uh, I take that, uh, Metformin twice a day. Ok. I'll be honest with you. I don't check it. Ok. It seems to be
+Nurse: Good. Yeah. Ok. So some symptoms as you don't check of, of low blood sugars would be, um, clammy skin feeling hunger, uh, shakiness, sweating differently. Those are symptoms that your sugars could be a little bit low. Do you ever experience anything like that? No. No. Ok. Good. No. And then some high blood sugars would be excessive thirst except excessive urination, um, headache, uh, blurry vision.
+Patient: No. Uh, the only thing I have is, uh, is the urinating, but I take a pill that makes me go like a
+Nurse: Racehorse. Oh, Ok. Yeah, you're probably on a water pill. Yeah. Ok. All right. Well, um, the thing is like, you, we can try this out, see if you feel like it's beneficial for you. If you feel like the calls are too much, um, or you're just not needing my help, then we can always make you inbound only. And that means that you just call me if you need me. All
+Patient: Right. Well, I think I'll go out and write your number down in my book and there you go. Ok, just to make sure we have it. And, uh, yeah, I think we tried this once before, years ago and I, I gave it up. Ok, a lot of phone calls.
+Nurse: Yeah. Yeah. And I definitely don't wanna be annoying to anybody. That's why I always throw that option out there. If you don't feel like you're getting much from it, you just call me if you need me and you'd be surprised sometimes, you know, it's really hard to get into the office, um, get somebody to call you back just because they're so busy with the patients there. Oh, I know that. Yeah. But see, my job is specifically little rough. I, yeah, that's what I'm hearing from a lot of patients and that's where I come in handy. I, I'm very accessible. So if you call and I don't answer because I'm pretty much always on the phone. Always leave me a voice mail and you'll hear back from me that same day. Yeah.
+Patient: Yeah. All right. Sounds good.
+Nurse: Ok. All right. So, while I have you on the phone, is it ok, if I just list off your meds and you can tell me whether or not you're still taking them.
+Patient: I think so. I don't have the paper in front of me, but I think I can remember. Ok.
+Nurse: All right. We'll try it out. Uh, so first using Stop and Shop Pharmacy still. Right? Ok. I have, uh, amLODIPine five MGS daily. Yeah, I take that. Yeah. Ok. Atenolol 50 MGS twice a day. I take that atorvastatin 40 daily. That's for cholesterol. Yeah, I take that, uh, B 12. Yeah, I take that and then a fenofibrate or a lo fera, what's that fenofibrate? I think that's another cholesterol medicine. Let me look. Yeah. Yeah. Yeah, I think it
+Patient: Is. Yeah, I take that. I know. I take two of them.
+Nurse: Ok. And then I have a Trelegy inhaler.
+Patient: Right. Yeah.
+Nurse: And then Furosemide. That's your water pill, right? Gabapentin. 100 mg three times a day. Yeah. And then I have a duoneb nebulizer. Yeah.
+Patient: Uh, I take that once a day. I do it every six hours. Matter of fact, I didn't do it yesterday and I don't feel that bad at all. Good. How, how, how, how important is that thing?
+Nurse: It, it's great for rescue. If you're feeling really short of breath, then that's definitely do that. But I mean, this doing it once a day may be keeping your breathing at bay. You know, where you're not feeling the extreme shortness of breath. So, yeah, unless pulmonology says otherwise I would keep doing it at least once daily. Ok. Ok. And then I have an Irbesartan 300 mgs. What's that? That is a BP or heart medicine? Yeah. Yeah,
+Patient: I take that. Yeah. The mag.
+Nurse: Yes. Mhm. And I have a magnesium oxide. Yep. And we said the Metformin and then I have, uh, Pantoprazole or Protonix 40 mgs. Yep. And Xarelto, the really expensive one. Right. Yep. All right. And then I have your senna which is a stool softener. Oh, yeah. Yeah, I take, yeah. Right. All right, [PHI-Personal]. So, what I will do, I'll put your care plan in the mail. It's just gonna have a list of any upcoming appointments and then it's
+Patient: Gonna, I don't bother. I just got one yesterday. You did? Ok. From the pulmonologist. Yeah.
+Nurse: Ok. All right. And then I will, um, send out my contact information. So you'll have that as well. But if you wanna jot it my number down in the meantime, we can do that too. Yeah. Yeah, I got that. Ok. So my name is [PHI-Personal]. Right? And my phone number is [PHI-Account]. Right? [PHI-Account]. Right? [PHI-Account]. Right. All right. So you just give me a call if you need me? Sound ok. Yeah. That's
+Patient: Good. Yeah, I'll call you if I need you.
+Nurse: All right. That sounds good. You have a good
+Patient: Day. You only, you only work for Doctor [PHI-Personal], not the rest of the guys.
+Nurse: Yes, I do. I work for all the clinicians in that office. But
+Patient: Not, no, but I mean, not for like, do or Fishman or pulmonologist or something like
+Nurse: That. No. No. Now, what I would do is when we did speak I would go we could always go over your last office visits and then I can just go over any of the their plans or recommendations with you. So I have access to seeing all that um and you know sometimes a lot of information is thrown at you during appointments and you may forget something so you know we could always review that. Yeah.
+Patient: Yeah they're they're pretty good about giving me a read out when I leave.
+Nurse: Yeah. Yeah, perfect.
+Patient: One guy there can't write though a lot of doctors write it down but you can't read it. I
+Nurse: I think I think the smarter you are the mess your your handwriting is. Oh, is that it? Well
+Patient: Good I think I must be a great doctor.
+Nurse: Alright. Alright. Alright, thank you Peter. Thank you. Ok bye.

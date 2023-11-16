@@ -1,0 +1,56 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. S Well, uh, oh, right. I got to put it. Um, I'm all right. I guess, uh, I know I'm somebody because my, my transcription was not very good. So I'm not sure who, who called me to follow up on behalf of Doctor [PHI-Personal] because I believe that we had, I had shingles, uh, to, uh, to my voice. So I, yeah, well, it was very painful. It was very burning and I just wanted to let you guys know you're so thorough about everything that, uh, the burning sensation is gone. I still have a lot of pain and, and that's it. I'm trying to, to coordinate things. That's all with my, uh, I have to see my oncologist too because I have a pain underneath my lungs. I don't know what it is. Anyway, that's the story you can tell doctor to thank her again because he, I think she hit it right on the dot Yeah.
+Nurse: All right. Let me open up your chart really quick. [PHI-Personal], let everything, let me open up your chart. So your address is still the [PHI-Geographic]. Correct. Yes,
+Patient: It is. Everything uh that you have there is correct.
+Nurse: Ok. And your insurance, I have United [PHI-Personal] Advantage. Any changes?
+Patient: Uh yeah, that's it.
+Nurse: That's it. So no changes to insurance. No good. Ok. Yeah, let me open your chart. Bear with me one moment. So yeah, see where you saw doctor on the [PHI-Personal]. Um for your shingles. She gave you the Medrol pack and then she gave you the Valtrex.
+Patient: Yes. For the Medrol buck. If I could stay on it for the rest of my life, I think it makes, it gives me a good high. You stopped taking it
+Nurse: Probably. Um, so the Medrol pack, are you still taking it?
+Patient: Um, I think today is the last day.
+Nurse: Ok. And how about
+Patient: The Valtrex? Yes, I'm taking it.
+Nurse: Ok. So today is the last day. So you said the burning sensation is gone?
+Patient: Yeah, it doesn't feel as painful, but I still get extremely tired and I have a problem in the need and they need my breast. It's not my breast. But they, you know, I thought it could be the lung or something, but they did ac t two months ago and they didn't see uh any infection or any signs of cancer. So anyway, I, I have to see the nurse next Monday, the cancer nurse and discuss it with her because see if they can do a CT underneath my, my breast too because it is. It's been over a year with pain but it's getting worse. And, yeah, and that, uh, medicine that doctor is, uh, uh, you know, prescribe it. Uh, he has not touched the pain, the burning sensation is gone. You,
+Nurse: When do you, when do you see that nurse, that cancer next
+Patient: Monday? Uh, I, not sure what day it is but I think it's the six. Yeah, I
+Nurse: Think it's the sixth as well. So that's an case. What side does it hurt? [PHI-Personal]?
+Patient: The right size goes to my right size.
+Nurse: Ok. Now with the shingles, um, do you have any open, open areas or any? Like,
+Patient: No, no, no. And the reason why I thought it was shingles is because I've had it before 20 years ago and I said my God, this feels like it. It's like anybody touches you or you want my girl and you were on fire. So I told, and she agreed. Yeah.
+Nurse: Yeah. So this was kind of, um, but besides that burning pain in the right middle of your back, um, you weren't having any open sores or rashes or anything, were
+Patient: You? No, the only? Well, no, I have a lot of pain from different things. Ok. But this thing and yes, I said that my, I had over a year I was about to call doctor or leave a message with the, you know, in the website uh to say, who could I see? What can I do because it's getting more painful now. And now it's not only hurting but it, it, it kind of electrocute me. Yeah, we are.
+Nurse: So, you're not having a burning pain. How would you describe your pain? Now?
+Patient: Uh, well, the pain on my right side is gone. The, the burning sensation underneath my breast is gone too, but the pain on the right, my right side is stronger but it may not have anything to do whatsoever with the shingles. Probably it doesn't because I've had it for over a year.
+Nurse: Yeah. So, is your right side? Is it under your, like your right breast
+Patient: And then my right breast? Me, I don't know if it is, the lungs are so big, you know, I don't know if it is with the lungs. Yeah. But I don't know if it is underneath the lungs either because they haven't found anything wrong. And, uh, you know, as far as, uh, uh, I, having an infection there, maybe I have an infection right below the lung. I have no idea what I have.
+Nurse: Ok. But you're not, there's no open areas, there's no rashes. How would you describe the discomfort? Is it like a dull achy pain? Is it like
+Patient: A, a all the time, a dull achy feeling that is getting worse? Ok. And then I can, I can hardly sleep at night because it's like somebody with it occasionally and it's, I cannot explain to you like, when somebody hits you with a needle or something and it, it goes like this from one side to the other to the other and it drives me nuts. So that's how I describe it. It, I don't know how else to describe it.
+Nurse: How would you, how would you rate your pain out of? 1 to 10? One being very little 10 being the
+Patient: Most. Yeah, this is, you know, I hate that question. Evaluates pain differently and is the worst. Maybe it's an eight or a nine when it is not. Otherwise it's a 70 an eight. I don't know. The pain is always there.
+Nurse: Ok. So it's kind of always there. Um, does anything make it worse? Like when you lay down or sit or whatever makes it worse?
+Patient: No. Yes. Uh, no, no. Laying down. Eventually it comes down when it lays down. I just wonder if it could be something to do with the nerve there. I don't know if it's a nerve in there either.
+Nurse: So, it's, it's constant throughout the day. Usually it's kind of pain. It kind of hangs out. So, are you at like a pain eight all day?
+Patient: The pain? What,
+Nurse: Like, are you out of pain number eight, all day or just, you know,
+Patient: All day even, even right now I am right now on oxyCODONE something. Ok. And even with that is painful. So, you know, it really is weird. Yeah. Maybe it's just seven now. I, I don't know how to grade these things. I know that it goes beyond a five, that's for sure.
+Nurse: Yeah. So. Ok. Well, I'm gonna send a note, Mar [PHI-Personal] over to uh, Doctor [PHI-Personal].
+Patient: I don't know who my doctor is anymore. I love doctor
+Nurse: But it looks like anybody in the office can see you
+Patient: And given how I like Doctor [PHI-Personal].
+Nurse: Yeah. And just given she's the most recent person to see you. I was gonna send this over to her.
+Patient: That sounds great. Yeah.
+Nurse: Yeah, I'm gonna, you're welcome, I'm gonna mark this as high priority, [PHI-Personal] and send it over.
+Patient: Um, maybe. Yeah, I'm gonna, I'm gonna, I'm
+Nurse: Gonna do my best.
+Patient: Thank you so much. If I die, at least I don't want to die in pain, you know, it's miserable.
+Nurse: Do you see, do you see a pain management specialist?
+Patient: Yes, I do. And he's, I finally found the person that is wonderful. Uh I, I see doctor here at uh at um I don't know in uh orthopedic and I have to see him uh I think the [PHI-Personal] of this month. So, but I never told him about this pain here because I think it was my lungs, you know, and I said, well, doctor will take care of it but you know, he just do that and he's got so much to deal with with me.
+Nurse: I understand. So I'm gonna, hey [PHI-Personal] just fy, I, I'm gonna mail you some wellness goals for the next year.
+Patient: Great.
+Nurse: Yeah, it talks about all the preventive stuff. Like make sure you see your primary care, make sure you see your pain. It's just wellness goals for the next year with all the preventive things like annual visit, just like a reminder. Hey, oh, next year, make sure you get, yeah, we make, we send these every year. So, yeah, we send wellness calls to everybody once a year. so just fy I it should be in the mail for you. Ok?
+Patient: Thank you very much. I appreciate it. You're
+Nurse: Welcome. I'm gonna send this. Oh, thank you. Um I'm gonna send it to doctor and when she responds to me I'll call you.
+Patient: Ok? Thank you. You're welcome
+Nurse: You get some rest.
+Patient: Ok, I'm about to thank you. Thanks bye.

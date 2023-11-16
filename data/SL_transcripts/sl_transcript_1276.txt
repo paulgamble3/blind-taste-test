@@ -1,0 +1,28 @@
+Nurse: This is [PHI-Personal] speaking. How may I help you?
+Patient: Hi, this is [PHI-Personal] Douglass calling you back.
+Nurse: Um hold on one second. Let me just pull up your chart.
+Patient: Ok. Ok.
+Nurse: Alrighty. So yeah, I was just giving you a call, you know, just to do your follow up and then also just to make sure everything is still up to date in the system for the new Year. Um So for your address, I have 245 [PHI-Geographic]. Is that still the same? Ok. And then for your insurance, I have the [PHI-Personal] PPO.
+Patient: Ok.
+Nurse: Ok. Um As far as medication, um have you had any changes?
+Patient: Um great. Just put me on uh hang on, I'll read it off to you. I can't say it a Lendronate sodium 70 mg because I have uh osteoporosis in my left hip now. Ok.
+Nurse: All right.
+Patient: Lets see. It's once a
+Nurse: Week, once a week. Ok. Ok. So that medication was added at your last visit on the fourth when you went in for the fourth octo. I mean I was gonna say October um uh [PHI-Personal]
+Patient: Uh I think it was before
+Nurse: That before that
+Patient: I went on course because I have cellulitis again. Oh,
+Nurse: Ok. Let me, let me look at this note. Ok. So I see. So then they treated you with the Keflex, uh, twice a day. Seven days. Ok. Um, did it help you at all? Yes. Ok.
+Patient: Getting better. Ok. Ok.
+Nurse: All right. Um, have you had like any falls or any, er, visits or anything in the past?
+Patient: Ok. Right.
+Nurse: Alrighty. And then in [PHI-Personal], let me see I talk I didn't talk to you in [PHI-Personal], so in [PHI-Personal] did you, did you test positive for COVID? No, no.
+Patient: Ok. It's been a long time since that happened. Ok. And I hope it doesn't.
+Nurse: Yeah, me
+Patient: Too. I work around little kids all day so. Oh do you? Ok. I'm a cook at a daycare [PHI-Personal] years. Oh
+Nurse: Wow. Ok. So yeah yeah a lot of little kids germs. Yeah. Ok. Now let me see. Did you need any refills on anything right now? No. Huh. Uh
+Patient: Ok.
+Nurse: And then as far as your pharmacy, you still use the CVSs in Sunbury? Ok. All right. So I'm going to update it here that we spoke. I'm gonna um, send you out a new Wellness goals letter for 2023 and it's just basically just gonna have, you know, like the appointments you need to see um the doctor for and like the labs, you know, just to keep track for the year. Um and then let me see. I'm trying to make sure we have everything updated from last year. Did you got your flu vaccine last year? Well, this past,
+Patient: No, I didn't get it yet. Ok. Alright, so I plan on it but I just haven't gotten around to it.
+Nurse: Ok, I'll transfer that go over and then everything else looks like it's up to date. Ok. Ok. All right. Did you have any um questions or concerns about anything? Uh No. Ok. All right. So updated here that we spoke, send out that letter to you and then if you have any questions concerns or anything like that, you can just feel free to give me a call back. Alright, thank you. You're welcome. Have a good day. You too. Bye bye bye.
+Patient: Right.

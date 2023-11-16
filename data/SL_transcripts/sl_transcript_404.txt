@@ -1,0 +1,40 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Uh, good morning. My name is [PHI-Personal]. I think you tried to get in touch with me one day this week and I was out of town and, uh, and I never got back to you. So I figured I better give you a call and, and check in.
+Nurse: All right, let me get you pulled up. Give me just one second. Have you been having a good week?
+Patient: Uh, so far everything's fine.
+Nurse: Good. Ready for the weekend. Oh, yeah. I know. Sometimes I think I look too forward to the weekends that, oh, I know. So do I, but, you know, I guess that's just life.
+Patient: Well, I'm still working three days a week so I work Tuesday, Wednesday and Thursday. So Thursday afternoon I'm ready to, to get out of there.
+Nurse: Yes. Yeah. My husband works two days a week and he was like, uh, I, I'm not gonna work two days back to back. So, there
+Patient: You go. I wish I could do that.
+Nurse: I was like, really, it's too hard to get up and go to work two days in a row
+Patient: Once you get used to having those days off. It's murder.
+Nurse: Yeah. Yeah, it is. It is. So I was just calling to see how things were going, um, with you, how things were doing.
+Patient: I really don't have any major complaints at all.
+Nurse: Good, good BP is doing good
+Patient: As far as I can tell. Be the BP monitor that I have here at the house doesn't do a very good job. I, every now and then have an irregular heartbeat and it, it rejects me every time I try to do that. So I don't try very often. I just keep up with, I just keep up with my medication.
+Nurse: That that's the main thing. If you're taking your medicines and doing what you're supposed to do that, that's half the battle right there. Well,
+Patient: That's what I'm trying to do so
+Nurse: Good. And you know that, you know, if you start having any lightheadedness, dizziness, um, headaches, um, nose bleed or you notice some shortness of breath, uh, bloodshot eyes, you know, if you notice the blood vessels busted in your eye, those are all signs of some possible elevated blood pressures.
+Patient: Uh, answer to all those, those problems is no
+Nurse: Good, good if you do start noticing any of them, definitely let us know or start trying to monitor your BP at home to kind of see how it's doing. Um, but, you know, as long as you're not having any of those, then we're gonna assume everything is good with your BP. Do you get much exercise?
+Patient: Uh, well, I have a circulation problem in my right leg. Ok. And it's been, it's been addressed once. Uh, they did a procedure on me. Uh, [PHI-Geographic] Vascular Associate, I think is their name. They did it and hello, I'm here. Oh, ok. Yeah, everything was dead. Ok. And, uh, that was, let's see, that is going to be, uh, about a year ago last [PHI-Personal]. Ok. And the procedure lasted really good for about, no, I'm sorry, it wasn't in [PHI-Personal]. It was done in, it was done in July of last summer. And by [PHI-Personal] the problem was back and the, uh, doctor who I saw and worked with told me to try to do as much exercise as possible, uh, do it until I can't take the, not the pain but whatever it is that it causes, you know, in my leg. So, so every now and then, II, I do have a riding lawn mower but every now and then I walk it, I do it a lot slower than I used to. But, uh, and I'm due for a check up here within the next month or month and a half. So I don't know what's gonna come of that if it's, if it'll be another procedure to the leg or what. But, uh, but I'll have that to find out. So
+Nurse: The thing of it is with exercise, you know, we used to think you had to do 30 minutes as hard as you could to get any benefit. But it's been proven that if you can do 10 minutes at a time and get in, you know, two or 3, 10 minute, um, episodes of just walking is enough to help, lower your BP and help your heart.
+Patient: Yeah, that's what. So this surgeon had told me too that he, he said about, he said you don't need to get extreme with the exercise. He said just 10 minutes at a time and he says you don't need to really get real exertive. He said, just get, just get some, you
+Nurse: Know, yeah, enough to just keep your heart pumping, keep your BP down, you know, and just keep all your organs functioning well. Right. That's the goal. Um, just keep moving to get a little more sedentary as we age. But, um, you know, if you can keep moving right
+Patient: This leg, if, if, if I don't over exert it, I don't even know it's there. Um, like I say, I, I work three days a week. Uh, I'm a part, I'm a semi retired barber and I'm on my feet three days a week. That bother does not bother me one little bit. I don't even realize that there's a problem. But if I get out there and do a lot of exercise, that's when I get the problem. So.
+Nurse: Right. Ok. Ok. Well, I mean, keep, keep moving. That's the thing.
+Patient: Keep doing. That's what he told me. He said. Just keep moving.
+Nurse: Yeah. Looks like you have an appointment for lab work.
+Patient: Ok. That's what I was, the [PHI-Personal] of [PHI-Personal],
+Nurse: [PHI-Personal]. So, a week from today.
+Patient: Ok. That's a good, good thing. We got in touch because I had, I had not checked. I know. I'm, I'm pretty sure I have the form but I just didn't look on it yet to see what it
+Nurse: Was. Ok. It's at 9 30 that morning
+Patient: And that's over at the, the the the doctor's office, right? Yeah. Ok.
+Nurse: And then you see Doctor [PHI-Personal] on the [PHI-Personal]? All right, at 9 45.
+Patient: Ok. That'll work too.
+Nurse: All right, sounds good. Do you need any refills on any medicines or anything?
+Patient: Uh I get all my medicine through the va so as far as any refills, that's where I go for all that stuff. So until anything changes everything is fine.
+Nurse: Ok. All right. Well, if you need anything, don't hesitate to reach out to me. Ok, I will
+Patient: Do that.
+Nurse: Alrighty. Have a great rest of your day and a wonderful weekend. Thank you. You do the same.
+Patient: All right, bye bye bye bye.

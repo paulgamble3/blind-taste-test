@@ -1,0 +1,18 @@
+Nurse: Good morning. This is [PHI-Personal]
+Patient: S [PHI-Personal]. I'm sorry, I was in the bathroom when you called. That's
+Nurse: Ok. Are you?
+Patient: Ok? It's in now it's on the right side of my neck. And this morning when I first woke up I couldn't even bend my right wrist. I know what the hell is going on. And all I'm waiting for is therapy.
+Nurse: Have you taken any of your medicines this morning?
+Patient: Yep. I took the Aceta and I was waiting to hear from, you know how much gabapentin I could take and I took my Tylenol last night before I went to bed.
+Nurse: Bye. Um, so I did get a message back from doctor [PHI-Personal] and she sent in a new prescription, uh, for the gabapentin so that you can take it four times a day.
+Patient: Oh, you write it down? Oh, right.
+Nurse: So it's the same dose as the other one. It's 100 mg that she increased. How many times a day you could take it?
+Patient: Ok. I'll do that.
+Nurse: Bye. Just try to rest. Don't try to overdo it. Um, are you, are, are you using any heat? Like a heating pad on your neck?
+Patient: No, today. I haven't and I didn't. Yesterday. It was at my mum's yesterday. No, Sunday. Sunday. Well, I didn't do it Sunday but I did it yesterday.
+Nurse: You might try that and see if that'll help soothe some of the, uh, inflammation and, you know, stuff going on in your neck, but just try to rest and don't overdo it.
+Patient: I just have a hard time believing this. It's arthritis. My mouth is so dry. I can't even swallow.
+Nurse: That's the side effect from the Norco is, uh, dry mouth.
+Patient: Oh, it's right. I'll go, um, take the gabapentin. Yeah. Right.
+Nurse: Right. Do that and just take it easy. Ok.
+Patient: Not good. Oh, I'll talk to you later. Thank you for calling. Uh, bye, bye bye bye.

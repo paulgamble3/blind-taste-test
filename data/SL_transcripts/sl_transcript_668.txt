@@ -1,0 +1,61 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: This is, I had a call when I came home that you had called me and I was to call you back. Ok,
+Nurse: Give me one second here. Let me go back into your chart. Did you have a good weekend?
+Patient: Yes, we did. Thank you. You're welcome. And I had great results from my um mammogram today and my sonogram. Oh, that's wonderful. Yes, I didn't find anything. So. Praise the Lord. That
+Nurse: Absolutely. That's wonderful news. All right. Let me just finish typing this up real quick and I will get into your chart. Oh, excuse me. Ok. And what did you say your last name was?
+Patient: Uhl er ok. There we go.
+Nurse: All right. Ok. So, excuse me. All right. So. Ok. Yep, they just got you enrolled. So my name is [PHI-Personal]. Um I will be the nurse care manager that calls once a month. Um just checking in on you with the program they got you enrolled in. So, um I just wanna confirm that your address is the 9 41 Lane and Mill. Ok. And then you have the Aetna [PHI-Personal] for health insurance. Yes. Ok. And do you know what medications if I na you take, if I name them [PHI-Personal] or do you have a list?
+Patient: Uh, you can name them [PHI-Personal]? Ok.
+Nurse: So I have the Januvia 100 mg once a day. Yes. Ok. And then the Metformin 500 twice a day.
+Patient: Yes.
+Nurse: Metoprolol 50 once a day. Yes. Furosemide 20 mg. And then you take it every morning and then a second tablet tablet as needed for swelling.
+Patient: Yes. Yeah. Excuse me? Yes. Ok.
+Nurse: And then you take the Farxiga 10 mg once a day. Yes. And then the Eliquis five mg twice a
+Patient: Day. Yes.
+Nurse: And then the vitamin D, once a day. Mhm. And then the cinnamon bark. Yes. Ok. Do you take any other medications? I didn't name [PHI-Personal].
+Patient: No. Thank goodness. That's enough. Huh? Yes.
+Nurse: And do you use a pill box to keep track of your medications?
+Patient: Yes, I do. My memory's terrific, but very short.
+Nurse: All right. Good deal. And then are your medications affordable?
+Patient: I don't know about Eliquis. Now, I, I think it's Merck, whoever has the A Z, I mean, whoever has, um, Januvia, they supply it to me, uh, for Sega, I have been getting samples but within about a week I'm going to have to go get some and the Eliquis, I still do not have to buy any because my heart doctor and doctor office have been me, me with it, but I already have a little over a week. Ok. And then I'm going to have to get them to call a prescription in which, and when I told the pharmacist I was going to be going on Eliquis. He kind of rolled his eyes and said, oh, boy. So, yeah, I have no idea what I'm looking for.
+Nurse: Yep. So those can sometimes be expensive. Um, so we do offer, um, if your office isn't able to, um, supply you with any more um of the samples and it is unaffordable, you can give me a call back and I can reach out to my team here because they can, they have a list of resources we can use. Sometimes patients qualify for what we call like a patient assistance and it's still, it's like free. Um You just have to qualify income wise. Um But there's also like other coupon things available sometimes. So if it is unaffordable, you can reach out to me and I can see if I can pull some resources to see if we can get it cheaper for you.
+Patient: Ok. Ok. Now somebody told me I could use that. What is it? Good Rx? Yes, that is correct. Does that go by your income or do you just take that to when you pick up your uh prescription and they adjust it?
+Nurse: Yep. That's what Yep. So good Rx is for anyone to use. Um Instead of being ran through your insurance, they run it through a coupon program. So, yes, sometimes it can be cheaper there. Um, you just let the pharmacy know that you wanna use the Good Rx. They have like little cards and stuff. Um, yeah,
+Patient: I got some and I just got one in the mail, I thought, well, I might be able to try it. Yeah.
+Nurse: Absolutely. It doesn't hurt to try those things because yes, sometimes they can work. Um, but that's for anyone, there are programs that are available that are income based. But like I said, the good Rx is for anyone to use.
+Patient: Ok.
+Nurse: And then let me see here. Ok. And you said, and they already, they already called you with your results.
+Patient: They told me right away. Oh,
+Nurse: They told you right there when they did the, um,
+Patient: Yes, she said, give me a couple of minutes with both of them and they should it quit? That's wonderful.
+Nurse: Yeah. Good. I'm glad it all went well. Um, ok. So do you follow with any doctors other than Doctor [PHI-Personal]?
+Patient: Yes. With my heart, doctor, doctor. Um, oh, I forget what his first name is. [PHI-Personal] with, uh, up MC cardiologist.
+Nurse: Yep. Do you follow with any other doctors other than the cardiologist?
+Patient: No. Ok.
+Nurse: And then, excuse me, let me check real quick here and you just had your mammogram done. So, what did they recommend or do you to follow up in a year or six months? Did they say anything in regards to that?
+Patient: When you think you need another one. Call me when I, they used to send me something in the mail once a year saying it's time to schedule your mammogram. Yeah. Well, then I quit getting them. So I asked them, I went to see a doctor office but I don't know. I mean, I didn't ask him but somebody, and I asked why I wasn't getting them. They said, well, after you hit [PHI-Personal] they don't, they think you don't need it. So I went by that, I said that to the girl at the office today that was doing my mammogram. She said, who ever told you that? I said, uh I don't remember. It was, you know, quite a while ago when I said something, she said you still need mammograms.
+Nurse: Ok. Yep, that is, um, they're the recommendations that I see a lot is after you turn [PHI-Personal] they don't always recommend you get them to continue it on. Um So I think that kind of varies person to person though. So obviously he wanted you to get it done because he feels like, you know, if there was any,
+Patient: Well, I thought I had uh found something and he checked me in the office. He said, I don't feel anything he said, but to be safe. Um, they said no, everything's fine. Good. So that's why I went. Now, I, like I said, that's when I found out. Yeah, you, I was supposed to be getting them. She said you will get a notice like you did before.
+Nurse: Yes. Yeah. But you can still get them good. So, this was just a lump you felt. But the doctor didn't neces feel anything.
+Patient: It, it wasn't even a lump. Ok. I would tell you, nobody can hear me. Right. Absolutely not. No. My, my one nipple would go in and they come out and I go in and my other one has always been in since day one. So they said there's nothing there. She said evidently that's what this is gonna be in. But he said it's good. He said you better have it checked because that can be a sign. Absolutely. Breast
+Nurse: Cancer. Yep. And you said that was with your left nipple, it went in. Yeah. Yep. Yeah. No, that's absolutely a sign that can happen with breast cancer is when that nipple they call it inverted. So that can, that can absolutely be a, that can be a sign. Um And, but you had told doctor [PHI-Personal] that, right? Yeah. Ok. And he, I make, I make note. Yeah. Ok. Well, I make notes on our conversation. So when you said nobody else is around, I, I just wanted to make sure he was aware of everything. So I wasn't
+Patient: In here. Yeah, because that's why I thought I might go and talk to him about it. He said it can be nothing. He said it could be who, who knows what, but he just wanted to cover all the basis.
+Nurse: Absolutely. Yep. You don't really know until you get that testing done. Um, so you said you have about a week of your medications
+Patient: Left? About two? Yeah.
+Nurse: Ok. So let me see.
+Patient: Ok, now I go, I go see my, I go see my heart doctor beginning of [PHI-Personal], but I'm gonna run out before that. I'm also scheduled to get a tooth taken out which they tell me to go [PHI-Personal] of for three days.
+Nurse: So. Ok. Ok. And it was the was their office the one supplying you with the Eliquis samples
+Patient: When I get down there but that's in [PHI-Geographic] and I'm up in middle of [PHI-Geographic]. I don't go down there now I went down today but it was the opposite direction. Ok.
+Nurse: All right. So is it ok if I just you whenever you start getting low and they do have to send that to the pharmacy. Is it ok if I put a note in my chart to um call you back at the end of the month just to make sure that you have enough.
+Patient: Oh yeah sure that'll be fine.
+Nurse: Ok. Well not have enough but I just wanna give you a call back just to make sure that it's affordable because if not, I can just do my stuff then um and get it started to help see if we can get you any assistance.
+Patient: Ok.
+Nurse: Ok, so I will do that. I will just put a little note and I'll just put it in there. Um, but if you have a couple weeks left you'll need to call, you'll probably give them about a week's notice to let them know that they need to send in a refill.
+Patient: Ok. Well, I, I, they don't even have my prescription yet because like I said, both between the two doctors, they've been, you know, supplying me, but I hate to keep going back and asking and asking and asking.
+Nurse: I mean, are they ok with supplying it though?
+Patient: They seem ok. I mean, they're very nice, you know, you know, like sometimes if they 2.5 so you have to take two but, you know, it, but they're very nice about it. Yeah. Well,
+Nurse: I mean, they know how expensive those medications are. So, I mean, if they're willing to continue supplying it, that's great. I mean, if not though, I, I will just call you, give you a call towards the end of the month and kind of see where it's at, if they do have to send in a prescription for you, um, just call the pharmacy and see how much it's gonna be. Um, see if there's any coupons you can use and I will just call and check in and, um, make sure there's nothing I can do to help.
+Patient: Ok.
+Nurse: All right. So I will call you back then. Um, I'm gonna mail you a letter in the meantime, it's gonna have my name and my phone number on it with a list of, uh, your wellness goals for the year. So that's what I work directly with the doctor's office to make sure you get done. So it's just your labs, your appointments. Nothing I add to it, but I like to check those [PHI-Personal] on my end throughout the year just making sure we're staying up to date with everything. So I'll get that mailed out and then I will be calling you in a couple of weeks to follow up and see, um, what your plan is with your medications and see if they're, um, if there's anything I can help you with. Ok.
+Patient: Ok. Ok. Thank you very much for calling. You're welcome. Have a great day. You too. Bye
+Nurse: Bye.

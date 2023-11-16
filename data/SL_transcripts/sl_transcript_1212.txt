@@ -1,0 +1,40 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: It's calling.
+Nurse: I'm sorry,
+Patient: This is from [PHI-Personal]
+Nurse: Dodge, Lael. Yes. How are you?
+Patient: Well, my leg, my one leg is, uh, it was swollen down at the ankle and now it, it, uh, is above or below my knee and there's kind of a little bit of a lump there and it hurts. It's painful sometimes.
+Nurse: How long have you had this fore [PHI-Personal]?
+Patient: Well, I had it, uh, yesterday is when I, I saw that it was, uh, it was, uh, a little swollen but now that the ankle is not like it was yesterday and, uh, it, it's up, I'd say just below the knee along the side and it's kind of a, a little lump there.
+Nurse: Ok. Which is this the right or left?
+Patient: The right?
+Nurse: Ok. Sweets. Have you ever, um, have you ever had a blood clot or anything for it?
+Patient: No. No, that's what I'm concerned about.
+Nurse: Yeah. It kind of, is it, is it red and is it warm? Is it painful?
+Patient: No, it's not, uh, it's not red or anything. It's just, uh, when I touch it I can feel there's, oh, I'd say maybe a little a little like a, a dime. Ok. And, and that hurts.
+Nurse: Ok. And it's swollen so it's swollen and it's painful but it's not red or warm or anything like that. No.
+Patient: No, no.
+Nurse: Ok. All right. Um, I think that you need to go to the emergency room so that they can do a Doppler on that leg to make sure that you don't have a blood clot if it is a blood, especially since you said the swelling was just that your ankle. Now, it's the whole way up to your knee. Is that correct?
+Patient: Yeah. Well, the, the leg, uh, in between there isn't, isn't, uh, that I can tell that it's not swollen but it just keeps, it keeps hurting me at times. Ok, morning. How long did you have that? Oh, good. W what,
+Nurse: What did, uh, Ken say?
+Patient: No. What do you mean? Well, she had a, she had a blood test, uh, yeah, for that, I'd say about [PHI-Personal] months ago or so. It was all right. It was a long time.
+Nurse: She had the same thing about [PHI-Personal] months ago. Yeah. And there was nothing wrong. Ok. I mean, do you want me to try to get you an appointment in the office this afternoon? RN? So that's one of the, somebody can look at it there. Yeah. Yeah. Ok. Um, Doctor [PHI-Personal] is most likely not gonna have anything. Um, but I can get you in with like, [PHI-Personal]. Have you ever seen [PHI-Personal] or [PHI-Personal]?
+Patient: I think. Yeah, I think I've seen them already. Yeah.
+Nurse: Ok. So has an appointment this afternoon at [PHI-Account] and then a 3 30 would you be able to do one of those? Yes. Ok. Do you wanna do the [PHI-Account]?
+Patient: Yes. Ok.
+Nurse: Mhm. Ok. So let me just get this in here. All right and this is ok. All right so far and I have you in at [PHI-Account] this afternoon with [PHI-Personal] for that pain in that right leg with that swelling. Um, so you make sure, um, you know, if, and if, if it gets any worse or if you would happen to get any shortness of breath or anything like that, you need to get to the emergency room right away. But um, we have you in to get, so you've had this in the past and it's been fine. Nothing's nothing ever happened with it before.
+Patient: Uh, usually check my, my legs when we had blood to blood test. Mhm. Was about, uh, [PHI-Personal], [PHI-Personal] month, two or [PHI-Personal] months ago already.
+Nurse: Ok. Um, you know what, I just looked at [PHI-Personal] because there's [PHI-Personal] and [PHI-Personal]. [PHI-Personal] has some earlier appointments if you would prefer to get in earlier like she has a two, a 2 15.
+Patient: Yeah, that'll be all
+Nurse: Right. You wanna go for the two? You think you guys can make it down to the office by two?
+Patient: Yes. Oh, yes. You say. Yeah. Yeah. Ok.
+Nurse: That'll, that'll move it up an hour and 15 minutes. So we'll put you in with [PHI-Personal] right
+Patient: Now. What was
+Nurse: That again? Um, so that is today at two o'clock with [PHI-Personal] Kiefer, she's the physician's assistant there. So she'll be able to see you and get that, get that looked at and I'll take that appointment out with, we'll get rid of that one.
+Patient: Ok. That's ok.
+Nurse: Ok. All right. Um, and then I'll give you a call. Um, I'm not working tomorrow, I'm off tomorrow, but I'll give you a call on Friday then if that's ok with you RN and just kind of check on you and see how things are going. Ok.
+Patient: Ok. Mhm. Ok.
+Nurse: All right. All right. So your appointment then is today at two, at the office there at [PHI-Geographic] with [PHI-Personal]? Ok. And like I said, any changes before then shortness of breath or anything, make sure you go into the emergency room. Ok. Ok. All right. All right, we'll talk to you soon. Ok. Ok. All right. Take care. Bye. Oh, you're welcome for helping me. Oh, any time you, you can call me anytime if you need anything. Ok.
+Patient: Ok, we will.
+Nurse: Ok. Take care. Bye.
+Patient: Ok, thank you. Bye.

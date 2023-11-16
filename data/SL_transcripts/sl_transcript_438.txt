@@ -1,0 +1,13 @@
+Nurse: Hello this is [PHI-Personal]. How can I help you?
+Patient: Um miss if she's there.
+Nurse: No she's off today this is [PHI-Personal] her back up nurse.
+Patient: Oh ok I call tomorrow. Ok
+Nurse: Is there anything is there anything you need today that I can help you with?
+Patient: No no she's she's go out II I explain she's my she's my uh somebody help me she tell to my lady come to my house and I so I call I ask if she lady come in here she me help me.
+Nurse: Ok I'll let her know to call you when she comes back.
+Patient: Ok. Yeah. Ok I go there you think five months is three weeks I go to my insurance I pay [PHI-Account]. Is I have I talk to she? No she's she's very sorry for me she's she's will help me with this problem a lot of money the the insurance I have I have you understand.
+Nurse: Yeah so I'll have her call you when she gets back.
+Patient: Ok my name is
+Nurse: Alright I'll let her
+Patient: Know. Ok thank you my sweet God bless you. Alright bye bye you're
+Nurse: Welcome bye bye.

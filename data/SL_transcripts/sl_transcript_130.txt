@@ -1,0 +1,40 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you?
+Patient: Hey, [PHI-Personal]. [PHI-Personal]. You [PHI-Personal].
+Nurse: Hello, [PHI-Personal]. How are you doing? I've been trying to get you forever.
+Patient: Well, I probably got you blacked out, but I'm gonna go to att and today and get that straight around. But anyway, um, a couple of things I need to, I need to get a prescription for a prescription for Xarelto and it has to be a new, it has to go through a new prescription. I get the number of you. I
+Nurse: Sure let me just, um, pull your chart up here real quick. Ok. Yeah, because, um, yeah, I've, I've left you multiple messages about, um, doctor or [PHI-Personal]. [PHI-Personal] wants you to call for an appointment. Um, and that was for Doctor [PHI-Personal] when we were talking about, you know, how you were told you had COPD, you wanted to get checked out. So, you know, I couldn't get you. And then, you know, so he
+Patient: [PHI-Personal],
+Nurse: I did, I called you at least six times and left you six voice mails.
+Patient: Yeah. And, and my phone doesn't ring,
+Nurse: It rings one time and then goes right to voice mail.
+Patient: So, if you
+Nurse: Take your phone to, like, AT&T, I'm sure they could probably access your voice mails for you. And you'll hear on mine,
+Patient: They told me I had to have their voice mail. I could, I, I'll probably just get a different phone because that voice mail doesn't work for me at all.
+Nurse: Yeah. Yeah. So, just so, you know, um, Doctor, um, Doctor [PHI-Personal] wants you to call there so you could set up an appointment directly with them. Ok. That's for the, because of what the [PHI-Geographic] told you about the COPD.
+Patient: Right. Yeah, I'll do that.
+Nurse: Um, now your, your next appointment is [PHI-Personal]. Right. So, you know, I don't know if you want to wait that long though. That's the only thing. Ok. Right.
+Patient: Just get on it now. Yeah, I don't blame you. I like it. Yeah,
+Nurse: I don't blame you. Ok. I'm trying to find your Xarelto here. Xarelto. Doctor [PHI-Personal], July, August, September, October, November, December. Ok. And where would you like that? Sent to [PHI-Personal]
+Patient: To [PHI-Personal] on [PHI-Geographic],
+Nurse: [PHI-Geographic]? Ok. And then the rest of your medications, how are you making out with those? I mean, I know you don't take a ton.
+Patient: I got plenty.
+Nurse: Ok. The Synthroid, the Valsartan.
+Patient: Ok. I got a whole new supply of both. The, so I'm, I'm good with voice.
+Nurse: Ok. The Xarelto. Do you have any of that left at all?
+Patient: Oh, yeah, I've got probably uh, [PHI-Account] anyway.
+Nurse: Oh, ok. Good. Because I, I'm sure that normally they tell me it'll be ready by the end of the day today. So I would just check with the pharmacy. Why do you take that? You don't have AFIB, do you?
+Patient: No. Um, I don't have to take it but, you know, the [PHI-Personal] and I sat down and thought maybe, uh, since, since I don't have any side effects from it that, uh, might act as a good point of prevention. No, my cardiologist told me a long time ago that all, all was clear. I didn't have to take it.
+Nurse: But you've had like, um, blood clots before, like in the lung.
+Patient: Oh, yeah. Yeah. Ok. Ok.
+Nurse: That's, that must be why then? Ok. Good. And you seem to be tolerating it. Ok. You're not having any unusual bleeding or bruising.
+Patient: No. No, no. Ok. Pretty. Yes. So, I've been on it for [PHI-Personal] years or so. Oh, wow.
+Nurse: Ok. So you're, I'm sure your body is pretty used to it by now. Ok. So
+Patient: It's 20 mg and you want the one a day prescription number or do you need that?
+Nurse: No. No, no, I don't need that. No. Ok. Good. Yeah, that just works for the pharmacy. So, um, I'll have them send this over to Ney [PHI-Geographic] and then if you want to set something up before your [PHI-Personal] appointment, just call the office and let them know that's what [PHI-Personal] wanted you to do.
+Patient: Ok, I'm gonna do that. Mhm.
+Nurse: Ok. All right. And if you need anything, call me because just know no matter what, uh, if you ask me to call you, I'm calling you back so maybe they can get your phone straightened out because I hate to see you miss an important phone call from, from anybody if, if you could help it. Ok.
+Patient: Well, until I do that probably I check in with you every three days or so something like that I'll call you just so you know that. Absolutely I will
+Nurse: Whenever whenever you want to I'm here. Ok.
+Patient: Ok. Alright.
+Nurse: Alright [PHI-Personal] you take care. Ok
+Patient: Bye bye bye bye.

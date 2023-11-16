@@ -1,0 +1,17 @@
+Nurse: Hi, this is [PHI-Personal] Jo.
+Patient: Hi, this is, I just missed your call.
+Nurse: Yes, I appreciate you calling me back, [PHI-Personal]. Thank you very much. No. So I had called you last Friday. Um, about Doctor [PHI-Personal] is providing a care management program and basically what that is is it's a call from one of our dedicated nurses where she would call and check in on you in between your office visits. Um, or really any time that you might need her, she can assist with medications, uh explaining lab results. Um, even prescription cost reductions basically there to answer any questions or concerns you might have. So she's just an added resource for you and it also helps keep doctor a little bit more updated with your current conditions. Um, and any changes that might be going on.
+Patient: Ok.
+Nurse: Um, now it is a billable service to your insurance. Um, so Medicare, Medicare Advantage plans and secondary insurances. I do see that you usually have a $0 copay when you go to see the doctor.
+Patient: Uh, I think it, I, I think it changed to zero this year. Oh,
+Nurse: Yeah. With United that they did change a lot this year. Which is a good thing.
+Patient: Yes. Anything to save money. Right.
+Nurse: Right. Um, now your nurse, he can reach out to you either on a monthly basis or every couple of months. Really, just depending on what your need might be and how often you would want her to call you. Um, also I'm gonna be sending you out a letter that has your nurses information on there and you can feel free to reach out to her at any time if you have any questions or anything. And our nurses are, are pretty available. You can usually reach them within about 5 to 10 minutes.
+Patient: Ok.
+Nurse: All right. Um, are you still [PHI-Geographic]?
+Patient: Yes.
+Nurse: Ok, fantastic. And I'm gonna get this letter out to you. You'll probably have it in about 2 to 3 days, you know, the weekends coming up. Um, and then your nurse is gonna reach out in probably about a week just to introduce herself. Tell you a little bit more about what she does and what she can do for you. How does that sound?
+Patient: Sounds good?
+Nurse: All right, then I'm gonna get this letter out to you and she's gonna call you soon and I hope you enjoy the rest of your day. Good.
+Patient: Thank you very much.
+Nurse: You're very welcome. Bye bye bye, bye bye.

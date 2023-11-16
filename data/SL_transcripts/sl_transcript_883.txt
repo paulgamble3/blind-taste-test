@@ -1,0 +1,15 @@
+Nurse: This is how can I help you?
+Patient: This is [PHI-Personal]. You called?
+Nurse: Yes, I did. How are you? Ok. Um I am gonna be the nurse calling and checking in with you once a month. Do you have a few minutes for me to do my first one?
+Patient: Yes. Is this going to cost $10 every time you call me?
+Nurse: Um How much is your copay when you go to the doctor? Is it $10? Ok. So it's usually the same price as your copay. Now if you don't want called every month, we have some patients that we call every two months, three months, six months.
+Patient: Well, uh what what do you need from me?
+Nurse: So this is just a program that Medicare offers and that they want patients to use. Um So the doctor's offices reach out to us with a list of patients who qualify for the program. So people who have two or more long term conditions qualifies them for the program. So since you have high cholesterol and high BP, then that qualifies you to be a part of the program. So my job is just to call and check in how of however often the patient prefers most do once every month, but some people, like I said, prefer to do every three months or every six months if everything's ok. Um, so we just call and check in, make sure we work directly with your doctor's office to make sure we're staying up to date on, um, everything that the doctor wants you to have done and just making sure your medication list stays up to date. So we're kind of just like a second point of contact. We can schedule appointments in the office if you know, we happen to be in a phone call and realize you need to be seen for something. So, um, there's just the doctors reach out to us, you know, with the patients that they feel and it, it doesn't necessarily mean there's anything wrong with the patients they give us, they're just the ones who qualify for the program based on the fact that they have two or more conditions that qualify them for it. So, I looked into your chart and you only take like a handful of medications you are doing pretty good. Um, so if you and you see doctor [PHI-Personal] every six months, I do. Ok. So if you want me to, I can call six months opposite of whenever you're seeing him. If that's what you want me to do, I
+Patient: Wouldn't want it any less than
+Nurse: That. Ok. Yeah. So I can call every six months if you're ok with that.
+Patient: Well, actually I don't really want you to have to call at all.
+Nurse: Ok. That's fine. I don't have to call at all either. I can take you out of the program if you don't wanna be part of it.
+Patient: I think that would be ok.
+Nurse: Ok. So, um, I will, um, we can, we have two choices, we can completely remove you from the program or I can put you into the inbound only where you only call us if you need something and we can transfer at that point. Um or I can just completely remove you from it. It's up to you.
+Patient: You can remove me from the program.
+Nurse: Ok. All right. I will get you taken off here. Alright. Thank you Edwin. Thank you. Yep. Mm bye ready.

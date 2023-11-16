@@ -1,0 +1,12 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Uh Yes I is this the the health care thing?
+Nurse: Yes it is. Yes it is.
+Patient: Ok. Ok. Now I I they called me the other day about uh taking part in it and they said they send me a letter and I got my letter today. Ok. No I I and this is a billable service so I uh so I I don't wanna take part in that.
+Nurse: Well, now that you shouldn't get a bill, I mean it will be billed to [PHI-Personal] because it's a [PHI-Personal] program but you shouldn't owe any money if that's what you're worried about.
+Patient: Well, because I I see I have uh the insurance and and they uh they offer this this through through their insurance.
+Nurse: Is your letter from [PHI-Personal]
+Patient: [PHI-Personal]
+Nurse: [PHI-Personal]. Give me your name dear
+Patient: [PHI-Personal] Gis Y er Ges. Alright. Ok,
+Nurse: Let me get you pulled up. All right let me transfer you to carry. Ok, cause that's your nurse. So hold on just a moment.
+Patient: Hello this is Kerri. Oh yeah. Yes this is Charles and I just got a letter from family practice and uh about a service they offer. Yeah. Yes and and I I I said I would look at the papers and everything but I I don't wanna take part in that service. That's fine. That's fine. Can I have your name again? Uh Charles Jarvis, Y er Ges. Alright sir. I will go ahead and make a change for that, ok? But um you're welcome. Listen, if you do ever need anything, don't hesitate to call that number, ok? Oh, well, I appreciate that. Thank you. Yeah, you're very welcome. You take care. You too. Thank you. Thanks bye bye.

@@ -1,0 +1,19 @@
+Nurse: CCM [PHI-Personal] speaking.
+Patient: [PHI-Personal], how are you doing?
+Nurse: Hey, how is, how you doing?
+Patient: Ok, hold on here. Sure. And they got back to me that, that the [PHI-Account]
+Nurse: [PHI-Personal] [PHI-Geographic]. Ok.
+Patient: And their fax number is [PHI-Account] uh-huh [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]
+Nurse: 62. Ok. All right, cause [PHI-Geographic] did send um, Doctor o'neal information on the [PHI-Personal]. Um is the one who takes care of. We go through your thing. Yeah. And so, um he just got back to me on that saying that um they did reroute that to [PHI-Personal] because he definitely wants you to get your, your liver looked at. Um, so, yeah, and [PHI-Geographic] saw it was been going back since uh you've been dealing with this since [PHI-Personal] trying to get, yeah, that's a long time. [PHI-Personal]. Yeah. Yeah. So um he did put in, let me see. Hold on. All right. Yeah, he says he's gonna put in a referral to [PHI-Personal].
+Patient: Yeah. Go, go by me uh medical and [PHI-Geographic] have the, [PHI-Geographic] have work down
+Nurse: At the house. Ok. Ok. But, um, his, uh, staff should be able to find that. At least we got the right, um, building in place, um, rather than guy singer because that was wrong. Ok. And so what [PHI-Geographic] would do, um, [PHI-Personal], um, they should be, uh, giving you a call next week to get that appointment set up, um, with the G [PHI-Geographic], with the G [PHI-Geographic] doctor. Um, if you have not heard anything by Friday, um, [PHI-Geographic]m going to give you a call, um, to see if you had your appointment set up. If not, um, we'll reach out and, and go from there and trying to make sure that you get your appointment. But at least now, uh, the referral is gonna go to the correct um, place. So we just, we just have to follow through and make sure that you get your call and with your pain management, the number that you gave me, was that a fax number?
+Patient: Yeah.
+Nurse: Ok. Do you have the, can you give me the phone number one more time? Because the phone number that [PHI-Geographic] called it just rings. No one ever picked up.
+Patient: Hold on here.
+Nurse: Yeah, sure.
+Patient: Let me get back call uh [PHI-Account]
+Nurse: Ok. [PHI-Account]
+Patient: No [PHI-Account]
+Nurse: 50 ok so 5707683150 got it. Ok, thank you. Ok. All right. So we'll, um, have to nail this one down with your pain management, um, and getting that referral switched over too. So I'll send that to doctor, um, o'neal as well. Ok. All right. We're making headway Harold. Yep. Ok. All right. I'll be in touch once I hear back from him about this one as well. Ok. Ok. Thank you. Bye bye bye.

@@ -1,0 +1,28 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hey, hey, this is [PHI-Personal] calling.
+Nurse: Yes, sir. Uh
+Patient: That prescription that uh doctor [PHI-Personal] prescribed for me through [PHI-Personal] Aid. Uh Let's see how you pronounce it. Uh Well, anyways, uh [PHI-Personal] Aid is having trouble getting that prescription.
+Nurse: Um Let me see here. Let's see. What was sent in. Is it the daily rest
+Patient: That roflumilasts?
+Nurse: Ok. Let's see here. So it, um
+Patient: Romo flu last or something like that.
+Nurse: Uh huh. Hold on just one second. Let me see
+Patient: Here. I didn't get you on that one.
+Nurse: So let's see here. It said, so you're saying that [PHI-Personal] Aid can't get the prescription,
+Patient: Right? In other words, they said, uh they would try to special order it again, but if they couldn't get it, then no [PHI-Personal] Aid would be able to get it. Now, I, I did get a letter from uh huh. And they said everything is approved down there for, for the prescription. Um, could you go through right hand? But I have to go through, you know, Pharmaceut their uh pharmacy to get it, you know, you have the mail in. Why can't they add it to the prescriptions you already have and II I because the the approval was effective for [PHI-Account].
+Nurse: Ok. So singer approved the script but you would have to go through their pharmacy to get it
+Patient: Right. Yeah, they say that you just can't get it from [PHI-Personal] Aid. So that's the next thing to do is see if they have it. Yeah, that's, I mean it at through it don't cost me nothing, you know.
+Nurse: Ok, so I see here. So ing has approved the script, the cost for the patient would be $4.75 right? Yeah. Um ok. So do you want me to let doctor pick me know that you can't get it through [PHI-Personal] Aid and see what he recommends seeing if we can get it elsewhere or?
+Patient: Well. Yeah, I'd like to, I'd sure like to try try and see. Yeah.
+Nurse: Ok, so I don't let's see. I'm trying to think. Um well let me see here. Hold on one second. Let me go to a different section here. So do you get some of your medicines from a mail order pharmacy as well?
+Patient: Right. Yeah. Mhm.
+Nurse: Ok. So let's do this. You use [PHI-Personal] care site care site uh mail order. Ok, so I'm going to send a message over to doctor [PHI-Personal] to update them and then let me call cares site and see if this is something that they would be able to obtain to mail out um, because if they can't mail it then at that point it would be going to seeing if there was a different pharmacy that you could use outside of [PHI-Personal] Aid to obtain that medication. Mhm. Um, and, ok, I don't know that I'll get through to anybody today at [PHI-Personal], but I can try, if I do not get through to anybody this afternoon, I'll call you back first thing I, I'll call them first thing again in the morning. Um, and then I'll follow up with you in the morning and then hopefully by that point I'll have a response from Doctor [PHI-Personal] as well.
+Patient: Ok, I appreciate
+Nurse: It. You're welcome. Um, and now is if, for some reason, the mail order can't get it. Um, could you go through singer or would that be like out of your way or is there like a, a local,
+Patient: You could go to s, you could go to CV S or?
+Nurse: Ok. So, let's see, we'll try, there's, and then there's pharmacy and then CV. S pharmacy is also located near you, right? Yeah. Ok. All right. So let me start, let me start with the care site first just because you're already established with them and they mail it to you and then that way that would be like the easiest to do and then if not, we'll, we'll try a different pharmacy and see if it's just [PHI-Personal] Aid or if there's another pharmacy that would be easier to get it from. Ok. And I'll make doctor aware of what's going on. Ok. And then as soon as I get a response, so we kind of figure out what's going on. I'll, uh, call you back in the morning. Is there a certain time, um, in the morning, like, too early to call
+Patient: Anytime?
+Nurse: Ok. All right. I'll get this message over to Doctor [PHI-Personal] right now. Ok.
+Patient: Ok.
+Nurse: Thank you. You're welcome. Mm
+Patient: Bye bye. Bye bye.

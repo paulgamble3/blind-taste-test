@@ -1,0 +1,55 @@
+Nurse: [PHI-Personal] Medical Group. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal], how are
+Nurse: You? I am. Well, and how are you?
+Patient: I'm doing fine, thank you. I was on the phone on hold and I, I couldn't pick up the phone when he called. Oh, ok. Uh, hanging in there. I worry about my appointment with the company next week because I don't, I'm, I'm afraid to see his look up this Ament even though he'll have a mas. Oh, my
+Nurse: Goodness. He's not gonna be disappointed in you.
+Patient: So, I'm having, you know, the next therapist gave me, uh, not therapist, the, uh, nutritionist. She gave me a sample of, you know, test strips and a new whole kit, but only had, only had 10. That's what you had available. So, I use those and the last few days I've been testing in the morning only randomly every now and then every 234 days. And it's been, uh, from 11, 12 to 1 14, 1 15 and my morning reading before, uh, breakfast.
+Nurse: Ok. Now you haven't gotten your glucometer yet. No, I haven't. I'm gonna call them back and I'm gonna call the pharmacy again and see where this is and why we don't have it.
+Patient: Ok. Alright. Sure, no problem. I was actually thinking I was just going down and just buy my own and say you know what by the time you get, you know,
+Nurse: They're super expensive. It's super expensive. Really? Is it? Yeah. Yeah it's really expensive. Yes, the the test strips are really expensive.
+Patient: Yeah that's why I bought the other one at Walmart and unfortunately they couldn't refill it. And then Walgreens said Medicare doesn't cover it is. Ok. So I'm not gonna bother you. Keep up buying stuff that I can't use because I bought the wrong, the wrong type, you know. Yeah.
+Nurse: No, no, no, I'm gonna see what the hold up is because it's been, it's been weeks like this should have been done. I expected you to have, you know, your machine by now. Yeah.
+Patient: Yeah. So, other than that, everything else is pretty ok. Uh, you know,
+Nurse: Now when I call them I have your date of birth as 12, 9 53. Right. Oh,
+Patient: My God, I'm that old. Yes, that is correct.
+Nurse: And then it's the Walgreens in [PHI-Geographic], correct?
+Patient: On [PHI-Geographic].
+Nurse: Ok. All right. I'll call them for that. Your BP. Have you checked that at all?
+Patient: You know what? I have not tested? I, I always check it but, um, my heart doctor says that, um, I should, that the cuff I have, should be able to fit me because he said the one that he tested me with, um, he said that it, it fit me and that he says bigger people with than I am, you know, are able to fit with that cuff. So he just told me, you know, try lower, a little bit lower on my own. Uh, so I took it out and I just have to read the instructions.
+Nurse: Ok? You should be able to just put it on your upper arm and uh tighten it up a little bit and press the button as long as you stay still and you uh don't cross your legs. Um, and you don't talk while you're having it done, it should be pretty accurate
+Patient: And it gives me two numbers. Is that correct? That
+Nurse: Is correct. It's gonna give you, um, it, it might be like 1 20/70 like that's a normal BP. That's where you want it or as close to that as you can get it. Now, the last time you had your BP taken in the chart, it was 1 75/77. But no,
+Patient: I, and then when I went for dental work two weeks ago, it was uh 1 45 or 1 50. I told you I was so nervous. I don't like going to the dentist. I get very, I have, I get a lot of anxiety.
+Nurse: Yes. Uh Yes, anxiety is definitely going to uh run that BP up some now. How are you doing with your diet? I know you met with nutrition but how are you making out?
+Patient: Um, I, I am trying to eat less. I haven't changed it drastically. Uh, but I try not to eat, uh, uh, those, uh, uh, what do you call the, so II I didn't buy that anymore. I bought the b OK. And I, I have like one slice of that. Cut it in half, like a half a sandwich. Yeah. Yeah. And, uh, I've been, I think I've been doing no, iii I won't say I'm gonna brag and say I'm doing well. But I'm, I'm heading there. Ok.
+Nurse: As long as you're going in the right direction. Yeah. And you know what if you slip up, then if you slip up and eat something you shouldn't, then you slipped up and ate something. You shouldn't, it's not like it's the end of the world, but you just have to take it one day at a time and try to make the next day a better day, you know?
+Patient: Yes. And then my husband got, he's got along with him, uh, mushroom coffee.
+Nurse: Ok. Is it [PHI-Personal]
+Patient: Good? It, it was day five or day six for me. Um, he said I'm gonna feel a lot different. I, I start to read a lot of stuff on it. Regard the benefits. It seem ok, couldn't, it couldn't hurt and it supposed to be in place of coffee. So you don't have coffee. It almost tastes like hot chocolate. You know, because I hate mushrooms. I was already taking it reluctantly the first day but it's really not bad. II I got used to it. I got used to the taste. It, it tastes almost like a mix between coffee and hot chocolate, you know. So um my husband said I feel much better healthier. It works with the stomach. So you don't, you have less digestive issues. So you know, I'm just uh he, he's the one to help me out, you know. So yeah, now he's trying to get me on the garlic tea. I said hell no, I don't think so. You smell like garlic, get away from it. I can, I love garlic but I can't stand the smell of it. So you know, so um so he's trying because that's supposed to help with your BP. He said
+Nurse: Do you add sugar to this mushroom coffee?
+Patient: Um He puts uh the coconut sugar.
+Nurse: OK. OK. Is that good? Um the coconut sugar? I mean it's OK. As long as you use it in moderation, it's a little bit better,
+Patient: A little bit in it. And he told me I only have five, has either five g of sugar or 15 carbs, I think in one. So yeah,
+Nurse: I I don't know a whole lot about it but I did just do a quick Google search and it says that um it can support healthy blood sugar levels in people with diabetes and it can reduce the number of carbohydrates, digested and absorbed in the body when eating, uh, when you eat carbohydrates.
+Patient: Great. Awesome.
+Nurse: So, I mean, if that is true, then that's not a bad option,
+Patient: Right? Because I, I really don't use anything un unless I need it in the recipe I'm making, you know, I don't use sugar anything. So I made a amazing pasta and I said, I can't eat that much. I'm not have pasta. But he said when I eat it says, uh it doesn't taste the same taste like you just uh, it out of the jar because it has no sugar and not have sugar you need to put in. So I wanted, this is the, what did you do? Because I had a sugar, I couldn't eat it without, it just tasted like it was out of the care. I said no, I need it. So because I, I know he's so good at making spaghetti and he didn't, he said, well, you're not supposed to have sugar. I trying to help you out. And I said, no, I don't eat it.
+Nurse: Now, have you tried the other types of pastas? Um, besides regular pasta, like um, chickpea, pasta, whole wheat pasta.
+Patient: Um,
+Nurse: They do. And it's supposed to be one of the best ones for diabetics to eat because it doesn't spike your blood sugar as much as like even the whole wheat or the regular pasta. Oh, I have
+Patient: To look into that.
+Nurse: It's in the regular pasta section. I think [PHI-Personal] makes one. They're not, it's not very much more expensive. It's about the same price as the other ones. Yeah. And it's, and it's made out of chickpeas and that one, it has more protein in it and it's supposed to be, it, it won't spike your sugar as much. Another thing. Um, I, I haven't had it but I, I have heard that it's not, it's not real bad. They said it's pretty similar. Ok. They said it's very similar to the whole wheat pasta. So, but they said it's a little softer than the whole wheat pasta as well. Yeah.
+Patient: Uh, chi chi pasta. I, I told [PHI-Personal] you were trying to help me, but I put his sugar in the sauce. Ok.
+Nurse: Yeah, it's right at
+Patient: An hour, an hour and he's my dietician here. Ok.
+Nurse: Now, they also make, uh, cauliflower rice as well. It's in the freezer section and that is supposed to be, you're supposed to hardly even tell the difference between that and regular rice.
+Patient: This is the cauliflower pizza, right? And the cauliflower, I think, uh, salad that looks like, or taste like was similar in texture to, uh, mashed potatoes and potato sauce. I forget which one it is because I know when I used to go to Weight Watchers way back in the day. Those were pretty, ok. They were, you know, interesting. Yeah,
+Nurse: The freezer section, they have this r cauliflower and it's not bad. It really isn't. So, that might be a good switch for you as well.
+Patient: Who, um, the nutritionist, um, I forget her name already. Uh, anyway, uh, she said if I'm going to have rice, I can have rice but half a cup of regular rice. And I, and I, I said that's not enough and she's there about two s and try to shave it off. So I tried that. I put on my rice. Uh, but, uh, something full cup because I said I need more rice rice. That
+Nurse: Absolutely. Now it wouldn't be the same as like, you know, Spanish rice or something like that. But if you use the cauliflower rice, you could have more quantity because it's not, it doesn't have all the carbohydrates in it.
+Patient: Oh, to me. Oh, my God. I think the allergies are getting to me.
+Nurse: Yes, they are. I bet everybody's complaining
+Patient: My husband has a window open and he, sorry guy tickle in my throat. I'm sorry about that. Um, yeah. So, uh, um, I, I think I, I just have to, you know, eventually get down to taking my diet a little bit more seriously and be more. Ok. Um, it's more, you know, of my, of my
+Nurse: Choices. Yes. Yep. And you did it once you can do it again. So, I mean, I wouldn't look at it as, um, I wouldn't look at it as being scared to go to the doctors or anything like that, you're just getting back on track. It's not a big deal. We're gonna get you there. You're gonna be fine. You're making the right choices and you know we'll go from there.
+Patient: Ok? All right, thank you. Thank you, appreciate me and um we'll talk soon. Ok?
+Nurse: Yes, we sure will. I'm gonna call the pharmacy and figure out what's going on. Ok? Thank you so much. No problem. All right. Bye bye.

@@ -1,0 +1,9 @@
+Nurse: Hi, this is [PHI-Personal]. Can I help you?
+Patient: Yes, [PHI-Personal]. This is [PHI-Personal] Velazquez. I'm calling in reference Mister [PHI-Personal]
+Nurse: [PHI-Personal]. Ok. How can I help you?
+Patient: Yeah, I called you. I left a message before he he needs Eliquis
+Nurse: Eliquis. Ok. Yeah, rez prescribes it. Yes. Yes. Ok. How long has he been out of it?
+Patient: Uh I think it's been two days now. Two days. Ok. We thought he's gonna get it now when we went to the, to the pharmacy. They didn't have it.
+Nurse: Ok. Did they say they needed a new script from the doctor? Yes. Ok. And you want it sent over to Walgreens? Yes, ma'am. Ok. I will send doctor [PHI-Personal] a message and have her order it for him. I'll mark it as high priority that way. Um She can, she'll see it and do it right away. Ok,
+Patient: Thank you so
+Nurse: Much. You're welcome. You have a good day. You too. Bye bye. Thank you. Bye bye.

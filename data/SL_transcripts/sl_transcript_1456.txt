@@ -1,0 +1,45 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. How can I
+Patient: Help you? Yes this is [PHI-Personal]. I'm returning your phone call from Friday.
+Nurse: Ok give me just a moment let me get
+Patient: Your account pulled up. Ok.
+Nurse: Alrighty can you verify your date of birth
+Patient: For me? Yes it's [PHI-Personal]. Alrighty
+Nurse: Hold on just
+Patient: A moment. Ok. Ok good I got
+Nurse: You pulled up here. Ok
+Patient: And
+Nurse: Just because it's the beginning of the year um is your address and insurance information the same?
+Patient: Yes it is. Ok.
+Nurse: A all righty and um let's see I don't know let me see who called you the last time. Ah ok [PHI-Personal]. Ok so and she may have been doing your calls at that time but I um I'll be taking or calling you monthly now. Um let's see have you had any changes on anything since your last call
+Patient: With us? Um I don't think so. No.
+Nurse: Ok, awesome and right now are you needing any refills on anything?
+Patient: No I'm good. As a matter of fact, VA CV S just called to let me know they're sending me a refill so I'm good.
+Nurse: Ok good. And then, um, let's see, your medications. Um, let's see, on the, are you taking the 1 50 100 and 50 mg or the 75?
+Patient: I'm taking them both. Ok. So [PHI-Account] [PHI-Personal]. Yes. Ok.
+Nurse: All right. Just want to make sure. And everything is the same. You haven't stopped taking anything or added
+Patient: Anything? No. Huh. Uh,
+Nurse: All right. Awesome. Sounds good. And let's just do a quick, um, depression screening. So you'll have one for this year um within the last two weeks. Have you had any problems with depression or trouble sleeping?
+Patient: Yes, I have.
+Nurse: Ok. Um is it with both or just one? It does? Ok. So is it several days more than half or nearly every
+Patient: Day? Oh, just uh every so often not every day, maybe every other day or something but it's not constant.
+Nurse: Ok. What about um have you had little interest in doing things?
+Patient: No, I'm pretty good with that yet.
+Nurse: Ok. What about feeling tired or having little energy?
+Patient: I do feel tired. Yes.
+Nurse: Ok. And how's your appetite? Has it been? Ok.
+Patient: It's been good. I've been trying to lose weight and I have been so um but it's good I eat.
+Nurse: Ok, good. Um have you been feeling bad about yourself or anything like that?
+Patient: No.
+Nurse: Ok. Any trouble concentrating or moving slowly or fast to where people notice?
+Patient: No? Huh? Oh,
+Nurse: Ok. All right. And any thoughts of hurting yourself?
+Patient: No.
+Nurse: Alright. And just uh, you know, with the trouble sleeping and, um, the feeling depressed, how often would you say, um, like those problems is how difficult have these problems made it for you to work or just take care of things at home, would you say? Not difficult? Somewhat,
+Patient: Somewhat. I, I use a sleep machine and I got a new one and I do not like it. It's just hard to adjust to it and that's some of the problem. But then sometimes I'll just wake up and like middle of the night, insomnia, you know, I'll wake up and I'll be awake for a couple hours or, you know, some nights I'll sleep all night, but mostly I'm usually awake at some point. Ok. Ok.
+Nurse: Got it. Got it. Ok. Um, let's see. And I will send out a copy of your, um, care plan for this year and that is just things that doctor will want to do, um, this year, such as your annual wellness visit or, um, any immunizations or things like that. Ok.
+Patient: Ok. Sounds good.
+Nurse: All right. Well, if you have anything, any concerns or anything that come up between now and our next call, please feel free to give me a call. Ok,
+Patient: I will. Thank you.
+Nurse: Ok. You're welcome. Thank you. Bye
+Patient: Bye. Have a good day. Bye bye.
+Nurse: Thank you. Bye bye.

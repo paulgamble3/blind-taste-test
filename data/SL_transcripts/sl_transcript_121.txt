@@ -1,0 +1,127 @@
+Nurse: This is [PHI-Personal].
+Patient: Yes, this is [PHI-Personal]. Um, I'm returning your call.
+Nurse: Hi. Yes. Let me pull [PHI-Personal] your chart really quickly. One second we were just calling to check in on you on our monthly call. Just verify your date of birth for me, please. Uh,
+Patient: 11, 11 56.
+Nurse: Ok. One second. I'm still pulling [PHI-Personal] your chart. How are you?
+Patient: I'm not good.
+Nurse: Not good. What's going on?
+Patient: Get no help in my throat?
+Nurse: Ok.
+Patient: [PHI-Personal], I'm having a lot of issues. Um, I need to cry,
+Nurse: Cry. Let it out.
+Patient: Her husband died.
+Nurse: Oh, my gosh. I'm so sorry.
+Patient: And we buried him on the third and I've been having a lot of problems.
+Nurse: Yeah. That could be very hard.
+Patient: I need to, I'm trying to get myself straightened [PHI-Personal] but when I have to talk about him, it really, it chokes me [PHI-Personal] real bad. Yeah. Ok. I need to be, I need to, I need to go to the ear doctor. I've already got an appointment for the eye doctor. I've kind of let myself go because he, he was in bad shape for a long time and this last six months has been, we knew he was going but we didn't know when. Anyway, I kind of let myself go. Ok. I don't, I'm sorry, I can't. Oh, ok. Anyway, I need to be referred to the, mm, to the ear doctor. I'm having the um, oh, I'll find the word where you can't uh, keep your balance equilibrium problems. So I need to go to the ear doctor again. But you know what happens? This is, this will be the two times before in the last few years when it's gotten to the point where I've got to have something done because I'm uh losing my balance and you know, [PHI-Personal], almost falling and I have fallen twice. So it's pretty bad this time. Anyway, I need, when I get, by the time I get in to see him, I've kind of got myself back to where I don't need him because I can, I know how they fix your ears. The ro I don't know if you know what, this is the rocks in the hairs in your ears. Have you ever heard of that? No. OK. In, in your ears you have these little minute hairs and in between these hairs, not in between, but down in these hairs at the bottom, they are called rocks or crystals, how whatever you want to call them. I had a car wreck in s 97 and hit my head on the, between the windows. And ever since then I've been having this problem but it was severe back then they would hold your head down and you would have to hold it at a certain place for a while and, and you would keep doing that back and, and forth, forward and back, side to side and you could kind of like get em back down in there. But they, they, they will never go back down all the way anyway. I do that and by the time I get in to where they can, um, check me out, I don't need them no more. So I need a different ear doctor that can get me in sooner than a month if he can refer me to one. Ok. Now I've got my,
+Nurse: So, what he's gonna wanna do is see you in the office so then he can write a referral, which I see your appointments on the [PHI-Personal]. Do you want me to move it
+Patient: [PHI-Personal]? No. Be, I'll tell you why because I have to have blood work this last few months. Like I said, it's just been traumatic. I have forgotten my medicine. I have taking it again and it's just got my head, like, in a fog. And so I quit your medicine. No, my, now I did quit at all because I was so messed [PHI-Personal]. I didn't know what I took and what I didn't take. So, uh, it's been about, well, maybe a week now that I'm trying to get myself back on my medicine, get myself back because my eyes are messed [PHI-Personal]. I've got that appointment. My ears are messed [PHI-Personal]. I'm trying, well, I'll have to see him, I guess to get an appointment. I, I, no, I'm not gonna see him. I, I'm just, I'll just try to deal with it myself like I had before. What you
+Nurse: Mean? You're not gonna see him. You have an appointment scheduled on. Yes, I
+Patient: Will, I will see him my appointment. But what I'm, what I, why I don't want it moved [PHI-Personal] is because I've messed [PHI-Personal] my medicine so much that I have stopped my medicine because it's been so messed [PHI-Personal]. And now I'm trying to get ba get it back. Um You don't want to get back on track.
+Nurse: I'm wondering if it's your BP. Do you have a BP machine at
+Patient: Home? Yes, honey. And I'll tell you what my I have since I have stopped taking my BP medicine. I have two of them. I don't, I don't like that. I've been looking [PHI-Personal] all this medicine because I've had so many issues trying to find out what medicine did, what to me from all of these things that's going on with my sight and my hearing my balance, I've been looking them [PHI-Personal]. I don't want to take that Lisinopril no more. So I'm not, I'm not going back on it. I was going to No, I'm going
+Nurse: To have to let the doctor know. Well,
+Patient: Ok, that's fine. But I'm taking the other medicine that he gave me the little bitty pill. See, I just went and put all my medicine [PHI-Personal]. I've been for days. Yes. Ok. My BP has been running around 100 and 40 over. Oh, what was it? Let me get my BP machine. I, that's where my, anyway, my blood pressure's doing better. Let's put it. That's the, let me get one. And so I'm not going to take that other medicine one. I don't want to because of it's so bad. Uh, and, but the other one it seems to be taking care of my BP. Fine. Ok. One, ok, this morning it was [PHI-Account] 44/75 and yesterday it was [PHI-Account]. You know, that's what it's running. [PHI-Account] 37 74. And for my age, the way Google that I've been Search rear, uh, searching and plus the little chart I have for here. I don't need that. Lisinopril.
+Nurse: Well, [PHI-Account] 40 is still a little elevated
+Patient: But, well, on this paper I've got, it says, uh, that, uh, it's good. 100 and 40/90 is, you know, for my age, my weight and all that is, it's, it's an average every day. Horrible. Right. Yeah, it's not horrible. And it's not,
+Nurse: But I never suggest that you stop taking things without telling doctor just because
+Patient: I understand because you're, you know, we're
+Nurse: Not, we, you're not medical and yes, you have no idea what it could, it could do in the long run.
+Patient: You know, I know because I'm overweight. I have sugar and with the sugar you get all this other stuff, the high BP, the cholesterol problems and all that. Ok. So, like I said, I'm trying to get back my taking
+Nurse: Your, your diabetes medication.
+Patient: Yes. Ok. How's your sugar? Been running? My sugar's been still running a little high because like I told you, I got, I, I was so messed [PHI-Personal] of it. Yeah. Anyway, I'm back on it here now. It's, I think it's been more like five days instead of a week. So I'm, I'm a couple days short on that. Anyway. I, he gave me, put me back on the, but it was making me very sick before. I mean, vomiting sick. Well, come to find out he had raised it to seven and I went back to the three and it's not doing me that way. Ok. Also, I've changed my diet. I've, I'm trying to get off the fat a little bit and I'm off of the sugar. I have oatmeal blueberries for breakfast and instead of having bacon and eggs and gravy and biscuits. So I'm, I'm trying to get myself straightened [PHI-Personal] because I have been really mentally and physically sick.
+Nurse: How long were you off medicine.
+Patient: Um, see, I don't know. I, I would miss [PHI-Personal], forget to take my sugar medicine. Then I would, you know, I would get kind of, I was, I can tell when my sugar's high and when it's low. So I would think, oh, and I gotta go take it. Well, sometimes when I thought of that I wasn't home and I just try to get me something to drink some kind of milk or something to make me feel better. And then when I get home, I forget again. So it's not like um I can pinpoint a time, I would say in the last month, I would say in the last month, it's just been all messed [PHI-Personal]. And then
+Nurse: When you took it and when you didn't, yes,
+Patient: About a month. And then that's why I changed my appointment from, I think I was supposed to go last Monday and I put it trying to get myself straightened [PHI-Personal] before having my blood work anyway. Ok, that covered that point. Well, I changed it and why I don't want to go back earlier is because I want to see if I can get my sugar and now
+Nurse: I know you don't want to go back earlier for that, but I'm worried about you falling with these balance problems. This
+Patient: Is my ears, honey. I, I've been, I've had this for years.
+Nurse: You think you're gonna
+Patient: [PHI-Personal]? No, not falling. But my balance be off you know, like I may have to hold on to a chair, you know, to keep me, you know, from before, you know, it, I'm, I'm leaning and don't even realize I'm leaning until I'm leaning too far and then I'm got to grab something. That's, that's what I, that's where I'm at. I'm not, uh, falling all the time. Uh, I think I felt 22 or three times in the last two or three months since all this. The heaviness started anyway. Ok. That's got my eyes, my ears and my dizziness. Those are the three things I want to deal with. Ok. The other thing I was wanting to, to try and deal with is my depression medicine and my, uh, I call it my nerve me anxiety medicine. I'm going, I'm going to try to get away from them because I don't want, I don't want to start taking them again because they were [PHI-Personal] there real high. And I, so, um, if I can't, after I get these other things situated and if it's not just going through, uh, my husband's death, then I will go back on them, but I'll go start at a lower dose.
+Nurse: Right. I don't think it's a good time to get off of that right now just because of everything that happened. I
+Patient: Don't, I don't want it. They real, they are very bad medicines.
+Nurse: I get it, but you're going through a lot right now. And honestly, you should never, you should never in like com just completely get off. Well, honey,
+Patient: I messed [PHI-Personal]. I messed [PHI-Personal] so much. Forget to take it like,
+Nurse: Every day that, that really could have messed. So you were never supposed to just like, go cold turkey on.
+Patient: It wasn't done it on purpose. I
+Nurse: Know. I know that I'm just telling you for the future because it's, it's something that you have to slowly taper yourself off of.
+Patient: II, I know that. But see what, what was going on. The, the last, right? Three, you know, the last few months, the really, the last six months has been bad. Oh,
+Nurse: I get during that. Do you have a good support system? You said?
+Patient: Yes, I do. I, my grandson lives with me. He, he is, has Asperger's and he, he worries about me all the time. He's, if he, if he don't see me, say in an hour or two, he's calling wanting know where I'm at, what I'm doing, you know, if I'm not in the house, usually
+Nurse: You haven't had any thoughts of hurting yourself or anything.
+Patient: No, no, no, no, no. Ok. No. If, if you
+Nurse: Do get real down and depressed there, there is a crisis hotline that you can call.
+Patient: I know I have one, my daughter and my grandson.
+Nurse: Ok. There is a number that, that will answer [PHI-Account] 7. It's 988. Ok. 988. Yes. And it's very, it's non, it's confidential. Um,
+Patient: Yeah. Well, if I, I always have somebody, my, my grand, my grandson lives with me. And, uh, and plus I have a nephew with me. He's homeless right now. So, but he did get, he's got a job. He's, you know, he's trying really hard. He is trying. So he's here to also. But he won't, he don't live here permanently. Ok. So those things, uh,
+Nurse: That's what you wanna address. Ok, look all these medication changes. I don't want you stopping them or doing anything until you see doctor and if you don't wanna move [PHI-Personal] your appointment with doctor, then just stay as is right now until you see him bring [PHI-Personal] all these concerns at your appointment because if you do wanna get off those food figure he can tell you how to wean yourself properly.
+Patient: Well, I googled that also, but
+Nurse: See, I know, but Google. Google
+Patient: Is not always pertinent to me. I know worst,
+Nurse: Worst, your worst enemy.
+Patient: Yeah. Well, I know doctor doctor and he knows me, I've been going to him for, I know 20 years maybe. I don't know when he first was very young. Anyway, um, with me already off of them, I don't wanna go back to where I stop, you know where finally II I just said, you know, I, I've got to stop this. I have missed so much for how long. Oh, no. Um, well, see I'm not, I'm back on em, I, it was just for, I don't know, maybe a week or so. I just finally said just stop and that's when he, yeah, he passed. I didn't want to deal with it. Then I couldn't deal with it. Yeah. So that, anyway, um, I feel like I'm doing the right thing. So, are you
+Nurse: Back on the mood fixers?
+Patient: I don't want them. They're bad. I, I don't want, now, I know you say Google could be my worst enemy but you can't get this much information and it, not some of it be right because that stuff is bad for your brain. Which,
+Nurse: Which ones are you, are you taking all of your medicines right now? No,
+Patient: I did not go back to the depression, depression and anxiety.
+Nurse: Ok. Which one was that one?
+Patient: Um I'll have to go get them, you know, them things have been on my table for a week or so. Me trying to figure things out and I just put them [PHI-Personal] today. I guess I should have called. I, you know, I didn't have the number. I didn't write all that information down. And so I couldn't call you and I didn't mark them. Plus I'm, I started taking a vitamin, a multivitamin. Ok. Well, ok. Klonopin vi and my depression is Venlafaxine vila. Then what? Effexor, Effexor Xr and then you not
+Nurse: Taking both of
+Patient: Those? Well, I was at the point where I almost was so I didn't start them back. And I, and then I thought, well, I better check out what they do to me because some of my symptoms may be from not taking them. Right. And could it be worse if I started them back with them being so high dosed because he's upped them several times. And so with me being off of them so much I didn't want to go back on them. And the other, the high BP, uh, my sister in law, she's got high BP. She told me I should never stop taking my BP. But since I, I accidentally did, I, I am just taking that, that little bitty pill and I, I seem to be ok with it if my, uh, BP stays where it's at or goes down more. Ah, what I was going to do is when I went back to seeing him, see him, I was going to ask him if he could put me on something different besides that Lisinopril. And with my other little pill, I can't remember. It's a h it starts with h uh, then, you know, I would, I would, you know, consider that, you know, doing that, but I don't want this Lisinopril no more. So, one
+Nurse: Of the withdrawals of Effexor could be vertigo.
+Patient: Well, honey, I was having this before. Um, I've, I've had this, this has been going on for six months and now I was taking that, uh, regularly. No, that's Yeah, that, that vertigo stuff to do with that. Uh, my ears with the rocks. I bought, I, well, like I said, since I've had that car wreck I bought, I've had this off on.
+Nurse: Ok. Listen, I'm gonna send doctor a message about all these medications you stopped just to see what if he wants to reach out to you or do anything just because, you know, I mean, if you've already stopped them, but usually we do, like, decrease the dose slowly because sometimes your body can go into shock and withdrawal from these medications, especially because you're on such a high dose. Um,
+Patient: I understand that but I
+Nurse: Know your appointment's not until the [PHI-Personal]. So they'll reach out to you because that's three weeks away.
+Patient: Well, uh, I don't want to have without you
+Nurse: Having to take, like, the Lisinopril and the, we keep stopping those three medicines. I'm just kind of concerned in case they, that your BP does go [PHI-Personal]. But as long as you're taking your BP every day, my BP is
+Patient: Going down.
+Nurse: Right. I wouldn't make any more changes to your medications on your own. Oh, I'm, I'm not until you see Doctor [PHI-Personal].
+Patient: Ok. I, I have got the ones, the ones that, uh, the only ones I'm not taking, like I said is my depression and my anxiety and, uh, all of the others I'm taking, I'm back on em. I, I have been for about a week and I'm starting to feel better. Really. I am except when I have to talk about him, you know?
+Nurse: Right. Right. And, you know, it might,
+Patient: It's too fresh, it's too early.
+Nurse: Right. But you, you might need something to get you over this hump. It doesn't have to be those two. You could try something new. Maybe that won't be as
+Patient: Many. I don't want to get, I, I don't want it yet because I want to, like I said, it's only been five days, you know, and I think, uh, if the way I'm feeling now, I feel good. My sugar is still a little high. But like I said, I changed my two hundreds. Let's see. My, let me get my machine. I use the memory on my machine. Well, this thing is so tiny, old people can't deal with these little tiny machines. They can't see them, they can
+Nurse: Rest and anxiety and depression and stuff can, can really do numbers on your blood sugar too.
+Patient: Well, I, I wouldn't thought that I thought that had just to do with my diet.
+Nurse: Well, your diet, but also your, your, your hormone levels have a lot to play with your sugars and stuff. Like stress makes your sugars go higher. So, because of your situation, like I would expect it to be high, especially because you stopped taking those, those medications that are probably helping your
+Patient: Mood. Oh, no, wait a minute, I'm on, I also take um ohh let, let me get my mind straight. What? You don't have my records in front of you? Do you? I do, I do OK. What's the other sugar? I make I take two sugars now. GlipiZIDE, glipiZIDE, I take the glipiZIDE. GlipiZIDE. OK. It's it's a fast like a fast acting. Yeah at first and, and I take the rubella
+Nurse: It lasts for [PHI-Account] hours though. So it's long
+Patient: Acting. Yes. Ok. My sugar uh I don't remember if that was. Ok. That's it. I tell you, I, I'm so old. I can't keep all my stuff because I need one of them like a baby bag to keep all my glasses and everything together. I don't know where my glasses went so I can't see that. It's [PHI-Account] but I don't know if it was yesterday or today. Ok, I'm in the light uh 6 19. That was yesterday. The [PHI-Personal] was 2 45. These are fasting. These are the first thing in the morning. Uh the [PHI-Personal], [PHI-Account]. [PHI-Personal], [PHI-Account] [PHI-Personal] [PHI-Personal], [PHI-Account] 67. See, so um
+Nurse: The a was super high. I mean they're, they're all
+Patient: Very high. The 19. Yes. The [PHI-Personal] was [PHI-Account] and you know, it may, like you said, it could be with a part of the stress and it could
+Nurse: Be, but I still don't want them that high.
+Patient: No, I don't either. That's ok. I just started taking my, uh glipiZIDE this morning, th this morning or yesterday morning, I can't remember. I've got my pill bottle, my pill compartment where I, you know, make sure I take em and I'm so I'm back on that. I expect with me, my diet and with taking the glipiZIDE now with the rubes then, uh I'm hoping it's going to start going down. You know what if you get
+Nurse: Increased thirst and dry mouth, increased, need to pee like need to go to the bathroom, super tired, blurred vision call and go to the er, or call 911. Because
+Patient: What would I do that? Honey, your blood
+Nurse: Sugar if your blood sugar gets super, super high and that is symptoms. I mean, like you can go into DK A, what's that? It's called, it's like a diabetic
+Patient: Ketosis coma. Yeah. Oh yeah.
+Nurse: Yeah, it's like
+Patient: A, well, I thought that was with low blood sugar,
+Nurse: You can go into a coma with low blood sugar but you can also go into a coma with high blood sugar. And what it is is like you have to get on like an insulin drip at the hospital for you to come down. So I, I just want you to watch for these signs and symptoms. It's not telling you I'm having so if it gets worse
+Patient: Then ok, because you,
+Nurse: You said you knew when your blood sugar is high or so. Yes, if you start feeling those symptoms and it gets, you know, it's elevated more than usual and if you go to check your blood sugar at that time and it's, it's saying like, oh, I can't read or something like that. That's when you need to go seek emer care.
+Patient: Yeah. Well, just
+Nurse: Because you have to get that blood sugar down by some, some form or it can do damage to your kidneys if you don't get it down.
+Patient: Yeah. You know, well, see I have
+Nurse: Further damage because I, I
+Patient: Don't have you. Right. Ok. I'm just right now, like I said, I'm trying to get back on it and I'm just s slow. I'm not trying to just boom, after being all messed [PHI-Personal] with my medicine, I just don't want to go back and start taking everything again. You know what I mean? II, I just can't do that the way my head is foggy. My vision. Like all them symptoms. You just explained a minute ago. I've been having those and that's why I've been worried about, uh, well, not worried about but getting probably
+Nurse: Super elevated. That's
+Patient: Why, well, I'm trying to get back on my medicine. Get, I'm, I've got appointments for everything now except for the, uh, my ears, but I'll just have to deal with that because really I waste my time going. And also another thing, I don't know if I have medical insurance no more. Uh, you know, it's gonna be a while for them because it was through the veterans and since he, the veterans gone, you know, it, they are so slow. So,
+Nurse: [PHI-Personal] for AM V though. So, you do have that?
+Patient: Ok. Yeah.
+Nurse: Was secondary
+Patient: Secondary? Ok. I keep forgetting about that because, you know, it's just been a year or so. I've been used to having Tricare all my life. Ok. Right now, I feel like I'm on the right track.
+Nurse: I do too, but it makes me concerned about your blood sugar. So make sure you watch
+Patient: Those. Yes, I am
+Nurse: And watch your diet real good. I'm trying to get those sugars down.
+Patient: Ok. Yes, I am trying to do that. Now, I will tell you that, you know, when he passed food [PHI-Personal], come in here and sweets and ice, you know, just everything that I shouldn't be eating and I ate it. You know, I just,
+Nurse: Yeah, that probably didn't help it.
+Patient: No, but I, my diet, I'm trying to change everything and like I said, five days, I've been into this mindset for five days and I feel like I'm on the right track. So, uh, let's just keep the appointment that I have for July. I'm hoping that my sugar will be down. I know my A one C won't be down because my sugar's still running high. But
+Nurse: Look, your appointment's at, it's July [PHI-Personal] at, um, 2 p.m. I will message doctor and let him know about the changes that occurred though. Ok so they might reach out to you. Alright
+Patient: Then I appreciate you calling and I'm gonna write your number down I didn't I don't need I
+Nurse: Be and call us if you have any other problems. Ok. One
+Patient: [PHI-Account]
+Nurse: [PHI-Account].
+Patient: Ok. All right I got that wrote down so. Alright MS [PHI-Personal] I thank you so much for listening to me ramble on but and I appreciate you. I really do honey you're you sound like a very sweet person so I appreciate your loss. Thank you so much. You're welcome. Ok, bye bye. Ok
+Nurse: Bye.

@@ -1,0 +1,39 @@
+Nurse: This is [PHI-Personal].
+Patient: Hey, good morning. How are you?
+Nurse: I'm good. How are you? Is it
+Patient: Um I need your help for today cause uh I'm experiencing pain in my wrist uh in my, in, in, it's uh it's both my, my work. So um I don't know what the, what, what you're going to do to help me with that.
+Nurse: OK. So you wanna, what is it that's bothering you or that you need to change?
+Patient: I say I'm experiencing pain if it from my waist to my feet, my leg but uh I can't walk normally. It's like I walk on one side. You see? So I can't walk straight. You see what I mean? Mhm mhm. When I'm, when I'm walking and don't, it's like uh my, my, my, my, my left uh my left leg can support me, support my, my weight, something like that. So uh I'm just calling you to, to explain to you what is happening so you will see what to do to help
+Nurse: Me. Sure. OK. Let's see here. Have you had this issue before in?
+Patient: Mm I'm experiencing this now. What's that? That's, now that's something new.
+Nurse: It just started
+Patient: Yeah. Ok. I use, I used to have the pain but I used to work not to walk normally, but now it affect my work.
+Nurse: It's affecting your work. Ok.
+Patient: And I can't walk normally.
+Nurse: Ok. So have you seen, have you talked to Doctor [PHI-Personal] about this before?
+Patient: And he knows about, he knows about, but, er, now to me it work,
+Nurse: It's worse. So
+Patient: I don't, I, I don't want to take it for, for myself, only I want to share it with you. So.
+Nurse: Absolutely. Absolutely. Ok. So, let's see. Have you seen an orthopedic doctor before?
+Patient: Um, we, we made a lot of, uh, how you call that? The [PHI-Personal].
+Nurse: Uh, what, um, hm,
+Patient: Major in. Well, radiology, we went to the radiologist that I, you, and you said that I don't pick up just you really? This?
+Nurse: Ok. Excuse
+Patient: Me? Yes, I'm here, I'm here.
+Nurse: Ok. I have. So what we could do and is, um, I can send a message over to doctor [PHI-Personal] office to see what he suggests. Um, does anything seem to help with the pain at all? Tylenol, Ibuprofen ice heat
+Patient: The first time I take two Tylenol five mg that give me 1000 mg, right? I took it after, after almost 22 hours. It, it does something but just a little bit. But the last Saturday morning I had to take two again.
+Nurse: Ok. I had to take two again throughout the day.
+Patient: No, no, no, no. No, I take it last, last Friday and Saturday after nine days. Uh I take it, it did something for me. Saturday morning that in the morning, but the pain come back.
+Nurse: Right. So let's see what we could do an is you can continue. You can take up to 4000 mg of Tylenol in a day. So you could take Tylenol 1000 mg like you were doing throughout the day to keep on top. You don't have to take, you don't have to take that much. I'm just saying you can take up to that much in a day. So if you wake up in the morning, you could even take a 500 mg in the morning, maybe a 500 mg at noon and then maybe 2 500 mg at bedtime. Ok. You know, you could try to alter it that way so that it's in your system. It, you know, it, it's keeping on top of it, but you're not taking too much at the same time. Um using ice and or heat is great to do as well because if those are helping with your pain a little bit, that's, that's a good thing. So because you wanna do those things before anything else. Um Let's see. Have you done physical therapy for this ever?
+Patient: Yeah, I got the Yeah, I did, I did physical therapy.
+Nurse: Ok. Did that help at all when you did it? Yeah, it did,
+Patient: It helps me when I need it and I, I continue to exercise what they made with me also.
+Nurse: Ok. Do you, do you want to restart physical therapy?
+Patient: Um, not much. I don't know. I don't know.
+Nurse: And that's ok. I, I was just asking because if it's something that you, you feel was helping, you know, I could, I could see with doctor about getting a new referral for you to start again. Um, but if you don't want to, that's ok too. Um But I would try with the Tylenol and use ice and heat if um you know, if you have to elevate your feet, you know, go in a recliner or put your feet up on a stool to get them elevated, to rest them to try to help with that pain.
+Patient: And yesterday, yesterday, at this time I had a terrible cramp in my, my right in my right foot. Yeah, in my thumb, the right foot.
+Nurse: Ok. Um Do you, are you drinking enough water as well? Cause being dehydrated can cause those cramping too
+Patient: At that time, I was already, I was already drink three bottles of water at that time. Ok. When that happened. Right. Right. I had drink water. I had to take my, my, my amLODIPine in the morning. Yeah.
+Nurse: Ok. So let's see. Um Well, it's kind of up to you. What, what you would like me to do. That is about my, that is my first suggestion to start with and is to use the ice heat, use the Tylenol. Um You can even alternate with Ibuprofen in between the Tylenol. Ok. Um, and if nothing is helping and pain continues to get worse, then let us know I will reach out to doctor s office and see what he suggests. Ok. Ok. Thank you. Yes, you're very welcome. Is there anything else I can help you with? And,
+Patient: And that's all for today.
+Nurse: Ok. sounds good. You have a good rest of your day. You too, ma'am. Bye bye. Thank you. Bye bye.

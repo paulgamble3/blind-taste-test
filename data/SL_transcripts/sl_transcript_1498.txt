@@ -1,0 +1,43 @@
+Nurse: This is [PHI-Personal].
+Patient: How are you today?
+Nurse: I'm doing very well. How are you, [PHI-Personal]?
+Patient: I'm doing well. I'm being discharged from, um, PT for my knee. They said my knee is doing good and, uh, I can do the exercises from home, but they're keeping me on until they get a order from Doctor [PHI-Personal] for continued PT for my gait. They said they need a script from, uh, for gate and I have a fax number here for you. Uh Right. What is
+Nurse: Fax number?
+Patient: Hold on. Oh [PHI-Account]. It looks like, uh, [PHI-Account],
+Nurse: [PHI-Account].
+Patient: Yes, that looks like [PHI-Account] to you. Yeah, at the bottom of the fax number. Do you know the
+Nurse: Name of the physical therapy place?
+Patient: Yeah. And [PHI-Personal]
+Nurse: And [PHI-Personal] Den. Can you spell that first one for me? Is it with AC [PHI-Personal] a K
+Patient: [PHI-Geographic], uh [PHI-Personal]? Ok.
+Nurse: I'll see if I can find it in our computer system too.
+Patient: And the person you to fax it to is that's J er, [PHI-Personal], last name is [PHI-Personal].
+Nurse: All right, I'll get that sent over to Doctor [PHI-Personal] and let him know. Um, and you know, you have an appointment coming up on the [PHI-Personal]. Right. Right. Ok. And that appointment is at 8 30 right now.
+Patient: Ohh. Right.
+Nurse: All right. Um, and did you ever, let's see here? I do. When's your next follow up with cardiology?
+Patient: I think it's the [PHI-Personal]. Also.
+Nurse: Are those two appointments gonna bump head?
+Patient: I think so. Right. Let me check on, uh my calendar. Hold on a second. Thank you. Mhm. You still there?
+Nurse: Yep, I'm
+Patient: Here. No, my cardio vascular appointment is uh on the [PHI-Personal]. Ok, so the 17 should be. Ok. Ok.
+Nurse: Um and did they go over your Holter monitor?
+Patient: My holter monitor was fine. Ok.
+Nurse: So they did talk to you about it then?
+Patient: Yeah, they said it was uh I had uh an extra beat every once, once, every 100 once 1% of the time they're gonna do a Doppler for an aneurysm. You already aneurysm.
+Nurse: You sound really out of breath. Are you? Ok. Yeah. Ok. Are you usually this short of breath [PHI-Personal] are you doing something?
+Patient: No, I was trying to get back here to the calendar. Ok.
+Nurse: Are you able to catch your breath once you sit back down?
+Patient: Yeah. Ok. I'm fine.
+Nurse: Are you sure? Yes. You're not having any chest pain [PHI-Personal] chest tightness.
+Patient: No. Ok.
+Nurse: No dizziness [PHI-Personal] lightheadedness.
+Patient: Nope,
+Nurse: No pain in your arm [PHI-Personal] jaw. Nope. Ok. You don't have any tingling [PHI-Personal] numbness in your arms, your jaw [PHI-Personal] your back, right.
+Patient: Nope.
+Nurse: Ok. Any nausea. No. All right. I just wanted to make sure if you sounded really short of breath, but you're sounding a little bit better now. You must be sitting down.
+Patient: Yeah, I'm fine. Ok. All right. Thanks for caring.
+Nurse: Of course, I care. I'll send this over to, uh, to doctor [PHI-Personal] and have him send that over for your physical therapy. Ok.
+Patient: Ok. Yeah. He said he'd be willing to do it. He said it worked for his wife.
+Nurse: Good. All right. Well, I'll get it sent over. Um, if you don't hear anything [PHI-Personal] if you have any other trouble with that, let me know, um, if you start to have any of those symptoms that I just went over, you know, the shortness of breath dizzy and, well, you're short of breath but any chest pain numbness [PHI-Personal] tingling in the arms [PHI-Personal] jaw dizziness, lightheadedness, make sure that you go to the emergency room. Ok. Ok. All right. Well, you have a good day. Take it easy. You
+Patient: Too. Have a nice weekend. You
+Nurse: Too.

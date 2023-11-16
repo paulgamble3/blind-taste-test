@@ -1,0 +1,14 @@
+Nurse: Hello. Hello. Hello.
+Patient: Hi. Can you hear me? Ok.
+Nurse: Yeah, I can hear you now. Yeah. Hi.
+Patient: Ok. I'm sorry about that. I'm not sure what happened. This is [PHI-Personal]. How can I help you? You
+Nurse: Just called me? Ok.
+Patient: What is your name?
+Nurse: [PHI-Personal]?
+Patient: [PHI-Personal]. Ok, great. Well, thanks for calling back. I'm just gonna pull up your chart here.
+Nurse: Yeah, I was on the phone. I didn't, I missed the call coming in. Oh, no,
+Patient: No problem, no problem. All right, here we go. Well, yeah, like I said on my voice mail. Um, I'm calling with [PHI-Geographic] on behalf of Doctor [PHI-Personal] and we are speaking on a recorded line and I was reaching out about a new care management and behavioral health program that the doctor's offering. It's a call from a dedicated nurse where she checks in with you between your office visits. She can answer questions or concerns, assist with medications, lab results, prescription cost reductions, anything pertaining to your health. She would just be an added resource for you and it keeps doctor updated with current conditions and any changes that may happen. Both care management and behavioral health are billable services to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurances. So may be subject to coinsurance, deductibles and copays. I do see here however, that you would qualify with your [PHI-Personal] Medica, your [PHI-Personal] [PHI-Personal] insurance. So, is that still correct? Yeah. Ok. So what you could see is a um you could see a copay in the amount of a PC P or office visit.
+Nurse: It was zero, but I don't know if it's gonna be zero next year or not.
+Patient: Ok. Ok. Now the nurse she could reach out to you on a monthly basis or every couple of months. It's completely up to your preference. Would you rather she called in the mornings or the afternoons? Afternoons, afternoon is better? Yeah, and then I'll send out some information as well in the mail for you. Just confirm your address here. I have 39 4/13 Street, Northumberland, 17857. Ok. Ok, great. Well, a nurse should be reaching out to you in the next week or two and until then thank you for returning my call and I hope you have a good evening and a happy holidays.
+Nurse: Yep.
+Patient: You too. Thanks Barbara. Bye bye. Alright, bye bye.

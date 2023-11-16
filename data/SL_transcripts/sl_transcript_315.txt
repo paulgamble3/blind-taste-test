@@ -1,0 +1,62 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, good afternoon. It's [PHI-Personal] finally calling you back. Yes. Let
+Nurse: Me get you pulled up here. Oh, give me just a second. Sure. Ok, perfect. How are you doing?
+Patient: I'm doing ok. How are you doing?
+Nurse: I'm good. I'm good. Can you believe it's the end of the
+Patient: Month? No, I can't. I literally can't.
+Nurse: This is the longest month and it, well, I feel like it's the longest month and it still feels like it went way too fast. So it's been a little bit crazy. But that's ok. [PHI-Personal] is passing us by, I guess. Yes. Ok. Let me see here. Yeah. Did we talk about your orthopedic consult the last time? Oh, I think we did, um, your injection.
+Patient: Uh, I don't know whether we did or not but it went well. Um, and I actually got a prescription to do, um, physical therapy, but I don't feel like I need it right now.
+Nurse: Really? Ok. Ok. So your knee is that much better? That's good.
+Patient: Yes. Yes. And I actually asked for the prescription. So it's not like they, you know. Yeah. When I first went in I, I thought I needed it. But now that I'm able to walk, you know, like a mile or so a day, I'm, I'm feeling much better, so, really good.
+Nurse: Ok. Good. Ok. Well, you know, I would recommend, you know, stretching and everything to make sure things don't get too tight and irritated. Um, did Ortho say when they wanted you to come back or is it just as needed?
+Patient: It's as needed?
+Nurse: Ok. Perfect. Well, good. And it's been over a month now and it's still feeling good. So that's really good. Yeah. Mhm. Ok. Awesome. Let's see. There's anything else. Mhm. I don't see anything else. Are you needing any refills on any of your medications?
+Patient: No, but I'm wondering if you could get me a referral to a dermatologist what's going on? Um, I have some skin tags that are in the groin area that I would like to have removed. Ok.
+Nurse: Hm. And they're just annoying and bothersome. I, I assume they're not painful or anything. Are they?
+Patient: No, just bothersome? Ok. And, um, if he, I'm sorry, if he could, um, if he could refer me to one. That would be great. Um, I don't wanna use Doctor [PHI-Personal]. I have used her in the past but if there's somebody, especially in the [PHI-Geographic], um, health medical group, ok. That would be good. That's on road and I would like a [PHI-Personal]. A, not too specific. Huh?
+Nurse: You are fine. I completely get it. Ok. You said no to, what was the name? Doctor
+Patient: [PHI-Personal]? Doctor [PHI-Personal]. Stephanie [PHI-Personal]. Ok. Perfect.
+Nurse: No, I completely get where you're coming from. I'm the same way. Ok. So we're needing a referral to dermatology for skin tags in your groin area. You don't want Doctor [PHI-Personal] and you would prefer somebody at [PHI-Geographic] and a [PHI-Personal] and don't forget that at all. All right. Well, I will get that sent to our referral department. See if they can. Do you know, the last time you saw a dermatologist? Oh, my gosh. I know it was
+Patient: Probably 10, no, 12, 13 or 14 years ago. My
+Nurse: Goodness. Ok. And what did you see him for back then?
+Patient: Um, it was regular skin checks and I did have a skin tag removed on my thigh at the time.
+Nurse: Ok. Oh, ok. So you had skin tags removed? Ok. Perfect. Ok. Yes, I will get that sent over to the referral department. Let's see. How is everything else going? Do you feel like that? How is your, I think you were having fatigue with that Carbidopa Levodopa, right.
+Patient: Yeah, that's still ongoing.
+Nurse: It hasn't gotten any better.
+Patient: No.
+Nurse: Ok. When is your next appointment with neurology?
+Patient: Well, it was supposed to be in [PHI-Personal] but I'm gonna have to switch it because I'm actually gonna go on a cruise the week of that appointment. So, I don't know when it's gonna be changed to, it was supposed to be [PHI-Personal]. 15th.
+Nurse: Mm. Ok. Ok. I was hoping that would kinda, the, the fatigue would kind of slow down when you call to reschedule that appointment. Maybe see if you can talk to the nurse over there and see if they have any further recommendations because it is, it is helping with the tremor. Correct,
+Patient: Uh, somewhat. Um, just like any of the other medications I've been on it. It doesn't, it doesn't seem to do that much, but there isn't that much choice out there in the way of drugs.
+Nurse: Ok. Let's see. Ok. Yeah, I would recommend asking them maybe when you call to reschedule.
+Patient: Mhm.
+Nurse: If there's anything else here, how have your blood sugars been recently too?
+Patient: Well, I haven't had to check, um, that's kind of my agreement with Doctor [PHI-Personal] that I check when it, when I don't feel quite right. Uh, because my A one C is, is six and it's been that way. I, I don't check every day.
+Nurse: Perfect. Then I will make that a note. So I don't keep asking you the same questions. Oh,
+Patient: That's ok. That's ok.
+Nurse: No, you're, that's, that's awesome though. Your A one C came down. I see that. Now it was up at seven a while ago and now look at you go. So really you're just diet is improving your blood sugars and you only check when things feel off. Is that right? Ok. Mhm. Ok. That's awesome. Ok, perfect. All right. Who are you going on a cruise with,
+Patient: Um, my sister in law and brother in law. Actually, that
+Nurse: Sounds like so much fun. Where are you guys gonna go? We're
+Patient: Gonna go to [PHI-Personal].
+Nurse: Really? Oh, my goodness.
+Patient: And
+Nurse: The weather is gonna be so nice.
+Patient: I've never been on a cruise before but, you know, with my only concern at this point is that I get so tired. Yeah. Yeah.
+Nurse: But, you know, and I can send when I, because I'm gonna send that over the referrals. I might just send a message and say, hey, you know, you're still having this excessive fatigue on the carbidopa and just make sure he thinks that's what's causing the fatigue and there's nothing else. Let's see. I don't see anything else. That's really the only new one. Right.
+Patient: That's the only new one. And, yeah, if I had, I did have COVID before I started taking this drug. So I don't, I don't know, I don't know what it is.
+Nurse: And then are you using your CPAP every night? Oh,
+Patient: My gosh. Yes. Ok. And
+Nurse: How's your sleep been?
+Patient: Um, I do have to get up normally to go to the bathroom, but that's because I try and drink a lot of water. Um, yeah, it, it's ok. Ok.
+Nurse: Ok. Well, if you're ok with it, I'll send him a message. Let him know that your, your sleep hasn't changed, nothing's changed other than this medication and just see what he's thinking. Especially with you going on this cruise soon. You know, you'll wanna be awake for it.
+Patient: Yeah, I keep asking, I keep asking my, my sister in law when his nap time. Oh, my
+Nurse: Goodness. That's gonna be so much fun though. Oh, I haven't gone on a vacation. A real, like vacation since before COVID. So that just sounds like so much fun. I bet you guys are gonna have a great time
+Patient: And I hope so.
+Nurse: Ok. Well, let me send over a message to doctor and then of course, the referrals department and see kind of where we go from here just because I don't wanna keep, I mean, I feel like we've talked about this for what, two or three months now and the fatigue is just not getting better.
+Patient: So I
+Nurse: Don't, I don't think waiting and waiting and waiting is the answer anymore, you know? Ok. Ok. Well, let me go ahead and send those over. I will let you know when I hear back and we will go from there. Does that sound like a plan
+Patient: That it certainly
+Nurse: Does? Ok. All right. Well, you call me if you need anything and I will give you a call when I get some information for you. Ok.
+Patient: Ok. Thank you so much. Of course. You
+Nurse: Have a good rest of your day,
+Patient: Barbara. You too. Bye bye. Bye bye.

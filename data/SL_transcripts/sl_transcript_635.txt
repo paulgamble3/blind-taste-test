@@ -1,0 +1,24 @@
+Nurse: Hello again.
+Patient: Good morning. Ccm. [PHI-Personal] speaking.
+Nurse: [PHI-Personal].
+Patient: Hey, hi, Ol, how are you? I, I missed your call this morning.
+Nurse: You know what
+Patient: You do, what I repeat that I didn't hear you.
+Nurse: You know what?
+Patient: Oh, yeah. Yeah. Oh, ok. Um, tell me what's going on.
+Nurse: Uh, have you heard anything from Hope about the G I yet?
+Patient: She told me that she had spoke with you and the, the names that you gave me to give to her, um, she says that they don't have a, a doctor there that specializes in dealing with the liver, which they need you to get looked at for your liver at that location in [PHI-Geographic]. Um, so, and then she said the other issue she was having is, I guess with your transportation is she's saying in, in a round trip it has to be 80 miles or less. Um, so she says that's the trouble that she's having trying to find someone in that mileage, um, that, you know, you can go to and get, you know, your transportation covered. Um, so, yeah, so she says she's still, um, looking to try to find someone that can go within that mileage, um, for you to see. Um, so, yeah, that was her response regarding the, the G I, she's still working on it. Um, but yeah, that's, that's the, uh, the issue. I didn't know if your, um, insurance had another, uh, provider, um, that we could call to see. You know, that's not, maybe not in [PHI-Geographic] but kind of close where we can get you there, 80 miles around. That's
+Nurse: The one that, that's the only one I have in my book.
+Patient: Ok. Ok. Um yeah, so I'll, I'll message her back to just to let her know, um, you know that we're still, you know, trying to work it out and see if there's anything else they can come up with, um, to try to get you seen by the, the liver doctor but she, she is working on it. Um, and then, you know, we'll, we'll follow back up with you probably if not tomorrow Monday just to see what you know, me and hope could, you know, try to get situated for you to be able to get that checked out within the 80 mile radius.
+Nurse: Well, I could do, I can give you my insurance company's number and see.
+Patient: Yeah, I think we have it on file but just if you, if you can give me the number that you're calling, um, we can call, I can call over.
+Nurse: It's uh [PHI-Account]
+Patient: 570 Ok. 66.
+Nurse: Huh.
+Patient: 7070, so 18335706670, and that's for your [PHI-Personal], correct? Ok.
+Nurse: Ok. Like I said, maybe, maybe you can look and see what they can do.
+Patient: Yeah, I definitely will call them today, [PHI-Personal] uh and see what they provide and then I'll be checking in with hope with what they tell me and then we'll circle back around and I'll let you know what we, what we made out with, with that phone call.
+Nurse: Yeah, like I said, they did have some me one but like I said, they were like 100 and some miles.
+Patient: Yeah. Yeah. Out of your, out of your transportation range. Yeah. Yeah. Ok. All right. Yeah, I'll give them a call and then, um, I'll follow up with hope and then I'll, I'll message you back
+Nurse: And talk. I don't know if they had anything closer than you can talk to him.
+Patient: Yeah. Yeah, I'll, I'll ask definitely I will and see what's in the radius area. See if they can, you know, find something else, you know. You know, sometimes, you know, they add doctors, subtract doctors. Um, so I'll, I'll, I'll call them and then I'll see what, what they can do. Um, and then I'll get back with you once. Um, I talk with hope. Ok. All right. Ol thanks for keeping me updated. Thanks for the number. I'll call them today. Ok. All right. Bye bye. Uh huh.

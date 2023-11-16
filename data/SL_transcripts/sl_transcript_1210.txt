@@ -1,0 +1,58 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Hello, [PHI-Personal]. This is [PHI-Personal]. Uh, yesterday. Uh, I don't know if it was another lady that, uh, or you that called? I think she said she was somebody else calling for you. Is that right?
+Nurse: Um, no, it was. Oh, no, that was me. Uh? Oh,
+Patient: Ok. Well, I wasn't sure. Anyway, I just wondered, I have a few things I wanna ask you. Uh, first of all I still have this, uh, in my, at my ribs. It bothers me, uh, from the other day when I was at the doctor's. Do you think I could have another prescription for, for predone the ones that you take out? [PHI-Account]? That's how you take em. Do you think I could have another prescription of that?
+Nurse: Hang on one second, honey. Um, ok. So I'm still the other [PHI-Personal]. I'm actually covering for your regular care manager still.
+Patient: Oh, ok.
+Nurse: Um, one second to, I was in another chart here. Uh, when was your last round of predniSONE?
+Patient: I was in there with, with my sister, you know, we both had problems that day and my sister got checked out, then they called about her yesterday and, but they didn't say anything about me. And I thought, well, I'll wait until the day to see how I feel. But II I, it still bothers me and I think the pills did help me, but I need some more of them. If I, if, if I can get them, I don't know.
+Nurse: I was gonna say I will message and ask if that's a possibility. Um, be careful with taking, um, steroids too often. It does suppress your natural, your adrenal gland there and it can ultimately cause issues. But,
+Patient: Well, I know a long time ago I took this prescription and I forget what for. But anyway, it's quite a while back and, and I took it and then they gave me another and then I was ok. Right. And they did give it to me twice. But
+Nurse: It's something that is a possibility. Um, you just, uh, just be aware of, you know, if, as long as they do, like I said, I will message them and, and ask for you if, if we can get you another prescription
+Patient: For it. But if you, if you can, it's all right. But I thought I'd ask, you know, you don't know to ask about
+Nurse: That. Absolutely. And what's the worst they can say? No. That's
+Patient: Right. Exactly. Yeah. So I have some other questions. Do you think you could answer for me or are you busy?
+Nurse: No, no, by all means, what can I do for you?
+Patient: Ok. It's about my sister and her, her diet. Ok.
+Nurse: Now a second. Who's your sister? Ok. Wait, is she one of our patients? Surely
+Patient: Way back for, surely way back. They call once a month to see how we are.
+Nurse: Oh, here I think I got. Ok. Go
+Patient: Ahead. Ok. And my, I'm [PHI-Personal]. They were sisters anyway. My, as far as my sister, her diet. And is it ok. She, uh, every night she, she eats this, uh, no sugar ice cream for, is that ok? Has no sugar in it ice cream.
+Nurse: Yep. As long as, oh, I talked to you yesterday about her.
+Patient: 00, well, we didn't, I didn't have that down here. Now. How is that? Ok, then I guess that's ok because she's been eating it as
+Nurse: Long as well. And you know what that was, the other thing is they had wanted to ask about like, her bloating and stuff. How is that? Because the sugar free things can cause bloating and gastric distress as well? Uh huh. Oh,
+Patient: Well, the bloating is the bloating better? Sure. I, is the bloating better. Now, wait, is the bloating better? Uh, uh, maybe a little, she said maybe a little. Ok. She seems better today though than she did. I'll tell you she seems better today than, than in quite a while for some reason.
+Nurse: Um, yeah, that's honestly for right now with the bloating. I would probably stay away from that because
+Patient: Again that right. Oh, my word. And she loves it. Well, ok. How about now? They said yes, yesterday. No pineapple. Does she have peaches and pears?
+Nurse: Peaches and pears? Yeah, they're ok. I wouldn't do it in ho, yeah, those are, those are all right. Those
+Patient: Are no pineapple. They said yesterday. No pineapples. That's it, you know. Yeah. How about orange juice? Prunes and orange juice? No, no orange juice at all.
+Nurse: Well, I mean, every once in a while but again, with the, the diabetes, not only is that gonna raise her blood sugar, but it is going to irritate the stomach. Oh,
+Patient: Ok. Ok.
+Nurse: Again, that's high and that's, that has a high acid content. Oh,
+Patient: Ok. I didn't know that. Ok. Now they said, uh, how, how about salt?
+Nurse: Well, so just with any sort of, let me look at her. Now
+Patient: She, she likes to add quite a bit of salt on stuff. And I often, and see, I don't, I don't use a lot of salt but I just wondered if, if she's getting too
+Nurse: Much. Yes, with, with hypertension, with high BP, you have to be very careful with your sodium intake as well. Which is the salt.
+Patient: Uh, so she should, she should probably kind of watch that then. Right. Yes. Yes. That
+Nurse: Cut back, you know. Now
+Patient: The, the last thing here, coffee w what does, what's wrong if she drinks coffee. Does that have acid?
+Nurse: No, it, it has caffeine in it, which can irritate the stomach as well.
+Patient: Uh huh. Because a couple times she'll say, I don't think I want my coffee this morning. In other words, it, I, I think it bothers her and I wondered, could it be the coffee? I thought to myself, you know. So that's why I wrote these questions down and, and then I'll tell her. So that does have acid, right? The coffee, the
+Nurse: Coffee, it's kind of acidic but it's more so the caffeine in it. That is the
+Patient: Caffeine. Well, can she, can she have some coffee? Yeah.
+Nurse: Oh, absolutely. Yes. Yeah. Ok. And, um, you know, like the pineapple, orange juice and things like that in very, very limited quantity.
+Patient: Ok. Right. So then the ice cream she has to stay away from, is that right?
+Nurse: I would try to stay away from it right now. Yeah, I would stay away from all those things right now because she does have the bloating. She does have the, you know, the, the stomach issues happening. Um, those things are all and sugar free stuff. The artificial sweeteners that they put in those. Yeah, actually cause bloating diarrhea issues like that. Oh boy,
+Patient: It's terrible, isn't it though? How people have really watch everything, you know? Well, I guess that's all then and I wrote all that down. But, uh, like I said, if you can get me another prescription. I would, uh, say thanks. You know, if I get, if I can get it, uh, I
+Nurse: Will, I will message them, um, as soon as we get off the phone here and, and ask them if that would be a possibility and then you'll, I hate to see because I, again, I, I jump from office to office because I do cover for the other nurses. Um, you'll, you'll either get a call back from myself or the office. You'll hear from one of us about,
+Patient: About, if we can get another prescription, you may not, you said I should wait until you can get the prescription if possible. I mean, I, I can't just go up to CV S and get it if it, you know, until we know.
+Nurse: Right. Yeah. No, I mean, because that's a, that's a, you know, that they, that will have to be sent in. Um, yeah,
+Patient: That's true.
+Nurse: Yeah. Well, they will, uh, give it to you about the prescription and as soon as they, excuse me, my voice is cracking. No,
+Patient: These phones though, I have a terrible phone time with these phones. I hate these phones so bad. Anyway, I have the old rotary, I never had a bit of trouble ever with those old rotary phones.
+Nurse: Um, but, yeah, no, as soon as they would send the prescription over they would let, let me know.
+Patient: Ok, and then you'll call me. Is that right? Yes. Ok. All right. Well, I guess that's all I wanted then today. All
+Nurse: Right, I will be getting back in touch with you here.
+Patient: Ok. All right. Thank you.
+Nurse: Oh, you're welcome. You have a great, great day and I'll talk to you again here and
+Patient: You too. Bye bye.

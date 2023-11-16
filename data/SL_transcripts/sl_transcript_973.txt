@@ -1,0 +1,28 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. How you doing? I'm
+Nurse: Good. Hey, this [PHI-Personal], how are you?
+Patient: Oh, not good. Not good. Oh, no. Yeah. Oh, last night and today I got sore throat. Oh, and from my ears all the way down and I was wondering if you have that opening with that other doctor? Yeah. Or is that too? Yeah. Let me pull that up. Hang on. Oh, thank you. Yeah,
+Nurse: No problem at all. I'm sorry. But that you said you, you had a sore throat and some congestion. Is that? Oh,
+Patient: It's basically, so my, my, my throat is sore right down in my chest and up into my ears. Uh, ok. I haven't had something like this in years. Wow.
+Nurse: Ok. Let me just, uh, ok, just a second. Ok. So, um, let's see here. So, Doctor [PHI-Personal] is the new physician. I was telling you about, she has an opening today at [PHI-Account] and one at [PHI-Account]. Um, now we'll say [PHI-Personal] also has opening tomorrow at 10 a.m. but, you know, obviously that's not today.
+Patient: Right. Right. Uh, and 10 a.m. To tomorrow again. What's the largest appointment? It's 9 15, I think. Mhm.
+Nurse: Um, I can look up his again if you
+Patient: Want, uh, you know, I ju, you know, might as well get it because having two of us walking in, in condition.
+Nurse: Yeah, that's true. One, if you've been out of shape, you know, can be one person to lean on.
+Patient: Yeah, I'm telling you. This is ridiculous.
+Nurse: Yeah. Yeah. Yeah. It's probably good that you go in because she can do like a, you know, swab to see if it's like, you know, a strep throat situation and just kind of see what's going on.
+Patient: Right. That's what I'm afraid of. I had had that years ago, years ago. Really? Yeah. And you know, but, and I've been fine ever since but yeah.
+Nurse: So did you want that [PHI-Account] for today or did you wanna come in later?
+Patient: Uh like to make it later is by 10 40? Yeah, make it later. That'll be fine. Ok.
+Nurse: So the next opening would be [PHI-Account]. Is that ok?
+Patient: [PHI-Account]? Ok, dear. Alright, thank you very much. Appreciate
+Nurse: Me. All right, so we'll see you over at, at [PHI-Account]. It's Doctor [PHI-Personal]. Ok.
+Patient: Ok. Yeah, with an
+Nurse: No problem, dear. No problem. I hope you feel better and if you can, you know, gargle with some salt water or just, you know, I've been
+Patient: Doing that. Yeah. So salt water the last couple during the night and everything and,
+Nurse: Oh, gosh, I know. That's a horrible feeling. Yeah.
+Patient: Yeah. Yeah, especially with two of us down. It's, oh, I know. Is
+Nurse: He doing? The one, is Mr [PHI-Personal] doing any better on the antibiotic or is he still kind of having a rough time? Uh,
+Patient: He's having, yeah, he feels like today. He feels like, you know, last night he couldn't lay down in the bed because he said he was, his nose kept dripping. So he ended up laying on his recliner and everything. Got you. So let me see. Yeah, hold on. Uh, you feeling better right now? Are you feeling better right now?
+Nurse: Yeah, I hear the congestion still. Yeah. Yeah. Well, I'm glad it's going the right direction, but definitely he wants to see him tomorrow as well. So, um, they'll see you today at [PHI-Account]. Ok, you're all set there. Absolutely. If you need anything else, give me a call. No problem.
+Patient: Bye bye bye.

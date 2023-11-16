@@ -1,0 +1,14 @@
+Nurse: Good morning. This is [PHI-Personal]. Can I help you?
+Patient: Hi, this is [PHI-Personal]. I'm sorry, I missed your call.
+Nurse: Oh, that's ok, [PHI-Personal]. I left you a message too. I'm glad you called because I do like to confirm you got my message. Um I reached out to doctor [PHI-Personal] office and they were able to get you in with Doctor [PHI-Personal] tomorrow at [PHI-Account].
+Patient: Ok. Let me see. Ok. Hold on just a second. That would be Wednesday, Wednesday. Right? Today's Wednesday. Oh, we uh ok. Thurs, tomorrow's Thursday. Ok. At what time?
+Nurse: [PHI-Account].
+Patient: Ok. Ok. I got it wrote down.
+Nurse: All right, perfect. Um, so if you would happen to get called into work, [PHI-Personal] or something comes up, um, just definitely give the office a call and just let them know, you know what, what the reasoning is, you can't make it. Ok.
+Patient: Yeah, I will. Yeah. Ok. Thank you. Ok, thank you very much.
+Nurse: All right. And [PHI-Personal], if you could just, just be honest with him, what's going on, um, you know, make sure, let him know about the that pain in the chest that you're having, you know, the weight loss, um, so we can see what's going on. Ok?
+Patient: Yeah, I'm always honest with you.
+Nurse: Ok. Ok. I know sometimes you get in there and then you forget to say exactly what you, you'll talk about a little and then you completely forget to say what everything else that's going on too. I've done that myself but um, but yeah, I wanna, I just wanna make sure everything you know is ok.
+Patient: All right. Thank you for your help. I appreciate it.
+Nurse: We'll talk to you
+Patient: Soon. Ok? Bye bye bye bye.

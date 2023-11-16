@@ -1,0 +1,41 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: [PHI-Personal]. All here.
+Nurse: Hi. I think we're playing a little bit of phone tag.
+Patient: Yeah, that's ok. How are you, uh, doing pretty good. And that, um, I was just to the, uh, my cancer doctor on the [PHI-Personal] and, uh, he says, uh, your blood work is excellent. And, uh, and, uh, hey, we'll see you in six months.
+Nurse: Oh, hey, well, that's good. Yeah, that's definitely good news. Um, and, uh, as far as, and I know that you had been to the office for your wellness visit, it looked like last month, right? Is that right? Yeah. Ok. Ok. May May in May May. Ok. Yeah. Yeah. Um, and, uh, things things have continued to, to go well as far as BP wise and, um, you know, still being able to stay active and doing your walks.
+Patient: Yeah, and we're still doing our walks and that, uh, I got a couple numbers for you and then, um, ok, [PHI-Personal], uh, 1 30/73 [PHI-Personal], 1, 29/67. Uh, [PHI-Personal] 1, 26/69. And, uh, so uh, uh, and all right, for me here at the house, I seem to have a little bit of white coat syndrome.
+Nurse: Do you, when you go to the office and go other doctor's offices? Ok. Ok. That, that's understandable, which, I mean, it's good that, you know, that you are monitoring it outside of the office just so that, you know, doctor can kind of get a better idea and make sure that, you know, you're not, uh, not having, you know, any increase in, in BP looks like things have, I mean, those blood pressures that you gave me were perfect. Um, definitely that's, that's good. And, you know, then you guys are staying active and that, that helps too, um, any troubles with any leg cramps or anything.
+Patient: No, not myself. And that, uh, [PHI-Personal], uh, goes walking with me and, uh, most of the time we're able to do the, our little course, which is a mile and seven tents and we do that in about a half hour and, uh, once in a while and that she'll get some, uh, uh, pain in her knee and that, but other than that, uh, we're both doing good, you know, as far as, uh, that kind of walking and that stress it puts on our body or whatever.
+Nurse: Yeah. Yeah, it sounds like and yeah, it sounds like things are, are going, going good and, and, um, you know, she's had, she's had troubles with the her knee before, correct, uh, if I remember correctly. Ok. Yeah. Ok. Um, she
+Patient: Was in for physical therapy for that.
+Nurse: Yeah. Ok. And when she does get those, um, knee pains, does she still have exercises and stuff that she can do to kinda, um, stretch out the, the muscles and, and, or put heat on it or ice on it to kind of relieve that pain.
+Patient: Yes. Uh, she, more or less she does the exercise, all kinds of stretches and, uh, different exercises to do. And then, and she has a set of weights that she puts on her ankles and that, that she works out with as well.
+Nurse: Ok. Good, good. Yes, absolutely. Um, and otherwise, uh, you know, the, the pain has been well controlled, um, if, if there is any, then it seems like it's able to be, be well controlled between the stretches and other, other interventions. Right? Ok. Ok. Um, oh, my goodness. I just had something on the tip of my tongue that I was gonna say. Um, no, as far as, um, eye appointment wise, it looks like [PHI-Personal] has had her eye appointment. Are you due for a yearly eye exam?
+Patient: Uh, not until [PHI-Personal] or no? Or wait a minute, I can get confused sometimes on these appointments. That's ok. Ok. Ok. Ok. I saw Doctor [PHI-Personal], um, in [PHI-Personal].
+Nurse: Ok.
+Patient: Ok. And, uh, that's when I saw him and, uh, and everything was hunky [PHI-Personal].
+Nurse: Good, good, good deal. All right. Um, and then as far as you're aware, [PHI-Personal] eye appointment turned out ok, too. No, um, no troubles with any change in her vision or anything.
+Patient: That's correct. And, uh, she went to the gynecologist last week and then I took her there and, uh, that one a, ok.
+Nurse: Ok. Ok. Good. Um, was that just for a check up or a follow up? Does she go every so often? Is that? Yeah.
+Patient: Ok. To check up?
+Nurse: Ok. Ok. Good. Good, good, good. Um, and everybody been doing ok as far as allergy symptoms,
+Patient: [PHI-Personal] suffers more than I do and, uh, some days, uh, she gets, uh, uh, runny nose and, uh, a little bit of coughing and, uh, nothing too serious and that, but when she wakes up in the morning it seems like it's, uh, her nose is, uh, runny a little bit then.
+Nurse: Ok. Good. I mean,
+Patient: I get it once in a great while and that, but, uh, you know, I'm cut off.
+Nurse: Ok. And probably more so you're probably more so affected by it. If the pollen counts, like, really, really out of, out of whack, they're really crazy in that one
+Patient: Yesterday. I cut the grass and all and, uh, didn't have any problem.
+Nurse: Ok. Ok. Good. Good. Good. Yeah,
+Patient: I know. This is a sweat.
+Nurse: Yes, definitely. Um, always and just, uh, just as long as you, you know, you build up that sweat and then you make sure that you hydrate real well afterwards. So that way you don't have any chance of dehydration or any of that stuff. We don't, uh, we don't need any of that. Um, and then, uh, [PHI-Personal], when you are outside mowing the yard, uh, do you usually put sunscreen on since you'd be out there for a little bit longer than, you know, the, uh, 15 minute time frame?
+Patient: No, I don't usually use, uh, sunscreen and that, uh, I wear a shirt and, uh, and, uh, only get a little bit on my arms and, uh, face but it, uh, doesn't bother me that much. And, uh, uh, I go see doctor [PHI-Personal] in [PHI-Personal] and, uh, and, uh, I've had a touch of skin cancer but nothing, uh, really out of the ordinary.
+Nurse: Ok. Ok. Um, and
+Patient: Had to have a couple of spots removed.
+Nurse: Got you. Ok. From your, from your face or just like other places on, on your body face. Got you. Ok. Yeah. Um, how about wearing, uh, sunglasses when you're outside to protect your
+Patient: Eyes? Yes, I usually take them with me and, uh, when we go walking but you, it's usually early in the morning as well.
+Nurse: Ok. Ok. Yeah, that's good just to, you know, cause I know as, as we continue to, you know, the temperatures continue to be warmer and, um, you know, just trying to, trying to keep everybody protected and, and make sure nobody um, has any chances of, you know, getting dehydrated or any sun, um, like heat exhaustion or anything like that. Because I know that, uh, is, uh, you know, that it is the season, I guess we could say, um, with the temperatures being warmer and humid in the, during the mid portions of the day and that, uh, tends to cause a cause a problem for some people. Um, and I know they always say to, to really watch, um, your medications that you take to be sure that none of them are, um, have any warnings or cautions on there about, uh, you know, being cautious in the sun or, you know, not too long a sun exposure. Um, and I know, um, you know, that's always something to, to pay attention to too. So, um, just trying to think, I think everything sounds like we're, we're doing well. Um, do you have any questions or concerns for me on anything?
+Patient: No, like I said, I went to the cancer doctor and, uh, and he was pleased with, uh, my blood work and that, and I thought I looked pretty good and all and, uh, uh, see him in [PHI-Personal].
+Nurse: Perfect. All right. Well, that sounds, sounds good. And if either one of you need anything, uh, let me know otherwise I'll talk to you guys towards the end of next month. Ok. All right. Have a good day, [PHI-Personal]. Yeah,
+Patient: You too. Thank you for your
+Nurse: Call. Thank you. Take care.
+Patient: Bye bye
+Nurse: Bye.

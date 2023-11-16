@@ -1,0 +1,8 @@
+Nurse: Good morning. This
+Patient: Is [PHI-Personal]. Good morning. This is [PHI-Personal] calling. I got a message from you um regarding I Yes.
+Nurse: Um I'm sorry, I'm fairly new MS [PHI-Personal]. So I was, I I actually ended up getting a hold of Edna, so I I was just, you know, checking in on her. I'm gonna be her new nurse from this point forward. So I wanted to, you know, introduce myself first. Also, my name's [PHI-Personal]. So you can get a hold of me at this number if you ever need anything for her, any help with, you know, helping her get, you know, stuff that she may need or medication refills, things like that. And then the other thing, I was just seeing if you guys had any questions, but uh she and I discussed her knee pain pretty extensively this morning. I gave her a few helpful hints and you know, things to talk to the pt about, you know, when they, they come to see her this week. Um Do you have any questions or concerns you'd like me to address?
+Patient: Not that I can think of right now. Ok. Grateful for the, for the care that we're getting for her. It, it helps so much. So yeah, we're thankful for that, but that's from this point
+Nurse: Forward. So if you need anything, please call. Ok.
+Patient: All right, I appreciate it. Thank you.
+Nurse: Thank you. Have a great day,
+Patient: Linda. You too. Bye bye.

@@ -1,0 +1,13 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] returning your call.
+Nurse: Yes, ma'am. I was calling to let you know I got you scheduled with podiatry. Ok, I sent you a Mychart message as well. Um, it is for, let me go back and look really quick.
+Patient: Oh, I wanted to take my dogs out. It's starting to rain here.
+Nurse: It's [PHI-Personal] at 2 50. Ok.
+Patient: [PHI-Personal] at 2 50. Yes,
+Nurse: Ma'am. And it's at that specialist office.
+Patient: Ok. Ok. Thank you. You're welcome. You have a good day. Did you find out anything about [PHI-Personal]?
+Nurse: I did not, I was only able to schedule for you.
+Patient: Oh, ok. I will call back over there then.
+Nurse: Ok. Thank you. Have a good day.
+Patient: Thank you very much. You're welcome. Bye bye
+Nurse: Bye.

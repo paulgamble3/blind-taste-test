@@ -1,0 +1,23 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal] Ing. How are you? I'm
+Nurse: Good. How are you? Good, good. Um, so uh your doctor wants to increase your medication for the BP? Yes. Um Lisinopril Hydrochlorothiazide 12 20-12 0.51 by mouth daily in the morning. What pharmacy do you want that medication to go to
+Patient: Uh Walgreens on [PHI-Geographic]?
+Nurse: Ok. You know, and I think you, oh, go ahead. No, go ahead.
+Patient: I just wonder is that an increase in the water pill too or just the BP?
+Nurse: Like let me see what you were taking before if I can find it. So, um they just, I think I know that I had this wrote down. I just could not. Oh,
+Patient: No, I, I can tell you, let me find it here. I just um it's not that high but I know she wants to get down a little more. Um, it's the H 10-12 0.5 mg right now.
+Nurse: Ok. So the, the Hydrochlorothiazide stayed the same. The Lisinopril is 20-12 0.5.
+Patient: Ok. Yeah. Ok.
+Nurse: All right.
+Patient: Ok. Well, thanks [PHI-Personal]. I appreciate you calling
+Nurse: And I will send this back over to her and so you should be able to pick up this medication, you know, later today or tomorrow whenever you get a chance. Yeah,
+Patient: I, I'm in [PHI-Personal] so I probably won't get it until later this week, but I will because I've got some other things there too. So, yeah. All right. Thank you.
+Nurse: And when you get, and when you get the medication m make sure you're still checking your BP and that it's not going too low. Um you'll feel like dizziness, confusion, stuff like that. So make sure that's not happening. If you do find any you're getting those symptoms of it being too low, make sure you reach back out to us so we can let her know.
+Patient: Yeah, because I sort of feel funny on it now but it's not, you know, it's staying about [PHI-Account] 35 [PHI-Account] 40 which isn't too bad but right, I'll try it out. I'll see how it
+Nurse: Goes. Ok. Well if you have any questions concerns anything that comes up anything that has you worried? Make sure you reach out to us.
+Patient: Alright. Ok, thanks, I
+Nurse: Appreciate. All right, you're welcome. You have a wonderful day. I'll meet you in person hopefully soon.
+Patient: Are you in the office or you in a different office?
+Nurse: No, no, we're in the office. We're just in a different area. Yeah.
+Patient: Oh well then I'll yeah, I'll reach I'm coming in the end of [PHI-Personal] so maybe then I'll ask you about you know a name and a face
+Nurse: So yeah, exactly. Alright you have a wonderful day and be safe. Alright bye bye bye bye.

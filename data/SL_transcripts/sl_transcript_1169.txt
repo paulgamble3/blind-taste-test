@@ -1,0 +1,11 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. You had gave me a call? Hi, [PHI-Personal], how are you? Fine, good. Give me one
+Nurse: Second just to pull your chart back up. Ok.
+Patient: I, I think it's for me like more. I'm sorry. Oh, is this office? Um,
+Nurse: Yes, I was calling you on on behalf of [PHI-Personal] to talk to you about her care management program. Uh huh. Ok. So let me just tell you real quick that this call is gonna be recorded for training purposes. Ok. Ok. All right. So the care management program is something new. The physicians are offering. You would receive a phone call from a nurse who would call you in between your appointments. Your nurse would answer any questions or concerns, assist with medications, lab results appointments and anything else pertaining to your health. Your n your nurse would be an added resource for you and would keep [PHI-Personal] updated with your current conditions and any changes that may be happening. And the program al and the program also helps avoid emergency room and urgent care visits as you would be able to call your nurse directly with any medical questions or concerns? Ok.
+Patient: O ok.
+Nurse: So the care management program is a billable service to [PHI-Personal] and secondary insurance carriers and the calls are subject to deductibles copays and co insurance. Now you have [PHI-Personal] and a $0 copay. Is that correct? Yeah, perfect. So you could choose to get calls on a monthly basis or you could get them every couple of months. That is completely up to you. Would you prefer a morning or an afternoon call from your nurse?
+Patient: Uh No, I don't need I don't need it.
+Nurse: Ok, can I mail you some information in case you change your mind in the future? Yes, you can. Ok, let me just confirm your address. I have [PHI-Geographic]. Yeah, perfect. I'll mail you out the information if you change your mind, just let us know. Ok, I sure will. Alright [PHI-Personal], thanks for calling me back. I appreciate it. I hope you have a great day.
+Patient: Alright, you too. Thank you. Thanks
+Nurse: Bye bye.

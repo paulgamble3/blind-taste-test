@@ -1,0 +1,31 @@
+Nurse: This is [PHI-Personal]. May I help you? Yeah, somebody called here, I think it was here. I called here to talk to me and I was away from my phone. All right, hang on just a moment. Let me look and see for you. Ok. Much downstairs. It was hang on just a moment. Ok. Ok. Yeah, first of all, thank you. Oh good Lord. And you're a city manager.
+Patient: Thank you. Is this name?
+Nurse: Yeah, this is you called me.
+Patient: Yes sir. I was just calling to check on you see how you were doing today. I I'm
+Nurse: Doing pretty good and I was expecting to see her to call me any, any day now. She usually calls me. Yes,
+Patient: Sir. Um I'm just helping out. I'm one of the nurses uh here as well and um I was just calling just to help her out. Oh ok. I'm pulling up your chart if you give me a minute. Mhm. Ok mister [PHI-Personal]. I have your chart up now. Ok. You know, so yeah, I was calling to see how you was doing. Um do you need any medication refills? Anything
+Nurse: That that that I do need my Vigo forties. I need refill. I got enough for 67 days. Mm.
+Patient: And [PHI-Personal] is your pharmacy? Yes.
+Nurse: Very expensive. That's why I called. Good. But don't take it just for me know what an expert mechanic has to say about the cost of repairs these days.
+Patient: And, um, how's your diabetes been?
+Nurse: It's been holding its own pretty good. Uh, it runs, uh, 100 between 100 and 25 and 100 and 45 in the mornings and at night it runs, uh, between 90 100 and 10.
+Patient: And you're taking your medications as ordered. Ok. And, um, are you watching your diet as well? Trying to stay away from those carbs?
+Nurse: I, I'm trying to, I am trying, it's hard. It's hard. That's right now, once in a while a goodie comes across the table or I can't pass up.
+Patient: Yeah, I, I understand. I totally understand. Yes. Do you try to, uh, stay active? What do you do to try to stay active?
+Nurse: Uh, I got tinker in my shop and I mow my grass and rake my lawn and whatever else I need to do therapy three times a week and, and,
+Patient: Oh, you stay pretty busy. Yeah, I,
+Nurse: Uh, I take a day now and then when it's rainy I take the day and sit on my butt and watch TV, all day. But for the most part I stay pretty active.
+Patient: Ok. Well, that's a, that's a good thing that you stay active. Yeah, it'll help with the, you know, cholesterol and the diabetes. Right. And, um, also if you, uh, increase your fiber, the fiber would also help with your, uh, cholesterol. Uh,
+Nurse: Yeah, I, I do, I do, uh, uh, kind of keep an eye on my fiber. I try to get as much fiber as I can every day.
+Patient: Ok. Good, good. And I see you're taking the Omega three. So, um, that's good as well. The fish.
+Nurse: Yeah. Yeah. Oh yeah, and twice a day.
+Patient: Yeah, so that's uh that's really, really good.
+Nurse: Ok. No, for [PHI-Personal] years old I think I'm in pretty good shape.
+Patient: Ok, good. That's, that's great to hear. And um, I'm happy you're staying busy and like I, I know you said, you know, it's hard to cut out those sweets but try to eat more fruits and veggies, you know, if you can.
+Nurse: Oh yeah, I, I don't over indulge, like I said, once in a great while I come across the table that uh I just can't turn it down.
+Patient: Mhm. Yes, sir. I understand. I totally understand. Um, well, is you sure that's all you need refilled is the um,
+Nurse: Yes, you ju I just had everything else refilled. Ok. Last last month.
+Patient: Ok. Yes, sir. Well, I'll make sure to uh to send that in for you to [PHI-Personal]. Ok. Do, do you need anything from me?
+Nurse: No, not that I know of right now anyhow.
+Patient: Ok. Well, um if you need anything, just let us know, make sure you have a great day. Thanks for calling back. Yep.
+Nurse: You're welcome. Ok, bye bye bye.

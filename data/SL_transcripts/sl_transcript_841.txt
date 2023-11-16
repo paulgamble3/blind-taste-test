@@ -1,0 +1,65 @@
+Nurse: Hello, this is [PHI-Personal] with the Pulmonology clinic. How can I help you today?
+Patient: Hi, [PHI-Personal]. I think. Is there [PHI-Personal] in the office?
+Nurse: Yes, there is a [PHI-Personal] too. Uh huh. Were you just speaking with her?
+Patient: Well, uh, I think it's she who left the message and I might have been talking to her the other day. Can you help me or? Yeah, I can help you.
+Nurse: Ok. Let me get your first and last name and birthday and I'll pull up your chart and see.
+Patient: Ok, [PHI-Personal] Lia, L [PHI-Personal] ma nn [PHI-Personal] birth date. [PHI-Account]. Ok.
+Nurse: Sorry. Give me just a second. I'll see. What? Yeah, she left a message. So, is this for your nebulizer? Accessories and portable oxygen?
+Patient: Yes, it was, um, it was initially just for the portable machine and then I asked her how I could get a hold of for some re, you know, I, I lost the cup to my nebulizer. 00, I mean, it's like I thought I could just go to Walmart and buy one, you know. Yeah, you can. So she said she was going to help me get that and, and I think there was something else I needed and didn't know I needed a prescription for.
+Nurse: Yeah. And I think she put it, um, she says it's, she says, um, it was ordered and it's processing with the medical equipment company. I'm gonna check something really quick and see if I can find maybe like the status on it. Um,
+Patient: Just give me a second. So, so that doesn't go to a pharmacy that goes to like a company.
+Nurse: Yeah. Yes. Yep. So it goes to, yes, a medical, um, equipment company. This one's called AA and it says the order was accepted. Um,
+Patient: Ok, wait a minute. Which for um, that is who my oxygen comes from. Who is it? Yeah, I thought it's pronounced [PHI-Personal] apr IC [PHI-Personal]. Oh, that sound, let me just make sure. So there could be another company.
+Nurse: Yeah. The one that they sent it to you was a P RIA. So I guess we need to verify. Isn't that weird?
+Patient: You know, I'm trying to see where they, they have been the worst company I've ever dealt with. I mean, they dropped my oxygen stuff off and left. I have no idea how to use. There's, you know, it's a fill one where I can fill my tank. I don't even know how to use that. I didn't know I needed a, you know, it was ridiculous. So I feel like I'm being such a pain in the ass to them. But, you know, I have an oxygen store right across the street from me that if I call them right now he'll walk over and help me. But these people are in [PHI-Geographic], which is 45 minutes from here. So, yeah, I make, make sure, let me just look it up and make sure it's [PHI-Personal].
+Nurse: Yeah. [PHI-Personal] P [PHI-Personal], I might even, I'm, I don't, not sure actually how to, like, pronounce it, but that's the one that it was sent to.
+Patient: Did you have a fax number for them?
+Nurse: Um, let me see
+Patient: Because I saved, um, that stuff. I don't, the
+Nurse: [PHI-Account]. I don't think this affects number. Oh,
+Patient: My God. You know what? You're right. I'm sorry. It's a Ap [PHI-Personal].
+Nurse: I a ok.
+Patient: Oh my God. I swear to God. All this medication I'm on is killing my brain.
+Nurse: I know it is a lot. It's like, really? And it's on is, it says their address is on [PHI-Geographic] in [PHI-Geographic].
+Patient: Well, they must have, um, it, there, there are a lot of offices.
+Nurse: Yeah, that's true. So, maybe this might not be the one that's closest to you.
+Patient: Yeah, because I had to go to this one to have a special test done with. Oh, for God's sake. She could have just come to my house. Yeah. Instead of me waiting, let me just check and see what, um, locations they have. Oh, God, they have location. There's one in [PHI-Geographic]. There is. Oh, my God. There are so many that they're giving me, uh, so many miles from me. There's one in [PHI-Geographic], one in [PHI-Geographic], one in [PHI-Geographic]. Oh, my goodness. Yeah. Which one did you say it was?
+Nurse: Um, well, the one where we sent pro, um, where they process the contact information I'm looking at for where it was processed, uh, on [PHI-Geographic] is in, um, [PHI-Geographic], in [PHI-Geographic], Pennsylvania,
+Patient: [PHI-Geographic].
+Nurse: Mhm. I know sometimes they have like, uh, I don't know, they're like headquarters or, or, you know, like processing and then they send the orders to the site. I was talking, it wasn't this company, it was another one the other day and it's hard because where they have, like, their borders of service, um, the person is kind of like almost in between, but for some reason they fall to this one who's actually like an hour and a half away from them. So they're gonna have to drive farther to get to his house, which I don't know, they were venting to me about, it was like, I can't control that. Like, then make the other branch because he, he, I don't know, they were just trying to make like, excuses for it. But I was like, but then you need to have the other branch even though it's on his territory. If it's closer, have them service him. Like I am not your company. Like, you know, what I mean? And I'm
+Patient: So not because I've been with, you know, the [PHI-Personal] across the street for, like, 10 years and, you know, when they wanted to do service here I said what? You can't come until the week after next. Yeah. So, I know there's a time frame that you can, can't switch.
+Nurse: Right. And I think it's, um, because you have [PHI-Personal]. Right. For insurance. Yes. I think it's like 17 months to five years. Oh,
+Patient: Christ.
+Nurse: It's horrible. Are you in, you're in between that?
+Patient: Oh, yeah. This, my s, my switching to [PHI-Personal] just happened right in [PHI-Personal]. You know, because I was told by my doctor that a Prio was the only [PHI-Personal] that, um, to get me a portable.
+Nurse: I have, I have heard there's places that have, we've tried to switch people to different companies because, like, they're either on, like back or, or they just can't get them in and so they'll go to whatever company has them. But if you've been with them for less than 17 months you can switch. So it's, if you've been with them more than 17 months, between 17 months and five years, so you could switch. But
+Patient: Wait a minute if it's, if it's under 17 months you and switch.
+Nurse: Yes. So, if it's under 17 months or more than five years, hang on, let me look up the rules again. I know. It's weird. It doesn't even make sense. Like the time frame, but let me look this up to make sure that I'm telling you correctly. Um, but then the other thing will be if you can, like if the people, the other company has the portable machine.
+Patient: Yeah, they do, they have them up on the shelf and everything, but they don't do the, uh, we don't do that OVD or O CD particular testing with the mouthpiece. Uh, and I, I already had that done. Oh, ok. You know,
+Nurse: Um, ok. So if you want to change companies, you have to have been with the current company less than 17 months or more than five years.
+Patient: Oh, cool. Then I can call because they're all mad at me.
+Nurse: So I think if you want to, you still fall. If it's [PHI-Personal], you fall less than 17 months.
+Patient: Ok. I'll have to call and tell him, you know, to not turn your head when you see me more than five years. I know because I always got him homemade biscotti and all this stuff about that. I bet. Ok. So the message from [PHI-Personal] was that it's on order.
+Nurse: Yeah, but they sent it, they sent it to the [PHI-Personal] company and they're, it's the order's been accepted. So they're just processing it. They're just whatever they got do on their end to run it through insurance and everything.
+Patient: And that is the portable machine.
+Nurse: Yeah. The portable machine and the nebulizer supplies.
+Patient: Ok. Ok. Supplies. Because I must have like 10 nebulizers around here. You know, between my, I had six kids and every time the kids got asthma we got a new one. So he would get, he would get one. Yeah. So my
+Nurse: [PHI-Personal].
+Patient: Mhm. That was approved. He signed it and it's just being processed
+Nurse: By [PHI-Personal]. Mhm. Yeah. The doctor
+Patient: There. Mhm. All right. So then I just have to worry about [PHI-Personal].
+Nurse: Yes. So. Oh, yes. Do you want to try to change back to that
+Patient: Other? Well, I'm gonna wait. Yeah. No, I'm gonna wait until I have that thing in my hand. You know, because my father's dying in, in [PHI-Geographic]. Ok. Um, I've already flown there, you know, and just kinda held my breath, you know, because it's a short flight and they don't go real high in the air to [PHI-Geographic]. Yeah. So, I've, I've suffered through it, you know, and then he'd meet me on the end with a, with a tank. But I, I don't, yeah, I don't wanna risk that one of these days. I'm not gonna be able to breathe and I, I got to make a call to the [PHI-Personal] and see if they do have, you know, they probably don't advertise that. Or everybody with cop will be flying places
+Nurse: For, I think, I think they do. I was talking to someone, I think they do. What was she saying? Because she's going on a trip actually out of the country because someone got bought her, this gift for this like cruise. She's did a lot of work with her oxygen and I think she said something about, I, I think the airline can supply you some, but I think you have to call about it and it's an extra expense I think is what it is.
+Patient: That's what my dad said. And, yeah, you know, with this thing that I saw, you know, once I get on the plane, I don't need it. You know, I got oxygen blowing right in my face and I ha I've never needed it, but I know you can switch this one under the seat in front of you. Yeah. And then you have a portable one, you know, because I don't wanna have to go through that whole nine yards of getting myself a tank when I'm down there the mouth. You, you know what I mean? So, all right. So yeah, she was calling to me to say that it's all been approved as far as you guys and I'm just waiting.
+Nurse: Yep. Yep. Exactly. And then I should be calling you or if you wanna reach out to them to see the status, you can, um, the nice thing is you still have time if you wanna get this and then you know, this summer when things you feel like calm down and you wanna switch companies, then we can do that. Just don't let it go over the seven
+Patient: Months. Ok? I have to wait. So, over something. 17
+Nurse: Months. No, no, don't. Um, it has to be less than 17 months. If it's like 18 months or 20 months that you've been with [PHI-Personal] and then you want to change, they'll make you [PHI-Personal] will make you stay there until you've been there for five years. So you can switch if it's less than, yeah. So, 15 months from?
+Patient: Ok.
+Nurse: Well, when did you get started with them just now? Uh
+Patient: [PHI-Personal].
+Nurse: De [PHI-Personal]. Ok. So it would be, yeah, 17. Well, actually
+Patient: [PHI-Personal], I was in the hospital and I probably didn't get hooked up with [PHI-Personal] until maybe [PHI-Personal] or [PHI-Personal].
+Nurse: Yeah. So you still have, yeah, like a year, couple months. Ok. And some
+Patient: Months. Yeah, once I get it in my hand and everything that I need, then I'll switch because even superior didn't have the testing modules for doing this thing. And it was just me walking without air and how low did my thing go? My oxygen? So, all right, you've been very helpful if we didn't cover something, just he wanted to say I'll be home all day.
+Nurse: Ok, sounds good. Thanks Paula. Alright. Thank you. You're welcome. Take care. Bye bye.

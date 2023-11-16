@@ -1,0 +1,34 @@
+Nurse: This is [PHI-Personal] Care manager.
+Patient: Hi, [PHI-Personal]. It is, uh, calling for Price.
+Nurse: How are you doing today?
+Patient: Ok. Um, I haven't talked with her but her, um, leg has been hurting her again where she has that. Oh, it's like a sore that won't heal.
+Nurse: Ok.
+Patient: Has put her on an antibiotic?
+Nurse: Let me see here. Ok. Um, um, area. So I'm not seeing an antibiotic in our med list. Let me take a look. See.
+Patient: Yeah. She, she probably hasn't taken it for several months.
+Nurse: Oh, he had previously put her on an antibiotic for it.
+Patient: Yeah. Well, I got you. Yeah, I was wondering if he could call that in. Um, my husband just had hip replacement surgery and I, I probably can't leave for too long in the next few days and I didn't know if that could be called in so she doesn't have to make a trip to see doctor
+Nurse: [PHI-Personal]. Right. Ok. So, do you know when she was placed on that antibiotic before?
+Patient: No, I don't.
+Nurse: Oh, ok. Um, because I was gonna try to find that note for whenever he saw her previously so I can send that to him. With the current complaint that it's the same problem. Um,
+Patient: It was probably written on one of her visits. So she goes, like, every six months.
+Nurse: Yeah, I see that here. Do you have a guesstimate of around when it was that she had that problem before?
+Patient: Oh, well, she's had that problem for, for a few years. It just, she was at the wound center. I mean, nothing worked for her. But it seems like once the pain starts again that it's back.
+Nurse: Ok. So she ha just so whenever sh she uh I'm sorry, my to, I'm getting tongue tied here. So she's having swelling in her legs that causes pain. Is she having any redness or weeping or anything? No, there's
+Patient: No swelling. It's just the pain that goes up her leg from where that sore is.
+Nurse: Ok? Got you, got, you got you. Um So let me, let me send doctor [PHI-Personal] a note here. Um Let see if I can find anything specific.
+Patient: She was probably there in [PHI-Personal]. I know, I think she was there maybe in [PHI-Personal] of this [PHI-Personal].
+Nurse: Ok. She has an appointment
+Patient: Scheduled for early December with doctor. But um I probably can't get her down there for a week or so unless I could get someone else to take her.
+Nurse: So she's having pain in her leg that is radiating up from the sore on her leg. Yeah. And so denies. So there's no weeping. There's no redness.
+Patient: I don't think there's redness. She keeps, uh, she keeps a bandage on it a lot just so she doesn't bump it or?
+Nurse: Ok. So, you don't know if it seems like it's looking angry or infected or anything like that? I
+Patient: Could, are you gonna be there all afternoon? I could call her and get back to you and I get some more information.
+Nurse: Yeah. I just wanna send him the most detailed note I can. So we're more likely to get the antibiotics without having to do a visit. Um, is her
+Patient: Her her?
+Nurse: Yeah. Is it [PHI-Account]?
+Patient: No, that's my number
+Nurse: And then I have another one here is four ze ends in [PHI-Geographic]. Yeah, 643 and that's her number. Yeah.
+Patient: So let, let me call her right now and tell her you're calling. If she doesn't recognize the number, she might not pick up. So.
+Nurse: Ok, so I'll give it a couple minutes and I'll give her a call and then I'll give you a call back whenever I'm done. How does that sound? That's great. I appreciate it. Ok. All right. So uh you're welcome. Bye bye. Ok,
+Patient: Bye.

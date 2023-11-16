@@ -1,0 +1,89 @@
+Nurse: Hello, this is the case manager with [PHI-Personal]. How can I help you?
+Patient: Hi, this is, and I got a call from you while I was on the phone.
+Nurse: Yes. I had just called you to check up on you and check and see how everything was going.
+Patient: Well, I'll tell you, I, I have been very tired and achy. Uh, I mean, I'm, I'm able to do my stuff and everything but it, it's just, and I talked to several different people who feel the same way. So I don't know if there's something going around or what
+Nurse: They, um, I mean, they're very well could be, um, I know that for a while there, there was a stomach bug going around, um, tired and achy. I mean, today it can be hard because it could be related to the weather that. Oh,
+Patient: Absolutely. I know that, um,
+Nurse: Has this been going on longer than like
+Patient: A week, a couple of days? Uh, you know, and I, the person I was talking to on the phone, she has had this kind of the same thing. So I thought, well, I guess it's, you know, spreading around. I don't know.
+Nurse: Yeah, I know. Um, I mean, COVID is increasing but it's thankfully it is a mild form so it's just like AAA, mild cold at this point.
+Patient: Mhm. Yeah. It's just that it's, you know, I mean, I force myself, I just get done cleaning and stuff and I don't particularly wanna do it but I do it, you know. But you, shall I wait a while and call you if it doesn't go away?
+Nurse: Yeah, I'll ask Doctor [PHI-Personal] what he feels on it. And see, unfortunately there's not a whole lot that necessarily can be done for me with tired and achy. I mean, we can, uh, do some labs possibly and see if it's, you know, vitamin deficiencies or something. Um, are you staying hydrated? It's been really warm lately. And, um, as we get into spring and summer I have to drink a little bit
+Patient: More there. Well, I, I drink pretty much so I don't think it's that. Do you want to, uh, wait and see if it goes away and I'll call you Monday if it doesn't and make an appointment?
+Nurse: Yeah. What I'll do is I'm gonna put this through the note with [PHI-Personal]. Just get a little bit more information from you. So, he's got a baseline and let him know that, um, if you're still feeling this way we at, on Monday that you'll come in for an appointment.
+Patient: Yeah. Absolutely. Ok.
+Nurse: Any, any fever,
+Patient: No fever?
+Nurse: Ok. Um, any specific joints that are aching or is it just a whole body?
+Patient: It's the whole body and it's not a bad ache but it's there that I don't wanna do anything, you know?
+Nurse: Yeah. So it's decreased your energy. All right. How about your appetite?
+Patient: Uh, it hasn't gone away. I'm sorry to say.
+Nurse: Yeah, that when COVID first came out we were going through all those symptoms. I'm like I could take the weight loss. You, I, I could do. Ok, if you just give me that symptom. Keep the rest.
+Patient: Yeah. Right.
+Nurse: Ok. So, no swelling,
+Patient: No swelling. No. Ok.
+Nurse: Any changes in your bowel habits.
+Patient: Uh, no, pretty much the same. A little, a little loose once in a while.
+Nurse: Ok. Ok. Any changes in your vision?
+Patient: No, I, I need to go see the eye doctor. Uh, uh, uh, I've had that for a long time. I just haven't been there. So, you know, there's a little bit of, of, uh, change but it's been that way. It's, I just think I need to get my glasses changed.
+Nurse: I know how that goes. Those, those always tend to be the last ones booked. Yes. Um, any hair falling out changes in that. No. Um, and you said no weight gain then, right?
+Patient: No, no weight gain, no weight loss. How,
+Nurse: How's your skin? Any dry, rough, pale skin? No brittle,
+Patient: Brittle nails. It, no, they're about the same as always.
+Nurse: Ok. And, uh, any puffiness of your face.
+Patient: Puffiness is on my face. No.
+Nurse: Yeah. Ok. I always like to double check. You do have hypothyroid here. So I wanna make sure that none of these, um, just, you know, tiredness, low energy, um, all of those things could be related to the thyroid condition that you have. So, I like to go through the rest of them and make sure that you're not having any of those.
+Patient: Ok.
+Nurse: It's, uh, thyroid is one of those things that it could really be a mix of different symptoms. So, all right. So you do have tiredness. You do have low energy, um, any increased sensitivity to
+Patient: Cold, to the cold. Yes. No. Ok. All right.
+Nurse: So, I'll put that through if you start noticing any of those things. Um, let us know we'll definitely get your thyroid rechecked there. Um, any problems with your medication or any questions on your medication.
+Patient: No, I was taking Eliquis and they told me to stop that and I've stopped that the beginning of this month, but I don't think that has anything to do with it
+Nurse: When you say they told you to stop that.
+Patient: That. Was that your doctor? I think she, what, what does she do oncologist? Mhm. All right.
+Nurse: Yeah. So I still have you on it. So, I want to make sure we have that.
+Patient: Yeah. As of [PHI-Personal]. I quit it. [PHI-Personal]. Ok.
+Nurse: I see the note where they did were discussing the IV Reclast. Um, was it that, that appointment that she stopped it?
+Patient: Oh, well, it was the last appointment I had with her. So, yeah, [PHI-Personal] I have. Ok. Yeah. Ok.
+Nurse: Yeah, I'll have to give him a call. The last note I have is she's currently taking Eliquis one tablet twice a day.
+Patient: I told her that. Uh, yeah. So I did quit that because she said it's time to quit. Ok.
+Nurse: Not that I don't believe you, but when it comes to Eliquis, I like to have it in writing from the
+Patient: Doctor because it's
+Nurse: Such a important medication. Now, did she put you on any aspirin?
+Patient: Yes. You know what? I don't think I ever quit taking baby aspirin, but I am taking it now. Ok, perfect.
+Nurse: I always get nervous when they cut you guys cold turkey.
+Patient: Yeah.
+Nurse: Ok. So stop the um, Eliquis [PHI-Personal]. I will get that in writing just so that we can have a good paper trail there. And I always like when they talk, when they communicate with the, with the specialist and doctor [PHI-Personal] communicate together.
+Patient: So that's the best overall free idea. Yeah. Ok. So what do you, you want me to call on Monday or you gotta call me or I will
+Nurse: Call you on Monday. Are you ok with Monday morning?
+Patient: I'm good, Monday morning.
+Nurse: Ok. So I'll call you Monday morning to check in right now. You know, just rest, make sure you're getting enough sleep. Make sure you're getting enough a well rounded diet. So, enough protein in your diet if you're not eating well and you're not having your vitamins and minerals, um, and your protein and that's also gonna make you feel a little bit more achy and tired. I know that you've had this change and, um, you'd like to come in if you're still feeling this way on Monday. All right then. And we'll see what he has to say. Ok. Now, um, that being said if anything changes and you want to come in tomorrow, we can definitely get you in
+Patient: Tomorrow. Ok. And you're not open on Saturdays at all,
+Nurse: Are you? No, I don't think so. I office
+Patient: Hours on Saturday. Ok. All righty. Well, I will call you if I need
+Nurse: To. All right, and no nausea or vomiting, right?
+Patient: Oh, no, not vomiting. Ok, good.
+Nurse: All right. I think that covers everything. Any questions from your last appointment with your oncologist about the bisphosphate she was referring to.
+Patient: No, I don't think there's any and it's been a while and I tend to forget. So, um, you know, I can't think of anything that I have questions about. Ok.
+Nurse: Now I do, um, I, before you go, I did just want to double check real quick because I, I know um, it was mentioned in one of the doctor's previous notes and it was mentioned in your, um, oncologist note as well that you're taking, uh, calcium and a vitamin D. Correct. Yes, it's not on your medication list. And I'd really like to add that. Do you know what the milligrams are on
+Patient: Those? Let me go look. Ok. Thank you. 2500 MC G.
+Nurse: Um, for the calcium or for the vitamin D.
+Patient: Well, this is, this is what I'm taking is B [PHI-Account]. 0, you're
+Nurse: Taking B
+Patient: [PHI-Account]? Ok. Yes. Yes.
+Nurse: Oh, that's, uh, ok. So I, now it, you're not taking any calcium?
+Patient: No, I'm just looking, I'm just taking my regular pills. Plus this vitamin D or B [PHI-Account]. I mean,
+Nurse: You said [PHI-Personal]
+Patient: 2500. Hm. Wait a minute. What calcium I taking? I don't, oh, I have a one here. Calcium 600 but I don't take it every day. I wasn't told that I had to. So I just take it once in a while.
+Nurse: Thanks. Um, you should definitely be taking that every day
+Patient: Because that's what doing
+Nurse: That. Yeah, with the osteopenia that should be every day to help prevent any further bone
+Patient: Loss, right? Ok. I will start taking it again
+Nurse: And, um, every day. Now, is that calcium? You said it was 600?
+Patient: Uh, let me see. Yeah, it's 600 mg plus D three.
+Nurse: Ok. Good. Ok. Yeah. Um, you wanna make sure when you're picking up calcium that you make sure you either have of the calcium plus the vitamin D or you add a vitamin D into it. The body actually can't absorb calcium if you don't have enough vitamin D.
+Patient: Ok. So this one's ok since it has vitamin D uh, three. Yes, ma'am. Ok. I'll be taking it. I got a full jar here.
+Nurse: All right. Sorry to add some more pills to your morning routine. I don't want you falling in, in a fracture in anything though.
+Patient: Ok. Alrighty. Is that it,
+Nurse: That's it. You have a better weekend, have some chicken soup, put those feet up and relax a little bit. I'll check in on Monday. Ok.
+Patient: Sounds good. Thank you.
+Nurse: You're welcome. Bye bye bye bye.

@@ -1,0 +1,17 @@
+Nurse: This is [PHI-Personal] nurse case manager.
+Patient: Yes.
+Nurse: Hi. I was just wanting to touch base and see how you've been doing. What's that
+Patient: Getting you? That? It
+Nurse: Sure can't. No,
+Patient: I'm good.
+Nurse: Well, good. And I know you just saw the doctor recently. How did that visit go?
+Patient: Pretty good. Pretty good. They took some blood tests and stuff like that and I got a call back and everything was normal. Ok.
+Nurse: Good. And you don't do any vaccines, is that correct? Right. Ok. That's what I thought. And then let's see, I was just gonna take a quick peek, see if they, and have you had any falls recently? No. No. Ok. Good. Oh, ok. Just to kind of looking to see if they had any more recommendations on there and they're going to have a recheck for you in 4 to 6 months. Yep. Ok. And you're sleeping good. Yep. Eating good. Yep. How are you doing with your medications? Any refills that you're needing? Nope. Do you have a good weekend? Yeah. Do anything specific?
+Patient: Oh, just [PHI-Personal]
+Nurse: [PHI-Personal] staying busy, huh? And let me take a quick peek at your goals. See where we're at with those. Let's see. And have you seen a ent ear nose throat this year?
+Patient: What's that?
+Nurse: Um, let's see who you saw in the past? Oh, you did? So you saw one in [PHI-Personal]? So I'll, I'll knock that off your list. It looks like you saw, let's see, the P A that you saw, but I was trying to see who the doctor was that may have signed off on it. It looks like they had seen you for a sinus infection. Um, and they did ac t following facial trauma. Did you have some issues in the past?
+Patient: Yeah, I think it's under control. I have a problem where I cough at times, but I don't know, I don't know if that's from the COVID or what because back in January I had the COVID.
+Nurse: Ok. And you still continue with that at times. Any shortness of breath or chest pain? Ok. All right. Anything that I can answer for you or do for you yet today?
+Patient: No. Ok.
+Nurse: Ok. Well, I, I really appreciate you returning my call and I'll touch base and see how things are going next month. Ok. Thank you. And you have a great day. You too. Bye.

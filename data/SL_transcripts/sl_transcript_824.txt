@@ -1,0 +1,63 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, hi, [PHI-Personal]. This is [PHI-Personal]. Returning
+Nurse: Your call. Hey, [PHI-Personal], how are ya? I'm all right. Good. I just sent you. I just mailed you a letter. It was a missed a letter. So, when you, so when you get it in the mail just disregard it. Ok. Oh, how's everything going?
+Patient: Not too bad. I'm working and stuff. So, like a lot. [PHI-Personal]. What that?
+Nurse: No, it was just, what were you saying? Life is a, what?
+Patient: Life doesn't depress me so much more. Now that I have something to do.
+Nurse: Yeah. That's good. It's good to keep busy. It's good to get that paycheck. That makes you feel good when you earn that money, you know? Yes. All good for you. Um, looks like you saw [PHI-Personal] recently just a couple days ago. How did that appointment go? Actually, they canceled that? Oh, yeah. Now that I look in here they did. Yeah,
+Patient: I'm call and get it scheduled or rescheduled or something like that.
+Nurse: Well, it looks like they did reschedule it for [PHI-Personal]. Oh, at 8 30 it's a fasting.
+Patient: That's right. No, I remember so fasting. What day? Is a Friday or [PHI-Personal].
+Nurse: Uh let me look at the calendar here it is a [PHI-Personal].
+Patient: Yeah, I I can just let my supervisor know I might be a little late but other than that it's no big deal
+Nurse: Good. Um. All right. How's everything else? Any changes to your medications or anything? Well, I have different
+Patient: [PHI-Personal].
+Nurse: Oh, alright let me hop into there. Ok, what do you got [PHI-Personal]? Ok
+Patient: Um please tell me you it
+Nurse: We do. No yeah we do accept that now I do know that they I don't know they're um their roles and stuff are different so are you gonna have a copay with them from what I'm
+Patient: Told as long as I stay in network I shouldn't.
+Nurse: Ok so
+Patient: Oh go
+Nurse: Ahead. No that's ok I was just gonna say typically with this program that we do you know the only payment is whatever your co payment is is typically what's charged. If you don't have a co payment then [PHI-Personal] pays for it and you don't have a charge but I'm not gonna say that you don't because I don't know I don't work on the [PHI-Personal] and um so but what I'm gonna have to do is I'm gonna have to put a request in to change your [PHI-Personal] in here and then um I can just have them I can have them reach out to you which I think enrollment probably will reach out to you just to confirm everything. So, and then at that point, you know, if you wanna ask them about that, you could do that and they should be able to give you a better answer than I can. Yeah,
+Patient: I'll, I'll
+Nurse: Do that. Ok. And then make sure when you go to, um, your appointment in [PHI-Personal], take your new card so they can get that changed in their system.
+Patient: I'll do that. Definitely. So,
+Nurse: Um, all right. So, how are you feeling health wise? Doing? Ok. Um,
+Patient: Nothing I'm not used to.
+Nurse: Ok. But, um, are you having any, like, um, kidney issues? Like any swelling to your hands or feet or legs, any swelling in the abdomen?
+Patient: I've noticed anything. Really. Did he,
+Nurse: Do you feel like you're losing weight? Mhm. Yeah.
+Patient: I, um, weighed myself the other day when I was getting in the shower, you know, no clothes or anything on and I was 100 and [PHI-Personal] which is the way I was junior year in high school.
+Nurse: Yeah. When you were weighed back in July, you were 1 66? Yeah. So, are you having, like, loss of appetite or are you not eating as well as you were, or you has like, anything with your diet changed?
+Patient: Nothing that I didn't, I have, uh, eat before. I don't know what it is. I, I've actually cut off, uh, eating anything with, you know, sugar or, and you send me that caffeine about after 23 o'clock and I cut it all off and I just do what I can to stay away from it and it seems, oh, I've been sleeping a little bit better.
+Nurse: Well, that's good. Well, and, you know, so maybe the weight loss is a positive weight loss. You know, because if you're cutting out that, you know, the bad stuff, then you should see it, you should see a decrease in your weight. You know. Now if you're starting to notice like, you know, you're becoming more and more fatigued, all you wanna do is sleep, your appetite is decreased, you're not hungry, you don't want anything, then that would be cause of concern because maybe something else is brewing. You know, there's an underlying condition
+Patient: There. Now that you mentioned the fatigue, I do recall getting tired a lot earlier than what I used to
+Nurse: And that could be ok when you say earlier, meaning like, ok, I used to go to bed at 11 but now I like to go to bed at nine like that kind of thing, something like that. Yeah. Ok. And honestly that could just be cutting out the sugar and the caffeine too because if you're cutting that out and you're not eating and drinking that late at night, then naturally you are gonna, you know what I mean, you're not gonna be up as late. So, yeah, and that you're sleeping ok at night is, is a good thing like if you're getting a good, a good night sleep, restful sleep then. Oh, yeah, those are all positive changes. So, and like I said, if you start noticing anything that's not quite positive, you know, like the changes that I had mentioned before, then we'll, you know, then we should be concerned. But ok. Um, yeah, that all sounds like you're sounds like you're doing pretty well. Um I'm just looking at your meds here. Um, your meclizine. Have you had to take that recently for dizziness?
+Patient: Um, I should have, uh, I had a day a week or so ago where, um, I either stood up too fast from sitting. Mhm. Or I, I guess stretched after standing up and when I did that I got dizzy and fell.
+Nurse: Oh, no. Did you get hurt?
+Patient: My pride? Yeah,
+Nurse: That's, that's always what hurts the worst.
+Patient: But, yeah, I didn't notice anything broken or anything. Just, ok, just surprised that because that was the first time it happen that I can recall.
+Nurse: Ok. Are you checking your blood pressures at home?
+Patient: Yeah. Some, for the most part I'm learning about, I don't know, 1 15 to 1 20 systolic I think I got before. But
+Nurse: That's right. What's your diastolic running? What's that? What's your bottom number? 60 [PHI-Personal], eighties. What do you run in the bottom on your BP?
+Patient: So, [PHI-Personal].
+Nurse: All right. Well, that's really
+Patient: Good. Low 70 maybe high 60 something like that.
+Nurse: Ok. Well, that is good. Um do you need refills on anything today?
+Patient: I don't think so. I think I'm good for you know.
+Nurse: Ok. Um All right. And then, oh, when I clicked out of that I was trying to click in it and I clicked out of it. Get back in here. Um Alright. Any trouble with um like have you been having any hallucinations? Any disorganized thinking? Um
+Patient: Not that I can
+Nurse: Recall behavior. Ok. Wonderful. That is good. Um Just looking down over here. So when was your last um when did you see the psychiatrist last? Um oh,
+Patient: It was a tele thing I would talk to [PHI-Personal]. I think it's in my um record there. Um I don't recall the last time I talked to her. Um and that's probably because of my short term memory. I probably forgot last time I talked to her. Um let
+Nurse: Me go back to your chart here and let me see if I, if I can see it in here. Yep. From the [PHI-Personal]. Does that sound right? Yeah. Yep. Ok. Um All right. So as far as the schizophrenia goes, like tell me how like what are some things you do to help yourself? Like um I'm trying to think how I wanna say this. Like, do you, are you able to help like control your thoughts? Like if your thoughts go start to go wild, do you, how do you cope with that? Well,
+Patient: I still think I have some work to do or, like, you know, practicing that. Uh, but for now it's, I think it's fine. I need to pay more attention to what triggers or, or?
+Nurse: Mhm. That's the biggest thing. Finding those triggers. You're exactly right. Yeah. Yeah. So, really, like, um, you know, knowing your limits, like, know what you can handle, don't get yourself overwhelmed, you know, um, if you start to feel yourself getting overwhelmed just, you know, kind of redirect what tasks you have to get done, you know, be like, ok, well, this needs done now, but this one can hold off until tomorrow and, you know, try to only focus on what you can. Yeah, and then, you know, they always say to avoid drugs and alcohol, of course.
+Patient: Um uh you don't have to worry about that with me.
+Nurse: Good. Um And, you know, making the diet changes is great because caffeine, you know, caffeine is an upper. So that's gonna naturally make you more. Um, you know, it's gonna increase your heart rate of your BP, all that kind of stuff which can all play a factor in stress and things too, you know. Um, so making that change that you've done for yourself is good. So, um, let me see what else I think would be helpful for you. What do you treat it with right now? What's that? You, what's the Depakote for? I'm not too familiar with that. Um
+Patient: It's supposed to be something with my mood or something. Looks like a mood stabilizer. I think I take 500 mg in the morning and usually when I get home from work I take, uh, 2 [PHI-Personal].
+Nurse: Ok. Um, all right. Well, I mean, it sounds like you're doing real really well. Um, definitely, you know, working and getting yourself, you know, out of the house and, and into the workforce. That is great. Um, it's good for your, which is good for you all around, you know, makes you feel better about yourself. It's awesome feeling when you get that paycheck. Um you know, and again, just, you know, make sure you don't get yourself too stressed out. Um Is it ok,
+Patient: So the only stressful thing about it is when somebody gets up in your face screaming at me, then fight or flight comes into effect, usually I, yeah, that would
+Nurse: Be frustrating. Walk away, which is good. Um You know, that's right there. That's a coping mechanism even if you have to, even if you have to turn around and walk away and, you know, I don't know, punch something else on the, on the way out, you know, to get those frustrations out, just not the person's face. Ok? Even though that can be pretty difficult to avoid sometimes. Um But no, that's good. I mean, really just finding those coping mechanisms is important. So that's really good. Um All right. So any other, any other questions or concerns anything I can help you with today. Any concerns you have for the doctor.
+Patient: Um, no, not that I can think of at the moment. Ok, I can, uh, I keep you in con in a, in the loop, I guess.
+Nurse: Yeah, definitely. I mean, you can reach out to me anytime, you know, if you, yeah, any concerns any questions, anything at all don't hesitate to call. Um, and then, you know, of course if I don't hear from you, I'll reach out to you a month from now but any time in between you can call me with any anything you need. Ok, great. Alright Adam. Well yeah I'm glad you called me back. I hope you have a good weekend and I'll uh talk to you next time. Alright, thank you. Alright you're welcome bye bye bye bye.

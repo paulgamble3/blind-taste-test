@@ -1,0 +1,46 @@
+Nurse: Hello. Hi. Hi. Sorry. Uh, for some reason your number was coming up as a spam. Is this [PHI-Personal]? Yes,
+Patient: It is. I'm sorry? Uh, no,
+Nurse: No, no, no, it's, it's not you, it's, it's, your name is supposed to come up on the caller ID as it's ringing. Um, but for some reason it didn't, it didn't pop up until after it just came up as technology. What are you gonna do?
+Patient: Right. Well, we are actually in [PHI-Geographic] right now looking at the ocean, uh, from our condo. So, uh, yes. Sorry. Uh, I missed your call.
+Nurse: That is absolutely ok. I wouldn't be answering calls from [PHI-Geographic] either. So both your BP should be doing really good looking at that ocean. Oh,
+Patient: You got that right. We just got done taking them. So we're. Yes. Yes. Very good.
+Nurse: Good. All right. Well, that sounds like it's really good. I was actually, um, today I was really calling to check up on your husband. I realized as I was going through the charts that we were, we did a lot with you making sure you're all good and I just haven't asked about him yet.
+Patient: Ok. Well, here it is. I'm sitting right here.
+Nurse: Oh, hi. How are you doing? How was the drive?
+Patient: It was, it was, wasn't bad at all. Really? Yeah, I, I would say the, you know, the last three hours were a little boring but,
+Nurse: Yeah, it all kind of starts to look the same on that highway.
+Patient: Now,
+Nurse: How long is the drive?
+Patient: It took us nine hours. Yeah, two quick stops. So, yeah.
+Nurse: Ok. So you guys did get up, walk around, do some stretching. Yeah. Oh, yeah. Yeah. Yeah. Ok, good. That's the number one thing we definitely want you to do is when you go on car trips like that every hour to get out, stretch your legs, walk around. Um, that actually walking like that is really good because it helps move that circulation from all the blood that was pulling in your feet and helps prevent blood clots. So definitely some every hour or two get out, walk around even you just pull off of the rest station, take two loop loops walking around that rest stop, get back in the car and go. Um, and that would be more than enough to just get your blood flowing.
+Patient: Ok. Yeah, that sounds good. All
+Nurse: Right. So, um, no issues with your, with cramping in your legs or redness in your legs then.
+Patient: No, no, no. Uh, normally, um, my, my hips start hurting and uh my legs get a little restless, but this time it didn't bother me at all. Really? Oh, good. Yeah, maybe your weight loss. Yeah. Helped with that. Yeah. Well, we
+Nurse: Weight loss takes um takes a lot of stress off the hips and the knees. So that would be very helpful. Um, now you said you just finished taking your blood pressures.
+Patient: Yes. Mhm.
+Nurse: What, what were those today?
+Patient: Uh mine was 1 20/71. 0
+Nurse: Jeez, you should just stay in [PHI-Geographic]. It's good for your blood
+Patient: Pressure. Yeah. Yeah. Alright.
+Nurse: And [PHI-Personal], did you take yours?
+Patient: Yes, I did. Mine was [PHI-Personal] over
+Nurse: [PHI-Account]. Well, now you really have to stay because that is
+Patient: Fantastic. It is. Yes. Yes. Very happy.
+Nurse: Why did you bring the grandkids with you?
+Patient: Heck no, that BP we are, we are vacationing just the two of us. So.
+Nurse: Oh well that sounds really good. All right. Well, um just side note uh when, when you're out and about, you know, vacationing a lot of times you're eating out which is a lot less stressful but it can also be higher in salt. So just keep an eye on that salt intakes. Uh We don't want you getting your BP up too high or retaining too much fluid for that drive back. Um uh A lot of places actually have either low salt or no salt menus or options on their menus. So when you go out, you know, ask your server take a look at those options. See if there's anything you like, you know, you're on vacation, you do get the splurge. I'm not saying, don't, don't, don't give yourself a treat here and there. Just keep an eye and make sure it's about evening out from day to day. You don't wanna overload all on one day and the next day you might make wake up with some swelling. Um, should that happen? And you're noticing the swelling is continuing? Uh give us a call um we'll walk you through a few things if we need to get you something just in the interim here uh to get make sure you stay stable before you get home, we can talk to doctor about that but I think you guys will be good. Um speaking of medication, did you guys remember all your medications? Oh yeah, yeah.
+Patient: Ok, so just in case we get delayed. Uh so yeah,
+Nurse: Perfect. Alright. I always like to ask, you know, someone always inevitably forgets something
+Patient: That we didn't do. I forgot a hat which I had to buy. Uh but uh yeah, yeah brought our
+Nurse: Medication good. All right. Well that sounds good. Um just sorry pulling up your chart. [PHI-Personal]. I just wanna make sure that there's nothing here that doctor Jumper said back. Um just be careful with the sun with you with the amLODIPine. Sometimes people can get a little sensitive with the sun,
+Patient: Right? I read that and I'm not a sun person. I, I'm very fair and I burn easily. So that's no problem. I just, yeah, I'm very careful. Plus with the sunscreen. So, yeah, that's ok. Good. I'm not here, not here to tan. So, or
+Nurse: Some sun is good, gives you good vitamin D but too much can, uh, literally be a pain.
+Patient: Yeah, exactly in there.
+Nurse: All right. Now, um, you guys, you're gonna be back in time for your appointment on the 24th or would you like me to try and get that changed? No, we're coming
+Patient: Back on the [PHI-Personal]. Correct? Yeah. Yeah. Yeah. Oh, I'm coming on the 24th. I was trying to. Yeah, that, yeah, I'll be the end. That's no problem. No
+Nurse: Problem. Ok. Yeah, you [PHI-Personal], you weren't seeing him until [PHI-Personal], so. Ok, you're good. Ok. All right. Well, I won't hold you up much longer. I don't wanna take too much out of your vacation. If anything changes, you have any problems at all. Give us a call back. Ok.
+Patient: Ok. Thank you very much.
+Nurse: You're welcome. You have a good day. You too. Bye bye bye bye.
+Patient: See you. Bye
+Nurse: Bye.
+Patient: Ok.

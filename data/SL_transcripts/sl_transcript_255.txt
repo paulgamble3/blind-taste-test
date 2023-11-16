@@ -1,0 +1,55 @@
+Nurse: Hi, this is one of the case managers here. How can I help you?
+Patient: Hi, this is [PHI-Personal].
+Nurse: Oh, hi, how are you?
+Patient: Good. How you doing?
+Nurse: Good. I,
+Patient: Good. I see. I, yeah, I see. The, the, you probably call me and I call you back.
+Nurse: Yeah, I just wanted to check in and see how you were doing this month.
+Patient: Everything is good. I was gonna, I was gonna give you a call back. Uh, uh, well, last week I was gonna call you but then, uh, I said, let me wait another week or so because next month, uh, uh, I told doctor, uh, to, uh, when I went for a follow up next month, we going, we going to [PHI-Geographic] and we're gonna, we're gonna be over there, uh, uh, one month, the month of [PHI-Personal]. So now the situation is this, uh, the re, the, the refill, my refill is uh, 90 days. Yes. So I'm, I'm the, I'm, uh, this month, I'm the due I believe because I went to the pharmacy and, uh, the lady in the pharmacy she told me, um, in three days or, or before you are ready to do the refill but we need the authorization from just for the alprazolam and unless you know any other medicine uh there is uh no refill, you know what I'm saying?
+Nurse: Yes. Ok.
+Patient: So you know, we wanna make sure, you know, because the seven we're gonna leave uh [PHI-Personal]
+Nurse: The [PHI-Personal].
+Patient: Yes. So if you please uh you know, you check it out for me and you know if uh I have everything before you know, like the end of July,
+Nurse: Right? Yeah. So yeah, you should be all set with that because it looks like it was prescribed to you on the sixth of this month. So getting it before the seven should be no problem at all for next month.
+Patient: What about uh uh because that, that one is the only one that he has to be approved from.
+Nurse: Yes, that's the one I'm talking about. So, you know, when it gets to the end of the month, the first day or two of [PHI-Personal], you know, we'll have it sent over for you. So the insurance will cover it because that's usually the problem.
+Patient: Oh, ok. So how many they are all together? I think it's uh uh you have the list of that,
+Nurse: Right? Yeah. Yeah. So I see bus [PHI-Personal] pan. All right. Looks like that's all of them and
+Patient: Then al
+Nurse: Yes. Correct. Yeah.
+Patient: [PHI-Personal] altogether. Yes. Yeah. You think we, we're gonna make it just a fine uh, before uh the end of July.
+Nurse: Yeah, because you have another prescription that should be getting filled. You have three refills on those other ones. You should be able to pick that up. You know, with, before the end of the
+Patient: Month I did, I did talk to the pharmacist, uh, uh, two days ago. Uh, we went over that. I went to, to pick up my nasal spray and I talked to the pharmacist and I explained to her and she said to me, let me check on the computer and then, you know, when she says to me another three or four days we'll be able to give you. And I said, can you give me everything at the, you know, I have to drive all the time, you know, the gas, you know, the gas. Now I go back and forth, back and forth if you give me everything at the, she says, ok, we do that for you. So,
+Nurse: You know.
+Patient: Yeah, even, even I should be all set. Ok. All right. Very good. Ok. All
+Nurse: Right. All right. And then I, I know that one of the things that they follow you for is your cholesterol level. So really make sure that you're monitoring that especially going over to [PHI-Geographic]. I was very,
+Patient: No, I don't, to be honest with you, I don't eat too much meat. No, no, I'm not crazy for too much meat because I know, uh, the, the meat nowadays. Too much steroids.
+Nurse: Yeah.
+Patient: I'm not really too much on the, on the meat, you know. My, uh, my, uh, my biggest thing is, uh, like a lot of tomato chicken, uh, cucumbers at night time, you know. Yeah, stuff like that. You know what I mean? Couple of time, maybe a couple of times a week because I have a pizza shop. I eat the pizza, you know, but I put a mushroom, I put onions, you know, stuff like that, you know? Ok. So, but, uh, I tried to, to watch out for my cholesterol. I think last time it was, what, 1 89 or something like that. Yeah, I
+Nurse: Mean, your levels are usually, right. Pretty good. It looks 1 [PHI-Account]. Was your cholesterol last one
+Patient: [PHI-Account]? Right. Right. Yeah. You know what, you know why you probably was 1 [PHI-Account] because every time I come over there that knows about it, I have some kind of shaker. I put him on the water with the strawberry and, uh, blueberry and I shake, I, I bland it and then I have a couple of zipper before I came over there, uh, at the office. Yeah. And probably, you know, because I know you, I have to fast in 12 hours. Right. So, probably that's what you got me. You know what I mean?
+Nurse: Oh, yes. Ok. So,
+Patient: But, you know, other than that, you know, I, I can't complain with my cholesterol, you know, I try to watch out, like I said, I'm not crazy for too much meat, you know what I mean?
+Nurse: Yeah. Ok. Well, chicken and turkey and fish are. Ok. Yeah, that's
+Patient: What I eat. I, I like the salmon, you know, I like the salmon, you know, I like the chicken and I like a turkey, the turkey breast. As a matter of fact, the turkey breast we have over here we sell for the business. It's a good turkey breast. Not because I, I, you know, I have, uh, the, the, the business, but I pay good money for the turkey breast. One piece of turkey breast, two piece. I pay almost $100. So, you know, it, it's kind of expensive but, you know, I like a couple of times a week. You know, I have a turkey. I, I put them on a bread, I put them in the oven and melt the cheese and then I put a lot of tomato and I'm fine. You know what I mean? So, I'm not a, I'm not a big, uh, eater with, uh, a lot of people, they eat the meat like a crazy, I wonder why the cholesterol is a sky high,
+Nurse: Right. Yeah. But you're doing good, you know, fruits and veggies. Those are high in fiber. That's really good for your cholesterol levels.
+Patient: Yeah, I like a lot of fruit too, you know, at night time, you know, the peach, uh, the, the plum, you know, what I mean? Yeah, the, the, the, the, you know what I mean? I mean, you know, I like fruit too.
+Nurse: Right
+Patient: Myself. You know what I mean?
+Nurse: Right. Absolutely. And how's your anxiety going?
+Patient: That's it. Everything
+Nurse: Is good. Any issues with your anxiety recently?
+Patient: No, no, everything that the anxiety, everything is good. I mean, you know, the anxiety is because the, the see we got, we, we, we uh we put the place on the market because we sell the place. Hey, I've been here 40 years. That's a long time. I know that uh it was uh it was uh like it was not that ball like iii I don't have hair on the front that was like for me many years ago. So I know that. So we uh you have a call, how's he doing? I I hear my son uh he was gonna go for for the visit and uh I called my son he says don't come because I have a call,
+Nurse: Right? You
+Patient: Catch a call you have a call.
+Nurse: Yeah I don't know.
+Patient: Well that's what I what I hear from my son. Do you have a cold? Not now I'm on a couple of weeks ago.
+Nurse: Oh, ok. Yeah. Yes I I heard something like about that. I'm not positive though.
+Patient: Right. Right. Right. Right. Alright. Very good. Alright, thank you for calling
+Nurse: Me. You're welcome if you need anything further, you certainly let us know.
+Patient: Alright just you know if you wanna make sure, you know, like I said, uh, the, the medicine, you know, at least the, uh, you know, month to be, uh, one week before, uh, you know, the end of the month, you know what I mean, right?
+Nurse: Ok.
+Patient: Ok. All right. Very good. Thank you. Thank you again for calling me.
+Nurse: You're welcome. You have a great day.
+Patient: You too now.
+Nurse: Bye bye. Thank you. Bye bye.

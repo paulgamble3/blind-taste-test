@@ -1,0 +1,64 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Yeah, this is sorry, I missed your call. Oh,
+Nurse: That's ok. How
+Patient: Are you doing? I'm doing good. Believe it or not
+Nurse: Good.
+Patient: I, uh, last week I went in, uh, I saw a hematologist and they put me on, uh, uh, I guess injections for three days of, uh, pro pro, let's see, uh, something that they never tried before. Uh, but anyhow, uh, it was eight hour, eight hour deals. Eight o'clock, get out to four, gen or some, something like a clear liquid. And, uh, they checked my blood, uh, the last time I went in and it was up to 2 44. Excellent. Yeah. Uh, I see, I got to feeling really bad and I knew something was going on and, uh, I had appointment with them anyhow. So I went in there and they checked it down to nine and then they checked it a little later on. It was seven. Oh, my goodness. And they hooked me up on the, on some, uh, platelets and, uh, just a little small bag of platelets. Let me go home. And the next day I went in for 88 hour injection. And then the next day they did the same thing and then, uh, they wait 24 hours on the third day. They, they did a blood run and it got to 22 44. They never, they never had used this. Uh, I don't know, is 1000 mL of, of clear liquid. But, uh, no, it was, it wasn't platelet. It was, uh, I don't know, or something like that. I never heard of the thing before, but uh they never tried that before, but this time it works. So I don't know, we don't, we don't know how long it's gonna last. But uh I gotta go in another week and have another blood run and see if it's still still there or whatever, you know. But, but I feel a lot better but I got so bad I can, I can hardly motivate.
+Nurse: Oh man, I did see that. They started you back on your Eliquis. Is that right?
+Patient: No, they took me off of Eliquis. That's, that's a problem. Uh I woke up one night and my nose was bleeding and I never have a nose bleed. And even when I was a kid, I had nose bleed. But yeah, and then I, I contact them, they said I need to come in so they took me off of the Eliquis. [PHI-Personal]. Yeah, I got this uh just hold off on the Eliquis because I've been on it for about, I don't know, too long, I guess, you know.
+Nurse: [PHI-Personal]. I saw in a note on the [PHI-Personal] it said, yeah, that they were gonna let you start the Eliquis again. So, I guess they decided against that.
+Patient: Yeah. Yeah. Yeah, because I, I, I've been on the whole time. It's just a 2.5 mg but it's twice a day, little one, you know, one in the morning and one in the evening, you know. But, but, uh, I had a nose bleed. They took me off of it and, uh, he said, just hold off on it for a while. So. [PHI-Personal].
+Nurse: Um. Mhm. And then I did see that you were following up what, it, uh, the [PHI-Personal] at 9 40.
+Patient: Yeah. Yes, that's my next appointment. Uh huh.
+Nurse: [PHI-Personal]. And they said to call if you have any problems,
+Patient: Right? Yeah.
+Nurse: Yeah. [PHI-Personal]. But you've not been having any problems.
+Patient: Uh, no, I've been good since, since, since then. I mean, yeah, it is like daylight and dark. I mean, you know, because I knew I was getting something was going on, you know, when I started feeling really bad but it got to nine and then they wait a little while and take it again and it was seven and we gotta do something so that when they get me the platelets, just a small bag of the s, the next day it started the, the pre I guess they call it? Wow.
+Nurse: That's, I, I mean, I'm glad you're feeling better. I cannot believe it got that low.
+Patient: Yeah. Oh, yeah, it did before I got down to 31 time. Oh, my heavens. Yeah.
+Nurse: So, you know, um, that, like, the signs and symptoms like you're looking out for is, um, easy or excessive bruising.
+Patient: Yeah. Yeah. Bruising or just get scratch and I start bleeding. Yeah. Yeah. The
+Nurse: Bleeding that won't stop. Yeah. Blood in your urine or stools. And then you already said the fatigue.
+Patient: Yeah, I've never had that. I've never had blood in my stool or, or, or urine. Nothing like that. But, uh, that if I ever, if I ever get a real bad headache, let them know real quick, you know.
+Nurse: Yes, absolutely. Um, ok. Well, do you need any refills or anything today? No. No,
+Patient: No, I, I'm doing good. Yeah. Uh, I, I get my refills now through Express Scripts and, and they, they call me every once in a while, you know? And I, I, I'm, I'm uptight on all that stuff right now.
+Nurse: [PHI-Personal], perfect. Do you have any questions or concern that I can help you with?
+Patient: I've got one little thing, I've had my veins in my legs, uh, clean, cleaned up before and my right one is just, uh, on the left side, just below my knee. It's, uh, it's bother, bother me some, I don't know what I need to see a a vein doctor or what? On that deal? I don't know.
+Nurse: [PHI-Personal]. So, which leg is it?
+Patient: The right leg? The right one has always been the worst. Yeah.
+Nurse: [PHI-Personal]. Now, do you actually you see the vein and it's like bulging or you're just having pain there?
+Patient: Well, no, no, it was a couple of days ago. It was bulging but now it's not, not quite as bad as it was. But, uh, that's the only thing I got going on. It's, it's a little sore right there where, where I'm talking about.
+Nurse: [PHI-Personal]. And it's right below your knee, you
+Patient: Said? Yeah, on the left hand, on the inside, this is one knee right there, right next to the bone there. I can feel it, it feels like a bruise but it doesn't look, look, it looks, ok, I mean, just looking at it but, uh, now originally when it started bothering me about three or four days ago, it was, uh, a little bit. It's not, it's not as bad as it was. I don't know what it, it'll get better or, uh, it's sore. Yeah. Yeah, it is sore. There you go. Mhm.
+Nurse: [PHI-Personal]. Is there any redness around it?
+Patient: No, no, it's not. It's clean, you know. Uh, ok. I'm just gonna watch if it gets worse. I'm gonna, I'm gonna call, uh, uh, I forget he's got an [PHI-Personal] name. I forget his name.
+Nurse: Is there any swelling to that leg at
+Patient: All? No. No, no,
+Nurse: No swelling. [PHI-Personal]. Um, I was gonna look in your chart here and see if I could find. You said you seen the A vein, the vein clinic, correct?
+Patient: Uh, well, let's see. I think the doctor did my, my veins. I believe he's already retired. Now.
+Nurse: I see. Um, it was a [PHI-Personal] that you seen.
+Patient: Yeah, that was the last time. But, uh, I don't think I had anything done and this was before that. Um,
+Nurse: That's the only person I see. And that was last [PHI-Personal]. Oh, Doctor [PHI-Personal].
+Patient: By. There you go. Yeah, that was it. Yeah. Mhm. Doctor. [PHI-Personal].
+Nurse: Um,
+Patient: Wow. I think he said on my right leg was about, I don't know, 25 or 30 incision. The left one was about 17. But, uh, yeah, both of them are bad. See, I got a history of walking around concrete when I was in the air force. So, um, I was only working on airplanes and it was all concrete working and he said the hard walk, hard surfaces is not the best on your veins.
+Nurse: Oh, ok. Is, is that area warm or hot at all?
+Patient: Now it was to start with. Yeah. And it was, uh, when it first started hurting it was, it was, it was hot right there.
+Nurse: [PHI-Personal]. So you've been off that Eliquis and you're having some leg discomfort there. I'm a little concerned that you might have a blood clot.
+Patient: See, that's, that that, that's, that's, that was my concern because, uh, when I had a blood clot, the first one, my left leg on the outside of my left leg, it kept on for about a week. And I thought I just pulled a muscle. That's why I felt I could pull a muscle or something, but it wouldn't get, well, well, that night I, I got up and started to walk across the floor and all of a sudden my right shoulder blade, so, like somebody hit me with an ax, it was a blood clot in my right lung. That's when they put me on the, that's when they put me on the Eliquis.
+Nurse: [PHI-Personal], let me call over to the office. Um, well, hold on a second because I wanna say they all, I think they all leave at noon today.
+Patient: Oh, yeah, Friday, I can imagine. See, that's when this thing happened to me before it happened on Friday. And I went to the emergency room and they did a, I don't know when they put you in this tube, you know, and all this kind of stuff. And they said, yeah, you got numerous little blood clots in the top of your right lung. Well, they run me, they run me over to, to Green and, which was a terrible ride. But anyhow, they, they put me in, uh, uh, some kind of IV for about two or three days and got me cleared up. I've been good since then, you know, but, but that's when I started the, that's when I started the Eliquis thing. OK. Um Th this was after my, my uh my splenectomy and doctor [PHI-Personal], a surgeon and he told me he said, well, did they put leg, leg restraints on you or compression? Well, no, he said, well, I just close you up. I thought sure they do that. But he said after a big operation you're supposed to put, uh, some kind of compressions on your legs. He, that's where it always starts in your legs. I said, oh, I didn't know that. Mm.
+Nurse: So you have like, it, it wasn't necessarily a vein bulging on this right leg. You, but you did have a bulge there.
+Patient: Yes. Uh huh.
+Nurse: [PHI-Personal]. Um, uh, so yeah, doctor office is closed on Fridays at noon. Let me call. Could you make it there if they had something open?
+Patient: Oh, yeah. Yeah. Yeah. Sure. Uh, now it's, uh, it's just a little bit tender there right now but it, it, the bulge is, is, is no, no longer there. And, uh, it's just a little, just a little tender but it's nothing like it was before. It was, it was up some and it was hot but that's been about, uh, three days ago, but it's got a lot better now. It's, it's just like I say, it's just a, uh, a little tender to the touch. Not real bad. But, I mean,
+Nurse: [PHI-Personal]. Well, I just, I think we need to rule out that you, that it is, you know, a blood clot in there and we need, since it's going on the weekend we need to do it today. So let me call over to the office and see, because it's, it's almost 11 your time, right?
+Patient: Yeah. Uh huh.
+Nurse: [PHI-Personal]. How far are you from?
+Patient: It's a 30 minute trip anyhow. Uh, it's a 25 miles. Yeah.
+Nurse: [PHI-Personal]. Um, I'm not sure. Let me call and see if I can get you an appointment. If not, you may have to go to the emergency room,
+Patient: You know? Truth. I, I don't believe it's bad enough to have to go to emergency because it's getting better as it goes on you. It's a lot better than it was yesterday.
+Nurse: [PHI-Personal]. Ah, ok. Let me call over there real quick and just see if I can get you in, in the next 45 minutes. [PHI-Personal]. Just to see it may be with Cathy, um, or Lake in Haze, but just to see if they've got something open in the next little bit.
+Patient: All right. [PHI-Personal]. [PHI-Personal].
+Nurse: And I will call you right back. All right. All right. Bye bye
+Patient: Bye. Oh.

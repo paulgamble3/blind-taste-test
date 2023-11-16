@@ -1,0 +1,33 @@
+Patient: Hi. Hello. Hello.
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you? Uh,
+Patient: It's [PHI-Personal] s you called me yesterday? Um, yes,
+Nurse: I did. Hold on one second. Let me just pull you up quick. How are you doing today? I'm fine. You're doing ok. I believe I'm trying to reach you for, um, uh, the in, I believe it's for just the intro call. I don't think we even done that
+Patient: Before I had it. Uh, I, someone called me, I had an intro call, I think.
+Nurse: Ok, I'm just, let me just make sure, let me double check because I think that why I was calling you. Ok. So, um, you, you got, you had the enrollment call but you never had the introduction call. So that's what I was talking about. So, um, is this, um, so the programs offering, uh, uh chronic care management program, which is where a nurse calls you once a month just for a resource to you as a patient. Um, we, we do have different options. We don't have, if, if once a month is too much, we can do it every two, every three months, every four whatever it is that you, um, feel is what you need. And there's also an option for inbound where it's basically you just call us if, if you know, you have something going on and you need some medical direction. Um, is this something that you're still interested in
+Patient: Or? Uh, yeah, but I don't need it. Uh, I mean, I would say every six months.
+Nurse: Ok. So I will check, I'll, I can, I'll do that to, I'll change it to every six months for your preference. And then just, I'm just going to quickly do the, the first phone call. We usually, um, just verify your medications, make sure that they are, um, correct in the system. Just a lot of the times, uh, they don't get
+Patient: Updated. Now, this doesn't charge me anything. Right.
+Nurse: It is a billable service. It will get charged through your insurance first. Right. And then if, um, if it, if, if it doesn't go, you know, if it, it, it is, you might, you, you, it's still possible for, to get a bill, but usually patients don't get a bill. It's usually covered by Medicare.
+Patient: Well, I don't wanna get a bill.
+Nurse: So, do you prefer, do you want, just to do it as an inbound only?
+Patient: Ok. Ok. So that
+Nurse: Way,
+Patient: Um, I call you if I need some medical. Yes,
+Nurse: That, yeah, that way, that way, you know, you control, you have a more control over, over everything and you know, you still keep us as a resource in case you know, you have a question or concern or anything like that.
+Patient: Ok. Is that ok?
+Nurse: That's fine. Ok. And so this is the number that you would call. Um, it is [PHI-Account]. Mhm. [PHI-Account] [PHI-Account].
+Patient: The number I just called. Right. Yes. Yes.
+Nurse: And then, um, yeah, and so, um, we're available Monday through Friday 8 a.m. to 4:30 p.m. Ok. Um, you know, if, um, usually the phone call would, would come to me on [PHI-Personal]. Um, and if, and if I'm not working, you'll, you, um, the call will get transferred to another nurse. So you would have, you have, you just have access to a nurse, you know, in case something comes up and we are able to, you know, if you need a script for a medication, we're able to message the doctor if anything is going on, we're able, we can able to triage the doctor, um, and, and get some medical direction if that's needed.
+Patient: Ok. Now I don't call the doctor for, uh, a prescription.
+Nurse: You can, you can, you can, you can still do that, um, on your own. But if you do need help, if, if you, if you notice you're having trouble getting through or something
+Patient: Or if I have a cold or something, I can call you and then you can call. Ok.
+Nurse: Yeah, it's just basically if you have trouble getting through the, the doctor and you, and you're not getting back and you need something, you give us a call.
+Patient: Ok. That's great. All right,
+Nurse: [PHI-Personal]. So I'll, I'll change it to inbound only. And,
+Patient: Yeah, I just, I just don't wanna get charged for anything, you know, I wanna, so that's
+Nurse: No, that I understand. That's total. I, uh, I understand no problem. You don't have to explain that at all to me. So, um, but you know that way you don't and it's, it's fine if you don't call us in a year, it, it doesn't matter, you know, we're always, well,
+Patient: You're still always there for me. Yeah. Yeah. Yeah.
+Nurse: All right. Have a nice day. You
+Patient: Too. Thank you so much. You're
+Nurse: Welcome. I appreciate the call
+Patient: Back. All right. Bye bye bye.

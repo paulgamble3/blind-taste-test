@@ -1,0 +1,49 @@
+Nurse: Hello, this is one of the nurse, case managers with Doctor [PHI-Personal] [PHI-Geographic]. How can I help you?
+Patient: Yeah. Hi. Uh, this is [PHI-Personal] calling. I got a call here earlier and somehow the wires got crossed and we got disconnected and I got a message to call back.
+Nurse: Uh, I apologize for that. We have been having some technical issues today that they, that it is working on. But unfortunately, technology being what it is,
+Patient: Um, in the it business. So I fully understand.
+Nurse: Yeah. So it's, it's the one thing about you got so many different wires coming in, I'm sure you're aware. Ok. Um, well, I had called you, I wanted to check up and make sure everything was going good check on you with coming into summer here. Sometimes that heat and humidity can really throw some people's, uh, blood pressures and breathing out of whack. So I wanted to make sure that was still going good. Um, any trouble with those.
+Patient: No, no, there really hasn't. Um, you know, of course, most of the time I'm in air conditioned space so it's not like I'm out, out, wandering around in the extreme heat, but I mean, I mow the grass and everything and I don't seem to have any ill effects from, you know, going outside. So, uh, I haven't noticed anything. No.
+Nurse: You know, and you, you wearing sunscreen or a hat or something when you're mowing the lawn?
+Patient: Yeah. Yeah, I, I have a big sore hat. I put on
+Nurse: Those, believe it or not. Those actually do work fantastically. They actually can sometimes work better than sunscreen because you don't have to remember to reapply it.
+Patient: Right. Yeah. Let me keep your hat on. Yeah, I have one that I, I always wear when I do the yard and it's, it's, it's pretty wide. So it's, uh, uh, you know, it does help me and plus it's makes it a lot cooler, you know, without the sun beating on top of my head. So, that's one of those. Yeah. Mhm.
+Nurse: You definitely don't wanna be out around noon, like 11 to 3 o'clock. I think it is now. Yeah.
+Patient: Yeah. And, and we go for my wife and I go for daily walks but we try to walk in this weather. We go in town like the Dickinson where there's a lot of shade trees and benches and stuff. So we can, we pretty much walk in the shade so that we don't end up out, you know, getting boiled up, uh, that way. So, yeah, we're pretty, we're pretty judicious about it, you know.
+Nurse: Good. That works. I'm happy with that. Now, the other thing with the, the walks and, um, everything else is, are you staying hydrated because with, mhm. Your kidney disease, we need to make sure you're getting enough water.
+Patient: Right. Right. And I do, I, I've been drinking, you know, uh, more water on a daily basis and, uh, you know, and of course some, some of the stuff in the morning is coffee, which is kind of the gates to things. But, uh, I do drink, uh, you know, flavored water and uh regular water throughout the day. So that helps out a lot. So, yeah, I'm pretty careful with it. Yeah.
+Nurse: So the general rule of thumb is 4 to 68 ounce glasses of water a day minimum. So if you're drinking a couple bottles of water a day because it generally tend to be like 16 ounces that you're so you're probably going to be good with that there. Yeah. Um, and that'll keep your BP at a steady level level too because believe it or not, if you have, if you're dehydrated, your BP is going to drop. And since you're taking Lisinopril, um, it could, you, you need to be very careful to make sure that you. Yeah, you don't go too low. Um, the other thing I wanted to check in on is, you know, the world's gone real topsy turvy over the last couple months here. I wanted to check in on everybody's stress level, make sure they're still able to afford, you know, gas groceries, medication, that sort of thing. Are you guys doing ok with, with? Yeah, how everything's going so
+Patient: Far, you know, we're, we're kind of blessed in that area. So we're, we're, um, you know, obviously my stock portfolio isn't what it was a little while ago. But, um, it's still pretty good shape. So we're not, we're not in too bad a shape that, that way. And we live very modestly, you know, we don't, we don't travel and stuff like that too much. So, um, we're, we're kind of recession resistant here, you know, and, and because I don't drive much, you know, it's not costing me an arm and I like to put gas in my car, you know? So
+Nurse: Good. Yeah, that, those gas prices are getting crazy.
+Patient: They are. Yeah. Yeah. My, me, my Mercedes requires high tests. So
+Nurse: I don't wanna see that [PHI-Personal].
+Patient: No. But fortunately, yeah, I don't have to, I probably only fill it up once a month, so it's not too bad. So, um, yeah, it didn't really in really troublesome. So, yeah, we're, we're hanging in there. Um, over the years we've learned to live with whatever we had so we don't live beyond our means.
+Nurse: That's always key is knowing where you're at and where, where you should be. That'll definitely help with stress level too. Which, as, you know, with your BP, it is very important to watch your stress.
+Patient: Yeah. Yeah. So good. That's not too bad. Yeah. Well, generally feeling good. Um, I guess I got an appointment coming up in [PHI-Personal] or something like that. Is that when my appointment?
+Nurse: Uh, yes, you have lab work due. [PHI-Personal] 8 a.m. And then you have a follow up appointment with Doctor [PHI-Personal] on [PHI-Personal] 7th at 10 a.m.
+Patient: Right. Right. Ok. Yeah, that's what I thought I have that in my electronic schedule, so I should be ok there.
+Nurse: Perfect. Now, the other thing I wanted to talk to you about is, um, you know, I've got gotten to know you, you're doing pretty good. No real red flags as far as your health is concerned at this point, I did wanna see if you wanted to continue with the monthly calls or if you would like to space them out a little bit and do like every other month since you are doing pretty good.
+Patient: You know, at this point, I think every other month would, would certainly suffice. Um, you know, uh, it's, it's kind of like I don't have much to report. Um, which I'm glad, I'm glad. Me too. Yeah. Um, maybe, you know, you never know. But, but I mean, I can certainly call if there's anything really brewing, but as far as just a check up call, I think every other month would be, would be sufficient.
+Nurse: Ok. That's what I was thinking too, you know, you you're really healthy. And II, I trust that you'll call, if there's a problem or if you're having a problem, you know, you have someone to call. I'm
+Patient: Not gonna suffer in silence.
+Nurse: Ok. Good. All right. So I'm gonna just put that a note in here and I think that'll make, is sufficient for you. Now, of course, you know, as we get into winter, if anything changes, we can change anything based off of your need. The whole, the, the point of our service is, is we want to be an extra support for you. We don't want to be a bother. But, um, if you need us, we're always here.
+Patient: Yep.
+Nurse: All right. Well, uh, do you have any concern about anything else that is going on with you? Anything that you wanna let doctor
+Patient: Know? Ok. No, not today. Um, uh, right now we're just sort of enjoying the summer and, you know, taking it easy, that kind of stuff. The ban bread.
+Nurse: Well, I think a after [PHI-Personal] years you guys have earned that,
+Patient: I guess. Yeah, we, we raised four kids, so we retired from raising kids and now, now we have grandkids, we just, you know, had our daughter came in and now at the end of the month, our, uh, our son and daughter with their grandkids are gonna be there. So that's our, that's our big, big thrills of the day is seeing the grandkids.
+Nurse: Yeah. Well, now, now you got a whole different kind of boss because, uh, those grandkids will run you ragged.
+Patient: Well, all the nice thing for them is he just hand them back to their parents and says, here you go.
+Nurse: Yeah. Just, just don't do what my mother does. She has a bad habit of loading them up with candy before she returns. So that, that's not very nice
+Patient: Bad if you don't, if you don't do that, you know, our daughter comes there. Our granddaughter comes over once a week and she wants chocolate milk and we give her chocolate afterwards and my daughter goes, oh, you gave her like, hey, you know, it's your problem. Not mine.
+Nurse: Yeah, that's what she goes. This is just payback for everything you did to me when I was, when you were a kid. I was like, but, but I didn't have control. No, no. Doesn't matter.
+Patient: Yeah. Too bad. That's, that's, that's
+Nurse: The perks of being, being a grandparent I heard something long ago and it's definitely stuck with me as I've grown up. Is that if you do a good job as a parent, then you get to spoil your grandkids instead of having to raise your grandkids.
+Patient: So clearly
+Nurse: You did a good
+Patient: Job. That's where we are. Mhm. Yeah. All
+Nurse: Right. Well, I'm glad you're doing so good. I'm, I hope you had a good Fourth of July. I put you in for every other month there. Um, you have our phone number if anything changes um it I mean you're only on the Lisinopril as far as a uh a ordered medication and it and that one won't need to be refilled until February but if anything has a problem with that or you get need anything else give us a call on that as well, we can get that straightened out.
+Patient: Ok good.
+Nurse: Well I I was a pleasure talking with you. Thank you for taking the time out of your day and we'll uh we'll go from there.
+Patient: Alright
+Nurse: You you have a good day. Bye bye.

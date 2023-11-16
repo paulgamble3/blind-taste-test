@@ -1,0 +1,20 @@
+Nurse: [PHI-Personal] speaking. How can I help you? Yeah, hi. Is [PHI-Personal] available? Is [PHI-Personal] available? Ok, hold on. Is this Mister [PHI-Personal]? It is. Ok. Hold on one second. Let me see if she's available. Ok,
+Patient: [PHI-Personal] Cod, this is [PHI-Personal].
+Nurse: Hey, this is calling. How are you? Hey,
+Patient: Good. You
+Nurse: Good. Do you remember we chatted earlier today, right? So anyway, I did call you back a few hours ago. Say, hey, she's great. Everything is all set.
+Patient: Yeah, I got your message. I appreciated that.
+Nurse: Well, you're welcome. But now I just went to Walmart and I picked up the prescription, but they only can do 30 days and I don't know why they said they can't do 90 but they always used to do 90 they basically said, well, maybe we should check with your insurance company and that's a pain in the butt. So I think I call you first before I call my insurance company and say why that change from filling 90 days down to 30 days? Ok. There something you guys did that needs to be changed or no,
+Patient: Give me one second here. Let me finish real quick. What I was doing. No, no, I, I just have the maximum number of charts pulled up that I can pull up. That's all. So I got to make sure I close at least one of them
+Nurse: Out. So what basically what they said was, listen, uh, and they were trying to be comedians and I wasn't no mood at this point. They said you want the good news or bad news. I said, I'm wondering to just wanna get my pills to get out of here. And they said, well, you can get 30 days worth for $0. I get three months worth for $10. I said, well, I don't really wanna pay because I don't, I shouldn't have to pay. So give me 30 now and I'll figure it out. So, I don't know, I can, I don't know if it's an insurance thing or something else, but, I mean, it's not the end of the world just trying to make life easier for me.
+Patient: Yeah, let me see here. Let me pull you back up real quick. All right. So, yeah, it, it doesn't have anything to do with us because the order, you know, it remains the same with us. Um, did you change insurance or anything?
+Nurse: No, no, nothing changed in many, many years.
+Patient: And you generally, you get 90 tablets and you don't have to pay anything when you get them. Right. But now all of a sudden they're telling you, you have to pay $10.
+Nurse: Yeah I'll get 30 come in every 30 days and get them for free for about.
+Patient: Yeah that don't make any sense so why if nothing has changed with your insurance why that would change? Yeah. No I didn't it's still that same older order from back in September. We didn't even have to order a new one just because that was already in active order for you so we didn't do anything. Yeah, it's something with your insurance apparently.
+Nurse: All right. Well that what do I give them a call check with you guys first? Alright.
+Patient: Well, good luck hopefully they can get that figured out. That's silly.
+Nurse: All right. Well, thank you again. Appreciate
+Patient: You're welcome. Have a great day.
+Nurse: Bye bye.
+Patient: Thank you. Bye bye.

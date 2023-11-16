@@ -1,0 +1,24 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, this is
+Nurse: Calling. Hey. Yeah, this is the care management nurse with [PHI-Personal] office. Hey, I was just calling to check in, see how everything's going for you.
+Patient: Oh, I'm good. How are
+Nurse: You? Oh, well, I can't complain. I saw you, um, were in to see the orthopedic last week. You were having some pain with your knees. How's that been?
+Patient: Oh, it's fine.
+Nurse: How did the xrays go? Did they go over the results with you at all?
+Patient: Um, no damage to the implant and arthritis in the left knee?
+Nurse: Ok. All right. And they injected that left knee with the a steroid injection? Is that right? Yes, ma all right. And has that helped with the pain? Has it got it back under control for the most part? Yes, ma'am. Perfect. All right. Well, if any of that pain starts coming back, you know, the steroid injections usually last about a month or so for some people, they can even last a couple of months before you start feeling any of the, the real discomfort and the stiffness returning. Um, but if you do notice it coming back, um, we do recommend using like heat, either warm hot compresses or like a heating pad or something. Um, that helps to kind of promote the circulation around. That joint, helps lubricate it a little bit better, um, which will help kind of ease up some of that muscle tension, make the joint move a little bit easier and hopefully keep the pain under control. Um, but if it starts, you know, getting real significant again, getting to where, you know, hindering your ability to move around, let us know, um, the steroid injections, if they're repeated too frequently, it can cause breakdown of the cartilage makes the tendons and things a little bit weaker. So we don't recommend them more than a couple times a year. Um, but we can try to get you on a, you know, every couple month regimen or see what we need to do as far as pain control for you. Ok. Ok. Right. And then how are you doing with medications? Anything you're running low on or need refills on right now.
+Patient: Um, I think all my medications are fine now. It, it, well, I think it's a [PHI-Personal] issue because when she gave me my refill on the bottle, it said I had eight and I had, yeah, I had eight and then she gave me my refill. It said six. Huh? So, I think it's a [PHI-Personal] issue. But no, I think everything's fine. I got all my medicine and everything.
+Nurse: Ok. All right. And then anything you want me to let [PHI-Personal] know about or anything you're having questions on right now.
+Patient: Um I'm, I changed insurance from the wellcare to the [PHI-Personal] and they're want me to have a physical, I just had a physical. Um, do I have to come in in? Well,
+Nurse: Uh, now let me take a peek. So most likely just because it's the new insurance, they wanna have [PHI-Personal] on record for you. Let me see when the last time you had an annual done was see if I can pull that
+Patient: Up like that. I think it might be my child.
+Nurse: Give me just a minute while I kinda look through the chart here.
+Patient: You sure can [PHI-Personal] that? Ok, you want me to put it
+Nurse: Again? All right, so looks like the last time we saw you for an annual Wellness visit was the end of [PHI-Personal] of last year. So we do recommend you wait until like the end of [PHI-Personal] or early July of this year again before we do a repeat on that that physical. That'll work. All right. Um do you wanna try to schedule that now? Or you wanna wait until it gets a little bit closer?
+Patient: Uh when it gets a little bit closer, you can just call me and tell me what day and time to be there.
+Nurse: Ok. Alright, sounds like a plan um so maybe when I call you next month um like early mid [PHI-Personal] time we'll get that set up. Ok.
+Patient: Ok.
+Nurse: Alright and then if anything changes or you need anything before that certainly just give me a call. Ok. Alrighty. All right my dear. Well you have a good rest of your afternoon and I will talk to you again uh next month if you don't need me before that. Ok.
+Patient: Alright you enjoy
+Nurse: The rest of your day too. Thank you. Alright bye
+Patient: Bye bye.

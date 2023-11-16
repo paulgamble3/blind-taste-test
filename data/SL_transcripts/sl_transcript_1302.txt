@@ -1,0 +1,15 @@
+Nurse: This is [PHI-Personal] Care Manager.
+Patient: Yeah, this is, uh, calling back. This, uh, this is the hunting nurse. Yeah. Yeah. Ok. I called. Yeah. All right. Yeah. Uh, did, did that that, uh, did you get that, uh, prescription in?
+Nurse: Let me double check here. I'm getting you pulled up right now. Can you verify your email real quick?
+Patient: 0312, 1943. I, I called, I would, I would have called them because I haven't heard nothing from but see it, it takes at least 45 minutes for them to get through them for the answer and I sat there probably five minutes wait until all that damn recording. I'm sorry, all the recording keeps going. Well, it looks
+Nurse: Like, um, they got my message about needing a refill on that one.
+Patient: Ok. Who, who got the message? It looks
+Nurse: Like it was sent.
+Patient: Oh, you mean the, the, the, the, the, uh, doctor's office? Got the message you said? Yeah, Doctor [PHI-Personal]. Ok. I, I called the, I have, I'm gonna stop by over there later this morning sometime because something's messed up because I, they supposed to refill that and I think that the drugstore is supposed to, I haven't heard from drugstore. That's why I called you and they usually say they'd be pick it up, you know, whatever, but I haven't heard nothing. They say the refill.
+Nurse: Let me give CV S a call and then I'll give you a call back.
+Patient: Ok. Ok. Yeah, I, yeah, it takes me 45 minutes. So, yes. Uh, it, uh, I had the, the doctor [PHI-Personal] saw me in [PHI-Personal] before Thanksgiving. I can see
+Nurse: That. She filled it in [PHI-Personal], so I don't know why the pharmacy is not.
+Patient: Well, she called it in and her message in and I got a message from C is too soon, so as soon they didn't even record it because they
+Nurse: Call and uh I'll, I'll see what they need from us and we'll make sure it gets filled today. Ok.
+Patient: Yeah. Yeah, yeah, you can get, you can get through fast for me and still has to be done. Ok. Yeah, get ac back. Ok, please.
+Nurse: Alright, I'll talk to you shortly. Alright, thanks. Thank you. Bye bye.

@@ -1,0 +1,31 @@
+Nurse: CC and this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. I was in the laundry room. I heard your cough when I came up. Hey, how are you doing? I'm fine. Thank you.
+Nurse: If you'll just verify your birthday for me so I can get you
+Patient: Pulled up here. October 7th, 1944. Perfect. How
+Nurse: Have you been doing
+Patient: So far?
+Nurse: So good. Good. Any new issues or concerns for us?
+Patient: No, I don't have any right now.
+Nurse: Uh, well, it looks like you've been uneventful since I last spoke with you. But, uh, everything's been going
+Patient: Well so far. Yes.
+Nurse: Mhm. Good. Um, any issues or concerns with your medications?
+Patient: No, not right now. I've been taking the, I don't know how to say the name anyway. Huh? Early in the morning because you got to take it with water half an hour before you eat. And so far I don't seem to have any, you know, issues with it. Ok,
+Nurse: Perfect. Scroll through here. You're still taking the Metformin with that. Is that correct?
+Patient: Yes.
+Nurse: Um, no issues with the, the two together
+Patient: So far. I haven't seen anything. No.
+Nurse: Um, the Metformin, you know, is notorious for g I upset. So, just be mindful of that. But, um, if that's still working for you then, uh, we'll just keep monitoring it. Um, now you don't check your blood sugars. Right. Yes,
+Patient: I do. Twice a day, twice a day.
+Nurse: Ok. Um, and how have those numbers been for you?
+Patient: They've been, ok. I've been, um, pretty good with them this morning. It was 10, let me see. I got, I wrote, I write it down. It's 103 this morning. Oh, wow. Ok. That's really good. Mhm. Had two high ones over the weekend at, after dinner. I don't know why. But anyway, that other than that they've been, you know, pretty low. Ok.
+Nurse: Um, you're not symptomatic with that at all. Right.
+Patient: No. Huu ok.
+Nurse: Good. And then any issues with your BP recently,
+Patient: Not that I know of. I mean, I, you know, usually, I mean, if it acts up, I know because I get this tremendous headache and stuff. So I guess it's ok.
+Nurse: Well, good. I'm glad to hear that you're doing well. Do you have any questions or concerns for me? No,
+Patient: Not right now. I, so far everything seems to be ok. Well,
+Nurse: Good. I appreciate you giving me a call back and if something comes up, uh, certainly give us a call, but other than that, we'll touch base again next
+Patient: Month. Ok. Thank you.
+Nurse: You're welcome. You take care.
+Patient: All right. Thank you. Bye. Bye.
+Nurse: You're welcome. Bye bye.

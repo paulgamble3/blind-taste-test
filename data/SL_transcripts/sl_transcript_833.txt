@@ -1,0 +1,30 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hello, [PHI-Personal]. It's your favorite patient. Hello [PHI-Personal], what's up? [PHI-Account] 48/90
+Nurse: Like it. Alright, I will see him.
+Patient: Ok. The automatic cost is in process. I hope I hope to have it by the end of tomorrow.
+Nurse: Ok, that's fine. And just when you get it, have your wife check it like a couple minutes after you check it on that just to make sure that it's accurate.
+Patient: Ok. And then that thing that you breathe into I did it again because I read the instructions, I'm supposed to do it like 10 times a day. But anyway, I breathed into it and it says, you know, slowly breathe in until the thing hits the top and then try to hold it there for 23 to 5 seconds. Uh I'm barely able to manage
+Nurse: One. That's fine. So what you do is e every day, try to get one second more. Don't try to get right to the 5 to 6 or whatever, or 3 to 5 or
+Patient: Whatever. Well, I'll be going back out there into the kitchen in another uh, probably an hour to an hour and a half because I got stuff I'm preparing for dinner. Uh and um uh I just forgot what I was gonna see. Oh, I took my meds the 600 of gab and the 1000 of Tylenol. So I'll be due to take it again around 7 38 o'clock.
+Nurse: Ok. Alrighty, I will update doctor on your BP, remember if it consistently is above [PHI-Account] 60 or you're symptomatic call him?
+Patient: Ok, good enough. And I had another coughing shit. Damn, it, that hurts. Oh dear Lord. All right.
+Nurse: And you go take care of yourself and get yourself a pillow.
+Patient: Yeah. Well, no, I hold a pillow against, I have a pillow behind my head and when I got cough, I put the pillow right on and I push in on it and then I cough. So it's just, and, and it's just that I for so I, I get a little congestion, it's clear mucus. I mean it's absolutely clear. Bye. I've always gotten it. I think it's due to the fact that I grew up around cigarettes and I smoked for years.
+Nurse: So that's what it is. Yeah.
+Patient: Ok. But other than that I'm breathing fine. Uh My head feels fine. I'm not dizzy. At least not yet. I'm waiting for the meds to expect they, they do make me a little dizzy. Uh but I'm feeling all right everywhere else. So I am just put on a lidocaine patch on the left and a tiger bomb hatch on the right knee. I don't know. Uh, Tiger [PHI-Personal] is lidocaine, uh, caps and [PHI-Personal].
+Nurse: Ok. Just be careful mixing them at the same time. Well, what it
+Patient: Is is the lidocaine is on the left. Ok. The Tiger [PHI-Personal] patch, which is, uh, it's, it's, uh, I think it's lidocaine. Maybe it was something else. I think it's, and ation and I think it's something else. I really, I'm really not sure if it's lidocaine
+Nurse: Anyway. I try, try to alternate instead of applying them both at the same time just because of the lidocaine.
+Patient: Oh, ok, because the doc told me to put the caps on the right side at the same time
+Nurse: To
+Patient: Cause you to cause irritation. So the body will start thinking about the right side and leave the left side alone.
+Nurse: Ok. That's fine. Then I didn't, I didn't, I don't know if I'm not familiar with it. Ok. I
+Patient: Went to the store. She didn't get straight caps. Uh, she the tiger pa Well, I never even heard of it. So, uh anyway, other than that I'll give you a call if anything changes. Ok.
+Nurse: Sounds good. Or, or
+Patient: If I fall down
+Nurse: Here don't do that. All right. Goodbye.
+Patient: I don't plan on it. I have three cats sitting in my lap so I'm quite comfortable. Keep
+Nurse: Them on your lap, not under your feet.
+Patient: Yeah.
+Nurse: Alrighty, we'll talk. Bye
+Patient: Bye bye bye.

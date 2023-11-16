@@ -1,0 +1,43 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you? Yes.
+Patient: Uh mama page doctor. I need a couple of prescription refills.
+Nurse: Sure. Give me one second. All right. Oh, where does this thing go away? Is this Mr [PHI-Personal]? Yes. Alright. Mtgrat. Oh wow. Uh All right, computer let's just do whatever you want.
+Patient: Just bang it a few times. That'll work,
+Nurse: You know, if it were mine, I probably would. Uh let's see. Hm. It's like come on can you verify your birthday for me?
+Patient: Uh [PHI-Personal]
+Nurse: Right? Let's get into your chart. It's E [PHI-Account]. All right. What meds are we looking
+Patient: For? Ok, I need the low dose aspirin. Ok. And uh well it was called Incruse. It was a a long spray but they're not insuring that one since they're not paying for it. So they gave me a a letter for something different so I gave to the doctor but that didn't get them. That'll be the new one. Did you have it on there?
+Nurse: So the meds that I have are your albuterol inhaler? Your aspirin, your atorvastatin LORazepam. Uh Pilocar eye drops, Timolol eye drops and something like that, which is the incruse.
+Patient: Yeah. Well, that's what I need that. The stuff. Ok. And the baby aspirin and that's all for now.
+Nurse: All right. Well, that's not too bad. Everything's going ok. Good. Well, I'm glad
+Patient: Plugging along, as they say
+Nurse: Sometimes that's all you can do. Right.
+Patient: Yeah. Well, I gotta come up there in [PHI-Personal] to see that, but for now I'm right with the other stuff.
+Nurse: Ok, let's see. Open up man, this computer is really just, just doing whatever it wants today. Ok. Here Care Management. Thank you. Thank you. Come on, you can do it right. It's like some days you just feel like you could do it. Um Are you still using the eye drops? Uh I
+Patient: Got some, some I am some I'm not uh you know, I had a different operation. They changed the drops around but, but one of them I don't get up there, I get from uh the uh [PHI-Geographic] or something and I gotta call them, you know, so I don't know what they got listed there. Some of them using some I not, you know.
+Nurse: Yeah, it no big deal. I just kinda wanted to check. Um let's see and it looks like they just refilled your atorvastatin like the pharmacy sent in a refill request on that one. So you should be good
+Patient: On that. My guy just got 90 of them like a week ago. So
+Nurse: Yeah, I was gonna say they did that one not too long ago. So you just need the incruse Ellipta generic and the Aspirin. Right? All right. Can do. I will send those in to Doctor [PHI-Personal] today. Um, let's see.
+Patient: Well, I'm all right, I'm all right until about the end of the week, you know. Ok,
+Nurse: No problem, please. How is your breathing doing? Pretty good. Pretty good. Good. You're using the inhaler and it's doing well. Yeah, it seems to be ok. How about your anxiety?
+Patient: No, that's, I only take them every now and then every once, sometimes, sometimes I take one, sometimes I take one a week, sometimes I take one every three months.
+Nurse: Just kind of depends. Huh? Yeah,
+Patient: It depends what I, you know, I got to wait in long lines. Yeah. Come on, let's get going around here. You know, it gets on my nerves, you know,
+Nurse: I'm with you on that one. Trust me. I'm with you on that one. All right. So I'm glad you're doing ok. I'll send those refills in for you. Um, we'll kind of see what we can do on that. Uh, looks like you have uh appointment with seeing on [PHI-Account]. I don't see really any other appointments coming up. No,
+Patient: That I know it was end of [PHI-Personal]. I knew that.
+Nurse: Yeah, the end of [PHI-Personal] and then it looks like um, that was doing good. You just saw doctor seeing that was for your retinal repair.
+Patient: Yeah, I had to get, that was when the, uh, we're operating on the [PHI-Personal]. So, I guess it was [PHI-Personal]. I guess it was around the end of February, beginning of [PHI-Personal], something like that. Well,
+Nurse: That's good. How are you feeling with it? How's your eye? Good. They told
+Patient: Me it a couple of week. I could see it about three days. Wow. It worked out better, you know? I still can't do any heavy work. I go back there on the 21st because you got to get some stitches out or something. But,
+Nurse: Oh, God. Oh, I don't know if I could do all that, that eye stuff. It just, the drops, it works, it
+Patient: Works. They put the drops in and it feels like they're putting an ocean in there, you know? Oh, really? They pour it all over your face?
+Nurse: Oh God.
+Patient: You know, because it's like, it's like 10 different ones they put in before they do anything, you
+Nurse: Know? Isn't it? They, they like, numb it, dilate it. They do all that. Yeah, they do
+Patient: All that. It, another drop, another drop and it keeps in, in front of you. See, I can't even see out of it now. Looking through the or something.
+Nurse: That is crazy. Well, I'll
+Patient: Let you go. It's getting there lunch time. So, yeah, I'll, I'll check with the pharmacy in a couple of
+Nurse: Days. Not a problem. Hey, I just wanted to quickly remind you before your appointment with doctor. Um, seeing you do have a couple of labs that are due. One of them includes your cholesterol and that is a fasting lab. So when you go in for it, make sure that you've been fasting for 8 to 12 hours.
+Patient: Ok. Yeah. Well, I got to call them up because like before when they told me to go over there, uh, because they gave me the wrong phone number that was disconnected. Then I called, then I said, well, I'll get it on Christmas. Then the eye came off right before Christmas and I couldn't see the driver get there. So I haven't been able to make an appointment, you know. Oh,
+Nurse: Gosh, it's
+Patient: One thing after the other, you know,
+Nurse: He, it's like how it works, you know, the end of the year, beginning of the year, it just all rolls. All right, two labs are in there. They are active. So, just try to get those done before you see the doctor. Ok. All right, I'll work on it. All right, hon. Have a great day. You too now. Bye bye. Bye bye.

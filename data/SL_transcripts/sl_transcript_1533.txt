@@ -1,0 +1,82 @@
+Nurse: This is [PHI-Personal] care manager.
+Patient: Hey, this is, hey, how are you doing today? I am
+Nurse: Sorry I missed your call yesterday.
+Patient: That's ok. You get my message.
+Nurse: I did. Ok. So I didn't see anything at all under the chart related to that. Let me get you pulled back up here. Um There we are. Ok. Um So it's something for, to help with like assistance, like having someone come in and help you with all kinds of
+Patient: Stuff. Yes. Oh, from a program called Independent Aroma Enrollment Broker. And her name is [PHI-Personal] and it says that [PHI-Personal] has to fill out a position certification form. Ok. Um, and, and they've sent [PHI-Personal] the form twice. Ok.
+Nurse: It looks like it's not going through. Um I'm not seeing anything here in your chart, which it should be. So what is her name and phone number again?
+Patient: [PHI-Personal]. And the phone number is [PHI-Account] [PHI-Account]
+Nurse: [PHI-Account]. Ok. Um, so first, what I'm gonna do is I am going to double check to make sure they're faxing it to the right place because that's my guess is that possibly the fax number is wrong. Um, because even if they didn't send anything, they didn't do anything with it yet. Excuse me, it should still be listed here in your chart somewhere. Um And what is the, the resource called again?
+Patient: P A [PHI-Personal],
+Nurse: [PHI-Personal]. Ok. Just so I can keep a note on this in case I need to do more work on it.
+Patient: And the, and the agent's name is [PHI-Personal]. [PHI-Personal]. Harry.
+Nurse: Ok. Yeah, I got that. Ok. So let me see. Um, let me give them a call and make sure they're faxing it to the correct place and then we'll go from there. So, if I need anything else from you, I'll let you know, but otherwise I'll make sure that it gets back to the right place. I'll send the office a note to expect it to. Um, and then,
+Patient: Uh,
+Nurse: We should be able to get it going from there. So either way, um, if I hear anything by the end of the day, I'll let you know, but either way I'll just check in with you to at least let you know my progress. Ok,
+Patient: [PHI-Personal] also knows to expect it to. So she should also be looking out for it.
+Nurse: Ok. Yeah. So, I mean, if they're expecting it to my guess is that it probably got lost in the faxing world somewhere, they might be sending it to the wrong number. The form that needs filled out. So I'll verify with them where they're sending it to and hopefully the problem is just as simple as
+Patient: That. All right, I really appreciate that. Yeah, because, uh, when they told me that she get [PHI-Personal] herself can't, um, fill it out that [PHI-Personal], I'm like, who's [PHI-Personal]? I've never even heard of that guy. And they're like, that's your doctor. I'm like the fuck it is.
+Nurse: Yeah. So technically every physician assistant has to work under a doctor. So doctor is the one that [PHI-Personal] works under. Yeah.
+Patient: Ok. Yeah. Like I've never even met this guy.
+Nurse: No. And that's ok. Um I mean, I'm sure [PHI-Personal] will help him fill it out. I, it really with stuff like this. It's just some of them are silly and not caught up with the times they need a physician's signature and won't accept a physician assistant. Although that's
+Patient: Fine. That's, that's pretty much what they explained to me that it's just formality. I don't care. Yeah, just as long as it's done. Like I'm under so much stress here at my house. My uh we got a uh a letter from the that said that my grass was so long that they're gonna find me if I don't get my grass done and they don't care that I've been sick and just was explaining to me that if they give you enough fines, uh you can actually get your house taken away from you. They can actually find you to the point where if you don't pay the fines, they can actually put a lien against your house and then just take your house away. So I'm laying awake at night worrying about my house getting it taken away because of grass. Well, it
+Nurse: Takes a lot for that to happen. I mean, it, it really just won't happen just because of grass. There's gotta be a lot more to it than just not mowing the grass. Um, so don't worry about that. I mean, we can help get that taken care of. Um, so you can get that help around the house, help doing those kind of things. And um so yeah, let me give them a call now and I'll get to working on it for you and like I said, either way, I'll check in with you by the end of the day just to at least give you an update with what I've got. Ok.
+Patient: All right. Thank you so much. I really appreciate it.
+Nurse: Absolutely. You're very welcome. Do you need anything
+Patient: Else? No, I got a call [PHI-Personal] from the uh up MC and now and let them know that I got all those tests done that they want me to get done. Awesome. Ok.
+Nurse: All
+Patient: Right.
+Nurse: Hey, you got this, you're doing good. You're doing a lot better than I think you're giving yourself credit for right now.
+Patient: I'm trying to
+Nurse: Just even think back to the first time I called you where you were at and where you're at now you have come leaps and bounds with everything you were doing so much better than I think you really are giving yourself credit for.
+Patient: I'm trying to, but it just never seems like it's enough. I just gotta do more. I gotta to do more. Uh, and
+Nurse: That's just life. Unfortunately, there's always gotta be something we've got to do. But I mean, you're taking initiative, you've made positive changes you're doing, you're doing really well. You are
+Patient: The biggest hurdle I have right now is, um, we're running out of medical marijuana and we can't afford to get another license. It's like [PHI-Account] [PHI-Personal] and now, you know, with my PTSD symptoms, I don't know what we're gonna do about that. That's, that's for another day to worry about. And until they pass that, that new law, um, to make it so that either they reduce the charges or the license or they make it so that I can grow it or they make it so that [PHI-Personal] can prescribe it. I don't know what we're gonna do in that department and there should be
+Nurse: Somewhere to get it cheaper than [PHI-Account]. It's
+Patient: On $[PHI-Account] right now. It's $[PHI-Account]. Really. Um, and then there's also buying it at the dispensary. We don't, I mean, I have $15 in my checking account. I can't physically afford to buy it.
+Nurse: Oh, I know. It's expensive at the dispensary, um, that I do know. Um, but I'm looking at the Department of Health [PHI-Other] because I think even with renewal,
+Patient: Yeah, we can't, we can't afford to even renew the license
+Nurse: Because the renewal should only be $[PHI-Personal].
+Patient: Don't even have the money to renew it, even if it was [PHI-Personal]. I mean, when we first got the license it was [PHI-Account].
+Nurse: Yeah. So the renewal is a lot cheaper than that. I mean, still, I, I know [PHI-Personal] [PHI-Personal] is a good chunk of change, but at least that's a little bit more doable than [PHI-Account]. So, when do you expire [PHI-Personal] years ago? Oh, so it, it's been expired? So you're gonna have to reer of redo the whole thing from the get go, got you.
+Patient: And then even with that, we can't afford to physically buy it at the dispensary.
+Nurse: I know they're so expensive. Um, let me see.
+Patient: I'm talking to our [PHI-Personal] lady. All we really need is we need just a prescription for it so that my insurance can cover it. What
+Nurse: Dispensary do you go to?
+Patient: Uh, just, do you remember the name of the dispensary up in, uh, State College? Yeah. What's the name of it? Do you remember? Nature's something or another? Ok.
+Nurse: Because I know there's a heck of a lot more too. So, let me, because I, I do think that II, I really don't want you to go without that because I know it's helped you. Now,
+Patient: There are, he thinks it's called Na Nature's Medicine or something.
+Nurse: Yeah, I'm looking here, I see that is one of them. Now, there are at least 4 to 5 just in the State College area. So, um, I mean, we can go into this a little bit more later if you're able to get that card back. Um,
+Patient: Do you think they ever make it so that [PHI-Personal] can prescribe it to me is in so that the insurance can cover it?
+Nurse: I'm hoping in my lifetime, but I, with the legislators, you just never know because they've all got sticks up their backside whenever it comes to stuff like this. So I know it, it's been hard to push through. Um, let me just check something here. Ok. So that's just for a replacement card. Oh, ok. Um, let me see here that the, I know, I know. Give me a second who [PHI-Personal] Computer doesn't want me to go to the [PHI-Other], but I'm gonna go to it anyway. Um, so it looks like here since you already did have it, um, looks like the recertification fee is 100
+Patient: [PHI-Personal]. Hm. So it's better than the
+Nurse: [PHI-Account] still. Um, let me actually go on there, find them at their [PHI-Other]. This is all one that, no, because that's a blog. I don't wanna go on a blog. I want the government [PHI-Other] to make sure the information is legit. Um, so we've got that how to renew.
+Patient: Yeah, I was, uh, look, I was looking at the, uh, uh, some laws last night and they're, they're trying to push it through a law right now that ma makes it so that, uh, once you get a license you never have to recertify again. Uh, but they, they, they haven't pushed it through yet
+Nurse: And honestly that's how it should be. Um,
+Patient: But I don't
+Nurse: Understand. Yeah, I don't understand the need to renew it every year. So there is a program here implemented phase one, phase [PHI-Personal], implemented in [PHI-Personal], phase three PA and PA now, depending on Sunday. Ok. So go, what I want you to look for is, go to the [PHI-Personal] dot P A [PHI-Other], the medical marijuana [PHI-Other].
+Patient: Yeah, I already have it on here.
+Nurse: Ok. On the right side there's, um, an I medical marijuana assistance program.
+Patient: Yep, I already know about it. Did you try that? Well, um, I, I know of it and I have, I have it saved on my computer and it does say that it's, it's [PHI-Personal] [PHI-Personal] to recertify it. But like I said, we only got 15 [PHI-Personal] in our checking account right now and our cats are low on cat food. So we have to choose between one or the other, you know. No, I understand I got worried about.
+Nurse: Um, so at least whenever you're able whenever you do have that [PHI-Personal] [PHI-Personal] in order to try to renew it. Um, because it looks like it even, I would still apply for that program because it looks like it even gives you $[PHI-Personal] a month towards the medical marijuana. So not only that, it helps you pay for it monthly. Really? That's what it, it phase three distributes a $[PHI-Personal] benefit per month per eligible patient. So it looks like they'll give you [PHI-Personal] [PHI-Personal] to help pay for, to pay for the medical marijuana as well.
+Patient: Um Hold on, hold on a second. Say say that again to just, all right, say that, say that again.
+Nurse: So um with the M MA P program for the Medical Marijuana Assistance program, um there's they implemented phase three last year in November which that part of the program distributes a $[PHI-Personal] benefit per month per eligible patient. So it looks like it gives you [PHI-Personal] [PHI-Personal] a month to help you even pay for the medical marijuana if you can get your card back.
+Patient: Yeah, my card expired in [PHI-Personal] of last year.
+Nurse: So I I'm looking here to look, I would still look in to the uh the medical marijuana assistance program because it's there to assist the cost of providing the medical marijuana who developed hardship or need. Um It helps provide the cost of the background checks for caregivers. And um it also helps with the cost associated with a waiver or reduction of the fees for the card. So, definitely look into that program. That's I, that might be able to help you out right now. Yeah. The first, the first year that they had
+Patient: The program, um, the only way that I could get the card was I had to pay, who had their own doctor on staff and then he met with me, certified it and then the company processed like all the paperwork and stuff for me and I, but that cost that cost us like $[PHI-Account] to
+Nurse: Do all that. Well, since it's become more popular and the government found out that they can actually make a lot of money from it. Um, it's become, there's a lot more providers out there that offer it a lot cheaper as well to get that. Um So there's also a link that you can go to here, um, that find a practitioner. Um, so you can go through on the, on the main medical marijuana [PHI-Other] and it's a PDF document. I just opened it up right now and they've got a list of all sorts of certified physicians that are able to prescribe it. Now, some of them, it may not necessarily be online. But, um, I'm just trying to remember. I wish I can remember the name of the specific one. I
+Patient: Don't think [PHI-Personal] the UP MC for you would cover the cost of the doctor's visit.
+Nurse: Unfortunately, probably not yet. We're, I don't think we're there yet. However, um,
+Patient: You're talking about a couple $100 for a doctor's visit to do that.
+Nurse: Right. No. Oh, no, no, no, I understand. Um, now there is, I, I just remember hearing it on the radio a couple weeks ago and I wish I remember the name of the [PHI-Other]. I would do an online search for providers available in [PHI-Geographic] and see which ones offered online because I know there's some that are cheaper than [PHI-Account] [PHI-Personal]. Unfortunately, it's probably still gonna be about 11 [PHI-Personal] to get that visit. But then once you get the card, it's so much cheaper to just keep renewing it. It's only $[PHI-Personal] a year to renew it as of now. And if you apply for that, uh, assistance program, they can even help you with that.
+Patient: Now, do, do they need their own special providers or can any, any medical provider prescribe
+Nurse: It? Like, no, it's got to be a specially licensed provider just like the same thing with narcotics and things like that for like pain clinics and stuff. It's gotta be a special licensed provider that goes through special classes once again where the state can make money off making these physicians take these classes. Yeah.
+Patient: I wasn't sure if it was something like we could just talk to our psychiatrist that does our, our medication management and see if they could do it. But, yeah, that won't work. They have a list online on the official, uh P A [PHI-Other] marijuana site. So I know, just know that since the insurance isn't gonna cover a doctor's visit, they're gonna wanna do a visit, they're gonna have to do a visit even. You
+Nurse: Can even do a tele visit too.
+Patient: And that's gonna be probably 100 and [PHI-Personal] to $200 for the doctor's visit. The [PHI-Personal] might cover it. And then on top of that whatever the cost of the paperwork we might be able to get that way but it's still gonna be probably one or $200 out of pocket just to get a doctor to sign off. But my my hardship uh my [PHI-Personal] hardship will cover the cost of most of it probably down to like [PHI-Personal] [PHI-Personal] is not the doctor's visit.
+Nurse: Let me look into some other resources for you guys um and I'll give you a call back. How does that sound? Because I there's gotta be something out there since this has become a heck of a lot more popular. Um so yeah let me look into some things and I'll see what I can find for you. Ok?
+Patient: Thank you so much. You're
+Nurse: Welcome so I'm gonna give uh [PHI-Personal] a call and make sure they're faxing it appropriately and then I'm gonna look into some more resources for you to get your card back. Ok?
+Patient: Alright.
+Nurse: Alright you [PHI-Personal] take care and I'll be in touch at some point today. Thank you. You're welcome. Alright, bye
+Patient: Bye.

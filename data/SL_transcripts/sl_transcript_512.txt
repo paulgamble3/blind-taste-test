@@ -1,0 +1,12 @@
+Nurse: This is [PHI-Personal].
+Patient: Yeah, this is, I just checked my voicemail and I see, I don't know when you call, that doesn't tell me. But, um, I'm calling you because you talked to the doctor about the swelling in my foot.
+Nurse: Yes, I talked to them, um, they doctor [PHI-Personal] said just to do the elevation limit salt and compression socks and that if it gets worse or it starts to hurt then to make an appointment. How
+Patient: I, I think I go, I think I go to him. I think I go next month to doctor for my checkup. But, uh, I did, I did, um, I did exactly what the nurse told me to do. I, uh, I elevated my foot, uh, my, my legs above my heart and, uh, I, I did that, I put pillows under my knees and I did that for like, uh, maybe three hours and when I got up the swelling was gone. Yay. That's, yeah. So I, I didn't have to put on the socks and I cut back on my salt and they haven't, they haven't swelled since. But, yeah, that quick. I don't know. I don't know why it worked that quick. But yeah, it did. And so I've been watching them. I, I check them all the time and they haven't swollen since. So. Yeah. So maybe you can pass that on to all the other girls and, uh, and doctor and, yep, I did it right away. I laid down in the bed and I piled the pillows up under my knees and when I got up, uh, uh, the swelling was gone.
+Nurse: I'm so glad. Ok, I'm going to let him know that makes me so happy.
+Patient: Yes. Yes, I know. It made me happy too. I thought, oh my God, that's, that's about the fastest remedy. I, I wish everything else in the health world could, could work that quick, but I, I was happy about it and I knew you guys would be happy about it. We're
+Nurse: So happy. That's so good.
+Patient: Yes. So if you would please pass that on, I forget who I talk to and who told me about the compression socks and the, and the cut back on the salt and
+Nurse: It was me.
+Patient: It was you. 00, good. Well, then you can pass it on to all the others and thank you so much at work. It, it really work. Yes. Yes. I thank you so much.
+Nurse: You, you take care.
+Patient: Yep. You too. You have a good day and thank you. Bye bye.

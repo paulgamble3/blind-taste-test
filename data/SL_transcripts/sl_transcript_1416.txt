@@ -1,0 +1,41 @@
+Nurse: Hi, this is the [PHI-Personal] Lung Center.
+Patient: Hello. Uh [PHI-Geographic]m a patient of doctor and [PHI-Geographic] called yesterday to uh to reorder some uh scripts of mine. And uh [PHI-Geographic] got a call back later in the afternoon which [PHI-Geographic] wasn't able to get to until later in the, and the young lady said that she needed to speak with me to get a little more information on the inhalers. That.
+Nurse: What's your date of birth? Let me pull up your chart.
+Patient: [PHI-Account].
+Nurse: Ok. [PHI-Personal]. Yes. Ok. Let me look here. [PHI-Geographic] think [PHI-Geographic] might have been the one who called,
+Patient: Uh you know what [PHI-Geographic]m gonna tell you. You sound just like the one [PHI-Geographic] was listening.
+Nurse: Yep. Uh So um we were trying to get that refill for you. But uh the provider, [PHI-Geographic] think when the person took the first call they put in the Budesonide inhaler. So [PHI-Geographic] just wanted to see, was it the Budesonide nebulizer solution you needed?
+Patient: No, no, no, no, no, no, no, [PHI-Geographic] need the uh that was the rescue rescue inhaler. The, the albuterol.
+Nurse: This one says Symbicort. Well,
+Patient: That [PHI-Geographic] need that too. That's what [PHI-Geographic] thought you,
+Nurse: Because they thought the Symbicort, they said it was, um, the provider said patient is not on Symbicort as a current med, the more current pulmonary therapies are nebulized medications.
+Patient: Yeah. Well, that, that they're full of bologna. [PHI-Geographic], [PHI-Geographic]m on the Symbicort. Ok. And [PHI-Geographic] just, and [PHI-Geographic], yeah, and [PHI-Geographic] use the, uh, [PHI-Geographic] use the, in the, uh, rescue inhaler. So, and [PHI-Geographic]m out of both of
+Nurse: Them. So, let me look here
+Patient: And [PHI-Geographic]ve not been, oh, II, [PHI-Geographic] have tons of the nebulizer
+Nurse: Stuff. Ok. That's what [PHI-Geographic] was gonna say. So you have the Ri Brovana. Yes. And the Pulmicort those three.
+Patient: Uh, [PHI-Geographic] have two.
+Nurse: Oh, ok.
+Patient: Let me, uh right. Give me a second
+Nurse: Here. Ok. No problem.
+Patient: [PHI-Geographic] have my little cheat sheet.
+Nurse: Mhm. That helps.
+Patient: Yeah. Yeah. But ones, uh, uh, a former.
+Nurse: Uh huh. [PHI-Geographic] see
+Patient: A Rfomot, er ol and the other one is, mm. But Bu [PHI-Personal] on ID [PHI-Account]
+Nurse: Ok. What about, um, there is a third one. It's, uh, also known as [PHI-Personal].
+Patient: Ok. Yeah. You know, it's funny you mentioned that uh huh. Because he mentioned this to me about a third nebulizer and, and he never got back to me and [PHI-Geographic] mean, [PHI-Geographic] guess it's, this is much my fault but [PHI-Geographic] never heard about it again and [PHI-Geographic] never got it. So [PHI-Geographic] just, you know, but if that's what he has, [PHI-Geographic]d definitely be interested in getting
+Nurse: It. Yeah, he did send it back in [PHI-Personal] to, um, that CV S, let me go back to that office visit when you saw him at that time and see what he wrote in here. But, uh, yeah, so he wanted you to continue, um, the, the two that you were doing and then add the, the long acting, you know. [PHI-Geographic],
+Patient: Uh huh. Yeah, [PHI-Geographic] never got, [PHI-Geographic]ve never gotten that.
+Nurse: Ok. They should still have it. It might just be back on the shelf but the refill is still active. So um when you call CV S because [PHI-Geographic] do see also he did get the Atrovent rescue inhaler sent yesterday, ok, to CV S on [PHI-Geographic] and that's the same one where they, where he sent, it's the um, [PHI-Personal] nebulizer solution if you ask them. Uh huh. Yeah. Could you spell that? Yep. It's Y as in yellow, U Pe LR [PHI-Geographic]
+Patient: Ry [PHI-Personal]. Yes. And that's, that's a, [PHI-Geographic] assume a liquid that goes in the nebulizer.
+Nurse: Yeah. And he had it ordered um to be used, it looks like once a day. Ok. And then um [PHI-Geographic] will let them know you do still use, it looks like the Pulmicort inhaler, the Budesonide Symbicort, right? Ok. [PHI-Geographic] will let them know you still use that one. See if we can get that um added to CV S as well.
+Patient: Ok. Uh Is that it?
+Nurse: Yep. [PHI-Geographic] think that's it. So once [PHI-Geographic] get this ordered and approved, [PHI-Geographic] will reach out to you and let you know when it was sent. Ok.
+Patient: Very good. Um but you're not gonna, you it's up to me to take care of uh
+Nurse: The yeah, it was he sent the refill back in [PHI-Personal] so you can let them know if you just weren't aware of it but they should, they'll still have that um prescription. It's still an active order.
+Patient: Ok. Well, thank you so much. You're
+Nurse: Welcome and [PHI-Geographic]ll give you a call as soon as [PHI-Geographic] hear back about this um this inhaler,
+Patient: You have a very distinctive voice so you can't
+Nurse: Hide good to know and uh
+Patient: You have a great day.
+Nurse: You too, we'll talk soon. Alright. Alright, bye bye.

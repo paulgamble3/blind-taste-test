@@ -1,0 +1,22 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you? Uh, [PHI-Personal], please. Sure. Hold on one second. Is this Miss [PHI-Personal]? Yeah, hold on one second. Oh, you the same. Let me see if she's on the phone. I think I spoke with you the other day. Oh, really? Yeah, because we were trying to figure out which one was able to be covered. Yeah. Ok. Ok. Uh, uh, she is actually on the other line. It looks like you were trying to find, um, to see if [PHI-Geographic] Crest had cpaps
+Patient: And they do not. Ok.
+Nurse: Mhm. We're just not having any luck, are we? Oh, man. All right. Well, um, and the other one wasn't close to you right. Right
+Patient: Now, supposedly that adapt health has one in [PHI-Geographic]. I, I don't know, but you can't get in touch with them like it goes to their main office. Let's see. And I don't see that on this list. So I don't know if that makes a diff, I don't know. I don't understand, you know, for
+Nurse: Adapt health. Yeah. Let's see. DME. Near you want it near your house. [PHI-Personal].
+Patient: Yes. It, I would like isn't that better.
+Nurse: Um, do you have that list with you? Yes. Uh huh. Is contour medical on the list?
+Patient: Oh, I see. Count
+Nurse: To [PHI-Personal]. They're in Domin, I
+Patient: Don't see them.
+Nurse: Ok. I not, I have [PHI-Personal] [PHI-Account]. No. Ok. Let me figure out. Ok, let me see. I'm like, where are you looking at a map? Sorry. I'm like, wait, that doesn't make it very easy. No, never. Huh. That would be. No. Me, that would make things too simple. Mhm. Are you at, is [PHI-Geographic] near you?
+Patient: Yes.
+Nurse: Ok. So Mo [PHI-Geographic] who does is with adapt health? They are in [PHI-Geographic].
+Patient: Yeah, that's what one of the places I just called kind of said. Um,
+Nurse: Would that work?
+Patient: Yeah. Mhm. That would work. Let
+Nurse: Me send that to her and that way because, you know, she's on the other line and I'll let her know that they're, you know, you can do them because I know you said adapt health would work. So let's do them. And their address is [PHI-Geographic]. [PHI-Personal] [PHI-Account]. Ok. And I'll just let her know that that's ok with you. And then she can send that over there for you.
+Patient: Ok. And then will they contact me
+Nurse: Or what? Yes, ma'am. They should call you when, uh, whenever it's ready to be, you know, set up either for delivery or pick up.
+Patient: Ok.
+Nurse: Ok. All right back in what two? Got it. Ok. I'll send this over to her. If she has any other questions, then she'll give you a call. Ok. Ok. All right. All right. Thank
+Patient: You. Bye bye bye.

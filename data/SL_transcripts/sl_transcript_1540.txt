@@ -1,0 +1,38 @@
+Nurse: Good morning, Miss,
+Patient: This is [PHI-Personal]. Hey,
+Nurse: How are you this morning?
+Patient: I'm doing ok. You know, um I don't think I have any, I don't think. No, I have no refills on this, on [PHI-Personal]. It's, it's for my stomach. Ok. And I have refill. Ok.
+Nurse: Are you still having some nausea?
+Patient: Yeah. The Yeah. Yes, I am. So I think this, this needs to work. I, I think I'm on a couple of different ones, I think.
+Nurse: Um, let me see.
+Patient: Um I am I am I
+Nurse: Um I know you the Cimetidine that you're taking the 20 mg twice a day that helps with um, your reflux and everything. But the on the Ondansetron that helps with nausea.
+Patient: Um,
+Nurse: But I'll,
+Patient: I take this because of my medicine. I taking all my medicine. It kind of gives me nausea sometimes. Well, most of the time I should say
+Nurse: And you want that sent to CV S?
+Patient: Yes in [PHI-Geographic] Side.
+Nurse: Um and I was actually gonna call you here in a little bit. Um So [PHI-Personal], um regarding the Ozempic, um she did say that the Soliqua has a component that works similar similarly to the Ozempic Um, so we cannot add the Ozempic on.
+Patient: Oh, no, no, I didn't think adding both, you know, one with the other. No, no, no, no, no, that's not what I meant.
+Nurse: Well, I think she's wanting you to try this qui she did want me to ask if you would want to go see an endocrinologist for further management of your blood sugar to see if there's something they would recommend differently.
+Patient: Ok. Mm.
+Nurse: Um, and she did want you to go ahead and increase your Soliqua another four units to see if that help four units.
+Patient: Yeah. Thir [PHI-Account]. Yeah,
+Nurse: [PHI-Account]. Yeah. Yeah. Um, and see if that helps, um, bring down some of those blood sugars. Um but uh, in regards to endocrinology, do you want that to be at UPNC or senior? Ok.
+Patient: [PHI-Personal] P MC. They don't. I part.
+Nurse: Ok. All right. Um, well, I will um, get this on refill sent in to BR and I will send in the endocrinology, get her to send in the endocrinology referral for you. Um Normally with that, the office will contact you with the date and time of the appointment just to make sure. Um, there's no scheduling conflicts with that. Um, but, but as she said, the endocrinologist may be able to help you with your blood sugars a little bit more, figure out something else that may help you. Um, they may recommend something differently. Um, but I'll go ahead and
+Patient: Did you, they don't wanna say to me Metformin because I say uh oh
+Nurse: Oh no. Yeah, you might wanna tell him that up front when you go to your appointment.
+Patient: Oh no, no. Um I know.
+Nurse: Um Are you good? Um ok, so you just, you got your um HYDROcodone refilled already this month? I want to make sure you had plenty of that for um but I'll go ahead and get this um, sent in for you. Um Do you have any other questions or concerns?
+Patient: Not really that the only thing you know, I'm, I'm doing ok with my poop and even though I can't feel it coming out, I push, ok, I push to see and then when I'm done, I look in the toilet and here I already and, and here I poopy, you know, I don't feel it but II I do it just to make sure that maybe I didn't have poop to come out. Ok.
+Nurse: Um Have you had any issues with hemorrhoids with all this? Oh, I
+Patient: Always had it. Uh, ever since I had my last child, I have this big hemorrhoid and it's always there. Ok. It's always there and, you know, sometimes it irritates me and sometimes it, or most of the time it doesn't, but sometimes it does.
+Nurse: Yeah, because sometimes if that he, if that hemorrhoid is irritated, um, some of the symptoms of that can include fecal leakage, um, can and then of course, like the itchy or painful lump, um, near your anus where the hemorrhoid would be. Do you have any pain or any blood passed with the no stool? Ok. No. Ok.
+Patient: I'm pretty good with checking myself out, you know that. Yeah, pretty good.
+Nurse: I know you stay pretty on top of it, which is a good thing because you don't want it to get away from you. Um, but I'll give her an update about that as well since you're not really filling it come out, which that could just be um are you still taking the Miralax or Colace daily?
+Patient: It's the Miralax. Yes, I'm gonna get the Colace though as soon as I get paid next month because I'm I'm low on funds. I
+Nurse: Know that's ok. Um but I'll go ahead and let her know about that just to see if maybe she wants to try anything different as well with that. Um but I'll go ahead and get to working on this refill and let her know that you're ok with the referral to endocrinology and then I will call you back with an update. Ok. Alrighty. Well um I hope you have a good day um I'll probably try to I'm gonna try to give you a call back this evening. If not it'll be first thing tomorrow morning. Um [PHI-Personal] leaves half a day today so hopefully I'll have an answer around lunch time.
+Patient: Ok, honey.
+Nurse: Alrighty.
+Patient: Thank you. Alright Ley, thank you. Mhm. Bye. You have a good day, honey, you too. Bye bye bye.

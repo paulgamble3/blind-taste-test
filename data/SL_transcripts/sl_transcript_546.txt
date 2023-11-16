@@ -1,0 +1,3 @@
+Nurse: Hello, this [PHI-Personal]. How can I help you? May I speak to please? Uh, one second who's calling [PHI-Personal] thing? One second [PHI-Personal]. I'll get you right over. I'll see if she's available.
+Patient: Ok, thank you. Welcome. Go. How can I help you? So? Great with coffee, cream cheese. Great. Oh, that look at that bruise. Yeah, it looks worse over here in the light. No, I forgot I got to take your coffee out to put mine in. Oh, I forgot to take it out then. I'm sorry.
+Nurse: You do. Hi SIA. Yeah, she's on with another patient. Can I have her give you a call right back when she's done? Yes, you can. All right. Thank you so much. Thank you. You're welcome. Bye bye.

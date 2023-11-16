@@ -1,0 +1,27 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. You called?
+Nurse: Yeah. Yeah, thanks so much for returning my call. Give me just a moment here to get your chart pulled up. Ok. All right. So it looks like you were recently enrolled into the chronic care management program. I, I
+Patient: Don't, I, I don't wanna be enrolled in that.
+Nurse: No. Ok. That's no problem. Um, uh,
+Patient: We charge, [PHI-Personal]
+Nurse: You just confirm your date of birth for me real quick?
+Patient: 7, 12, 1938.
+Nurse: Thank you very much. Um, so it's a Medicaid, uh, excuse me, Medicare sponsored program. Um, and it looks like you would not be charged for the phone calls. Uh, you don't have a deductible or a copay when you go in to see the primary care doctor. So that
+Patient: You do have a co, I do have a copay. Yes.
+Nurse: Ok. I show that you have a $0 copay when you go in the office, [PHI-Personal].
+Patient: And where, where
+Nurse: To your primary care doctor?
+Patient: II, I pay $[PHI-Account].
+Nurse: Ok. Then there would be a $[PHI-Account] copay with the phone calls. Um, if you're not interested in the program right now, that's no problem. I can um get you on enrolled. Uh One other thing that we could also do is leave you as an inbound only patient, which means that you can call us as often or as frequently as you would like to and we can still help you with you whether it's refills. Um If you're not
+Patient: Feeling, I call my doc, I call my doctor for refills and all that and I go to see him and I go to see him every three months. So,
+Nurse: Yeah. Yeah. So if, if you'd like to, I can leave it to where you're inbound only, which means you can still call us nurses directly or I can get you on enrolled from the program, whatever you prefer.
+Patient: Well, I don't wanna, you know, I don't know what, you know, I don't wanna pay for anything, so, whatever, whatever you feel is better.
+Nurse: Ok. I under, yeah, I, it, so I show that you have a $0 copay but if you're saying that you have a $[PHI-Account]
+Patient: Copay when you do have a five, do I do have a $[PHI-Account] copay? Yes. Gosh,
+Nurse: That's interesting. I wonder why it's listed as zero. if you'd like to, we can leave you as inbound only that way if you do need to call in the future. Um, if you need anything, if you're not feeling well, if you just have questions,
+Patient: Then that's fine.
+Nurse: All right, I'll leave it as inbound only, which means we won't be reaching out to you. Um But this number that you just called back, you can call me any time if, if you need anything and, and I can help you whatever it might be. Ok?
+Patient: Ok. Thank you so much for your help, [PHI-Personal]. You're
+Nurse: Welcome. I'll get this taken care of and please reach out if you need anything. Ok?
+Patient: I [PHI-Personal]. Thank you so much. Bye now. Thank you. Yeah, bye
+Nurse: Bye.

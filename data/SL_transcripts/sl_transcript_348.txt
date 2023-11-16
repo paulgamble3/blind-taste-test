@@ -1,0 +1,10 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi [PHI-Personal].
+Nurse: Hey [PHI-Personal], how are you?
+Patient: I'm ok. How are you?
+Nurse: Good. Sorry, I bugged you so early. Um I wanted to let you know that uh Doctor [PHI-Personal] does want you to do the repatha. Um He said that he sent in refills of it. Um So yeah, like you said, it is really working well for your cholesterol.
+Patient: Yeah. Now is it approved with my insurance?
+Nurse: So the pharmacy will um be the ones that will get the approval for it. Um So they'll know you know how that's going, but it was sent in on [PHI-Personal] and so they should be well on their way of having that approval by now.
+Patient: Oh, ok. All right. I'll get it when I can.
+Nurse: Ok. Well, you take care if you need anything though. Just holler.
+Patient: Yep. Thank you very much. You have a good day. You too. Bye. Ok, bye bye.

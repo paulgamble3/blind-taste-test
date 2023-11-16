@@ -1,0 +1,20 @@
+Nurse: Great.Before we begin, I just need to verify your identity.Can you please tell me your date of birth?
+Patient: Yeah. Sure thing.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: My date of birth is Maysixnineteen seventy two.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to check in with you about your upcoming Total Knee Replacement procedure.I'm here to answer any questions you might have and make sure you're well-prepared for your surgery.
+Patient: Yeah.I do have to be honest with you. I just found out yesterdayOh, gosh. This is terrible. But I have COVIDand ampa fever as well.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: SoI'm not sure what to do now really.In terms of, like,being prepared for that procedure.
+Nurse: I'm really sorry to hear that you're not feeling well.It's essential to let the doctor know right away about your COVID and fever.We'll need to reschedule your procedure to ensure your safety and the safety of our staff.I'll make sure to let the doctor know and we'll get you rescheduled as soon as possible.
+Patient: Okay. Yeah. I was afraid that have to happen when Ijust hate hearing that because I have so much pain in my knee that I wanted toremove already.Can you let the doctor know, please? It's justI I wanna talk to Sandraste.For now, and
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: I'm sure you can make that call for me. Right?
+Nurse: Yes, of course.I understand that you're in a lot of pain and you're looking forward to your procedure.I'll definitely let the doctor know about your situation and we'll work on rescheduling your procedure as soon as possible.I'll also make sure to let Sandraste know that you'd like to talk to her.We're here to support you through this process.
+Patient: Great.Thank youfor that. I I really appreciate it.
+Nurse: You're welcome.I know this is a difficult situation, but we're going to do everything we can to get you through this and on the road to recovery.I'll let you know as soon as we have a new date for your procedure.In the meantime, take care of yourself and get well soon.
+Patient: Things.I'll definitely tryBut what I'm wondering is do I keepdoing the preparation work for thethe knee replacement
+System: You may have misheard the patient. Ask them to repeat themselves
+Patient: like,should IJust keep taking the medications and all that.Which should they do?
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.

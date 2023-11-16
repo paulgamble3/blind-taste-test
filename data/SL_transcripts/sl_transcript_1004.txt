@@ -1,0 +1,30 @@
+Nurse: Doctor [PHI-Personal] office. This is [PHI-Personal]. Ohh, hello. Hello? Oh, can you hear me?
+Patient: Yes. Hi, [PHI-Personal]. This is [PHI-Personal].
+Nurse: Hi. Yes. So I, I, I'm the care management nurse here and I had called this morning to introduce myself and talk to you about the program.
+Patient: Ok. Go for it.
+Nurse: Sure. So the care management program, let's see. I'm just pulling up your chart really quick here to see how often. Um, usually I call patients monthly. Sometimes I call patients every other month, every uh 2 to 3 months, things like that. Um, just gonna pull your chart up anyhow, with the care management program, I would just call to check in with you, see how you're doing? See if you need medication refills, you answer any questions. You may have schedule appointments and then between our calls, you can call me if you need anything again. Refills. Um, scheduling appointments, things like that.
+Patient: Ok. That great. At this point, I'm, I'm [PHI-Personal] I'm in very good condition, healthy condition. Uh, little background. I had two knees replaced on each leg. Um, and that's, that's my main, I have a lot of pain still, even though I've had my knees replaced. Um, I have lower back problems and that's pretty much it. I'm going to Planet Fitness every morning. Well, Monday, Wednesday and Friday and I go to, um, so I have to go swimming Tuesday and Thursday. Yeah. So I'm trying to keep up on things. I get the, um, CV S, uh, pack, uh, with my medicine in it. So, uh, which is great for me cause I, um, I, I'm dyslexic and I don't read, well, so having them packed up for me is great.
+Nurse: Yeah, exactly. You know, they have them so you don't have to worry about it, you know, which is, which and what time to take them. Yeah, exactly. Yeah. Ok. Well, so it looks like I have you scheduled for calls every three months. Um, if you like, we can keep it at that three months so we can have sooner later appointments or phone calls.
+Patient: Ok. That, that would be good. Now, there is one thing I needed to call them about, I have poison Ivy. I got it about a week ago and it's crawling down my left side. It's going from the back of my, uh, lower elbow. Um, and now it's on my left leg. Um, I'm very susceptible to poison Ivy and I totally, I was out when I shouldn't have been that, you know, one of those nice days. Mhm. Without, without putting anything out. So do I need to call her? And have her put a script in for me or is that something you can talk with her about?
+Nurse: Yeah, I'll talk to her about it and see if we can just send in. Um, do you usually do like a predniSONE or steroid? Yes. Exactly.
+Patient: Yes. Pre predniSONE?
+Nurse: Ok. So I will let her know. And you said that this was about a week ago or two weeks
+Patient: Ago? Yeah. Yeah, I got it about a week ago. It's starting to dry out. But, um, I noticed it on my leg now. Ok. It, yeah, so it's, um, usually they give me, they call in a pack, uh Z pak for me or whatever and then it goes away and then I take care of myself more. I, I really can't go, I live on the mountain behind [PHI-Personal] School and, um, I just didn't even think about, you know, the poison ivy and, oh my God. It,
+Nurse: Yeah.
+Patient: Yeah. And normally I'm very, I, yeah, I usually go out with, you know, pants and a long sleeve shirt and I have preventative, um, salve that I put on prior to that clear shield. And so, uh, I just forgot.
+Nurse: Yeah, that's all right. Well, ok, so I will send her that message and just let her know that you've got this going on and see if we can just send in a prescription for, uh, for a steroid to help get rid of it. Right. Um, hopefully, that's all it takes is one treatment and call it good. Um,
+Patient: Yep, that should be. It, normally every year it happens. So. Ok, I'm all right. Other than that I think I'm in ok shape
+Nurse: Good. Ok. So I'll let her know and then either myself or one of the other nurses will give you a call back once we hear back from her and, you know, get this prescription sent. Um,
+Patient: And it would go to, oh, go ahead. It, it would, yeah, it would go to CV S where all my other medicine goes.
+Nurse: Perfect. Ok. And then I will send you a letter in the mail. It will have your yearly wellness goals. Their goal that Medicare like to see completed. So, like a yearly exam, routine, BP, routine, blood work, things like that
+Patient: Sounds like a plan.
+Nurse: All right. Well, if you need anything, let me know. Oh, now [PHI-Personal], is
+Patient: That your number? Um, the one that I'm calling on now, that, that, that, that, that is your private number or whatever?
+Nurse: Yeah, it'll come straight to me.
+Patient: Good. Ok. Super, I won't use it unless I have to.
+Nurse: Ok. Yeah, I have a lot of patients that I just, you know, I'll occasionally check in with them or they'll call and check in with me and say everything is fine. I just, you know, have such and such going on whether it's, you know, they're having a bad day or they're having a great day and wanna talk to somebody. So, you know, sometimes it's not just, you know, care management, it's, you know, just being here to be here for someone, you know. Well,
+Patient: That's very nice. That's a great, yeah.
+Nurse: All right. So once we get this, um, sent into the pharmacy, we'll give you a call. Ok. Sounds
+Patient: Good. [PHI-Personal], nice meeting you. It was
+Nurse: Very nice meeting. You too. You have a great day. You as well. Thank you.
+Patient: Take care. You too. Thanks. Bye bye.

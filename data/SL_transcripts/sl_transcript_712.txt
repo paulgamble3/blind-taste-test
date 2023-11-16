@@ -1,0 +1,37 @@
+Nurse: This is [PHI-Personal].
+Patient: Uh this is uh calling back.
+Nurse: Hey, give me just a second. Let me pull your chart up. I got to the doctor. That's why it took me so long to get back to you. I wanted to call you with answers. I didn't want just wanna call you and say I gotta get a hold of doctor.
+Patient: Yeah, I know he's are busy, that's for sure.
+Nurse: Yes. Yes. Ok. So he got back and said he's gonna send out a steroid taper. This is not a long term solution, but it's just to get you until you can get a refill of your HYDROcodone.
+Patient: Ok. Um ok. What are people doing? Um, I heard from someone that, well, CV S told me that. Well, this is their, what they're telling them there's a nationwide shortage on the HYDROcodone, but I think just CV S can't get it and Walmart doesn't take our insurance. Ok. So what's that?
+Nurse: So you said that it needed, it's refillable on Sunday, correct?
+Patient: Well, I don't have a prescription. I'm just, I was assuming he would, would fill it again for me. Oh, ok. You know what I mean? Ok, so so I was kind of working ahead thinking maybe he's gonna refill that for me. I need, this isn't just pain that, you know, that can brush off. It, it, I mean, it, it, it keeps me down when I don't. Yeah.
+Nurse: Ok. So, but when you called CV S and told them about the HYDROcodone melting, um, or dissolving, not melting, um, they told you the earliest that it could be refilled because it's a narcotic is Sunday, correct?
+Patient: Oh, no, I was just saying that that uh I know that's, that's when it would be 30 days. Ok.
+Nurse: That was what I was asking. Yes. Ok. So I can message him and see if he can send that refill to be refilled on Sunday. My recommendation on Sunday call CV S and see if they have enough in stock or if they can get some from another CV S or if they can transfer your script to another CV S if not. Unfortunately, um we may have to tra transfer the script to a pharmacy that can fill it
+Patient: To, to where
+Nurse: To a pharmacy that has them in. Oh.
+Patient: Oh yeah. Oh, ok. I'm sorry, I'm driving. I couldn't hear right. No, you're ok.
+Nurse: So yeah, I think we'll, we'll start by trying to send it to them because I mean, everybody's saying that they, they have a low quantity but hopefully they'll have enough to fill your script or at least do a partial fill until they can get more on Sunday. So make sure you call them on Sunday. I will message to send out um your next refill of it. Ok. Um And then until then he did send out that predniSONE taper pack. Now again, that is a predniSONE. So you need to watch out for this, you know, swelling in your face and difficulty breathing, things like that.
+Patient: I never, yeah, I never had any problem with that with that. It was ok.
+Nurse: So that should get you through until the next refill is available.
+Patient: Ok. Ok. Yeah, that'll help big time because, yeah, the predniSONE, I know it's bad and good for you, but it really takes that joint pain away. It sucks it right out of you, you know.
+Nurse: Yeah, I, I know. It's just, it's one of those risky medications that, yeah, make it difficult, you know. I wish it was long term medication but it can also cause, you know, over time it can make your bones weaker. Put you more susceptible for breaking bones, things like that too. Ok. All right. Well, let me go. I'll message [PHI-Personal] back, um, and have him send in that refill for whenever it's available. And then, um, if cvs is not able to figure out how to get your HYDROcodone for you, just give me a call back next week. Ok. Ok. All right. And then did you start that new medication? We talked about, what was it?
+Patient: Well, that's what I was going to tell you, that's what I was going to tell you next CV S tells me that they're waiting on insurance approval. I said this never happened before.
+Nurse: They need a prior auth.
+Patient: Um She didn't say that she just said we're waiting on insurance approval because I looked on my app and that's what it said. So I called them and she said yeah, that could take weeks. I'm like something ain't right with CV S anymore.
+Nurse: Ok, I see it now. They they are working your insurance does. Yes, your insurance is wanting a special approval for this medication. Most likely because it's more expensive than the other ones we've tried, but doctor's already been working on it. We're just waiting for insurance to approve it and it'll go through how long that'll take I I can't say but we've already sent in the information for a prior authorization.
+Patient: Ok. Ok.
+Nurse: So hopefully that'll come through quick too. I know isn't insurance fine.
+Patient: Oh man, I, I have a, I have a friend that is going through a lot and make a long story short. Every, every darn uh appointment or specialist I take him to problems long story short and to make a long story short, he has a brain aneurysm. So um they finally got to the bottom of that. But uh yeah, it's it's everything is mixed up it seems like, you know, I
+Nurse: Know, I know it's, it's so frustrating. But we are working on it. We've sent it over to insurance we're just waiting to hear back.
+Patient: All right and you send it off. Go ahead. Oh and you send some uh a steroid in or something
+Nurse: That is already at your pharmacy. Yes. Oh ok. Already sent it over so they should be working on that one. I will send over to [PHI-Personal] that you're needing a refill on the HYDROcodone. Ok? And then we'll go from there. Ok? Alright appreciate it anything else you need
+Patient: I think so that that's about it just trying to keep this pain down so I feel like at least going to the store you know I
+Nurse: Know I know hopefully we can get that [PHI-Geographic] you know a lot of people do get relief. It does take like we talked about a few weeks usually to kick in but a lot of people do see relief so I'm really hoping that that'll be you know more of a long term solution instead of this you know kind of back and forth trying to find any solution for pain. Yeah
+Patient: Yeah and I appreciate everything is due by the way so
+Nurse: Yeah of course of course I'm here if you need me, I'm going to get a hold of [PHI-Personal] here and see if we can get that HYDROcodone filled for you on Sunday. Ok?
+Patient: Ok I appreciate that. Of
+Nurse: Course you take care let me know if you need anything.
+Patient: Yep. Thank you.
+Nurse: Right. Yes. Bye bye.

@@ -1,0 +1,55 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: Good morning [PHI-Personal]. Um, my name is [PHI-Personal] and, um, I spoke with [PHI-Personal] about your chronic care management program and I, I'm enrolled. Is, do I talk, call, ask for her or is am I assigned to her or? I'm not sure how this works.
+Nurse: Uh, let's see here. Just bear with me one moment while I pull up your information here. Ok. Ok. Yep. So I see that you have [PHI-Personal] assigned as your nurse. Um, it looks like she may have tried to reach out to you yesterday here. Um, do you need her call back number to reach her or I can see if she's available to transfer you over now,
+Patient: Uh, if you could see if she's available.
+Nurse: Absolutely. Just bear with me one moment here. Ok, [PHI-Personal], it looks like she's available. I'm going to transfer you over now.
+Patient: Thank you.
+Nurse: You're welcome. And this is [PHI-Personal].
+Patient: Hi [PHI-Personal].
+Nurse: Hi, how are you doing?
+Patient: Uh, I could be better actually. Um, I'm not sure what happened before because, because I don't remember calling you and you were returning my call yesterday. But what I'm calling about today. Has nothing to do with that. Ok.
+Nurse: So what's going on? How can I help?
+Patient: Um, I have, um, I don't know what, you know about my situation. Um, I have hip issues. Ok. And, um, like I've had seven hip, essentially hip replacements and re, and, um, it's really a long story. The short of it is, is that, um, the day before Saint Patrick's day, my hip started hurting very badly to where it, I can't, I can't walk on it. Um, and then it, you know, usually when I'm getting from a standing position to a walking position, it's very sharp and I can't put any weight on it and then if, you know, I do it slowly and then eventually I can pretty much sort of walk, but it still hurts. Ok. And I don't know exactly what to do about it.
+Nurse: Yeah, I'm just pulling up your chart right here. Um, it looks like the other day you spoke with [PHI-Personal]. So I'm just kind of reading through her note real quick just so I can kind of get an idea.
+Patient: Uh, not at all.
+Nurse: Yeah, let me grab her note right here. So it looks like, um, we were given verbal permission to speak with [PHI-Personal] and that you were heading to the Podiatrist. Uh, um, it looks like you guys reviewed the office visit from [PHI-Personal], and talked a little bit about your, your hip pain on both sides that it was worse with activity. Um, that you have the oxyCODONE 2.5 dash five as needed for severe pain. Um, oh, she has a note in here saying that that was back on [PHI-Personal]. and then yesterday, uh, looks like one of the other nurses called regarding the CCM program. I wonder why she called yesterday for that because they already did your, your intro call didn't say. well, I don't know what that was about. I'm sorry. Um, but I'm glad that we're getting a chance to talk so I can review this note and talk to you a little bit about it.
+Patient: Ok. Yeah. Really? I just have to figure out how this is gonna work as well as I, I have a pretty serious problem here. Um. Right. I don't know what to do about it. My last intervention, I went to the [PHI-Geographic] and it took me probably a year and a half to recover from it, which was ridiculous and I've been ok for a couple of months and now this, um, so I don't know if I should wait another week or a month or whatever. I mean, my summers probably start to help. Um, but beyond that it, this is not functional. Yeah.
+Nurse: Um, right around Saint Patrick's Day. Do you remember an injury that occurred or anything that made this flare back up and get so much worse for you right now.
+Patient: Um, that's a good question. I thought I was good enough and I try, I vacuumed a room, I vacuumed the living room
+Nurse: And it started after that. Huh? Yeah. Yeah. Ok. Well, I see that you have your next appointment with, um, Doctor [PHI-Personal] on [PHI-Personal]. What if we see about getting you in to see him a little bit sooner? Just so he can do a hands on evaluation of what's going on. Um, and see if there's, uh, there's maybe some changes that need to be made either to your medications, um, or maybe restarting physical therapy, um, and just kind of seeing what he would recommend with a hands on evaluation. What would you think about that?
+Patient: That sounds
+Nurse: Fine. That sounds good. Would you like me to call to get the appointment for you?
+Patient: Um, yeah. Um,
+Nurse: Is there a day or time that would be better for you?
+Patient: Um, that's where I'm looking. Ok. Um, tomorrow or Friday?
+Nurse: Ok. And would morning or afternoon be better on one of those days?
+Patient: Afternoon,
+Nurse: Afternoon? Ok. All right. Hang on real tight for me for just a moment. Ok.
+Patient: You bet. Mhm. Mhm. Uh, yeah. Ah,
+Nurse: [PHI-Personal]. Yeah, there's nothing available, um, tomorrow or Friday afternoon. What are some other dates that would be good for you?
+Patient: Um, I guess we'd have to go to next week to
+Nurse: The next week. Is there any time during that? That would be better
+Patient: Right now? It's open,
+Nurse: Open Ok so the next that following week is open from the [PHI-Personal] to the 31st. Ok. All right. Hang tight for me we'll see what we can get you here. Huh?
+Patient: Mhm. Mm. Mm. Ok.
+Nurse: Yeah. All right they were trying to see if they could get an appointment opened up on Monday so they were able to get you Monday at one o'clock.
+Patient: Ok so that's the the [PHI-Personal].
+Nurse: Yes I'm just double checking it. Yes, that is the [PHI-Personal]. So Monday, [PHI-Personal] [PHI-Personal] at 1 p.m.
+Patient: Ok. Alrighty.
+Nurse: Alrighty. So while I have you go ahead, I'm sorry,
+Patient: Will I be meeting you?
+Nurse: No, so I am actually not in the office. Um we, but we use the same charting system. Um so that's how we're able to keep the provider up to date on everything. Um I actually live in Cincinnati. Oh, wow. Yeah, it's really neat how they have the program and how we're able to do this to help people. Um We've met with the office um they all know our names and our faces and, and we've met them and putting names to faces with them as well. Um But yeah, we're I'm I'm actually down in Cincinnati. Um one of my coworkers lives in, I can't remember the town in [PHI-Geographic]. Um but yeah, we're, we're kind of all over.
+Patient: Ok. Um So am I assigned to you specifically?
+Nurse: Yes, so I am the primary nurse for the entire entire Arrowhead practice. Um, if, for some reason, if I wasn't in the office or if I was on the phone with somebody else, um, the call would then go to one of the other nurses with that's within Pro Medica, um, which would be [PHI-Personal] or [PHI-Personal]. Um, and they have access to the chart as well, so they're able to help with anything that may come up. Um, but I'm the primary nurse for the practice.
+Patient: Ok. All right. So that's helpful.
+Nurse: Ok. Ok.
+Patient: So I'll see doctor [PHI-Personal], on the, um, [PHI-Personal] of [PHI-Personal]. That
+Nurse: Is correct. Yes.
+Patient: Ok. All
+Nurse: Right. You're welcome. The only thing I did not ask you is if you had to rate the pain from a 0 to 10 scale, what would you rate it currently
+Patient: When it's hurting? And I can't stand up. I would, uh, rate it as a seven or eight.
+Nurse: Ok. All right. Kind of from the way you were talking, that's kind of what I expected to hear. Um, hopefully getting in on Monday, he'll be able to have some good ideas and be able to, to get that hands on evaluation to see what we need to do to get you feeling better. Um, in the meantime, I saw that you had said like warm water has been helpful for some of your joints. Um, you know, if you try like warm, like moist heat, um, compresses like on your hips or even just standing in the shower with that warm heat hitting your hips. Um, or you can even try some massage to the, to the area and see if that helps a little bit. Ok.
+Patient: All righty.
+Nurse: All right. Thank you so much for calling me this morning [PHI-Personal] and I'm here. If you need anything, don't hesitate to reach back out to me. Ok,
+Patient: Thank you very much. You're so welcome.
+Nurse: Have a good day, you as well and enjoy the rest of your week. You're welcome. Bye bye bye. Ok.

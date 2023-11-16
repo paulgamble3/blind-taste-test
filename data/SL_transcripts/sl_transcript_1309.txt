@@ -1,0 +1,45 @@
+Nurse: This is, hello.
+Patient: Hi. Hi, [PHI-Personal], how are you? My name is [PHI-Personal]. I'm gonna be taking over as your care nurse. How have you been doing?
+Nurse: Oh, it's been, uh, I don't know. It's been kind of a rough ride lately. So is gone.
+Patient: She is, they moved her to a different department?
+Nurse: Ok. Yeah, I liked her. So, but anyway, I'm sure you're nice too. Thank
+Patient: You. So, it's all been going on.
+Nurse: Uh, did, do you know I was, uh, I was at, uh, guy singer IC U [PHI-Personal].
+Patient: Oh, my goodness. No, I did not know that.
+Nurse: Yeah. And then, um, I was, uh, colonoscopy prep. They do a five day extended colonoscopy prep at the Digestive Disease Center and it totally wiped me out. I was like, my cognitive. Mhm. My thinking was all messed up and I, and my sodium was at 1 17 when I made it to urgent care. Uh huh. And apparently that can cause seizures or a stroke and you can't raise it too high or too fast. It can cause brain damage. But, so anyway, I was six days in guy singer IC U and then from there. I went to encompass short rehab. That was for about 2.5, three weeks, maybe. Then I came back here and I had home health aide for a couple of weeks so I pretty much snapped back from that. Yeah. Iii, I don't think I'll ever do another colonoscopy prep. Even though I, oh,
+Patient: I'm so sorry. That makes me wanna cry. You had a really, really bad time. That's horrible.
+Nurse: I was very sick. And after that, my cousin in [PHI-Geographic] or [PHI-Geographic] told me that uh he had a friend who passed out and she had to go to the hospital and then I met a woman here in the complex and she had a friend who went into a diabetic coma. I mean, the extended prep with that is like, but I didn't finish it. Thank goodness that I, I they told me I could have died. But anyway, so after all that drama, I'm back here but I have um uh bladder overactive bladder and it's crazy. Excuse me? And anyway, I was supposed to get some testing today and tomorrow what happened is um I have a urinary tract infection so they had to cancel everything. Mm That really annoyed me.
+Patient: Yeah, for sure.
+Nurse: Go inside because they ordered a urinalysis at 4 p.m. on Friday and I had to drive to [PHI-Geographic] real fast and get that done. So if they had ordered it a week before that I could have been treated for the UT I and still had this stuff done.
+Patient: Wow. So
+Nurse: That's where I am. Yeah.
+Patient: Well, that is a lot. I'm, I'm just, that's a lot that has got to stress you out. It's stressing me out hearing about it. So I'm very sorry.
+Nurse: Thank you. Yeah, it stressed me out and I was um, I'm thinking, I want to see if I can get a mental health counselor.
+Patient: I think that's a fantastic idea. Um, I think that any kind of like therapy, you know, provided by a psychologist or social worker or therapist is really important. Um, it can be short term, long term, you know, just whatever works out for you.
+Nurse: Yeah, I just want some, like, short term intervention. I, I moved here a year ago and I, I had a lot of losses in that process, you know, lots of people lost, you know, I sold my home, my dog died. I mean, it's been, uh, so, I mean, actually mostly I'm, I'm pretty recovered and I've got my feet on the ground but if I, sometimes it hits me. So.
+Patient: Yeah. Yeah, I think that would be so fantastic. Um, yeah, it can help you. And like, do you have, do you live with family?
+Nurse: No, I live by myself in, uh, an apartment. Oh,
+Patient: Yeah. Well, that's nice. That'll be, so, that's a good, that's a good thing. That's, um, a common therapy, like cognitive behavioral therapy. It's one of the most widely used therapies and they help with like panic disorders, anxiety, um and stuff like that. And there's two main components um like negative thoughts or um that contribute to anxiety. They help with all that as well. So it kind of like helps you from having a full blown attack or, you know, stuff like that as well. That was really good.
+Nurse: I'm interested in that, you know, and that would be more it help me deal with, help me increase my coping skills of moving to a new place and, and I had some problems. I wasn't getting along very well with some of my family members who encouraged me to come here. I mean, I sold my house, I moved it anyway, that stuff's getting better. Do you know of any, um, cognitive behavioral
+Patient: Therapist? You know, I don't, but I'm gonna ask, um, doctor or [PHI-Personal], who do you normally see? Is it [PHI-Personal]?
+Nurse: Uh, I've been seeing [PHI-Personal] Moore. I like, uh [PHI-Personal] also, but I really like I, uh, right. I prefer [PHI-Personal]. She's like, I feel like she understands me for sure. Doctor, but I know he's
+Patient: Around there. Yes, that's [PHI-Personal]. So I'm gonna put [PHI-Personal] down, um, as your main person. Um, and then let's see, I'm going to contact her and ask her, um, if she has any suggestions and maybe she could send a referral somewhere and just get you on the right track. Just to see if it helps, you could always stop if it doesn't. But, um, I was looking at your, um, you, what am I trying to say your chart? And it said that you went to the podiatrist recently. Um, how did that go? Was it neuropathy? Is that what they ended up saying about your foot?
+Nurse: Well, I do have neuropathy, you know, from, um, diabetes type two and I have that but the, I have regular checkups from them because sometimes when I came here, I had an ulcer in one of my toes. That was a year ago. And so I'm supposed to go in every few months anyway. So and then when I was in rehab, they um put a heart monitor on and um they diagnosed me with afib. So now I'm taking Eliquis, which is the blood thinner. So I try to wait for him to trim my nails because they're real
+Patient: Thick. That's super smart. Yeah, that's very important. So, and that diabetic, that neuropathy, it's that nerve damage that can come to your feet. Um Do you notice it that it hurts more like if you have, if your blood sugars are high or do you not notice a difference?
+Nurse: No, mo mostly I notice a difference like when I walk a lot or I was, they did put me on gabapentin at um singer rehab, but I didn't uh I told [PHI-Personal] to put it on hold because you have to take it three times a day and with everything else and you. Right.
+Patient: Yeah,
+Nurse: I'm, I'm gonna make an appointment with her and ask her for, um, gabapentin again, I think, because I've noticed when I drive sometimes I don't hit the pedals as well as I should because my feet are [PHI-Personal]. Well, I
+Patient: Understand that. Yeah, I understand. And that's why it was so smart of you to get them to clip your toenails because you can't feel it like you normally, you know, would be able to. So you can't tell as much if, if you nicked it and then with that blood thinner. Yeah, that's really smart of you. It's such a good idea.
+Nurse: Well, you know, it's, it's something I've heard before but you just don't, I don't wanna take any on the, if my, uh, sister in law had taken me to urgent care, the, the, you know, who knows? I don't think it would have been a very good outcome for me because, you know, when I was there, they said, uh, I came out of the bathroom, they said you're bouncing around too much in there. We're gonna send you to, uh, emergency. And so, so, um, an ambulance took me there and then, wow, the ambulance, look, when they looked at me at, um, emergency, they sent me to IC U in Danville. Oh,
+Patient: My gosh. That is. So I'm so glad that they found that. That's great. It
+Nurse: Was I have an angels, I guess for sure.
+Patient: I'm thinking so too.
+Nurse: And who I never considered electrolytes, I mean, they potassium, everything was all messed
+Patient: Up. Yes, you're so right. The electrolytes, they can really do a number. Um And you have a pump in your body and sodium potassium pump and when one gets high, the other kind of pumps out. So the more potassium you have then the more salt that leaves your body and it can just put you out of whack.
+Nurse: It was I could tell him I'm like bouncing around in here because I kept fall and that is so crazy that this is not me what is but anyhow so that's a lot to tell you but that's what's
+Patient: Well that's ok. It was so nice to meet you and if you need anything or if something comes up feel free to give me a call. I just sit here and wait for people to talk to me so whatever you need I'll I'll be here for you.
+Nurse: What is your name again? [PHI-Personal]. Ok I was thinking it was Ly but I've got it now, [PHI-Personal]. Yes ma'am. Tell her one of her people said hi and I will
+Patient: I will. Alrighty. Well you take care and if you need anything just holler.
+Nurse: Ok thank you for your
+Patient: Help. Uh huh bye
+Nurse: Bye.

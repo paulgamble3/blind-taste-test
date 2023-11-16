@@ -1,0 +1,7 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. Hi, [PHI-Personal]. Any news on the machine?
+Nurse: Nope, I don't have anything. I did send an update to them. Let me see here.
+Patient: I don't wanna go another night without that.
+Nurse: I know there's something that you can do. Yeah. Chi. No, I'll call in here though and see if there's something that we could do in case doctor Doctor [PHI-Personal] don't get back to me. Ok? Or one of the girls? Ok. All right. Thank you. And it's just that you're not, it's just that you're concerned that you're not getting moist air. Correct? Right.
+Patient: And I'm not getting oxygen that I should be. It's not connected to the right machine. It's only connected to our normal oxygen machine.
+Nurse: So you have, when you connect the nasal cannula, obviously there's like a little hose for that. Right? And then do you have a different tubing system for the trick? Yeah. Ok. And the ke doesn't hook up to that area. Ok. Uh just so I got it. Ok, Roger Dodger. All right. Let me call up here right now. Alright. Thank you. You're welcome. Bye.

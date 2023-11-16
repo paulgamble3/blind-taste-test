@@ -1,0 +1,23 @@
+Nurse: In clinic. This is [PHI-Personal].
+Patient: This is I guess the call from you.
+Nurse: Yeah, hi I was calling to check in with you today and see how you were doing.
+Patient: I'm I'm all right, I'm sorry I was in the bathroom. That's ok. Uh no I'm ok. Nothing nothing is one bit worse than it was before. Ok. No, I'm doing fine. Everything is all right.
+Nurse: Ok because I received a message from one of the nurses and she just wanted me to be sure that you were ok with you. Um I have received a message from Doctor [PHI-Personal] and she wanted me to check in with you and see how you were doing. Um let's see here so you were in the emergency room um and let's see you have your upcoming appointment.
+Patient: Yes that [PHI-Personal]. Mhm. You RV this doctor?
+Nurse: Yes and so she just wanted me to check in see if you had any more of that shortness of breath um chest pain, anything like that.
+Patient: No, I'm alright. I'll be there on [PHI-Personal].
+Nurse: Ok, so let's see here. Now did they make any changes to your medications when you were in the emergency room?
+Patient: They asked me to skip the, uh, el, until I see Doctor Singer they thought maybe that would have something to do with my, uh, heartbeat, my pulse. That maybe there could be another medication serving the same purpose as the Tylenol, but not damaging that. Ok. So that's the only thing that's changed. I'm on all the others.
+Nurse: Ok. So, um, did they set up a referral to a cardiologist?
+Patient: They had wanted me to stay? But I, I was not under any, uh, what should I say? I wasn't prepared to stay then because I had too much business living alone at home. And, uh, other than that, no. Ok. Uh, they were going to wait to see what my instructions were from. Doctor [PHI-Personal],
+Nurse: Ok. Got it. Ok. So no changes other than, you know, you're holding that Atenolol, you feel? Ok. Uh, we have that appointment. Um, it sounds like we're just waiting to see, you know, how that appointment goes and how your BP is. Uh, have you been checking your BP at home? Oh, no.
+Patient: Ok. No, I never did that. Never did that. No. Ok. I feel fine. Ok. I was busy this morning.
+Nurse: Ok. All right. Well, I will let her know. Ok. Um, so see here. Yeah. So I'll let her know that, you know, you haven't taken the Atenolol if there are any other changes. Um, you know, let us know and then, you know if you start to feel chest pain, shortness of breath, difficulty breathing, you know, go to the emergency
+Patient: Was the first. No, it was two days now that I didn't take my ol, ok, Wednesday and [PHI-Personal]. Yeah.
+Nurse: Ok. So Wednesday and [PHI-Personal].
+Patient: Yeah, they asked me to stop it the next day when I was up there. Well, we never got home until 1 30 that morning.
+Nurse: Ok. Got it.
+Patient: But everything else is ok. Ok. I don't feel any different with not, with not taking it, so. Nope, I'm all
+Nurse: Right. Ok. Well, if anything changes or you know, you have those severe symptoms, go to the emergency room. Ok. Sure. Ok, I'll check in with you next week after your appointment. All right. Ok. All right. I'm glad you're feeling better and if you need anything, let me know. All
+Patient: Right. Well, thank
+Nurse: You. You're welcome. Bye bye.

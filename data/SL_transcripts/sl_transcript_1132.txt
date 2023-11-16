@@ -1,0 +1,26 @@
+Nurse: Hello, this is [PHI-Personal]. How may I help you?
+Patient: Da Yes. Um I got a call from you the other day about a new program that Doctor [PHI-Personal] is setting up and I thought I'd give you a call and see what that was about.
+Nurse: Yeah, just give me one second to pull up your profile today. Awesome. Do you prefer [PHI-Personal] or [PHI-Personal] or do you have a preference?
+Patient: No, [PHI-Personal] is fine.
+Nurse: All right, [PHI-Personal]. How you doing today, [PHI-Personal]?
+Patient: Right.
+Nurse: Good. Yeah. So the reason for the call the other day because like I said, Doctor [PHI-Personal] has a new care management program which she is providing. Basically, it's just a call from a nurse to help answer any questions, refill, any prescriptions, chat about previous or future visits, discuss any new issues going on and things of that nature. This is a program [PHI-Personal] that you do qualify for which allows you to maintain peak health by having this nurse contact you. All of these calls are documented and sent to doctor [PHI-Personal] for review and they're treated as medical uh as billable services, excuse me to Medicare. Medicare Advantage plans and secondary insurance carriers may be subject to deductibles, your copay and coinsurance. Is there a time of day that works best for the nurse to give you a call?
+Patient: Mm. That kind of varies. Um, um, so I, I understand this will count as a doctor visit.
+Nurse: It, it will. So if you have a copay, when you see the doctor, you will also have a copay for this program as well. I do see you have the C SI insurance. Is that correct? Is there, is there a copay when you see in the office? Ok, got you. So if there's not a copay, you will not have a copay for this one as well. Ok. This does not replace your visit with [PHI-Personal], but the nurse and doctor [PHI-Personal] are gonna work hand in hand at the same time.
+Patient: I see. So my problem last time was that I got a wellness visit even though I was having a problem, I think uh and that disqualified me. I come to [PHI-Geographic] for seven months out of the winter months and uh I was not able to get any insurance companies for coverage for another wellness visit because I had seen him in the summer in June and that disqualifies you for a year. Is that the standard procedure now?
+Nurse: No, this is, this is, this is different because this is only a phone call. You're not actually gonna be getting visited by anybody.
+Patient: Yes, I understand. I guess I was just curious about how I would handle this in the future since I'm only up there for three months. Uh. Right. Yeah. And it disqualifies me for a whole year.
+Nurse: Right. That's, that's irritating, I can imagine.
+Patient: Yeah. So, ok, I guess. So. Does this nurse have a name or?
+Nurse: Uh, currently it looks like you have [PHI-Personal] assigned to you, but that's not guaranteed to stick. I don't know if it'll be, or be, it will be someone different. Um, yeah, I do not, I do not know yet but the call wouldn't take place in the next couple of weeks just because she has other patients. She has to get to. Um, so it's not like this is, this is just a general time frame.
+Patient: You can set up a time when she can call me. Yeah,
+Nurse: Just general morning, afternoon. Hey, Fridays don't work or, you know,
+Patient: Whatever. Yeah. Well, afternoons usually work like between 12 and, oh, maybe [PHI-Account]. Got
+Nurse: You. Awesome. I'll tell her that. Uh, I just, I do wanna send you some information about the program. I, I'm in, I know you are in [PHI-Geographic]. Your P A, your Pennsylvania address? I have you at, uh, [PHI-Geographic]. Is that correct? That would you rather we change it to your [PHI-Geographic] address? That's where you change or that's where you live the majority of the time.
+Patient: Uh, no, not on a permanent basis because I still own that. House up there, right? Ok, so I'll just re up on that. Yeah, what?
+Nurse: I'll just mail it to this P A address then. Ok.
+Patient: Ok. It might take a week or so to get to me, but that's
+Nurse: Totally fine. Not a problem.
+Patient: Ok,
+Nurse: Awesome. Well, thank you so much for your time. I greatly appreciate it. Have a great rest of your day.
+Patient: Ok, thank you. Alright, bye bye bye bye.

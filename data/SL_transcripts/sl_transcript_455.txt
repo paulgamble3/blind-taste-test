@@ -1,0 +1,11 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Good morning [PHI-Personal]. This is there [PHI-Personal].
+Nurse: Yeah, I was just calling to follow up with you. Um, and see how you're doing with that pain in your hip.
+Patient: Um, it's still there. It's not, it's not as bad but it's still there.
+Nurse: Ok. And I did see that you had a, uh, telemedicine appointment with Doctor [PHI-Personal]. Yeah. Uh, but I didn't say that she, uh, saying that she took you off your Metformin. So have you been checking your blood sugar? Yes, I have been. Ok. And what's it been running? It's
+Patient: Been running really, really good. It depend on, um, between 84 and [PHI-Personal] 45 I believe was the highest one I've had so far at night.
+Nurse: Ok. That's really good. Yeah, I was surprised you too. I see your A one C was down to 5.4. So that's great. Um, are you making sure that you're staying hydrated? Yes, ma'am. Ok. Um What about your BP?
+Patient: Uh, my BP has been, let me pull my thing here. Let's see, my BP has been anywhere from lowest one I've had in the last week was [PHI-Personal] 28/76 and the highest one I've had was [PHI-Personal] 55/81. And that's about anywhere between seven and nine o'clock in the morning.
+Nurse: Ok. Are you checking that after you take your medications?
+Patient: No. II, I didn't know I had to do that cause I take most of my medicine for my BP at night.
+Nurse: Ok. Ok. Yeah. And you're doing it right? Ok, too. I just wanted to follow up um and she did put in here to make sure that you're focusing on a low salt diet. So you know a lot of your like frozen foods and canned foods have a lot more sodium than Yeah. No fresh foods. Ok. Yeah. All right. Well, just keep monitoring your blood sugar, monitoring your BP. Um and if those blood sugars start to go up or you have any above 1 50 just let me know. Ok. All righty. All right. Well, you have a great day and like I said, just give me a call if you need anything. All right. And you have a very nice Easter. Thank you. You too. Bye bye.

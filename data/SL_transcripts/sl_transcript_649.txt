@@ -1,0 +1,19 @@
+Nurse: [PHI-Personal] [PHI-Geographic]. This is [PHI-Personal].
+Patient: Yes, I, yes, this is, I got a message for me to call you back. It's a, I'm sure. Ok.
+Nurse: Uh Give me just one minute. My computer is wanting to freeze at the end of the day. Of course. All right, [PHI-Personal]. Can you verify your birthday?
+Patient: [PHI-Account].
+Nurse: Ok. So I see that you had called and requested uh through a voice mail, a refill for your FLUoxetine,
+Patient: Right? Because the pharmacist said the doctor canceled the order when I went to refill it. I don't understand why that would happen.
+Nurse: I don't either. Give me just a moment. I see that doctor writes this for you. Does he normally? No,
+Patient: No, it's, no, it's a, it's [PHI-Personal] doesn't do my pro they all, you know? No.
+Nurse: Right. But he last wrote it on [PHI-Personal] with three refills.
+Patient: I don't see how he could have. I think that [PHI-Personal] got a little screwed up. Why would a hot guy give me
+Nurse: [PHI-Personal]? I'm not sure. But that's, it wouldn't be w on [PHI-Personal] and it's showing in our end we use the same system as Doctor [PHI-Personal]
+Patient: Well, I don't have any left and I need something for, you know, I haven't had it for two days. The pharmacy close over the weekend or unless it goes to the one, but I need a couple of them. I need something to get for the weekend.
+Nurse: Ok. Doctor [PHI-Personal] is out today. Doctor [PHI-Personal]. I'm sorry,
+Patient: Go ahead. I'm sorry, you go
+Nurse: Ahead. Doctor [PHI-Personal] was in the office but he's left the office.
+Patient: So what am I supposed to do?
+Nurse: Will the pharmacy give you a couple of these to last until Monday? I don't know. Have you called and asked them?
+Patient: No, I haven't, but I guess I
+Nurse: Should give them a call and see if they will give you a couple to last until Monday because the providers have. Well, Doctor Messina wasn't in today and Doctor Leong has left uh, to see if they will give you a couple if not give me a call back immediately and I'll try to come up with a different plan. Ok. Ok. Thank you. I'll wait on your call back. Ok. Yep. Thanks. Mhm. Bye bye.

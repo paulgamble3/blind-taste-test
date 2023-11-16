@@ -1,0 +1,37 @@
+Nurse: Health care. This is [PHI-Personal].
+Patient: Yeah. Hi, [PHI-Personal]. This is [PHI-Personal]. I'm calling, I was just wondering if you could, I got bitten by a dog, uh, the day before yesterday and we did stop the bleeding. There's like three puncture wounds and everything. But my sister said last night to check and see if I, if my, um, uh, what's the name? Tetanus shot is up to date? Oh, ok.
+Nurse: Absolutely.
+Patient: You, I didn't know you had to get em when you've been bitten by a dog.
+Nurse: Oh, yeah. Any animal, um, we recommend that you make sure that's up to date. [PHI-Personal]. What's your date of birth?
+Patient: 7, 26 47.
+Nurse: All right. Let me find your vaccines. No, I don't think it is. I think that, uh, we're showing that it was in [PHI-Personal].
+Patient: Oh, gosh. Uh, can I get it there at the office?
+Nurse: Uh, let me make sure that it's in stock before I tell you. Yes, because I'd hate for you to make a trip. Uh, do you need an appointment to look at that bite and get the shot? And, uh, maybe does the, describe the bite to me? Does it look like it's infected.
+Patient: No, but it's re I'm on um blood thinners. So, I mean there's three puncture wounds and then where he dragged the two teeth, his teeth. So, I mean it's kind of messy looking but uh, because of my um, uh Xarelto bruising up the whole arm, I can't see a damn thing.
+Nurse: Ok. Let me see if we can get you in for an appointment with someone just to look at it, see if you need antibiotics and get you the shot. Ok. Ok. Are you ok with any doctor? Um, other than
+Patient: I do have to ask, uh, you know, last week I called, yes, I'd be happy with any doctor. Last week. I tried to call doctor S because I was really upset. The eye doctor said she found something, uh, wrong with my eye things and I had to have an MRI and an Mr A, uh, uh, and then, um, uh, to see if there was something in my brain because I already had a, a aneurysm. And so when I came home, I called doctor just because I was so upset and I, I explained this to the girl that I called to and she said, oh, I'm sorry, you can't talk to her. You have to make an appointment. I, I balled my eyes out and hung up. I said the hell was that? So I'm just giving you a heads up in case anybody says there's an MRI here from it next week. Ok. But when you tell them something like that, that it's an emergency, uh, it really wasn't an emergency but that I needed to talk to her. They can say to you, you know, you, I hate the answering service. You people have, they can say no, you can't talk to her. You have to make an appointment.
+Nurse: Oh, well, if you, if it's something that you have a question about or you need refills or something like this, I, you know, definitely give our, our line a call because it bypasses the automated system.
+Patient: This was her automated system. It was the main number.
+Nurse: Ok. Let me make sure because I'm showing your last TDAP was in [PHI-Personal]. But you may have had a booster in [PHI-Personal]. Let me see. Oh, I
+Patient: Don't think so, but you can check. I just couldn't remember. I didn't even think about having one. It took long enough to stop the blood.
+Nurse: When did you get
+Patient: [PHI-Personal] uh the day before yesterday?
+Nurse: All right. So you got bid on Monday and what did the wound require stitches or anything?
+Patient: No. Um I, we used um I have that um Adaptic so I, we put, we, I just washed it off, put on some Neosporin and put the Adaptic on it, but it took a while to stop the bleeding
+Nurse: And that you said you were on the Xarelto. So that is expected all right. And that was on the hand,
+Patient: On my right, uh, for, um, just above the rest, he seemed like the cutest dog ever. Oh,
+Nurse: Did you know the dog?
+Patient: No, it was somebody walking. Um, he was like [PHI-Personal] lbs but he was only like [PHI-Personal] old. It was a golden lab. And so my husband who hates dogs bending down and says, oh, come over here, see this dog and he's petting it and did nothing. So I went down and had it and it's, uh, it just grabbed onto my arm. Oh, goodness, I wouldn't look up
+Nurse: Any pain around the side or redness.
+Patient: Um, there's been pain but I think that's just from the, um, so it's kind of deep, deep things but it, it's not like I tell you, I can't tell you if it's red because my whole arm is that red purple thing.
+Nurse: Ok. Can you rate the pain on a scale from 1 to 10?
+Patient: Uh, probably a [PHI-Personal]?
+Nurse: Ok. Let me work on getting you an appointment. Let me see if I can and either myself or, uh, scheduling will reach out to you. I just want to get eyes on that to make sure it's not infected. Ok. And then, um, your tetanus shot can be addressed at that appointment because I'm showing that you had a TDAP in [PHI-Personal], but a TD in [PHI-Personal]. So, um, if it's due, you should be able to get it at that time. Ok, great. All right. And then, um, like I said, my, myself for scheduling or another nurse will get back to you. Ok.
+Patient: Ok. Do you need my phone number?
+Nurse: Uh, let me make sure I've got the right one. It's
+Patient: [PHI-Account].
+Nurse: Uh huh. Ok. All right. I have a mobile one too, so the home one is better.
+Patient: Yes. Would it be sometime this morning? I won't go out until I get a call back. Sure. Mhm. Ok.
+Nurse: Yeah, I will uh, send it to them and see what we can do and then we'll get you a call back to figure out if you need the shot and the appointment. Ok. Ok,
+Patient: Great. Thank you so much. You're
+Nurse: Welcome. Bye bye bye bye.

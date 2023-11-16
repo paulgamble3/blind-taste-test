@@ -1,0 +1,36 @@
+Nurse: Hi, this is [PHI-Personal] Jo.
+Patient: Hi, this is [PHI-Personal]. Hi, [PHI-Personal]. Hi. Hi. I was calling back because, uh, my BP machine didn't, it needed batteries. So I ran to the store and I got some batteries. So it's working
+Nurse: Now. So, are we ready to take a BP?
+Patient: Yes, I am ready. I already have it on my, on my arm and I already have the battery in the machine.
+Nurse: You are fantastic. [PHI-Personal]. All right. Well, whenever you're ready, go ahead and hit start.
+Patient: I sure will you say hit that twice? Right. Yes, ma'am. Ok. And it is working? Oh, it's got [PHI-Account] 40. Can you see it too?
+Nurse: Not yet. I'm just waiting for my computer to catch up.
+Patient: Oh, ok. But it's got [PHI-Account] [PHI-Personal]. That's because I've been real busy for the last. Yes. And
+Nurse: You just went to the store and everything. So that's what that is.
+Patient: And I had to drive too.
+Nurse: Ok.
+Patient: Not sure. Not sure. [PHI-Account]
+Nurse: For the memory. Yeah, you'll probably have to keep hitting it a couple of times to get back to that, um, measurement. You just took, I'm actually getting a couple coming through. Now, from times that you had used your BP cuff and the answer I just plug, I have
+Patient: It back. I have it back. [PHI-Account] [PHI-Personal] [PHI-Personal] and [PHI-Personal]. Ok, that 27 is not good either. Is it?
+Nurse: That's that low pulse rate. Um, now, [PHI-Personal], she's the nurse that Emma transferred you to yesterday. The triage nurse, she said it's most likely from your, um, defibrillator.
+Patient: Oh, yeah, that's true. That's
+Nurse: True. Um, yeah, she said she noted in there that you do have an upcoming appointment to get it checked out.
+Patient: Yes, I do. On the [PHI-Personal] of [PHI-Personal]. Ok. Yeah, in a few weeks. So that's [PHI-Personal]. That's not good. But I think that's because I was rushing to get to the store and then I had to walk around the store and find the batteries. Yeah. So, should I check it again? Are you still there [PHI-Personal]? Yes. Should I check it again later? Just let that do for today.
+Nurse: So, what I would like you to do is wait at least 10 minutes if you can wait about 20 to 30 minutes or even if you wanna do it a little bit in the afternoon and then just re you, which would be better for you. Have you gone to the gym yet?
+Patient: No, I haven't. I, I need to. So,
+Nurse: All right. So I would like you to take it before you go to the gym? It does that work for you?
+Patient: Yes, that'll work. So, let's say about what time is it now? 10 o'clock over there? Uh,
+Nurse: It's about 11, 10, 50
+Patient: [PHI-Personal]. Ok. So that, what about, uh, I wait till about 11 15?
+Nurse: That'll be perfect. [PHI-Personal].
+Patient: Ok, great. I'll call you back at 11 15.
+Nurse: Oh, and you don't even have to call me back. Actually, you can go ahead and take that reading. Yep.
+Patient: Ok. So, so just a [PHI-Personal] parents sent it
+Nurse: To you. Yes. So as long as that's plugged in, we get it.
+Patient: Ok, because it's still showing just the red and not the blue.
+Nurse: Yes. So it'll have that solid red light all the time and then when we're getting your reading, there'll be a blue light on it.
+Patient: Ok, I got you. I got you. I'm on track now. I know. Ok. So around 11 15 I'll call you back. Yes,
+Nurse: That'll be great.
+Patient: Ok. Thank you so very, very much.
+Nurse: Oh, you're welcome, [PHI-Personal]. Thank you very
+Patient: Much. Ok. All right, I'll talk to you soon. Ok, then. Bye bye bye bye.

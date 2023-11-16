@@ -1,0 +1,34 @@
+Nurse: Hello, this is [PHI-Personal] care manager.
+Patient: Hi, [PHI-Personal], this is calling you back. I was outside
+Nurse: Desk. Ok, you are fine. I'm still working on your note to finish up my charting. Anyway. No idea. Um So I'll talk to the pharmacy to Optum. Excuse me. Sorry, hold on. Oh goodness. Um, they are sending out today the um, your glucometer and the strips. So they said 3 to 5 business days you should have that. So next week you should have that. Ok. Um The only issue we're running into at this moment is the lancets. Um, this uses a different device than what would have would have come with the freestyle. So, um if you have a way to use those, that's fine. But um otherwise the actual device that comes with the meter, um may not work with these. We don't know for sure. I don't know. They're seeming to think they may not, but the meter comes with a few of them to get you started anyway. Ok. Um, so I've got a number you, you got a couple of options. The only thing is the insurance is not covering them right now because they say it's too early because they just filled the other ones even though they didn't send you the rest of the stuff. Right. Oh,
+Patient: Yeah. For the, yeah. Yeah.
+Nurse: Crazy. So, um, they, what they need you to do is call customer service and I've got the number to give you to arrange to return the old ones and then they can reverse those and then send you out the new ones. That would be if we're gonna, if you need it covered by the insurance, but you do have an option. If you wanted to go ahead and get those, you can pay cash for them. They're about $15 for the box of 100. That is an option if you wanted to do that. Um, but otherwise the, let me know when you're ready and I'll give you this number.
+Patient: Ok, I got it. Ok.
+Nurse: So it's [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account].
+Nurse: Uh huh. And just let them know that you need to return.
+Patient: Well, I opened the one box because I try, I had to do something for, um, [PHI-Personal] Health [PHI-Geographic]. I had to pick my finger and, um, send him up, tested my blood and that. Oh,
+Nurse: Ok. So I don't know that they, I don't know. Well, you know what it can
+Patient: Get. Yeah, and I'll just, if not, I'll just get a box and when it's time for them to fill them. They'll have the ri, there, they can fill it right
+Nurse: At Optum. Yes. Yes, I do have the prescription for it
+Patient: Now. Unless these work, you know, maybe they work
+Nurse: On you. I mean, a needle is a needle, a needle is a needle, right. That doesn't matter.
+Patient: It's just, they're saying
+Nurse: The main thing is you're free to hold it.
+Patient: Yeah. Well, the main thing was, um, getting the, um, thing to read the blood.
+Nurse: Exactly the meter itself. Yeah. Yeah.
+Patient: Yeah, that's the main thing I need it honestly so I can pick my finger with them, you know. Well, I appreciate your help honey. I really do.
+Nurse: That's ok. Sorry it took a while. So just keep in mind too. I know I don't I think you used to check your sugar or is this new to you all together? Remind? No,
+Patient: I used to check my sugar all the time.
+Nurse: So you may know this but I just like to make sure people know that when you get ready to check and you swab your finger with alcohol, you have make sure you have alcohol swabs. Let your finger draw before you stick it and you know, give it a few seconds and then once you stick your finger, take your um cotton swab or whatever you're using and wipe that first blood, first drop of blood away and then use the next drop for your sample. Because if you have the alcohol mixed in. It's gonna read high because alcohol turns to sugar.
+Patient: Oh, ok. Now, see, I never knew that. I never knew that people
+Nurse: Don't. That's why I try to make sure that.
+Patient: Well, I'm glad you told me because I'll do that because I probably been doing it that well. I use a, um, little swabs you can get, you know, in the package.
+Nurse: Yeah. Yeah.
+Patient: Yeah. They make real wet, just a little drop something or
+Nurse: You know. Yeah something just to kinda dry it off because that first that first drop is gonna mix with the alcohol that's still wet on your finger. Ok I'll try it. Alright.
+Patient: Alright thank you so much
+Nurse: You're welcome. Alright bye take care. Mhm bye
+Patient: Bye.

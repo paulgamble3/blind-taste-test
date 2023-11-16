@@ -1,0 +1,31 @@
+Nurse: Hello. Hello. Hey. Oh,
+Patient: Hey, I think my phone lines across there.
+Nurse: Yeah, I called you earlier this morning left a message, hear back from you yesterday?
+Patient: Yes, I got a message back this morning from the provider. Let me get to it here. I, I had a late start this morning, so let me just pull you up. Um, I don't want to tell you a lie about what it says. So I'd rather have it in front of me. I don't want to get, I do know they wanted to see you, um, off the BP medicine like for you to come in. I do know that much. Um, let me get to the message. Ok. Um, ok, [PHI-Personal]. Um, she said that she wouldn't be able to give a recommendation on a, um, a BP medication without a follow up to check in with you off of the medication. Um, so I guess we need to get you scheduled to go see her is what I gather from that.
+Nurse: Ok,
+Patient: Let me, my computer is a little slow today. I'm sorry, it's not keeping up with me. So I'm gonna, I'm gonna pull her schedule up here and see, I'll just pull up the [PHI-Geographic] schedule and just see what they have. Are you still having swelling and everything today?
+Nurse: Um, it's not as bad. No. Ok. And it's still there but it's not as bad as it was yesterday. Ok. But I quit taking yesterday too, so. Right. Right. And I haven't taken my BP yet this morning, so. Ok.
+Patient: Hm. Just bear with me. I'm gonna see.
+Nurse: She didn't have any idea what she wanted to do other than, um, which beyond the wellness visit.
+Patient: No, no, that's all the message said is that they would want to see you.
+Nurse: Do you know what days doctor is in the office? Um,
+Patient: Oh, gosh. Uh, I wanna say for sure on like Mondays and Thursdays. Um, but I don't know that off the top of my head I could find out for you.
+Nurse: Ok. And that,
+Patient: Yeah, I can do that. Um, [PHI-Personal] has some openings on Friday morning. They, that I could put you down for, um, or [PHI-Personal] has some next Wednesday.
+Nurse: I see. They took,
+Patient: I'm sorry. Uh, I think I lost you there for a second. I didn't hear what you said
+Nurse: That. Ok, it wasn't real printable. Um,
+Patient: Let's see. All right. Uh Will you say that one more time for me? I'm sorry.
+Nurse: No, it's ok with me. It's, um, so [PHI-Personal] has a, um, an opening on.
+Patient: Yes. Yeah. Sorry. It was breaking up. There. I'm sorry if I missed something but he does, um, [PHI-Account] and [PHI-Account].
+Nurse: Um, I think I go for, uh, [PHI-Account] 45. Ok. All
+Patient: Right, I'm gonna get you put in here while I have you on the phone so I can confirm it and everything. All right, I'm gonna put follow up good BP evaluation because at that point, you, you'll have been off the Felodipine for at least a, a handful of days and that'll be out of your system. So. All right, I'm gonna make sure this saves for us
+Nurse: Because obviously whatever I was going through with the side effects last time it um mhm. Built up some kind of a real reaction against the right amLODIPine. It
+Patient: Was, it was real prepared and came on quicker and stronger this time,
+Nurse: Right?
+Patient: Ok. I do. I have you confirmed to see [PHI-Personal] on [PHI-Geographic] this Friday at [PHI-Account] 45.
+Nurse: Ok. Ok.
+Patient: And, and I'll respond to that message and just let him know that we got you scheduled. So you'll be there for them to to reevaluate your BP and see what's going on and get an idea together. Ok. And then I will, I'll plan to give you a call early next week just to check in and see how everything's going and see what they come up with. Ok.
+Nurse: All
+Patient: Right. Well, if you need anything else, of course, you call me any time Ok, thank you. Alright, thank
+Nurse: You. Bye bye bye bye.

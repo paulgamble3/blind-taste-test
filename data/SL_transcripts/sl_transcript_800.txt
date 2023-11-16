@@ -1,0 +1,26 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is with you. Did you just call me?
+Nurse: I did actually I was trying to get in touch with. Is he available?
+Patient: Uh what's this in regard to honey?
+Nurse: So he was recently enrolled uh by doctor [PHI-Personal] office in a monthly phone call program with a nurse. Um Oh yeah, that's, that's me. I'll be the nurse. So I just wanted to call and kind of introduce myself and let him know kind of what to expect.
+Patient: Ok, [PHI-Personal], let me put this on speaker and I'll hold the phone for
+Nurse: Him. Perfect.
+Patient: Uh [PHI-Personal], this is [PHI-Personal]. She's the monthly nurse that call you. Hello?
+Nurse: Hey, [PHI-Personal]. Um my name is [PHI-Personal]. I'm the uh care management nurse that's gonna be touching base with you every month. Um, so I just wanted to introduce myself.
+Patient: Oh, yes, that yeah,
+Nurse: So, so basically I'll be reaching out to you at least once a month, but I'm available to you every single day of the month. So anything that you need, you can call me about um medication refills, acute illnesses, questions about new treatments. Um anything like that we can discuss um anything that just comes to mind if you even just want chit chat for a while, I'm available for you and then I'll just keep Doctor [PHI-Personal] kind of informed of any changes or updates with your health on a monthly basis.
+Patient: Well, that sounds great, [PHI-Personal]. Uh uh do we have your phone number then?
+Nurse: Um, did it show up on your call on her call ID? Yeah, it
+Patient: Did. It did. And I will, I will, I will put it in my phone. So.
+Nurse: Ok, perfect.
+Patient: That, that sounds wonderful. Uh, so you're just once a month with, at a certain time you'll call,
+Nurse: Well, it's, it's up to you. Is there a day of the week or a time of day that I should avoid or a time that you prefer that I call?
+Patient: Um, usually [PHI-Personal], uh, Tuesday or Thursday is my best time because I've got therapy on Monday, Wednesday and Friday morning. She could come or, or Monday or, uh, any time probably, um, say between 10 and 12 in the morning. So, yeah. Um, you know, we're retired but boy, we've got a really busy schedule. You know,
+Nurse: Funny how that happens.
+Patient: Well, we, we gotta work you in between naps, [PHI-Personal], that is
+Nurse: Fine and I'm, I'm, I'm totally flexible. So if I miss you, I can always call you another day or you can call me back. So it, it doesn't matter, whatever works for me. Um, is there anything I can do for you right now, any medication refills you need or anything I can help with.
+Patient: I think we're all set for right now, [PHI-Personal], but if there's anything happen, we will give you a call and I appreciate it.
+Nurse: Of course, very good and I'll look forward to talking to you, but if you need me, give me a call anytime. Ok.
+Patient: Ok, thank you. Uh huh. Talk
+Nurse: To you later.
+Patient: Bye bye.

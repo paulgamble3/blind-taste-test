@@ -1,0 +1,45 @@
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you?
+Patient: Hey, [PHI-Personal], this is s um daughter.
+Nurse: I'm sorry, I didn't catch your name.
+Patient: And what are you calling for?
+Nurse: Ok, how are you today?
+Patient: Good. And you?
+Nurse: Ok, give me one second. Let me pull up her. All right. And how can I help you?
+Patient: So I'm calling because remember you called me? Um I think it was yesterday or the, I think it was yesterday. Yeah, that you called and you said that she missed her appointment with doctor? Uh huh. Um so the reason why she missed her appointment was because she had the other appointment with the specialist to remove that adapter. So when she told them that she had to reschedule, they rescheduled her all the way out to [PHI-Personal]. Oh no,
+Nurse: That was, that was my concern too. Yeah, so I was just checking with you to know,
+Patient: See what was going on before that. Yeah, she need an appointment before that and especially because the doctor told me yesterday that um they're gonna need his approval for the surgery, I guess for the referral. Ok. Her primary care physician. So,
+Nurse: So she kinda needs like a medical clearance appointment.
+Patient: Yeah. And I guess she can, uh, maybe doctor I can bring it up about her depression.
+Nurse: Ok. Ok. And then when are they planning to?
+Patient: So they're shooting for it may either be, uh, [PHI-Personal], she said, or [PHI-Personal]. It's a two part surgery. So they, they install one part, the 14th and then a week exactly to the date the [PHI-Personal] would be the second part. But they're either thinking [PHI-Personal] first or [PHI-Personal] and the [PHI-Personal]. Ok.
+Nurse: Ok. And then who is the provider? Oh, you know what? I can look it up. I know
+Patient: You have it. Yeah, [PHI-Personal].
+Nurse: Yeah, I remember you saying that name the other day. Ok. Let me see here. Ok. Let's see. Yes, I see it. It's available. I'm just trying to see. So when they, when they rescheduled that appointment they just rescheduled and gave her the next available. Huh?
+Patient: Yes, this was [PHI-Personal].
+Nurse: Is, uh, is she limited to when she can come back to be seen?
+Patient: No, I don't think so.
+Nurse: Is she limited to only seeing doctor [PHI-Personal]?
+Patient: Um, I don't why he's not available until [PHI-Personal].
+Nurse: Well, yeah, that's why they booked, booked it out that far because he's so busy. Oh,
+Patient: My God.
+Nurse: Mhm. It's, um,
+Patient: Yeah. No, I guess the next, because she's gonna need someone to, to clear her for the surgery. So,
+Nurse: Ok. And then, um, do you prefer a certain time of the day or?
+Patient: My mom's a late afternoon person. So, like,
+Nurse: No. Yeah, after 2:02 p.m. Yeah. Ok. I'm just trying to see here. Let's see here. Let me look at the schedule and see what they have. Sometimes they have one that, surprisingly that opens up for doctor [PHI-Personal] if someone canceled. Yes. Let me see if, um, [PHI-Personal] has any, anything. Ok. Yeah, she's got some appointments available. Uh, [PHI-Personal], she works with Doctor Gaa. She's pretty good too. She's a MD and she has some appointments for, um, I got [PHI-Personal]. I got a 2 45. That's a Friday 2 45 and a 4 p.m. and then it jumps up to [PHI-Personal]. I have a 2 30 and then [PHI-Personal] 6.
+Patient: Let me see because she has appointments. Hold on. She check to see. Ok,
+Nurse: Take your time. Ok,
+Patient: Go the 29th 20. Ok. Um, so [PHI-Personal] or no, wait, what time do you have? [PHI-Personal]
+Nurse: That's today. I, I don't even know. Oh
+Patient: God, that's right. I didn't, I didn't even notice that either. Well, [PHI-Personal], what time do you have? Um,
+Nurse: Wait, wait, hold on, let me see here, hold on, let me move
+Patient: Down. If not [PHI-Personal] [PHI-Personal] works too.
+Nurse: Ok, [PHI-Personal], you have a 2:30 p.m. and then on [PHI-Personal], let me see what I have on the [PHI-Personal]. You also have a 2 30 pm open
+Patient: Do the [PHI-Personal]. That's fine. Ok the [PHI-Personal] [PHI-Personal],
+Nurse: [PHI-Personal] and that's gonna be a Wednesday.
+Patient: That's fine. Yeah that's fine. I'm actually off that day so because my son needs a ride so it doesn't matter. Um. Oh yeah. Ok, I she told me
+Nurse: Ok, I got her in there so she's scheduled for [PHI-Personal] [PHI-Personal]. That's a Wednesday at 2 30 pm with [PHI-Personal]. They want you to arrive by 2 15 and then put it here that she is needing medical clearance and medication refill for depression.
+Patient: Ok, let's see how that goes right? All right, thank you.
+Nurse: Alright, you're all set. Ok, let me know if you need anything else and you all have a good weekend.
+Patient: Ok? Thank you. Ok, thanks bye bye.
+Nurse: Take care. Bye.

@@ -1,0 +1,16 @@
+Nurse: Hello, Mr. Yeah, Mrs [PHI-Personal]. How are you?
+Patient: Yeah. Yeah. Uh, I feel fine. You know, I was wondering, do I still have to take a, the COVID test?
+Nurse: Well, that is up to you. Um, it's been five days. Right. Right. Yeah. Um, you don't have to, as long as you, you stay in the house, um, you don't have to take a test. They're, they're telling everybody that if they're exposed isolate for at least five days, if they're fine they should be ok. But if you, so you don't have to take a test. But what I would do is if you have any symptoms that you're not comfortable with, I would see if you could, you know, go either to the right center, you have to have an appointment for that or down to that movie theater across from the [PHI-Geographic] Mall. They're also doing,
+Patient: Yeah, I can't go down there.
+Nurse: Yeah. No, I
+Patient: Understand. Will they, uh, will they give me an appointment down the right center?
+Nurse: Yeah, the, I can't make those appointments. They do them but I can, um, let me see. Uh, I'm trying to say, yeah, I might be able to transfer you up there. So just hang on two seconds. Yeah, I know. I know. Hang on two seconds and then it'll tell you to pick one, pick two. I think it's number two, you pick for the front desk. Ok. And tell them you need a COVID test. So, hang on. I will do so. Ok. Um Mr Ni, it won't let me transfer now. Um, do you want me to just put a note on your chart and have them call you?
+Patient: Oh, ok. That's good. Well they
+Nurse: They look at I'll put a note on your chart and have you have them call you? Ok.
+Patient: Ok.
+Nurse: All right. That's the best I can do for you. I know it's frustrating but I they won't let me tra it won't let me transfer right now. Ok. All right. Take
+Patient: Care. Should I call them anyhow or what
+Nurse: You can? But I'm gonna yeah you call and leave a message and I will put a note in your chart. Ok. Ok.
+Patient: Alright. Alright
+Nurse: You're welcome. Bye bye.
+Patient: Alright bye.

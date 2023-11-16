@@ -1,0 +1,22 @@
+Nurse: Great.I'm calling to follow up on behalf of your primary care doctor, Doctor Judy Pierce.I just wanted to confirm that I'm speaking with the right person.Can you please verify your date of birth for me?
+Patient: June ninth nineteen seventy eight.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that for me.I'm calling to check in with you about your colonoscopy tomorrow.How are you feeling about it?
+Patient: I'm sick and tired of all these tests.And I'm ready to get it over with.
+Nurse: I understand that you're feeling a bit overwhelmed with all the tests.It's completely normal to feel this way.I'm here to help you through this process and make sure you're comfortable and informed every step of the way.Do you have any questions before we get started?
+Patient: No.
+Nurse: Okay, great.I just wanted to let you know that I'm calling to check in about your colonoscopy procedure tomorrow, August 11th, with Doctor Edward Chang.You'll need to arrive at the hospital at 7Your arrival location is on the 1st Floor of O'Connor Hospital.Do you have that information?
+Patient: Yes.
+Nurse: Great, I'm glad you have that information.Now, I just need to ask you a few questions before your procedure.Have you had a fever, chills, or muscle aches recently?
+Patient: No.
+Nurse: Okay, great.I'm glad to hear that.Now, I also need to let you know that you'll need to arrange for a ride home after the procedure.You won't be able to drive yourself due to the sedation used during the colonoscopy.Do you understand?
+Patient: Yeah. I understand.
+Nurse: Okay, great.I just wanted to make sure you were aware of that.Now, I also need to review the medications that you should stop taking before the procedure.Can you tell me which medications you're currently taking?
+Patient: I'm taking no medications.
+Nurse: Okay, great.I'm glad to hear that you're not currently taking any medications.Now, I just want to make sure that you have all the information you need and that you're comfortable with the procedure.Do you have any questions so far?
+Patient: No. I got no questions.
+Nurse: Okay, great.I'm glad to hear that you're feeling informed and comfortable.Now, I just want to review a few things with you to make sure you're prepared for your colonoscopy tomorrow.First, I need to go over the diet changes you'll need to make.You should start a clear liquid diet today.This means that you should only consume clear or light colored beverages and no solid foods.Do you understand this?
+Patient: Yeah.
+Nurse: Great, I'm glad you understand.Now, I also need to remind you that you should not eat anything the morning of the procedure.This is important to ensure that your colon is clean for the procedure.Do you understand this as well?
+Patient: Yes.
+Nurse: Okay, great.I'm glad you understand.Now, I also need to go over the bowel prep instructions with you.You should begin drinking the first half of the GoLYTELY solution at 6 pm tonight.Then, tomorrow morning, you should drink the second half of the GoLYTELY solution 4 to 5 hours before leaving home.Do you understand these instructions?

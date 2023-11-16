@@ -1,0 +1,66 @@
+Nurse: Hi, thank you for calling. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is no
+Nurse: [PHI-Personal] P. How are you today? Ok, good. You're enrolled in the Chronic care management program at Doctor [PHI-Personal] office. Uh-huh. And I'll be the nurse calling you every now and then it might be a different nurse if I happen to be off, but I'll call you every month and just check in and see how things are doing. Um, my role in your healthcare is I can order medications for you. Um, if you're feeling bad I can get a hold of the doctor right away and send a message to him and get, usually get a pretty quick response from me. So, um, anything I can help you with you got any questions or, or need some information. I can try to do all that for you. Ok.
+Patient: Um, not at the moment. I don't. Ok. Um, I do need a prescription though.
+Nurse: Ok. What do you need?
+Patient: Um, hold on a second here. No, no, no, no, no, no. That, where is it? Hm. The [PHI-Personal]? Oh, let me see. I'm trying to read it upside down. Ok. It's Montel UK. A ST 10 mg once a day.
+Nurse: [PHI-Personal]. I don't see that on your list. Let me
+Patient: Look. I, I think it's a generic brand Singulair.
+Nurse: Yes. Ok. There I see. Singulair. All right, I'll get that ordered for you. And do you know your medications pretty good? If I name them off, you can tell me if that's what you're on. Yes. Ok. Uh Alendronate sodium 70 mg weekly.
+Patient: What was
+Nurse: That? Alendronate sodium 70 mg. And you just take that weekly. It's probably for your bones.
+Patient: Oh yeah. OK.
+Nurse: Aspirin 81 mg every day. Yes. Azithromycin take two tabs. Are you still on the Azithromycin? That's the antibiotic. No, that was. No, I'm
+Patient: Not on that one anymore. I need to take that
+Nurse: Off. Calcium. 600 plus D
+Patient: Twice a day.
+Nurse: Yeah. OK. You never say this one. Cele Celecoxib. That's CeleBREX 100 mg. Everything is needed.
+Patient: Mhm Yes. Uh
+Nurse: The that's your uh cough syrup you take every four hours as needed.
+Patient: Uh Yes.
+Nurse: OK. The incruse Ellipta one inhalation daily.
+Patient: Yes.
+Nurse: Levalbuterol. That's the inhaling solution. Yes. Levofloxacin 500 mg take it daily for seven days. Are you done with that one? Yes. OK. Yeah. All right. Then you have a nebulizer with the tubing and the mouthpiece. Yes. Uh Pantoprazole sodium 20 mg every day.
+Patient: What was that?
+Nurse: Pantoprazole sodium? It's for your stomach. It's probably generic for something else. No, you aren't taking anything for GERD
+Patient: Things. Uh Yes. Oh OK. That's the, or something
+Nurse: Like that. Mhm. Yeah. Ok. Uh, polyethylene Glycol, you can use up to three times, uh, three times for the next few days until you start having bowel movements. So, are you still using that?
+Patient: Yes,
+Nurse: Bye. I'll just leave it on there. Um, proair inhaler, two puffs every four hours as needed. Yeah. Then the Singulair every day. Yes. Symbicort. Inhaler.
+Patient: Yeah.
+Nurse: Still on the Symbicort.
+Patient: No, no, no, they took me off of the Symbicort. I know. No, sorry. No, that's OK. I'm on the Symbicort. Uh huh. They took me off of riva. OK. They took, they took me off of the and put me on that inc ru
+Nurse: OK. Yeah, I've got that one and I don't have the, the other one. You just said
+Patient: Symbicort, I mean. Uh Yeah. Mhm. Yeah. They took me off of that one.
+Nurse: OK. After Symbicort I have, it's applied daily on affected areas. Must be a cream for something.
+Patient: Yeah.
+Nurse: You use that as needed. Yes. TraZODone. 150 mg by night uh by night by mouth nightly. Does it help
+Patient: You sleep? Yeah.
+Nurse: OK. And traZODone.
+Patient: Yes. TraZODone. Yes, that's for sleep. Yeah, that one's for sleep. The traZODone, the traMADol is,
+Nurse: Is a pain. Yeah. All right. That's all I have. Are you taking anything else?
+Patient: No, that should be it.
+Nurse: OK. Um Also I'd like to do an anxiety or uh not an anxiety but a depression screening. We just do this on everybody at least once a year. And I like to do it at the beginning of the year. In case something would happen that you start feeling depressive symptoms, you want to report any of those. If you pay attention and the questions that I'm gonna ask, uh, you'll, you'll be able to identify what you need to be looking for when you start feeling depressed and down. Ok. Ok. All right. And we're just talking about over the last two weeks, how you've been feeling? Have you had little interest or pleasure in doing things? Not at all? No. Ok. How about feeling down, depressed or hopeless?
+Patient: No.
+Nurse: Ok. Trouble falling or staying asleep or sleeping too much? Having some sleep problems? No. Ok. Is your appetite? Ok. Or do you have a poor appetite or you're overeating?
+Patient: My appetite's ok.
+Nurse: Feeling bad about yourself or that you're a failure or you've let yourself or your family down? No trouble concentrating on things such as reading a book newspaper or watching TV. She can't quite grasp what's going on. No moving or speaking so slowly that other people could have noticed or the opposite. You're being real fidgety and restless.
+Patient: No.
+Nurse: Ok. And thoughts that you would be better off dead or of hurting yourself in some way.
+Patient: No.
+Nurse: Ok. I just take this time right here to educate my patients that the suicide hotline number has changed. It's now called Suicide and Crisis Lifeline. And that number people can dial is [PHI-Account]. And I always encourage everyone to, if you know anybody that deals with depression, make sure they know that number is no longer an 800 number. They just have to dial the numbers [PHI-Account]. And, you know, you never know who's life you might save. I, I see it advertised a whole lot. I had a patient tell me one day this week she's seen it up at the hospital advertised somewhere up there, but I don't see it on TV advertised and you know, something that's important that people need to know because you know that big 800 number could defer somebody. I gotta look that 800 number up but the [PHI-Account] be easy for someone to remember.
+Patient: Yeah, that is. Mhm.
+Nurse: Do you have any difficulty getting along with others or getting your housework done? Not difficult. Somewhat. Ok. Good. You don't have any depressive symptoms at all?
+Patient: Well, that's good.
+Nurse: Yeah. Really good. Ok. So I'll only do that once a year. Um Do you have any questions about anything?
+Patient: No. Huu
+Nurse: Ok. You, you don't uh it looks like you had a doctor's appointment on the [PHI-Personal] with Doctor [PHI-Personal]. He was just follow up for your lab work. Um I me take a quick look at that and see if I need to review anything that he said to you. And um he's got with your hyperlipidemia which is related to cholesterol that it's improving and then you'll do labs again in three months, a week before you go back to the office. He says your BP is under control. Excuse me, your COPD is stable. Um, you do, you have, you have a CPAP machine? Are you using a CPAP?
+Patient: No oxygen?
+Nurse: Just oxygen? Ok. Yes. Um, he says your sleep apnea is stable and your cough, he says there's slow improvement since you had the illness. So do you still have this cough or is it just
+Patient: A little bit? Not like I did the cough?
+Nurse: Ok, good. Yeah, and you're gonna have an iron panel to check your anemia the next time you have labs, he didn't really comment, he didn't really comment where it was at. Um, and then continue with vitamin D that's ad as in dog that if you hear my dogs barking, I work from home. So every now and then they have to cut up and raise a fi around the house.
+Patient: And so I, we got me too. We got to do that. Ok.
+Nurse: Ok. If you don't have any other questions, I'm gonna let you go and I'll be calling you sometime in [PHI-Personal], but you also can call me if you get the feeling bad or you like you need a prescription, uh, called in for you anything like that, but I'm gonna give you my phone number or is it on your caller ID?
+Patient: It's
+Nurse: On my phone Ok, and my name's [PHI-Personal]. Ok. Alright, [PHI-Personal], thank you so much for calling me back. You're welcome. Yeah, bye bye
+Patient: Bye bye.

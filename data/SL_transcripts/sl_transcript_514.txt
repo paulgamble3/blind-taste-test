@@ -1,0 +1,46 @@
+Nurse: Different chronic care management. This is, how may I help you? Ita. Hey, [PHI-Personal], how
+Patient: Are you? Your cat
+Nurse: Finally got through. I know. I don't know what was wrong. Yeah, I
+Patient: Started crackling. I couldn't hear you at all. So
+Nurse: I think it was mine because then my computer went out for a second and then it came back. So. Ok. How's [PHI-Personal] doing? Good? Good, good. Very good. Any issues or concerns or anything? Uh,
+Patient: No, we, uh, uh, my medicine, her medicines are, uh, up to date. Everything's coming through. Ok. Prola. So,
+Nurse: And how's the ZA pill with her? I know he was trialing that
+Patient: Didn't work.
+Nurse: It didn't work.
+Patient: No. Got awful headaches and just didn't feel good. So.
+Nurse: Ok. Um, yeah, I got a memo that says wanna try Aricept again. My might before made her dizzy and possibly gave her a headache while we retrial. But she's tolerating the Namenda but didn't try. Ok. But, uh, you're not giving her the ZA pill anymore.
+Patient: No. No, we did it like three days and she
+Nurse: Just gave her an awful headache. Yeah. Ok. I'll just let them know that she's not taking it. Um, either. Ok. So, um, appetite's good. She's taking her medicine. Um, no falls or anything thing.
+Patient: No, no staying on her feet.
+Nurse: Is she good? Ok. Um, ok. Just that medicine didn't work at all. Um, which, I mean, hey, at least, uh, at least you tried it, you know,
+Patient: I started, uh, when that didn't work, uh, started on Prevagen.
+Nurse: Oh, Prevagen. Ok. Yeah.
+Patient: Yeah. So it's been about a month for that. I think so.
+Nurse: Is she doing ok with that? Yep. Yeah. Ok. It's just the regular Prevagen supplement. Yeah.
+Patient: Across the counter stuff. Yeah. Ok. Takes it every morning
+Nurse: Or the. Ok. So she's tolerating that well then. Um, so, ok. Um, and I don't see any recent appointments in here. Has she had any or?
+Patient: Um, no, she, uh, goes next month to the doctor [PHI-Personal] lab work and to see the doctor?
+Nurse: Oh, I see that. Ok. [PHI-Personal]. Ok. Um, no, like she's still at because I have to review, um, [PHI-Geographic] that's not changed. And, um, oh, that doesn't look like any, uh, um, insurance changes either. No, there. And then besides Doctor [PHI-Personal], does she see anyone else?
+Patient: Uh, no, just, uh, gynecologist and, uh, eye doctor. [PHI-Personal]
+Nurse: Eye doctor. Ok. Um, ok. Does she see the neurologist anymore or? No? No, no. Ok. So she just sees an eye doctor, um, and a gynecologist. Ok. Is she up to date with all of her vaccines and stuff.
+Patient: Uh Yeah. Yeah. Yeah. We had our COVID shots way back when we had the two shots and the booster booster. Ok. The flu shots. We had those last [PHI-Personal]
+Nurse: [PHI-Personal]. Ok. And I know she gets her, a one check, a one c checked her cholesterol. Does she still get mammograms?
+Patient: Uh Yeah, but she was, let's see, that was in uh, [PHI-Personal] except the woman's wellness there.
+Nurse: Ok. Um, um, bone density. Does she still get that? Yeah,
+Patient: She got that at the same time.
+Nurse: Ok. So she wouldn't be due this year because it's because she just got that last year too. Oh, ok. It's just wellness gos, we have to send out every year. Um, just if you get that in the mail, that's what that is too, um, too. Ok. And any refills that you need from doctor.
+Patient: Uh, no, everything seems to be up to date pretty good. Uh, I got, I got a surplus of a lot of it. So.
+Nurse: Ok. All right. Well, if you need anything, make sure a call or if she needs to get in to see the doctor earlier, um, they could always fit her in with someone.
+Patient: We're both doing ok. Is it
+Nurse: Snowing there today or? No? No,
+Patient: It's just cloudy and it's about 35 degrees. So. Oh,
+Nurse: That's not terrible. No. Supposed to get some weather anyway.
+Patient: So, so far so good. Hasn't been too bad winter. Uh,
+Nurse: Well, if you guys need anything. Make sure you reach out too. Yeah, I heard the weather is, like, all over the place, isn't it? Yeah. Yeah. But I guess we, we can't complain these days too. So, not terrible. Um, all right. Well, you enjoy your day. Are you retired or you working today, or?
+Patient: Oh, no, I've, I've been retired for 20 years. I retired from the city fire department. So, ok.
+Nurse: What are you doing today? Anything? Uh
+Patient: Well we're talking about going out for do a little shop and go for a ride or something. Get out get out of
+Nurse: The house for a little bit. Yeah um yeah sometimes you just need to get out
+Patient: For a while. Oh yeah yeah
+Nurse: Yeah well definitely call if you guys need anything. Ok. Oka. Alright tell I said hi I will. Yeah. Alright take care have a good day you
+Patient: Too bye.

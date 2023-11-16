@@ -1,0 +1,36 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Hi, [PHI-Personal]. This is [PHI-Personal]. Um, I was out today and you called? That's ok.
+Nurse: Um, I have your appointment scheduled. So, Doctor [PHI-Personal], when you were in yesterday, um, sent me a message and everything. Um,
+Patient: Yes, let
+Nurse: Me get your chart pulled back open. Um,
+Patient: Let's see here. Yeah, there's a lot of days I can't make it. So, I don't know when you scheduled it for.
+Nurse: Yeah. Well, I, you know, I called the office that office yesterday, like four times and nobody would ever even answer the phone. Um, and then I called them back today and finally did get somebody after the third time. But, um, what they had was a October [PHI-Personal] at 2 30.
+Patient: Let me look and see. Ok, October [PHI-Personal]. Uh, no, I'm, I'm not available that day. I'm practicing. I'm in a, a group that plays and we're play, plays music and we're doing a Christmas concert and we have practice that afternoon. Ok. And, um, that's why I say there's a lot of days that I'm not available.
+Nurse: Um, I think she said that they did have a, like nine o'clock appointment that day. Would you like that one if I can get it or just skip that day altogether?
+Patient: Nine o'clock. Where is this office? Did, do you have?
+Nurse: Mhm. It's the ood office. And let
+Patient: Me, I'm thinking how the traffic is that time of day and how long it's gonna take you to get there.
+Nurse: Uh huh.
+Patient: Um, what time I have to get up. Right. So, where, where's my note here? It's something. [PHI-Personal], right.
+Nurse: That's right. It's [PHI-Personal].
+Patient: Yeah, somewhere I have it written down, but I don't have a clue where at this point. And what's the name? So, it, the
+Nurse: Doctor's name is Doctor [PHI-Personal].
+Patient: Oh, ok. I don't think that's the name I had. Could you spell it? M
+Nurse: Yes, Ma Lik.
+Patient: Oh, yeah. [PHI-Personal]. I thought you said Mallet. Um, because, um, do you have the address? Yes, ma'am. Ok. Could you give it to me too, please? I know it's still Ry. But yeah, I
+Nurse: Can, um, let's see. Here it is. And I sent this to you in my chart as well. Um, it's, uh, one,
+Patient: Ok. This, go ahead.
+Nurse: [PHI-Account].
+Patient: Ok. Go next Thursday. I guess I guess I could take the nine o'clock when I don't really want to. But,
+Nurse: Uh, well, I, that, I mean, that's, uh, not a guarantee that I can get back in touch with them. Like I said yesterday was awful. I
+Patient: Can't with anyone. Um, if I already got, yeah, I've already got two appoint, two doctor's appointments that week. Do you? And a haircut and a practice? That's a busy week. Well, two practices. Yeah, you call me every day.
+Nurse: Move it out another week.
+Patient: Um, well, if you, I, I hate to have, you have to do all that. Um, it, it would be better, it would be better the following week. But I'm not available on Wednesday or Thursday of the following week. Ok. So that would be the [PHI-Personal], the second or the third. I'm not available. I'm available [PHI-Personal] and the [PHI-Personal]. Well, that's it. I'm glad. Well, oh, gosh, if I could get it any time at nine o'clock pretty early because I always want to 15 minutes early or that. And that's, that's 8 45 and it takes at least a half hour to get there. Oh, I don't. No, I don't think I can do that. Ok, I can do. Oh, that, that meeting? Well, I could do it Monday or Tuesday of the following [PHI-Personal] or the [PHI-Personal] if they have anything. Ok. And
+Nurse: Then if they don't, or what's your availability the next week after that,
+Patient: Um, the [PHI-Personal], the [PHI-Personal] or the [PHI-Personal].
+Nurse: Right. It's still like, um, you prefer like a late morning, early afternoon appointment? Right.
+Patient: Right. Right. Right. Ok.
+Nurse: Well, that gives me some more options to work with. So I'll give them a call back tomorrow then. Ok.
+Patient: Ok, thank you so much.
+Nurse: You're welcome. No problem
+Patient: At all. Yeah. Ok, good afternoon. Yeah, thank you. Ok, you too. Bye bye bye.

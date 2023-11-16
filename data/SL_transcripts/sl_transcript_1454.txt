@@ -1,0 +1,33 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager.
+Patient: Yeah, this is [PHI-Personal] calling. I was just returning a call on my phone.
+Nurse: Yeah, I was just calling to check in and see how everything's going. I know you had an appointment recently. Yeah, last week. Yeah. And I know you had some concerns with your left leg that it wasn't getting any better.
+Patient: Yeah. Had a, um, um, what do they call it when you, you have like a big black and blue on it? Um, yeah, but it got another word, uh, for a medical term.
+Nurse: Uh, confusion. No.
+Patient: Hm. What I did is I, I fell and I landed on my wallet and it put a bruise about the size of my wall but it was really bad. So, it pinched the nerves. Oh,
+Nurse: Geez, hematoma. Is that the word you're thinking?
+Patient: But I didn't know it at the time. So I went back to, uh, I went to the doctors and, and, uh, the, I don't, I don't know if she was a nurse practitioner or a doctor but she's very good. And she said, uh, looks like you have a hematoma but she didn't look at the bruise that I had, but she called that pretty much right on the head there. So long story short, uh, I've been on that medicine and I'm getting better but it's still, it's still slow because like I said, they didn't know I had hurt myself. Yeah.
+Nurse: And you said it pinched a nerve. Are you ha, are you still having issues with that? Like, any numbness or tingling or pain?
+Patient: I'm having numbness in my leg. And, um, I, I have what you call drop foot. Ok. Where, where my toe will drop and, and, uh, easy to trip. Mhm.
+Nurse: Other than that, I'm anything for that.
+Patient: No, I'm not. Ok. They mentioned something about a brace but I wasn't sure where I would, would get one and I don't know if I need one. I don't know. You know, I don't know too much about it
+Nurse: If you're functioning and you, you know, you're doing well, how often do you trip on it? Is it constantly or is it just once in a while?
+Patient: No, no, it's, it's, if I, if I'm walking with it, I, I just have to be careful because what happens is my, my toe goes underneath my foot. Mhm. So, I'd say regularly, but I'm very careful with it. You know,
+Nurse: So good. I'm just looking over the appointment again. Um, so they didn't want you to go back on steroids. Is that the decision? Just because it's the hematoma?
+Patient: They didn't know about that hematoma because I, I didn't call him back and tell him that I see it's, it's on, you know, the, my left side where my wallet and, uh, to be honest with you, until I took my pants off later on that day, I didn't even know it myself. I mean, I knew it hurt but I didn't know how bad it was, you know. But my wife,
+Nurse: My wife, go ahead. I'm sorry.
+Patient: Yeah, my wife's an RN. She said, well, that's what that is. Of course, she told me a couple little names and along the way and, yeah, and after that test
+Nurse: It's a wife's job. I see. They put you on an antibiotic. So, did that help for.
+Patient: Right. That's what they put on. Yeah. Got
+Nurse: You. Ok. All right. All right. Good. And medications, the, besides the antibiotic is everything else the same.
+Patient: What do you mean as far as medication or? Yeah.
+Nurse: Has any, have any other, your med, any other of your medications changed at all?
+Patient: No, everything that I've had is, is there [PHI-Personal], I think the, uh, you know, I tested your blood weekly and I think mine was dropped down a couple of notches because of it's, that's been moving around. So they've been adjusting that
+Nurse: Accordingly. The Coumadin you mean? Right. The milligrams, they switching back and forth, right. Ok. What are you taking now? I have four mg here. But I know they adjust that every week.
+Patient: Wow. They adjusted so much. I pay attention to it.
+Nurse: I know. It's hard to keep track of,
+Patient: You know, to be honest with you, my wife puts my medicine together. I didn't even pay attention to it because she knows medicine a lot, a lot better than I do. I'd probably be dead with my own, you know. Yeah.
+Nurse: I know. It's all right though. I'm just going to keep the four mg since they're gonna continually change it anyway. There's no point in changing it every week. Um, still taking your Synthroid or your thyroid medication, BP gout. Um, the digoxin. Have you been checking your heart rate before you take it or you just take it? No, I just take it. Ok. So you haven't had any issues with a low heart rate then? No. Ok. Good. All right. Perfect. All right. And do you check your BP at home or? No?
+Patient: No, I do not.
+Nurse: Ok. But no dizziness. No. Um, flushing bloody nose, anything headache like that. None of that. Perfect
+Patient: Of that.
+Nurse: Ohh. Right. Maybe just like once a week start taking your BP just so you have the log of it. Um, it just helps prevent anything. So, if your body is under a little bit of stress, you can kind of tell ahead of time. But otherwise sounds like you're doing ok if anything comes up, give me a call, but otherwise I'll be checking in. Alright, very good. Alright, enjoy the rest of your summer and talk to you soon. Hey, you too. Thanks. Alright, thanks. Bye.

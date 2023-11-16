@@ -1,0 +1,19 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Hello, sir. This is [PHI-Personal] again. Yes. Um, they called me and I guess you talked to the receptionist guy. Uh, yes, [PHI-Personal]. Yes, he doesn't do nothing. He don't do nothing like that. Um, he said he said it should have just connect, connect you to their appointment.
+Nurse: Oh my gosh. Ok. So what, so what's going on? They're not going to refill it for you.
+Patient: Um, no, she gave me the number to call.
+Nurse: Ok. What is the number?
+Patient: Yeah. 570, ok. Uh 321. Ok. 2805. And yeah, his name is um doctor. Oh my God. Is this Japanese guy? Um, Doctor [PHI-Personal]
+Nurse: Something?
+Patient: Oh, I don't, I didn't write it down. Doctor [PHI-Personal]. I do believe Chang or something. Ok.
+Nurse: So, so they want me to call back in regards to?
+Patient: Yeah, I guess, I guess, I guess I got the, I guess what I understood the lady down. The lady that called me said II, I can't, I can't remember his name that she talked to and, and then she said his name, he said, yeah, that's it. Oh,
+Nurse: So when you try to get it refilled. [PHI-Personal]. You were told there was no refills left. Correct? And when you called the cardiologist, they told you they wouldn't refill it. Right.
+Patient: I never called the co I never called them. I called [PHI-Personal]. 000,
+Nurse: Ok.
+Patient: And um [PHI-Personal] just told me because it, it says one refill on it. But [PHI-Personal] told me since the date is due overdue because it was um so uh [PHI-Personal] and they couldn't do it. They have to give me a new prescription.
+Nurse: All right, I will give them a call back then at this number for you, [PHI-Personal] and see if we can get this prescription filled for you. Ok? You're not out, are you? You're
+Patient: Not out? No, no, no, no, no, no, I'm not out. I got enough for like seven days.
+Nurse: Ok. Let me go ahead and give them a call back. Hopefully they'll answer right away and then once I do talk to them, I'll give you a call back just to update you. Ok.
+Patient: Ok.
+Nurse: Alright. Thanks for calling me back. I appreciate that. Yeah, thanks a lot. You're welcome. Bye bye bye.

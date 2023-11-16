@@ -1,0 +1,11 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Uh I have a message from you actually two messages from you.
+Nurse: Ok. Do you mind holding, let me see if I can get her on the phone for you? Thank you. You're welcome. Hm. Get back on. Are you there? Yes, I'm still here. Ok. She is on the other line. Can I have her call you right back?
+Patient: Uh, you can, but we've been missing each other, don't it?
+Nurse: Hang on for just a second if you'd like
+Patient: Uh just rather than use my home phone, which is how she called me back the last time you use where I'm calling you from now.
+Nurse: Yes, that number,
+Patient: It's a [PHI-Personal] [PHI-Account]
+Nurse: And spell your last name for me. It just disappeared off my screen [PHI-Personal]
+Patient: Pac K er, first name.
+Nurse: All right, I will let her know. Thank you. You're welcome. Bye. Ok.

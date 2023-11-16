@@ -1,0 +1,20 @@
+Nurse: This is [PHI-Personal].
+Patient: Hey [PHI-Personal]. This is I already went and scheduled transportation for my podiatry appointment for next week.
+Nurse: Ok,
+Patient: So I got schedule and ready to go.
+Nurse: Ok, perfect. And I did see and your referrals are in for your eye exam and for your podiatry appointment.
+Patient: Ok, because my um I can't schedule transportation until next week for my eye exam and that's not until [PHI-Personal] everything is on the go. Perfect. The next thing to schedule will be my mammogram. Ok, perfect. Then I'll be done.
+Nurse: Awesome. That sounds awesome. You're on the ball.
+Patient: Yeah. Yeah, you know, I haven't been feeling well and I wanna get all this done.
+Nurse: Yeah, then then you don't have to worry about it the rest of the year and yeah, be finished with it. Yeah. Awesome. Well, thank you so much for letting me know. Yeah,
+Patient: Thank you for helping me.
+Nurse: Absolutely on you. Just let us know if you need anything else. Ok.
+Patient: Yeah, I I think my mammogram I don't have to do until [PHI-Personal] I'm mistaken.
+Nurse: Let me look here. Yeah, it looks like you're due around [PHI-Personal].
+Patient: Yeah, so I'll get that done when I go see my physical when he does my physical. Yes. Yes. So when he does my physical, I ask him to give me the order for my mammogram.
+Nurse: Yes,
+Patient: Absolutely and and that's it. Ok, beautiful.
+Nurse: Thank you for helping. Alright. Yes, absolutely on. Thank you so much for the information. Ok. Bye bye.
+Patient: Have a beautiful day.
+Nurse: You too. Bye bye bye
+Patient: Bye.

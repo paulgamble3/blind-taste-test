@@ -1,0 +1,29 @@
+Nurse: Hi, this is Sic. I'm a nurse at the Pulmonology clinic. How can I help you? Yes. May I please speak
+Patient: To [PHI-Personal]?
+Nurse: Uh Yes, just a minute and let me see if she's available. Um, was she just giving you a call? Yes. Ok. Let me message you real quick. I'm just gonna put you on hold. Ok, thank you. You're welcome,
+Patient: [PHI-Personal].
+Nurse: Hi. All right. I think that she's still on the other line. Do you want me to have her call you back or I could probably help you? Yeah,
+Patient: I, I called Temple. I've been trying to get an appointment to see doctor which I seen him in February and I got my new um dream station which they said he needs a program and I had ac T scan done on my lungs and they sent me the report but I don't understand it and they told me they can't get me an appointment.
+Nurse: Yeah, so it looks like um, [PHI-Personal] was messaging with the doctor about it. And so we did message back and it looks like, um, that's what she was calling you about today and he said everything looks fine. It's unchanged. Since your last one. and without any nodules. So that's good. There was a little, it did show a little bit of slight emphysema he said, but that's been the same as kind of what the one before showed. Um, so pretty much the same. There really has not been any changes. So that's good news.
+Patient: And I'm just trying to find how I go about getting an appointment with him or if they can schedule me appointment. I don't know.
+Nurse: Yeah, let me see. Um because he's you you see him at the main, yeah. [PHI-Geographic]. Ok, let me see what uh his schedule is gonna be like here just a minute
+Patient: Because I know I'm gonna be down there um [PHI-Personal] at two o'clock cause I need to see another lung doctor to see about stretching my airways. Oh,
+Nurse: Ok. Uh huh. Let me see. Now you um and this would just kinda be a follow up.
+Patient: Yes.
+Nurse: Ok. Let me sorry, I gotta put like all these different things that can computer before I give me his schedule. So just a second.
+Patient: Ok, thank you.
+Nurse: You're welcome. Sometimes it feels like it, the old school paper ways would be faster sometimes I'm using computers. Um ok. Well, I don't see he's all booked out and like from here until [PHI-Personal] and his schedule, he doesn't actually have a schedule open past then. So I'm gonna have to
+Patient: Message him an appointment for [PHI-Personal]. So at least I have one.
+Nurse: Well, there isn't anything and because once you hit [PHI-Personal], it just says no results. So I don't know if his schedule isn't open yet for us to try to like starting in [PHI-Personal] and after, for us to book. So let me send a message to the girls at the front office that helped you make appointments about this and have him reach out to you. I'm not giving you any
+Patient: To leave me not. But the only problem is I need to leave my son though because he's my ride.
+Nurse: Ok. Um, so let me, yeah, sorry if you had a schedule open, I could at least get you something but there is just nothing. So let me um maybe I can at least do mm, maybe I can at least put you on a wait list for now. Um, and that way if something comes up and then I'll message them about, you know, that we tried to schedule but there isn't anything and even open past a certain time. So um probably somebody from their office will end up reaching out to you. Ok? But for now I put you on the wait list so that if there's like a cancellation like next month or in a couple weeks or something, they'll give you a call and um, see if that works for you and if it doesn't, then of course you don't have to take it if you need to get like rides and stuff. So,
+Patient: Yeah, I do because I'm on oxygen and I don't accept that because I get out of breath. Um, so I guess someone from his office to will call me. Yes.
+Nurse: Yeah, I guess
+Patient: All that, that, what's that? I guess I'll have that a couple of weeks for them to get back to me.
+Nurse: I don't think so. I'll send him a message. I don't know how I don't, it should be here within the next couple of days. He should get back with you.
+Patient: Ok, because I called her like a week ago and I'm still waiting. So.
+Nurse: Oh, for an appointment desk. Uh, let me
+Patient: See. In fact, I called them twice.
+Nurse: Ok. Um, well, let me see if maybe if I message him that'll speed it up. We'll see if that helps. I don't know, but, um, it shouldn't be that long. So, um, I'll message him and then, yeah, we'll just have to see when they respond. Ok. Well, have a good day, [PHI-Personal].
+Patient: Ok. Thank you so much. Ok.
+Nurse: You're welcome. Bye bye.

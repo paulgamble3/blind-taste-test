@@ -1,0 +1,33 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Good morning, [PHI-Personal]. This is [PHI-Personal]. Hey,
+Nurse: How are you doing?
+Patient: Hi. I'm sorry, I couldn't get to the phone.
+Nurse: That's ok. I figured you might have been at work. Um, if you don't mind just stating your date of birth for me.
+Patient: [PHI-Personal] 5, 1940
+Nurse: [PHI-Personal]. All right. Thank you. I just wanted to follow up with you and let you know that doctor responded to the messages and he said that you can get your flu shot at your next appointment and that he does wait, uh, recommend that you wait three months from your COVID infection before getting the fourth booster. Oh,
+Patient: Ok. Ok. All right.
+Nurse: Um, and another thing I wanted to ask you, I want to try to get, uh, a copy of your eye exam that you had in June. Who is your eye doctor?
+Patient: It was optical [PHI-Geographic] because that's the only one my insurance covers.
+Nurse: Ok. [PHI-Geographic] outlet.
+Patient: Yeah. Doctor we [PHI-Personal]. Ok. It's on, it's on [PHI-Geographic].
+Nurse: Ok. I'll give them a call and see if they'll send out the report. He likes to have those reports in the chart. Not in, uh, see it in your chart. So, um, anything
+Patient: Else? Yeah, I'm giving you call. You're my [PHI-Personal]. And I, I don't know if you're, this is your responsibility or not. But, you know, with the COVID, I was out of work for two weeks and doctor had generated a letter that I could go back to work on the second of [PHI-Personal], which was yesterday and said she had mailed the letter, well, we never had received it. Ok. So my company requires, they don't want it, uh, electronically, they want an actual copy to put in my file and to send to my corporate office. I see, I live in a senior community and I work at the desk for that. Ok. Are you, is that your job to do that or do I just call your office? I don't
+Nurse: Know. No, I can send her a follow up message that now you do, you still want it mailed? They can't fax it or anything. She said she,
+Patient: It because of the right and my manager needs it so I can go back to work. But they won't let me go back to work unless they have, they wanna put the letter in my file and they want one sent to corporate. So they don't want anything electronic. I don't know because see, I don't have a computer or a printer. If I could, if I did, I wouldn't even bother you with this. If that's not your responsibility, I'd be more than glad to call them myself. Oh,
+Nurse: No, I definitely can. This is my responsibility. I just didn't know if, if they would accept it via fax that you're,
+Patient: Yeah, she'll accept the fax. I, I'm sure, I'm sure she will. We never received the letter during the storm and everything. It was never received. So they wanted it.
+Nurse: Um, so do you happen to know the fax
+Patient: Number? Yeah, let me get it for you real quick. I'll be right with
+Nurse: You. Ok.
+Patient: Ok, I got it right
+Nurse: Here. All right,
+Patient: I'm ready. Area code [PHI-Account]. [PHI-Personal]
+Nurse: [PHI-Account]. Ok.
+Patient: [PHI-Account]. Uh-huh.
+Nurse: It should be. She's
+Patient: Our administrator. Her name is [PHI-Personal]. Ma [PHI-Personal]. Uh her last name is [PHI-Personal]. Ok. Ok. They yeah, they want to ask I don't have a like I said if I did it, wouldn't you with that?
+Nurse: No, that's fine. I'll um I'll ask her to still mail you a copy but go ahead and fax it over to today. Ok.
+Patient: Well she that they said but we never received it but she really doesn't need to mail it because I need to go back to work as soon as possible. So the fax will be ok. The fax will be fine.
+Nurse: Perfect. Ok. Well, I'll take care of it.
+Patient: Thank you. Stay safe. You're wonderful. Thank you so much. You're welcome. Have a good day. You're very kind. Thank you bye
+Nurse: Bye bye.

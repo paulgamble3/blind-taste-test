@@ -1,0 +1,25 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Yes, hi, this is [PHI-Personal]. I'm returning your call. You left a message that you had called earlier.
+Nurse: Uh Yes, let me pull your right up here.
+Patient: I wasn't sure what this was about. So I'm calling to find
+Nurse: Out. Ok. So it looks like I reached out to you because you qualify for Doctor [PHI-Personal] care management program. And so what that is, is a nurse that'll be able to give you a call to see how you're doing. She answers any questions, helps refill prescriptions. She'll address any issues that you're having and she could also help with appointments and lab work, things like that. The program, it helps keep the doctors updated and it avoids emergency room visits and all the calls the nurse makes. They are documented and sent to the doctor for review. They're also treated as a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. So they're also subject to deductibles, coinsurance and copay. So I have here you have [PHI-Personal] and a ARP. Is that still correct? Mhm. Ok. So it doesn't look like you have a copay for the phone call. So that's good.
+Patient: And this is a strange question but is this, so I do not talk to doctor or is this to lighten his load or what is the, um, ation of
+Nurse: This? It's a care management program. So it's a nurse just calling in. It helps keep the doctor updated on anything new or anything going on with you while you're not seeing the, the months, you're not seeing the doctor. You know what I mean? So it helps keep it updated. It gives you an extra, um, gives you a nurse to call any time you need to, uh, things like that and she's able to help you with things like prescriptions and medication cost, stuff like that.
+Patient: Ok. Ok, because I mean, I don't, uh, I don't not have any major health issues. So I just was curious as whether he, he thought I, all of a sudden needed constant care or something. No,
+Nurse: It's a phone call to check in and ok, she focuses on your primary care at home and stuff. So. Ok.
+Patient: Ok. But you mean my primary care at home? Meaning what? Just how I take care of myself, you mean or what? Um,
+Nurse: I don't know, just different things. No, no, she just asks questions and stuff. That's all.
+Patient: Ok. All right. Well, ok. Um, so, so if I needed to get a prescription refilled I would call her,
+Nurse: You could call her. Yeah.
+Patient: Absolutely. Ok. Ok. Well, I just, my, mine just got refilled. Automatically by CV S so I'm in not need of anything like that at the moment, so. Ok. Good. Ok. Well, I am fine. So that's nice to know, but I will keep this number. So if I need any help or something, I know I can call.
+Nurse: Ok. Uh, would you mind if I have a nurse give you a call in about like, three or six months?
+Patient: That's how you're doing. That's ok. I mean, I, I have a scheduled appointment with doctor on, in [PHI-Personal], so I will be seeing him anyway.
+Nurse: Right. Oh, ok. All right. Well, I'll, um, in around three months I'll have a nurse give you a call. Does that sound good? I'll also send out a letter that has all the information on it and you have a phone number to call in to the nurse if you
+Patient: Need to. Ok. Now, is this, is this something that, that, that you, I pay for or what, how
+Nurse: Does this work? So, it is a billable service to [PHI-Personal] and, um, it looks, looks like you have [PHI-Personal] and a ARP and also secondary insurance carriers. Yeah. So,
+Patient: But I really feel like I need it. So at, at this point in time I think I'd rather not create a, a [PHI-Personal] bill that I don't think I need.
+Nurse: Ok. Do you mind if I just send a letter that has the information and a phone number
+Patient: If you want to do that? That's fine but I really I you know at this point in time I am fine. I really don't think I need I I need that. I I'm happy nice to know that that's available if I need it, but I really don't think at this point I need to put in a [PHI-Personal] charge for something that I don't need so. Ok. Alright, but I appreciate the call.
+Nurse: You're welcome. Well, thanks for giving me a call back. I hope you have a good
+Patient: Day. You too. Bye bye bye
+Nurse: Bye.

@@ -1,0 +1,20 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. Someone from up there just tried to call and I was on the other line and couldn't at that moment. So, is
+Nurse: This um number? Yes, ma'am. It is. Ok. So that was me who called? My name is [PHI-Personal] and I'm calling from the Family [PHI-Geographic] and I called today because it looks like [PHI-Personal] qualifies for a new care management program. And so what that is, is a nurse that'll be able to give him a call to see how he's doing. The nurse is able to answer any questions, help refill prescriptions, she'll address any issues he might be having and also help with appointments and lab work, things like that. All the calls that, what's that?
+Patient: I was just listening.
+Nurse: Uh Oh, I'm sorry. And so all the calls that the nurse makes, they are documented and sent to the doctor for review and they're also treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays.
+Patient: And honestly, um about 2 to 3 times a week he does physical therapy and the doctors. So any time he has a question, we just pop our head in the door and get an answer quick.
+Nurse: Oh, well, that's nice. Convenient
+Patient: Is one can re two appointments.
+Nurse: Right. Absolutely.
+Patient: Is fantastic about keeping very scheduled appointments for him and stuff like that. All of us were wonderful.
+Nurse: Good. I'm glad that's good to hear. Right. Well, so do you, do you think you would mind a call? I mean, I do have an every other month call, an every three months, every six months, if one of those would sound better. Plus give him a nurse he could reach out to at any time.
+Patient: Hm. We already have that here though.
+Nurse: Ok, that's fine. Do you mind if I just send out a letter that has the information and a phone number in case you would need anything
+Patient: That would be fine. I appreciate that.
+Nurse: Ok. And is the address still the [PHI-Geographic] and [PHI-Geographic]? Yes,
+Patient: Ma'am. It is.
+Nurse: Ok. All right. Well, thanks for calling me back today. Thank
+Patient: You. You're
+Nurse: Welcome. Bye bye
+Patient: Bye.

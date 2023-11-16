@@ -1,0 +1,16 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi. Uh, this is [PHI-Personal] mcdonald.
+Nurse: Hi, how are you? All right, you, I'm good thank you. I'm just getting your chart all pulled up here real quick. All right. So what can I help you with that in a moment?
+Patient: Uh, you called me and said to call back?
+Nurse: Oh, let me see. Uh, see, I have left a message. It looks like on the [PHI-Personal], what day was that? That was last Thursday might have been like an old message. Possibly. I'm not sure.
+Patient: Oh, maybe I, sorry about
+Nurse: That. No, that's ok. Um, is there ever, is everything going ok, so far? Yeah, it's ok. Yeah, I know. I think last time we spoke, did you meet with the, um, the North Side care team?
+Patient: Yes, I did.
+Nurse: Ok, good. So, is it kind of just like getting set up with therapy or? What was the,
+Patient: Well, I guess it was an as assessment and they, uh, gave me an appointment for, for therapy and first appointments and another assessment?
+Nurse: Ok. So lots of assessing. Ok. Oh, yeah, let me see here. Let me take a look at my last thing. Ok. Oh, and then also, I believe you asked me also about the dermatology referral, right? Because you have an appointment tomorrow. Yeah. Yes.
+Patient: Ok. Matter of fact, they just got through calling me, I didn't, ok, call them back yet.
+Nurse: All right. They're probably just calling you reminding you of your appointment. Um, but it does look like they were able to, um, send all that information over there to them and fax because I know that um they needed the referral and all that good stuff so it does it does look like they were able to send that and everything. Um and I think you also have a neurology appointment coming up. It's towards the end of the month on the 20
+Patient: Fi Yes
+Nurse: I do. All right, perfect. Well if um there's anything else that comes up later on just feel free to give me a call and let me know um and if not I'll call you maybe sometime next week and just touch base. Alright. Alrighty have the rest of your day. Bye
+Patient: Bye.

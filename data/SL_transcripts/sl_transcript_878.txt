@@ -1,0 +1,5 @@
+Nurse: Good afternoon. How can [PHI-Personal] help you?
+Patient: Yes, with Corsa on, [PHI-Personal]m sorry, [PHI-Personal].
+Nurse: Ok. May [PHI-Personal] ask who's calling? Can you give me your first and last name?
+Patient: [PHI-Personal] sure can. My first name is [PHI-Personal]. My last name is Durani, D as in David, [PHI-Personal] as in Robert, [PHI-Personal] as in Oscar, [PHI-Personal] as in boy, [PHI-Personal] as in Nancy, [PHI-Personal] as in Israel, [PHI-Personal] as in [PHI-Personal].
+Nurse: All right. Hang tight for me. Ok, thank you. You're welcome. Ok. Hey, Steven, she'll give you a call right back. Ok, thank you dear. You're welcome. Have a good one. You too. Bye bye bye bye.

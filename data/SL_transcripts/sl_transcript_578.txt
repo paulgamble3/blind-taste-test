@@ -1,0 +1,9 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] calling back. You left a message. Yeah.
+Nurse: Ok. Let me pull you right up here, back up here. Ok, [PHI-Personal]. So I called today on a recorded line because it looks like you qualify for Doctor [PHI-Personal] new care management program. And so what that is, is a nurse that would be able to give you a call to see how you're doing. The nurse is able to answer any questions, help refill prescriptions, she'll address any issues you might be having and also help with appointments, referrals and lab work, things like that, the program, it helps keep the doctors updated and all the calls the nurse makes, they are documented and sent to the doctor for review. They're also treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays.
+Patient: And also,
+Nurse: Yeah, I see you have the [PHI-Personal] Advantage and the [PHI-Personal]. And so you wouldn't have a copay for the phone call. So that's good. So essentially they're a once a month call from the nurse, but you're able to call her directly as many times as you might need to. Would you prefer a morning or an afternoon phone call?
+Patient: Um, either one I don't, I can always leave a message.
+Nurse: Right? Ok. And so I could send you out a letter. Are you still at [PHI-Geographic] s Circle in [PHI-Geographic]? Yes, I am. Ok. So I'll send a letter out that has the information, plus the nurse's phone number and then I'd get the nurse within the next week or two and she'll reach out to you. Ok.
+Patient: Ok.
+Nurse: All right, Mary. Well, that's all I need for today. Thank you for your time. Thank you. You're welcome. Bye bye. You too. Bye bye.

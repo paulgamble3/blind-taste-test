@@ -1,0 +1,12 @@
+Nurse: This is [PHI-Personal]. Hi, [PHI-Personal]. Uh, this is [PHI-Personal]. Usually, uh, checks in on me from time to time. Sure. Is she there or are you covering for her today?
+Patient: Um, you know, I am covering for her today. She's off on Monday. So, yeah, sure.
+Nurse: I, I just need to check because I thought I had an, an appointment, uh, rescheduled for doctor, uh [PHI-Personal] on the [PHI-Personal]. Is that tomorrow? Is that
+Patient: Right? Let me take a look here and I'm sorry, what did you sa what did you say your full name was again?
+Nurse: Sure. First name is [PHI-Personal] with a K, last name is Napper. N A double P I er,
+Patient: Ok. And a double P you said? Yes. And what is your date of
+Nurse: Birth? Uh, November 29th, 1955.
+Patient: Perfect. Ok. Ok. So we're looking for follow up appointment. Mhm. Um, well, I see an appointment scheduled with your primary provider on [PHI-Personal]
+Nurse: In January. Yeah, it not December. Ok.
+Patient: Yeah. And then, yeah, that's at, um, [PHI-Account] 30.
+Nurse: Okey [PHI-Personal], that's what we'll go with.
+Patient: All right. Is that all that you needed today? It is. Ok. Perfect. Well, just give us a holler if you need anything else. Ok. Ok. All right. Yeah, thank you.

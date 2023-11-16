@@ -1,0 +1,60 @@
+Nurse: Good morning [PHI-Personal]. This is [PHI-Personal].
+Patient: Hi, how are you? I'm not good. Oh, no. What's going on? Oh, my. I was, I took my trash out and played out. It's supposed to be ugly the next three days and yesterday was really bad. I, my, my ankles and legs are starting to swell. My right leg aches and I have hot flashes. I have chills. I, I just, I, I'm tired. I don't know. I just wondered about this medication for BP. Oh, it's coming down. Can you hold on a minute? Of course, hold on just one minute. I'm gonna take my BP now. Ok. Ok. Ok. I'm back. It was just, it was a little high today. 1 [PHI-Account]/[PHI-Account]. But it's been real good yesterday. It was 1 [PHI-Account]/67. Before that. It was 1 30. 0, I don't have my other paper. I had to start another paper. It was down to 1 20 something. It's been, you know, coming down. But I, I don't know. I, I just wonder if there, it is a side effect from that darn medication. It, it
+Nurse: Possibly could be sometimes amLODIPine can cause swelling. Um But you know, so let me, let me get some more information here and we'll get it all over to [PHI-Personal]. We're going to make that decision. Ok. Ok. All right. So, um last time we talked, you had a little bit of swelling, but you did say you were drinking a whole lot more than you probably should have, right? And
+Patient: You cut me back.
+Nurse: Yeah. So cut you back to normal. So, wanted to give that a chance to kind of process through before we made any changes or assumptions that it was the medication. Um, now, are you still having leg swelling
+Patient: Just a little bit right now? Yes. And I, I've been sitting on my chair with, you know, my legs elevated, but I never, never in my life had swelling in my, in my ankles and my feet, the top of my feet. And I don't know, I'm more out of breath right now, but I had to, uh, you know, gather up my trash and take it out. So, but I don't know, I just, I feel tired yet and I was wondering, maybe I could do away with one of those pills, you know, she increased it to two. maybe I could get rid of one of those. Yeah.
+Nurse: So let me get all this over. Unfortunately. Um, fatigue is a very common, um, side effect with this medication as well. And, you know, you might have been that might be what this is coming from. Um uh it's doing great with your BP though. So I do wanna, yes. So I do wanna give her this message and let her know everything that's going on because if we cut it back then your BP is gonna go up. So she may wanna do something else instead. Ok. Um So when you, when you look at your feet, when you grab your feet with your fingers, do you have any in denting? That forms?
+Patient: Say that again like
+Nurse: When you go to grab, when you grab your feet with your hands and you like put a little pressure with your fingers on your feet, does it, does it dent in a little bit
+Patient: Just a little? Ok. And it does
+Nurse: It go away? Does that go away right away?
+Patient: Yes. On the top of my foot. Yes.
+Nurse: Ok. Perfect. If you notice when you grab your feet and that dent doesn't go away and it starts getting deeper. That is something that we'd want to know right away. Ok. Oh, ok. If it's because that means that you've got a little bit more fluid there than you did before.
+Patient: Yeah. Ok. And last night I see I was up every hour last night in the bathroom. Oh I don't know. I'm ready to give
+Nurse: That. Probably you. That was probably your body's way of going. There's too much fluid here. We gotta get rid of
+Patient: It, but I'm not drinking as much. I,
+Nurse: No, but you retained enough.
+Patient: I was what?
+Nurse: You were retaining that water. 000, that's why you were swelling.
+Patient: Oh, yeah. Yeah. Yeah. I, swelling is, I don't go much in the daytime but at night I do, some nights are worse than others. Last night I was up every hour. But, oh, I don't know. I'm just frustrated. I, I just, oh, I wanted to ask you, does this, um, um, de dehydrated, does that linger on? Do I still have that? No,
+Nurse: No, no. That was just a, just that day and the next day probably. Oh,
+Patient: Ok.
+Nurse: De you? Yeah, dehydration is cured pretty quickly with, with increasing your fluids that it's like a day or two and you should be good. Oh,
+Patient: Ok. That's what I was wondering. But, oh, my, some days, I guess some days I'm good. But then the next day, like yesterday, I mean, I, I'm just so tired and, like, I get hot flashes and I get chills and, but it isn't every day. So, I don't know. I'm ready to call it quits. Don't do that yet. No, I, I don't want to because in six weeks I'll be [PHI-Personal]. I keep thinking about that. Maybe that's what's bothering me. No, not really. I, I saw my son on Saturday. I went up there, I had a ride in his golf cart and I felt tired then and I said Oh, and he helped me in on it and off of it and because I knew yesterday was going to be ugly and, uh, but I was tired then, but I just wanted to go up and, and see, you know, because I knew it was going to be ugly for a couple of days. So, um, ok, you want me to call [PHI-Personal]?
+Nurse: No, I'm gonna send all of this over to
+Patient: Her. Oh, I thought you meant. Oh, that's good.
+Nurse: Yeah, you don't have to do anything. Oh,
+Patient: Ok. I thought that's what I thought you meant. I was supposed to call her. So. Oh, that's good. That's good. So, and then my back was hurting so much. My back was hurting so much. But now, uh, yesterday it was better but I've been reaching high in my cups in the kitchen and years ago, the chiropractor that my sister and I went to always said, never, never reach up to the top shelf in your kitchen cups because it's going to hurt your back. So, uh, I've been, I did that and then I think I told you about my car the, when it's been so on me and, and when I went to the passenger side to get my purse and my BP monitor out. I, I had one ft on the ground, one ft on the sidewalk and I lost my balance and I fell back into my car into the passenger side and I thought maybe I just twisted my back a little and I thought maybe I did that to my leg too. But, um, because my right leg is a little sore but it, it, uh, swells up, it feels tight and it kind of aches. So, I, I don't know. Are
+Nurse: You doing any stretching? Are you doing any, um, heat or ice for your back?
+Patient: Mm. Ice. Yeah. No, the heat will
+Nurse: Help relax muscles. Ice will help decrease inflammation if you have any. Oh,
+Patient: Ok. Well, I could put that on my leg. Yeah. Ok. But now I don't mind my back today yesterday. It wasn't too bad but, oh, some days, uh, it's just my whole back hurts. So I, I don't know, but I have been reaching up and my son said mom, don't you have a grabber, huh? I said no, I should get a grabber but I don't usually put things up high that I have to really reach. You know, it's, uh, it's probably my age [PHI-Personal]. I've been probably
+Nurse: All three combined. Yeah, I,
+Patient: I've been so good all these years but now, and usually when my birthday comes around I get more depressed and, you know, I, it just anyway. Ok. Ok. I was gonna call you later and, uh, so II I had to call into my, my nephew and I, it was flashing when I came in and I thought maybe it was [PHI-Personal]. I was surprised when it was you. But I'm glad it was because I was going to call you a little bit later. So, fatigue does go with, ah, that medication. Uh, it goes
+Nurse: With a lot of medications. It's one of the very common side effects from it. Um, but since that's your, that's the newest medication and you're just starting to feel this way after that medication. I do want to let [PHI-Personal] know.
+Patient: Yes, because maybe I could get rid of one of those little pills and just take the one with the regular one I was taking.
+Nurse: Yeah. Well, that wasn't enough for you before. So they said she might wanna try something different. Um, but I don't, I don't know what she's gonna recommend until I get all this information over to her. Ok. Now, I do see they did change your appointment. You're going to see her again on the [PHI-Personal]. I
+Patient: Know that's a long time off. Yes.
+Nurse: Yeah, I know. Unfortunately that it looks like it had to be rescheduled a couple of times
+Patient: Here. Yes. And she, uh, she told me to keep a record of my intake of water. Oh, my gosh. That, that's a nuisance. You know, because I take medication five times a day. I drink eight ounces of water. That's 40 ounces. And then you said my meals, I eat two meals a day. So that's 16 more ounces. So that's 40 [PHI-Personal] ounces. That's plenty of water, isn't it? For the day
+Nurse: You said [PHI-Account].
+Patient: Yeah, the [PHI-Account] more be [PHI-Account]. Ok. Yeah, because don't, don't usually say [PHI-Personal] ounces, eight glasses, eight ounces, [PHI-Personal] ounces. And that, that's what I've been doing. Yeah. Yeah. Not, not the [PHI-Personal] just the [PHI-Personal]. I've been, you know, drinking that. So,
+Nurse: Yeah, that should be good. Ex, previously, the, the problem was you went out to the fair. It was really hot. You didn't have much to drink. You were walking around, that's where you ended up dehydrated. But you, but you re rehydrated yourself. I don't know why. That's a tongue twister to me. Um But you did that, that next couple of days. So you're back to your baseline now? Oh, ok.
+Patient: Ok. I was wondering, yes, I'm so sorry because I, I ever went out there. I almost didn't go but it was so hot and I was in the sun. I did, I was just about half sick. I had to stop the police station and [PHI-Personal] and sit on a bench and I wouldn't be like this if I would, would not have gone. But uh that's
+Nurse: Not necessarily true. Your BP was still high before you went. So I don't think this was a trigger. I don't think this was the reason that you were having BP issues. I just think they kind of got it to a point where we definitely had to address it but, 00.
+Patient: Oh, I
+Nurse: Don't think this was, yeah, I don't think that caused it by any means. Oh, it didn't help it but it didn't cause it,
+Patient: No, it didn't help. But, but I, I shouldn't have gone because I didn't really enjoy it. You know, I didn't, the further I got it, it was hot and I was in the sun. So. Ok. Well, um, I'll, uh, get off here and now what did I tell you? My BP was 1 53. I didn't write it down. I have my paper. One
+Nurse: [PHI-Account]. Over [PHI-Account]. 1
+Patient: [PHI-Account]. Over [PHI-Account]. Ok. I'll put that in my sheet. I am doing that. Yeah. 1 [PHI-Account]/[PHI-Account] yesterday. It was 1 [PHI-Account]/67 the day before 1 30/76 the day before it was 1 20 something and a couple of times it was in the 1 20. So that's coming down. That, that's good. So, ok. Is, is that I don't have any other questions? All right. Well, we'll go
+Nurse: From there and if anything changes, you give me a call back. Ok.
+Patient: Ok. And thanks a lot for calling and, and take, taking care of me.
+Nurse: Of course. Well, I'm always here for you. Ok.
+Patient: Yes, I know. You're so good and kind. So. Ok. Well, you have a good day. Isn't this weather terrible?
+Nurse: We needed the rain.
+Patient: Yes, we did. That's true. We did so.
+Nurse: Ok. Now, so and that's not snow?
+Patient: Oh, I know, I, I dread that. Well, I I, you know I'm ready to stay inside when it's snowing, but I did wanna get all my trash cleaned up because it we won't see the sun until Thursday. He was saying this morning. So it's gonna be showers Monday, Tuesday and Wednesday and breezy and so. Alrighty. Well, I'll talk to you later then.
+Nurse: All right. Well, you have a very good morning. Ok.
+Patient: Ok, you too. Thank you. Uh bye bye bye bye.

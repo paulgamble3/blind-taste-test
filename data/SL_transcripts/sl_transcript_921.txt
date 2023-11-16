@@ -1,0 +1,4 @@
+Nurse: This is [PHI-Personal]. May I help you? Hi, I was calling [PHI-Personal] [PHI-Personal] just a moment. She has stepped away from her desk for a moment. Can I have her give you a call back?
+Patient: Yes, [PHI-Personal] [PHI-Account].
+Nurse: All right, I will let her know. Thank you. Thank you. Bye bye
+Patient: Bye.

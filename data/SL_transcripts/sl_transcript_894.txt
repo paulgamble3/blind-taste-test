@@ -1,0 +1,78 @@
+Nurse: This is [PHI-Personal], one of the nurses.
+Patient: Hi. Um, this is [PHI-Personal].
+Nurse: Hi, how are you? Thank you.
+Patient: I'm fine. Um, I'm in [PHI-Geographic] right now. Um, and the problem I'm running into is I only brought enough medication for like, eight days. Ok. And depending on what happens with the storm, I might not be able to get home for a while.
+Nurse: Ok. Um,
+Patient: So,
+Nurse: Um, so the office is closed.
+Patient: Ok.
+Nurse: Uh, so there's no one there to do any prescription refills. So you're going to have to, um, call the office directly and speak to the on call, I believe. Um, because they, they closed at noon time. You may be able to, I, I think with the storm you can check with the pharmacy. They may fill it for you because of the storm or give you like a few days supply to hold you over. So, um, you may be able to do that with your pharmacy. Talk to them. They may be able to give you like a few extra days of your meds medications that you need. And, um,
+Patient: They're just, I don't have any here. Mhm. Yeah. Like I said, I have enough for like, seven or eight days. But then I will be in trouble. Should I just wait and hold off until I get lower or?
+Nurse: So? You have seven or eight days left, right. Yes. Ok. Um, they may be back in the office on Friday. I can ask which medications do you need? Um, they're not there now, so I won't get an answer today. But, um, but you can also in the meantime, reach out to your pharmacy and see if they'll give you maybe. Um,
+Patient: Well, I don't have a pharmacy here yet. Ok. All right. Because,
+Nurse: Well, do you use like a CV S, you know, where they can transfer the prescriptions? There's a Walgreens. Ok. And what do you use back home? Um, Publix? Ok. Um, I'm not really sure if you use Publix because they don't have Publix in [PHI-Geographic]. Right. No, they don't. They don't. Yeah. So, um, you can ask them to transfer those prescriptions over or, uh, I'm not really. Or you can contact Publix and see if they can send you a few days. Uh, I'm, I'm not really sure. So. Oh, ok. So what happened with the IC U? They discharged you next day?
+Patient: Yes, they did. Um, I wasn't having any symptoms and my pulse rate had gone up somewhat. So they figure I just have a low pulse rate and if I have some, any symptoms then go to the emergency room and I've been feeling fine. In fact, I went to my endocrinologist, um, [PHI-Personal] in the morning before we left to come up here. Uh, and she prescribed, uh, what is it? Tru [PHI-Personal]? Ok.
+Nurse: Let's see. Right. So, I'm just going into your chart, [PHI-Personal]. Yeah, I'm surprised they discharged you with a, with, because you, you had pretty low pulse readings. Yeah. Are you supposed to be following up with your cardiologist? Yes. Ok. And which medications are you, uh, in need of?
+Patient: Well, see, that's the problem. It's pretty much, I have plenty of them at home. I just, you know, there's so many bottles and all. I just didn't bring the bottles I brought enough for, let's see, a week and three or four days past that because I figured we'd be going home, um, Sunday or Monday.
+Nurse: Ok. The only problem is you might have to pay out of pocket if you're not due for refills.
+Patient: Yeah.
+Nurse: Mhm.
+Patient: So, and some of them are very expensive. Mhm. Ok. Well, then I will call the Publix down there and see what they say.
+Nurse: Yeah, I mean, I can request the refills. It's just, that's fine. I can do that for you. You have your [PHI-Personal] up there? You, you were, I started on
+Patient: The [PHI-Personal] I don't need is I've got, um, two full weeks worth of it because it's a, once a week injection.
+Nurse: All right. So, [PHI-Personal], do you know what the dosing is on? The injector.
+Patient: Uh, yeah, it is that 0.75 MG slash 0.5 ML. And
+Nurse: That's weekly.
+Patient: Yes. Ok.
+Nurse: All righty. So I added that to your medication list and you need, um, which pharmacy is this going to,
+Patient: Um, Walgreens on [PHI-Geographic] in [PHI-Personal], [PHI-Geographic]? Mm.
+Nurse: And when are you due to come back
+Patient: On Sunday or Monday? Unless there's a problem with the house down there because of the hurricane because, um,
+Nurse: You don't have any, a family member that can go to your house and, um, send you your prescriptions like next day them or
+Patient: No. Ok, because if we don't lose power and the house isn't destroyed, then we'll be going back on Sunday or Monday. It just depends.
+Nurse: So you can try Goodrx too to see about getting your prescriptions filled for cheaper without, you know, the insurance. So I would also call the Pharma, I can request it. Like I said, nobody's there. Um, I would call the pharmacy too as well to see if they, you know, if there's anything they can do. Ok. So you need norvasc, the amLODIPine.
+Patient: I would need basically other than the, um, last one. The [PHI-Personal] I would need. Well, see, I don't know because I've got enough. Yes. You know, the house down there is ok. Otherwise we'll be staying up here for a little while.
+Nurse: So, what do you want to do?
+Patient: I don't know. I don't know. I'm thinking, I'm thinking of waiting. Ok.
+Nurse: How, how many, how, when, when will you run out?
+Patient: Let's see, today is what? Tuesday? Uh, probably a week from Wednesday or Thursday. Ok.
+Nurse: So, so by the fifth, I'm sorry? So, by the fifth of [PHI-Personal] you'll be out of medications up here, right? E exactly. Just, you'll be out of your medications by the fifth.
+Patient: Um, yeah, probably.
+Nurse: So, do you wanna call Publix and see if they can send over, um, transfer like a few extra days of all your prescriptions? Um, yeah,
+Patient: But I think I'll wait a day or two. Ok.
+Nurse: All right. So you wanna wait and see? Well, we're
+Patient: Fine here. Ok, in [PHI-Geographic]. So,
+Nurse: So do you wanna follow back up with me on Friday then? Yeah, I can do that. Ok. All right. So why don't you do that in the meantime? I will call the pharmacy and see what options they have as well.
+Patient: Ok.
+Nurse: Sounds good. Um, and then follow up with me on Friday to see, um, what's going on with that? And do you have a follow up appointment with the office?
+Patient: Um, I don't have any appointments. I didn't make the cardiologist appointment yet because we were going out of town. Um, so my next scheduled appointment is in [PHI-Personal].
+Nurse: Ok. So I can make you an appointment. You shouldn't wait until [PHI-Personal] to see the doctor because you had, I'm
+Patient: Not planning on it. Yeah, I was, I was gonna make an appointment. Yeah.
+Nurse: And then as far as the cardiologist, the only thing about that is, um, yeah, I wouldn't wait because you, you know, it could take time to get in with a new provider. So, oh, I
+Patient: Got one that I've been going,
+Nurse: That I will. Ok.
+Patient: So,
+Nurse: Oh, that's right. You do have a cardiologist because they did talk to the, um, they did talk to the hospital also. So, that's right. You do have one. Will you be back on [PHI-Personal] 6th or will you still be away? Do you think so long as
+Patient: Everything is fine from the hurricane? I will be home by then?
+Nurse: Ok. All right. Do you, do you want me to push it out to [PHI-Personal] 18th?
+Patient: Yes. Ok. Let's do that. Well, [PHI-Personal] 18th is, oh, wait a minute wrong, wrong month. That's fine. No, [PHI-Personal] 18th is a Tuesday.
+Nurse: Yeah, 9 15 on a Tuesday.
+Patient: Ok. Ok. We'll send that to Doctor
+Nurse: [PHI-Geographic]
+Patient: [PHI-Geographic]. All right. So let's do
+Nurse: That. Just bear with me. I just gotta fix one
+Patient: Thing. Mhm.
+Nurse: Ok. All right. So you're all set for [PHI-Personal] 18th at 9 15 with the 9 a.m. arrival time for uh follow up. I, like I said, I would call over to Publix and see if you know there's a way for them to transfer a few days or over to um Walgreens. Um we'll follow back up on Friday. So, and if for some re if your, um, pulse, you know, goes lower or you have symptoms, you go to the hospital out there. Oh, yeah. Yeah.
+Patient: So you know that, yeah,
+Nurse: Not really. Uh, let's see, I'm trying to see if they put anything else in there because I don't, oh, I didn't have access to it. That's right. Because you went to, um, was it Memorial or Saint [PHI-Personal]?
+Patient: I think it was memorial. Ok.
+Nurse: Yeah, I didn't have access to the um, I didn't have access to the discharge. So, um, alrighty. And then uh if you have any questions or concerns, I'm still on the phone 8 30 to 4 Monday through Friday after hours. Um, the office is obviously closed but there's probably an on call on covering if something should come up. Yeah. So, yeah, you know, going forward just maybe just take the whole bot off. So you don't run into the stress of this for next time, you know. So, you know, it's, it's hard because of the storm. So,
+Patient: Yeah, that's the only, you know, major problem. Mhm.
+Nurse: So by
+Patient: Wednesday or Thursday, know what's going on there. What is it? I said by Wednesday or Thursday we should know what's going
+Nurse: On. Right. Yeah. So, and the office is scheduled to be closed until Friday. So I'm hoping that to sign by then it's, you know, hopefully it'll be better by then. So, and then you, um, you'll have your follow up, you'll call your pharmacy to figure it um, if there's anything they can do and then so that we don't have to pay out of pocket for everything. Follow up with me on Friday. Um and let me know the office should be opened, um, and then just continue to monitor your symptoms. If you have um, you know, irregular heartbeat, chest pain, difficulty breathing, uh worsening bradycardia where it's going even lower then you, you know you go to the hospital. So. Yep. Alrighty.
+Patient: Sounds
+Nurse: Good. All right. Thank you so much for returning my call. I appreciate it. Oh, thank
+Patient: You. Ok,
+Nurse: Feel better.
+Patient: Thanks. Bye bye bye bye.

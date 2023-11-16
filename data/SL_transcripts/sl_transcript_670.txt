@@ -1,0 +1,40 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Yes.
+Nurse: Let me get your chart pulled up here. [PHI-Personal]. What's your birthday sweetie?
+Patient: 11, 18 51. Ok.
+Nurse: Give me just a second and I'll get everything pulled up. Oh, yes. It looks like I was just giving you a call to check in and see how things have been going over the last month. Sweetie.
+Patient: Yeah. Well, it's been fine. I've been out of town. I went to my granddaughter's up in northern Indiana. Uh huh. Excuse me? And stayed there a couple of weeks. Oh, how
+Nurse: Fun. Wonderful. Does she have any kids?
+Patient: No. No. Oh, I wish it did then I [PHI-Geographic] that I just had baby boys the other day and me and my son was gonna go there and thank God we change our minds because they're having blizzards and 20 inches of snow and windshield low.
+Nurse: That's not somewhere you wanna be right now. [PHI-Personal].
+Patient: I, well, in fact I was happy to come home from up there. She's about 40 miles north of Fort [PHI-Personal]. Uh huh. And they had some good days, but it was pretty cold up there too.
+Nurse: Oh, goodness, goodness. And you're coming back to [PHI-Personal] here.
+Patient: II, I gotta get back to the warm weather. And then when I pulling into my drive I saw uncles bloomed everywhere and I said, oh my, I, I'm a flower person and last year I get to plant any flowers so to see these and come up and then I'll be able to do some flowers this spring. Oh,
+Nurse: Good, good, good. That's, and it's happening so early this year.
+Patient: Oh, I know we're about. So I sent a picture of them to my daughter and I said, look what greeted me when I got home. She says I was looking all over for animals and, and then it hit me with the flowers. It was the flowers. Yeah, I had too, but that's not what I'm excited about.
+Nurse: Well, and the frogs are already going. My goodness.
+Patient: I'm, I'm out there in the country and, um, uh, some people call it the ghost farm because they're supposed on it out here. And I said, I ain't seen nothing yet.
+Nurse: Hasn't happened to you yet. Right? Um, yeah, I, I live in the country too and I was laying in bed, uh, not last night, night before. And I heard the frogs and I thought my goodness. Isn't that beautiful already?
+Patient: Yeah, we've got a horse and a pig and somebody says you better hang on to that pig. You might have to eat it. And I thought, oh God, I think I could do it. And then we've got, uh, dogs and cats. Yeah. Yeah, you
+Nurse: All sound like us. We've, we've got, we don't have a pig yet. I'm sure the kids will eventually talk me into that. But, you
+Patient: Know, we took this one away but, um, pretty good size. He was supposed to be small and they say pot beel pig, they did not stay small.
+Nurse: He got big and, and rotten. Right.
+Patient: Yeah. And I was telling my granddaughter one day I said, oh, my God, you need to do something with that pen. It looks like a pig pen and he's building my shelter three or four times and he's just tore everything apart.
+Nurse: Oh, my goodness. They do. They do, they tear through everything.
+Patient: Yeah. So it's a mess. Yeah. And I do have an appointment Monday.
+Nurse: Yes. Yes, I all,
+Patient: Yeah, I just Ozempic but I'm not sure if I'm gonna have the money to pick it up before I go to the doctor.
+Nurse: Well, and I don't know. That's what I was gonna ask you. I don't know if you're gonna be able to find it. I've had several patients telling me that their pharmacy was out and really they weren't sure when they were going to get stock back in. Uh,
+Patient: Yeah. And I were just talking about it being out. So I'll have to call a pharmacy and see. Yeah. Yeah. And $40 a month this year it's 45 a month. I said I couldn't afford the 140 but able to, um, the other.
+Nurse: Right. Right. That's a big difference. That's a huge difference. Um, but if, if they're out of stock and, and don't have a date of when they can get it back, let me know and, um, I'll see what we can come up with but, you know, running out, just make sure you're watching your blood sugars. Um, a little closer than you normally have to, you know, with running out, um, doing, you know, I know diet's hard but with you try a little harder on the, on the diet, you know, do a little more.
+Patient: I do. I don't eat a third of what I used to eat. Yeah. So, uh,
+Nurse: That, that Olympic seems to take care
+Patient: Of the appetite. Yeah, I told my granddaughter by her scales it looked like I hadn't lost any, but I hadn't gained any. So I guess that's a good thing that
+Nurse: You went on a trip and didn't gain anything.
+Patient: That's amazing. I hope it stays that way until I get in there. Monday. I know. I know.
+Nurse: Me too. I'm hoping for you. Uh, but let me know, um, [PHI-Personal], if you can't get that Ozempic and, um, we'll, we'll see what we need to do. Ok. Ok. All right. Is there anything I can do for you today? Sweetie? Anything you need?
+Patient: Oh, I think everything's in good shape. Ok. All right. Planning to take it easy for a couple days now. Yep.
+Nurse: Get your rela coming. All right, sweetie. Well, you let me know if you need anything and I, I will if you don't, I'll give you a call next month. Ok.
+Patient: Ok. Nice to,
+Nurse: Nice to talk to you. Have a good day, sweetie.
+Patient: You too. Thank you. Bye bye.

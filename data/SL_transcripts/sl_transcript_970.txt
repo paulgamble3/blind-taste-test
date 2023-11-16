@@ -1,0 +1,10 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. I'm sorry to bother you. I just pulled the number for general, the number that was written on the referral and, um, they do, they do, the testing is done through outside. They're gonna send me to another TG. And I don't want, I don't wanna be spreading myself. I rather keep it inconclusive to where I'm being treated anyway. I call you and of course, you know how they be, you gotta wait for them to return the call. I was just calling to see if you can email them and let them know that I need to schedule an appointment because it takes like up to, she said 3 S3 days, 72 hours. And that, that's a lot, that's a long time. Um,
+Nurse: For the, uh US. F
+Patient: Yeah, for the, for the preliminary function test.
+Nurse: Got you. Ok. Yes, ma'am.
+Patient: I figured you can email them and hopefully it'll be a shorter.
+Nurse: Yeah. Yes, ma'am. Not a problem.
+Patient: Thank you. I'm calling diagnostic now to schedule my.
+Nurse: Thank you, my love. Yeah, you're welcome.
+Patient: Bye bye bye bye.

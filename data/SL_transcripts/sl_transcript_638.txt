@@ -1,0 +1,10 @@
+Nurse: Care Management. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is Barb. [PHI-Personal] was just checking in. Hey, how's it going? Uh, well, I fell down last week in my bathroom and broke my hip. Well, I didn't break my hip. I broke my femur and I'm in urt Health Care Center, but I didn't know if the office was already notified or anything. Yes, I
+Nurse: Think we were Barb, I had that on my notes. I was actually going to call you yesterday and then I saw you were in the hospital and you had been sent to rehab. How's it going?
+Patient: Yeah, I'm in rehab. It's going good. We're just waiting for the bone to um, heel around the steel rod he put in, got you so I can walk on it. But I am getting around in a wheelchair and doing physical therapy and it's, it's all
+Nurse: Good. Good. Well, it sounds like you, you sound good. So hopefully they have, you know, pain is, is well controlled.
+Patient: Uh Yeah, there's not a whole lot of pain. Ok. Good. Believe it or not. I don't have a lot. It's just uncomfortable now. And yeah, hopping around on one ft. And being stuck in a wheelchair. Right. Well, keeping a walker, but I'm, I'm getting good at the wheelchair thing. Yeah.
+Nurse: Good. Well, keep going with your therapy. You're in the right place. So hopefully they can get you straight and get you home as soon as possible. Ok. All right. You give us a call when you get home and let us know, you know, if you need anything or we can make you a follow up appointment in the office if you need to.
+Patient: Ok. All right. Thank you so much. Thank you. You have a good day. Take
+Nurse: [PHI-Personal]. All right. Bye
+Patient: Bye.

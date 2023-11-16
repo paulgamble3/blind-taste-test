@@ -1,0 +1,13 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. You just called me? Oh, I
+Nurse: Did. How are you doing? How, how is
+Patient: Things?
+Nurse: Ok. Good. Good. Um, let me pull up your chart here. So I was calling to let you know that doctors are starting a new program for care management and what it is is a nurse can kind of give you a call every so often just to check in with you to see how you're doing, how you're feeling and if there's anything we can do for you refill meds, go over lab work or even send messages to doc to let him know, you know how you've been in between your appointments and I was just wondering if that's something that you may be interested in.
+Patient: Yeah, that, yeah, that sounds good.
+Nurse: Ok, good. Good. I see. You have the, the GHP uh, gold insurance, right? Yep. Ok. And do you have a secondary insurance
+Patient: As well? No.
+Nurse: Ok. All right. I will put a note in there that there's no secondary and then, um, I wanted to send you the information just so you have it as well and at the bottom we'll have the phone number for the nurse that'll be calling, it'll have her direct number too in case you ever need her as well. I have 16 [PHI-Geographic]. Is it ki please? How do you say it? Kilos? I didn't know if it was not very [PHI-Geographic]. All right, I will send that over to you just so you have the number too. Ok.
+Patient: Ok. All right. Well we'll
+Nurse: Talk to you probably about a week or so. I'll have the nurses give you a call and we'll go from there. All right.
+Patient: Ok, thank
+Nurse: You. Alright, Miss Debbie, thank you for calling me back. I appreciate it. Ok. All right. Bye bye bye.

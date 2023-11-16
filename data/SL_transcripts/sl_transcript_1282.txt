@@ -1,0 +1,46 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal] and I'm returning your call.
+Nurse: Hi, [PHI-Personal], how are you? I'm fine, thanks. Good. Give me one minute just to pull up your chart. Ok.
+Patient: Ok.
+Nurse: All right. So you're a patient with doctor at [PHI-Geographic], is that correct? That's correct. All right, perfect. Um, so I do just need to let you know real quick that this call is going to be recorded for training purposes. Ok. All right. So the reason why I was calling was to talk to you about Dr S New Care Management program. Are you familiar with that program at all? No. Ok. So the Care management program is something new within [PHI-Geographic] General and it consists of a phone call from a care management nurse that works hand in hand with doctor. That nurse would call you at your convenience in between your appointments. Um, they would check in with you, make sure you're feeling well, but also to ensure that no new issues or problems have come up in between appointments with doctor [PHI-Personal]. You would also be able to contact your care management nurse directly if you ever had any medical questions or concerns and they would also be able to assist you with things like refills, test results, appointments. Um Pretty much anything along the lines with your health care your nurse would be able to help you with if you were to need that. Ok. So it is a billable service to [PHI-Personal], [PHI-Personal] Advantage and secondary insurance plans and the calls are subject to deductibles, copays and coinsurance. Now you have [PHI-Personal] primary with a ARP secondary. Is that correct?
+Patient: I have plan. Yeah.
+Nurse: Ok. And no copays when you go to the office. Is that also correct?
+Patient: I think that's right.
+Nurse: Ok, great. Then you should not be responsible for any out of pocket cost for the calls from your nurse. And then just so you are aware, you would be able to choose the frequency of those calls. You could choose to get those calls monthly or you could choose to get those calls separated in between your appointments every three or every six months. And doctor will always get documentation of those phone calls sent to her as part of your medical record for review. Ok. So do you think that you would prefer a call from your nurse in the morning or the afternoon, afternoon? All right. And is this the best number for your care management nurse to reach you at?
+Patient: Yes, it is. But I have um because of solicitations, uh put a service on my phone. So it blocks all my incoming calls that are not contact list. Now, I don't know if this call was on my voice mail that I got from you. And so fortunately I did call you back. Mhm. But it was blocked. So, um, I need to put the, in my contacts so that the nurse can get through. I'll need a, a specific number so that they can call me from that number and it will come through on my, on my uh contacts. Sure.
+Nurse: I'm gonna actually mail you her phone number so you should be able to enter that into your phone. Ok, super. And then um, so your address, um, so I can mail you that information. I have [PHI-Personal]. Is it long way
+Patient: Way?
+Nurse: Yes. And that's Brandon [PHI-Geographic]. 33511. Yes, ma'am. All right, perfect. So I will mail you out that information and I will finish everything else on my end. And your care management nurse should reach out to you for your first call in the next few weeks. Ok.
+Patient: Oh, that'll be good. I just took a fall and broke my hip and had a hip replacement.
+Nurse: Oh, my goodness. How are you feeling?
+Patient: Spectacular considering. Um, my, I had been on a, a big program. I put myself on a couple of years ago and so I was doing steps and I was going to the gym and I was really getting built up and doing really well, I lost about 60 lbs and, um, I just, you know, it was all about my health and, um, I'm turning [PHI-Personal] this year. So I figured, ok, now my family is gone. Now, I don't have a job so I can do this. So I really, uh, was in pretty good shape and I tripped and fell when I went out to walk late at night, which was ridiculous. But anyway, um, I did fall and when I did it, um, my hip was, was fractured. So, Doctor [PHI-Personal] with the [PHI-Geographic] orthopedic group is the one that did the hip replacement. I was at [PHI-Geographic] General and, um, it's been about a month since that happened. So I'm walking and I was up and walking within a week. Wow, that's incredible. And my people at therapy were like, what? You're amazing. So, that's not good. I was really, I was really feeling like I was glad I was really glad that I had gone to the trouble of doing all this work out and everything else that I had done. But because I was working out is the reason I fell.
+Nurse: Right. Right. So, it's like a, that's bittersweet, huh?
+Patient: She has a two edged sword. But I had been going to the gym, I had fallen once before and I thought, ok, I'm going to the gym to do this and I was just running late that night. I had gotten up to 10,000 steps so I was doing like some of the steps from my house and then some at the gym, but it was just dark that night and I should not have gone and I, um, I'll never forgive myself for that. I need to get over that. But anyway, that's what happened. And, um, I was just running late and I went out and did that. But thank goodness, I wasn't, like I say, I didn't hit my head. I didn't uh get any worse injury than I did and I'm coming back from it. So it's, but it, this is good because I really felt like, uh I didn't feel like I had a contact, a true contact with doctor. So, so this will help.
+Nurse: Yes, absolutely for sure. Yeah. Um, and I am glad to hear that you are on the mend and that you're feeling well and um, yeah, I, like I said, I'll go ahead and get this set up with you for you. I'm sorry, but did you say morning or afternoon calls?
+Patient: Afternoon,
+Nurse: Please? Got it. Ok. I just wanna make sure I document in there. Um, but yeah, um, like you said, it could have been much worse. So,
+Patient: Yes. Yes. And you know, all the, you know, everything you hear about people that fall and break their hips and I thought, well, great, this is like the kiss of death everybody's telling me, you know, I'm like that's not gonna happen. This is me coming back one more time, you know, but it's just a slow process. I just was able to drive to my PT classes. Um, uh, yesterday I've been driving my doctor crazy because I didn't have any PT, uh, transportation. So, you know, finally he's letting me drive and so it's, it's coming together. That was the biggest hurdle I've had with all of this. It's just getting to and from my, my PT. but it
+Nurse: Sounds like it sounds like it's just getting better and better for you. And I wish you
+Patient: The best of luck. Now I'm feeling positive about it, but it's just, uh, really, this is, this is perfect. This is like heaven. So because I like that.
+Nurse: Yeah. Good, good. I'm glad. And, um, like I said, I continue, I wish you continued. Good luck in good health. And, um, yeah, best of luck to you.
+Patient: Well, thank you. And, um, you, uh, ok. So now can you before you mail this to me? Do you wanna give me that information over the phone? So, are you allowed to do that?
+Nurse: Yeah, I can give it to you over the phone. Give me one second to get back in that part of the chart
+Patient: Here. Ok. And I'm gonna write it down and that way if it, if it gets lost in the mail, which sometimes things do, um, I'll have it.
+Nurse: So I don't know what your care, management nurse's name is going to be, but I can give you her phone number.
+Patient: Well, that's the main thing that I'll have to put in my, my, um, my contacts. So, care management is what I'll put it in as, and the number is
+Nurse: [PHI-Account], [PHI-Account],
+Patient: [PHI-Account].
+Nurse: Yeah. [PHI-Account]. Ok. Ok.
+Patient: And if that changes I'll be notified by mail or, or how will I, how would I be notified?
+Nurse: So it's that, that phone number should not change. Um. Ok. Yeah, and if it does you, your nurse would, would definitely give you that information, but it should not change at all.
+Patient: All right. So I have [PHI-Account]. Correct? Ok, I put that my, I'll put that in my phone.
+Nurse: All right, sounds good and look forward my, um, look forward to my information in the mail.
+Patient: Ok. And when will I hear from her?
+Nurse: So typically they reach out to new patients within 1 to 2 weeks of this initial call? Ok. Ok.
+Patient: Ok. That's about the time I'm gonna be wrapping up, I think with doctor [PHI-Personal]. So that might work out just perfectly.
+Nurse: Ok. So, yeah, that would be good timing.
+Patient: Yeah. Ok. Thanks a
+Nurse: Lot. You are welcome a lot. And I, like I said, I wish you the best of luck.
+Patient: Well, have a good day. Thanks you so much for your call. Ok,
+Nurse: You are welcome. Bye now.
+Patient: Thank you. Bye bye.

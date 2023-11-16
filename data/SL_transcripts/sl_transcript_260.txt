@@ -1,0 +1,33 @@
+Nurse: Exa speaking, how can I help you?
+Patient: Um Hello, this is uh Doctor Pri's office, isn't it?
+Nurse: Uh This is uh uh satellite office for doctor. How can I help you?
+Patient: I needed to get a message to him or his nurse regarding uh glucose test strips. Would you get a message to the nurses there or somebody in that office?
+Nurse: Yes, I can actually help you with that. What's, what's your name
+Patient: Name is Burns Mearns Robert [PHI-Personal]. Y
+Nurse: I'm here, sir. And you just need a refill on your test
+Patient: Strips. That's right. Now, here's the thing. He apparently uh uh wrote a prescription over to CV S for test strips for glucose test strips. And the people there at CV S say they need to have it sp name specifically. Um, they didn't know which kind of order. And so what I, so
+Nurse: When did this take place on yesterday? Because I'm just a
+Patient: Little while ago uh
+Nurse: Today. Ok, because he sent something in yesterday. It says one touch ultra test strips. Is that the name of your meter?
+Patient: That is the one that I need. Now, I'm not sure if that's what the, uh, person at the desk there at Doctor [PHI-Personal] office, uh, thinks is the type that I need, she is going to leave a message for, uh, a nurse or somebody to call me when they had a chance. And I know everybody's busy there and probably wouldn't have a chance today. But I've, I've kind of wanna keep this thing going and if she could be, uh, uh, uh, set straight that it is indeed one touch ultras, that'd be wonderful. And then if, if, if that prescription could be sent to, uh, the CV S at one [PHI-Geographic] of the bay, then I could pick them up. Does that make any
+Nurse: Sense? Yes, sir. It's one [PHI-Geographic] of the bay or because, uh, the one I'm looking at is six [PHI-Geographic] of the date for your pharmacy. So, it's one of the, that
+Patient: Must be six [PHI-Geographic] of the bay. Ok. Let me, uh, let me see. Ah, it's one on [PHI-Geographic], [PHI-Geographic] on there.
+Nurse: Uh, let's see. Hold on.
+Patient: Do you know doctor Pri or do you know his office? Yes, sir. Ok. It, his office is, is there, uh, uh, on tro, I'm sorry, it's not his office we're looking for, we're looking for. Yep, we are, it's going to be, uh, uh, [PHI-Geographic], that office there.
+Nurse: Well, no, we're looking for CV S, that's what I'm speaking of CV S.
+Patient: Ok. Uh, is the road isn't it? Yeah. What is the address? One [PHI-Geographic] of the Bay. Yes, it's the pharmacy at one [PHI-Geographic] of the bay.
+Nurse: Ok. Ok. And we're just need to make sure that they're, they're saying that it doesn't say one touch ultra test strips. That's what you're saying that
+Patient: It does say we need the one touch ultra because uh,
+Nurse: Right, that's what we needed to
+Patient: Say. Just six [PHI-Geographic] of the [PHI-Geographic] is, is where it Yeah.
+Nurse: Ok. Yeah. Ok. Ok. Well, I'm gonna give them a call because the uh script that they sent over on yesterday has the one touch ultra strips on there. So I'm not sure why they're not giving it to you.
+Patient: It does have it on there. That was just, I don't know what's wrong with the CV S folks there. She read.
+Nurse: Yeah. Yeah, but I'm gonna give them a call to see if maybe they need us to do something different. But it does say that on there. Well,
+Patient: Ok, so you can call the pharmacy
+Nurse: There. Yes, I'm one of the nurses. So we just have, we help out all, we work all in combination with each other. So I'm one of the nurses that works with doctor as well, but I just don't work inside the
+Patient: Office. Got you, got you. Well, then uh I have been over to the CV S place several times a day trying to chase things down to both CV S. In fact, So, um, this last time I just wanna make real sure that they've got the instructions right.
+Nurse: Yes, one. And I'm gonna give him a call. It
+Patient: Sounds like uh the doc put it right. Yeah, if you called it one, I don't know what, what it is with the CV S lady, but if you could just make sure she has that right. That'd be good.
+Nurse: Yes, sir. I'm gonna give her a call, uh, just now as soon as we hang up. Thank you very much. You're welcome and I hope you have a great day.
+Patient: Thank you. You too. Bye bye bye
+Nurse: Bye.

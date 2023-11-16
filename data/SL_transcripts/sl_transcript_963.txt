@@ -1,0 +1,38 @@
+Nurse: Care Management. This is nurse [PHI-Personal]. How can I help you?
+Patient: Hi, this is [PHI-Personal] Ter giving me a call back.
+Nurse: Oh, yes. Thank you so much. Um Can you just verify your date of birth for me, please?
+Patient: [PHI-Account].
+Nurse: Thank you so much. I am calling because I have you and um your wife on my Oh, excuse me, hold on one second. Do I have your your spouse listed? Give me just a second. I wanna see if your spouse is my patient as well. Oh no sir. I just have you down. Um I am just calling to get you introduced to the Care Management program is now a good time. Ok, thank you. So basically what the Care management program is is I would be giving you a call. It looks like you're set up for once every three months. I would just be giving you a call checking on you in between your doctor's um appointments, answering any questions you might have helping with medication refills, things like that. Um You wouldn't have to wait for me to call you. You could always call me say for example one morning you wake up feeling pretty gross and crummy. You can give me a call. I can walk you through some steps to try to help you feel better at home or I can help you get in with the office. So, would you like to keep it at every three months or do you wanna go to monthly or what would work best for you?
+Patient: Oh, every three months.
+Nurse: Ok, great. And with the care management program, I'll be sending you out a list of what's called annual Wellness Goals. Those are the things that you do throughout the year to help you stay healthy. Things like um getting your flu vaccine if you get those, any preventative care that you're due for things like colonoscopies, um prostate screening labs, things like that. Your list will be um catered and customized to the things that you need to have done throughout the year. Um Do you have a second to complete? Um um so we can go over your med list.
+Patient: Yes. Um Do you have it there or do you want me to get it?
+Nurse: I have it. So you can just let me know. Yes, if you're taking it or no, you're no longer taking it. Ok, let's see. Um Are you still taking a low dose aspirin every day? Yes. Ok, great. And atorvastatin
+Patient: I'm gonna say yes.
+Nurse: Ok. Co
+Patient: [PHI-Account]. Yes.
+Nurse: Um Entresto.
+Patient: Yes.
+Nurse: Ok, great. Um [PHI-Geographic]
+Patient: And that's for my uh is for my uh BP. Right.
+Nurse: Let me double check. I'm not too familiar with that one. It is for your blood sugar.
+Patient: Oh, yes.
+Nurse: Ok. Great. Um, Metformin. Yes. Metoprolol or metoprolol. Depends on where you're from, how you call it.
+Patient: Um, yes.
+Nurse: Uh, nitroglycerin as needed.
+Patient: Yes.
+Nurse: Omeprazole for heartburn.
+Patient: Yeah. As far as I need it. Mm. Ok. [PHI-Personal]. Yes. Ok. Um,
+Nurse: Sildenafil as needed.
+Patient: What's, what's that,
+Nurse: Um, Viagra or it's generic?
+Patient: No. Ok. Don't take it anymore and the other one as needed.
+Nurse: Mhm. Um so that's the one I have you down for as needed and are you still taking vitamin C and vitamin D? Yes. Are you still taking spironolactone? Ok. What's that that one is for um BP but let me I have to remember its name brand. Give me just a second
+Patient: And that's one mg. Correct? Yes,
+Nurse: That one is Aldactone is the name brand for it.
+Patient: Yes. Ok.
+Nurse: Thank you so much. And uh do you need any medication refills or any diabetic supply refills?
+Patient: Oh, I'm I'm good right now.
+Nurse: Ok, great. All right. So I will go ahead and get that care plan um sent out to you like we discussed and I'll be giving you a call back in three months if you need anything. You can always call me before then. Ok.
+Patient: Ok. Sounds good. Great.
+Nurse: Ok, you have a great day. You're very welcome. Bye.
+Patient: You too. Bye bye.

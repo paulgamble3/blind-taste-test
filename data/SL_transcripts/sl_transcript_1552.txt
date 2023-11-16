@@ -1,0 +1,17 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. How can I help you? Uh, yes,
+Patient: I have just called and they don't pick up at the front, front office. Oh,
+Nurse: No. Ok. Well, let's, let's give it a shot then we'll just try to do it here. Ok. This is for [PHI-Personal],
+Patient: Right? [PHI-Personal] and all.
+Nurse: Ok. All right. How about [PHI-Personal] at two o'clock,
+Patient: [PHI-Personal] at two o'clock, [PHI-Personal] [PHI-Personal] at two o'clock. Ok. He said it's
+Nurse: Ok. Is that ok? All right. Let me put him in here. Hm. Now, is this considered like a one month check up or any idea?
+Patient: I think it's more like a six month.
+Nurse: Ok. Ok. I got him in there and then let's see here. What is spell your name for me?
+Patient: Uh, it's [PHI-Personal].
+Nurse: A Llal. I ce bear with me here. Get you pulled up. Oh, ok. And your birth date?
+Patient: [PHI-Personal], it's, uh, [PHI-Account].
+Nurse: Ok. And then we're gonna put you in with him. That sound we can do [PHI-Personal] for you too. Is that ok?
+Patient: Yeah, that's great.
+Nurse: Ok, let me get into the schedule here. Mhm. All right. And we could put you in at 2 15. Ok. And would this be, this is going to be your first visit? It'll be my first visit. But, ok. Is this like a, is this going to be a yearly physical for you or? When was the last time that you had saw doctor [PHI-Personal]? Uh, the
+Patient: Doctor usually had me in, uh, twice a year. I just, I just saw my heart doctor like a week or so ago so I don't know what I need to come.
+Nurse: Yeah we'll put you in for a physical exam under. Yeah we got you there. Ok. Yep. Ok. Alright so we have him in August 1st at two o'clock and then you at 2 15. Ok. Alrighty thank you bye bye that.

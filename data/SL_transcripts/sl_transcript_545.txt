@@ -1,0 +1,49 @@
+Nurse: This is [PHI-Personal],
+Patient: Uh, hi, re, this is, uh, returning your call from a couple of days ago.
+Nurse: Oh, ok. How are you doing? I'm
+Patient: Doing good. Good for the delay.
+Nurse: Oh, that's all right. What's up? Well, I was just calling about the care management program that we have you enrolled in.
+Patient: What is that, [PHI-Personal]?
+Nurse: Um, well, uh, it's, let me see how many months you're down for, let me just get your chart pulled up.
+Patient: Ok.
+Nurse: Ok. Looks like you're down for a call once every three months. Um, and so what we'll do is we call every three months just to check on, you see how you're doing, make sure you don't need anything. Um, and then in between calls, if you need anything, you can always call, um, unlike your own personal nurse. So you need medications, refilled appointments made have questions, concerns about anything to do with any of your medications or your health. You just give me a call, um, and I'll help you get it taken care of,
+Patient: Uh, when I need refills. Uh, do I call, like, like I used to or not?
+Nurse: Uh, you can, if you want to, if you're more comfortable with that. Um, I'm, I'm just an extension of his office. So, whichever one you like better is fine.
+Patient: Oh, I see. So you'll be calling me every three months to see if I'm, if I'm ok. Huh?
+Nurse: I sure will. Ok.
+Patient: Is this that the AC O program or something? Yes. Ok. I just got the, uh, I got the bolted in the, uh, in the mail the other day. I was just reading it. Oh, ok. I don't see your picture in here.
+Nurse: Oh, man,
+Patient: You're missing out.
+Nurse: Um, so I will be sending out a care plan to you. You'll get that next week and it'll have my name and phone number. No picture. I'm sorry. Um, um, and it'll have a list of wellness goals from your provider on it. So, our wellness goals are just things like go to this doctor's appointment, get this blood work done. You need these immunizations, you know, that kind of thing. Ok.
+Patient: Sounds good to
+Nurse: Me. All right. Do you have a few minutes to go over your medications? So, I just want to make sure that what I have is up to date.
+Patient: Yeah, I have time. Uh huh.
+Nurse: All right. Would it be easiest if I read them to you or if you read them to me,
+Patient: Why you read them to me? Because I can't pronounce half of them?
+Nurse: All right. That works for me. Um, do you use a pill box or? Anything. A, what? A pill box?
+Patient: Yeah, I use a pill box. Uh huh.
+Nurse: Ok. All right. So, I've got, uh, Tylenol arthritis as needed.
+Patient: Yes. But, yeah, as needed. Yeah, I haven't taken that for months. Months.
+Nurse: Ok. And then I've got aspirin dipyridamole.
+Patient: Uh, that depends. Uh, it's, uh, what I'm taking now is Aggrenox. Aggrenox Aggrenox that has the aspirin and primal in it. But what you just quoted there, I used to take back uh, before [PHI-Personal] and, uh, now I take uh Aggrenox in lieu of that. Ok. I don't know if it's, I don't know if it's the same thing on your chart or not. Do you have Aggrenox on there
+Nurse: For it? It's the same medicine. Yeah. Ok. Do you take that twice a day? Yes. And it's 25 200. Yes. Ok. And then I have atorvastatin 10 MGS once a day. Yep. Losartan 100 mgs once a day. Ok. Uh Vitamin D three, 5000 units every other day.
+Patient: Yeah, I'm not regular with that, but I, that's about right.
+Nurse: Ok. And then I have pioglitazone 30 MGS once a day. Yep. Ok. Do you take anything else? Nope. All right, beautiful. Yep.
+Patient: Drink your beer once in a while.
+Nurse: I think I'll keep that off your medication list for now. Do you need any refills?
+Patient: No, I just got a, uh, uh, an email to, uh from CV S to uh, refill. I'll do that via mail Oh, ok. Yeah, they, they just sent me a periodically, they'll say your, uh, medications need refill and I'll just say go ahead and do it and they do it.
+Nurse: Beautiful, beautiful. Um, so I do see here that at your last visit, um, with Doctor [PHI-Personal], you asked for a referral to nephrology to a kidney specialist. Did you get that appointment?
+Patient: Yes, I go in. Uh [PHI-Personal] I think [PHI-Personal] the [PHI-Personal], do you have that down or you need that?
+Nurse: I just wrote it down.
+Patient: Let me make sure that's the [PHI-Personal] [PHI-Personal]. [PHI-Personal]. Yep. I have an appointment with Doctor [PHI-Personal] at 1 p.m.
+Nurse: Beautiful at 1 p.m. Good. All right. Let me see here. What other specialist do you see?
+Patient: Ah, not, not nobody that a regular, uh, I haven't gone for that, uh, gone to [PHI-Geographic] once in a while, but I stopped doing that. They didn't wanna see me anymore. Uh, but right now the only one I'm going to is, uh, to see Doctor [PHI-Personal]. Ok. Does, uh, going to the casino count?
+Nurse: Um, no, unfortunately not. Ok.
+Patient: So we'll leave that off. All
+Nurse: Right, we'll leave that one off too. It does look like you have an appointment with Doctor [PHI-Personal] on [PHI-Personal] 1st at 10 30.
+Patient: Yes. What that is? That's a blood test. Ok. That's just a blood test because when I went there, uh, some of my kidney, uh, uh, levels were, what should be up, was down and what should be down was up. And that's why I recommended. I mean, I asked for a referral to go to a specialist and, uh, he didn't know when I was gonna get in. So he suggested that I have blood work done on [PHI-Personal] the first and that's what I'm doing. Uh, having some blood work done. Uh, I guess it's for my kidneys.
+Nurse: Ok. All right. Wonderful. Is there anything I can do for you today?
+Patient: No, I think we're ok.
+Nurse: All right. Well, then I will talk to you in three months unless you need me.
+Patient: Ok? Thanks for this call.
+Nurse: No problem. You have a good day. You do the same. Bye bye bye.

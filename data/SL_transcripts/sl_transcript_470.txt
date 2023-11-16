@@ -1,0 +1,67 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] Post. And you called about, uh, something called Care Management or case management for
+Nurse: [PHI-Personal]? Yes, ma how are you doing this morning?
+Patient: Oh, pretty good,
+Nurse: Good. Let me see if I can bring up his chart. Doctor [PHI-Personal] wanted us to reach out and go over the care management with him. Um, and what it is, it is on a recorded line, but he is wanting his designated nurse to give, um, [PHI-Personal] a call once a month just to go over how he's feeling if there's any concerns that have come up or any questions, um, or need any prescriptions, um, or any refills. And then the nurse is in direct contact with. Doctor [PHI-Personal] keeps doctor up to date in between office visits with his health.
+Patient: Ok. I, I don't know how you're gonna to reach him when he's not at coffee. He's out working in his building. Yes. I don't know. Uh, I'm not sure how you're gonna reach him. Ok, I guess you can call me and I, I've got a, a answering machine. Ok,
+Nurse: We can do that. Let me make sure I, your, so I have two numbers. I have the [PHI-Account].
+Patient: Yes, that's the home phone.
+Nurse: Ok. And then I also have [PHI-Account]. That's
+Patient: His cell phone. Ok.
+Nurse: Um, is number that we should call the home number?
+Patient: [PHI-Account] has an answering machine if, if you call it. But, uh, e [PHI-Personal] if you call it and I tell him he's not gonna be able to reach you. I know I didn't know he won't. Uh, you know, so I
+Nurse: Don't, the nurse can come and talk to you if you, if,
+Patient: Ok, that's probably be the best. Yeah, I'm usually here now. We're, I, I will tell you though, we've added the cardiac rehab and I'm gonna be so glad. Boy, there's a lot. You have to go 18 times. Oh, my goodness. And it is a lot. You go three times a week for six weeks and we have, uh, Friday and then one more week and, oh, boy, we're both gonna be glad that's done. I think it is good for him. But the bad part about it is he's not able to use his legs very much because of his knees. But he is working his upper body.
+Nurse: Wow. So, have you been able to tell a difference?
+Patient: Oh, I don't know. Um, he always did have pretty good strength. I think that has gotten a little better. I don't know about his heart though. Um, we did go see doctor. I, I don't know. Uh, I'm not, not sure he's gonna be the best doctor for [PHI-Personal] because he really doesn't show much interest in, you know, in him. Uh, I, I don't know what to do. Now, there is a doctor to Ball that comes from [PHI-Geographic] to the HUD Clinic on Wednesday. Um, and he is in touch with the doctors at [PHI-Geographic] City. Would you think that would be something that we should maybe look into if
+Nurse: I, I mean, I would think I would if you feel like he's not getting the care that should.
+Patient: Well, this is his comment. He, he was in the office to see him and he didn't do it. They always listened to his breathing and he uh said his little heart thing was doing good and he looked at his legs and then he said, now, do you have any questions for me or what questions do you have? And he asked us that twice and we asked a couple of questions and then uh he said, OK, um he said, let me go out and I'll set up some appointments. He wants to run a echo on his heart, but we're not going to do that until [PHI-Personal]. And then I heard him tell the nurse tell him he can see any doctor he wants to. Now, I, to me that just sounds like he's done. I mean, you know. Mhm. I thought that was kind of a rude comment to make definitely
+Nurse: That kind of weird,
+Patient: But he is rude. I find him to be very rude. Uh, but I know you're not comfortable
+Nurse: With the doctor.
+Patient: Well, you know, I mean, it's ok, I guess I just, he's different than what we're used to. I mean, doctor, well, he was always wanting to try different things, you know, and doctor [PHI-Personal], he said, well, yeah, let's get into that cardiac rehab. Well, now that we're in it, he said, yeah, that is a good thing. But when we first mentioned that to him, he said, oh, he said, I don't think it's gonna work. Uh, you know, it, it's just like I'm not sure whether, you know, he cares or not, but I mean, we don't really have much choice. I'm not gonna say anything and don't put anything in my, you know.
+Nurse: No, I
+Patient: Won't. I, I know you've probably heard this before about him because I, we at that cardiac rehab, uh, most of them have had ment because that's all they could get. Yeah. But, uh, I, I don't know if that's his, just his attitude towards us. Maybe he knows we're not, you know, real impressed or something. But I don't know. I, I guess we'll go in [PHI-Personal], we'll, we'll wait and see in [PHI-Personal] he will actually do something, you know, like that echo. And then in [PHI-Personal] we're supposed to go back and uh check on the results of that. I know. I don't understand why we're doing the test in [PHI-Personal] and not going back until [PHI-Personal]. Uh, you know, he's gonna make us wait weird. The whole thing is weird. But this doctor to all, if I knew that he wouldn't quit, you know, he comes from [PHI-Geographic]. Have you heard of him?
+Nurse: I have, but I don't know. What about him?
+Patient: Ok. Well, most people say he's a very nice person and very good.
+Nurse: I know finding a good doctor means everything.
+Patient: So, yeah, so I don't know what we're gonna do. We're probably, well, we made two appointments. We might as well, uh, keep them when we got there the other day. They said, well, no, you canceled your appointment and I looked at them and I said what I said, no, we didn't. And they said, yeah, you called and canceled. I didn't, I did not. I had the card here and that's why we showed up. Wow. Yeah. So I do not know what's going on in that situation, but there is no other doctor. Have you guys gotten any closer to getting one? Not that I'm aware of? Yeah. See, that's the problem. And then if that doctor to ball would decide not to come anymore, then we'd be stuck. Oh, so, uh, yeah, but anyway, I guess we're gonna, uh, [PHI-Personal] says, well, let's go ahead and go to him. He said maybe it'll get better and, and it might. Right.
+Nurse: You know, we can hope.
+Patient: Yeah. Really, if he is that way towards everybody. I'm really surprised the clinic keeps him.
+Nurse: Yes, definitely. It's
+Patient: However, I know they have to keep whatever they can get because they're not able to get anybody. Right. It
+Nurse: Is very difficult. Yeah, because they have to go through credentialing and everything else.
+Patient: Yeah. Yeah. But anyway, I don't know about this management. I guess that would be ok. Um, you know, I kind of know, uh, he, yesterday he worked up a sweat, he walked out of the hospital and he came out into his truck and he turned the air conditioner full of blast and he's just hot as he could be because he's really working. That guy worked him hard yesterday, all of them, there was about, there's about six people in his class and he likes his class. He likes that. Oh,
+Nurse: That's good. Sounds like he's enjoying it. So, that's a really good thing.
+Patient: Well, yeah, it's just getting old, you know, 18 times. It'd be nice if you could do, like, say half of that and then, uh, stay off a couple of months and then maybe do the other half. But I'm not getting one thing done at home. Yeah, I like enough is enough. I know. Well, we're going to see, uh, I, I just would like to see because when they, uh, look at his heart, um, in [PHI-Personal] I think Doctor [PHI-Personal] will be able to see whether it's, uh, you know, strengthened it or has done it or, you know, whether his heart's getting a little stronger. He also told us, he said, no matter what, if it is stronger, he said I am going to treat it the same, the medicine will stay the same. 00. So, uh, and then I'd probably understand that too because, I mean, that's, the medicine is probably what strength is helping strengthen it. Yes. Yeah. But anyway, that's kind of where we're at on it now. We're, uh, I really don't, uh, you know, Doctor [PHI-Personal] has really come around now for a while. We weren't sure that, you know, Doctor [PHI-Personal] wanted to try to treat him because, you know, it's kind of a, they're like, oh, well, you know, we know the end result, you know, it's just, you know, and, but he has gotten much better. He will actually sit down and talk to us and we like that now. Well, that's good. Yeah. Yeah, he needs,
+Nurse: That's gonna sit and explain everything.
+Patient: Yeah. And he's trying, you know, like we talked about the, uh, high sugar level now, um, when he has, I think his next appointment with doctor is in [PHI-Personal]. I would like to have that blood, uh, thing run to see if his, uh, sugar level is down.
+Nurse: Yeah, it looks like it's [PHI-Personal] the
+Patient: First. Ok. And I think it's a fasting, isn't it? Yes. Yes. Yeah. They'll know they'll be able to tell when that. Now, do they ever check his A one C or is that not something? They think they
+Nurse: Should let me see if they,
+Patient: If anything's,
+Nurse: It doesn't show it on there, but they should be checking that. Yeah, it is. It was on there. He had it done actually. Yeah, it's ordered in here for, ok. Good.
+Patient: Yeah. Good. Because he did start on some medicine for it. And I wanted, I was anxious to see whether that medicine has helped. I did notice one thing. He used to drink water. Oh, my gosh. He couldn't get enough. Now, I've noticed that has, since he started taking that medicine that has slowed down quite a bit, you know, he still drinks water but he doesn't have that, uh, you know, thirst that he can't drink enough. Uh huh. So, maybe it's helping that, that medicine it worked before. But they took him off of it for a while. But then they put him back on and that, well, just see, you know, we're gonna just have to try some of this stuff. Wow.
+Nurse: Well, it sounds like it might working though. Well,
+Patient: That's what I thought because, you know, he used to drink, he never was without a bottle of water. Well, now he drinks so a lot, I mean, he still drinks a lot of water but not near that much anymore. Oh, wow. So it'll be interesting to see if that medicine made that much different.
+Nurse: Definitely.
+Patient: Yeah. So, but anyway, I don't know what to tell you about that. Uh, that would be fine if you wanna reach out and try to call me. If you do, I can and you talk to my answering machine, I can call you back. Yes,
+Nurse: Definitely. Was gonna do too. Is I'll mail a letter that will have the nurses direct phone number on here as well. And, and so if you do miss her call, you can reach her back or if anything comes up that you need, you could reach out to her as well.
+Patient: Oh, yeah. Ok. All right. Well, as far as we know, uh, they checked that little thing and if, uh, you know that little, uh, uh, what do you call it? Pacemaker thing? Defibrillator. They checked that, um, it's working fine. Uh, uh, they told him, well, doctor said that, uh, he only has AFIB 1% of the time. That's the first we've ever heard of that because all the doctors have said you have terrible AFIB. And so maybe, I don't know if something happened, maybe. Wow. Yeah. So, uh, you know, we'll just have to see, um, maybe that's
+Nurse: Finally working. Right.
+Patient: Well, yeah, it must be because, uh, uh, he, he told us that only 1% of the time he has that AFIB and he said that's not much at all. He said that's good. Really? Wow. Yeah. So that's
+Nurse: A really good
+Patient: Thing. Yeah. So some things are starting to come around a little bit. Uh, if his knees weren't so bad I, he could really get on that machine and, and, uh, work it, I think. But, you know, with his knees he has to let them, uh, just kind of rest on the frame of the machine and he just works his upper body but it must do something because he was hot yesterday.
+Nurse: He's definitely gonna work out.
+Patient: Yeah. Well, uh, for him, yes, I mean, you know, somebody who doesn't work out very much. Yeah, that is a work out. But, uh, anyway, yeah, you can just put me down and, and send us a letter and tell me what you want me to do if, uh, he isn't home and we'll go from there.
+Nurse: Ok. That sounds good. And I'll get mailed out to you too. Ok.
+Patient: Yeah. Now, I don't know if you're going to put anything in the chart. Do you put anything in the chart?
+Nurse: No, we just put the letter, we call letter that we mail to you that actually has that and then once the nurse calls, then she puts her in, but I don't put anything on my side.
+Patient: Oh, ok. Yeah, because I don't, don't put anything about in there because he already know. Not at all. We'll, we'll see how, maybe as time goes it will get better, we'll see it
+Nurse: Took us, I won't put anything in there.
+Patient: Yeah, it took us a little bit to get used to doctor [PHI-Personal] but once we did why he, he would joke with us and, and you know, we really enjoyed going to see him but uh we'll we'll see how this goes.
+Nurse: Ok. Well hopefully it'll get better. Yeah, I
+Patient: Hope well it can get worse so. Yeah. Yeah that's true. Yeah. Ok, but we'll we'll uh keep in touch with you.
+Nurse: Alright sounds I'll have a wonderful day today. Ok.
+Patient: Ok, you too. Bye thank
+Nurse: You. Bye.

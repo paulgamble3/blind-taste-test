@@ -1,0 +1,13 @@
+Nurse: Hello.
+Patient: Hi. Is this
+Nurse: [PHI-Personal]? Yes, this is she,
+Patient: This is [PHI-Personal]. So, how are you?
+Nurse: I'm good. How are you, [PHI-Personal]? Ok, that's good. Um, I was calling you to do, um, in regards to the chronic care management program that you signed up for. Yeah, I was just calling to, um, for a starter to introduce myself and, um, wanted to see if I could review your medications with you real quick and just make sure everything that we have on file is correct with that. Do you have a few moments to do that today
+Patient: In the doctor's office without my list of medicines?
+Nurse: I'm so, I'm sorry, your phone is blanking out. I couldn't hear you, Mister [PHI-Personal].
+Patient: I'm in a doctor's office so I don't have access to that right
+Nurse: Now. Oh, ok. That's fine. Um,
+Patient: I could give you text it to you.
+Nurse: Um, we don't have a way to text but, um, what was I gonna say? We would be, I could call you back at a better time. So what would be a better time to give you a call back?
+Patient: I would say late this afternoon. 34 o'clock.
+Nurse: Ok, I'll give you a call about 3 30. Ok. Alright. Alright, sounds good thanks. Thank you. Bye.

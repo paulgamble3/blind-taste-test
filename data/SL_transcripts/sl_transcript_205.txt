@@ -1,0 +1,38 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hi, Miss [PHI-Personal]. It's calling, honey.
+Nurse: Hey, how are you doing?
+Patient: Um, hanging in there, honey. I just called the office to get your phone number and they said there's no [PHI-Personal] that works there for them. I said, ok.
+Nurse: Oh, gosh, do you know how many times I get that? It's because I work from home and the, the care management line is a dedicated phone number. So it comes directly to me instead of having to be transferred from the front office to the desk. Um, so it's probably somebody new working the front desk who doesn't know. But,
+Patient: Yeah, well, I searched and searched until I finally found it. So, ok. But, um, I do have a question, uh, kind of a problem. Um, I need a new quad cane. Mine is done for and I, there's no shame for it because it's about [PHI-Personal] years old, if not older. So, but the, what it is is when you hold on to the cane, it's supposed to stay stable, but it goes around, you can move it around. Ok. So I, I need a new quad cane. I was wondering if doctor could call a script into the Millersburg Pharmacy because they're also a, um, DME. Mhm. So, um, I wonder if that would be a problem.
+Nurse: No, it shouldn't be. Um, and are they, the Millers Pharmacy? Is that where you get, like, your attends and, and like, no?
+Patient: Huh? Oh, that's somewhere else. But that's the closest, um, medical equipment place around without having to go to the [PHI-Geographic] area.
+Nurse: Ok.
+Patient: I mean, they can do like, um, bedside toilets, cane, things like that and they could do beds but you have to like, order them. Oh, speaking of bed. Mhm. Um, you know, I told you I had those like, sore areas in the back of my upper legs. Well, I got a blood blister and don't, you know that sucker's open, that came open. Ok. So, um, it was bleeding and going on. So, um, that's what that was about. Mhm. So, but anyhow, it's getting better. Ok. Still a little sore but it's getting better.
+Nurse: Yeah. Um, let's see. Let me just look, pull your chart up here really quick. So, next appointment is [PHI-Personal]. Well, you have your lab appointment on [PHI-Personal] 11th
+Patient: That's over Millers though.
+Nurse: Yeah. Ok. So, ok. And then your actual appointment is with, or with doctor [PHI-Personal] is in October. So we may, um, so when did it open, uh,
+Patient: About two days ago? But when I got a shower last night, my caregiver was checking it out and said it looks pretty good.
+Nurse: Ok. Is there any redness around it or any other damage?
+Patient: No, it's like a pink color, I guess. Ok. But I knew that sucker was sore and then I, I had gotten blood on the, um, toilet seat and blood on the pad up on my love seat. So I knew that was in place the blood could came from and it was about that part of the love seat where I, my butt cheeks and that would be so I knew it was from the back of my leg. Yeah, I just wanna let you know that.
+Nurse: Yeah. And I'll let him know and um, you know, make sure you keep like a zinc whether it's uh Oh yeah.
+Patient: Oh yeah. Yeah. Yeah. Yeah.
+Nurse: Ok.
+Patient: Ok. I'm way ahead of you, honey,
+Nurse: You're on top of it. Perfect. So, yeah, I'll let him know and then of course if it looks like it's getting infected or changing in any sort of
+Patient: Way. Oh, yeah. Yeah, I know to call right away. Yes. Mhm.
+Nurse: Perfect. Ok. So we'll get that and then I'll check and see if because do you still need tens? Like uh well,
+Patient: They had called here and said about they needed a new prescription.
+Nurse: Yeah.
+Patient: So I called called, yeah, I'm pretty sure I did. Yeah, I called the office and they said they were gonna send a script over and I rather they did or not. I mean, I don't know, I don't know if they did or not.
+Nurse: Ok. And I was still looking for your, um, the holter monitor and I called, um, I called to get the copy because your report, it sounds like your report is different. So, yours noted that it needs to, or that you may need a, um, what is it, an ablation or catheter? They had talked about that on the report. Yeah, it looks like it's a cardiac ablation.
+Patient: Yeah, they're trying to get the appointment moved up because they don't see me until [PHI-Personal] and they want to do it as soon as possible and they have me on the cancellation list in case there's any cancellations.
+Nurse: Ok. That's fine. Yeah. So I called them and I requested the, that note to be faxed to our office and it has not been. And then I also have, um, I also have medical records looking into it and trying to get a copy of it as well. Um, so we're just
+Patient: Waiting on, I'm telling you the truth.
+Nurse: Yeah. No, I understand. No, it's more so just sometimes one record will say one thing. So like it'll be the results but there should have been a chart note attached to it of like, you know, whatever the cardio cardiologist have seen, I
+Patient: Can look through my messages and maybe I could, um, email it to you a copy.
+Nurse: Is it in like your, my chart? You know, if it's something that you can like attach to say your um patient portal if you're able to do that. Yeah. And if not, that's ok. Um, I think that would be the easiest is just touch but, you know, I'm working on it and then Ty, in medical records, she's also working on it and we're just, yeah, depending on their office, but it's ok and there's no worries and I'll let him know that, you know, we're just of waiting.
+Patient: Yeah. Ok. Well, I was just checking to see if possibly I could get a new can because it, like I said, there's no shame for it. It's at least [PHI-Personal], 12 years old and it was used very hard. So, yeah, I use that for short distances like around in my living room. And what have you now for longer distances for walking. I use my, my walker.
+Nurse: It's ok. We'll get it going and then, um, and then once we send it I'll let you know, I'll give you a call back.
+Patient: Ok. Thank you, honey, I appreciate it.
+Nurse: You're welcome.
+Patient: All right. Have a good day, honey. You too. Mm. Bye bye. Bye bye.

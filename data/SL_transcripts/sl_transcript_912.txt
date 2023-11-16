@@ -1,0 +1,29 @@
+Nurse: Hi, it's, yeah,
+Patient: Hello. This is with, I got a phone call from you asking you to call back.
+Nurse: Sure. Yeah, it's, uh, yeah, I am your, uh, nurse care manager. I just was giving you a call to introduce myself to you and explain the program. Um, I appreciate you calling me back is now a good time for me to explain it.
+Patient: Uh, yeah.
+Nurse: Ok. Let me get you pulled up here. Give me one second. Ok. All right. Let's get you pulled up here and can you verify your date of birth for me?
+Patient: Uh, 10, 2054.
+Nurse: Ok, perfect. Ok. So I've got you pulled up here, um, one of Sam S, um, patients. So, yeah, I called to just, um, pretty much explain the program and kind of let you know, um, how it works. Um, I do have the preference that you like afternoon calls. Is that correct?
+Patient: Uh, yeah, I usually don't get up that early.
+Nurse: Ok, that's totally fine. Um, so typically I call you once a month in between your appointments with the, uh, provider, uh, just to touch bases with you. See how you're doing. Um, see if you need refills on your medications. Um, just kind of like touch bases and, uh, chat with you and provide education regarding your conditions because if you know better then you do better. Correct. Um, so that's typically what we do. Um, and then if you need anything, you can call me as well, you don't have to wait until you, you know, until I call you, you can always call in. If you have questions, wake up one day, not feeling well or you, you just wanna know about an appointment, any of those things. You can also give me a call as well. Ok. Ok. All right. So I've got, um, [PHI-Personal], do you have a nickname or does [PHI-Personal] work fine for you?
+Patient: Don
+Nurse: Don? Ok. All right. I put that in the chart for you here. Ok. Ok. So I've got that added in your chart there. And how are you doing on your medications? Do you need any refills at this time?
+Patient: Uh, no, I'm good right now.
+Nurse: Ok, good, good. It does look like your last appointment was at the end of the year. It was, uh, [PHI-Personal]. Um, and it looks like, um, it was recommended to you by Sam to limit your salt intake. Um, kind of do the dash diet and increase activity, um, level as tolerated. How's that been going?
+Patient: Um, all right,
+Nurse: It's been going ok. Yeah. Ok. Ok. Are you, uh, monitoring your BP at home?
+Patient: Uh, not really.
+Nurse: Ok. Do you have a cuff to monitor it at home?
+Patient: Uh, no, I don't.
+Nurse: Ok. Ok. Um, so pretty much just monitoring it when you're in the office.
+Patient: Well, yeah, but it hasn't, it's generally been fine when I've been to the office.
+Nurse: Yeah, it looks like your last one was 1 28. Over 76. So, that's good. Yeah, that's not a bad reading at all. Ok. Wonderful there. And then it also looks like you are enrolled in the, uh, bh part of the program as well, which is behavioral health. Um, and it looks like you are on the sertraline for that. Um, how's that doing for you? Do you feel the medication is helping and working?
+Patient: Yeah, I guess.
+Nurse: Ok. Ok. Um, so I will call you once a month to talk about your overall wellbeing as well. Um, as far as the behavioral health goes, there's questionnaires that I ask and, um, kinda check in with you on that as well. If for any reason you feel, hey, it's doing fine. I'm taking my medicine, you know, I'm not feeling depressed, I'm not having any issues like that. No, um, like anxiety or any of that, those type of feelings and it's, uh, too much, we can change the cadence for that as well. So you can say, hey, call me every month about everything else. But as far as the BH or the behavioral health part, um, you can call me every two months or every three months to check on me about that part. So that's totally your option as well. I just want to let you know about that too. Ok. Ok. But if you're ever feeling overwhelmed, you feel like you need to talk or you want some, um, type of, uh, like recommendations for like deep breathing or activities, those types of things. I'm here for that stuff as well. Ok. Ok. All right. Wonderful. So we've got all of that squared away. Um I will get you a care plan letter put together, it will have your goals, your wellness goals for the year. Um And it's just things that [PHI-Personal] recommends for you based on the last time you've had them done um as well as your age. So I will put that in the letter with my name and my contact number as well. Um And it will just say what you're due for. It's not a requirement for you to stay in the program with me, but it is just um kind of like reminders or talking points for things that you might be due for upcoming for like blood work or, you know, uh your wellness visit or a fall risk assessment, which they usually do that at your wellness visit. So those types of things will be in that letter that I mail out to you, but I just want you to know it's not a requirement for you to stay in the program? Ok. Ok. Ok. Any questions so far about everything I said?
+Patient: Uh, no, not really.
+Nurse: Not really. Ok. Ok. All right. Well, I will get that letter out to you in the mail. Um, try as best as you can to do what's best for you. Um, and sometimes it's easier said than done but, um, be patient with yourself on things and, you know, try to continue to limit that salt intake as well. Um And then I will call you again around this time next month. Touch bases with you again and probably get into a little bit more education. But if anything comes up, that's not urgent, you can jot it down question wise and then um we'll talk about it at the next time. I uh reach out to you. How does that sound?
+Patient: That sounds fine.
+Nurse: Ok, wonderful. Well, I look forward to working with you and I'll talk to you around this time next month. Ok. All right. Take care. Thank you.
+Patient: You too. Have a good day. You
+Nurse: Too. Thanks. Bye bye bye.

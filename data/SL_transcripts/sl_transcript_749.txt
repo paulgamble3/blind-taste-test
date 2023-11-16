@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], my name is, um, with doctor.
+Nurse: Ok. Hi, Miss,
+Patient: Um, I have an appointment with him on the [PHI-Personal] and I'm trying to see if he had any cancellations. I could move my appointment up sooner, but when I'm calling the office it's just hanging up rings and got you.
+Nurse: Yeah, let me see what I can find out. Can I get your date of birth here just so I can pull up your chart real quick? Uh, three
+Patient: [PHI-Account].
+Nurse: Thank you. Let me pull that up and this was just like a routine follow up. [PHI-Personal]. Was that what? Ok, let's see here. A
+Patient: So I have [PHI-Account]. I think it is.
+Nurse: Ok. I'm pulling up the appointment book now. Yeah. So I do see that on the [PHI-Personal]. All right. Yeah, I'm unfortunately [PHI-Personal], I'm not seeing anything any sooner. W why, um, why are you looking in to get in sooner? Were you having like an acute issue? No,
+Patient: I have to pick up the air at 3 30 so I know I won't be back in at three, so I know, I won't be back half an hour from the airport. Got you.
+Nurse: Um, what were you could, I mean, I need to see what you're being seen for. Would it be possible for you to do a telehealth visit? I could see if they could switch it.
+Patient: Yeah, that could be fine. I just need my, uh, HumaLOG insulin and just doing a regular check up with him. I'm doing my blood work, um, tomorrow. So I should have my blood work schedule for 7 45 tomorrow morning. My eyes are scheduled for the fifth. So I don't know if he had any appointments later in the day on the fifth.
+Nurse: Yeah. Unfortunately, I don't, yeah, they're just really books on because he's not, he's booking out right now for establish visits. Um, the earliest [PHI-Personal]. So, yeah, I don't wanna put you back that far. So what I could do is, um, reach out to the office and see if you could do just a telehealth visit if you're ok with that. And then that way you don't have to worry about trying to make it to their facility.
+Patient: Yeah, you could just order my log for me. Right.
+Nurse: Yeah, I mean, it's gonna be so like, yeah, it's gonna be a whole visit. Like he's gonna go over your, you know, he'll just call you, he'll go over your lab work, he'll talk to you see how you're doing, et cetera, et cetera. And then refill your prescription so he can do all that at that appointment. I think that'll be easier than trying to make it, you know, like you said, with your, yeah, I
+Patient: Go out of town for a month so I won't be back until the end of July so I really don't wanna miss out
+Nurse: On it. No. Yeah. No, that makes perfect sense. Yeah, let me um uh, what I'll do is I'll just message the office and tell them you know that I think you said you're picking up a friend from the airport. Is that right?
+Patient: Got you
+Nurse: Got you I'll just let them know that you know you'd like to move it to a telehealth visit, you know can they just need to ask [PHI-Personal] Vini but normally he has no problem with that um and I'll just let them know that you need to move it to that so that you can make sure that you're able to you know to make the visit and not be late and everything. Yeah, that shouldn't be a problem and um I'll let you know. Yeah I'll let you know if anything changes or if they have any other you know instructions for you. Ok.
+Patient: Ok. All right and then if he gets any cancellation,
+Nurse: Yeah, I'll keep an eye out for you definitely.
+Patient: All right, thank you. I appreciate
+Nurse: It. No problem dear I'll call you back. Ok. Alright, thanks bye bye.

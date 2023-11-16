@@ -1,0 +1,19 @@
+Nurse: Hello. [PHI-Personal] speaking. Hi,
+Patient: [PHI-Personal]. This is [PHI-Personal].
+Nurse: Hi, [PHI-Personal]. How's everything? Good. Good, good feeling. Well, no problems. No, no. Um, let me get you up on my screen here quick. I know, I, what I did, I call you yesterday or the day before.
+Patient: Yeah, yesterday, yesterday.
+Nurse: Ok. Um, yeah, the day before was Sunday. Um, so last time we talked, let's see. You have doctor on the [PHI-Personal] weight loss. You, you were eating better, you lost about 20 lbs last time we talked, right? Yeah. Um, did you have your carotid duplex? Yeah, you did have that and that was good, right. Um, that's what they said. Ok. How about the breathing? Is the breathing better since your weight loss do you feel? Do you feel your breathing is better? Good. Good, good. That's great. Um, a lot of times that happens when people lose desirable weight and they eat better. They breathe better. So good. Um, no, pa how's your pain? Is it controlled with your meds? Yeah. Ok. So pain is controlled. Um, you have Dr [PHI-Personal], you have Dr [PHI-Personal] on the [PHI-Personal] at 9 15. Um ok. Well, just checking in anything else for me?
+Patient: No, I gotta get a hold of, uh, I got uh doctor to send an order to, to, uh, what's his name over in uh, for colonoscopy?
+Nurse: But I got,
+Patient: They haven't called me, I figured once they got the order they call but they haven't. I keep forgetting to call him.
+Nurse: Who, who is it? Doctor?
+Patient: No,
+Nurse: They're the one who's ok. Um, yeah, there, I feel like, um, let me see here. So you, are you doing? And you need doctor to send an order over or he did send an order? And you haven't heard from the gastro yet? Did he did? Ok. Well, I'll tell you right now, they're backed up, um, pretty far. II, I don't know why but they're, they're backed up a little bit. I, um, recently. So I'd give them a little more time and if you don't hear from them, I'd give them a call. But, um, they are a little backed up because I've had other patients. Tell me the same thing and then they get through and they can't get scheduled for a couple of months. So they're, they're really backed up this time of year for some reason this year. Um, I don't know if they're still catching up from COVID or what the heck's going on. But, um, but I give it a little more time. They probably will reach out to you. If not, I would give him another week or two, I would call them. Ok. And, and then if there's doctor, ok.
+Patient: Got you. That's what I was trying to think of.
+Nurse: All right. Got it. Ok. Um, well, again, let's, uh, give it a little more time and then if you don't hear from them, I would just reach out and give them a call or you could call us back and we could reach out to them too. Uh, you know, whatever you wanna do. Ok. Ok. You're not having any problems, are you? No, you're not having any, um, constipation, diarrhea, stomach. Oh, that's
+Patient: Normal. Bloating. Constipation is normal from the,
+Nurse: You you have. Ok. Ok. Yeah.
+Patient: Yeah, it's mild,
+Nurse: It's mild. Ok. Good, good. And, and you know, um, you could always take a stool softener if you feel like you need to. But, um, yeah, but if you're, if you're eating better and you're having, you know, the fresh vegetables and the fibers and things should help too. So, yeah. Ok. Well, let's, let's, um, give them a little more time and again, if you don't hear anything, either call them or give us a call, we'll call them whatever, you know, I could reach out to them, whatever you wanna do. Ok. Ok. Ok. Do thanks. Oh, thanks mom. Enjoy the nice weather. Yeah.
+Patient: Have a good day.
+Nurse: Ok. You too. Bye bye.

@@ -1,0 +1,88 @@
+Nurse: Hello, this is [PHI-Personal], one of the nurses. Hi,
+Patient: [PHI-Personal]. The,
+Nurse: Hi, how are you?
+Patient: Well, not too happy. They just called again about the, uh, procedure for the heart catheterization. Uh huh. And they want me there at nine o'clock in the morning for procedure that starts at three in the afternoon.
+Nurse: Ok. Did you call them about it or? Ok. Ok. So, is that like a, I don't know what the previous time was. I don't remember one o'clock, one o'clock. Ok. So, now you have to go in for nine instead.
+Patient: Yeah. And the thing is that I said, you know, I said I would like, uh, the doctor to prescribe something for anxiety. She said to me, she said, well, when you go in you just tell them and they'll give you something. And I said that's when, that's 28 days from now, that's four [PHI-Personal]. I said I'm having anxiety problems now and I, you're changing the time now to six hours prior to the procedure is not helping me at all. And she said to go do a PPP.
+Nurse: Ok. Ok. I got it. I understand. All right. Give me one second. I'm just trying to get out of one thing. I apologize. It's
+Patient: No problem.
+Nurse: I'm sorry. Hold on, get out of here. Ok. All right. Let's see. Yeah. How long do you think the anxiety has been going on for now?
+Patient: The anxiety ever since they told me about the procedure, um, it seems sort of up in the air about it and, um, so what happens now is I wake up in the middle of the night and I can't get back to sleep.
+Nurse: Ok. So you're having like racing thoughts? Yes. Ok. Ok. Yeah, worrying about everything. Yes. Ok. All right.
+Patient: Ok. And I, I thought office would prescribe something but
+Nurse: She said was the plan. That's ok. We'll, I'll have to send it over so that we'll have to get you in for a visit, one or the other. I have to see, uh, sometimes they do like the visits because, uh, I like to go through everything.
+Patient: We got the call.
+Nurse: Yeah, let's see. Uh,
+Patient: I was just there last week.
+Nurse: Right. I'm gonna send a message over first. We'll see Monday. All right.
+Patient: You know, follow up at, at, after being in the hospital.
+Nurse: Oh, yeah, that's right. Ok. I forgot about that. Sorry.
+Patient: And, and I said my lungs were clear.
+Nurse: So, yeah, that's right. You just got [PHI-Personal]. All right. So, uh, date of birth 44, 1934 taking all your medications. Ok. Yes, perfect.
+Patient: Uh, and I, and I mentioned to the, uh, well, when I called office about the, uh, three pills I'm supposed to take prior to the operation or uh help with the contrast liquid.
+Nurse: Say it again.
+Patient: I mentioned to her about three pills that they want me to take prior to the procedure.
+Nurse: Oh, the predniSONE. Yes. Yes. For the allergy to the contrast. Yes. OK. Just bear with me. Sorry. No. OK. All right. Um It's coming, the anxiety is coming, going. You don't have it all the time, right?
+Patient: No. If I, if I comes down and just relaxing and then the thought's gone to me, you know.
+Nurse: Sorry. So you're kind of waking up in the middle of the night, kind of worrying about the upcoming procedure. But racing thoughts kind of constant. Yeah. OK. All right. I just want to make sure I'm uh portraying it uh accurately. Um OK. Any feelings, any feelings of wanting to hurt yourself or others. No, because you wanna live after this procedure, right? You want like it to all work out, you know? Exactly. Yeah. So it's just a technicality. So. All right. I'm just gonna do a depression, uh screening survey quick with you and then I'm gonna send the message over to and see what he says.
+Patient: Yeah, I don't said something about, I said, why is so many hours before she said, I don't know something about hydration or dehydration,
+Nurse: Hydration? Yeah. They have to, I think they have to do IV hydration with you. So it's like very limited what's in there. So I think that was from nephrology. So, so the ph you know, it just, it's a technical, it's technically annually done. Um but I'm just gonna do it because you're having these issues to kind of measure like, you know how you're feeling. Um It's a multipurpose screening tool, diagnosing, monitoring, measuring the severity of the depression. I know it's more anxiety but just to kind of do it. Um, and it's basically, uh, over the past two [PHI-Personal] it's, it's how badly have you been bothered by this problem? Uh, little or, uh, little interest or pleasure in doing things. Not at all. Several days. More than half days, nearly every day, several days, several days. Ok. All right. Feeling, uh, down, depressed or hopeless. Not at all. Over several days, more than half days or nearly every day.
+Patient: So, the question now,
+Nurse: Uh, feeling down depressed or hopeless over the past two [PHI-Personal].
+Patient: Yes. Several days,
+Nurse: Several days. Ok. Uh, trouble falling asleep or staying asleep or sleeping too much.
+Patient: Uh, sometimes I feel I'm sleeping too much but it's more trying to fall asleep. And
+Nurse: Is that, is that nearly every day? Yeah. Yeah. Ok. Poor appetite. I'm sorry, feeling tired or having little energy several days, more than half days, nearly, uh, nearly every day or not at all.
+Patient: Uh, nearly every day,
+Nurse: Every day. Ok. Poor appetite or overeating.
+Patient: Poor appetite.
+Nurse: Would you say every day, several days or more than half,
+Patient: Uh, several days,
+Nurse: Several days. Ok. Um, feeling bad about yourself or that you're a failure or have let your family down.
+Patient: Yeah. Sort of,
+Nurse: Sort of just several days. Yeah. Ok. Trouble concentrating on things such as reading the newspaper or watching a show.
+Patient: What the problem is, reading newspapers. I'm having trouble with my eyes. I have a, yeah, Friday with my eye specialist. Ok.
+Nurse: This is more like, not being able to concentrate because you've got so many other things going on.
+Patient: Oh.
+Nurse: Like, it's just like your racing thoughts or feeling depressed or feeling overwhelmed, like, not being able to, like, read or, like, kind of, like, quiet those voices and watch a show. Do you, do you have that? Yeah. Ok. Several days, more than half days or nearly every day, you think? Several days? Ok. Uh, moving or speaking so slowly that other people have noticed or being fidgety and restless and moving around a lot more than usual,
+Patient: Moving, moving around more than usual. Do you check?
+Nurse: Yeah. Like being, like, really fidgety or jumpy or, like, moving really kind of slow and, like, you know, feeling kind of blah, like, moving slower than usual
+Patient: At time. Yes.
+Nurse: Ok. Thoughts that you would be better off dead or of hurting yourself? No, not at all. Ok. Um, so how difficult would you say these things have made it for you to do your day to day stuff. Somewhat difficult. Very difficult or extremely difficult. No more, so much. Ok.
+Patient: I, my daily, my daily thing is usually sitting down at the computer and, and reading my email but that's about it.
+Nurse: Mhm. Ok. And then the overall score is,
+Patient: And to get myself to do some walking.
+Nurse: Yeah. You still doing your, your, your, uh, cardiac rehab, right?
+Patient: Ok. Yeah, that was uh, the end of [PHI-Personal].
+Nurse: Good. Ok. Oh, you scored 12. So moderate depression, it's saying. So 10 to 14 s moderate depression. So yeah, so I can, I'll send this with uh send over a message over to him to see what he wants to do. Um If for some reason he wants to see you, um then, you know, certainly we'll just make that appointment if you ever had feelings of wanting to hurt yourself or others. Obviously that's a 911 call. But I know for you it's the opposite. It's more like, you know, just trying to get through this and get past the anxiety of this big procedure coming kind of weighing over you. So, so I know that's really hard. Try to like try to like meditate, pray, you know, um go for walks with, with, with your wife, maybe call friends and families, you know, family members and just try to like when you start to get that mindset, try to like um redirect yourself to something else. So as best you can you know. Yeah, I know. It's hard, especially in the middle of the night, you know. So you could do, like, in the middle of the night when it wakes you up and you can't fall back asleep, you could do some, like, deep breaths, like, you know, deep, deep breathing exercises and, like, you know, just like some nice stretching and try to, like, get yourself calm and out of that, that feeling. So. Mhm. Ok. And then,
+Patient: And I don't know if you heard what, what I said. And, uh, yeah, uh, my, uh, let's see, my wife's youngest sister's husband died Sunday. Oh,
+Nurse: I'm so sorry.
+Patient: He wasn't, he wasn't in good health as it was. He's a diabetic. He didn't take care of himself and on top of it all, we can't even travel up to the funeral.
+Nurse: Are they gonna do like, a zoom or anything like that? So, people who are out of state can participate?
+Patient: Uh, I don't know. I didn't think about that. Yeah.
+Nurse: Sometimes people do that. They, like, broadcast it or, like, have, like, live a live feed. So, like, you know, you can at least like for family members that can't make it. Yeah.
+Patient: So,
+Nurse: Yeah, something to think about.
+Patient: Yeah, I hope my.
+Nurse: Yeah. Absolutely. So. Yeah. Well, I'm sorry for your loss. Thank you. Absolutely. All right. So I will send this over, um, and then follow up with you keep, so your, your vitals look pretty good. Uh, I don't know why your weight is flagging because it's not really, it's like 0.4 difference from the two. So keep up the good work with that and, um, make sure you just keep it as check yourself as regularly as possible because you know, the R PM nurses follow up with you just to see what's going on and make sure you're ok. Ok. So, and I will, as soon as I hear from uh Doctor [PHI-Personal], I will give you an update. Ok? But if if, if you need to reach me in between then just give a call. Ok, thank you very much. And you're welcome, [PHI-Personal]. I'm sorry, you're so stressed about this procedure
+Patient: But on top of it all, after this procedure that they wanna do the uh colonoscopy, you know.
+Nurse: Yeah, so I know and you do need that clearance. So that's a little, I mean that's, I mean, so they put you under a sedation but it's uh you know, a little less I think, I personally think it's a little less invasive, you know. So, so yeah, so hopefully, yeah, that that they're so good at it. They just get people in and out, you know. So, so hopefully that will be smooth sailing too and don't forget they're gonna do it at the hospital too. So all hands are on deck if anything should happen. So. Ok,
+Patient: Just 11 question that that was asking me a friend of mine asked what causes the, the, uh, fluid in her
+Nurse: Lungs. Um, it's probably from, uh, most likely it's from your, your chf, like you, you're, you're just like, um, holding on to fluid and it's backing up into your lungs. So, so that's why they, you, while you were there to dry you out a little bit. So,
+Patient: Yeah. And I'm, I'm, I'm on the twice a day.
+Nurse: Yeah. I thought it was once a day.
+Patient: No, I thought they changed it twice. Let
+Nurse: Me look at the last visit. Hold on.
+Patient: Oh, kidney doc.
+Nurse: Was it the kidney doctor that put you on it twice a day? Yeah. When did you see him?
+Patient: Three [PHI-Personal] ago?
+Nurse: Three [PHI-Personal] ago. Ok. All right. Let's see. Mhm. So your visit with [PHI-Personal]? Hold on. Let's see. That was the second because I feel like this came up during the cons, during the conversation. It is right. I'm just, I'm just looking. So it says take those twice a day. All right, I can get clarification. It's fine. Um, because you're in the, you're in the, um, chart as 20 mg daily so I can just send it over just to get that clarification. So right now you're taking it twice a day. The it
+Patient: And act actually I'm not urinating that much anyway.
+Nurse: Are you drinking fluids?
+Patient: Yeah. Not, not a, not a lot, but some.
+Nurse: So you have a decrease in output. I'm sorry, you have a decrease in your urine output. You're not peeing as much. No. Who's your, uh, nephrologist?
+Patient: She got it on now, Oren. They don't know. Is that the kidney doctor? Yeah. Yes. All I know is he's at us l, uh, and he has a long neck.
+Nurse: Yeah. I don't think we talked about your Lasix. So we talked, but, because we talked about other stuff but,
+Patient: And I don't know if it's in my part because my computer crashed and I lost every.
+Nurse: Oh, all right. I'll get clarification from the doctor. So you say you're taking it twice a day? 20 mg? Ok. And you po you have poor uh kidney output, uh poor uh urination output. Yeah. All right. Ok. So I'll have to send that over and any like um frequency urgency, painful urination, blood in your urine, stomach pain or fevers. No. No. Ok. All right. All right. So I'll send the message over for you. Ok. He's in it. Well then I'll follow up with you. Ok. Alrighty. Thank you.
+Patient: No. Thank you. Oh, my pleasure. Have a good day and I'll talk to you later. Alright, bye bye bye bye.

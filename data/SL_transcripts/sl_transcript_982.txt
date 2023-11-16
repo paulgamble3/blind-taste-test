@@ -1,0 +1,38 @@
+Nurse: Hi, this is [PHI-Personal] with the care management team. How can I help you?
+Patient: Uh, [PHI-Personal], this is [PHI-Personal] Bu. I believe you just called me a few minutes ago.
+Nurse: Yes, [PHI-Personal]. I appreciate you getting back to me so quickly. How are you today?
+Patient: I wish I could say I feel better but I don't. What, what's up?
+Nurse: Um, I was just calling to go over the information about the new program. Doctor [PHI-Personal] is offering. Uh, do you feel up to it? It's for a couple minutes.
+Patient: Yeah. Go, go ahead.
+Nurse: Ok. At the end the call is recorded for quality purposes. Ok. That's fine. Mhm. Uh, it's a new care management program and behavior health program and, and that's just where our nurse is gonna call and check in with you. See how you're doing in between office visits. She's gonna go over your full medical health with you answering any questions, addressing any issues or concerns that you may be having. Uh, she'll also go over any medications that you're taking. Uh, so if you have questions about those or if you needed refills, um, she's gonna make sure your medications are working the way that they should be and that your conditions aren't worsening. Um Or if you just had questions and needed help with appointments, labs, community resources. Those are things she would discuss with you during the phone call. Ok. Uh I do want to let you know [PHI-Personal], that the care management programs and behavior health programs are both billable services to Medicare and Medicare Advantage plans and secondary insurance carriers. Uh They are both subject to cos insurances and deductibles and co payments. So when you have contact with your dedicated nurse, you may get a statement from the practice for these services. Um, they are considered to be office visits and you do get to choose how often your nurse calls you. So if you'd like her to call you once a month or once every three months or maybe even just once a year, that's up to you. Uh, I'll mail you a letter to the program with your nurses contact information. So you're able to call her too with any questions or concerns. Ok.
+Patient: Now the co pay. Oh, go ahead.
+Nurse: Oh, no, I'm sorry. No, no, no. The
+Patient: Co the co payments. How much are they going to be?
+Nurse: Ok. Well, it's, they are considered to be an office visit. If you do get, uh, a statement from the practice, it may be for around $9. And again, that's only when you have contact with your dedicated nurse.
+Patient: Well, the reason I'm asking that is I have I go to two different doctors. Doctor [PHI-Personal] is one and then I see Doctor [PHI-Personal], he's a foot specialist, ankle, foot and ankle specialist and I'm not charged any copays or anything if either one of them according to my health insurance. Ok, so, ok, go ahead, honey.
+Nurse: Uh I'm so I was gonna say, man, I mean the the services are considered to be an office visit. Um we'll, we'll bill Medicare and after Medicare pays, they would then submit the difference to your secondary insurance or your supplemental insurance for payment review and your
+Patient: Secondary second secondary payment. Hold your breath on that one tiger.
+Nurse: Um It's so and, and I just like to advise like let the patients know that, you know, depending on how their insurance is, they may get a statement, you know, I, I don't like, I myself don't really like surprises when it comes to things like that. So I'd like to let the pay home know too. I
+Patient: Wanna fix income too now. So I, I have to be careful what I'm, what I'm getting and what I have to
+Nurse: Pay. Sure. No, I, I completely understand that. Um So if you, you wanted to have your nurse call, you maybe once every six months, you may get a statement from the practice then once every six months for approximately $9 if you wanted to call you, once every nine months, you could do that, you know, and have her
+Patient: Get that every three months.
+Nurse: Oh, you could do it every three months too. That, that's up to you.
+Patient: Ok.
+Nurse: Ok. Yeah. No, it, that's up to you. You just let your nurse know, you know, when you'd like her to call you again that you tell her, you know what I mean? All right.
+Patient: I'm surprised that he used to do that before he went to PU MC and after he got hooked up with them, he stopped that because they used to call me. I give that every 23 weeks to find out how things were going and all that. Then when he got with Pu MC, whatever the hell they are. U MC. Yeah, that's it. Uh, it all stopped. I don't know why but I guess that that fits, has some strange rules and regulations. I guess that's why he left them. So. Ok. Ok.
+Nurse: Um,
+Patient: I just wanna confirm,
+Nurse: I just wanna confirm your information still the same. [PHI-Personal]. Ok. Um, we have your mailing address still as [PHI-Account] Spring Road, Carlyle [PHI-Account]. And your insurance. We have it as Medicare and [PHI-Personal] Cross [PHI-Personal] Shield FEP
+Patient: Federal. It's a federal insurance.
+Nurse: Yes. Yes. Federal employee program. I got
+Patient: A card from them. I haven't given it to Doctor [PHI-Personal] office yet, but I, when I get out there, which is going to be in [PHI-Personal] for blood test and, and for cholesterol blood test. And then I get to see him a week later, but I got my, my new card that they sent me.
+Nurse: Ok. So when you come in, I, I do show the appointment is on the [PHI-Personal] 18th for your lab work. And then you have the appointment with Doctor [PHI-Personal] on [PHI-Personal] 25th. So when you come in, just bring your card and they'll update it in the system. Ok?
+Patient: And maybe one of them somebody in there can explain to me what some of the numbers on the card mean because I don't quite understand they just sent me a card with no information on what you know why it was changing. But then that's the federal government and, and you know they're they're screwed up as uh some
+Nurse: That someone, someone when you, when you bring the card and they'll be able to go over the information with you if you had questions regarding your new insurance card.
+Patient: Ok. Alright. Ok. Ok, that'll be fine.
+Nurse: All right, [PHI-Personal]. Well, you have a great day and stay safe.
+Patient: Oh yes, thank you dear. I appreciate your call. I'm sorry it took so long to call you back. I just sometimes I don't answer the phone because of we get these uh spam notices or people call me from [PHI-Geographic] and want me to renew my um auto loan or whatever I'm thinking, what the hell are they talking about? So that's I don't answer them anymore. So that's
+Nurse: Completely understandable. Oh, no, don't worry about it. Don't worry about it, [PHI-Personal]. Uh, and if you, if, when your nurse calls, if she doesn't get in touch with you, she'll definitely leave you a message and then you could just give her a call back.
+Patient: Ok, that'll work. That'll be fine. Thank you. Oh,
+Nurse: You're welcome. Take care. You
+Patient: Have a good day. You too. Bye now. Bye bye.

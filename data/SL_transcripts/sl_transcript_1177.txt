@@ -1,0 +1,56 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, this is calling back.
+Nurse: Hi, how are you? Good. How are you? Good.
+Patient: I just got back from my CT Scan for my lungs. Oh, you did? Yeah.
+Nurse: Hm. Ok. Yeah. I just wanted to check in with you to see how things were going.
+Patient: Oh. And I have a full body scan next Wednesday. Ohh.
+Nurse: Yeah. Is that your bone density scan?
+Patient: No, it's for, I had, uh, skin cancer. Ok. And my head and they had to cut it out. Oh, yeah. I thought it was just a scab or something, but apparently it wasn't.
+Nurse: Jeez [PHI-Personal]. Let's see. Get everything opened up here. And how are things going overall?
+Patient: Pretty good. I still have the cough but I'll probably have that for a while.
+Nurse: Oh, no,
+Patient: That's from last when I had COVID. A lot of people I know have, have that
+Nurse: And having the COPD doesn't help anything. I know.
+Patient: I, I think that, that COVID enhanced it a little more.
+Nurse: Mhm. It tends to. Yeah.
+Patient: Yeah.
+Nurse: Ok. Let's see. Things are running a little slow
+Patient: Here. They want you to be out in the sunshine.
+Nurse: Oh, I know. Let's see. So you had some labs done, right?
+Patient: Yeah. Uh, Tuesday. Ok.
+Nurse: So your A one C was 6.5?
+Patient: Is it lower?
+Nurse: Let me see. That was our goal, right. We didn't want higher. Let's see. Absolutely. Did. Um, in [PHI-Personal] it was 6.9. It's now 6.5. Thanks. Forget what month we're in? Jeez.
+Patient: Mhm. How about the cholesterol?
+Nurse: Let's see. Your triglycerides are still elevated at 1 94 but they have come down. Um, last time you had your labs done, they were [PHI-Account]. Yeah. Um, and your LDL, the bad cholesterol came in at Yeah. What? That doesn't make any sense. LDL came in at 50. We like to see that below 100. So that's good.
+Patient: So every, the Crestor is working. Yeah, I don't take it every night, maybe every other night because it makes my feet and legs cramp, but not as bad as the, all the other ones did. So, I'm trying to it. Hm. And I have this over the counter stuff I take, it's called leg cramps PM. And that works awesome. It's all natural. Ohh, good. Yeah.
+Nurse: Ok. And your good cholesterol was a little low. Um, for that, we just recommend, um, you know, increase your nut intake. Oh, avocado, olive oil. Your lean protein meats like pork fish. Uh, that'll, that'll help bring that up. I,
+Patient: 00, wow. I haven't been eating much. My appetite's gone downhill.
+Nurse: Well, that probably has to do with COVID as well.
+Patient: Yeah. I don't eat lunch until like, one o'clock or breakfast. That's all right. Sometimes if I think, oh, I got to eat something. I don't know what to eat and I just don't want to eat
+Nurse: Right, because you don't want to think about it and go through the hassle of it. Yeah. And
+Patient: There's only me here, you know.
+Nurse: Right. It'd be different if you had other people to. Yeah, then
+Patient: They feed me pretty good. Right. So that'll be better. Ok.
+Nurse: Yeah, everything else looks pretty good and I'm sure they'll call you. Um,
+Patient: Yeah, let me find love, find out about the scan today.
+Nurse: Yeah. They'll probably have those results in the next day or so. Excuse me? Um, and you'll be due for, I mean, you are due for your six month return. So, yep. Get that and then we'll, we'll see how things are going.
+Patient: Ok. All right.
+Nurse: Ok. My dear. Well, I will make a quick note that we chatted. Um, I, I would encourage, you know, increasing, you know, eat a handful of nuts throughout the day or, um, I know living alone you don't really want to have to cook a full meal. Right.
+Patient: And most of the time I just grab a sandwich and maybe a cup of soup. Right. Yeah. But I do eat oatmeal. But, yeah.
+Nurse: Ok. Well, maybe we can work on incorporating some raw nuts or even like, when you do cook using like avocado oil or olive oil,
+Patient: I have olive oil,
+Nurse: Incorporating those as well. I mean, we can also try. Oh, you do take, do you, you and a fish oil? Ok. All right. You're already taking the coenzyme Q 10 and, um, fish oil. So,
+Patient: And I don't eat peanut butter because they say that's what causes migraine headaches. But I found some, wow, butter at Aldi at [PHI-Personal]. It's soy co soy beans. Ohh. Hm.
+Nurse: I don't like soybeans so I probably wouldn't enjoy it. But
+Patient: You can't tell the difference. Really? Really? Yeah. The
+Nurse: Sun butter, which is sun made from sunflower seeds. I really like that one.
+Patient: Oh, maybe, maybe it, I have to learn seeing in the label again. It is. Well, do I whole toasted soy? Like oil, palm oil and [PHI-Personal]? Wow. Yeah. My kids eat it and they don't know the difference. Well, that's good. Yeah. But I do mix peanut butter now and then, and since I've been taking the blood thinners. Mhm. I haven't had only like, four migraines in five years.
+Nurse: Oh, well, that's, that's pretty
+Patient: Good. Yeah. So, once in a while is not bad. Right.
+Nurse: All right. So I will put in my note and I will look for your next office visit, which I'm sure they'll either contact you for or, um, you will reach out to them to make that appointment and I'll look for your CT scan results and we'll follow up after that. Ok.
+Patient: Ok.
+Nurse: All right, my dear. Thank you for returning my call. I appreciate it.
+Patient: All right. You have a great rest of the day.
+Nurse: You too. Take care.
+Patient: You too. Bye bye.

@@ -1,0 +1,14 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Hi, this is you called me. I think I missed your call.
+Nurse: Hey, Miss. Yeah, I did give you a call. Um, I just have a little update for you. Can you verify your birthday for me?
+Patient: Sure. [PHI-Account].
+Nurse: Great. Um, so yeah, I know we just talked not too long ago, so I won't do your whole, you know, chronic care management call or anything. I'll wait until the end of the month for that. But doctor messaged me back and she said that you would need a reevaluation of your right hip pain before she can reorder you a physical therapy referral. All right. Just because it was over a year, I guess so. But we can try and look and see if we can schedule an appointment with her before [PHI-Personal] if you want that. Pt reordered. Well, I
+Patient: Act, yeah, I actually have an appointment with her. Maybe I think in [PHI-Personal] if I'm not mistaken but, but that may be for the check up. Probably. Let me see.
+Nurse: You do have an appointment with her in, let me pull up my appointment thing and make sure Yeah, review labs canceled [PHI-Personal] appointment. Ok. I'll just jot in those appointment notes, um, that we wanna review the hip pain. Ok. Yes. Yes. Well, I just wanted to give you that little update. Good job using your, um, R PM device though that you're reading book
+Patient: Too. And, you know, the amazing thing is I've been traveling because I had, you know, different thing and, um, my sister in law just passed, so we've been back and forth and it's been a little hectic. So you may see some, some jump there in BP. Sometimes it's, it's been a little rough.
+Nurse: I mean, I see a little bit of jump but for the most part everything's in range and that's pretty much amazing. Ok. Good.
+Patient: No, let me ask you 11 question when you see the pulse, like very high high, let's say higher than usual. Um, I know sometimes, like I'm running up the stairs, going down the stairs and would that lead to that? Would that lead to something like that? Yes.
+Nurse: Yeah. Jogging up the stairs would lead to a, you know, elevation in heart rate, but it looks like the highest I've seen your pulse is like 104. And the normal range for people is usually, usually because I think you have a little bit low of a range, usually like 60 to 100 and we're human. So it fluctuates it's to be expected. So we have that big old range so I don't see you outside of that range at all except for one time.
+Patient: Ok. Alright, thank you very much. I appreciate it. Don't worry about it. Yeah. Alright, thank you. Of
+Nurse: Course I will call you again at the end of the month.
+Patient: Ok? Yes ma'am. Thank you so much. Thank you bye bye.

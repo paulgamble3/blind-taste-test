@@ -1,0 +1,28 @@
+Nurse: Hi, this is,
+Patient: Yes, this is [PHI-Personal] calling. Uh huh. How are you today?
+Nurse: Good. How are you?
+Patient: Good. I just wanna get my records updated as far as medications go.
+Nurse: Let me give me one second to pull up your chart. Ok. Yes. Dashboard. And you normally talk to? Yes. Ok. Yeah, she's on vacation this week. So I'm covering for, can you verify your birthday for me?
+Patient: Yes. [PHI-Account] [PHI-Personal] [PHI-Account] [PHI-Personal].
+Nurse: Ok. Um, is your address still? [PHI-Geographic]. Yes, it is. Ok. And then your insurance. I have Medicare, Pennsylvania and then I have a hop. Ok. And you said you just wanna update your medication list?
+Patient: Yeah, I, I didn't wanna wait until I had my doctor's appointment for my physical and make him, you know, go through all that stuff. So,
+Nurse: Yeah, your appointment. Yes. Next week or no. Wait you lab next week.
+Patient: What's that? A
+Nurse: Lab appointment? Yeah. On the first. Ok. So I have, um, listed, I have Tylenol, um, as needed. Um, Aspirin 81 mg daily. Yes. Um, Famotidine, uh, 20 mg once a day as needed. No. No. The Pepcid. Ok.
+Patient: Pepcid. Yes.
+Nurse: That's what it, that's what that was. Sorry. Um, gabapentin 100 mg um, at bedtime. No, you don't take that at all. No. And then he, uh, Metformin, um, 500 mg, two tablets twice a day. Yes. And a medication called Tadalafil five mg daily as needed.
+Patient: Yes. Uh I don't take it daily just as needed as
+Nurse: Needed. Yes. Um, and then traZODone, 100 mg, two tablets at bedtime. Yes. And then I have your Coumadin. Yes, I have 7.5. But that's correct. Ok. And then what else am I missing?
+Patient: Uh, I was, I had vitamins and stuff down there. I'm not taking any [PHI-Account] those any longer.
+Nurse: Ok. Um,
+Patient: Uh, mainly that,
+Nurse: That's it. So, that sounds great. Yes. All right. Good. Um, well, since it's the new year I am gonna send out just, um, you know, the Medi Medicare has, you know, annual things they like you to keep up on, um, um, some, you know, chronic testing and stuff like that. So I'll send a letter out with those recommendations on there. And, um, do you see any specialist?
+Patient: No, I, I go, I, I do, I go to, um, uh, dermatologist every four months.
+Nurse: Ok. And that's the only one you don't see a heart doctor, lung doctor or anything like that.
+Patient: My doctors are surgeons, joint replacements,
+Nurse: Like orthopedic, uh, surgeon.
+Patient: Yes. Doctor [PHI-Personal].
+Nurse: Ok. All right. Is there anything else going on? Anything else you wanna update us about.
+Patient: No, I I'll take care [PHI-Account] it.
+Nurse: All right. Well, if anything else comes up, please feel free to give us a call. Ok,
+Patient: Thank you very kindly. Ok, have a great day. You as well. Bye.

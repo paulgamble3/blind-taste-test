@@ -1,0 +1,23 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Is this our lane,
+Nurse: [PHI-Personal]? Yeah.
+Patient: Ok. This is Gi and I just talked to you a while ago. Yes, sir. Ok. I finally thought of what I was gonna ask. Ok, I got one more problem with my buddies. I've got a high, but I don't wanna be operated on. Do they make something like for a man a girdle or something? Because I don't lift stuff like I used to if I uh, and it pops out, it's about, it's all the way up almost the top of my stomach and it'll pop out and it's about 4 to 5 inches long and it kinda, it pushes out about three quarters of an inch, probably inch and a half wide. Now, is there something that my insurance that y'all can order for me to wear for that?
+Nurse: I will send a message and see if doctor could write a prescription for like a binder.
+Patient: Yeah.
+Nurse: To where, uh, where did you say it? Is it above your belly button or below?
+Patient: Oh, yeah. Yeah, it's above the belly button. Probably 3 to 4 inches above it and it's near the top of my stomach and going down toward the belly button.
+Nurse: Ok. Has, has the doctor seen?
+Patient: No, I never did show it to her. I, this for years and my doctor years ago said, don't, don't be operating unless you have to because it's hard to get that part to heal up if you pick up and lifting a lot. Well, I'm at age now that I don't do that lifting stuff no more like I did on the job.
+Nurse: Ok. Is it hurt?
+Patient: Uh, if I lay down on my back and try to raise up, to show it like to somebody, I can feel it pull and it, it will hurt for, uh, you know, maybe two or three hours and then it quit. Ok. Or if I forget and, uh, reach up in my tractor and pull myself up, I'm straining those muscles in my stomach. That would do it. That would do it. Yeah. But it doesn't normally hurt unless I make it hurt. I have to.
+Nurse: Um, and you said you don't want surgery for
+Patient: It? No, I do not. I will not have surgery unless out, you know.
+Nurse: Ok. Yeah, I will send doctor a message, um, and ask her if she would do if she would order a binder. Um,
+Patient: Yes, that'd be good at [PHI-Personal] at my, uh, where my pharmacy is.
+Nurse: Ok. Um, it'll probably be tomorrow before I hear anything from her because she's not in, on Wednesdays.
+Patient: I know. That's fine. That's fine. When I took him, I called you back, I started calling her and I thought, no, she ain't even in and I never could think of it whenever I was there to show it to her. And, uh, but it's couple three inches above my belly button and then goes up about 54 to 5 inches up and it pushes out, you know, a pa, you see it, I mean, it's real plain to see. Ok. Um, if there's some kind of something I could put on and we, oh, the, uh, there's ti, there's times that I do some strenuous stuff. Mhm. And I have to watch it how I doing, like, lifting with my back and her legs instead of my stomach pressure and it, and my stomach always had muscles in it, uh, as they call them s, but no longer, I don't have abs, it all. It's, uh, a batter like, uh, it's not muscles built up like it used to be.
+Nurse: Ok. Um, now you're able, you said you earlier you're not having any nausea or vomiting. Um, no, no. And your bowels are moving, ok? You're able to pass gas.
+Patient: Yes. Yes. And I say if I, if I strain, like, from about, like, I was constipated some, uh, I try not to strain it. Ok, because that, that would hurt my stomach. So I have to, uh, and I take a little peel to make them soften anyway. Ok.
+Nurse: Ok, I will definitely send her a message and um I'll let you know as soon as I hear something from her. Ok,
+Patient: I appreciate it. Thank you. Not a problem. You're welcome. Alright, bye bye.
+Nurse: All right bye bye.

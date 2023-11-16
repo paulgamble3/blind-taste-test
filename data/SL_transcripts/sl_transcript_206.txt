@@ -1,0 +1,84 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal]
+Nurse: [PHI-Personal]. Hi, how are you?
+Patient: I have a little bit of egg on my face. I forgot to call you back the other day. It's ok the day I was driving when you called.
+Nurse: So. Oh, well, I'm glad I, for that [PHI-Personal], I'm definitely glad you did not answer. I don't, I, I don't want to, you know, put anybody in any danger that is for sure. Um, yeah, that's not, not something I do either. I don't, uh, like to be on the phone and drive at the same time. Yeah. Right. Absolutely. How have things been going? Pretty
+Patient: Good? Pretty good. Not bad at all?
+Nurse: Good. That's good news. Um, wanted to just go over just a few things with you. Um, with it being, you know, the after the first part of the New Year, wanna verify. Did you or, um, [PHI-Personal] have any health insurance changes from last year to this year?
+Patient: Yeah,
+Nurse: You did. Beginning,
+Patient: Be beginning [PHI-Personal] [PHI-Personal]. I am now with UP MC.
+Nurse: Ok.
+Patient: And beginning [PHI-Personal] [PHI-Personal], [PHI-Personal] will be with UP MC.
+Nurse: Ok.
+Patient: Ok. Different, different plans though.
+Nurse: Different plans. Ok. Do you have a new, um, what's the word? I'm looking for a new ID number or a new, um, card and ID number? Yeah. Ok. Have you updated? Yeah, I didn't know if you had, had you updated the office with either [PHI-Personal] of those. No,
+Patient: Because we haven't been there yet.
+Nurse: Ok. Ok. Yeah. Um,
+Patient: I can give you mine but is
+Nurse: Upstairs. Ok, that's fine. I'll just take, I'll take down yours and we'll get yours changed and then, um, we can do [PHI-Personal] at another time or you can bring it into the office whichever works better. Oh, we will do that.
+Patient: Definitely. Ok. Are you ready? Yes. Ok. Mine is [PHI-Account]
+Nurse: [PHI-Personal]. Ok, I'm gonna repeat it back to you. I've got [PHI-Account]. Correct? Ok, perfect. I'll get that updated here on my end and then, um, mailing address I still have 154 Boyles Drive in Cogan Station, Pennsylvania. Correct? Ok. All right. Gotta verify all that fun information at the beginning just because you know, sometimes we've got changes. Um, and you said [PHI-Personal] doesn't take effect until [PHI-Personal] [PHI-Personal]. Is that correct? Correct? Yeah. Ok, perfect. So we will, um, like I said, we can address his at a, at a later time. Um, also wanted to let you know too. I will be sending out, um, a what we call a Wellness goal letter for both you and [PHI-Personal]. Um It's gonna be pretty similar to what, um, the care plan letter looked like when you guys first enrolled with, with me. Um, the only difference being of course is like on that second page where the, uh, wellness goals are listed for the year. This is gonna be everything from now until the end of December of this year. So the list may be a little bit longer than maybe when you first got the care plan letter. Um, the other difference that we are adding to it this year is that we are putting next to each goal we're putting, I guess what you would, would call it. Uh I've been calling it a target date. I'm not sure if that's really the word I wanna use. Um, but that seems to be what fits the best. I don't want anybody to consider that a deadline, so to speak. It's more so just a, um, guide for you as a patient to see kind of when doctor has things, um, month wise when he has things set up for, for, um, his due date, I guess you could say. Um, so like lab work, if you had some, some point in July, you've got lab work coming up. So you don't have it scheduled, but you can see that, you know, come in July [PHI-Personal], you can start to, you know, get that, that uh lab work scheduled for whatever works best for you sometime in July. Um, and then same with like the flu shot, you know, typically I'll put on there October [PHI-Personal] just as a, a guide to say, hey, after October [PHI-Personal], sometime in that range, maybe even earlier, you can get your flu shot, you know, those just kind of more so just a guide to say when about throughout the year you're looking at trying to get things scheduled or, or taken care of, so to speak. Um, any questions with that [PHI-Personal]? No, no, no. Ok. Ok. And then, um, the only other, well, I wanted to, if this computer works for me here, it's been on slow motion this afternoon. Um, wanted to just go through a few other things here. Do, do, do, do, do maybe, um, let me see. And also since it is the first part of the New Year, if you don't mind, I'd like to go through both you and [PHI-Personal] medications to make sure that nothing has changed. Um, or that everything that I see here is, you know, exactly what you, what you're taking. Um, is that ok? Sure.
+Patient: Sure. Ok. So I'm finding it right now. Mine or your first?
+Nurse: Let's do, let's do yours first. Ok. Ok. So I have, um, five mg of rosuvastatin calcium for cholesterol. Uh, yeah. [PHI-Personal]. Right. Yes. Yep. That would be correct. And then I, are you still using the timolol maleate eye drops every night? At bedtime. Yeah. Yes. Ok. Um, how actually,
+Patient: No, the timolol I do in the morning, [PHI-Personal], drop each eye and at supper time, [PHI-Personal] drop each eye.
+Nurse: Ok. Ok. Morning and then at supper time.
+Patient: Mhm. At night I do the Latanoprost. Ok. One drop each eye.
+Nurse: Ok. Write this down here real quick so I can change that. Um, ok. And then I have vitamin D three and you're taking two, is it a total of 2000 units daily?
+Patient: Uh Well, the ones I get I get from Sam's Club and they're 5000 units and I just do [PHI-Personal].
+Nurse: Ok, perfect, perfect. Um And then I have 300 micrograms of levothyroxine sodium. It looks like you take that [PHI-Personal] tablet daily, six days a week and then none on Wednesday
+Patient: And none on Sunday
+Nurse: And none on Sunday. Ok. Five days a week, five days and none on I'm the
+Patient: Oddball. My levels have to run high for me to be normal.
+Nurse: Ok.
+Patient: Ok. When they, when they try to get me more down to normal, it just bottoms out because I don't have a thyroid. So
+Nurse: It's really to it. So yeah, five days. Perfect. I'll get that changed. Um And then it looks like I've got calcium with vitamin D that you do twice a day. Does that sound familiar? Once a day? Ok. See I'm glad we went through this because a lot of it's just changing like the frequency and stuff which is fine. Um, it's just good to, to have it all correct. Um, how about a folic acid? Once a day, once a day, probiotic, once a day? Ok. And then, uh, daily multivitamin once a day. Ok. And then of course, are you, do you still get the [PHI-Personal] injection every six months? No, no, not now. Ok.
+Patient: I was due for it in [PHI-Personal] and I talked to doctor about it because [PHI-Personal] is now tier four, which means insurance only pays 50% of it. And I said I'm not doing that.
+Nurse: No.
+Patient: So I talked to him about oral medication and, um, he said, uh, I don't know, it kind of sounded like he didn't really, um, want to do that right away. Um, we, he told me just don't get it in [PHI-Personal] and don't get it in May and then next fall I
+Nurse: Would be due
+Patient: For another bone scan.
+Nurse: Ok.
+Patient: So he told me no, [PHI-Personal], no May and then we'll do a bone scan and then we'll decide where we go from there.
+Nurse: Ok. Got you. Ok. So wait and kind of to, to fall before we'd make any definite decisions with that. Sounds good. Sounds like a good plan. Ok. So did I miss anything as far as medication wise goes? Nope. Ok, perfect. All right. And then we will go and do, uh, s medication. Let me just get things pulled up here. Hm. Ok. So I have for [PHI-Personal]. I have, uh Lisinopril with the hydrochlorothiazide in it for BP. Yes. Ok. And then I have 28 mgs of memantine for memory. Yes, I have 20 mg of atorvastatin. Calcium. Yes. I have a probiotic daily. Mm. Yes. Ok. Um, how about, uh Metamucil [PHI-Personal] teaspoon by mouth every day? Oh,
+Patient: Definitely.
+Nurse: Ok. Um, good, good, good, good, good. Yes, absolutely. And then I've got a 1000 mg of garlic every day. Yes. Oh, ok. And a folic acid every day. Yes. Um, multivitamin every day. Yes. Uh, calcium with vitamin D. Is he doing his twice a day or once a day? Once, once, once a day. Ok. And then I have Latanoprost eye drops. I don't have any instructions on those as to how he's, is he doing them just like in the morning or a couple times? One day,
+Patient: [PHI-Personal] drop, [PHI-Personal], drop each eye at night?
+Nurse: Perfect. I will get that changed. Um, or just add that in there, I should say. Did I miss anything? Is loperamide,
+Patient: Which he only takes as needed if we're going away, then he takes two pills. If we're home, he doesn't take it at all. Ok. Kind of the, the nervous not knowing where the bathroom is kind of thing.
+Nurse: Got you. Makes sense. Yes. Absolutely. All right. Then I looks like I've got everything for him as well. Um, the only other thing I wanted to check in on with [PHI-Personal] is how he has been doing as far as memory wise goes. Do we feel like that's the?
+Patient: No, it's definitely getting
+Nurse: Worse. Is it? Ok. What kind of, um, [PHI-Personal], if you don't mind me asking, what kind of things are you noticing more so frequently than, than before, or things that have changed with, with his memory?
+Patient: Well, it's just things that we talk about and I think he understands what I'm talking about and then two minutes later he'll ask me about it again and he'll say, did we talk about this? So, just a lot of repetition. And I know and I, I do notice that he is sleeping a lot more during the day, but he does still sleep all night. But I think the sleeping during the day is boredom,
+Nurse: Boredom. Yeah,
+Patient: He can't be outside as much. He's, the cold is really bothering him and he never used to because he worked for PPNL and he was outside no matter what the weather was. Right. Um, but I noticed that it is bothering him more so, but as long as he sleeps all night, I let him nap as much as I can as he wants. I, I do try to get him involved in things as long as I'm standing right there with him, like in the kitchen to help. Um, I do try to get him involved in things as long as I'm right there. But I, I'm hoping that once his brothers can take him out golfing. We'll see some improvement.
+Nurse: Yeah. Yeah. Once this kinda, we get, it gets to be nicer to the point where we can be out more. Absolutely. Yeah. That makes it, it does make, it, it seems like it does make a, a difference for a lot of people. A lot of people seem to struggle. Yeah, it does. You do and you do get bored because there's only so much stuff you can do inside. You know, and, and especially if you're [PHI-Personal] that, you know, like him, he used to work outside all the time, you know, and he likes to, if he likes to be outside when it is, you know, decent outside and it's, you know, it's just, there's just nothing, winter is a hard time for it if there's just not anything to do. Yeah. If you do,
+Patient: Especially for us because we spent so much time in [PHI-Geographic] when he could be outside all year round.
+Nurse: Oh, yeah. Yeah. Yeah, that makes a difference too. Absolutely. So, yeah, that's hard to, hard to adjust to, too the deal. Yeah, it is. Yeah, it's unfortunate. Is there like things that does, he do a lot of, like reading the newspaper or doing, like,
+Patient: He tries. But I, uh, that's another thing. I think his eyesight is getting worse.
+Nurse: Is it? Ok.
+Patient: Yeah. And he just, he loses interest. I, I got him, I subscribe to, um, large print readers digest hoping that, you know, he doesn't have to read pages in succession. He can pick it up and read a little bit and then go to something different. Read a little bit. But he, he loses interest real fast and I know that I know that's sight. I know it
+Nurse: Is. Yeah. Definitely. Yeah, that makes it, that makes it hard too when he's, you know, with his eyes. And is it, does he have cataracts or is it
+Patient: Just, he has macular degeneration? Oh,
+Nurse: Ok. Ok. Got you. Yeah. So that definitely makes a difference too when you're, when you've got a change in eyesight and, yeah,
+Patient: And, and he pretty much has denial about how bad it is. Ok. Pretty good. That I be pretty good. Ok. I don't think so, but that's ok. But, you know, I, I go with him to his appointment and luckily the doctor will let me go in the room with him for the exam and the injections, which doesn't bother me to see him get those injections, he would never handle it if I was getting them. But if it's the
+Nurse: Other way around and they,
+Patient: They test his eyesight and they'll say it's not any worse and he is legal to drive during the day. Ok. Not on, not on my watch, but my doctor sent me it. Uh, so I, I don't know, he definitely is not at night and we rarely go any place after dark in the first place that we need. So why should, and I just had cataract surgery. So, you know, why should we? But the other week or so ago, a couple weeks ago we were coming home from some place and it was getting more dark and he was just freaking out about whether I could see to drive or not. How can you, we're on the road, how can you see? And he thinks everybody has their high beams on and I think, I think as well.
+Nurse: Yeah. Yeah. Definitely. Ok. Oh, goodness. Yeah, that definitely makes a, makes a difference. Yeah. Yeah. Well, yeah. And then to be, you know, like you said, he's in denial with the fact that his, with his vision and, and, you know, do you think that he thinks that everybody's vision is, is the same as his, that, like, you know, when he was so, you know,
+Patient: Especially since I just had cataract surgery, cataract. Right. Everybody has problems.
+Nurse: Yes. Yes. Yeah. So, he, it's not just, he's like, not really wanting to admit that his is getting worse or is worse and, and just thinks that. Ok. Yeah, that, that's tough. That definitely is tough for sure. Um, has he had any further troubles with nosebleeds?
+Patient: No. No. And he is using the plain Saline?
+Nurse: Ok. Yeah. And that's, that's good. That's good. And that's good to hear that. And, you know, because the other thing with that too, I was kind of worried about, you know, you get into the winter time and, you know, so it's like a cold dry air and it's hard in the houses too to keep, you know, keep the, the air, I don't wanna really say moist but, you know, try to keep it, the air so it's not so dry. Um, because that tends to cause some issues with, with nose bleeds too. Um, but, yeah, that's goodness. Yes. So, I'm glad that he's just using just the saline and that has done. Sounds
+Patient: Phenomenal normally only at night.
+Nurse: Ok. Ok. Good, good, good. Yeah. You know, I don't know why we didn't have that on his list of medications just so that we knew that, you know, I,
+Patient: I, the list that I was looking at is an old list and I'm pretty sure it says, yeah, my list that I keep on my phone still says fluticasone on it. So I need to put that off there.
+Nurse: Yeah. Yeah. Yeah. Ok. Well, um, [PHI-Personal], do you have any questions for me as far as anything we've went over?
+Patient: And I think everything is pretty good.
+Nurse: Good. Good, good, good. Ok. Well, I will plan on touching base with you. Um, come next month, you know, with it being a shorter month, next month, I'm gonna try to get a hold of most of my patients like, you know, that last full week in, in [PHI-Personal] just because, you know, it is such a short month and we, it's gonna, it'll be here and be gone quicker than what we can, you know, snap our fingers, I think, um,
+Patient: Every month anymore. I
+Nurse: Know. Right. I can just, even this month, I'm like, [PHI-Personal].
+Patient: I can't believe it's the end of [PHI-Personal] already.
+Nurse: Me neither does. I said to somebody else today. I said, you know, if this is, if this is how quickly the year is gonna fly by, we better be for putting our seatbelt on and be ready for it because I it, I mean yeah, it's just, it's like poo [PHI-Personal] month gone already and we're not even, I mean it just feels like we just started it, to be honest, I don't know, just don't understand sometimes how quickly things can just go, it just like here and gone but what do you do? I don't know. So yes, I will plan on, I'm gonna really try hard for that um full last week in in [PHI-Personal] to try to get a hold of those that are, you know, due towards the end of the, the very end of the month just so that we can touch base at least. Ok. All right. Well, [PHI-Personal], you take care and we'll talk next month.
+Patient: Alrighty, thank you.
+Nurse: Thank you.
+Patient: Bye bye.

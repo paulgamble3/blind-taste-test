@@ -1,0 +1,25 @@
+Nurse: Care Management. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is calling, you left a message for me yesterday, uh, to call you regarding the care management program.
+Nurse: Oh, yes. How are you? Fine,
+Patient: Thank you.
+Nurse: Good. Uh, so your first name again was [PHI-Personal]?
+Patient: No, [PHI-Personal]. Oh,
+Nurse: [PHI-Personal], I, sorry, I couldn't hear. Uh, so yes, I was, uh, reaching out to give you information on the care management program that the doctors are offering. And so, uh, what's involved with that is the care, uh, the doctors would, uh, provide you with a care management nurse and she would just give you a follow up phone call in between office visits with [PHI-Personal]. Um, so she basically will call just to make sure nothing has really been changing in between those appointments, you know, concerning your health. She's also there to help assist and, uh, discuss any issues or concerns that might have come up or if you just had questions in general that she can help with. Ok. And then she also goes over any kind of medications with you that you might be on. Um, and if you are, she will ask like how they've been looking for you or have you come across any problems with any of them? And she'll also call and get them refilled for you as well if you need her to?
+Patient: Ok. Um, is this just being, uh, is this offered for all patients or just people over a certain age?
+Nurse: Yep. No, we're offering it to every patient in the office. Ok.
+Patient: I usually see, uh doctor when I come in. Is this regarding both me and doctor or just
+Nurse: No, both of them? Mhm.
+Patient: Ok. So basically they're following up with calls after an office visit. Um, if you have any questions or any questions in general, is that correct with this? Mhm. Ok. Um, and any particular reason, um, just because the doctors are busy, you know, to do this or just making sure, go ahead, you know, it's
+Nurse: To, you know, it's to, um, help the, help them in the office. Um, and it keeps the communication open, um, because our nurses will call the doctor after every follow up call just to keep them, you know, updated and aware if anything might change. Um, and it just helps them to better manage everyone's, um, health.
+Patient: Right? Ok. All right. Um, yeah, I don't see any problem with that if they, you know, if you wanna put me on that, if that's all it involves, I mean, it doesn't involve anything else. You're not sending information anywhere or?
+Nurse: Oh, no, no, no, we're not sending in information to anyone, um, you know [PHI-Personal], since you're on [PHI-Personal], it does cover the program. Ok. Um,
+Patient: Ok. So is there a charge when they call us for the follow up call for [PHI-Personal] or?
+Nurse: Yeah, so they do bill [PHI-Personal] as like an office visit, which is only like $[PHI-Personal] when a nurse calls. Um, but you can choose how often she calls. So it can be anywhere from like once a month every two months, three months or once every six months. And then you're also able to opt out of the program at any time as well.
+Patient: Ok. But [PHI-Personal] does pay for that office visit. Is that correct? Or I call that call that she's doing ok. So she's only gonna call if I have the, I don't usually have to come to the doctor unless something out out of the ordinator, which I've had earlier in the year. Ok. However, I usually don't have to come. So they wouldn't call on a regular basis, would they, if I'm not in there?
+Nurse: No, no, no, it could be, it could be once every six months, like twice a year or once a year if you wanted to. It's just to make sure, um, you know, nothing with your health has been changing because if, you know, something does come up, they wanna be able to take care of it right then and there, you know.
+Patient: Ok. So if I would have an, an office visit let me just run this scenario. Uh, if I have an office visit with doctor, what period of time somebody would be calling up to follow up or only under certain conditions.
+Nurse: Um, so say if you go to the, say if you go to the doctor once a year, so you would go to your yearly visit, then the nurse would reach out six months. That would be the in between [PHI-Personal].
+Patient: Ok. Ok. All right. Um, yeah, I don't see any problem with it at this point. If that's all it involves, I just don't want a lot of claims going to [PHI-Personal] just for a follow up call. That's the thing. So, uh, yeah. Um,
+Nurse: I mean, if you're not really sure right now, what I can do is I can just send you a copy of all the information on the program with their number. So, if you ever change your mind down the road or anything changes, you can just contact us at any time,
+Patient: Right? Ok. Um, maybe I ought to have that. Yes. And think about it a little bit here then to you. Ok. Yeah, absolutely. Ok. All right. Well, thank you so much for calling and as you just send that out. Ok.
+Nurse: All right. Yes, I will get that out for you. All right. Thank you. All right. You're welcome. Bye bye. Ok. Bye bye.

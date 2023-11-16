@@ -1,0 +1,34 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. I just,
+Nurse: It's a tea party.
+Patient: Yeah, it's a party. So I, I'm sorry, I missed your call. I was in the room.
+Nurse: That's ok. Um, not a big deal. I just wanted to check with you real quick to make sure. Um, are you still using Optum Rx for your prescriptions
+Patient: Or? Yeah. The ok. Yeah. The XL
+Nurse: Say that again. The, the what now
+Patient: The buPROPion XL tablet. 300 mg. I, yeah, I need a refill on that.
+Nurse: Yeah, that's no problem. I can send that in for you. Um, you get 90 days. Right. Correct. Ok. So I can send that in with, um, one refill on it and then just be sure to keep your appointments on. Yeah, I saw it. I think it's [PHI-Personal].
+Patient: Yeah, [PHI-Personal]. Yeah, I got my appointment. Yeah. My appointments already. Good. And T A pharmacy. Right.
+Nurse: That's right. Right. Exactly. The same one we used before.
+Patient: Right. Yeah, I know. And
+Nurse: Anything new since we did talk last time? Uh,
+Patient: No, I'm, I'm doing good. Yeah, I, um, just got a new scooter so I can get around real good. Yeah. Yeah. Good. Really good. I'm, I'm awesome. It's like, very nice. Ok, good. So I get out more. Yeah, I, yeah,
+Nurse: I was gonna say if you're able to get a little more, I know you're wanting to move more and get out more. So, yeah. Glad, glad
+Patient: That's working. I get off the scooter and go into people's houses and talk about. Yeah. So it's good. It's good. That makes you move. Exactly. Yeah,
+Nurse: You just need a little, a little something to help you out with a little.
+Patient: Yeah, a little course get me going get to the house and then get out of the scooter and get into the house. Exactly. Exactly.
+Nurse: Alright. Well, good deal. Um let's see, sorry I'm just kinda reviewing real quick because we're at the end of the year so I'm just trying to see if there's anything else we need to mark off. I know your, your annual visit is ended up um being in [PHI-Personal]. That's ok. Um but you haven't had any vaccines in the last month or two COVID or uh pneumonia?
+Patient: No, I just got the flu shot my last appointment. Um
+Nurse: I think we had already checked that one off. I don't see it. Yeah. Um and then there's a shingles that's available um just on
+Patient: That. Yeah, I'm not doing, I'm not doing none of that. Sorry.
+Nurse: That's ok. Just letting you know um they said to meet with you for your um annual visit too then they can review those and anything that, you know, you're not going to, you know, want to do, they can go ahead and mark it off, but, um, we can leave it on there in case you do need. Uh, so the sh when you say none of that, are you talking on the shingles pneumonia?
+Patient: I don't need none of those. So II I wouldn't even do the flu shot unless they just force me to do it. But I'm not doing all of that. Ok. Do you have questions or? Yeah, I just don't feel a need to do that. It's like, yeah, but, you know, I just, I don't believe in it. It's just my, my nature. I don't know. It's right. That's ok. Um, not,
+Nurse: Not judging anything. I was just asking in case there's questions or anything that you have that I could try to help answer just so you,
+Patient: No, there's nothing you can say. Yeah, that's all. Well, thank you for wondering. But I don't, I don't do that. It's like I just don't care about it. Like, I know like, weird about that stuff. Like mom, this is what I gotta say what mama said. If it's not broke, why fix it? Oh, well, we're trying to, I just don't believe in all those stuff like
+Nurse: This is preventative type stuff. Yeah. So, I mean, the vaccines, you can still get those viruses. It's just if you do, if you were to get a bacterial pneumonia or COVID or something like that, then your likelihood of being severely ill or dying from it are significantly decrease.
+Patient: So, that's kind of the bottom. I don't, I don't get out like that. I don't get out like that. So I could understand if I was out and about like that. But I'm not. Yeah, I stay home a lot.
+Nurse: Yeah. You have to make a choice that you're comfortable with that. That is for you, of course, you know. But just, yeah, as long as it's an informed decision and you're, you're good on that then. Hey. Ok. All right, my dear. No problem. Um, if I hear anything back, I'll let you know, but that this should go in, um, this should go in today with, I don't think there were, there be any issues. So let me know if there's anything you need later on and, um, otherwise I'll check in on you in [PHI-Personal].
+Patient: Ok. Well, thank you so much.
+Nurse: No problem. You have a good, good evening.
+Patient: You have a great day. Have a great Christmas.
+Nurse: All right. Thank you. Take care.
+Patient: Yep. Bye bye.

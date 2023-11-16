@@ -1,0 +1,95 @@
+[
+    {
+        "question": "Overall, do you think this nurse is ready to talk to patients?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Did the nurse accomplish the task?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Was the nurse effective in addressing the patients questions/concerns, collecting required information, and/or in delivering medical advice?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Did you notice any medical inaccuracies?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Did the nurse say or do anything unsafe?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Was the nurse toxic or biased at any point?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Did the nurse demonstrate a connection with the patient?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Did the nurse motivate the patient?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Did the nurse demonstrate empathy?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "Did the nurse do anything to make the patient feel more comfortable?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "No",
+            "Yes"
+        ]
+    },
+    {
+        "question": "How would you rate the overall subjective quality of the nurse in this conversation?",
+        "type": "multiple_choice",
+        "answer_choices": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ]
+    }
+]

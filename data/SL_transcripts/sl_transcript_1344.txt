@@ -1,0 +1,22 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Hi, this is [PHI-Personal]. I got a message from [PHI-Personal] just asking how I was doing. And so I'm calling back to say I'm doing ok.
+Nurse: Ok. Um, I think [PHI-Personal] has left for the day. Let me look. Yes, she has. I'll take it and talk to you. Um, yeah, your regular nurse is out on maternity leave. So, um, we're doing it. Yes, she's out on maternity having that baby. Uh, so looks like you're not due to see the doctor for a while. How are you doing on all your medications?
+Patient: Oh, fine. Yeah. Ok. No problems there.
+Nurse: Ok. I do notice you're on, um, Adderall and the Ron does that cause any like racing of the heart when you take it or anything? Like your heart rate goes up.
+Patient: Not that I've ever noticed. Ok. I been, yeah, I've been on the combination for years. Um, yeah, so.
+Nurse: Ok. Um, I also noticed that with the summer time it, with the history of some mild COPD. Do you find like the humidity? It's a little more short of air? You're a little more short of air.
+Patient: Uh, possibly, um, I was out for a walk and I thought I was struggling too much. Not a lot, but I'm really out of shape now. So I couldn't tell whether, you know what was up. I just attributed it to my being really out of shape.
+Nurse: Right. Sometimes it is harder when the, when the warmer weather hits.
+Patient: I, that's good. Thank you for mentioning that.
+Nurse: Yeah. The other thing you might do though is a lot of people with COPD or even just asthma have a rescue inhaler. A Ventolin or um Albuterol usually is helpful and they take that with them. Um sometimes in these, even when it's really cold, sometimes if you struggle with that, I mean you're more short of air, sometimes that little bit of rescue inhaler can help. Um I do see you used to be on the Combivent. Do you still use that?
+Patient: I um I do have an inhaler. I don't know which one it is because I haven't used it in so long. Um So yeah, I I have one. I just don't know which one it is.
+Nurse: Yeah, that's ment is usually one. Well, yeah, two puffs every four hours as needed for shortness of breath. So it's kind of rescue inhaler too. Um So if you feel like you need a a refill on that, we can get you one if your insurance still covers it.
+Patient: Mhm. No, I don't need anything now, I don't think.
+Nurse: Yeah, just watch that when you're, um, out walking, especially if the humidity is up, try to walk more in the morning or later in the evening when it's not as hot or run errands during that time, um, avoid the hottest part of the day and really stay hydrated with the COPD that will help as well. Um, do you find you have a lot of mucus in the morning?
+Patient: Um, yes. But, um, uh, pharmacist once told me that um, green bananas help that. And in fact, when I was able to get green bananas on a regular basis, the phlegm was less. Now, I haven't been as conscientious about picking up green bananas on a regular basis and so it's back a bit. So that's
+Nurse: Interesting because I have some lung issues and I always pick out the green ones. I wonder if that's why I'm more prone to pick them out.
+Patient: Huh? Interesting. I mean she said in South American countries they know to prescribe green bananas. But um, you know, United States doctors don't know that kind of thing.
+Nurse: Yeah. Yeah, that's, that's true. Um, some of those functional medicine doctors, you know, recommend those type things too. So um well, if you don't need any refills on your meds, um I guess we'll talk to you next month. Um and then if you do need anything before then just give us a call.
+Patient: Sure will.
+Nurse: Alright. You have
+Patient: A good day. Yes. Thank you. You're welcome. Bye bye bye.

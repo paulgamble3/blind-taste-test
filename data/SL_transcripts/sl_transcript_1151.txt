@@ -1,0 +1,72 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Returning your call. Hi, [PHI-Personal], how
+Nurse: Are you doing today?
+Patient: Fine, thanks. How about you?
+Nurse: I'm doing well. Thank you for um returning my call. I much appreciate it. Sure. I'm just calling to let you know that um I'm the nurse care manager for family practice and then I'll be calling you. Um, it looks like I'll be calling you. Mm, on a month to month basis, like once a month just to check in. Make sure you're ok. Address any issues you may have, you know, um I can assist with appointments. You know, sometimes if you call the doctor's office, you might get the run around. I could be that go between person. I can expedite the call, expedite any kind of medication refill. Excuse me, that you may need different things like that. So we'll be touching base with you once a month. But if you were to need me, um, in between those calls, I'll be mailing you out, um, a letter. It's gonna have my phone number and my contact information on it and you'll be able to call me Monday through Friday between eight and 4 30. Mhm. If I'm not available, you can always leave a message and I'll be able to call you back, but that's not an issue also too. Ok. So let you know, um also in this letter, in that letter is gonna be something called wellness goals in there. And so, you know, you probably aware of, but [PHI-Personal] requires that you follow a certain guideline, you know, yearly and so they can continue to pay for your services and things of that nature. So that's gonna be in there also too. Um, um, I don't know if you have time or not but, um, I see that you are, you're allergic to a whole flu of things, huh?
+Patient: Mhm. Yeah. Yeah. I mean, none of it is like an anaphylactic but it's something that doesn't work right with me. Yeah.
+Nurse: Right. I get it. I get it. Well, that's good. Then we would definitely hate for you to be, you know, incapacitated because of those things. Definitely. Um, I'm just gonna, um, review your medications, um, really quick just to make sure that what the doctor has here is correct with what I have and what you have. Ok.
+Patient: Ok. Shall I get my, um, yeah. Yeah, that's, I'll, I'll get my box of meds out. That's easier, I guess. Ok. Whichever
+Nurse: Helps.
+Patient: Hm. Ok. Go ahead. Redacted.
+Nurse: So I have Aspirin 81 mg. Mhm. Ok. And then you take, um, Estrace. Um, it says 10.1 mg, one by mouth every day. That must have been something that was only like a one time thing maybe.
+Patient: Yeah. Uh I have a cream that I use. Is that? Yeah,
+Nurse: That's it. That's
+Patient: It. Ok. Yeah. Ok. Um, yeah, I, I take that to try to keep uh a leaky bladder under control. Ok.
+Nurse: I get it. I get it. Um, you take Furosemide or Lasix 40 mg. Uh ok.
+Patient: Yeah.
+Nurse: Hydrochloro that 200 mg. Yeah. OK. HydrOXYzine. Hcl 25 mg. Mhm. Um Klor Con Pen Meq.
+Patient: Yeah.
+Nurse: Uh let's see. Er [PHI-Personal]. Yeah. Protonix or pantoprazole. 20 mg. Yeah. OK. Uh Pepcid 20 mg.
+Patient: Yeah.
+Nurse: [PHI-Personal] 20 mg.
+Patient: Which one did you say? [PHI-Personal]? Yes, I take that.
+Nurse: Mhm. Spirolactone. Mhm. OK. 25 mg. Mhm OK. Pri one g. That's pr N OK. And then you take Synthroid 100 uh
+Patient: The my Synthroid at 1 12 and I do not take it right now on, on Monday. She had me on I was uh a little high on my last test.
+Nurse: Ok. Got you. Got you. OK. And then let's see you take Lexapro one or 10 mg once a month or that once a day at bedtime. Uh huh. Yeah. And the Wellbutrin 300 mg. Yeah, once a day and then you take one called Sein
+Patient: Cevimeline. Yeah. Only 30 mg
+Nurse: Three times a day.
+Patient: I don't take it three times a day right now. It it's because of, uh, Raynaud's because my hands get blue and stuff. Um, so I'm on, I, right now I'm only taking it one time a day and that's under control. But wintertime it gets worse.
+Nurse: Ok. I see. And then you take Xyzal, uh, and Flonase. Mhm. You got a multivitamin there? Mhm. And I think we might have covered it. Is it? Oh, cranberry. Vitamin D,
+Patient: Yeah, I take that. Mhm.
+Nurse: There anything that, um, we didn't name?
+Patient: Um, no, I don't think so. I
+Nurse: Think we got them all, huh?
+Patient: Yeah, I think that's enough.
+Nurse: How about that? Huh? Ok. All right. How you been feeling since the weather's been, um, pretty good, you've been feeling? Ok.
+Patient: I'm doing ok. Yeah.
+Nurse: How's your, how your Wellbutrin been helping?
+Patient: Definitely. Um, I, I noticed a big difference with the medication. Um, and I, I don't, I don't know if you have in my chart that, uh, [PHI-Personal] had sent me to see a psychiatrist. Um, and they did, I think I saw him three times. Um, and the LA. Yeah, it was just last month. Um, it was my last visit and you know how they, you go in a room if you're old and they give you these tests. Well, this, this time, actually, my comprehension is up where it needs to be. Um, so I think I am responding better to, um, knowing what's going on and, and being with it. Um, I'm not having, you know, the the episodes of, of real depression anymore. It's, it's much better. That's
+Nurse: Good. What's the name of the doctor that you see? Do you remember his name? Uh, I don't see anything in here.
+Patient: Um, [PHI-Personal] sent me to him. Let me see. Let me get my pill bottle and I can tell you. Um.
+Nurse: Right.
+Patient: Hm. Um, doctor, of course, it wrapped around here. It is. Do his first name starts with AJ? And his last name is Chao Chawl. UK.
+Nurse: [PHI-Personal]. UK. Ok.
+Patient: Mhm. And I go out to pots to see him pot. Ok. But I, you know, I finally, after my third visit got to a point where I can go for a year now.
+Nurse: Good. Good. Ok. And then he'll continue to, um, write the scripts for your medications. Correct?
+Patient: Yes.
+Nurse: Ok. Ok. That sounds great.
+Patient: Now, I feel the, the problem that I'm having now is my real short term memory. I can be outside. I'm gonna come in and do something which happened yesterday and I forgot what I came in to do. Um, so that is happening to me and I think my, my husband is nice but I think sometimes I'm getting on his nerves.
+Nurse: Yeah. Yeah. Yeah, because he doesn't understand. That's why. Yeah. Yeah, that's why, that's why. But, you know, he has to be patient. Um, you know, um, a lot of times medications will cause a little bit of memory loss too, but sometimes that's supposed to kind of like go away, you know. Um, but, um, you know, we'll play it by ear, you know. Um, of course, you know, if your symptoms start getting worse, please reach out,
+Patient: Um,
+Nurse: Help you out with that. See if we can maybe rearrange the medications, maybe take you off of something that might be causing it. You know, you just, you know, you just never know what we can
+Patient: Do for
+Nurse: That. And other than that, are you sleeping? Ok, at night.
+Patient: Um, occasionally, um, I can't sleep so I come downstairs and then I'm able to rest. Um, but it's nowhere near like what it used to be. Right.
+Nurse: Right. I see that you have two Children that, um, have some special needs. How's that been going for you?
+Patient: Um, it's ok. Um, [PHI-Personal] is my son, um, and one is my husband's son. Um, they, they, um, they can take care of, you know, the necessities for them themselves, you know, bathing, dressing, eating. Um, but they, they need considerable care. Um, and then of course anything and everything they do, whether it's work or whatever we need to be available for that. And, um, they're very active in Special Olympics so they keep us busy. Um, there's not always a lot of down time. Right. Right.
+Nurse: Ok. I get it, I get it, them keeping busy and keeping you busy. Does that help with your anxiety and your depression?
+Patient: Um, I, I guess it it does but sometimes it gets to be like, can't we do anything for us? You know? I know that sounds terribly selfish. But, um, that, that's just the way it is. Um, you know, they're our kids and they'll be our kids forever.
+Nurse: Yes. Absolutely. You know, I have, uh, um, my grand, my grandson, he's [PHI-Personal] years old and he, um, he's autistic. Yeah. It could be very challenging at times, you know. Um, so I kinda like, understand, um, you know, where you're coming from with it. Mhm. It's difficult but, you know, um, God gave them to us for a reason
+Patient: And, and that's what I, you know, I believe I, I have another daughter, um, who is my son's age. Um, and she's got, um, some, uh, she's, she's got a, a, more of an autism than my son. Um, but she also has some mood and personality issues that go along. So she's a lot more difficult but she does not live with me. So that makes it somebody else's worry.
+Nurse: Right. Right. Well, that's how I am about my grandson. I call his mom and say, um, it's time for him to come home now after he, after he goes through my house, like a little hurricane and tears it up, you know, then I'll call her and say it's time for him to go home. Yeah, I know what you mean. I do. I do. But like I said, you know, God, gave him to us for a reason and, you know, if he didn't think that we were the right people for them, he wouldn't have gave them to us. So, you know,
+Patient: I truly believe that. Yeah. Absolutely. Absolutely. I was, um, and go ahead, I'm sorry, go ahead. I was in, in, in vitro, um, junky, I guess you could tell, call me. Um, I did it and, and so many cycles and then, um, I did lose a child. Um, but then I just stopped responding to the medication. Uh, you know, just so, um, that was a wash out for me. And then, um, my last husband and I decided we'd be foster parents and to our surprise, very early on we hadn't even received our, our license. Um, I got a phone call for a brand new baby. Oh, ok. And six weeks later I got a phone call for another brand new baby. 01 boy and one girl. So, yeah. So that made life good.
+Nurse: That's good. That's good. That's good. So, you knew that they were special need before you got em?
+Patient: No. No. Um, my son, um, he was like, two [PHI-Personal] old. Um, when he, um, I, I went to the Children in news office and picked him up and then 42 [PHI-Personal] later I got a phone call from Children in you that another baby was born and, um, the mother had just left the hospital and, um, but because that went through the court. I was to wait three [PHI-Personal]. So the day I was supposed to go pick her up, I got a call in the morning that said she's been vomiting and we need to take her for some tests. And I said, well, I'm sorry, if my daughter's sick, she needs her mother and I need to be there. Well, you can't come. I said, don't tell me I can't come. Um, so they got a hold of Children and youth and, um, I packed [PHI-Personal] up and we went to the hospital and spent the entire day in the newborn nursery and we walked out the minute that she was, um, old enough to leave the building. Mm. Ok. Yeah, that's cool. That's cool. So they com you know, they, they completed in my life what I was missing.
+Nurse: Right. Right. Yeah. So that's great news. I'm so happy for you and like I said, I'll be calling you once a month. Um, if you need me to speak with you, uh, any sooner than that you can. Like I said, when you get that letter, it'll have my name and my phone number in it and you can always call me it chat. If you want chit chat, we'll chit
+Patient: Chat. Ok,
+Nurse: Talk, we'll
+Patient: Talk.
+Nurse: That's not, that's not a big deal at all. So, and if I don't answer, leave a message and I will definitely get back to you as soon. As I can. Ok.
+Patient: All right, that sounds good.
+Nurse: Thank you so much for your time today. [PHI-Personal]. You have a good day. Ok. Well,
+Patient: Thank you as well. You're welcome. Bye bye now. Bye.

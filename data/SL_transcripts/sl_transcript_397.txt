@@ -1,0 +1,33 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: Yeah how about this is [PHI-Personal] so in [PHI-Personal] how about calling me a prescription in the way please?
+Nurse: Uh one second let me see who your nurse is.
+Patient: Ok. Mm. Ok
+Nurse: Would be [PHI-Personal] and I'm covering her today. Hold on one second let me save this other note.
+Patient: Ok
+Nurse: Your date of birth is [PHI-Personal].
+Patient: That's correct. Yeah. Ok uh get you pulled up.
+Nurse: Alrighty
+Patient: Let me see
+Nurse: What prescription is that you need?
+Patient: I want the Clobetasol cream the 0.5 cream. Ok, I don't know if you can get that in the ointment or not. Can you um
+Nurse: Are you needing it for the legs
+Patient: For my psoriasis? Yeah.
+Nurse: Ok um let's see. Have you had an appointment before?
+Patient: Yeah, it seems to work better than the cream. Let me see I don't know if it cost me more.
+Nurse: I don't know it looks like all they've got on here is a cream.
+Patient: Ok that'll be that'll be fine
+Nurse: Then let me see if they've gotten it ordered before. No, that's a cream too. Um yeah I don't see it ever ordered as an ointment. Now, dermatology might have ordered it as an ointment. Yeah. Ok. I'll try to send that in for you. What pharmacy do you want that sent in to
+Patient: [PHI-Personal] or? E,
+Nurse: Ok. And you're sure it's your psoriasis?
+Patient: Yeah.
+Nurse: Ok. Um, the other thing you might try, have you ever tried the, uh, eucerin ointment?
+Patient: No. Is that a prescription?
+Nurse: No, you can get that over the counter. The [PHI-Personal] has it in there. It's like the aqua fair or Eucerin ointment and um you can get it over there in the lotion section or the cream section and it [PHI-Personal] has its own brand as well and it is uh an ointment which is helpful for psoriasis too.
+Patient: You could use
+Nurse: That in conjunction with that that may help you right? Um, now with your uh issues on your legs and stuff, do you see a, a podiatrist for your legs and your feet? Ok.
+Patient: You don't have
+Nurse: Any spots on your feet, do you? No. Ok. Just make sure you're checking your feet every day since you have diabetes. Ok. Yeah, I do. Yeah you don't want to make you don't want any feet foot uh your your feet to have any breakdown. Ok. Yeah, because if you get any wounds in there you'll be are any of these little spots open?
+Patient: No.
+Nurse: Ok. All right. Well I'll get this sent in and if you need anything else you let me know.
+Patient: Alright. Thank you take in there
+Nurse: Walmart.

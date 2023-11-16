@@ -1,0 +1,25 @@
+Nurse: Thank you for calling the care management program. My name is [PHI-Personal]. How may I help you? Hi [PHI-Personal], this
+Patient: Is [PHI-Personal]. I am returning your call.
+Nurse: Yes, let me get you pulled back up on my system. Can you verify your date of birth for me, please?
+Patient: Yes, [PHI-Personal].
+Nurse: Ok, perfect. Ok. So I'm gonna start by saying we are on a recorded line for quality and training purposes. But the reason for my call today is doctor is providing a care management program that she thought that you could benefit from. And what that is is where a dedicated nurse will call you in between your visits. Provide you with any assistance on your current health conditions. She can help with medications, lab results and community resources and the program helps doctor to stay up to date on your well being. The calls do get documented and given to her for a review and if she sees anything of concern, she will make sure that you do get seen right away. And you also have the option of reaching out to your care nurse if you have any questions in regards to your health or if you need any help with prescription refills, setting up an appointment or rescheduling appointment, things like that. And the program is a available service to Medicare. Medicare Advantage and secondary insurances. It's considered an office visit. So it may be subject to coinsurance, deductibles and copays. I do see that you have Medicare and United American Insurance company. Is that correct? That's correct. Ok. And do you have a copay when you do go see Doctor [PHI-Personal] at the office?
+Patient: Um, I don't have a co pay per se. I have a high deductible plan. So that after they finish, uh, um, we, you know, adjusting everything I usually end up paying about, I don't know, $[PHI-Personal]. It varies depending upon the service. So,
+Nurse: Ok. So with this program, you can always adjust your call frequency. The nurse can contact either once a month, once every two months, every three months or every six months. And like I said, you do have the option of reaching out to her as well. Um, you can contact her, um, and you can have more than one phone call in the month for just the price of one office visit per month. Um, and like I said, you can always adjust the call frequency as well. Would you prefer morning or afternoon calls from the care nurse? Uh,
+Patient: Probably, um, I would think morning
+Nurse: Calls, mornings. Ok. And did you wanna start off with once a month or do you want to start off with every two months, every three months, once a month would
+Patient: Be fine.
+Nurse: Ok,
+Patient: Gives me somebody to talk to on a regular basis.
+Nurse: Yeah. Is your mailing address still? [PHI-Geographic] in [PHI-Geographic]? Yes, it is. Ok, so I'm gonna be sending you out some more information in regards to the program. It's also going to include your nurses contact number in there as well and then she'll reach out to you within the next couple weeks to touch base and introduce yourself. Ok.
+Patient: Ok.
+Nurse: Um, if
+Patient: You could put it, yeah, if you can put just a note in the system, we're gonna be away from, uh, end of next week until the beginning of, of November. We'll be back like the first of November. We're going to [PHI-Geographic].
+Nurse: Ok. We'll be away. So end of next week.
+Patient: Yeah, next week is probably gonna be a tough week. I'm gonna be fairly busy, but, you know, um, yeah, we're, yeah, we're like leaving next Friday. So, and we'll be gone until, um, um, we're coming home the [PHI-Personal].
+Nurse: Ok. Ok. I will document that and let the nurse know as well. Um, and then, uh, you're welcome to opt out of this program at any time as well. Ok.
+Patient: Ok. All right. Oh, it sounds like a
+Nurse: Good program. All right. Do you have any questions?
+Patient: Uh, no. So basically it's kind of a concierge type service once a month. I'll be able to update my, my medical, uh, and everything else and if I need any help, I can always call the nurse. Yeah, that sounds pretty straight forward.
+Nurse: All right. Well, thank you so much for returning my call today and I hope you have a great trip and an amazing weekend. Ok. Thank
+Patient: You, [PHI-Personal]. Have a great weekend. Take care. You too.
+Nurse: Bye bye.

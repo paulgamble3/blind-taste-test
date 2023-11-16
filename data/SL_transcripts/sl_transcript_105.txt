@@ -1,0 +1,12 @@
+Nurse: [PHI-Personal]
+Patient: Management name. This is
+Nurse: [PHI-Personal]. Uh Yes, [PHI-Personal], this is returning your phone call. Yeah, how are you? I'm fine. How are you? Good.
+Patient: Let me get your chart. Pull back. Ok. Yes, ma'am. I was calling you in regards to a care management program. Mhm. That you say MS [PHI-Personal] at the primary.
+Nurse: Yes, ma'am.
+Patient: Ok. So I was calling regarding a care management program that she is providing and thinks it will be beneficial to you and basically what it is is that a nurse will just call you periodically just to check in on you. Um just to see how you're doing like in between your office visits. Make sure you're doing ok. Your medical needs are being met. She can answer any concerns that you may have about your health. She can assist you with medications if you need like refills um lab test results, community resources appointments, anything that pertains to your health, she will help keep [PHI-Personal] more up to date on your current conditions as well as if you were to have any changes. Um and the program is just designed to try to keep patients safer and healthier while trying to avoid emergency room visits. It is a bill service to [PHI-Personal] [PHI-Personal] advantage secondary insurance is in Medicaid. Um, so you have the wellcare Medicaid, which makes you qualify. You don't have to pay anything out of pocket and the nurse can call you either once a month every two months or every three months. Which do you prefer?
+Nurse: Um, let's do every three,
+Patient: Every three months. Ok. Would it be better for her to call you in the morning or afternoon? MS [PHI-Personal], afternoon, afternoon? Ok. And I am going to be mailing you a letter with the nurses information on it, um, for her to do your calls. But now if you need to reach out to her at any time that you need to know, you will always have that option to reach out to her any time that you need to. Ok. But she'll be touching base with you within the next week or so just to give you a little more information and introduction about the program. Um, it's a good mailing address for [PHI-Geographic] in
+Nurse: [PHI-Personal]. Yes, ma'am. Ok. [PHI-Personal]
+Patient: [PHI-Account]. Mhm. Ok. Thank you so much for returning my call and you enjoy the rest of your day, Miss [PHI-Personal].
+Nurse: Thank you. You
+Patient: Too. Bye bye.

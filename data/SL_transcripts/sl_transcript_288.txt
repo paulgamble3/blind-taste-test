@@ -1,0 +1,56 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: Yeah, this is [PHI-Personal] in [PHI-Geographic]. Hi,
+Nurse: [PHI-Personal]. I had your chart up to call you this morning. Oh,
+Patient: So what's
+Nurse: Happening? All right. So this is where I'm at. I have looked through every resource that I can. Um, I've talked to Pro Medica a couple of times. Um, I have talked to internal billing. I am being told by Pro Medica billing that the [PHI-Personal], um, term ended that the, the card was no longer active. Um, they could not get me a date for when that last day that it was active. Um, however, I've talked to multiple people. I keep trying to get somebody who can find that for me. Um, but nobody can get me that information. Um, so unfortunately, the thing that I'd have to say is to call and speak with [PHI-Personal].
+Patient: How could it
+Nurse: End? I, I don't, I can't get answer. I've, I've talked to Pro Medica billing, I've talked to three different people on, on different dates and different times. Um, and they're all telling me that it was denied because the, the service was, was no longer active.
+Patient: What where were they at?
+Nurse: What do you mean where they,
+Patient: Well, like they get into the bank, they [PHI-Personal] the people's, uh, accounts and whatever, uh, could, could it be somebody else got a hold of my number somehow? Because I don't give it out.
+Nurse: Yeah, I
+Patient: Wrote it at the doctor's office. They have a, a copy of it, you know, and the eye doctors, they have a copy of it and everything. So,
+Nurse: I, I understand. I, I don't, I wish I had an answer for you. I, I wish I could answer this. Like I said, I've tried talking to the billing multiple times and I just, I can't get any more of an answer other than that it was denied because the service had ended. Um, I'm happy to give you their number that you can call and speak with them or just to call [PHI-Personal] directly. Um, but that's all the information that I've been able to get.
+Patient: Oh, this is re I'm, I'm gonna have to get my daughter involved. She has power of attorney for all my finances and medical and that. So I'm gonna have to get her involved in this. I was trying not to be on account of all the hours that she's working. She works for the city, uh, [PHI-Geographic] and that, and, oh man, because I can't even, uh, go and see the doctor or anything because I can't afford those prices
+Nurse: And, and what I, what I would do is I, I will shoot a message over. I will document our conversation that it's here in your chart so that anybody can reference it from the office. Um, but I can give you Promes billing number if you'd like to call and speak with them directly or have your daughter call and speak with them directly. Um I'll,
+Patient: I'll take that number,
+Nurse: Please. All right. Let me know when you're ready for it. I'm ready. Ok. It is [PHI-Account] [PHI-Account]. Ok, [PHI-Account].
+Patient: And that's for
+Nurse: Billing. That is their billing, correct?
+Patient: Ok. And your name is [PHI-Personal]?
+Nurse: Mhm. I'm [PHI-Personal].
+Patient: Ok. And I can tell them or have her tell them that you have spoke with them.
+Nurse: I have, I've. Mhm. I've spoken with [PHI-Personal] and I've spoken with [PHI-Personal] are the two people that I've spoken with?
+Patient: Ok. And [PHI-Personal]. Correct. Mhm. Ok. Uh, and this, this is just making me sick to my stomach. I, what do they think? I died?
+Nurse: I'm so sorry. I, I wish I had more answers.
+Patient: I guess that's what I should do.
+Nurse: No, no, no,
+Patient: I ju I just don't understand anything.
+Nurse: Mm. I don't know if they would be willing to give you more if they have other information and they would be willing to, to talk to you about that information more. Um, I verified the number that they had on file. Um, they told me that that was the one that they submitted to and, you know, I, I don't know if, maybe if you spoke with them, if they had something else that they would be able to give more information for. Um,
+Patient: Uh, I tell you, if you couldn't find out anything, I don't know how I could find out anything either.
+Nurse: Well, I just don't know if, maybe there was something else that they could see that they wouldn't talk to me about because I'm, I'm not you or I'm not your power of attorney. I don't, I don't have that, um, you know, financial side of things. Um, you know, I'm, I'm just a nurse as far as they're concerned. Um, I don't know if there's something else that they would have and that they would be able to give more information. Um, I, I would definitely with your daughter or by yourself, recommend calling, calling them and then calling the [PHI-Personal] number just to find out what exactly is going on. But like I said, I will, I will document this up in your chart so that anybody that pulls up your charts can be able to reference this and know that we're, that there's a problem that is being worked through. Um, just so that it's, it's referenced.
+Patient: Well, I don't have any much until [PHI-Personal] and [PHI-Personal], but right now I feel I should cancel everything.
+Nurse: II, I would keep those appointments because sometimes it's hard to get those and [PHI-Personal] is, is three months away so a lot can happen in that time.
+Patient: Yeah. Hm. I guess I don't exist.
+Nurse: Oh, no, I'm so sorry.
+Patient: Nobody else has
+Nurse: Had a problem. No, I've not had anybody else that's, that's had an issue like this, that said that their, their, their [PHI-Personal] is, is no longer active.
+Patient: That this is something. Well, I'll call my daughter and let her in on it and I don't know what she actually, what she can do
+Nurse: Well with you. I mean, call and talk to them. Um, does she have medical or does she have financial decision making that she would be able to, to let them know she's, you know, powerful for me and she has that. Ok. So she should be perfect. So she should be able to, to call with or without you and talk to them and just say, you know, hey, we've gotten this a problem has come up, help us figure out what's going on because this is getting denied and it shouldn't be,
+Patient: Uh, because in case anything God forbid happens that I can't speak for myself, she can handle things. You know, that's why I got it and had her, you know, um, V power of attorney.
+Nurse: Sure. Kind of that safety net. Right.
+Patient: And hm, this would be funny if it wasn't so exasperating.
+Nurse: I understand that.
+Patient: Well, ok, [PHI-Personal], I just was wondering,
+Nurse: Yes, like I said, I, I had you up this morning I was planning actually getting ready to call you. I had your chart up and I was like, ok, I've exhausted everything. Everybody that I can talk to, I can't get any more information. And it was like, oh, I was really hoping to get something for you and I was, I was really trying to get something for you.
+Patient: They say [PHI-Personal] has been what?
+Nurse: Yes. So what they said is that, let me see if I have their exact word and that it had lapsed is their exact wording for it. Is that the, the [PHI-Personal] number when they looked for that? It came back as a denial saying that coverage had lapsed.
+Patient: Ok, let me ask you this. Maybe you can answer it. Will I be getting a social security check?
+Nurse: I don't know anything about that. I'm sorry
+Patient: Because the part B and the part D is the B on that is taken out of that check.
+Nurse: That would be a question for [PHI-Personal] directly. I, I don't have any information or any knowledge on that. I'm sorry.
+Patient: [PHI-Personal] hm. Hm. Ok. All right. I'll give my daughter a call and see what he has to say and if we find out anything I'll let you know.
+Nurse: Ok, thanks [PHI-Personal].
+Patient: I will be here.
+Nurse: You're welcome.
+Patient: Alrighty. Bye bye.

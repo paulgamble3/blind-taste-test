@@ -1,0 +1,77 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, this is returning your call. Hi, [PHI-Personal], how
+Nurse: Are you?
+Patient: Good. How are
+Nurse: You? Good. Thanks for asking. Let me get back into your chart here.
+Patient: Mhm.
+Nurse: Ok. No. Ok. So you still have the [PHI-Personal] for [PHI-Personal].
+Patient: Yes, ma'am. Ok.
+Nurse: Date of birth is [PHI-Personal]. Yes. And you're still at [PHI-Geographic],
+Patient: Correct? Ok.
+Nurse: So let's see, the last time I spoke with you was in [PHI-Personal] and then no, you did not have that [PHI-Personal] 9th. Ok. Have you had any changes since I spoke with you last?
+Patient: No.
+Nurse: Uh, uh, it looks like you've seen the eye doctor [PHI-Personal] 18th.
+Patient: Oh, yeah, I did. I'm sorry? No,
+Nurse: That's ok. That's an easy one to forget because it's so routine. Um, and then they just recommended that you take the ads too. Supplement. Oh,
+Patient: I've been on that for a while now.
+Nurse: Oh, ok. And then did they change anything else or do anything?
+Patient: No. Huh.
+Nurse: Ok. You're just supposed to contact them if there's any, if your vision worsens, obviously. But.
+Patient: Right. Right.
+Nurse: Do you get, um, do you get any injections at all?
+Patient: No, mine is the we or the dry? Ok. Got you. Ok, good.
+Nurse: All right. And you're just supposed to follow up with them in six months and the S two that you take, you take two of those once a day. No one or sorry, one that the 20 throws me off. It's one twice a day but it's called S two.
+Patient: Ok. No, I don't take it twice a day. I take one pill a day. Oh,
+Nurse: Ok. Because they wanted you. The, the note says take one pill twice a day. Oh, you're kidding? Huh? That's what I mean. That's what it says in the note here that they recommend you take
+Patient: The red. Trust it beca and the only reason I say that is because they have me on an eye drop for, well, the one I have macular degeneration, the other eye is glaucoma and I'm taking an eye drop for that. Mhm. And I got my, my to load of eye drops and on the directions it says one drop in both eyes. So I thought, well, am I doing this wrong? So I called the doctor's office and she checked with the doctor. He said, no, she just one drop in one eye. The left eye.
+Nurse: Yeah. The Latanoprost.
+Patient: Yeah. And, and, and the nurse told him that they, what they were doing, they were giving directions to put one drop in both eyes and he said, no contact them and tell them they need to change that. Well, they change it. But now they sent me another three months supply. And, well, and then I, then I said something to the doctor when I was in, I told them about this and I said, you know, I wasn't thinking about it when I got the supply and I put it in my kitchen cupboard where I keep all my medicines and it dawned on me one day you're supposed to keep it refrigerated until you open it. Ok. Yeah. And he said, don't worry about it. All our samples that we give out here are never refrigerated. Oh, ok. I said that's fine because I would have had to have thrown them out. Yeah, so things get screwed up. Ok. So now you're saying I need to take one twice a day, that's what it says.
+Nurse: Um, and that's usually the recommendation. But, um, yeah, and then, uh, you also take the atorvastatin 20 mg once a day for your cholesterol.
+Patient: Uh, nothing has changed. I don't know the medicines anymore unless I have them in front of me. Do you
+Nurse: Have them in front of you? I was just gonna go over them before your appointment so they don't have to, but I can't say I reviewed them unless we actually review
+Patient: Them. Yeah. Hold, hold on.
+Nurse: That's ok. I'm just gonna make it easier since it won't be in front of you. There. I just because sometimes there's little things that changes that don't always get updated in
+Patient: There. I can talk, but I'm walking. You're ok. Hold on on. My house is a mess. I was getting ready to clean. I remembered I had an appointment for my cat and that's where I was at when you called.
+Nurse: Ok. And thanks for calling back.
+Patient: My kitchen is all torn apart. Ok. What's the name of that?
+Nurse: Atorvastatin? 20 mg once a day? I guess it would help
+Patient: If I would put my glasses. Yeah, I see it. It's here. OK.
+Nurse: And then the Dian 1 80 once a day.
+Patient: Is that [PHI-Personal] dash [PHI-Personal] OK.
+Nurse: OK. And then gabapentin 603 times a day.
+Patient: Yeah. But boy, I wish they could do something better. Oh my God. My foot kills me sometimes.
+Nurse: And then you take potassium 20 meq ss. Yep. Pantoprazole. 40 mg once a day. What was that one? Pantoprazole for your stomach? Yep. Um The sildenafil 20 mg up to three tabs a day. Yes. OK. And then, well,
+Patient: I have it down as is that? Say that again? I said it. It's [PHI-Geographic]
+Nurse: Is the other word.
+Patient: Oh OK. Yeah. OK.
+Nurse: And then the inhaler two puffs once a day. Y Torsemide 10 mg once a day. Yep. And then Warfarin as directed. Yep. Anything else
+Patient: [PHI-Personal]? Yep. Did we say that
+Nurse: One? Nope, I sure didn't, but it is right here.
+Patient: And then then uh the, um, eye drops. Yeah. Yeah.
+Nurse: Ok. And do you use a pill box to keep track of your medications? Yes. Ok. I
+Patient: Might be lost if I didn't.
+Nurse: And then do you have it? Go ahead.
+Patient: Diclofenac sodium, topical
+Nurse: Gel. Oh, yes. Topical gel. That's just as needed though, correct? Yeah.
+Patient: What is, what is it
+Nurse: That's for pain?
+Patient: Oh, ok. For
+Nurse: Arthritis. Yes. That's what you can apply up to three ti, or sorry, up to four times a day as needed for arthritic, for arthritic pain.
+Patient: Yeah. Ok. What is the difference between, just, I don't know if there's such a thing as regular arthritis and I'm seeing so much on Facebook about, oh, what are they calling? It's an arthritis but it's psoriatic or something like that. Arthritis,
+Nurse: Psoriatic arthritis.
+Patient: Yes.
+Nurse: Um, that one is, it's like, that's a form of arthritis that affects people. Some people who have the skin condition like psoriasis. So, it's a type of inflammatory arthritis. Um, cause psoriatic comes from psoriasis and psoriasis is like that really dry skin, like condition that people have?
+Patient: Yeah. Ok.
+Nurse: Yeah. So, um, yeah, like it can just, you know, that's a type of arthritis that can cause like skin rashes and, you know, other things. But, um, yeah, the psoriatic arthritis,
+Patient: It, I just wondered, you know, it's real. I know I have arthritis in my feet and my ankles. I know that for a fact. And right now I'm looking down my left ankle is swollen. Mhm. My right ankle is ok. Today, not tomorrow I can get up and when I turn my foot inward on my, uh, ankle bone, it's like a ball. Mm. Not today. It's fine. It's no, is
+Nurse: That swelling something new?
+Patient: Uh, it's more profound than what it used to be. Yeah. Ok.
+Nurse: Ok. And then so, but, um, so I would definitely just bring that up to um, Doctor [PHI-Personal] when you see him in a couple of weeks. Um and just a few things that can help with swelling while you're at home um in general, um you know, movement can help. Um Yes and I, yeah, I assume so. Um but I'm just letting you know like especially your legs, it helps um pump the excess fluid back towards your heart, but whenever you're sitting down, just make sure you elevate your legs um up. Yep, I do and, and then um you know, like massage can help, you know, stroke on the affected area like towards your heart using firm but not painful. Like pressure can help move the excess fluid out of there as well. Um And then just make sure you reduce your salt intake because sometimes salt can increase that fluid retention.
+Patient: Yeah. Yeah. So those are some things you can do, you could ever do without salt, salt completely
+Nurse: But, and that's ok. Just reduce it. Um try not to add too much um that those are just some things, you know, you can try to change to see if that helps, but definitely, you know, bring that to the attention of Doctor [PHI-Personal] when you see him and get his thoughts and opinions on that as well.
+Patient: Ok. Ok. All right. Don't think you, that's all I can say. You
+Nurse: Know, it's a trap. I know. I don't wanna get old if I had a choice I would.
+Patient: Um,
+Nurse: But, yeah, I will give you a call next month but if you have any questions or concerns in the meantime, um, feel free to reach out to me as well. Ok, I
+Patient: Will do that if, if needed. Um
+Nurse: Ok. All right. You have a great rest of your day Fran. Ok. You too. Bye. Thank you. Thanks for calling me back. Sure. Right. Bye.

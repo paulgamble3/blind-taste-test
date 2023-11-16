@@ -1,0 +1,13 @@
+Nurse: Good afternoon speaking.
+Patient: Yeah, this is returning your call. Oh, yes,
+Nurse: Hi. How are you doing today, [PHI-Personal]?
+Patient: Ok. How about yourself?
+Nurse: I'm doing well. Thank you for asking. So, the reason I was actually calling uh just so you know, this is a recorded line for quality purposes. Uh The reason I was actually calling is doctor is providing a care management and a behavior program that she thought that you can benefit from and pretty much what the program is, you're going to get a call from your dedicated nurse in between your office visits. Uh She's gonna provide any assistance as far as there's any current health conditions. Also, prescription refills, prescription cost reductions, uh setting up a rescheduling appointment, community resources. Just simple questions about your health also. Uh the program just helps the doctor just to stay up to date on your wellbeing and any changes that may happen. Now, I do want to mention that this program, it is a billable service to [PHI-Personal], [PHI-Personal] advantage and secondary insurances. So I may be subject to coinsurance, deductibles and copays. But I do see that you have Aetna [PHI-Personal]. Is that correct? Yeah. Ok. Perfect. Now, as far as doctor s office, they would like to know if you would prefer a morning call or an afternoon call from the care management nurse.
+Patient: Well, I don't know. Is this really necessary right now?
+Nurse: Um, you don't have to do it right now, if you like, I can send you the information and if you do
+Patient: That, I, I'm, I said I'm capable of doing all that right now, but there may come a time I'm not, you know.
+Nurse: Yeah, absolutely. Ok. I'll definitely send you the information and just to make sure I have the correct address here. I have a 23 Fairground Road, Liverpool, Pennsylvania,
+Patient: Right? [PHI-Account].
+Nurse: Perfect, perfect. Alright. Well, I do appreciate your return call and I'll go ahead and send that information for you. Ok?
+Patient: Ok. Thank you. You have a good day. You same to you.
+Nurse: Thank you. Bye bye.

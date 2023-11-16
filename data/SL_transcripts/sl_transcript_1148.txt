@@ -1,0 +1,108 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi [PHI-Personal]. This is uh [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you? I'm alright. Good, good. I actually
+Patient: Remembered to call you when I'm not at work.
+Nurse: Uh, how's things going for you? Well, it's,
+Patient: It's going pretty good. Um, my job isn't hard. Ah,
+Nurse: That's ok. Still a job. What's that? I said that's ok. It's still a job, you know, it doesn't have to be hard.
+Patient: So, um, is there anything you wanted to ask me about?
+Nurse: Um, no, I was just doing my monthly check in with you just, um, you know, making sure you're doing ok, any changes to medications,
+Patient: Um, medication wise. I, no, I think everything is the same.
+Nurse: Ok, good.
+Patient: I mean, I could start my own pharmacy with how many I want. But,
+Nurse: Oh, yeah, I have a gentleman. Oh, my goodness. He's like late [PHI-Personal]. He's on like 27 different medications. Oh, yeah. Like when I get in his medical record I just have to keep scrolling down and down and down and down until I get to the end of his med list. It's insane. And I think to myself, you know, I feel like sometimes when you get on that many medications, I feel like that's what's causing your problems. You know what I mean? Like? Ok, well, you're taking this medication to help what this medication is causing and it's just a total domino effect, you know? Yeah. Gosh, it's crazy. Yeah. Um, all right. So, BP, remind me, do you check that at home?
+Patient: I don't really have an
+Nurse: Issue with it.
+Patient: No, it's usually like 1 10 to, you know, a little under 1 20. Systolic.
+Nurse: Ok. Yeah, not bad. No, that's good. Um All right. Are you having any issues at and you know, whatsoever like um I don't know anything you're concerned about any increased swelling to your hands, feet or [PHI-Personal] uh change. Ok. Fatigue, lack of energy, loss of appetite.
+Patient: Well, I mean, as far as um energy, I do get, you know, kind of tired a lot during the day. Um
+Nurse: Are you sleeping at night?
+Patient: It takes a while. But yeah, I eventually fall asleep.
+Nurse: Ok. Um
+Patient: I think that's what I take. The hydrOXYzine and the um [PHI-Personal].
+Nurse: Ok. I don't have hydrOXYzine on your list. No, you don't. Uh let me double check when I get back in there. Mhm. I'm just trying to see if it's called something else because I don't, I have, here's what I have B complex Benz Benztropine, Depakote uh desmopressin, fenofibrate magnesium meclizine, metoprolol, a multivitamin, paroxetine, requip, Singulair, tamsulosin, vitamin D three and Wellbutrin.
+Patient: Yeah, that's pretty much it for now. No.
+Nurse: So, your hydrOXYzine, um, do you know what the strength is?
+Patient: Well, I think it's the lowest. Right. Hang on a second. Get my pharmacy out here. Uh, the bottle says 25 mg. Ok. And
+Nurse: You take it daily, you take it every day at bedtime. Y ok.
+Patient: I think it's supposed to help make me a little drowsy. Yeah. Nothing like that.
+Nurse: So, whenever you, so getting, you know, ready for bed and that kind of stuff, do you watch TV? Do you watch your ipad or phone or something prior to going to sleep?
+Patient: Yeah. Actually I, and usually when I get, during the week, when I get home from work about, I don't know, [PHI-Account] give or take, uh, I'll usually get something that you go on my computer for 20 minutes and then I go straight up to bed. Um, but yeah, I, I've, I've heard about the,
+Nurse: Yeah, messes with your, with the sensors in your eyes and then, you know, it, it has a hard time telling your brain to shut down. Um, because that, you know, that light is constantly stimulating and flickering in the back of your eye. So, yeah. Yeah, they say to not, yeah, try to shut that stuff down like an hour before you go to bed. But if you're getting home that late, I mean, that's kind of hard but, I mean, there's other things you can do you know, um, I don't know if you like to read but you can try to read. Um, you can, yeah, I don't know. It's hard to say whenever you get home that late because you probably just wanna go to bed. Um, but, you know, just trying to find a routine, something that's gonna help, you know, kind of calm yourself down, maybe, you know, drink a, a cup of hot tea, just kind of sit quietly for a little bit, you know, I don't know, something just to kind of, you know, calm yourself a little bit. Um, now when you take that hydrOXYzine, how soon before you go to bed? Do you take it?
+Patient: Um, typically I will, as soon as I get home from work, I will take my, my nighttime meds. Ok. Uh, I, that's, you know, I, I'll usually just go do something to, until it starts to take effect. Ok. And then I'll, when I feel it, you know, making me drowsy or something, I'll just go to bed.
+Nurse: Ok. Well, that's good. Um, yeah, and that's the thing with any of those kind of nighttime meds, you know, they say take it at least a half hour to an hour before you go to bed so that you're doing that right. Have you ever done like Melatonin or anything? Uh, not
+Patient: Good. I have, um, nightmares really bad.
+Nurse: Ok. Ok. I would like to ask my patients about that just because it's kind of, more of a natural, you know, um, sleep aid. So, um, but yeah, everybody, uh, it affects everybody differently. So, yeah, definitely. Don't wanna do that. If that's, that's the side effect you're getting,
+Patient: My wife will have tested it because
+Nurse: I know that's terrible.
+Patient: I get nightmares and start thrashing. Of course, you know, she's right next to me and,
+Nurse: Oh, God, love her friend's like, what's going on.
+Patient: Oh, I usually wake up screaming.
+Nurse: Oh, my God. That's crazy. I wonder why? Maybe it hasn't, maybe it interacts with one of your other medications. I wouldn't think it would because it's natural. But I guess you never know. Yeah. You know. Huh. That's crazy. Mhm. Um, all right. So, any, like, hallucinations, delusions, um, feelings of depression recently?
+Patient: Um, no, I mean, maybe a little depressed,
+Nurse: But do you think it's more of like a seasonal depression? Um, or do you feel like it's well associated with, with something else?
+Patient: Yeah. Um, I think it could be a little bit of both seasonal and just life in general. Ok. But that's why I take the D three as far as the seasonal,
+Nurse: Yeah, seasonal depression can definitely get you down. I mean, you know, it's cold, it's gloomy, you know. Nobody wants to be out and, yeah, you just start to feel like social withdrawal and, yeah, you can cause overeating and, you know, if that kind of stuff. But, yeah, I mean, do you talk with the therapist or anything. Do you have one?
+Patient: I used to until my insurance changed. They won't cover them. But, uh, you, uh, you just mentioned about the overeating. Um, yeah, I don't overeat but I have lost a lot weight. Um, and I was up at like, 1 60 to 1 65. Um, maybe even close to 1 70. I'm now down to like 1 50 to 1 55. I don't know why I lost all the weight. But,
+Nurse: Well, I think last time we talked, didn't you say you've cut out, like, all sugar and you've changed your diet? Is that who that I was talking with? I started
+Patient: A little more sugar. But, yeah, at that point I had, like, pretty much cut it off.
+Nurse: Yeah. Uh, you
+Patient: Know, after I got home from work or something, it, it was no sugar.
+Nurse: Yeah, I mean, that'll definitely help in the long run as far as, you know, losing weight now. I mean, 10 lbs and, and how over, what course of time have you lost that weight?
+Patient: Um, I don't know, an accurate estimate here, but I'm thinking a few months, maybe four months, five months, maybe.
+Nurse: Ok. Any, like, new developing symptoms of any sort, like change in bowel habit change in urinary habit change, uh, like headaches, blurred vision. Um,
+Patient: I've been getting dizzy. Um, quite
+Nurse: A bit. Is that new? Well, you do have meclizine on your list.
+Patient: I don't take that very often. No, I only take that as needed. Um, ok.
+Nurse: Well, that's what that's for, you know, for dizziness. So, if you do need it, definitely take it if you have it,
+Patient: Uh, you, the, the dizziness typically is the worst when, like, I stand up and have to stretch or something, you know, do a scratch and then all of a sudden I'm low on my head spinning and I usually fall over.
+Nurse: Ok. So that, to me sounds like what we call, um, orthostatic hypotension. So when that happens, I want you to check your BP like immediately if you can, because what that's gonna tell us is, you know, if at any point you're standing up and you're exerting yourself like that and your BP is dropping, it's gonna show. So your BP is gonna say, you know, 80/60 or possibly could be even lower if you're actually falling over. Um, which in turn, that could be causing dizziness. You know, if your BP is going too low, you're gonna be dizzy.
+Patient: Absolutely. Gravity can.
+Nurse: Yeah. So, and at any time when you feel that dizziness or when you stand up and you have those symptoms, um, if you can check your BP for me, um, and let me know what it is because I'll be curious because it might just be, you know, we might have to reevaluate your medications a little bit.
+Patient: Ok. Um, I do know, in the past I've had the, uh, the tilt. I, I think they call it a tilt test. It's been a while you lay down, they check your pressure, you sit up, they take it immediately then and then stand up. Uh, that, I mean, it was a long time ago when I, when they did it but, um, pretty sure my pressure dropped like 10 to 20 points when I went from sitting to standing. Ok. But I mean, that was a long time ago. So it wasn't that big of
+Nurse: A deal.
+Patient: I mean, my systolic was a little higher than what it is now.
+Nurse: Ok. So let's see when you were at the office in [PHI-Personal], it was 1 10/82. So that's not bad. I mean, you know, some people just have lower BP but if it's already at 1 10 and you're standing up and it's dropping to, like I said, like 80 or something, then yes, it's definitely gonna cause that dizziness. Do you feel like you whenever you do that when you stand up, you stretch, you get dizzy, you fall. Are you like kind of like losing like you go a little like blurred vision, like blurred vision when that happens and
+Patient: Recall any blurred vision, it's just my head feels like it's spinning and then I kind of lose my balance. Ok.
+Nurse: Um
+Patient: Of course, my wife yells at me about it. I said don't stretch when you first stand up, you gotta let your BP
+Nurse: Catch, you gotta give yourself a minute.
+Patient: I think it's called pot or something like that. She said, I don't know exactly what it means, but,
+Nurse: Um, ok, are you drinking enough fluids during the day? Probably not,
+Patient: Not like water or anything.
+Nurse: Ok, definitely do that because that will help BP, you know, the more water you drink that does help to thin your blood a little bit and it, you know, helps to clean it out and everything filters better. Um, which then in turn makes it easier for your heart to pump everything through. You can do that. Um, now it could be, you know, there's different things that can cause that high dehydration, heart problems, endocrine problems, nervous system disorders. Um, what
+Patient: About kidneys? Could that cause an issue with that?
+Nurse: Um, it possibly if they're not filtering, right? You know, because kidneys are a filter for all of the junk. Um, so if there's something that's still hanging on in there, you're, that's what I mean about, you know, increasing your fluid intake because the more water you drink, the more you're gonna urinate, which keeps everything clean. Yeah. Well,
+Patient: I was just wondering though, could I think I've been diagnosed with what stage two kidney disease or something. Um, what I was thinking is, you know, even if drinking more water would thin out my blood, I mean, if the kidneys aren't still not filtering out what it's supposed to. Um, then, you know, it would, it really make a difference.
+Nurse: Um, yeah, it would, it would. Do you have any swelling in your hands? Feet or
+Patient: [PHI-Personal]? I'm sorry. That's ok. Um, what, what was it you
+Nurse: Asked? Do you have any swelling in, like your hands, feet or [PHI-Personal]? Not
+Patient: That I've noticed, you know, the, the edema and I haven't noticed any, if anything, I've lost a lot of, uh, muscle. Ok.
+Nurse: Ok. I mean, the biggest signs of, you know, kidney disease is that the edema, the discomfort or even, you know, you can get like swelling in the abdomen. Uh huh. Frequent urinary, urgency, fatigue, lack of energy, loss of appetite, nausea, vomiting, taste
+Patient: Changes. Yeah. Yeah, I definitely have pretty bad.
+Nurse: So, the biggest things to help with kidney disease is controlling your BP, eating healthy, controlling your blood sugar for sure. Which sounds like you've done a pretty good job of that, you know, just cutting out those sugars is huge. So, that's great. Um, controlling cholesterol, limiting alcohol, quit smoking. Um, those are pretty much the biggest things that, you know, non medicinally that you can help with yourself. Ok. Um, I'm just trying to think of what else I can tell you about it. I don't know. I really do think maybe you should, um, you know, maybe we should think about doing another orthostatic test on you.
+Patient: Uh, going to the F PC or?
+Nurse: Yeah, the nurses could do that. Yeah, I'll send, I can send a message to Doctor [PHI-Personal] just letting him know about that. Have you ever told him about that?
+Patient: Um, I know, I don't know. I don't know that
+Nurse: That's ok. What I can do is send him a message, just let him know about that and just, you know, he's pretty good at agreeing with my suggestion. So, um, I don't think he would have to do an office visit with you. It would probably just be a nurse visit. You just go in and the nurses would just do that test on you and then he would, um, just kind of take it from there, you know, review it and see what's going on. Um, but it does see that at your appointment in [PHI-Personal], he was going to have you set up to see cardiology. Did you do that yet?
+Patient: Uh, no, I didn't.
+Nurse: Ok. Have they called you to, to, uh, um, to
+Patient: Schedule? Actually, I haven't, I haven't got a call about being referred or anything.
+Nurse: All right, let me see. Let me just make sure that that order went out. Um,
+Patient: I mean, doctor has been the one who's been, you know, doing my, uh, the cardiac med, the metoprolol since the last cardiologist I had kind of disappeared. I don't know what happened to him.
+Nurse: Well, from Doctor [PHI-Personal] Notes, it says, um, because you had an EKG done correct? Correct? Ok. It's, he said shows, no, I can't even say this word ischemic changes. Um, but he said we'll set him up for, we'll set him up to see cardiology now with his family, history of young mis and his history of SCTS. So, he referred you to [PHI-Personal]. Is that who you saw before?
+Patient: Oh, yeah. Uh, I saw him a while back at, uh, uh, [PHI-Personal].
+Nurse: Ok. So, is that where you wanna go again? Since he's kind of familiar with you or uh, is he in network for your insurance that you know of?
+Patient: Yeah, I'm on gold again. Um It's not [PHI-Personal] anymore. Um, ok, so he
+Nurse: Should, he should be in this place. But, um, what would be closer for you just since I'm not in your area?
+Patient: [PHI-Personal]? Um, I know there's a g singer facility there. Ok. I mean, there's a, the, uh, is it a quick in and out thing? Um, [PHI-Personal], I think it's called but that's not for, you know, I don't think that's for like actual issue, long term
+Nurse: Issues, I think. Now, I don't think so. You would have to, I can, what I'll do is I'll send a message to, I'll send a message to Doctor [PHI-Personal] about the, about that and then I'll ask him if we can get a referral elsewhere. Um, just so that you're closer and we'll just go from there and see what he says. If at that point he um, if he does send a referral elsewhere, I will let you know or he sends it, but I, I will request that, you know, he sends it to some, to a singer facility in [PHI-Geographic]. All right. That sounds good. Ok. All right, perfect. All right. Well, as soon as I hear back from him, I will let you know. Um, is there any other questions or concerns you have today? Oh, hold on. Don't hang up yet. I had another something else to tell you. So, looking back at his report again from [PHI-Personal], um, regarding your abnormal weight loss. Yeah, that affect his appetite and likely cause. Ok, so he thinks it's the new medication that you were on the new psyched you had. Um, he said patient started on new medication by psych that has affected his appetite and likely causing his weight loss. Just had labs of thyroid checked in [PHI-Personal]. And that was, let me see what your thyroid was.
+Patient: Pretty sure we say.
+Nurse: Yeah, he just said thyroid is within normal limits. Let me see what the number was. TSH or T three was 1.1 T four was eight TSH was 2.29. So right in smack dab in the middle where it should be. Ok. So that all looked good. So he's thinking it was medication induced. Um, do you know which medication was your most recent one from psych?
+Patient: Um, the only one that I think it was the Benztropine, that's the most recent one.
+Nurse: Ok, twice a day. Let me just look this up real quick and see what the side effects are.
+Patient: I only take that as needed at night. I go for the Restless Leg syndrome. Ok.
+Nurse: Mhm. Um, well, the only thing I can say it doesn't say anything, um, is if it's some type of suppressant, you know, it's technically it's called an anti tremor. So it's meant to slow things down. So, if that's the case, but you said you're only taking it as needed. Yeah. I mean, if I'm having a bad,
+Patient: No, I, well, I take the requip every night and that, I guess does the same, almost the same thing. It's for the restless [PHI-Personal], but for some reason that's not helping, then I have the zine.
+Nurse: I got you. Ok. Ok. Well, I think we should definitely get you set up with cardiology. Um, just to be on the safe side, you know, they can see if there's anything else going on. Um, and then, but, yeah, I mean, as far as the weight loss, I think so too, it probably is medication induced. Um, you're not really having any other major symptoms, you know, like change in bowel urine or, I mean, abdominal pain or cramping, you know. So I wouldn't think that it would be, I don't think it's something, you know. Yeah, like that. Ok. So, all right. Well, let me reach out to him. As soon as I hear back from Doctor [PHI-Personal], I will let you know what he says. All right. All right, [PHI-Personal]. Take care. Have a good day. You too.
+Patient: Thanks. Bye bye.

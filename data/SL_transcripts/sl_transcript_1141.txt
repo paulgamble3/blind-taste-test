@@ -1,0 +1,20 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: This is [PHI-Personal]. How are you doing today? I'm
+Nurse: Well, how are you, sir?
+Patient: I'm doing good. I, um, um, did you get a Valentine's this morning? Did anybody send you a Valentine's card or gift or anything like that?
+Nurse: No, not yet, sir.
+Patient: I, well, I got one, believe it or not. Well, they, they should have sent you one. I, if I had your mailing address, I would have, uh, I guess, uh, I'm gonna go ahead and stick with the general. So I guess you're, you're going to be my nurse and stuff. So, uh, doctor called me up Saturday evening and, um, we went over m over my blood test and I, and, uh, and she, she said that she apologized about that, uh, about the mix up on all the payments and stuff. And she said that she had contacted them and told them to get it correct and they called me up, they called me up and, uh, they were trying to get it corrected and, uh, so I guess that, uh, I'm gonna be sticking with you.
+Nurse: All right, good.
+Patient: You haven't dismissed me totally. Have you?
+Nurse: Oh, it's nothing but a few clicks. We can get you back in the system. I've already got you pulled up here, so we'll get it all back, straight and narrow. Um, I'm glad to see that doctor reached out with you and spoke about those blood work. It looks like the, she discussed just your liver enzymes could be elevated, um, related to just fatty liver or the alcohol or even the pravastatin medication. So, just kind of keep an eye on those things and then she wants to repeat some blood work in a few months. Huh?
+Patient: Yeah. Uh, uh, just off the, I told her about the, uh, the deal that I was just rattling. Uh, um, uh, and I had toast and jelly that morning. Ok. Uh, and, and I had not, and it was, I wasn't even thinking, you know, I had a couple of pieces of toast and jelly and with my coffee and stuff. And then the next thing I know I'm up there just about to walk in and I told that girl, I said I forgot that I was having this blood test today. And right, and she said, well, that shouldn't affect it that much. So, I don't know. Uh, you know, it probably did,
+Nurse: Um, I mean, just a little bit, the glucose level was the only thing that was kind of out of normal, but that was, uh, you know, attributed to you not eat or not fasting. Um, and then she did go over just the liver function. Um, it could just be the fatty liver. Uh, do you drink alcohol occasionally?
+Patient: Yeah. I, well, she knows, I, I drink it at least at least one glass and usually two glasses of wine every, every dinner meal, every night. Ok.
+Nurse: Yeah. Yep. So that could just be reflected of that. Um, uh, just try to, you know, drink some water, let that all flush out if that's your normal routine. Um, but your thyroid level did improve. So that's good as well. Getting that thyroid under control and maintaining on that current dose of, uh, the Synthroid. So that's good. Ok.
+Patient: Ok. And I had canceled that appointment. There's, there's no need for me to go in and see her. I mean, she went.
+Nurse: Yeah. Yeah. No, I mean, not unless if you need any medication refills, we can certainly help with that. Put a message in. Um, otherwise you do have another appointment, not until December, but always, you know, let us know if you need something sooner if something comes up in between. Ok.
+Patient: Yeah. Yeah, I, uh, I'll, I'll have to go in and get an order on that blood work, uh, sometime within the next couple of months anyways. So.
+Nurse: Ok. Yeah. As far as everything else doing well, otherwise doing great. Ok. All right. Well, I'm happy to have you back, sir. You enjoy the rest of your day and you take care, we'll speak again in a month. Ok?
+Patient: Ok, you
+Nurse: Take care. Alright. Thank you. [PHI-Personal] Day. Thank you. You too.
+Patient: Ok, bye Will.

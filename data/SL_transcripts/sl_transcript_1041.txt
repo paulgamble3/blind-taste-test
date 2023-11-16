@@ -1,0 +1,20 @@
+Nurse: Hello, this is [PHI-Personal]. Hello. Hi, this is [PHI-Personal].
+Patient: This is speaking. I need some information from doctor.
+Nurse: Ok. What you got going on?
+Patient: No, I just got out of the hospital yesterday from rehab, I should say. And I have, uh, a request for radiology and imaging service on [PHI-Account] and I'm wondering if I still have to go. They did all these tests in the hospital twice.
+Nurse: Ok, let me get your chart pulled up and take a look at that for you. Just one moment. Sorry. It takes me a minute to get logged in here.
+Patient: Ok. I'm used to waiting on the phone so it's always a waiting game. Bye.
+Nurse: Sorry. All right. And you said that it was supposed to be scheduled on the [PHI-Personal], but you've already had it done.
+Patient: I already had it done in the hospital twice. Bye.
+Nurse: Now. This is ac t of your chest. Yeah. Let me see if there's a reason for it on here.
+Patient: You can look it up. I was that now.
+Nurse: Yeah, I see that on here. Um, I'm just trying to see why they would have ordered it a third time.
+Patient: Well, they kept ordering it all the time. I don't know why either. That
+Nurse: And the last one you had done was not even a month ago.
+Patient: Right. That's what I mean. I, I got this paper that I have an appointment on [PHI-Personal] for the same thing. I don't think I wanna do that again. Ok,
+Nurse: Let me, uh, check with Doctor [PHI-Personal] and see, you know, if she feels like that's necessary. Um,
+Patient: Why would it be necessary?
+Nurse: Yeah, that's what I wanna check with her on and see, you know, if she thinks it would be because, and I'll let her know that you just had it done not even a month ago, right? And I can let you know, um, would it be ok if I give you a call back after I talk with her?
+Patient: Yes, you can call me at [PHI-Account] because I need to go out. Ok and, and I might not answer this phone.
+Nurse: Ok, that'll be fine. Uh, so I'll give her a call and then I'll let you know. Ok. Ok,
+Patient: Thank you. Uh huh bye bye bye bye.

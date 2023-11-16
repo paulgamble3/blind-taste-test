@@ -1,0 +1,68 @@
+Nurse: Good morning. It's hi. Good morning. How are you?
+Patient: Um, it's [PHI-Personal]. Uh
+Nurse: Huh.
+Patient: Uh, I started taking L yesterday. Ok. Is that all right?
+Nurse: So let me pull up, uh, [PHI-Personal] with hypertension. You have to be careful with what you take sometimes [PHI-Personal] has. Um, it seems to
+Patient: Me I don't have like a, I don't have a runny nose and I just been coughing a lot.
+Nurse: Ok. So just a cough, any fever or anything.
+Patient: I had a low grade fever. Yeah. Ok. I'm sorry, I missed your call. I was sleeping. I woke up at five this morning.
+Nurse: Oh, no, that's ok. That's ok. I didn't even want to wake you actually. Um, so you say you've had a cough and then what was your low grade fever?
+Patient: Uh, a
+Nurse: [PHI-Account] 0 [PHI-Account] even. Um, when did this start for you?
+Patient: Uh, Saturday? But I started taking [PHI-Personal] yesterday.
+Nurse: Ok. Do you feel like the [PHI-Personal] is helping? Yeah,
+Patient: It seems to be, but you only take it every 12 hours and I'm also taking Tylenol. I was just checking to make sure I'm doing the right stuff.
+Nurse: Ok. So the only issue I have is that the, uh, [PHI-Personal] has, um, the DM, sometimes they have DM and sometimes they don't, does yours say, um, Dex Dextro? I can never say that but it's like DM on it,
+Patient: It has, uh, it has DM.
+Nurse: Ok. So that DM usually raises your BP.
+Patient: Ok. But I check my BP and it's all right.
+Nurse: Ok. Then if you check your BP and it's still fine while you're taking it, then that's totally. Ok. Going forward. Um, I think like a Coricidin HBP would be better for you.
+Patient: Ok. [PHI-Personal] HB
+Nurse: P. Mhm. That's gonna be a cough syrup that doesn't have the DM in it, which some people say it doesn't work as good but it doesn't, um, constrict your blood vessels to make your BP raise if that makes sense. So,
+Patient: Yeah, that makes
+Nurse: Sense. So the DM will do that. But if it's helping with the cough and you're monitoring your BP closely, I think you'll be fine if, and what
+Patient: Is, what is that other thing you want me to see? Take co
+Nurse: R uh huh. Cor uh, I think it's cor, I wait a minute, let me look it up. Spelling it right. Yeah. Cor I heard of that. Yeah. So it's COR
+Patient: IC ID, INC ID in. Yeah, I've heard of that.
+Nurse: Of course it, and then I think it says HBP, which is probably for high BP
+Patient: BP.
+Nurse: Mhm. So that's one that'll probably be more safer for you just in general going forward. But if you've already had a cough syrup. Yeah, it's a cough syrup.
+Patient: Ok. I think what I did was I caught it in, in, uh, time I called you yesterday but you might have been, you didn't get my message. Yeah, we bought this stuff.
+Nurse: No, that's ok. We don't work on weekends. So I didn't think. I, I'm sorry, I didn't. No. That's ok. It's ok. It's fine when you call whenever I just check it as soon as I came in. So that's why I called you so early. I called as soon as I seen the message. Um, but are you with your cough? Is it productive? Are you having anything come up? No.
+Patient: And it, and I can't like, uh, you know, when you get end up with, uh, uh, oh, I can't think of it down in your chest. You know, where you can, you [PHI-Personal]? Uh, yeah, where you [PHI-Personal]? I don't even have
+Nurse: That. So, no rattling or anything. Just a dry cough. Yeah. Do you have
+Patient: Allergies? Not that I know of?
+Nurse: Ok. Let me pull up something here. Let me check something here
+Patient: When I cough to you. I don't bring anything up. So, ok. I thought maybe I caught it quick enough.
+Nurse: When was your last, uh, when was the last time you checked your, um, your temperature,
+Patient: Uh, this morning? And it was normal?
+Nurse: Ok. And it was normal. Ok. So, yeah, I would say make sure you're staying hydrated, drinking water, try to eat what you can. I know sometimes you have a cough, you don't really feel like eating anything. Um, but try to, you know, eat, eat something, uh, especially since you're taking the medicine along with the Tylenol. But keep monitoring that BP and your temperature while taking the [PHI-Personal]. Ok.
+Patient: Ok. Yeah. If you feel like it's,
+Nurse: If you feel like it's not getting better in the like the next couple of days, give me a call back and we can get you scheduled for an appointment to go in. You don't have any concerns for COVID, do you?
+Patient: Oh, I took a COVID test.
+Nurse: Oh, good, good. You were already proactive on it. I appreciate that. It was, well, my
+Patient: Daughter, my daughter went down yesterday and got me the and she even got two bottles of it just to be sure that we had it on hand and got some other stuff for me and ginger ale and stuff like that and then she got the COVID test.
+Nurse: Oh, good, good. Ok. So you did test and was negative. Ok. Well, then um I think you're doing everything right other than you know, the [PHI-Personal] sometimes you got to be careful because you have high BP. So I would monitor. Ok. Just keep monitoring that BP if you start to see your BP spiking, stop the [PHI-Personal] and we'll, we'll have to switch you to something else
+Patient: Probably. Ok. But the s and I can take two.
+Nurse: Uh, I wouldn't take the court seating with the del. No,
+Patient: No, not with the L0, yeah.
+Nurse: Yeah. Yeah, in general you can take that
+Patient: Right. Ok. Ok. That sounds good. Ok,
+Nurse: Give me a call back if you're not feeling better. Ok. All right. And if you need to use that inhaler, use that inhaler for cough. I
+Patient: Don't have one right now.
+Nurse: Do you want me to send a refill in?
+Patient: Yeah. How long do they keep
+Nurse: Uh well, they have expiration date on them they keep for quite some time. Oh
+Patient: Yeah, because doctor used to uh recommend that or not my doctor, the other, the other physician ma Mhm. [PHI-Personal] used to recommend that when uh I had a cold.
+Nurse: Yeah. Um so that's what I'll do. I'll send it over to Walgreen uh to Walmart. How does that sound?
+Patient: Yeah. Could you tell them to deliver
+Nurse: It? I don't think Walmart delivers.
+Patient: Yeah, they do.
+Nurse: They have a a um uh delivery for pharmacy.
+Patient: Yeah. Well you can you can just turn it in and then I'll call them and tell them to deliver it.
+Nurse: Ok, well we'll send it to the Walmart and
+Patient: Your
+Nurse: Yes ma'am. Ok. Ok. Alright, I don't feel better. Call me if you need anything.
+Patient: Ok. Thank you very much and you have a blessed day.
+Nurse: Yes, ma'am. You too.
+Patient: Bye bye.

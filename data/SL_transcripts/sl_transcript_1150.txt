@@ -1,0 +1,53 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes. Hi. This is in good point and I'm returning, uh, uh, phone call.
+Nurse: Ok. Give me one second is out today but I can help you. Let me get, I, I
+Patient: Think she wanted to discuss with me the, uh, MRI that I had recently.
+Nurse: Ok. Let me get you pulled up here and see what she said. Thank you. You are welcome.
+Patient: I'm, I'm sorry that I, I was at my daughter's house, uh, taking care of the house and [PHI-Personal] year old [PHI-Personal]. Oh,
+Nurse: Goodness. You had your hands full, didn't you? Yes.
+Patient: He, oh, and they have a, have the, the problem of breaking out, digging underneath and jumping over the, the fence and, yeah, they keep you busy. Oh, I
+Nurse: [PHI-Personal]. So it looks like [PHI-Personal], it looks like you just talked to her the other day.
+Patient: Oh, that was my daughter probably.
+Nurse: Oh, yes, she did talk to your daughter.
+Patient: Yeah. So, what did you
+Nurse: Want?
+Patient: Well, I just wanted to know what, what, uh, what, what, what they found out and how we can better it. Ok.
+Nurse: And when was that MRI done
+Patient: When, about two weeks ago? Two weeks ago. Yeah, two or three weeks ago
+Nurse: And it was done at [PHI-Geographic].
+Patient: No, no, it was here in, uh, at the towers in [PHI-Geographic]. Ok.
+Nurse: Let's look and see what it says here. Uh,
+Patient: Doctor was the one who, uh, ordered it and, uh, had a copy sent to, uh, uh, this, er, Doctor [PHI-Personal].
+Nurse: Yeah, I do see it here. Let me get to the,
+Patient: I'm sorry, you take all, you're, you're trying. Oh
+Nurse: My goodness, you are not bothering me or taking any time at all.
+Patient: Thank you.
+Nurse: So it is just showing that you do have some spinal stenosis which is narrowing of the spinal cord and that is in your C six and C seven, which is in your neck. Um, but it does show that your um spinal cord is normal. Um, you just have some stenosis there which is narrowing of it.
+Patient: How, what can we do to, to open it up?
+Nurse: Well, really there is no treatment really for that.
+Patient: Well, that's not great. Let me
+Nurse: Um, let me look up here. I don't think that they really can do much for that honestly.
+Patient: Yeah, I, I'm having a hunchback. Right. Do you have a hunch back? Yeah, I think so.
+Nurse: Oh, I look
+Patient: Like a hunch
+Nurse: [PHI-Personal]. So really there's really nothing that they can do for like spinal stenosis. They can just treat like the symptoms of it, unfortunately,
+Patient: Can take any pills to get rid of the stenosis.
+Nurse: No, I don't think there's anything, um,
+Patient: That, let's see, I had, I had a kidney artery stenosis at one time. They operated that out and put some, I think some, uh, yeah, not, not artificial but, uh, some, some, ah, a arteries in, from a, from a pink that was in [PHI-Geographic]. And that was, uh, way back in [PHI-Personal]. [PHI-Account]. No, [PHI-Account]. Ok. So,
+Nurse: Is your, is your spine, is it hurt? Is it like hurting you? Your neck and stuff? Yeah.
+Patient: I, I can't, I can't stand, I can't stand for very long five minutes and I have to sit down it very, uh, discouraging because in the kitchen where you have to peel potatoes, you all of a sudden have to sit down because you just can't have to, uh, have those, uh, pain anymore. Right. Sometimes it's good and sometimes it's not so good. Ok.
+Nurse: Um, what I can do. So, I mean, there, there are like surgical options that you can have for spinal stenosis. You can have steroid injections. Um, there's physical therapy. Um, but what I can do for you is I can get a message over to Doctor [PHI-Personal] to see what she suggests for you. She
+Patient: Might, it's, it's all right. You don't have to do that because I, I already have an, uh, have, uh, appointments. I think that this, I did with my daughter. I don't want to interfere them, my daughter gets upset and she, I just had the note here from her on my, my cell phone and, uh, you know, since she did wasn't able to get hold of me, she, of course, got a hold of my daughter and so I'm sure she has it all under control but I wanted to know what, what they say and what they've seen on the, on the, uh, MRI and whether I, I could do anything in the meantime.
+Nurse: But, ok. Yeah, I would take, um, you can try like, um, Ibuprofen and Tylenol.
+Patient: Yeah. Yeah, I, I sh, I, I don't like to take pills so
+Nurse: That I know I don't blame you. I don't like taking medicine either.
+Patient: What was your name? I didn't get that. I'm,
+Nurse: My name is [PHI-Personal].
+Patient: [PHI-Personal]. Ok. Yeah, thank you very much. And I'm sorry, I disturbed you. Oh, my
+Nurse: Goodness. You did not bother me at all.
+Patient: Ok. You call back? Ok.
+Nurse: Oh, well, I, I'm glad I could help you some, um, you call back if you need anything else. Ok,
+Patient: I will, I certainly will. Thank you, Miss Bri.
+Nurse: Uh-huh. Thank you. Have
+Patient: A nice weekend. Bye bye. Thank you.
+Nurse: You too. Bye bye.

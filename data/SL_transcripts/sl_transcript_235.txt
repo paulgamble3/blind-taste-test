@@ -1,0 +1,11 @@
+Nurse: Speaking, how can I help you?
+Patient: Uh Hi. Yes ma'am. Um I had just had my visit with doctor [PHI-Personal] and I totally forgot to ask him about my x-ray results. Your x-ray results. Yes.
+Nurse: Ok. Ok. I
+Patient: Can, I can
+Nurse: Send him I can send him a message to let him know. Let me see if they um when did you have them done?
+Patient: Oh about three I wanna say about three weeks now or two maybe two more in the be yeah, two weeks. I'm gonna go to the two week mark.
+Nurse: I'm just trying to see if
+Patient: I'm sorry to be a pain in your ass. Oh no, you're fine. Uh oh girl that all that. Hm
+Nurse: Hm. Ok, I do see that the result are back. So what I'm gonna do is I'm gonna um put a message to him and see if it's ok from um to give you your results and as soon as he does I'll call you back. Ok.
+Patient: Oh my gosh, you're the best. Thank you honey.
+Nurse: You're welcome. You have a great day. You too. Thanks talk to you soon. Ok, bye bye.

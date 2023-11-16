@@ -1,0 +1,46 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Hi, [PHI-Personal] K [PHI-Personal] calling you back. Hey, how are you?
+Nurse: Good, good, good, good, good. Um, yeah, let me jump into your chart here real quick.
+Patient: You called about me though? Um.
+Nurse: Oh, yes, you're right. I did taking me a while to get in my computer here. Ok. How's he doing?
+Patient: Pretty good. Pretty good. Um, but, mm. Mm. Mm. Mm. I don't know if everything's updated. He was just down because he has sore throat and a swollen gland on the one side. Hm. I don't know if that's on your chart or not. We were there this week and they had trouble getting his blood. So then we had to go down the next day.
+Nurse: Ok. Um, it looks [PHI-Personal]
+Patient: [PHI-Personal]. Um,
+Nurse: Oh, wait a minute. You're
+Patient: Nurse girl for, um, family [PHI-Geographic]. He saw [PHI-Personal].
+Nurse: Yes. On
+Patient: Monday. Tuesday,
+Nurse: Tuesday. Yeah. Ok. So that's what I wanted to follow up with him from the, his fall and his fracture.
+Patient: I know that we moved on.
+Nurse: He's healing up. Ok.
+Patient: Yes, he is. He looks good and actually the sore throat and swollen glands on the opposite side. So,
+Nurse: Awesome. So, he's recovering well, now getting
+Patient: Past the fall.
+Nurse: Yeah. Ok. Um, was he started on any new medications?
+Patient: Um, J just gave him a shot of Decadron, I think. Ok. But now we haven't heard back she was testing for mono. Um, I see if any
+Nurse: Results are in. Ok. No, there's nothing in yet. I don't know how long it takes for the mono to come back. I know it is a few days. So, hopefully by tomorrow I would say. Mhm.
+Patient: Well, his blood wasn't drawn until Wednesday morning because they couldn't get it. So we had to go back. So it won't be.
+Nurse: Yeah, I'm gonna look at that order and see if maybe she put stat on there just in case she didn't. But that's ok. Um, yeah, I would say tomorrow, if not tomorrow then it would probably have to be Monday. You would get the results. But hopefully, um, ok. So, besides that, how has his afib been any trouble with that? Any flare ups?
+Patient: Not that I'm aware of?
+Nurse: Ok. Um, and then as far as his cholesterol goes, how's he doing with diet with that? Trying to watch, you know, the fatty foods? The, mm. That's not so good.
+Patient: Huh? No, he pretty much eats what he wants to. Does he? Yeah. And yet this is still better than mine. So, so it is. Yeah.
+Nurse: Oh, yeah, it's hard. I mean, any time any type of, you know, diet change is difficult, you know, it, it is. Yeah, especially when, you know, you're so used to eating things and certain things and then they tell you you can't, it's, it's definitely hard. So, um, when does he get labs done again? Is, is he getting them done before his appointment in [PHI-Personal]?
+Patient: I'm not sure
+Nurse: Because I don't see anything ordered. I see he sees Doctor [PHI-Personal] on [PHI-Personal] 8th but I don't see any labs ordered. So, um, just curious when I'll get those done again. Um, ok. Any other appointments coming up, um, that he, that you're aware of for him.
+Patient: Um, he is in neurology one the end of the month. Ok. And that's gonna be virtual. It usually is anymore. Ok.
+Nurse: Um, all right. Does he have all his CPAP supplies and everything he needs for that? He,
+Patient: He doesn't, he's non compliant. He won't use it. So, yeah. How you do?
+Nurse: Oh. Oh, my. Ok. Um, bowels and bladder. Are they moving? Ok.
+Patient: Um, yeah, pretty well. Um, I'm supposed to do a follow up with Doctor [PHI-Personal], which I haven't, you know, scheduled yet at first I didn't because that certainly wasn't his main problem when we brought him home. But, um, and we couldn't, we have trouble transferring in and out of the car. Now, that's not a problem. But now we're in the midst of selling our business and I'm tied up pretty hard. So I was planning on in [PHI-Personal] to make an appointment to revisit that meanwhile, we're trying to hydrate him. Well.
+Nurse: Right. Um, do you want me to call them and get, get him an appointment?
+Patient: Um, not yet.
+Nurse: Ok. That's fine. Um, is he like having any retention or any? No?
+Patient: Did he? No, he seems pretty good right now, actually. Ok. That's great. Not that he doesn't need to go. I mean, he has an, a large prostate and I want him to go but, you know, you can only do so much at a time.
+Nurse: Yeah. Yeah. Yeah. Just wanna make sure he was, you know, he was going and being able to go. Oh, he is?
+Patient: Yeah. Yeah. I just helped him a few minutes ago and no, I mean, he had a good stream and he's on the [PHI-Personal] and I think maybe that helps some because you had the dribbling so bad, you know, hard to keep them
+Nurse: Clean. Yeah. I know that [PHI-Personal] is good. Um, pretty much anybody that's ever been on it who I've had as a patient, um, you know, has done really well with it. So, that's good. Um, ok. So any questions or concerns that you might have today for him?
+Patient: I don't think so. I mean, we wanna keep an eye on that swollen glands and sore throat, make sure that's going in the right direction. That's the only thing.
+Nurse: Yeah. And I will, I'm gonna make myself a note now and I will, um, I'll check that in the morning too when I come back in the office and uh I'll just try to keep an eye out on that throughout the day and then as soon as she reviews those results and everything then we can let you know what what they say.
+Patient: Ok, sounds really good. Thank you. Alright you're
+Nurse: Welcome just let me know if you need anything else. Appreciate it. Ok, take
+Patient: Care. Bye bye bye.

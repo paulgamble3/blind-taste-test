@@ -1,0 +1,18 @@
+Nurse: Hi. Hello, this is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. This is [PHI-Personal] calling. Um, I got a, I got a, um, text message about checking in to, um, you know, for my upcoming visit and, um, I'm not making progress. Ok, let me either, either I'm doing something wrong which is a possibility and, or something. So I want to check in, but I'm, I'm having a problem here because I, I verify my birthday my, whatever they're asking before, but it, it's just not going anywhere after that. Ok. And I'm not good on, uh, a computer. So, right.
+Nurse: And this is like, so you can like, confirm that you'll be there and kind of fill out any paperwork that's needed prior.
+Patient: Uh, it, it, it, my, um, text message just said, uh, it's time, uh, you know, it's time to check in for your upcoming visit because I got a text message con confirm, you know, making sure that I was gonna be there and I text back. Yes. And, uh, it said, well, thank you for something, something. And that was a couple days ago and then I got this today. So I thought, well, maybe I gotta check in somewhere or something. And I don't know, that's, I don't know what I have to check in to do what I thought I verified my appointment. But, uh, now this says check in. So I don't know, it's, it's just not letting me go to where I wanna, I wanna go or I'm pressing something wrong. No worries.
+Nurse: So let me, um, I'm gonna just call [PHI-Personal] um, at the front desk in the office and just see, um, on her side what she can see and then I'll call you right back and let you know what she says.
+Patient: Ok, because like I said, I've tried a couple times and then it said I've tried too many times. Oh,
+Nurse: Ok. Ok.
+Patient: Perfect. And I, I can't, I can't progress nowhere,
+Nurse: Right? Ok. Perfect. So no worries. I'll call, um, like I said, I'll call the office right now and then give me maybe like five minutes and I'll call you right back and just let you know what she said.
+Patient: Ok, because I don't know if my prescription was called in or not. Uh,
+Nurse: That it was, let me make sure here
+Patient: Because I, because I am seeing her on the third, but I would need it on the first, right? You know, so I, you know, I don't wanna make myself a nervous wreck, right. I do that on a normal basis anyway.
+Nurse: Right. Yes. No worries. So it hasn't been sent out just yet, but let me just call um [PHI-Personal] and see, I'll let her know that you're checking in and then I'm gonna send over another message to doctor because I, I'm pretty sure she sees here. I did let her know that you needed it by um the first. So I'm hoping she would get it out for you, you know, by this weekend so you can get it and all that other stuff. So let me send her another message as well and then I'm gonna follow right back up with you um so I can let you know what's up with this check in.
+Patient: Yeah so I I don't really know exactly why I have to check in so early I don't I don't know that's what my uh text message said and I figured well I'll give you a call and maybe you could help me see what what I'm doing wrong.
+Nurse: Ok. Yes. All right. So I'll give you a call right back, [PHI-Personal] I'm gonna call and just make sure you're all good to go um and then I'll send over that message as well about the medication so she can get that out for you at least by today.
+Patient: Ok. Alright I appreciate your help.
+Nurse: Yes ma'am. Absolutely I'll give you a call
+Patient: Back thank you uh huh bye bye bye.

@@ -1,0 +1,23 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Hi, this is [PHI-Personal]. How are
+Nurse: You? Good. How are you today, [PHI-Personal]? Uh,
+Patient: Slow and sluggish.
+Nurse: Ok. Uh, got an update for me today, [PHI-Personal].
+Patient: Yeah, I had my flu shot at the VA on Saturday.
+Nurse: Ok. On the 15th. Ok. Any reactions to the flu vaccine? [PHI-Personal].
+Patient: Yeah. Um, mu muscle aches, uh, feverish. Um, that's, that's about it.
+Nurse: Ok. Did you take any over the counter medication? Like Tylenol to help with the fever and the body aches?
+Patient: No, I, I just let it go on through. Ok. Yeah, I had, uh, yeah, I had aches and fevers and, uh, and fatigue. Uh, like I say, I'm not feeling too bad today but I'm gonna get ready to take a nap. So.
+Nurse: Ok. All righty. And then I do see a couple of open triages. Something about left a message to call back.
+Patient: Um,
+Nurse: Did you have lab work done and they're trying to reach you for lab results? Right. Yeah.
+Patient: But I can't seem to, I left her a message, you know, we, we're missing each other. Uh, what I'll do is, uh huh.
+Nurse: I, that I can see here it says you guys have been calling back and forth for several days.
+Patient: That's right I'll be I'll be out tomorrow I just stop out of the office and see. Oh
+Nurse: Ok. Ok. Alrighty. Yeah because
+Patient: Like when she calls me uh especially in the morning uh I'm going back to bed after I take a nap around 7 38. I don't get up until uh after 10 or so and then when I call the number, when I call in, in for the nurses, uh you know they she either it's a voice mail message even though I could call one but I don't know whether she's busy or not, so I don't wanna row off the floor.
+Nurse: Ok. All right. Yeah they just wanted trying to get a hold of you just to tell you what your lab results are but you're gonna stop out tomorrow you said [PHI-Personal]? Yeah,
+Patient: I'm gonna be out tomorrow and uh I consolidate all my trips to do shopping and all that all at once.
+Nurse: Alrighty,
+Patient: So I'll just stop by the office and uh see if she got a minute to tell me what it was.
+Nurse: Alrighty. Well, if you have any further questions or updates, you're more than welcome to give me a call. Ok. All right. All right, Ralph. Have a good afternoon. All right, you too. Thank you. Bye bye.

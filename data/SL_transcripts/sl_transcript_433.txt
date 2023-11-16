@@ -1,0 +1,93 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is Ry. You left a message for me to call.
+Nurse: Uh Yes, let me go ahead and pull up the chart. Um Let me see my name. So I'm from [PHI-Geographic]. I'm one of the nurse case managers. I'm just looking to see. Let's see. Here we go. I found your chart. Can you verify your date of birth for me?
+Patient: Ok. August the 16th, 1950
+Nurse: One. Thank you. Ok. I'm just pulling out somebody else's chart in this system and going in. So, um the doctor had been signing up patients to um you know, for nurse case management. Um So basically I'm going to call to check on you in between your office visits and see how you're doing. Ok. Um Let me see. Oh, I called you on the seventh. I called you last week. Um So, so basically I can help get you prescription refills. Um If you have a medical concern, I can pass it on to [PHI-Personal] or I can help you make an appointment. I see you're going in tomorrow at 2 15 to see [PHI-Personal]. Yeah,
+Patient: I am good. So I I'll, I'll just see here and tell her what's going on. Ok.
+Nurse: Yeah. Yeah. So, um, is there anything you want me to pass on to her right now?
+Patient: Uh, mm, not really. No.
+Nurse: No. Ok. Um, for, for today then would it be ok if I just, um, read you the list of medications we have on hand? Um, and you can tell me if you need any refills or if you, you know, stopped taking them. Sure. Go ahead. Ok. Omeprazole 40 mg every morning and every night. Yes. Ok. Um, one by mouth three times a day and at bedtime.
+Patient: Oh yeah. Ok. Yeah. Uh [PHI-Personal]. Right.
+Nurse: Yeah, exactly. Um, the levothyroxine, the thyroid 1 12 MC G every day. Yeah. Ok. And you take that on an empty stomach early in the morning, right. Correct. Good. Um, isosorbide monitor. Er, 30 mg twice, two by mouth daily. Yeah, two times daily is correct. Ok. Um, vitamin D 3, 5000 units daily. Yes. Ok. Estradiol. Um, one tab, one mg, one tablet daily. Yes. Ok. Um traZODone 50 mg, three tablets at bedtime. Yes. Ok. Vitamin B and C Complex daily. Yes. HydrALAZINE 10 mg twice daily.
+Patient: I got a list here looking for that eye that's like uh yeah, I see. Yeah, twice
+Nurse: A good, good torsemide. Five mg daily
+Patient: And hold on a minute, please. Yes.
+Nurse: Ok. Tylenol as needed and I have to see the extra strength. Yes. Zinc 50 mg daily. Yes. Losartan 50 mg daily
+Patient: And Losartan is twice a day,
+Nurse: Twice a daily. Good. Ok. I'll correct that. Um Turmeric daily.
+Patient: Uh Yes.
+Nurse: Then I see a probiotic and vitamin B.
+Patient: Yes. Vitamin D and C,
+Nurse: Yes. Um, so not a separate vitamin B complex. There's, there's both A B with C and a vitamin B.
+Patient: No, I the complex. So there would be C with it. Yes.
+Nurse: Ok. Um Let's see. And then aspirin 81 mg a day as needed. Yes. Ok, perfect. Let me see. Um and then I see see um LORazepam 0.5 mg twice a day as needed.
+Patient: Yeah. Well, how many milligrams? LORazepam? Yeah, I see it uh twice a day as needed. Yeah, one in the morning de definitely and the other one I can have pr in.
+Nurse: Ok, good. Um And then cloNIDine 0.2 mg by mouth three times daily, correct? Ok. And buPROPion to Wellbutrin sr or er 100 mg daily.
+Patient: Well, then I also have a uh 200 mg and because I'm supposed to have, well, excuse me, I got 3 50 mg to go with it but supposed to have 400 uh how you describe it? I asked to for some reason I had when I was on uh so the [PHI-Account] I had I was was on um well, last, so I mean I had actually left over from a pre previous prescription and I didn't wanna go out and buy something. So she ordered that with the other, uh. Oh,
+Nurse: Ok. I see
+Patient: What you're saying. We have it, you have it there.
+Nurse: Yeah. What is it? Um, so I see an old one here that it was 200. So, are you taking in addition to the 200?
+Patient: Yeah, because I'm supposed to have four, I'm supposed to have 400. But I take, I had 100 and 52. I had them left over so that I took two of them and 100 of that to make 400. But before it was because I didn't wanna throw them out. I don't see it here. Do you?
+Nurse: Um I mean, I, I just show that she prescribed the 100 mg. Um I don't see anything about taking 400. Are you still, do you still have old ones taking? I mean, I see the old um expired for 400.
+Patient: Yeah, I am, I am checking good.
+Nurse: I'll just note that you're still taking those 400
+Patient: Together it's equal uh [PHI-Account]. Yes. Ok.
+Nurse: Hey, I'm just noting that um I let's see, does it, does that help pretty well with your anxiety? Do you think it's pretty well managed?
+Patient: Uh It depends what's going on. I mean, I went last week to see a new ac for, for colonoscopy and my BP is running normal and it was 1 27 over like, I don't know, 78 or something day before. And then I got there. It was 1 93/78.
+Nurse: Oh, well, see, that's, that's like we, that's like [PHI-Personal]. I
+Patient: Know that. But she, she said if I don't get my BP down they won't do it. The first time I had, it was 1 78 over something and then they took it the end of this and then it was 1 93. So, should I just go ahead and take that other one before I see her? Oh, I'm gonna have a colonoscopy on [PHI-Personal],
+Nurse: [PHI-Personal]. Um I would discuss, I would discuss options with [PHI-Personal] when you come in for what you could do about your BP just because, you know, if you're getting anesthesia, they need, they need you to be careful about what meds you have before you have the anesthesia.
+Patient: I know that, but I, I, if I can't, if I, blood pressures are too high, they're not, I'm not gonna get it done and get it done because I can no way can I and my BP screwing stuff up.
+Nurse: Yeah, I'll send a note to [PHI-Personal] to say like, hey, we're having this issue where it's your BP spiking. Um And maybe, maybe she can give you something to go before you go in because it, he must be spiking from anxiety. So we'll send, we'll send her a note. Do you need any refills on any of these medications?
+Patient: Uh, I don't think so. Uh, I'll tell you, I can tell you some me, [PHI-Personal] might, uh, most of my, uh, uh, BP was on the average like 1 29/64 or 1 34/80 once it was 1 53/80 couple. Uh, yeah, Cardia and, uh, 1 25 75 and they're basically all 1 23/74. You know, that is what the basic one or two are up. But then, uh see I told you then Monday was 1 23/74. And then Tuesday when I, after the end of the visit was 93/78 she wasn't happy, you know. But yeah, that's too low. It was 1 78 when I went in over something. 1 70
+Nurse: Eight. That's too high. Yeah. Have you tried taking the LORazepam before you go in for it to help with your anxiety?
+Patient: I'm asking, can I
+Nurse: W oh I mean, I, so here's the thing, the doctor has prescribed it as needed for anxiety. Whether, yeah, whether but you need to talk to the person who's doing the colonoscopy about it because they do anesthesia. So the anesthesiologist is the one who has to decide that through Gastro, not through [PHI-Geographic] because according to the [PHI-Geographic] doctor, you can take it any time you need for anxiety. But they don't control the anesthesia that, that has to come through where you're getting a colonoscopy. Does that make
+Patient: Sense? Yeah. Now, the last, now, so, ever since then the next day was 10 6/57 and then the last, uh, three days is like 140 over in the eighties. Yeah,
+Nurse: I'll, I'll send a note. Yeah. And it's a lot of, it seems to be caused by, you know, your, your, this, the spikes. Um, do you, do you, let me see, I call, call. Are you doing, doing, um, is that? Yeah. So who the person who's doing your gastroenterologist? And maybe, I think, um, call them and ask if you can take the Ativan because they're, they, um, [PHI-Geographic] can't decide their anesthesiologist needs to decide if you can do that.
+Patient: Ok. Well, yeah. But like I said, um, ba, basically, I mean, the last two months of a couple of times I was a little higher. But, yeah, but sometimes at one time I was, like, 99 over something and I was so darn think about passed out. Yeah.
+Nurse: You gotta be careful with it. But, but that's why you have to talk to gastroenterology because it's, it's their anesthesiologist who has to decide because it can, because they can, it can interact with other medications, which is why, like, they need to know what you had.
+Patient: Ok. I can do that because
+Nurse: You have it. So, according to our doctor, you know, you can take it any time you have anxiety as needed. But if you're seeing another doctor they're gonna have their own opinion.
+Patient: Yeah. And the other thing is, uh, well, see, well, uh, I mean, for the colonoscopy there's a different procedure. They said I could go ahead and take, let me see. I got over here Z se says, uh, I know stuff before you get, not supposed to take. But, uh, for, can you hold on a minute, please? Mhm. Uh, oh, hold on. I still read it. Yeah. Oh, well, I can, I should be able to take medications up to two hour. Uh, before I have, uh, my BP medication require food and I can't have anything after midnight. But my procedure is, uh, 10 after one o'clock.
+Nurse: So ask, ask gastroenterology. Um, but most of them, you have to talk to them because it's their preference. Most of them will say you can take, um, your medications with just a sip of water and they'll tell you not to take it without, with food for just this one day. That's generally, you know, they say just a very small sip of water and you take all your regular morning meds. But it's gonna be the, it's gonna be up to, to who does the procedure too.
+Patient: I get severely nauseated if I don't eat. Yeah. And I take it, my BP is gonna be higher than that
+Nurse: Call them and ask if you can have, say like a, a cracker with it or something like that. Something small. Ok. Um, or maybe they'll even give you something for nausea like Zofran. But that has to come from the doctor who's doing the procedure. Um, because our, you know, our doctors at [PHI-Geographic] can't prescribe medication for another doctor's procedure. They have to have the doctor doing. Yeah, the
+Patient: Doctor is, I don't never met. This one is B er Gen [PHI-Personal].
+Nurse: Yeah, talk, talk, talk to them. Give them a call and say, hey, can I take my medications with a sip of water and maybe a cracker very early in the morning and ask them how far ahead and ask them too if you can take your LORazepam as well and tell them, you
+Patient: Know, only two hours before your scheduled arrival, time amount of water. My uh that
+Nurse: Ok. Yeah, talk, talk to them about it because it's gonna be their choice. Sorry. That's a lot. Um, let me see. So you're gonna give them a call. You're gonna come in and see [PHI-Personal] tomorrow. Um, do you need any refills from me today or is there anything that I can help with for you today?
+Patient: Mm. No, but I just, I don't know why I, I didn't get this at the uh, didn't see that the uh I uh wellbutrin was a like that. Yeah.
+Nurse: II I put in the notes that you're taking 400 a day. Um, so she'll, you know, see that tomorrow, but definitely maybe bring it up with her tomorrow. I'll put it in my notes. So you're still doing the 400. So that was probably just, yeah, I,
+Patient: I mean, because of my client de depression.
+Nurse: Exactly. So, I mean, ii I put that in the notes but what happened is she, so in order to send that 100 to the pharmacy so that you can reuse your old stuff, she had to discontinue the old one so she could send the 100. So as long as she knows it's, you know, that's, that's fine. But that's just why it looks like it in our system is if we just sent the 100.
+Patient: Yeah. Yeah, they have it. And, you know, like I said, I, I need that because I had, I don't wanna throw out all these other pills.
+Nurse: Yeah. Yeah, exactly. So that makes, that makes complete sense and I'll put in the notes. So that's why it's, it's like that. Um, besides that, I'm gonna, I'm gonna send you a letter in the mail that also has my name and direct number. The number you called comes to me. I'm here Monday to Monday to Friday, 8 [PHI-Account] 30. Um, so like you can call me if you need something, you don't have to wait for me to call you next month. Um,
+Patient: Well, another thing is I take, I'm taking some doctor [PHI-Personal] a nose spray. Flonase that I'm taking the generic of
+Nurse: It. You're using Flonase is how, how much sprays
+Patient: In each nostril daily because I was getting, I was getting a lot of, uh, allergies back. I never had before and sinus infections. So she's been, she has been it most of the year for me. I do use
+Nurse: It. I just added that to our chart.
+Patient: So, yeah. And for, I do have, what do you have down there for? Um for what? Mo like less pack?
+Nurse: Oh I'm not seeing that in our system.
+Patient: You're not.
+Nurse: No, he life pack. Yeah, like um like um
+Patient: Multivitamin.
+Nurse: Multi multi, multivitamin. Um I don't see like uh so you just take a general multivitamin every day. Yeah.
+Patient: Nature. Uh just plain that the nature one and it's, I do but I take it with no iron in my, not this one but the time before when I had it has with iron, there's no iron in it with minerals. Just one that I only take that three times a week. Ok. Like Monday, Wednesday or Friday because I was checking it. Hm. It, it's over the counter nature made over the counter buy Nature Made. Yeah.
+Nurse: Yeah, we don't have the brand so I'll just put in a multivitamin. So you're just taking a general multivitamin. Um Well, let
+Patient: Me, I don't take only the only thing I will take for any of them is uh, nature made because it's, uh, us p for. No, no, I'm not. No, there's no other not. Mhm. Don't prove it that name. Only one I take. Ok. So multivitamin. Yeah. But this is no iron.
+Nurse: Ok. No iron. Multivitamin nature made. No. Ok. Yeah, I take that
+Patient: Three times a week. Monday, Wednesday and Friday. I don't take it every, everything because every day it makes me more constipated than when I am.
+Nurse: Ok. Um Let me see,
+Patient: Let me go back on old records. You can see where that person has an order. Yes, I
+Nurse: Can, I can see that.
+Patient: You see it. Yeah, so that's what it, yeah, that is exactly what the reason why I got two of these uh they're equal uh 300 mg and this other 100 equals 400
+Nurse: Total. Yeah, I'll put that in here. Um Let's see. Is is there anything else or is there anything else I can help with?
+Patient: No, but I really appreciate. Are you the only one that's gonna be doing this?
+Nurse: Yep, I'm so I'm your specific one. Now, if I'm, if I'm out of the office, somebody else will cover for me. So there's still someone here to help you say if I'm like out on, you know, out out for a day. Um, but typically it's gonna be me here Monday to Friday. 8 [PHI-Account] 30.
+Patient: Ok. How do you spell your name? Uh
+Nurse: Je um so [PHI-Personal]
+Patient: I see. Well, ok, I forgot to see it. I know it wasn't right. Ok, thank you. Yeah, I'll be there tomorrow. You very, very helpful. Thank you. Of
+Nurse: Course. My pleasure. Yeah, if you think of anything else I am here. Um, so I hope everything goes well good. All right. Well, thank you for giving me a call back. I hope you have a good day.
+Patient: Excuse me? Yeah, thank you. Yeah, bye bye.
+Nurse: Thank you. Bye.

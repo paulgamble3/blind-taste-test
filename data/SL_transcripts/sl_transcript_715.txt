@@ -1,0 +1,42 @@
+Nurse: This is [PHI-Personal]. Can I help you? Hello is uh [PHI-Personal] there. Uh Yeah, yeah. Is [PHI-Personal] there? Uh Sure. Give me one second. Let me
+Patient: See if she's available.
+Nurse: Ok. And your name was [PHI-Personal]? Ok, one second. Ok, one moment, I'm going to transfer you to Kris. Ok. Ok, thanks a lot. You're very welcome. Ok,
+Patient: Then. Hello. Hello. Hello, this is [PHI-Personal].
+Nurse: Ok, [PHI-Personal]. Uh you know my case [PHI-Personal] is
+Patient: Perfect. That's what I was about to ask you your date of birth. Yes, ma'am. [PHI-Personal] is normally your care manager and she's off today. I'm covering for her.
+Nurse: Ok. I was just wondering uh in my anal system. Uh I had uh I, I'm having a hard time passing um stool. Mhm. And I was wondering what I could do. I, I sit on the toilet and I strain and it comes out a little bit but it feels like something there still. Could I take a laxative of any kind?
+Patient: Ok. So how long has it been? So you're able to have bowel movements? They're just very small. Is that correct?
+Nurse: Yes, and very thin,
+Patient: Thin. So they're kind of string like.
+Nurse: Yes.
+Patient: Ok. Sorry. This stuff isn't pleasant to talk about but,
+Nurse: And I stupid, stay my asshole.
+Patient: See, you can say that I can't, well, I've been in healthcare for 20 years so nothing, nothing grosses me out anymore. It's odd or anything. Ok. And so how, how many bowel movements a day of the small ones do you think you're having?
+Nurse: Oh, all the time. And I mean, they're thin and they're, uh, there's something in on the left hand side of my anal or my tiny hole is like a lump or something.
+Patient: I'm gonna use that, by the way. Tiny hole. It's a, it's
+Nurse: A lump. Yes. Like a, like a lump. And it seems as though when I have the stool or the bowel movements, uh, they come out, uh, like half of it length wise, like half of it, little round things. But anyhow, it's been all right. But, um, I had, uh, let me see, Saturday night, uh, I was at my granddaughter's and I had, uh, uh, really bowels just ripped and, uh, and I threw up and that's the second time that happened and I did that two weeks ago and it was really a mess, but I felt better and then I came home on Sunday and I was sort of dragged out and then, uh, my bowels were like, the usual were with little round and little pieces. But now yesterday I didn't go at all. So today I was sitting to try to strain and go and little pieces came out but I have a feeling that there's something stuck there. Ok.
+Patient: Are you having? Yeah. No, I get it. Um, so are you having like abdominal pain? No, or you just feel kind of sluggish?
+Nurse: Yeah. Yeah. No. No, abdo abdo abdominal pains. But, you know, I sit on the toilet and I stick my finger up my ney and, uh, there's a poop but I can't get it out because of, and I feel that thing on the left hand side. Ok. And I want to, you know, to get G I and so on and all that crap.
+Patient: Yeah. So I see recently you did have like diverticulitis and that, that is a wicked, wicked illness. It just, it, it disrupts everything takes a while to get back to normal. But the, the lump and then you can feel the stool and such. That's, um, that is concerning. But, so let's see. Um,
+Nurse: And you know, it, while I'm talking with you that fiber like Metamucil or something I was taking before and I stopped. But should I take that again? So, fiber,
+Patient: Yeah. Were you advised to stop or did you just
+Nurse: Stop? Uh, no, I stopped because of sickness. You know, I was just really, and then we didn't know whether I should take it again or what. So I'm just asking you, uh, if I should be on it all the time because it, it, it didn't do any, it didn't
+Patient: Help before.
+Nurse: No, it helps. But I think,
+Patient: Ok, so my initial answer to that is yes. But I would like to make sure that [PHI-Personal], um, agrees and such. Um, because I, I don't know your other conditions and stuff. But, um, so whenever you had diverticulitis, were you on an antibiotic?
+Nurse: Yes. And it made me very sick.
+Patient: Ok. So, let's see, because that can impact, um, the consistency of your bowels big time. Um,
+Nurse: And as long as like how I am today, I'm fine. I mean, I, I feel good and everything but I just wonder about the bowel movements and that feeling. Ah.
+Patient: Mhm. That the hard, and I wonder
+Nurse: If I should take something? I like, II, I ate a couple of chocolate raisins and thinking maybe they would help the raisins.
+Patient: Mhm. So, um, have you been drinking enough water lately?
+Nurse: I believe so. Um, but not really tons and over. Ok. And does, uh, tea and things like that, uh, add as water or no? Ok.
+Patient: Cause they, so they have the caffeine in them and then, you know, if you drink sweet tea, you may have the, the sugar substance or whatnot, but caffeine usually helps to mo motivate your bowels. So, but I am with the recent diverticulitis, I'm really concerned with telling you to do this or that or whatever. Um, like the, the normal advice So I'm gonna reach out to [PHI-Personal] and see what she advises and then I will call you back to let you know. Um so the number that you're calling me from the 601, is that the best one to reach you on?
+Nurse: No, uh it's um let me see,
+Patient: Let see I have [PHI-Account]. Yes, your mobile phone [PHI-Account]. Uh [PHI-Personal]. The home
+Nurse: Phone number that you can get me on is [PHI-Account] [PHI-Account].
+Patient: Ok, perfect. So I will send a message. Yeah. Ok, I'll send a message to [PHI-Personal] and see what she advises. Like I said, I just don't wanna mis [PHI-Personal] you with recent issues,
+Nurse: You know, it is it as long as it's just the disease, diabetes or whatever that's causing all this crap. But uh that that's fine. Thank you. Yeah, we
+Patient: Just don't wanna let it get too far, you know and get, get intervention beforehand if need be so. Ok, I will reach out to her and I'll let you know what she says.
+Nurse: Ok, and thanks for listening to me.
+Patient: You're very welcome. Have a good day. Ok, bye bye bye.

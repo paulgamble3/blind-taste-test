@@ -1,0 +1,11 @@
+Nurse: [PHI-Personal] speaking. How can I help you? Yes, I got a call yesterday. This is [PHI-Personal] from [PHI-Personal] from doctor. Ok, hold one second. Let me see if she's available. Hm
+Patient: [PHI-Personal] [PHI-Geographic]. This is [PHI-Personal].
+Nurse: Hey, yes, this is [PHI-Personal]. You gave me a call yesterday afternoon.
+Patient: Hi [PHI-Personal]. I did can you verify your birth date for me?
+Nurse: [PHI-Account].
+Patient: Ok, so there was a question about the Skyrizi. Yeah, Doctor [PHI-Personal] said that he thinks that that would be fine but he recommends that you review this uh medication with the physician that recommended it.
+Nurse: Yes, I've done that already. Have all the blood work done for it and just getting approval on it for how it's going to be paid. Ok. So we it looks like in the next couple of weeks might might be starting on it.
+Patient: Ok, good deal. I will let uh doctor know that and if you need anything else, you give us a call back. Ok,
+Nurse: Will do that. Thank you very much for calling. You're
+Patient: Welcome. Thank you for calling me back. Have a good weekend.
+Nurse: Yeah, you too. Bye now. Bye bye bye.

@@ -1,0 +1,17 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Um, this is [PHI-Personal] calling. I never did hear about my meter.
+Nurse: Ok, let me get you pulled up real quick here. Ok, MS [PHI-Personal].
+Patient: So I was I I was accepted for it, so I don't know what's going on.
+Nurse: Let me look and see what's going on here. Let me get you pulled up in the. Ok. Can you just verify your date of birth for me?
+Patient: [PHI-Account].
+Nurse: Yeah, and let's see here on your meter. [PHI-Personal] there. Hm. Ok, let's see if I can find it in here. Ok, so your insurance said you were good to get a new one, correct? Yes. Ok. And let me see with this one. What day was this one? Looks like they sent the request on [PHI-Personal]. Let me look and see where they sent it to make sure I went to the right place. Mark. Correct?
+Patient: Yeah, I asked when they called about my medications. If uh, they received it, they said no.
+Nurse: Yeah. And then I see it was sent again. I don't know why. Ok. So one was test strips, one's lancets
+Patient: Where they said something about the and uh
+Nurse: Uh huh. And, and
+Patient: The whole nothing about the meter
+Nurse: Off. Oh, I see it down here and on that day, but it looks like it didn't go through on the um, electronic, you know, it doesn't say, er, X, I don't know why it didn't go through. Huh? Ok. Ok. I love computers. You just gotta look and look until you find what the bug that's in there. So let me, let me see. Click on here and see because yeah, it, it says doctor has got the name, everything on there. Um, so let me call marks, give them the verbal order because I see it in the computer since I don't know why it didn't go through so we can get that for you. Oh,
+Patient: Ok. Well, thank you very much
+Nurse: And then, um, I'll, I'll give it, give them this evening to do, do everything and then I'll call you tomorrow to make sure that everything went through. Will that work? Oh, wait, wait, wait, tomorrow is Saturday? Oh, my goodness. I forgot what day of week it is. Oh, [PHI-Personal], I will call you on Monday just to make sure you got it and everything. How is that? Uh
+Patient: Ok, thank you.
+Nurse: Excellent. Thank you. Ok, bye bye.

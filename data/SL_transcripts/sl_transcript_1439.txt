@@ -1,0 +1,26 @@
+Nurse: Ok. Hi, this is [PHI-Personal] [PHI-Personal]. It's
+Patient: Oh, hey, [PHI-Personal], how are you doing?
+Nurse: I have a question to ask you. Sure. Hey, how come Doctor [PHI-Personal] changed my B 12 instead of every month to every other month. How do you know, man?
+Patient: It still says every month here. When did they say they changed it
+Nurse: A while ago? Well, that's what I heard. I don't know.
+Patient: Oh, ok. It still says every month sometimes they might make recommendations and not update it. Um the best I could do for you and a is ask them. Yeah. Ok. So b 12 every other month, are you giving yourself the injections or do you come into the office?
+Nurse: Uh my son gives me the injections. Ok.
+Patient: What does the current bottle say? Does it say every other month?
+Nurse: Oh, let me check
+Patient: That. Ok, because that might be a mistake.
+Nurse: I know because I have no left. Um, it, well, my last got this is in [PHI-Personal]. Ok. And it's uh two refills before oh, before [PHI-Personal].
+Patient: Oh, it's ok. We can refill that for you. Um Does the instructions say take every month or every other month, every month every month. Ok.
+Nurse: Yeah.
+Patient: I'm not sure who told you that, but we can,
+Nurse: I don't know who told me that. I don't know either one.
+Patient: Yeah. I mean, we still have it for every month unless your rheumatologist or your oncologist told you to change it. But you haven't seen them in a while. I have not a clue. Yeah. Ok. It's every month I'll do a refill for you. What pharmacy do you wanna
+Nurse: Use? Uh
+Patient: Ok. And do you need any
+Nurse: Needles? Oh, the needles with it? Yeah. Ok.
+Patient: All right, honey, I can do that. Um, I was calling you today. I wanted to make sure. Um, so I think the last time we talked we wanted to do a follow up of a cardiologist and the G I referral for the stomach doctor. Um, have you gotten appointments for either one of them?
+Nurse: One was for the end of [PHI-Personal] and I still have to call them again.
+Patient: Say that again. I'm sorry, [PHI-Personal]. I didn't hear you what? I didn't hear what you said. I'm sorry.
+Nurse: No burps. I gotta, I have to make an appointment.
+Patient: Ok, at the end of [PHI-Personal].
+Nurse: No, the other one they said it was uh, I was the end of a. Ok. Ok. I still have to call. Oh,
+Patient: Ok. That's fine. That's fine. Um, yeah, I would say the stomach doctor is the more important one mainly because you've been having that weight loss and we wanna figure out why, um, the cardiologist, we do want you to follow up, um, especially if you have those episodes again with the night sweats. Ok. Um, but I will, I'll, I mean, I'll double check on the vitamin B 12, but I'm not sure what happened. It's every month from what this says. Yeah, but I'll verify that we'll get that sent over to your pharmacy. Ok. Ok. Sounds good. Ok, great. So you got my number, you call me if anything changes, I'll be more than happy to help you. Ok, thank you. You're welcome, honey, I'll call you next month for a check in unless there's anything that changes. Ok. Ok, thank you. All right, you're welcome. Bye bye bye.

@@ -1,0 +1,21 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you? Hi. I'm
+Patient: Good. I'm finally home after my visit to the very busy. Er, oh,
+Nurse: Goodness, I checked on you earlier and it mentioned cellulitis.
+Patient: Yes. Yep. It, thank goodness it's cellulitis. They did a, um, an ultrasound on my leg to make sure there was no blood clots. I mean, whatever clot. Yeah, I guess it's a blood clot.
+Nurse: Um, a blood clot. Yeah. Yeah.
+Patient: So they were very thorough, that's for sure. Um, good, good. And, yeah. Um, so I have, I just picked up a couple of prescriptions that I have to take. Um, I don't know, they're, I know one is a, a steroid and the other two might be. Oh, me prednisoLONE.
+Nurse: Yeah, I can see here that's the steroid, uh, the Medrol dose pack and then amoxicillin, um, with the Augmentin and then the Bactrim. So, um, if I remember right, they recommended earlier when I looked, um, they recommend, uh, follow up with your primary care provider, correct? Ok. Yes, they did. All right. So what I'll do, um, because you don't have a visit scheduled until, let me see [PHI-Personal]. So I will put a note in here that you called back and that you would like to be scheduled for your, er, follow up visit. Um, and I'll have scheduling, reach out to get you scheduled for that.
+Patient: I'm sorry, you, you blanked out for a minute and I'm
+Nurse: Sorry, I'll have scheduling, reach out to get you scheduled for that, er, follow up visit. Did you hear me? You hear
+Patient: Me? Yeah, you, you're gonna have the scheduling people, call me
+Nurse: To schedule the er, follow up visit. Yes, great. Ok. Ok. All right. Thanks for letting me know. Well,
+Patient: Thank you for all your help. I really appreciate it.
+Nurse: You're very welcome. I kind of felt that it was it possibly cellulitis, but I'm not, you know, I'm not permitted to say that and I mean, with your symptoms, that's the step we had to take. So, right. And I need to treat it. So,
+Patient: Yeah, it's been a while but I do know that cellulitis is nothing to fool around with. So. No, no, it is not not, it's not as bad as having the clot, but it's still not a good thing. So. Yes, exactly. So, thank you.
+Nurse: You're welcome. And I'll forward the request to scheduling for you. So they'll be reaching out to get you scheduled if you need anything else. Let me know.
+Patient: Ok, thanks so much, [PHI-Personal].
+Nurse: You're welcome. Have a great day.
+Patient: Thank you. You too.
+Nurse: Thank you. Bye bye bye.

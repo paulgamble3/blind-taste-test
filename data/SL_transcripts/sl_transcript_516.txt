@@ -1,0 +1,29 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Uh Yes, [PHI-Personal]. It's hi, how
+Nurse: Are you today?
+Patient: Ok. Um I'm calling you because I need a couple refills. I need new scripts.
+Nurse: Ok. Let me bring up your chart here. What's your date of
+Patient: Birth? Uh [PHI-Personal]. All right.
+Nurse: Let me just get in here. Ok. All right. And what scripts do you need? Filled?
+Patient: Ok, I need my BP. A Tenolol 50 mg.
+Nurse: Ok. And that you take uh one tablet daily. Right. Right.
+Patient: OK. And then I need my um II I it I don't even know how to pronounce lil. I si no Pr Il and that's Eng once today.
+Nurse: Ok. So the uh Atenolol and the Lisinopril. Anything else?
+Patient: Yeah, I need a couple more. Ok. Uh it's for my um yeah, I'll spell it to you. Ome pr A Zole that's 40 mg.
+Nurse: Ok. And that's one daily.
+Patient: Yeah, that's a cap. Yep. Now they had gave me a 90 count before. Mhm. On that and the other one I gave you nine, they gave me a 90 then I need my, that fentaNYL Bentolin F I mean H fa. Ok. And one and then my other one is Fflutec [PHI-Personal]. Hi. Um and how I that with the water.
+Nurse: Ok. So you need the refills of the Atenolol. 50 mg, the Lisinopril 30 mg, your omeprazole, 40 mg and then your Ventolin H fa inhaler and then the fluticasone um nasal spray.
+Patient: Yeah. Ok. That nasal, that nasal spray. It's uh
+Nurse: Oh the um the inhaler one, I'm sorry, with the solu-medrol attached to it.
+Patient: Yeah. Ok. And the last one I gave you, it's actually a powdered one that I rinsed my mouth out.
+Nurse: Yeah. Um, so I was looking at the one above it, which is the nasal spray. They're, because they're an alphabetical order in your chart. Uh,
+Patient: Ok. And my advert, then later I inhale that it's my, for my, I guess the, uh, uh, pod or whatever, the CO
+Nurse: PD. Yeah. Ok. Which pharmacy do we want these sent to?
+Patient: Uh, S [PHI-Personal]? I'm still in. Ok.
+Nurse: I just wanted to make sure that that's where we're gonna send them to. Ok. And they're all the medications you need refilled. Yeah. Ok. How has your cop been doing with the warm weather? Sometimes that warm weather can flare it up.
+Patient: Uh, yeah, I, I've been trying to stay in but there's, sometimes I do have to go out and I like to the store like it, it, yeah, it's, that's been bothering me.
+Nurse: Yeah. So, you know, the, the heat, um, can really trigger it because when you, when your body gets overheated, then you need more oxygen to bring your temperature down and then that can cause you to kind of be like a breathless feeling. Um, so it is really best to try to, you know, stay indoors, especially when it's humid out because the humidity can make you feel like almost like it's suffocating to you. Um, so staying in with the air conditioning is the best option when it's really, really hot out and today it's supposed to be really humid. So, um, just try to make sure you stay.
+Patient: Yeah, I can't stand you and I never could.
+Nurse: Same here. Same here. I get it. All right. So, I mean, I'll put the request in for these refills for medic your medications for you. Um, and then we'll, you know, get them sent over. Ok.
+Patient: Ok. Thank you.
+Nurse: You're welcome. Bye.

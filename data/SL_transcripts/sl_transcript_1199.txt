@@ -1,0 +1,135 @@
+Nurse: Good morning. This is [PHI-Personal] nurse care manager with [PHI-Geographic].
+Patient: Hey, did you
+Nurse: Call me? I did mister [PHI-Personal]. How are you?
+Patient: Well, I'm doing pretty good. I got back from vacation and all went well, good.
+Nurse: You have fun. Yeah.
+Patient: Yeah. See [PHI-Personal]. Seen [PHI-Personal] bear. You seen [PHI-Personal]? Yeah. Walking past, walking past where we stayed. Oh, wow.
+Nurse: Were you inside or outside?
+Patient: Oh, I was inside.
+Nurse: Nice. Well, that's a good think
+Patient: 2.5 miles back in the mountain on top of the mountain.
+Nurse: Oh, so cool. I love it. Was there any cubs?
+Patient: Yeah, there was a couple. Yeah, a
+Nurse: Little baby [PHI-Personal] are so cute to me. I don't ever wanna touch one or be near one but, you know, look from a distance.
+Patient: I just, this morning here at the house, I just seen a, a, uh, deer with three little. 00, wow. Had that many, uh, I've heard of twins but not triplets,
+Nurse: Right? I've seen, I saw twins the other day, which is already rare. So the fact that she has three babies. Yeah. Uh, she's a super mama. I say that. Wow. I wonder if maybe she adopted one.
+Patient: Well, I don't know, maybe
+Nurse: That
+Patient: And there was another one with her and she had one, I don't had three but they came from two different directions. So, I don't know.
+Nurse: Yeah. Bless her heart. Well, that's good. Well, let's see what you haven't had anything recent and go on because you don't even have an appointment for a while.
+Patient: No, I got one pro, I have one problem though. He gonna call you or call the doctor or the nurse. I am not able to get my gabapentin. Uh They've tried, they say they have tried at the Walmart to contact the doctor and they still haven't had any response and I called the other day and left a message for, for [PHI-Personal] um, I guess uh is nurse.
+Nurse: Yeah, she's an another med nurse because me and her sometimes do stuff. Um,
+Patient: But, uh, I don't know if she got in contact and I wanted to check this more, but, um, I didn't get that for yet, but I'm out. I mean, today is my last. So
+Nurse: Today is your last? Ok. It looks like on [PHI-Account] there was a prior author request. Prior authorization has been started for [PHI-Personal] gabapentin 100 mg capsules prescription by the pharmacy to submit to the P A. Please follow the instructions below and let's see. So it's still open and that was,
+Patient: Yeah, I was down there and they said it's still, you know.
+Nurse: Yep. Yep. I see because I have [PHI-Account], which was yesterday. Um, and it hasn't been closed out yet, which to me, which it doesn't even give me a damn time when it was sent. Well,
+Patient: I know it was in the morning yesterday.
+Nurse: Uh, it was in the morning. Jeez.
+Patient: Great, because I went down to, to, to check on, well, not just to check on that but I checked on it while I was there.
+Nurse: But yeah, I would definitely, um, I'll see if I can get that pushed through quicker than it just chilling right there. Not nothing being done.
+Patient: Yeah, because I only have, well, I took one this morning. So, yeah, you
+Nurse: Know, so, yeah, by this evening you'll be done. Yeah. So we definitely need to get that pushed through so I can get you some medicine. Um, just cause with gabapentin, gabapentin, I don't, I don't want you to go without it, you know, and your pain and all,
+Patient: But it won't last, won't hurt to miss a couple.
+Nurse: So the only issue with gabapentin like medicine like that and it's the same way with some other medicines. Um, whether it's for pain control or say like your paroxetine stuff. I don't, I don't know if one day would really affect you too bad. The only issue is your body is gonna think you're trying to withdraw from it quickly instead of tapering.
+Patient: Yeah.
+Nurse: So if I can't get it pushed through our pharmacy or something goes wrong. Just watch out for any type of, you know, increased anxiety and nausea, increased pain. Um, because those are a few withdrawal symptoms that you can get from that.
+Patient: Well, the doctor has, call them. Right.
+Nurse: All he has to do is sign that form and send it back because that's gonna be an insurance deal. I'm trying to see you had another P A back in [PHI-Personal]. What was it for? It was for gabapentin too. So, they're, they're doing this every month.
+Patient: Yeah, it's only a month. Prescription.
+Nurse: Yeah. Which I'm just shocked they're wanting a prior auth every dang month. Um, but I'll see what I can do on that as far as getting it pushed through, like I said, just watch out if you can't, for some reason, get it by tomorrow or something, just watch out for any withdrawal symptoms. I don't, I don't want like mood changes happening, you know, you start cannot sleeping, you get upset. Yeah, that hyperactive can happen, that affect
+Patient: That. What gabapentin affect that.
+Nurse: Yes. Ok. Yes. If it can affect that, especially if you were to not be able to take it for a little while because of a prior auth taking forever.
+Patient: Yeah. So, well, I was, you know, I went on that vacation for a week and I thought, well, I knew it was thought, well, I have enough when I get back to the, well, it's been a week now. So, but I had enough pills for that length of time. So I thought I could, you know, have it refilled. Yeah.
+Nurse: Right. Usually because sometimes when they send stuff like this, I wish they would put a time. So I could see if they just send it later than normal and that's why nothing got done. Ok. But it's not even showing me a time and that gets on my nerves. Yeah, that gets on my nerves because I know you need it.
+Patient: I don't blame you. Yeah, you don't believe
+Nurse: Me. OK. Um Let me see. Let me see. Let me see. Uh cause you don't take anything else really for it. If you were to miss it. Have you ever gone a day or two without
+Patient: Gabapentin? Well, uh I have to confess once in a while. I forget to take pills but other than that, you know,
+Nurse: Once in a while you forget to take pills
+Patient: Once, once in a while I forget to take my morning uh or I usually take my evening set of pills. Well, gabapentin is both times so. Mhm. But uh yeah, I do that occasionally but uh I don't seem to, I mean good
+Nurse: In most circumstances forgetting pills and stuff, especially if it's nothing like too strong on your body. You don't really feel an effect, especially if it's just say one dose. Oh
+Patient: Kind of low doses anyhow, I think. But you know.
+Nurse: Yeah. Do you have any, do you do like a pill box or anything to help you kind of keep track the medications. Ok. I don't think I ever asked you that if you do a pill box or not. Some people do. Some people don't,
+Patient: I do if I wouldn't, I, you know, and I try to, my table when I have breakfast so I don't forget them, but sometimes I even look over them. So,
+Nurse: Hey, I, you know, sometimes that happens it uh everybody does it every now and then. Um hey, but you never double, right? If you forget to take when you're like, oh I missed my morning. So let me take two tonight.
+Patient: No, I don't do that.
+Nurse: Ok. Never double sometimes doubling that be good.
+Patient: Some of the repeat that I take at night. Uh you know, uh since I didn't take them during the day, I just don't take any more, I just rely on those at night.
+Nurse: Ok. That and that's perfectly fine like
+Patient: Me, me and uh
+Nurse: Yeah, metoprolol. Mhm. And you also do Eliquis.
+Patient: Yeah, that's twice a day too.
+Nurse: Yeah, it is. And everything else is one.
+Patient: I just had my uh one, what is it? Avastin or whatever? I just atorvastatin. I just had that filled yesterday because that was just about out too. Ok.
+Nurse: Hey, did you ever
+Patient: Go ahead? I had refills on that. So.
+Nurse: Ok, perfect. Did you ever get that BP record? I sent you. Yes, I did. Ok. Did it print out? Ok.
+Patient: Yeah. Ok. I, um, I have been taking my BP once, maybe every day but, uh, I've been taking, I, I don't know, I might have taken it 10 times since, uh,
+Nurse: Nice. What was your last BP reading?
+Patient: Oh, I don't know. Exactly. It was like 100 and 17/60 some, I think. Or seven more. It has. I've never taken it that it was over 100 and 30 on top, but most of the time it's in the teens good on the top and in the sixties to seventies on the bottom.
+Nurse: Good, good. That shows that Toprol and your pri is doing its job. Yeah. So that's really good. Um, on that 1, 17, over possibly 71. How many days ago was that you think before vacation? That was yesterday? Oh, yesterday. Ok. At [PHI-Account]. Perfect.
+Patient: Ok. And then I take both arms and one arm is different than the other arm. Usually I don't know why.
+Nurse: Well, that is because there is a kind of like the, the amount of blood flow in each arm is gonna be different. Um, so usually they're gonna be somewhat a little bit close together. Now, if you ever have one arm say that's, you're 1 17/71 and then your other arm is like 1 60/85 we might, we need to look into that. But, um, if it's, you know, more closer together that's, that's normal. Everybody's is different.
+Patient: I don't think I've ever experienced BP. Like that.
+Nurse: Good, good. If, if that does happen. Um, I think the highest
+Patient: I had it was in the doctor's office one time and it was 100 and 38 over something.
+Nurse: And that, that's, yeah, with medication, that's, I mean, it might, something that would need to be tweak but that could be more of a, maybe you had too much salt, lightly
+Patient: Deal. I do eat salt all the time. So, yeah, that's my, that's my, uh, whatever you call my bad habit, I guess. But I did get a call from, uh, a high mark person, uh, about my prescriptions and stuff here not long ago. Ok. She sent me a, a, uh, a list of what I take and what to expect and all that stuff. Well,
+Nurse: That's good. I'm glad they done
+Patient: Something that's the first time that happened. But, uh,
+Nurse: That is, yeah, that's rare.
+Patient: She said at the time. Anything, 100 and 40 over 90 anything, that's the high peak. So, anything under that should be fine. She said. So, I don't know. You agree. Mhm.
+Nurse: Ok. Let me, let's see. Trying to see if there was anything that else I needed to kind of update. We're good on that because that was in May when we done that and it's July. So, it's only two months. Um, this year is passing by so fast to me. Oh my. Like I won't wake up but it's gonna be Christmas time.
+Patient: Hey, when it gets to be, when you get to be my age, it flies faster, I think. Mm. So get
+Nurse: Ready. Get ready. Oh, Lord. Let's see, anxiety, depression. Any, any symptoms going on with any of those sad, nervous sweating, trembling, tired.
+Patient: No. Ok. The stupid heat that we've been having, I've been kind of hibernating in the afternoons in the house and the air conditioner.
+Nurse: Yeah. Yeah, definitely. Don't want nobody to get overheated right now, for sure. Let's see. Any changes in your sleeping and eating.
+Patient: Uh, no, not really. Uh,
+Nurse: Ok, you've been cleaning your CPAP.
+Patient: I need to do it again.
+Nurse: Ok. Well, you done it once. Yeah, when you could do it again, do it again just to make sure there's good bacteria.
+Patient: I clean it before I went on vacation. We put new, new hoses and stuff on it because I had a supply of stuff and everything. So, but, uh, I need to clean it again.
+Nurse: Ok. Good. Well, at least you done that. Uh, so want no bacteria trying to get up in there and they get you sick and then one day you start coughing, you're like, what the crap.
+Patient: Well, I do do that. So, I'm telling you, I, uh, well, I caught it like a cold when I was away, I guess. I don't know, it was a bunch of nasal drainage mostly. And I still have that, but at night it drains down into my throat and I got, got to, uh, cough sometimes. But
+Nurse: Do you, do you have like a, um, some na saline nasal spray?
+Patient: Yeah. And I don't use it as much as I should. I just buy some, uh, I need to use it more, I guess when I go to bed, you mean? Mhm. Yeah.
+Nurse: Yeah, that'd be good. You can do like, two squirts of each nostril that'll kind of flush everything out. Um, your CPAP provides humidity. So that should be. Ok. The only thing else that might, could help without trying to say, rely on antihistamines or Mucinex would be maybe a humidifier during the day.
+Patient: Ok. Uh, a humidifier.
+Nurse: Yeah. Humidifier. Yes.
+Patient: Ok. Well, I'm trying to get rid of the U.
+Nurse: Yes. Yeah, I know. But it's, I guess you could say there's a little bit more of a difference when it comes to outside humidity and inside humidity. It's not, it's, I don't know how to really describe it besides, it's kinda not the same.
+Patient: Ok.
+Nurse: Um, it's just, I was, if anything just do it, like on a really bad day, if you really feel kind of congested and it's in the back of your throat and coughing, um, [PHI-Personal] could help too.
+Patient: Yeah.
+Nurse: But just watch out for any.
+Patient: I bought some honey, honey [PHI-Personal]. Uh, honey, I guess it's strictly, honey. I don't know if there's any medicine in it. But maybe that would help with the irritation.
+Nurse: It will. It will. Honey is really good. I didn't
+Patient: Take any yet.
+Nurse: Didn't take any yet. Yeah. Honey, honey is good. It will. Um, it would help even people that would eat like a tablespoon of honey a day. I can't eat honey like that, but it does help with the throat irritation,
+Patient: Something. But then, you know,
+Nurse: Uh, I spread it on what bread or
+Patient: Like? Oh, yeah, like, like jelly or whatever. Yeah. But, uh, I can do that but, uh, I've put it already in tea but I haven't been drinking hot tea.
+Nurse: Yeah. Ok. Yeah, it's, it's kinda hard to drink a hot drink with, it's hot outside. But that helps with any throat irritation, too, warm fluids.
+Patient: My grandmother used to take hot [PHI-Personal] water in every morning. She drink [PHI-Personal],
+Nurse: [PHI-Personal]
+Patient: Water. Yeah. You make it hot drink that,
+Nurse: I don't know about that. I,
+Patient: Of course she took a, uh, a shot of liquor too. A shot
+Nurse: Of liquor. Not, it would help everybody, you know, everybody way back then used to. Yeah, that
+Patient: Morning patient she didn't drink any more than that. I mean, she wasn't an alcoholic or anything but she take a shot of, of liquor in the morning. Was
+Nurse: She pretty healthy?
+Patient: Yeah, she lived to be [PHI-Personal]. So, that's good. Yeah. How did you live to
+Nurse: [PHI-Personal]? Shot of [PHI-Personal]? What's that? I, was that to people. How do you live so long? A shot of liquor every morning. Bless her heart
+Patient: Right first when I say [PHI-Personal] anymore I I think I'm not that far away.
+Nurse: Hey, you're doing good. You're doing good. BP is good. Everything is looking good, doing good. Just clean your CPAP. Ok. Clean that CPAP. But alright well let me get all this up to date and let me try to get that prior auth pushed through so we can try to get you some medicine called in today,
+Patient: Right? No pro I guess once they get the notification and stuff uh you know they'll call me so I don't have to bother the the doctor anymore.
+Nurse: Yeah that's fine but you don't, in all honesty you don't have to call them, you can just call me. So if something happens just give me a call back.
+Patient: That's what I wasn't sure I didn't wanna bother you but I know I didn't know if the procedure was to call the nurse, you know the doctor. Yeah just
+Nurse: You're just call me I get done
+Patient: Easier to get a hold of.
+Nurse: Yeah, thanks I try to. The only time I normally don't answer is if you know I'm on the phone with a patient or lunch or something but yeah if something comes up again just just give me a call and I can get everything situated
+Patient: Right there.
+Nurse: Alrighty. Well let me do this um if I come up with or if I run into any issues I'll let you know but I shouldn't.
+Patient: Alrighty.
+Nurse: Thank you. Oh alright mister [PHI-Personal] you have fun today. Have a good
+Patient: Cool day today. You too. Ok, bye
+Nurse: Bye bye.

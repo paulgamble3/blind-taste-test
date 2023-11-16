@@ -1,0 +1,7 @@
+Nurse: Good afternoon. Thank you for calling Care Management. My name is [PHI-Personal]. How can I help you today?
+Patient: Yes, I left a message by you guys. Uh This is [PHI-Personal].
+Nurse: Ok. Thank you, [PHI-Personal]. I appreciate you giving me a call back. I do wanna inform you the calls are recorded for quality purposes. We're reaching out because um excuse me, [PHI-Personal] is providing a care management program. It's where our dedicated nurse would reach out in between your office visits. She'll answer any questions or concerns. She'll help manage current health conditions can assist with medications, lab results, community resources, anything pertaining to your health? She would be an added resource. Now, the calls are documented. They are treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers would be subject to deductible copay co insurance. So you may receive a statement from the practice for those services. If interested, [PHI-Personal], would you prefer if the nurse reached out in the morning or afternoon?
+Patient: I don't think I want anything to do with this really. So I appreciate it. But thank
+Nurse: You. Not a problem. I a lot our information if you need us down the line, feel free to reach out. You have a great.
+Patient: Alright, thank
+Nurse: You. Thanks bye bye.

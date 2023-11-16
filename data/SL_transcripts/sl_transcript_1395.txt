@@ -1,0 +1,45 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, my name is [PHI-Personal]. Um, uh, a gal using the, the contact for [PHI-Personal] mc [PHI-Personal]. Uh, in other words, the phone that I logged into my contacts when [PHI-Personal] used to call me called, I forget her name. She probably just wants to do a routine. Hi, how you doing? Uh, kind of thing, but I don't remember her name. She's taking [PHI-Personal] place apparently.
+Nurse: Ok. Was it [PHI-Personal]? Does that sound familiar? Yeah, that's the name from? Yeah. Ok, perfect. Yeah, my name is [PHI-Personal]. So, uh, [PHI-Personal] is just out of the office for the week. So I'm following up with some of her patients. Let me get your chart pulled up. Give me just one moment here. No. All righty. So, yeah, like I said, I was just giving you a call to do our follow up. Um, looks like you've not had anything too exciting going on since we, you know, we talked last, um, looks like you're trying to get surgical clearance currently for a procedure to your lower eye. Correct.
+Patient: Correct. I love it.
+Nurse: Ok, perfect. So I do see that they've got all of that submitted in there. Let me take a look here. Ok. All right. And it looks like you were also, did you [PHI-Personal] recently
+Patient: [PHI-Personal], um, five years ago?
+Nurse: Oh. I, I see that you were, um, looking for a new cardiologist, correct?
+Patient: Oh, that's interesting. Yeah. Uh II, I love [PHI-Personal] so much that I'm willing to drive back there. She treats me so well. Uh, but I haven't seen Jo [PHI-Personal] in five years or six and I, if I found somebody in Morton plant in case I need them, it'll be so much easier.
+Nurse: Got you. Let me take a look here. So it looks like they did send that over to the provider, but it doesn't look like he's gotten back to them yet. As far as a recommendation goes. Um, are you needing any refills on any medications currently? Are you still doing ok as far as all of those go,
+Patient: Uh, say that again, please.
+Nurse: Are you needing any refills on any medications currently?
+Patient: No, no, no, I do a spreadsheet and, and the, the next one is 100 and 20 days from now.
+Nurse: Ok, perfect. That's a good way to keep track of it. You're, you're more organized than I am. It sounds like
+Patient: I do have a question when you get it an extra second.
+Nurse: Sure. Go right ahead.
+Patient: Do you remember calling me?
+Nurse: Um Yes, I left you a voice mail earlier today?
+Patient: Oh, you did leave him a voice mail. Yes.
+Nurse: Oh, I believe. Let me make sure. Yes. It looks like I did leave you a message earlier.
+Patient: Ok. The reason I'm asking [PHI-Personal] is somehow II, I look at, I turned my phone off and turned it on and when I do that it tells me it gives me some updates, um, before. Is, is it just coming on? And it said I blocked this ca call and, and I thought, oh, my God, I did that blocked the call. I said, how did I possibly do that because, and I looked, and it was blocked and I don't remember doing that and I wouldn't ever do that un unless her name didn't come up. In which case, it was just a straight call. So, and so then, uh, I was just wonder, I always wonder what happens when you call a block, the number. Well, apparently it just went right into, uh, the voice messing machine.
+Nurse: Yeah. So it, it did allow me to leave you a message earlier, so I didn't have any problems there. Um, looks like I called you right around 11 this morning.
+Patient: Right. Yes.
+Nurse: Ok. And then
+Patient: I'm glad to hear that.
+Nurse: Yeah, no problem. And then how has your BP been doing? Has it been doing good?
+Patient: Yes, it has been. Um, yeah, it's, uh, to be honest, it's, uh, very inconsistent. I mean, I can do it three times in 10 seconds or? 30 seconds and I can get remarkably different rates. But nonetheless, yeah, it's running high one thirties, uh, high sixties, low seventies and my pulse is mid fifties.
+Nurse: Ok. So with your, with your BP, when you're retaking it, um, if you retake it within a couple of minutes on the same arm, it can be elevated due to uh vasospasm. So basically the, the vein kind of spasms and it will increase pressure in the vein. So if you're taking it, you know, right back to back on the same arm um that can cause an increase if you're doing it, you know, close together. So if you see that, that can be why. So we always recommend if you know, you are gonna take it more than once to try and take it on the opposite arm to just prevent that.
+Patient: I always do that. If I get an ex extraordinarily low or high reading on my left arm, then I'll do it on my right arm and then I'll do it again and it's always lower on my right arm. Uh The second one and then I, so then I go back to my left arm and whatever it says I write down.
+Nurse: OK. Yeah. And some people will have some, I mean, some people will have that where it is lower on one arm than it is on the other. Um I've had patients in the past where I mean, their, their BP will be astronomical on one arm but then on the other arm will be normal and it's just because that they've got that increased pressure on the one side, but it's not really systemic.
+Patient: Huh. It's interesting to know.
+Nurse: It is. Yeah. It's an, it's an interesting phenomenon, that's for sure. But what, what I will do is, like I said, it sounds like you're doing great. Are you monitoring your BP once a day typically?
+Patient: Yes. Around uh right around this time I haven't done it today. I was getting ready to do it when I call when you called or I called you. Ok.
+Nurse: Alrighty. Well um you know it sounds like your BP is doing well um not needing any medication, so I will plan on either myself or [PHI-Personal]. We'll plan on following up with you. Looks like we're doing every three months for your calls. Of course, if you need anything prior to that, you know, you can give me a call, let me know and we'd be more than happy to help you, but it sounds like you're doing well overall
+Patient: And this would be at the uh the [PHI-Account] number.
+Nurse: Um no this would be a different number and I can give that to you if you'd like. Yes please. It is [PHI-Account] [PHI-Account]
+Patient: [PHI-Account].
+Nurse: Mhm. [PHI-Account].
+Patient: Uh give me that again.
+Nurse: T [PHI-Account]
+Patient: [PHI-Account]. Great. Uh, that's good. I, uh, I've never had to have an emergency appointment with doctor but it can be a, I, I use, uh, when I try and call I, it, it doesn't, I don't usually get through to anybody. So, um, I go through, uh, the, my chart but that always at least the next day or so before they respond. Uh, and I understand that everybody's busy. Um, but if I had this number, if, if I can't do it the other way, I'll call this number.
+Nurse: That's perfect. And we can definitely get, um, get in touch with somebody and we can get that scheduled for you if we need to. Ok,
+Patient: Great. Well, thank you so much. I appreciate the phone
+Nurse: Call. Sure. No problem. You have a great rest of your day and a great weekend. Ok.
+Patient: Take care [PHI-Personal]. Bye. Bye.
+Nurse: Bye bye.

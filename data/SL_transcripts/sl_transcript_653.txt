@@ -1,0 +1,9 @@
+Nurse: This, this is [PHI-Personal] speaking. How may I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Hi. I have a question for you. Mhm. I, I've reached a milestone in my home activities. I'm really screwing up my pills in the case. Mhm. I, I have multiples, twos and some of them are blank and some of them are missing. And do I have to have a special, um, um, permission for my husband to take that job over?
+Nurse: Oh, no. Um, yeah, it's fine if you, if he can, um, help you with your medication, like, we would recommend, like, if you had somebody that would, that could help you, um, do your medication and put the pill box together for you if you were having a hard time that, you know. Yeah, that it's ok for them to do that.
+Patient: Oh, good. Ok. Because I already asked him and he said no problem. Mhm.
+Nurse: Oh, yeah. Yeah, definitely not a problem. Um, with that, like, and if he has any questions or concerns about any of your medication, um, he can always just feel free to give a call too so we can, and we can just go over, you know, things with you guys over the phone as far as your medication is
+Patient: Concerned. Great. Mhm. I just thought I better check with you before I
+Nurse: Put. Yes, totally. Fine. Yep.
+Patient: Ok. Well, thank you.
+Nurse: You're welcome. Bye bye bye.

@@ -1,0 +1,7 @@
+Nurse: This is [PHI-Personal]. May I help you? Could I speak to [PHI-Personal]? Just one moment? Thank you. Can I tell her who's calling?
+Patient: This is [PHI-Personal]. I'm calling for my mom, [PHI-Personal].
+Nurse: Ok, just one moment. She is on another line. Can I have her call you right back? Uh Yeah,
+Patient: That would be fine.
+Nurse: Ok, and you're calling for M [PHI-Personal]?
+Patient: Yeah, it's [PHI-Account].
+Nurse: All right. I will tell her let her know as soon as she gets off the other line. Ok, thank you very much. You're so welcome. Bye bye.

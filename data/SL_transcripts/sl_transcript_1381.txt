@@ -1,0 +1,41 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Hi, this is [PHI-Personal] Swab. I'm supposed to call [PHI-Personal].
+Nurse: Hey, [PHI-Personal]. Yes. All right. Let me get into your chart here. Exit. I, sorry, I missed a call from you on Friday. I had on my call list for today. All right, chronic care management. Ok. So doctor Ki did put parameters on that BP. If you find that your top number goes below 100 and five.
+Patient: Yeah. Well, what happened was, is I had a, another one of them spells. Oh, no. Ok. Yeah. So I, I cut it out. Ok, I quit taking it. Uh, let's see Saturday. Ok. Saturday afternoon, I was at see Saturday morning. I was 1 22/78. Ok. And uh the other number was 1 44. Ok. And I mean, I just didn't even feel right. Yeah. Then I waited a few hours and I took it again. It was 1 12/89 and it was down to 1 40 and that's when I stopped taking it. That was Saturday was my last pill. Ok.
+Nurse: How have you been feeling since, since?
+Patient: So I much better. Ok, so Sunday I started taking, uh, what I used to take. Ok, but I figured that's what doc would want me to do. I, I didn't know what to do but yeah, that's what I did. I just went back on my regular dosage I had before he had changed this.
+Nurse: All right. So, so you stopped the, the new med, right?
+Patient: Yes. Ok. Saturday was my last dose of that.
+Nurse: All right. And then you just took, you started taking the Lisinopril [PHI-Account]. Ok. Yes, Lisinopril.
+Patient: That was Sunday morning. I took that.
+Nurse: Ok. And what was the pressure? Uh,
+Patient: First time around in the morning was 1 18/74 and the other number was 68. Ok. Then I took it again. It was 1 34/74 and the same 68. Ok. See. Ok. Then at 11 o'clock last night it was 1 39/80 the third number was 67.
+Nurse: That's a lot better. Your heart rate was going really high.
+Patient: Now, this morning I took it before I went to the barn. Yeah, that was 7 a.m. It was 1 34/78 and the third number was 68. Ok. So that's where we're at right now.
+Nurse: I like those numbers a lot better than I like the 1 48 and 1 40 for a heart rate is pretty high.
+Patient: Well, yeah, I didn't even, I mean, and that happened before when I first started taking that new medicine and I figured, well, I just can carry on and it'll straighten itself out. But no, it didn't. No,
+Nurse: Even when you're on this, just a single Lisinopril, um, you might retain a little bit of water cause I think your, the issue is probably the second medication that's in there. The hydrochlorothiazide and that's the diuretic. So like if you don't drink enough water, your BP will go down the heart rate. I don't, I'm not sure but for it to get, you know, into the, I mean, average resting would be like 60 to 100 that's a normal sitting, you know, just average every day if you're working out, if you're doing like, if you're exercising, I'd be like, oh, ok. You know, you've been, you know, you know, manual labor or, you know, running or anything like that. I'd see like, ok. All right. [PHI-Account]. So 68 is a lot better. Um I'm just gonna message him back and just let him know the all the numbers let him know that, you know, you did have like a dizzy spell on Saturday. Um Yeah. Yeah. And that it was the, the heart rate was pretty elevated and then, um just let him know that, you know, for now we're just gonna leave it at the plain Lisinopril. Ok.
+Patient: Yeah. Yeah, I've got, I don't know how many is in that bottle. Yet. Probably [PHI-Account] pills yet. Oh,
+Nurse: Ok. Oh, [PHI-Account] left. And that's the, the dual med or? That's the Lisinopril. Just the plain Lisinopril. Just, just
+Patient: A plain. Ok. Ok. Yeah. The duel. I don't know which is quite that bottle
+Nurse: Sometimes. Yeah. Sometimes, you know, you just have a medication that doesn't agree with you. Like, sometimes you could chalk it up and just say, hey, drink more water. But even sometimes like that when that happens like you're still your kidneys are just flushing out, you know, as much water as they could. So yeah might not that medication just might not agree with you but I don't think so. Yeah. Oh my goodness I'm sorry that you had that episode but I'm glad that you're feeling better.
+Patient: Yeah I'm I'm fine today.
+Nurse: Yeah. Yeah today just for today if he has any further direction um I will give you a call back and even if he doesn't wanna do anything and he just says that's fine, I'll let you know. Ok. Do you want me to leave a message if you don't answer? Is it? Ok if I leave a message? Yeah
+Patient: You can on this phone here.
+Nurse: Ok. Alright uh on the mobile phone right? This is my house. Oh the house phone. Ok. Ok. Alright beautiful
+Patient: The the mobile phone I don't know how to get a message off of that or you know how to do is call people. Ok. Very computer illiterate. Oh,
+Nurse: Ok. Uh, yes, basically back
+Patient: In the old days, you know what I mean?
+Nurse: That's the way to be. I think too much technology, too much information is not a good thing.
+Patient: Pe people are not home anymore.
+Nurse: No.
+Patient: No, they're, they're often, never, never landed and they, I mean, we went to a baptism yesterday. Mhm. And, uh, three quarters of these kids were on their cell phones in that church.
+Nurse: Oh, that's terrible.
+Patient: Just, I had, I hadn't been to church in several years but, uh, it, it was very depressing. Yeah. You know, like a bunch of hoodlums in there. Just, just like the last, I got a speeding ticket in [PHI-Geographic]. I don't know, 56 years ago and I went down to the court and I walked into that courtroom and you would have swore it was a zoo. Yeah, there was yelling and hollering and carrying on, going on in there. I thought my God, this cannot be a courtroom. There were two judges up front there allowing this and there again, all these people were on their cell phones and they were telling jokes and just unbelievable. Yeah. These, these people are so out of control today. It isn't funny. Worry about the
+Nurse: [PHI-Personal].
+Patient: I do. My God. I don't, I don't want to know. Yeah, it was, it was one of my great grandkids that got baptized yesterday. Yeah. You know, and there was no dad there. Obviously nobody knows the baby. Daddy and, oh, my God, it's just like, you know, the, the, this stuff on TV, today is so real, you know, the [PHI-Personal] and the, ok, these other people, it's, it's just so real.
+Nurse: Yeah. Right. Sad. It is. It's terrible. Very
+Patient: Sad. So, yeah. Anyhow.
+Nurse: Hm. Anyway, you have to just have faith that things will work themselves out because I don't even wanna say things will get better because they'll probably get worse before they get better.
+Patient: I've, I've watched this stuff too many years. Mhm. It's just so out of control. It isn't funny. Yeah, nobody has any direction they don't. You know, it's one of my granddaughters sitting there. She has zero faith in anything. That's just like a, a very numb girl. Yeah. So it's a mess. Yeah. Yeah, just let me know what he wants me to do and ok, you got it. All right. Thank you very much.
+Nurse: You're welcome. You're welcome. Alright, I'll talk to you soon, John Do. Thanks. Bye bye.

@@ -1,0 +1,54 @@
+Nurse: This is, hi, this is,
+Patient: Hey, [PHI-Personal]. I'm sorry. We played phone
+Nurse: [PHI-Personal]. I know we're playing phone [PHI-Personal]. Mhm.
+Patient: Well, it, it's been a month already. Well, almost a month since we spoke last, I wanted to call and just check in and see how everything's going. See how that means an appointment plan.
+Nurse: Oh, yeah, I was in the hospital for my stomach. I got a doctor's appointment next Monday with Doctor [PHI-Personal]. My CT Scan was showing that my, I had some kind of stomach problems or something. I'm not sure exactly what it is. Ok.
+Patient: All right. And when, when were you in the hospital? Like,
+Nurse: Uh, like, uh, Sun Sun last Sunday, last Sunday, last
+Patient: Sunday. Ok. All right. Oh, I think I see it here now. I found it, like, near the [PHI-Personal]. Yeah, that sound right. Ok. All right. Well, what kind of symptoms were you having that sent you to the emergency room?
+Nurse: Well, for five or six days I was having problems eating and drinking without my stomach hurting. So I ended up going down there because my stomach was getting worse instead of better. So they did blood work, which came back. Ok. And then my CT Scan showed that it was abnormal and they just said they just told me to make an appointment with doctor office.
+Patient: Ok. All right. Just to follow up and kinda look into it a little further.
+Nurse: Yeah. Ok. So I have an appointment next Monday with him on the [PHI-Personal], on the
+Patient: [PHI-Personal]. Make a note of that. And I guess
+Nurse: My thyroid is, my thyroid is pretty high. They did a blood work when I went to the doctor's and they called me next day and said my thyroid was really high. Ok.
+Patient: All right. Now, have you had an adjustment to your medication or anything?
+Nurse: They've been just going up and down with the thyroid pills? Yeah. Ok.
+Patient: All right. All right. Let's see. And then you were there to see [PHI-Personal] on the [PHI-Personal] in the office, right?
+Nurse: Ok. Yeah. And she did blood work. She, ok.
+Patient: Got repeats of that. Let me look here. Have you gotten results from that blood work yet?
+Nurse: Yeah. She said that that's where I found out my thyroid was really kind of high.
+Patient: I got you. I follow it. Now. You've had a lot going on here recently.
+Nurse: It's a New Year. Every time a New Year pops up. I always have something wrong with me.
+Patient: Goodness, it's like your body says, it wants to come in with a bang with the new year. Yeah,
+Nurse: I'm telling you. Well, I hate and, um, as far as my, uh, diabetes thing goes, I had ordered that DC com or whatever it is. Uh, yeah. Oh, ok. Well, they're having issues with, they need more paperwork or something. I don't know what they're talking about. It's for the doctors. I don't know. I called them and I may and I got, I got it approved. I just, they just need some other paperwork. I'm not sure what they're talking about. The Dextro. Mm.
+Patient: Ok. It looks like they sent more paperwork from here at the office on Friday. So hopefully that'll be getting straightened out. Hopefully that would be the last thing that they need for that. Nothing simple when it comes to insurance and medical.
+Nurse: Yeah, I did, I did my part, they just gotta do their part, I guess if they said, but, um, my, my thyroid is there any way I can have that taken out?
+Patient: Um,
+Nurse: Yeah, I mean, I, I was just wondering,
+Patient: Yeah, people do have thyroidectomies and have it removed and everything that, that is a, a thing that does happen sometimes.
+Nurse: So, yes, because I was wondering if I could just like, maybe have to see if I could get that taken out and then I wouldn't have to worry about going up and down on my thyroids because I think it's just interfering with my blood, my, um, diabetes too. And I was wondering what I'd have to do to do all that
+Patient: I think after uh again, it has a whole lot to do with the documentation and um after so long and trying all the different things and it's kind of, it's, it's not uh what am I trying to say? It's not like a first line of defense. They, they definitely exhaust all the other options before they do that. So, but, but it is a, a thing that happens at times for sure.
+Nurse: Yeah, because we have been going up and down, up and down with my thyroid medicine. They'll put me up and then they'll put me down, then put, yeah, for almost a year now.
+Patient: Ongoing struggle. Yeah. Yeah. Just the slight. I know when your levels are low and the slightest tweak in medication it can go so far the other way you would think it would just be a small little change, but it gets pretty sensitive when they start moving medications around and it gets frustrating. I know. That's true. Let's see.
+Nurse: Ok.
+Patient: To see when, when is your next appointment at the office?
+Nurse: Uh, my computer. Hold on, hold on, hold on. Let me, um, I just got a letter in the mail. So, let me see. Yeah, because they just gave me a, hold on. I got it over here right here
+Patient: As soon as I went to make sure I had it right. I got kicked off my computer
+Nurse: So I have a, I have to do a routine thing. For my thyroid, which is, uh, for blood work. Um, my follow up is on the [PHI-Personal] of July. Ok. With the TMO. Yes.
+Patient: Ok. I see that here at 9 30 in the morning. Right.
+Nurse: Yeah. Yeah. And then the blood work I was going to ask it, this is scheduled for [PHI-Personal]. But what does that mean? I don't know. I have a lab work to do for a routine for my thyroid. Can I do that any time or do I have to do that? It's probably because it's marked in the yellow and schedule for [PHI-Personal]. And this is this for,
+Patient: It's probably scheduled for a month out from like roughly a month from now where they made a change to your medication.
+Nurse: Oh, of them. So yeah, just ok. So [PHI-Personal]. Just go there then. Ok. Yeah. So I have an appointment on July [PHI-Personal] for that with.
+Patient: All right, to follow up. That's good. All right. And you said you go Monday to see Doctor [PHI-Personal]?
+Nurse: Yeah, I got to be here Monday at [PHI-Account] 15. [PHI-Account] 15, [PHI-Account] 15. Yeah.
+Patient: Now, since your trip to the emergency room, are you still having the same level of stomach issues
+Nurse: Or? Yeah. Yeah, a little bit. They gave me some pills to take, they gave me um, ok, let me see what I'm on my pill bottle. So I, I can tell you in a second they gave me some medicine f AM OTG ID Ine.
+Patient: And let me see here. Say it one more time for me.
+Nurse: Um, F AM OT ID Ine. Ok. All right. 20 mg. And then they gave me, uh, the, let me, uh, we were taking this before. Yeah, at that one. Ok. Hold on, I'll find it. I got so many medicines. I don't know what to do. Something like that. Car, car [PHI-Personal]. Ok. All right. The pills but water and delete it like that I can just drink a drink it because it's so big.
+Patient: Yeah yeah they they're like uh horse pills.
+Nurse: Yeah so that that's a yeah I remember doing all this like six years ago because um I seen doctor six years ago so I expect to know what's gonna happen they're gonna do down my throat and stick something up my butt. Yeah try to get
+Patient: A a picture of everything you're probably right.
+Nurse: Yep well
+Patient: Well what I'll do I'm gonna make myself a note here in your chart and and I'll plan to call you after that appointment one day that you have with him um just to check in and kind of see how that goes and see what the plan looks like. Ok. Ok. All right and then if if anything else comes up or changes or if you think of anything uh you call me anytime. Ok, I'm here every day. Ok. No
+Nurse: No problem. Alright.
+Patient: Alright have a good feeling better and and I'll check in with you soon. All right, thank you. Alright, thank you. Mhm. Bye bye bye bye.

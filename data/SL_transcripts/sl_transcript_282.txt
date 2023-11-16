@@ -1,0 +1,92 @@
+Nurse: This is [PHI-Personal].
+Patient: Yes. Uh, [PHI-Personal], this is, uh, I think you just called, um,
+Nurse: Somebody probably just called you. Can you, um, spell your name for me?
+Patient: Uh A LB RT. I,
+Nurse: I'm sorry, you cut out there. Are you still there?
+Patient: A lbe RT? I [PHI-Personal].
+Nurse: Uh, ok.
+Patient: I just, uh, Doctor [PHI-Personal] is, uh, I guess in our office.
+Nurse: Ok. It was probably [PHI-Personal] that called you. But let me, um, let me see what I can do for you here. Give me just one second.
+Patient: Ok.
+Nurse: How, um, how are you doing? Are you, uh, safe? Are you out of the line of fire? Well,
+Patient: Yeah. Well, you see TV, but we lost power and, uh, right now I'm at my nephew's house.
+Nurse: Oh, ok. And how close is, uh, is he, is he a little bit farther away from the,
+Patient: He's five minutes from my house?
+Nurse: Ok. Ok. Well, it's good to have, it's definitely good to have family to go through things like that with, you know. Um, uh, how, so how close are you guys, you're in, like the Tampa area,
+Patient: Right? I'm, I'm in [PHI-Geographic].
+Nurse: Ok. Yeah, I've, uh, I have a cousin that's in [PHI-Geographic] and they got just demolished. Just abso, absolutely demolished. She, um, she has a house that's got two inches of water throughout the whole thing and then she's got a recessed, um, living room that's under four inches of water and her entire outside enclosure for her pool is completely demolished and her neighborhoods flooded. The cars are half, I mean, the water is halfway up their vehicles.
+Patient: Yeah. Yeah, I see it on the news but we're not, I'm not in that category. I think those by the beach areas. No, I mean, we just lost power. We got some, uh, ingles off the roof but, uh, as far as in the house and everything, everything is good.
+Nurse: Good, good. I'm glad that you, that, that's the important thing. Right. That's what matters. Yes. Oh, yeah. Yeah. Where are you from? Are you from the east [PHI-Geographic]?
+Patient: Oh, we're from [PHI-Geographic].
+Nurse: Yeah, I was gonna say,
+Patient: Well, we're here. Yeah, we're here for about 5.5 years but, uh, nothing, uh, nothing like this. No, this is terrifying. Yeah. Uh, I know but, uh, like I says, uh, thank God we have, uh, my nephew's house five minutes and he has power and everything is good by his house. So we're just staying here now and, uh, just, uh, hanging out here for a while until we get power.
+Nurse: Good. Um, yeah, I'm from [PHI-Geographic]. Uh, originally my whole family. Lives back. Oh, ok. Where at? Where in [PHI-Geographic]?
+Patient: He's by, uh, College, uh, [PHI-Personal]. Mm. Yeah. Right. It's not far from there.
+Nurse: Yeah. Ok. Yeah, I have family all over the east [PHI-Geographic]. We were actually back there visiting this summer. Um, I was born in [PHI-Geographic] so I'm, I'm from [PHI-Geographic] is where I was born. Oh. But, um, my parents are all from, um, my mom lived in [PHI-Geographic] and my dad lived in [PHI-Geographic] and,
+Patient: Oh,
+Nurse: Out they went to [PHI-Geographic] Community College, um, before they went on to a university. And, uh, yeah, my, my uncles all played hockey with out.
+Patient: So nice. Very nice.
+Nurse: Um, you know, so I have, yeah, family from there.
+Patient: Yeah, I got, well, my kids all live in three different ones in [PHI-Geographic]. One's in [PHI-Geographic] and one's in [PHI-Geographic]. Oh, yeah,
+Nurse: All over there.
+Patient: Yeah. Yeah,
+Nurse: We got family in the [PHI-Geographic] area too.
+Patient: Oh, ok.
+Nurse: It's beautiful. You know what? It's beautiful there.
+Patient: I love it there. Yeah, I love it. My son's in [PHI-Personal]. In [PHI-Geographic]. Oh, ok. So, uh, yeah, we, as a matter of fact we were there for two weeks. He just had a new baby.
+Nurse: Oh, so, uh,
+Patient: Yeah, well, number six, number for him. But, I mean, yeah, for him but added the three of them. Yeah. So, but, uh, it was nice to go visit and I like it there.
+Nurse: Yeah, it's beautiful. I I've been to [PHI-Geographic] and the, I had a, um, we had a cousin that's in the Concord [PHI-Geographic] area, you know, like all the rich history and stuff that's there is really neat. Yeah. So, but, um, I don't
+Patient: Know what, who called but, uh, I'm just calling back.
+Nurse: Yeah. Um, they, so it was just, uh, the phone call for your regular monthly check in with, you know, the Doctor [PHI-Personal] office. Um,
+Patient: If there's anything they could call me back.
+Nurse: Oh, yeah. No, I, I know exactly what it was. Um, it was just basically just to touch base with you about, you know, your health and see how you're doing if you need any medication refills. Oh,
+Patient: Yeah. No, so far everything is good. I got all my medications and no problems. Um,
+Nurse: So the only other thing I would mention is that you're, I, I don't know if you get flu shots but those, it's, that time of the year.
+Patient: I was just, uh, at my regular visit and they said, uh, in [PHI-Personal], I'm due.
+Nurse: Ok, you're gonna get your flu shot in [PHI-Personal]. Yeah. Right. All right. And then, um, ok, so you just had your doctor's visit with, uh, Doctor [PHI-Personal] on the [PHI-Personal]? Yeah.
+Patient: Right.
+Nurse: And then did you end up in the hospital at all? You fracture something?
+Patient: Well, yeah, my wrist putting up, uh, putting up shutters at my nephew's house because he is a snowbird and he was back in [PHI-Geographic] and then I fell and I fractured my wrist and now I'm in a cast and I have to go my orthopedic Doctor [PHI-Personal].
+Nurse: Oh, my goodness. Was that, was that preparing for this storm?
+Patient: Yes. Right. Well,
+Nurse: My gosh, I insult to injury.
+Patient: Oh, you're not kidding.
+Nurse: How is your pain? How is your pain doing
+Patient: With throbbing? You know, but I have a soft cast on it right now. Ok.
+Nurse: So are they uh take care of it? Did they do any surgery? Are they planning on doing any surgery? You think it's going to heal on its own? Well, yeah,
+Patient: I think so. I just got to go back and maybe get a permanent cast. Ok. So we're gonna, yeah, and obviously until I go,
+Nurse: Um obviously, you know the things to work to look for, right? You wanna, you wanna make sure that you're um not cutting that, that cast isn't cutting off any circulation. You want it to be, you know, tight fitting that you don't wanna be losing circulation. So just make sure you kind of keep an
+Patient: Eye on all that. Yeah. No moving my fingers and everything. So hopefully, uh everything will be done. Uh See when I go see the doctor [PHI-Personal] cause I was just in the, in the emergency room and they cast x-ray it and can and uh cast it. So, uh, but then I had to make an appointment with an orthopedic doctor. So I'm gonna go see him [PHI-Personal]. Oh, my God. Let's see. Yeah, I know.
+Nurse: Uh, yeah. Well, like, did the, here's my big question. Did the shutters finish getting put up?
+Patient: Well, yeah, my nephew see my house, I have, uh, uh, automatic shutters. I just, you know, close them, press the button and they close. But I went to my nephew's house to help put his shutters up because he's not here. And that's what ha that's what happened. I fell and I fell. I trying to catch myself on my wrist and on my hand and then I fractured the, my wrist and I didn't even think it was fractured. I mean, it was swollen and I was putting ice on it. But then my wife insisted I go get an x-ray and I'm insisting I should, I don't have to go. But she said no, you have to. Oh, sure enough. Uh,
+Nurse: She wins that argument.
+Patient: Yes, I went and, uh, yeah, it was fractured.
+Nurse: Oh, why aren't we a pair today? Because I've got a boot on my leg.
+Patient: I know.
+Nurse: II, I, uh, I tore a ligament on Sunday playing soccer because I think I'm [PHI-Personal] still.
+Patient: Oh, those days are over.
+Nurse: So that's where I'm at. You know, talk about
+Patient: Being, be,
+Nurse: Talk about being bummed. Huh? Um, so the, the only other question I have for you really is, how about your blood sugars? Do you, are you checking your blood sugars regularly.
+Patient: Oh, yeah, I have the, uh, 20, ok.
+Nurse: That's, those are great.
+Patient: Yeah. Oh, that plus that's a plus. So, yeah, so I'm just trying to take care of myself and right now I just got cast on my arm but it's very inconvenient, trying to sleep. Yeah, I know. But otherwise, yeah, otherwise I'm doing good other than that. Yeah. So,
+Nurse: See, um, how are you, uh, are you having any high, highs or low, low blood sugars or what are they kind of ranging in right now? Yeah, they range,
+Patient: I mean, uh, I guess the day that it had, that I got hurt, I didn't, wasn't on my meds and it went, the alarm went off and it was down to 60. 0, so then I, yeah. No, but then I took some, uh, juice and, uh, some kind of sugar things that were in the refrigerator. Yeah, I got these tablets. Yeah. So, right now, uh, it's all right.
+Nurse: Yeah. What about high? How, how, uh, high does your blood sugars get,
+Patient: Uh, went once, uh, went up to 300? Ok. Yeah. So then I just,
+Nurse: They're kind of all over, huh?
+Patient: Yeah. I don't know if it's because of all the, everything that's going on. Yeah. I've been running around and I've been going back and forth to my house, coming back here, so, stress for sure. Um, going on. Well,
+Nurse: And, and so, you know, the best, the biggest thing you can do and I'm sure, you know, this is keep a log, you know, for your, for your doctor. Um, and every once in a while, go ahead and shoot them. You know, if, if your numbers are really wildly ranging like that, um, I would shoot them a message and just say, hey, just wanna let you know these have been my, my numbers for the last, you know, week or whatever. What, what
+Patient: Happens is when I take, uh, with two test, the test goes right back to doctor [PHI-Personal].
+Nurse: Oh, you have a, um, you have a, uh, computer download type situation, huh? Yes.
+Patient: Right. So he knows?
+Nurse: Oh, good. And so he adjusts it pretty regularly when you need to. Yeah.
+Patient: And he'll call me and tell me. But I think right now all this with the stress and everything and now I'm looking outside and the sun is out. Yeah.
+Nurse: Well, it sounds, sounds like you have a pretty good grasp on what to do if your blood sugar gets too low and it sounds like your doctors. Oh, aware of all that. So, that's
+Patient: Good. Just that all this going on, you know? And then I had to run back to my house, empty out the freezes and bring up here, you know. So, yeah. And so I, I haven't. Yeah. Yeah. Yeah, I have another call coming in. Oh, ok. Sure. But I appreciate, yeah, I appreciate your call. You're welcome. Hold on, just hold on one minute. Sure. Yeah, ready. Hold on. All right. So thank you for the call and you're welcome. I need just
+Nurse: Give us a call. Ok, that sounds great. You're
+Patient: Welcome. Be safe.
+Nurse: You as well. Thank you.
+Patient: Ok. Thank you. Bye bye bye.

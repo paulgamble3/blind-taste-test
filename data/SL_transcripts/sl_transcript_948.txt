@@ -1,0 +1,14 @@
+Nurse: Hey, mon, let me open your chart up. Hold on one second.
+Patient: Ok, sorry, that's all right.
+Nurse: Ok. So um I talked to Doctor [PHI-Personal] and this is what she said. Um, she said it's completely up to you. Um, she placed the labs because you have like consistently high calcium levels. She wants you to continue on your current supplements. What you told me you're taking, um, and she said she'd like you to have them done sooner, but if you wanna wait until [PHI-Personal], you can do the labs at that time. Um She said she wants me to tell you some of the symptoms of having an elevated or too high of calcium is um fatigue, uh joint or muscle pain, memory problems and depression. So she was really wanting you to come in and get the labs sooner than later.
+Patient: Ok, that's fine.
+Nurse: Ok. And y has your forms um completed and yesterday? Perfect. And you talk to her. Ok, perfect. So do you want to schedule a lab appointment then? Sure. Ok. And for these, you shouldn't have to fast. So let me just double check one thing. There shouldn't be any special pre pre uh, preparation for these tests. So, do you prefer like morning or afternoon?
+Patient: It, it doesn't matter, whatever is convenient. Ok. If I was fasting it would definitely be morning. But, yeah. Yeah, of
+Nurse: Course. So Monday, we have the afternoon anywhere between 1 15 and three o'clock.
+Patient: Let's do 1 15. Ok. No, wait a minute. Yeah, that'll be all right. 1 15. Ok. So Monday
+Nurse: The 12th at 1 15, um, and we'll go from there. Ok.
+Patient: Ok.
+Nurse: All right. Have a good weekend. Stay on the supplements that you're on just like we talked about.
+Patient: Ok.
+Nurse: All right, perfect. Thanks.
+Patient: Bye bye. Bye. Bye.

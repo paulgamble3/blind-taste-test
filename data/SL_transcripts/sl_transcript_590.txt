@@ -1,0 +1,55 @@
+Nurse: Good morning. This is, how may I help
+Patient: You? Hey, it's [PHI-Personal]. Hey, [PHI-Personal], how are you? I'm all right. I was, I was wondering if, um, doctor had, had a chance to maybe refer me to WC A because that's where they can see, that's where they can see everything and I go to Buffalo, they're not gonna, it's not gonna be the same. Ok? Buffalo? Buffalo couldn't do anything for me. He's a neurologist, not a general doctor. Oh, ok.
+Nurse: All right. So let me, actually I'll go in and update the message. He didn't do anything yet with it, but I'm sure it's because he's with patients right now. Sometimes he gets back to me on his lunch if it's a, um, an urgent message and I'd really like to get, have you get it done like before and not in a couple of days?
+Patient: Um, let me
+Nurse: See. So I'll send it, I, I just put it in the general [PHI-Geographic] office, but you want it to doctor, right?
+Patient: Y yeah, I have an appointment with Doctor [PHI-Personal] on Monday. Yeah,
+Nurse: That's why I was like, I don't know if I, uh, like, does it matter to you who orders the
+Patient: Test? No, not really, not really. Not this time. I mean, if I was coming in for just something goofy I would say, but Doctor [PHI-Personal] is fine. Ok. Because [PHI-Personal] Red Lucky told me she doesn't like taking doctor patient. Oh, my gosh.
+Nurse: I love it. I love it. Oh,
+Patient: Here, you know what? I just, I
+Nurse: Did basics. Let me see if I could actually write in here an update. Uh When was the fall again? Thursday, Thursday last Thursday, Thursday?
+Patient: Like 2 a.m. That was very inconvenient.
+Nurse: Ok. Yeah, definitely. Uh Why is this doing this to me?
+Patient: I'm sorry, I broke my teeth. I know one of them is gonna come out but I just make sure I didn't break my teeth. I have like eight teeth left at the bottom, but I can't even wear my top plate right now because my lower teeth that I have went right up into my gums at the top. So that was all
+Nurse: All right. Let's see. And it wasn't the result of it wasn't the result of a seizure, right? You, you just got dizzy or step on had a trip and fell.
+Patient: Uh He, my boyfriend said I got my feet tingled but you know, I'm almost [PHI-Personal] years old and that's, this is all new for me.
+Nurse: Yeah. And,
+Patient: And
+Nurse: On floor and it was in the bathroom.
+Patient: Yeah.
+Nurse: Right. I know. I don't, I don't know why they would need the specifics. But I'm just gonna put them all in there because that's just, it gives them an easier, like, a, more, like a better idea of what had happened. Exactly. Because it definitely a fall from a seizure versus a fall from like, tripping and falling. They're two different, I mean, they're two different codes, but they're also, there could, the underlying reason we would wanna know about anyway. So
+Patient: That's what we're getting at is why it's gotta be a medication I'm on, I'm on a bunch of them. I know I'm on a bunch of meds. So, yeah, my lip is so fat and [PHI-Personal] and [PHI-Personal]. My nose, my nose is, my, my nose has got a bruise on it too. I can't wear my glasses all the way up in the [PHI-Personal] of my nose. I have to wear them down at the bottom. Oh, gosh. So, I know I did something to my face. Mhm.
+Nurse: And the, and the, yeah, the, the eyes are [PHI-Personal] and [PHI-Personal] as well too. So it sounds like
+Patient: It's gonna be a
+Nurse: Broken nose
+Patient: [PHI-Personal]. I think it kind of caught most of the, my mouth and nose cut most of it. No.
+Nurse: Was the upper or the lower lip or both?
+Patient: Well, the [PHI-Personal] and [PHI-Personal]. Yeah, right at the top of my gum line is very bruised and it's got a swollen knot on it. Yeah. And then you get up to my eye and you can see a really faint bruise across the, the nose and it, then I started getting a little [PHI-Personal] eye under it, but I'm [PHI-Personal] and [PHI-Personal]. Yeah. My boyfriend said it looked like the murder scene in there. Mhm. Because I hit my face twice. He tried to come pick me up. He, he tried to come pick me up dead. We, and, like I said, I'm, I'm 100 and 70 lb, [PHI-Personal] year old woman. Yeah. And he's strong. He did get me up. But my face was horrible. I had blood everywhere. [PHI-Personal]. It was horrible.
+Nurse: I can only imagine.
+Patient: Yeah, they wanted me to go to the emergency room that night and I was being a hard headed bitch.
+Nurse: Yeah.
+Patient: Now I'm starting to say, hey, maybe I should have. Mhm. I didn't wanna go. You know what?
+Nurse: Yeah. No. What happens normally is if you even like as we age, um wherever we fall, whether it's a hip or a nose. Um Sometimes if you go like within an hour or two of fracturing it, it might not show up on an x-ray. A lot of times we'll tell patients just hang tight, you know, try to just treat the, the pain with um medication and you know, treat the swelling with ice, kinda keep it, you know. Yeah. Treat the symptoms and then like a day or two later we'll tell you to get an x-ray cause that's when it would show up on an x-ray.
+Patient: Ok. It's been,
+Nurse: Yeah, it's been more than that. So, and it would probably, like, a fracture would show for at least a couple of weeks, you know. Yeah.
+Patient: Yeah. So, well, I think that cracked my nose. It really, really hurts above the only, like I said, the only way I can weigh my, wearing my reading glasses are down at the ball of my nose. Oh, so, yeah, I'm pretty roughed up over here.
+Nurse: Yes, you are.
+Patient: I haven't even been wanting to go out because I don't want people to think my boyfriend beat me up. Right. Right. Yeah, we were talking about that yesterday. Yeah, he didn't beat me up. He's a nice man.
+Nurse: Mm. I, you know what, every time I talk to you, if he's not, even if he's not there, you know, I always hear good things about him. So he's gotta be a good guy.
+Patient: Yeah, he is. Mhm. Talking about me. I didn't know he's on speaker phone and he's sleeping.
+Nurse: Oh, well, I will definitely. Ok. I updated everything and we're requesting face x-ray, x-ray
+Patient: Of head and I got to get some blood work done too. We've got that order though. You stopped the order. Uh, no, I got that. Oh, you've got the order.
+Nurse: Ok. All right. That's right because you
+Patient: Were there. Yes, I see on Monday. Not D um, Doctor [PHI-Personal], I go see him in [PHI-Geographic] on Monday for an appointment. Yeah, it's just a cracked nose and swollen lips and [PHI-Personal] eye. Ok. You hear me say? It's just, yeah, just,
+Nurse: Just that, yeah,
+Patient: It's just that I wanna make sure I didn't break any more teeth because I pushed one out that night with my to,
+Nurse: Yeah,
+Patient: Let me because I don't, I wanna get a partial but there's two, there's the two teeth they really try to keep looking good. Yeah. So it, all the teeth inside. So all you have to wear is a partial at the bottom. Yeah, my sister got that and she kept her last seven teeth and she said girl, I take care of those last seven teeth I got. Mhm. So I think she's on the right track. I think I'm gonna do the same thing.
+Nurse: Yeah, that's the way to be. I have a couple patients that, you know, they're at the point where they have, you know, they have a history of osteoporosis and you know, poor oral health even though they do, you know the, you know, screening and everything is that they can, you know,
+Patient: My mom's got screws in her teeth to hold her teeth in but my mom has her but we got the bad teeth from her mom.
+Nurse: Yeah.
+Patient: Oh yeah. Bad teeth in her [PHI-Personal]. My [PHI-Personal] had them in her [PHI-Personal] too. Mhm. That her fit. I have to wear a lot of that to wear mine.
+Nurse: Mm. All right. Ok. It's definitely in there. Priority. Yeah, I'll check on it before lunch and just make sure that the order went through. I'll let you know. Ok.
+Patient: Alright, thanks
+Nurse: Pamela. Uh you're welcome Stephanie. Ok, bye bye.

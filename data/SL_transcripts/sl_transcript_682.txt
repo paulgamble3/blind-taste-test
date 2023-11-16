@@ -1,0 +1,25 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Is this, uh, doctor s [PHI-Personal]?
+Nurse: This is, uh, [PHI-Personal], the care manager for doctor s [PHI-Personal]. Oh,
+Patient: Great, [PHI-Personal]. This is [PHI-Personal]. Huh?
+Nurse: How are you, sir?
+Patient: Well, I'm getting better. Uh, I need, I need some prescriptions refilled. I was gonna call if you can do this for me. Oh, what I'm calling about? I take a pill for arthritis. They'll know what it is and it's run out. Ok. And then that other pill that I'm taking for the shingles? Yeah. Ok. Uh, I'm going on a vacation next week and what I've got is gonna run out on me Saturday, Friday or Saturday. The pills I got and I, I need enough to at least know 10 days or my or 30 days and, and I wanna know if they can raise that because they go up to [PHI-Account] mg if they can raise that to [PHI-Account] because it's just not killing all the pain. It, I mean, uh, like, uh, about six hours it'll run out and, uh, if you can do that, I'd appreciate it, hon.
+Nurse: Ok, so hold on just one second. So the, the arthritis pill, is that your meloxicam? Is that the one you were talking about?
+Patient: Yes, ma'am. Yes. I uh it, I just want to get it refilled and they told they supposed to him but he said go ahead and call and to make sure you get it refilled. And then the other one is because of uh the pain I'm having with uh the shingles.
+Nurse: Ok. Now. Yeah. Um I know. so um I don't know if doctor will increase that without seeing you um or, or Lindsay, but I will send, I will send them a message and see. Um but are you willing to make an appoint to do an appointment if they say that you need to
+Patient: Any time before Friday
+Nurse: Before Friday?
+Patient: Yeah, because I'm leaving Monday, they'll be closed Saturday and Sunday. So,
+Nurse: Ok, let me call over to the [PHI-Personal] real quick and see. Um, if I can get a quick answer for you, I'm not sure
+Patient: You want me to stay on the line with you.
+Nurse: Um I'll just call you back here in just a minute. How does that sound?
+Patient: I appreciate you are very good. Thank you.
+Nurse: You're welcome, sir. Give me just a minute and I'll call you back now any time, any day before Friday work?
+Patient: Yes. Yes. If I have to go see him.
+Nurse: Ok. What time are you leaving Friday?
+Patient: Well, I'm leaving Monday. Oh, ok. They, they're closed Saturday, Sunday.
+Nurse: Yeah.
+Patient: And I need to get, I need to get time to get a prescription filled,
+Nurse: Right? Ok, let me let me call over there and see what I can find out for you and I'll call you back in just a minute. Ok,
+Patient: Great. Thank you.
+Nurse: You're welcome Hank I'll call you back. Alright. All right bye bye.

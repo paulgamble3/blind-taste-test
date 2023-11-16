@@ -1,0 +1,46 @@
+Nurse: Hey [PHI-Personal], how are you doing?
+Patient: Alrighty.
+Nurse: Hey, so I got a message from my manager because she's been also kind of keeping in touch with the offices. Um so she's been informed that they uh more than likely could the offices may be getting close as early as tomorrow. So, so just for uh just for safety wise, let's just reschedule your appointment um for a different date instead.
+Patient: Ok. Ok,
+Nurse: Just because I don't want to have you going around trying to get there with with how the weather is. Ok.
+Patient: Yes. Ok. Well, I I will be there [PHI-Personal] at 10 [PHI-Account] then after that I have to see doctor. Ok, so
+Nurse: Give me one second, let me let me get this open and let's see kind of what we have going on. Ok. Mhm. So let's do it morning or afternoon better for you [PHI-Personal]
+Patient: Afternoon.
+Nurse: So the earliest I got because you have an appointment as well that day you were supposed to see um [PHI-Personal] for your wellness visit as well with seeing doctor [PHI-Personal]. So I'm getting both of them rescheduled. So just to make it easier, we're just gonna have them be same day. It's just a little bit later. Um, so my earliest that I have [PHI-Personal] and we could always get the lab appointment changed as well would be [PHI-Personal], which is a Thursday. Ok. My latest that I have that day would be a 9 45.
+Patient: Oh, wow. Boy, why everything so early? I know I can't make that. Ok. So, oh man,
+Nurse: Let's do this one. Let me get rid of that.
+Patient: Uh, see, I have to, I have to transfer off of three different buses so I have to get up around six o'clock, uh, 6 30 or something like that to, to transfer the three different buses.
+Nurse: Let me give me one second. Let me see one thing here.
+Patient: Uh ok,
+Nurse: Let me just take that up, put that one
+Patient: Off instead. Yeah.
+Nurse: Ok. So I know you said afternoon is better for you her mo the next one that she has, which would be a 3 p.m.
+Patient: That'll be good. 3 p.m. would be good.
+Nurse: Yeah, but that's not until [PHI-Personal].
+Patient: Oh, man.
+Nurse: Yeah. So that would be her earliest one that she has in the afternoon.
+Patient: Ok. I guess you have to do that then because I can't, I ca, I see me catching di three different buses. Sometimes the buses be running 20 minutes late because people be complain about it. So, yeah, if, if they get, if the buses be on time and leave on time then I can get there but it always, they be late because they got to go through different parts of the city and the traffic is bad. Sometimes the trains catch them, they gotta wait on the train to come by and stuff.
+Nurse: Oh, understandable. So let's do it that way. And then what I could also do as well is, so I got you scheduled rescheduled for that one and then do you
+Patient: With that, with that De de [PHI-Personal] of the what now
+Nurse: [PHI-Personal]?
+Patient: Ok,
+Nurse: Which is a Thursday at 3 p.m.
+Patient: Yeah. Yeah. Ok. Ok. Well, I'm writing it down then.
+Nurse: Ok. And then for your labs, [PHI-Personal], do you still wanna keep it for [PHI-Personal] or do you want to put it? So it's getting closer to your appointment with her as well?
+Patient: Well, I can, I can do that. I can closer to her, her appointment.
+Nurse: Ok. So let me get that rescheduled. So I'll do a week before her appointment. So give me one second. Ok,
+Patient: [PHI-Personal]
+Nurse: At 3 p.m. Is your appointment?
+Patient: Ok, [PHI-Account]. So let me
+Nurse: Give me a second. Let me open up for the blood
+Patient: Work. Ok.
+Nurse: Which one has
+Patient: The more I'll tell you what, just leave that as it is. [PHI-Personal], I'll do that and then, yeah, I'm leave it like that.
+Nurse: Ok, not a problem. So [PHI-Personal] 4th at 10 [PHI-Account] is when we're gonna be doing your blood work and then we do the appointment with doctor for
+Patient: On the [PHI-Personal] at 3 p.m. Yep.
+Nurse: And then let me see because we have to get this, your wellness visit as well. Let me give me one second. Let me see to see if they have something better.
+Patient: Exciting. Yeah. Right. Oh, what? Right. I wanna say I'm on the phone that I got is a minute phone. So, you know, I, oh, not
+Nurse: A problem. Ok. You know what I'll do is I'll just cancel this appointment right here for the wellness visit and we, we can get that scheduled for a different time instead. Ok.
+Patient: Ok.
+Nurse: Ok, [PHI-Personal]. So I got, got those scheduled and then we'll kind of go from there for everything else. Ok, thank you. You're welcome [PHI-Personal]. Bye
+Patient: Bye.

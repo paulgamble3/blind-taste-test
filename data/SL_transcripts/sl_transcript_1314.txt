@@ -1,0 +1,88 @@
+Nurse: Good afternoon. This is [PHI-Personal]. Nurse, case manager.
+Patient: Hi, [PHI-Personal]. This is, did you just try to call me?
+Nurse: I did. Thank you for calling back.
+Patient: Oh, you bet you. What can I do for you today? I'm
+Nurse: Just touching base with you this month and seeing how you're doing. I'm doing pretty
+Patient: Good.
+Nurse: Good. Excellent.
+Patient: Other than chronic runny nose, which I always have anyway. Well,
+Nurse: You and I are in that same boat then. I just got done taking my allergy spray. So,
+Patient: Yeah. Yeah,
+Nurse: It, this warm weather has been a blessing and a curse all at the same time. Right. It
+Patient: Certainly has. Yeah.
+Nurse: If we had a couple good hard freezes we'd get rid of all this allergens that's outside.
+Patient: Oh, I wish I have the, um, Doctor [PHI-Personal] said I have environmental allergies. Mhm. So, inside or out my nose is gonna run just like the [PHI-Geographic].
+Nurse: That's funny. I see that you like to exercise by walking your dog. So, are you still doing that?
+Patient: Oh, yes. Several times a day.
+Nurse: So, you're out in the elements a lot then? Uh. Oh,
+Patient: Yes. Yeah. Sometimes we go out one door, come back in it, walk up the hall to another door and he wants to go out again. Oh,
+Nurse: That sounds more like he wants play time. You got
+Patient: It. You got it. Yeah. You want to outside?
+Nurse: Yeah. Well, do you get some relief? Are you using your Flonase?
+Patient: Um, I am but it's not doing a lot. I didn't know if I could take, uh, allergy pills with it or not.
+Nurse: Um, so I don't know because, yeah, I don't see any allergy pill, any antihistamines on your med rack. I could ask the doctor which one he recommends but, um, Flonase is not an antihistamine. So it wouldn't be like double dipping if you were to take, you know, a Zyrtec or an Allegra or something like that.
+Patient: Yeah, something like a, like a regular allergy pill,
+Nurse: You know. Yeah, I think the one that you usually would take that you keep at the house like Claritin or Zyrtec or,
+Patient: Uh, yes, I do because sometimes [PHI-Personal] needs them too. My dog.
+Nurse: Yeah, I have a little cockapoo and sometimes we have to break out the Benadryl. So
+Patient: That's what I take usually is the Benadryl.
+Nurse: Yeah. Ok. Yeah. Well, I can message Doctor [PHI-Personal] and just let him know that way just in case cause I wouldn't want to tell you, um, to take something that might interact with one of your other medications. So, um, but I can ask him, but as far as antihistamines interacting with Flonase itself. It, it would not. Um, the Flonase spray is a, what's called a Glucocorticoid steroid. And it reduces the inflammation. That's why after you take it you feel like you can breathe better in your nose because it reduces all that swelling.
+Patient: Huh?
+Nurse: So, but it's not drying you up, which is probably what you need. You need something to dry you up like the antihistamine.
+Patient: Yeah. I think so too. Yeah, because even when I get in the bathtub to take a shower it starts dripping. Yeah.
+Nurse: But that's good though. That means the humidity is helping to get that flow going because sometimes we get congested where we feel nasal congestion but we're not getting the drip and that's because everything is just kind of swollen up in there and that's the Flonase, you know, works really well. But the humidity and a nice, you know, warm shower helps that as well.
+Patient: Yeah. Yeah. Yeah. Well, that's good. I'll start taking the Benadryl then.
+Nurse: Yeah, you can go ahead. I'll message them just to make sure, um, that there's no conflict with that. But, um, but, yeah, does that make you tired though? The Benadryl?
+Patient: No, not
+Nurse: Really. Ok. All right. Because if I was
+Patient: Tired, if I was tired, [PHI-Personal] would drag me outside anyway.
+Nurse: He'd wake you up, huh?
+Patient: He would be. Yes. Yeah,
+Nurse: Because Benadryl is usually just a 4 to 6 hour medication where some of these other ones are a 24 hour. So you wouldn't have to keep taking it if you needed it. Right.
+Patient: Right. No, the Benadryl never makes me tired.
+Nurse: Ok. Well, that's good. Sometimes it works the opposite on other people. So. Uh-huh.
+Patient: Yeah. Yeah.
+Nurse: Very good. So, um, how are you keeping up with your diet? Is your appetite been good. It's too good. Are you mu, too much?
+Patient: I'm munching. Well, I, I fix enough for two meals but it usually doesn't last two meals. Ok. I've got that problem.
+Nurse: You try to divide it out and just as soon as you divide it, go ahead and put the other half away.
+Patient: I've tried, that doesn't always succeed. I just, I have to learn to make smaller amounts. Yeah.
+Nurse: Which is hard to do. Are you cooking just for yourself?
+Patient: Yeah. Yeah. And I'm thinking, what difference does it make? I'm [PHI-Personal] now. You know, what difference does it make? And then I look in the mirror. So.
+Nurse: Oh, my goodness. But you're getting a lot of exercise. So that's good.
+Patient: Yeah. Yeah.
+Nurse: Yeah. Yeah. Sometimes with eating, you know, overeating it, it's just mind over matter. So. But I know that sometimes that's hard to do.
+Patient: Yeah. It, it is mind over matter, you know. So I try to keep busy with other stuff and. Mhm. Just, you know, or, or to eat lower calorie stuff.
+Nurse: But sure. What kind of meals do you usually cook for yourself?
+Patient: Oh, dear. Sometimes I can get a Swan meal, you know, the swan man comes. But you usually, I cook well, I like to eat salads but I run out of salad making quite easily. And, um, I don't fix big meals, you know, I might fix a hamburger and something, you know, or maybe, uh, just something, not a, a whole big meal. I couldn't do that. Sure. Yeah, I'm getting too lazy to do. That is the real reason.
+Nurse: Well, it's hard too because, you know, if you open a whole can of vegetables that's, you know, enough for three or four servings instead of just one serving. So you probably feel like things go to waste.
+Patient: Yeah.
+Nurse: Yeah. But that's good though that you're eating some protein, like the hamburger. That's what I was wanting to see if you were doing because if you're only eating carbohydrates then you're probably not being satisfied because you're not getting the protein or the fat. So, yeah, make sure you always have some of the protein and healthy fats in your diet.
+Patient: Right. Right. I will do, I do that. Yeah.
+Nurse: Good. Yeah. Yeah, because if you just eat carbs and you'll, you'll just keep eating carbs. It'll make you mon. Yeah.
+Patient: Yeah. Big [PHI-Personal]. Yeah. Ok.
+Nurse: Well, how you doing on your Alendronate? You've been taking that? Ok.
+Patient: Yeah, I take it once in a while. I forget it on a Thursday. But then I says, well, I'll take it next week. Ok. Yeah. You know, but I, I do, I just get, I do try to take it once a week.
+Nurse: Ok. Good. Yeah. And, you know, for good bone health with the calcium and vitamin D and I see you have that supplement. That's an excellent,
+Patient: So, too.
+Nurse: Yeah. Yeah. So that helps. And then actually doing weight bearing exercise such as the walking actually helps to build bone density, that light, you know, easy pounding on the bone makes it more dense. So it's really good that you're getting up and moving around like that a lot.
+Patient: Yeah. Yeah. So I do get that sees for that.
+Nurse: Just be cautious of falls, especially with the lot, the weather getting cooler. So, when you're out and about, do you keep your cell phone with you? Um,
+Patient: I usually forget it. I try to take it with me when I'm in the car but to carry it, my problem is having the pockets to, to carry
+Nurse: It. Yeah, I had another patient say that to me and I suggested, um, uh, like Walmart or Target, they have the little lightweight cross body purses that are just the size for a cell phone. Oh, really? Yeah. And then you can just sling that over, you know, cross body style. But it, it's, it's just big enough for your phone and then even you can, you know, stick your health key in if you wanted, but then you wouldn't have to worry about the pockets because I know that a lot of these new iphones are getting so big you can't keep them in your pocket. Oh, yeah. Yeah. Yeah. So, but, yeah, those little cross bodies are pretty inexpensive too and they could just, you know, keep that close to the door when you grab his leash and head out that they can, um, have come back with fanny packs so you could even do a fanny pack if you wanted and you just wrap it around your belly.
+Patient: Oh, back in the, huh? Yeah,
+Nurse: They're back in the [PHI-Personal] have come back,
+Patient: I guess
+Nurse: I, I have young adult, you know, daughters. I've got two in their twenties and one left at home.
+Patient: Everything's doing pretty good.
+Nurse: Good. Yeah. So, very good. Well, do you need any refills?
+Patient: Um, I don't, so usually when I refill, um, the, uh, CV S will say you need a refill. You want me to call them and I guess call, call him up and get the refill. They good, uh, to be reordered then. Have them call you and re the doctor.
+Nurse: Yeah.
+Patient: Oh, they're both about it.
+Nurse: Good. Have you gotten your flu vaccine yet?
+Patient: I, I, mm, the [PHI-Personal].
+Nurse: Ok. So you're gonna get it soon.
+Patient: Yeah. Yeah. [PHI-Account]. Yeah. No. Yeah. The two, the two daughters and another one. So I think I do. So. Um, pharmacist. So we just put our name down in. Good.
+Nurse: Ok. Well, excellent. Just keep in mind once you get your vaccine, it takes about two weeks before your immunity is completely built up. Ok. So yeah. Yeah. Alright, [PHI-Personal]. Well, I'll I'll let you go so you can enjoy the day and I'll talk to you again next month.
+Patient: You bet you you have a good good day and safe.
+Nurse: All right, you too. Bye bye
+Patient: Bye.

@@ -1,0 +1,30 @@
+Nurse: This is [PHI-Personal] care manager.
+Patient: Um is [PHI-Personal] there.
+Nurse: Oh, she is with another patient right now. How can I give her a message for you or have her call you right back?
+Patient: Uh Yes, this is [PHI-Personal]. Um She's a special [PHI-Personal] for doctor [PHI-Personal].
+Nurse: Yeah, I'll let her know that you called.
+Patient: Ok, because I have a prescription that she was supposed to have filled with no refills and uh they sent a fax from [PHI-Geographic] Aid to the doctor but she didn't refill it. So I'm supposed to go through [PHI-Personal], I think.
+Nurse: Ok, here. Let me take a if you don't mind. Uh I'll take a look and see what we've got going on and see if I can help you with that. Ok. Ok. Are you able to just verify your birthday for me?
+Patient: Uh for uh birthday is [PHI-Personal]. I'm calling for her
+Nurse: [PHI-Personal]. There we go. Just making sure I'm pulling up the right person here and you said your name is [PHI-Personal]?
+Patient: I'm [PHI-Personal].
+Nurse: I'm perfect. Ok, I got you in her chart here. So we're good there. All right. So what, what medicine did she need a refill for
+Patient: Sertraline. Se Rt Raline. 50 mg. Ok. I got it refilled at [PHI-Geographic] Aid here in [PHI-Geographic] but there's no reason.
+Nurse: So you just needed the sertraline.
+Patient: Yeah, that's it.
+Nurse: Ok. Yeah, it looks like that hasn't been sent since [PHI-Personal] so I can uh I can request that to be resent in right now. If that's the only thing that you needed, that's it. And that's gonna go to the [PHI-Geographic] aid, you said. Correct? Yeah. Mhm. Ok. So let me get her pulled up over here real quick and I will get this filled for you as well. Ok. All
+Patient: Right. Good deal.
+Nurse: All right. Well, I figured I might as well since I have you on the phone, if it's something easy peasy, I can help you with it and I kind of work together with, with you guys. Um Good. Yeah. So I'm familiar with doctor and [PHI-Personal] her [PHI-Personal]. So let's give her
+Patient: Another thing I had asked her about when I talked to era was to get doctor to get a referral to the cardiologist over here at [PHI-Geographic] in
+Nurse: Uh I did see something like that in there that so give me one second, get this request sent in for the researcher lien.
+Patient: Ok. She has a pacemaker and she hasn't had a check for your and that was in [PHI-Geographic]. So we need an appointment with some cardiologist. The good one, the best one.
+Nurse: Ok. So let me see if I can find that note again. Um uh So I got the refill request sent in. Ok. And it looks like they did already send in a referral to cardiology doctor. Um who is a, who is a good cardiologist in the area. So the that referral was sent in yesterday. So cardiology should be reaching out within a week or so to get you scheduled depending on how much they've got going on. Ok.
+Patient: Right. That's fine.
+Nurse: All right. Do you have any other thoughts, questions or concerns or anything today?
+Patient: No, nothing I can think of.
+Nurse: All right. Well, I will still let [PHI-Personal] know that you called and that we got you figured out and if you need anything, don't hesitate to give us a call. Ok,
+Patient: Don't you worry, we will.
+Nurse: All right, you take care now and I hope you have a wonderful holiday season.
+Patient: Yeah, you too.
+Nurse: Thank you. Bye bye. Thank you.
+Patient: Bye.

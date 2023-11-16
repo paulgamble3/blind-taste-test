@@ -1,0 +1,9 @@
+Nurse: Hi there, [PHI-Personal]. How are you?
+Patient: Well, some better, but I got an awful price in my back. I'm going now to get my granddaughter to bandage it. It's about the size of a half a dollar and it's, it's really red, really, really red.
+Nurse: Ok. Yeah. And you said you've been putting neosporin on it, correct? Yeah. Ok. How long have you been doing that?
+Patient: Couple of days? I just seen it go ahead.
+Nurse: It hasn't really improved any.
+Patient: Yeah, I just seen it day before yesterday. So, yes, we gotta give it time still taking my antibiotics.
+Nurse: Is it painful at all?
+Patient: Hello?
+Nurse: Yeah. Ok. And you said it's on your back where you took the tick out? Can you hear me do?

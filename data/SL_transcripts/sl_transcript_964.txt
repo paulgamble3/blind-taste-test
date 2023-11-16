@@ -1,0 +1,3 @@
+Nurse: Speaking, how can I help you? Yes, can I speak to [PHI-Personal] please? Sure hold one second.
+Patient: Ok, thank you. Mm hm
+Nurse: Range. Hi Mr Peter. She's actually on the line um with the pharmacy right now and she'll have to give you a call back. Ok, fine. Ok. Uh is everything o everything ok do you need um to uh some help right away? Ok. Alright. Ok, thank you. Thank you bye bye.

@@ -1,0 +1,25 @@
+Nurse: Rheumatology, nurse care manager. Mi speaking.
+Patient: Hi, Mi, it's
+Nurse: Hi, Ma, how are you?
+Patient: All right. I'm just returning your call.
+Nurse: Yeah, I called you earlier. Give me a minute to, um, to pull you up. How are you doing today?
+Patient: Uh, I'm just tired,
+Nurse: Tired, I'll do it. All right. Well, how's everything been going? You besides being tired? You feeling? Ok.
+Patient: Well, I had my bone density test and, uh, Doctor [PHI-Personal] was supposed to call me back and, uh, he never did. So I had an appointment with my doctor, my regular doctor and he said it did come up. So I, you know, I stopped in because I go to rehab there and, um, you know, I left a message just saying, you know, I wanted to know how to proceed, you know, as far as like they pills or they're this that, you know. Uh
+Nurse: Huh. Ok. Well, I can check but I never heard from them. Let me see. I see. I do see the results of the bone density. So you said your, your family doctor went over the results with you? No,
+Patient: Not the whole thing. Ok. He just said it's there
+Nurse: Yeah. So it do, I mean, it does look like you probably have some osteoporosis in some parts. Um But as far as treatment, we can definitely check with doctor [PHI-Personal] and see what um you know, what he might recommend there, sometimes he'll prescribe like a pill that you take once a week or once a month. Um Did he talk about
+Patient: That though? Like everywhere
+Nurse: The osteoporosis? Yeah. Um Let me see what the report says, [PHI-Personal] and of course, just the Tennessee fans and the fans can now breathe a sigh of relief. It looks like it's mostly in like the hip area. I think the actual lumbar spine, like your back, it looks like it's pretty normal. Um So it ju it looks like it's mostly in the hip areas.
+Patient: Oh, both. And what about the knees?
+Nurse: It doesn't mention the knees. They mostly look at like your, um your spine and your hips and your upper uh thigh bones. They don't really look at the knees when they, when they do that.
+Patient: So my back is fine. As
+Nurse: Far as the, what the report says, it's, it doesn't mention the signs of osteoporosis in the, in the spine, you know, I mean, you may have other issues in your spine, but as far as the osteoporosis, it doesn't look like any showed up in, in the actual spine on the Dexa scan.
+Patient: So it's more just in the hips,
+Nurse: Right? Yeah, that's what it looks like, of course, you know, Doctor Doctor [PHI-Personal], um, may have a different interpretation of that. So I don't know what he would say, but I mean, according to what the report says that that's what it looks like.
+Patient: Hm. All right, if you could check with him and then let me know. Yeah,
+Nurse: I can definitely. Um, I do see where it looks like. Um, oh, I see what happened. Ok. It looks like [PHI-Personal] had tried to call you a couple of days ago about it.
+Patient: Oh I didn't get any messages.
+Nurse: Ok, I can I'm gonna send her another message and just let her know that that uh you know you're still wondering what the results are and what's the next steps and everything like that? Um they're probably already going for the day since it's Friday afternoon.
+Patient: Oh I know it later in the day.
+Nurse: Yeah but I can definitely you know follow up send him another message and follow up on it next week for you. Alright. Thank you. Ok. You're welcome you have a good weekend. Ok. You too. Bye bye thanks bye bye.

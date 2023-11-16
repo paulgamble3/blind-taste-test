@@ -1,0 +1,8 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal]. I'm calling about a, a letter I received today about the care team. Uh huh. It says they were unable to contact me, they were able to contact me, but when they contacted me and I was on my way to my grandson's basketball game.
+Nurse: Oh,
+Patient: And then I had, I had asked them to call me back but I never heard from him after that.
+Nurse: Ok. Um, it looks like you may have sent you the letter. Um, let me see if is available to speak with you now and if she is, I will patch you right through to her. Hold on one second. Oh, of course. I didn't write. Uh, oh, ok. I just sent her a message. Let's see if she gets right back to me. If not, I will take your information and I will have her call you as soon as she's available. Ok. She's not getting back to me, but let's see. You are at [PHI-Geographic], right? Ok. Um, all right, let's see. [PHI-Account]. Is that the best number to get a hold of you. Ok, I'm gonna take that down and I am going to send her because I she must be on the phone because she hasn't gotten back to me yet um and I will send this over to her and I will have her call you as soon as she gets off with whoever she is on with at the moment. Ok.
+Patient: Ok.
+Nurse: Alright thank you very much for calling. Ok, thank
+Patient: You bye.

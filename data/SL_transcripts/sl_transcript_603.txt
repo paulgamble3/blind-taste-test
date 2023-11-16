@@ -1,0 +1,82 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal].
+Nurse: Hi, [PHI-Personal]. I was just giving a call to make sure that you're ok. Going into a weekend.
+Patient: Yes, I'm doing fine. I, I was outside walking my dog and I couldn't get to the phone in my pocket fast enough.
+Nurse: Oh, I know what you mean. I do that all the time also and always make safety your biggest priority.
+Patient: Yeah, I'm, I'm doing fine, uh, you know, aches and pains and I went to the gastro doctor and of course I have to get another MRI. So, uh, I don't know when that will
+Nurse: Be ok. And I see that the g I doctor started you on Flagyl and Ceftin for 10 days? Yeah. And were you tolerating those medicines? Ok. It looks like you just started them a few days ago. Yeah. I'm, I'm
+Patient: Fine on medicines. I, I, I, yeah, I have to wait, you know, I have to get a blood test before I get this, uh, MRI for my gut. The only thing is I had that kind of MRI s, uh, not an MRI, uh, CT Scan. I had that kind of casket when I was in the hospital one time they gave me that casket where I had to drink that stuff.
+Nurse: Yes.
+Patient: Oh, boy. Did it give me a horrible case of diarrhea.
+Nurse: And you know what? I don't know what's worse. Half the people, it gives diarrhea, the other half of the people get severely constipated. [PHI-Personal]. Yes. I'm gonna say, get around,
+Patient: Know, maybe it'll work the opposite now. But if it does, I'll have to take something for that. But,
+Nurse: Oh, well, I
+Patient: Just, I, I'm just afraid it's gonna hit me while they're still doing the X ray. Well,
+Nurse: Let me put it this way. Being a nurse in the hospital hands on for 28 I've been a nurse 29 years, but I've been doing the remote work for a good year now. Plus so in all my decades of working we have had many episodes of accidents and we don't bat an eye. It's just one of those things that happen. So if you're really worried about it, then ver voice your, um, concern to the staff that's helping you. So that way if you say I gotta go to the bathroom urgently, they're understanding and, you know, it'll just play it by ear. One of those things when you look at the risk versus benefit, you know, you have to have the CCAT scan. So the doctor knows what's really going on in there.
+Patient: Yeah. Well, you know, uh, they told me, they told me that it was gonna take about three or four hours.
+Nurse: Oh, you know why the CT Scan itself doesn't take that long. It only takes a few minutes to actually do the CT Scan. But the contrast, what they'll do is they'll take some, they let the contrast go through you and then do the CT Scan. So I don't know if they're gonna do AC A T scan before you drink the contrast. Then have you drink the contrast, allow a few hours to go through because as that dye goes through your intestines, it's highlighting certain things so the doctor can interpret the CT Scan more in detail. So that's what takes so long. The contrast is to literally travel from your mouth all the way through.
+Patient: Yeah. Well, she, I, I saw the CPA and she wants to see if I, I have diverticulitis. OK. I had it, I had it one time and I had to take medicine for it. But uh my, my stomach doesn't hurt like it used to. It's kind of, you know, settled down. I, I don't know what they're gonna be able to see. Maybe it went away. I don't know. I hope.
+Nurse: Well, you know, it's been plaguing you for so long. I'm glad you're going through with the work up.
+Patient: Yeah, I'm gonna get it done just so just to get it over with
+Nurse: Good. Now the Flagyl they gave you the instructions, three pills a day and the Ceftin, two pills a day. Let me rephrase that Flagyl three times a day. Ceftin twice a day. Both for 10 days.
+Patient: Yeah. I, well, as a matter of fact I just picked them up yesterday because they didn't let me know until yesterday that, you know, they were filled.
+Nurse: Oh, goodness. Well, good. You have them in home. And do you, have you had those antibiotics in the past?
+Patient: I'm sorry, say again,
+Nurse: Have you had those two particular antibiotics in the past?
+Patient: No, I haven't. Ok. She was, she was gonna give me something that had a, uh, c in it or something. But I told her, I said, you know, Cipro has previously had a, a long time ago had caused me to get a rash
+Nurse: And that's why I was asking because I saw that Cipro was on your medication list. So, yeah, Flagyl is a completely different class of antibiotics. It's not, um, a sulfa drug. It's a nitro zo. Who cares if you forget that word. It's a completely different antibiotic than the one you had an rash from. And this one's more specific for the gut. So anytime somebody has a G I problem Flagyl is one of the first antibiotics that are prescribed,
+Patient: Oh, I was a little surprised when, you know, when she was reading off. Now I, they have a list of all my, you know, uh, drugs that I had reaction to and I was surprised when she, if she wouldn't have said something, you know, like I'm gonna give you uh a derivative of Cipro or whatever. And I thought I said to her, I can't take Cipro and I thought it's funny she didn't catch that, but then, then she changed it. That's when she changed the medicine. She said, oh, well, then I'll give you probably, probably the Flagyl or whatever. The other one's name is.
+Nurse: Good. Uh, and so with the Flagyl, take it as prescribed, if you do develop any side effects, call the G I doctor even going into the weekend all doctors have on call doctors. So that way if you're experiencing any side effects, they can talk to you about it because like any drug you wanna take the full course that's prescribed, don't take more, don't take less if you're having problems, talk to them about it.
+Patient: Yeah, when she told me she told me if they scheduled me before I'm done taking it. And you know, the thing that it shows that I don't have a problem and she said I'll take you off of it, but I'll probably be finished with the pill before they even schedule me because they haven't called me yet.
+Nurse: Oh, goodness. So come Monday, if they haven't called you yet, you call the G I office back and let them know.
+Patient: Oh, I, I will. And, um, and you know, I have a problem too with the fact that I have to get, uh, more blood tests because I think they're gonna have me get the same blood test that I, I'm gonna get on Monday for the CT scan that I'm gonna get at the end of the month. Well,
+Nurse: The, the
+Patient: Pay for the same, you know, test twice.
+Nurse: Right. So, are you talking about the lab work that the [PHI-Personal] office is going to do?
+Patient: No, the, the lab, the lab work that, um, that the gastro people have me going for. I, I know one of them is a creatinine and I forget what the other one is. But Monday, I'm going to my oncologist to get blood test for my C for my CT that I'm having at the end of the month on my chest showed him it's kind of confusing to me. So I have to talk to, I'm gonna talk to the blood, blood uh people at the oncologist to see because they're associated with Penn [PHI-Geographic]. I don't think they put stuff in the UP MC, uh you know, website or whatever. I have to make sure that I have to make sure that they get it in there somehow.
+Nurse: So what you can do is when you have the lab work done for G I, when you check in to have the lab work done, you let them know that not only G I needs a copy but give them your oncologist's name. If you really wanna be proactive, have their fax number and make sure that they are clear on the results. Not only go to G I, but to oncology also.
+Patient: Yeah. I'm gonna make sure because I always, I, I don't know, can, can doctor, can you guys tap into the up MC records?
+Nurse: I don't think so. I think you're gonna also have to have them also forwarded to doctor for her to be able to see them.
+Patient: Yeah. Well, I always tell them to make sure that she gets a copy of whatever test I have done
+Nurse: Good and I don't, I don't want her
+Patient: Left in the dark because if I have a question and she, and she can't answer. Well, I don't, you know, so I, and I'm hoping they give her, give her one. So I'll check later after the test.
+Nurse: So literally when you go in to check and register for the lab work, you just have to say, I wanna make sure that not only the G I doctor that ordered the test, but my primary doctor, [PHI-Personal] gets a copy and my oncologist. So and so also gets a copy and they should do that for you. But yes, follow up because you're right. The last thing you wanna do is go through the time the pain and the expense of having duplicate lab work. Right? The reason why they, yes, the reason why they have to do the creatinine is the contrast dye is hard on the kidneys. And if you have an elevated creatinine or B UN, they're the kidney function lab tests. They either don't do it with contrast or they give you a certain medication to drink before the contrast that helps protect your kidneys.
+Patient: Oh, ok. Yeah, I wouldn't worry about that because I know, I know the rest of it goes through the kidneys and everything but, you know it, and I'm trying to drink at least 2 to 3, 12 ounce bottles of water. I don't always succeed every day. But it seems like if I don't, every day the next day, my urine is really strong looking.
+Nurse: Yeah.
+Patient: Wow. You know, it, it just baffles me why so quickly it gets strong.
+Nurse: And that's something that you do also wanna put on your to do list to discuss with doctor. The next time you see her if it's still happening at the same time when you go to see G I, they recommended not only do you take the antibiotics but remain well hydrated. So when you see G I, you also can mention your urine.
+Patient: Yeah, I, I did, I did tell them, you know about that and she, yeah, she did say stay hydrated. I said, oh yes, I'm trying. I said doctor s office is always telling me about that
+Nurse: Good. And you know, even I have to remind myself to drink or my urine is dark and stool easily can get very hard if you don't have adequate water intake.
+Patient: Yeah. I, I know. And some days it's really pushing it.
+Nurse: So all we can do is for you to shoot for 64 ounces a day and do your best.
+Patient: Wow. I'm, I'm lucky I get th, I'm lucky I get [PHI-Personal].
+Nurse: And so you just do your best. The reason why I say 64 is because unless a doctor has given you a fluid restriction due to cardiac disease or kidney disease, they want you to be doing 64 ounces a day. So it's a goal, you know, your goal right now is to do the 12, 2, 12 ounce bottles and then you'll up the Anne to go to three bottles and thank God for pads in our panties.
+Patient: Yeah, I know the, the gastro, uh the gastro CPA said, well, you know, if you can at least get two down, I said, yeah, I, I'm, I can get two down. I said sometimes pushing it at three or four. But yeah, I'm working on it then I'm just not there every day.
+Nurse: And surely that's all we can ask is you to be aware of your situation, do your best and keep that communication with your providers like you do an awesome job of
+Patient: Yeah, I'm trying my best.
+Nurse: Well, surely, one thing I wanna end the conversation on is I just wanted to stress that diverticulitis. If you have severe abdominal pain, you never wanna ignore that. You do wanna seek urgent medical attention. Do you know why? Why? Because if you do have a diverticula that's inflamed. The same reason why you're on an antibiotic. They wanna calm down any source of potential infection because if any diverticula ruptures those bacteria immediately go into your abdominal cavity and now you have peritonitis which can be life threatening. So we never wanna scare anybody. But that is why you just need to know, hey, severe abdominal pain that is not resolving in a timely manner. You don't ignore it. You seek urgent medical attention knowing you do not want a whopping abdominal infection called peritonitis. Nope, I don't. No, you're having enough fun. What was that
+Patient: Scary? But I'm glad you
+Nurse: Told me that. Yes. And it's not gonna be something where you're like, I wonder if I'm having a problem. Your pain is going to tell you you're having a problem and knowing what we just talked about, you know, you would get yourself urgent medical attention if you're not safe to drive 911, you don't ever wanna be behind the wheel of a car if you are experiencing severe pain or an acute medical issue. Ok. We never wanna scare people, but you're armed with the information just like all of our conversations
+Patient: When this started, I did have really bad pain. But um you know, it wasn't, it wasn't something that was continuous for hours. So when it settled down I thought. Oh, well, ok. Maybe it's not so bad, but, uh, I'll, I'll make sure I, I worry about it a little bit more
+Nurse: Good. Let me just. Absolutely. Well, is that [PHI-Personal] giving you the call? It's time to get off the phone?
+Patient: Yeah. She sees another dog coming up the street.
+Nurse: Oh, well, I'll let you go. Surely. Thank you for calling me back. I'm glad to hear your clear, strong voice and I'll say happy Thanksgiving right now
+Patient: And I, and the same to you and thank you for calling.
+Nurse: Oh, absolutely. Oh, [PHI-Personal]. Before we hang up. Is your BP? Ok.
+Patient: Yeah, I, I haven't taken it yet today but it was like, oh, wait a minute, let me look here. Um, [PHI-Account].
+Nurse: Whoo whoo winning numbers in the lottery. Excellent. Yeah.
+Patient: And, and my pulse was 61. You call, I never know what, what, what's a decent pulse?
+Nurse: So if you look up in a textbook, it's gonna tell you about 70 to 80 sustained above 100. You need to be calling sustained in the fifties and symptomatic with dizziness. You need to be calling. If you ever just get something low like a 50 I would encourage you to also call. Now, why is your heart rate low? Because you're on metoprolol? That is a beta blocker that is intentionally lowering both BP and heart rate.
+Patient: Yeah, I, I figured it was the metoprolol because, um, you know, I usually run around that I don't get up into the seventies and stuff.
+Nurse: Right. And that's because the metoprolol,
+Patient: Most of, most of my pulses are around in the [PHI-Personal]
+Nurse: And that's to be expected. That's the metoprolol. Now, at the same time, if you're ever getting a pulse that's like low, like in the fifties and you're dizzy short of breath, lightheaded, then that means you're symptomatic with a low heart rate. Give us a call if it's severe. Obviously, judgment 911 if you're feeling great, but you start to get a heart rate, like in the high forties, 50 you're never that low. I would just give us the heads up that your pulse has never been that low, but [PHI-Personal], high fifties, it's expected with your metoprolol and as long as you're not dizzy with a low pulse, we expect it when I look back. I see all of your heart rates in the [PHI-Personal], you have two readings in the seventies and otherwise you've been that way going back, I can see your re readings in the office all the way back to a year ago.
+Patient: Yeah, that's what I said, you know, I thought the [PHI-Personal] was ok because I was kind of like constant,
+Nurse: You know, it is. Yep, it's ok. As long as your BP is ok and you're not symptomatic if you ever don't like the heart rate because it's dropping more. Getting more to a 50 like I said, give us a buzz.
+Patient: Yeah, and I haven't had any palpitation problems lately either.
+Nurse: Woo. Excellent. And they were my last concluding questions. Great. Oh, surely. Thank you for the good news update. You and [PHI-Personal] have a fabulous Thanksgiving. Please call if you need to run anything by me at all.
+Patient: I will. And thank you again, [PHI-Personal], I appreciate the call.
+Nurse: Oh, you are welcome. Alright. You have
+Patient: A good you have a very good turkey day.
+Nurse: Oh [PHI-Personal], [PHI-Personal], you know I will thank you.
+Patient: Ok. Alrighty bye bye.

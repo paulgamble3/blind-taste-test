@@ -1,0 +1,30 @@
+Nurse: Hi. Is this [PHI-Personal]? Yes, it is. Hi, [PHI-Personal]. My name is, I'm one of the nurses working with me office. How are you doing today?
+Patient: I'm fine. And
+Nurse: You? Not too bad. So, I just wanted to check in and see how you were doing. Um, I know last time I believe it was that you spoke with. So I just kinda wanna check in and see how your, um, sugars have been at home, how your BP has been.
+Patient: Oh, everything is so far so good.
+Nurse: Ok. What kind of numbers have you been getting at home?
+Patient: Oh, my blood sugar. When I check it before I eat it, run this morning it was 88. And, uh, I, I don't check it at lunch. I check it at, uh, dinner time. So it runs about, uh, I don't, yeah, just breakfast and dinner. I don't do it when I eat lunch. My fingers get. So anyway, um, uh, yesterday it was 100 and [PHI-Personal], I think it was.
+Nurse: And then how about your BP? Do you check your BP at home as
+Patient: Well? Sometime? I haven't been checking it here lately. It's been doing good. I take my medicine though.
+Nurse: Ok. When was the last time you checked that?
+Patient: Oh, it's been a while. I haven't checked it since I saw doctor me before and that was three months ago.
+Nurse: Ok. So I would definitely recommend you just check it every once in a while if you get a chance, if it's hard for you to check it daily or underneath, at least check it once or twice a week if you can, or at least
+Patient: Once a while. Ok. I couldn't hardly hear you just now. Can you hear me now? Yeah.
+Nurse: Ok. So that's what I would recommend is just if it's hard for you to check it daily or every other day, then if
+Patient: You're able to, it, your name is [PHI-Personal]. My
+Nurse: Name's Edina [PHI-Personal] was who you spoke to last time.
+Patient: So, uh, this, you're the third person then, right?
+Nurse: So I'm gonna be, so [PHI-Personal] was helping out because [PHI-Personal] was the one that was there
+Patient: Before and then,
+Nurse: Yeah, [PHI-Personal] was helping out until they found and
+Patient: You. Yeah. Yeah. Yeah. Ok. All right.
+Nurse: Ok. [PHI-Personal]. So I would just kind of keep an eye on everything and then just to make sure with your BP to make sure it's not getting too high or too low, even with you taking the medication. Ok. Because we can never know.
+Patient: Well, I, I go to lab, I go to the lab first and then I see doctor on the [PHI-Personal]. Yeah.
+Nurse: So we'll be able to kind of check to see how your blood work is and see how your BP and everything is in the office.
+Patient: Yeah, I will.
+Nurse: Oh, ok. So I'll touch base with you, [PHI-Personal] after your appointment with her just to kind of see how the appointment went and if there's anything that she wants you to work on. Ok.
+Patient: Yeah. Well, I got a new doctor now after she seen me this time because she retired. Mhm.
+Nurse: Did you make an appointment with the new doctor yet, or? No?
+Patient: No, she handling all of that?
+Nurse: Ok. Ok. Not a problem, [PHI-Personal]. But I'll touch base with you after your appointment with her to see kind of
+Patient: Where you went. Ok. Ok, Fanny. Yeah. Uh,

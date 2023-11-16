@@ -1,0 +1,47 @@
+Nurse: Chronic management. It is [PHI-Personal]. How may I help you? Uh Good
+Patient: Morning, [PHI-Personal]. This is [PHI-Personal]. Hi, [PHI-Personal], how are you? Um, I think I'm all right. Um, I've had trouble a little trouble with my breast and I had a mammogram and then it showed something and then I, yesterday I had another one. Could you please tell me if it was all right or not?
+Nurse: Um, I can ask the doctor for you. When was it yesterday? Yes. Ok. Let me see. Um, let me ask her and we'll get back to you. She should be there today. So we should find out today for you.
+Patient: Ok. Thank you very. Let's see.
+Nurse: Let's, I'll just go through your chart quick. So you had a mammogram. Um, ok. And what, what happened? Like was it abnormal or what, what was going to?
+Patient: Well, it must have been, she called me on the phone and uh that they made another appointment for me to go and I thought I was just going to have an ultrasound. Um, and when I walked in there, she said they were going to do a, a uh a mammogram on that one breast.
+Nurse: OK. Um OK. So it was just the one breast they did. Right? Yes. For I have normal, I just have to write this down. So then um OK, she
+Patient: Came back and said I didn't need um um another test.
+Nurse: Ok. So you had another mammogram. So they told you you didn't need an ultrasound.
+Patient: I didn't know she came in and told me I didn't need it.
+Nurse: Ok. Um had another mammogram um and was told on another mammogram of left breast right um breath and was told she didn't need, ok, let me just let doctor need. Ok, I'll check you.
+Patient: You're just gonna call me back when you know.
+Nurse: Yeah, I'll get back. She's been getting back to me pretty quick. Um, too. So how about any other appointments that you've had anything?
+Patient: Uh No, but I had something happen with my leg?
+Nurse: What happened with your leg? Yeah,
+Patient: I was vacuuming and somehow I got my one, my one ft caught in um in the cord and I went down hard on my knee and I've had trouble with my knee.
+Nurse: Ok? Any swelling. Yeah.
+Patient: Um I it was like black and blue under there but that what leg is it? It's my right one.
+Nurse: Got her right leg. I wanna let her know this too uh under a cord and you fell, fell on your knee.
+Patient: I, I fell right on my Yeah, I went down and I was on the, on the, my belly on the floor,
+Nurse: On her abdomen. When was this?
+Patient: I hate to tell you this. It was about two weeks ago and I'm still having trouble with
+Nurse: It. Ok. Weeks I go, ok. Report, um, she [PHI-Personal], ok. Uh, you still continue to have pain in the right knee. Yes. Ok. Well, it's best you tell us you don't want yourself getting worse. You know. What's your pain level?
+Patient: Um, probably eight or nine this morning.
+Nurse: [PHI-Account]. Um, are you taking anything that helps with the pain or? No,
+Patient: I've, I wore, um, a brace on my, uh, leg that, uh,
+Nurse: No Tylenol or anything. Yeah. Are you taking Tylenol?
+Patient: Uh, no.
+Nurse: Ok. You just wore a brace. Did that help?
+Patient: Mm. No, not really.
+Nurse: To not help. Ok. All right. Um, pain in the right knee. Pain. Little 89, 10. Um, and you did we wear a brace? Ok. [PHI-Personal] that did not help, uh, any swelling.
+Patient: Um, my husband thought that it, it felt like I had, uh, fluid in my knee, you know, it was like spongy. But no, now I'm not, I haven't got that now.
+Nurse: Ok. Uh, and I found some fluid in the knee but you don't notice anything. Now.
+Patient: No,
+Nurse: All that, anything that try anything. Ok. Anything at this time. Ok. How about bruising?
+Patient: I, it, um, it was underneath my, under my knee cap. It was, um, it was, I had, it was, it was purple I had it, uh, it wasn't, I, I could see that it was, you know, I don't know how to describe it. Did you
+Nurse: Have some bruising? But it's healing but it's improved
+Patient: That the bruising is gone this morning. Ok.
+Nurse: Prove to um, yeah, but it had heels. Ok. Are you able to walk?
+Patient: Um, I had a hard time at first but now it's a little bit better.
+Nurse: Ok. Her mobility is improving. Ok. Um I can see if she wants to order anything or wants her to want you to come in. Ok. Um All right. Thank you, [PHI-Personal]. You're welcome. I'll find out what it is but no um open areas or anything. No um open areas. Um ok, definitely follow precautions. Make sure you were watching out for those cords. My dear.
+Patient: I know, I know I went down hard. I I was uh really hurting for a good week. I still am when I get up from the chair, I'm I have to hobble like, you know. Yeah. Uh sorry, I'm I know I'm uh since ever since I turned [PHI-Personal] things are going
+Nurse: Wrong. Well, we gotta get you taken care of so make sure you're moving things that you can trip on or coffee tables, secure rugs on the floor with any safety advice. Do you have to use anything like that? Like a cane or anything? You are using a cane?
+Patient: I have that
+Nurse: Um ok. Or are you have been since the fall. Mhm. Um. Ok. All right. So you've been using a cane since the fall? Ok. Um. Alright, thank you. You're welcome I'm gonna see if they want you to come in or
+Patient: See what? Oh I hope not. My husband won't wanna get out in this weather.
+Nurse: No. Ok we'll see what they say. Ok. Mhm. All right dear I'll talk to you soon. Alright, thank you. Bye. Ok bye.

@@ -1,0 +1,11 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal].
+Nurse: Hey, how are you? I'm
+Patient: Ok. I'm just calling to let you know that I have not received any mouth pieces in your mail.
+Nurse: No, no.
+Patient: Uh
+Nurse: Weren't we working on that like months ago? Yeah, open. Let me get into your chart here. Oh, it looks like was [PHI-Personal] working on it for you here? I don't wanna step on [PHI-Personal] toes. Oh. Oh, hold on, let me see if that's available real quick and see if she's working on it. Ok. Hold on uh [PHI-Personal]. Of course she's on a call. So cancel that triage. All right. Chronic care management. Good afternoon information. Nebulizers were sent from [PHI-Geographic] Aid and not reliant. She did not receive any mouth pieces. Ok. Looks like pharmacy requested was [PHI-Geographic] Aid. Looks like script [PHI-Account]. It looks like the pharmacy that requested was right. Yeah. Uh medication has been. Oh my God. Ok. Medications. Oh, there's a little confusion. There's a little twist. So you want it from reliant, right? You don't want it from [PHI-Geographic] Aid.
+Patient: Yeah. From ok. I'd like to get, get back there to get my medication from them too because uh going through they charge me a copay and when I was getting it from reliance they charged me a copay.
+Nurse: Ah well and I don't blame you either. Ok area let me look into it and call you back. Ok. Alright.
+Patient: Alright dear thank you.
+Nurse: Uh All right. Ok I'll give you a call right back. Sorry. Right. Alright bye bye.

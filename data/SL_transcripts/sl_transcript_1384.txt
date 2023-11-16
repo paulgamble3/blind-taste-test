@@ -1,0 +1,10 @@
+Nurse: Hello. Hello. Uh, I'm calling, uh, to, uh, recalling, uh, for a phone call I just got, is that,
+Patient: Uh huh? Yeah. Hi, Miss [PHI-Personal]. This is [PHI-Personal] calling from Doctor [PHI-Personal] Team. How you doing today?
+Nurse: Ok. Fine.
+Patient: Oh, that's good. Um, I was just calling to, um, follow up with you, see how you have been doing and if you needed anything.
+Nurse: Oh, not really. I've been in, uh, rehab and, and I'm in the hospital again today. So, not, not too, not too heavy. Well, I fell and then I fell again and then I fell again, but I have a broken ankle this time.
+Patient: Oh, no, I don't
+Nurse: Know. I do not know. And then I have my eye socket, um, a, a bone in that was broken and I look terrible. So it's just been a, it's been a bad summer.
+Patient: I see. I know the last time we spoke, you were in the hospital.
+Nurse: So. Oh, God,
+Patient: Yes. The last time we spoke you were in the hospital and that's why I said, let me call you and, and follow up to see how you were doing and now you're back in the hospital again. I'm sorry to hear that, honey. Me too. Me too. Well, I won't keep you. I hope you feel better. Make sure we hang out and I will call and um, probably later on in the week and check on you. Ok, hon. Ok. Thank you very much. You're welcome sweetie. Bye bye bye bye.

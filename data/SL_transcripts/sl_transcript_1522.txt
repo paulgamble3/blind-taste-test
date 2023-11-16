@@ -1,0 +1,23 @@
+Nurse: Hello, Care Management. This is you.
+Patient: Uh, yes, Tia, this is [PHI-Personal]. You had just called?
+Nurse: Oh, yes. How are you? Good, good, good. So, I was just reaching out to provide you with, um, information about the care management program that the doctors are offering. Ok.
+Patient: Well, what exactly is that?
+Nurse: So what that program is, the doctors would have a care management nurse just giving you a follow up phone call in between your office visits with [PHI-Personal]. So the nurse will call just to check in to see how you're doing. Um, and she'll ask if there's anything, you know, that, um, that needs to be addressed or discussed, such as if there were any issues that might have come up in between those appointments, um, any concerns that you might have been having or just questions in general that she can help you with and answer and then she will review any kind of medications that you're on. And so she'll just ask you things like how they're working for you or if there's an issue or problems with any of them and then if you need refills, she's also able to call and get them refilled for you as well.
+Patient: Ok. Well, I'm, I'm not currently on any prescriptions. Um, and I am on um, [PHI-Personal]. Yeah, and that
+Nurse: Covers the program. So it won't cost
+Patient: Me any, no cost to
+Nurse: Me. No. Ok. None at all. And you will also have the same nurse that will follow up with you in between those appointments and you will also have her direct contact number. So if something does come up, you would be able to call and talk to her directly. Ok.
+Patient: So the, the basic advantage is that the, uh, care management nurse would call me, uh, what, once or twice between the six months that I see. [PHI-Personal] or how does that
+Nurse: Work? So she can call you. So if you go every six months, she would call once every three or you can have it at once every six months. That would be up to you.
+Patient: Um, just thinking what I, I, once
+Nurse: A year if you wanted to.
+Patient: Yeah, I'm, I'm usually, I'm really pretty healthy and I'm just wondering, I know there's no cost to me. So there's no skin off my nose. But I just wondered if it's really a, a benefit that I, uh, I really need. Uh, like I said, I'm not on any, um, medications not on prescriptions. Um, so I really don't know what advantage there would be to me to do this other than having somebody call me when I say, oh, no. I'm doing fine. Ok.
+Nurse: Yeah. Well, what I, what I could do for you, you know, since, um, if you're not interested in a nurse calling you, I can send you our information about the program with our number just for you to have. So if anything ever does change down the road you would be able to, you could contact us at any time if that works better.
+Patient: Yeah, that, that would be fine. Do you wanna email me the information?
+Nurse: Um, I think I have your email address here. Yeah. Yep, I have it if I'm not able to email it, um, then I would just, I would mail it in the mail for you. Oh,
+Patient: That's fine too. That'll work too.
+Nurse: Ok, so stan, I just wanna make sure I have your correct address here. I have 257 [PHI-Geographic]. Correct. That's, that's right. Ok. All right. I will send that information out for you. Ok.
+Patient: All right. Well, thank you for calling. I appreciate
+Nurse: It. Oh, you're very welcome. Thank you for returning my call and I hope you have a great day. Ok. And
+Patient: You the same. Thanks so much. All
+Nurse: Right. Thank you. Mhm. Bye bye bye bye.

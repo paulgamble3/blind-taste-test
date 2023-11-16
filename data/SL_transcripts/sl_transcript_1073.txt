@@ -1,0 +1,43 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Personal]. Yeah, this is [PHI-Personal].
+Nurse: Oh, hi, [PHI-Personal], how are you?
+Patient: Ok. From up in bed. And they said here I was just reading your thing. They said to call you any time. Well, I guess I'm not bothering your dinner. Am I? No, you're not? Oh, ok. Well, how are you doing these past? Well, the past three days I've had, uh, well, my wife had a cough and carry on and stuff and coughing stuff up but, but nothing, nothing serious. And II, I got that a little bit now too myself. It's, it's not real bad but it gets me short of breath so bad. Mm. You know, and, uh, and I, and I cough up stuff but it's, it's kind of clear and, uh, it's not all the time. Just every, every, every whipstitch I just get a coughing fit and, and I've been doing my breathing treatments and stuff and, and I've been a little bit of runny nose and stuff and I was just wondering if I could get a, uh, see if you could get doc to give me some, uh, a round or two of predniSONE.
+Nurse: Let's see here. Alright [PHI-Personal] give me your date of birth so I can pull you up.
+Patient: Uh [PHI-Account]
+Nurse: Computer is going slow on me one second.
+Patient: What's that? Ma'am?
+Nurse: That computer was just moving slow on me here give me one
+Patient: Second. Alright I got you on speaker because my my hearing is not the greatest.
+Nurse: Ok there you are [PHI-Personal] I got you let me get your wife pulled up too since. So it sounds like you're both maybe fighting something off. Uh,
+Patient: Well, my wife's getting a little better now but, ok, she had it for probably, uh, uh, a week or so, but she, she's getting better now. But it seems like I've, I might have, ah, caught it. Yeah. But it's a, it's, it's not really, you know, I'm not coughing up any colored stuff or nothing like that. I cough up. So
+Nurse: It's like a white color. Yeah,
+Patient: It's kind of clear.
+Nurse: Yeah. Clearish white. Ok. And, and you said there's no shortness of breath with it, right? Or you feel a
+Patient: Little? Yeah, I, I, yeah, when I get the coughing and, and, uh, and I cough that stuff out, I get, I get really short of breath, bre, breathing for a little bit until I, until I catch myself, you know, is
+Nurse: There any pain like, um, in the lungs or the chest area when you're coughing?
+Patient: No, not really. No. Ok. I mean, it's just a little uncomfortable time. To time but nothing, nothing, uh, really noticeable
+Nurse: And no fevers, you said? No. Ok. No chills?
+Patient: No.
+Nurse: Oh. And did this happen to start around the time with your wife? With the smokiness that we were having?
+Patient: I, I haven't, I haven't smoked.
+Nurse: No, I mean, the air quality, you know how we had all those wildfire smoke coming from [PHI-Geographic]?
+Patient: I, you ii, I stayed in,
+Nurse: You did? Ok. How you kept your windows closed? You didn't have, um, air coming in the house at all?
+Patient: Well, you know, you know how air gets in the house. And I,
+Nurse: Yeah, I know, I, I know
+Patient: I didn't, I didn't have my, I don't have my air conditioner in yet, so. Ok. Ok. Uh, uh, but no, uh, no, we, we, we, we kept the house pretty much closed up.
+Nurse: Good. Ok. Are you having anything like a sore throat or like a runny nose along with this or not? Really? I
+Patient: Got a runny nose and stuff with runny nose. So my nose runs pretty.
+Nurse: Yeah. So that's not necessarily a new thing. Are you feeling more fatigued or tired than usual? Yeah.
+Patient: Ok. Yes, I am.
+Nurse: Ok. And let's see when the last time you had this predniSONE back in [PHI-Personal] it looks like, does that sound about right? [PHI-Personal] 8th was the last time you did one of the taper packs of the predniSONE?
+Patient: I think it was. Yeah, you must, you, you, you have it there.
+Nurse: Yeah, I have it up here. It says [PHI-Personal] 8th was the last time it was ordered. Yeah,
+Patient: I thought maybe I could get a, a round or two of that and it might, you know, because it might, I know it help, it helps me breathe better. Mhm.
+Nurse: Yeah. And,
+Patient: Uh, and I just, uh, when I get to doing something now I get, I seem to get shorter on breath until I more down and, and then catch myself.
+Nurse: Ok. And it's more than your normal, just kind of shortness of breath. It seems like it's a little worse than your normal is what you're saying. Right. Yeah. Ok. All right. So here's what I'll do. I will send this info over to Doctor o'neal and see if you can get some predniSONE ordered. Let me check uh, your pharmacy here. Make sure we have the right one vine. Ok. All right. Let me send this over to him if you feel really short of breath, if you ever feel like you can't catch your breath. Um,
+Patient: If anything happens at the er,
+Nurse: Ok, that's what I was going to say. Just to make sure if you get confused, you feel like you're just not able to think, right? You feel a little agitated or you feel like you can't stay awake, you keep falling asleep in between the co the coughing. That would be, again, that would be in a hospital. Um, I would just call 911. I wouldn't have [PHI-Personal] take you. I would just go by ambulance. They'll get you in sooner. Ok. And that would just be the extreme level of shortness of breath. You know, if you're having really low oxygen level, that would happen. Ok.
+Patient: Yeah, I've been keeping, checking on my oxygen level. Ok. It's been running about 93 to 95. Ok.
+Nurse: That's not bad. Ok. Good deal. So, if you ever notice that though, you feel like a really nasty tightness or pain along with that shortness of breath. That's another reason to call 911. Ok. Ok. All right. I'll send this message over to Doc o'neil and I'll call you back when I hear back from him. Ok. Ok. Thank. All right. No problem Barry. Talk to you soon. Bye bye bye.

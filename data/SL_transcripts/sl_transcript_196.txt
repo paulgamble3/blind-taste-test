@@ -1,0 +1,11 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi. Um, is [PHI-Personal] there.
+Nurse: Um, I, that was me who just gave you a call back. Is this [PHI-Personal]?
+Patient: Yes. Um, I, my, my cousin had, I was on the phone, I couldn't, couldn't pick up the call.
+Nurse: That's ok. So I was, um, returning some of [PHI-Personal] calls. So the reason for the call is, it looks like you may be eligible for doctor is care management program. And so what that is, is a nurse that'll be able to give you a call around once a month to see how you're doing. She could help refill prescriptions, address any issues you're having. She could also help with appointments and lab work, things like that. Oh, you
+Patient: Know, I don't really need that right now.
+Nurse: Well, they're around a once a month call and I, I could always extend that if it's better for you, like every other month, every three months, something like that. That sounds better.
+Patient: You know, I just don't think I'm at the point where I need that kind of follow up. Um, you know, I'm pretty independent. Um, you know, I, I, right now I, you know, I have you know, I have everything kind of organized and, um, know what's coming up. And so, yeah. Yeah, I just don't think I need that support right now, but at some point I may.
+Nurse: Right. Well, do you mind if I send out some information that has a phone number in case you need anything? No,
+Patient: I don't mind if you said something that's fine.
+Nurse: Ok. And are you still at the 1 10 Beach View Avenue unit 2 16 in Bridgeport, Connecticut. All right, Judith. Well, thanks for giving me a call back. I'll send out some information. Ok, thank you. All right, you're welcome. Have a good day. You too. Alright, bye bye.

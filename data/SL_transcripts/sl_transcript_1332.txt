@@ -1,0 +1,105 @@
+Nurse: Hello, this is, how can I help you?
+Patient: Uh Yes, this is [PHI-Personal] Ki returning your call.
+Nurse: Hi. Yes, how are you?
+Patient: I'm doing well. How are you?
+Nurse: I'm good. If you could just give me two seconds to open your chart, the computer seems to be a little slow today.
+Patient: I can understand. That's fine. All right.
+Nurse: And how are you doing?
+Patient: I'm doing well. I'm doing well
+Nurse: Good. I'm glad to hear that. All right. So it looks like we had reached out to you to get you set up with our chronic care management program, correct? Alright. So I'd love to get you started with that. If, if uh you have a few minutes to talk, I can go over the program. I know we had sent out a letter but the letter is a little bit vague and um seems to be confusing some people. So I just wanted to go over exactly what the services is. Um, what it's gonna be doing for you and your options. Is that all right? Sure. All right. So basically the service is an extension of Doctor [PHI-Personal] office. So we'd be calling checking on, in on you as a nurse and making sure you understand, you know, what's going on with your body. What are the signs to look for? Make sure you understand. You know, if there's any special diets, anything you should be avoiding as far as food or drink because of your medication or your diet, make sure you understand what you're taking and why you're taking it and just be an extra resource for you. So if you wake up and you're not really feeling good, something's going on, but you don't really think it's bad enough. You wanna bother Doctor [PHI-Personal], you can give us a call. We'd be happy to walk you through it and make sure everything's good. Uh We can send a message over to Doctor [PHI-Personal] so he can check in between patients and he's normally really good at getting right back to us. So our whole goal is to keep you as far away from that hospital as we can. Ok. Does that sound ok? Yes, sir. All right. And I know that last line in the paper is really uh concerning a bunch of people. It is a covered service by Medicare. So you don't have any copays or anything to as far as Medicare is concerned for your primary care. So it, you are not gonna be getting a bill for us, ok? Some of the other insurances have, have copays for everything. Yeah. All right. So it looks like you were just in to see doctor on back in November and you've got something coming up with Doctor [PHI-Personal] next Tuesday, correct? Ok, at 2 30. So I'd love to just confirm your medication here so that when uh Doctor [PHI-Personal] takes a look at it, it would be all up to date. So, uh, can I read off the list? You, can you let me know if you're taking it or not? Sure? Or do you have your own
+Patient: List? Uh No, go ahead.
+Nurse: Bye. It's loading it. It, it, I think the computer wants a break too. Alright.
+Patient: Sure. Almost the weekend. Yes,
+Nurse: Ma'am. Only half a day left. So I have uh Protonix which is also pantoprazole. That might be what's on your bottle? 40 mg a day.
+Patient: Protonix. What is it?
+Nurse: Pantoprazole or Protonix is the other name?
+Patient: What the what? No, that doesn't ring a
+Nurse: [PHI-Personal] and it's for acid reflux. Are you taking anything for acid reflux?
+Patient: Nope. Ok.
+Nurse: I will let him know you're not, that's not on there, right? I also have aspirin, baby aspirin. 81 mg.
+Patient: Uh I low dose aspirin I don't take anymore. Ok. When did that start? Um I I stopped it. I stopped it on my own a couple months ago because I was I I bleed very easily and I bruise very easily.
+Nurse: [PHI-Personal] send a message to him on that. How about the fenofibrate?
+Patient: No. Where are you getting all of these?
+Nurse: Ok. Let me uh listed in your chart. The phone number is the one listed in the chart. What is your date of birth? I just wanna make sure I have the right chart here.
+Patient: Yeah. [PHI-Account].
+Nurse: And how do you
+Patient: [PHI-Personal] IC Key?
+Nurse: Yes, ma'am. I have the right chart here.
+Patient: No, because all I have is uh labetalol.
+Nurse: I have that 100 mg twice a day.
+Patient: Yeah. Uh Losartan,
+Nurse: 100 mg every day.
+Patient: Uh uh a rain,
+Nurse: 40 mg a day.
+Patient: Uh huh. Um, and um, let's see. Sertraline
+Nurse: 100 mg a day.
+Patient: Uh huh. Ok. And then I take, um, then I take um over the counter uh triple omega.
+Nurse: Yes, I have that. Ok. Now your Losartan, is it just a regular Losartan or is it a Losartan hydrochlorothiazide?
+Patient: It's um Losartan potassium? Mhm.
+Nurse: Does it have a HTC HCTZ on it?
+Patient: No. Ok. It has AC AM B as in boy.
+Nurse: Mm. Ok. And that's why I like to double check your meds and clean up all these old ones because this one is listed from [PHI-Personal] and it looks like it was reordered last year and then it looks like a few months later you were ordered the regular Losartan. So I like cleaning up the chart, making sure that we take off all the old stuff.
+Patient: Now, labetalol, the labetalol is the, uh, I
+Nurse: HCL. Yes. Ok.
+Patient: Ok.
+Nurse: Yeah. The, um, you have, you have Losartan potassium in here. Exactly like you said and then I have a Losartan potassium hydrochlorothiazide combination pill, which is a BP pill mixed with a diuretic. So I'm going to send a message over to the doctor jumper and have him clean all those o off your list that you aren't taking anymore. Are you taking any eye drops? No. All right. And you, are you not taking a Ves at all?
+Patient: No. No. OK.
+Nurse: All right. I will have. And how about the oxyCODONE?
+Patient: No, I just, I had, I broke my hip and femur so that's what it was for.
+Nurse: Yeah, I saw that. That, that did not look fun at all.
+Patient: No, it was. No, it wasn't real fun. But that's ok. I got over it real quick.
+Nurse: Good. I would recommend never doing that again.
+Patient: No, I'm not looking forward to it, but I did. Uh Yeah. And, but it was in two weeks I was walking without a cane or anything. So. 00, good.
+Nurse: That's really, that's really good.
+Patient: That was my goal to go to the doc to the surgeon's office unaided and that's exactly what I did.
+Nurse: Good. Good for you. You are one strong woman that is not normally the case.
+Patient: I know, but you know, I, I'm hell bent on. I live by myself and I figured, and I have to do everything myself and I got to, I, I will not give up on anything. I am, as I say, I am one strong, tough something like that.
+Nurse: That's what you have to be these
+Patient: Days. Hey, tell me about it. Right.
+Nurse: Well, it'll serve you well. All right. So I have all that and I'm gonna send a message over to him, clearing up your medication list and getting those taken off. Um, now I do just wanna double check here. You do have a diagnosis of depression and you are on the sertraline. How are you feeling with that? Do you feel like that's well controlled?
+Patient: Oh, yeah. Oh, yeah. Ok. Good. Yeah, I, I mean, I lost my, my son and my husband in, within nine months of each other. Oh, my gosh. Um, that was 10 years ago. Yeah. So I deserve to be, I deserved to be on sertraline at that point. But I'm fine. I'm great.
+Nurse: I am so sorry to hear that. I'm glad you're doing so much better though. That is, that is a lot to handle all at once. So that definitely if you ever get to a point where you're feeling like it's not well controlled or you'd like some extra maybe talk therapy or maybe try something else to try to wean off of it, whatever it may be. Just let us know
+Patient: I will. But I, I'm, I'm very strong.
+Nurse: I, it sounds like you are. Um, now the one thing I do need to make a note of and I'm, I'm pretty sure I know that, but I still have to ask have you ever been hospitalized for depression? No, any thoughts of suicide?
+Patient: Yeah. Way back when? Yeah.
+Nurse: Ok. But, but none current,
+Patient: 00, God. No. Uh, ok.
+Nurse: Ok. I mean, I, before
+Patient: My, before my son and my husband died it was just, there was so much pain in the, uh, yeah, my phone. Yeah,
+Nurse: I, I can, oh, my gosh. I can't even imagine that. And how, how, um, how long has it been, how, since you've been diagnosed
+Patient: With depression? Yes, ma'am. Oh my God. Probably [PHI-Personal] years. Ok.
+Nurse: Sorry about that. I accidentally put you on mute. All right. So I'll mark that down and get you all taken care of with that. Um Should anything come up? We can also, you know, talk through that, go through your options. But like I said, it sounds like you're doing pretty good with that. We're not too worried. Um Any questions concerns that you are having that you'd like me to put in a message for doctor [PHI-Personal]. So he knows and is able to address them right off the bat on Tuesday.
+Patient: Um The only thing I wanna know is, well, I'm going to get back into uh working out, but I wanna make sure that I, I'm avoiding doing things I shouldn't do due to my hip and even though you would never know I had it, I mean, I perfectly fine. However, there's still, I can tell there's still some little twins and stuff in there, but I don't wanna do anything that's going to aggravate it. So I, if you can give me any direction in that, that would be great. And the other thing is I have a terrible time getting to sleep. Ok. And I take Melatonin, I've taken every kind of everything across the board, you know, and, and I, I just, I have, I thought maybe it was because I'm, I'm by myself and I'm anxious about, you know, any noise I hear or anything. But that's not the case because last night I was sleeping at my daughter's and I couldn't get to sleep. I just in my mind I cannot get to sleep.
+Nurse: Ok. So it sounds like like your mind is kinda racing. You can't slow it down.
+Patient: Well, yeah, it's always my, my, I'm always, yeah, my mind never slows down. That's just, yeah, I mean, that's why I'm during the day. Um, yeah. How, all
+Nurse: Right. And how much Melatonin do you take?
+Patient: Um, II, I think, uh, I was taking [PHI-Account]. That's pretty
+Nurse: [PHI-Personal].
+Patient: Yeah. Ok. Um, and I don't know, but my understanding was that if you too, if you take too much for too long period of time, then it doesn't work. It does, it doesn't do the deal. But I don't know if that's true.
+Nurse: Um, yes and no. So if you, if you regularly supplement with Melatonin over a long period of time, your body gets lazy and instead of producing its own Melatonin, it's going well. Why should I produce this? I'm already getting it. I don't need to produce any and it can actually give you a harder time falling asleep because now, instead of having your natural and the supplement, now you only have the supplement. Um ha have you tried any? Um I know, I think it was Vicks or not Nyquil, you use it Melatonin free.
+Patient: I have a triple action. Um uh It's uh Z disease, triple action support, sleep, calm mood and antitoxin action, Melatonin, melatonin. And that uh so,
+Nurse: All right, any [PHI-Personal] root in that? Let me see if I can. I'm not. I know, I know one of them has [PHI-Personal] root. Oh,
+Patient: I'm looking at the so small. Oh, really? Ok. Ok. Uh No, I don't see that in this one. Ok.
+Nurse: Um The Nyquil is used, one of them has [PHI-Personal] root on it. It's Melatonin for one. Has it? Sometimes that works a little bit better for patients. Um Instead of taking the Melatonin, I normally recommend if you're gonna try, try a half a tablet first because believe it or not, [PHI-Personal] root is pretty strong. Um Try maybe try a sleepy time tea, sleepy time teas work really well. Um They also have [PHI-Personal] root in it. It's a very natural anti anxiety, a natural sleep aid. Um So if you're trying the over the counters, um and you already tried the Melatonin. Try, you can try that. I'll let him know that you're trying the over the counters. Um just be mindful, you know what you're taking since you don't, we wanna make sure it's not interacting with anything you're on.
+Patient: So I have a also I have I started taking uh um an over the counter sleep and soothe aches. Um It is, it's got [PHI-Personal] in it. It's only um let's see it. 10 mg of Melatonin with [PHI-Personal] and um some kind of root extract which I don't know what it is but uh uh it starts with ac maybe it work. I don't know. And um, yeah, I, I can't
+Nurse: Read. So, do you take all of these at once or just one at a time?
+Patient: Just one at a time? Ok. Good. I try one and you know, see how that works to try another one. I tried the spray up my nose burn burn. Yeah. Um, yeah, it's, I've tried all kinds of things over the counter. It's not doing it. Ok.
+Nurse: Well, maybe try that one that you have there. I'll let him know. And um, yeah, if you try that other one, the Melatonin free one, definitely, definitely try half a tablet first because that is actually pretty strong.
+Patient: Is the Zel.
+Nurse: I believe so. But you know what? I have Google right in front of me. Let me, let me Google that.
+Patient: Ok. When do you get out? Good? Are you I just came over now about 10 o'clock. Oh, I just came over to take him out. I overslept, I took him out and just overslept. I took out when I got home. I'm not, she called me.
+Nurse: Ok. Yep. Here it is. It's the, it's the Z pure Z restorative herbal sleep or the other box is Melatonin free. That's the, that's the one that's pretty strong and it doesn't have any Melatonin.
+Patient: Alright. These, all right, I'll try that one.
+Nurse: It's got [PHI-Personal] root passion flower extract hops.
+Patient: Ok. I'm gonna give it a whirl.
+Nurse: Oh right. I mean it's definitely not going to hurt and it's not gonna interact with anything but definitely and, and the trick with those medications too is they're not going to like make you feel tired. What you wanna do is you wanna take them, you wanna get in bed, have your nightly routine and then lay down and, and just kind of do some deep breathing and it'll help kick in that sleep cycle. But as, as long as you're not already calm or trying to calm down and already trying to go to sleep. If you're up, you know, walking around everywhere, it's not gonna help as much as it as it's not gonna like you know how if you take a Benadryl sometimes it just knock you out even if you're up and walking around.
+Patient: Yeah. Well, yeah, I when I, when I go to bed I do uh a relaxation routine from the top of my head down to my feet. Ok. So I'll continue to do that.
+Nurse: Ok. All right. So let's give that a try. I'll send a message over to him and see. Um, he, depending on how things go, um, he very well might wanna change, might wanna add something for sleep. Just be open and honest with him, sleep is, sleep is some of the best medicine. So we wanna make sure you're getting some, oh,
+Patient: I know that and I have talked to him about it before, so.
+Nurse: All right. Well, I will send that message over to him. So he is fully prepared for your visit and we will go from there. Um, I'll clean up that medication list and we'll give you a call here probably early [PHI-Personal] and just check in and see how everything's going. You're getting any better sleep. I am gonna send a letter out in the mail. Um, with my name, I'm gonna be probably the regular nurses gonna be calling you. I have a few other people that, you know, if too many people call in, I can't get you all at once. Um, that could be helping out but it, you always get one of us instead of a computer when you call in.
+Patient: Oh my God. I don't know how to talk to a human being. Tell me you're not gonna make me wait for two days on the phone.
+Nurse: No, ma'am. I mean, if we're all on the phone it might go to voice mail and we'll give you a call back. But no, no computers.
+Patient: I saw, I saw, uh, a cartoon ziggy cartoon and it said while, while you're waiting, no one can all the representative so busy. But please jog while jog in place while waiting.
+Nurse: Yeah, that's a good way to get your exercise in.
+Patient: Oh, yeah, that,
+Nurse: That's funny. All right. Well, I will get this straightened out if anything changes or you're concerned about anything. Go ahead, give us a call. Um, we're always here 8 to 4 30 during the weekdays. Ok. Alright, you have a good weekend. Ok. You too. Bye bye bye.

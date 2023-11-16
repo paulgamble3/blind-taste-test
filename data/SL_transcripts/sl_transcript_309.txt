@@ -1,0 +1,31 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. Uh you calling? Hello, I,
+Nurse: This is [PHI-Personal]. I'm the nurse care manager calling on behalf of the um, [PHI-Personal] [PHI-Geographic]. How are you?
+Patient: They are? Ok.
+Nurse: Ok. Let me get you pulled back up really quick. I saw your number pop back up and I said, oh, I called her, let me answer that.
+Patient: Ok.
+Nurse: Ok, so I was just calling to check on you to see how things were going.
+Patient: Uh He's doing ok, thank you.
+Nurse: Oh, I was calling about you. This is m correct.
+Patient: Ah mon but yeah, hold on. Ok, I thought it's for ra though. Ok, hold on. So they say you is uh, hello.
+Nurse: Hey, this is [PHI-Personal]. I'm the nurse care manager calling on doctor on behalf of doctor s office. How are you doing today? Good. And this is correct. Yes. Can you verify your date of birth for me?
+Patient: Ok, perfect.
+Nurse: Ok. I was just calling to check on you. I saw where you saw doctor on the seventh or you had a telehealth appointment with her over the phone.
+Patient: They did.
+Nurse: Ok, perfect. And at that appointment she had discussed with you about monitoring your weight every day? Yes, ma'am. Have you been doing that? Oh, yes. What has your weight been running?
+Patient: [PHI-Account] 57.2
+Nurse: [PHI-Account] 57 and it's been consistent?
+Patient: Ah, yeah. Something, something to take, am. Yes. Me,
+Nurse: Tell me that again,
+Patient: I think. Yes. So it, I say a year.
+Nurse: How high has it been?
+Patient: Just one point?
+Nurse: One point? Ok. Ok. One lb is ok. But if you're gaining three lbs within a day or five lbs, within a week, that's concerning. Ok. Um a lot of times it can be how much fluid we're taking in and how much salt or sodium that we're taking in. Ok. So you wanna make sure you're reading those labels and seeing what contains a lot of sodium. Um do you use a lot of seasonings in your food? No. Ok. Um If you do, I was gonna say seasonings can contain a lot of um sodium and we're not aware of it. So Mrs [PHI-Personal] is a better substitute. Ok? Of course you wanna avoid adding extra salt to anything that you eat. Um I was gonna let you know since she wants to keep an eye on your weight, we have a program that allows us to send you a scale and every day that you step on that scale, that result will be sent over and, and that we can provide it to the primary care and any time it's not within range where she wants you to be, it will alert us and say, hey, we need to reach out to her, we need to see what's going on. Why does she gain this, you know, is she feeling bad and so forth? Ok. Ok. Would you be interested in that program? Ok,
+Patient: I'm interested.
+Nurse: Ok, I'm gonna, um, uh, send you over to the person that will finish enrolling you. They'll verify your address and everything and we'll go from there. Ok. Ok.
+Patient: Here
+Nurse: Before I send you over um, I wanna ask you how's your BP been?
+Patient: And just uh, [PHI-Account]
+Nurse: [PHI-Account]. What was the bottom number? [PHI-Account]. Ok. Has it been lower than that?
+Patient: Uh sometimes on [PHI-Personal]
+Nurse: 98? Ok. Ok. Um you, we also we can send you a BP cuff too that will monitor you as well. Ok. Just because your BP runs a little lower. I wanna make sure it's not getting the top number below 90 the bottom number below 60. Ok, because when it starts getting that low we start getting concerned. Ok. All right. So I'm gonna send you over to her let me see if she's available. Can I get place you on hold for one second?

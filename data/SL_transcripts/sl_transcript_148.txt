@@ -1,0 +1,13 @@
+Nurse: Hey, [PHI-Personal]
+Patient: Morning, [PHI-Personal], how you doing?
+Nurse: I'm ok. How are you?
+Patient: I'm good. I'm just, uh, I'm getting senile in my old days or whatever, but I have a prescription here for uh traMADol. Did you, did we call that in? Because uh yeah,
+Nurse: So it was on Thursday. I called in the pharmacy for you. Um, and I said, I'm calling on your behalf to get a refill and they said, oh, there's no refills on the script. I said, can you please send a refill request fax form to the ordering provider? Yeah, we'll send that over. So the pharmacist told me that on Thursday. Have you not heard an update or got anything on that yet? No,
+Patient: And the other one was the uh gabapentin. No, there is one refill for that.
+Nurse: Ok. Yeah, I think it maybe I only heard the traMADol on the, sorry, I don't hear the traMADol on the voice mail. Um, but let me go back here, let me pull you up here in your chart and see if I sent over for the gabapentin. Mhm. Good morning. That's from doctor. You need a re you said you have one more refill on that, on
+Patient: The, on the uh gabapentin. Yes.
+Nurse: Yeah. Ok. Um, if you'd like to, I can call over to the pharmacy. Um, do you have that bottle on you? With the script number?
+Patient: Not the, not the, um, gabapentin? I don't, I'm
+Nurse: Sorry? No, it's ok. Um, yeah, I can call over um, to the pharmacy or it's totally up to you. You can call over to see what the status is. Um, what would you like? They usually
+Patient: Call? Well, they usually call me when something's ready to pick up. Ok. So I'll just go under that scenario. Ok. If they don't, if we haven't called in the gabapentin, we probably should.
+Nurse: Yeah, I can call in the gabapentin for you. And, um, I'd say, I don't know why because it was Thursday before. It was like around, I think I, I called so it should have been ready by now. I don't think there's any back orders on traMADol at this point. Um, so, yeah, I'll call over for you to get a refill on the gabapentin. And then, um, I'd say if you don't hear probably by lunch, um, maybe call in, I'm not sure what their hours are for their lunch time, but maybe call in and, um, speak to a pharmacist directly. Ok. So that way they could give you a little bit more information. Ok. Yeah, I'll call over for your gabapentin for you. Yeah, no problem. Yeah, no problem. Bye.

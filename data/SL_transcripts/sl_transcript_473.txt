@@ -1,0 +1,25 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. My name is [PHI-Personal]. I, we talked about, I mean, you called and, uh, we received our prescriptions to, uh, to your, uh, to you and I was, uh, wondering what happened, uh, you were supposed to get my husband an appointment with doctor for follow up. He wanted a complete physical and we haven't heard from you since then. Yes. Let,
+Nurse: Let me check. I sent a message to the nurse, um, remind me of your husband's name
+Patient: So I can. His name is [PHI-Personal]. Right.
+Nurse: Yes. Right. Ok.
+Patient: Wow. [PHI-Personal]. I,
+Nurse: Ok, it looks like [PHI-Personal], the nurse had scheduled him an appointment. Let me, let me get the appointment date and time for you.
+Patient: Ok. Just one second. She,
+Nurse: Wow. In her message, she said she was scheduling an appointment but I don't see where it was saved.
+Patient: Oh, let me look, you need the truth.
+Nurse: Yeah, let me send her a message back and let you know that the, the appointment did not save the system. I apologize about
+Patient: That. No, no, not a problem. And we didn't receive any paperwork from you. Did you mail out your paperwork.
+Nurse: I, I didn't mail it. Let me see.
+Patient: Um, I mean, oh,
+Nurse: I mailed it just two days ago on the [PHI-Personal] whenever we, so you should get it. I would say maybe Monday, the latest Monday or Tuesday. Ok.
+Patient: And another question, I got a very weird call from, uh, CVS Pharmacy. Mhm. And when I answered the call they said it's, uh, [PHI-Personal] calling to say that you have not refilled your prescriptions. And I was, wow, I see, I don't use CV S. You
+Nurse: Don't use CV
+Patient: S? No, I don't, I don't. And they are trying to say they from a, it says CV and that uh
+Nurse: Yeah, [PHI-Personal] is contracted with CV S Caremark. It's like a mail order delivery. So, um if, since you don't use their mail order delivery, it's just because you have the [PHI-Personal] Insurance. Um, you can just ignore their call. You can still use Kroger
+Patient: Pharmacy. Yeah, I, I thought it was like a spam call because there's so many of these calls uh going around, you know, so I don't want to and they're probably
+Nurse: Just trying to get you to use their mail
+Patient: Order pharmacy. So. Ok, thank you. You're
+Nurse: Welcome. I'll reach out to [PHI-Personal] and ok, I'll, I'll stay on top of the appointment. Ok,
+Patient: Thank you. I appreciate it, doctor. You're welcome. Ok. All right. Take
+Nurse: Care. Bye. You too.

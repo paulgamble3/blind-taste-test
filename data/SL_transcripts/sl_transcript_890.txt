@@ -1,0 +1,56 @@
+Nurse: Hi, this is Ky.
+Patient: Yes, is [PHI-Personal] there, please.
+Nurse: [PHI-Personal]. Um, let me pull up your chart. What's your name?
+Patient: Um, it's for my wife [PHI-Personal] [PHI-Personal]. And her birthday. [PHI-Personal]
+Nurse: [PHI-Personal]. Ok. Let me see if I can get her up here. So, I'm actually your wife's nurse. Is it something that I can help with?
+Patient: Ok. So my wife is having all sorts of problems right now, medical problems and, um, I don't know exactly where to start. Some of them are, are being cared for by various specialists, but there's at least one of them that's not being cared for that. I don't know where to go. Yeah.
+Nurse: Go ahead. And you wanna tell me about it?
+Patient: Ok. Well, let me first. Um, uh, do you wanna hear what's going on with her? Overall?
+Nurse: I would, yeah, I think that would be helpful.
+Patient: Ok. So she's, she's having a, a big problem with lack of sleep and I'll explain why that is, but one of them is coughing. So, and she doesn't cough hardly at all during the day. But when she gets down in bed she's coughing, you know, [PHI-Personal] or five in the morning and it, and it's really interrupting her sleep. So she's very, very sleepy all the time. Ok. So, and I, I, her hematologist listened to her lungs and said her lungs sounded ok. That was about a week and a half ago. But I don't know anything other than that. She, she's got a ci, which is another problem. Uh, but let me, I think I should go to that area for next. She's got a lot of abdominal pain all over in her, up, kinda up and down and on the side, she pointed all over on the, and kind of on the edges really, I think, uh, because her, her belly sticks out a lot because the, and, and, and it's her, um, then the other problem she's having with the digestive system is she's having very slow bowel movements and she's had not diarrhea, but she's having to sit in the bathroom for an hour, maybe hour and a half, two hours even. Oh, my, not to, to use the toilet. So I have an appointment with the G I nurse practitioner that she, she sees AAA G I doctor with the, uh, [PHI-Geographic] Medical Group and she's going to see the nurse practitioner on Thursday. So I've got that handle. Ok. Ok. She has bad edema in her legs. So they're hurting her but she's, and she has sores but they seem to be under control and she's being, uh, cared for by a vascular surgeon, uh doctor [PHI-Personal]. And we see him every two weeks. I change the dressing twice a day at his instructions and he's got a special ointment that a prescription ointment that we put on every day. Ok. But that seems to be under control, at least for now. Uh, uh, she has an appointment with the liver doctor, [PHI-Personal] General Liver Doctor. Finally on [PHI-Personal], a tele telemedicine appointment. Uh We don't know much about that. Ok. Then back on up the list on, on my page, she has kind of nasty anemia. Uh Her hemoglobin was 7.5 about a week and a half, two weeks ago. Uh, she's seen a hematologist that Doctor [PHI-Personal] recommended. She had iron transfusions for seven weeks, six or seven. And they didn't help much. The only thing they did, they kept her out of the hospital. Normally. She's been having to go to the hospital for transfusions uh, every couple of months, but they kept her out of the hospital at the [PHI-Personal] and I am, I haven't seen the numbers since then. Uh, she had a bone marrow biopsy ordered by the hematologist. She had it earlier this week, uh, or last week. I'm sorry, last Thursday, I believe. And we're waiting for the results from that, but she may very well have to go to the hospital at some point. I don't know for transfusion. We have to watch that a but, you know, if you look at her record, she's been in the hospital like, five times from between last year and, and early this year. Yeah, the last time was in [PHI-Personal] for anemia. It got below seven. anyway, so that's where we're at. The coughing is I don't have anybody to help with the coughing problem.
+Nurse: Ok. Is she sick or is it just when she lays down?
+Patient: It's, it's mainly when she lies down, she barely coughs. If she's standing up, it's when she lies down to sleep.
+Nurse: Ok. So I'm thinking, and I, I hate to even say this, but I think I'm worried that her cough is caused from her swelling and edema and that, you know, the swelling is maybe up into her lungs or in her heart area which can cause the cough. Um, is she short of breath at all?
+Patient: No, you're not short of breath pain, right? No.
+Nurse: So, no shortness of breath, chest pain, weakness, dizziness.
+Patient: No. No, you would think she would with the, the anemia so bad. But no, she didn't. Interesting. She just is very sleepy. She can hardly stay awake. But that, because he's not getting hardly any sleep.
+Nurse: Right. So, gosh, yeah, that's a lot. I, I think that let me look at the schedule. I mean, would you prefer to see Doctor [PHI-Personal]?
+Patient: Yeah, if possible.
+Nurse: Yeah, that would be nice. Let me, let me just look at her schedule and you know, by the chance of God, maybe somebody canceled. Yeah, so the soonest appointment I show is next Wednesday, but I don't want her to wait that long.
+Patient: Ok.
+Nurse: Um it's, it's up to you guys, so I, I kind of am recommending the er, but if this has been going on for some time and you're comfortable waiting maybe until urgent care opens up tomorrow. Um I'm ok with that too. What are you kind of leaning towards?
+Patient: Um, we, we really hate to go to the hospital for several reasons. Uh, they're very inefficient and, and she gets in there and they don't take care of her very well. They don't get walking and she just gets weaker. She's got, you know, she's got sarcopenia, she's very weak already and we're afraid we'll lose it now. And we have one other little problem, uh, that, uh, I'm giving her a supplement for hepatic encephalopathy. Something else in that. Right? Encephalopathy.
+Nurse: Yeah.
+Patient: Ok. And I don't know, I don't think the hospital is gonna let her take it and I don't know what's gonna happen because she's gonna be a problem and, uh, they don't like supplements, doctors hate supplements. Uh, her, her G I doc said if it worked she could keep taking it. So she, she's still to take it. But I real, I've been thinking at the hospital it's a problem but it has less side effects than the, than the standard medications and it and it works for her. But,
+Nurse: So I know that's tricky because even if you bring it in yourself a lot of times they don't let you, I know. Give it. Which is kind of weird. Um,
+Patient: I'm, I'm, I'm wondering if she needs, uh, some kind of imaging or something to
+Nurse: See. Yeah, she probably, definitely needs a chest x-ray at the very least. Right. Yeah, that's what I was thinking. Um, yeah. And I, I just know that Doctor [PHI-Personal] will wanna like, listen, you know, listen to her lungs and stuff. Let me look up one more way and see if there's a same day appointment or even like a tele med visit wouldn't be bad. Let me look at that. So to, I don't know, you tell me I have, I do have an opening tomorrow but it's not with Doctor [PHI-Personal]. It's actually located at [PHI-Geographic]. Is that far? Is that too far for you guys?
+Patient: Uh I'm not sure where Chase is. Ok.
+Nurse: Let me look it up on the map here. Uh Yeah, it's like a 52 minute drive. That's, I think that's too far for you guys.
+Patient: It really because she gets hurt or she's in having to sit in the car for too
+Nurse: Long. Yeah, I agree. So let's, let's just not do that. That's too far. Um So, yeah, my two, the two things that I can do is we can wait until the morning and do urgent care or, you know, tonight, if, if she starts to get like short of breath, chest pain, weakness, dizziness, worsening, fatigue where she's maybe confused, then I would definitely, you know, want you guys to go to the, er, tonight.
+Patient: Ok. Now, urgent care in the past I've, I've taken her to urgent care one time and they shuttled her off to the, er, right
+Nurse: Away. Yeah,
+Patient: But they don't have, they don't seem to handle things like this. They handle like cuts and scrapes and,
+Nurse: Yeah, I, I do think that, to be honest, I think they'll probably send her to the, er, if you go to urgent care.
+Patient: Ok. Um, I, I think maybe I, I'll see what happens and call you back Friday, maybe. Yeah, she's gonna, she's gonna see the G I doc nurse practitioner.
+Nurse: Yeah. Yeah, I think that's a good idea
+Patient: In person on Thursday. And so that lady will examine her and look and, you know, and kind of decide what's going on too. I totally
+Nurse: Agree. I, I think that's a great idea. What, what day is the appointment again?
+Patient: [PHI-Personal] in the afternoon. Ok.
+Nurse: Yeah, I agree. I think that's a good idea and then I'll just, I'll call you guys on Friday so that you don't have to worry about anything. But, yeah, if there's any big changes at that time, give, well, yeah, maybe you should call me Friday because just in case.
+Patient: Now, what is your name? Again,
+Nurse: Please. Yeah, my name is [PHI-Personal]. I'm your, I'm [PHI-Personal] assigned nurse so you guys can call me any time, you know, if you need any. How do you,
+Patient: How do you spell
+Nurse: Kie? Yep. It's [PHI-Personal].
+Patient: Ok, because the, we get the letter said [PHI-Personal], but it's a little letter.
+Nurse: Yeah, I know. They've been switching different nurses around and stuff.
+Patient: So, no pro, no problem. We're just happy to have somebody to talk to and explain. We're kind of getting in over our head a little bit. Um
+Nurse: That's a lot of, that's a lot going on and you know, that's what, that's what I'm here for too to talk through things and help take some of the burden off you because that's a lot, that's a lot to remember and it's a lot to take care of and she's not feeling well and you know, it's, it's a lot. So I, I am here for you guys. If, if you need anything you can call me anytime, don't be shy.
+Patient: Ok. Thank you very much. Yes,
+Nurse: You're welcome. And then right now I have gene set to be inbound only. So that means that I don't call you guys. You usually just call me if you need help. But would you want me to call and check up on you guys and change it?
+Patient: Ohh. Yeah, you can do that.
+Nurse: Yeah, because then, I mean sometimes people forget that we're here or available, you know, unless we call. So um yeah, I'll set her back to the full service and um that way I can call you guys too. So um but regardless, call me again on Friday, let me know how the G I appointment went and, and kind of where we go from there. Ok, thank you. Yes, you're welcome. I'm I'm sorry, I wish I was more help.
+Patient: Ok, [PHI-Personal] is here too so you know [PHI-Personal] is listening. Ok, for sure. Yeah, talk to you Friday.
+Nurse: Ok, that sounds good. Thank you so much. Bye.
+Patient: Ok, bye bye.

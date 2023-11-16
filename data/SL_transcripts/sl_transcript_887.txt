@@ -1,0 +1,79 @@
+Nurse: This is [PHI-Personal]
+Patient: Nurse care manager with [PHI-Geographic].
+Nurse: Hello. [PHI-Personal], Miss. [PHI-Personal], at least we meet [PHI-Personal]. I know it's ok here.
+Patient: Well, how's everything been going?
+Nurse: Really? Well, thank you. Good. Let's see. When's the last time we talked?
+Patient: Um, let me look and I can tell you [PHI-Personal].
+Nurse: Wow. Uh, ok.
+Patient: Yeah. Left me hanging when I normally call [PHI-Personal]. Let me just check it. It's fine. It's ok.
+Nurse: Back on the eighth I went to see, uh, the kidney specialist. She said everything looks good. So I don't have to make an appointment for another six months or so. That's good. Yeah. Uh, pulmonary. I'm going for a sleep study, a home sleep study. I go [PHI-Personal] to get the equipment for that on the way. Be
+Patient: Fine.
+Nurse: No, no, not [PHI-Personal]. When is it? Oh, the [PHI-Personal]. Let me look at my calendar the [PHI-Personal]. When I go for that, uh, I [PHI-Personal] doctor on the 12th and he said things look good. He started me on Jardiance for my, he said for CS
+Patient: Jardiance, is there it is. I see it.
+Nurse: Ok. Ok. On the, on the [PHI-Personal] I had a mammogram and that was ok. So that's good. And on the [PHI-Personal] I had AC T scan and, and I haven't heard the results on that yet.
+Patient: Ok. I'll look and see if I can see anything. Um, how's the jardiance doing? Are you having any complications with it?
+Nurse: No. Knock on wood.
+Patient: Good, good. Some people, you know, well, it has the same side effects as everything, possibly. But with that one, you know, you could urinate a lot, especially at night. Increase your thirst. Um, if you get like ut I symptoms, you know, burning cloudy urine, red, pink, brown with um, pelvic or back pain, let us know. Ok, those are just a few signs. Um, and watch out for any like yeast infections, vaginal.
+Nurse: Ok. Now, did I tell you I got on the third for a urology consult regarding a possible cystoscopy. Oh, shoot.
+Patient: Let me look back at the old notes. I don't, my mom's not recalling that.
+Nurse: Um, ok. Uh,
+Patient: No, you did not tell me that back in [PHI-Personal].
+Nurse: Ok. So that's a month. Ok.
+Patient: Have you ever had anything like that done? No,
+Nurse: No, look forward to it. But, well, it's just a consult and if I need one, I guess we'll schedule it for later.
+Patient: Yeah, they will, it won't be done the same day. No, I'm trying to look on here because sometimes
+Nurse: Where
+Patient: Is it at? Uh, you know, I, I know my computer system so good by now and some days, like I can find exactly what I need immediately and then others, I'm like, what, what,
+Nurse: Where are you at? It's kind of like our car, we got it back in 13 and it's still, it has all these bells and whistles and we're still finding new things in it. Like what it really does. What, what's that button for, you know? Yeah.
+Patient: Oh, my gosh, we are
+Nurse: Special.
+Patient: Ok, good. Ok. Let's see. I'm trying to see if I can find that. I don't see no scan. I see you. I see the mammogram. I see you had an eye exam too.
+Nurse: Yes. Yeah.
+Patient: So I see those but I don't see the CT yet. Um, when you did go to urology, did they describe that procedure to you?
+Nurse: I didn't go yet. I'm going on the third. Oh,
+Patient: Yeah. But it's for a possible cytoscopy. Ok. Have you ever heard of it? Have you? But I don't like saying this word. Have you Googled it? I don't like Google when it comes to medical
+Nurse: Stuff. Just well, I know what a cystoscopy is.
+Patient: So. Ok. Ok. Ok. So just making sure I have one person that was going to have one but yet they knew nothing about it that really you're, you're getting this done and they didn't describe nothing to you.
+Nurse: No, I know what they are. So I just know they put a little camera up there. And look around.
+Patient: Yeah, they look in your bladder and urethra and all that. It just, it should be outpatient. Right. And usually lasts like a whole walk in five minutes. So at least it's quick and over with and done. Yeah.
+Nurse: So hopefully it'll be ok. It's more embarrassing, I'm sure than,
+Patient: I don't know. See, I'm not, I don't care about that. I just, uh, that stuff. I don't know. It don't, whatever I get. Oh, man. Don't think I'm weird when I tell you this I get waxed, you know. So it's just like whatever, between c sections and ob appointments since I was [PHI-Personal] and waxing. I'm just like,
+Nurse: Whatever. Yeah. Well, that's true.
+Patient: We all got the same thing as long as you're a [PHI-Personal].
+Nurse: Oh, I hope this isn't being recorded. It is. Oh, no, I don't care what, at
+Patient: Least I have a good relationship with you so we can, you know, I'm open.
+Nurse: That's true. Oh, my gosh. You make me laugh. Well,
+Patient: At least I made you laugh for the day if you needed one. There you go.
+Nurse: Ok. Oh, God. So,
+Patient: Ok. So you do know, of course, too, after that gets done. If you have to have one you could have soreness and burning a, like, up to 48 hours after that happens. Yeah. Possibly blood too. But that should go away within the same day.
+Nurse: Should. Ok. Dokey.
+Patient: Let's see here. What else was
+Nurse: I? Now, you know when I [PHI-Personal] the cardiologist, um, he stopped the HCTZ and my BP is a little higher than it was when, when I was on both the Lasix and the HCTZ and Lisinopril, but it's just running in the one twenties to one thirties. Now,
+Patient: [PHI-Account]. The bottom number. Ok.
+Nurse: Uh, let's see. [PHI-Account]. Where is it? I'm just looking over my blood
+Patient: Pressure. No, you're fine.
+Nurse: [PHI-Personal].
+Patient: Yeah. Ok. [PHI-Account]. Yeah, perfect. And the 1 20 to 1 30 is not horrible. Um, so I would not be concerned about that at all because it looks like when you were seen by um [PHI-Personal] on the 20 not the 20 you [PHI-Personal] [PHI-Personal] on the [PHI-Personal]. Why or did I get canceled? Why is it highlighted there
+Nurse: That that was canceled? Because that's when I had that thing in my eye and they sent me right over to the eye doctor that's in the complex.
+Patient: Ok, because I see appointment history, all your recent appointments, you know, and upcoming appointments and that was kind of gray instead of what it normally looks like on my way. Now, I don't see that in documents. Ok. All right. So we
+Nurse: [PHI-Personal]
+Patient: On the [PHI-Personal] whatever it was. What was your BP that day?
+Nurse: [PHI-Personal]
+Patient: 1 24/[PHI-Personal]. Ok. So you're about in that same range and you were off of your HTZ then? Off of it. Yes,
+Nurse: Since I [PHI-Personal] cardiology back in [PHI-Personal], I see him on the ninth of [PHI-Personal] I [PHI-Personal] him. So we stopped that then.
+Patient: Ok. And it looks like on [PHI-Personal], I was looking at all your bottles. It was 1 14, it's 72 in April in [PHI-Personal]. It was 1 30 82. So even without it, it's not, it's not abnormal. Now, if you would have told me your range in say 1 50 60 seventies, eighties, then we might have a concern. So just always what you're doing it, you know, keep a record of it. If it does take, start getting higher, maybe like closer to above one thirties. Um especially if it gets in the one eighties, you know, definitely let him know we do just as I guess, kind of educational if you didn't know if it's around 1 80/100 that's kind of like a hypertensive urgency which means, you know, give yourself a few minutes and recheck it. If it's still high, you call me. Um If it's 1 80/1 10, closer to 200/1 10, that's hypertensive emergency. So same thing you can chill out for just a few minutes, recheck it again if it's still high, you know, call me, especially if there's like any type of weakness, edema, chest pain and any of that. And that's more of a, you need to call 911 deal. That's gonna be getting close to, you know, heart attack, stroke or anything like that.
+Nurse: Ok. So, sounds
+Patient: Good. Ok. Um, so otherwise eating and sleeping good, same different, bad
+Nurse: Better. It's getting better. Good. But, yeah, I have to do something. I've been taking a Benadryl one Benadryl 25 MG at bedtime with two Tylenol. Ok. So
+Patient: Benadryl 25 mg. Do you take it every night?
+Nurse: Yeah. Usually it helps with my sinuses too. So, yeah,
+Patient: Definitely because it's like an antihistamine. So, I mean Benadryl, you know, way back then used kind of everybody if you had allergies and whatnot, take some Benadryl, clear them up. Um, which now it's more of Zyrtec Claritin and stuff like that. Unless you're like my husband, he's allergic to Benadryl. So hope he never has a reaction to anything.
+Nurse: Oh, sure. They have something else.
+Patient: Well, he's supposed to have an EpiPen but he does not have an EpiPen, you know, and he works off. So there is no, um, yeah.
+Nurse: Hm. Let's say good luck, buddy. Good luck, buddy. I'm sure they're expensive though, aren't they?
+Patient: They are. The last time we did get one price check it was like 500 bucks.
+Nurse: [PHI-Personal]. A doodle.
+Patient: Wow. Yeah, because he's like, uh, I'll wait cause I'm still gonna have to call 911 if it happens. And you know how that, so luckily it's fine. The only thing he's really, I don't, and he could have outgrown that Benadryl by now. But you don't wanna take the chance. I know my, the girls are not allergic to it. So that's a good thing because that's what I was afraid of when we had our kids. I was like, if they were acquire that dang allergy of yours,
+Nurse: But they didn't. Thank goodness, thank goodness. Oh, but, um, yup, I'm doing well. I'm using the leg pumps every day. Still haven't figured out how to use the Trump part of it. But other than that things are looking good.
+Patient: Can you hear me now? I can. [PHI-Personal]. Can you hear me?
+Nurse: Yes, I can. Can you hear me? Are you there? I'm here. Hello. It's a goner. Oh, bro. Can you hear me? Brooke? Can you hear me broke?

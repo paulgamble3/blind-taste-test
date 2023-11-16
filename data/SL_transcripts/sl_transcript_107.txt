@@ -1,0 +1,30 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: And this is Cla Hier [PHI-Personal]. I was wondering if I get something for anxiety.
+Nurse: All right, let me get you pulled up and it's [PHI-Personal].
+Patient: [PHI-Personal] E IC. He rt OK.
+Nurse: Are you having some increased anxiety?
+Patient: Yes. Quite a bit.
+Nurse: OK. Have you been on anything before?
+Patient: Yes. OK. Uh
+Nurse: All right. Do you know what you're wanting to go back on? I don't remember
+Patient: What was, I don't remember what it was called, what I was on.
+Nurse: OK. So let me see. Looks like you've been on some ex um Lexapro.
+Patient: No. PredniSONE.
+Nurse: No, we wouldn't give predniSONE for anxiety. Um Looks like he's been on Xanax also. And Lexapro
+Patient: I think Xanax was the last one you were on but
+Nurse: OK, something going on that's made it worse or
+Patient: I found out I have cancer in the lungs?
+Nurse: Oh, I'm so sorry. OK. That would make you anxious for sure. When did you find that out?
+Patient: The result? Ok. All right.
+Nurse: Um Walmart Pharmacy. Is that where you want it sent to at [PHI-Personal]? OK. When do you follow up um with oncology? He's not in for
+Patient: A month. I'm gonna, I'm gonna have somebody call guys in here and see if I get up there.
+Nurse: Ok. All righty. You don't want to wait a month, do you?
+Patient: No.
+Nurse: Do you want me to see, um, if Doctor [PHI-Personal] can refer you to somebody since the oncologist is out?
+Patient: Yeah, that would work, I guess.
+Nurse: Ok. So somebody at guy singer.
+Patient: Yeah.
+Nurse: Who were you gonna see before? Who was the oncologist? [PHI-Personal]? Ok. All right. So somebody other than him. Ok. Well,
+Patient: He ain't gonna be around for a whole month.
+Nurse: So, yeah. Ok. All right. Well, I will send this note to doctor [PHI-Personal] see if we can get you something for your anxiety and then we'll see also if he can get you referred to somebody that can see you sooner. Ok? And as soon as I hear back from him, I will let you know. Ok. Thank you very much. You're very welcome, sir. Bye bye bye
+Patient: Bye.

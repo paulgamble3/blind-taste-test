@@ -1,0 +1,21 @@
+Nurse: Chronic care management. This is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. This is [PHI-Personal] calling. Bye bye [PHI-Personal]. Oh, he has a question here?
+Nurse: Ok.
+Patient: Were you able to get a, oh, an, an appointment for me or,
+Nurse: Um, I was waiting for doctor to get back to me. Let me, I sent the message over but it doesn't look like he responded yet. It's to him, but he hasn't responded
+Patient: Yet. It is he in, uh, in the Huntington office,
+Nurse: Um, that I don't know.
+Patient: Ok. Well, I'm, I'm just gonna go in, uh, I'm, I'm going to go into the walk in clinic. You're
+Nurse: Going to go to the walk in clinic again today?
+Patient: Yes. Yes, I am.
+Nurse: Do you just not feeling so good? Well,
+Patient: I'm, I'm not feeling very good at all.
+Nurse: Oh, buddy.
+Patient: My, my eyes are watering and my, I'm snorter all over the place and,
+Nurse: Oh, yeah, he did not get back to me. He has the, he has my note, um, but he just hasn't responded yet.
+Patient: Well, I'm, I'm just, we're, we're going over now. So.
+Nurse: Ok, why don't you guys call me whenever you get back that way? I know what's going on?
+Patient: Oh. Ok.
+Nurse: Ok and I'll send a message back over to doctor that you're gonna go to the uh walk in clinic.
+Patient: Ok.
+Nurse: Ok. All right Sam, we'll talk to you soon. Alright bye bye.

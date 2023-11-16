@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Uh, [PHI-Personal]. Uh, this is [PHI-Personal]. You called and left a message yesterday afternoon. I was unable to answer the phone. Hi,
+Nurse: [PHI-Personal], how are you?
+Patient: I'm doing ok. What's, uh, I'm not sure what the nature of the call was.
+Nurse: Give me one second to pull up your information. Ok. Yeah. All right. And just confirm your date of birth for me, please.
+Patient: Uh, 8, 10, 1949.
+Nurse: All right. And you're a patient of Doctor [PHI-Personal], is that correct?
+Patient: That is correct.
+Nurse: All right. So let me just tell you real quick that this call is gonna be recorded for training purposes. And the reason I was reaching out is because Doctor [PHI-Personal] and the physicians at [PHI-Geographic] are offering their [PHI-Personal] patients a new program. Um, that program is called Care Management and [PHI-Personal], you do have the Baycare select [PHI-Personal] advantage. Is that correct? That is correct. All right. So that qualifies you for the Care management program. And that just means that you would receive a phone call from one of our care management nurses. That phone call would be at your convenience as frequently or as infrequently as you wish. And your nurse would basically just call check in, make sure that you're feeling good and continuing to feel good in between office visits. But she would also be available to you if you were to need things like medication refills, test results appointments or if you had any acute medical questions or concerns. So, it is a billable service to [PHI-Personal], [PHI-Personal] Advantage and secondary insurance plans and the calls are subject to deductibles, copays and coinsurance. Now, when you go to the office, you don't normally have a copay. Is that correct? That is correct. All right. So you should not be responsible for any out of pocket cost for a care management call. And you could have that call as frequently as you wish. Um, some patients get one, once a month, other patients get one every three or even every six months. That would be up to you and doctor [PHI-Personal] would get documentation of those calls sent to him as part of your medical record. All right,
+Patient: I, uh I am, I understand doctor [PHI-Personal] is leaving the practice.
+Nurse: Um, so I do not know that information for sure.
+Patient: Yeah, he, he told me when I was last in, in [PHI-Personal] that he was leaving in [PHI-Personal].
+Nurse: Ok.
+Patient: And uh I'm not sure I'm gonna continue be in part because of that and in part of, uh because it's so difficult to get in to see him. Um, I've had three occasions where I needed to see him on a uh fairly urgent basis and each time I couldn't get in for four months and I thought that was, I thought that was inappropriate. So I I'm not sure what I'm gonna do. I I actually have a uh a need to see him right now. I'm gonna call the office, I'm not sure they're gonna be of any help that I'm gonna try.
+Nurse: Ok? Um yeah I that I, like I said um I'm not sure what his, what his, you know, future status is going to be. Um, but your care management nurse, like I said, you would be able to reach out to her. Um, if you were gonna stay in the practice, the other physicians there are also a part of the program, um and they, you know, they are qualifying providers as well. Um, so I can mail you out some information if you wanna look it over and give me a call. Um, you know, in the future once you decide if you're gonna, you know, stay or, or go.
+Patient: Ok, why don't you do that? Why don't you mail me some information and I'll, I'll take a look at it.
+Nurse: Ok. Yeah, no that's no problem. Um, let me just confirm your address. I have that. It's 342, Laurel Falls Drive Apollo Beach. 33572. Is that correct?
+Patient: That is correct.
+Nurse: All right, perfect. So I will go ahead and mail you out that information and once you decide then you can just give me a call. Ok,
+Patient: Thank you and I look forward to getting it.
+Nurse: All right, sounds good. Well, thank you for calling me back [PHI-Personal]. I appreciate it. Ok. You have a good day. You do the same. Thank you.
+Patient: Thank you. Bye bye
+Nurse: Bye bye.

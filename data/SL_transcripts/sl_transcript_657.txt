@@ -1,0 +1,66 @@
+Nurse: [PHI-Personal] Cod Healthcare. This is [PHI-Personal].
+Patient: Hi. Um, [PHI-Personal]. This, my name is last [PHI-Personal]. I, I think I talked to you yesterday.
+Nurse: Hey, you did.
+Patient: Um, uh, uh, I, I'm not what, I don't know. Well, I'm calling to find out what, what this is for, like, is it like counseling or is it for something else when I talked to you? I can't remember, remember yesterday. Kind of not having a very good past few days.
+Nurse: Um, you and I spoke prior to your appointment with doctor yesterday on your tele visit?
+Patient: Yeah.
+Nurse: Mhm. Uh, did she mention, yeah, that's what we spoke about yesterday. Did she mention any other referrals or?
+Patient: Um, no, I mean, I told her what happened and everything like that. She didn't, um, uh, I, I did ask her a while back and she gave me, she, uh, put me on this antidepressants but I've been, I was kind of too afraid to take it and my, uh, mother actually made me take one today but, um, um, I, I was trying to have her give me, um, some kind of counsel or something like that to talk to a psychiatrist or something um, so, um, I don't know, like, what, what to do now because, um, the other [PHI-Personal], the other [PHI-Personal], um, I was over my daughter's house with her, her friend or whatever and, uh, she actually pulled a gun on me and, uh, was gonna blow my head off. And, um, um, you know, luckily she didn't, but she did shoot the gun off in the house. So I ended up going to the police station two days ago and they pick, she's in jail right now. But, um, I don't know, um, I took, you know, I told doctor [PHI-Personal] this stuff and she didn't, she didn't, she didn't really, uh I'm off [PHI-Personal] right now. I'm off [PHI-Personal]. I'm, I'm probably not gonna go back down to the [PHI-Personal]. Um, I don't have a car or anything like that either. Um, and I obviously, well, I was, I had to leave my job too and I, you know, I, I talked to him yesterday and, uh, uh, I, I'm actually, I'm have to get down there sometime today because, um, I'm out of my medication and doctor [PHI-Personal] had them, um, refilled for me. So I have to go down there and grab those and I have to grab my last paycheck from my job and, and just talk to him and tell him uh, what's going on, you know.
+Nurse: Ok, let's go through the medicine that you need refilled because some of them have refills and some of them don't. So let's just go through what we need. Um the Eliquis that one does have refills.
+Patient: Ok. Yeah, I do need that refilled. I have um I have like three left. I gotta take one tonight and then I'll have two for tomorrow and that's all I have.
+Nurse: Ok, when you and I spoke yesterday it was the Eliquis and the Lisinopril that you needed.
+Patient: Right? Yes, I yeah I took my, my last pill today this morning for that. Ok.
+Nurse: Did you call CV S and, and ask them about that because there should be refills on both of those.
+Patient: Ok. Um, no, I haven't. Um,
+Nurse: But don't use the automated system when you call because if you use the old prescription numbers, they're gonna keep telling you there's no refills. You do have to speak to someone in the pharmacy. Ok. So those two you should be squared away on. Are you still taking the, the Lexapro,
+Patient: The Lexapro?
+Nurse: The, is the OPM? It, what is it? OPM? Five mg?
+Patient: Oh, I think, I think that that might have been the one I just took this morning. Um, I, is it antidepressant? It
+Nurse: Is. Mhm.
+Patient: Yeah. Um, yeah, I, yeah, I just took one this morning. I, it's still, I think she, I don't know, there's a few of them in there. I think it's a week's worth or something like that.
+Nurse: She told me that doesn't have any refills.
+Patient: Right. Yeah, I like I said I was, I was after she told me what, you know, if it, you know, it's, if, um, you know, I felt, you know, suicidal or anything like that after then it kind of freaked me out and they didn't really wanna take it about. My mother thought it would be a good idea to take it. So I took one this morning and, um, uh, yeah. But, um, yeah, my, um, heartburn medication.
+Nurse: Uh Yes. Pantoprazole. 40. Yeah. Yeah. Ok. That one has refills as well. Now the Lexapro is, that's a medication you have to take every day because it's in the drug class is an SSR I which means that it has to take a couple of weeks to build up a certain level in your system before you'll start noticing it. So, taking a Lexapro just as you feel anxiety or depression, it's not going to work. You have to take that Lexapro every day.
+Patient: Ok. Well, I just started taking it today. So. Ok. Um, but I, like I said, it's only like a week's worth I think, you know, something like that. Ok.
+Nurse: So we need a refill on that.
+Patient: Yeah.
+Nurse: Ok. So we'll do that. Now, are you going back to [PHI-Geographic] to pick these up at CV
+Patient: S? Yeah. [PHI-Geographic]. It's on
+Nurse: The Lexapro. You're good on the Pantoprazole. Uh good on the Lisinopril. Now, give them a call before you go there just to make sure that you're Ok. The only one that I see that you're gonna need is the Lexapro, uh, but make sure they have all these other ones on file. So before you get there to pick them up, if they're not on file, we can address them. Ok. But all the other ones look. Ok.
+Patient: Huh? All
+Nurse: The other ones look. Ok. I don't see anything else. There's some predniSONE but that's not from us. Uh, there's, um, lidocaine, all that was an injection. Ok. So I think that's all you take, right? Lisinopril, Pantoprazole, Lexapro and Eliquis. Yeah. Ok. So all those are good except Lexapro and I'll get doctor to refill that today. Ok. Ok. Now, as [PHI-Personal] as the referral for the therapist, I did reach out to where the referral was made earlier this month yesterday and they did call me back yesterday evening and tell me that they're not accepting, they didn't accept patients right now. So wherever you decide to go, I know you said that you may leave the state yesterday. Wherever you decide to go when you reach back out to us to get your records transferred to your new doctor or, um, when you get established somewhere else, let us know where you need a, a referral to a therapist and we can do that for you. Ok. It just all depends on where you go.
+Patient: Ok. Um All right. Uh yeah, I'm not, I'm not really, everything's kind of up in the air right now and I'm not sure what I, what I can do. Um, like I said, I have one last pay check to go grab from the restaurant. But, um, I've been trying to, uh, um, work with, um, um, some people for, um, getting on disability because I'm, uh, you know, between my, um, having a hard time, you know, I, I have a hard time walking and, uh, I actually I fell down Wednesday and, um, I guess I must have hit my knee or something because it, it hurts and it's really tightened up and I think I'm, I probably should go and get checked out at some time. Um, I guess I fell on the, it must have hit my head again on the, on the ground or something like that when I fell down. I'm just, I didn't know that. Yeah.
+Nurse: So it was Wednesday. Yeah,
+Patient: This is, yeah, it was Wednesday, but I'm off. I mean, I suppose if it was bad it, it would probably, something would have happened by now. Right.
+Nurse: Well, are you having any confusion? Blurred vision?
+Patient: No, no headache. I mean, I'm just a little bit of, yeah, a little bit of one.
+Nurse: Do you know what? You hit your head on when you fell?
+Patient: I don't, I, I try, my mother said that my brothers, you know, he was with me. Ah. Oh, yeah. Yeah. I guess
+Nurse: Any difficulty moving your arms or legs or weakness.
+Patient: No. N no, any neck pain. Yeah, a little bit.
+Nurse: Is it severe?
+Patient: Uh, no, it's, it, it does, it does hurt but it's not bad. Um, ok. See I'm, I'm in, I'm in [PHI-Geographic]. In, I actually don't have any way around because a, like I said, I don't have a car. Um, my kids, I tried calling them but they're all pretty, pretty, uh, mad at me, I guess. Uh, like, I think it's my fault that this happened. Well, my older daughter and, ah, they're not talking to me right now. Um,
+Nurse: Did you, um, let doctor know that you had this fall yesterday during your appointment?
+Patient: No, I, I didn't see anything. I didn't, I just, ok, I woke up this morning and, you know, like I said, my back, my, my neck was hurting a little bit and I was like, I didn't know, oh, what was, um, going on? And then I asked my mother this morning and she said that I, that my brother said that I fell down if you don't
+Nurse: Remember falling. No. Ok. That's, uh, that's a red flag to go to the, er, just so they can do a CT scan and make sure that there's nothing going on in your brain, no bleed or anything like that. Ok. Do you think that you'll be able to do that?
+Patient: Oh, my mo my mother said just to call to have, she's gonna have, call the ambulance but I don't know how I'm gonna get home. How am I gonna get back after, from the hospital?
+Nurse: Right. I'm happy to call an ambulance if,
+Patient: If she needs to. I mean, it's the only, it's the only way I'm gonna get to the hospital and we're in [PHI-Geographic]. So there's no really, I guess the closest hospital would be [PHI-Geographic], I think. I mean, I've been there before, that's when they found out where I had the blood clots and stuff.
+Nurse: Ok. Does sh, so you have a history of blood clots too? Is, um, is she gonna call an ambulance or do I need to?
+Patient: Um, no, she, she can, I, is she
+Nurse: Calling him now?
+Patient: No, I'm gonna, I'm gonna, actually, I, I need to, I gotta take a shower and then I'm gonna go, I guess after that. Um, I, so I'm just pretty shaken up. I've had
+Nurse: Some, you
+Patient: Know, but I, I haven't, I haven't had, I haven't had a shower in a couple of days and I feel kind of dirty, you know, and I, you know, I just, uh, I don't know, I'm just, I'm not having a very good time.
+Nurse: Are you, um, having any weakness or tingling in any of your extremities? Arms legs?
+Patient: No, just the, you know, the regular stuff that's been going on with my, my legs and stuff and my feet after the surgery I had a few years ago. But, uh, no,
+Nurse: Any abdominal or chest pain, no shortness of breath. No. Ok. So which hospital will you be going to, um, the one in [PHI-Geographic]? Yeah,
+Patient: I guess be, uh, [PHI-Personal], I guess.
+Nurse: Ok. I can call, report to their, er, and let them know that you'll be coming in that may speed things up when you get there. That way they already know what's going on. Ok. Um, so we fell on Wednesday and you have a headache, right. And do you know about when you will be going to the, er, she's gonna call the ambulance, say by 11 30 because it's [PHI-Account]. Now, if I let you go and you get ready.
+Patient: Yeah. Yeah, probably around that time maybe. Um, ah. Right. Yeah, around noon time, I guess, or something.
+Nurse: Ok. So I'll call and tell them that you should be there by an ambulance within the hour. Mhm.
+Patient: Ok. All right. Yeah.
+Nurse: All right. And, um, so she's gonna call, so I don't need your address. Ok. And your mother is there with you, will she be going to the, er, with you?
+Patient: Um, probably not.
+Nurse: Ok. All right then. Well, in the meantime, I'll work on this Lexapro refill, but you go get yourself ready and go to the, er. Ok. Ok. And you'll have your cell phone, right? So if you need anything or you know, you can reach back out to us. Ok. Ok. But I'm gonna call [PHI-Personal] and let him know you're coming. Ok. All right. Thank you. Alright, [PHI-Personal]. You're welcome.
+Patient: Bye bye bye bye.

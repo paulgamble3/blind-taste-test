@@ -1,0 +1,27 @@
+Nurse: Hi, [PHI-Personal]. Hi, how'd you make out with the urologist?
+Patient: They're not open. So, uh, I have to wait. I called and I got a, um, answering service for aftercare or something like that. The open. So I'm feeling better and I'm not bleeding. So we'll see. Maybe it's just, uh, yes, [PHI-Personal]. Well,
+Nurse: I still think it should be checked out. You know what I mean? Um,
+Patient: I know, but I have to wait the call tomorrow being the office neurology,
+Nurse: But they are closed. Ok. I just wanna let her know. Um, so, ok, but they're closed, you said, um, she said she said, ok, she needs to keep calling and maybe demand appointment if they're giving you a hard time. Like, because she said you, she really wants you to be seen. You know what I mean? Um, so you're gonna call first thing in the morning tomorrow?
+Patient: Well, I don't know what time I'll call. I got wellness down there tomorrow too, but I don't know what I'm gonna do but I'll call tomorrow. That's what you,
+Nurse: You're not bleeding or anything.
+Patient: So,
+Nurse: All right. Um, two. Ok. Um, all right. If she has anything to say I'll let you know. Um, so,
+Patient: And I'll be all
+Nurse: Right. Well, I'm concerned about you. So that's the only reason why I was.
+Patient: I am too. But, you know, I'm,
+Nurse: I'm not like the doctor either. You know what I mean? So, it's good to get, like, assessed and stuff.
+Patient: I have to call him tomorrow. Ok, I know what happened.
+Nurse: All right. Well, let me know. Or I'll give you a call tomorrow. What time's your appointment? At? Spine and Wellness? 22 o'clock.
+Patient: Yeah, and 22 20 somewhere in that area. One time they tell me be there [PHI-Account] then they say be there 205. So like 2 15 minutes early, but it only takes like one minute to sign in on the thing. Yeah, but, so my appointment is [PHI-Account]. But yeah, I'll call down there tomorrow. Ok.
+Nurse: And I'll still, I mean, I know you don't wanna go to the, er, so I already told her that, um,
+Patient: If anyone's out, if the two pulls out, then I will.
+Nurse: Ok. Um,
+Patient: But like I say, I've got it taped so hopefully it won't pull out. I just changed the bag on it because it was just like, um, um, like floods coming out. It was just,
+Nurse: I thought you said you didn't have any further bleeding.
+Patient: No, it was like, well, just like, just like, um,
+Nurse: Oh, I mean, I would, I mean, you wanna report that to the nephrology as well, you know. Um
+Patient: Yeah he's close today too but I'll give one of them a call tomorrow anyhow, let him know what's going on
+Nurse: Um too. Ok. Alright. Alright I'll talk to you soon.
+Patient: Ok bye.
+Nurse: Alright bye dear.

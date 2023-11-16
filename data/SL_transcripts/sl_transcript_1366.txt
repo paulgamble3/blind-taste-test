@@ -1,0 +1,39 @@
+Nurse: Good morning. This is [PHI-Personal]. May I help you?
+Patient: Good morning. Uh Good morning. This is [PHI-Personal]. How are
+Nurse: You? I'm good. How are you?
+Patient: Uh I'm having some problem in the stomach. Uh heart pain in the stomach also. Uh I have something in, in, in the back of, of, of the nipple, nipple, nipple, in my left side.
+Nurse: Ok. When did that start?
+Patient: And, and itch a lot.
+Nurse: Ok. When did it all start?
+Patient: Like a week ago?
+Nurse: Ok. Did you um call doctor Ao's office or go to the emergency room?
+Patient: No, I tried to call. Hi, I'm how you doing? Hi,
+Nurse: This is [PHI-Personal]. How are you? Ok. Did y'all reach out to try and make an appointment for an evaluation?
+Patient: Uh I tried to call the uh uh uh the doctor to make appointment but nobody to call. They let me waiting. I never, I never went.
+Nurse: Oh, ok. Yeah. Um so unfortunately we won't be able to get him an appointment today because it's already 10 thir 10 15. So what I will do I would recommend is going to the emergency room or urgent care. I'm gonna send doctor [PHI-Personal] a message um but I know they don't have any openings uh today. And especially since it's been going on for a week, I would recommend that definitely go to the emergency room or urgent care. But I'm gonna um send Doctor [PHI-Personal] a message and see um if he recommends an appointment there in the clinic, but I won't, I probably won't get a response today because they, they close at 12.
+Patient: Who is the uh
+Nurse: He works with doctor s office? Um, doctor is out on vacation. She won't be back until [PHI-Personal]
+Patient: Also next week. Oh, I could call, uh, for next I could call Monday.
+Nurse: Ok. Yeah, they don't have any, they don't have an appoint no appointments to, they don't have any appointments until the week of the 14th. Do you wanna wait that long?
+Patient: Why? He, we [PHI-Personal], for the, what he, what he had in next to his nipple? It's like a something growing. I don't know, um, for his pain, I don't know if he could call the doctor, the surgeon, doctor, the [PHI-Personal] that did the surgery for him to check.
+Nurse: Yeah, you can definitely follow up with him with the surgeon. When did he have surgery?
+Patient: It was, uh, two [PHI-Personal] like, uh, two [PHI-Personal] ago.
+Nurse: Ok. Yes, definitely. Um, that would be another recommendation. Let me look at Pablo, what's your date of birth?
+Patient: [PHI-Account].
+Nurse: Ok. [PHI-Account]. Oh, for the hernia you saw doctor Yeah. Doctor re yes. Um, [PHI-Personal] or two things you can reach out to Doctor [PHI-Personal] office, um, and see if they can get you in for an evaluation. Is it in the same area of the hernia where you're having the pain next to it, next to, next to it? Ok. Definitely you can re, uh, you can reach out to them and see if they want, uh, if they're able to get you in sooner or if they recommend going to the emergency room. Um, but I can definitely get you an appointment for, for that spot on the nipple. Is that ok? If you don't mind waiting,
+Patient: Uh, do you wanna make the appointment for him to see doctor?
+Nurse: Um, no, I can't, but uh, I can give you the phone number and they can get you in. Yes, but it just be, I just want you to know it won't be until like the week of November the 10th or 11th. Ok. What
+Patient: Is the number is the to see? I have the
+Nurse: [PHI-Personal], [PHI-Account]. No worries.
+Patient: Let me look for it. Ok. [PHI-Account]
+Nurse: [PHI-Personal], [PHI-Account]. Yes. [PHI-Account].
+Patient: That's the [PHI-Personal] I call I, yes,
+Nurse: They close at 12 today. So if you don't get a hold of them today, call on Monday, ok. But for, for the, for the stomach pain, um, uh, definitely reach out to the surgeon if you'd like or go to the emergency room. Ok. Ok. Because we don't wanna wait too long on that. Ok. Ok. Perfect. Ok. Um, and on the nipple, what side is it, it, you said the right side, left, left? Ok. Um Are you having any nausea, vomiting or diarrhea with the stomach pain? No, no, no. Ok. No fever. No. Ok. And on the nipple, um it's, is it hard like the size of a quarter or smaller
+Patient: It's growing but it's different than the other side?
+Nurse: Ok. No pain in the, in that area.
+Patient: No, no pain swollen, just itch
+Nurse: Uh like an itching. Ok. And the stomach, um the stomach pain you're eating and drinking. Ok. Yes. Ok. Um I, when are you able to use the restroom? Ok.
+Patient: The, the pain, the pain gone right now, I don't have it. Ok.
+Nurse: Ok. But you're able to go to the restroom. Yes. Yes. Ok. When was your last bowel movement?
+Patient: So yeah. Keep it them no matter uh this
+Nurse: Morning. Ok. So you're able to go to the restroom? Ok. Ok. So definitely, um, because you're having issues, those are my two options and I'll send a message to doctor uh Sanchez just kind of giving him um, a heads up why and see if he has any recommendations. But I, like I said, I may not get a me an answer today. So I don't want you to wait. Definitely. Call the surgeon's office. Leave a message with for his nurse. To call you back and see what they recommend as well. Ok. Ok. Well, we'll talk soon. Ok, thank you. Thank you, Nancy. You take care. Have a good weekend. You too. Bye bye.

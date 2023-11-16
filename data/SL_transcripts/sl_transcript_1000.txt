@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is [PHI-Personal], how I spoke to. I spoke to you. I think last week or so. No, not last week. It would have been the week before we were away last week. But, um, and I don't think we really made a commitment. Do you
+Nurse: Remember? I don't, but let me just pull up your chart and I can, that will tell me, um, let me look. Ok. So [PHI-Personal], is it [PHI-Personal]?
+Patient: Yes.
+Nurse: All right.
+Patient: Hall. Er, we did, we, we were away for a week and we just got home and got in the mail. This thing, it sounds like we're in.
+Nurse: No. So, ok. So you guys are not fully enrolled for a nurse to call you on a regular basis. You are just partially enrolled where you have the option to call the nurse if you have any issues or concerns. Ok. Ok. So the difference would be if you were fully enrolled, your nurse would call you on a regular basis, whether that be once a month, once every three months or every six months and with you, we call it an inbound. So that means that you guys can call the nurse if you have any issues or concerns. Ok. Ok. Is that all right?
+Patient: Because right now my husband's having an issue.
+Nurse: Ok. Well, that is completely up to you guys. If you want me to get you set up with your care management nurse, I can absolutely do so. Um, or if you wanna call the office to, to schedule an appointment, you also have that option.
+Patient: Ok. I said, well, then why don't we have a need right now? So how about we just call the office
+Nurse: Right now? Ok. Ok. Yeah, that's no problem. Um, and like I said, if you guys do decide in the future that you wanna get set up with your nurse to reach out to you on a regular basis, just give me a call.
+Patient: Ok. So that's also going to be the way that we call instead of calling the office. We would the, the nurse.
+Nurse: Yes, correctly. Correct.
+Patient: So it's early, isn't it? Yes. So, so, ok, you're gonna set up, we're set up now. We can just call the nurse.
+Nurse: So, ok, so if you do, you want me to set you up with your care management nurse to reach out to you for, for calls or no, because right because right now you are not set up for that. He
+Patient: Says, why not?
+Nurse: So you, you want me to go ahead and set it up? Ok. All right. So I'll set it up for both you and [PHI-Personal]? Um, so does you said he's having an issue right now? Is it an emergency or is it something
+Patient: That can back and leg pain?
+Nurse: Ok. Because I can reach out to his, to the nurse and I can have, um, I can have her, her call you guys sooner than later.
+Patient: Uh, could be, but I, I think we really need to make him an appointment today.
+Nurse: Ok. Yeah, so what I'll do is I'll, I'll set you guys up for your nur with your nurses and she'll call you for your first call within the next 2 to 3 weeks. Ok? And then you guys call the office to get um to get him scheduled for an appointment and then um yeah, like I said your nurse will call within the next 2 to 3 weeks. Ok? Yeah. Ok. All right. I am gonna mail you both new letters so you can get rid of that one that you have. Ok?
+Patient: All right. And he goes by [PHI-Personal] not not initial J. Oh,
+Nurse: Ok, I'll get rid of that. Ok. All right. So yes I'll go ahead and get that all set up for you guys. Ok. Alright. You're welcome bye bye bye bye.

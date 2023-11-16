@@ -1,0 +1,33 @@
+Nurse: Hello. [PHI-Personal] speaking.
+Patient: This is, how you doing? Hi, [PHI-Personal], how are you? Sorry, I,
+Nurse: That's ok. That's ok. I know. I call early some. Yeah. So, how are you feeling? I was just checking in to make sure you're do doing ok. A little. Ok. So do you think you're making progress or do you think you're, you know, would you rather you were feeling better than you are or how you, I,
+Patient: I always feel ok.
+Nurse: But do you think, ok, I know your breathing is always compromised to a point. But, um, but do you feel like this, this whole thing is simmering down for you a little
+Patient: Bit? My chest has been bothering me.
+Nurse: Good. Ok. Well, that's, that's a good thing. That's a good
+Patient: Thing and everything and I just, no ambition. I don't want to do nothing but lay around.
+Nurse: Yeah. Yeah. Um, um, let me see. So, but you were pretty like you were really with the breathing coughing, having all kinds of stuff going on, but that's simmered down, do you think?
+Patient: Yeah. Yeah. Cough, simmer down a little bit.
+Nurse: Yeah. Ok. Ok. Yeah, my concern is just that, like, did, did the meds help you and are you on a better track now? You know? Yeah,
+Patient: A little bit. Yeah. Yeah. Ok. Ok. The one that side with a, but I'm still taking the predniSONE. So
+Nurse: You're done with the antibiotic, but you're still taking your tapering, uh, steroids? Ok. Ok. Well, let's see. Let's see how you do when you're finished with those. Um, and hopefully you'll be on a better track and you'll be stable. I know like you said, you, you know, your breathing is not gonna be miraculous, but it, it should be, you shouldn't be struggling so much, you know what I'm saying? Um, and, and, um, so let's see how you do. Um, you know, next week I, when are you finished with the predniSONE? Do you know? Uh, let me
+Patient: See. I take, let me see, I take two today. So [PHI-Account], couple, about four days. I got two today and I got one for three
+Nurse: Days. Any issues with that predniSONE, any upset stomach, any um, nervousness I
+Patient: Took my in. Did it. Ok. 0.7.
+Nurse: Oh boy. I know.
+Patient: Ok.
+Nurse: Yeah, it'll do that for sure. Um, yeah, yeah, that predniSONE, it elevates your blood sugar. That's why, you know, people, it works well, but you can't be on it long because it, it causes some, uh, it causes it, it causes some issues if you use it long term. So, um,
+Patient: Went to the, uh, cardiologist last week. Ok. Uh uh no, last month, I guess I told you, but I had to go see him again in October. But I was looking at my EKG that they did, they put in my portal and it says something, I couldn't hardly read something about abnormal, but I don't know what they was talking about. Let me see
+Nurse: If I could see it. Uh Sometimes I can't open these EKG SI and, and I don't know why, but let me see if there's, uh, if I could see anything, uh, let's see, sinus rhythm, right? Bundle branch block. That's all. Yeah, that's not, that's not, not a, if you've had that, they, they, they're not worried. Yeah. If you've had that, that's not anything. Um, you don't have a pacemaker, do you? No. Ok. Um, yeah. Yeah. I, if, if they were concerned about that they'd let you know, um, people have those and then, you know, it's, it's, it's, I don't wanna say it's not a big deal but it kind of isn't. So, so, yeah, and any little thing on this EKG will read abnormal even if it's something that the cardiologist isn't actually concerned about. So, don't worry too much about that if he was, if they were worried about it, um, you know, you would know. Ok. But, but you're in sinus rhythm. So it, it, it looks ok. So, yeah. Yeah. Sure. I mean, anything. Yeah. And, and they just look at that and, and you know, think nothing of it. But if you see it, of course you're gonna be worried about it because it says abnormal on it. So, you're like, oh, no, my EKG is abnormal but you've probably had that right bundle branch block for some time and didn't even realize it. Yeah. Sure. So,
+Patient: Yeah. So,
+Nurse: No, that's [PHI-Personal]. Yeah, she's still,
+Patient: Yeah.
+Nurse: Yeah, she's, she's back part time. Yeah. She's, she's back part time. She's, um, you know, she's got two now so she's busy. So she's, no, this is her second. So, who? [PHI-Personal], uh, [PHI-Personal] was, was pregnant too. But she, she left us not too long ago. So, yeah, she was, she was pregnant too. So, or pro still is actually. But, oh, we have a bunch of babies. There's somebody else having one just had one, there's another one having one. Yeah. Yeah.
+Patient: Mhm. What she's having, I just, like I said, [PHI-Personal].
+Nurse: Yeah. Yeah. I don't know. Yeah. I had a
+Patient: Great grandchild born in [PHI-Personal] and then we got a, we just found out we're gonna be grandparents in October. Oh, my
+Nurse: Goodness. Well, that's wonderful.
+Patient: I, we'll get to school this one.
+Nurse: Oh, good. Well, that's, that's great. You know, it's always good to have something to look forward to and babies are always great. So good for you. Good for you. Well, um, so, yeah, we'll check back in with you. Make, you know, if you feel worse though, please call us, I mean, finish, finish your predniSONE as, as it's ordered and, um, we'll see how you do. Ok. Hopefully this will, hopefully this will help you out. Um, and again, if you feel worse, having any issues, uh, reach out to us and of course, if you feel like things are getting progressively worse, go to the er. Ok,
+Patient: I
+Nurse: Will. Ok, Pat. Thanks for calling me back. Bye bye bye bye.

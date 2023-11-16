@@ -1,0 +1,12 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, I'm calling you back. You called me?
+Nurse: Uh, yes, let me pull your right up. This is [PHI-Personal]. Right. Yes. Ok. Hi, [PHI-Personal]. My name is [PHI-Personal]. And so I'm calling from Northeast Medical Group on behalf of Doctor [PHI-Personal] and I called today because you qualify for the doctor's care management program. And this means the doctor's care management nurse will be able to give you a call around once a month to check and see how you're doing. She can help with the prescriptions or cost medication assistance. Discuss lab me. Ok. Do you have any questions? The doctor is encouraging the program.
+Patient: One question I have is I, I need him to sign some script script for uh two patient therapy. I don't think I have it yet at the rehab center. Can he do that for me today?
+Nurse: What's that? You were breaking up a little bit?
+Patient: I need doctor [PHI-Personal] to sign some scripts for occupational therapy in the
+Nurse: Oh, ok. Um Is it ok if I have a nurse give you a call and she could help you with those things?
+Patient: Ok, great. Thank
+Nurse: You. Ok. So it is a billable service to Medicare and Medicare Advantage plans and secondary insurance carriers. So it may be subject to deductibles, co insurance and co
+Patient: Oh, forget it, forget it. Then I don't, I don't need any more bills. I just need the doctor to do what I he told me he was going to do. Ok.
+Nurse: Right. So you would have to call into the um, doctor's office for
+Patient: That will do. Thank you. Bye now.

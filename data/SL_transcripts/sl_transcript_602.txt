@@ -1,0 +1,35 @@
+Nurse: Hi, good morning is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] for returning, uh, your
+Nurse: Call. Yes, ma'am. Sorry. We missed each other there for a minute. Um, but I got your voicemail and I just wanted to call and just kind of do some follow up questions and see what's kind of going on to see what we should do. Um, so I know you said you, you think you might have like a yeast infection? Yeah. Ok. Um, and you said you had some cloudy urine, um, is, is like your, the area, your private area, is it itchy at all?
+Patient: No, it's not.
+Nurse: No itching. Ok. Um, and whenever you urinate does it burn,
+Patient: Uh, not quite burning but there's a tingling.
+Nurse: Ok. So it's kinda like irritated. Yes. Ok. All righty. And then is there any like bloody urine or anything like that? No. No. Ok. All right. And do you feel like you have to go to the bathroom more frequently?
+Patient: Uh, n no, I go to the bathroom frequently anyway cause I drink a lot of water.
+Nurse: Ok. Gotcha. And, um, is there about like the same output, like the same amount each time as normal or is it more or less? Ok. All right. Alrighty. And um is there any like white discharge like whenever you wipe or look at the area? No there isn't. Ok. All right. Yeah and about how much water would you say you drink every day? Like glasses or ounces?
+Patient: I'm up to 6 to 4 ounces a day.
+Nurse: Ok. [PHI-Account] ounces a day. Perfect. All righty. And about how long have you noticed that this has been going on, uh, last week? All righty. And then the last thing, um, how, how have you been, um, do you check your blood sugars every day, like in the morning? Yes, I do. Ok. And how have they been running?
+Patient: [PHI-Account].
+Nurse: Ok, perfect. Good deal. Have you had any like really, um, high numbers or anything within like the last week? Um,
+Patient: Let me
+Nurse: Check like anything over 200.
+Patient: Oh, no, no, nothing
+Nurse: Like that. Ok. Perfect. Perfect. Perfect. All right. Uh, let's see then. And have you taken any other additional medications like, um, over the counter things to kind of help the issue?
+Patient: No, I have a, I noticed that this morning I, yesterday morning, this morning I got up, I had a back
+Nurse: Ache. Ok. Got you. And where is your back sore at?
+Patient: Um, it's from side to side, it, uh, across my whole back.
+Nurse: Ok. Is it like the lower back?
+Patient: Yes, it is. The lower back
+Nurse: Ok. And um do you have a thermometer at home with you? Like have you been checking your temperature?
+Patient: Uh No, but I do have a thermometer.
+Nurse: Ok. Got you just seeing if you've got any um like a fever that can kind of sometimes see if there's any like infection or anything going on, like if you do have a raise in temperature. Um, so let me look here, let me look. So I definitely would, um, suggest like an appointment to be seen. Um, cause if it is like, either, you know, a UT I or a yeast infection, um, you'll need like some antibiotics to get rid of it and clear everything up. Um, so let me take a look here and see what kind of appointments we have that are available. I do. Let's see. Hm. See. So I don't see any available appointments for today or tomorrow at the Health [PHI-Geographic] office. Let me look and check one more spot. Ok. Ok. So I checked one other spot here and they've got, um, some appointments for later this afternoon. Um, if you'd be able to go to one of those or there's also one on Friday. Um, and it's at 10 45.
+Patient: Ok. What's later this afternoon?
+Nurse: Um, I've got one at one o'clock and that one's with Doctor [PHI-Personal] and then the other two are with the nurse practitioner that's in the office and it's at 3 15 and then there's one at 3 45.
+Patient: Uh, I can do about today at, uh, one.
+Nurse: Ok. Yeah, I can definitely put you down for today at one with doctor. So [PHI-Personal] this and, um, she probably will have like either she'll probably order like either, uh, you know, a urine sample, something like that. So just, you know, keeping hydrated, like you have been that way you can, um, provide the sample when you go in the office cause I'm sure that's probably what she'll order and I'll put in a note here um just to kind of keep her updated what's going on and, and why the visit was scheduled. Um So you're all set for today at one o'clock? Ok. Alrighty. And if you need anything else, just give me a call back and let me know.
+Patient: Ok, since I have you on the phone, you can when my uh scheduled visit is with her because I I'm confused.
+Nurse: Yeah, let me check here when your next one. All righty. So the next one that you have, uh let's see after today, um is [PHI-Personal]. Ok. And you have some lab work, um probably like blood draw regular yearly stuff. Um I think about like a week before it's on August [PHI-Personal] at the, the health park lab.
+Patient: Ok. [PHI-Personal]. What time?
+Nurse: Um the lab appointment on August [PHI-Personal] will be at [PHI-Personal]. Ok. And then on [PHI-Personal], you have an appointment with Doctor [PHI-Personal] at one o'clock. And then I think they've also got you scheduled for um the Medicare annual Wellness visit with the nurse and that's after that appointment with Doctor [PHI-Personal] at two o'clock. Ok. Alrighty. Is there anything else I can do for you right now? No, that's it. Alrighty. Well, if you need something or have any questions after your appointment, just give me a call and let me know.
+Patient: All right, thank you so much
+Nurse: For calling. Yeah, you're welcome, talk to you soon. Bye bye bye bye.

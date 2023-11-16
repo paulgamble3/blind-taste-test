@@ -1,0 +1,77 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Good morning. Beautiful. Hi,
+Nurse: How you
+Patient: Doing? Good. I'm sorry, I missed you yesterday. Oh,
+Nurse: Gosh, no problem. I figured you were busy.
+Patient: Yeah, I forget I was in the middle of another phone call. Must have been to my mom and I hadn't talked to her in a while.
+Nurse: So, a, how's your mom doing?
+Patient: She's doing good. Oh, good. Isolating. I have this time of year. That's what she does. I only saw her once this past summer. She didn't even come until, uh, [PHI-Personal], which is very, very odd for her. Hm. Uh, he's just one of those people that I don't like to go anywhere.
+Nurse: Oh, ok. So she's like a BMA? Yes. She's not like it. Is she, like, clinically depressed or? No, I don't
+Patient: See people. I don't know. I don't know. I just find it weird because, you know, the year before last year was here every freaking month. That's not every couple of weeks. Mm. Now, all of a sudden it's, you know, I don't see, you gotta be a little bit older. How old is she? [PHI-Personal]? Oh, no,
+Nurse: That's not
+Patient: Old. Ok. But she's in good health, you know, very mobile. She doesn't have any health issues that she's told me of. So, she'd be one of those persons too, not to tell me. Mhm. But anyway, hopefully she's
+Nurse: Ok. Well, let me see. What do I got for you? I don't think I have anything big to make sure all my, well, your wellness goals are checked off. I think I did that last time I talked to
+Patient: You though. No, I haven't talked to you in like forever.
+Nurse: I know last time I talked to you was in [PHI-Personal].
+Patient: That's crazy.
+Nurse: I know. It's just been nuts. They finally put in. They finally got us help though. So that's, that's good. Yeah, thank goodness because we, um, we need it, we need it. It's just me and [PHI-Personal]. So, uh all right. Goals, goals, goals, goals. I don't have any. Yeah, you achieved them all
+Patient: In Amen. Boy, that's just making my day. I know right now. I don't have to tell you I ain't doing that.
+Nurse: You got it all done. Looks like it was already done all the way back in May. I,
+Patient: And the, the appointment I have is coming is so far is for [PHI-Personal] with the pulmonologist, new one here in. [PHI-Geographic],
+Nurse: Is that right? Let's see. Here.
+Patient: I leave, leave him alone. I think that, yeah.
+Nurse: Oh, doctor nice.
+Patient: Is that [PHI-Personal]?
+Nurse: [PHI-Personal] the 20
+Patient: First and I hope it's not a blizzard that day. Oh,
+Nurse: I'm gonna say prayers.
+Patient: Uh, because if it is, I'm not going,
+Nurse: I don't blame you. I have a bunch of patients that they don't even bother. They're like, I don't even wanna be seen, uh, don't schedule me for anything in the winter because I'm
+Patient: Not going, my mom's the same way and honey, I'm the same way too. Yeah. Yeah. The only reason I came with, with this appointment was because they're new and I'd like to get it. Yeah. Yeah. And that twice, they scheduled that back in [PHI-Personal], I think. Yeah. So that's a long wait.
+Nurse: That is, that is, they're like, really backed up, especially now too because it's just crazy. Like, the, the amount of respiratory illnesses that are coming up that are just popping up left and right. Yeah. And some of them are, like, really serious, you know, like, people get discharged from the hospital because they had, like [PHI-Personal] induced pneumonia.
+Patient: My, my daughter came down sick last night and, oh, she's missing the second day of work this week. And, well, she just got this job. So she just started the beginning of the week last weekend. Yeah. So, you know, she's not too happy about that. Uh, it wouldn't be
+Nurse: Either. Mm. Well, I hope she feels better.
+Patient: Me too. She said she was throwing up and had diarrhea but no fever.
+Nurse: Sounds like it could have been
+Patient: [PHI-Personal]. Oh, she's had [PHI-Personal] once. Yeah, I think you really could get it a second time. Oh, my
+Nurse: Gosh. Yeah. They usually, like, in theory they say you can't really get [PHI-Personal] within like three months of the, when you first get it because you have the antibodies in your system. But we've seen it where, since there's been already, like a couple of mutations of [PHI-Personal], you could get infected with, like, the Omicron variant and then you start feeling better and then you get the Delta variant. So, yeah. Yeah. But yeah, people are getting it, you know, like it's gonna be like the flu where some people are gonna get this every year.
+Patient: Lovely. Just bring vaccination. Knock on wood and count my blessings. Yep. I have not been sick. Thank goodness. Breathing. Ain't that great. But that's nothing new. Mm
+Nurse: This is true. All right. Well,
+Patient: The only thing was is that I had uh and I'll mention it just so I don't have to lie my daughter because she was all freaking out and told me I better tell you um nothing serious. It's actually better. I could send you a picture. Uh And then I'll, I will, I'll send you a picture and a picture of what it looks like this morning. But you know how sometimes you'll get like wanna say a blood blister. Yeah. And they hurt. Yes. And you, I got one in my finger doing absolutely nothing yesterday and my whole finger freaking swelled up. And most of my finger underneath was black and blue. Well, you know that all that blood, it's much, much better this morning. Still swollen and doesn't really hurt before you. Not see. Well, I told you so she can't say nothing. Yeah. There you go. I don't know what causes it though. It's like a blood clot that right on the nerve or something. Yeah. I don't know why. Usually it's like, you know, if you grab something just right, it pinches and that pops up.
+Nurse: What? Easter? And you didn't, like, do anything, like you didn't hit it with anything or?
+Patient: Oh. Wasn't doing anything out of the ordinary. I was in the kitchen.
+Nurse: I figure it was weird.
+Patient: Very weird. And the only thing that really concerned me was it was starting to swell up and then it had, like, you'll see it in the picture [PHI-Personal] the very beginning of my finger from my first knuckle underneath it. It was a bubble and I don't know if that was just from the swelling. I'm thinking it was from the swelling because. Mhm. So what? But it's better.
+Nurse: Ok. Well, that's good. I'm not gonna worry about it then.
+Patient: No, just so, you know, I don't have to lie to my daughter because she's gonna like that.
+Nurse: Good. Good. Tell her I got the message message received.
+Patient: I never seen one get that bad though. That was pretty bad. Usually it's just, you know, a little sty thing and not a big deal. This one was like, holy cow, my whole finger. Yeah.
+Nurse: That's
+Patient: Weird. Crazy. Other than that, nothing exciting over here. Uh, that's not true. We did have raids.
+Nurse: Oh, really?
+Patient: Yeah, one was, I happened to be watching out the window because there was some shady crap going down in front of my house. I was trying to video tape it and the dude threw out a syringe on the street from my vehicle. Yeah. Well, I watched another drug come pick it up later but trying to video thing that here comes the convoy for a raid.
+Nurse: Oh, my God.
+Patient: Yeah. And they, they turned up my side street and I can see them in my, but I happen to be in the window, I saw the white ban. I saw the unmarked car and then the JP D officer and then whatever other vehicle was behind that. And I'm like, oh, shit, it's going down and there is, there's a problem house over here. If you see our local news, they did get 19 people. Oh, thank goodness. Yeah. And, but they raided three different locations all [PHI-Personal] the same time yesterday. Mhm. Yeah. And one of them is the girl's boyfriend directly across the street from me that, that landlord's been trying to get her out. I don't know what his problem is that he can't get her out. Hm. She's been a problem for like, three years, maybe 433, the first year she was fine because she was with the boyfriend that she moved in with and she got pregnant. They had a little girl. She's [PHI-Personal] because she just started preschool this year. Oh, my gosh. Pre K, yeah. Pre K, and she's got two other babies. But then they broke up after the second boy was born. And now this guy that she's with is she got pregnant and has a baby with him? Oh my God. Ok. Yeah, so well he ended up having more so he's in jail again. Yeah but one of the girls that got arrested in that bus that they did release uh cause some got released with the appearance tickets because you know our lovely bail reform law. Mm that girl was over [PHI-Personal] her house yesterday, wasted no time or another guy and you know there are five whole minutes you if that so you know they went to go pick up some more stuff.
+Nurse: That's so sad. This is just out of control.
+Patient: It is and people are dying. I mean there was, there was an OD I listened to the scanner. There was an OD in Dunkirk [PHI-Personal] one house, 50 Ds in one house. Oh my and then the guy was missing. This girl had it posted on her Facebook page who also lived [PHI-Personal] that address but was not there. He was [PHI-Personal] a friend's house which is a vacant house and he freaking died and it was an old d Yeah. So there's a lot of bad stuff going around that fentaNYL. We're getting a lot of fentaNYL they pulled. It
+Nurse: Is, and it's sad. It's really
+Patient: Pulled over a girl with this box too, like couple of hours before it locally. Nine freaking pounds of fentaNYL pounds pound. She had like 50 to 60,000 pills, fentaNYL pills. That is an incredible. That is, that's just insane. That would kill us all. And
+Nurse: Every time I talk to, like, [PHI-Personal], I get [PHI-Personal] least one person a day that tells me how bad it is out there
+Patient: And possible awful. And you cops can't do shit the law needs to change. I mean, God, nobody goes to jail and stays there. Nobody's paying for the crime. Next thing, you know, they're back out on the street doing the same thing within minutes. Mhm. No, I, I don't even like to go out on my porch anymore in the summer because we always got a tweaker, walking down the road freaking bitch and hollering and you never know what their behavior is gonna be. Mm. Mm.
+Nurse: Yeah. And especially if they're like, if it's, you know, one of those drugs like meth or something, it's bad. Yeah.
+Patient: Well, crazy. I saw someone in the post. They don't live here yet and they were asking is [PHI-Personal] a good place to move too because we're thinking about moving there. You should have seen them comment here. I had the trouble. Listen, let me not dab your ear off about nonsense. Ok. I'm glad to hear from you. Oh,
+Nurse: Thank you for calling me back. I appreciate it.
+Patient: Yes. And you have a wonderful Christmas. Oh, thank
+Nurse: You. You too. Have a great holiday.
+Patient: Yeah. It's just another day. Didn't even make a turkey this year.
+Nurse: Oh, well. Are you gonna spend it with your daughter and the grandkids?
+Patient: I don't know. She doesn't, I don't know. She doesn't usually. Mhm. Oh, well,
+Nurse: There. All right. Well, here. So I could say I gave you something. Um, when you go to see the pulmonologist, they might do a pulmonary function test. Uh, it's a noninvasive test measures lung volume capacity rates of flow and gas exchange. There's two methods of the spirometer or there's the lepi soy. That's the one where you stand in the box. Um,
+Patient: Like I remember that. That, yeah, that,
+Nurse: Yeah. Uh, difficult. We put mental health is good. No changes.
+Patient: Yeah. For the most part it's a daily struggle. But I, I get there. Ok. I had to be strong for my, my daughter lately. So
+Nurse: I love those kids. They're so cute.
+Patient: Oh, I tell you that. And he's just something else. Do you know? He's up and walking? He's [PHI-Personal]. He can stand and walk. He's not walking, walking on his own freely. But he's, he's moving. Mhm. Yeah, he'll be walking by nine months. That's crazy. Yeah it just seems like they're doing things so early. Mhm.
+Nurse: They I don't know they're different, they're a different breed coming out now. [PHI-Personal] walking and he his birthday's next week it'll be one next week.
+Patient: Well my son walked [PHI-Personal] [PHI-Personal] uh he was 10, 11 months old. Yeah so that's almost a year so that's normal. It should be walked by a year crazy. Uh alright.
+Nurse: Ok, I'll talk to you later. Have a great Christmas you too. Alright will do. Alright bye bye bye.

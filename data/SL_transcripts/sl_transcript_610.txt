@@ -1,0 +1,34 @@
+Nurse: Hi, this is, I'm one of the care managers here. Hello? Hi, how can I help
+Patient: You? Hi, this is, um, I'm calling to ask, uh, [PHI-Personal] to renew my, um, Flonase, um, nasal spray. Z Tik a sun or whatever?
+Nurse: Ok. And what's your date of birth? [PHI-Personal]?
+Patient: 5, 13, 36.
+Nurse: Ok. Let's see here. And you said for your Flonase?
+Patient: Yeah. Um, well, it's a, it's a generic flu fluticasone propionate.
+Nurse: And are you doing that as a, a prescription? I don't have that on your medication list.
+Patient: Yeah. She prescribed it. It's Rx [PHI-Account]. Ok.
+Nurse: How often do you use
+Patient: It? Well, I'm having a lot of allergies right now and I just use it, uh, as needed. So I've been using it almost every day for a couple weeks. Ok.
+Nurse: It just once a day.
+Patient: Yeah, only once a day.
+Nurse: All right. And then let me just confirm. Is it pharmacy that you
+Patient: Use? Yes. Ok.
+Nurse: All right. And what are your symptoms with the allergies? Do you have a lot of post nasal drip?
+Patient: Yeah. Post nasal drip and sneezing.
+Nurse: Yeah. Ok. Yeah, that, that post nasal drip is tough, you know, it's, it shows that more mucus is accumulating and kind of irritating the back of our throat. Um, do you feel like you're, you're having to swallow a lot or clear your throat?
+Patient: Yeah, clear my throat. And, um, as I said, sneezing and blow my nose and I, I used it to, to, she ordered it because I was getting, uh, sinus infections, like almost every spring and right. She suggested I use it this. And so, and it, I think it's helped because, yeah, I haven't had a sinus infection now for several springs.
+Nurse: Ok. Good, good. All right. Any ear pain?
+Patient: No.
+Nurse: Ok. Yeah, I only ask because sometimes, you know, the, that, um, post nasal drip and mucus accumulation can clog up like our eustachian tubes are and those are what, connect our nose and throat and ears. So, you know, if you're having symptoms, we wanna make sure that you're not getting any ear pain too. So we don't miss out on anything there and you're, you're comfortable using the nasal spray, you know how to do
+Patient: It. Yes, I don't have any problem with it. Good. I should have, I, I really had enough prescriptions left, left and I should have gotten it refilled, um, before it ran out because I have, I haven't, you know, I haven't used it that much but, uh, I still had 44 refills, but I didn't get it refilled in time.
+Nurse: Ok. Ok. And are you taking any other, um, allergy medication at all?
+Patient: Well, last night I had to take a, uh, oh, well, and an antihistamine because I, I was, I was sneezing a lot, blowing my nose and so I finally, I don't like to take those. Yeah. And, and usually this is a, this nasal spray is enough to keep me under control.
+Nurse: Right. Ok. And have you been using it right along or, or you just, you ran out and you need a, a new
+Patient: New one? Well, I still have a little left in this bottle, but I don't want to run out.
+Nurse: Yes. Right. Yeah, because it, it does take, you know, a few days to get the full effect from it. Um So I just wanna make sure you don't go without, especially when you're having a flare up. So I'll go ahead and send a message over to her and I'll make sure that this refill gets sent in for you. Um Did you need refills on anything else while you have me?
+Patient: Oh, gee, I don't think I just called um Optum Rx and got that one refilled because I'm, I'm going away in [PHI-Personal] and I didn't want it to run out while I was away. Let me look at my other two. No, I have three on my metoprolol. I have two on my amLODIPine. So that's, that's it.
+Nurse: Ok. Excellent. All right. So I'll get that sent over for her. Make sure that you are drinking plenty of water because that will help as well with those symptoms and we'll get that prescription sent in for you. Ok, [PHI-Personal]. Thank
+Patient: You so much.
+Nurse: You are so welcome if you need anything else. Certainly let me know, but I hope you have a good rest of your day.
+Patient: Ok. You too. Thank
+Nurse: You. Bye
+Patient: Bye.

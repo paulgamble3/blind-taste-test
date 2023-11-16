@@ -1,0 +1,24 @@
+Nurse: Good afternoon nurse care manager. How can I help
+Patient: You? Yes, this is this [PHI-Personal].
+Nurse: It is not, this is [PHI-Personal]. I'm standing in for her for a few um while she's running out. How can I help you?
+Patient: Yes. Uh my name is Mhm. And and I want to uh give her that my uh new new uh insurance. Ok,
+Nurse: Awesome. Yeah.
+Patient: Yes I have [PHI-Personal]
+Nurse: Now. You have [PHI-Personal] now. Ok. Bear with me. I'm just gonna pull up your chart so I can put the new information in. All right, [PHI-Personal], that's a good one. I have [PHI-Personal] too. That's a good one.
+Patient: Yeah, I like
+Nurse: [PHI-Personal]. All right, [PHI-Personal] Medicare. Ok. And do you have the ID number?
+Patient: Yes, it's [PHI-Account].
+Nurse: Ok. And do you have any secondary insurance or is it that the only one now?
+Patient: No, I I still have uh [PHI-Geographic] [PHI-Geographic] Choice. [PHI-Geographic]
+Nurse: [PHI-Geographic]. Ok. And you just changed? [PHI-Geographic] VIP. Ok. Still has [PHI-Geographic] [PHI-Geographic]. Ok. I will change that in your records. Hold on
+Patient: That right there. And I need you to do one more thing for me. Absolutely.
+Nurse: I'm happy to help any way I can.
+Patient: Yes. Uh, I went to see doctor on the [PHI-Personal] and, uh, she was so she was supposed to call in for my inhaler. But I went to the drugstore yesterday and they said, uh, that she didn't call it in Albuterol inhaler.
+Nurse: Let me look at that albuterol inhaler. Mhm. Goodness gracious. I know she did not call that in. Let me take a look here. Let's find out why she didn't call that in. Stable. Continue. CPAP OS C. Ok. Albuterol inhaler. I'm going to put the order in. Did you happen to mention that at your visit that you needed a refill? Did she say anything about not wanting to refill it for a
+Patient: Reason? She uh she probably just forgot it. She said I'm going to put it in your medicine and I I said don't forget my inhaler so she probably
+Nurse: And she forgot it. Oh, ok. Yeah that sometimes happens. She's got a lot going on right now, doesn't she? Yes she cheesing crackers. Ok. Ok. Ok. Well everything else looks really good. Did you have any other questions or comments or concerns?
+Patient: No, everything is fine.
+Nurse: All right, [PHI-Personal], I'll put that in for you and then I'll also update the insurance. I appreciate your call.
+Patient: Alright. Thank you. You
+Nurse: Have a good rest of your day. Bye bye, same
+Patient: To you. Bye bye.

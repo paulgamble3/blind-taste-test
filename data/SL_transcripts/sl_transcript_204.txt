@@ -1,0 +1,22 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Yes, [PHI-Personal]. Good morning again. This is
+Nurse: Good morning. How are you doing? Oh,
+Patient: All right.
+Nurse: Uh what's going on?
+Patient: Well, I'm calling because I need a medication refill and I tried to do it online but it wasn't prescribed by [PHI-Personal]. So I have
+Nurse: Hold on one second let me get you pulled up. How's your week going? Ok. Alright, so far. Uh huh. Yep I'm with you and well there you are I I know I woke up this morning and I went to make my first phone call and my voice was gone and I'm like, 00 no hold on one second. What's happening? A little got a little bug in my throat this morning. Ok. Ok. Which medication is it?
+Patient: Ok. It's the one before the dental dental appointment. Yeah, Cephalex or whatever it is.
+Nurse: The Cephalexin.
+Patient: Yeah that's it.
+Nurse: Ok, Cephalexin. 500 mg. Mhm.
+Patient: My appointment's not for a week so there's not any big rush on it but ok it needs to go to CV S and
+Nurse: CV si make sure I got that [PHI-Geographic]. Ok, let me put you on hold just for a minute. Ok, thank you. Ok, you there.
+Patient: Yeah, I didn't know whether you left or whether you just lost your voice.
+Nurse: I know it could go either way today. I'm telling you. All right. I think I got you all set. It should be getting sent over here in just a couple of minutes. Uh,
+Patient: Also do you know for sure if she sent that referral to or not? Oh, let me look. I cannot find it on my home page or anything else.
+Nurse: Yep. Uh it says she placed a referral on [PHI-Personal]. Yeah. To, to singer. Mhm. Yeah, I sent her the message saying if you could put one into ing, he received a call from pain management. He can't see him until [PHI-Personal]. Yeah, spoke with and I need a referral. So, yeah, it looks like she sent it over on the ninth that same day or a couple days after I send her the message. That's
+Patient: Right. Thank
+Nurse: You. You are welcome. Call me if you need anything else. Ok, I
+Patient: Will. Good luck with your voice.
+Nurse: Thanks. I'll talk to you soon. Have a good weekend. Thanks. You too. Bye Ed. Bye
+Patient: Bye.

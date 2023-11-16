@@ -1,0 +1,121 @@
+Patient: This is. How
+Nurse: May I help you? Yes, this is [PHI-Personal]. Hi, [PHI-Personal]. Hi, how are you doing? Not not. I hope not. Well,
+Patient: What's going on?
+Nurse: Allergies? Bronchitis, sinus, trouble, back, trouble. Oh, goodness
+Patient: Gracious. You fall apart.
+Nurse: Oh, how old I know.
+Patient: So, um, I've seen that you had ended up having to go to the emergency room, right?
+Nurse: Yes, ma'am.
+Patient: Ok. And then I seen that you followed up with doctor on, well, two days ago.
+Nurse: Yes, ma'am. Ok.
+Patient: And she said, um, it's bronchitis and
+Nurse: Allergies
+Patient: And allergies. Did you pick up all your medications?
+Nurse: My daughter is picking them up now.
+Patient: Ok. So you haven't started them yet?
+Nurse: But I already had some left over from the emergency room doctor. So.
+Patient: Oh, ok. Um, so she gave you a Spiriva inhaler, which you're gonna do two puffs. Um, at bedtime it looks like.
+Nurse: Mhm. The Symbicort inhaler. Yeah.
+Patient: Ok. And then, um,
+Nurse: Yeah, I have it too.
+Patient: Ok. And you had some of that left over, is that what you were saying?
+Nurse: Yes.
+Patient: Ok. Um, this one has like a tapering dose, the new prescription she sent in and it's take four tablets daily. For five days, then three tablets. Yeah. Yeah. Yeah. Ok. Ok. And then I can say she, uh, started you on Mote Lukas, which is an, uh, for, like, your allergies and stuff and told you to hold the cetirizine. Ok. Um, let's see. And then you got a, an ointment as well.
+Nurse: Yes.
+Patient: Ok. And an antibiotic, you've got all kinds of stuff going on here, don't you?
+Nurse: Yes, I do.
+Patient: And then she called you in a cough medicine too.
+Nurse: Yes.
+Patient: Ok. So, um, has, is your cough still pretty bad?
+Nurse: Not as bad? No,
+Patient: It's improving
+Nurse: Some.
+Patient: Ok. Are you still coughing stuff up when you cough?
+Nurse: Yes. What color is it? Yeah. Real thick yellow, thick
+Patient: Yellow. Ok. How is your shortness of breath?
+Nurse: Hm. It's ok. I mean, not real bad, but I'm not trying to overdo it either. Right.
+Patient: Well, that you need, yeah, you need to get plenty of rest but you kind of, you don't sound as bad as you did that the other day when I talked to you,
+Nurse: I'm not trying to get up and, you know, get exhausted what I'm saying? That's smart. I have congestive heart failure too, so I really have to watch. Yeah. Yeah. What I'm doing, I really have to be really careful. Especially with my walking.
+Patient: Ok. That you don't use oxygen, do you?
+Nurse: No. Ok. And hopefully I don't have to. Oh,
+Patient: Absolutely. Now, she did say the follow up in one week. If you're not improved, otherwise you just follow up in a month and I think I've seen that you had an appointment for,
+Nurse: I have an appointment. [PHI-Personal]. That's why
+Patient: Is it the [PHI-Personal]?
+Nurse: Mhm.
+Patient: Yep. You're right at nine o'clock in the morning.
+Nurse: Mhm. You, I go to, I go to the hospital. [PHI-Personal] to do, uh, some kind of breathing test.
+Patient: Oh, that, that PFT, it, it's, it's [PHI-Personal] at [PHI-Personal]. Well,
+Nurse: Whatever.
+Patient: Ok. I just wanna make sure you didn't go on the fourth. That would be terrible. And
+Nurse: Anyway, she said no caffeine, four hours prior to the test, right?
+Patient: Ok.
+Nurse: Um, [PHI-Account], I'm looking
+Patient: Here. Ok. So you got, ow, I've got something bit me or something out. Um, how are you having any dizziness or lightheadedness?
+Nurse: Some, but not real bad. I have a tick bite and it's really irritating me. So, where's that at? On top of my head?
+Patient: Ok. Are you having any nasal congestion still?
+Nurse: Uh, not real bad?
+Patient: Ok. No fever or chills or anything, right?
+Nurse: No.
+Patient: Ok. Any chest pain when you breathe in?
+Nurse: No.
+Patient: Ok. All right. Now, um, I was looking here to see what information COPD. Um, did she talk to you about things you can do? Uh, are you having any sinus pressure or anything?
+Nurse: A little bit? Not real bad, but we get that much outside. I'm sorry. It only depends how much I'm outside. Oh, ok. [PHI-Personal] are real, gonna be real bad this year or they are in my yard. I don't know about anybody else's yard but they are in my. Ok.
+Patient: Yeah.
+Nurse: Uh, wo [PHI-Personal], [PHI-Personal] pink, [PHI-Personal] blackberries are one of my allergies has never been this bad, but this year. Oh, yeah. Oh, well, that's always my. Yeah. Oh, yeah, they're really gearing me up. I
+Patient: Seen that the pollen count is real high the next couple of days.
+Nurse: So, yeah, they're really gear me up
+Patient: If you, uh,
+Nurse: And plus I've been out in the woods, I've been out in the woods doing poke hunting for my mom. Mom loves poke and bless her heart. She's not able to get out and walk and I love getting out walk because it's a good exercise. Right. But I have to really take my time because I really get exhausted, especially if I get out and walk for a long period of time.
+Patient: Well, yeah. Um,
+Nurse: But it's good exercise.
+Patient: Yeah. Do you try to, do you, like, wear anything over your face to, like, kinda maybe keep you from breathing in?
+Nurse: No, I can't stand it. It smothers me.
+Patient: Oh, ok. Ok. Do you want
+Nurse: You a cigarette in my place? Because I, yes, I do smoke and I'm not quitting. Oh, ok. Uh, yeah, I'll just cut you off right there. I, if I'm gonna die, I'm gonna die happy. I'm not gonna die miserable. Oh, well, ok. I mean, you know, if it's my time to go, I'm gonna go, but I'm not gonna quit smoking for nobody. I don't care who it is. Ok.
+Patient: That's your choice. I'll just
+Nurse: Cut you off right there. Oh, I
+Patient: Wasn't gonna, I was just asking if you, so I don't even generally ask you people smoke. I just ask if they are around it usually.
+Nurse: Wow. So I'm honest.
+Patient: Yeah, you're right. That's, that's fine. Um, just make sure you, you know, wash your hands good. Um, to,
+Nurse: Oh, yeah, I know all that.
+Patient: Ok. And then, like I said, you can try and wear like a surgical mask, um, to when you're outside. Um,
+Nurse: I can't do that because it s my glasses up. I wear eyeglass and I, I got, I can't do that. Don't try that. It's out.
+Patient: Ok. All right. Well,
+Nurse: Darn it, I gotta, I gotta see, I'm just nearly blind without my glasses on. All right. Well, I'm farsighted anyway, in my, uh, eye doctor had to re change my eyeglasses again. Matter of fact, last month. Yeah. Had to change my bifocals again. So, yeah.
+Patient: So your daughter is picking up your medications? Right. Right. Now, you said yes,
+Nurse: She, she's got the grandbabies at the doctor and soon grandbabies gets out of the doctor's [PHI-Personal], she's going back to get my medicine because they didn't have it ready. Oh,
+Patient: Ok. All right.
+Nurse: So, hopefully, but it don't really matter because I have my extra medicine from the emergency room. Anyway,
+Patient: Is it, this is so on that predniSONE. Have you went back to taking four tabs?
+Nurse: Yes.
+Patient: Ok. And did the, the, er, give you the Doxycycline or did they give you? Ok. All right. So you are taking those?
+Nurse: Ok, twice a day, one in the morning and one at night.
+Patient: Ok. Well, it looks like you're gonna have a new inhaler because I know you, you said the Symbicort she refilled it, but you, she also added Spiriva, which is a new one to do at bedtime. Ok. Ok. Um, and then like I said, that appointment is on [PHI-Personal]. Don't forget you gotta out.
+Nurse: Right. She said something about no caffeine for four hours prior to the test. Uh
+Patient: Huh.
+Nurse: Is that it, is that all I gotta do? No caffeine.
+Patient: Um, did, is that all they, all the instructions they gave you?
+Nurse: I told doctor, um, doctor [PHI-Personal] said, I think.
+Patient: Ok. Um, um, ok, let's see what I can see if that's it. No smoking four hours before the test.
+Nurse: Oh, that's out.
+Patient: Um, not eat smoke or exercise for four hours.
+Nurse: Oh, hello.
+Patient: I'm looking to see if there's, um, we're,
+Nurse: Um,
+Patient: Chair. So I, that's, that's all I see is don't eat drink or?
+Nurse: Hm. Oh, good.
+Patient: All right. Well, I will check in on you, uh, next week just to see, make sure things are progressing in the right direction.
+Nurse: Oh, ok.
+Patient: Ok, but if you need anything, you can just give me a call. Ok.
+Nurse: Yes, sir. We
+Patient: All right. You have a great day
+Nurse: And you too and try to stay in, in, in the drive because it, it's gonna rain today. I promise.
+Patient: Oh, I feel it. My head has been hurting already.
+Nurse: Uh, my back is turning me to hell, so I promise it's gonna rain.
+Patient: I'm not excited at
+Nurse: All. Well, I'm telling you it's gonna rain. I don't need no weather, man. I'm telling you it's going to rain. I know when I go to hurting so bad I can't stand it. Yeah, it's going to rain this cold. No snow. I tell you it's going to snow.
+Patient: Well, you, I don't want to hear that it's going to snow. So you just keep that to yourself.
+Nurse: Well, I was just telling you.
+Patient: All right. All right. Well, um, like I said, I will talk to you next week. Ok. All right. You have a good weekend and
+Nurse: You too, honey. Bye bye. Bye
+Patient: Bye.

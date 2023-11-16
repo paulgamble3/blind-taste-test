@@ -1,0 +1,35 @@
+Nurse: A [PHI-Personal]. Yes. Is this, this is,
+Patient: How can I help you today?
+Nurse: Well, I was recently in the hospital on discharged Monday and I get light headed and I asked the doctor if there's something I could take, but she said I'd have to get with my primary care doctor, but I can't get to my primary care doctor and I didn't know if there's anything you could recommend that I could take for the lightheadedness
+Patient: I would have to touch base with surely to see what her recommendations are based off of everything. And
+Nurse: Would you do that?
+Patient: Yeah, I'll touch base with her. I'll, I'll, uh, how long has the lightheadedness been going on for?
+Nurse: Well, it started last night. Ok. And, uh, it's, and it's been today.
+Patient: Is it a constant thing or does you, do you feel light headed and then it goes away and then it comes back? No,
+Nurse: It hasn't went away this time. Ok.
+Patient: Are you having any other symptoms besides the lightheadedness? Do you feel dizzy at all?
+Nurse: No, not. Now,
+Patient: Do you feel nauseous or did you vomit at all?
+Nurse: No,
+Patient: Any blurry vision at all?
+Nurse: No. Ok.
+Patient: Do you feel, do you feel lightheaded? Even when you're sitting down or laying down?
+Nurse: Oh, yes. Ok.
+Patient: And where did you go? What did you go to the hospital for?
+Nurse: Oh, I was real, real, real bad. Lightheaded and vomiting. Ok.
+Patient: And the vomiting stopped since you left the hospital.
+Nurse: Yes.
+Patient: Ok. So lightheadedness been going on since when you, I
+Nurse: Wasn't lightheaded yesterday but it started about six o'clock again. Yes. And I, and it's like light headed and I tried taking some Dramamine, but that didn't help it. And I have [PHI-Personal] here, but I didn't know if I was supposed to take it. Ok.
+Patient: Let me touch base with doctor [PHI-Personal]. Surely. Ok. And see what she says about the lightheadedness and see what she recommends.
+Nurse: Oh, ok. I sure appreciate
+Patient: It. Not a problem whether that's something that she recommends for you to take or maybe she wants to see you in the office, especially since you just were in the hospital. But let me talk with her and see her recommendations and I'll let you know.
+Nurse: Ok, because it is hard for me to get to the visit because I don't drive. Ok. Do you
+Patient: Use my, well,
+Nurse: My chart? Yes, I have a, I'm, I, you have my chart. No, my son has it. Yes.
+Patient: Ok. May if you're not able to make it the appointment, then maybe we could see about doing a video visit with her instead um, for your son to be able to get that set up for you. Ok. Ok, so but let me see her recommendations and we'll go from
+Nurse: There. Ok? I sure appreciate it and you'll let me know
+Patient: I'll let you know one last quick question. [PHI-Personal], do you have any shortness of breath at all?
+Nurse: No. Ok.
+Patient: Ok, [PHI-Personal] let me touch base with her and I'll let you know what she said.
+Nurse: Ok, thank you. You're welcome. Alright bye bye bye.

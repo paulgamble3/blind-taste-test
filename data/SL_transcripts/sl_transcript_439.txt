@@ -1,0 +1,13 @@
+Nurse: This number. Hi, it's hi Cha [PHI-Personal], it's uh [PHI-Personal] NLL calling. Uh huh. How are you?
+Patient: I'm pretty good. How are
+Nurse: You? Good. Um, question for you. Um [PHI-Personal] had sent in a prescription for [PHI-Personal] for um HYDROcodone for mail order. So he was wondering if he had to call it in every, every month or if, if the mail order was gonna automatically send that
+Patient: It probably has to be called in every um, month. Do you need me to go ahead and refill it?
+Nurse: Um, you know, you want her to refill it now? No, it probably has to be called in every month. It has to
+Patient: Be called in every month if he needs it because it's a controlled substance. It's not gonna automatically refill and we can't fill it for more than 30 days.
+Nurse: Yeah. Ok. Um, he got the prescription was 6 21 so I don't know if it's too early,
+Patient: It's too early.
+Nurse: Ok. Ok. So we
+Patient: Won't refill until, yeah, 30 30 days, but if you wanna call me and uh remind me that's totally fine.
+Nurse: Ok, we'll do that. Ok. All right. Thank you so
+Patient: Much. You're welcome. Bye.
+Nurse: Bye.

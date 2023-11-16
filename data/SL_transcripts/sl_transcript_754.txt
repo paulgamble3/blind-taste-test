@@ -1,0 +1,34 @@
+Nurse: [PHI-Personal] [PHI-Geographic]. This is [PHI-Personal]. Hi
+Patient: [PHI-Personal]. Is there by any chance
+Nurse: She is? Let me make sure she's not on a call. Can I tell her who's calling?
+Patient: Sure. It's for [PHI-Personal].
+Nurse: Ok, give me just a moment. Ok, thank you. Mhm. Mhm. Are you still there? Yes, I am. Ok, [PHI-Personal] is on hold with the pharmacy. Uh can she give you a call back? Sure or
+Patient: I can try to help. Yeah, you probably could. So my name is, [PHI-Personal] I am the healthcare proxy for my mom who is [PHI-Personal]. Um her date of birth is [PHI-Account] [PHI-Personal] and we've been trying, I guess we um I need to have the healthcare proxy actually I guess invoked. Um and that was probably about two weeks ago we were working on it and I'm just trying to find out if it doctor had done it yet. My mother went from um she's now over at um in the memory ward section um care. So we were trying I get the I we I guess the healthcare proxy is not always 100% invoked continuously. Um and I guess we need to have that actually done. It has been invoked multiple times like when she had her hip surgery. But I guess it has to be from what I understand from the medical department at the [PHI-Geographic] has a letter has to go, I guess of invoke. And [PHI-Personal] was working on that for me. Why
+Nurse: The letter has to go to. All right, let me look over these phone calls and see what [PHI-Personal] has done day is actually [PHI-Personal] last day. So. Ok, but I, I primarily work with doctor so
+Patient: You'll hear me.
+Nurse: Ok. All right. I do see
+Patient: That time.
+Nurse: That's fine. That's what I'm here for. Let me get caught up real quick. Give me just a moment. Bye. Ok. Is [PHI-Personal] still gonna have power of attorney?
+Patient: Ok. So I guess that's the issue is that [PHI-Personal] couldn't get the medical records due to the fact that she can do everything, I guess, but get medical records in her power of attorney, it doesn't state that she can get medical records. Ok. So [PHI-Personal] over at [PHI-Geographic] in the medical record department needed a letter, I guess from doctor, sorry, stating that the healthcare proxy has been in, in invoke from what I understand. Ok. And then because my mom, I guess is in memory care unit, the nurses now to talk to me ask me if there was an invoke done.
+Nurse: Ok, let's see. So we got the TB, did we get the TB results sent over. I see that you had requested that I know heritage done that. Heritage done that. Ok. Yeah.
+Patient: Yeah. Heritage at um, [PHI-Personal] Heritage done that. Yes.
+Nurse: OK.
+Patient: Because I guess some, yeah. So I guess somewhere on mom's records it said that she was bipolar and nobody can figure out how they got into the records there.
+Nurse: And I did see that on the note here.
+Patient: Yeah. So then I guess they had a new val and they, it, it's to be removed, I guess from her records is what sent over. Um, because even doctor was, like, by the time I got your mom in [PHI-Personal], uh, she was too far gone with the dementia to even do an val for that. So we don't know how that got into her file. Ok. And there's no doctor attached to that either, which is really weird. Like, who diagnosed her? Right. Very
+Nurse: Bizarre. Ok. I don't see that a letter has been scanned in yet. Uh, let me look one more place.
+Patient: Yeah, we do need to get that
+Nurse: And it still needs to be faxed to [PHI-Personal] Silver. Is that right? At medical records?
+Patient: Exactly. Even, yeah, just even she can have it on file and then, um, so that we can get my mom's records because we, we're, we're trying to go through her records due to the fact that it says in [PHI-Personal] she had foot surgery. My mom never had foot surgery, she never had skin cancer. Like there's things in her record that is not my mom and we don't know where they all came from unless it's like another [PHI-Personal] that not that you guys, but just, I don't know, in general, kind of is getting mixed up, but there's things in there that we know my mom never had.
+Nurse: Right. Ok. So we need to fax this to [PHI-Personal] in order for you to get her medical records from [PHI-Geographic].
+Patient: Correct? That, that the healthcare proxy has been invoked. And then I don't know if um, Byetta needs one also. Um I don't know if you could email me a copy and I can send it whoever needs it. I, you know what I mean? And like I have the healthcare proxy signed for my mom, but I guess I don't know if it would be easy if I had a copy too saying that it was invoked so that I, do you have people,
+Nurse: Do you have access to Patricia's um [PHI-Personal]? I
+Patient: Do, I do. Yeah. Ok. So if you put it in there that would work too.
+Nurse: Ok. I will see if we, if there's a way that we can just attach it to my chart uh once it's completed, but let me uh talk to doctor and then I will get back with you or [PHI-Personal] will uh sometime this afternoon. Ok.
+Patient: Awesome. I appreciate it. Thank you.
+Nurse: No problem. Can I get a good call back number for you? Sure.
+Patient: I'm sorry. 781838. Ok. 18 [PHI-Personal]
+Nurse: [PHI-Personal]. All right, I will uh talk to doctor and see what we need to do. Ok.
+Patient: Ok, awesome. I appreciate it. And um even still if, if a note in there I know she has an appointment, [PHI-Personal], I will be flying up from [PHI-Geographic] to go to that appointment with her. So I mean if it's something doctor and I need to talk about then I will be there at her doctor's appointment on the 30th. Ok, perfect. Ok. Alright,
+Nurse: Thank you so much.
+Patient: Have a good bye bye bye bye.

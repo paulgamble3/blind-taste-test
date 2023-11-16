@@ -1,0 +1,13 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Uh, this is [PHI-Personal] Je. I just got a couple of calls on my cell phone.
+Nurse: Hi, [PHI-Personal]. Yes, that was me calling. How are you today? I'm good. That's good to hear. Just bear with me one moment while I pull your information back up here. Wonderful. And just letting you know that this call is being recorded for quality purposes, but I was just calling to go over some information about the new care management program that Dr [PHI-Personal] is offering you and [PHI-Personal] essentially, it's just a dedicated nurse giving you a monthly phone call to check in and see how you're doing between your office visits and answer any questions or concerns that you might have. She'd also be able you go ahead I
+Patient: Don't go to anymore.
+Nurse: Oh, ok. I see. Um, he was still listed as your primary care physician here. Um, who are you seeing now?
+Patient: Uh, he's still down in the same office as, uh, doctor was, uh, [PHI-Personal]. I'm trying to figure out what his name is. [PHI-Personal].
+Nurse: Oh, Doctor [PHI-Personal]. Yeah. Yeah. Oh, wonderful hearing. Got you. It looks like it just wasn't updated on your chart here. So, Doctor [PHI-Personal] does also offer the program if that's something that you'd be interested in.
+Patient: I don't think so because we have our, uh, regular visits with him and, uh, everything is ok. Sure.
+Nurse: Um, if it, if it makes more sense, what I could do for you both is just send out a letter in the mail that has the nurses' contact information. That way if anything ever comes up or you need anything, you'll have her number available. Ok, that sounds good. Wonderful. I will send those right out for you and thank you so much for returning my call, [PHI-Personal]. I hope that you both have a wonderful day today. Ok.
+Patient: As long as it stays nice and warm,
+Nurse: I hope so.
+Patient: Ok. Thank you very
+Nurse: Much. You're welcome. Bye bye bye.

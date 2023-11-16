@@ -1,0 +1,27 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hey, how you doing, [PHI-Personal]? Hello
+Nurse: There. What's on your mind?
+Patient: Hey, uh I just want to let you know that I went to that physical therapy today and talk to uh, one of the therapists and they have me scheduled for next Monday for, uh, to see if they'll be able to help me. They said they think that they can, they did a couple of tests today and uh another thing I wanted to have you up, remember on that PriLOSEC that, uh, that they called in, uh, that one, my CV S one, right? I was gonna pick that up yesterday or whatever, but I still have, I still have two prescriptions that I'm waiting for your office to, uh, to verify with the CV S pharmacy. And I, I think on the answering machine, but I was wondering if maybe you could call it in for me. So, uh the renewals for my LORazepam and my cyclobenzaprine.
+Nurse: Oh, you know what, I think I'm bringing up your record and they're in bold. I think the office must have just done it. Let me see
+Patient: Here. Ok. Ok. Yeah, because I was just gonna wait to go there and pick up all three at the same time.
+Nurse: So. Ok. Yep, I'm looking at it right here. Renewed today. [PHI-Personal] 7/16 the LORazepam one mg. Also your cyclo blom 10 mg and your gabapentin three of them were renewed. Uh Yeah, I
+Patient: Still have plenty of those left but I mean, if you want to send it over, that's fine. Uh I've been trying not to take them if I don't have to, you know, but uh uh you know, sometimes I have to.
+Nurse: So. Exactly. And that's why the doctor prescribed it. Yeah. Well, great. I'm glad you called to let me know. You went to Madden. You're scheduled for another appointment this Monday coming up as in a week from today. Yeah,
+Patient: The [PHI-Personal].
+Nurse: Yep. Excellent. And the office beat me to it. You were LORazepam, Cyc LORazepam. And even though you don't need it, the gabapentin have already been called in.
+Patient: Ok, good. Then I'll be expecting a text from them. Sometimes I like to just follow up on things. You know what I mean?
+Nurse: So, oh, you have to prescription. I
+Patient: Have, I don't, I don't, I don't, I don't wanna be a pain in the ass and uh, and take up your time, but I figured I called this morning but I didn't get any answers. So I just figured I, I'd let the regular means go through, through your office, but I'm glad that your office is on top of it. And then, uh, hopefully I'll just, I'll wait for a text from CV S so
+Nurse: Good. That way you can pick up everything with one stop. And I have to make a U
+Patient: Turn. I know that one day that when you guys had, uh, uh for that PriLOSEC or whatever, I know sooner. I know, sir, uh, got off the phone with you or whatever and I just left CV S and, and then I found out that I got a text. It's like I'm not running back here today.
+Nurse: It's like, I know it, it gets a little bit, uh, overwhelming to keep going back to the pharmacy. You know,
+Patient: Here's how it is that I'm supposed to be set up on the, you know, that regular renewal thing, you know, the pharmacy that you can get them all at one time, but there's so many different scripts that have a certain run out date on them, you know, it just doesn't work, you know what I mean? One.
+Nurse: Yeah. Unfortunately you do have to make several trips in a month
+Patient: To. Yeah, I, I mean, it's not that far but it saves me for not to worry about going up and down the steps all the time. You know what I mean? So,
+Nurse: So true. Well, great [PHI-Personal]. Thanks for the good news update about the Madden. That's very awesome.
+Patient: They, they, they think they could do something for me. I told them, I said, they said, well, they said, come on, we'll give it a try for a week or two. And they said, if you don't start seeing any results that's up to you. If you wanna quit or not, you know, because I, I told him, I said, you know, don't waste my time. And I said, if it's something that I, that you think I can do at home, I'd rather just do that. But I I will come in and give you guys a shot at it, you know,
+Nurse: Good because most of the time they like to do the exercises with you and hopefully they give you some handouts to follow up at home with.
+Patient: Yeah, that's what you know, that I'm hoping I know that there's like uh my, my chiropractor told me before. He said that, you know, that a lot of that about physical therapy. He said that just go online. He said, and check on that Mackenzie physical therapy. He said a lot of this stuff you could do at home without even needing any equipment or anything, you know,
+Nurse: Good advice.
+Patient: So, yeah, yeah, I like to like people that are straight up, you know what I mean? So, but uh alrighty, thank you very much and have a great day.
+Nurse: You too, take care, Mike. Thanks for the good news update. Bye. Ok. Bye bye bye bye.

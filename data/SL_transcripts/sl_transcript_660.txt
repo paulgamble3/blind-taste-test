@@ -1,0 +1,23 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Hi, how are you? Well, not really great this morning. I just tested positive for, uh, COVID.
+Nurse: Oh, no.
+Patient: Yeah. So I'm wondering, um, if I could get, uh, my partner tested positive last week and got the. Ok. So I'm wondering if I can do the same. Yeah. Ok.
+Nurse: Um, f for, let me just ask you a couple questions because I know, uh, doctor is gonna wanna know some of some of this information as far as, um, you took a home test, correct? And tested positive? Ok. Um, what are your symptoms currently?
+Patient: Currently? It feels like a sinus infection. Ok. Uh, the cough is getting deeper and a little more rugged. Ok. And that's about it.
+Nurse: Ok. Um, and you're staying, staying hydrated as much as possible.
+Patient: Yeah. And I've actually been on the couch, uh, yesterday all day and I tested negative yesterday. Ok. Just rested all day, but today it's positive.
+Nurse: Ok. Do you feel pretty fatigued? I mean, like super sleepy? Ok. Um, and then do you have much of an appetite? Um, not
+Patient: A whole lot? Ok. But I'm also diabetic so I know I have to eat
+Nurse: Right. Yes. And definitely something that you wanna keep, keep in mind when you're, um, you know, you're, do you test your blood sugars at home?
+Patient: I did yesterday and it was at 100. I didn't, I didn't this morning I just got up and coughed for a
+Nurse: While. Got it. Ok. Ok. Are you using anything over the counter wise for medicine right now? Um, Dayquil. Dayquil. Ok. And,
+Patient: Uh, cough drops?
+Nurse: Ok. Um, Dayquil, uh, you find in any relief with that,
+Patient: Um, it just kind of dries me out. Ok. I've had a fever off and on the last three days.
+Nurse: Ok. What was the highest that the fever got up to?
+Patient: Um, do you remember what, what did it get up to 100 [PHI-Account] point something?
+Nurse: [PHI-Account] point something? Ok. So not a lot more of a low grade, um, body aches with that.
+Patient: Not any more than normal.
+Nurse: Ok. Ok. All righty. Ok. So I will send a message to doctor or let him know that you had tested positive what your symptoms are. Um, and that you were wondering if you could get some Paxlovid to, to kinda, you know, make the, the, uh, term of, of your COVID. Um, hopefully less, you know, you get, you feeling a little bit better. Um, and then I will give you a call back when he decides, um, you know, if he feels like that's a good, good option for you. I do know, um, you know, this, this paxlovid is hard on the, the kidneys. Um, so it may be, I think they do have a different, um, a version of the pill that is less, less hard on the, the kidneys and then more for our, you know, kidney, um, patients that are, you know, with you having the diabetes and stuff. So I don't know which route he'll decide to go there. But I will um, as soon as I know, I will definitely give you a call. Um, if he does the Paxlovid, what pharmacy are we sending that to
+Patient: CV? S on [PHI-Geographic]?
+Nurse: Ok, CV. S on Lycoming Road. Ok. Alrighty. So once I hear back from him for then I will give you a call and let you know kind of where we're at and if he's got any other um suggestions or anything that uh we need to address. Ok, great. Thank you and no problem. Have a good day. Thanks. Thanks. Bye bye.

@@ -1,0 +1,38 @@
+Nurse: Nurse care manager. This is [PHI-Personal]. How can I help you?
+Patient: Uh, yeah, this is [PHI-Personal]. You had called here earlier today? I don't know what it was, might have been about. I was out.
+Nurse: Oh, I [PHI-Personal], I was just calling to check in on you and see how you're doing. It's [PHI-Personal], I, I call in, call and touch base with you just once a month or so to see how you're feeling.
+Patient: Yeah, I missed my, uh, Monday appointment. I, I didn't write it down or I just missed it but, uh, I'm coming up to check my, to check my glucose, so I'll, I'll be up on Monday. Oh, ok. Uh, no, I, I'm not feeling really too bad. I was down, uh, my daughters, my grandkids, uh, watching them for the last two days. So keep, keeps me, keeps, keeps me busy. Keeps me busy with them.
+Nurse: Um, that's good. Do you do that frequently, uh,
+Patient: Of late? Yeah. Yeah. The, yeah, but it's been usually once every two weeks or so for a day or two. So. Ok. And how old are they? Uh, [PHI-Personal] and [PHI-Personal]? I think that's, they're about [PHI-Personal] years apart.
+Nurse: Ok. Nice. Well, that keeps you young,
+Patient: I guess. Yeah, that's true.
+Nurse: Are they pretty good at, you know, self entertaining and playing, or? They're not,
+Patient: They're not too bad. No, they're not too bad. They're not too bad at all. No, this was the oldest one's last day of school. So she was glad, uh, they were down there. This is the last day for them. So. Oh, good.
+Nurse: I bet she was super excited. Oh, they
+Patient: Were all the, the,
+Nurse: The summer break now for them. Is that right? I
+Patient: Guess. Yeah, that's true.
+Nurse: Well, good. Well, very good. Well, what else have you been doing to stay active?
+Patient: Oh, I, I should walk more. I, sometimes I go up to the, the track up at a high school. You don't have to worry about cars up there and, and I've been, I have a push mower. Well, it self repel but, uh, to mow my inside yard. So that gives me a little exercise. Ok. Good. So, and I gotta watch with the sugar. You, you just don't know, you know, one day you think it'll be low and it's high or vice versa. So, and usually I should drink more water. I've been, I stay away from the sodas if I can and it's, it's a, this, this fog or whatever is it, it's all over. It's, it, it's really, uh, with, with the, the, the wildfires up in Canada's really, really bad. All over Pennsylvania now, I think. Yeah,
+Nurse: I, um, you know, I feel bad for those upper states too. Looking at [PHI-Geographic] and the air quality that they have is just absolutely. Wow.
+Patient: It hadn't been this way for years. I just, it's just one of them things, I guess that happens, you know. But, uh, yeah, I can't. No, you
+Nurse: Can't. But it would be beneficial, beneficial for you to try to stay inside rather than going out and about, because it does show that you guys air quality is unhealthy right now.
+Patient: Yeah, I've been, well, I was in the car coming up from so most, most of the day I was, I was a little, a little bit down there. I was doing a little yard work this morning. It wasn't quite so bad early in the morning. But, uh, yeah, I'll, I'll stay in, you know. Yeah, with, with, uh, with the breathing. Yeah. Yeah, I'll stay in today. Ok.
+Nurse: Good idea. Um, is it clearing up a little bit or is it getting worse?
+Patient: I think by tomorrow it's supposed to clear up quite a bit. Ok. Good. Well,
+Nurse: Hopefully they get some type of rain. Um,
+Patient: Oh, we need rain at, well, all over it. It's, it's dry down, down reading and most, most of the state, I guess is pretty dry. So it's one of them things, you know what I mean?
+Nurse: Ok. Well, well, well, very good. Um, what is this? Oh, that you're taking?
+Patient: Oh, that's a little nerve pill. II, I very seldom take it every now and then if, if I have a little problem with my nerves, but I, I usually don't take that much at all. I, I, I've been doing, uh, been on that for quite a few. It seems to do its job when I need it. Just a, just a little, little nerve pill. Yeah. Or sometimes it kind of helps me, helps relax and go to sleep sometimes too. I had a bad day. So,
+Nurse: Yeah, it kind of helps get the mind, not race as much.
+Patient: Right. Yeah, that's, that's, yeah, that's, yeah, you watch TV. That's between, between the drugs and, uh, the fast food. That's also in the advertising anymore.
+Nurse: Yeah. You know, that's kind of interesting. You say that because a lot of other countries don't do that. But we, we, we put, you're right. I've never taken note of that until now.
+Patient: Well, you know, most of fast, fast food's not good for you now. Wendy's II. I don't mind. Wen Wendy's is a little bit healthier, but Burger King mcdonald's and, uh, a lot of them just that healthy. It's loaded with salt. A lot of them with sugar. You know, it's, uh, I know what to do. It's just do it. Right.
+Nurse: Right. Absolutely. Absolutely. Um, but yeah, I'm gonna have to take note of that. I'm going to count one day and if I don't watch very much TV. But my husband does so, I'll have to, to pay attention to how many commercials and categorize them and see what a ratio is. Yeah, you,
+Patient: You watch it for Jardiance and, uh, all, you know, all the drugs like that and then, then right after that they come home with fast food. So you're defeat the purpose, you're defeating the purpose with, with, uh, with the medicine sometimes. Well,
+Nurse: And it's hard too because I, not your guys's generation, I don't see it too much but when I was doing clinicals and stuff to become a nurse by putting those medications out there, patients come in and they, they say it's almost like they try to go down their course of treatment, like, kind of choose and I'm all about, you know, educating yourself
+Patient: And I rely on the, on the, on the, on the drugs. Yeah, I, I know what you mean. My wife does that to me about because you, you should watch your diet closer and, you know, it, the, the drugs are there to help you but, you know, you can't depend on them then just go, go out, out, out of sight on, on a lot of other stuff. So, yeah, it reminds me of your, watch your diet. That's what you gotta do. Yes.
+Nurse: Absolutely. All right, [PHI-Personal], I don't wanna take too much more of your time and I'm sure you need a little bit of rest from those kiddos this weekend. So.
+Patient: Well, well, no, they're, they were sometime. No, they're pretty good. They were pretty good. So, so, hey, well, you have a good week. You have a good weekend. I
+Nurse: Will. You too, [PHI-Personal], I'll talk to you soon.
+Patient: Ok. Thanks a lot. Bye bye. Bye. Bye bye.

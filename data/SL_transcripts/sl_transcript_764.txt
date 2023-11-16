@@ -1,0 +1,44 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Yes, this is I'm calling you back. Yes,
+Nurse: Sir. How are you doing? Ok. I was calling you. Hang on just a second. Let me get you pulled up in my system. Oh oh, it's nothing bad. Nothing bad at all. I don't call people with bad stuff. That's right. That is right now. I am, I'm the care manager. Um that will be calling you once a month to check on you and see how you're doing from Doctor [PHI-Personal] office. Ok? And so I was just calling to introduce myself, see if you had any questions about the program.
+Patient: Um No, I got a uh blood test coming up. Ok? Can I do that now?
+Nurse: Well, let
+Patient: Me see because I have a, I have to get another blood test for the hospital. So I thought I'd do them both at the same time.
+Nurse: Um I don't see why not. Are you gonna come by the office to get them drawn or are you going to the hospital?
+Patient: I'll probably go to [PHI-Geographic]. Ok? Because I need to order a drug I need for the CT scan. Ok.
+Nurse: So when are you gonna go have those, have that done, do you know?
+Patient: Well, hopefully today. Ok. Well, I keep putting it off. Ok.
+Nurse: Um, so let me see. And you want that sent to [PHI-Geographic]?
+Patient: Uh, yeah, it's kind of tough switching doctors at my age.
+Nurse: Well, it's been a little adjustment for some people,
+Patient: You think? Yeah. Yeah. Uh,
+Nurse: Um, so you're having some, have, having some other lab work done today?
+Patient: Uh, Yeah, I need a, uh tracer dye but I have to drink it. So they need a day or two to mix up the concoction for lack of a better word. And my plans are to go to [PHI-Geographic] next week. So we'll see how that works out.
+Nurse: Well. Got plans. So that's a good thing. Yeah. Are you gonna do something fun while you're in New
+Patient: [PHI-Geographic]? And we're going to, uh, Lake? That would be nice. We'll see.
+Nurse: All right. So let me see. Um, I was looking for the lab order for this one coming up.
+Patient: Are you in the office all week? Yes. So it doesn't matter what day.
+Nurse: Um, yeah. Well, yeah, get a hold of you. Right. That's it. I'm here 8 to 4 30 Monday through Friday. Um, I do have a voice mail, so if you call me and I am on the phone with another patient, it'll let you leave me a message and I will call you back. Um, the number you've called, that's my direct number into my office. So you don't have to push any buttons or do anything else. Um, I can
+Patient: Handle that.
+Nurse: Yeah. Um, but if you need refills on medicines, not feeling well, just like today with the lab, um request anything like that, don't hesitate to reach out to me. That's what I'm here for. You. Kind of have your own private nurse. Great. How's that? And then, and then I will call you once a month and check on you just see how you're doing, see if you need anything um do some education. So that's kind of how this program works.
+Patient: Ok. Ok, I need to give you a different number if you don't have it. Ok. It's my cell phone. Ok. Um I answer that more than my house phone. Ok. Uh it's uh [PHI-Account]. Alright. [PHI-Account] [PHI-Account]. Ok,
+Nurse: So call that one.
+Patient: Yeah try that one. Even if I'm in the car, my car has building too.
+Nurse: Do you prefer morning or afternoon?
+Patient: Doesn't matter? Ok, I'm retired. I'm tired. I went through chemo, I'm really tired.
+Nurse: That's uh that's, that's hard on you.
+Patient: Yes, it is.
+Nurse: Most definitely. Ok, so I've got that um [PHI-Personal] takes care of the lab orders, so I've sent that to her and asked her to send that urgently over to [PHI-Geographic]. Um if there's any problem though, I will call you back because she will let me know but I don't think there will be ok. And then I'm with a letter in the mail to you. It'll have my name and phone number on there. Um, it'll also have Wellness goals for the year. It's just a reminder for Medicare it's things you've already been doing following up with the doctor routinely getting your lab work done those type things. So, but just to let you know that that'll be on there. Ok.
+Patient: Ok, that works.
+Nurse: All right. Any questions or anything else I can help you with?
+Patient: No, I don't have any questions until I hang up, then I'll have a ton of them. If that's ok.
+Nurse: You can always call me back and listen. If I'm ever, if I'm off, there'll always be another nurse covering my voice mail for me. So um if you call in and get a different nurse, it's because I'm off, it will actually ring to their phone. And so um, but they'll always be a nurse to take care of you and if it's after hours or on the weekends, you can still leave me a voice mail, just know I won't get it until the next work day.
+Patient: That's fine. Ok.
+Nurse: Okey Dokie. Alrighty, I appreciate you calling me back.
+Patient: Yeah, I just didn't know when to call or who, who did I get when the phone rang. So,
+Nurse: Well, you should always get me unless I'm on the phone with another patient.
+Patient: That's fine. All
+Nurse: Right. Have a great rest of your day.
+Patient: Thanks for your help. All right.
+Nurse: Bye bye
+Patient: Bye.

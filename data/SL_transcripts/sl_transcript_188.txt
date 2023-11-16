@@ -1,0 +1,44 @@
+Nurse: This is [PHI-Personal].
+Patient: [PHI-Personal]. Um, I was returning a call to [PHI-Personal]. Is she available?
+Nurse: Give me just one second if you don't mind. Let me get your chart up here. Thank
+Patient: You.
+Nurse: All right. So she was actually calling because she's helping me out today with some, um, new enrollment calls. Um, so you have been enrolled in the care management program by [PHI-Geographic]. Um, which is doctor [PHI-Personal] Right. Um, so we were, this is, um, so you probably got a call from the enrollment team. You probably talked to [PHI-Personal]? Ok. Um, and they, they got you enrolled and then we're the nurses. Um, so you'll be receiving a call from us. It looks like you're signed up for every month. So every month I'll give you a call. Um, just to check in, see how you're doing. Make sure you don't need anything. Um, we'll go over recent appointments, lab work. Um, anything that you might need.
+Patient: Um, what was your name again? [PHI-Personal]? Ok.
+Nurse: Um, and I'll send you, um, a letter in the mail. Um, it'll have a list of wellness goals on it. The wellness goals are from your provider and it's just a list of things that he likes to see his patients complete over the course of the year. Um So this will be things like, you know, you're due for uh blood work on X date. Um We need to get, you know, b immunizations, uh things like that. Ok. Um, so you'll receive that in the mail from me probably next week. It'll also have my name and phone number on it so that you can call anytime you need something. Um, I can help you out with, uh, pretty much anything to do with your health care needs so I can help with, you know, recommendations on over the counter medications. I can request medication refills for you, make appointments, help with specialist visits if you need it. Um, basically I'm your own personal nurse for anything that you can think of that you would need help
+Patient: With. Ok. All right.
+Nurse: Awesome. Um, so if you don't mind, just so we have a good starting off point. I would like to go over your medication list. Ok. Um, do you have a list or do you know them by heart?
+Patient: I think I know them by heart.
+Nurse: Ok. Do you use a pill box or anything?
+Patient: No, no, I have my morning pills over there and my afternoon pills over there. All
+Nurse: Right. That's beautiful. Um, so I have simvastatin 20 mgs once a day. Yes, I have, um, it looks like an eye vitamin. It's called eye caps. A formula
+Patient: Ares to,
+Nurse: You're on the s too. Yes. Let me get that here. And how often do you take that?
+Patient: Twice a day?
+Nurse: All righty. And then I've got Losartan 50 mgs once a day. Correct? Fish oil. 500 mgs once a day. Yes. Um, multivitamin for her for 50 plus, once your mouth every day,
+Patient: Once a day.
+Nurse: And then I have a calcium vitamin D supplement. Yes. Um, and the MG dosage. Do you happen to know what that is on there?
+Patient: No.
+Nurse: Ok. Um, I have [PHI-Account] and [PHI-Account] is what I have.
+Patient: Ok. Does
+Nurse: That sound familiar? Yes. Ok. Vitamin C 250 mgs once a day. Yes. And loratidine, which is the generic Claritin 10 mgs every day. Yes. Ok.
+Patient: Do you take, they also put me on B 12 B
+Nurse: 12. Ok. Do you know how much you're taking of that?
+Patient: A half a pill? Because the first time, the first two times I took a whole tablets. I didn't sleep at night. So I only take a half a capsule every day. I bought a pill cutter.
+Nurse: Ok. All right. Do you happen to know the dosage?
+Patient: I can tell you in just a minute. I think it's 500 micro MCG.
+Nurse: Ok. Hey, while you're standing there, do you mind to look at your calcium and vitamin D for me?
+Patient: Calcium, 500 mg with Rowse hips with what [PHI-Personal] hips in it.
+Nurse: Does it have vitamin D in it? Where are you
+Patient: There? I don't think so.
+Nurse: Ok. I'll get that updated for you. Do you need any medication refills right
+Patient: Now? No, I don't. And CVS keeps track of them. And so they, they know when I'm running out of the Simvastatin and the Losartan, so then they could send me another prescription and so I just go pick it up. That's perfect.
+Nurse: Yeah, and none of your medicines are too expensive, are they?
+Patient: No, no. So yeah, I'm very happy with that.
+Nurse: Good. And do you see any specialists like a cardiologist? Um, anything like that?
+Patient: No, eye doctor, dentist, um uh a female doctor, whatever you call them gynecologist. Um, that's it.
+Nurse: Alrighty. Well, is there anything that I can help you with today?
+Patient: No, it should be on my file. Uh I'm scheduled for an appointment with doctor Doctor [PHI-Personal] and I was called about blood work. So I'm going in on the [PHI-Personal].
+Nurse: Yes, ma'am. You've got it and
+Patient: I'm supposed to fast and so I'm there at one o'clock.
+Nurse: Yes, ma'am. That's what I have. Ok. All right. If you need anything before next month, give me
+Patient: A call. Ok, I appreciate that. Thank you. Thank you very much. Bye bye.

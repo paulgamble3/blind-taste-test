@@ -1,0 +1,58 @@
+Nurse: Oh this is [PHI-Personal] [PHI-Personal] of the nurses.
+Patient: Yes ma'am. This is [PHI-Personal] Soo. Uh somebody's been calling for me.
+Nurse: Oh that was me. Hold on let me just go. Ok. Oh they are [PHI-Personal] and what is your date of birth please?
+Patient: 12, 12 55. Thank you.
+Nurse: Mhm. Ok. I was just calling about the um excuse me I apologize the uh CCM program, the monthly calls for me to check and see how you're doing with your mailing. Yeah, I I know you've already started on the R PM program but um I
+Patient: Gotta do is that the the blood test? I mean the BP? Yeah. Yeah. Yeah. So you see where my results are starting to go down? So
+Nurse: Good. We like that but not too much but where it needs to be.
+Patient: Right. Right. No, it was uh high tension two when I started and now it says um what is it something something acceptable?
+Nurse: Yeah, it's better. Yeah. 1 36/88 is really good so like 1 30/90 is kind of the goal. So that's
+Patient: Good. Yeah. Ok, good. Yeah, so
+Nurse: You're getting there. Um so basically um what the program is. It's a monthly call for me to see how you see how you're doing, how you're feeling. Um And then if you have any questions or concerns, I can certainly send them over to the provider. You can utilize me like a triage. I could help with refills and appointments. Um, things of that nature and sometimes I have to help people with specialists because sometimes people have a hard time getting through too. So, so um if you need that, just let me know. Um Does that sound like something you'd be interested in?
+Patient: Well, I, I definitely on refills.
+Nurse: Um You'd be surprised the other stuff comes up.
+Patient: Yeah. Yeah. So I would go to you instead of the doctor. Yeah, you
+Nurse: Can just call me, I can
+Patient: Send it. Ok. No problem is I got a month uh left so I just picked it up. Ok, then I appreciate
+Nurse: It that uh do you have time just to go through your medications quickly? Oh, yeah. Yeah. Go ahead.
+Patient: I'm sorry. Thank you. That's ok. Oh,
+Nurse: Okey dokie. Uh oh you, you barely have medicines. Um Baclofen 10 mg three times daily. Yes. Ok, perfect. Uh b 12 1000 micrograms daily. Yes, perfect. Um Hydrochlorothiazide 25 mg daily. What's that called? Uh Hydro the Hydrochlorothiazide. It's usually for uh BP and fluid retention. 25 mg daily.
+Patient: No, not anymore. Oh, I know. Yeah, you only gave me the [PHI-Personal] prescription um there's no refills. I don't know if I need it now. I can
+Nurse: Find out for you. That's probably good to find out. So you got the 90 days in August. Did you get the refill on that?
+Patient: I didn't think there was a refill. Was it? So
+Nurse: He sent on [PHI-Personal], he sent 90 days with [PHI-Personal] refill to [PHI-Personal] on.
+Patient: Yeah. Ok. Let me think. Ok, I'll look it up then.
+Nurse: Have you been taking it?
+Patient: Oh yeah. Yeah, but I, I stopped last week when I finished. Ok. Yeah,
+Nurse: There is a refill. So when's the last time you took, took it?
+Patient: It was last week. Um I would say last Monday, I'm pretty sure that bottle said no zero refills but I'll check it out but I'm starting to work out too. I'll ride my bike. Yeah. Sure.
+Nurse: Nice. How do you like? Do you like riding your bike?
+Patient: Oh yeah. Yeah, I'm also taking traMADol. I saw that so I
+Nurse: Just write myself a little note. I apologize. Oh, that's ok. TraMADol 50 mg two times daily as needed. Yes,
+Patient: Ma'am.
+Nurse: Oh, what did I just do? Oh, darn it. That's not what I want to do. Oh, hold on. Uh hold on. I just messed something up thinking. All right, there we go. Oh, there we go. Ok. Um Do you know what day last week you took your last dose?
+Patient: Uh It was on Monday. I remember that for that. You mean for the heart medicine for the
+Nurse: Hydrochlorothiazide.
+Patient: Yeah that was last Monday whatever that date was last Monday.
+Nurse: Ok. And are you urinating? Ok.
+Patient: Oh yeah. Yeah. Ok. All right but that traMADol is the [PHI-Personal] I'm gonna need a refill but not until the [PHI-Personal] of [PHI-Personal].
+Nurse: Do you want me to request it now or do
+Patient: You want? I don't know how does that work? I'll call I'll call you back. Ok that's fine.
+Nurse: Alright, so [PHI-Account]. All right. So, so I would, yeah, just see if there's a refill for that. I'll I'll find out if he wants you to continue it. Ok. So are you taking that is close? Uh and like I said, um when you get closer and you need that refill for the traMADol, just give me a call, I'll request it.
+Patient: Ok. Oh.
+Nurse: Mm. And then you know, just make sure for your medication. Do you use a pill box or um a bottle? Just the bottles, just the bottles? Ok. All right. Um, some ways to keep track of your medications. Keep an updated list. Use the pill organizer uh to pre sort your medications uh for the week. Um keep an updated list. Uh plan ahead for your refills. I usually tell people to keep uh a calendar on the wall with your due date so you don't lose track. Um, you can always ask for automatic refills for medications you've been taking for a long time. You know if it'll help make your life a little easier and I will find out about the hydrochlorothiazide. So, no. Have you had no, no swelling? Right. No, none at all. No edema. You're urinating? Ok. Right. Yes. Ok. Any chest pain or difficulty breathing? No. Ok. And, um, so no, no side effects from stopping it.
+Patient: No, nothing at all.
+Nurse: Hm. Weird. I was looking at your, your blood pressures from the end of [PHI-Personal]. Uh ok. All right. So I will, I will send a message and I'll get clarification on the hydrochlorothiazide. So, um you can, if you wanna just call the pharmacy and see if there's a refill for you there. Uh I'm, I'm taking them, I would think there would be but if you just took your last dose in [PHI-Personal], see [PHI-Personal]. So that was a 90 day [PHI-Personal]
+Patient: To [PHI-Personal]. Yeah.
+Nurse: Yeah. So check, but I, I if you need a re if he says yes he has, he should be taking it and then you need a refill. Just let me know and um when I call back and give you the recommendation and then I'll just request it for you. So if for some reason it's not there, that makes sense. And I'll,
+Patient: And I'll check my uh [PHI-Personal] app.
+Nurse: Ok, perfect. And then um do you have my phone number in case you need to call me in between calls?
+Patient: No, it's not this number.
+Nurse: It's um so it's [PHI-Account]. But the last four are [PHI-Account].
+Patient: Ok. [PHI-Account]. And what's your
+Nurse: Name? [PHI-Personal]?
+Patient: [PHI-Personal]. Ok, then [PHI-Account]. [PHI-Personal]. Ok, then,
+Nurse: And then if you run into an issue that you, if you have a health concern and question, um, because I work Monday through Friday 8 30 to 4, but if it's a weekend holiday or evening and you have a question and I can't wait until the next business day. Um if you call the main office number, you can ask to speak to the on call.
+Patient: Oh, I see. Ok then. Ok. Alright.
+Nurse: Alright, thank you so much for returning my call. I appreciate
+Patient: It. Thank you, ma'am. Bye. Alright bye bye.

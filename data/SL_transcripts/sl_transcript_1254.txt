@@ -1,0 +1,18 @@
+Nurse: This is speaking. How may I help
+Patient: You? Yes, this is [PHI-Personal] Ter. I got your message. I have five pills left. Oh, you got five pills. I have five pills left. Yes.
+Nurse: Ok. All right. So I'll wait, let me see. So I'll call you back in five days then when you get ready to take the new medication. Yes. Ok. So how are you feeling though? Because I know like, um, your legs and stuff were swollen and the last time I talked to you are, have, are they still swollen?
+Patient: They swell in the night and I go in my room and I, uh, prop them up with the pillow? Oh, ok. But then they go down the swelling
+Nurse: And then they go down. Ok, that's good then. So you don't have any pain in them right now or anything like that? No. Ok. Ok. Well, that's good then. All right. So, um, ok, so after you said you got five pills left, so I'll call you back in five days and then we'll talk about, um, taking the liquid form. Yeah. Ok.
+Patient: Ok. That
+Nurse: Sounds good. So what, now, what day did you tell me that? You said you go to, you, you go to therapy or something like that or the, no, the eight, the, um,
+Patient: They, uh, they did, uh, we'll call it the, they, uh, you know, when they ended it they ended it. Oh, ok. They said that I'm, I'm ok by myself but they said if I, the, the exercises they do, if I hurt myself in the, they said to call up my doctor and to come back.
+Nurse: Ok. Got you. Ok. So, so during the week you don't have any days that you have to leave and you won't be home. So I don't miss you.
+Patient: No, you won't miss me. Uh, uh, what day is that the, uh, five days from now? Hold
+Nurse: On, let me look at this calendar really quick. Thank you. Ok. So today is the 24th, so [PHI-Account]. So the fifth day actually is on a Sunday, but that'll be the, that last day. So Monday, so that works out. So when I'll call you Monday, because on Monday that's when you're gonna take the, uh, the liquid. Yeah, the liquid. So I'll call you Monday. You usually take it in the morning or the afternoon,
+Patient: The, the, in the morning,
+Nurse: In the morning. Ok. So I'll call you in the morning. I usually get here about [PHI-Account]. What time do you usually get
+Patient: Up? Well, I get up around seven.
+Nurse: Ok. Ok. So I'll call you as soon as I come in on Monday and then we'll make sure that you're taking the medication, right? Ok. Ok.
+Patient: Sounds good. Ok.
+Nurse: Ok. Ok. Bye bye
+Patient: Bye.

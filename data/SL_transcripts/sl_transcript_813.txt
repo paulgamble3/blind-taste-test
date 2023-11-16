@@ -1,0 +1,8 @@
+Nurse: Chronic care management. [PHI-Personal]. How may I help you?
+Patient: Is this gay? No, it's [PHI-Personal].
+Nurse: Yeah. May I ask who's calling
+Patient: Dear?
+Nurse: An ok. Did you let me transfer you? Ok. Ok. She's on the phone dear. Can she call you right back?
+Patient: Uh, she can, or I can leave a message with you? Ok. You wanna take my message or you want? Yeah, I'll tell her right. Tell [PHI-Personal] I just talked to,
+Nurse: Oh, is this by about uh someone else? Um, how about you call her? Because it's probably not, it's not about um, I'm gonna have her call you because she'll have to document on it, um, to call. Ok. All right. All right, I'll tell her to call you. All
+Patient: Right. Bye.

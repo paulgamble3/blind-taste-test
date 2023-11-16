@@ -1,0 +1,61 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: This is, I accidentally cut you off when I tried to answer the phone. I
+Nurse: Just thought you, I just thought you weren't available. Well, how are you doing anyway? A little warm. Yeah, it's gross out, isn't
+Patient: It? Yeah. Could be worse though. It's not too humid.
+Nurse: Oh, that's good. I, I have not been out today but I was out over the weekend and it was awful. We got that rain. Oh, that was, that was bad. All right. Let me go here and see what we're doing with you. Um,
+Patient: Probably an appointment for an
+Nurse: MRI. I was, I was gonna ask you if you had that. I see that they have it on your list. I'm the care management nurse. So I don't typically make appointments for stuff but I follow the in between stuff. Ok. Do you have any rightsided abdominal pain or anything? I see. That's for your liver. We talked about that before.
+Patient: Uh, once in a while I get a, a little bit. Do you have your phone? Oh, go ahead. I don't know. I don't know whether it's like gas or what it is.
+Nurse: Well, your liver is located on the right side. Um, are they doing it because they saw something abnormal or what? Did they tell you what?
+Patient: Yes. I, I went to the, er, back in the winter and I had pretty bad pains and stuff and they did ac, a T scan and they saw something on my liver so they scheduled me for an MRI and it was inconclusive. So they wanted to do a, do it again to, you know, check it.
+Nurse: Yeah. Let me see what your liver stuff has been running.
+Patient: I was just, that starts a few weeks ago for your office
+Nurse: Visit. Yeah. Do you need to get that?
+Patient: Uh, might have to. No, somebody got it. Ok.
+Nurse: Yeah. Your liver enzymes in your liver panel look good. Your lab work. Um, not sure that was from the 12, 6, 12. Yeah, that all looks good. Were you ever told that you have a fatty liver or anything like that?
+Patient: No.
+Nurse: Ok. Do you drink alcohol at all?
+Patient: I drink a beer sometimes at night when it's hot. But no, it's
+Nurse: Not like daily or anything.
+Patient: No. Ok.
+Nurse: Oh, sometimes on the liver. I don't know if they explained this to you. Um, they can, they can see a cyst, um, with certain x-rays and, um, they just watch them basically. Um,
+Patient: It's not sort of what star told me that, you know, sometimes the blood vessels will form a, something like, like he
+Nurse: Hemangioma. Yeah. Yeah. And that, it, it's basically like if you've ever seen a baby with one of those strawberry birth marks, you know, the red, um, it's all the blood vessels that clump together. That's basically what it is on the liver and it doesn't turn cancer. So it's not, um, detrimental whatsoever. There's no issue with it at all. Ok. Well, let me see here. I don't think I have anything. Do you need a med refill at all? You have two medicines?
+Patient: No, I think I'm ok on everything. Ok. I, I just got a refill on the, uh, Losartan.
+Nurse: Ok. Got you. Ok. And then, um, I see they, have you listed as, um, kidney disease, do you know like stones,
+Patient: Stones? I, I've dealt with kidney stones for years.
+Nurse: Ok. Is that basically what you go to urology for that? Plus the BPH? Ok. All right. And then have you seen urology lately? I don't see that we have anything from them lately.
+Patient: It's been a while because I used to go to [PHI-Geographic] and I guess he moved.
+Nurse: Yeah. You know, you're not the only one that's told me that, um, did you find a new one or did they put you with a new one there?
+Patient: Not yet? Hm. Yeah, he used to come up to [PHI-Personal] to the medical center which was handy. I know they, they have anybody that does that anymore or not.
+Nurse: I'm not sure I have another patient that, um, had a lot of urological issues and they, um, saw Doctor [PHI-Geographic] and once [PHI-Geographic] left he, um, actually went to another practice somewhere else. I was told, but I'm not sure where at. Um, he left the company, um, whatever company he was working for. And, um, they said that he, uh, well, anyway, so the appointment, um, they kept rescheduling because everybody, they rescheduled this patient with, um, that person either left or they didn't have an availability and they, you know, they had to take, uh, do, do you need to get that? Yeah. Hang on a minute. Ok.
+Patient: That sound right. Yeah. Yeah. Yeah. Oh, yeah, same place does be an hour or so. Uh, all right. Yeah. Yeah, you bet. Ok, I'm back. Ok.
+Nurse: Um, yeah, if this is correct it looks like you haven't seen him since 2021. That might be. Oh, my. Ok. Yeah, that's the last thing we have on file. I wonder if we should send Doctor [PHI-Personal] a note and get you in with the urologist again.
+Patient: Who's [PHI-Personal] wouldn't be a bad idea. I know
+Nurse: [PHI-Personal] [PHI-Personal] Urology Central P A. Have you ever seen that? Doctor? Doctor [PHI-Personal]
+Patient: Mm. I don't think so. Ok. I was over at, uh, Holy Spirit few years ago. I forget who that guy was over there.
+Nurse: Ok. Yeah, I'm gonna send him a message because I, I feel like the last thing, did you see him after Doctor [PHI-Geographic]? You mean,
+Patient: No, that was, I think before [PHI-Geographic] left because I had, at that time I had the singer insurance and singer had taken over the hospital. So I went there but now that no longer applies. So, yeah,
+Nurse: What date was that on? [PHI-Personal], 8, 1921. Here's what he said. He sent um Doctor [PHI-Personal] a note. This was back on 8, 1921. He said he saw you today. You have a long history of kidney stones. You have some intermittent left flank pain, which is your back and left, upper quadrant pain. Um You're doing, you were doing fine before that. Um You're complaining of decreased flow at times. He said your physical examination revealed a slight BPH. Um but there was some flank pain, meaning your back, they're, they're concerned about your kidneys. You weren't able to void, which is pee in a cup. Um For [PHI-Personal] talked about Flomax, um and minimally invasive surgery. He does not wanna do anything. Um, about the flow. This time, we're gonna get AC A T scan um, in regards to his right, upper or left, upper quadrant pain and left flank pain. Um I think it's best test to do for stones. Um All right. So, and then he said, I'll let you know how the CT Scan went and that's the last thing we have from him. Let me see what your CT Scan said from then. I'm assuming you would have had that [PHI-Personal]. Ok. So I'm wondering if this is the one from [PHI-Personal]. When did you go to the, er, was that like in [PHI-Personal] of [PHI-Personal]? With the abdominal pain?
+Patient: Yeah, it would be about, it was all right.
+Nurse: Yeah, this one was ordered by Doctor [PHI-Geographic]. So this is it, so this is for the flank pain. Let me see what they saw, non obstructing renal calculi measuring up to six. Ok. So at that time you did have a, a, um kidney stone.
+Patient: I, I still do because you said it's in the bottom of the kidney as long as it stays there. I'm good.
+Nurse: Ok. Have you had any more pain or any trouble with your um, urination flow or anything like that since?
+Patient: Well, I, I guess maybe with age [PHI-Personal] isn't what it used to be. But, you know,
+Nurse: Well, the other concern is um, the stone being caught in any of the ureters or anything like that. So, you know, obviously if you have trouble that you almost, you know, you can't go to the bathroom or you, you just, it's very, very small amount that's cause for concern. But you know what stones feel like? Did you have a lot of pain with it? Yeah. Yeah. So you, you definitely know when that's going on. But um, two if, if it gets, you know, the stone gets stuck anywhere, um, you wanna be um cognitive of that but let me see here. Um, I
+Patient: Had one drop down and blocked my bladder one time.
+Nurse: Yeah. Did you have trouble peeing?
+Patient: I couldn't go at all. I had went to the, er, and then it stretched my bladder out and had to be catheterized for quite a while until I got back in shape.
+Nurse: Yeah. Do you drink a good bit of water? I try to, I know we're made up of water but it's just not the best thing. The best tasting thing. Is it all right. Well, um, let me see here, I'm gonna send him a message and let him know that you have not seen a urologist. Um, and then they do have a, I think they have a note here that they're gonna set that MRI up.
+Patient: Well, they called me earlier today.
+Nurse: I was just gonna say it looks like they have a note from [PHI-Account].
+Patient: Yeah. So maybe it was yesterday they called and said they were gonna set it up and I thought that's what this call was. But, yeah.
+Nurse: Ok. Well, again too, if you don't hear from them by like the end of the week, I would definitely give me or the office a call. Um, and we can help facilitate scheduling that because you definitely wanna get that again just to make sure that it's nothing, um, nothing, you know, really bad going on. Um, now let me see here. They have you listed as CK D which is um, chronic kidney disease. Um, that's different than like, um, kidney stones and things like that. Have, I just want to see something and two, this comes with age. Um, you're at stage three A, how it go kidney staging is like, um, for kidney disease. It's like stage 123 A, three B, four and five. At five, you're on dialysis and need a transplant. Um, three A is very mild. Three B is where you're starting to get into the moderate, it looks like you've been three A for a while. Has he ever talked to you about that at all?
+Patient: No, Doctor [PHI-Geographic]. Ok.
+Nurse: Ok. So, do you ever notice that you have any, like swelling in your hands? Feet or feet, feet or legs?
+Patient: No, not really. Huh?
+Nurse: Um, well, discomfort, um, or swelling in the abdomen. Um, you had discomfort but you did, you have swelling,
+Patient: Uh, it seems to get a little puffy at times though.
+Nurse: Ok. How about, um, any urinary, um, urgency like you have to go, you know, you just have to go right now or you, you're not gonna take it, you know how that? No, no. How about any nausea, vomiting, taste changes, loss of appetite, anything like that happen when all that stuff was going on? Lack of energy? Ok. Well, those are some of the things that, um, can happen with, um, worsening kidney disease and I'm not really sure if there's, let me see. What your GFR is. Let me look at your lab work real quick. Um, your bun and creatinine are fine, which are your kidney functions to show how your kidney is working? So, that looks good. Um, your, and your GFR is good. So, I'm wondering if they're just saying it's because of age and because of the BPH.
+Patient: Um, I'm guessing. Yeah.
+Nurse: Ok. All right. Well, I'm going to send him a message and I'll let you know what he says about the urologist. Do you have any questions or concerns? No? Ok. All right. I'll send this over to him and I'll let you know what he says. Ok. Ok. All right, Fred, thanks. And you have a good day if I don't talk to you again until tomorrow. Ok. All right. Bye bye.

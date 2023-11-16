@@ -1,0 +1,65 @@
+Nurse: Hi, good morning. This is [PHI-Personal].
+Patient: Hey, [PHI-Personal], good morning. This is [PHI-Personal] or better known as [PHI-Personal]. How are
+Nurse: You? Hi, MS [PHI-Personal]. Correct. Yes. Yes, perfect. I'm good. How are you? I'm
+Patient: Good. I can't complain, but I'm calling, I'm calling to find out when is my appointment with doctor? Uh o'riley? I don't have it written down anywhere.
+Nurse: Ok. Let me look real quick. All righty. So I have one here. The next appointment is for Doctor [PHI-Personal] and it's gonna be [PHI-Personal].
+Patient: I missed it. Oh, no, no,
+Nurse: No. Next month [PHI-Personal] we're still in [PHI-Personal]. So let me look at what day of the week? So that's a Monday and it's at three o'clock?
+Patient: Ok. I'm writing it down now because I was trying, I hope I didn't miss it because Rx is saying that they've been trying to get in contact with them to refill my meds.
+Nurse: Ok. Um, which one do you know which ones it is?
+Patient: Let me see if I can do that again. Ok. Let me see if I can do that. Ok. Ok. Ok. Ok. You still
+Nurse: There? Yes, ma'am. I sure am. O
+Patient: Ok. Ok. Ok. Let me see, let me see, let me see. It won't be in there. Ok let me see, let me see. I know stay in the right spot because I don't see the hope I didn't leave it. Oh boy. Mm mm mm mm I think that it. Ok. Ok, when was the last this is the same from [PHI-Personal] 6 then [PHI-Personal] 12 but just let me give you what all they text me on it. Ok, the key, the key or juice that. Ok, your I have to give you the no, I have gotten this, you know order. It's on the way. Ok, that's on the way we delivered these meds and your order. Ok. Um to approve auto refill order, please ask doctor to approve. Ok, this probably is one of them.
+Nurse: Ok,
+Patient: I I can give you the order number. That's what they have down here.
+Nurse: Uh Let me see. I let me look over this. I don't think I can look up the order number. Um if this just the name of the medication, that's all I can can pull up. Ok, so I can let them know which one needs like a a new prescription to send.
+Patient: Yeah, we can text your doctor again to approve auto refill. Order the number please ask to approve, but it's not telling me the mad but if it will not help.
+Nurse: Ok, well, let's see. So I know on our end. Let's look. Um so let's see, I know it looks like you probably have plenty of the Plavix because that was refilled in February and it had, uh, or let me see, that was 90 let's see. Take it once a day. Um I'm assuming one of them is probably actually the Plavix, which is an important one. because it looks like the last time doctor in it, it was in February and it was for, um, just a, a 90 day supply which is like three months. So do you know do you have, are you running out of the
+Patient: Plavix? Ok. Ok. This probably might be be it. Ok. It says we can texted your doctor again to approve auto refill order number. Please ask doctor to approve and then he is saying one ranw whatever that is and then two lis. So I'm thinking that lis is Lisinopril and the, and the ran might probably be the uh or, or something like that. Yes. Ok. And, and, and then this one is saying one dul I can't, I, I don't know what Dul I'm taking.
+Nurse: Um it was probably um DULoxetine or um Dulcolax or um I don't
+Patient: Take it. Uh du
+Nurse: I don't have anything for ad U um And then I also don't have a Lisinopril. Was that something from um the hospital? Maybe?
+Patient: No. Uh uh this [PHI-Personal].
+Nurse: Let me look. No,
+Patient: I've been taking Lisinopril.
+Nurse: Ok, let me
+Patient: Look. Do you have the list of my new meds.
+Nurse: Um, I think so. I've got it updated here in the chart. Um, let's see. Yeah, that's, and go all the way down. All righty. Uh,
+Patient: Oh, this d, well, on a lot of stuff and that's just so many times they tried to contact the doctor.
+Nurse: Yeah. And I have that one on here. I, I know it, it might have been the DULoxetine. I know you're not taking that anymore. No. Ok. It's probably that one. Let's see. 20 mg and for the Lisinopril. Do you still take it twice a day? Yes. Let me see. I know it looks like um, let me go back here and look,
+Patient: Uh at least I, I think we, we talked after I came to the hospital. Right.
+Nurse: Yes. Correct. And I'm looking over, um, let me see and I it looks like one of the medications they wanted you to stop was the Lisinopril.
+Patient: Let me see. Let me see. Ok, good. Yeah, I no longer take the uh Lisinopril.
+Nurse: Ok. So we won't refill that one then cause I know I'm here. Um I know it looks like they stopped kind of a few of your medications. Um It says so stop taking the amLODIPine um the um Lisinopril, Metformin, metoprolol, Rosuvastatin and the SEROquel. Let's see. Ok. So since we're not doing the Lisinopril anymore, um probably the only one that you'll need a refill of is the reine. Yeah. Yeah. OK.
+Patient: And um completing that,
+Nurse: Which one
+Patient: In
+Nurse: The injection. Let me clear up you're breaking up just a little bit
+Patient: Um can you hear me now?
+Nurse: Yes perfect.
+Patient: Ok. It si I have finished. Yeah. Ok what are they gonna do about that?
+Nurse: Let's see so I know let's see it needed to be. Yeah let's see. Mhm. I think we order a refill of that one as well. Let me go back. I'll have to see because I remember whenever we originally got it filled for you, um, it, uh, the dosage had to be corrected so the pharmacy could fill it. So I'll have to see what that correct dosage is, but since you're out of it, um, and I know it does have zero refills, we'll have to just put in a refill for that one as well.
+Patient: Well, on it saying five mg slash Z slash 0.5 I guess. Mil.
+Nurse: Right. Yes, ma'am. Correct.
+Patient: I don't know if that would help it. I don't know.
+Nurse: I'll have to go back and look at my, um, other notes because I know whenever I had spoken to the pharmacist I had put what, um, you know, the, it's probably that one, from what I remem. Yeah, because I know that they wanted it to be like 2.5 to start out and then it was five. So we'll just have to reorder that one and whenever you get it in the mail you'll take it just as you were um because it'll be the same dosage so it'll be about five so I'll put that one on refill too. Um let me put down here. Alrighty, so I'll get that sent over um and you still obviously want the Optum Rx to to fill it for you.
+Patient: What about the I should have enough metoprolol, metoprolol. Let me see.
+Nurse: That's one that they said to um discontinue at the hospital as well with the metoprolol.
+Patient: I thought it was just the uh I really, but they have it on my list to continue taking it because I'm reading off of the, is it
+Nurse: From the hospital or is it from um like one of the, have you followed up with any doctors afterwards?
+Patient: It, it's from the hospital. This is the list from the hospital and the only one on here is I uh Lisinopril. I supposed to dis I'm supposed to discontinue the Metformin, the Lisinopril, the flu, the Lasix. Mhm And all of these. Yes freestyle uh thing uh CeleBREX or however you pro pronounce that. I know uh I mhm That's on the list.
+Nurse: Do you have, is there like ano is it at the end of the page or anything? Cause I know after like Metformin it says metoprolol and then it says like oxyCODONE and then it says the SEROquel and the Rosuvastatin or the Crestor.
+Patient: Yes, I supposed to discontinue all of those. Yeah.
+Nurse: OK. But you don't have the metoprolol as discontinued
+Patient: No, I have the mo, I have that to continue taking.
+Nurse: Mhm. Oh, yeah, it's on continue taking and the discontinued list. Let's see if they changed the, the, let's see. Metoprolol 25. Metoprolol 25. 0, I see what it is. So, um, on the continued taking list they changed it to extended release. And I think before you were just taking like a, a regular release, like it wasn't as an extended. So let me go to the medication list. Ok. So you have plenty of the metoprolol or do you need a refill of um the extended release? What you got from the hospital?
+Patient: Yeah, look at, and that's over the counter. Yes, [PHI-Personal] please. And my D three
+Nurse: And the D three.
+Patient: No, no, no, that's over the counter.
+Nurse: Oh, ok.
+Patient: Ok. Did you put in any, uh, any refills for my, these two? I got over to the hospital, the, the sulfate and the, the
+Nurse: Iron and the folic acid? Yeah, let me look here. Um hm. So I know what they're probably gonna say. If I ask for any refills from like any of the medications from like um, when you were discharged from the hospital, they're gonna probably wanna see you for an appointment before they refill anything from the hospital. That's kind of their rule. Um
+Patient: Ok. Well, I think I should cause I go to doctor rely on the, on the [PHI-Personal]. Mhm. So if, if that's the case I should have enough to last me till then.
+Nurse: Ok. Ok. I think so because let's see. Got out. I think so because I think they gave you like a like a 30 day supply and you got it on like the 13th. So you probably should be just right at that mark. Um But as far as like the other ones like you know the, the Mojo the Zine um mm I think those are the only sure those two we can go ahead and put in a refill request for um cause that was something you had like before the hospital. Um So we'll go ahead and take care of those two and then the um you know the metoprolol, the um folic acid and the iron, you'll just make sure you bring you know that bottle in with you to your appointment and um just ask for like a refill and then from there on out, you know, Doctor [PHI-Personal] can um prescribe those refills for you. Ok? All righty. Yes, ma'am. Ok. So that's good. I'm glad we got that cleared up and on the same page. So I'll go ahead and um put in those two refills and then um you know, if you do need anything else or you come across anything just give me a call and let me know. I sure will. Alrighty. Sounds good. Well, I hope you have a good rest of your week.
+Patient: You too, [PHI-Personal]. Thank you so much. Yeah,
+Nurse: You're welcome. Bye bye bye bye.

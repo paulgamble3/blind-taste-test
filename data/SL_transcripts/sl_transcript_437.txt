@@ -1,0 +1,11 @@
+Nurse: Good afternoon. This is [PHI-Personal]. Can I help you? Yes, [PHI-Personal]. Hi. My name is a Mie. I am [PHI-Personal] Plank's daughter. Yes. His date of his date of birth is [PHI-Personal]. Oh, I had spoken with [PHI-Personal] earlier this week, I believe. Oh, you did. She is available. Would you like to speak with her, Angie? Sure. Sure. One moment, please. Thank you. You're welcome. Mhm.
+Patient: Hi, this is [PHI-Personal]. How can I help you?
+Nurse: Hey, hi, it's [PHI-Personal]. Um,
+Patient: Hi, how are you
+Nurse: Doing? I'm fine. Thanks. Um I was calling um the um HCTZ. Yes, that you said that doctor was going to refill. It hasn't been called into our Kroger yet. Oh, let me check here. So
+Patient: Let me see here. Give me just a minute. I'm getting his chart pulled up here and looking to see where that got sent to. Well, let me so I can see that it's entered in here. Let me follow up with them um, with the office and see because it looks like it was entered in, but let me follow up with them just to make sure um, that it was sent over and then I can give you a call back. Ok,
+Nurse: Sounds good because he needs it for next week. That's the only reason I'm calling. Sure.
+Patient: Yeah, let me follow up with the office and see what's going on and then I'll give you, I'll give you a call back with an update.
+Nurse: Ok, thanks so much [PHI-Personal]. I appreciate
+Patient: It. Yeah, no problem. You have a good day.
+Nurse: Ok, you too. Bye bye.

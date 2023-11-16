@@ -1,0 +1,56 @@
+Nurse: Excellent.Before we begin, I just need to verify your identity.Can you please tell me your date of birth?
+Patient: Sure. January second nineteen eighty one.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to have a chronic care check in with you.I understand that you have been diagnosed with renal disease.I'd like to ask you a few questions about how you're feeling and how things are going with your treatment.Can you tell me how you're feeling right now?
+Patient: I've been feeling really good.Treatments are going great. No issues with my dialysis or anything.
+Nurse: I'm glad to hear that you're feeling good and that your treatments are going well.It's critical to us that you're doing well and that you're comfortable with your treatment plan.
+Patient: I am so far.
+Nurse: Great to hear!I'd like to ask you a few more questions to make sure we're covering everything.How are your dialysis sessions going?
+Patient: My dialysissessions are going great.
+Nurse: I'm glad to hear that!Do you have any concerns or issues related to your dialysis sessions that you'd like to discuss?
+Patient: Nope.
+Nurse: Okay, great!I'm glad to hear that you're doing well with your dialysis sessions.I just want to double-check, have you been able to attend all of your dialysis sessions?
+Patient: Yes. I have.
+Nurse: Great, I'm glad to hear that you've been able to attend all of your dialysis sessions.It's critical to keep up with your treatments for your renal disease.Now, I'd like to review your medications with you to make sure you're taking them as prescribed.Can you tell me the names of the medications you're currently taking?
+Patient: Yes.Captopriltwelve point five milligrams twice a day,Carvedilol,three point one two five milligrams once a day,Metformin five hundred milligrams twice a day,and Lantus.Ten units injection two times a day.
+Nurse: Great, you've got that all correct.I just want to review with you the medications that you should hold before your dialysis sessions.You should hold the Metformin and the Lantus before your dialysis sessions.It's critical to do this to ensure your safety during the dialysis process.
+Patient: I understand.
+Nurse: Great, I'm glad you understand.Now, I'd like to review your diet instructions.As you know, it's important to follow a renal diet and a vegan diet, given your condition.This means you need to limit your intake of certain foods, such as those high in potassium and phosphorus.It's also important to ensure you're getting enough protein from plant-based sources.Do you have any questions or concerns about your diet?
+Patient: I'm I'm I'm just not sure. I feel like I need helpon what kind of foods that I can incorporate into my diet?
+Nurse: I understand, it can be a bit challenging to navigate a new diet.Let me help you with that.First, it's important to know that you should limit your intake of high potassium and phosphorus foods.This includes things like bananas, oranges, potatoes, and dairy products.As for protein, you can get it from plant-based sources like beans, lentils, tofu, and quinoa.It's also important to maintain a balanced diet and ensure you're getting all the necessary nutrients.Do you think that helps clarify things a bit?
+Patient: A little bit.I feel like I neededdiatician or something.
+Nurse: I understand, it can be a lot to take in.I think it would be a great idea to have a dietitian help you out.They can provide you with a more detailed plan and answer any specific questions you might have.I'll make sure to arrange for a dietitian to get in touch with you.In the meantime, do you have any other questions or concerns about your diet or anything else?
+Patient: Honestly, I have been cravinga turkey sandwich,from Subwayand I wondered how much sodium is in that.
+Nurse: That's a great question.It's essential to monitor your sodium intake, especially on a renal diet.A six-inch turkey sandwich from Subway typically contains around 1,00 milligrams of sodium.That's quite a bit, especially considering the recommended daily sodium intake is around 2,30 milligrams.It might be a good idea to look for lower sodium options or to have your sandwich without the salt.Do you think that's something you could do?
+Patient: I think so. Yeah. I don't really need salt.
+Nurse: Great, I'm glad to hear that.It's essential to make sure you're not exceeding your sodium intake.Now, I'd like to check in with you about your other chronic conditions.How have you been feeling with your hypertension, type II diabetes, and ESRD?
+Patient: I think I'm doing okay.
+Nurse: I'm glad to hear that.It's critical to keep an eye on all of your conditions.Now, I'd like to ask a few questions about your fistula.How is your fistula doing?
+Patient: It looks perfect. No issues.
+Nurse: I'm glad to hear that.It's critical to keep an eye on your fistula and make sure there are no issues.Have you noticed any swelling, redness, or pain around the fistula site?
+Patient: No. None at all.
+Nurse: Great, I'm glad to hear that.It's critical to make sure there are no signs of infection or other issues.Now, have you had any shortness of breath or weakness recently?
+Patient: No. No shortness of breath or waitness.
+Nurse: Great, I'm glad to hear that.It's critical to keep an eye out for those symptoms as they could indicate a problem.Now, have you had any weight gain or swelling recently?
+Patient: No. No
+Nurse: Great, I'm glad to hear that.It's critical to keep an eye on your weight and for any swelling as they could indicate a problem.Now, I'd like to ask about your blood pressure.When was the last time you took your blood pressure and what was the reading?
+Patient: I took it this morning,and it was one twenty over eighty.
+Nurse: Okay, thank you for that information.It's essential to keep your blood pressure under control, especially with your hypertension and ESRD.Have you been doing anything specific to help control your blood pressure?
+Patient: I mean, other than taking my meds now,
+Nurse: That's great, it's important to take your medications as prescribed.In addition to that, a healthy diet, regular exercise, and stress management can also help in controlling your blood pressure.Have you been doing anything else to help manage your blood pressure?
+Patient: Well, I do ride my bikefor exercise.But I didn't know that that went towardsmanaging my blood pressure.
+Nurse: Yes, that's correct!Regular exercise like bike riding can help in managing your blood pressure.It's great that you're already doing that.It's also important to maintain a healthy diet and manage stress levels.Have you been doing anything else to help manage your blood pressure?
+Patient: I mean, I'm on a vegan diet.Cell, there's that.
+Nurse: That's great!A vegan diet can be very beneficial for managing blood pressure.It's also important to make sure you're getting all the necessary nutrients in your diet.Have you been doing anything else to help manage your blood pressure?
+Patient: No.
+Nurse: Okay, that's great.It sounds like you're doing a good job of managing your blood pressure.It's essential to keep it under control, especially with your hypertension and ESRD.Now, I'd like to ask if you've had any concerns about your fistula site?
+Patient: You've already asked me about my fistula site. No.I have no concerns. It looks really good.
+Nurse: Great, I'm glad to hear that you have no concerns about your fistula site.It's critical to keep an eye on it and let us know if you notice anything unusual.Now, I'd like to remind you of a few things to do while caring for your fistula site.You should avoid doing blood draws or blood pressure measurements on that arm, and also avoid lying down on the fistula site when you're sleeping.It's critical to take these precautions to ensure the fistula site stays healthy and functional.Do you understand these instructions?
+Patient: Yes. I do.
+Nurse: Great, I'm glad you understand.It's important to take good care of your fistula site to ensure it functions properly.Now, do you have any questions or concerns about your fistula site or anything else?
+Patient: No.
+Nurse: Okay, great.I'm glad to hear that you have no questions or concerns.It's essential to us that you feel informed and comfortable with your care.Now, if you do have any questions or concerns in the future, don't hesitate to call me.My callback number is 641-381-6523.Thank you for your time today, and take care.
+Patient: Rachel, can I ask a question before you go?
+Nurse: Of course.I'm here to help.What's your question?
+Patient: I'm going to be visiting Santa Ana, California.And I wondered if you could recommend anA healthy Italian restaurant.
+Nurse: Great question!Santa Ana has a lot of great restaurants.For a healthy Italian option, I would recommend Olive Tree.They have a lot of vegan and gluten-free options, and the food is delicious.I hope you enjoy your visit to Santa Ana!

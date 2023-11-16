@@ -1,0 +1,12 @@
+Nurse: Good afternoon. Thank you for calling Care Management. My name is [PHI-Personal]. How can I help you today? Yeah. Hi
+Patient: [PHI-Personal]. I guess you tried to reach me just uh a minute ago. My name is
+Nurse: Yes [PHI-Personal]. Thank you for returning my call. Do wanna inform you they are recorded for quality purposes. I'm with uh [PHI-Geographic]. On behalf of doctor care Management team. We're providing a care management program which is a phone call from our dedicated nurse where she would just call, check in, in between office visits, answer questions or concerns. She'll help manage current health conditions can assist with medications, lab results, community resources. If needed anything that pertains to your health, she would be an added resource. No, it is a billable service to Medicare. Medicare Advantage plans and secondary insurance carriers. It would be subject to deductible copay co insurance. So you may receive a statement from the practice for those services. If interested. Would you prefer the nurse reached out to you in the morning or afternoon?
+Patient: Uh The the situation is we are more now in [PHI-Geographic]. I don't know if this would be from for a big help. Then?
+Nurse: Ok. So you, oh, so you're spending more time in [PHI-Geographic]? Do you have a PC P down in [PHI-Geographic]?
+Patient: Not yet. Not yet. We go, I would, like, rather take Doctor [PHI-Personal] with me, but I don't think you want to,
+Nurse: I don't think she would mind going to [PHI-Geographic].
+Patient: She could go and try to be a golf. Yeah. But I have to look down there for a doctor because I need to be uh always like like you said there to be checked on. And so, so so I have to see I need to find a doctor. I wanna have a female too down there. So I have to look around
+Nurse: You. Not a problem but what I mhm. What I can do is just mail out the information and if you do need us on the line or even if in between looking for a doctor, you can give the nurse a call if you need anything and should be able to assist. Ok? Because I
+Patient: Iii I still wanted to be able to see doctor come up here for a while. So we are still ling so don't, don't put me all out there, please.
+Nurse: Not a problem. No problem. Yeah, we'll mail out the information
+Patient: For you. Ok. Thank you. You're welcome. Thank you. Have a great day. You too. Bye, thanks.

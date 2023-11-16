@@ -1,0 +1,33 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal] and I missed your call. I'm having a problem with my phone. I don't know what the heck's going on with it.
+Nurse: It's ok. So I had gotten your message earlier. I wanted to confirm some stuff. So you need a refill of the um 350 M. Ok. You like that to the Giant Pharmacy on [PHI-Geographic], correct? Yes. Ok. I wanted to verify all that before I send it over because I wanted to make sure that's where you wanted it. Um uh, so yeah, you, it looks like you just got it filled um about a month ago. So you're, you're kind of due for it. Are you scheduled to go away this weekend for another trip?
+Patient: No, next weekend we're going to [PHI-Geographic].
+Nurse: Ok. Is that when it is?
+Patient: Yeah. Uh the [PHI-Personal].
+Nurse: Yeah. Ok, good. And I know you're gonna want it because it really does help with your pain that you get.
+Patient: Yeah. And I'll tell you my pain has been really bad and um, I've had some extra stress. Ok, so it has made it worse and I think I have two pills left. Oh,
+Nurse: Ok. What's your pain level level? At, on a scale of 1 to 10 with 10 being the worst. What has it been at?
+Patient: Uh, probably over 10, 10 plus. Ok. Last night. Yeah. Last night it was like 10 plus.
+Nurse: Ok. So you're having a real hard time with it?
+Patient: Yeah. And I think it's because of all of this rain and the added stress that we've had lately it doesn't help.
+Nurse: Ok. Yeah. And stress can absolutely flare up, you know, pain. Um, yeah, it, it just really does. What does the pain feel like when you get it? Is it like a throbbing? Is it a stabbing? Is it?
+Patient: Oh, God, I, I, you know what, it just, it is like, uh, I guess, like a stabbing really bad and it was my hip and my back. Um, and then of course, once the hip starts it goes down into the legs, you know, and I take the leg pills and sometimes it takes so long for them to take effect. I, I didn't get to sleep till five o'clock this morning.
+Nurse: Oh, my goodness. Yeah. Yeah. Pai pain's gonna do that too. Um, unfortunately, and this is, you know, chronic pain. It's been ongoing. You've had this for years, right.
+Patient: Yeah. Yeah. It's not gonna get any better. Yeah.
+Nurse: Uh, and, you know, a lot of times pain like this, you know, it, it doesn't, um, and it does absolutely affect your life because it's affecting your, you know, it's affecting your sleeping and it's gonna affect, you know, just getting around and, you know, um, resting in general and you might even get some changes in your appetite and just because you're just in pain. Um, and that, that can be really, really frustrating as well. Um, you know, with all of that. So, um,
+Patient: It, it's, I'll tell you another thing that does help. Um, and I haven't been drinking them for a while. It's called Super use. I don't know if you've ever used it or heard of it before. I
+Nurse: Have not.
+Patient: Um, it's a powder and it's an orange pineapple powder. Well, it does have turmeric in it. Ok. So the turmeric does help sometimes. Not all the time.
+Nurse: Ok.
+Patient: Um, but I, I seem to notice that if I drink these during the day that I don't have as much pain at night, I still have it but sometimes it's not as horrible. Um It has collagen peptides in it. I, yeah, I
+Nurse: Google, I just googled
+Patient: It. Yeah, I did. You,
+Nurse: Yeah, you said I'm like, let me see what this is. So, so I googled it to see what it is. So it's got the collagen in it as well.
+Patient: Ok,
+Nurse: Good. Um, which can be really
+Patient: [PHI-Personal] and don't look like I'm [PHI-Personal].
+Nurse: Collagen can help with a lot of things. Um, you know, collagen can, can really, um there's a lot of benefits to collagen. It can kind of help, you know, helps your skin, as you just said. Um And it can help give you some like strength and elasticity to your, you know, your skin and stuff like that. And then you said there's also the um turmeric in it, ok? And that's really good for helping um, as well with inflammation of stuff. Um, they, they claim so if you're having inflammation, that's gonna kind of lessen that inflammation and lessen the pain as well. So that could be why you take it and you feel better after you take it because maybe it is helping with that inflammation. Um, yeah, which, you know, is really, you know, really good, but I know the, um, the muscle relaxer also helps to, you know, really loosen that up as well for you. So I got away
+Patient: From it for a while and then my vitamins I got away from for a while too and I just said, uh, you know what? I got to go back to this because I wasn't as bad then. And it just seems like it's getting worse and then of course we had all that thunder and lightning and everything. Yeah. And, and was like, we had four storms here back to back that's been one day. So that doesn't help me
+Nurse: Either. It was pretty bad, especially earlier in the week. It was pretty bad. Um, was it Monday? I don't remember. I can't remember the day. There's been so much rain. I, I, they're all kind of blending together.
+Patient: I know. I know. It's crazy. I
+Nurse: Mean, it's just rain, rain, rain, but there were some days where it was really, it was really loud, very, very loud with the thunder and everything like that and it just, it, it was ridiculous. So, um, that probably, absolutely, absolutely didn't help with it either. So I'll go ahead and put this request in for the refill for you so you can get that at the pharmacy and then um if you need anything else, you have my number, you know where to find me. Ok? Ok. All right. Thanks, sir. You're welcome. Have a good day. You too. Bye bye. Thanks. Bye.

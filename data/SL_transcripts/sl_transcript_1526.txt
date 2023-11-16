@@ -1,0 +1,42 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi. Am I calling [PHI-Geographic]?
+Nurse: Yes, ma'am. This is the chronic care management team for Doctor
+Patient: [PHI-Personal]. Yeah. Um, they were supposed to call me back. I'm, I am having a prep with my coughing and breathing and my chest hurting. Um, it, it just hurts and kind of burns so they have not gotten a commit.
+Nurse: So I see that you did call in this morning and then actually I just opened the message and [PHI-Personal], the nurse practitioner has it open right now. Um, reviewing it.
+Patient: Hm. Mm.
+Nurse: Has, have your symptoms gotten worse since you called this morning? Ok. Do you have a way to monitor your oxygen level at home?
+Patient: Yes. And my oxygen is ok.
+Nurse: Ok. What is it running? What's the number?
+Patient: It says, uh, [PHI-Account]? I don't know what the [PHI-Personal] is, but
+Nurse: That's your heart rate.
+Patient: Yeah. Yeah. I, I think the oxygen is ok. It's just, um, shortness of breath and now my chest is starting to, when I breathe in kind of be burning. I, I just don't, I don't feel well and I'm trying not to be a complainer or one, you know,
+Nurse: No, no, I get it. I, I understand you're not, I, it's really hard when you don't feel well to stay positive and I fully understand that. Um, so I'm not, obviously I've not spoken to you before and such and I'm not very familiar with your normal status. Is the breakup in your speech? Is that normal?
+Patient: The, when I am sick, it's worse. Ok. So if I'm not sick, it's not nearly that bad. But when I'm sick it is
+Nurse: Ok. That's what I wanted to make sure I wanted like your baseline status because that's normally a sign of crisis, you know. So, um, and like I said, I've not spoken to you before, so I'm not, not very familiar with you. Um, well, let's see. I see. Like I said that b uh, [PHI-Personal] has the message open. Um, it was noted that you were seen last Friday diagnosed with the flu and you finished the predniSONE, you're still coughing short of breath. Still doesn't feel, well, chest
+Patient: Hurts. The two things that have changed is my chest hurts, I'm sure from the coughing and it's like my, it burn like.
+Nurse: Mhm. Is it throughout your chest or is it in one area?
+Patient: It's in one, a, uh, kind of closer to the top?
+Nurse: Ok. Is it in the middle or on the side?
+Patient: It's in the, oh, it kind of radiates. Ok. It ju I just feel like I should be better by now and I feel like I'm going back to being sick. Mhm. Mhm. You know, I feel, I don't get fever but I feel like I have a fever. Ok.
+Nurse: Do you have a way to check your temperature thermometer? Ok.
+Patient: I, no, I don't get fever
+Nurse: Coming. That's what, yeah, you said? Ok. So, yeah,
+Patient: But you know the feeling like when you feel like you have a fever, that's what I got. I just never got the fever.
+Nurse: Ok. Can you tell me a feel a few of those feelings that you're referring to? They vary from person to person and I just wanna make sure that we have it down what you're feeling. Um, are you feeling like flushed? Are you feeling disorientated?
+Patient: Um, I am feeling dizzy. Ok. I wouldn't say disoriented but I definitely don't feel with it.
+Nurse: Right. So kind of a spacey feeling. Yeah.
+Patient: Ok. Yeah. Um, like, uh, uh,
+Nurse: Are you having like body aches, headaches,
+Patient: Headache? And I feel very weak? Ok. But just very weak. Ok. So,
+Nurse: Have you still been eating and drinking and going to the bathroom?
+Patient: Yeah. Yeah. All that's happening. Ok. Making it not, I, it's almost, I feel like I just one hit out just
+Nurse: Right. Ok. Um,
+Patient: And then it's, I don't know, it says it takes effort to take a deep breath and as the day goes, it's, it's worse. It's not the, how usually you get up in the morning you don't feel well, but you get going you feel better. Well this is the opposite. Ok, I feel like I've gotten worse.
+Nurse: Ok. Well um I don't I don't wanna advise you you know I don't wanna say go to the emergency room whenever [PHI-Personal] has another plan. So I think at the moment we should just wait like I said she has the message open in your chart like she she's actively looking at it because whenever I go to open the message,
+Patient: Alright, you're fine. You. Yeah, but you call her.
+Nurse: Yes. So whenever she, I will keep refreshing my screen um because like I said, whenever I open the message it tells me that I can't edit the message because she has it open on her screen and so I will keep refreshing it and checking it and um I will call you back shortly whenever
+Patient: You would be the one that knows my current current one called a few hours to go. I didn't feel that.
+Nurse: Yes. So that's what I plan to add to the message, but I I can't edit it at the moment because she has it open. So um uh I'll keep refreshing my screen and such and see what she has to say and then as soon as she puts something, um I will either add your current feelings um or I will call you back or both.
+Patient: Ok. All right. Yes. Thank you.
+Nurse: Yes, ma'am. Mm
+Patient: Bye. Yeah.

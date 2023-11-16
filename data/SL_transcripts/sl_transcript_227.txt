@@ -1,0 +1,18 @@
+Nurse: Hi, how can I help you?
+Patient: Is this [PHI-Personal]? Yes. Ok. Um I'm downstairs but, uh, um, I did the test. Yeah, I did the test. It is [PHI-Personal].
+Nurse: Ok. Ok, Mr [PHI-Personal]. Ok, good. Confirm your date of birth.
+Patient: I'm off speaker, I'm off, I'm in the community room, the back end of the room. Ok. So, uh, I have one line, there was C and, and there was one red line on C there was not two lines. Does that mean it's negative or is that positive?
+Nurse: Yep. That means it's negative.
+Patient: Yeah. And can you believe that the Walgreens says they wouldn't do the test because I didn't have a car,
+Nurse: You know, II I, I'm gonna be honest with you. That's my first time hearing it. But listen, if that's their policy, I, I was honestly shocked when you know that that's what they said, but it's good that you're negative though. I'm glad to hear that. Ok.
+Patient: So that's what you're saying. Official is negative. Don't worry about it. But, uh, I did get it from, I did buy it. I was this morning. I was all upset. I forgot to go to, um, I was gonna buy it from, uh gonna buy it from, I go to Walmart cause they took me off. I was gonna buy a thermometer there at
+Nurse: Uh Walgreens, Walgreen.
+Patient: After you know, after saying that to me, I was, they took my, they took my insurance card didn't return. That's normal. That's one of the reasons I never go there because that's an
+Nurse: Inconvenience, you know, to have to go back up there and go through all of that. So, yeah, I can, I know how frustrating that is. But yeah, for that. As far as the COVID test, I wouldn't worry about it right now. You know, if you began to exhibit any kind of symptoms, you know, congestion, heaviness.
+Patient: And I don't feel like I have a fe, I don't feel like I have a fever.
+Nurse: Yeah. Well, fever, they don't, you don't always get a fever with COVID. So, if you, if, you know, you start to experience body aches or chest pain, any kind of coughing, you know, outside of a fevers, it, you, that's not like if they're going to be able to, uh, decide if you have COVID or not, it's not a fever. So, it's other symptoms that you want to watch out for too. Ok.
+Patient: Yeah, I was a little upset. My brother was, I know where he was. He found out he was in Saint [PHI-Personal]. He had a stent done in his legs. And, uh, I don't know and then he had pneumonia or something they found out. So I find I have a hard time in 6 to 8 days. I just hear from my brother. Yeah, some point at some point in the day. And, um, I don't know if I need a coat on or not to walk to Walmart. Yeah, I take, uh, get a few groceries and then come back by left that will get you some fresh air. Oh, yeah. Um, I was feeling really sick yesterday but I feel fine now. So 24 hours. All right. Thank you for taking the time to go through all this, uh,
+Nurse: Dear, let me know if you need anything else. Ok.
+Patient: Well, I'm not gonna Walgreens anymore because when they send that to me complete, I actually go to a pharmacy in county called [PHI-Personal] Pharmacy and they deliver to the building. They deliver to the building. No, they're in park. Yeah, I don't need, I had, I had to do the COVID test. I have three more tests. I don't wanna have to do it, but I have, I actually have another box. Some box is a black box is another test I have in my house. I found it. Um, I don't know there was some carryover. I had, she freaking organized my closet and I think she helped herself to my, uh, thermometers. Right. Well, she's not the best part is she's not working with me anymore. Oh, she just dropped something. Alright.
+Nurse: Alright dear. Well call me if you need anything we'll talk soon. Ok.
+Patient: Ok.

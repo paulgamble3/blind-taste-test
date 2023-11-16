@@ -1,0 +1,18 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. [PHI-Personal]. I hope we hope you weren't on the CV S yet. But I do need my ZO.
+Nurse: Oh, sure. I'm, I'm glad you let me know I was just gonna call them good
+Patient: Timing. I'm glad you didn't do that yet. So, thank you. I think I need to. I've been, I do need them and, and they're due too. They, the last time I,
+Nurse: Yeah, I do see that it would be due. Ok. How many do you have left just in case it takes a day or
+Patient: So? I have, I might have five. Ok, up in the bedroom, but I'm, I'm getting really low. I don't take them the time.
+Nurse: Right. Right. Yeah, no problem. I will ask for a new refill for that and get that sent over.
+Patient: Thank you. And you know what else too? My husband, we're going away on [PHI-Personal] 1st. We're going down to our daughter's for the month of [PHI-Personal]. Oh, no need if I need anything, then how do I do that?
+Nurse: Ok. So, uh, what I would suggest to do is trying to get everything, you know, in line as far as if you can refill things before I know that doesn't always happen. So if it happens that you're in a different area and you need something called into like a different CV. S when you, when you call either me or the office, whoever it is, you can request that it be sent to whichever one since they're all, you know, interconnected, you know, we could just have it sent. Um So that's, you know, shouldn't be a problem, uh, because they're, they, they're everywhere. So,
+Patient: But do I need to get their number? Do I need to give it to your office or how do I do it? Like, like say we're going actually to [PHI-Geographic], that's where she live. [PHI-Geographic]
+Nurse: Beach. Ok. Ok. And, um,
+Patient: Do I need their number, the CV S number?
+Nurse: So if you're able to give us, uh, either the number or the address where it's located, we would be able to find it in our system and, and get it sent to the right one. So what I would suggest for you to do if you wanna, you know, kind of be proactive is, um, you know, whichever address you're staying at. Look to see what the closest one would be that way just in case you need it, you have their address and phone number and, and we can make sure it gets to the right one,
+Patient: Right? Like my daughter uses CVS too. So she said there's one really close to her.
+Nurse: Oh, good. Yeah, yeah, so that should work out fine. We do that a lot of times with, with uh patients when they're, we're all around the country. So
+Patient: Yeah. Ok, then got it. Thank
+Nurse: Good. You're welcome. You take care. Thanks for calling,
+Patient: But thank you. Bye bye.

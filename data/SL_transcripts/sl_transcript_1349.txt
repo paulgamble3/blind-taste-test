@@ -1,0 +1,60 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, it's [PHI-Personal] calling. Oh, hi,
+Nurse: [PHI-Personal]. How are you doing?
+Patient: Um, getting better. I think I still have enough. You,
+Nurse: You sound a little bit better. Yeah.
+Patient: But I have a problem. Doctor [PHI-Personal] when I was there on the [PHI-Personal], um, he told me to take Imodium and I told him, I said I, I hate to take anything that, to keep me from going because I don't go that often. Normally anyway, December [PHI-Personal] was the last time I had a bowel movement and it's too far gone. I mean, I need to go and I, I'm not sure if, if I need to take a supplement or what, but I've been having cramps for three days. I just can't go.
+Nurse: Oh, no. Ok. Ok. Uh, when did you actually last, take the Imodium
+Patient: On the [PHI-Personal]? And I only took one? Ok.
+Nurse: Ok. That's good, at least. Um, and, uh, you said that you're having cramping? Are you passing gas?
+Patient: Um, not really just, I think once or twice in the last 48 hours. Not, nothing, not a lot. Ok.
+Nurse: Ok. Um, and as far as still staying hydrated. You're drinking water, moving around
+Patient: All that. Yeah. I don't get it. I'm very active because I've been babysitting. I don't get it. Um, you know, I love the, the little guys up and down the steps at daycare and into the car and out of the car and up the steps at home and, you know, I've been busy. Sure.
+Nurse: Yeah. Yeah. Have you tried taking anything yet over the counter or any changes? Like, have you tried, like, prune juice or any type of laxative? Anything yet?
+Patient: No, but I'm thinking of it. It's just, um, you know, they take a while to work too but since I haven't gone for a while I, I think you sure. And the other thing is I've been drinking a lot of water. I've been eating oatmeal and, and a banana every morning for breakfast. I'm going to see about finding a new gastroenterologist because something's not right. It, you know, I can't keep going through this. Plus I blew a hemorrhoid while I was sick and I was bleeding and I had to go and buy, you know, stuff for that now, that cleared up and now I can't go, I, it's just something's wrong. Oh,
+Nurse: And so, so this has been going on then for a while now, um, even before you were sick, were you, do you go through periods of constipation? And then do you also have diarrhea, uh, like back and forth or
+Patient: No, it's, it's mostly, um, like constipation, which is why I think I have a hemorrhoid. Um, even when I was sick and I was still going, um, like I put, uh, some pressure on my bowels and, you know, it wasn't real loose but I went every day, which is abnormal for me, it wasn't diarrhea. But especially since I put a little pressure on my bowels to get it all out. I don't know. I can't figure it out. Something is not right.
+Nurse: Mm. Yeah. Yeah. And then just recently with you being sick and everything can, you know, cause more, more problems getting that regulated. And so
+Patient: I hate being sick, but the best thing that came out of it was I was going to the bathroom every day. Um, I, uh, quit smoking and, um, I have more energy. I don't know. Well, I think I have the energy from the steroids. That really helps me.
+Nurse: Yeah. Yeah, definitely. That does help. And, um, I'm just looking at your med list now. You're not taking any more, like pain medicines now. Right. Since
+Patient: That's, yeah, I, I don't take anything. Ok. Just my BP and vitamin D.
+Nurse: Ok. Ok. And, uh, when's the last time I'm just pulling up notes here but that you've gone to a G, I,
+Patient: Um, I had a colonoscopy. I think it was in [PHI-Personal] or July. I
+Nurse: Done here, [PHI-Personal] that I see a note here from [PHI-Personal]. Ok. All right. And then they talked about, uh, follow up in a year with another one. So,
+Patient: Yeah, I'm, I'm not, I can't wait a year or something. Something ain't right.
+Nurse: Mm. Do you, you do other than like the p cramping pain, do you get a lot of, um, just pain or bloating all the time or any other un, other symptoms you can think of.
+Patient: I normally have bloating a lot. But this, you know, like I was, I had a couple of real sharp stomach pains. Um, you know, they, they went away and it was only one time and I don't know what that is. Mm.
+Nurse: Yeah. Yeah. Well, definitely. I mean, it sounds like you could be cramping now because you just really are, you know, it's very hard in there and it's been a while so you're, you know, needing to go. Um, I would definitely maybe stop, you know, things like the bananas for now. Um, because that might bind you up a little bit more. I would say, do you have any prune juice or, um, like hot liquid?
+Patient: I'm gonna open up a can of peaches and, and eat apples, apple sauce because apparently that's supposed to clean you out. Yeah.
+Nurse: Yeah. Sometimes certain fruits it for
+Patient: Peaches, [PHI-Personal], apples. Yeah.
+Nurse: Yeah. So definitely try that. Um, and then, you know, you don't wanna let it to go too long from this, you know, seeing that you haven't gone in a while. So, um, you know, they definitely, have you tried, uh, in the past when you've had diarrhea, uh, excuse me, constipation. Have you done like Miralax or, uh, uh, like a Dulcolax or any other types of, um, you know, laxative
+Patient: Stimulant? Yeah. No, only when they call for that preparation for, for a colonoscopy. That's any time I do that. Sure.
+Nurse: Sure. Yeah. Yeah. So, definitely. I mean, those are the, the first step things, you know, uh sometimes hot tea or warm prune juice, that type of thing. But, um, you know, I, I, at this point being six days it might be, you know, something to try something more. So if you wanna, you know, try this morning and see if you have some effect with having some of those peaches, um, you know, uh different things that, that might stimulate, you can do that and then we can kind of touch base this afternoon and see how you're doing. And if, you know, um, if something else should be recommended like, uh, like a Miralax or milk of magnesia, that type of thing to, to help keep you more regular and get them moving again.
+Patient: Yeah, I'm gonna, I'm gonna take the, um, the fiber supplements that I was taking before I got sick. Then I stopped taking everything except my BP medicine because I, not that I wanted to, I, I just couldn't handle all of it being sick. So maybe my system's all messed up.
+Nurse: Yeah, definitely. That, that can happen, you know, and you were pretty sick for a while. So, um, uh, you know, like I said, we'll, we'll see how you're gonna be, you'll be around this afternoon. So. Oh, yeah,
+Patient: I'm gonna stay close to, to the, to the bathroom because I'm gonna have to go. I mean, this is ridiculous and it's uncomfortable and I don't, I'm not myself, I don't feel right.
+Nurse: Oh, of course. Right. Right. No, that makes a lot of sense. And then we'll see then, and see if, you know, um, if [PHI-Personal] would recommend some, you know, for you to try something else, you know, that way you're not still waiting another day on it. Um, definitely you're not having any nausea or vomiting. Right.
+Patient: No, I'm not. Ok.
+Nurse: Ok. That's good. You can
+Patient: Also tell her or ask her if she can recommend a gastroenterologist.
+Nurse: Ok. Sure. Um, so the one that you had gone to previously then, um, it, were they just doing the Colonoscopies or did they ever? Yeah, Doctor
+Patient: [PHI-Personal] More. He just did the colonoscopies. And I asked him if I could start seeing him and he never acknowledged me. So I just assumed either he's full or busy or you can't take on it. I don't know. And mine, I can never get a hold of p, a gastroenterologist over in [PHI-Geographic]. They are so hard to get a hold of.
+Nurse: Oh, goodness. And Um, let's see. I'm just looking here to see if we have, have, uh, any other G I notes here. These
+Patient: Are all, yeah. Somebody that older, he specializes in diseases of the intestines because I'm not a general patient, you know, that with having, you know, polyps removed and CS lesions, which they're cancerous cells they were removed. Ok. Now, I need to see somebody that, you know, specializes in colon diseases. Sure.
+Nurse: I'm seeing one here from uh Doctor [PHI-Personal]. Does that sound right? This was [PHI-Personal]?
+Patient: Well, that's who I was going to. Ok. Um So
+Nurse: You would, you not wanna, I just want to make sure we get you to the right person, would you? Cause it does say follow up as needed. Um Did you want to still go see them or, or see somebody else?
+Patient: Yeah, I guess I'll go back there. I just, it's so hard to get a hold of anybody or talk to the doctor. I
+Nurse: Know it is. It is. Well, I can definitely help. I'll give a call to them and just, uh you know, say, hey, I, is this, do we need another referral or is this since you've seen them in the past? You might, you probably don't that they, you know, might just be able to see you. Um, because you just, you know, you wanna have an evaluation
+Patient: If you can get me an appointment. I, I'll go see him because I need to talk to a gastroenterologist.
+Nurse: Sure. Sure. And any day or time, like, any time they'd be able to see you, you'd be open to or?
+Patient: Oh, yeah. Um, well, I babysit from, like, around three pm until 7 p.m. So it would have to be a morning and I'm looking here, um, I don't know, it's sporadic. Sometimes she needs me in the morning but it's not often. It's mostly in the evening. I babysit.
+Nurse: Ok. All right. Just in case they're able, uh, to get you schedule, I'm gonna look into this today and hopefully, um, I'll be able to give, give you some, some good updates, but hopefully you can get your, your bowels going and we'll talk a little later this afternoon.
+Patient: Ok, thanks.
+Nurse: You're welcome. And just, uh, before I let you go since it's the beginning of the year, uh, your address and insurance are all still the same, nothing changed.
+Patient: Yeah. No, that's
+Nurse: All the same. The new year. Ok. All right then. Well, I'll talk to you soon.
+Patient: Ok, thanks.
+Nurse: You're welcome. Bye bye
+Patient: Bye.

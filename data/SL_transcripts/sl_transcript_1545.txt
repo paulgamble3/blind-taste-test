@@ -1,0 +1,16 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, this is [PHI-Personal]. Who am I speaking with?
+Nurse: My name is [PHI-Personal].
+Patient: [PHI-Personal]. Ok. I don't know if I talked to you yesterday or not, but, uh, [PHI-Personal] Veronica Presley. Now I'm calling about lab work that the doctor has ordered for me over a week ago and, uh, maybe if you can pull my, my record, you can see, you know, I won't have to go through all this story again.
+Nurse: Sure. Yeah, I talked to you a couple days ago. It, it sounds familiar. Let me get your chart pulled up. Can you verify your date of birth for me?
+Patient: 6 52? 86 52. Ok. And I like, and I talked to, uh, another lady yesterday.
+Nurse: Looks like you spoke with [PHI-Personal] yesterday. Does that sound?
+Patient: Yeah, it was ok. And she told me that the place had the records and, uh, had my orders and everything and someone would call me in the morning to this morning. I didn't, I haven't heard from anybody. Can you give me the name of the place that has the records and I could call them?
+Nurse: Yes. I do. So she faxed those orders over to [PHI-Geographic] health care at home and I can give you their number as well. Ok,
+Patient: Wait a minute, I'm right here at home. Ok. And what's the number,
+Nurse: That phone number is? [PHI-Account]
+Patient: [PHI-Personal]. [PHI-Account] 9432. Ok. And she sent them on. Yes. What was yesterday? Today?
+Nurse: Yesterday was the [PHI-Personal].
+Patient: Ok. The [PHI-Account]. Ok. And that doctor, I don't, I can't spell that doctor's name. His name is doctor. [PHI-Personal] that's what we call it. He said just w all right. Ok. Let me see because I, I am, I'm, I'm in terrible pain. The doctor has nothing else. Uh, he hasn't received any lab results and he can't move ahead with it with, uh, his next move for me and I'm hurting too badly. All right. Let me see.
+Nurse: Yeah, they should have those orders. Um, and I know that they were going to, um, they were gonna be contacting you. It looks like the last update we had.
+Patient: Yeah. Ok. All right, Tala. Thank you. No problem. I'll call you all back. Ok. Ok. All righty. Bye bye.

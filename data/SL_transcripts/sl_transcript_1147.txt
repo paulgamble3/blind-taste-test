@@ -1,0 +1,30 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Uh Yes, this is [PHI-Personal]. I just got a message from [PHI-Personal]. I took my BP this morning and she sent me a message saying it was quite low and my heart rate was elevated. Uh I have no problems right now. So I just, you know, I would like to have, I'm sorry, go ahead.
+Nurse: You said [PHI-Personal]? Yes. Ok. Let me pull up your information really quick here. Oh. Oh, here it is. Ok. Ok. Yeah, I do see the pulse was 108. Um You said you feel fine right now?
+Patient: Yeah. Yeah, I feel fine. I've been having problems maybe with the cuff on this BP machine. Sometimes it doesn't feel like it seals correctly or fits correctly.
+Nurse: Ok. Is it too big or too small?
+Patient: Uh It just doesn't seem like it when you first put it on, it just doesn't seem like it's fitting snug, you know, I don't know how to explain it. I see Doctor [PHI-Personal] next month and I might take it to him and, you know, and you know, have his nurse look at it or you know, to see if I'm doing it correctly because it, it just doesn't seem like it's getting the right pressure and I, you know, and I feel that's why it's, you know, I just saw my cardiologist, like, three weeks ago and everything was fine, you know, like, it was 1 20 over, like, 70 or, you know, like, it's right there in the time frame. But, but, but here with this machine it seems like it's always low, you know, you know, like very low.
+Nurse: Mhm.
+Patient: Hm. And I, you know, I don't feel anything, you know, I didn't feel my heart rate was elevated this morning.
+Nurse: Ok. Ok. Did you have caffeine right before or smoke?
+Patient: No. No, I didn't, no, I don't drink caffeine and I don't smoke.
+Nurse: Ok. And um this reading that you took was it before or after medication?
+Patient: It's after medication?
+Nurse: Ok. Ok. Let me just look at something here and you're on the metoprolol 25 mg daily.
+Patient: Yes, I'm on like five of them.
+Nurse: Ok, because that one should bring down the heart rate. Um, and you're on the Entresto 24 26 right? Ok. And then the Spironolactone 25 mg tablet, correct? Ok. Um, so today it just shows the pulse elevated and I do see the BP was kind of low. Um, but you feel fine. No dizziness, nausea, shortness of breath. Ok.
+Patient: No, none of that.
+Nurse: Were you moving around a lot before the reading
+Patient: No, I was sitting still, I got up to get the machine and then, and I, I sat back down.
+Nurse: Ok. Um, let's just recheck it and see if the heart rate's still up.
+Patient: Yeah, I'll recheck it here shortly and, yeah. Ok. And that, and I'll send another one.
+Nurse: Yeah, let's just see if it stays up. How's your fluid intake?
+Patient: Good. I drink water when I wake up and it, that was one of the major problems during the summer time last year was, it was, uh, on my, on my, the dehydration? Oh, so I drink quite a bit of water around. I drink a lot of water now.
+Nurse: Good. And what about your salt intake?
+Patient: I don't, no, I don't use that much salt.
+Nurse: Ok, let's keep an eye on it. Um, and then if it continues the heart rate continues to stay elevated, we'll let the doctor know. But it may have just been just that reading. Um, and as long as you're not having symptoms with the BP, um, that's good. Um, but if you start getting dizzy, shortness of breath, nausea, feeling clammy, uh, that could be due to the BP, but you're on a lot of, a lot of medication to bring it down. So,
+Patient: Yeah, I am on a,
+Nurse: I think that's fine where it's at. Um, we'll just keep an eye on it. Is there anything else I could help with, like with the medications or questions or anything
+Patient: That's it, that's it I wanted to get you you know just make contact with y'all.
+Nurse: Well thank you for calling us back. We really appreciate that.
+Patient: Ok, I appreciate this program. Ok. Alright thank you. Have a good day bye uh huh you too bye bye bye.

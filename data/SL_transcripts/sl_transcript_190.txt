@@ -1,0 +1,27 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi.
+Nurse: Hey, how are you? Uh, did,
+Patient: Did you, did you get my message?
+Nurse: I did get your message. [PHI-Personal]. Hang on one.
+Patient: Yeah. Instead of having the appointment in [PHI-Personal] we, me and my daughter couldn't go together so we separated it and they gave it to me. [PHI-Personal].
+Nurse: Right. I did see that. Give me one second to pull your chart up here. All right. So it does look like Doctor [PHI-Personal]. She does want you to have a CBC, a comprehensive metabolic panel and a vitamin D level drawn.
+Patient: Ok. I'll go, I'll go to the one on [PHI-Personal]. So I'll call there and try to make an appointment for tomorrow or Monday. So they should have enough time to see it. Ok.
+Nurse: Yeah. As long as you get that, um, scheduled within or get it scheduled probably within, just like a couple of days before she should have those results. Yeah. Yeah.
+Patient: Well, what I, if they give it to me for tomorrow, I'll go tomorrow. If they don't, then it has to be Monday because they don't open on weekends.
+Nurse: Ok. That's right. Tomorrow is Friday. I don't even know what day it is.
+Patient: Yeah. Yeah. The week went by fast and then the other thing is how did my MRI came out?
+Nurse: Let me see here. Um I will get a message over to doctor [PHI-Personal] to see um what she thinks the results are back. I do see that there is a final result in there. So I will get a message over to doctor [PHI-Personal] and then um what I, I'm,
+Patient: I'm sorry, what's in there?
+Nurse: Um So the result is in here. Um, but I will get a message to doctor [PHI-Personal] so that she can tell me exactly what it says and then I will um I'll reach back out to you.
+Patient: Yeah. Well, I wanted to tell you one day my legs feel real heavy. Some, you know, I gotta be ful I gotta just because um, you know, they're just heavy. I mean, I feel ok. Uh my BP is ok and, but my legs are, they're more heavy than ever. Ok? That I've ever, you know, oh, maybe it's inflammation. See. Have you. Um Yeah, but uh, but uh the MRI should tell if there's anything wrong down there some place cause it took my whole body.
+Nurse: Right. Right. Yeah. Yep, I will. Um I'll ask doctor [PHI-Personal] exactly what the MRI says, what the results of that are. And then whenever I hear back I'll give you a call.
+Patient: Ok? I appreciate it and thank
+Nurse: You. Oh, no problem. Dear. You have a good day and call me if you need anything. Ok.
+Patient: No, that was the only thing I'm gonna call the, the clinic in. Uh, that's what I do. My blood test.
+Nurse: Ok. That
+Patient: Sounds good. You want, you'll send the prescription over there, don't you? Because that's the first thing they'll ask me. Do you have a prescription? Well, she sends it over to the one on [PHI-Personal].
+Nurse: Yep. And you want to go to [PHI-Personal] [PHI-Geographic]?
+Patient: Ok. That's fine.
+Nurse: Yeah. All right. I will let him know.
+Patient: Ok, thank
+Nurse: You. Uh huh. Thank you.

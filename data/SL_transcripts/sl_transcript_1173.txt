@@ -1,0 +1,6 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] again. I'm sorry to be a second. No,
+Nurse: You're perfectly fine.
+Patient: Uh, I was wondering, uh, would you be able to, uh, co, I mean, it's, it's not an emergency but contact doctor [PHI-Personal] to ask for referrals for an OBGYN. Uh, it'd be a real plus if it were a geriatric, you know, somebody in gynecology that specializes in somebody my age. But, uh, but whatever she feels would be, uh, would be some good references. I just, I was sure that I had an appointment this week and it turns out not until [PHI-Personal]. So I, I don't wanna wait until then to talk with her about it.
+Nurse: Sure. Let me, um, get you pulled up here again quick. Ok. Thank you. Ok. And what would the reason for the referral be? Like? What, what you got going on?
+Patient: Well, uh, sexual problems, uh, and uh, other things like that, uh, the, uh, she had referred me doctor to a, uh,

@@ -1,0 +1,123 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help
+Patient: You? Yeah, this is [PHI-Personal] OE RT le and I missed your call. Oh, hi, [PHI-Personal].
+Nurse: How are you?
+Patient: Fat sassy, old and [PHI-Personal]. Oh, no. And getting worse and getting worse.
+Nurse: But is good. I'm pulling up your chart right now. So my name is [PHI-Personal]. I'm a nurse calling on behalf of Doctor [PHI-Personal] for the chronic care management program. Yep. All righty. Let me just pull you up
+Patient: Here as fat as I am. I'd like to see you pull me up. Oh, I like you. You are so happy. Yeah. Now I'll tell you what you can embarrass Doctor [PHI-Personal]. I did one time and his face got red as a beet and I still do it every once in a while. Uh. Oh,
+Nurse: All right.
+Patient: Let's see here and I like him.
+Nurse: All right. I just wanna verify a couple of things. I have your address is 74 64 US 45 South. Yep. Ok. Date of birth. 8, 1949. Now
+Patient: You're getting nosy.
+Nurse: Yep. I am getting nosy. You're not old. Oh, you're talking about
+Patient: All right. Let's older than dirt. Not under it yet working on it though. Oh, no, no,
+Nurse: No, no. All right. We have insurance Medicare part A and B and Blue Cross, Blue [PHI-Personal] Shield of [PHI-Geographic]. Yeah. Ok, perfect. Um I will be mailing you out some 2023 Wellness Goals. Just some reminders of vaccines or screenings you may be due for.
+Patient: Ok. Um Let
+Nurse: Me see. Um in regard to your hypertension. Do you have a BP cuff at
+Patient: Home? Yes, ma'am. And how often do you use it? Not very often? Just every once in a while when I've got a headache or something, you know?
+Nurse: Ok. So it is a good idea if you don't do it routinely to do it once to [PHI-Geographic] times a week just to kind of keep an eye on how your medications are working. Um, you write down those numbers, bring them to your next appointment, let doctor review them and it gives him a better gauge of if any changes need to be done. Ok. Um, let's see. Uh, your kidney disease. Do you weigh yourself at all?
+Patient: Now? You're getting nosy. Yeah, I am getting nosy and I don't like it, but that's not the point.
+Nurse: How often do you weigh yourself? I'm not asking for numbers,
+Patient: Uh, maybe once a week, once a week. Ok. And I don't that much.
+Nurse: So, it is a good idea to weigh yourself daily. I know you don't want to hear that um
+Patient: Daily. Are you daily? It, it'll
+Nurse: Let you know if you're putting on any fluid or anything
+Patient: Like that. Oh I can tell you right now. I'm not, this is good. I'm serious. This is sad ice cream. You're, you're gonna be,
+Nurse: You're gonna be fun.
+Patient: I like you. I love be a pain in the ass, ain't I
+Nurse: It's not a pain in the ass. You're fun.
+Patient: All righty. No, so I, I don't swell. Really? Ok.
+Nurse: Ok. Um
+Patient: Do you
+Nurse: My Lord. Oh Lord, they only made a magic pill for that, right? Um Do you stay away from salt caffeine stuff like that?
+Patient: Would you believe it? Yes.
+Nurse: Oh my gosh. You actually gave me a good answer. And are
+Patient: You ready for this? I do not drink Coke. I, the only thing I drink is one cup of hot tea of the morning and I have a bottle of water sitting with you now. Damn it. You're
+Nurse: Better than I am.
+Patient: Damn it. Oh my God, you're saying, hey, I took a drink of co in it one time and it nearly gagged me. It was so sweet after I'd been off it for so long. Uh-huh, I couldn't drink it but well, I that coffee I sure could but I don't,
+Nurse: I wish I could say I'm as good as you with
+Patient: That. Doctor [PHI-Personal] just ate me up one side and back down the other. Oh
+Nurse: Geez. Um any falls or accidents since your last appointment with doctor [PHI-Personal]. Ok, good. And just gonna pull up your med list here so I can make sure this is all up to date. I have vitamin C um 250 mg daily.
+Patient: I look.
+Nurse: Oh, good. You're getting your Bibles out.
+Patient: Worry out on the cabinet. See I people compliant vitamin C. There's 1000 mg so take one of them a day. Oh, ok.
+Nurse: Uh Is that vitamin B or vitamin C?
+Patient: Vitamin C 1000 vitamin B 12 is 1000.
+Nurse: Ok. I have Zyrtec um 10 mg. That's cetrizine for your allergies
+Patient: Daily. Yeah, and I need something else for them.
+Nurse: Ok. Do you let me see what you have? Hold on. Uh do you use Flonase at
+Patient: All? Yes, it's sitting here too. Damn it.
+Nurse: Ok. How much, how much do you use? Um how many sprays do you do in each nostril daily?
+Patient: Two of the morning and two of the evening,
+Nurse: Two in each nostril or one in each nostril two.
+Patient: Ok. Squirt squirt. Squirt squirt. It's four of the morning and four of the afternoon or evening and I've been wearing a mask mowing the damn yard. Feel like a weird still. Get you now. Ok. Can't you hear how hoarse I am?
+Nurse: You sound good on the phone
+Patient: Nasally.
+Nurse: Let's see. I have that you take Norco one tablet every [PHI-Personal] hours as needed for pain. Yes,
+Patient: Ma'am. And sometimes I need it more than that. Ok. Don't take them more than that. I don't. Damn. It. Ok.
+Nurse: Is that your favorite word?
+Patient: [PHI-Personal]. It sometimes? Oh, I can come up with some good ones too. I,
+Nurse: I have Ativan 0.5 mg daily for anxiety.
+Patient: Yeah. Take one at night. I have
+Nurse: Lovastatin um, one tablet daily. 10 mg. Yep. Ok. Metoprolol. [PHI-Personal] mg daily.
+Patient: What's the high BP? Yeah. Yeah. One at [PHI-Geographic] o'clock in the afternoon. Yep.
+Nurse: Ok. I have that. You're also taking Singulair for allergies. 10 mg daily.
+Patient: Yes, of the morning. Same time I take my BP medicine. Ok.
+Nurse: I have Rizatriptan or [PHI-Personal] 10 mg. Um repeat in two hours if unresolved
+Patient: What's [PHI-Personal]
+Nurse: For? I'm looking right now because honestly I've never heard of it. Um It's for migraine headaches.
+Patient: I haven't had one of them and God knows where, but don't take that off my thing. Ok.
+Nurse: But you have the medicine if you need it.
+Patient: I got it.
+Nurse: Ok. Don't exceed 30 mg in [PHI-Personal]
+Patient: Hours. I don't if I get one of them bad ones, I call I go and get a shot. Ok. Got you.
+Nurse: I have zinc um 66 mg daily.
+Patient: This one's [PHI-Personal] you have [PHI-Personal]. Uh huh
+Nurse: OK. Let me say zinc [PHI-Personal] mg. OK. And let me just go back up here. Do you said the vitamin C was 1000? I'll change that one.
+Patient: Well, it's just whatever they got at the store basically. Know that's ok. I'm sorry.
+Nurse: No, you're fine. Hey listen, no, an extra, extra vitamin C never hurt anybody
+Patient: Know. Hey, listen, in this day and time you better take all you can get it because you don't want that shit. Mhm
+Nurse: I'm sorry. So when you say you're having sinus issues or I'm sorry, allergy issues. Are you having sinus pressure? Is it nasal congestion? What are you experiencing?
+Patient: Ok. I've got a ear that pops and cracks. Which ear actually it's both of them.
+Nurse: Ok. So your ears popping and cracking.
+Patient: Yeah. And I've got enough snot for [PHI-Personal] people.
+Nurse: What color is? That's not for
+Patient: People clear sometimes and sometimes it's got a little yellow in it. It's clear right now and any fever. No. Thank God any cough uh maybe at night when it runs down my throat and chokes me.
+Nurse: Ok. So some post nasal Yeah. Uh choking at night and oh God, any sinus pressure.
+Patient: Uh No, it's mostly in my head. There's just enough room up there for it.
+Nurse: So is the pressure in your forehead?
+Patient: Yeah. And I guess it's nasally too. My Yeah. When I push on my front of mine. Yeah.
+Nurse: Oh so you some, so you have some cheek bone pressure. Yeah. Ok. And how long has that been going on?
+Patient: You wanna really know or you want me to lie to you? No, the truth. This is going on the second damn month. Ok? And it's allergies. I know what it is because the other day I got out and mowed and I didn't put my mask on and I couldn't hardly talk the next day.
+Nurse: Ok. Ok. Let me see. All right. Let me see what doc can give you. So I'll tell him that you're taking the Zyrtec, you're taking the Singulair, you're taking the Flonase twice a day. Yes, nothing's working. Holy hena. All right.
+Patient: I know. And he told me do all that shit. I don't know who he as you like. You like me, don't you? I know.
+Nurse: Oh, you're funny. My [PHI-Personal] year old would like you more. Oh
+Patient: My grandkids like me too, mama. Really? That's too
+Nurse: Funny. All right. No shortness of breath.
+Patient: No. OK. Good. Ohh. And I take a vitamin, regular vitamin, vitamin multivitamin.
+Nurse: Ok. Do you know what brand it is?
+Patient: Uh huh. Nature made multivitamin with Omega [PHI-Geographic] for her
+Nurse: Multivitamin.
+Patient: Omega [PHI-Geographic] for her.
+Nurse: One daily. OK.
+Patient: No, actually it's two of them. OK? Two daily. That's what it says. I feel,
+Nurse: I feel like I should say damn it. No,
+Patient: There you go. It says take 22 gummies and that's what it is. Ok? Two
+Nurse: Gummies got you. All right. I am gonna send a message over to doctor see what we can do about those allergies um
+Patient: With you in. Hey, let I'm not kidding you. The Zyrtec and that Claritin is doing a sip and I know what it is. It allergies.
+Nurse: No, I understand. Um, something you could try two at night. Um, you can try some saline mist in the nose while you're taking a warm shower.
+Patient: I take a bath. Ok.
+Nurse: Stick your nose under the bath water. Drown. Don't drown. I mean, under the faucet, not under the tub.
+Patient: Oh, yy. So you going to have problems with me?
+Nurse: You're in trouble. You're gonna be like, Doctor [PHI-Personal]. That nurse tried to draw me now.
+Patient: I wouldn't do that. I think the time I could drown myself. All
+Nurse: Right, Miss [PHI-Personal], I'll send that message over to doctor. Do you need any medication refills? Other than finding something for your
+Patient: Allergies? No. Uh, I'll need my, yeah. HYDROcodone pretty soon. I'll, yeah, I'll call him.
+Nurse: Ok. I can, I can ask him to fill it if you
+Patient: Want. No, I don't need it now. Oh, you don't need it yet? Ok. It's too early. They don't think I'm a druggie. They think I'm one, they think I'm one. Anyway.
+Nurse: Oh my Lord. Um, and then what's your preferred pharmacy if he does decide to
+Patient: God help us? Walgreens. Walgreens. Ok. Yeah.
+Nurse: All righty then. All right. I will send this stuff over, um, to him. I will send you the letter in the mail with your wellness goals and I will follow up with you, um, in a month or less.
+Patient: You don't have to call me once a month. Do you? I don't have to, if you don't want me to. Well, now let me tell you, call before nine o'clock. What time, what time do you, what time do you start? Really?
+Nurse: Your time? I start at 7 a.m.
+Patient: Well, you could call at eight and I'd be home. Ok. All right. Maybe, maybe. Now my husband's in the hospital or in the nursing home. Yes, I did see that note and I go, I leave here at 10 to go see him and then uh the morning like on Fridays I go to the grocery store. Ok. Ok, babe. Thank you much. Alrighty, I'm glad you got to talk to me. Have a good day. You too.
+Nurse: Bye bye bye bye bye.

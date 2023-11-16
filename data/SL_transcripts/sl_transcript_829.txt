@@ -1,0 +1,13 @@
+Nurse: Hello. Hello. Hey [PHI-Personal]. Can you hear me? Yeah uh [PHI-Personal]. Did you just call me?
+Patient: Yes, ma'am. I was just um calling to let you know that [PHI-Personal] went ahead and sent in a refill of your c clopidogrel for you to CV S.
+Nurse: Ok. Yeah, we did get, I did get notice that she did respond.
+Patient: Ok. Ok, good, good. So, but I was just um I was just calling you back with a quick update that she sent that back in for you.
+Nurse: Ok.
+Patient: Um but um as I said, um if anything changes, um I think she's gonna um review your cardiology notes and stuff and of course she wants to change anything. I imagine she's gonna let me know and everything but right now she's sending your Plavix in the CV S so it should be ready. She sent it in about 10 45 this morning. So I imagine it should be ready by this evening.
+Nurse: We did get a notice that it is said ok from CV S. Ok, good. It was uh you know they sent me a text. Yeah, let me know that it, it was, she did approve it.
+Patient: Ok. Well, um, just remember you got your, um, appointment on the 13th at one o'clock with [PHI-Personal].
+Nurse: Yes.
+Patient: Ok. All righty. Um, well, I'll probably try to check in with you, um, here in about two or three weeks after that appointment. But if you have any questions or concerns before then don't hesitate to give me a call. Ok.
+Nurse: Ok, I will. All right.
+Patient: Well, I hope you have a good night. Yeah. You know happy for
+Nurse: You and same to you dear. Thank you. Bye. Thank you. Bye.

@@ -1,0 +1,33 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. S hi. Hi. Um, I was wondering if you found that, uh, the paperwork that I need for that [PHI-Personal] was supposed to fill out. Did you get my message?
+Nurse: Um, yeah, I, we discussed it, I think Friday last week, right? Ok. I know I sent a message over to [PHI-Personal] who is, um, [PHI-Personal] P A but, you know, with [PHI-Personal] out of the office, I'm not sure if she found anything out. So let me see
+Patient: Because I know, I know she, I'm pretty sure she was the one that pick it up for me at the front office when I, when I stopped in there.
+Nurse: All right, and she took the paperwork and she was gonna bring it back to [PHI-Personal].
+Patient: Yes. And you fill it out and send it, send it to me.
+Nurse: Ok. All right. So I did send her a message, um, Friday morning but she has not responded to it yet. Um, like I said, my, my guess is she didn't have an answer until [PHI-Personal] was back today. Ok.
+Patient: Uh huh.
+Nurse: Ok. So let me just give you a call a little bit later on today once they have a chance to look around for it and I get an answer. Ok.
+Patient: Alrighty and while I got you on the phone. Yes. Uh what is it? Which one is it here? I'm look I'm just looking at my pill box I need uh the what is this [PHI-Personal]? Ok so the 10 mg I take it in evening or at bedtime? Mhm.
+Nurse: Mhm. That's your Singulair it's usually for, uh, like allergies or for breathing issues.
+Patient: Uh huh. And I'm having a really hard time with my eyes right now. Uh I'm taking this, uh, what is it? Um, I was told to the X I ID ra I know, I don't even know how to say that. Is it Z or X?
+Nurse: Let me take a look. Uh What, what's the spelling again?
+Patient: It is [PHI-Personal] and it drops to go in both eyes and I got that from my eye doc uh the, the eye doctor down here.
+Nurse: All right. Yeah. Looks like we don't even have that one on your profile right now.
+Patient: No, no, because it, I just saw her and she goes, well, I don't wanna change your prescription yet because, because I had a, um, allergy, they seem to have settled in my eyes right now. Well, say my nose too. But anyways they're in this area. So she said we take this for a month before we uh, reevaluate your eyes. Your prescription. So, uh I'm taking that
+Nurse: Now. Is that both eyes you're using?
+Patient: Yes. It's in both eyes and it is the, uh, dro 5%.
+Nurse: Yeah. And is it just once a day or how often are you using it? It
+Patient: Is, I'm supposed to use it twice a day and then there's uh, [PHI-Personal] a day and this one is, this is a over count over the counter one and that is once daily one drop in each eye. Ok.
+Nurse: Yeah. All right. And then besides that [PHI-Personal], anything else that you're needing refills on right now? Uh I
+Patient: Don't think so. I wish I get all these uh on the same thing so I could just, they all got ordered on the same day. All those uh the rep is already up there. I just go, go and pick it up. Ok. Yep. No, I believe that's, that's it. Mhm. Sorry to be such a pain in the ass. But
+Nurse: No, you're fine.
+Patient: You're fine. All right.
+Nurse: All right. Well, w your allergies are irritating. You make sure you're, you know, drinking plenty of water, keeping those secretions and everything as thin as they can be. So they're passing real easy
+Patient: And certainly drink a lot of, a lot of water,
+Nurse: A lot of water. Ok. And if you're noticing any fevers or if you're, you know, having a lot of yellow green brown kind of drainage, anything like that, let us know. So we can get you taken care of? Ok.
+Patient: Hm. Cause when I cough up the really bad phlegm, the hard phlegm from down in my lungs that is, that's still yellow. But I guess it would be anyways because I just, just because, I don't know.
+Nurse: Yeah, being, yeah, when it's coming up from, from way down in the lungs, there's usually some amount of either bacterial or something that's in there that discolors it a little bit but especially like drainage from your nose or what's sitting right there in your throat. If you're seeing crazy colors, let us know. Ok. All right.
+Patient: Mhm. I sure will.
+Nurse: All right. So I will give you a call just a little bit later on today once I get a response from [PHI-Personal] um and then I'll send in that refill request right now. Alright.
+Patient: All right. Well, thank you very much.
+Nurse: Oh, you are welcome. I will talk to you again soon. Ok. Yep. Bye bye. Right bye bye.

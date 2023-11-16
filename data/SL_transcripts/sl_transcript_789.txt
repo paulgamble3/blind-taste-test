@@ -1,0 +1,20 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. This is around the creek. How are you? Hi.
+Nurse: Good, how are you?
+Patient: Ok. Seems like I'm talking to you a lot, doesn't it?
+Nurse: But that's ok. It's my job as a nurse. I am here for you to reach out as often as you need to. So fill me in. What's on your mind right now?
+Patient: I, the um doctor started me on uh, the Floxin. I think it's like Diflucan. I'm on a generic brand. But anyways, I hope it works because generics usually don't work with me. But that's what the doctor gave me. I mean, the pharmacy gave me, but the pharmacy told me that taking this and taking Losin together will be side effects with my leg. So I haven't taken my um, uh, Tan Losartan. I haven't taken that since I started taking this medication and I started taking this on the 31st. It's like I don't want that side effect. There's so much stuff going on with me. Oh,
+Nurse: I can imagine. So, your Losartan, you stopped taking it on [PHI-Personal] because you started the other medicine on [PHI-Personal]. Yes. And tell me again the new medication.
+Patient: Uh I'm gonna spell it. I got the generic fluconazole and it's 100 mg and I take it for 22 days.
+Nurse: Ok. And your Losartan, do you recognize that? That lowers your BP?
+Patient: Ok. Does it?
+Nurse: Yes. The Losartan definitely is meant to lower your BP. So, by taking the fluconazole but not taking the Losartan, you might end up with higher BP. So have you done any home BP monitoring since stopping the Losartan?
+Patient: No, I don't. This is frustrating me because of it. Get rid of one problem. Another problem pops up and I don't want to uh Losartan lo fa RT A N I thought, yeah, that is for my BP. I um I don't know, I feel very frustrated. I don't want the side effects. I already have so many side effects and it ain't funny.
+Nurse: I know what you mean. And what side effect did the pharmacist tell you you might experience if you took them together,
+Patient: It's somewhat the pain in my leg.
+Nurse: OK. Possible leg pain side effects. All right. Now, let me see here looking things up. OK? OK. OK. So I do see that there might be some side effects but is the risk versus benefit appropriate for you to stop the Losartan while taking the fluconazole? Let me put a message right on out to doctor [PHI-Personal] immediately because the office closes at three. So not to be rude, but I'll hang up to, to get a hold of the office to make sure doctor wants you to take both. Or what is she recommending? Um, are you having any headaches? Any dizziness, nose bleeds, severe anxiety, which are symptoms of high uncontrolled BP.
+Patient: No, I got really sick on the stomach last night, but I think I, I ate at [PHI-Geographic] and I think something was wrong with the food. But otherwise, no.
+Nurse: Ok. And you're taking the fluconazole prescribed by him?
+Patient: Yeah. Uh, prescribed by the gastrologist.
+Nurse: Ok. And that's because of the yeast that you have. Yes. Ok. So it makes total sense with the fluconazole. But I think you might get into a BP problem if you hold your Losartan until you're done the fluconazole. So let me get a hold of doctor wo get the direct recommendation for you and I'll call you on back. Ok, thanks. You're welcome.
+Patient: Bye bye bye.

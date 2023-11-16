@@ -1,0 +1,7 @@
+Nurse: Ccm [PHI-Personal] speaking.
+Patient: Hi. Um, this is [PHI-Personal]. I'm, I'm actually calling on my husband's phone but, um, I have, um, uh, poison on my face. Poison on. Yeah, and I was wondering if I might be able to get some predniSONE called into the
+Nurse: Drug store. Ok. Um, you know what I can do, Missus [PHI-Personal], um, give me your date of birth, please.
+Patient: [PHI-Account]
+Nurse: 6, 28 50. Ok. So what I'm gonna do is I'm gonna, um, send a message uh right now directly to [PHI-Personal]. Um, yeah, she, she usually is your, your nurse care manager. Um, I will give her the message about the poison ivy, um, so that she can, um, give you a call to find out a little bit more information, um, and reach out to the doctor for you. Um, I think she's probably on another call now. Um, but, but I'll definitely message her so she should be calling you back within a few minutes. MS [PHI-Personal]. Ok. All right. Thank you. Sorry about that. I hope you feel better.
+Patient: Yeah, I, I was so we yesterday be careful.
+Nurse: Yeah, I've, I've heard a few situations with my patients getting those situations. So yeah, they were able to get, get their, their treatments through the doctor and they're doing fine now. So, so you will definitely fix that for you. Um I'll let her know right now, MS Miller. Ok, thanks. Ok. You're welcome. Bye bye.

@@ -1,0 +1,34 @@
+Nurse: This is [PHI-Personal]. Hi. Hey, this is [PHI-Personal] calling you back. Hi, [PHI-Personal], how are you doing? Ok.
+Patient: Let me get you pulled up real quick.
+Nurse: All right, I got your message, uh, about calling Doctor [PHI-Personal] and getting in there.
+Patient: Yes. Yes. Can you confirm your date of birth with me?
+Nurse: 12, 14, 1957.
+Patient: Yes, I saw that. How are you? Are you still having symptoms?
+Nurse: Yeah. Yeah. I think I'm a lot tired, tired or, than I should be. I was doing good there for a while, you know. So, I mean, I remember when my dad used to get these, you know, what symptoms he used to have. I used to tell him daddy we need to go because you got a urinary tract infection, you know. Yeah,
+Patient: You, the thing about UTIs too is that the symptoms can vary greatly between infection. Infection can make you even kind of confused and out of it another one and they do pain, you
+Nurse: Know? And it's, yeah, I mean, they, they act the same with me all the time. They just make me feel tired and maybe a little, not, not achy, but just you know that, I really don't care if I do anything and I'm upset about it because, um, no, because there's, there's things I have to do this week because not this Saturday, but the next Saturday is when my son is taking me to [PHI-Geographic] and I wanna be ready.
+Patient: Yeah, that's why I know I saw that you were planning to go out of town too. So I wanted to, you to get that done. Have, are you having any burning with urination or?
+Nurse: Um, no, but like, yeah, sometimes back pain. Well, yeah, but today when I, right before I got my shower I sort of felt a little pain down there. Um, you know, so
+Patient: Like pelvic pain down in that
+Nurse: Lower. Yeah, down in that area. Yes.
+Patient: How does your urine look any, is it clear and yellow or is it cloudy? Dark, foul smelling?
+Nurse: Uh, sometimes it's, it's dark but with me pushing water it hasn't been as dark. You know what I mean? So. Mhm.
+Patient: Is it clear? Is it cloudy?
+Nurse: Uh, well, I think it's a little cloudy. Ok.
+Patient: Are you having any fever or any other symptoms?
+Nurse: Uh, I don't feel that way.
+Patient: Ok. I would definitely, definitely recommend, remember too that, you know, while they can be low on the symptom range, sometimes it doesn't mean that, you know, it's not serious and untreated urinary tract infections can become very serious.
+Nurse: So, yeah, just, yeah, I
+Patient: Would just call, call [PHI-Personal], get in there, get that urine checked that way, you know, if you need to start on some antibiotics you can. Yeah.
+Nurse: Yeah, because I wanna feel the best I can go. Yeah. Ok. All right. Well, thanks for calling.
+Patient: Is there anything else going on you need to discuss or you? Ok with your medicine?
+Nurse: Yeah. Yeah, I am. You been
+Patient: Urinating more often than usual? Any like urgency frequency
+Nurse: Issues? Well, it does seem that way sometimes like, you know, I got to go and I'm like thinking to myself it gets wet,
+Patient: You know, sign of infection too. Mhm.
+Nurse: Yeah. Yes.
+Patient: Well, good. Well, yeah, get in there that way we if you know we can see because when they do the culture too, you know, it takes three days to do a culture, you know, to get the culture back and they can tell if there's bacteria initially and then the culture tells them what kind so they know, you know how to treat or make sure they're treating with the right antibiotic. So. Well, good. All right. And I'll just plan to follow up with you like and you said you're out of town for two weeks?
+Nurse: No, just a
+Patient: Week, just a week. Ok. So if I'm follow up like mid [PHI-Personal], would that be good? Yeah. Ok, I will do that and yep, and you just let they'll know they'll get you in schedule that
+Nurse: Appointment. Alright. Thank you. Thank you.
+Patient: Bye. Bye.

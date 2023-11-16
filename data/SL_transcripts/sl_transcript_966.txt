@@ -1,0 +1,13 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] mcdonald. Hey,
+Nurse: How are you?
+Patient: Oh, I just woke up. I sat down and I went to sleep and I just couldn't come out of the sleep.
+Nurse: I know you were pretty tired yesterday. So I'm glad you got a little bit more rest today.
+Patient: Well, I was sick yesterday today. I feel a little better.
+Nurse: Good. I'm glad to hear. Um, let me see here. I was just trying to get in touch with you because I had sent a message to doctor [PHI-Personal] and she just wanted me to get you rescheduled again for, um, and a minute. So let me pull it up real quick and see what I can find. And I know doctor [PHI-Personal], even for like her post hospital, follow up appointments. They're not all the way until like, uh, I think [PHI-Personal]. So I'm trying to pull one that for [PHI-Personal] here. Let's see. So the first ones that we have that are available, um, like I said, it won't be with doctor because hers aren't until all the way until the end of [PHI-Personal]. Um, let's see, we have some on OC, the first one's [PHI-Personal] [PHI-Personal]. Um, let's see. And it's with another provider. Uh, let's see. Is that ok with you? Yeah, that's fine. Yeah. Ok. All right. So the first one is [PHI-Personal] [PHI-Personal] at three o'clock and it's with Susan [PHI-Personal] or there's even, um, some on the next day on the 28th and they're in the morning if, if that works better for you.
+Patient: Well, well, I'm going tomorrow to get set up with the, the pathway thing, the therapist or whatever. I don't know what time or day. So we'll just go ahead and do the August [PHI-Personal] at three o'clock for now.
+Nurse: Ok. Three o'clock. So, the, the pathways they did get back in touch with you.
+Patient: Yes, she did call me yesterday and, um, I have an appointment tomorrow at 10 o'clock.
+Nurse: Ok. Perfect. Well, I'm glad to hear that they got in touch with you for that. Um, so I got, um, [PHI-Personal] [PHI-Personal], which is a Thursday at three o'clock just for a follow up appointment. Ok. Ok. All right. And, um, I'll be keeping in touch with you just to remind you and make sure everything else is going according to plan. But is there anything else that I can do for you today?
+Patient: No, just, I, I feel a little better today. Oh, well, good. I'm very glad that you were tired. I couldn't get up.
+Nurse: Well, you just needed some extra rest. It sounded like you had a lot going on, so I completely understand, but I hope you have a good rest of your day and if you have any other questions that come up later, just feel free to give me a call back and let me know. Ok. All right bye bye. Alright. Thank you. Bye.

@@ -1,0 +1,24 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, is [PHI-Personal] there.
+Nurse: Um, she's actually off today. I'm covering for her.
+Patient: Oh, ok. Um, this is, uh, I, uh, this is, this was my week to get my scripts filled. And did she call for you? Yeah, I got mostly all of them except the two narcotics. And I, I was just, I just didn't know if I know it was early, you know, like last week. But, uh, I, I just don't want to go into the weekend and get stuck or, or I can take like, half the dose today and tomorrow. And are you almost out? Uh, I think I have, I have enough for today and tomorrow.
+Nurse: Ok. And that is for the methadone.
+Patient: Yeah. And the Roxy Codone,
+Nurse: The roxicodone. And then what's the other one?
+Patient: DiazePAM? No, I got that one. I just need those two,
+Nurse: The methadone and the roxicodone. Ok. Let me see. Yeah.
+Patient: And I ca, I called them yesterday and they said that they would send them right over. So that, that's why I thought that's why I, I don't drive because of my seizures and that's why I had my daughter pick him up, you know, but I hate to, you know, bother her too much and it's her daughter's birthday today. And so, you know, you
+Nurse: Get that.
+Patient: No, no, no. My daughter picks them up the, the pharmacy. I use the same one. It's just right up the street. It says, pardon me?
+Nurse: Is that the pharmacy?
+Patient: Yes. Yes.
+Nurse: Ok. So you called the [PHI-Personal] yesterday or the pharmacy yesterday?
+Patient: II, I called the [PHI-Personal] and, and they said they send them over so I figured that they'd all be there. So I sent my daughter to pick them all up and she got all the rest of them. But those,
+Nurse: Except for those
+Patient: Two, except for those two and then I called uh, I, I called the doctor [PHI-Personal]. Yes, yesterday and they said that they would send them right, right over and I called today and I guess they still haven't been
+Nurse: Ok. The pharmacy still hasn't gotten them is what
+Patient: You're saying.
+Nurse: Ok. All right. Well, I will follow up with the [PHI-Personal] then today and I'll reach out and um try and get them to send them over to the pharmacy again. Ok.
+Patient: Ok, if you could. Yeah, because you know you get into the weekend thing and then it's like uh, yeah, no problem.
+Nurse: Alright, I'll keep you posted. Ok.
+Patient: Ok. Yeah, if you can give me a call back and let me know I will. Ok, thank you very much. I appreciate it. No problem. Ok. Bye bye.

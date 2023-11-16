@@ -1,0 +1,68 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is [PHI-Personal]. How are you? Good. How are you? Ok.
+Nurse: Can, can I help
+Patient: You? Did you call me yesterday?
+Nurse: Did I let me look,
+Patient: You brought a lot of clients that you're going?
+Nurse: Um All right. So spell your first name for me,
+Patient: Ma [PHI-Personal] and last name [PHI-Personal].
+Nurse: All right, [PHI-Personal], just confirm your birthday for me.
+Patient: [PHI-Personal], [PHI-Account].
+Nurse: Ok. And let me just make sure why I called you.
+Patient: Life is complicated because uh I've never, my life is complicated with all these diets they got me on and nobody's given me a list and I'm like, like, what am I supposed to be eating? I'm trying to.
+Nurse: All right. So [PHI-Personal], I did call you yesterday and let me um, just tell you that this call is gonna be recorded for training purposes. Ok. Thank you. Yeah. And um the reason why I was reaching out to you is because doctor has a new service that um she's offering her [PHI-Personal] patients the and that service is called care management. So with that you would get a phone call from a care management nurse and that phone call would be at your convenience as frequently or as infrequently as you wish. And she basically would just check in, make sure that you're managing your medication, make sure that you're feeling good with any anxiety or depression that you may have. Yeah,
+Patient: We do. I forget, like last night I forgot to take the acid reflux medication was ok. I took some plums and I was ok. I mean, with the medication without the medication I spoke to my gastro doctor. Anybody can. Do you have one more second? Yeah. Go ahead. Go ahead. Yes. Yeah, I already have her. I got a hold of her. I'm on the phone. But did doctor give me a diet list to follow? Because it gets complicated. I'm a food that I'm supposed to be on this side. And the diet did she wanted, I, I need a diet list to follow but nobody's given me a diet list. So, how am I supposed to follow it? And then the whole thing is, yeah, in [PHI-Personal] I was diagnosed like, I eat almonds. Now, these other stuff I'm allergic to like, milk products and other things. Very mild. So, if I get a headache, stay away from it. Ent doctor. So I don't know what she looked that for it, but it was [PHI-Personal] from Doctor [PHI-Personal] office and I have a headache today and I know I have a headache. It's like it comes and goes. So that's fine. It's, that's fine. Is where it is. It goes from one side to the other side. That's fine. It's headache. She told me around in here but around the neck she don't know. Yeah, because you put me on this, uh, this other diet and, and then I haven't put it in there. Well, then I have a other diet but nobody sent me information. It's called the food diet with I BS. And it's like my stomach is like, kind of bloated. Probably I knew lost my stomach. But also now it's like I have a stomach again. Oh, you know, I'm trying to imagine my, we should be a borderline diabetes. So I'm trying to, yeah, a diet list because I'm on all these different diets and no salt. No, this, no, that, so it's like, really hard to follow when you don't know what you're supposed to be eating. Ok. Yeah, I know, I read the labels but sometimes, uh, it's not going to apply yesterday. I was in trade and jee, well, what kind of a right. Exactly. So it can, it can help me manage my health better and I can feel better because my, my energy level's low. All right. Thank you very much. I really appreciate it because this way it can help me and help her, I can manage my cholesterol and manage the other stuff better. And then the, the, the I BS better too. I guess I had a salad, but I don't remember. It was the right salad dressing. It's really hard when you're trying to eat out, you know? Well, maybe, maybe you have a diet list that you can print out. I don't know, somebody to our dietician or somebody to a dietician. Ok, thank you. Hello? Hello. Hello? Yeah, I'm here. Hold on. Sorry, this is for you. Ok. I'm sorry. Uh, naked. I'm sorry, I'm back.
+Nurse: That's ok. No problem at
+Patient: All with the doctor's office trying to get a diet list, but they don't know if they have that information.
+Nurse: Right. Well, um, if you wanted, if you wanted some information from the care, your care management nurse would be able to assist you with like nutrition and
+Patient: Things like that with the stuff because it's so complicated. Yeah,
+Nurse: She would be able to help you for sure. Um, do you, do you think that it's ok that I get you set up for a phone call from a care management
+Patient: Nurse? Yeah, that would be beautiful. But let me give you a different number which is more manageable for me to ring. So it would be better, you know. Ok,
+Nurse: So the phone number that I'm talking to you on now that
+Patient: That's the house number I give you my cell number.
+Nurse: Ok. So you wanna do the, your mobile phone number
+Patient: And now is that covered by [PHI-Personal]?
+Nurse: So it's a billable service to [PHI-Personal] and you're typically only responsible for your co pay now. It's, it's
+Patient: About the federal Blue [PHI-Personal] the secondary. Yeah,
+Nurse: It doesn't look like you pay a copay. Is that correct?
+Patient: Yeah, because it, it get to Blue [PHI-Personal] along with your PPO provider from what I
+Nurse: Understand. Yeah. So that would be the only thing that you're responsible for, um, would be a copay.
+Patient: No, I'm not responsible for a copay. Ok,
+Nurse: Good. Then you would not have any out of pocket cost to have a care management nurse. As
+Patient: Long as they're covered by a PPO provider. I'm not uh I'm ok. Ok. Charge. That's what I was told. Ok. As long as you're underneath the Blue [PHI-Personal] Network, you know.
+Nurse: Yeah. Yeah. No, then, then you should not have any out of pocket cost
+Patient: Because I, my dietician so busy. I have one [PHI-Personal] deals with the summit, but she says, what is this? So,
+Nurse: Yeah, I'm not, I'm not sure about that, but I do know that um, a care management nurse would be able to assist you with, with, with.
+Patient: Yes. And doctor said something about portion control and I said, well, I know about portion control. So I ate a salad yesterday and iced tea. I, I'm getting my water in, you know, and then I had a little bit of burning. So I went home and took decaffeinated tea and I'm trying to drink water in between, but I don't think I'm drinking enough water. Maybe that's why my stomach's the way it is. I don't know, maybe I'm bloated something I'm eating. Who knows?
+Nurse: Yeah. Yeah. Well, hopefully we can, we can get a plan and get it all figured out for you. Ok. So on the phone,
+Patient: Who is this? Her name is [PHI-Personal]. Ok, I'm sorry,
+Nurse: That's ok. Just tell me the phone number that you want your nurse to call you
+Patient: At. Ok. [PHI-Account]
+Nurse: [PHI-Account]. Ok, so you want me to delete this [PHI-Account] number? Well,
+Patient: I I would prefer them to call me my cell number because sometimes I'm not home. Ok. You know, and I said it's easier on the cell number to call people because like I'm in and about and I'm like sometimes get busy with appointments and other things. It's just easier I out that because I missed your call, you know, I'm
+Nurse: Sorry? No, that's ok. No problem. I do appreciate you calling me back. Um, so is what I'm gonna do is I'm gonna get you set up with your nurse and she should reach out to you within the next week or so. Ok. And I'm gonna mail you some information I have that you live at [PHI-Geographic]. That's correct. And that's [PHI-Geographic]. That's correct. All right, perfect. So [PHI-Personal], I am going to social
+Patient: Worker today and she says to me, you have to lose your weight. You're gluten free diet. All that stuff is like, really having to cut out snacks. I don't snack. I was binging before stressed out. And that's part of my problem where I go and I go home at night and eat late and I shouldn't do that. And that's probably why my acid reflux is like, a little irritated. But I said no, it's to that. But I, it's like a thing. I get bored, you know what to do with yourself.
+Nurse: Right. And I mean, who doesn't like to eat?
+Patient: I know. And I, that Doctor [PHI-Personal], my end said waistline, waistline. Uh I know I wanna lose more weight, but I feel better. I know that because when I was sick with COVID, I lost weight and I was hoping to keep 1 26 to 1 24 but now I'm 1 33. Um,
+Nurse: Well, I don't think, I mean, I, I obviously can't advise you have to be happy with what, you know, with yourself and, you know, you have to listen to your doctors and hopefully, hopefully we can get you on the right path with that. So I need to get
+Patient: That cholesterol down. I went down 20 points. I need to go down more for the time. So I need to be, uh, like no salt, low salt. What's good to eat? Like, I eat chicken and fish most of the time. I won't eat beef at all. I haven't ate beef in because I've got a condition called EMS nurse. She's very aware of that. So, it's like I can't eat less protein. But my gastro doctors, you need protein to fill up. Exactly. So, I ate with chicken yesterday and I had two things with bread but they said, be careful with the breads. I don't know what kind of bread I really should get because your mom because of this, uh, pre diabetes thing now.
+Nurse: Right. Well, like I said, we'll be able to, um, we'll be in, your nurse will be able to have con, we'll have contact with, uh, doctor also. So her and your doctor will, you know, will talk and they will, they'll, they'll help you try to find a plan that, that works for you. Yeah,
+Patient: Because it seems like nothing's working and then they say my level is high but it's enough to get, I'm gonna get in trouble. It been high. But she, she eat, uh, bars and stuff. I said, but bars are high in high in, uh, so sodium. So it's why are you telling me to need bars? So, it's like, so I read the labels and everything and I thought I was allergic to Amazon and tree nuts. But now I have the science. So it should be, um, it should be with doctor be too. It was back in [PHI-Personal]. What I was allergic to, it was like, a blood work that was done by, uh, Doctor [PHI-Personal] office.
+Nurse: Ok.
+Patient: Ok. But I'm so sick of doctors. Don't send me to another doctors. She's, well, I really, one of the neurologist and, like, I know what the headaches are coming from now and it's like it has to be manageable with diet, I guess. And stress stress. I'm the only that some of the prostate now and he just had cancer last year And it's like, it's, and, and I don't drive so it makes it even harder. Right? I can't, I wanna do. And it's like I wanna move and like, we're over the map today. Oh,
+Nurse: Well, some, sometimes you have days that are like that. All you gotta do is just push through it and take a deep breath and that's, that's all you can do.
+Patient: I know. Well, what, what reduces my stress? Believe you not cleaning out closets.
+Nurse: Oh, that's good. I just recently delay my house. Oh,
+Patient: You can't keep doing that. I said, but you know what? It makes me feel better. It makes me feel better with stress level. So I sat around, I got tired and I said, you know what? My leg, they're not swollen anymore, but sometimes I wear my sneakers. They feel like my legs hurt but it's from all the fluid that was probably in my body. Maybe I'm reducing fluid in my stomach. So I figure if I can lose all that fluid, maybe I, my energy level would be better.
+Nurse: Right. Right. You know,
+Patient: Cut down to one. I cut down to one and my goal is to get off of it, you know, completely now.
+Nurse: Yeah. Yeah, we look forward to that phone call from your nurse within the next week or so. And hopefully we can get you, we can get you on the right path. Ok.
+Patient: I like to do some kind of exercise not to sit there and to try to get my I BS better and not to burp so much. And I'm in show and somebody says what's wrong? I said I breath too much urine.
+Nurse: You need to take smaller breaths. Huh?
+Patient: Don't talk as much.
+Nurse: All right, [PHI-Personal]. Well, I appreciate your time and I appreciate you calling me back and your nurse should reach out to you within the next week or so. Ok. What,
+Patient: What can you repeat my phone number please?
+Nurse: I put in here your mobile phone number as [PHI-Account].
+Patient: That's correct. Alright,
+Nurse: Perfect. Thank you very much. You're welcome, very much [PHI-Personal]. Have a great day. You too. Thanks. Bye.
+Patient: Who was that the?

@@ -1,0 +1,26 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Uh, hi. I'm sorry, I didn't catch your name. This is [PHI-Personal]. Um, well, this is, uh, I'm a patient of, uh, doctor. Uh, I have a, yeah, I have an appointment with him on the [PHI-Personal]. Uh, but what I don't have is a blood work appointment. Oh, ok. And I can't, and, and I, you know, I, I've had that since I'm doing it, uh, at the office. Uh, that's what I did the last time I was there. But, but, uh, I just realized I have no appointment for this appointment.
+Nurse: Right? Ok. Yeah. Um, one [PHI-Personal], let me,
+Patient: Let me just
+Nurse: Look into it a little bit
+Patient: Here. Ok. Mhm.
+Nurse: Ok. And typically you get your labs done about a week beforehand. Yeah. Ok. All right. So, let me see. So about the [PHI-Personal] of next week,
+Patient: Which is, what day
+Nurse: [PHI-Personal],
+Patient: [PHI-Personal]. At what time? Let me
+Nurse: Pull it up quick. One
+Patient: [PHI-Personal]. Lab. All right. Um, the [PHI-Personal].
+Nurse: All right. Um, so the first lab time available on the [PHI-Personal], which is next [PHI-Personal], um, is 9 30.
+Patient: Ok. That's fine. Yes. Does that work? Ok. All right. Let me.
+Nurse: See. Yep. And then I will go ahead and send them a message. Um, just so they're aware to put the orders in because it looks like they haven't ordered any labs either. Um, so I'll just make
+Patient: Sure they got the, I'm pretty sure that they didn't, didn't order it because I didn't get a, a paper on it.
+Nurse: Right. Ok. Yeah, I'll have, I'll send him a message to tell them you're coming in next week and so they can put the lab orders in. Ok. That makes sense. Ok. There a chance
+Patient: That I can get uh the uh COVID and then the um. 00 I don't have my either. Oh
+Nurse: Yeah they should be able yeah they should be able to do that in office with you when you have your appointment.
+Patient: Ok? With the appointment. Ok. Alrighty thank you very much. Yes
+Nurse: And then um since I have you on the phone I just need to verify a couple of things with you um with the New Year is your insurance still Medicare and then United as secondary? Yes. Ok. And then address [PHI-Geographic]. Yes. All right. Um and then let's see one more thing. Oh I'm gonna send you a letter in the mail it's just gonna have some wellness goals for this New Year on it um and those are just gonna consist of you know your routine labs which you'll probably get most of them done next week and then um just some other things like your flu shot and uh regular appointments and things like that. Um So, so with that, I'll just check them off as you get them done throughout the year.
+Patient: Alright.
+Nurse: Alright, perfect. Well, thank you for calling and you know, always call me with um any questions? Ok.
+Patient: Ok. Thank you much. Right.
+Nurse: Y you're welcome. Bye bye bye bye
+Patient: Bye.

@@ -1,0 +1,83 @@
+Nurse: Chronic care management. This is [PHI-Personal]. How may I help you? Hi, [PHI-Personal], it's
+Patient: Calling. Hi, how are you? I'm doing ok. Excuse me? Um, log had ordered some blood work for dad and last week when he had his appointment, ok, we had the video one and the nurses came on Monday and could not get it. And they also, he also wanted a urine jug collected over a 24 hour period. They didn't have that either. So I was wondering, I don't know what, what to do about it for one. Did
+Nurse: They, they didn't contact the doctor.
+Patient: Uh, not that I know of. No, they gave me, she gave me the, the order because I said, well, if you can't get it, I need to get it somehow if I, if it's better.
+Nurse: But you know why they couldn't get it.
+Patient: She said the thing kept rolling. She tried like 4 to 4 different spots.
+Nurse: [PHI-Personal]. Ok. Tried to get patients lab work this past Monday as well as a urine and was unable to obtain, um,
+Patient: She said I would have to go to smear and to get the jug or something. They don't carry that or something.
+Nurse: Lab work. Um, ok. Um, for urine? Oh. Um, yeah, I thought that you figured they would all notify doctor [PHI-Personal] because it's now Friday. Um, that, you know what I mean?
+Patient: Um, they're supposed to come in on Monday so I was gonna have them try again.
+Nurse: Um, but I just wanna make them aware. Um, yeah, make them aware that they
+Patient: Didn't get it on Monday. It's,
+Nurse: Um, ok. Um, patient thing she kept rolling. They were told,
+Patient: Yeah, that she said they, she was, she stuck them like 54 or five different times. Could not get it. The veins kept rolling. The [PHI-Personal] therapy said and make sure he gets like at least three glasses or, you know, a couple glasses of water a couple hours beforehand. Ok.
+Nurse: How's he doing?
+Patient: Try that. He's uh coming along pretty good. Um, yesterday was the biggest improvement I've seen with them. Um, still some memory or a lot of memory problems. Um, but his speech is much better swallowing still at times, you know, certain things even water will get caught, you know. Bye. She said to give him more thicker stuff, which I've been trying to do but
+Nurse: Like thick and like liquids more so. Yeah, like when I'm aspirating.
+Patient: Yeah,
+Nurse: So, um to [PHI-Personal]. Um, ok, I wanna make him aware. Um, he sees [PHI-Personal]. Right. Yes. Ok. And, and
+Patient: He does have another appointment. Yeah, he's been doing pretty good. With his fluids and um,
+Nurse: Mm. Yeah. Um, so you do feel, um, he's improving.
+Patient: I do feel he's improving a lot. Yeah.
+Nurse: For memory, memory and confusion. How is that?
+Patient: That's, um, uh, I'd say [PHI-Personal]% better. He's still having issues with even past stuff. He can't remember. Um, like how him and mom met and stuff like that and,
+Nurse: Um, eating, you said? Yeah, a little trouble with,
+Patient: Um, he can't eat like breads or, you know, like the, the dryer stuff. So,
+Nurse: Is it like soft foods kinda? Yeah, I
+Patient: Give him more soft stuff or
+Nurse: Without bread, right. Um,
+Patient: Yeah, without bread.
+Nurse: Yes. Ok. Um, and his fluid, you're, you've given him thicker liquids.
+Patient: Yeah. Like I mix orange juice with his water and Gatorade and stuff.
+Nurse: Patient sticker. Do you need thickening stuff for his liquids or did they reset? Like, are they doing anything for his swallowing? Like his speech there? Um, I just don't want him choking.
+Patient: Um, they have O TT coming in and so they do
+Nurse: Work with them.
+Patient: Yeah. They've been working with him and telling me different things to do, you know, to help and it has, it has also just like sometimes in the morning when he's waking up, you know, things aren't woke up yet, so,
+Nurse: All right. Um, so I'm gonna tell her home, I try to get patients lab work this past Monday as well as his urine. Um, I was team lab work. Or urine, um, you to patient's vein kept rolling. Um, home health nurse is coming back Monday to [PHI-Personal]. He wanted to make the doctor aware. Um, I don't know
+Patient: If they're gonna [PHI-Personal] or not. I want him to [PHI-Personal]. I have the order. So I don't know how that goes. So, maybe he might have to send another, um, request. I don't know.
+Nurse: She wants home health to [PHI-Personal]. Um, it does have the order at home, does, um, have to send another. Right? Yeah. Um, is he able to go out of the house or
+Patient: Not yet? He's still, he's still questionable. Um I'm hoping by next week on Wednesday when his appointment is that we can actually go see doctor [PHI-Personal]. Um I'm getting a, a different wheelchair delivered hopefully from the va hopefully before then. So that um it's lighter, I can get it in and out of the car easier and
+Nurse: Ok, so you don't feel you can safely manage out of the house yet. Um, she not like as he, as he um, is not strong enough yet, right? You don't feel like he's strong enough yet? Is that what you feel? Ok. Yeah, just so I can explain why. Um ok, and I mean, you've been increasing patients where you feel like that's improving. Um You feel like he's improving, confusion is [PHI-Personal]% better. He um he's taking soft foods without threads. Um, you're giving patients thicker liquids ot is working with patient as well. Um, physi as well as his physical therapy too.
+Patient: Um, yes, physical therapy is once a week and oot is twice a week.
+Nurse: Ok. I just wanna add this to my last note that I have. Ok. Anything else dear?
+Patient: Yeah. Um, I'm gonna be, because I'm having to take off work all this time. Um, I drive a school bus and, um, they get, I get, I get to use my sick days. They call it family, family, family sick or something like that. But I exceeded my, it's, it goes for five days and then after that I need a note from dad's doctor that I still need to be 24 hour care with him. So I have the paper coming. I just don't know how to get it to [PHI-Personal] to, to have him if he'll ok. It or not.
+Nurse: Um, is it FML A, the family [PHI-Personal]?
+Patient: Yeah. Through, uh, through the bus or the school. I have to use my, my sick time though. But
+Nurse: Of work
+Patient: To
+Nurse: Take care of her father and it will be over five days and is asking if he can fill. Now. It's a form.
+Patient: Yeah, I think you just have to sign it and say yes, I still need, still need to take care of him.
+Nurse: She still seems to be there for father to take care of him. Is it like a [PHI-Personal] leave?
+Patient: Yeah, it's just paperwork crap. You know where they have to make sure I'm not just like taking off all the time for you just to hang there. Yeah. I really love to do it.
+Nurse: I know. Don't we all just, just don't worry. I'm just gonna take care. Yeah.
+Patient: But, yeah, I'm not like
+Nurse: That. I, I never me either. Ok, I'm gonna send it to the triage nurse, um, too. Um, can you drop the paperwork off at any time?
+Patient: Well, I need to be here with him so I
+Nurse: Can fax it over.
+Patient: Yeah, I probably could either fax or, yeah, I could probably fax it. Uh, I think, think, oh yeah, my husband does faxing. It does. Yeah. Ok.
+Nurse: Um, she, I'm gonna put, you're gonna fax it over. Um, she's gonna probably have to see it faxing this paper. Um, just couldn't they, when it, um, they would have to fax it back to you right? Or no.
+Patient: Um, either that or put it in the portal so that I can [PHI-Personal] it. I mean, is there any way to put it in the portal so I can [PHI-Personal] it or?
+Nurse: I don't know, um, I
+Patient: Mean, fax or
+Nurse: [PHI-Personal]?
+Patient: Ok. But I don't know what the, how to do that with the fax or they probably could fax it right to the, my supervisor.
+Nurse: Is there a fax number on the paper? I can,
+Patient: I don't have the paper yet. My husband's picking it up at the garage, uh, this afternoon or when he goes in at [PHI-Personal]. Um, hold on, hold on a second. I just texted my supervisor so he should usually get right back to me. Yeah.
+Nurse: And I mean, you'll, and you'll, you have to get the paper anyway. So when you send the paper, just let me know, like, hey, I just faxed the paper just so I can let them know. Um, um, I'll tell you you'll be faxing over a paper. What did you say? Um, I'll just have, I'll let them know that you're gonna be, uh, when you get the paper. So,
+Patient: Um, ok, just give me the number if you want it,
+Nurse: Um, some paper and like, if able to fill
+Patient: Out would
+Nurse: Like it to be faxed to her [PHI-Personal]. Yeah, fax number. What is
+Patient: It? It's [PHI-Account].
+Nurse: If you could just two, I mean, somewhere on that paper, you know, I would write that number put fax to, you know what I mean? Um, I can do that. So, [PHI-Account]. Yeah. Ok. Ok. Yeah. And somewhere on that paper I would definitely put, can you fax back to, you know what I mean? That number just so it doesn't get lost in the shuffle. Um, oh, I mean, I'm assuming
+Patient: He'll do it, I would imagine because they wanted that in, uh, rehab. Um, but 24 hours, 24 7 in order to let him go from the hospital and I told them I would be doing it. So.
+Nurse: Ok, let's see. Ok, let's see what they have to say, um, as well and, um, we'll go from there. Ok.
+Patient: Ok, thank you very much.
+Nurse: All right. Uh, ok. Yeah, I'll, uh, definitely, um, get back to you as soon as they get back to me then. Ok. And he has a nurse coming in too.
+Patient: Uh, Monday.
+Nurse: Yeah, Monday. Ok. Yeah, they
+Patient: Come in. Um, they're all the team, I guess the nurse comes. Oh,
+Nurse: Are they? Yeah.
+Patient: Yeah. Uh, what are they called? [PHI-Personal]?
+Nurse: Oh, Sao. Yep. Ok. Well, that'll work. Ok. Well, I sent it to so, and I do wanna make them aware that they were unable to get it, um, and I'll see if they need a new order. Ok. Ok. All right. Thank you. You're welcome. I'll talk to you soon. Ok. Bye bye.

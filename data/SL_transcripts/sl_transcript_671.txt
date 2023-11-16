@@ -1,0 +1,33 @@
+Nurse: Done before that appointment? Hey, this is [PHI-Personal] [PHI-Personal]. I'm sorry, this is [PHI-Personal] again. I just had a couple of questions to ask you. Uh I know we went over what tests I need or whatever. And um there was a PAP test uh which was done not long ago but uh it was darn I thought I had written it down when I had that test done. Excuse me? A gyn. Uh Yeah, that was, was that [PHI-Personal] of last year or was that? No?
+Patient: Um I don't know. That's not on my list. My list is the one for your wellness goals from [PHI-Personal]. So the, oh, the paper I send has um um they call them care gaps. So mine has the HEP C screening, colonoscopy, glaucoma screening and the
+Nurse: Mammogram that yeah, mammogram.
+Patient: Yeah. And then a couple of assess that the nurse would do when you have your annual Wellness visit, which reminded me when I got off the phone, I forgot to schedule that with you before I got off. So, oh, I was going to see if you could, can you, can you come um uh let me find the date again. Um, [PHI-Personal] at 1 30. Uh, she's got a spot open there still.
+Nurse: Um, that's the Wellness exam.
+Patient: That, that's your annual Wellness visit. It's the, uh, that [PHI-Personal] likes us to do for, um, getting your, you know, those Wellness goals checked off. She'll, she reviews things with you up, update your chart. Um, she'll get vital signs, she'll get, um, just kinda sum up everything and get everything in one little package. All right. Uh, that way we can, it's easier for us to make your goals for next year because she'll have everything kind of caught up. So
+Nurse: I, I may be in the process of, um, in the process of trying to decide whether to change my insurance to, um, excuse me, still Blue Cross, Blue Shield. But it's not, instead of the standard that I have, uh, I may change it to basic. That shouldn't be a problem. Should it on the, on your end as for doctor's in, as for, is the same insurance, but it's just, um, the highest, um, yeah, coverage is the first one standard and then the a basic one is, uh, the lower, the lower by cost it by cost. You have, they, I have to use in network doctors.
+Patient: Um, I would say then before you change it, maybe call them first and just make sure that, that your group of doctors right, that you have now are still there on there, I would think they would be, but I don't know for sure that I did call pretty specific to your plan.
+Nurse: So, yes, I did call them and they, uh, the person I talked to, I'm hoping that accurate told me that, uh, whatever doctors I got I have, um, now will be the same. Yeah, they would, yeah, would be the same because the same insurance and it's just a different plan or something.
+Patient: Yeah, I wouldn't think that would be an issue just when you do update it. We'll, we'll need the updated information is all, we'll just, my card is updated.
+Nurse: Uh, it's just all up in the air right now. Yeah. Ok. So [PHI-Personal], what day was that? You said
+Patient: [PHI-Personal]? And I don't know if, if you could do that if you're gonna be in town around the holidays and that sort of thing. But, um, she has a 1 30 that day.
+Nurse: Ok. So
+Patient: It's the
+Nurse: Same. All right, let's see, 27 Tuesday. It, I think that's ok. I don't think I have a problem. Good, good, good. I'm trying, we'll
+Patient: Get that in before the year is out then and make sure we have everything penned up
+Nurse: And that, that was the only one she had available right in [PHI-Personal].
+Patient: Um, there was one other, let me see, but I think it was earlier in the morning, which I didn't think you cared for
+Nurse: Too much. It's nothing like, um, oh, I'm in it. For a different day so yeah uh let's see like the the even the 28th or uh the week before or the 28th or 28 would be alright probably two
+Patient: For this year I know she didn't but let me check real quick here. Uh the only other thing she has is [PHI-Personal] the fifth. It's a Monday at 10 30
+Nurse: Oh [PHI-Personal] the fifth. Ok that that would be ok I think. Yes.
+Patient: Ok, I got you down for that one and I'll take the other one off.
+Nurse: Ok, this is, I'm gonna put this in right now. Um, oh, let's see. Ok. And, and that time was at, what time did you say? 10 30? Oh, it's early in the morning, morning, mid
+Patient: Morning, late morning. Is that ok?
+Nurse: Well, the, the, uh, I'm not good in the mornings. Um, no,
+Patient: I understand. That's why I went ahead and did the [PHI-Personal] 1 because I figured you'd like the 1 30 better. But that's up to you. Those are the only two I have left for this year.
+Nurse: Ok. It doesn't matter whether, um, uh, it's a hard decision.
+Patient: I mean, the, and the thing to keep in mind you, it's, it's preferable that you come to the office so you can get vital signs and stuff. But if you can't, we can do it as a telehealth visit too.
+Nurse: Ok. Ok. So that one on [PHI-Personal] 5th is at, at, uh, 10 10 45 [PHI-Account]. Yeah. Ok I'm gonna make it for 10 so I can get there on time. There you go either be in the
+Patient: Office by 10 15 or be logged in for telehealth but whichever you know.
+Nurse: All right I'll leave it that then. Alright thank you so much for doing that
+Patient: No problem. Alright you have a good
+Nurse: Day. Alright you too bye bye.

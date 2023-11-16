@@ -1,0 +1,14 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] Flu. You just call me? I'm good. How are you?
+Nurse: I'm doing good. Let me pull you back up. Give me one second. Ok. Oh, ok. I was giving you a call because you've had lower blood pressures. I wanted to see how you were feeling.
+Patient: Well, this morning when I took it at seven o'clock it was 1 10/64 I don't think [PHI-Personal]. Let me,
+Nurse: Let me look really quick.
+Patient: If you're talking about the BP cuff from the hospital, it always reads low and I've told them about this because when I take it on my cuff at the house, it doesn't read that.
+Nurse: Ok. So what did you get at your cup at the house? 1 10/64 you said? Mhm. Ok.
+Patient: [PHI-Personal] heart rate. Yeah. 98 oxygen temperature was 96.9 right now. I just took it and it's 10 5/67.
+Nurse: Ok. I just wanted to make sure it was in normal range because ours is reading a good bit lower than yours. Um, have we ever had you go into the office to compare to make sure the, the cuff is accurate.
+Patient: No, I'm supposed to take the cuff with me Monday when I go see, um, the cardiologist prac prac practitioner. Yeah, I'm going to take both of them.
+Nurse: Ok. Awesome. Ok. Well, you do that and I'm just glad that you're doing ok. You're not feeling lightheaded dizziness, any of that.
+Patient: No, my heart rates are running high but I'm not in AFIB right now, but my heart rate was 96. Ok.
+Nurse: Um, and I saw where you have a life vest you're wearing that. Yeah. Ok. Good deal. Well, thank you for calling me back. I appreciate it.
+Patient: You're welcome. Thank you. Thanks. Bye bye bye bye.

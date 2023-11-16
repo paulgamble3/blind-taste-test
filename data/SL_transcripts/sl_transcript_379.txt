@@ -1,0 +1,73 @@
+Nurse: This is [PHI-Personal].
+Patient: This is [PHI-Personal]. Hello. This is [PHI-Personal]. Hey, what's going on? Not much. But I'm sorry, I wasn't home when you called. I was in [PHI-Geographic]. Are you there yet? I can't hear you. Can
+Nurse: You hear me better now? Yeah. What were you doing in [PHI-Geographic]?
+Patient: I was, uh, visiting my sister and her husband and my niece, husband and two kids.
+Nurse: Yeah. How long were you there for two weeks? Oh, good. I thought that was a, a good get away
+Patient: From the fifth to the [PHI-Personal]. It was, I help pack some diapers.
+Nurse: Good.
+Patient: Well, picks. So my brother in law could pack them. Oh,
+Nurse: Yeah. Well, awesome.
+Patient: Awesome. I watch the baby every now and then.
+Nurse: Yeah. How old
+Patient: Baby? Ah, she's what? She's a screaming Mimi? Oh, my goodness. She's cutting more than one tooth. Oh, my. So she screams all the time.
+Nurse: Oh, no. Yeah. Her mom's worst
+Patient: Time. Her mom says I can't wait until you can talk dear child.
+Nurse: Yeah. Yeah, I bet. My goodness. Oh, all right. Well, let me look here. I saw that you had an eye doctor's appointment at the beginning of the month. How did that go?
+Patient: Yeah, I just got my glasses. Good. And were they
+Nurse: A new prescription?
+Patient: Yes.
+Nurse: Good. Ok. Um, any other changes that they noted?
+Patient: No, I'm waiting for the foot doctor to call me about my brace. He got the one strap but he still, they got the foot strap. It's called the T strap. Wasn't
+Nurse: That on back? What? I really wasn't
+Patient: It? Yeah. And they still, they only had the one part when I talked to him last time I said, well, I coming out for that part, I need the other part, so I get that part.
+Nurse: Yeah. Oh, my goodness. Ok. Um, let's see. Well, hopefully they get that in soon. I don't know why it's so difficult. Ok, let me
+Patient: Look pretty cool. Go ahead, [PHI-Personal] you.
+Nurse: Ok. Are you having any like, pain or issues with your eyes at all? No. Ok. Very good. Perfect. Oh, good to hear that. Let's see. Now, are you needing a refill on any of your medications?
+Patient: Cor cancer? No.
+Nurse: Very good. Ok. Well, let me look here, I've got some questions to ask you here. Let me get that pulled up. Sorry, my computer is running a little slow today. It knows that it's a Monday. Ok. So over the last two weeks, how often have you been bothered by any of the following problems? Your options will be not at all, several days, more than half the days or nearly every day. And the first question is having little interest or pleasure in doing things.
+Patient: No.
+Nurse: Ok. Feeling down, depressed or hopeless. No, having trouble falling or staying asleep or sleeping too much.
+Patient: I'm fine with that. No.
+Nurse: Very good feeling tired or having little energy.
+Patient: Sometimes if I get up too early I can't get going like, seven. Ok. So, like the cat and then end up taking a little nap. Yeah.
+Nurse: Ok. So if you get up too early, it's like you don't have enough sleep, right? You're tired easily. Ok. How often in the last two weeks has that happened? Just like a few days or most days?
+Patient: One day, dad at my niece's place. I was up at four o'clock in the morning. Thought, what the hell am I up at four o'clock in the morning for? So I went to the bathroom and back and crawled back to bed and it was funny.
+Nurse: Good. Ok. Um, what about poor appetite or overeating?
+Patient: No,
+Nurse: The next one here feeling bad about yourself that you're a failure of let yourself down. [PHI-Account]
+Patient: For maybe a little.
+Nurse: Ok. Ok. Uh, trouble concentrating on things.
+Patient: Uh, no, I have a lot of things to do here at the
+Nurse: Moment. I know. Yeah. So
+Patient: I'm, I'm possibly moving out my house and with my youngest. Really? Yes, because it'll cost me $10,000 a year or more to live here.
+Nurse: Mm. Ok. Does your, your son live close?
+Patient: Yeah. He lives on [PHI-Geographic] and I live on, I live on, yeah. [PHI-Geographic].
+Nurse: Yeah. Ok. Well, I know that moving is kind of a big, a big undertaking. So make sure, you know, you take each task slowly. I don't want you to kind of get overwhelmed because, you know, moving out of a house you've been in for quite a while, there's a lot more things that accumulate than you realize until you start cleaning and going through it. You know, I
+Patient: Know that I already have like 10 or more boxes upstairs and have three to put four down here.
+Nurse: Uh huh. Oh, my.
+Patient: Ok. He assumed I wasn't moving until [PHI-Personal]. So I guess that's what I'm moving in
+Nurse: [PHI-Personal]. Ok,
+Patient: Because my oldest son is going to the beach at the beginning of August and my youngest son is going somewhere around the [PHI-Personal] and his birthday is on the [PHI-Personal].
+Nurse: Ok. My goodness. Ok. Well, you know, I, I think that that might be good. You know, it'll be less stressful. You'll have people close by and it'll definitely be less expensive. I know that keeping up with a home alone is, is very expensive.
+Patient: I am not that I have this phone number anymore. I'm gonna have my cell phone number.
+Nurse: Is that the one that is with [PHI-Account]?
+Patient: Yes, ma'am.
+Nurse: Ok. I'll put that as your preferred number. Ok. Just so we can get a hold of you if we need anything. Ok. Let's see. I've got a few more questions here.
+Patient: So I would say that would be after [PHI-Personal], after
+Nurse: [PHI-Personal]. Ok.
+Patient: Yes. Using that number after [PHI-Personal]. Perfect.
+Nurse: OK. Um The next question here in the last two weeks, have you been moving or speaking so slowly that other people have noticed or feel very fidgety or restless?
+Patient: What was that again?
+Nurse: Have you been moving or speaking so slowly that other people have noticed or feeling very fidgety or restless?
+Patient: Not that I know of. No. Ok. Very
+Nurse: Good. And then last question here in the last two weeks, have you had any thoughts that you'd be better off dead or hurting yourself in some way? Right.
+Patient: Uh No.
+Nurse: Ok.
+Patient: It is.
+Nurse: All right. Well, you know, I'm glad to hear that you had a good vacation. Two weeks is a good amount of time too. So that's nice.
+Patient: Um, he didn't want me to leave. He said you can shave, you want you. Oh, you're, you're like the baby. Yeah. Everything. I don't know. Yeah. Uh, I would stay to help pack borders. But me, me, me, me work on my nerves after a while. Uh, help it. She's cutting teeth all at once.
+Nurse: I know. And you're like, I've already done this one time. I don't need to do well, not one time, you know, multiple, two times. Yeah. You don't, you're like, I don't need to do it. Again, right? Oh my. Well you know it's good to have time with family so I'm really glad you got that time um but as always if anything comes up or if you need anything, just give me a call. Ok.
+Patient: Alright.
+Nurse: Alright [PHI-Personal]. Well you have a good rest of your day and have a great week
+Patient: And you too. Bye bye. Thank you bye
+Nurse: Bye.

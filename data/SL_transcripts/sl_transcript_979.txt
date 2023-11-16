@@ -1,0 +1,5 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Um, hi, this is Mina. I am Donna Hook's granddaughter. Uh huh. Um, [PHI-Personal] wanted me to call and touch base because my grand hasn't been feeling well, the past couple of days. Ok, like her back has been really bad. She's been having bad back spasms. So she's sort of like ro everywhere and I didn't, uh, my aunt wanted to know if you were able to talk to just to catch up with her. I don't really know. What's all the past few days.
+Nurse: Um, is she wanting to? Ok. So I'm thinking that you probably need to call the ones that come in the home. Ok. Um, they are, uh, what I, is that, is that who's coming in?
+Patient: Uh, yeah, the one that come in.
+Nurse: Ok. Those are the ones that you'll need to call. The only thing I can that we're waiting on for her on my end is when she gets to the doctor, we've got that scheduled with Doctor Ger. So that's the only thing we can wait on for there. Other than that I have no other answers so you can call them and they'll have those. All right, thank you. You're welcome. Alright, bye bye.

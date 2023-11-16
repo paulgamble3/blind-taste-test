@@ -1,0 +1,45 @@
+Nurse: Care management. This is [PHI-Personal]. How may I help you?
+Patient: Uh Yes, [PHI-Personal], I was on the phone. Oh,
+Nurse: That's ok. I left you a message. Um Let me see. I know they're very behind in the referrals but they got yours done um to [PHI-Geographic] like you wanted. Ok. Um so I wanted to make you aware what's
+Patient: That? Will I receive anything or
+Nurse: You are going? She sent me to her um ok. Um ok, so they, they gave you, they're gonna get you they wanted um ok, an order for a hip x-ray was done too. I don't know why they did a
+Patient: Hip x-ray. That's the one that I wanted the
+Nurse: Other. That's the one you wanted. Ok. Um of the right hip,
+Patient: The right hip.
+Nurse: Ok. All right. That's the one you wanted. Ok. Um nothing was in here about the thing. Ok. It's to street and then they're also gonna send you an X ray order. So if you wanna wait for it or not but they did send it to you. Um and then she said she did refer you to [PHI-Geographic] um too.
+Patient: Ok.
+Nurse: All right. I'm like that's my um everything
+Patient: The other one. You said there's two,
+Nurse: I read it wrong. There's only one. Yeah, because I read, I was, I was ready busy day and it just says an order for right hip x-ray fax to [PHI-Geographic] X ray. And a copy of the X ray order has been mailed to patient. Um,
+Patient: It's on [PHI-Geographic].
+Nurse: Oh, let's see what she, let me see. She might have just told me wrong.
+Patient: So that's why I've been having all my x-rays.
+Nurse: Ok. Um, do you want the x-ray sent somewhere else? It's saying [PHI-Geographic] Medical Center, Caffeine Street X ray and lab center.
+Patient: I don't know. I'm, uh, I can call [PHI-Personal] and straighten it out because, uh, it's not what caffeine is not where I go.
+Nurse: Ok. Where do you go though? Um, it's
+Patient: On [PHI-Geographic]. It's a [PHI-Geographic]. Um, see,
+Nurse: I could probably pull it up here. Um, [PHI-Personal] Xray, I'm just looking at your previous
+Patient: Xrays. They were all done in Northern radiology and that is no longer there. Ok. And so I, my last xrays were done at [PHI-Geographic] on [PHI-Geographic]. Um, in the medical pla, there's a medical plaza there with several buildings.
+Nurse: Mhm. Ok. At the home house was any of these x-rays ordered from Doctor [PHI-Personal]? Do you know,
+Patient: Uh, no, Doctor [PHI-Personal]. Doctor [PHI-Personal]. Uh, they were all ordered from
+Nurse: [PHI-Geographic], the one and what is it called, dear?
+Patient: Um, it's, um, [PHI-Geographic] on [PHI-Geographic], Outer [PHI-Geographic] street. It's in the plaza. It's a very brand new [PHI-Personal].
+Nurse: Ok. She [PHI-Personal] probably didn't know. Um, that's probably why,
+Patient: I mean, uh, I mean, that's a northern radiology is not there anymore. Yeah, I remember
+Nurse: When they closed, that was sudden when they closed
+Patient: Though. Yeah. Yeah. Um, Americans took that over and built this whole brand new [PHI-Personal]. How I know about it. My son in law has had a biomed and he's the one that did all the equipment. So. Oh,
+Nurse: Really? Ok.
+Patient: Yeah, I mean, you know, he said that's where you want to go. He said they've got the very latest millions of dollars worth of equipment. I'm
+Nurse: Just trying to pull it up here now. I typed it in [PHI-Geographic] on [PHI-Geographic]. Is it the Family Health Center?
+Patient: I don't know if it's called, it might be called fam. There's all sorts of things up there. I mean, I go to, um, yeah, I, I might be called it because I go to, um, Pulmonary there. Doctor, I just wanna make sure another building and there's tons of buildings.
+Nurse: I know. I know. I'm just trying to, I wanna tell her the right one. ok, cause it'd be easier for you if you get all your x-rays done, then you don't have all your records right there.
+Patient: Oh, that's what I thought. And, um, Doctor [PHI-Personal], the rheumatologist and Doctor [PHI-Personal], the kidney specialist. That's where they wanted me to go. So,
+Nurse: Ok, let me see if anything there. I don't know if I ever see an x-ray from because that's why I'm trying to get the whole name on here. Um, oh, that was Northern Radiology. They're not there anymore. Um, so whoever replaced Northern Radiology, correct?
+Patient: That's, yeah, that's ok. I
+Nurse: Think it, I'm pulling it up here and it looks like he [PHI-Geographic] health and, well, I think it's the, I just wanna make sure it's the right place.
+Patient: Yeah, I think it's, I think it is called, I can double check with my son in law. I mean, when he gets home from work. But, uh,
+Nurse: I could just call and see if they do xrays because this is saying because I, I mean, I wish they had a list of places here. Actually, I should look in your, one of your, um, Doctor [PHI-Personal]. I should look in one of your notes from them to see if it, you know, patients sent to because sometimes they'll just put where they sent the
+Patient: Last one they got the, the ok, I had x-ray there just about three weeks ago.
+Nurse: Oh, here we go. Let's see if it says it. Um, ok, we're gonna figure this out. I know it's a long time coming. Oh my God. Hi xrays. And he ordered your x rays. Right? Yeah, let me just, yeah, let me, you know, it probably be easier if I just called R A and asked them where you got your x rays from because they would just give me the whole thing, you know what I mean? Um, it just be easier and then I could just let her know. So that probably just be easier and I'll ask her, um,
+Patient: I just think it's easier to go to one, you know. That's
+Nurse: Fine. Yeah, that's fine. No big deal. Um, she probably didn't know. I mean, because there's no X ray reports in here. Like I can't see any, um, I know Doctor Matthews or, you know, they probably have them. Um, but let me just call Doctor Matthews and see where you got your last X rays from and then I'll go from there and send it to John. Ok, thank you. We'll get you taken care of. Ok. All right. Bye.

@@ -1,0 +1,22 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. Um, I just missed your call. The name is [PHI-Personal]. Ok.
+Nurse: Let me pull your chart up. Can I have your date of birth really quick?
+Patient: It's 12, 13, 1955.
+Nurse: Ok. Um, so my name is [PHI-Personal] and, um, I was just calling to introduce myself. I'm one of the chronic care managers for doctor [PHI-Personal] office. And so, um, I just kind of wanted to just introduce myself and let you know what my role is. Um, do you have a couple of minutes for me to go over that with you? Sure. Ok. So let me just open up something really quick. Ok. All right. Here you go. And so again, like my name is [PHI-Personal], I'm one of the chronic care managers. It's just an extension of the clinic, um, nurses. Um, I can refill your medications. I can schedule you an appointment, um, if need be. So it's just basically like me just being the help for you. Um, so, um, that's just basically what my role is and I usually call once a month unless you have like something acute going on like you may have like pneumonia or something. I, I follow up a little more closely just to make sure that you're well, but usually it's just a once a month call. Um, just to see how you're doing. Does that sound like something you're interested in?
+Patient: Yeah,
+Nurse: That sounds great. And so did you need any refills on your medications? I don't right now. Ok. But you're taking all your meds, right? Yeah. Ok. Alrighty then let me just click that. Um. All right. And is there any specialist that you see besides Doctor [PHI-Personal]?
+Patient: Uh huh. I, I um see Doctor [PHI-Personal] at um, [PHI-Geographic].
+Nurse: Ok. Or the orthopedic
+Patient: That's for the sciatica. Yeah, I need to get an MRI but I'd like to get one, an open MRI. So that's been a little difficult to schedule. Ok. But I I'm good. Ok.
+Nurse: Is there anybody else that you usually see?
+Patient: No.
+Nurse: Ok. So just the orthopedic.
+Patient: Uh huh.
+Nurse: Ok. Um, you don't see a eye doctor, do you?
+Patient: Oh, [PHI-Geographic]. Yeah, I forgot about them. I need to make an appointment with them also.
+Nurse: All right. And do you see hematoma hematology as of yet? I know that's a new referral. She put that in February 20th, 2023. So,
+Patient: No, I haven't, um, done that. I like to get certain ones out of the way before I schedule more because it, it i, it feels overwhelming, you know,
+Nurse: That's totally fine. I just wanted to double check, make sure you are aware about it. Uh huh. Let's see. So you're, oh, you actually go to lab tomorrow. So you have a lab appointment tomorrow and then your next appointment is on the 20th with Doctor [PHI-Personal]. Yeah. Ok. All right. Just making sure. Is there any other questions for me that you would like for me to answer?
+Patient: Mm. No. Uh I can't think of any. I appreciate it. Ok,
+Nurse: Well I'm gonna just give you my number so you have my direct line just in case if something comes up and you wanted to reach out to me, do you have a pen and some paper? Ok, so my number is [PHI-Account] [PHI-Account] uh [PHI-Account]. Ok. And so you can just call me on that number. I'm gonna send you out a letter just about everything that we just talked about and my next call wouldn't be until next month. Ok? But you can call me before then if you need anything. Ok? Thank you very much. You're welcome. Have a good day. You
+Patient: Too. Bye bye bye bye.

@@ -1,0 +1,26 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. I'm a patient of doctor. Uh, hi, [PHI-Personal]. And I am, I'm just going for a prescription.
+Nurse: Ok. Let me pull up your chart. Give me one moment. Can you tell me your birthday, please?
+Patient: 2, 11 38.
+Nurse: Ok. Um, all right. And what prescription did you need?
+Patient: I need them. [PHI-Personal] UK. A ST
+Nurse: Ok. Ok. And then you want it sent to,
+Patient: Uh, CVS at Walmart?
+Nurse: Ok. The Walmart in
+Patient: Right across the street from them there in [PHI-Geographic], I mean, from [PHI-Geographic].
+Nurse: Ok. Um, let me make sure. Ok, I think I will.
+Patient: Yeah, I think I've talked to [PHI-Personal] and everybody else. So nice to meet you too.
+Nurse: Nice to meet you. Um, perfect. Yep, I will get that refill. Um, I'll get that medication filled for you.
+Patient: Ok. Ok. Now the doctor, the name of the doctor on the bottle and I think he just put it in because he might have been, um, you know, he might have been on vacation then it would uh, doctor. So, you know, I don't know if it's going to make any difference or not if you just put it from her or what.
+Nurse: No, it shouldn't make a difference. Um I'll make sure that the doctor [PHI-Personal] sees it and it will get refilled.
+Patient: Ok, great. Thank you very much.
+Nurse: Of course, anything else I can help you with anything else?
+Patient: I, no I think I'm gonna see her at the end of this month. So uh we have an appointment on the [PHI-Personal] and [PHI-Personal] So I bring all my, but they're not that great. I made five but I keep fighting for it.
+Nurse: All right,
+Patient: Perfect. Ok, thank you. Bye bye.
+Nurse: I will um, Miss [PHI-Personal] before I let you go just in preparation for that appointment on the [PHI-Personal]. I'll call you in a couple of weeks just to go through your medications and make sure that we have everything set before your appointment. Ok.
+Patient: Ok, that's great.
+Nurse: Ok, perfect. So I'll call you again in a couple weeks. Ok.
+Patient: Ok, great. Thank you.
+Nurse: Of course. You have a good day.
+Patient: Thank you. You too dear. Bye bye. Thank you. Bye bye.

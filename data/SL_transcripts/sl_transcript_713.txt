@@ -1,0 +1,106 @@
+Nurse: Hey,
+Patient: Hello. Hey, who's this? Hello, my name is [PHI-Personal] tt. I'm one of doctor patients. Uh and um, I'm apparently involved in the new care management program. Yes, ma'am. And the question I have is I got a phone call and a text uh today from Biogenetics Lab laboratory and apparently they're out of [PHI-Geographic] and uh they said they had gotten this my text and phone number and my information and address from my primary doctor. So I guess my question is, is this Care management program affiliated with Biogenetics Laboratory to test people with multiple information about any issues they have physically or whatever?
+Nurse: Let me, I don't think so, but hold on. It didn't
+Patient: Sound like the real thing to me either. That's why I keep calling.
+Nurse: I don't think so. Uh Wait, hold on. I'm sending a message right now. And how do you say your first name? [PHI-Personal] [PHI-Personal],
+Patient: Backwards. [PHI-Personal]
+Nurse: [PHI-Personal]. That's pretty,
+Patient: That's spelled the same way forwards and backwards.
+Nurse: Yeah, I like that. Um, well, I am your uh nurse actually. Uh but I'm about to send a message to see. I don't think we have any dealings with them, but I'm not too sure. I don't think we do but, um, I could find out. Ok.
+Patient: Um, you can text me back or call me back whichever you prefer.
+Nurse: And what's the name of the, uh, the place,
+Patient: Bio, bio genetics Genet, I CS laboratory. And they gave me two phone numbers, the one that was listed on the, in the bulk of the text they left and the, another number that is the number it came through on. So I'll give you the phone number of what they told me to, to call. That was in the text I received. It's uh one [PHI-Account].
+Nurse: Yeah, that don't even sound right. [PHI-Account].
+Patient: Yeah, [PHI-Account] [PHI-Account]. The other number is [PHI-Account] [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Personal]
+Nurse: [PHI-Account]. Ok. Yeah, I'm I'm sending a message now to see
+Patient: So I'm not gonna have anything to do with these people and I thought
+Nurse: We definitely wouldn't give them your information. Like I wouldn't say I already
+Patient: Had it. They rattled it off to me my name, my address
+Nurse: But they didn't have like your um your Medicare number, your social. Yeah, so I know like things like that, you know, [PHI-Personal] could take um they could Google you, you know, and it'll pull up your name and your address. So they would probably like, you know, try to be like, oh, I have this much information to try to get the patient, to trust them, to give them more information. But I would definitely wouldn't give them more information.
+Patient: Well, I did not. That's why I'm calling my new Care Management program because it's hard, you know, it's hard to get a hold of one of the nurses or doctor. But, but the people when I call them back, um, said the information came through my primary provider. Now, if who knows what a [PHI-Personal] could have gotten information from or how so probably nice that you guys know and, and I should know.
+Nurse: I don't, yeah, I don't, I truly, I don't believe that is dealing with us or with doctor office. I truly think that's a [PHI-Personal]. Um but I wouldn't give them any information. I definitely wouldn't click on any link they may send.
+Patient: No, I just hit the number that was printed in the text they sent me.
+Nurse: Yeah. No, I, I wouldn't touch nothing with that. Uh text. I did just send a message out to find out. Um And soon as I hear something back, I can let you know. Um also, oh, you're welcome. Um The letter you received. Actually you received your letter before I was able to call you. Um um my name is, my name is your
+Patient: Name be listed on the
+Nurse: Ok. So [PHI-Personal] is actually the enrollment specialist. Um I'm actually your nurse. So um I'm the nurse that [PHI-Personal] could you spell that for me, [PHI-Personal]?
+Patient: Mhm. Oh, you and I both have a weird name.
+Nurse: Yeah, I'm gonna have to, I butchered
+Patient: It up. Say that again and then it's, and then it's [PHI-Personal] backwards. It's the same
+Nurse: Thing. Same way. Wow.
+Patient: My parents was, must have been nuts.
+Nurse: So, basically what our program is, um, your insurance will cover it. Uh, it's nothing you have to pay out of pocket. Um, it's where you have a nurse which is me. I will contact you every month. I will call to see how you're doing to see if you had any recent changes. Um, if you have any questions, any concerns, any issues, um, maybe you may need a medication to be refilled. Um, anything of that sort. I'm the nurse that will, you know, you could call, um, you have my number, the, that the number you just called, that's my number. So, um, I'm available Monday through Friday. [PHI-Account].
+Patient: Yep. I, I have that all marked. Uh
+Nurse: Huh. Ok. Good. And, and then give
+Patient: You, the other thing is actually, um, who called me this morning? Um, apparently I flunked my bone density test. Uh, um, and I had to call them back because they left a message and so I guess I'm in trouble here, uh, and they want me to do a shot, but I haven't heard back. I don't know, you know, whether [PHI-Personal] or who, who will call me concerning that. Let's
+Nurse: See. Um, let's see if I can see anything. Oh, yeah. So [PHI-Personal] probably will be calling you back.
+Patient: Mhm. Yeah, because I'm not sure who's gonna give me the shot.
+Nurse: And they, the office will, the office is, is, it's a shot that you receive every six months. So you, they will schedule you an appointment and you will go actually to the office and receive that vaccine, receive that shot.
+Patient: You know, I think that's why it's, this is strange that, that today is also the day I get this call I didn't pick up because if I don't know it, I don't pick it up. But then it went into my uh text messaging and I thought, well, maybe this is part of this new care management program because it was just too accidental. You know what I'm saying? And that's why I was concerned about your, you know, doctor office as well as mine.
+Nurse: Yeah. See, um, I just spoke with my manager and it's not us. So that is a scam.
+Patient: Oh, goody. One more scam. Do you know how many of those calls? I get a day?
+Nurse: Yeah, that's the one you gotta um, ignore because basically what patients are trying to find out your Medicare number and trying to hopefully let you know, try to talk you into giving your financial information so they could use it, you know, like they act like they care, but they truly don't care. They do not have your best interest at heart.
+Patient: Well, that's what's one nice thing about a cell phone. It gives you the primary of what state the calls coming from and when it's not Pennsylvania, well, even a lot of them are Pennsylvania too. I don't answer them if they don't leave a message. That sounds legitimate. Um, I re, I'd block them. Uh, I, I bet I get 14 calls a day that I don't pick up.
+Nurse: Well, I'm happy that you are able to, you know, realize that, hey, this is not really who they saying they are and you could block the number.
+Patient: Yeah, that's what I like about the cell phone. But this one, this situation today was just a little bit different. You know, because of the time period when they called me from the office. Um, about the bone density. I've had five back surgeries. I just, this year had hip replacement, which I had to wait nine months for. Oh, and it was, it was extensive by the time they finally did it and breast cancer. So, you know, I'm a retiree from a bank from 40 years working in banks. I'm really conscious of how that it, it is out there.
+Nurse: Yeah, that, that's a good thing.
+Patient: Yeah, because they'll rip you off quick, quick and B Eye. Yes, ma'am. So. Well, honey, it's been nice to meet you for the first time over
+Nurse: The phone. I know. Same here. Look, I have a few questions for you. Do you have time to answer? It's just to make sure you're taking the same medication that we have in the system? Ok. It's just to update your medication list. So, like if I was to name your medications, could you tell me if you're taking it or not?
+Patient: Well, instead of pulling out my bag of bottles because I feel the thing and I'll just pull my list but I can in my wallet.
+Nurse: Ok. That sounds good. Um, and how do you take your medication? Do you take them by mouth, by mouth? Of course, you take them by mouth. Do you take them out the bottle or do you have a pill organizer?
+Patient: I have a organizer but I take them out of the bottle and I fill it up by the week.
+Nurse: Ok. Ok. And do you find that, um, your medication is cost effective or you have something that's overly priced?
+Patient: Some of it is. But then I don't take nearly as much as I used to because I just, I can't, uh, tolerate meds that are like pain meds. I, I, there's a whole list of things I cannot take like [PHI-Personal], Ultram lortab, baby aspirin, even baby aspirin or any of the oxyCODONE medications, they all make me sick. That's pretty lucky when you think about it.
+Nurse: Yeah, because, um, I'll
+Patient: Never be a, a drug addiction person. Yeah.
+Nurse: Yes. You know, I was, I was gonna say at least, you know, all the medicines so nobody could accidentally give it to you.
+Patient: Oh, yes. I keep that on my list as well. I, I have reactions to all that stuff that, yeah. And I take that aspirin with [PHI-Personal]. I, I can't take that. I can't even take aspirin, baby aspirin. It makes my gums bleed and I get a nose bleed and sometimes further down in my body. Uh, if I have to have a BM, you know, it's pretty expensive. Wow, those are things I inherited from my father. My brother had a lot of these same things too.
+Nurse: So how would you want me to name your medication or would you want, tell me what
+Patient: You in the morning? I take DULoxetine HCL. It's 30 mg that, that one because I have a lot of neuropathy in my feet. I have a lot of nerve damage from all these surgeries. The, that's one of them. Um, Lisinopril.
+Nurse: Ok. So did you say Meloxicam?
+Patient: DULoxetine? Dul. Ok. Wait,
+Nurse: I don't, I don't think I have that one.
+Patient: I haven't been on that, that long. It's mostly because of all this nerve damage and that happened from waiting on this last surgery. Ok. Let's
+Nurse: See. Um. Oh, I do. Uh huh. Ok. DULoxetine. Yes, ma'am. I do. Yep. 30
+Patient: Milligrams every day, every day. Uh huh. Uh Lisinopril BP, HDTZ 20 to 25 mg
+Nurse: And that's every day,
+Patient: Every day. Uh, huh, every morning. Um, I used to take omeprazole but I, I buy the generic of, of Pepcid because I don't wanna take omeprazole anymore. Mhm. That's an over the counter. Do you need that stuff too?
+Nurse: Um, I have you taking the Famotidine, which is generic for Pepcid 20 mg twice a
+Patient: Day. Yes. And do you still take
+Nurse: The multivitamin?
+Patient: Yes, I do. It's for [PHI-Personal] plus women since I'm [PHI-Personal] I'll pretend I'm [PHI-Personal].
+Nurse: Let's see. So that one is once a day. Let me add that one. Let's see. Hm. And I have Prevastatin 40 mg every day. And that's for cholesterol. Yes. And then I have uh um Ativan one mg. Yeah, as, as needed
+Patient: As needed because I ie I either have spasms in at night or I just can't go to sleep.
+Nurse: Ok. So, and oh, I'm sorry, go ahead. No, ma'am. You go. You could go ahead. I was about to name another medicine. I apologize.
+Patient: That's all right. Uh CeleBREX 200. Well, it's not CeleBREX. It's
+Nurse: Generic for it. Yes, ma'am. Yes.
+Patient: The 200 mg for neuropathy pain in my different places all the way down like that. That's the only one I can take. But that, that's mostly just to keep it in check
+Nurse: And you take that one every day.
+Patient: Yep, at
+Nurse: Night. And then I have uh Zine is generic for uh Zyrtec five mg every day.
+Patient: Not, not so much now because cold. Ok. So allergies aren't as bad. So, I, I did, I think I might have a little allergy with my cat. So, maybe once a week I'll take one of those just because I start sneezing too much. Ok. And it's colder and I'm inside more than I'm outside.
+Nurse: Ok. And I also have you taking calcium with vitamin D three. Do you still take that?
+Patient: Yes. 1200 mg of calcium
+Nurse: And 1000 of D three. Yes. Ok. And then I have you on oxygen overnight.
+Patient: Yes. At night I have two lis, yeah, two liters. Yes. Ok. So do you have, I have, um, I have, uh, what is it? Asthma?
+Nurse: Oh, ok. Ok.
+Patient: I was, I lost a house in a flood a couple of years ago and we were all exposed to so many contaminants trying to clean this up. Ah, excuse me. Maybe I better take a Zyrtec bless you because I've been in the house most of the day. And so is the cat.
+Nurse: Yeah. Maybe you might need to take the Zyrtec.
+Patient: Ok. I don't like to take it if I don't have to, but if I start sneezing several times then I'll take one.
+Nurse: What about any refills? Do you need refills on any medication? Ah,
+Patient: It's just that I just got a refill of the Melo uh, DULoxetine.
+Nurse: Uh huh. Yes, ma'am.
+Patient: It looks like this. Yeah, this one too. The, the, uh, a bunch of those and it says I have two refills left. OK. And, and same thing with the DULoxetine, the 200 mg. Actually, when this bottle is gone, I have no refills for foot pain back and leg.
+Nurse: Which, which medication is that?
+Patient: That's the generic of CeleBREX this or however you
+Nurse: Say? Ok, so look like doctor or don't prescribe that? Who prescribed that medication? Do you see um,
+Patient: The small print,
+Nurse: Do you see like a neurologist or? Oh,
+Patient: No, it was Doctor [PHI-Personal], the orthopedic guy that did my hip. Oh,
+Nurse: Ok. So, um, I wonder, I will send in a request to see if, um, if doctor will continue to refill it because the um, did the orthopedic Doctor [PHI-Personal] say that he was gonna continue to refill it?
+Patient: Yes. Oh, ok. I can tell, I can tell you why I was a doctor found I had a hip issue in [PHI-Personal]. Mhm. So I went to a surgeon at singer and I was put off, put off, put off. So I finally got into Doctor [PHI-Personal] in [PHI-Personal] of this year and he did X rays. Yeah. Mhm. Uh, xrays and all that. I couldn't walk. I didn't, I couldn't do anything. I, the only nice thing is I have people waiting on me right left. So he, I got in like the [PHI-Personal], I think of [PHI-Personal] and a couple of days later I was in the hospital with part of my femur gone the ball of my hip. Gone the pocket of that ball, gone from arthritis. Wow. I've got a scar and rods down my leg from the front of my hip, down on my short little leg. Oh, doctor is calling me back. Must be about the shot.
+Nurse: Yeah, it probably is. Um, so you could go ahead and answer, we could, um, I could call you back unless, uh, you have call waiting. It's up to you. I don't mind holding,
+Patient: I don't know how to do that. Ok,
+Nurse: I'll call you back or you give me a call. I'll wait on your call. Ok, thanks. Ok, you're welcome.
+Patient: Hello?

@@ -1,0 +1,47 @@
+Nurse: Good morning. This is nurse. How can I help
+Patient: You? Hi. Um, I was told this pill that my brother [PHI-Personal] is taking, uh, was prescribed by your doctor. And I'd just like to know, uh, why they would is to, I think it's [PHI-Personal] ID. [PHI-Personal].
+Nurse: Ok. Would you mind verifying um, your brother's date of birth for me, please.
+Patient: March 31st, 1941.
+Nurse: All right. Give me just a moment while I get his
+Patient: Chart pulled up. Ok, a bit. You, your heart medicine. I don't know why they play with that. It does hurt, right? You're in patient. Well, you can't be impatient.
+Nurse: Oh, ok. And would you mind verifying your, um, name for me,
+Patient: Please? [PHI-Personal]. I'm his sister.
+Nurse: All righty. Thank you so much for that information, MS [PHI-Personal]. All right. Now, what medication are you calling about?
+Patient: [PHI-Personal] ID [PHI-Personal] ok. Yeah, he reduced the tablet and I just wondered why because I, as far as I can tell it is his heart pill. Ok.
+Nurse: And the prescription that you have, what, what does that say on it?
+Patient: Uh, uh, it says after 90 days, no refills.
+Nurse: Ok. So where it's up at the top of the bottle where it says, Tose, how many milligrams does that say? Oh, I'm
+Patient: Sorry, [PHI-Account]
+Nurse: [PHI-Account]. Ok. And does it say take one tablet by mouth?
+Patient: Well, he's been taking 1.5 for several months now. Ok. And, and, and now his new bottle he just got yesterday says one tablet and I just just was wondering why they would reduce it. Ok.
+Nurse: Um, on that bottle, do you see a provider's name anywhere on there? It should say doctor such and
+Patient: Such like just called doctor s office and he said no, his other doctor prescribes this. So I thought that was you.
+Nurse: No ma'am. So um it does, I was trying to, I was trying to see which provider prescribed that because we just have it on record. Doctor does not prescribe that. So when you call me, I work on behalf of doctor office. So, yes,
+Patient: Ma'am. Ok. So um so you're saying it's not not this, not this doctor s [PHI-Personal] then I mean, I don't see that. So I don't see that written on the bottle anywhere.
+Nurse: Ok. So from what I can see, it looks like his cardiologist did prescribe that. Um give me just a moment while I get that pulled
+Patient: Up. Oh, Ste A is on this one bottle. Yes, ma'am. Finally it's on the one bottle, the new one. So I'm not sure why. But anyway.
+Nurse: Ok, give me just a moment while I get his number pulled up for you. Alright,
+Patient: Thank you [PHI-Personal]. Mhm. Hm.
+Nurse: Give me just a moment and that is the cardiac provider and that is for the guy singer in [PHI-Geographic]. Correct?
+Patient: Um I don't think so because he doesn't do any business with ing anymore unless there's something here we're missing.
+Nurse: Um when was the last time he was seen by cardiology?
+Patient: When when did you see this guy last? You don't remember? No, they can't remember anything. Ok, I'm not being smart but they just they just can't. Oh no, I do understand.
+Nurse: Um let me take a look
+Patient: The [PHI-Account] up on the calendar. I do.
+Nurse: Ok and he is followed by I do apologize. Um the guy senior note that I had was for cardiac rehab but his cardiologist is that with evangelical? Yes. Ok. I do apologize for that. Um
+Patient: I sometimes the two they they keep changing things so.
+Nurse: Ok. No, I am just looking for that number for you now and is he having any symptoms while on the torsemide?
+Patient: No, I'm just curious why they would reduce it. Um beings it is a heart pill why they would reduce it? Um and then then uh say in 90 days you can't refill it. So I'm just just curious I do understand.
+Nurse: Give me just a second while I look up that number for you. Ok, so that number is [PHI-Account].
+Patient: Yep. Ok.
+Nurse: Alright. [PHI-Account] [PHI-Account].
+Patient: Ok. [PHI-Account].
+Nurse: Yes, ma'am. So when you call, um, you would just follow the prompts and um, someone answer and then you just tell them which um, office he goes to and they'll be able to get you squared away. All
+Patient: Right. Well, thank you very much. I appreciate. You're very
+Nurse: Welcome. Well, while I have you on the phone, um, I just have to go through a quick little tidbit of information with you. So that furosemide, like you said, that is um for his heart, it is a diuretic. Um And what that is is it basically is some people call it a water pill. It, it helps with swelling and just to remove the excess water from your body. And one of the ways it does that is by having the patient urinate. Um, there are some side effects of that medication, you know, things like constipation, diarrhea, um and upset stomach. Now, some of the more severe side effects that I want you to watch out for would be um rapid weight loss hives and you know, chest pain, things like that. Should he experience any of those? You definitely wanna give us a call and um we will either see about switching you or recommend if you follow up with cardiology for that.
+Patient: Ok. Ok. That's not really for the heart. Um, it,
+Nurse: It definitely does affect the heart as well. Um just because let me see, give me just a moment. I'm just reviewing [PHI-Personal] diagnosis because I do believe he has congestive heart failure. So one of the things with congest congestive heart failure is fluid and blood not moving through the body properly, which can cause swelling. So in a round about way, it is truly for the heart.
+Patient: Ok. Yeah, when you explain it that way. Ok. Yes, ma'am. And it is important enough for me to check out why they're not gonna keep it up after 90 days.
+Nurse: Um So after 90 days, that would more than likely be the reevaluation period. Um, they may want to see how he's doing on it after that 90 days or you may just be due for a prescription renewal, which is when the provider would rewrite this prescription. It's essentially a prescription expiration date. So definitely just contact the office and see what they have to say.
+Patient: Ok. Well, thank you very much. I do appreciate. You're
+Nurse: Welcome. You have a great day. You too. Bye bye bye bye.

@@ -1,0 +1,16 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you? Uh I think her name was [PHI-Personal]. She called me earlier to set up this BP, blue tooth, BP set up, but can I speak to her? Sure thing, I'll transfer you over. Ok. Hi [PHI-Personal] II. I think I, I think I got this all set up and you, you probably could have probably got three BP checks.
+Patient: I did. I actually got four of them and everything is looking fantastic.
+Nurse: Ok, I just got a couple questions. Do I need to keep this Bluetooth thing plugged in all the time or just when I'm fixing to use it?
+Patient: Ok. So what I will tell you is that we prefer that you leave it, plugged in just kind of set it and forget it, but you can unplug it and plug it back in with no issues. You just wanna wait for the blinking red light to be a solid red light before you take your pressure.
+Nurse: Yes. And can you tell me how I can pull up the history?
+Patient: Yes. So there is a memory button. So on the BP machine, the white machine, right? Underneath where it says SYS, there's a little gray button. It has an M on it.
+Nurse: What do I do to turn it on and push that?
+Patient: Yep. No, you don't even have to turn the machine off. So keep the machine off and then you just wanna hit that m and it'll bring back the last reading you just took and the more times you hit it, the more times it'll go back, it actually saves 250 of your readings.
+Nurse: So I got it. How often, how often do you want me to take my BP?
+Patient: All right. So if you are taking BP medication in the morning, you do wanna wait 30 to 90 minutes after you take your medication to do your BP. And we're really only asking for once a day,
+Nurse: Ok,
+Patient: For the first initial week. And then when your nurse [PHI-Personal] calls you, she might put you on something different, maybe, you know, every other day or every three days and then just do whatever it is she tells you to do.
+Nurse: Ok. Thank you. It was pretty easy to set up. Oh,
+Patient: Good, good. That's what I like to hear. All right, [PHI-Personal], if you have any questions at all, you can give me a call.
+Nurse: Ok? You have a good day. Be safe. Thank
+Patient: You. You as well. Bye bye.

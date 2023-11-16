@@ -1,0 +1,28 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi. Um, my name is [PHI-Personal]. I recently received a call from, is
+Nurse: Available. I'm sorry, I can't hear you. The phone's cutting in and out.
+Patient: Ok. Um, I've received a call from an, a, a couple of days ago. Um, do I need to speak to her or can I just give you my name? And I, I'm not sure what the call was about. I think I know what the call was, but I'm not sure.
+Nurse: Ok. Um, [PHI-Personal] is out today and I'm covering for her. So let me get you pulled up and see if there was something she needed to talk with you about.
+Patient: Ok, [PHI-Personal].
+Nurse: Hi. Can you verify your date of birth for me?
+Patient: [PHI-Personal], [PHI-Account].
+Nurse: All right. Let's see here. Um, it doesn't look like that. She made like a specific note of what she was calling about. Um, do you have anything new going on?
+Patient: Well, well, I, it's just that, um, the only thing I can think is that I have to take my BP twice a day. And, uh, but I, uh, number one, I wasn't sure how long I was supposed to do that and I've been taking it for a couple of weeks anyway and I'm gone for some time. And so for about a week now I have been taking it for, you know, the twice a day. I, I assumed that's what she was calling about.
+Nurse: Ok. Well, it looks like your BP readings have been really good.
+Patient: Ok. And that was gonna be another question I was gonna ask if I have to keep taking it. How much longer? Oh, whatever.
+Nurse: Let's see. Um, I wouldn't say that you have to take it twice a day anymore. Um, let me look at your medications. You're not on any medication for high BP. Right.
+Patient: Correct. Uh,
+Nurse: Ok. I would say, uh, take it once a day or maybe every other day just to keep a check on it. Um, but I don't see a reason that you'd have to take it twice a day, every day.
+Patient: Ok. Ok. Well, I'll do that. I'll, I'll take it you, maybe I'll start out at once a day and then make it every.
+Nurse: Ok. But now if you do notice any headaches, shortness of breath, facial flushing, anything like that, definitely check your BP cause that could be, um, signs that it is elevated and you would want to give us a call and let us know.
+Patient: Ok. Ok. I'll do that.
+Nurse: Ok. All right. Um, and then I see that you had an appointment, um, in [PHI-Personal] that you had to cancel. Do I need to reschedule that for you?
+Patient: Oh. Did have an appointment in [PHI-Personal]? It
+Nurse: Looks like it was on [PHI-Personal] the 13th. Let me,
+Patient: Oh, let me see. I don't re I remember I saw Doctor [PHI-Personal] in [PHI-Personal]. Uh, no, they, I don't have record of having an appointment scheduled for anything.
+Nurse: It looks like they moved it up to [PHI-Personal]. That's, I'm sorry. Oh, ok. There was an earlier appointment available so they canceled the [PHI-Personal] and moved it up to [PHI-Personal]. Oh, ok.
+Patient: Ok, great,
+Nurse: Great good deal. Alright. Well, if you need anything, feel free to give me a call um or it'll be uh, [PHI-Personal] the next time you call back, I'm sure since she's just out today, but if there's anything you need in the meantime, feel free to give us a call.
+Patient: Ok. Well, thanks so much for the information.
+Nurse: Absolutely. You have a good weekend. Oh, you too. Bye
+Patient: Bye bye.

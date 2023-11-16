@@ -1,0 +1,60 @@
+Nurse: Hi, this is [PHI-Personal]. Can I help you? Hi,
+Patient: [PHI-Personal], this is, I've been playing telephone tag with you
+Nurse: Guys. Yes, ma'am. I guess, tag on it. How are you?
+Patient: Yeah. You know what? I think that, uh, if ironic you call, I, I'm doing ok but I just had a cold that I can't seem to shake. I, um, my husband had, um, he had a cold about two weeks ago, had asthma and I, I think I caught it from him. He's good now, but in fact, he went to see Doctor [PHI-Personal] the other day but seems like I have, I've got it. So, I don't know. I'm thinking, you know, I don't have COVID and done the test and everything, but I'm coughing and, um, I've been taking, uh, Alka [PHI-Personal]. Plus that seems to have helped a while. So, uh, can you do anything for me? [PHI-Personal].
+Nurse: Let me see. M [PHI-Personal]. Um, I can, if you want, I can schedule you for a tele telemedicine visit today where they can call you. Um, do you wanna do that to kind of see what they can do for your symptoms today?
+Patient: Today? Is not good. I'm getting ready to, ironically go to [PHI-Geographic]. Um, so I won't be, um,
+Nurse: Because, um, because they do it, they can do it over the phone. Oh,
+Patient: Is it possible you could do it tomorrow?
+Nurse: Yeah. Let me see. Let me see what they got. Um,
+Patient: Ok, cause you know I'll be in a, I, I'll be in a car. I won't be where I can really talk.
+Nurse: Oh, ok. I see.
+Patient: And, and who, who will be calling me?
+Nurse: Let me see. What, who, um, is available tomorrow? Let me see. Um, what kind of symptoms are you having, uh,
+Patient: Coughing and, uh, a little [PHI-Personal], uh, when I cough I can tell it's in my throat.
+Nurse: Yeah. How long has it been going on for, uh,
+Patient: About a week or so? It's, it's, it's, it's minimal. It's, it's, um, uh, decrease but I still have it every now and then I have to cough and, uh, especially when I wake up and, you know, I wanted to be careful because I do have high BP. So I was taking, um, Coricidin and it didn't seem to be doing something I remember. Oh, really? Yeah, it just, it wasn't him and then I, I had some, uh, I guess I was doing ok. I was taking, uh, I stopped that and I started taking the last two days, Alka [PHI-Personal] Plus for daytime and then for night time and that seems to, to help the symptoms. But basically my symptoms are coughing, uh, with [PHI-Personal]. Mhm. And a little hit, like, right now I got a, just a mild headache.
+Nurse: Yeah, they have, um, today, of course, like we talked about there's afternoon appointments. There's a 1 45 a 22 32 45 3 o'clock and on and so forth. Did you wanna try to do the 1 45 today? No.
+Patient: No, because I, I will be, I would love to, but I'm, I'm waiting to be picked up. Now, I've got a meeting, uh, in [PHI-Geographic] and I'll be in a car. Um, probably the next 20 minutes.
+Nurse: So how, um, what time tomorrow is good for you?
+Patient: Um, I don't know, maybe [PHI-Personal], uh, you tell me and I'll try to work around
+Nurse: It. We have, we have a lot. Um, I have a [PHI-Personal], a [PHI-Personal], 15, [PHI-Personal], 30 [PHI-Personal], 45. Ok.
+Patient: Is, is that, is that the earliest,
+Nurse: The earliest I have a [PHI-Personal] a.m. and [PHI-Personal] and [PHI-Personal] [PHI-Account] 40
+Patient: Five. Ok. Nine would be good.
+Nurse: And the provider is [PHI-Personal] Strong. She's one of our telemedicine providers. She's really sweet. Ok. So I can get you in, you can discuss the plan of action. Now, you haven't been tested positive or having COVID symptoms, have you?
+Patient: No, not. I have not. Ok. Yeah.
+Nurse: Um, any fevers.
+Patient: No, no fever.
+Nurse: Just some cough and congestion. Yeah. Ok. My computer's thinking,
+Patient: I understand.
+Nurse: Ok, I have you down for tomorrow telehealth visit with [PHI-Personal] strunk at [PHI-Personal] a.m.
+Patient: Ok. And so will it show up if this is a phone call, you said not zoom?
+Nurse: Well, um, your email is Qs [PHI-Personal]. Yes. Ok. So they could pro they'll probably send a link to your phone to access, um, possibly a Zoom meeting. And if, for some reason that doesn't work, they talk to you on the phone. Ok. Yeah. Ok. Yeah. So, um, as far as your BP,
+Patient: How has that been doing? It's been doing good. Yeah, I had problems with that initially and now I'm on, um, the metoprolol twice a day and, um, it's worked out fine like that was the answer. So.
+Nurse: Ok. Now, with that said, have you heard of a remote, um R PM program which is basically, it's a voluntary program. No cost to you. It's kind of like this program. But the difference is that at no cost to you, the company will send you a BP cuff and that BP cuff will be, um, transmit all your readings to your chart.
+Patient: Oh, no, I hadn't heard of that.
+Nurse: Yeah, it's pretty nifty. So no charge to you. A BP cuff will be sent out. Um, and it's not just BP cuffs, you have pulse ox is for different, you know, there's different devices for different, um, conditions and, um, you take your BP and we plug it in, take your BP and it transfers the reading directly in your chart. So when one of us or the doctor opens it, your reading is like right there. Ok. Yeah.
+Patient: And um, am, am I to do this every
+Nurse: Day? No. How often are you checking right now?
+Patient: Um, I have, I have kind of stopped, uh, d but, you know, when it was in the height of what was going on, I was doing it like twice a day, I narrow down, you know, maybe once, once a day, once every other day. Um
+Nurse: Yeah, I think it like three or four times a week will be fine. Ok. As long as you're not getting and if the reading is crazy, um one of the nurses will definitely give you a call.
+Patient: Ok. Yeah.
+Nurse: Um and this has helped to kind of record everything in between visits. Ok. Mhm. And you know, if there's any issues and we can definitely, so what will happen is if you're interested, I'll send you over to the enrollment um nurse. She's really nice. Her name is [PHI-Personal] Jo and she'll get you squared away sending the device and explain things more in detail for you. Um And then the, the device will get set up and then the R PM nurse will reach out to you. Um the first time you use it and help set it up with you and use it with you. How does that sound? That sounds good. Thank you. You're welcome. You wanna participate in it? Yes. Ok, so what I can do because I know you're waiting to be picked up. I'll send your info to [PHI-Personal] Jo and she'll reach out to you and um discuss how to proceed with it. Ok.
+Patient: Ok. Will this be today?
+Nurse: Um when will be best for you? I can let her
+Patient: Know. Uh actually um Friday might be better. Uh you know, I, I wanna make sure I can really talk freely.
+Nurse: Absolutely. So, you said you're going, um, out of town when today,
+Patient: Today, I'm waiting for my ride in a few minutes.
+Nurse: And are you coming back Friday?
+Patient: No, coming back Thursday evening. Ok.
+Nurse: I'm just put a note in your chart. Ok. Yeah. Um, with the metoprolol, you haven't had any issues with low BP where you're kind of feeling, kind of sluggish dizzy. No good. Ok. Those are signs of kind of low BP where you're dropping too low. So, we always have to check in with folks when they ramp up on that BP medicine,
+Patient: Right? No, it's, it's been good. I would
+Nurse: Say. Ok, well, um, you have that appointment set up for tomorrow morning, just be mindful with your phone and if you're near a computer that'll be helpful too. Um, and I'll probably check in with you in a couple of weeks. How does that sound?
+Patient: That'd be great.
+Nurse: All right. Well, I'm sorry. We've been playing phone tag so much.
+Patient: That's
+Nurse: Ok. But I was so glad to talk to you and get plugged in. So, um, they'll give you a shout tomorrow and I'll tell [PHI-Personal] Jo about the R PM program. Um, I'll have her give you a call at the end of the week. Ok.
+Patient: All right. Thank you so much.
+Nurse: You're welcome. You have a good afternoon. You
+Patient: Too. Bye bye bye.

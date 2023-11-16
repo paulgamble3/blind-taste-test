@@ -1,0 +1,79 @@
+Nurse: Good afternoon. This is [PHI-Personal]. [PHI-Personal] I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. How are you today?
+Nurse: Good. How are you?
+Patient: I'm fine. Thank you. The reason I'm calling is I was thinking that I have an appointment coming up at the beginning of [PHI-Personal], but I'm not sure. But what I think it's for is the [PHI-Personal] shot.
+Nurse: Ok, let me check that. You're welcome. I don't see an appointment scheduled because I'm
+Patient: Trying to think the last time I had one because I got my vaccine in January and I think I got my shot, either [PHI-Personal] or [PHI-Personal].
+Nurse: Ok. Let me take a look good. Just bear with me here. My computer is so slow today.
+Patient: That's fine because I, I can't even remember if it was [PHI-Personal] or [PHI-Personal].
+Nurse: I'm taking a look at, I'm trying to pull up your [PHI-Personal] visit. You were in for your wellness visit, your physical that day. I'm trying, I wanna take a look and see if you got it that day. That was [PHI-Personal]. Um Let's see
+Patient: Then maybe I have an appointment in [PHI-Personal] to come in there.
+Nurse: Um Yes. Ok. So you have the [PHI-Personal] in [PHI-Personal], in [PHI-Personal]. So it was, yes, you had it at your wellness visit. So let me you will be due December, January, [PHI-Personal], March, [PHI-Personal]. And [PHI-Personal].
+Patient: And do I have an appointment in [PHI-Personal]?
+Nurse: No, I don't see you have an appointment [PHI-Personal] though. So let me see if that's what that's for. That's,
+Patient: That's probably what it's for
+Nurse: [PHI-Personal]. Um, hm, that's a recheck visit. [PHI-Personal]. It doesn't say [PHI-Personal], but I can check with the nurses because we wanna make sure we have it for you. Well, here, well,
+Patient: Here's the thing that I, and the reason I'm calling because, yeah, I mean, I get the [PHI-Personal] shot. So if it was [PHI-Personal], December, January, [PHI-Personal], March, [PHI-Personal], it really should be may that I get it. But anyways, the thing is when I retired and I got my insurance, I got the [PHI-Personal], the guy told me because I told him I go, I'm on [PHI-Personal]. He said to me, well, you can't have your doctor order it through the, uh, a pharmacy because they won't pay for it.
+Nurse: Right? No, we get it through the office.
+Patient: Ok. I mean, and do you know how, I mean, is it cost a lot of money or is it just a normal cost to me when I get it? Do you have, when
+Nurse: You come in? Um,
+Patient: Let me just say, because if it's hundreds of dollars we can forget it.
+Nurse: No, I can find out. So your new insurance as of the first of the year is different.
+Patient: No, no, it's still [PHI-Personal].
+Nurse: Ok. That's what I have. We have you listed as [PHI-Personal],
+Patient: [PHI-Personal] and then I also have a supplemental of [PHI-Personal],
+Nurse: [PHI-Personal]. Ok. Do you have your card handy? So I could give it to billing and they could check on the cost for you of the [PHI-Personal].
+Patient: Which card number do you need?
+Nurse: Um this? So the [PHI-Personal] supplement? Wait let me see. Hold on here
+Patient: Because I was thinking that it had to be ordered because of [PHI-Personal].
+Nurse: Never mind. We do have a copy of that card here. Ok, so let me I'm not familiar with the billing. So let me check with billing to see what the cost would be for the [PHI-Personal] injection with if there's any cost to you with the insurance or if it's just a copay or what it is.
+Patient: Yeah because I mean I wanna know beforehand because just because I know it's very expensive. Ok, and you know if I have to pay 100 it's not good because I have my grandkids moved in with me and I'm retired, you know what I'm saying? They, but it just it it just puts you know, so much difference in my
+Nurse: Life so. Oh sure, sure. Ok, so I will, I'm gonna check on that and then I'll get back to you on that now. It may not be being that it's already two o'clock on Friday. I might not have an answer for you by the end of today, but I will certainly call you Mon back Monday if I don't get one today.
+Patient: Right. And if I need to make an appointment for it to be in [PHI-Personal],
+Nurse: Yes, that's another thing we'll do as well. Yeah.
+Patient: Ok. So, yeah, just, um, yeah, if you could just let me know.
+Nurse: Sure, sure will. Now, [PHI-Personal] being that you called in, um, I'm gonna also send you out your wellness goals for the year which are, and it's everything that you would normally have done. Um, it's gonna be your annual wellness visit, your routine, blood work, any testing that [PHI-Personal] wants you to have done throughout the year also, I'm gonna send that letter out to you today because it looks like, um, you just, yeah, well, let
+Patient: Me, let me just stop you right there before we even go any further because I just might as well bring this up to you. I had just two, the last two months. I've had blood work done. Mhm. I had it done because I, because of my, um, my arthritis doctor. So in both of them from, in my one in January and I think it was my one in [PHI-Personal], my hemoglobin levels dropped almost one full point each month. So she, so when she, in reality, I guess they almost dropped two points and they're at the low levels. And she said, you know, so she took me off of some of my medicine off of my, some of my arthritis medicine for a month and I'm supposed to go get back and get my blood rechecked, which I think I'm gonna go the 12th of the month because I it's whenever I go to divine to pain management, I just go down to the lab and get my blood work. So, but what she said to me is if your hemoglobin levels are low, the next time your family doctor is gonna have to do a follow up. So I'm wondering, did you guys ever get those?
+Nurse: We, I do see them here. Um And [PHI-Personal] 2nd, you were at 12 on [PHI-Personal] 2nd, it was a 10.7 and on [PHI-Personal], you were down to a 9.9 right. Now. Did they refer you to G I gastroenterology in regards to that?
+Patient: Nope. And I was already, I just went to the gastrologist last week. I still take that one pill, you know, and she asked, you know, one of the things that the nurse asked me when she called me, she said, do you have blood, you know, in your stool? Right. Right. Or do you throw up blood? But what I said to her, no, I'm cold all the time and I throw up, but I throw up bile. Now this week I've been sick for the LA. I, I'm sick a little bit today. But what I woke up in the morning was like, with the dry heaves and it wasn't purely yellow bile. It was yellow but it was mucusy. But the other night I threw up a half a bag. I had a gallon bag and I threw up half, you know, it was full, half
+Nurse: Full. Yeah. What did g I say about that? Did they?
+Patient: But I didn't say anything to them about that. But before that, you know, I would always be sick. I, and I take Zofran, you know, when I feel sick, but I, it was such a burning sensation, like, right below my breast bone, you know, like, oh, like right there, like it, it would just burn so bad, like my whole stomach and everything was on fire. So, you know, what is that acid reflux? I'm sure was part of that
+Nurse: Problem. Right.
+Patient: Right. You know, but I do have, you know, I don't have a gallbladder so I've had, I'd have these problems for a while but I don't have no blood. No, nothing like that. So, you know, I have to go back for this blood work. So I'm thinking, uh, what if it goes down again? I mean, what are, because I looked at that and it's like, I don't really know what they would do if my blood levels go down again. What, what does that mean?
+Nurse: Well, they would wanna find out the source or the reason or what was causing it. Um, so they may send you to a hematologist, um, depending on what it is, you might have to get, um, an infusion, you know, depending on how low your level drops. But usually they like to find the source of the problem first.
+Patient: Mhm. Ok. Well, then I'm gonna keep an, well, like I said, I told them I will go back because they said if it doesn't go up and it continues to go down, they were gonna refer me, which I assumed to my regular doctor, which is there, right? And I had wondered if they had contacted or said anything about that because your office didn't call me at all. But they did. So I just wanted to bring that up and let the, you know, just to say because, you know, to me, my blood's never had a problem and then for that to be happening, you know, maybe it is a little worrisome to me and plus I'm sick so much all the time, you know, but it's never blood. I never throw up blood. Never. And yeah, and
+Nurse: My bowel, no blood in the stool, no blood in the urine, no blood when you're vomiting. No.
+Patient: Ok. But so that was just some, you know, I mean, if, if it means that you're losing blood somewhere, how could you know what I'm saying? It, it's not coming out nowhere that I'm aware of. So those are the things that I just wanted her to know.
+Nurse: Like, yeah, and I'm gonna just update her. Um, I'm gonna send a little note today and I'm gonna update her with your recent counts. Um, because I only see the counts. Like, in your, they have that in the G I consult, which I just found from last week, from the 10th, they have that listed in their note. And then your rheumatologist from [PHI-Personal] 17th. Is that the last time you saw them?
+Patient: Mhm. Ok. But they called me on the phone and took me off of when I was there. They cut my one medication in half. And then after they got my blood work from, when I, after I was there, they called me and took me off of my leflunomide. She said I'm take you off your leflunomide for 30 days.
+Nurse: Ok. So let me update your med list. So you're off that
+Patient: Right now temporarily.
+Nurse: And, and what else did they cut that? Did they cut
+Patient: The hydrochloro? I used to take two of them but now I only take one.
+Nurse: The Hydro Chloroquine. Ok. Yeah.
+Patient: Yeah. And then the other one which was, uh, and predniSONE, they had, she's had me off of that for a while. The five mg of predniSONE, I doubt that that's in there. But I go to pain management and they have me on, I'm gonna spell it for you. Ok. Mhm. DD IC lof en ac and then it goes in half the, yeah, the pot and then it's 50 mg three times a day. Now, uh that means that's that actually potassium in this pill. So I had told my pain management doctor that I was on a potassium pill. So she said to me, she said, well, you should really let your regular doctor know and my potassium pills are almost gone unless Rite Aid automatically fills them. But my insurance doesn't go well with Rite Aid. So I'm not gonna go pick him up there. So if I, if she wants me to stay on potassium, maybe I should get a uh in the next week or so I should probably get a, a refill because I have three refills. Can I just transfer that over to my other um pharmacy? Can I call them with the, the number and just transfer the prescription?
+Nurse: What's your new pharmacy?
+Patient: The medicine shop on
+Nurse: [PHI-Geographic]. Um I'm not sure if they'll transfer it automatically for you. They should from Rite Aid.
+Patient: Yeah. As long as I have the number, as long as I have the prescription number, which I do because it's on the bottle.
+Nurse: Ok. And now, so the diclofenac potassium, you're on 50 mg three times a day, right?
+Patient: So maybe, you know, I guess my pain management also wanted me to at least to know that because she, well, maybe she don't want you to stay on the potassium. So I guess that's really my question since I'm ok.
+Nurse: So let me check with her and um I wa I wanted to see if I could find out how much potassium is that is in that diclofenac. Let me see if I could
+Patient: And like, I don't have no refills or anything on it. But what this is she told me is so I can't take Aleve, I take this instead. Right? And, and, and I looked it up and it says it's supposed to be the strength of Aleve and traMADol, but it's non narcotic,
+Nurse: Right? It's a non steroidal anti inflammatory. Yeah,
+Patient: Non narcotic. So that, you know, that was the thing. So um uh that's what she has me on now. I don't have no refills left on this but like I said, I go see her in [PHI-Personal].
+Nurse: So, ok, so let me check on, I'll check on a couple of things. I'm gonna check on the [PHI-Personal] for you and see um, what that cost is gonna be for you if there's any cost? Now, did you ever have to pay before? Like when you had it in [PHI-Personal], when I, when
+Patient: I picked it up? See when I had it in [PHI-Personal], it was funny that I was insured with the state and they filled it early. So I just brought it over and put it in my refrigerator.
+Nurse: Ok. So you brought it from the pharmacy last time,
+Patient: Right? And it was $[PHI-Personal] because it was through my state insurance. That was when I was through uh
+Nurse: Working. Yeah. Right. Ok. So now you're saying that medic they said they won't cover it if it's sent to the pharmacy.
+Patient: That's what my guy that I bought my [PHI-Personal] insurance from. Told me. So that's why I wanna check on it. Does it need to be, does which is just as easy as if you guys get it anyway. But you know, if I get it, it, how do they pay for it or do you have to get it? And if you get it, how much do I have to pay? Because I want Yeah. So let
+Nurse: Me, yeah, because I I things could have changed too after the new year that I'm not familiar with the billing. So let me find out about that. So I'll find out about that. I'm gonna check on the potassium and I'm gonna update your med list. Um ok. And so the hydroxychloroquine you're only taking one tablet daily, right? Um You're off the flu. Um Leflunomide, right? Yeah. And temporarily for 30 days and you're taking diclofenac 50 mg three times a day, right? Ok.
+Patient: Those were the changes in my meds. Yeah, I take my and I still take my Synthroid and all that stuff. So. Ok, take my Yeah. All
+Nurse: Right. So let me get that all updated. Let me check on those two things for you and then like I said, I'll either get back to you today if possible. If not, definitely on Monday, uh, to let you know
+Patient: That's fine, but just also ask her, uh, just let her know I'm gonna get more blood work too.
+Nurse: I will, I will and I'm gonna, when are you having the blood work again?
+Patient: I think my appointment is [PHI-Personal] the 12th when I go to pain management. So it'll be [PHI-Personal].
+Nurse: [PHI-Personal]. Ok. Ok. I will let her know. Ok. All right, [PHI-Personal] and so I'll either talk to you later or Monday. Ok.
+Patient: Yeah. Can you just call me back on this number on it's on my cell phone. [PHI-Account].
+Nurse: Yeah, let me make sure I have that 772 951. So call on cell. Ok. Ok. Alright. Will do ok here and if I don't talk to you later you have a good weekend. Ok, you too. Thank you. Thank you. Bye bye now.

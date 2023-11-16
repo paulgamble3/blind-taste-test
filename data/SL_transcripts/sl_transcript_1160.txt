@@ -1,0 +1,15 @@
+Nurse: Care management. This is Natalie.
+Patient: I got a call this morning from uh from you guys.
+Nurse: Yes. Could I get your name?
+Patient: Uh My mother, the last name is the [PHI-Personal] bot
+Nurse: [PHI-Personal]
+Patient: No, V as in Victor Ote as in as in God. E my birthday is [PHI-Personal]
+Nurse: And it's, it's cheerful. [PHI-Personal]. Correct? Ok. Right. Give me one moment and let me just pull up your chart here. Ok. And your date of birth was [PHI-Personal]. Is that right? [PHI-Personal].
+Patient: Right. That's Yeah. Ok.
+Nurse: All right. Ok. Just give me one moment. [PHI-Personal]. I'm gonna pull up your chart here. Ok. Thank you. Just one moment. Hello. [PHI-Personal]. Is this [PHI-Personal]?
+Patient: Yeah.
+Nurse: Ok. Ok, [PHI-Personal]. Thank you. Thanks so much for your patience. Sorry about that. Well, like I mentioned in the voice mail earlier, I'm calling uh on behalf of your mother's doctor, doctor [PHI-Personal] and we are on a recorded line for quality today. Uh But the reason I'm reaching out is she's eligible for a care management and behavioral health program. What that is would be a phone call from a dedicated nurse where she would check in with your mom between her office visits, she could answer questions or concerns, assist with medications, lab results, prescription cost, really anything pertaining to her health. The nurse would be an added resource and would of course, keep her doctor updated with current conditions or any changes with the overall goal being her at her best health possible care. Yes, it is. It is a great program and the care management and behavioral health program. They are billable services to Medicare, Medicare Advantage plans and secondary insurances. So may be subject to coinsurance, deductibles and copays. I do see however that your mother would qualify with her GHP gold and she would see a $0 copay. Now, the nurse, she could reach out monthly or every couple of months that would be up to you. Do you know if there would be a better time of day for the nurse to call like mornings or afternoons,
+Patient: Time of time at 12 o'clock, afternoon,
+Nurse: Afternoons? Ok, great. So what I'll do, I'll send out some more information in the mail. Um, and I'll send that out to 9 35 Country Club Drive, apartment one in Bloomsburg.
+Patient: Ok.
+Nurse: Ok. All right. Well, thanks so much for the call back, Mark and you have a good one. Good. Thank you. Thanks. Bye bye.

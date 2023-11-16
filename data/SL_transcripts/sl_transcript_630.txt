@@ -1,0 +1,6 @@
+Nurse: Exa speaking, how can I help you? Um,
+Patient: I think someone called me from here from doctor office.
+Nurse: Hold on, let me see who called you. Um, what's your name?
+Patient: [PHI-Personal] Arm.
+Nurse: Ok, hold on one second. Hi, MS [PHI-Personal]. Yeah, hello. Uh [PHI-Personal]. It was [PHI-Personal] that called you and she's on the phone with another patient and she would give you a call as soon as she's done. She says ok. Ok, thank you. Thank
+Patient: You. Bye bye.

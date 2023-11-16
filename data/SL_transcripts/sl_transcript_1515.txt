@@ -1,0 +1,76 @@
+Nurse: Hey, this is [PHI-Personal]. Hi, [PHI-Personal]. It's [PHI-Personal]. I couldn't find my phone. I'm sorry,
+Patient: It's ok. Um So I got your voice mail. Will you, will you verify with me your birthday please?
+Nurse: June 16th, 1935.
+Patient: Thank you. Um, so I got your voicemail but I couldn't make out what medication you were. Right.
+Nurse: Right. That's why I wanted you to call. Let me see. I'll spell it for you. It's I need it as a result of the fall on. Uh it's in and yeah, sorry. Uh It's a very good um right. And it needs a prescription. All right. It's spelled [PHI-Account] as in Mary, U [PHI-Personal] as in Paul, I [PHI-Personal] as in Robert, [PHI-Personal] [PHI-Personal] as in cat, I [PHI-Personal] as in Nancy and it's ointment. Not bad or anything else that, and you hear what you wanna spell back to me.
+Patient: Uh I know what you were talking about. [PHI-Personal] minute.
+Nurse: Yes.
+Patient: Yeah, that, that is usually an antibiotic ointment. Did you have a cut or something when you fell? Yeah,
+Nurse: I fell and cut my knees and they're still, oh uh I'm gonna run out of the stuff that I have,
+Patient: When, when was your fall?
+Nurse: That's when you sent me to the emergency room about three weeks ago when I felt off the, ah, oh, the, uh, the, uh, treadmill. But in my work out one, ok.
+Patient: Give me one second. Let me get your chart. Hold up the rest of the way
+Nurse: I was prescribed it when I was in [PHI-Geographic]. And that's how I have any left, but I don't wanna run out of it. It's very, very good for all, you know, uh triple antibiotic creams and things don't even come near the ability of this product. Ok.
+Patient: Um Did you mention needing it whenever you saw Doctor [PHI-Personal] for your follow up?
+Nurse: Ah, well, he saw my knees and as a matter of fact, I'm going back again to him to have further x-rays on my leg, on my left leg and uh I don't know uh if you want me to stay with doctor, I not uh thank you.
+Patient: I think they just put you with him so that she could have a hospital follow up um because is probably booked out pretty far.
+Nurse: Um Right. Let me look at your medicine. Hang on.
+Patient: Ok. Um So I can send a message to the office asking for a refill on it. Has doctor [PHI-Personal] ever prescribed it for you?
+Nurse: No, if I said I have it when I was in [PHI-Geographic] and I had the doctor there prescribe it for me. Ok?
+Patient: Um I can send them a message and ask, I don't know that they'll fill it since
+Nurse: Why
+Patient: If doctor [PHI-Personal] hasn't prescribed it for you for you befo before I don't know that they'll fill it, but I can send a message and ask them.
+Nurse: Tell him I uh what the condition of my legs are.
+Patient: Are you having any um signs of infection at all? Is there area red? Uh
+Nurse: Yeah, I keep, I keep this stuff on my knees.
+Patient: Are, are the areas red though? I mean, tell me what
+Nurse: They look like. Right on the one K me. Which name that
+Patient: Are they, um, is the, the sores, are they open or weeping? Have any fluid coming out? No,
+Nurse: No, no, no, no, no, no. They're trying to, they're trying to dry out and got a scab on them.
+Patient: Ok. And you haven't ran, been running a fever or anything like that?
+Nurse: No, no.
+Patient: [PHI-Personal] is there any swelling, uh, um, of the areas?
+Nurse: Uh, no, not, you know, there still could be some swelling. I mean, I really landed hard on my knees
+Patient: So there is swelling or there isn't,
+Nurse: There's probably some swelling there still? They're sore. I need so. Ok.
+Patient: All right. I will send him a message and, um, let him know that that's what you're requesting. Ok. What, what pharmacy do you use?
+Nurse: Uh Publix at [PHI-Personal] class? Ah, ok.
+Patient: Is that at 3838 Briton Plaza? Tampa Florida?
+Nurse: Probably if that's what comes up. I probably there
+Patient: Deep breath. All right, I will send him a message.
+Nurse: All right. Now when you look on my chart, I have an appointment with him with. Oh, in [PHI-Personal]. Could you confirm that?
+Patient: Uh, I do not see that appointment?
+Nurse: Well, that's sad. That's my yearly appointment. Let me show, uh, look at my calendar.
+Patient: You want, you know, look and see what's available.
+Nurse: What? Let me look at the calendar it down after I left there. No, I don't have a freaking count. So first available.
+Patient: Ok, let me see what, let me see what's available. It looks like you're due for a wellness visit as well.
+Nurse: Um ok, so I need a prescription. Thank still.
+Patient: What was that? I couldn't hear you.
+Nurse: Oh, ok. Let me go. Uh I'll need a prescription to get the blood work done and I would like it to go to [PHI-Personal] [PHI-Personal] on mcgill.
+Patient: Are you talking about doing your blood work prior to your appointment?
+Nurse: Well, it pork. Yes, he needs to look at it.
+Patient: Ok. Well, let me see.
+Nurse: I'm glad he's out requesting that because you know, I, I take seizure medication and he detected uh one time that I needed. No. Oh, and uh yeah, can you hear me have them put on that, that it should be a fasting lab work. So I don't drink or anything before or eat before I go in there.
+Patient: All right. So it looks like, um, doctor has availability. Wednesday, [PHI-Personal] for Thursday. [PHI-Personal] 7th.
+Nurse: Let me, um, get to my calendar going back and forth. Oh, [PHI-Personal]. Uh, [PHI-Personal] the [PHI-Personal] is the holiday. No. Oops. Oops. Oh, the [PHI-Personal], you say
+Patient: I was, uh, [PHI-Personal] or [PHI-Personal]?
+Nurse: Ok, the [PHI-Personal] is fine. What time? There's
+Patient: A, there's a [PHI-Account]
+Nurse: [PHI-Account] please?
+Patient: I mean, I mean [PHI-Personal] [PHI-Personal] I'm sorry,
+Nurse: It's even better. Hold on a second. I just that one. Bye. [PHI-Personal] [PHI-Personal].
+Patient: So you need to be there by [PHI-Personal] 15. [PHI-Personal]
+Nurse: [PHI-Personal] doctor today. Ok, thank you, [PHI-Personal]. So you'll get that blood work request over to [PHI-Personal].
+Patient: I'll send it to the office, but I, I can't, I can't send anything to [PHI-Personal]. Um I'll let the office know that you're requesting it.
+Nurse: Well, I it has to be there because they have my records and all and uh let's see. Oh, I thought I had the telephone number. Mhm. [PHI-Personal] [PHI-Account] I guess I don't. Well, ok. Well this um you me that I that's the only place I can get to and there are very few of them around to give me proper um uh blood work. So it's Quese [PHI-Personal] and it's on mcdill. Ok. Oh, maybe [PHI-Account]. I'm not sure right on the corner of mcdill and [PHI-Personal].
+Patient: Ok. So uh let me make sure this went through. Ok, Yes, 96, [PHI-Personal] [PHI-Personal] be there by [PHI-Personal] 15. I put a message in there about you wanting to have labs done prior with [PHI-Personal]. Um You're also due for a annual wellness visit. So I'll put in there if they could schedule you for the same day. That would be great. Um
+Nurse: Yeah,
+Patient: But you may have to ask while you're there at your appointment if they, if they can do that
+Nurse: Right. I will. All right. So I'll send
+Patient: Him a message about the medication. Ok,
+Nurse: I thank you very much and about the blood work and it has to be, it has to be done before I see it.
+Patient: Right. I understand.
+Nurse: Ok. All right, dear. And the fasting blood work. Yes, ma'am. Ok, dear. It only took 20 minutes of your day. I [PHI-Personal], I
+Patient: [PHI-Personal] you have a good day.
+Nurse: You too. God bless you. Thank
+Patient: You. Bye.

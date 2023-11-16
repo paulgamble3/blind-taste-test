@@ -1,0 +1,48 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Hi, this is [PHI-Personal]. How are you? Good. How are you? I'm doing all right. Oh, good.
+Nurse: What can I do for you?
+Patient: Um, I got a Cortisone shot in my right knee from doctor two weeks ago. It's not, it's not working. Ok. Well, I don't know if he wants to, like, send me to, I'm not gonna be on pain management. You know what I'm saying? Yeah, we're gonna have to actually fix the knee. I won't put something pot so I can take pills. That's not gonna happen.
+Nurse: [PHI-Account]. Ok. Well,
+Patient: You know, it's legal here where I am.
+Nurse: Yeah. It's just honestly, I, I've had so many patients have success with it that I'm like, well, why would you stop it? You know.
+Patient: Mm. I have mental problems so it helps me a lot and even the psychiatrist, even my psychiatrist says, well, I know it helps with stress. Yeah, he doesn't say anything but doctor cannot put me on pain management when I'm gonna pee dirty.
+Nurse: Yeah. Yeah. Uh, no. Get away. All right. Let me just put this in here. So no changes pain 10 being the worst. Zero being, no, not being at all. Where's your pain at it? On a nice,
+Patient: It's a nice mild [PHI-Account]. Yeah.
+Nurse: Yeah. Yeah. I know he has a fever. So we're home from daycare. What? Ok. Ok. In a second. Right. There you go. Ok. Why aren't we listening to this? I don't even listen to rap. Sorry. There we go. I don't hear anything. I feel like it like whatever. Whenever I'm uh, on the phone with a patient, I'm like, oh, they could probably hear everything going on. That's why I feel so bad whenever I have my kids home. I'm like, I'm so sorry. My Children are home. Oh, that's
+Patient: Ok. All right.
+Nurse: So I'll send this message over to him. I'll right. Yeah. Oh God. Oh God. When they get older, at least they'll play downstairs, like go injure yourself downstairs.
+Patient: Yes, they do. They do. It's challenging when they're young though.
+Nurse: Oh, yeah, definitely. Yeah. Pain, I think we can do. Pain
+Patient: Assessment is still pain.
+Nurse: Oh, yeah. I feel like they never grow out of that phase.
+Patient: No.
+Nurse: Let me put your address here. It is.
+Patient: Ok. Yeah. He's gonna have to send me to a surgeon or something. I'm gonna tell him I want it fixed. Yeah.
+Nurse: You know what, I'll tell
+Patient: Him I wanna jump around, I don't wanna jump around on pain management. Right. I really don't. I injured the knee very badly. When I was [PHI-Personal] and this is, you know, coming back to me it's a, it's not a big lateral meniscus tear, but there's a lateral meniscus tear. Right. And you know what I like,
+Nurse: This is what I'll do is I'll send over the pain assessment. Um, have you been doing anything else besides after the, like after the injection that you got, that you're doing?
+Patient: No, no, just regular every day and it's aching when it was raining the other day. It was aching. Ok.
+Nurse: Ok. But do you use like heat Tylenol cold?
+Patient: I'll check all the above. Ok. I take diclofenac for it.
+Nurse: Ok. And that
+Patient: Does once a day, twice a day. Ok.
+Nurse: All right. I'll see. I'll send over the assessment and I'll tell you he, we'll probably do a referral to an orthopedic or an orthopedic surgeon. I mean, their chances it's gonna be. Yeah. Sounds good
+Patient: To me. All right, I'll, I'll be in the office on Friday. Um, my daughter has to see, I check in at the office and see what we're gonna do. Ok.
+Nurse: Cool. Ok.
+Patient: Yeah, I'll be in the,
+Nurse: All right if I hear earlier though. Um, if he wants to, he should get back to me. Well, it, I wanna say he'll get back to me by the end of the day and he'll let me know. Um, so I'll call you, but if not then, um, I will, you'll be in the office then. So we'll tell you then.
+Patient: Yeah, I'll be in the office on Friday. All right, with my daughter and into,
+Nurse: Ok. And no problems, like how I feel that sometimes, like, depression and anxiety can be triggered when you're in a lot of pain. Um, they are, like, interrelated but how, like, the, the medical marijuana is helping with that. Right.
+Patient: Oh, yeah. Yeah. My mental health is pretty good. Ok. Very good. I've been in counseling for 10 years. It was bad. Yeah it was bad 10 years ago.
+Nurse: Yeah. Yeah.
+Patient: Yeah it really was.
+Nurse: All right. Put that there. Ok. Alrighty, I will give you a call back hopefully um with an update before Friday but if not we'll definitely talk to you on Friday.
+Patient: All right, sounds great. Thank you. All right, you're
+Nurse: Welcome. All right, take
+Patient: Care I hope your baby gets better. Thanks.
+Nurse: This is we're going on like week four now if he's sick.
+Patient: Oh my goodness. I know
+Nurse: I don't know what the
+Patient: Heck to do.
+Nurse: Uh yeah. Yeah because if it's not one thing it's another we got on the antibiotic finally after he just kept telling us go on a steroid, going on a steroid and now we're on the antibiotic and he's running a temperature so. Oh my poor little kid.
+Patient: Yeah go get it figured out. Yeah. Thank you. All right. Alrighty. Well I will talk to you today or sometime this week probably. Ok. Sounds good. Alright honey. Thank you. Alright bye.

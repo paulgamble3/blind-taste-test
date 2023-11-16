@@ -1,0 +1,7 @@
+Patient: Uh they're coming in you. Hello? Hi. Yes,
+Nurse: This is [PHI-Personal], one of the nurse, case managers. How may I help you?
+Patient: Ok, this is [PHI-Personal]. Um you were trying to get a hold of me yesterday
+Nurse: Was checking and it looked like your physician had sent you over and someone had spoke to you about the [PHI-Personal] care management program that we have for. You are the nurse case manager. I'm sorry
+Patient: About that. You're breaking up really bad. I can't really hear you. I can't hear you. You're breaking up here and can I
+Nurse: Call you right back? You caught me
+Patient: Right in the middle. I can't. Oh my God, I can't hear you at all. Ok. Oh, when you a doctor? Alright.

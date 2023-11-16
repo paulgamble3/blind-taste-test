@@ -1,0 +1,10 @@
+Nurse: Care management program. And this is May I help you? Yes, [PHI-Geographic] in [PHI-Geographic]. Yes,
+Patient: [PHI-Personal].
+Nurse: Uh I talked to you here a while back about uh calling you to get refill on my medication. I didn't realize at the time when I called you that I didn't have any refills on my uh asthma medicine. It says take one tablet by mouth at bedtime or for allergies and breathing. Mhm. I've been taking this for approximately four months because doctor wasn't in one day when uh the other lady, doctor, I forget her name. Doctor [PHI-Personal] prescribed it for me and it worked really well. But then I called back and had doctor refill it, but he only gave me one refill. I mean, I don't know when. All right, let
+Patient: Me let me get your chart open real quick.
+Nurse: Ok.
+Patient: There you are. Can you verify your date of birth for me, [PHI-Personal]?
+Nurse: 10, 15 54.
+Patient: All right. The Montelukast. Uh huh. Ok. And you want more refills than one, correct?
+Nurse: Well, yeah, I mean first time she gave it to me, she gave me three refills I believe. And then doctor filled it and it says no refills on here. I got two pills left, one for tonight and tomorrow night.
+Patient: Ok. I'll get it refilled for you and you want that to go to. Is that correct? Yes. All right, sir. I'll get that refilled for you and I'll let you know if there's any problem, but that should be just fine. All right. Thank you. Thank you, sir. You have a great day.

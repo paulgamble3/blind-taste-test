@@ -1,0 +1,11 @@
+Nurse: [PHI-Geographic] Medical. This is [PHI-Personal].
+Patient: Hi [PHI-Personal], this is ok. Yeah, I was just I have pictures um I can send them if you guys need them.
+Nurse: Yeah, go ahead and um send those via my chart.
+Patient: Um I don't think I have access to my chart. Uh
+Nurse: Get that. Yeah, that's the only way that we'd be able to see them.
+Patient: Um All right, let me try to figure it out and also his aide is there if she needed to do like a face time um to see it, she'll be there for the next hour.
+Nurse: Ok. Well, I'm still waiting on a response from doctor. So if um if I get a response from uh her, you know, within the next hour I'll see what we can do. Ok.
+Patient: Alright, sounds good.
+Nurse: Ok, thanks for letting me know.
+Patient: Oh, no problem. Alrighty, thanks.
+Nurse: Bye bye.

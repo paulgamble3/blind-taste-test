@@ -1,0 +1,25 @@
+Nurse: Hi, [PHI-Personal]. How are you?
+Patient: All right, [PHI-Personal]. Did I catch you when you got a minute? Yeah. What's up? Ok. When you get a chance, if you could, uh, be so kind to be my messenger with Doctor [PHI-Personal] office. Uh, I, I have AAA Cyst on my lower left back, which he knows about. He's looked at it the last couple times I've been with him. Um, and we previously had agreed that, that, uh, we'd leave, you know, we leave it alone but lately, um, it's been, uh, um, it's been, uh, developing an itching stage and occasionally a soreness stage and I think it's growing in size and moderately modestly growing in size, but it's the itching and the, and the soreness stage, uh, that I think he better take another look at it. We may be, maybe it may be that we should get it removed now removed.
+Nurse: Ok. Um, so Doctor [PHI-Personal] has seen it before, right? Um, the cyst. Ok. Is it warm and everything or
+Patient: Is the cyst warm, you mean? Yeah. Yeah, I think it's, uh, I, it's hard to tell because it's on my back. I mean, you know, uh, Yeah, I think it's probably, uh, the temperature, uh, the temperature of the warmer, I guess is, is a little warmer than the surrounding area.
+Nurse: Yes, I think touch than normal. Is it red? Do you know, did anyone say?
+Patient: I don't believe so. I, but again, I, I don't have
+Nurse: But can't really see it. Um, I'll put that, um, and it, you do notice some pain now. Um, ok. Notices soreness and, um, what else did you say? Itching, itching? Yeah.
+Patient: Periodic itching and periodic soreness
+Nurse: Because maybe it should be removed. Um, ok, let if Doctor [PHI-Personal] doesn't have anything available, you're willing to see other people.
+Patient: Sure. But I mean, he's seen it before and, and, and, and has a prior knowledge. I would think he, he would be, he would be much more appropriate than anyone else.
+Nurse: I'll see if Doctor [PHI-Personal] has anything available. It's not. Um,
+Patient: Well, [PHI-Personal] should ask him. I think he'll want to see it. Uh, that would be my opinion. But, you know, ok, just my opinion.
+Nurse: Yeah. Uh I'm gonna see if he has anything available. Um, so, ok, no fever or anything, no drainage.
+Patient: No, no,
+Nurse: No, I just always have to ask. Um, and, you know, if you do fever, dryness, increased redness pain, you know, seek medical attention, obviously, infection,
+Patient: You know, periodic off and on, uh, itching and off and on. Uh minor minor soreness sensitivity. But, you know, right now it's very moderate but I think maybe we
+Nurse: We should you know the pain, you know. Uh ok, I'll see what they have and see what's going on. Um and I'll put in here, doctor seen it before and it was you were just leaving it go because not it wasn't bothering you. Um ok. Well I'll put that in here. Have a good weekend, did you or?
+Patient: Yeah, thanks. Yeah, no problem. Yeah. Very good. Very good.
+Nurse: Very good. Ok. Well, let me get this out to them and I will definitely get back to
+Patient: You. Thanks very much, [PHI-Personal]. Alright,
+Nurse: I'll talk to you soon. You do
+Patient: Emails. Does that work for you or you don't do emails?
+Nurse: I don't do emails. No.
+Patient: Ok, no problem. All right. Call me when you can.
+Nurse: Ok, I definitely will. Ok, talk to you soon. Ok, bye.

@@ -1,0 +1,90 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Yes, [PHI-Personal] Ru, you called and I'm just returning your call? Oh, ok.
+Nurse: Hello? How are you doing?
+Patient: I'm doing fine
+Nurse: Good. Um, I'm one of the nurse care managers that'll be calling and checking in on you. Um, I see they got you enrolled in our program we have here through the doctor's office. Um,
+Patient: Let
+Nurse: Me get back into your chart here. Excuse me? Oh, ok. So let me see. It looks like I'll be calling you every other month. Um, excuse me. And what, um, what I do is I will mail you out what we call, um, a Wellness letter and that's just a list of all of the things that we work with the doctor's office to make sure you get done in a year. Um, it's nothing extra than what you already do. It's just, you know, making sure you get your labs done, you follow up with the doctor um, and anything necessary in between there. Um, I have your address as [PHI-Geographic]. Yes, that's interesting. Your last name is the same road you live on.
+Patient: Yes. Was name that for my father in law.
+Nurse: That is awesome.
+Patient: Yeah, it makes a lot easier to give you address.
+Nurse: I know. It sure does. That's awesome. I just think that's super neat. I was like, wait a second. That's the same. Um, let me see here. Mhm. It looks like you've just seen the doctor on the ninth.
+Patient: I see him every three months.
+Nurse: Ok. Good. Ok. All right. And it looks like he just recommended, um, continuing to restrict your sodium, um, and increase your exercise, low cholesterol diet. Yeah. To lose weight. Ok. Um, and then avoiding spicy foods, late night
+Patient: Snack. I don't eat spicy foods. That's
+Nurse: Great. That, that not go well with that. That does not go well with acid reflux. I
+Patient: Don't agree with my stomach. Uh,
+Nurse: See, I have a thing for red sauces. I struggle with, like, I love red sauce.
+Patient: Yeah, I'm ok with the spaghetti sauce. But it, uh, and in moderation. Yes.
+Nurse: Yup. Ok. And then, and then he said you're gonna be doing a car exercising. Ok. And then, let me see. Do you follow with any other specialist other than the doctor?
+Patient: Oh, yeah. I, I have a cardiologist, doctor scan that, that I see once a year. I, matter of fact I have a call in for him just for the, uh, to give me a time when I'm supposed to come in again. But, uh, it probably won't be until [PHI-Personal].
+Nurse: Ok. All right. So do you see anyone else other than the cardiologist?
+Patient: No, no, I used to see doctor for, um, colonoscopy, but he said now that I'm [PHI-Personal] I'll soon be [PHI-Personal]. He said, um, I don't do them anymore, like for people your age, so I don't need to see him anymore.
+Nurse: Right? Ok. So I am just gonna go over, you have a very small medication list. That's impressive. Do you use a pill box or do you just take them directly out of the bottle?
+Patient: No, no, I, I have a pill box that uh has each strip is another day. So I, I fill that for the week and then that way I know that. Well, I don't forget, but I, you know, in case I would forget that I didn't take it or something. My daughter worries about that. She bought me that I was just, I was just carrying it in, in one little container. But she said no, no, no, you got to have this that way. I know you didn't take if you took it.
+Nurse: Yep. Good. Ok. Um So if I name the medications, do you know what you take? Yes. Ok. So I have the Benzonatate three times a day as needed. Yeah. Um the alendronate sodium um once a week. Yes. Atorvastatin 10 mg. Yes. LORazepam one mg twice a day as needed. Yes, Lisinopril 20 mg. Yes. And metoprolol 25. Yes. Do you take anything else? I
+Patient: Take that one at night.
+Nurse: Ok. Yeah. All right. And that's all the medications you take. Yeah.
+Patient: Unless I have a cold or something, which recently I did have a cold and then gave me, um, oh, I forget the name of it. Now I'll think of it. But anyway, it was, uh, sneezing in anyway. Um, IC, I can let you know. Well, I'll look at the Bible. Ok. All
+Nurse: Right. And then let me see. What insurance do you have?
+Patient: I have uh [PHI-Personal]. Ok. Jo, that, that medicine was benzoate?
+Nurse: Oh, ok. Mhm. Ok. So you have, do you have your [PHI-Personal] handy?
+Patient: Yeah, I can, I can get it. I'm, I'm on a cell phone so I can walk and still talk to you. I'll get my card out of my, out of my purse. I didn't realize I'd need this right away. No,
+Nurse: You're fine. I just wanna, it's not, um, I think the wording might be wrong in my system because it's not going through. Oh, so I just wanna make sure there's so many different, um, names for all these insurances and I, that's usually just the glitch. It's just usually a different name.
+Patient: Oh, well, they, um, it's JJ O so I don't know if that makes a difference.
+Nurse: Is it PPO or HMO?
+Patient: No, it's, it's like an HMO but it's called JJ O.
+Nurse: Ok.
+Patient: It like get it out here. Capital [PHI-Personal]. I have, I also have, um, I also have [PHI-Personal]. Ok. The capital [PHI-Personal] is, uh, you need the ID number for that.
+Nurse: Give me one second, I think I figured it out. Oh, sometimes if they just put it in here wrong. Um, yep, I figured it out. Sorry. You're good.
+Patient: Ok.
+Nurse: Um, yeah, sometimes the wording has to be just right in our system for it to go through. They just had the wrong word in there. So, got that figured out. Um, let me see here. Ok. And is it? Ok. So, since we have you enrolled in both programs, is it ok, if I go over um, our anxiety screening with you, it's something I have to do four times a year with you. Um, and that's just a second tool we use to make sure that it's being managed and we don't need to make any adjustments to your medication.
+Patient: Yeah. Sure.
+Nurse: Ok. All right. And how long have you been treated for your anxiety? How many years approximately?
+Patient: How m, how long have I been taking my, uh, Lisinopril? I mean, my LORazepam. Yeah. Or what? My phone. I'm sorry. Um, hi. Two years now. I don't know how exactly how long, but it's been. That's ok. It's been over two years. I know. Well, it's, it's more like [PHI-Personal] years maybe. Ok.
+Nurse: All right. And then, um, do you have any family history of anxiety or depression that you're aware of?
+Patient: No? Ok.
+Nurse: And have you ever been high?
+Patient: I kind of was like that ever since I was a kid whenever I got nervous. Yeah. Make me, make me, um, get light headed. Yeah. It was really something very nervous and I, I did have my nephew almost die in my garage. So I think even since then, oh, no. And my sister died just suddenly she was fine and wasn't on any kind of medication or anything. And, uh, she died of a heart attack. So that's what made me say something to do. And I said it made me nervous to think that, you know, I could have the same thing happen and he said, don't worry, I'll take care of that, you know. So that's what, that's, he's, he's a great doctor. He's, oh, good. He always cares about his patients. Oh,
+Nurse: That's great to hear. You don't always get that lucky.
+Patient: No. It, he's like the old fashioned doctor who really cared about the patients. Those are the best thing, you know.
+Nurse: Yep. Those are the best.
+Patient: We, we don't get too many of those anymore.
+Nurse: No, unfortunately, we do not. Um, so you feel like your, um, anxiety is pretty well managed on that medication then? Oh,
+Patient: Yeah. Yeah. Good.
+Nurse: Ok. All right. So I will pull up my questionnaire here. Give me one second. Mhm. And it's just, um, it's seven questions and, um, the answers are not at all, several days nearly or sorry. More than half the days and then nearly every day. So the first question is in the last two weeks, how often have you felt? Nervous, anxious or on edge?
+Patient: Not at all? Ok.
+Nurse: And what about in the last two weeks? How often have you not been able to stop or control your worrying?
+Patient: I, I have my, I, I just take the one medication, you know, um, and it, it gets renewed every, every month or so. Yeah, they give me results.
+Nurse: Ok. So, in the last two weeks how often have you not been able to control or stop your worrying?
+Patient: Oh, not at all. I mean, everything's been fine.
+Nurse: Ok. And in the last two weeks, how often have you been worrying too much about different things?
+Patient: I'm not worried at all.
+Nurse: That's great. And in the last two weeks, how often have you had trouble relaxing?
+Patient: Oh, not at all. I do knitting. I did a puzzle. I, I watch the cooking shows, you know. So I give myself mind my mind a alert.
+Nurse: Good. All right. And what about being so restless that it's hard to sit still?
+Patient: Oh, no, I don't have any problem with that.
+Nurse: Ok. And what about becoming easily annoyed or irritable?
+Patient: Oh, the only time I would get irritable if somebody's driving crazy with their head listening to their cell phone, that would bother me. But I would, you know? But I, that makes me just angry. Oh, yeah,
+Nurse: Definitely. And what about feeling afraid as if something awful might happen.
+Patient: Oh, no, I haven't felt that way. I mean, since I, since my sister died, I mean, that was the only time that I was afraid that maybe that would happen to me, you know?
+Nurse: Ok. That's it. That's all the questions.
+Patient: Oh, ok.
+Nurse: All right. So, let me see here. It looks like you want me to call you every two months. So, do you
+Patient: Think you think that's ok? Uh I should have him call me every two months since I see him every three months.
+Nurse: That's completely up to you. If I we're fine with whatever you wanna do as long as we get to call and check in with you, it's your preference. So if you, and, and you can always change that if I'm calling you every two months and you know stuff's coming up where you want call more than that you can always change it. Um the letter I'm gonna mail out to you is going to have my contact information on it. So even if something comes up in the meantime between your office visits or between me calling you, you can always reach out to me with any questions you may have as well. Oh,
+Patient: Ok. Ok. Yeah, so I'll have tell you I put I didn't have your number that you're calling from um in my phone. I have caller id and that went straight to voicemail. Ok. Yeah, so I'm gonna put your name and number in my phone here. Yeah. Absolutely. Yeah, that next time you call me.
+Nurse: Yes, I know. And I know, like, I know there's so many spam callers you can't trust those unknown numbers showing up on your phone. So
+Patient: I got scammed once and that's why I did that. And I said never again. I mean, I do better than to believe that guy, but I did it anyway. So.
+Nurse: Oh, no.
+Patient: Yeah, I reported it to the police and everything and I had to change my bank account and, and all
+Nurse: Were, they were they able to get your money back?
+Patient: No, they said they, they said they're all foreigners. They call from other countries. Yep. And that's how, and, and they have no jurisdiction over that. They just take the information in case something might come up. I mean, I even had the police officer listen to one of the calls because the guy kept calling me, calling me and calling me and I couldn't get him to stop and I couldn't block him but then they showed me how to block him. Oh, good. So, yeah. Mhm. And then AT&T blocked anybody that I didn't have on my list from call and they would go straight to voice mail. Oh,
+Nurse: Good. Yeah, that's a good, that's a good feature to have because that's
+Patient: Terrible. Oh, yeah. Sure.
+Nurse: All right. Well, I will get that letter mailed out to you. Please give me a call if you need anything and if I don't hear from you, I'll call and check in with you in a couple months. Ok,
+Patient: Thanks.
+Nurse: You're welcome. You have a great day, [PHI-Personal]. You
+Patient: Too.
+Nurse: Thank you.
+Patient: Bye bye.

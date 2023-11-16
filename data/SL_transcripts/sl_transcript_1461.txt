@@ -1,0 +1,18 @@
+Nurse: You're not good. How are
+Patient: You? Hi, this is [PHI-Personal].
+Nurse: Hi, Cy, this is Missus.
+Patient: Hello. What can I do for you?
+Nurse: Well, it's so funny. I spoke to you yesterday and I was ok, but I just have a question. I don't know if I have allergies, my throat. I feel like there's something in my throat and, um, and I'm exhausted. I have some Old Monte [PHI-Personal] here. Mhm. Um, can I take it?
+Patient: Yeah, I would try that. Um, and then over the weekend I can call, I can call and check back with you on, um, Monday and see how you're doing over the weekend and if you're, if you're worse or that didn't help then we'll look at next steps. Ok. Great. Ok. That sounds good. Yeah, if you go ahead and try that and then I'll call you on Monday.
+Nurse: It says to take it at night that I should take it now.
+Patient: I would take it now. Yeah. Ok. It does. It shouldn't make you tired, like, you know, like Benadryl or anything. So. So, yeah, go ahead and try that. Yeah, it sounds kind of like a tickly dry cough.
+Nurse: Yeah, that's
+Patient: What it is. Yeah. And I'm trying to think, Moca. Yeah, that, that should help to dry it up,
+Nurse: Whatever that is.
+Patient: Yeah. And sometimes, you know, it gets worse at night. So, if you can, like, sleep with your head elevated.
+Nurse: Oh, I do. I have, oh, I have my CPAP machine broke last night. Oh, I see. Ok. I'd have to call them. Yes. Right.
+Patient: Um, let's see here. Yeah. I think that's, I mean, basically it, you know, you can drink warm fluids. Like, I don't know if you're a coffee drinker or, um, tea, but like warm tea with honey is really good for like a, you know, like a, oh,
+Nurse: Yeah, I do know that I was gonna have that at two o'clock this morning and it was really, yeah, I'm really
+Patient: [PHI-Personal] now. Yeah, that's fine. And then, um, you know, gargling with like salt water helps too.
+Nurse: Right.
+Patient: Ok. So, yeah, and then I'll call you on Monday and check back in. All right, thanks. Ok, thanks Debbie. Ok, bye bye bye bye.

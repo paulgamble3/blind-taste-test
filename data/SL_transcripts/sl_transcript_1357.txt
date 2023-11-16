@@ -1,0 +1,48 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Yeah, this is [PHI-Personal] returning your call. Hi, how
+Nurse: Are you?
+Patient: I'm ok.
+Nurse: Um, I was just calling to do your monthly check in. Do you have a few minutes?
+Patient: Um, what's it about? Um,
+Nurse: It's just a, um, the mana, the chronic care management program they enrolled you in through your doctor's office where we just call and go over things.
+Patient: Oh, well, I, I, uh, let's see. I have another appointment. They canceled yesterday's appointment and gave me another appointment. So I've got that down and ready to go. I think I'm very busy. I'm sorry to not be able to get back with you, but I have a business and I have two businesses. I'm getting ready to do in the next couple of weeks. So that's what's going on in my life. But I have an appointment for [PHI-Personal] at 10 30 with. Yes, that is correct.
+Nurse: Ok. Um, yeah, so I'm just a nurse care manager. We're contracted outside of the office by their office. Um, so we're just the ones that call and check in once a month, go over stuff in your chart. Um and just, um it's just a program that Medicare designed. Um,
+Patient: Just so you understand. Yes, I understand that. Ok. So what do you want me to do?
+Nurse: Ok. So your insurance is still the [PHI-Personal]? Yes. Ok. And you still live at [PHI-Geographic]. Yes. Ok. And what is the best time to call you? Is there a better time like in general going forward that works best for you?
+Patient: Well, not this, this month here right now, [PHI-Personal]. Uh I'll be actually away and I have to get ready with my, uh, my market place to go to Lancaster and I'm gone that few days. And then as I go into [PHI-Personal], I've got uh another show going on. So it's a matter of, I, I could prepare three days ahead. So it's a little difficult for me right now to make any appointments for the last three months. I've been trying to make an appointment with because my dentist died and now this last week my neighbor died. So I'm going through a lot of uh mess.
+Nurse: I'm so sorry. You said you're a dentist? You can't get into the dentist because your dentist passed away.
+Patient: My dentist passed away the one day, uh, a couple. Well, it must be now, two or three weeks he passed away and, um, he, uh the next day, one of my teeth broke in the front. So I had to find another dentist because I ma tooth in the front of my mouth. So I found some dentist but they, uh, uh, they were having trouble and they couldn't give me an, uh, a visit for another two months. So I waited the two months and waited to try to get the visit and that was canceled and then that happened again. And so, uh, they tried to get a hold of the doctor and I understand that that's a little bit of that worked out. So everything's a mess right now. This is why I'm not trying to avoid you. I'm just trying to get a few minutes by myself so that I can get everything ready for what I have to do for my customers.
+Nurse: I'm sorry that you're going through all that. I'm, I'm very sorry to hear
+Patient: All that. Yeah, it's, it's, it's, it's life, it's, it's just life and it's my, my life and just trying to arrange it all. Then when it gets canceled then the calendar looks like hell. No, I'm sorry, I haven't been able to get back with you but I just keep getting canceled and everything. So after, after we get through this in [PHI-Personal], uh ok, Saturday, that's [PHI-Personal]. I gotta take that off of it. I don't have that on that. [PHI-Personal]. I don't have it on that calendar there. I got three calendars running in this here. I get this one here. Oh, hold on a minute. I don't mean to keep you [PHI-Personal]. Um, Monday, [PHI-Personal] the first, that's a couple of weeks, isn't it? Yes. Yeah, because we were tied up there. So, probably sometime in that first week in [PHI-Personal], but not too near early, near the beginning. Oh, no, I
+Nurse: Don't, I don't need, I, I don't need an appointment with you. I was just gonna ask you some questions over the phone here. Ok. That's
+Patient: Good. Let's do what we can then.
+Nurse: Ok. All right. So I just have to do, um, a, a questionnaire. Um, just some screening questions that I have to do with you. Um, so this is just over the last two weeks. How often have you been bothered by the following problem? You can answer not at all, several days, more than half the days or nearly every day. The first question is, how often have you felt nervous, anxious or on edge?
+Patient: Hm. Oh, I, I know my head pretty good and I confront it and take care of it until the next one comes. So it really is no crisis.
+Nurse: Ok. So you haven't felt nervous, anxious or on edge at all?
+Patient: Not really. No. Ok.
+Nurse: And how often have you not been able to stop or control your worrying?
+Patient: Uh, I don't have any problems that I know, uh, what to do if I start to worry, I just cancel it.
+Nurse: And what about, how often have you, um, worried too much about different things? Still? Not at all,
+Patient: You mean life, just worry about life, you know, just trying to get to the store or trying to get some food or something, that kind of stuff. It, not nothing out of the normal.
+Nurse: Ok. And how often have you had trouble relaxing?
+Patient: Uh, I relax pretty good. I relax. Me and the cat. We sleep on the couch and we relax real good together. Oh, good.
+Nurse: And what about, how often have you been so restless that it's hard to sit still?
+Patient: Uh, I don't sit still because I'm too busy.
+Nurse: All right. And then how often, um, have you had problems with becoming easily annoyed or irritable?
+Patient: Uh, I, I been, it's been too sad to, to, to be anything but just sad with losing people around me, you know, that. So I would say, uh, oh, at least once a week I get like that when it's a, a little bit much, but I think it's normal.
+Nurse: Ok. All right. And how often do you feel afraid as if something awful might happen?
+Patient: That's a funny one. I'm not afraid something's going to happen. Something happens all the time.
+Nurse: Ok. Ok. All right. And you do not currently take any medications, correct?
+Patient: That's correct.
+Nurse: Ok. Oh, right. Ok. And do you have any questions or concerns for me today?
+Patient: I don't think so. K I'm just glad I was able to get back with you. Yes.
+Nurse: I'm glad I'm so sorry for everything you've gone. Through. But, um, I'm glad I got to talk to you today. Um, yeah, I hope, uh, things slow down for you soon.
+Patient: Well, I don't think they can get much slower than they've been getting with everything happening around. I got to get to a dentist. I got to find a dentist. I get, you know, I, I tried to get an appointment for three months and they just kept putting me up, put me off, put me off. So it's pretty aggravating. But I'm going to try a new dentist. Uh, uh, in [PHI-Personal], I'll, I'll manage until [PHI-Personal] and go without no teeth in the front. Now, do you
+Nurse: Have to wait until [PHI-Personal] with that broken tooth? You have to wait until [PHI-Personal].
+Patient: I've already waited from [PHI-Personal] to, until [PHI-Personal] because when the dentist died, you know, then I went to a new dentist and then they found that, uh, uh, you know, they couldn't do it right now, but then they balanced me down for another two months and then, uh, I got in touch again and, uh, I realized it wasn't working, so I canceled them. So I'm without the dentist, but I think I know where to go and take care of it, but it won't be until [PHI-Personal] because I'm too busy until then. Ok. All right.
+Nurse: Ok. Well, I will let you go. Um, if you need anything, um, please reach out, but if not, I will call you again. Next month. Ok. And if you want so, and if you, um, I can always space the calls out too. Like you don't have any medications, there's not a lot going on. If you don't want me to call every month, I can space it out to every two months, three months, four months, I can do whatever it is. You want me to?
+Patient: Yeah, while I, while I'm busy like that, you know, every two months is fine. I, I'm, I'm, you know, I don't really need it. Not yet anyway, but ok.
+Nurse: Ok, so we'll we'll space it out to every two months now and if that ever changes in the future then we can always change
+Patient: It. Sure that that will work. That's good. Ok, thank
+Nurse: You. You're welcome. You have a great day.
+Patient: Thank you. You too. Thank you. Bye now. Bye.

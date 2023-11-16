@@ -1,0 +1,20 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. Um, my name is I'm [PHI-Personal] daughter.
+Nurse: Hi, how are you?
+Patient: I'm good thank you. How are you?
+Nurse: I'm good.
+Patient: Thanks. I keep getting voicemails for my mom to call you back. Um, I've sent them to her. She's not calling me back. So I figured I'm on her HIPA. I was just call and see if it was something you could discuss with me.
+Nurse: Um, yeah, I was calling to talk to her about the doctor's care management program. Um, so let me just tell you real quick that this call is gonna be recorded for the, um, for training purposes. Ok. All right. So, yeah, um, recently the physicians within [PHI-Geographic] started offering their Medicare patients a new program called Care Management. So, with that, your mom, um, would get a phone call from doctor [PHI-Personal] Care Management nurse and her nurse would call her in between appointments. She would check in, make sure she's feeling well. Her medications are working well and no new issues or concerns have come up in between those visits. Your mom would also be able to contact her care management nurse directly if she had any medical questions or concerns or needed assistance with things like refills, test results, appointments, things like that. Um, so it is a billable service to Medicare, Medicare Advantage and secondary insurance plans and the calls are subject to deductibles, copays and co insurance.
+Patient: Yeah, I'm gonna, I'm gonna let you know I'm gonna, um, contact the area there. Oh, up there,
+Nurse: I'm sorry, you're breaking up to her. I'm, I'm sorry you broke up. I
+Patient: Sorry, I'm contacting the area on aging, um, and they'll do all of that and more so out of pocket cost for her. Oh,
+Nurse: Ok. Uh ok. Yeah, no problem. I'll just note in her in her chart um, that she's gonna get, you know, services elsewhere. That's no problem.
+Patient: Yeah, I mean, she can't even get into strong so I don't, you know what?
+Nurse: Yeah. No, I, I totally get it and I will just note it. Yeah, I'll just note I'll just note in here that I spoke with you. Um, and we should pro we, we won't reach back out to her.
+Patient: Awesome. Yeah, it's actually my number that you've been calling. So.
+Nurse: Oh, which number is it? The [PHI-Account]? No, the [PHI-Account]?
+Patient: Yeah, that's my number.
+Nurse: Ok, so I'll just go ahead and take that out of here completely. Um, and, and I will just note in here that I spoke with you. I appreciate you calling me back.
+Patient: Thank you so much. I appreciate that.
+Nurse: Yeah, no problem at all. Have a good day. Thank you. You too. Bye bye.
+Patient: Thanks. Bye bye.

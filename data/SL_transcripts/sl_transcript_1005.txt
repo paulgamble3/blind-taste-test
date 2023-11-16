@@ -1,0 +1,22 @@
+Nurse: Signal health. This is [PHI-Personal].
+Patient: Oh, yeah, maybe you can help me with something. My name is [PHI-Personal] and um I've been seeing, let's say her name is [PHI-Personal]. Uh probably the last year, year and a half. She was out on, I guess maternity leave. So what happened was she called me on [PHI-Personal] and she says I'll be calling you [PHI-Personal] now. I don't know what happened. She never called me. Um I don't want it to seem like I never um contributed to it because I did, I, you know, I was waiting at 10 o'clock on [PHI-Personal]. So I really don't know
+Nurse: What doctor, what doctor's office call you.
+Patient: No, no, nobody calls me. No, her name is [PHI-Personal]. She's like a, um, what do they call that? The office was on [PHI-Personal]. Um She's like a social worker type thing or a, you know, um, no, somebody that just talks to somebody.
+Nurse: Yeah, I think I'm sorry, but let me try to figure out who you can talk to because I'm not, I'm not the person you have to talk
+Patient: To about that. No, I don't, I don't need anybody to call me. I just don't want anybody to think like I wasn't there to get the phone call. She would call me all the time. So, and it says here [PHI-Personal] not seen. So I don't know what that was all about. I don't want them to think I was, you know what I'm saying? I was available but I never got the phone call. Hold on a minute. Ok.
+Nurse: Oh, right. Let me just. Ok, hold on a minute. What was, what was your name again? I'm sorry,
+Patient: [PHI-Personal]
+Nurse: And your date of birth?
+Patient: Um, 4, 14 56.
+Nurse: You see [PHI-Personal]? Yes. So you miss a phone call.
+Patient: What do you mean? No. Um, she, she's been, um, doing phone call visits, which I didn't mind. I hope I'm not getting her in trouble. Um, but that's the way she's been doing it for the last year and a half. And so she had called me. You can see my chart here. It says telephone, um, [PHI-Personal] called me on [PHI-Personal] and to make an appointment for [PHI-Personal] at 10 o'clock and nothing was ever done. I was here to get my phone call and you know what I'm saying? I don't want them to think I wasn't available.
+Nurse: Do you have her phone number? The phone number for the office?
+Patient: Um, no, I don't, I don't have that. And, you know, like she was as my provider. Like you know, saying like the, the, you know, my doctors that I see and everything and now it disappeared. So I'm kind of confused what happened. I mean, like I said, I don't want because it does say here not seen now that wasn't on my behalf. I was here at 10 o'clock in the morning to get the phone call and she never called me.
+Nurse: Yeah, let me see if I can get her the number for her office so you can call to see what happened there. Ok. Ok. Thank you. Yeah, just give me a second here. Ok, my uh, has changed. So I was
+Patient: Just confused, you know, I don't want doctor [PHI-Personal] office to think, you know, I didn't actually participate, which I was available. It's just odd, you know, that she was always, you know, up, up forward and, you know, and then when I got the phone call, I was so excited to hear she had a little baby girl and then she says I'll call you on, I guess it was [PHI-Personal]. What day was that? And I waited here, even with me and my husband had an appointment, it was Friday and, um, just never got, just never got a phone call. So
+Nurse: Let's see here. Ok. So I have her a number you can call for her office. Ok. Ok. Uh, do you have a pen and paper? Yes. Ok. So it is 813 s 844. 7000.
+Patient: Oh, ok, great. And then I'll be able to leave her a voice mail then.
+Nurse: Oh, you might end up talking to someone.
+Patient: Oh, ok, good deal. Well, thank you so much.
+Nurse: Yeah, no problem. Have a good rest of your day.
+Patient: Yes, you too. Thank you. Ok, bye bye bye. Thank you. Bye.

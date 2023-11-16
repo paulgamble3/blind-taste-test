@@ -1,0 +1,17 @@
+Nurse: Good morning. This is, how can I help you?
+Patient: This is, did you, you called me earlier? Yes,
+Nurse: Ma'am. I did. Um So I wanted to call you and let you know. Um let me get you pulled up. We got the refill for your cream finally. Um So doctor [PHI-Personal] put in the refill on the Clobetasol cream. Um She does want you to continue just to use it sparingly and short term because it can irritate your scalp and change pigmentation of the skin. Um So that refill was sent into your pharmacy, but she really just recommends you use the shampoo
+Patient: Regularly. Good. The
+Nurse: Good. OK. At least 2 to 3 times a week. And that can be used with the clobetasol cream as well. OK.
+Patient: OK. Um
+Nurse: She says once you kind of reach a good stable point, um the shampoo can be a once weekly treatment once you feel like the areas are pretty resolved. Um And then you can try also alternating twice weekly with the cream and then twice weekly with the shampoo. OK.
+Patient: OK. All right. Right. So where did she, where did you send the prescription for that
+Nurse: Cream? Um The scalp cream was sent over to the CV Ss Pharmacy on Doctor [PHI-Personal] Jr.
+Patient: All right.
+Nurse: Ok. Ok. You're welcome. Any questions with that?
+Patient: No, I'll be in to see her soon enough. Ok. All right. Because I have an appointment, I think on the 10th or [PHI-Personal], something like that. So, not much time between now and then.
+Nurse: Um, yeah, you've got an appointment on [PHI-Personal] 11 a.m. Ok. And then in the meantime, just try to work on that dermatology referral too. I know you said you've got to work with your daughter on getting that scheduled, but right, that'll be a good follow up. Ok. Ok. All
+Patient: Right. Thank you.
+Nurse: You're welcome. You take care, ma'am.
+Patient: All right. Thank you. Take care.
+Nurse: Thanks. Bye bye.

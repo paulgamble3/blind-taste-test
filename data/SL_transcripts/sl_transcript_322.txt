@@ -1,0 +1,100 @@
+Nurse: Hi, this is [PHI-Personal]. Hello.
+Patient: Hello. Hi,
+Nurse: This is [PHI-Personal]. Is this the?
+Patient: Yes, it is.
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: [PHI-Account].
+Nurse: Good. This is [PHI-Personal], the nurse care manager. Let me get you pulled back up in the computer here. How are you doing today? Ok. Well, go there. Let me get you pulled up here. I was just calling to check on, you see what knew what was going on since I talked to you last month.
+Patient: Oh, so, uh, well, couple things I, uh, oh, I was just waking up. Sorry,
+Nurse: I was gonna say you sound like you're tired. I'm sorry that I woke you
+Patient: Up. So you didn't like I was awake for that? It takes a while. Uh, I had asked to be tested for UT I and it came back that I didn't have it but I still have the, the symptoms. Ok. Uh, super, you know, stuff like
+Nurse: That, the burning, the frequent urination pain. Um, does your urine, does it look cloudy or does it smell strong
+Patient: Chi chi, it, a lot of times I don't make it to the, to, to the, or I can look at it,
+Nurse: Do you have any fever or chills, anything like that?
+Patient: No. No. Ok. And I, I can't say that I feel frequently. It's just that I do have the burning and the itching.
+Nurse: Ok. I'm just looking in here and see if I, I am. Y I was just looking in here to see uh a patient and she does not have a urinary tract infection. I was just looking at the notes from the doctor, um, just looking at it.
+Patient: Um.
+Nurse: Ok. All right. So you're not feeling any better then?
+Patient: Well, not all the time. So, and it's, it's not normal for, for me to, I have that burning sensation that.
+Nurse: Ok. Did you say you have itchiness too?
+Patient: Yes. That, that,
+Nurse: Have you ever had yeast infections before?
+Patient: Uh It's been a while. Yeah, I've had that. Ok.
+Nurse: So this has been, this was sent on the eight. So it's been 12 that was last Friday and you're still not feeling any better,
+Patient: Right?
+Nurse: Ok. Um I'm going to, I'm gonna send a message over to the [PHI-Personal] um, and let them know that I talked to you. You're still having uh you know, the frequent urination and the burning, um, no fever or chills. Um, but you know, you're still having those symptoms, it's not getting any better and now you're having some itchiness in your vaginal area. Correct? Good. Do you notice, do you have any discharge, um, like in your underwear or if you wear a pad, like any, like, um, so with the yeast infection you would have like a, like almost like a milky creamy discharge and it would have an odor. Do you notice anything like that?
+Patient: Oh, it's a matter of fact I, I did the other day. Yeah.
+Nurse: Ok. So you had like a, a milky creamy odorous discharge?
+Patient: Ok. Still have that, uh, that two. Yeah. But so. Ok. Mm. Right. Ok. [PHI-Personal]. Yeah. So come on. But I. Mhm. Mhm.
+Nurse: Mhm. Um, one thing I wanna tell you about a UT I too, I, I'm not saying that, I mean they checked you, they didn't think you had that but just don't let your bladder get real full. Um, try to go to the bathroom when you feel the urge but try to wait at least a couple of hours. I mean, I know it's, you know, you feel you have that frequent urination, um, you know, and don't drink drinks that have caffeine cause that can irritate your bladder. Um, you know, you really wanna increase your fluids. Um, have you been drinking more water?
+Patient: Uh? 00,
+Nurse: Ok. So you wanna increase your water that you're drinking, that'll help flush out, you know, any type of bacteria or anything that's in there. Um, so you know, make sure you're drinking enough water. Um, and don't hold your pee in real long. Have you had UTIs in the past?
+Patient: Yeah. [PHI-Personal]. Yeah.
+Nurse: Ok. All right.
+Patient: Yeah.
+Nurse: Ok. Yeah. And just some ways, you know, like I said, to prevent it, make sure you drink that water. Um, and have you ever, what about cranberry juice? Do you have cranberry juice?
+Patient: Cranberry? Yeah, I see. Yeah.
+Nurse: Ok. The best cranberry juice to have is, um, cranberry juice that doesn't have a bunch of sugar in it because sugar can feed infections and bacteria if there is anything up in there. Um, they do have straight cranberry juice that's the best to get. But if you can't find that, just get one with the lower sugar content. Um, and then make sure, you know, to wipe from front to back. You know, women are definitely more prone to get a urinary tract infection just because of our anatomy. Um So, you know, you don't use any type of um, like deodorizing sprays or feminine products like powders or anything in your vaginal area. Do you?
+Patient: Uh, no, no, I use powder externally?
+Nurse: Ok. Ok. That's fine. All right. Um, I am gonna send a message over um, to the [PHI-Personal]. So letting them know that you're still having these symptoms and now you're having some itchiness and some milky like creamy odorous discharge. Um I don't know if you maybe do have a yeast infection going on. Um, but I will make them aware of that and let them know that you're still pretty uncomfortable. Is there anything that you're able to do that gives you some relief
+Patient: Yeah, I, I don't know.
+Nurse: Ok. Do you have someone at home that's helping you?
+Patient: Oh. Yeah. Yeah, I have.
+Nurse: Ok. Good. And are you still getting visiting nurses? So you're not getting visiting nurses?
+Patient: No, but that would probably be the best gonna take any test.
+Nurse: I'm sorry, what's that,
+Patient: That they probably be the best to ask if there's gonna going to be any further test?
+Nurse: Ok. Yeah, it looks like they are trying to get you, um, the home health. Ok. And [PHI-Personal], how has your mood? Um, then with all of this going on?
+Patient: Ok, there was that I had asked if they could give me a, it for some topical chill. Ah, what has given me, ah, had used bye. Actually she gave me a whole new tube that she had gotten it. It, it worked on, like, so I have some sores on my backside. Ok. Yeah. So I, I never got the, the prescription and I, I'm assuming whoever I, I spoke to just, just forgot, forgot to order. It.
+Nurse: Was this at Doctor [PHI-Personal]
+Patient: [PHI-Personal]? What was
+Nurse: This? A doctor [PHI-Personal] [PHI-Personal]?
+Patient: Yeah, that's called, that. I, I call sodium topical gel 4%.
+Nurse: Let me look here in your, in your medications. Hey, so you, have you ever been on Diclofenac before? Uh huh. I'm sorry? No. Ok.
+Patient: So just this just, uh, like I said, what I was given this, this new too, somebody. Ok. What it did work, huh? I have, like I said, I have, I have some soreness from where I, uh, where I was wearing pads.
+Nurse: Um, diclo, you said, correct? What? Diclofenac? That's the name of the cream, correct?
+Patient: Ok.
+Nurse: That's usually used for pain and, like, swelling, like, with arthritis.
+Patient: Yeah,
+Nurse: That usually doesn't go on, like a sore. Oh, yeah, that's just to help with pain.
+Patient: It works.
+Nurse: What are you using the Silvadene for,
+Patient: For, uh,
+Nurse: Where are you putting the den at
+Patient: For this? But this sort of like that?
+Nurse: And where's that at? On your bum?
+Patient: Yeah, of that one.
+Nurse: Ok. Yeah, I think that's probably what they want you to use, um, because it looks like they did, you know, uh, re send that refill per, in, on [PHI-Personal], apply to the affected area twice daily.
+Patient: Yeah.
+Nurse: Did that help?
+Patient: Uh, yes. Yes. What show with us that's, uh, that, that will be,
+Nurse: Yeah. Diclofenac is usually just like to help with pain. They, I don't know of anyone ever putting that like, on a wound or anything like that. It helps with like joint pain. Yeah. Yeah. So they, you, I don't think you'd want to put that on like an open wound or anything like that. Like a, a sore. Yeah. Is your store open right now?
+Patient: Um, and so, uh,
+Nurse: Or is it just back there?
+Patient: Uh, well, there's one or two spots that, that feel like they're open when I put, uh, lotion on the car, that other stuff. I, I know that I, I've used
+Nurse: Them. Do you have someone that can look for you?
+Patient: Yes.
+Nurse: Ok. Um, yeah, so you do wanna keep an eye on that because if you have a sore, you know, you wanna make sure it's not getting infected. Um, any, are they having any drainage, any, uh, you know, foul odor, um, anything like that? No. Ok. Good. And how long have you had that? For
+Patient: Sure. Couple of weeks. Uh, so my leg on the right here. Yeah. Yeah, it's been maybe two, two weeks.
+Nurse: Ok. Um, so you wanna make sure you keep that area clean and dry as much as you can. Um, you know, if the area gets wet, if your underwear gets wet or the pad, if you wear, if you wear a pad, uh, make sure you change that often, um, you know, don't put any hot water or heating pads back there. Um, yeah, and, and just protect your skin there. If it gets wet, you wanna make sure you, you keep it dry as much as possible and the more you sit, that's a hard area because, you know, any time you sit or you, um, you lay down, you're, you know, putting pressure on that area. So try to change your positions every couple hours, kind of shift your weight if you're laying in bed. Um, if you're in a chair, you know, kind of switch your position so you're not putting pressure on that, you know, every 15 minutes to 30 minutes, um, and get up and walk around as much as you can. Um, does Doctor [PHI-Personal] [PHI-Personal] know that you have that sore of what that you have that sore on your butt.
+Patient: No, no.
+Nurse: Ok. I, I'm going to send them over a message about that too. Um, they may wanna see you in the [PHI-Personal] since you're having still these symptoms with this urinary things going on and now you have this, um, this sore, the person who is with you now, are, are they able to tell me, like, have they seen the source? Yes. Ok. Who, who was there with you now? Is that a family member or
+Patient: Sort of my age? Uh, [PHI-Personal]? Ok.
+Nurse: Is it ok if I talk to [PHI-Personal] for her to explain the sort to me? Yeah. Ok. Hi [PHI-Personal]. This is [PHI-Personal], the nurse care manager. How are you? Pretty good. How are you? Good. Um, does she, how many sores does she have there is
+Patient: One on the front of her thigh towards what the kind of like almost by your underwear line? Exactly. Um, maybe about an inch, an inch and a half. It just looks like it just like broke open, like it had a little bubble and then it broke open. Ok. I didn't see anything come out of it from what I've noticed and there's one, it's on her right before her knee on her side, to the left side. I wanna say, I think it's your left or your, yes, it's from her chair, her wheelchair rubbing it. They just got her a new pad. We're hoping that helps. Um, and then there's one, it's only a little, what was it on the back? Right down here under your butt cheeks. Yeah, there's a little one and that one's probably, I'd say it's the biggest one that's like two inches and they're all, they all look the same, they just look like they broke open and they're just red nothing. I don't know how else to explain it.
+Nurse: Ok. The one on her on her buttocks, is it the left or right side?
+Patient: Hmm. Good question. I'm trying to think when you're standing I think it's I think it's the
+Nurse: Left it
+Patient: Is the left. Ok. Yeah.
+Nurse: Ok. Alrighty. All right, I'm gonna send a message over to um Doctor [PHI-Personal] [PHI-Personal] um you know to let them know about all of this because it sounds like you have a lot of stuff going on right now. Um they may be contacting you to have you come in for an appointment to get checked out, you know, to get those wounds evaluated to see, you know if you need a different cream to make sure there's no infection or anything like that going on. Um and then also to see what's going on with why you're still having this burning, um, when you urinate this frequency in urination and now you're having this vaginal itching too to see, you know what's going on with that. Um So just in the meantime, like I said, make sure you keep those areas clean and dry that have the opened wounds. Um, the one on your buttocks, make sure you, you know, try not to sit on it too long. I know you said you're in a wheelchair kind of adjust yourself as much as you can to keep the pressure off of that and hopefully that new pad that you have for your wheelchair, you know, helps too. Um So I will send a message over and um make them aware. Um, so you should probably be hearing back from somebody if they wanna see you in the [PHI-Personal] for an appointment to get that scheduled, whether they get back to me or if somebody from doctor [PHI-Personal] [PHI-Personal] calls you. Ok.
+Patient: Oh, if I, if I may I encourage them to use the nurses if possible because uh my mobility isn't really great right now.
+Nurse: Ok. Yeah, I know, I, I see that they are in the, I was looking through your chart here. Hold on, let me get back there. They were in the process. They're in the process of trying to get you, um, visiting nurses. Um, looks like they got a call from home re Williamsport, Residential Home Health. Uh They don't have a contract with your insurance. So they're in the process of referring you to another agency. Um So they are in the process of that. Um But um I, I will mention that too when I send a message over. Um, you do have an appointment with Doctor [PHI-Personal] coming up [PHI-Personal]. Um But I, I honestly don't think that you should wait until [PHI-Personal] to be seen by somebody. You know, you, you just sound tired to me too. You sound like you're not feeling real good.
+Patient: Well, like I said, just waking up.
+Nurse: Ok. Ok. So I, I'll let, I'll, I will tell them all those concerns whenever, um, I give them a call, um, your mood and everything. I know you, you have the history of depression. How have you been feeling with your mood? Any problems with your appetite or sleeping or, um, feeling hopeless or depressed, anything like that recently?
+Patient: I, I always have trouble sleeping. Uh, other than that, no, I, I'm pretty good.
+Nurse: No problems with concentrating or anything like that.
+Patient: The, the.
+Nurse: Ok. Ok. All right. Um, I, like I said, I'll send that message over somebody. Um, you know, should be getting back to either myself or you um, to see, you know, what they want to do next, but I definitely don't think you should wait until the [PHI-Personal]. Uh, you know, I at least wanna make them aware that you're not getting any better because that was last Friday when that, that urine result came back. Um, so I'll let them know and then we'll see where they wanna go from there. Ok?
+Patient: Ok. Thank you. You're
+Nurse: Welcome. You're welcome. We'll talk to you soon,
+Patient: Right? Oh boy.

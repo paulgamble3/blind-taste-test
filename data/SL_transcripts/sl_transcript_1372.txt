@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Yeah, this is [PHI-Personal]. You called me?
+Nurse: Hi, [PHI-Personal], how are ya?
+Patient: Oh, ok. I was about to get in the mail.
+Nurse: Ok. Give me one second here. Let me get back into your chart. How are you doing today? Good,
+Patient: Good. You called me? You called me what, uh, last week and then, uh, but, uh, I didn't get home until late.
+Nurse: That's ok. I call and I just call once a week until I get an answer. I know people forget. I'm terrible at calling people back sometimes. So I get
+Patient: It. Well, it was too late. It was, it was like seven or eight o'clock when I got home. Oh, yeah,
+Nurse: I'm not, I'm not here that late. I did have a patient try to call me at 7 30 the other night. No, I don't work that late. All right. So you still have the [PHI-Personal] and the [PHI-Personal] for health insurance? And your address is still the [PHI-Geographic] in [PHI-Geographic]. Ok. And since I spoke with you last month, have you had any changes?
+Patient: No. Ok. Let me
+Nurse: See. Not on there? Ok. And you don't follow up until? Ok, you already had your [PHI-Personal] wellness. Do you check your BP at home, [PHI-Personal]? I have, what do you check your BP at home? No, I don't. Ok. So, uh, most people don't, and that's fine. But whenever my patients don't check their, do you have a BP cuff if you would need to for any reason?
+Patient: Uh, I, I think there's one in the house but I don't, I don't know where it's at. I don't know if it works or not. So, that was like I had that. Well, that was, uh, my wife's mother's and, uh, that was like [PHI-Personal] years ago. Yeah,
+Nurse: It's been a minute, huh? Ok. Well, that's fine. I usually just like to educate my patients on just signs to watch for, um, just if your BP would get too high or get too low. So, just a few of the symptoms that you can experience, if your BP gets too high would be headache, dizziness, shortness of breath or severe anxiety. So, if you suddenly experience any of those symptoms, that could be a sign that your BP is high. Um, and then if your BP gets too low, you can experience like lightheadedness, dizziness, feeling super tired, or you can even get blurry vision. So, those are just some of the things to watch for. Um, if you experience those. Now, if you do experience the low symptoms. If you lie down and just put the, your feet above the level of your heart, then that'll help with those symptoms. And so can increase in your water intake. Um, but those are just a few.
+Patient: I drink about, I drink about maybe 8, 10 bottles of water a day.
+Nurse: Oh, good. That's great. Good. Yeah. And your BP whenever you've been in the office has always been really good. Like there's been a few times it's been on the higher end but it al it almost always comes down on recheck. So your BP is usually pretty good. I just like to
+Patient: Go up down there. What, last month?
+Nurse: Um, yes, you were just there on [PHI-Personal]. You've seen [PHI-Personal] down there? That was for your, yeah, for your [PHI-Personal] BP
+Patient: Was 1 37/70 I think. Yeah.
+Nurse: Yep. Yeah. So your BP is usually good. I just like to educate my patients just, you know, for my peace of mind just to let you know, um, the, just the signs and symptoms to watch for, uh, if your BP would get too high or get too low. So, II I do that with all my patients who have high BP. Just, just so they know the signs and symptoms to watch for. Um, do you have any questions or concerns for me today? No,
+Patient: Not really.
+Nurse: Ok. And do you need any medication refills?
+Patient: No. I just had, I just had one refilled and then uh I got uh I got another one. I have one refill. I have one bottle yet, so I get one refill yet and I still, I still got nine pills left, so I figure I'll get that next week.
+Nurse: Ok, perfect. All right. Well, I will let you go. I will be calling next month to check in but if you have any questions in the meantime, make sure you reach out. Ok? Ok. Alright. You're welcome. Thanks for calling me back. Have a great day too. Thank you. Bye.

@@ -1,0 +1,26 @@
+Nurse: Cool Care management. This is [PHI-Personal]. Can I help you? Hey, [PHI-Personal]. [PHI-Personal], could you hang on one second? Like not even one second, two seconds. Sorry about that. There's an air conditioner blasting behind my head. I can't hear you. Ok.
+Patient: That's ok. The reason why I'm calling good. The reason why I'm calling is, did, um, the, um, I'm looking to see for the, the thyroid results? Oh, ok. Did that come in?
+Nurse: Let me pull your chart up here and see. When did you have it done,
+Patient: Uh, this, uh, just recently when I went into the
+Nurse: Office? Ok.
+Patient: The blood work in it actually?
+Nurse: Ok. [PHI-Account]. Ok. Let's find it. So, like [PHI-Personal], you were in the office? Did you have the blood work done the same day?
+Patient: Yeah. Yeah, they do it, they do it the same day. Hm. Is there anything in there?
+Nurse: I don't see that you had a, a thyroid level done that day. Ok. Let, let me triple check though. Ok. Oh, yes, you did. Ok, let me see here. All right. I know [PHI-Personal] usually sends a letter out. Um, let me see. I technically cannot give you results, but I can tell you that your thyroid looks to be within normal limits, within the right, within the range. Now, I'm not sure what range she wants you to be in. But I can tell you according to the parameters of the lab work paper, you're within normal limits. Ok. Ok. So what I'll do is I'll get you an official like report, I'll just trigger them to, to remind them to. So if you get a call about it, you'll know that's what it is just, you know, they'll explain it to you. Um, and if there's anything different she wants you to do, they'll let you know. Ok.
+Patient: Um, and just to, just to be aware, you're gonna be receiving a report from Ortho group.
+Nurse: Oh, what happened?
+Patient: [PHI-Personal]? [PHI-Personal] has a torn meniscus
+Nurse: [PHI-Personal]. How did that happen?
+Patient: Have no idea.
+Nurse: Ok. Which,
+Patient: Which knee? But I've got a brace on it. Uh, it's the left. We're gonna, we're gonna do, uh, wear a brace, brace and then try therapy.
+Nurse: Ok. So you didn't have like an actual fall or acute injury? It just happened. Ok. It just happened. So you're gonna try the brace and therapy as opposed to going right to surgery, right? Ok. That makes sense. Ok. How are you managing the pain? Oh, I,
+Patient: Ok.
+Nurse: Ok. Ok. Oh, ok. So maybe like [PHI-Personal], you went there? Yep. Ok. And do you have a follow up schedule with them. Yes. Ok.
+Patient: Uh, follow up. Yeah, the follow up is [PHI-Personal] at 9 30
+Nurse: [PHI-Personal]. Ok, at 9 30. And I'm sure they probably mentioned to you, but, you know, of course they want you to be as active as you can be, get up and do what you have to do. But when you're resting it, keep it elevated, ice, it, um, you know, you'll probably take Tylenol for pain if you need to. Um, you know. Ok, how about prescriptions? You're doing? Ok. I know last time I spoke with you it seemed like we were good.
+Patient: Yeah, I think I'm good right now. Um,
+Nurse: Ok, that works. All right. So, um, is there anything that I can do for you as far as your knee
+Patient: Or anything? Ok.
+Nurse: All right, [PHI-Personal], I'll talk to you soon. You take care of yourself. You too. Bye bye. Ok.
+Patient: Bye bye.

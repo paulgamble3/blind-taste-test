@@ -1,0 +1,14 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: [PHI-Personal]. This is again. Yeah. Um, I do have an issue that maybe you can help me with. Ok, way back in [PHI-Personal]. I think it was Doctor [PHI-Personal] sent an order for me to have a scooter. Ok. Ok. And somehow the border, uh, God written up as a power wheelchair. Uh, so I don't know if the order was written, that said power chair and they talked about the power wheelchair or what it was anyway, it was wrong. Ok. So we've been kind of dealing with this since [PHI-Personal] and I just spoke with, um, are you there? Yeah, I'm listening to you. Um, we just spoke, I just spoke with [PHI-Personal] at daycare and they were going to get with and have her amend the order. Ok. Well, according to her, that order has not been amended and I know that cannot be the case because doctor and I had a conversation about this and also I know she would do it. I know she would.
+Nurse: Right. Let me look in here real quick and see if I can see. Um, it was it. Oh, no, what was the company you say?
+Patient: [PHI-Geographic], [PHI-Geographic], [PHI-Geographic],
+Nurse: There we go. There's information down here that's probably from when it was first ordered. Um, looking to see if I see any newer information from them at a glance. I don't see anything new from daycare, but I will definitely look into this, um, and bring it to doctor [PHI-Personal] attention that it hasn't been handled.
+Patient: Ok. Yeah, because this is ridiculous. I mean, that the scooter would be so helpful to me. Um, when I have to go to doctor's appointments and things, I mean, if it's US f it's like even with my walker, it's just not, it's crazy.
+Nurse: Ok, let me work on this for you, [PHI-Personal] and then I'll let
+Patient: You know. Ok, [PHI-Personal] and [PHI-Personal] said, oh, I'm gonna call them back and see if they, if they know what's going on. So I thought let me get to you and let you know what's going on.
+Nurse: Yeah. And it's [PHI-Personal]. [PHI-Personal] is at day care you said? Yeah. Ok. All right. Let me look into it and see what I can get figured out for you. I'll let you know
+Patient: What I find out. You're
+Nurse: Very welcome. That's
+Patient: What I'm here for. I'll talk to you soon. Now, what I say we're, we're in the car trying to navigate, you know.
+Nurse: Ok. You're
+Patient: Welcome. Bye bye.

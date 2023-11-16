@@ -1,0 +1,14 @@
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal] and I'm doing fine, but I have a request for you if you will do it. Um, I'm about out of Nifedipine. I only have about a week's worth left and, um, there's no refills left on it. Ok. And so I'm wondering if you could get a hold of doctor to, uh, refill it. I mean, you know, and, um, I'm on the, on the, uh, bottle. It says, uh, take one tablet every day, but I have been taking two because I was prescribed two after this came out. But, um, so they'll probably tell me that it's too soon, but I still, I wanna get the request in, um, and I don't know who makes it, but there was this big tornado that, um, tore apart the Pfizer plant in [PHI-Geographic] Carolina. And so some medications are gonna be, oh, maybe scarce. And I don't, you know, I don't know who makes it so it might not even be affected. But, um, I just wanna make sure I can get it within the next week or so. Ok. And it's Nifedipine 30 mg. Er,
+Nurse: Yes. And I remember I was trying to get clarification from the cardiologist [PHI-Personal] one time with that the once a day and twice a day.
+Patient: Uh huh.
+Nurse: Yeah. Is it mi
+Patient: [PHI-Personal]? Yes. Yes,
+Nurse: I have to look and see. But I mean, I'll, I'll send it in but that, that was something that I was trying to get clarification from them before, but they just left me hanging on that one. It seemed like they changed it, then they changed it back. So I I'll get
+Patient: Clarification from. Ok, well it's been AM and PM and it says on the container the date I got the last one was 6 10. So you know I run out
+Nurse: Does it have you taking it? Does it say twice a day
+Patient: On your? No it says once a day on my container. Yeah but it was changed to twice a day after that last prescription,
+Nurse: Right? And that's what that's the part that from their [PHI-Personal] it should have been sent over to doctor [PHI-Personal] that way the twice a day part it should have been updated.
+Patient: Yeah it should have been. Yeah. Ok,
+Nurse: I'll work on it.
+Patient: Ok. Ok, thank you. I would never be able to get it done. No it's no problem. Ok, thank you so much. Alright you have a good day. Bye. Ok bye bye.

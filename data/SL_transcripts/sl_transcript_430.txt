@@ -1,0 +1,21 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh good morning. My name is uh [PHI-Personal]. I got a phone call from uh [PHI-Personal].
+Nurse: Oh yes um one second let me see. [PHI-Personal]. Mhm. Getting you pulled up here so I can see. All right, so I believe she was just calling to kind of follow up with you um for your monthly check in just to see how things are going. Things are fine, things are going well. Yes good good. Um
+Patient: I have a uh an appointment with uh Doctor [PHI-Personal] on the [PHI-Personal] of [PHI-Personal] I believe.
+Nurse: Yes. Yep [PHI-Personal] at 10 a.m. 10 AM right? Ok, perfect perfect. Um so I'm just gonna get a little bit of information and give you some information too. Um so things are going well uh no new issues at this time, correct? No. Ok. Any changes to your current medications? No. All right. And then do you need any medication refills at this time?
+Patient: No I just ii I just got a refill I get it through the va but uh ok. Yeah I'm fine good. Yeah. Ok,
+Nurse: Perfect. Um. Alrighty let's see. Ok so I'm just gonna run through a couple things about um you know, a healthy diet and everything since you have that high cholesterol. Um So choosing, you know, the chicken turkey and fish instead of the red meat is beneficial.
+Patient: High cholesterol. What was that? I don't have any high cholesterol.
+Nurse: Oh, let me see
+Patient: That all my numbers are, have been always been good.
+Nurse: Ok. Do you, do you take the atorvastatin?
+Patient: Yeah, I, I take that cause my former doctor, Doctor [PHI-Personal] when I hit [PHI-Personal] just suggested because of my age to go on it. But I've never had a cholesterol problem.
+Nurse: Oh, ok. Well, they have it in here. Um, ok. So let me check off that one. I'll go over something else with you. Um, let's see. How is your arthritis pain?
+Patient: It's, it's there, it's
+Nurse: There, it's there. Um,
+Patient: Uh, yeah, it's a, it's a, um, hereditary problem. I don't, you know, you just live with it. It is what it
+Nurse: Is. Ok. Um, do you apply any heating pads or ice packs or anything?
+Patient: Uh, generally? No, it mo mostly it's in, it's, it's in pre, more prevalent in my hands. And, uh, the only issue I have right now, which I'm gonna have to look at when I get there is my, uh, when I sleep at night, my legs, um, particularly my leg. I've had, um, five hip operations, three, left, two, right.
+Nurse: Ok.
+Patient: Uh I think I've got some, uh, li, you know, some uh lymph problems, uh particularly in my left leg because I it retains fluid and uh uh kind of swells down on my ankle, lower leg. Uh But I think that's, uh from what I've been told, that's because of, I've had 33 operations on that leg and that probably is some lymph damage. Yeah. Uh but I, and I don't know what the recourse to that is, but when I, when I go to bed at night, the leg, it's like tingles, falls asleep, sort of. Ok. Um, and that's only when I lay down for some reason. But, um, that's one thing I like to talk to the doctor about when I see him.
+Nurse: Ok. Yeah, perfect. Yeah. Um, let's see. Yeah, we'll see what he says on that. Um, or she, uh, ok. Well, if you wanted to try some, um, you know, heat or ice on your hands, you can apply the heat 2 to 3 times a day for about 15 minutes at a time. Um, and then the, the ice can kind of help with the pulled muscle ligaments, sprains and strains. Um, you do that also for 15 minutes at a time. Ok. Ok. Ok. Um, the heat kind of helps the blood flow to the painful area and it also can relax your muscles. So that's helpful, you know, for the, um, arthritis pain. If you didn't have an injury to the joint, um, the heat would work pretty well if you wanna try that. Um. All right. And then as for, let's see. Mm. Mm. Mm.

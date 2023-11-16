@@ -1,0 +1,34 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Oh, [PHI-Personal], this is [PHI-Personal] calling. Yes. Ok. Um I have a complication. Um I, I know that doctor [PHI-Personal] is away and um, while, while she was away, I, I got very sick and uh we called the office and they uh said that we should go to the hospital, which we did last weekend. And um, now the situation is this, I was given um a pill, well, a couple but the one that I'm calling about is called Ceo Cephalin. And um what, what had happened is over the past year, I have had continuous diarrhea and finally it, it hit, hit a crescendo and I went on Satur both Saturday and Sunday to excuse me, Wednesday. I'm sorry, to the emergency room that would be fifth the fifth. And then, and I was there like, I think I was there from the whole day and then about five hours at least I would say. And then, um I came home and went back the next day for a similar lengthy, lengthy stay. Now, I was given this cephalexin. Ok. And I was told that I, it would uh really kill the diarrhea and that I would, um, well, stop going a actually, and for the most part that has happened, but the last two days I've started going again and this, this is the situation. Um, I know she's not there and I really don't understand what this treatment is and what I can expect or anything. And I'd like some help with that. Ok.
+Nurse: Now, you said the diarrhea has started coming back over the last two days.
+Patient: Yes. Mhm. Now, not, not big time or anything, but it, it did start coming back and
+Nurse: Every bowel movement you've got is diarrhea or
+Patient: Every problem. No, no, no, it's very small. Um, and it's just, I, I don't know enough about what's wrong with me, you know, to understand what's going on. That's the truth. Ok.
+Nurse: I was trying to see what they diagnosed you with,
+Patient: You know, I tried, I tried to read the whole thing and I can't say that I know what it, you know, what they diagnosed me with.
+Nurse: Um, so they did put in here that they believe the diarrhea is viral, but you also had a urinary tract infection. Um, and that's why they put you on the cephalexin.
+Patient: Excuse me. What, outside of that? I don't they think. Could we have, could we say this? I, you're saying that what, what is viral, what are you saying is viral?
+Nurse: Um, the syphilis? Well, they said that they did a CT scan of your abdomen and pelvis. And from what they could tell on the CT scan, it looks like you had gastroenteritis. Was it? Which is like a stomach virus? Oh,
+Patient: Ok. I, I didn't pick that up
+Nurse: And then, um, they did a urinalysis which was consistent with an acute infection. So, a ut I, and that's why they put you on the cephalexin. It's a broad spectrum antibiotic. Ok. Have you finished the antibiotic? Now? I, I
+Patient: Will be finished with it today. No, no, one more. Another three days. Ok. My husband's telling me I have three days left of three pills each day. Bye. Right. Let's see here.
+Nurse: Yeah. Ok. So what I'm gonna recommend is finishing the antibiotic before we do anything else more. Um Are you staying hydrated?
+Patient: Yes, definitely. Yes, I am.
+Nurse: Ok. Are you experiencing any abdominal pain right now or?
+Patient: No? Any, no, I'm not. Ok.
+Nurse: Any fever or chills?
+Patient: No?
+Nurse: Ok. All right. I'm gonna say let's finish that antibiotic up because three days with three pills a day, that's still no more doses left. Um So that's quite a bit. Let's finish that up and see kind of where you're at after that. If you're still experiencing some diarrhea or any new symptoms, we'll go from there and see what we need to do. Ok.
+Patient: Sure. Sure. So I can call this number to. Yes, you can
+Nurse: Come straight to me.
+Patient: Ok. That's great. Um I'm trying to think um, what, um what is the idea? I mean, what does this medi medicine do? Oh, it's an antibiotic. So, it's an anti, it's killing the, the, um, virus. Any bad
+Nurse: Bacteria that you've got in your gut and your urinary tract system?
+Patient: Oh, ok. All right.
+Nurse: Ok. So make sure that you're staying very well hydrated. Um, take that antibiotic, take it with food so it doesn't upset your stomach any more than it already is.
+Patient: Ok. All right.
+Nurse: And then we'll touch base on, um, I'll find it. Yeah. Call, I'll call first thing Thursday morning. About what time do you get up?
+Patient: Um, um, nine ish, maybe like that. Is that ok? And that you're gonna call in on the 13th?
+Nurse: Yes, I will call you Thursday morning. I'll wait until about between 9 30 10 just to give you time to get up and get around that way. I'm not waking you up and we'll see how you're feeling then. Ok.
+Patient: Ok. That's great. Thank you so much [PHI-Personal]. I, I didn't know what to do. Ok.
+Nurse: But if anything comes up between now and then and you need something, you have new symptoms, fever, nausea, vomiting, chills. Give me a call.
+Patient: I will, I will thank you very much, ma'am. Yep. Bye bye bye. Hm.

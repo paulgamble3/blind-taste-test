@@ -1,0 +1,31 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, yes, this is [PHI-Personal] calling.
+Nurse: Hi, how are you?
+Patient: Good. I have, have a question. Um, I was thinking about going to a chiropractor for an adjustment. Mhm. My age and having a osteoporosis. Mhm. Would it be, do you think it would be? Ok.
+Nurse: Uh, let me pull your chart up. Could you verify your date of birth for me?
+Patient: Uh, August 31st, 1932.
+Nurse: Yeah. So, I mean, in general, I, I don't know, I don't, I don't recommend that anybody goes to a chiropractor just because I think they, they do a lot of things that aren't backed by evidence. Um, you know, if you're having pain, maybe like a massage might be a good thing. But it's, it's really, you know, up to you. Um, I wouldn't let a chiropractor touch me without x rays, especially. Um, ok, personally. Um, I don't know. I mean, and it, it's just, especially, it depends on the chiropractor and how safe they are. Um, you know, I would never let one, don't ever let one adjust your neck. Um,
+Patient: No, no, no, I've been to a chiropractor many years ago because I had that sciatic. Yeah. And, uh, they've worked on that and of course, you know, much better. But, no, I would never have worked on my neck. No.
+Nurse: No, absolutely not. Um, what, what specifically bothering you
+Patient: Then? Yeah.
+Nurse: What, what, what's, what's bothering you? Well,
+Patient: What's bothering me is I think, uh, I think that I, it seems like my one shoulders more than he ever. Hm. And I was thinking her, you know, um, because the, I fell about three years ago and I had a knee fracture. Mhm. And of course I'm just thinking, you know, did that, have, could that have something to do with this much later or, you know, I
+Nurse: Mean, the, the official medical recommendation would probably be to, you know, have you come in and see the doctor or not? Um, and, you know, even maybe refer you to orthopedics to see, you know, if there's anything that can be done there, um, you know, having a chi going to a chiropractor and having them put something back into a place isn't a long term solution for a lot of the things that it could be. Mhm. Um, do you, do you want me to ask in that what she
+Patient: Thinks? Uh, yes, I appreciate it. Yeah. Yeah. Do,
+Nurse: Do you, are you having any pain in that
+Patient: Shoulder? No. No, nothing, huh? Ok. And it's, it's just when I look at myself in the mirror it just seems that I want to shower, you know, just doesn't seem the same as the other side and I'm thinking, well, maybe I just needed adjustment.
+Nurse: Yeah. What, what shoulder is it?
+Patient: It's my, um. Right.
+Nurse: Ok. I'll let you know that, know that your right shoulder is lower than the other. Um, but it's not causing you any pain. Do you, can, you still, can you move both the same, like, do you have the same range of motion? Oh,
+Patient: Yes. Ok.
+Nurse: Yeah. I mean, there's other things too, like physical therapy a lot of times if something's out of whack with, you know, and the chiropractor can put things back into place. Usually it's caused by maybe like some muscle weaknesses somewhere in the long term.
+Patient: What I'm, I'm kind of thinking about too. Is that my age? Yeah. Had, does that help? Because I know I've lost muscle mass or whatever you call it. Yeah. I know up to my years, I guess, since I've gotten older. Yeah. So, so I don't know if I should just let it alone and, you know, I, I should say I don't have any pain, nothing outweigh. But I just thought, you know, I thought, well, maybe I could go to a chiropractor and get an adjustment that might take care of it. But then I thought I better call and check you, you know. Yeah. No,
+Nurse: I, I'm, yeah, I'm gonna ask him that. What, what she thinks you should do and let her know, your right shoulder is lower than the other and it's not causing.
+Patient: So, I think it,
+Nurse: Um, and we'll see what, what she thinks is the best course of action. Um, and I'll make sure, you know, just, we'll see if she thinks it's safe for you to go to a chiropractor. But I'm assuming, you know, your shoulders are pretty close to your neck. So that just makes me nervous. Yeah. Um, besides that do you need you know any medication refills or is there anything else that I can help with? No I
+Patient: Just had my uh medication I refilled. Ok, I just picked it up yesterday so I'm good
+Nurse: Good. Well in that in that case I'm gonna um I'm I'm sending the message to that and I'm gonna call you back as soon as I hear back from her. Ok.
+Patient: Ok and if I it I always scream my calls so uh I always wait to listen to who's calling because I hate those. Call
+Nurse: Me too so I I will I promise I'll leave a message if I go
+Patient: Pick up. Ok. Ok, thanks
+Nurse: Of course I'll talk to you a little bit later. Stay safe. Ok. Alright bye bye bye.

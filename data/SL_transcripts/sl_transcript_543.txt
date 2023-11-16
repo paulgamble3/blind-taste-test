@@ -1,0 +1,17 @@
+Nurse: Hi, this is [PHI-Personal]. Hi, [PHI-Personal]. This is [PHI-Personal] calling. Hi, [PHI-Personal], how are you? I'm ok. I was returning your call. Thank you. I do appreciate it. Um, let me just tell you real quick that this call is gonna be recorded
+Patient: For training purposes. Ok.
+Nurse: Sure. All right. So the reason I've
+Patient: Been reaching out to you is because I received a um, referral from doctor [PHI-Personal] requesting your enrollment for his new care management program. Have you received anything in the mail in regards to that new program?
+Nurse: I got a letter stating that it was, it was going to come.
+Patient: Ok. So here I am. Oh, ok. Um, yeah, so he started a new program for his Medicare patients and that program is called Care Management. So [PHI-Personal], with that, you would receive a phone call from his care management nurse and that phone call would be at your convenience as frequently or as infrequently as you wish. And your nurse would basically just call,
+Nurse: You check
+Patient: In, make sure that you're feeling good and continuing to stay healthy in between office visits. But you would also be able to reach out to your nurse if you had any acute medical questions or concerns or if you needed assistance with medication refills, test re results or appointments. Um, so it is a billable service to Medicare, Medicare Advantage and secondary insurance plans and the calls are subject to deductibles, copays and coinsurance. Now, when you go to his office, you don't normally pay a copay. Is that correct? No. No, you don't pay one.
+Nurse: No. Ok. I don't.
+Patient: All right. perfect. Then you would not be responsible for any out of pocket cost for a care management call. And you would also choose how frequently your nurse calls you you could get a call once a month. You could get a call once every three months or just every six months. And doctor [PHI-Personal] does get documentation of those calls sent to him as part of your medical record. Ok. Mhm. Do you think I can get you set up for a phone call from your care management nurse? Sure. Ok, perfect. Um Now the number I'm speaking with you on now. [PHI-Account]. Is that the best number for her to reach you at? Yes. Ok. And then I do need to mail you out some welcome information. I have that. Your address is 509 North Shaver Street, Mount Union [PHI-Geographic]. Is that correct?
+Nurse: Yes.
+Patient: Ok, perfect. So I will go ahead and get this all set up for you. And your care management nurse should reach out to you within the next two weeks or so.
+Nurse: Ok. Ok. Alright [PHI-Personal], thank you.
+Patient: Ok, thank you so much for calling me back. I do
+Nurse: Appreciate it um
+Patient: Or I can let you go have a great rest of your day.
+Nurse: Ok, thank you. You're welcome. Bye bye.

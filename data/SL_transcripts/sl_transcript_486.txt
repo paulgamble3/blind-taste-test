@@ -1,0 +1,7 @@
+Nurse: This is one of the nurses here with doctor s office. How may I help
+Patient: You? Uh I'm calling for [PHI-Personal], this is her husband. Hello you had just called me earlier. Yeah, and I talked to my two girls and no, we have not received those patches and uh you mentioned the cream also.
+Nurse: Uh yes, skin prep,
+Patient: Skin prep. Ok. Uh uh yeah, [PHI-Personal] who was just talking about that, so no, we haven't received the patches or the skin prep.
+Nurse: Ok. Let me let me call over to the medical supply company and see what's going on with that then. Ok. Ok. And I'll give you a call back as soon as I find out because on our end it looks like it all went through, it looked like it's all good. So um I'll have to I'll do some digging and find out and get those to you. Ok.
+Patient: Ok, that sounds good.
+Nurse: Alright, you have a great day. I'll get back with you soon. Alright. Thank you. Bye bye bye. Hm.

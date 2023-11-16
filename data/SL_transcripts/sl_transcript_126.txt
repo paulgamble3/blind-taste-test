@@ -1,0 +1,13 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yeah. Hi, [PHI-Personal]. This is El. Hey, how are you? I'm good. How are you? Sorry, you've been, you've been able, I wasn't able to pick up your call when you called me. So, oh,
+Nurse: You're fine. So it looks like I'm just getting your father pulled back up here. Um, let's see here. Looks like uh, he had some results that I need to go over. Ok. Yes. So it looks like you had a BNP done. Um, and it, it was still, um, it's actually pretty elevated at [PHI-Account]. Yeah. Um, so what, um, the doctor wants to do is increase his Lasix from [PHI-Personal] to 40 mg daily. Um, and then I don't know. She said if, if he needs a new prescription to, uh, let us know, um, and we'll send that in as well. Um, so,
+Patient: So yes, I mean, and so is it, uh, who, who's recommending this doctor
+Nurse: Or? Uh? Oh, doctor did? Yeah. But is the one who sent me the physician's assistant? She's the one that sent me the um,
+Patient: So yes, yeah, he would need a new prescription for the, the higher
+Nurse: Dose Ok. All right. I, so for now he's on [PHI-Personal] so until you get that picked up, you can just do t two twenties. Um, and I will go ahead and, uh, send her that prescription for her to approve. Ok. Um, let me double check just to be while I got you on the phone. Um, hang on for the pharmacy. I just wanna confirm, um [PHI-Personal]. Yep. Ok, Horn Pharmacy. That's where we'll get it sent to. Ok.
+Patient: Ok. Does he, does doctor want to do anything else uh besides this, this Lasix change or that was it?
+Nurse: They, she, he didn't say um but for right now I think he wants to increase it. When is, when's your dad's follow up? Does he have a follow up appointment scheduled? I don't see 10 yeah, I do. Uh Doctor [PHI-Personal]. Oh, tomorrow.
+Patient: Yeah. So, and he had an echo done on [PHI-Personal], right? And um after that we got a call saying the doctor wants to see him earlier than before. So they moved it to tomorrow and I think I'm also supposed to have doctor, but she also wanted us to see a heart failure specialist, but that's not until I think a couple of weeks. Right, I think.
+Nurse: Oh yes. Um 7 [PHI-Personal]. Mhm. Doctor. Yep. That's, that's who he'll be seeing then. Ok. So good. So we'll go ahead and send in the prescription so he can go ahead and increase the uh Lasix um and of course, you know um just tell him that I guess he he normally takes it in the morning, I would assume. Um. Ok. Alright dear, if you'll just let him know and I'll get that prescription sent in for you and we'll see you tomorrow. Ok,
+Patient: Thank you so
+Nurse: Much. You're welcome. Bye bye.

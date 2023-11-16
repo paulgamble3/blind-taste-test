@@ -1,0 +1,24 @@
+Nurse: Hello, this is [PHI-Personal]. How may I help you?
+Patient: Yeah. Is, uh, is this home, home care?
+Nurse: Is what home care
+Patient: Like for nurses to go? I don't know, therapy.
+Nurse: So, uh, you're, you're calling, uh, because of a letter you got, or, or a voice mail? You got a few or a few days ago? What's that? Are you calling because of a voice mail or a letter? You got a few days ago?
+Patient: Yeah, somebody contacted you. I think it was on Monday or Tuesday and, and then, uh, I thought you, I said, uh, then they called back and they said that you were already contacted by it. So I just figured I said, boy, they gonna call me and they said, yeah, but you, I, you know, I haven't heard anything from you.
+Nurse: Yeah, I got you. So what, so, like I said, my name is [PHI-Personal]. I'm calling from, uh, you're calling Family [PHI-Geographic] Center on behalf of Doctor [PHI-Personal]. And basically what we're offering is a, a new care management and behavioral health program which is being provided for you. And basically all it is, is just a phone call from a dedicated nurse to help answer any questions, uh, refill any prescriptions, chat about previous or future visits, discuss any new issues going on and things of that kind of nature. All of these calls are documented and sent to Doctor [PHI-Personal] for review and they're treated as billable services to Medicare, uh Medicare Advantage plans, secondary insurance carriers and things like that. Uh, and all these calls are subject for review and are, um, they, they, they all might have copays and deductibles and things of that nature. Ok. So it's not a, I
+Patient: Do have co pays and deductibles.
+Nurse: Well, I got, I gotta pull up your profile real quick to see if you have one. But, uh, based off the note that I have here in, uh, your chart, I do not believe you do have a copay, but let me just double check really quick. And is this, is this [PHI-Personal] A [PHI-Personal]? Is that correct? Right.
+Patient: Ok.
+Nurse: Yeah. So it looks like you have the [PHI-Personal]. Is that correct?
+Patient: Right.
+Nurse: Yes. So your co payment is actually $0. So you'll have a $0 copay for this program and it's not a home visit. It's just a phone call.
+Patient: Oh, I thought, well, I thought the way they talk, they want you to do exercise and stuff like
+Nurse: That. I mean, if that's, if that's what the nurse wants you to do. Sure. But I, I'm not the nurse. I, I don't know off the top of my head. What they would have you do,
+Patient: What do they do? They show you what to do? Absolutely.
+Nurse: They, they will call you on behalf of Doctor [PHI-Personal] and they'll help walk you through literally everything.
+Patient: Well, I, what I, what I thought maybe they'd come out here a couple of days and show you what to do and then you could just do it on your own. But
+Nurse: They, they might be able to work through that with the doctor's office, but specifically this care management program is just a phone call. Ok. Ok. Would you be ok if the nurse gave you a call like in the morning or afternoon?
+Patient: Yeah, I don't
+Nurse: Care. Ok, awesome. Is there a time of day that works best or is just kind of any time
+Patient: I'm here almost anytime?
+Nurse: Got you and [PHI-Personal] I do wanna mail you some information about the program, just kind of explaining everything in more detail. I do have the address here of uh [PHI-Geographic]. Is that correct? Correct? Ok, great. Awesome. Well [PHI-Personal], thank you so much for calling me back. I do greatly appreciate I hope you have a great rest of your day. Ok.
+Patient: Ok. Alright bye bye. Ok, thank you. Bye.

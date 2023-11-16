@@ -1,0 +1,18 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yeah, this is [PHI-Personal]. You just tried to call me?
+Nurse: Yes. How are you today? I'm good. I'm calling to do your follow up call. Give me one second to get you up here. Yeah. Yeah. Ok. So how have you been since we spoke with you last? I've been fine. Looks like you had an appointment with doctor, uh, [PHI-Personal].
+Patient: Yeah, we did a virtual meeting last week.
+Nurse: Ok. How did that go?
+Patient: Uh, wouldn't anything to it? She asked me how it was and I told her I was fine and that's pretty much it.
+Nurse: Yeah, it doesn't look like she changed anything.
+Patient: No, everything's pretty much the same. She sent me some paperwork to get some blood work done. I gotta get that done and then wait for the results.
+Nurse: Ok. Did she talk to you about, um, a diet related to your cholesterol? No. Ok. So there's just certain things that you can do at home that can try to help with the cholesterol. Um, you can just make sure you're eating a diet with and low saturated trans fats, eat lots of fruits and vegetables, um, eat healthy fats like avocados, almonds, olive oil sort of thing. Um, exercise if you're able. Um. Ok. And they're, they don't recommend you drink skim or low fat two, drink skim or low fat milk? Ok. Ok. And those, that'll help at least try to keep it under control on the diet, um, on the diet end of things. Ok. Ok. Do you need any refills?
+Patient: No, not at this time. I just got my stuff refilled last week.
+Nurse: Perfect. All right if um if you need anything between now and when I give you a call in three months you go ahead and give me a call and and I'm gonna send out um a care plan in the mail for you since it's a new year. Ok.
+Patient: So you should be
+Nurse: Expecting that in the mail in the next few days, right? Ok and let me see if you got any s coming up. No it doesn't look like you have any appointments coming up.
+Patient: No I'm pretty well set.
+Nurse: All right. All right. Well that sounds good um you take care and if you need me I'm here.
+Patient: Alrighty. Alright. Well thank you so
+Nurse: Much. Uh huh
+Patient: Bye bye bye.

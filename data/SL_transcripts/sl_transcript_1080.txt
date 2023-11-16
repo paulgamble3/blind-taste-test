@@ -1,0 +1,20 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you?
+Patient: Hi [PHI-Personal], this is [PHI-Personal]. Da. Um my tele call appointment. Doctor [PHI-Personal] was scheduled another tele call appointment this week but I'm not sure what day and I don't think I have a link.
+Nurse: Ok. Could you hang on one second? [PHI-Personal]? I'm just wanna hang up with this other patient and I'll get right into your chart. Ok? That's ok. Hang on one second if you're able to.
+Patient: Ok, thank you. It's ok. It's ok. I don't think I have I think. Mm thank you. Um
+Nurse: Hey [PHI-Personal]. Yes. Ok. Just popping into your chart here. I'm so
+Patient: Sorry that I interrupted that call with you at. No, no,
+Nurse: No it's all good that we were just wrapping up. Let's see. Perfect. Ok, so you were supposed to have one? It looks like on the [PHI-Personal].
+Patient: I did that. I had one on the [PHI-Personal] and she said she was gonna call me again this week but I don't know what day and I don't have a room.
+Nurse: She has, she has the [PHI-Personal] here but then she has it rescheduled.
+Patient: Yeah, she rescheduled. She, they moved it up to the [PHI-Personal] and then on the [PHI-Personal] during that tele call because I'm still having issues. She said that she was gonna call me next week because she's trying to get me into a gas. She's trying to get me into a gastro endo, she's trying to get me into a gas gastrologist so I can have a endoscopy and a colonoscopy. But I, until I can get in to see that doctor, I think she's gonna call me, do a tele call every week. What it sounded like to me on the, on the tele call on Friday because she said I'll give you a call in a week, but I don't know what date or what time or what. I don't have another link. Ok. So I don't look like she sees
+Nurse: Anything scheduled specifically.
+Patient: Let me see here. I'm so sorry.
+Nurse: It, there's nothing to be sorry about. It's all good.
+Patient: I just got, I got the, that's the, that's the impression I got because she said I'll give you a call in a week and I said, well, does it have to be an office visit or can it be a tele call? And she said it could be a tele call unless you change your mind. Which is ok with me. I just know
+Nurse: I ask, ok, she has a referral. Would you please see, you can see her the soonest. That's for G I, I'm just getting caught up here. So why don't you let me, I'll message over there and find out what, what she plans to do.
+Patient: I'm not sure what I mean. It sounded like she said she was gonna give me a call this week, but I'm not, I'm not sure because sometimes my phone cuts in and out. So,
+Nurse: Yeah, that's ok. All right. I will find out and I'll let you know. How does that sound? Thank you so much. Sure. No problem [PHI-Personal]. Now, I don't know how long it's gonna take her to get back to me, but I'll be in touch with you as soon as I hear. Ok, have a good
+Patient: Day. You too, [PHI-Personal].
+Nurse: I'm so sorry. It's all good. No problem. I'll talk to you soon so much.
+Patient: Mhm. Bye bye.

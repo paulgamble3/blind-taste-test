@@ -1,0 +1,17 @@
+Nurse: Hello. [PHI-Personal], how are you?
+Patient: Hi. Uh, I'm ok, how are you?
+Nurse: I'm pretty good.
+Patient: Hey, I got a question for you. Yeah. Do you, you have access to my, uh, the, uh, appointment dates?
+Nurse: Only your primary care appointment dates?
+Patient: That's what I
+Nurse: Mean. Oh, yeah, definitely. Let me pull you up quick. Ok. So I have your next appointment listed as [PHI-Personal] at [PHI-Personal].
+Patient: Uh, [PHI-Personal], the [PHI-Personal]. Yeah. Now, uh, I have one on the first.
+Nurse: You did have one on the first. I
+Patient: Do have one on the first of this, of May. Uh, I'm supposed to come in and pick up, uh, sleep apnea stuff for a home for.
+Nurse: Is that through here? Let me see. That's probably not through our office, but I probably have your, some information on it.
+Patient: But anyhow I didn't, I don't know what I know. I'm supposed to be there but I don't know what time, that's why.
+Nurse: And so you're gonna do like a home sleep study?
+Patient: Yeah, I'm doing a whole thing but I gotta come and get the equipment or something. She said,
+Nurse: Do you know who called you? I have no clue. Let's see. Uh, there we go. It was hope who sent to sleep coordinator? It says 10 a.m. 51 at 10 a.m. 10
+Patient: O'clock. Ok. All right. Thank you. Thank you very
+Nurse: Much. You're so welcome. Have a good day. You too. Bye bye.

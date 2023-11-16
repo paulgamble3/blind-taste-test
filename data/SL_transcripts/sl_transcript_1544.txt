@@ -1,0 +1,54 @@
+Nurse: Hello, this is [PHI-Personal] nurse care manager. How may I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] and, um, I have a question for you.
+Nurse: Sure. Give me one second and let me get your information pulled up here. Ok. Ok. How's your morning going so far today?
+Patient: Oh, it's going fine. It was a little cool this morning.
+Nurse: Thank you very. And for security purposes, could you just state your date of birth for me?
+Patient: December 26th, 1937? All right, I got you
+Nurse: Right here. And how may I help you today?
+Patient: Ok. I think that I have, well, I don't know if I had a lab fasting appointment with doctor on the [PHI-Personal]. It's on my calendar, but I had a lab fasting appointment just in February. And I'm wondering if that was changed to then and I just didn't take it off my calendar or if I really do have another one because I have a yearly, um, did you go first part of [PHI-Personal]?
+Nurse: Ok. Let me see here. And when you did the fasting labs before, was that for your cardiologist or was it? Which provider was it for it? Was, I think it
+Patient: Was for both of them.
+Nurse: Ok. And when do you remember when you did those?
+Patient: I can look it up just like it was in February, um, in the wrong direction here. Um, oh God, these are scratched out and changed and, um, maybe it was in January CT scans. Gastro test. Well, I don't know, I just got the results not very long ago and, um, I, I was thinking that they had changed it, but can you find out from, um, Doctor [PHI-Personal] office if I have one?
+Nurse: No, they canceled
+Patient: It. They canceled it the [PHI-Personal]. Yes, ma'am. They did. Ok. Ok. That's what I kind of thought. Ok.
+Nurse: And then I also see where the cardio they're requesting those labs be sent so that he can review them before
+Patient: Your appointment
+Nurse: On [PHI-Personal] 3rd.
+Patient: Ok. They're requesting that the labs be sent to them and they haven't been because I saw it in my chart. I saw it in my chart the other day when I was looking at my chart, I thought they were in there.
+Nurse: Um, let me see if it's in your media already. Me
+Patient: Because I even got a phone call saying everything looks good.
+Nurse: I see the notes from the cardiovascular. Uh, what was the date did you say? Was it [PHI-Personal]?
+Patient: I don't know. I, I didn't find it. No, that was a different doctor on [PHI-Personal]. Um, veins. Oh, no, I don't know why I wouldn't have it. It's probably just on my phone calendar and I can't get to it while I'm talking, I don't think, but I'm pretty sure it was in February.
+Nurse: Yeah, I have some, I see labs here from [PHI-Personal].
+Patient: Ok.
+Nurse: Well, there's labs in here and they're also requesting any other information that they might need before your
+Patient: Appointment. Ok. Um, am I supposed to,
+Nurse: Did you do, did you do the labs with our office or with the cardiologist? Because your office?
+Patient: Yes, the message I did the labs at your office, the cardiologist originally asked for, for me to have them done. And I told him that I was getting them done for Doctor [PHI-Personal] soon and he says, all right, we'll, you know, we'll get them scheduled and you know, they'll go, the results will go to both places. Ok. So, yeah, and they were scheduled at doctor. I've had them twice in the last. Yeah, not too long. Right.
+Nurse: So there's no need to do that appointment that for the [PHI-Personal] and then when you go back to your, to your cardiologist and follow up with them,
+Patient: I've already done that.
+Nurse: Ok. What was, when was that appointment? Um, was it this month?
+Patient: It was because we can go so fast. I can't,
+Nurse: It does. Well, I was just talking to another patient about how time is just getting away. It all just be made here in a minute. Um, it
+Patient: Was just, I don't know, last week or so. Uh, but, oh, I'm looking at my, uh, I'm looking at my wall calendar and I just didn't put it on there. Apparently it's on my phone. But, um, last week. Ok, I have it down on the [PHI-Personal] of [PHI-Personal] 3, 14 for blood work. Um, but I don't know if that was, but I also have that one crossed. And the
+Nurse: Reason why I was asking is because in the message, the message states the cardiologist office called, requesting a fa to fax over the patient's most recent lab results.
+Patient: And this was, this
+Nurse: Was on, but this was on the [PHI-Personal]. So I don't know if they were just trying to get that before your appointment. I'm pretty sure they already have it, but I was just looking at the messages trying to get a timeline.
+Patient: Yeah, I'm pretty, yeah, I'm pretty sure they already have it. They
+Nurse: Printed and faxed over, uh, to the provider's office and they, they sent the message that they did complete that. All right. So, did they say anything, uh, different in your, at your cardiologist? Everything? Check out, well, any changes in your medications?
+Patient: No, no changes.
+Nurse: Ok. And did they increase or decrease any of your medications?
+Patient: No. Ok.
+Nurse: And did they tell you when they wanted you to follow up?
+Patient: Well, yes, I have to follow up and get some more mean work done, but I don't that's not until [PHI-Personal]
+Nurse: And you said you'll have to get some more. What done
+Patient: I call it vein work some more. Um sclero therapy on my right leg [PHI-Personal]. I have to have two more and the first one is gonna be done in [PHI-Personal]. That's as soon as they could get me in. So it must not be very um urgent. Ok.
+Nurse: All right. Well, I will just make a note of that, that you're gonna continue to follow up and everything. Is it, uh, for your, your BP and everything for today? Everything's good.
+Patient: Yes. Every is my BP has been good. Good
+Nurse: Lately. Do you know what the reading was for today?
+Patient: Oh, a little low today. Um, oh, not without looking at my phone. Um, it was, I think it was 1010 7/67 or something this morning.
+Nurse: All right. Well, you're doing good. Uh, just continue to monitor that and making sure that you're staying well hydrated, especially if you feel like it's kind of low. Just get you some juice in there or uh, some water or whatever and,
+Patient: Oh, you know, I'm trying, I have my little bottle that holds 32 ounces and I try to drink two of them. So. Ok. Well, it's always great to hear from you. Ok. Well, thank you and I appreciate your help.
+Nurse: Yeah, no problem. You have a wonderful day and I'll talk to you
+Patient: Later. Ok? Thank you. Alright, bye bye. You too. Bye.

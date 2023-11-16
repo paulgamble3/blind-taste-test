@@ -1,0 +1,38 @@
+Nurse: Hi, this is [PHI-Personal], the N care manager.
+Patient: Hi, [PHI-Personal]. It's pa pa. I was down in the basement doing my laundry and just came upstairs. Oh, so how you been pretty good?
+Nurse: Do you have pain medicine? Have you run out again?
+Patient: No. You know what happened? I talked to [PHI-Personal]. [PHI-Personal] on, uh, the [PHI-Personal] on the phone, he called me and, uh, I figured, you know, within a couple of days the drug store would call me and tell me my medicine was ready. Well, I had, didn't hear nothing. Then I called and they said, oh, it'll be a little bit but we'll get in touch with you. So, then yesterday they send me a message, then my medicine was ready for pick up for pick up. So I got it yesterday. Oh, goodness. But I still, you know, I was taking, like we had talked before instead of taking the four a day, save a couple back or something if I could. Mhm. So, I had a few to fall back on.
+Nurse: But good. So, you didn't have to go through the major withdrawal again? No. Good. Ok. Because I know that can be brutal.
+Patient: Yeah, but you know what? No, when I was talking to the doctor on [PHI-Personal] and everything he said, yeah, he said your next appointment will be [PHI-Personal]. Mhm. I said ok and he said it's four o'clock the same time. Ok. I said that's fine. But then later on I was got it, I always look at my portal, what they put in there. So I was looking in there and it said my appointments, [PHI-Personal] at four o'clock in the office. But it's, it's not, I was gonna call or something because it's not gonna be in the office because he told me he said he would call me because he didn't, he didn't know what the weather was gonna be or, or anything and he didn't want me out in it.
+Nurse: Oh, because I know that they're not doing, um, they're trying not to do the telehealth calls anymore or the phone calls anymore. I know they're trying to get away from that but I can message them and try to clarify and let him and he told you that he's gonna call you.
+Patient: Yeah, he said he would call me. So I, I'm hoping he, I am hoping he will just this one time because you never know what the weather is gonna be and I, I won't go out in it. I'm too afraid of falling or something. [PHI-Account]
+Nurse: Three at 4 p.m. All right. So I'll try to find out and clarify that. I, I know that a, a lot of, for a lot of patients they're saying they're not gonna do that anymore. So, I don't know what's, what's going on, what their decision making is, but I'll find out for you.
+Patient: Ok.
+Nurse: They might, I mean, if they make an, an exception they might, they might let you know, like, this is the last time we're gonna do this from now. And you have to come in the office kind of thing.
+Patient: Well, yeah. Well, I have been coming in the office all the time.
+Nurse: Oh, ok.
+Patient: All right. Yeah, I mean, he called, yeah, when he called me in, when he called me in [PHI-Personal]. Yeah, that, before that I was in the office all the time. All
+Nurse: Right. So, I'll see, I'll see what's going on and I'll try to clarify that for you. How are you doing? Otherwise?
+Patient: Pretty good. My back's been really bothering me from, I, it, from this cold.
+Nurse: You're fighting off a cold?
+Patient: No, from this weather? Cold? Oh,
+Nurse: The weather? Oh, the weather is brutal. It's terrible.
+Patient: And
+Nurse: Then we get, they, it teases us with like a beautiful 55 degree day and then it drops back down.
+Patient: So I know it. Terrible.
+Nurse: I've been, uh, using heating pads and just taking hot showers. That's how I deal with this.
+Patient: Oh, I've been using my heating pad too.
+Nurse: Yeah. Are you still being, uh, getting around ok. Are you doing stretches and, and things like that every day?
+Patient: Yeah.
+Nurse: Ok. I know it doesn't take away the pain but it does keep the, a little flexibility going on. So it does
+Patient: Help. Um, what about hydration? Are you
+Nurse: Staying hydrated?
+Patient: I try to.
+Nurse: Ok, because that's gonna be really important for your joints and everything too. It helps your brain function, it helps your joints, it helps, um, get rid of toxins, any build up of anything. So, and
+Patient: My mouth is, my mouth feels really dry all the time. But I mean, I'm, I'm drinking water and juice and, and I do have a couple of cups of coffee a day. And
+Nurse: Do you have any like a film, a white film in your mouth or just, it just feels dry, just feels dry. All right. Do you breathe through your mouth? You a mouth breather?
+Patient: I think I am. Yeah. Ok,
+Nurse: Because sometimes, uh, you know, everybody's different. Some people are mouth breathers and especially at night time and uh, that can dry things out a lot too.
+Patient: So, yeah,
+Nurse: If it becomes a problem though or it starts to, you know, move down to your throat. Uh, and you have start to have trouble swallowing or anything because sometimes it can cause irritation there. Um, give us a call, let us know. You can also do like salt water gargles just to help soothe it a little bit. Sometimes that helps. Oh, ok. But hopefully uh they'll they'll do the phone call, I'll have that clarified for you [PHI-Personal] and I'll and I'll give you a call back to let you know what I hear.
+Patient: Ok. Alright. Alright, thank you. You're welcome. Ok, bye bye.

@@ -1,0 +1,17 @@
+Nurse: Hi, this is [PHI-Personal] Care manager.
+Patient: Hi, it's, did you get back to the doctor? Let
+Nurse: Me see if they've heard anything. I'm just
+Patient: Gonna, oh, it's so sore.
+Nurse: They always seem to be slower with you. I don't know. I'm just joking. No, they, they know
+Patient: What they, what, what they do is they don't bother and I have to suffer all night. That ain't going to happen.
+Nurse: Yeah. No, still, no response yet. What's [PHI-Personal] doing? Uh, I'm not sure what [PHI-Personal] is doing. If, if you want, you can try calling the office directly and, and talk to a nurse in the office. I don't know. I don't want you to have to wait any longer. If it's that bad,
+Patient: I'll do that.
+Nurse: Yeah. Try that. And then if you, if you still can't get in touch, I know sometimes they put you on hold for a little while when you call the office but if it's that bad, I don't want you to continue to have to wait. Have you tried thought about going to urgent care?
+Patient: No, I haven't.
+Nurse: That's a possibility. I don't know if you have experience with that.
+Patient: I've been down there. Once. But
+Nurse: Yeah, there's some, sometimes they're really good. They get to it quickly. They give you what you need and, and you don't have to wait,
+Patient: But I'd have to walk down and I don't know if it's cold outside. Got
+Nurse: You. Well, try, try calling the office and then if you can't get in touch with them, get back to me and then I can send another message. I just don't want to send too many and then piss them off.
+Patient: Well, maybe that's what you need to do. Yeah, I know. Then they'll, then they'll do their job
+Nurse: Just so they don't have to hear from me anymore. Yeah. Well, let me know Maxine. Let me know if you get in touch with them. Ok. Ok. All right. Talk to you later. Bye bye.

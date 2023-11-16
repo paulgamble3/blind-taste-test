@@ -1,0 +1,45 @@
+Nurse: Hello. Hello, [PHI-Personal]. Yes, ma'am. Hi, [PHI-Personal]. You just called me? I
+Patient: Did. How are you this morning? Fine. And yourself? I'm doing just fine. I was just calling to follow up with you and make sure everything was going ok.
+Nurse: Um, seems to be going ok.
+Patient: Good. Nothing new going on.
+Nurse: I'm seeing a new urologist this morning, but I told them that last time they called. Ok, he said I would be seeing a urologist this morning, uh, or this afternoon so that I've contacted Doctor [PHI-Personal] office about sending me a, yeah, a thing for, um, my mammogram hadn't gotten one of those this year. So needed to do that. So hopefully they're sending it in the mail.
+Patient: Ok. And there was a few things that I wanted. I was looking at your chart and there was a few things that you were due for that. I wanted to kind of follow up with you and see if you had had them and we just don't have a record or maybe just remind you that they are due.
+Nurse: What was that?
+Patient: Uh, so I do have your mammogram, which you've, you're taking care of that. Um, have you received your flu shot this year?
+Nurse: I did, I was, happened to be at CV S for a UT I, and I went ahead and got a flu shot with them. Ok.
+Patient: Do you remember what day that was on?
+Nurse: Ah, just a few months ago? I mean, they, they have a record of it. I just have to sign into the thing, but it was just a couple of months ago. Ok.
+Patient: Um, Have you had your eye exam this year?
+Nurse: No, I need to do that as well. I just, I wasn't happy with the last doctor I was seeing, so I have to find a new doctor.
+Patient: Ok. Um, do you plan on taking a COVID booster?
+Nurse: I just got the notice from CV S that I was due. Yeah, my last booster was in uh [PHI-Personal]. So um, yeah, I have no problem going down there and getting another one. Ok. It would be my fifth shot, I think. Yeah, I've had four.
+Patient: Ok. Um Have you done your pneumonia vaccine?
+Nurse: You know, I've never had a pneumonia vaccine. Ok. I just, you know, don't really have issues in that area. I quit smoking a long time ago. So, I mean, just never had one. I never thought I needed one.
+Patient: Ok, if you want me to, I can take that off. Um, and then, then it'll remind us again next year to kind of bring it up and see if you wanna go ahead and get one or if we can take it off again for another year. Yeah,
+Nurse: CV. S when they sent me the notice they offered up two, you know, two different vaccines and it said pneumonia. But I, again, I, I've never had one so, I mean, I don't know that one is prone to pneumonia or whatever. I've just never had an issue in that area. No,
+Patient: They just recommend it for anybody that's [PHI-Personal] and older.
+Nurse: Yeah, I, I think I'm good. I'm happy to take my boosters and I, um, just keep healthy.
+Patient: Good deal. And, uh, is this the same CV S that you use as your pharmacy? Like, do you get your prescriptions through them?
+Nurse: Um, I, I, you now getting my prescriptions at Walgreens and I'm having problems with that pharmacy too. So I, it talks with trying to get them switched to CV S. But in the meantime, Walgreens went ahead and I was out of the prescription and they asked, you know, for a refill. And so now the refills at CV S but I, I mean, not at CV S, it's still at Walgreens. But, um, if they can get my problems stre straightened out and quit causing me, quit causing me problems, I'll stay there. But if they're gonna continue to create problems for me, then I'll have to have them transferred.
+Patient: Ok. Now, so, which CV S, uh, did you get your vaccines at
+Nurse: [PHI-Geographic]?
+Patient: Ok. I just wanted to be able to call and get those dates so I can take them off your chart.
+Nurse: Oh, I have my card right here. I don't know if they're on the card but I think they may have written them on the card. Hold on now. I need a light. Yeah. Ok. The fourth Pfizer was 72 22. The third pfizer was 9 28 21. The first one was February 22nd, 21. Then [PHI-Personal]. Oh, those help you? I kind of gave them to you backwards.
+Patient: I have all of those in here. Ok. I have, uh, the first two doses and then I have one booster dose
+Nurse: In the September [PHI-Personal]. Yes. Ok. Then the, the fourth one was, um, July [PHI-Personal], but I actually was in Tampa when I had that one done at CV S. Ok. It should still be in their file and then I guess they didn't make, make note of the, um, flu shot because that's what their email said about a flu shot and I already had the flu shot. So, I don't know. Ok,
+Patient: That's fine. I'll follow up on it and see what I can find out.
+Nurse: Ok. Yeah, it should be in, they, they use my chart too there, don't they?
+Patient: Uh, I'm not sure I can check and see. It's not a big deal.
+Nurse: Yeah, I think they do because I've gotten some tests from them before and it comes through my chart. So you're welcome. You're welcome to have access.
+Patient: Ok. Uh and you do have an appointment coming up with doctor on [PHI-Personal]. I have that in your calendar. Ok, I
+Nurse: Do have it. You all made me that appointment last time we talked. I appreciate it.
+Patient: Good deal. And then the only other thing that I wanted to check with you about, um, are you checking your BP at home? No,
+Nurse: But you know, when II, I was in a walk in clinic once a month, so they were doing it and ok, I mean, I, I'm pretty sure it's fine. There are times when it's high, there's times when it's fine, there's times when it's low it's never, it's never the same twice.
+Patient: Ok. Well, I just wanted to offer, um, we started this new program where we can send you out a BP cuff and when you do check your BP, it'll put your readings into your chart that way. Um, us, the nurses and, uh, doctor can kind of keep up with it and it'll flag us and tell us if you're out of range so we can check with you and make sure that you're ok. Oh,
+Nurse: Sure. That'd be great.
+Patient: Kind of get just another set of eyes on you.
+Nurse: Yeah, I mean, it's something I can do myself because I have one of those ones you put around your wrist and I just don't think those are accurate.
+Patient: They are very touchy
+Nurse: Very, because one time the doctor's dentist did it, I was at the dentist office and they did it and I was, they had, I mean, my BP was so low. I said that reading cannot be right. My BP has never been that low in my life.
+Patient: Yes, they are very to, they'll read super high. They'll read super low. It's, it's hard to get them just right. Yeah, but when you do get this one, it'll be the one that goes on your arm. You'll just sit with your feet flat on the floor straight back. Empty bladder because if you have a full bladder that can make your BP higher um arm supported, you know all the whole nine yards. All right. So give me just a second and I will get you set up for that BP cuff. Ok.
+Nurse: Thank you Sydney. Take your time. All right. Oh shoot I gotta write my medications down off. Thank you. Ok. Oh hi, good morning. Is this Teres? It is. Hi my name is Amber. I wanna welcome you to a remote patient monitoring program and go over some information with you real quick. Ok. Ok. Alright. So much like the care management program, this is a billable service to Medicare, Medicare Advantage and secondary insurances. So it may be subject to co insurance deductibles and co pays I see that you're getting the BP cuff and that's going to be sent to you free of charge through fedex and it will arrive within a week or so after this call, we'll get it packed up and we'll get it sent out to you at the mailing address I have on file which is 16308 Gulf Boulevard. Apartment 310 in Reading Beach Florida. 33708. Is that correct? Red Red Beach? Yes. Um, after it arrives, you're gonna get a call from our specialist. Her name is Mary Jo. She's gonna help you in setting up your BP cuff and making sure that you're comfortable using it. She'll answer any questions that you might have at that time about the BP cuff. And then after that, you're gonna resume your regular calls with your care management nurse ney. Ok. Do you have any questions? No, I don't. All right. Well, we'll get that packed up and we'll get that mailed out to you. Thank you so much and then you don't have to worry about calling anybody when it arrives. Mary Jo our specialist, she'll get a notification that it was delivered and she'll give you a call. Ok? Ok. That'll be great. All right. Well, thank you so much and I hope that you have a wonderful rest of your day today. I thank you very much. Thank you guys for always checking on me. Yes, of course. Thank you. You take care and you stay safe. Ok, I'm doing my best. Yes, ma'am. Thank you. You're welcome, take care. You too. Bye bye bye bye.

@@ -1,0 +1,33 @@
+Nurse: Hello, this is [PHI-Personal] at the Pulmonology Clinic. How can I help you today?
+Patient: Yes, [PHI-Personal]. I guess you called but I don't know what, what's wrong with this one? If you please explain with me.
+Nurse: Hi, [PHI-Personal]. Yeah, let me see. What's your birthday? I'm gonna pull up your chart and see what we called you about. Ok. What's your birthday?
+Patient: [PHI-Personal].
+Nurse: Ok. Thank you. Give me just a minute. Ok, I have your chart open and um yes, it looks like we were giving you a call back for hang on, let me see. Oh, I think you're having some problems with the medication. Is that right? With the like it wasn't covered by insurance?
+Patient: Yes, that's one. Ok.
+Nurse: Ok. And yeah, we just left a message to call us all. So tell me what's going on. The message said that Benzonatate is not covered by insurance. Um and then you're also taking the ipratropium nasal spray spray or the Atrovent, right?
+Patient: Sorry, when I take the the the the nasal cra it seems that if there is something in my nostri that is swelling. So I stopped taking and when I'm taking the oral one. It doesn't work. I take it for quite some and it doesn't work. I'm still coughing.
+Nurse: That's the other. So, is it, um, the Symbicort inhaler? Correct? Yes. Ok. Um, let's see. And you don't see Doctor [PHI-Personal] again until [PHI-Personal]. Um, let's see. What else I'm looking at your chart. Is there anything else that you take for, um, to help with coughing or breathing?
+Patient: Well, what I do in the night I have a, um, an ointment that I used to two of my throat and my chest and I don't cough so much when I use it.
+Nurse: Ok.
+Patient: But that, the one that I use in my nostrils, I never used that again is like two big things come up in my nostrils.
+Nurse: Ok. Have you? Because you used to take the Flonase nasal spray, correct? Yes. And that one wasn't helpful for you. No. No. Ok. Um, ok. Well, let me see, what else we could maybe help with. Have you, um, how long has this cough been going on for a long time? Do you feel like it's getting worse or? Tell me about that a little bit? It just, uh,
+Patient: It's just the same. I just keep coughing from time. It's about nearly 20 years now. All the doctor
+Nurse: For 20 years now. Oh, no, such a long time. So it's not, it's not that it's gotten worse, but it's just like, always there and not getting better. It, it
+Patient: It, it is constant. The, the cough is constant, especially, I try to put my head on like 23 pillows.
+Nurse: Ok.
+Patient: It doesn't work.
+Nurse: It doesn't work. Ok. And is your any mucus or phlegm that you're coughing up? Is that still clear or are you?
+Patient: It's just clear, it just clear. It doesn't have any color. It just, it's just clear.
+Nurse: Ok. Um, well, let me see what else. Um, maybe he can try to send in for you and um I'll have to give you a call back. Um Yeah, if the nasal spray makes your nose feel like it's swelling, then don't use it. We want you to be able to breathe. So that's good. Um And then yeah, I'm trying to think cause the Benzonatate that's supposed to help kind of suppress or stop the cough. So we'll see, I'll see if there's something else. Maybe that can be sent in and then I'll, I'll call you back when I hear from doctor [PHI-Personal]. Ok.
+Patient: Ok. Thank you very
+Nurse: Much. Ok. You're welcome. Thanks for calling back. I'm [PHI-Personal].
+Patient: [PHI-Personal]. Thank
+Nurse: You very much. Yeah, you oh and do you know what the name is of the ointment that you put on your chest?
+Patient: It is. Oh Lord. Mm mm. Oh gosh. Oh yeah. Can I just get you just with them and run upstairs?
+Nurse: Yes. Yep, I'll wait.
+Patient: Ok. You come, you come in, it's you coming, you come in? I just remembered
+Nurse: How do you spell it with a Y or UU
+Patient: Eu C am? Eu?
+Nurse: Ok. Ok. Awesome. Ok. Well, thank you. And um I will give you a call once I hear from Doctor [PHI-Personal]. Ok.
+Patient: Ok, thank you. Ok, you, I, I have another appointment so I'm going to go down the street so I call, leave a message and I'll call back.
+Nurse: Ok, that sounds great, Marjorie. Ok. Ok. Thank you. Bye bye bye.

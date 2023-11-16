@@ -1,0 +1,32 @@
+Nurse: Hello, this is [PHI-Personal]. Hi, [PHI-Personal]. Yep. Hi, [PHI-Personal]. How are you?
+Patient: Uh, hi, I'm, I'm doing pretty good. Good.
+Nurse: Uh, um, the reason I'm calling is you spoke with somebody the other day about your medications and a few things going on. Do you remember that? Yes. Ok. And so she reached out to Doctor [PHI-Personal]. Um, Doctor [PHI-Personal] is suggesting that, um, you either make appointment with him or, um, you can see another provider. Um, and I don't know if you've ever used, uh, uh, s a smart phone to do like a tele visit or something like that. So, do you have time where we could try to set you up an appointment?
+Patient: I, uh, I have an appointment. I called in to and made an appointment, but not until [PHI-Personal] that was the, the closest they had. So let me see
+Nurse: Something here while we're on the phone. Ok. Ok. Um, let's see if we can do. Um, now can you see somebody else besides Doctor [PHI-Personal]?
+Patient: I, I have to see Doctor [PHI-Personal].
+Nurse: Ok. So let me just, that might be the reason. Let me see if, if they have anything else. Uh, you have [PHI-Personal] too, don't you? Well,
+Patient: I don't know how it, I don't understand it, how it works. They say it's with, within certain limit of what, what, I don't know, I don't understand it. Have this,
+Nurse: Let me see. Ok, let's see. Trying to see if we can find another. It's hard to get into, to see certain providers sometimes, but we can try. Ok, let's see. And they are booking up, um, in [PHI-Personal] and [PHI-Personal], unfortunately, what they are booking up in a and, and, and, uh, [PHI-Personal]. So, you know, the sooner you call in, the sooner you get an appointment, hold on. It's still searching for me. Ok, my goodness. Yeah. Ok. Oh, we go. Ok. So the only appointments I can get you sooner is with like a nurse practitioner. So, um, computer's locking up. Oh, there we go. Hm. Oh, ok. So the, the soonest one, if you just want to see doctor [PHI-Personal] is in [PHI-Personal] or, I mean, in [PHI-Personal]. Ok. All right. Um, now if you get sick and you need to get it immediately and you're willing to see any provider
+Patient: And it went out. I didn't, I didn't hear, I didn't understand the last thing
+Nurse: I said if you get sick and you need to get in sooner, uh, to see somebody, you know, we might be able to get you into Doctor [PHI-Personal]. But most of the time when we get you an appointment within like a day or two. It's usually with a nurse practitioner or a pa ok. Ok. So if you get sick and you need to see somebody sooner than [PHI-Personal], you need to just let us know. Ok.
+Patient: Ok. Ok. Ok. Yeah, I, ok. II I hear you. I'm saying that. So, yeah. And then I just keep the same, uh, ok,
+Nurse: Keep the same appointment and then, uh, take your medications and then when you go in all the things that you guys talked about, uh we work on and did you also put yourself on a waiting list in case an opening comes up?
+Patient: So I didn't I I don't think so. I don't know but I'll
+Nurse: I'll reach out to them and and tell them that you wanna be put on the waiting list. Ok. Alright and that way if an appointment comes up sooner you can get in sooner. Ok.
+Patient: Ok.
+Nurse: Ok. Anything else going on [PHI-Personal]? Oh no
+Patient: More than me and the the neuropathies and it's ongoing situation. I don't know, I don't know what to do
+Nurse: Now. Um on your, on your uh let me look at your medications here um, on the gabapentin that you take three times a day.
+Patient: No, I don't take it like that anymore. I haven't taken it like that but one time and uh but that when I talk talked saw Doctor [PHI-Personal] back when I was given it like that he said to take it as needed. Now I can't take it. I can't take it like the, and it's only the 100 milligrams. Ok.
+Nurse: Well, well, this is what I want you to do. You know gabapentin does make you sleepy. So maybe he can let you have the medicine at night and you can take the dosage at night before you go to bed because it makes you sleepy and then it can work in your body all day long to help with the neuropathy. Oh
+Patient: Ok. Yeah I've I've tried it all those ways that I've always been a sleepy uh person so it it makes me sleep even more but he said take it as needed so I try I I do both ways and so
+Nurse: I would take it at night and then that way you have it on board for the day. Ok.
+Patient: Ok. Alright.
+Nurse: Ok well we'll talk to you later. Ok. Oh [PHI-Personal] before you hang up I did forget one thing. Um so the last nurse um should have um helped you with this and and I'm gonna send you out a letter today and it's gonna be um your wellness goals because you remember she probably asked you about if your insurance changed and asked you about if you know your address is the same because this month we're doing like making sure there's no changes with like billing and stuff and then also the providers at [PHI-Geographic] are having us uh tell patients we're gonna send out their 2023 Wellness goals. OK. And uh what they've done different this year is um for an example, like you did your lipids back in March. So they will be due again in March. It looks like [PHI-Personal], 2023. And then any goals that you did not do last year will also be in the letter. And these are just reminders of what you need to do. So maybe when you get the letter you can pick and choose what you wanna get done when you see Doctor [PHI-Personal] in [PHI-Personal]. Ok. Ok.
+Patient: In [PHI-Personal] or [PHI-Personal]?
+Nurse: [PHI-Personal]. I'm sorry I'm I'm I'm scattered today too. I don't know why it's a Monday. Oh my gosh and I guess I still get through the day. So anyway, but I'll send that letter out. It also has our phone number which you obviously have it because you just called me but um it'll be a letter that will go out that the providers are having us send out today. Ok.
+Patient: Ok. All right then. Ok.
+Nurse: And I'll call the office and see if I can get you moved up sooner than [PHI-Personal]. Ok.
+Patient: Alrighty, thank you again
+Nurse: You have a nice day, [PHI-Personal] I'll talk to you later.
+Patient: Alright. You too bye bye bye bye. Ok.

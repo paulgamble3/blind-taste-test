@@ -1,0 +1,66 @@
+Nurse: Good morning, MS
+Patient: [PHI-Personal]. Good morning, Miss [PHI-Personal]. How you doing? I'm
+Nurse: Doing great. How about yourself?
+Patient: Well, I have the same problem sleeping, wake up, sleeping, wake up. But anyway, I'm not like uh I received a letter from the office [PHI-Account] for I put it on one. I call them because in there they say da in sleep a for the never like two mask. Then you told me that they're gonna call me and they never call.
+Nurse: Ok? Even after your uh [PHI-Personal] appointment.
+Patient: Yes, I assuming that if they know that I was having COVID, you didn't tell him anything.
+Nurse: Yes, I did. I did.
+Patient: Oh, probably maybe once for them. Ok,
+Nurse: Hold on one second. Let me pull this up again
+Patient: Because maybe for them, maybe they don't, they don't contact me or something.
+Nurse: Ok. So
+Patient: Because if I have to go to or I cannot go anyway because of the COVID,
+Nurse: Right? Ok. So what, ok, what, what does the message say again? What does the letter say? And when did you receive it?
+Patient: I received this today? Probably was in the mail yesterday. Ok.
+Nurse: Ok. And what did
+Patient: The letter say it? Uh it is like um how do you say it like a order? Mhm Supply B MA E order
+Nurse: D MA order.
+Patient: Yeah. The, the letter saying the top supply then BM E order. OK. OK. The climbing electronic photo [PHI-Geographic]. He it, it, it was done in the [PHI-Account] 20.
+Nurse: So is this for the nebulizer or for this for the CPAP? What is this for?
+Patient: It's saying nebulizer two mask. OK.
+Nurse: So, so what is the letter saying that they're gonna send you one or you didn't get one or what is it saying?
+Patient: This is, remember um the document that they always send for going for um uh when you gonna go blood test, we're gonna be off a referral that came the ordering.
+Nurse: Ok. Does it have any telephone number on there to call
+Patient: It in and, and um one circle I call over there and I leave a message?
+Nurse: Ok. It
+Patient: Does have by,
+Nurse: Ok, let me, let me look in here and see if I can see what you're looking at.
+Patient: Mhm. So the person, the printer. Ok. And she did it in the [PHI-Personal]? Ok. Let me see
+Nurse: If I can see exactly
+Patient: What you're looking at.
+Nurse: How are you feeling?
+Patient: I'm feeling much better because of the med, the medicine the the the doctor give me and the, but I, you know the one of the medicine I have, I have to pay for it, you know, because the medicine that she provide to me it was declined by my insurance. Oh, and I have to pay $[PHI-Account] for the medicine. But anyhow, yeah, I, I was having that in my account and I say, ok, I gonna get it. I cannot believe that. Continue coughing and playing, you know what I mean? And I couldn't sleep coughing. Yeah. Do you feel
+Nurse: So still? No nebulizer machine?
+Patient: No nebulizer machine. I have uh it's supposed to be done by the uh supplier. Uh huh. That's what I know. Supplier is a order. It have to be in the supplier [PHI-Personal]. So they probably, they gonna mail it to me. That's why I wa I was waiting until I see this letter.
+Nurse: Is this with [PHI-Personal]? Does it say [PHI-Personal] on there?
+Patient: Uh You know, it's a um, like I said supply, remember the word supply and then slash DNE boring it look like. And I may be the one that supply the machine. That's what I think. Oh, because I, er, in the order in the bottom saying Nebuli tube and mask.
+Nurse: Yes, that one I have that this referral was sent to [PHI-Personal] and I have their telephone number.
+Patient: Right? And when I spoke to somebody the same day I spoke to the doctor, er, the phone number they, they give me was the wrong. It say that phone number is not in survey. Oh, no. Anyway, call the phone number that you have and see if it work.
+Nurse: Ok, you here let me give it to you also.
+Patient: Ok, let me get a pen and I write it down because
+Nurse: This says I have a phone number and it's for [PHI-Personal] and then it says once reviewed they can contact patient to arrange delivery.
+Patient: Yeah, that's the the one that we were waiting. Remember? Yeah. Ok. Right. Ok. Give me the number.
+Nurse: It's [PHI-Personal]
+Patient: [PHI-Account] [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]. Ok, I gonna try. Ok, you really just call me
+Nurse: If, if you have trouble, just call me back and let me know, but that should be the number that you can arrange uh call and see uh where they're at with the machine and if they can have it delivered to you.
+Patient: Ok, perfect.
+Nurse: Ok. And really I really think that the pharmacy pharmacy, when you needed that they should have been able to direct you to somebody local that would be, you could just go to a different location and pick it up. I don't know why they didn't do that. So I was very disappointed to get a nebulizer machine
+Patient: But uh I was gonna ask you just check it in my, in my um and my medication if they have to fill for my lova lova steroid uh
+Nurse: The thyroid medicine.
+Patient: Yes.
+Nurse: 75 micrograms.
+Patient: Yes. Um because I finish this bottle and it says no refill you.
+Nurse: Oh ok I can check it for you.
+Patient: I appreciate it. Sure no problem. Thank you. If you can send the refill, you send it to the same pharmacy. Uh I appreciate
+Nurse: This one is showing this one is showing pharmacy pharmacy pharmacy, [PHI-Personal],
+Patient: [PHI-Personal] cha. Yes
+Nurse: Off of [PHI-Geographic]. Yes. In Country Way in
+Patient: Country way. Ok got it. [PHI-Personal]. Ok you gonna give me a call to the supplier you think? Mhm.
+Nurse: Yeah and then that way you can they can set up delivery you should be ok. They might ask you some insurance questions ok or to verify your address?
+Patient: I appreciate it.
+Nurse: Sure, no problem.
+Patient: Thank you. Bye bye bye.

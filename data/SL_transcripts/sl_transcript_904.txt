@@ -1,0 +1,40 @@
+Nurse: [PHI-Personal] speaking. How can I help you? Yeah, hi they called
+Patient: Here for yesterday for [PHI-Personal] for physical therapy at home.
+Nurse: Um what is the patient's name?
+Patient: [PHI-Personal]? [PHI-Personal]. Uh how do you spell the last name? Ma Ldon? Ad O? Mhm.
+Nurse: Trying to find her. Hold on, hold on one second. Ok. Yeah.
+Patient: Yeah. Ah it is. Ok.
+Nurse: Ok I found her. Yes um she was just in the hospital, correct? Yes,
+Patient: She just came home.
+Nurse: Ok um I'm just pulling her chart up so um the reason I was calling is because I wanted to update her medications and make sure she has an appointment with doctor. Um
+Patient: Yeah she has one. Ok. Um look at my phone.
+Nurse: No I see 1 [PHI-Personal]
+Patient: First [PHI-Personal]. Alright let me look at my calendar, right? No you got a [PHI-Personal]. Yeah she got a [PHI-Personal]. Oh unless your husband comes [PHI-Personal]. Ok. But now apparently cheap at all and then that. No. Huh? Yeah that's what I'm looking for. Mhm. Uh she ha she just had one Ja [PHI-Personal]. Ok.
+Nurse: Um but since she was in the hospital doctor would like to see her again. Yeah. Within a week or two. Usually they, well, I have
+Patient: To call them because they got it for [PHI-Personal].
+Nurse: I will. Um, well, I could help you. I'm going to just update her medications and then I could transfer you to, um, let me see, or I could send a message over. Let me see. Yeah, I'll transfer you to the, um, scheduler. Now, I see that they ordered two new medications. Aspirin 81 daily and then atorvastatin for her cholesterol 80 daily. Yeah. Yeah, that's there. Ok, I got it yesterday. Ok,
+Patient: That's here.
+Nurse: Mhm. Ok. And then they adjusted her albuterol. She takes two puffs every four hours and then the other one is, um, every four hours as needed for wheezing. Um, Apixaban. She takes one tablet every 12 hours for 60 days. Right? Um, levothyroxine is 200 micrograms, um, three times weekly and then senna, she takes twice a day. Right? Um, let me look at her other meds. Um, does she still take Phoslo three times a day?
+Patient: Phoslo? No, she's not on that.
+Nurse: Calcium acetate. This is something like for kidneys. Ok. Um, Zine Zyrtec 10 mg daily for allergies. Um, diclofenac gel for her knees or, um, joints as needed.
+Patient: Yes. Yeah, that
+Nurse: I have Ducos sodium Colace 100 daily as needed. Yep. Iron or Venofer is the IV. Does she get injections? Yeah, that's our
+Patient: Dialysis
+Nurse: Dialysis gave it to her. Ok. Levothyroxine, I told you that one, metoprolol 25 mg daily. Yep. Yep. [PHI-Personal]. 10 daily.
+Patient: [PHI-Personal].
+Nurse: Um, Mon class they
+Patient: Give you senna, I got the medications all here. Senna [PHI-Personal]. Uh,
+Nurse: It's,
+Patient: No, I don't, I don't, no, they didn't give her no of that.
+Nurse: This is what she's been on this. It's, um, for her breathing. It's [PHI-Personal] UK A S
+Patient: T 00, to say yes. Yeah. Yeah. 10 mg.
+Nurse: Yes. Yes. She got that perfect, uh, Miralax daily as needed. Yeah. And then Spiriva, it's two puffs daily. Yep. She got that and ran cream um, as needed. Yeah, she got that. Ok. All right. I'll update, let me see if I could transfer you over to CJ. Who's the scheduler? Ok. Ok. Hold one second.
+Patient: You got poo poo, huh? She got [PHI-Personal] mom put this in your, oh, why are you smoking? About two? You shouldn't? Oh
+Nurse: Chester wasn't available. I'm gonna try [PHI-Personal]. Ok.
+Patient: Ok. Tell them where they're gonna send her because I'm on the phone making an appointment for her. Tell him about dialysis. You can tell him you, you might he, she know you, they called back from dialysis. Yeah. Freedom to walk away. You got back cramp. Yeah.
+Nurse: Ok. They're both not answering. So I'm gonna give you the number to call, um, the scheduler to, um, schedule your appointment. Ok,
+Patient: Sure. It went to work. You had a pen. I gotta write down a number. Uh. Oh. Oh good. Ok. Ok. They call you back. Oh, wow, that's fine. The pen oil. But anyway, it's ok. Get, um, you could give it to me.
+Nurse: Ok. It's 215707, 12 84. And it's CJ, he's a scheduler. Just tell them that you need a transition of care appointment. Ok. All
+Patient: Right. Mhm. Thank you.
+Nurse: Great. Thank you for calling and I'll update her meds now. Ok. Thanks. Bye
+Patient: Bye bye.

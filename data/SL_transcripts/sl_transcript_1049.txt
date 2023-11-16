@@ -1,0 +1,20 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Hi [PHI-Personal], this is [PHI-Personal] calling. Um, I have not heard anything from anybody regarding somebody coming in to the house. Oh,
+Nurse: Ok. Let me jump in your chart here. Um, ok, let me see. So. Ok. Um, I'm gonna send another message to [PHI-Personal], um, because she did approve the home health. So let me, let me [PHI-Personal] this to her and, uh, just tell her we need that sent in a as soon as possible. Um, I had already given her the phone number and everything to fax it to. So I'm not sure why it wasn't faxed. So let me, let me look into this and take care of this and hopefully we'll get them that, uh, referral over today if it wasn't already sent out and then we'll see
+Patient: Hopefully last night. Was it a terrible night? I thought I was gonna have to go back out what happened? Oh, I started yesterday with the diarrhea and it was constant.
+Nurse: Oh, no. Ok. Um hm. Any vomiting?
+Patient: No vomiting just uh, pain in my stomach and uh, like, hi, not really dry ha, but I know dry ha. Ok. I mean, they weren't. I wasn't. But, yeah, it was more like a reflux.
+Nurse: Ok. Um, are you on an antibiotic right now? No, I don't, I don't see one in there. Ok. Um,
+Patient: Hm. And I mean, it, it, it ended up, uh, by the end and then by this morning, I mean, it was just three.
+Nurse: Mm. Ok. Um, any blood in your stool that you
+Patient: Noticed that? No, I didn't see any
+Nurse: Good. Ok. Excuse me? And then, um, let me just read your chart here. Your discharge instructions. Are you able to keep food and water down?
+Patient: Um, yeah, I haven't thrown it up. Yeah, I, ok.
+Nurse: All right. And are you taking the colchicine? Did you start
+Patient: That the gout is worse than it was? My, my feet are swollen. Ok. All right. Let me, I feel, I feel like I'm back to square one. You feel like you're right where you were before? Uh, I'm, if I'm not, I'm yet there
+Nurse: Any chest pains?
+Patient: No,
+Nurse: No. All right. Let me get a message out to her. Um, just let her know, you know what, what you have going on and, uh, I'll get back to you.
+Patient: Ok, thank you. You're
+Nurse: Very welcome. I'll talk with you soon.
+Patient: Mhm. Bye bye bye.

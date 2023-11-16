@@ -1,0 +1,43 @@
+Nurse: Great, I'm glad I reached you.Before we begin, I just need to verify your identity.Can you please provide me with your date of birth?
+Patient: July seventh nineteen fifty six.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling on behalf of your doctor to do a chronic care check in.I'd like to ask you a few questions about your health and how you're feeling.Can you tell me how you're doing?
+Patient: Lasix doing really good, I think.
+Nurse: I'm glad to hear that you're doing well with Lasix.It's important that you're feeling good and that your medications are working for you.I'm going to ask you a few more questions to make sure everything is going well.
+Patient: Okay.
+Nurse: Great, I'm going to ask you about your dialysis sessions.How are they going?
+Patient: They're going great.
+Nurse: I'm glad to hear that.Do you have any concerns or issues with your dialysis sessions that you'd like to discuss?
+Patient: No. Everything seems to be going fine. Nothing out of the ordinary.
+Nurse: I'm glad to hear that everything is going well with your dialysis sessions.Now, I just want to confirm, have you been able to attend all of your dialysis sessions?
+Patient: Yes. I have. I haven't missed any.
+Nurse: That's great to hear!It's important that you attend all of your dialysis sessions.Now, I'd like to go over your medications with you to make sure you're taking them as prescribed.Can you tell me the names and dosages of the medications you're currently taking?
+Patient: Yes. I'm taking Lasix forty milligrams twice a day,I'm taking lisinopril five milligrams twice a day,I'm taking gabapentin three hundred milligramsa day as needed. I'm taking Tylenol, a thousand milligrams,as needed.I'm taking losartan fifty milligrams once a day.
+Nurse: Great, it sounds like you're taking your medications as prescribed.I just want to review with you the medications that you should hold before your dialysis sessions.You should hold Lasix, Lisinopril, and Losartan before your dialysis sessions.It's important to do this to ensure your dialysis treatments are as effective as possible.
+Patient: Okay.
+Nurse: Great, I'm glad you understand.Now, I'd like to review your diet instructions.It's critical for you to follow a renal diet and you're also lactose intolerant.This means you need to limit your intake of dairy products and also follow a diet that's low in sodium, potassium, and phosphorus.It's important to maintain a balanced diet to help manage your condition.Do you have any questions about your diet instructions?
+Patient: No. I I think I understand.It's it's been really hard. I mean, I'm lactose intolerance as well.So being lactose intolerance and on thisMelina dietit's really hard to know what I can eat.
+Nurse: I understand that it can be challenging to navigate a diet with multiple restrictions.It's important to remember that the goal is to help manage your condition and ensure your dialysis treatments are as effective as possible.I can help you by providing some resources or connecting you with a dietitian who can help you create a meal plan that works for you and meets your dietary needs.Would that be helpful?
+Patient: Definitely.
+Nurse: Great, I'm going to arrange for a dietitian to get in touch with you and help you create a meal plan that works for you.Now, I'd like to check in with you about your other chronic conditions.Can you tell me how you're doing with your back pain and hypertension?
+Patient: Well, I think I'm doing good with both.My back,you know, I'm just getting used to it. You know? I takemy medications when I need to
+Nurse: I'm glad to hear that you're doing well with your back pain and hypertension.It's important to keep your pain under control and maintain good blood pressure levels.Now, I'd like to ask a few questions about your fistula.Have you noticed any changes or had any issues with it?
+Patient: No.This June looks great.
+Nurse: I'm glad to hear that your fistula is doing well.It's essential to keep an eye on it and let us know if you notice anything unusual.Now, I'd like to ask if you've had any shortness of breath or weakness recently?
+Patient: No. I haven't.
+Nurse: Great, I'm glad to hear that.It's essential to monitor for any signs of complications.Now, have you had any weight gain or swelling recently?
+Patient: No. No. I haven't.
+Nurse: Okay, that's good to hear.It's important to keep an eye on your weight and look out for any swelling, as these could be signs of fluid buildup.Now, I'd like to ask when you took your last blood pressure measurement and what the result was?
+Patient: Lasix time I took my blood pressure, it was one twenty over eighty.
+Nurse: Okay, thank you for that information.It's essential to keep your blood pressure under control, as high blood pressure can put a strain on your heart and blood vessels.If you notice it getting high, please let us know right away.We can work together to manage it.
+Patient: Okeydoke.
+Nurse: Great, I'm glad you understand.Now, I'd like to ask if you have any concerns about your fistula or anything else related to your dialysis treatments?
+Patient: No.
+Nurse: Okay, I'm glad to hear that.It's critical to let us know if you have any concerns or issues.Now, I'd like to remind you of a few things you need to restrict while caring for your fistula.You should avoid having blood draws, blood pressure measurements, or lying down on the arm with the fistula.It's critical to protect your fistula and ensure it functions properly for your dialysis treatments.Do you understand these instructions?
+Patient: I do.
+Nurse: Great, I'm glad you understand.It's essential to follow these instructions to ensure your fistula is well-protected and functions properly for your dialysis treatments.Now, do you have any questions or concerns about anything we've discussed?
+Patient: No.
+Nurse: Okay, great.I'm glad to hear that.It's critical to me that you feel informed and comfortable with your care.Now, if you have any questions or concerns in the future, don't hesitate to call me.My callback number is 641-381-6523.Thank you for your time today.It's been great talking with you.Take care and have a great day!
+Patient: Thank you, Rachel.
+Nurse: You're welcome!Don't hesitate to call me if you need anything.Have a great day!
+Patient: You too, Rachel.Thank you.

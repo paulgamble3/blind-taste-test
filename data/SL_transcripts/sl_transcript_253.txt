@@ -1,0 +1,32 @@
+Nurse: [PHI-Personal] Cod Healthcare. This is [PHI-Personal].
+Patient: Hi. Um, this is [PHI-Personal] and I called yesterday about a prescription that doctor [PHI-Personal] and had on hold for me in case I needed more of this medication for my lips. Um, apparently, I guess, I don't know if it went to [PHI-Personal] Health all over the hospital. But, um, I'm here in, at the moment with my daughter's while on vacation so I had it where it would go to CV S in commons. Um, I'm gonna be leaving to go home and I'm wondering if it got sent to, uh, the drug store or not. I go and check with doctor but he, he had it on record that any time I needed it, I would just have to call and it would be, um, sent without having to go through em again. Sure.
+Nurse: [PHI-Personal]. What's your birth
+Patient: Date? 4, 1935.
+Nurse: Ok. And you want this to go to CV S Mash B Common?
+Patient: Um, yes, at the moment. Yeah. Um, because I've been over here for two weeks, um, they came back last night and I was gonna head home so I was hoping that it was down at the drug store so I could pick it on my way home. Pick it up.
+Nurse: Yeah, it looks like it was sent to [PHI-Personal] Cod, um, Hospital.
+Patient: I know, I don't want it going to [PHI-Personal] Cod Hospital.
+Nurse: Ok. So we wanna Commons. Right.
+Patient: Well, you know what, I'm about ready to leave to go home. So I may have to just go over to the hospital because, um, my lips are starting up again and, uh, um, I can't wait for it to come back over here because I'm, I'm gonna be leaving here. So I guess it's just gonna have to stay at the drug store over there and I'll pick it up over there. Are you sure if it's there, if it's there,
+Nurse: I'm happy to get it wherever you need to go.
+Patient: Well, by the time it gets over here, you know, can you just call it in? But, but, but it's going to take them hours before they get it, um, you know, put together whatever. Um, I'm in a pickle here. I called a couple of days ago and, um, I was hoping it was gonna be down here already. But, um, so now I, I don't know what to do.
+Nurse: Ok. Whichever pharmacy is more convenient for you.
+Patient: Well, the hospital is not convenient for me but I'm gonna be leaving, be within 10 minutes or better. Um, so, oh, God. So you, are you sure that it's sitting in the hospital? That it is there. Uh, I don't wanna go there and say no, it's not here.
+Nurse: I'm not, I'm showing that it was sent on this, uh, [PHI-Personal], but I'm reading a note from yesterday. It looks like you talked to [PHI-Personal] yesterday. And, um, [PHI-Personal] was addressing this and Doctor [PHI-Personal] wasn't in the office yesterday. So she sent it to a covering doctor and the covering provider said that this needed to be reevaluated with the primary care doctor since it's not getting any better. So, um, I don't know if Doctor [PHI-Personal] has any openings today for an appointment.
+Patient: Well, um, when I saw him, you know, it, it, I mean, it, it started clearing up and it was pretty good and now suddenly it's, um, starting to set up again and I wanna get that medication, um, before it gets to the point that it was before he didn't think he needed to see me again. Uh You know, so that's why he put in that any time I needed it that it would be ready for me to pick up. I wouldn't have to see him. Ok.
+Nurse: Well, he is in the office today. So let me discuss this with him. And do you, you want it sent back to [PHI-Personal] Cod Hospital? Right.
+Patient: Well, I guess so because I'm headed, you know, back, back home. Ok. Um I know it's very confusing. Uh, but I would like to get the medication and start it again. Uh, I've been using, um, the Vicks on it like he told me to the, the, you know, not Vicks. I've got that burn, um, the Vaseline. Mhm. Um, yeah, that
+Nurse: Will help it to, you know, not to dry out and it'll help, uh, to keep the skin around it soft. So that, that's
+Patient: Good. Yeah, it's getting bright red again. So, um, I just want to have it so I don't want to go through what I did before with it, you know, I want to catch it in the bud. Um, so he, you know, that's why he, he said any time I needed it. I just, you know, I didn't have to go through him. I didn't have to make an appointment or anything like that. It would be available. Ok. Yeah, so I just wanna, if I, if it is at the hospital, I will pick it up there. Not that I want to, but, um, ok, will I be leaving here?
+Nurse: It'll be a new prescription that I send to him to sign so it can go anywhere
+Patient: That you need it to
+Nurse: Go if you don't wanna go to the hospital.
+Patient: Well, then, um, Walgreens, uh, down in Yapo.
+Nurse: Ok. Let me see if I have that on your.
+Patient: Yeah, I mean, I picked it up, I, you know, I've had CV S and Ville, I've had this one here. I've had my main one was Walgreens in Port, which is a couple of miles from me. Yes.
+Nurse: Ok. Yes I can have it sent to there. I'm gonna send it to doctor and let him know what's going on and then uh let him determine if you need a visit or not. Ok. Ok.
+Patient: Alrighty e
+Nurse: Either myself or another nurse will call you back shortly.
+Patient: Ok. I'll probably be on the road but that's alright I answer anyway. Ok.
+Nurse: All right. Well. Ok, I'll address this with him and then we'll go from there. Ok. Ok,
+Patient: Thank you very much. You're welcome. Bye bye. Ok, bye bye.

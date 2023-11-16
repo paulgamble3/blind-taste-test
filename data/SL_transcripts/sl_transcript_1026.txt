@@ -1,0 +1,83 @@
+Nurse: Good morning.
+Patient: Hi, this is [PHI-Personal] returning your call. Yes, ma'am.
+Nurse: Just give me one moment. Ok.
+Patient: Yeah. Ok, m are you still with me? Yes.
+Nurse: Ok. Awesome. Thank you so much for being patient. I appreciate you.
+Patient: I was trying to work on the hearing aids to be able to hear you better. So we're good.
+Nurse: Uh Oh, I'm sorry. Can you hear me better?
+Patient: Yeah, I, I was trying to work on the hearing aids to hear you better for some reason. I have to have you on speaker because I don't know they're not working with the phone right this minute. No
+Nurse: Worries, dear. I just called to introduce myself and just tell you a little bit about the program that you signed up for. My name is and I am a nurse care manager from doctor [PHI-Personal] office. And so the call that we have every single month, right? I'll call you every month. It'll be, you know, 5, 10 minutes just to check hand on you see how you're feeling, see if you need anything, even if it's a medication refill, help with scheduling appointments, perhaps you've been trying to reach the provider or the office and you've not had any success. I'm almost like the conduit, the in between between you and your provider, in between your guys' appointments. Ok.
+Patient: I don't have a problem with the, with the provider. Ok. But that's good. The drug companies, it's taken four of us to get the latest drug and May and we got one that would, you know, maybe or maybe not coming. It's taken the nurse, the doctor, me, my caregiver. Uh, I've had one that I was off for two weeks and it has nothing to do with them. It has everything to do with pharmacy. I've had Walgreens hand me 11 insulin pen. Um, you know, I mean, I do 50 50 50 you know, a day. I'm like, oh, thanks. I could live another day, I guess.
+Nurse: Uh, so it's just the
+Patient: Pharmacy when you enter pharmacy. That's the big one because I've actually been telling people where to send the coffin.
+Nurse: Don't, don't know, it, don't, I know it. That's a whole other ball game. So, what
+Patient: Was it? Well, we, the cholesterol med was pravastatin, which for some reason it completely off the list. And I, you know, I mean, I have a lot of stuff so I, you know, was counting on them to keep it on the list. They didn't. And so then, um, now then they, they kept saying they had to get it from like you have refills. Oh, no, we don't have that. Yeah. So I called over. Doctor was out. [PHI-Personal] immediately sent them a script. Ok. I follow up again. Guess what? It's on hold. They wouldn't my message to my caregiver the house, they say I'm allergic to it. It's like, well, yeah, we have 35 things on the allergy list, but we've been taking this. Ok. Right. Um, they said they could get it out immediately. No. And then that, that over the holiday. So, you know, I mean, it, it, and the insulin, the HumaLOG, you know, she sent in a new script one minute. It said it was coming on this date. Another email said it's coming on this date. And then next thing you see, I, I called in because I didn't want it. We've had trouble with it not being delivered and sitting, you know, in warehouses for weekends and stuff and I'm trying to avoid that and they said, oh, no, it's not coming until the [PHI-Personal]. And yeah, they sent me a message saying that they knew that the dosage had been up. But, you know, we, you don't need it any sooner though. Um, and doctor [PHI-Personal] office called Last Friday and they said they'd even get it out Friday. Um, it got here yesterday morning. Wow.
+Nurse: So you have it. Right. That one. Yeah. And are you, do you not, which, which ones do you not have?
+Patient: Right now? We, we, the, this week's fight is for the Levemir, I actually started last weekend. So
+Nurse: You don't have the Levemir?
+Patient: No, it was supposed to be processed on Monday and they put it on hold. I don't know if Doctor [PHI-Personal] office called them or what, cause she was, they were supposed to follow up. Um, but it has moved to where it's supposed to be processed and the one thing says it's coming um, tomorrow, the other thing says it's not coming until the [PHI-Personal].
+Nurse: Oh, so it's just a supply chain issue with the Levemir.
+Patient: No, we don't know. We, I don't, we have no idea what was even on hold. And I mean, and the other part
+Nurse: Of so when you say is it on hold, the doctor put it on hold for you taking or you just can't get it because the pharmacy don't have it.
+Patient: Optum puts it on hold. No, the one was because they, they just said I was allergic to it. Optum put it on hold but they don't tell you it's on hold. Um, so you have to go on the website and make sure that you follow up to see if it, you know, got moving.
+Nurse: Did she tell you how long she was holding it? Bathroom? Did they tell you how long they were?
+Patient: No, no, no, no. They never even told us that. You know why they were holding the other one or this one? I don't know. I don't know. It got off a hold yesterday. I don't know if Doctor [PHI-Personal] office got a hold of them or who got, you know, got it moving. Um, we didn't call because I'm at the point where I, and [PHI-Personal] is having a fit. That's my caregiver. Um, because I, and I'm at a point where I'm like, done and I mean, I'm tired of fighting for my, it's been a year of hell and I'm at the point where just let him drop because I can't keep it up. That's why you come in, by the way, we have tried caregiving before and it didn't go well. But, um, um, but that's where you're coming in is because I've said I, I, you know, they're talking the possible, I is needing two more meds and I both have told Doctor [PHI-Personal] we can't handle two more masks. We're masked out. It's that bad. It's like the eyes themselves because if they, if, when I go in the next time she wants to do two more meds, we can't handle two more meds. I mean, it's, every week we're, we're spending hours, you know, fighting to get that one and now we got to go to the next one. It's, we can't do more meds. That's where, why you're in on loop, I'm sure. You know, but that's the big issue right now is we can't get meds. We switched from Walgreens, we switched to help me. We tried to do it straight from Optum but then we get Optum that says, oh, we don't have pen needles for two of the orders twice. They didn't have pen needles. We had to go to, back to CV S and then we had, let's see, I mean, I'm not giving you tips of the ice, but there's a lot more like she ordered, um, an antibiotic and, um, the Pearls, we had [PHI-Personal] picked up one in [PHI-Personal] and brought it down and stopped and picked up the other one down here for me to get them the next morning. I mean, it's just, it, it's, wow, it's, it's, it's, I mean, and that's not even the half of it. Um, we can't keep well. We walk in the one day and I was waiting for doctor. She goes, would you please tell her we need mind reading help?
+Nurse: I know that's the only thing we need. Ok. So we'll, we'll definitely be able to address those issues going forward. Ok. So, but for today, I just wanna make sure we have everything that we need for a foundation. All right. If I name your medications to you, would you be able to, uh, let me know if you're still taking them or what the status of they are of them are? Yeah, but hold on,
+Patient: I'm walking to the list. I can't do it without the list, obviously.
+Nurse: Ok. And are your pills in a bottle or are in, are they in a pill container?
+Patient: I don't do pill containers and you go down pill box. No, I do not have a P box because I have a system and they get on me because of the system and I'm like, look, people, my system works
+Nurse: As long as the system works and you're compliant. So, where are you housing them?
+Patient: Well, it depends, there's certain things that are in the bathroom, there's certain things that are in the kitchen And then,
+Nurse: And so are they in the pill? Are they still in the, the pill bottles? Do you take them out of the bottle still in the pill
+Patient: Bottle? Because keep in mind they want me to get pill bottle, get, get a pill thing, right? Ok. But you tell me how you're gonna put the uh um let's see the, the tears, the um budesonide, the insulin pen, you know, the sodium chloride and like, right, they don't go in the incruse inhaler. Um Plus I, we end up like the leading stuff because of allergy. We don't want the contamination cross contamination because I have trouble with meds and then we have, you know, that would be in charge but you know, I mean, but like half the stuff can't go in a pill box people, you know.
+Nurse: So there's too many. That's right. I understand completely. So let me know once you have those up and we'll get running here. I'm ready. I'm ready. Ok. Ok. Good, good. Um And you're compliant. You're taking everything. Ok. Well,
+Patient: I mean, I was off of the, um, II A statin for a couple of weeks but then not on my own doing.
+Nurse: Did they take you off and then put you back on?
+Patient: Well, no, we couldn't get it,
+Nurse: Remember? Oh, right. The supply chain. Ok. Got you. Ok. Ok.
+Patient: And I've been good. Ok. Now you have to understand how we've been operating. Ok. I, I had a year of being in the hospital eight times. So I kept everything on its normal cycle.
+Nurse: Ok?
+Patient: And at first thinking it was for the hurricanes, you know, to be able to be a little bit ahead. So I've been ahead on a lot of stuff, you know what I mean? So I even keep them running out and over the counter stuff, [PHI-Personal] and I stopped that. We got a couple things. We got 12 months worth, um, you know,
+Nurse: Got you, got you. Ok. Good. All right. So let's get busy. So, are you on the bio, are you still doing the biofreeze? Yep. Ok. Very good. And then the Pulmicort, the inhaler, are you still uh using the nasal
+Patient: Spray? But that the Pulmicort is not, is a nebulizer.
+Nurse: No, it
+Patient: Goes into the um sinus rinse. Yes.
+Nurse: Saline nasal spray. Ok. We have the eye drops. Are you using your eye drops twice a day? Actually, it's supposed to be
+Patient: Four. So I would say about three depending. It's I've been really sick lately.
+Nurse: Ok. Got you. And then the vitamin D three. Are you still using that? Yes. And the Pepcid two ti uh 20 mg by mouth two times a day. Yep. All right. And then the Allegra 1 80 by day. Yep. All right. Good. And then the Lasix or Furosemide 20 mg two times daily. Yeah, a couple times
+Patient: [PHI-Personal]
+Nurse: [PHI-Personal] 20. Ok. Got you. Got you good. All right. And then are you taking the INSA Ellipta? That one is an inhaler daily. Yep. OK, good. You're doing so well. What about the Atrovent nebulizer solution? Are you doing that two times a day?
+Patient: No, we're not doing that. That ends up coming in as an as needed because if I continue on it, then I can't breathe.
+Nurse: OK. So you just take Apr [PHI-Personal] Yeah. All right. Let me just get job. All right, good. All right. Are you still taking your Synthroid 25 oral every morning before breakfast? Levothyroxine. Yes. Yep. Good. And then what do we have here? The Gaviscon or oral? Is that one
+Patient: The liquid? And that's as needed?
+Nurse: OK. That's as needed. All right, let's put that great. And then the magnesium oxide 500 mg one tab by mouth daily
+Patient: If it's oxide, but 500 mg. Yes.
+Nurse: All right. And then the Singulair five mg daily. Yes. Excellent. Are you still taking your centrum? Silver, your multivitamin. Yes, good. You're doing such a great job. OK. And then are you using your CPAP machine? Oh, we're best buddies. And then the Elderberry Gummies. Are you still using those? Oh, yes. All right. Good. Excellent. And then we know we have the issue with the Levemir. I know you will be taking it once you get it, but you still have it. I still have it. You still have it. Ok.
+Patient: It was supposed to ship out, you know, Monday. But it's still, you know, we don't know.
+Nurse: No, no, no,
+Patient: No. The HumaLOG just came
+Nurse: The oh, the HumaLOG just came still waiting on the Levemir. Yes. Got you. Ok. All right, good good good. Sorry. Yeah, we
+Patient: Got 10 boxes of HumaLOG so we're you know yesterday so.
+Nurse: Alright and then the Miralax as needed. Yes. Potassium 10 2 times a day. Yes. Pravastatin [PHI-Personal] mg nightly.
+Patient: Yeah, I was up for the two weeks that they wouldn't give
+Nurse: It to me whenever they give it to you. Do you currently have that one? Yes. Ok. You currently have it. Ok. The Lyrica are you still taking 50 mg capsules? Three times a day?
+Patient: Um Right now most of the time it's twice a day. Sometimes it's three.
+Nurse: Ok. Very good. It
+Patient: Causes problem but they got to keep it on the three. So, but I have the ability to switch it but that, but she knows I I'm mainly too.
+Nurse: All right. And then do you need any refills other than the ones we already discussed that with the Levemir. I know you're waiting on that one. It hasn't shipped yet. Do you need anything else?
+Patient: Um No. Um Did you didn't go over the
+Nurse: Sin Pepsi? They don't have that one on here. Is that over the counter?
+Patient: Yes. Caps A IC I
+Nurse: [PHI-Personal] and see how much are you taking that every day?
+Patient: No, that's the cream that you put on and it's, it's as needed.
+Nurse: Ok. Pr [PHI-Personal]. Ok. All right, excellent. Alright. It looks like you signed up for the portal so I'll send all this information over via the portal. Ok? And then we'll get rocking and rolling next month and uh see where we are. Ok. Maintain your compliance with your medications. I see that you had a very high A one C and I know we have some supply chain issues here so as much as you can manage your diet and then conceive the
+Patient: The supply chain issue does not affect I had, I still have them. I've not been off of the insulin but the in we are we we've, we've been having a lot of problems even at 50 50 50 [PHI-Personal] [PHI-Personal]. Um
+Nurse: Ok, so long then as long as you have them then that's even better. We don't, you know, have to stress ourselves, you know, as long as you're taking them and you have them, that's
+Patient: I I do that and, and doctor Thas will tell you someone said you know, with the A one c, somebody else called when, when she was out, sent a message and said, you know, are you taking your meds? Doctor said that's not the problem. Ok. Um, if you look in the chart there's plenty of data on what the sugars are and how much I've taken. But what I've taken, um, you can look up all that
+Nurse: Up. She's got all that. Yeah. So it's not the issue with medication. The
+Patient: Issue with the diabetes is um medications and and things that like I they um they went a couple months ago they did the uh dental the tooth extraction by we've gotten it back down to 100 by in the hundreds by evening they done the tooth extraction that afternoon by evening it was in 300 by morning we were in four hundreds again and did you take
+Nurse: It today? Did you check it today?
+Patient: Yeah when when what was your last uh one was 100 and 80 the other was like two something [PHI-Account] I think I just took it.
+Nurse: Alright and then are you finding any blurred vision, any jitteriness or anything?
+Patient: No.
+Nurse: Ok good good. Ok. Alright then let me know if you need anything in the meantime check the portal for the follow up. Ok. Alright. Alright you have a wonderful day dear. All right you too bye bye bye.

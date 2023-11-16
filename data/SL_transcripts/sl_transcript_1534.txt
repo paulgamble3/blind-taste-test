@@ -1,0 +1,16 @@
+Nurse: Hi, this is
+Patient: [PHI-Personal]. Hi, [PHI-Personal]. I usually speak to [PHI-Personal] but I'll speak to you. [PHI-Personal] is off today. Is she off? That's wonderful. All right. My name is [PHI-Personal] and I have two prescription issues coming up. I'm, I'm nearly out of my Lyrica substitute. Uh, pregabalin. Ok. I should have called in last week but I need a new prescription and, um, I'm afraid I need it rather quickly.
+Nurse: We can, we can help that. Good. Let's see. And it goes to Rite Aid, um, in [PHI-Geographic]. Right.
+Patient: That's correct. Ok.
+Nurse: And is there another one that you need?
+Patient: Uh, I have, um, my prior approval for Pantoprazole. Pantoprazole. Yes. Coming up. Um, it will expire [PHI-Personal]. I just got the letter on that. No, I think she gets something but I wasn't. Absolutely positively sure. So I decided that I add that to my call since I had a call anyway.
+Nurse: Yeah, that's not a problem. I will send her a quick note just to let her know that it does expire in [PHI-Personal] at the very beginning. So, probably, um, within the next week or so they'll work on getting it reapproved. For you.
+Patient: Ok. Ok.
+Nurse: Anything else that I
+Patient: Can help you with? Not today.
+Nurse: Ok. Then I will send your refill through. Um, doctor will have to sign off on it because it is a controlled and I will let her know if that prior authorization is due to expire shortly.
+Patient: Ok. Um, you don't mean that pregabalin is controlled. It is. Yes. Oh, I thought they took the control off of that thing. Ok.
+Nurse: Not yet.
+Patient: All right. It, it just kind of, I, I'm sorry, that's all. No, that's ok. Oh, I hope you
+Nurse: Have a wonderful evening.
+Patient: Thank you. You too. Mhm. Bye bye bye bye.

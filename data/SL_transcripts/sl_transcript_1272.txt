@@ -1,0 +1,72 @@
+Nurse: Hello.
+Patient: Hi. Is this [PHI-Personal]?
+Nurse: Uh no, but I can transfer you to give me one second. Who's calling?
+Patient: This is [PHI-Personal]. I'm calling on behalf of one of um, Doctor [PHI-Personal] patients. So anyone will help will be sure. Who's
+Nurse: The patient? What's the date, the patient's date of birth?
+Patient: 8, 16, [PHI-Account]
+Nurse: 8, 16, 38 and patient's name
+Patient: [PHI-Account]
+Nurse: [PHI-Account] S and how can I help?
+Patient: So I have sent a couple of messages I wanna and my mom's like she's, she's trying to follow up. So one of them had to do one was doctor to doctor [PHI-Personal] about a referral. So my mom had gone to the ear doctor, Doctor [PHI-Personal] and Doctor [PHI-Personal] was gonna send Doctor [PHI-Personal] the results and that included a refer to request a referral for some kind of doctor. Let me see. Um, it was for, she re she she recommended AC T scan but says the referral needs to come from doctor [PHI-Personal]. Yeah. And I thought it was something else like for another doctor. But uh I just figured she would see all that in the notes from, I
+Nurse: Think they're all pen it to her. I think we're waiting [PHI-Account] this point because I see the one from [PHI-Geographic] which it was about Doctor [PHI-Personal], the ear. Doctor [PHI-Geographic] specialist recommended AC T that message. And I see that the nurse pen it to the provider to review. So [PHI-Account] this point, we're just waiting for the provider to review.
+Patient: Ok. And then the messages. Yeah. And then the other one was. So is there someone that follow up with her? Like are you guys located in the same place or how does that work?
+Nurse: We're remote. We're the care manager. Nurses are remote but we call the patients on a monthly basis or your patients call for refills or they have concerns or if they um and things like that, I think I spoke to your um uh this month. Yeah. Yeah. So I spoke to her, I think the last time we spoke um she was talking about um she expressed that she's having a hard time. Um She has a home attendant [PHI-Account] home or someone, a companion that comes [PHI-Account] home, but she was requesting someone um to help her with, you know, going to the groceries, helping her with laundry cleaning type of thing. And so I think the last time we spoke, she was going to find out if her insurance covers it. Uh insurance covers home health aides, but they don't cover companion care, which companion care is more the cooking, cleaning going to doctor's appointments, those type of things. And then after that we were going to put a note or an order for doctor to sign to see her.
+Patient: Ok. Yeah. Mhm. Yeah. The cooking is a little, my mom's super picky and still doing. Yeah. But
+Nurse: She told me, she told me that she told me, yeah, she's a vegetarian and, you know, she has everything. Yeah, she's a little, I love her. Yeah.
+Patient: Ok. Yeah. that's funny.
+Nurse: So she does have an appointment on the six with her [PHI-Account] [PHI-Account] 15, which, that's next week.
+Patient: Wait, wait, wait, let me confirm. Oh my God, that's already next week. That July
+Nurse: Month is flying by. Mhm. [PHI-Account] 15. And that, and then, but I have her two, I have two appointments with her. I have one on the sixth and I have one on the [PHI-Personal]. Oh, I should have, I'm not sure what happened there. I'm not sure if they were like, she already had a follow up and that kinda happen. Let me see.
+Patient: Yeah. Let me see what I have on my calendar because
+Nurse: I, they're still both show as active. But you let me know what you have on yours.
+Patient: Yeah, because why do we need two in the same month? But that doesn't make sense.
+Nurse: She probably had one already established and she told her probably the doctor told her I wanted to see her sooner and then they kind of file in the same month. But let me see our last visit to see when the doctor said that she actually wanted to see her and we'll just pick the closest one to that date.
+Patient: Yeah, let me see. I see you
+Nurse: Saw her in [PHI-Personal].
+Patient: I don't have that one on my calendar, but I do have, I do have the July [PHI-Personal] 1. Hm.
+Nurse: Yeah, I have her here returning [PHI-Personal]. That appointment was in that appointment that she had in [PHI-Personal] they put returning eight weeks around 7 10 23. So
+Patient: Returning
+Nurse: Eight weeks that was in [PHI-Personal] that's when she wanted to see her back. So it's around this time so it's up to you
+Patient: I but eight weeks. Oh, ok. I thought it would be more the July [PHI-Personal]. So let's see. So [PHI-Personal] [PHI-Personal] 15th. So 123456 to me a [PHI-Account]. Hold on, I'm not counting properly. [PHI-Account] would be [PHI-Personal] and then yeah to me [PHI-Personal] is [PHI-Account] 9 July [PHI-Personal] is more along the lines of 9.[PHI-Account] weeks.
+Nurse: Mhm. So do you wanna keep the one on the [PHI-Personal] or do you wanna keep the one on that gives you time? Yeah, let me
+Patient: I didn't notice that. Ok.
+Nurse: All right, I'm gonna cancel the one on the sixth and then you set for
+Patient: The Yeah because so the other message was about the the cough the seem not working for the cough.
+Nurse: The, the allergy. Me, the Loratadine, the, the allergy medication. Yeah. She, is she on, um,
+Patient: She, it, for the message, like I put the message in there. She, like, she, I think she did but she, but she's still coughing. Like, so,
+Nurse: Is she on any BP medication? I wonder, uh, let me see, what is she on? She's on trying to see the side effects of some medications do cause some coughing, but I don't think she's on any medications that do. So give me a second. Right side effect. No heart problems, lightheadedness. No. No, they don't call. Um, that note is addressed to the doctor too. So we're just pending to see what she says. So as soon as she responds, she will let you know, but keep that appointment on the [PHI-Personal], um, I'll send her a message that you, that you a message just to check the status to see what's going on. Can do that.
+Patient: Yes. And then, um,
+Nurse: Yeah, because I was brought it to doctor again today. Uh, no, on the [PHI-Personal]. Yeah, the nurse wrote it in. Mhm.
+Patient: Yeah. Those are the two things there medication wise. And then, um, oh, and then Doctor [PHI-Personal], that thing is really important because, um, the thing is I need to find out the tower imaging, do the CT scan as well.
+Nurse: They do. They do. But it's a scheduled appointment though. You don't, you have to, um, it's, that's the only one that's not walk in services. I think X rays are all walk in mammos and CTS. Uh, from my understanding they are
+Patient: Scheduled and then, um, I'd like to combine the x-ray with an appointment because then you kind of get that done right after it. Yeah, it,
+Nurse: It's the best because you could do back to back and they'll see you and then you're done and it's out of the way, you know, for sure. So
+Patient: That's why I'm wanting to get the CT scan order quickly so that we can, um, because her rheumatologist gave her, um, an x-ray for her legs or knees or something like that. So that's why I need the CT scan. So, ok.
+Nurse: Yeah, I'll just send her a little message saying, no, you're welcome. No problem. I'll just send her a little message saying that you called, you're checking status of, of the messages and we'll just wait to hear from her. Um, the other
+Patient: Day when you called my mom and you asked her about a, an xray. Which one was that? Was it the one or
+Nurse: I think it was a x-ray that it was already scheduled from my understanding back then. Uh, let me see
+Patient: An old one because I noticed that the, my chart still shows things upcoming, but we've done them, you know.
+Nurse: No, the only thing that she has pending. Let me see, I'm, I'm in orders right now. The only thing that she has uh open is a chest X ray order and that was in, that was back in [PHI-Personal].
+Patient: Yeah. So she did that. Do you have the results?
+Nurse: Um It says not release. So they it's not available to share but it's, I guess it's send it to the provider to sign. Then she has a Doppler.
+Patient: Let me rephrase. I wanna make sure the doctor has received the results.
+Nurse: Um I see that the order was placed. I see it was it, it looks like it's pending. Actually
+Patient: I I don't, yeah, I don't know what that means. Meaning like
+Nurse: You just done it yet. Wait. No, like it's waiting like it's waiting to for results. It says not release. It doesn't say it was uh it it doesn't say resulted usually when things are done already completed and we have the results, it says resulted in the date and time but that one still shows as ok. Where did you get that one done?
+Patient: The tower? I really like that particular location. So they did the um because what happened is we did the carotid artery one and the chest X ray on the
+Nurse: Same day. The ultrasound. Mhm.
+Patient: Mhm Yep. So but I,
+Nurse: Yeah, so if it's it's yeah, because it says um like to us to view for the for me as a nurse and for you, it says not, not, not released. So it just pending for the provider to sign
+Patient: The final look like it. It got, you do see that it got done though.
+Nurse: I see that it was order, see, it was done [PHI-Account]. Yeah, that it was ordered on that time. I don't see that was resulted yet.
+Patient: Result
+Nurse: That they actually that someone read it and that saw it and read it. We only com com consider it complete once the radiologist reads the imaging and sends it back to the doctor.
+Patient: So why would I'm really frustrated about that because that was a long time ago.
+Nurse: I'm surprised what we can do is what location and
+Patient: I'm pushing it because I wanna make sure that they haven't like lost something. Like I don't wanna have to take her back for that like
+Nurse: That. No, what we can do is we can check your tower to see if they have the imaging and check why it hasn't be resulted because sometimes it, um, which location did you call? Did you? That was the road, the be the location? Beho. Mhm. Hm. Yeah, I can give him a call tomorrow and check the status to see and you got it done. Do you rem the same day that you had the carotid [PHI-Account] [PHI-Account] would have been the time [PHI-Account]. Yeah, I'll talk to one of the techs to see if they can release it, if they have it and check the status and say that we still haven't received the results of it.
+Patient: Yeah, let me look [PHI-Account] the date because I didn't take her to that one. My, my cousin took
+Nurse: Her. Uh, no, I see the, if it's the carotid one that was [PHI-Account] [PHI-Account] 10 28 that the doctor saw it, but it was completed, uh, [PHI-Account] [PHI-Account] 11:30 a.m. Ok.
+Patient: All right. Whatever day the carotid was, that's the same day it got done.
+Nurse: Ok. Well, I'll check with them first thing tomorrow and then I'll just give you a call and let you know what the status is. Ok? Thank you. Thank you so much. You're welcome. Bye. No, you're welcome. No problem. Bye bye. Take care.
+Patient: You too.

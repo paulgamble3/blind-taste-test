@@ -1,0 +1,17 @@
+Nurse: Bring, may I help you? This
+Patient: Is Be blank and I think you've been trying to contact me this morning.
+Nurse: How are you doing? All right, how are you? I'm doing well. Let me look up your chart real quick. [PHI-Personal] [PHI-Geographic]. Can you verify your date of birth for me? [PHI-Personal],
+Patient: [PHI-Account].
+Nurse: Thank you hon. Um, yeah, this is just the care management nurse. I was just calling to check up on you and see how you've been doing well. I'm
+Patient: Doing fine
+Nurse: Good. Um, let's see here. How have your blood pressures been?
+Patient: Well, one day I take it and it's up a little bit and then I can take it the next day and it's about where it needs to
+Nurse: Be. Ok. Ok.
+Patient: But I, I eat a mess of uh pork shoulder and I think that's what run it up because it's not been up since I quit eating
+Nurse: That. Yes, ma'am sausage and, and like the pork shoulder, they have a lot of the pork has a lot of uh, salt in it. So it will run it up. It sure will. It will. It's crazy how much it does. That's right. Um, I have a couple more questions. They just want me to start asking everybody. Um, do, are you a, uh, current or a former smoker? No, I've never smoked. Ok. Never smoked. And then, are you in any pain right now? Not a, not a bit awesome. And then, um, do you have a living will power of attorney or do not resuscitate in order, I have
+Patient: Power of attorney
+Nurse: Po a, in order. Ok. They just want me to start asking that. So it's, it's on everybody's chart. Um, and then do you need any med refills right now? Hon. Mm. Mm. Ok. All right. Well, it looks like you're in good shape if you need anything in between our calls. Just let me know. Ok.
+Patient: Ok. And who am I talking
+Nurse: To now? My name is, I'm the Care Management Nurse for [PHI-Personal]. Yes. Bree br I, and you, uh, what's
+Patient: Your title
+Nurse: LVN? I'm, I'm Care Management. Nurse Care Management. Yes, ma'am. Ok. All right. Well, thank you so much and you have a fantastic day. Uh huh. Ok. Bye bye.

@@ -1,0 +1,28 @@
+Nurse: Hello. Hello.
+Patient: Hello. Hello. Can you hear me?
+Nurse: Yeah, now I can hear you. Is this Allison? It is ok. I think I called, I left a message for because, but it looks like you're the one who called me, uh, sometime last
+Patient: Week. Yes, that was me. So [PHI-Personal] was reassigned to a new group of patients. So I'm taking over the group that she had. Give me just a second and let me get you pulled up. So I, that's why I was calling just to introduce myself. See how things have been going for you since you last spoke to
+Nurse: Her. Yes.
+Patient: All right. Just a second. We'll get your chart pulled up. Mm. Ok. Yeah, I had tried to reach out to you on the eighth, I believe. So it looks like you, you have an appointment with [PHI-Personal] later this month.
+Nurse: Uh, I do have on the 20th. Yes. Ok. All right. Any appointment I have this and I have an ent now, uh, finally I got it and, um, and also something came up just, uh, on Thursday and I, maybe I would need your help in this because I had some, I had some, um, uh, at night when I was asleep I had symptoms for heart attack and I went to the emergency room and they did all the tasks. Uh, and, um, it didn't seem that I had a heart attack but the symptoms, uh, the, the cardiologist at the hospital told me with the sweat that I had it, it could be something very small. Uh, so he recommended to go to card, to my cardiologist to follow up and to do more tests.
+Patient: Ok. And so you have an appointment with him the [PHI-Personal]?
+Nurse: Yes, that's why I'm calling you. If you would be able to get me with the doctor, I'm not comfortable to go in my case with the physician assistant or because, um, I just, it's serious because what happened to me was really scary. Right.
+Patient: Understandable. So I can definitely check, um, I feel like they probably placed you with a nurse practitioner because they couldn't get you in with the doctor. Um, that way you could be seen, you know, as soon as possible. Uh, so I can definitely check on that for you. Um, but
+Nurse: That would be great because, because they, I think they do because I asked her a question I have if you have some spot for emergency or, and she said, yeah, but they don't want us to, to fill out the, the, but it didn't make sense to me like to, to crowd their schedule. So it didn't make sense. So, I think some, I, I hope that I really need to see you as soon as possible. Uh, because even with the symptoms was, uh, it was like a heartburn. It's not like a, a severe, um, burning sensation that increased and then was almost fainted. That's why we called the 911 and, um, and, and severe sweat, like dripping. Ok. So when, so when I talked, um, I, I, I know what I read that this could be for heart attack. That's why I told my husband to call 911 and that's definitely
+Patient: The right decision. Now, what, what day was,
+Nurse: This was Thursday night or, or like, let's say it was about 1 30 on, uh, you say like Friday morning. Yeah. Sure. And then my brother in law is a surgeon, but he's in [PHI-Geographic]. I told him he said, yes, the burning could be esophagus, but I'm not happy about the, the sweat and the, and the doc, the cardiologist told me the same. Although, but he said the further test and then I went yesterday by chance I had an appointment with the G A. Uh, and that was good, but he didn't do anything. He said if you have from your esophagus and nothing will happen, you will be miserable, but you're not gonna die. So we'll hold on the test now, go quick because he said the sweat is not an indication from the esophagus too. So, he agree with my, that's why he told me, go to the cardiologist and when you're done, call me with the test. If we need to do test for the esophagus.
+Patient: Got you. Yeah, I'm looking through your note right here. You went to daycare.
+Nurse: I, I went to, uh, Saint [PHI-Personal]. Ok. Yeah. In, in [PHI-Geographic]?
+Patient: Ok. I'm just looking. Do you
+Nurse: Have access to this or no?
+Patient: Um, I do, I do I have, oh, you do? Oh, access to the notes. So I'm just looking through it right now.
+Nurse: Ok. So
+Patient: There's some labs.
+Nurse: Oh, I thought that you're only like uh like uh group you are, you cannot people if
+Patient: They use, if some facilities that use the same system that we do, um we can access the information from, from certain facilities and vice versa. Just your labs look good. Echo was good.
+Nurse: Yeah, they told me everything looked good. The, the echo looked good. But although all of this, they told me you might need a catheterization because, because even the told me the uh
+Patient: Right. That would give him a better picture.
+Nurse: Yeah. The a told me even the, if they do stress test, it won't show. He said the best thing is the catheterization just to it will show.
+Patient: OK, give me one second here. OK. Ok. So I will check with their office to see if they have anything and if they don't, I definitely would recommend that you keep this appointment, um, because they still can evaluate you, um, get testing set up, you know, whatever deemed necessary.
+Nurse: That's why.
+Patient: Yeah, but let, let me give them a call and see. Um, let's see. Let me put you on hold just a moment. Ok, I'll see if I can reach him. Yeah. Mm. Mhm. I know. Ok.

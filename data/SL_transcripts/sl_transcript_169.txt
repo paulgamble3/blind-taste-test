@@ -1,0 +1,129 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal]. [PHI-Personal]. Uh huh. I'm returning your call.
+Nurse: Ok. Let me pull you up here. Ok. Let me pull you up in my other computer here. I have two computers. I'm working on. So, just trying to bear with me. Mhm. How are you doing? First of all, can I hear that? I can't breathe.
+Patient: You
+Nurse: Can't breathe.
+Patient: Well, the smoke is absolutely blue. See,
+Nurse: That's what I, that's why I heard from another patient too said it was really bad there. Oh, it's
+Patient: Horrible here. You can't see. I live right on what was 11 and 15 you can't see across the river.
+Nurse: Oh, boy. Yeah, that's what he was saying to the person I talked to earlier today that
+Patient: It showed it at all, showed a picture of [PHI-Geographic] and you can't even see the city. Oh, my. And they're canceling air, air flights and everything on account of this smo smoke. But it gives me a sore throat and my eyes are watering. Oh, I've
+Nurse: Been, are you keeping all the windows closed? And I'm not going out? Right. Yeah, you might have to put something this below the door too. You know, if there's like a gap in between the frame of the door, I know some doors are like that just trying to keep it out as much as
+Patient: Possible. I just can't believe that we have. It's just blue outside.
+Nurse: Yeah. The other gentleman that I was talking to, he said I have never seen this before. I cannot believe that, you know, it's this thick because he was saying it was so bad for him as well.
+Patient: Nope, I'm staying inside.
+Nurse: Yeah, I don't blame you there. That would probably be the best thing to do. Um, so can you verify your birth date for me?
+Patient: [PHI-Account].
+Nurse: Ok. And it looked like I sent you out a letter not long ago. Did you get that about the hypertension? Like what the ranges they would like you to be in, in the optimal range? Do you remember getting that? You don't remember getting that?
+Patient: No, but I'm having a problem with mail. I send orders for, for clothing and stuff, they haven't received it then I have to put on a stop payment at the bank and I'm just wondering if somebody isn't helping themselves to the stuff in our mailbox.
+Nurse: Yeah. Yeah, we sent it out. Um, it was just regarding hypertension, you know, telling you that the optimal number would be. Well, we want you below [PHI-Account] 40/90. The optimal number would be, you know, [PHI-Account] 20 or o over 80 is what we would like you to be. Um
+Patient: Well, ok, I have, I think my last five you wanna hear them?
+Nurse: Yeah hang on let me get to that spot too. Um well I can write it down right here. Ok. What's your last five?
+Patient: Ok, I I'll have to walk. Ok. [PHI-Account]. Ok. [PHI-Account] 38/71. Mhm. [PHI-Account] 24/61. Ok. [PHI-Account] 26. Over 63.
+Nurse: All right.
+Patient: [PHI-Account] 27. Over 63.
+Nurse: Oh, really? You, you were doing really good pretty much because you're on some of these. You're uh huh.
+Patient: [PHI-Account] 40. Over 60.
+Nurse: Ok. So that one was your highest one? The [PHI-Account] 40/60.
+Patient: So where did they want me to be?
+Nurse: Well, they, we need you below [PHI-Account] 40/90 which you've already done like that top number, the [PHI-Account] 40 you know, they want you under that for sure. But, um, all your other numbers look pretty good good. Just, yeah. So, um, the paper that I sent you though, it was just like educating on, um, how is blood high, BP control? Taking prescribed medications? Exactly. As ordered. Choosing foods that are low in salt, choosing foods low in calories and fat. Choosing foods high in fiber, maintaining a healthy weight or losing weight if overweight, limiting serving sizes, increasing physical activity. And if you drink alcohol, reducing oral ting alcohol beverages. Those are some of the things that help. Ok. Those are some of the things that can help control. Do you want me to send this paper back out to
+Patient: You? Yes, because I'm ok. In case in point, my Mennonite lady brought my mail in today, they got it in their box.
+Nurse: Ok. Yeah, I can send it back out.
+Patient: This is getting to be quite a concern. Oh, the other question when I come out for blood tests, is it possible to have a blood test for rheumatoid arthritis?
+Nurse: I can ask your doctor about that and, um, tell him that you would like to have that test done if that's not something that he has done before. No, I've never
+Patient: Had it done before and then I just found out through, of course, going to a funeral. Mhm. Well, you're really looking good, doing good, don't you have rheumatoid arthritis? And I looked at it. I said what she said, we on both sides of your, uh, especially on my mom's side, which my mom died when she was [PHI-Personal]. There's so much, I don't know about that side. So it really kind of concerned me.
+Nurse: So, you have a family history of it? Is that what's going on? Yeah. Ok. And then somebody mentioned it at a funeral then, now, what kind of symptoms are you having? Are you having pain in your joints? Are you having swelling? Oh, yeah. Ok. So you're having pain in your joints and swelling and you would like to have, um, a rheumatoid arthritis test.
+Patient: And when I come out again, if I get the shingles shot, is there somebody there in the office that can go down those steps and get the shot
+Nurse: That can go down? Oh, and bring it up to you? Yeah. Ok. So they typically have you go down stair steps and then you're, you have trouble going down them. Is that the case and going up them? Because I going into?
+Patient: Yeah. And I've really been having vertigo. I mean, we're talking vertigo.
+Nurse: Ok. Bring shingle [PHI-Personal]. So, do you go downstairs or upstairs whenever you're going to get the shot usually, or any kind of thing? Because I don't work there. I work remote.
+Patient: Oh, I don't even go down any of the steps there at Mount Pleasant Mills. I haven't for, haven't for years.
+Nurse: Ok. You're just afraid they might have you try to go down the stairs. Is that what it
+Patient: Is? I just wonder if somebody could just bring it up to where I'm being doctored?
+Nurse: Ok. Instead of her coming down, correct? Right downstairs
+Patient: Because with vertigo I can't cha, I can't see distance, you know, I, is this new
+Nurse: To you the vertigo? Oh, my.
+Patient: Oh, no, no, no, I've been in the hospital maybe four times with it but I, I wanna question him about the med. He put me on, um, I hadn't had it for four years until I started that pill. And I
+Nurse: Want medication. What medication is that?
+Patient: The BP pill?
+Nurse: The amLODIPine?
+Patient: No,
+Nurse: Not that one. Ok. That was in January. So let's see, what else one you're talking about? Cholesterol? Oh, the Triamterene Hydrochlorothiazide. That one? We reordered three. Ok. You think it starts with what?
+Patient: I thought it started with an A, an A but see, that's the other problem I stated, I get a doctor who says you're taking this, I go to the drug store and it's generic and I have no idea what I'm taking.
+Nurse: Mhm. Yeah. They look different sometimes whenever you get medication as well.
+Patient: Am Lod.
+Nurse: It is the amLODIPine then. Yeah. Ok. So ever since you started that you've been having vertigo again because it says describe [PHI-Personal]. Have you been taking your BP?
+Patient: Yes, because I worry
+Nurse: About that. Yeah, because you gave me, you gave me your number. So it's not because you're having low BP because you know, that can be a side effect of, um, a symptom of low BP. But you gave me your numbers and they're all, they're all good. They're not too low. So, yeah, I mean, they look good. So BP is good
+Patient: Since I started that pill, my appetite has been out of control. I mean, it's just, and it took me 20 years to go from 2 60 down into the one nineties and I don't want to go through that
+Nurse: Again. Ok. So you've had increased appetite as well? Increased appetite and vertigo is worse since starting that. Oh, yeah. Ok. So, have you still been taking it though, or have you been not taking it?
+Patient: I've been not taking it. So,
+Nurse: How long have you been off of it now?
+Patient: About two weeks?
+Nurse: Ok. Does it seem like the vertigo has improved since you've been on?
+Patient: Everything has improved my feet and my legs puffed up that I had to cut my shoes open and I had to get new slacks that I couldn't get into my pants.
+Nurse: Ok. So, since you stopped it, you feel that your swelling in your legs is better as well? Right.
+Patient: Right.
+Nurse: Ok. And your appetite's improved? Well, I, I, it's not like you're not overeating is what I'm saying because you said it was out of control with that medication. It just doesn't
+Patient: Feel the way it did. I mean, I am so good at fasting. Mhm. I can, I mean, I just forget to eat if that's impossible, but I just don't eat. But, yeah, it's just, I don't know, it's just, I think if my weight had gone up, my BP would have gone up.
+Nurse: Mhm. Ok. Well, let me, let him know that you have already went off of the amLODIPine. And are these BP numbers the ones that you gave me? Is that after going off the amLODIPine after going off. Ok. Uh, well, you, you know what, then you may have been getting too low. I mean, that could be why your vertigo was so bad.
+Patient: Well, another thing I went to the dentist and, um, the hygienist said, what's wrong with your tongue? And I thought, oh my God. And I said, well, what? And she said, did you change your medicine? And I thought, oh, no, I said, yeah. but I'm looking into it. Well, when she put the chair down, I went into a case of vertigo that they had to help me get out of the building. I just walked right into the walls. Oh,
+Nurse: Wow, that's, that's how bad you get.
+Patient: Mhm. Ok. Another one I went to the foot doctor and, well, he complains about everybody's shoes anyhow, I was put my foot feet up, you know, and he looked at me, he said, do you know the bottom of your feet are puffed up? How did you walk in here? And I said, well, I didn't fly an and then another question, did you change your medicine? So there's some things going on?
+Nurse: Mhm. And you feel like it's related, like because is that the only new medication that you have started? The only
+Patient: Thing, the only thing in the world I started since I went out there?
+Nurse: Ok. Alright. Was that more
+Patient: Sense I was afraid to call because I thought, ohh, he's gonna get so mad at me. He won't want to see me.
+Nurse: Oh, he's still gonna see you. But I will let him know that you want that, um, testing for rheumatoid arthritis. Because you have, you said you have the joint swelling and pain in your joints, joint swelling,
+Patient: Pain in the joints. It's kinda, I just, it's just, we know that they told me about my mom's side of the family. I don't know if it,
+Nurse: You more. Yeah,
+Patient: I just ache like my legs, arms. I sometimes think my teeth hurt. Mhm. That's a joke. I wish people
+Nurse: Do say that.
+Patient: So, I wish you could sit here and look out my front window.
+Nurse: You get that smoke.
+Patient: It is blue. And when the trucks go by they make a swirl in the smoke.
+Nurse: Oh, my.
+Patient: Oh, it has to be dangerous for all the kids with asthma and, oh, my gosh. No, since I, I'm, I mean, right now I'm, I have felt the best I have felt in months that I am getting up, I'm getting my work done. I'm house cleaning. I'm just a whole different person
+Nurse: And that's all since after going off this medication. Yeah,
+Patient: That pill sent me for a loop.
+Nurse: Ok. All right. So, well, I will. And if you can, uh
+Patient: Huh, I'm gonna keep taking my BP and if it happens to spike, I'll call you.
+Nurse: Yes. Do that and I will call you back. Um, depending on what he says or what he doesn't say, he may say, you know, your numbers are good enough. Keep taking your BP. Are you taking that daily then or how often are you taking it daily? Ok. So you're taking it daily, making sure that your BP stays within the normal parameters. Ok? And I'll let him know like how bad a reaction that you had, make sure you're staying hydrated, all that kind of thing. Keep the sodium down. Um, and I can't let it back out to you.
+Patient: I couldn't, I can't drive the, you can't, you can't even go in a car if you're in a car and you have vertigo, you have to have your vomiting bag with you. I mean, it just set me for a loop that I didn't need.
+Nurse: Yeah. Well, I'm glad that you're doing better though. I mean, that's,
+Patient: Yes, I mean, after I quit it I just went back to being my old self and I don't have headaches and I don't know if this smoke, what I'll get but, uh, I, I got runny eyes and stuffy nose and a sore throat.
+Nurse: Yeah. Kind of hard to avoid that, isn't
+Patient: It? It's all my years on this world. I have never seen anything like this.
+Nurse: Mhm. Yeah, that's what he was saying too. He was saying it was so bad.
+Patient: But where do you live?
+Nurse: I live in [PHI-Geographic]. So, I'm, I'm not. Yeah, I know. We don't have no smoke. Here that I can see.
+Patient: Yeah. Well, you should come [PHI-Personal]. Uh, I
+Nurse: Don't think I want
+Patient: To, well, turn on the TV and look how severe it is. I will, you know what? You can't go on the beach down in North [PHI-Geographic]. Mhm. It so bad. So,
+Nurse: Yeah, we went to the beach not long ago last year. Oh, North [PHI-Geographic]. It was nice. So, I can't imagine. Yeah. All right. Well, I will give you a call back if he gives any directions as you know what he wants you to do. If you, if I, if you don't hear back from me, that means just go ahead and continue doing what you're doing, take your BP daily, make sure it's not going up too high. Like I said, you need to be [PHI-Account] 40/90 or less. Ok. Goal is [PHI-Account] 20/80 as close to that number as we can. So, and if vertigo gets worse, make sure you let him know. Uh
+Patient: Huh. I would, I would call out and tell him.
+Nurse: Ok. Ok. And I will ask about the rheumatoid arthritis testing if you can get that and then just let him know that you went off that pill and that's all I'm supposed to do. Right. And she got written down shingles shot. Yes, I got that down here too. Ok. When I call you, you
+Patient: Call me, do you bill me for this?
+Nurse: I'm not sure how much your insurance bills you for, because it is, it, some people don't have to pay anything and then some people have to pay some. The, are you [PHI-Personal]?
+Patient: Yeah, I pay $20 every time I talk to you.
+Nurse: Oh, are you? Because it says deductible left is zero. Copay is zero out of pocket is zero. Yeah. And that's what it, on my side and
+Patient: On my side it's not covered and I had what the last time was? $20.42. That's ok. I'll just keep talk call. Yeah, talking to. And
+Nurse: You can, and you, you can do those to where you set them up every two months, every three months. You don't have to stay on, like, just monthly. If you feel like you don't need the service that often you can do every three months or whatever you feel like you need. And you can always call us if, like, you have a problem that we need to help you with or something too, then we can do that. Well, then let's go for
+Patient: Every, every three months. Ok, let me
+Nurse: Fix this then.
+Patient: Yeah,
+Nurse: If you feel like you're pretty stable right now, I mean, with your, it sounds like you're doing better now since you're, you're off that I'm doing a lot better now. Let me see. I'm changing this to every three months. Ok.
+Patient: And I want you to turn on the TV and look at the smoke
+Nurse: Ok. Yeah, I will when I get a chance, when I get off work here in a little bit, I get off at 4 30. So, yeah, I'll have to look on there and see if I changed you to every three months. But that doesn't mean that you can't call us if you have a problem. I know I'll call
+Patient: As soon as anything's wrong. I'll call out.
+Nurse: Ok. And I'll, like I said, I'll get in touch with Doctor [PHI-Personal] and let him know that you've stopped that medication. Everything's good now. But you would like to have rheumatoid arthritis testing because you heard that it's on your side of the family and, you know, you still do have the heaviness in your. Mhm. And the shingles shot.
+Patient: But everything. Oh, I, I wish I could have gotten out to show him my legs and my feet. I mean, I cut a pair of shoes across the top to get into em. Mhm. And that's, that's not necessary.
+Nurse: Yeah. And that's all when you were on this pill. Right. Well, you must have had a really bad reaction or something. Well, it, that, or just coincidental,
+Patient: I mean, I, I expected some side effects but the vertigo is what threw me because I was in the hospital four times with vertigo when I get it. I get it good.
+Nurse: Mhm. So, ok. Well, I'm gonna let him know and let him know about the shingles shots. See if somebody can bring it up to you rather than you coming down there because you have trouble with steps.
+Patient: Ok. And I write for everything and I'll hear from you when I hear from you.
+Nurse: Now you don't need any medication refills, do you? No, no, no. Ok. You're good on those. Ok. And then you're good on everything is 7 19. Ok. Right.
+Patient: I hope I'm driving
+Nurse: Again. Yeah, hopefully that smoking everything is gonna be cleared up by then too. You better should be way out of here by then. Hopefully
+Patient: I got up this morning and I thought, why are my eyes so gritty and my throat's sore and I'm sniffling and I thought, oh, good God, am I getting a cold? I turned on the TV and it says do not go outside, you know? And I thought good God. Ok. Well, thank you for everything.
+Nurse: Stay safe indoors. You're welcome. Take care. Ok. Bye bye bye.

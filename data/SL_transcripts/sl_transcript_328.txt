@@ -1,0 +1,15 @@
+Nurse: This is [PHI-Personal].
+Patient: Yes, this is [PHI-Personal]. Uh, I got a message from you yesterday.
+Nurse: Hello. Uh, yes, just give me one second to pull you up here. Ok. So, uh, looks like I was just calling to, um, kind of follow up with you for your two month, follow up, see how things are going, see if you needed anything.
+Patient: Well, everything is just great right now. Oh,
+Nurse: Perfect. Ok. Uh, let me see. Take a look at your last appointment. Did they change any of your medications at the last appointment?
+Patient: Uh, well, they upped the Flomax to, uh, two tablets a day.
+Nurse: Ok. Ok. And does that seem to be helping? Yeah. All right. Good. Good. Um, let me, let's see. Ok. Um, so since you're doing the two tablets, um, and that seems to be helping that. That's good. Um, I'll just go over a couple of things, you know, more to kind of relieve those symptoms. Um, so don't let your bladder get too full. Um, try and, and go to the bathroom every 2 to 3 hours. Um, drinking too much caffeine can kind of irritate your bladder. So try and cut back on that. Um, and then don't drink an hour or two before bedtime. So you don't wake up as often to go to the bathroom. Um, do you tend to wake up during the night? Yeah.
+Patient: Yeah. Ok. That's why I kind of avoid that. I usually don't drink anything after six.
+Nurse: Ok. So you go a coup a couple more hours. Ok. Ok. Um, and then, let's see, doing some form of exercise, you know, 30 minutes a day or every other day can help too. Ok.
+Patient: Oh ok. Yeah
+Nurse: So getting some physical activity and um that can help that part of it. Um let's see. Mhm. So your next appointment is six months. So that's not until [PHI-Personal]. Ok. Yes. Um do you need any medication refills at this time? Not
+Patient: Right now.
+Nurse: Ok. Alrighty, perfect. Um All right. Well if you need anything in the meantime um you know you can always give me a call otherwise I will talk to you in two months. So [PHI-Personal] um and we'll kind of just touch base again and see how things are going.
+Patient: Ok. And uh yeah after that I'll be uh going away for the winter so I'm going away all of February. Ok, so if everything's ok, well you can probably skip that month.
+Nurse: Ok. Yeah, remind me in December um and I'll schedule schedule you out until maybe like March or something. Ok. Ok. Alrighty. Alright, well you have a good rest of your day and call me if you need anything before we talk in uh December. Ok. Alright. Alright, thanks so much. Alright, bye bye.

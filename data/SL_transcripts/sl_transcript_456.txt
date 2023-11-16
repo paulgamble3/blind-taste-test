@@ -1,0 +1,14 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is, uh, sorry, I missed your call. How you doing?
+Nurse: I'm doing ok. How are you?
+Patient: I'm doing well. Thanks for asking.
+Nurse: Well, good. Um, the reason I had called was just to follow up and see if the, uh, nasal spray and allergy medicine that doctor [PHI-Personal] prescribed you had helped with your, uh, allergy issues.
+Patient: Yeah. Yeah. Yeah. It, uh, it did help it. It's helping.
+Nurse: Good. Now, I know you guys leave, uh, Friday for a trip to the Philippines, right? That's correct. Ok. So just make sure that you take all your medications with you. Um, anything you're gonna need while you're gone that way you'll have everything you won't have to worry about it.
+Patient: Yes. Yes, I did. I already, I already put in one package, so at least, uh, everything will be there.
+Nurse: Good. I knew the last time I spoke with your wife, she said she had been working on it too. So, um, I plan to follow up with her today as well just to check in one more time before you guys leave.
+Patient: Oh, ok. Thanks. He's working on it.
+Nurse: All right. Um, Well, if you have any issues, questions concerns, feel free to give me a call. Ok. Will
+Patient: Do that. Thanks.
+Nurse: Right. Have a good day and
+Patient: Likewise. Ok, bye bye.

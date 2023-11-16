@@ -1,0 +1,7 @@
+Nurse: Hi, this is [PHI-Personal] and nurse care manager.
+Patient: Oh, hi. This is [PHI-Personal]. You just got done talking to me a little while ago.
+Nurse: Yeah. What's up? Is everything? Ok.
+Patient: Well, I called Edge [PHI-Geographic] because my supplies are late for some reason and I only have three days and I won't have no sensor for my dexcom. And so I called them to see what the hold up is and they said that they sent your office or chad cha office something to preauthorize it and they're still waiting for you guys to pre authorize it. Ok.
+Nurse: I'll send a message over, uh, reminding them about it. Um, and that way if for some reason they didn't receive it, then they can reach out and follow through with that.
+Patient: Yeah, because said they put urgent on it, but literally in three days I'm not gonna have a sensor. So I wonder why it was so late. So I was like, I better call and see what the heck the hold up is.
+Nurse: Do me a favor though. If, if you don't hear from me by tomorrow, around noon time, give me a call back just so I can follow up just in case I get caught up with something tomorrow. Um, that way I don't want it lingering any longer than it has to. Ok. But I'll send that message over now and see if we can get the ball rolling. All right, Jane, talk to you tomorrow. Ok. Bye bye bye.

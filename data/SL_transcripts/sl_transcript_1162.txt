@@ -1,0 +1,32 @@
+Nurse: She ain't there. This is [PHI-Personal]. Hi, this is [PHI-Personal]. Hi, how are you? Right now? I'm a very upset person. Oh, what's
+Patient: Going on?
+Nurse: Well, somebody called in all my prescriptions. I sent my husband down to [PHI-Personal] to get the HYDROcodone which they lost and not, or I'm going through that. Uh, that's another story. But anyhow, when he went, he come home and he said it was 100 and some dollars, I said for what they called all my prescriptions in, into Wegman.
+Patient: Which, oh,
+Nurse: No. So he picked up supposedly five prescriptions but the HYDROcodone is missing.
+Patient: Those were supposed to be meds by mail.
+Nurse: I know. And so he spent 100 and $14. 0,
+Patient: My goodness. I'm double checking. But I know that I put meds by mail. I did
+Nurse: Meds by me. It went to [PHI-Personal] and I don't know how, but they lost the HYDROcodone. They charged me for it, but it was not in the bag. So now they're giving, so they're giving me a hard time about that and I said my BP must have shot up. Oh, I [PHI-Personal], I
+Patient: [PHI-Personal] it did. Oh, my goodness.
+Nurse: So I said the pharmacist, maybe you better look at the camera. Yeah. Oh, did they? Well, she said that was our next step but I don't know if they'll do it or not. They just said, have your doctor call in another prescription? Well, that's not the way it works. Somebody's got a bottle of HYDROcodone. So, and they don't seem to be upset over it.
+Patient: So, the prescription was sent in and they said it was given to you already.
+Nurse: Yeah, and a bag of five other pills and it's not or I had a total on this receipt of five charges. So my husband and I, he read me the numbers and I checked them off but one was missing and I didn't know what it was because all it has is this [PHI-Account]. And I said, I didn't know what it was so I called them and I said this prescription is what so be, it happens to be the HYDROcodone. Now. Isn't that kind of funny? Wow.
+Patient: And Doctor [PHI-Personal] can't send another prescription in because you're, it's every 30 days.
+Nurse: I know that. But the thing is, is they're acting like we're a bunch of idiots and lost it. Now, they were all in a white bag and then plastic bags and a white bag. Now, how would we have lost it? Right.
+Patient: Oh my goodness. Um I can call [PHI-Personal] and see what's going on or try to explain it again to them.
+Nurse: The thing is, is, I don't know how they got all my damn prescriptions, but I get my prescriptions free. Not for 100 and $14.
+Patient: Yeah. Next time that happens, don't, don't pay for them, just don't do it. And then, well, see,
+Nurse: I send my husband down and of course, he didn't know what was send in and he come home with it and said your prescriptions 100 and $14. And I said, you're kidding. So then I started looking and I said this is my, all of my prescriptions. Mhm. So somebody called and give them the number order. So, how did they get it?
+Patient: I'm not sure. But if you don't pick them up then we can change it to the other one. So,
+Nurse: Just let I know that. But, but, but the thing is, is he already picked them up. So, what do I do? Now?
+Patient: There's nothing you can do now that you picked them up. But next time just tell him,
+Nurse: Well, it says on there refill. So you better take and get it straightened out. Ok. Somebody better,
+Patient: Yeah, I can tell them next time. Make sure they send it to the mail order.
+Nurse: Well, we don't send it to the mail order. No, Doctor
+Patient: [PHI-Personal]. Uh huh.
+Nurse: Well, somebody better take care of it because when we go to [PHI-Geographic], I won't even be able to get my prescriptions. Won't that be nice. Right. Well I would appreciate it if you see if you can get this straightened out.
+Patient: Yeah, I'll call s and see what the deal is about the HYDROcodone and see what what they can do because I know that you won't be able to get any more um just because of it being controlled.
+Nurse: Um well right now I'm ready to call the police department that's how I feel somebody stole
+Patient: Let me call them and then I will call you back and let you know what I found out.
+Nurse: Alright.
+Patient: Alright. Uh huh bye.

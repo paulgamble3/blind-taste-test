@@ -1,0 +1,19 @@
+Nurse: Chronic care management. This is [PHI-Personal]. May I help you?
+Patient: Yeah. Uh, this is [PHI-Personal] and I was just, uh, calling [PHI-Personal] to thank her for getting my prescriptions settled.
+Nurse: Oh, hi, [PHI-Personal]. How are you? [PHI-Personal] is actually not in, um, I got
+Patient: Every prescription at the same time. It was so wonderful. I brought all seven of them home, dumped them on the table, counted each pill in each bottle. This is the first time in several years. I've gotten them all at once.
+Nurse: Really? How did she do that? Would she get them with the pharmacy for you?
+Patient: I've been trying to do that. And the pharmacy kept saying we're gonna get all together so that you can get them all at the same time instead of getting Thursday et cetera. They never did. And I got to the point where, you know, driving to the [PHI-Geographic] and after they called to tell me it was ready and then having them say, oh, can you come back at six o'clock? They're outsourced. So I was going to [PHI-Geographic] like a couple of times a week. They let me run out. Oh, what,
+Nurse: What are you on now, like what prescription plan, like, you have them set up some way or? But I
+Patient: Got, I express scripts is what I've been on for years. I used to get them in the mail and then I don't know why I stopped getting them in the mail, but I did, it was year to go to [PHI-Geographic] and get them. Oh, wow. Ok. Oh, I am looking at them as we speak. This is just wonderful,
+Nurse: Wonderful. I'll definitely give her the message because you, yeah, you told her you've been running back. Ok, so you did get the three per. Ok. Um, so you do know that. Ok. Hey, that's great. Ok.
+Patient: And I'm getting them in [PHI-Geographic] now, which is a much better pharmacy to deal with than the [PHI-Geographic] one.
+Nurse: Ok. I will definitely let her know. So you're in, you're great. Um Can I give her that message for you? I will definitely is everything else. Ok.
+Patient: This is,
+Nurse: This is wonderful. I'll tell her how happy you were um, with everything and um anything else going on or? No,
+Patient: No to plan.
+Nurse: Hey, that's exciting. It's supposed to get warm there. Oh, it is how warm like [PHI-Personal] or uh [PHI-Personal]. Oh, geez. Is that today?
+Patient: That's what they were saying this morning, but it was supposed to be muggy and right now it's only [PHI-Personal]. So. Oh boy.
+Nurse: Yeah, I mean, I it's, it's nice out now, you know, Um, yeah. Um, it's very nice but definitely, you know, in the middle of the day to try to stay out and always wear sunglasses, a burn hat, you know, sunscreen, stay hydrated. So you don't get sunburn and stuff, you know? I don't know. I don't, I know they always say that and I always remind everyone too, but, uh, I
+Patient: Be your grandmother for God's sake.
+Nurse: Yeah. Yeah, but that's ok. You too. And I'll let gay know I spoke with you. Ok. You're welcome. Ok, bye.

@@ -1,0 +1,27 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello. Um, this is [PHI-Personal] number. Can I call to you?
+Nurse: Oh, ok. Let me pull you right up. Okie Dokie. All right, [PHI-Personal]. So it looks like you're eligible for Doctor [PHI-Personal] Care management program. And so what that is, is the [PHI-Personal] that will be able to give you a call to see how you're doing. She answers any questions, refills prescriptions. She'll address any issues you're having and she can help with appointments and lab work, things like that. The program, it helps keep the doctors updated and it avoids emergency room visits and all the calls the [PHI-Personal] makes are documented and sent to the doctor for review. They are treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers. And they're also subject to deductibles, coinsurance and copays. So I have here you have United [PHI-Personal] and [PHI-Personal]. Is that still correct?
+Patient: Yeah. The uh
+Nurse: Yes. Ok, good. And do you prefer the morning or afternoon phone calls from the
+Patient: [PHI-Personal]? Oh, afternoons.
+Nurse: Ok. And are you still at [PHI-Account], [PHI-Personal] [PHI-Geographic] Miha Street. Apartment B, did I say that Right. Yeah. Oh, good, good. I thought I messed it all up.
+Patient: No, a lot of people say some crazy things, but that was good. Ok. So they say they say right, what it means is water? Oh, ok. The water in my area s historically all the time, I guess that, yeah, what it's about, why
+Nurse: Not? Yeah. So I'll also send you out a letter. It has all the information on it. Plus a phone number to call in to the [PHI-Personal] if you need to. And then your first phone call from the [PHI-Personal] should be within a week or two. Ok.
+Patient: Ok. And what, she's just, somebody periodically gives me a call,
+Nurse: Something like, yeah, it's around a once a month phone call.
+Patient: Oh, ok. Ok. And, and, uh, how, how this, the, the [PHI-Personal] in with making appointments and that sort of thing.
+Nurse: So she's able to have access to your charts through the doctor. So she's able to make appointments like a little bit quicker and things like that. Ok.
+Patient: Ok. A appointments with doctor or with other specialist or,
+Nurse: Yeah, with the, with a, anyone that you're seeing or anything that you're dealing with.
+Patient: Yeah, because I'm having a problem up with one in particular. Ok.
+Nurse: So, and so you'll be needing to make an appointment, you said?
+Patient: Yeah, it's, it's just crazy. It's like I have to have a COVID test before procedure two days before. Ok. And, uh, they're, I don't know if the [PHI-Personal] could help me out but, but they want me there like eight in the morning and stuff like that. Yeah. And I have severe sleep apnea. Ok. And I have a hard time doing that and I can't seem to get them to make the exception or something. So I don't know if she's having that.
+Nurse: She may, she may be able to, I'll send her a note with uh enrollment here. Ok.
+Patient: Right. I don't know.
+Nurse: Alrighty. Well I'll let her know hopefully she'll be able to help you out with that. Ok. Yeah.
+Patient: Alrighty just
+Nurse: Expect a letter in the mail. What's that?
+Patient: Ok because right now I'm having severe back spasms and it's getting confusing with what to do with the. Ok.
+Nurse: Alrighty you have a good day. Ok.
+Patient: You too take care. Bye bye. All right
+Nurse: Bye bye.

@@ -1,0 +1,42 @@
+Nurse: [PHI-Geographic]. This is, how can I help you?
+Patient: This is,
+Nurse: Hi, how are you today?
+Patient: Worse than what it was before I took them pills. Oh, no, I'm got so much pain in my left hip. Ok. I can hardly walk. Oh. And when I got up this, I was up four times last night and went to the bathroom and every time I went a piss flooded out of me. Oh, boy. Made me happy. Yeah, I bet I was, I was hardly peeing before.
+Nurse: Yeah. So you're getting a lot of pee out now?
+Patient: Yeah. Yeah. And now it's my left hip. Ok. I know she wants to x-ray. But how in the heck am I going to get it done? Yeah.
+Nurse: Well, I called, um, I called, uh, what's her name? [PHI-Personal]? Oh, Cathy. Cathy with the insurance lady. We spoke with the other day about getting you set up and she's out until Tuesday. So, as soon as she gets in I can get you arranged with some transportation and we can get you in.
+Patient: Why can't come with and give me a steroid shot?
+Nurse: Uh, I don't know. I don't know if, if she would do that. I can ask her
+Patient: Because that, that steroid would take the pain. It would knock it out of me.
+Nurse: Right. Right. Yeah. I mean, I can at least ask her about it and see what she
+Patient: Says. Yeah. But miserable.
+Nurse: Yeah. Well, like I said, try to use the heating pad, try to use, you know,
+Patient: Um, when you talked about a heating pad. Yeah, I just got a new one yesterday. Oh, good. From my insurance company. Well, they
+Nurse: Sent you one. That's nice. High
+Patient: [PHI-Personal]. Home Care or? Yeah. Hi, [PHI-Personal]. And, uh, home care. The insurance used to be Gateway. Uh huh. Yeah, they sent me 10, good. Sent me other stuff in a box. Yeah, this is about the same as I got, they sent her one. Well,
+Nurse: Good. I'm glad now hopefully you can use it and get some relief from it, you know? And where
+Patient: Am I gonna plug it in at? I
+Nurse: Don't know. I don't know because I'm not familiar with your house
+Patient: And, yeah, they get my other chair in here and get this chair out of here where I can sit back and relax. Yeah. Yeah. But have you
+Nurse: Heard, have you heard anything from them about your
+Patient: Chair? No, he's not. Hasn't seen him on Facebook yet either. Oh, ok. He's not happy with him.
+Nurse: Oh, that's too bad.
+Patient: And because he, he owns that furniture store down there in [PHI-Geographic]. Uh huh. And my chair is there. They took it back out of here because it, when I first got it I didn't, I couldn't get back on it. You know what I mean? Yeah, my butt wouldn't slide. I, now, I wish I had my chair back. He said he could get two of his helpers to bring it in here, but they want $100 to bring it back in. I said, I, and darling said she doesn't have that kind of money. She paid over $1000 for that chair and that ought to be enough. And I'm waiting to get that chair and I don't know how in the heck I'm gonna get it.
+Nurse: Well, surely you would think they would provide the transportation. You know what I bring it in.
+Patient: Yeah. Yeah.
+Nurse: Oh, boy. Well, one thing at a time let's, uh, let's work on getting you set up here, you know, maybe I can make a call and see what I can do about the too. Ok.
+Patient: Yeah, I don't have that kind of money for them black guys to bring that chair in here. Who want the $50 a piece? Why should I pay them $50 a piece? I don't have an house on social security and I'm disabled and they, yeah, but I don't know, see if they would give me a steroid shot. Yeah.
+Nurse: Ok. I will ask
+Patient: To knock the pain away now. Yeah.
+Nurse: Yeah. All right. I will ask her. So, did you get any relief from the, the medicine last night? Did you take three of them?
+Patient: I took three of them with, and my, uh, cholesterol pill. I had to take that night time pill. Uh huh. Half an aspirin and went to bed. Uh huh. And I must have fell asleep right away because of the, about one o'clock. I guess I woke up because I took that medicine at 10 30. Uh huh. And I went straight to bed. Mhm. And I got, uh, I got awake according to my clock in the bedroom it was about one o'clock. I got awake. I had to go, I got up and went to the bathroom and man, did I ever pee and I got done and I went back and crawled in bed and went right back to sleep. Yeah. And then it must have been about an hour or so later. I got awake and had to go again, but I went four times during the night.
+Nurse: Yeah. Well, you know, at least it's letting you sleep, you know, at least you're getting a little bit of rest. So,
+Patient: And now I'm not getting any sleep on this pain. Yeah. I just got up about two o'clock because I was so tired and I went in this morning and laid back down in bed and went to sleep and I went to move, to get up and, oh, my God, the pain shot through that left leg, it's up towards the hip, you know. Yeah, it said there's no broken bones because the X ray or done an MRI on me. Right. I don't know if you can get on your computer and check with, on that, with [PHI-Personal].
+Nurse: Yeah. I don't have, I don't have access to it. Um, but they might, no, I don't, but they might have it in the hospital or in the office there. So,
+Patient: Yeah.
+Nurse: So. All right. Well, let me ask [PHI-Personal] anyway. And, uh, I'll be in touch with you. Ok.
+Patient: Ok. All right. You
+Nurse: Got your new heating pad, see if it works for you.
+Patient: Well, I don't know where to plug it in. It's right here in the box and, yeah. Yeah, I don't, I don't have anybody would come in here and do something. My son, I think he got a job now today he's probably in liking working. He's a painter. Uh huh. Painting people's homes and stuff. Yeah. Now, after the holidays are about over, now that he's picking up some work.
+Nurse: All right. Ok. Well, I will be in touch.
+Patient: Ok. Ok. And thank you. Uh huh. Bye bye bye bye.

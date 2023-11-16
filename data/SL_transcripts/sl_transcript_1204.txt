@@ -1,0 +1,34 @@
+Nurse: This is [PHI-Personal].
+Patient: Well, my God, [PHI-Personal], this is [PHI-Personal]. How are you? And
+Nurse: I'm fine. How are you, [PHI-Personal]?
+Patient: I am, I am good. I got a couple questions for you. Sure. I, I have appointments on July or um [PHI-Personal] for urology and [PHI-Personal] is [PHI-Personal] the [PHI-Personal]. Yes. Do you think you think there's any chance of moving either one of those up?
+Nurse: So, I don't think so. Um uh when we talked to, I talked to Doctor [PHI-Personal] office. That was the soonest that they had, they did put you on a cancellation list. So if they had something sooner they would call, um, but doctor [PHI-Personal] is typically very difficult to get into. So most people will keep their appointments.
+Patient: Yes. Um ok. Now if when I go to urology and they say yes, the idea you, you do need a sling, then I'll have to get a medical clearance. Now, will that be sooner or would that be also be, then
+Nurse: He would wait? No, that would, that would be, since it's not like an um, emergency procedure, they would wait until you saw Doctor [PHI-Personal] on the [PHI-Personal].
+Patient: Ok. All Right. So, yeah,
+Nurse: I'm sorry, I know. It's disappointing. Yeah.
+Patient: Ok. Ok. Let's see, what else? That, and that's it, I guess. Ok. El thank you. And
+Nurse: I saw that you did get scheduled with, uh, Doctor, uh, [PHI-Personal] on the [PHI-Personal] of [PHI-Personal], right?
+Patient: The [PHI-Personal]. Right. Mhm. Yes. Yes.
+Nurse: Yes. Yes. Ok. And so you'll be able to come to that though. You'll be back in town.
+Patient: Yes. I'll be back in town in a week.
+Nurse: Ok. So, uh, how's your sister doing?
+Patient: Oh, I guess par for the course at, at [PHI-Personal] or [PHI-Personal]. Yeah. Yeah. Yeah. Yeah. Could be better. But, you know, we all, we all kind of slow down. Yeah,
+Nurse: It does happen. And I'm sorry that your family is going through that. I think it's probably really, um, nice and she appreciates that you're able to be there.
+Patient: So. Well, I, I think so too. And I, and yes. And anyway. Yes. And I appreciate you asking and, uh, I hope you have a, hope you have a good day and we'll all get to be that age sometime, maybe.
+Nurse: Yeah. Yeah, I hope so too. [PHI-Personal]. Is your edema any better while I've got you on the phone. I just wanted to follow up, follow up with that
+Patient: Is what, any better,
+Nurse: The swelling or the edema in your legs?
+Patient: No. No. And, and I don't, yes, the same. And I don't want to, uh, I'm cutting back on the Lasix, I was taking, uh, 80 a day and, and I think you implied that that maybe that was too high.
+Nurse: Uh, wasn't me? I'm not sure who did tell you that.
+Patient: Ok. Well, they, well, they, they thought that with my, uh, kidney failure, uh, not working quite that there was a reason for that. I, so I, so I cut it down to two or three depending on my mood, I guess. So. Anyway, um, and
+Nurse: You're still wearing the compression stockings though?
+Patient: I am and I am. Yeah, they don't seem to be making any difference.
+Nurse: Ok. Are they painful to wear?
+Patient: No, and I'm trying to elevate my legs up as far as I can, but that's not possible very often, you know. But yeah, but II I am aware of all those
+Nurse: Things. Ok. Well, I figured you were but I wanted to check and see how it was looking. Well, since I had you on the phone.
+Patient: Good. I'm glad you asked. Ok.
+Nurse: All right. Well, [PHI-Personal], then we will see you on the [PHI-Personal] and you know, if, if they call you and are able to get you in sooner to see doctor then definitely snatch that appointment up. Ok.
+Patient: Wonderful.
+Nurse: Alright, take care. You're welcome. Bye bye bye bye.
+Patient: Um.

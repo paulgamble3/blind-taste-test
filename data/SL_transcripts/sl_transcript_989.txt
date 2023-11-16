@@ -1,0 +1,70 @@
+Nurse: Good morning. This is, how may I help you?
+Patient: Is [PHI-Personal] available?
+Nurse: Um, I'm, can I take a message for it and I'll send it over?
+Patient: Uh, yes, this is, we've been playing, we've been playing phone tag quite a while now and, um, I need help.
+Nurse: Was there anything I can help you with [PHI-Personal]? Because, um, I was called you the other day because I, I'm the nurse that, um, is assigned to you from this point forward. So I was trying to make contact to see how you're doing and then introduce myself. Is it ok if I help you?
+Patient: Sure. Right.
+Nurse: So, what do you need, [PHI-Personal]?
+Patient: Um, all ear. Usually I get up and go to the bathroom and then I get started. Ok. But the past couple of mornings, my left hip's been locked up and, um, very painful. So I'm not having very good luck and I'm trying to do my laundry and, uh, it seems like I'm the only one in damn household that can, you know, afford it. So I have a big basket of clothes here that are for wrinkles.
+Nurse: Oh, that's frustrating. Especially when you don't feel too good.
+Patient: Well, I don't feel too bad now I put on my, um, bio freeze and that usually unlocks everything. But, you know, it's getting to me that my household is going to hell and nobody seems to be doing anything about it. Well,
+Nurse: I was wondering, I see something in here about getting [PHI-Personal] have and physical therapy. Has anyone contacted you yet about that?
+Patient: Uh, yes. And as far as the physical therapy goes, I would be fine if I would not have the physical therapy because I get so tired after the physical therapy, I can't do anything else.
+Nurse: It's hard for you to recover after that. Yeah. Now, how many times a week are they coming in to see
+Patient: You? Well, I only had a physical therapist in once. Ok. And we did that, um, we did the in home digital thing for about a week or maybe two weeks and I was doing ok, but like I said, I didn't even go anywhere or do anything and because you
+Nurse: Were so tired
+Patient: After, yes, so wiped out.
+Nurse: Mhm. No. So you, that you've only had one actual session though? When are they supposed to come back? Are they coming back?
+Patient: No, they're not coming back.
+Nurse: Ok. Now, what about your [PHI-Personal]?
+Patient: My
+Nurse: [PHI-Personal]. Yes, ma'am. Did anyone contact you about [PHI-Personal] services yet? N no. Ok. Ok. Let me see.
+Patient: I try to do as much as, as I can on my own but there's certain things I can't do.
+Nurse: Right. Right. Sure. Absolutely. So, it looks like, let me see here, it looks like you put the order in for [PHI-Personal]. You just haven't heard anything from [PHI-Personal] provider. Just the, just the physical therapist but not nobody else from [PHI-Personal].
+Patient: No.
+Nurse: Ok. Well, I can look into that for you today to see. Is there, um, a certain [PHI-Personal], the agency that you would prefer?
+Patient: I don't know, I've never had [PHI-Personal] before. Um, so, I don't know. Ok.
+Nurse: All right. Well, I'm just kinda looking through your last note with [PHI-Personal] and [PHI-Personal] to see here to see if they have somebody who. Ok. Yeah, I'll call the office today and ask, um, because, you know, we work from home so we're not in the office, but we have access to the medical record and we can do what the nurses can do. It's just, I don't see where they sent, where they sent the [PHI-Personal] referral to. So let me find out there. Ok. And then, um, I'll find out where it's at and see what the hold up with the [PHI-Personal] referral. And then, and then maybe we can get you a little help with getting your chores and stuff done. So obviously that you're, you're not feeling so hot, you're a little frustrated right now. You have a little bit of frustration going on with all this stuff. Huh.
+Patient: Yeah. Yeah.
+Nurse: Yeah. Have you been sleeping? Ok. Yes. Yeah.
+Patient: Ok. In fact, this morning, I can't believe I didn't get up that before. I've been getting up at 8 30 in the morning, which is fine and I do well with that, but this morning and another morning I forget which one it was. It's been like, quarter to nine, quarter, quarter to nine or 9 30. And that's way too long and that's how we want my hips locking up. Uh,
+Nurse: It could be because you're not using it as much. That's why. So the, so the, the therapy that came in they came in and they did an evaluation and gave you some exercises and they never came back. Is that what happened?
+Patient: No, he did his extent of physical therapy. He was quite good. I have no complaints about him. Um, it's just that I was so tired by the time he was been giving me these exercises to do and they were exercises that I do every day, like going up a flight of 12 steps going down quite a, you know, and I have his, I have his notes here somewhere. I can't even get organized with my paperwork. Oh, so, I don't know. I can't. That's ok. That's ok. Mm. So if you can check into something, I just need someone to help me get, uh, to
+Nurse: Get the [PHI-Personal], going [PHI-Personal] side of things. Going to see if you can get a little help around the house. Ok. Um, yeah, I'll, I'll throw a note in there to doctor. So, you know, and maybe I'll just, I'll call the office first to see if anybody on the back end can kind of tell me anything. Um, and then, you know,
+Patient: Uh, the thing of it is, um, I love doctor [PHI-Personal] but I like dealing with, um, mm, my goodness. I like dealing with [PHI-Personal] much better. She's more down to earth and, you know, she's a woman. She, she knows what it's like to have kids and it's all this good stuff. But ok, everybody thinks that I should just pop right up and do everything like I used to, I can't handle it.
+Nurse: Well, you know, you got to do it in your time, you know, as long as you're doing it is what's important you need, you know, we need a course to stay, we need to move around as much, you know, as possible because if we don't use it, you know, we lose it, you know, and with your, um, you know, you got the osteo. Oh my goodness. I can't talk today. I'm sorry, you know, with the, it's one of those days where my mouth doesn't wanna work. I'm so sorry. And I see that you take your Prolia injection every six months. So, I mean, that's gonna help with the osteoporosis but, you know, you still need to get up and move as much as possible but you don't wanna overdo it and then, you know, have something bad happen too. Um, so I understand that completely. So what, you know, all, like I said, I'll throw a note out to see where, um, they sent your, where they sent your [PHI-Personal], you know, to, to see if maybe, you know, we can get you some help. Um, because I know it, it's difficult, especially when you're trying to get stronger and then you're trying to also get your home chores done and things like that. And all I gotta say is just do it in your time, you know, take frequent rest periods. Who all lives with you? You and your husband? Yes. Ok. Ok. Now I have a couple more questions about. So, you, you're sleeping, you're actually sleeping a little more. Do you have nightmares or anything? No. Ok. Any changes in appetite?
+Patient: Oh, I think I'm always hungry. Yeah,
+Nurse: Me too. How many meals a day are you eating?
+Patient: Um, at least
+Nurse: Two. Ok. Are you restricting any meals or anything? You,
+Patient: I was, I was, mm, three meals a day and I seem to be doing all right. But it's getting to the point where, you know, just stand in front of the stove and cook. I can't do that. And, uh, it's making it difficult for my husband because he eats all the time and he, I don't think he's into making me food he's pissed off at me. Yeah.
+Nurse: Well, I mean, you know, I, I know it sounds crazy but they do make really good microwave foods now. Really? They do, do you guys have an air fryer?
+Patient: Um, mm, let's see. I, no, we don't, we did
+Nurse: Microwaves are good, especially for husbands that don't typically cook because, uh, you know, the boxes have instructions on them and, and you can easily help guide him through stuff to help too. You just say, hey, these are really good meals here. We let's try them out, you know. Um, I know with my husband, I, I got a microwave and air fryer because some, you know, I, I teach at night a couple of times, you know, a year. So he, those nights when I'm teaching, he has to make himself dinner. So, you know, he was very worried about it at first. But, you know, I got easy to make microwave meals and then I bought an air fryer. So like, you know, you can get, you know, breaded chicken and you can, you can do potatoes in there, you can cook just about anything in there. I mean, you could cook just regular chicken breasts in there and you just put them in there and all they gotta do is push a button there and pop it in for and it comes with like a guide of, you know, if you put a chicken breast in there, you got to you know, hit the button for air fry and cook it for six minutes and it comes out good. It comes out nice and moist in the middle and crispy on the outside. So, I mean, you know, it's not that you have to get it but there's ways to go around that, you know, um, to help you out a little bit. Um, are you feeling sad or depressed? Any anxiety going on right now? Yeah.
+Patient: Um Could you hold on a second? Yes. Ok. Thank you, [PHI-Personal]. Yes. Mommy's right here. Hold on. Mm. Mm. Ok. Sure. Hello. Hello. And did you say your name was [PHI-Personal]?
+Nurse: No, I'm [PHI-Personal]. I'm I [PHI-Personal]. Yeah, [PHI-Personal] doesn't work here anymore. So II I replace her and I will be the one that will be calling and bugging you once a month just to check on you to see how you're doing. Ok. Um So right now your main concern is you're, you know, you're, you're a little down because you're having difficulty moving around that hips giving you trouble. You're worn out from the therapy and you need a little more help at home. Now, do you need any help? Um getting personal care done at all?
+Patient: Well, not usually, but sometimes
+Nurse: Sometimes you need a little help with personal care. Yeah. Ok. Um, just because your hips not doing so well. Do you have a shower chair or anything? I may have
+Patient: A shower stool,
+Nurse: Shower stool. Ok.
+Patient: Yeah, that's not so good. But,
+Nurse: And do you have shelving in there that you can keep your stuff down low? So you're not trying to, you know, reach around and do you have grippers on the bottom of your shower?
+Patient: Yes. Ok. Um,
+Nurse: I wanna make sure you're safe at home. Ok. Well, I will definitely get this, um, message out to the office to see, you know, where we're at in the [PHI-Personal] aspect. And also, um, let him know that, you know, you're still having pain in that hip. Now, I saw, you saw the orthopedic in [PHI-Personal] and for your back. How is your back doing? Ok.
+Patient: He said my lumbar, um, things were fine
+Nurse: That you, well, it's degenerative disc disease, which is something unfortunately as we age and if you were, you know, pretty hard worker and used your back a lot younger, um, and he recommended an epidural steroid injection. Um, how are you feeling about that? Still thinking about it? Yeah. Ok. I know it, it's, it's a, it's a, it's a thought because, you know, I do, you have fear about the injection in your back, is it?
+Patient: No, I don't think so. No. Um, hm, I don't think so
+Nurse: And I was with Doctor [PHI-Personal] L IP. Doctor [PHI-Personal]
+Patient: L
+Nurse: IP pe. Yeah. You know, I mean, it could be why you're having some of that. I mean, your hip locking up. But I mean, it may give you a little relief in your back and then, you know, you can actually talk to him about your hip too while you're there. Um, once I
+Patient: Get up in the morning, once I get up and once I can move over to lean on the bed and put on my, mm. Biofreeze and it, it eases up and I can move around.
+Nurse: Yeah. And it helps with that. Biofreeze. Is I heaven scent sometimes in it. Yeah, I love biofreeze too. And I, I do, I love my biofreeze. Are you taking any Tylenol or anything for the pain or just the biofreeze? Yep. Tylenol.
+Patient: Ok. Ok.
+Nurse: Ok. Well, you know, there's also other stuff like lidocaine patches and stuff but if you found something that works, I recommend continuing using your biofreeze and your Tylenol. Um, so you're not expecting therapy back at all then, huh?
+Patient: Not at this point. No.
+Nurse: Ok. All right. So let me check on that [PHI-Personal] um, referral and I will, um, get back with you once I know something. Ok.
+Patient: Yes. Uh, let me just tell you this. I'm, yes, ma'am. I'm having a problem. Yeah, I also say I have, uh, two shoulder replacements. Mhm. And it's very hard for me to, I have a problem getting my pants up sometimes. Got you and I work through that and because my shoulder replacements were reversed, I just don't have, I can't, I can't wash my back. Right. And I've tried several you know, things.
+Nurse: Yeah. Ok. Ok. Yeah, I'll put that in the note and like I said, I will talk with, um, uh, office to see where they're at on that home Health consult. Now I see the order, the order was put in at the end of May. So, and sometimes it takes a little bit to, you know, and sometimes it takes a little bit for the home Health Agency to, um, get, you know, people in just because availability and stuff. But yeah, let me look into that, see who they contacted. Um, and then I'll contact that [PHI-Personal] agency and see what's going on. Ok. Ok. All right. Well, thank you, [PHI-Personal]. Remember my name is [PHI-Personal] and I will call you back as soon as I know something. Ok.
+Patient: Ok.
+Nurse: All right. You take care of yourself. You're very welcome.
+Patient: I'll try. Thank you. Uh huh. Bye bye bye.

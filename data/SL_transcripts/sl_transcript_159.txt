@@ -1,0 +1,40 @@
+Nurse: Hello, this is one of the nurses with doctor [PHI-Personal] [PHI-Geographic].
+Patient: How are you?
+Nurse: Good. This is [PHI-Personal] returning the call, the care uh nurse called.
+Patient: Ok,
+Nurse: Apologies. Give me one second to pull you up. Your phone number didn't pull you up in our system right away. I think it was [PHI-Personal] that called. She did. It looks like she was trying to get you started on, let me see if she's on the phone and I will get you transferred over to her if can you give me two seconds? Sure. Thank you. Mm. All right, you're gonna hear a moment of silence while I get you transferred over. Ok. Ok. Thank you. Welcome. You. Have a great day. You too. Thanks.
+Patient: Huh? Hi. It's [PHI-Personal].
+Nurse: This is [PHI-Personal]. Hi.
+Patient: Hi, [PHI-Personal]. How are you? Good. Thank you. Let me get you pulled up here.
+Nurse: Russ is right here too. So I can be. I went in the room where he's at, both of us can listen to you. All
+Patient: Right, that works out very well. Ok, let's see. So the reason for my call was to introduce myself, ma'am as one of the nurses that'll reach out to you once a month, um, in between [PHI-Geographic] visits to check in with you guys to see how things are going. Um, and you just spoke with, um, she's the other nurse that works on behalf of Doctor [PHI-Personal] [PHI-Geographic]. Ok. So you'll probably hear from her as well. Um, let me get my computer rolling here. And has there been any medication changes in the last 30 days?
+Nurse: Not for me? Ok. Well, you quit taking your BP medicine. Oh, no. Yeah. His BP got too low. He was taking a half of one every other day and it was dropping that the bottom number was down in the fifties. And we have a machine that Doctor [PHI-Personal], one of the nurses gave us about a year ago or so when one of us was when he was having trouble with his BP and doctor [PHI-Personal] put him on a half a pill every day. Well, then when it started dropping lower, he, he lost 50 lbs on Weight Watchers. So that we think that. So, uh, now it's running around, it's staying in the low one teens and let me get what it was this morning while we're, while we're here because I just took it. I took it this morning this morning. It was 1 26 1 20/65 with his heart rate at 63. 0,
+Patient: That's beautiful. And that's without the medication
+Nurse: He hasn't taken any for well, I know it's been well, over a month, maybe more. I didn't write the date down but it started dropping really low. And, uh, so they told him, you know, that we, he quit taking it because it got down to one time. It was 10 1/57. Oh, my goodness.
+Patient: Yeah.
+Nurse: And he didn't get dizzy. I thought he would get dizzy with it getting that low, but he didn't.
+Patient: Yeah, I'm surprised.
+Nurse: So he hasn't taken it. I know it's been well over a month, I wish I'd have wrote the date down when he quit taking it. But like I said, he went from a half a pill every day to a half a pill every other day and it was still dropping and we talked to [PHI-Personal] [PHI-Geographic] and they said, you know, not to take it but just keep watch on it. So we've been taking it every, usually we was doing it about once a week and then we got a little bit flat but, you know, but it's still
+Patient: Ok. Yeah, it looks like it's been almost three months now because it looks like back in February.
+Nurse: Um, yeah. Yeah.
+Patient: Yeah. Ok. And I do see that, um Doctor [PHI-Personal] advised to keep holding that medication and keep track of this BP
+Nurse: If I can just get our insurance to quit calling to try to refill it because we're on a, with [PHI-Personal] and they, they've called three times to refill it and I keep telling. No.
+Patient: Ok. Well, I can try and reach out to them and ask them to remove it from the automatic refills. Um That's not an issue and that's what we do too. You know, if you have questions concerns,
+Nurse: I do have one on my one medication. Let me get it. It's my Lisinopril. I had run out and doctor gave me a two week uh like a week supply until they got a hold of [PHI-Personal]. But then it didn't go to [PHI-Personal]. It went to [PHI-Personal] and [PHI-Personal]. I don't pay anything but [PHI-Personal] I pay was only $4 for three months, but it's a whole lot easier to get it to come in the mail.
+Patient: Absolutely. So, let's see. And when did you get that one picked
+Nurse: Up? That's what I'm, I'm just looking to see if I have another bottle here. I'm on my last bottle. What, what? Nope, there's one more here. It was filled on 3 19. Ok. And I have one more [PHI-Personal], 90 days. So I've got it for, for a little while
+Patient: Until [PHI-Personal] ish. Ok. All right. So what I can do
+Nurse: Sometimes I have trouble explaining stuff and I think the girl misunderstood me when I told her that I needed one for now, for like, for just a week and then I needed the 90 day one sent to [PHI-Personal] for, uh, you know, uh, automatic refills.
+Patient: Let's see. If I can edit this. Yes. Oh,
+Nurse: I need it. Ah.
+Patient: Mm. Let's see. And it's [PHI-Personal] in Carlyle, right? That you have
+Nurse: Been using. Yes, ma'am. Ok.
+Patient: So, what I did was I changed your primary pharmacy. They had it listed as [PHI-Personal]. I changed it back to [PHI-Personal] and put [PHI-Personal] as your secondary. That's for like your emergency medications. Um, so the next time you need it filled, um, they should send it to mail order.
+Nurse: Ok. Ok. All right. Thank you so much.
+Patient: You are very welcome. And I'm also gonna send you guys a letter. Well, it'll be two letters, one for each of you. Um, it'll have our direct contact number on it. So, should you need anything in between [PHI-Geographic] visits in between our monthly phone visits? We encourage you to reach out, um, and it'll either be or myself that'll answer so utilize us as much as you want to. Ok. Ok. That's what we're here for. Let's see. Let me just make sure everything else is up to date. Any questions or concerns.
+Nurse: I don't think so.
+Patient: Ok. Well, I'll get my letters sent out. I'll try and contact [PHI-Personal] um, and get that metoprolol off of the automatic refills.
+Nurse: Yeah, because they said all we had to do if we want when I, they, I said no, they said all we had to do was, you know, call or go on the internet and we could get it started back again. But he, he, there's a couple bottles already in there that they sent before, you know, before he quit taking it. So, I don't know what to do with it, I guess. Just hold on to it because it's good for a certain, the time. If it would start going back up then I could, he could start back on it again.
+Patient: I would hang on to it just in case. Um, you never know if it decides it wants to come back up and yeah, wreak havoc again. Ok. They also fixed Russell's um pharmacy data too. They also had [PHI-Personal] Pharmacy as primary on that one. So that's all fixed and up to date and I'll contact [PHI-Personal] for you. Ok. Thanks a lot. You're welcome. You take care.
+Nurse: You too now. Thanks for calling. You're welcome.
+Patient: Bye bye bye bye.

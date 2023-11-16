@@ -1,0 +1,35 @@
+Nurse: Good afternoon. This
+Patient: Is [PHI-Personal]. This is [PHI-Personal]. Hey, how are you doing? I'm trying to do good with my sugar. But what would you think about trying to switch to uh Ozempic, Ozempic or Ozempic? I don't know because I got a pamphlet on that from the pharmacy. Uh huh. Yeah, to see if we can use that to see if that will help my sugar to go down more. Ok, because I, I got Ozempic, that's what it is. You know what it is.
+Nurse: Yeah, I know what you're, which one you're talking to? It's like a um, it's the injection. Yeah. Now I will ask um, [PHI-Personal] see if that's something she wants to do. Um, are you still taking the, are you still taking the Farxiga and everything? Oh my gosh. Yes. Yeah. Ok. Ok. Now I do know, um, if she does agree to the Ozempic, um, I will go ahead and let you know, some people do end up having um, stomach issues as one of the side effects from it. Um, nausea, vomiting, um, sometimes diarrhea, stuff like that. Um, but I, yeah, I know that would probably actually be good in your case, um, keep you pretty regular anyway. Um, but, uh, I'll ask her and see what she says. Um, what have your blood sugars been running?
+Patient: They've been running pretty high. Ok. Even with that and, and even with, and I'm trying to, I hardly eat honey. You know, I, I do, I hardly eat because I don't have the money to get the food that I used to get. And I do, uh, eat a lot of fruits and vegetables. Ok. I got, you know, to try to get my bowels to, to, to move, you know, but I don't have the feeling when I need a bowel movement, it seeps out. And also when I have to urinate when it comes on, I better be by a bathroom because I will pee my pants. So we're gonna try that stimulator. It's the [PHI-Personal]. She's gonna put that in and
+Nurse: That's it. Pain management.
+Patient: Yes. [PHI-Geographic] Sou. Ok. Yeah.
+Nurse: Ok. Um, ok. How long has it been since you've had like a good bowel movement?
+Patient: Oh, just the other day. I just, it, it was water, it came out, you know, but it was watery like diarrhea.
+Nurse: What was that? That was with the enema? Oh. What's that? Was that after you took the enema? No.
+Patient: Ok. No. All of a sudden it left loose and I was good that I was good with that because I'm glad I didn't, you know, go in my pants. But, yes, I actually went.
+Nurse: Ok good. Alrighty. Um well I will send a message in the book and ask her about the Ozempic and see what she says um and then when she gets back to me I'll give you a call back. Ok.
+Patient: Yeah because I've been on this one for a while and it it's just it's not really bringing my sugars down like I said I hardly eat, you know.
+Nurse: Yeah. Yeah and you're still taking your Soliqua, the 30 units daily? Yeah. Yeah. Ok. Ok.
+Patient: [PHI-Account] what it was this morning? Ok. The one day morning that I got up it was 2 20. Ok. Yeah. So, you know, that's the highest it's been.
+Nurse: Are you having, um, like any symptoms of high blood sugar? Um, like the headaches, blurred vision, fatigue, um,
+Patient: Excessive thirst. Yes. And I do drink a lot of water and I think that's what made it come out.
+Nurse: Yeah, because water will, the more water you drink, it's gonna come out one way or the other. So
+Patient: That's exactly, I would just love to see, see you in on the phone. I don't know.
+Nurse: I look pretty rough today, so I don't know about that.
+Patient: Well, I'm not rough. Too hot. I'm sweating, you know,
+Nurse: I think it's just the time of year. I think it's time of year. We all start looking a little rough.
+Patient: So,
+Nurse: Um, but, uh, I will talk with [PHI-Personal]. Um, it may be Monday. Before I get back to you. But as soon as she, um, lets me know something, I'll definitely give you a call back. Ok. Yes. All right. Um, well, um, I hope you have a good weekend. Hope it, everything goes well. Hope you can get some good rest this weekend.
+Patient: Yeah, I hope so too because I've been real busy with my grandbaby. Oh,
+Nurse: Yeah. Oh, yeah. Oh, you stay busy with that. My, my, my toddler keeps me pretty busy. So I know how that's going for you.
+Patient: Right? And I really like you. You're nice to talk to.
+Nurse: Hey, well, you're nice to talk to too. I enjoy talking to you
+Patient: That you,
+Nurse: Um, but, uh, I'm gonna get to working on this for you. Um, she may or may not give me an answer today. I don't know with it being two o'clock. But, uh, I, I'll, I'll at least have an update for you by next week. Um, but definitely, um, let me know on Monday. Um, if you haven't heard from me, especially if you have, um, your blood sugars stay high over the weekend.
+Patient: I, well, not only that, my pain that I have too, that probably elevates it.
+Nurse: Yeah. Yeah, pain does cause like, because it, of course pain, um, it stresses the body out. So any type of stress, that hormone that's excreted, um, it causes temporary spots and blood sugar, BP, pulse everything because it's like what I kind of compare it to is, you know, like your fight or flight response, um, like that burst of adrenaline you get, like, if you're in like a scary situation, like, hey, if I'm gonna punch this person or I'm gonna run away from this person, it's kind of like this, um, like that sudden spiking elevation. That's kind of how stress affects everything else. Um, so, um, that's probably a little bit of what, um, a little bit of what you're feeling because I know it don't really help though because I know you stay pretty busy with the grandkid and your family and everything. So definitely try to try to take some time for yourself this weekend if you can try to relax and if you have to just sit and watch your favorite show or something, don't let anybody in the door.
+Patient: Yeah, he got,
+Nurse: Um, but, uh, but I'll let you go enjoy the rest of your evening and, um, I'll get to working on this for you. Ok.
+Patient: Ok, [PHI-Personal]. And I want you to have a good weekend also, honey. Thank you. Oh, you're welcome. I'll talk to you later then. Ok.
+Nurse: Bye bye.

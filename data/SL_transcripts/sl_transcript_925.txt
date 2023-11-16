@@ -1,0 +1,33 @@
+Nurse: [PHI-Personal]. Hi, [PHI-Personal] Jack. Be
+Patient: Hi, how are you?
+Nurse: Well, not bad.
+Patient: Good, good, good. So it looks like from, um, what Doctor [PHI-Personal] is saying is he wanted to 25 units?
+Nurse: Ok. So I'm glad we brought that
+Patient: Up. I know. I know. So it's going to be 25 units due to persistently elevated glycemic values as per freestyle libre. Um, so just, you know, let us know if, um, the blood sugars go below 70 or above 3 50. Um, obviously if it's above 3 50 you didn't take your medication yet, that's different, you know, you take it. But, um, after the insulin or whatever medications you take, if it is below 70 or above 3 50 that those are things to let us know. Um, when it is, when it is below 70 though, you want to treat that. So you're going to, you know, drink some juice or, you know, do something in that matter and if you're still having problems with bringing that above 70 that, that's when you really, that's when you let us know. Um, yeah. Yeah. And if you're symptomatic too, so even if you're not symptomatic, when it's above 3 50. We, that still needs to be treated. Um, so if you, i, if it's where you're symptomatic and it's 2 50 then that's something to let us know. So, we always have to look at the symptoms too, you know. Um, with that said, I know it's a lot of information. So, the, the thing is if you need Claritin or you want to get, um, reassurance on things, if your sugars are just off and you're not used to the numbers, you can always reach out and we'll further assess that. Ok.
+Nurse: Yeah. Ok. Well, you know, I, I will um, monitor how neurotic I become. I'm kidding. No.
+Patient: Yeah, I'm going to make you more. You think I was going to help you? I'm going to make your anxiety go up 10 notches. You wait. No, I'm kidding. My bad. No, I, I'll tell you if there, if there's just anything off or you're having questions about any of it, just reach out and, you know, we'll further discuss that. Even if you feel like it's a silly question, just ask me anything. Ok.
+Nurse: Well, I took my 20 units early this morning. Can I just start this tomorrow with 25? Yes. Yes. Yes. Yes. Yes.
+Patient: Ok. Yeah, because it's a long acting you don't want, yeah. Add anything to it now. So you do them in the morning. You don't do it at night. You do your basaglar in the mornings.
+Nurse: I do, is that better? Good time or is it
+Patient: Better at night? No, it, it, all, everyone is different. Some people prefer to do it at night and then some people prefer to do it in the mornings. Um, it's probably gonna be a reason why it's higher in the morning just because you're not doing it at night. Um,
+Nurse: So that,
+Patient: Because, yeah, and that's probably why, because it's a long acting insulin. It's not like NovoLOG where it's fast acting where you could bring down your sugar within like, you know, 15 minutes to an hour kind of thing. Like the, the, the basaglar Lantus that it's all long acting. So it's supposed to have a life span of like 22 hours. You know what I mean? Somewhere around that. So it's not, it's not gonna instantly bring your blood sugar down. So that's why you're noticing the higher, um, sugars in the morning too. Probably. Well, it might,
+Nurse: It might be a good idea to switch over tomorrow night and do it because with the new med I'm taking, they like you to take it on an empty stomach and not eat anything or anything for a half hour. Um, I'm taking it after I take my insulin. I, I don't,
+Patient: You, you can do that. That's up to. Yeah. No, that's fine. You could do if you wanna start tomorrow to do it at night. You can certainly do that.
+Nurse: I think I, I'm gonna try that. Ok.
+Patient: Sounds good. Sounds good. So yeah. Yeah. Yeah, of course. You're welcome and yes and if you need anything else, just let us know. Ok. Ok. Ok. You take care. You're my new best
+Nurse: Friend. I know you made a BFF today. I won't abuse that. Uh no,
+Patient: You can, I don't care you can um go for it. Yeah. And, and I hope all goes well at your dental appointment today.
+Nurse: Yeah, I just got to have an adjustment. I need uh I don't mess with my food. I can't eat anything. So that's a great way to lose weight.
+Patient: Well, there you go.
+Nurse: Well, there we go. Yeah.
+Patient: Yeah, but you gotta make sure your sugars don't drop.
+Nurse: Yeah. Yeah, I can't look at the bakery. They oh my
+Patient: Gosh. Unless you put it in, listen, unless you purify it in a blender you can do that. Get the ninja bullet. It's not just for healthy stuff anymore.
+Nurse: That right. That's right. You're
+Patient: Gonna get a donut and mix it in with some like almond milk just to feel less guilty and you're gonna blend that right up. You watch, watch you like it. There there. Yes, there you go. It's less guilt.
+Nurse: Yeah.
+Patient: All right. Well you take care you have a good rest of the day. Ok?
+Nurse: You too. Take care. You're
+Patient: Welcome. You too. Ok, bye bye
+Nurse: Bye bye.

@@ -1,0 +1,26 @@
+Nurse: This is [PHI-Personal]. Hello. Hello. Hey, is this [PHI-Personal]? Yes, it is. Hey, [PHI-Personal], it's [PHI-Personal]. How are you?
+Patient: Ok. I am now. Out of rest. Well. Mhm. Uh, I don't know if I talked to you when I was there but I was in, in a medical induced coma.
+Nurse: Uh-huh. Goodness,
+Patient: For 11 days.
+Nurse: 11 days. Goodness. And,
+Patient: But I've been in there, I think it was [PHI-Personal] is when I got admitted.
+Nurse: [PHI-Personal]. Yeah, I think, I think so. I think I remember that now.
+Patient: Mhm. And then they just discharged me Tuesday. But I'm in absolute of west now.
+Nurse: Absolute. Just for like, some, some rehab to get a little stronger. Yes. Ok. Well, bless your heart. Well, I know it.
+Patient: Uh,
+Nurse: It's a process. But are you doing? Are you feeling? Ok.
+Patient: Yes. But I get tired awfully easy.
+Nurse: Yeah. You have to build back up that stamina and endurance. Right.
+Patient: Like, they had me therapy today and then they had me walk in and it just tired me right out.
+Nurse: Right. Right. Yeah.
+Patient: So, just put me back to be. Yeah.
+Nurse: Well, I appreciate you keeping me posted. And do they have any idea how long you're gonna be there.
+Patient: Uh, no, because they, I have to be able to take care of myself and be able to walk, walk.
+Nurse: Just depends on your progress at this point. Ok. Ok. Well, I'll make a note here and, and I'll be thinking about you. You keep me posted on how you're doing and, and if you move or go home or anything. Ok.
+Patient: Yeah, that's was here today.
+Nurse: Oh, did, were you able to see him?
+Patient: Yeah, he came in to see me. Oh,
+Nurse: Ok, good. So he, he gave you a check up and touch base with you. Well, good, good. Well, like I said, I'll be thinking about you and, and you keep me posted on any changes or anything. Ok. Yeah. All right. Well, at least you're on the, the uphill side. Yep.
+Patient: Now, right at the end of the tunnel. Yeah, it's been a long couple of months.
+Nurse: Oh, no doubt. I, I can't imagine but, but I'm here if you need anything. Ok. All right. Thank you. All right. Thank
+Patient: You. Yeah, bye.

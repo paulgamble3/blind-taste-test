@@ -1,0 +1,35 @@
+Nurse: This is [PHI-Personal] care manager.
+Patient: Uh This is Kay [PHI-Personal]. Um I'm go to [PHI-Personal] and this is the first time I've used this number but I have three prescriptions that I need to get refilled and I have an appointment with them next week, but I'm not going to have enough because I order my medicine through Optum Rx mail order. Ok. So I'm going to have to take care of it before then.
+Nurse: So let me get you pulled up here real quick. Give me one moment. Alright. Can you verify your birthday for me? [PHI-Personal]
+Patient: [PHI-Account]. Ok.
+Nurse: Right. I got you right here. So what medications do we need refilled? Ok.
+Patient: Um and wait a minute I think I might have the wrong. No, I need um uh I'm gonna spell it. Meto pr Olol 15 mg. I think that's uh BP.
+Nurse: Yeah. Metoprolol. Ok.
+Patient: Ok. And then my stomach pill panto pr A zole 40 mg. Ok. And the other one is my thyroid medicine levot Hr Oxine and that's 1 25 MC G. Let me check. I have got one more but I think I have plenty in that she has me on two different BP medicines. Ok.
+Nurse: All right. So I have here, you have two different doses of the levothyroxine. The 1 25 and 100.
+Patient: She increased it to 1 25.
+Nurse: Ok. Let me, I'll fix that on you.
+Patient: Who? Yeah, hold on for just one second. Something's not driving here. Ok. Ok. This is my Lisinopril but it looks like I have a lot of it. How I have one that was uh renewed and the other one was, you know what I'm saying when my blood because I take one of each. Yeah, but I have enough of my Lisinopril to do for probably a month maybe.
+Nurse: Now, what was that dose of the first one? The metoprolol
+Patient: Um 50 mgs is what? This is?
+Nurse: All right. And those are the only three that you needed.
+Patient: Yes, I, I only take four but that they, none of them have a refill and I get 90 at a time and
+Nurse: You want them all sent all three of them sent to the Optum R
+Patient: [PHI-Personal]. Yes, I have enough to do until it gets here.
+Nurse: Ok. All right. So I got that sent in for
+Patient: You. Ok. That's all I need.
+Nurse: All right. And then I just wanted to let you know since this is the first time you called in um we also send out what's called care plan. So what those are, are pretty much the medical milestones that Medicare [PHI-Personal] like you to hit. Um, and that's things like if you're due for a colonoscopy, a flu shot this year pneumonia vaccine, things like that. So that'll get sent out. That's also gonna have my name and phone number on it. Ok. And then let me see. You said you're only on four meds. Do you mind if I go through your medication? Just since also we have that um, little snafu with the levothyroxine. I just wanna make sure your med list is
+Patient: Up to date. I have two eye drops for Glauco glaucoma, but I don't need either one of those. Ok. So I have an eye drop. I have an eye drop I take at night and one I take in the morning morning. Ok.
+Nurse: So I got those and I have the pantoprazole, the metoprolol, Lisinopril. Are you still taking famotidine? What's that for? That's another stomach pill. But it looks like you got it over the counter.
+Patient: No. Uh, no, I, I've been taking this panto,
+Nurse: That's what I figured. So we're gonna get rid of the famotidine and we'll get rid of that other levothyroxine
+Patient: Famotidine. Uh That's Imodium
+Nurse: Um um NexIUM or not NexIUM. Um Pepcid.
+Patient: Pepcid. Oh Yeah, I take those over the counter. Are you? So
+Nurse: You're still taking the
+Patient: Famotidine when I need it? Ok. I don't take it. I don't take it daily. I do take this other one daily.
+Nurse: Ok. I will get rid of that. 100 mgs of the levothyroxine. And then do you still use the flu? I never say this right. The Flonase nasal spray.
+Patient: I haven't. No, I mean I have it but no, I probably should because I have sinus problems but no, I don't keep it on hand. Ok.
+Nurse: All right. Well, very good. So I got those sent out for you. I'll get this med list fixed up. Um and then if you have any other medical or health related questions concerns feel free to give me a call anytime. Ok.
+Patient: Ok, thank you. Alright,
+Nurse: Cathy you take care. Ok, bye bye bye bye.

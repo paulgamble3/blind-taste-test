@@ -1,0 +1,73 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Well, just hi,
+Nurse: How are you? How are you? I'm, I'm good
+Patient: Now. Why, why was I call?
+Nurse: No. So I, I called you yesterday. Um, I'm calling from [PHI-Geographic]. Um, because you had been signed up for the nurse case management program. Um, so basically I, I'm going to be just, you know, calling to see how you're doing in between your office visits. Um, I can help you if you need a medication refill or you have a medical concern. I can pass it on to a net or help you schedule an appointment or ask for a referral, things like that. Ok. And then, so the number you're calling is actually my direct number. Um, I'm here [PHI-Account] to Friday, you know, for maybe holidays. Um, and so, yeah, and if I am on another line, yeah. Um, if I'm on the other line then if you leave a voice mail, I usually get back to you, you know, within an hour. So, um,
+Patient: So I won be calling into the office.
+Nurse: Um, so you, you can, if you want to and leave a message there or you can just call me directly because you have my direct line. Um It's just, you know, whatever you prefer. Um I think the office is open a little later than 4 30. So if it's like urgent, you know, maybe a, you know, after hours you might try their after hour service. I don't want you to have to wait for me if it's urgent.
+Patient: Ok. When did that start doing?
+Nurse: Um So, so we've been, um, you know, [PHI-Geographic], the whole, uh, you know, has, has, has this program in a lot of their locations. And so we just started with Williamsport, we started enrolling patients. Um, that was like the end of last month, we started enrolling patients. Um, and so I switched over to this location from another location. Ohh. Oh,
+Patient: Ok.
+Nurse: Yeah. So what was
+Patient: That? Sounds good. Yeah,
+Nurse: Good. Um, if it works I have, I mean, ii I like to think I, I, it help but, um, you know, it, it's a, it's, it's an opinion, I guess. Let me see for, for today. Would it be ok if I read you the list of medications we have in our system and you can tell me if you've stopped any of them.
+Patient: Uh, ok. I, I'll try to remember. I don't have the list with me. I know mostly what, what we, what we got.
+Nurse: Yeah. Do you still have the Lotrisone Cream from [PHI-Personal] if you need it? It's for the, um, it's like, um, twice a, it was for twice a day, for two weeks.
+Patient: Oh, for diaper rash?
+Nurse: Yeah. You, you have it on hand if you need it.
+Patient: I do have some that I think I got, um, I just had a refill. I think I might be coming up with another one because it's only a little tube. Yes. But I'll, I'll call and then I'll call you and then you can.
+Nurse: Yeah. Do you? Um So it looks like it was sent last on [PHI-Account] and they actually sent, it says they sent three refills. Um So you should, you sh you should have, you know, if you need it again, you should have um more because it was originally sent on the last month. So you should have some more if you need it. But if you run out call and let me know and I can get um all right. And then do you still have the Diflucan? Um So that was like kind of the pill for the diaper rash if needed. What is that? Now? It's like fluconazole would be the name. It's like an oral antifungal for your, for the day rash. It was the pill, it was sent on [PHI-Personal] 9th too. I know. Right. Oh, and they gave you a pill at the same time they gave you the cream.
+Patient: But that was, that was only for, that's the one I had was only for a week.
+Nurse: Yes. So you, you finished that
+Patient: Was, that was for the bladder. Yeah.
+Nurse: Ok. Do you still have the Flonase spray if you need it?
+Patient: I have that. Yes, I do.
+Nurse: Good. Are you still taking folic acid? One mg a day? Yes, I am. Good. And tamsulosin 0.4 mg. Um, it was, it was an older one.
+Patient: Is, is, no, I'm not taking that anymore because I had my prostate taken out.
+Nurse: Oh, ok. Well, that'll do it.
+Patient: That's what, that's, yeah, that, that was kind of what that was for. So,
+Nurse: Yeah. Good. Um methotrexate. 2.5 mg. Four tabs, one day a week. Labs every three months. Good. All right. And then hydroxychloroquine, I can never say that. 12
+Patient: [PHI-Account]
+Nurse: Yeah, 200 mg two daily. Uh let's see. Simvastatin 20 mg every evening. Yep. And, and then omeprazole 20 mg which is like for acid reflux as needed daily. I'm
+Patient: Taking that too. Yes,
+Nurse: Good. All right. Did I miss anything?
+Patient: Oh. 00, that um is that called, is that Finasteride you take uh maybe that, is that still on there?
+Nurse: I don't see it.
+Patient: Ok. Well, we have that taken off too because that was in the same, that, that the uh uh the one I just told you off the off.
+Nurse: Yeah, exactly.
+Patient: Yeah. Anyway, it was two of them that were doing the same job. They were both taken out. Good. Perfect. I don't need them.
+Nurse: That's good. Um let's see. Well, do you need any refills on any of them while you have me on the phone?
+Patient: No, I'm on, uh, uh, what's it called? [PHI-Personal] thing? Drugs. Yeah, they're sending, yeah, they're sending things left to write to me. I don't order them. So I got enough ahead here. I gotta call them and tell them to hold off but look like they just done it. No. You know, a heads up. So we're gonna have to call them and, but other than that, yeah, I got all my pills so far. Good. So, and I gotta go, well, I'll be down there. Mhm. Well, they moved, they moved the day but cos of that. Mhm. And that will be, I had one for next Monday but they moved it. I won't be until the [PHI-Personal].
+Nurse: It's, it's the [PHI-Personal].
+Patient: That was, yeah, that's the one I got canceled and they moved me to the [PHI-Personal].
+Nurse: I'm still showing that you're scheduled October [PHI-Personal] at 9:15 a.m.
+Patient: Well, that's what I had and that's what they called my wife and said they canceled it two to the 27th at eight o'clock. Maybe, maybe you could check on that.
+Nurse: Let me, let, let me double check, hold one second. Um, because I'm gonna look up to see if I, ok, I'm gonna look something up. Let's see. Bear with me because if they called your wife, well, she is, I don't see any record of anybody calling out. Um, so you're, you're on, I'm in her chart. She has an appointment [PHI-Personal]. So, tomorrow at 11:15 a.m.
+Patient: Let me go look at her calendar.
+Nurse: I'm looking, she had, yeah, and she had labs done. Not, let me see on [PHI-Personal]. Is it, is it possible? It was just like a transposed number?
+Patient: No. No. Yeah, because, yeah, she's, well, hers was changed, hers was the month before they changed her up into the, the [PHI-Personal]. Mhm. For her. But mine, they called her. It was for me. Mhm. So, but you don't have any?
+Nurse: No, there's, I don't have any record. Um, on the third. I see we had refill request. Um, is it possible, do you have any, anything else coming up? Like, I know she had a colonos, like if there's like a colonoscopy. Um, but I'm not seeing.
+Patient: Ok, I have on the [PHI-Personal] I got my rheumatoid doctor. Yeah.
+Nurse: Maybe, maybe it was for that.
+Patient: No. No, because that's, that's been the same day because I had to go get blood work just before I went in to do that. But it's still on the [PHI-Personal]. I, I think it's on my, all right. See,
+Nurse: Yeah, unless, yeah, because I, I don't
+Patient: See that.
+Nurse: Maybe, maybe that was rescheduled.
+Patient: No. No, no. Ok.
+Nurse: I'm still, you always, you always get a call before to confirm your appointment, right? They always, the office always calls you to confirm. Oh, do they or no?
+Patient: But, well, you know what, I can't remember whether I don't remember calling in. Uh,
+Nurse: Yeah, as, as of right now it's still October [PHI-Personal] in our system. I mean, you can have, your wife is gonna come tomorrow so she could always double check then too just to make sure it hasn't been moved. Like if they called, if, if they called recently, maybe it hasn't updated in our system. But as of right now you're still on for October [PHI-Personal] at 9:15 a.m. Yeah, I know I was gonna mention it too. But yeah, but I mean, just have, you can have her double check just in case nobody's updated something in the system yet like they like because as of right now everything I'm seeing is the [PHI-Personal], so I'm not sure.
+Patient: Ok, then the other, only other appointment I got on the [PHI-Personal] with Doctor [PHI-Personal].
+Nurse: Maybe it was that.
+Patient: No, that's pretty much [PHI-Personal].
+Nurse: Yeah, I'm just wondering if, yeah, I'm not sure. Well, hopefully whoever, you know, if it wasn't us, hopefully whoever is call is back. I'm sorry about that.
+Patient: Yeah, I'll ask about that when she gets home.
+Nurse: Ok. Yeah, because as of right now
+Patient: Tomorrow,
+Nurse: Yeah, as of right now it's still the [PHI-Personal]. Maybe they were talking about labs, you know, maybe they want you to get labs on the 27th, but there's not, that's not scheduled yet either. So, I, I don't know. I'm sorry. Well, um, I'm gonna send you a letter, um, that has, uh, my name and, and direct line again. So you just have it and it also have a list of your goals. Like, make sure you go to the doctor once a year. Um, the usual stuff. But in, is there anything else that I can help with while you have me on the line?
+Patient: I, hm, no, not re, not really until I get done with this process. You know I don't know what what they're doing because I had to come down there because I had diaper rash so bad
+Nurse: And then I talked to. Oh
+Patient: And that wasn't in so I talked to you. Oh wait there was some what's the last name? It [PHI-Personal]?
+Nurse: Yeah and just make sure you're using Vaseline and avoid avoid triggers um and take take that use that cream if you need it but so is there yeah is there anything else I can help with? What what was there? Was there anything else I could help with?
+Patient: No I don't think so. I think that pretty much.
+Nurse: Ok good. Yeah you have my numbers if you think of anything I'm here. Alright, thank you. I hope you have a good day. Oh no it is. Oh I never check the weather I don't wanna know. Oh great. Ok I'll keep an eye on that. Thank you. Alright, stay stay safe bye.

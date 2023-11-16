@@ -1,0 +1,26 @@
+Nurse: Care management. This is [PHI-Personal]. Can I
+Patient: Help you? [PHI-Personal]. [PHI-Personal]. This is [PHI-Personal]
+Nurse: Lawyer. Hi, [PHI-Personal], how you doing? Good,
+Patient: Good. I can't be [PHI-Personal] with you long today because I'm sitting in the parking lot waiting for my wife to get fish dinners. So I got a few, I got a few minutes dinner.
+Nurse: Where are you getting them from? Price Shopper? Oh, you know what? My dad loves them. I never had it like
+Patient: They took it for you. Oh, sure. Yeah.
+Nurse: Yeah, that sounds wonderful. Good. Ok, because
+Patient: I'm doing pretty good. I, uh, I just, uh, what the hell, I just had an eye appointment that came out. Ok. I had an appointment with doctor [PHI-Personal], uh, oncology. Uh, checkup that turned out. Ok. Um, I guess, I guess that's about it for the moment.
+Nurse: Ok. Doctor [PHI-Personal], that's oncology, you said? Ok. Yeah. All right. Did you get your flu
+Patient: [PHI-Personal]? Uh, we're getting that tomorrow morning.
+Nurse: Ok. Tomorrow it's 12 [PHI-Account]. I'll mark that [PHI-Personal] your doctor asked me to update everyone's Wellness goals. That letter we send out every year. So, uh, because next month we'll start a brand new one. So and I just mark that you're gonna do that tomorrow and then, um, your wellness visit. That's what I was looking to see. Do you know if you had a wellness visit with this year? Yes. Oh, you did? Ok. I didn't see it at first. Ok, good. There it is. All right. How about medications, [PHI-Personal]? Are you taking everything as directed?
+Patient: Everything is good and I'm taking all that I'm supposed
+Nurse: To. Ok. Good. I figured you would be. That's good. Now, what are you doing as far as, did you guys recently get nailed with all that snow? Oh God. Yeah. Yeah. What are you doing as far as, like, what do you, what do you have to do for snow removal? Do you have to take care of that?
+Patient: Yeah. Yeah, I'm responsible for it. Yes,
+Nurse: Indeed. And are you like, you're not doing all shoveling, are you,
+Patient: Are you still? Yeah, I know. I know. I know. I don't do a whole lot of it. It's just a little clean up. I have, I have a snow blower so that pretty much takes care of all of it. And, uh, and my bride who is, has a lower center of gravity than I do. Uh, she, she's not, she's right here. She's not here. She doesn't like that comment very well. But, uh, uh, she, she takes care of the heavy duty stuff.
+Nurse: Wow. You guys, you got to be careful, you know that and I know people don't have a choice but if, if you have to be out there take lots of breaks, you know, just make sure you're dressed warm. You, you know, it's a strain [PHI-Personal] the heart. That's my big concern. Oh, sure. So that's, that's the big deal because the cold makes the heart work harder and then you're doing that exertion [PHI-Personal] top of it. So, um, you know, just little, little patches, you know, I know it takes you guys got hit big time though early that was early. Um So you know, just and I know you guys know this but it's just we they like us to remind people because that's like when people start grabbing their chest and you know, it's scary. Absolutely. Mhm. Ok. So um you seem to be doing ok. Um any concerns at all for Doctor [PHI-Personal]?
+Patient: Uh No, not at this point. No.
+Nurse: Ok, good. And I'm just looking to see here your next appointment. You have an appointment with [PHI-Personal] for your skin. Ok. Yes. Skin check. Perfect. And then you see Doctor [PHI-Personal] [PHI-Personal] [PHI-Personal] the [PHI-Personal] with blood work. Fasting blood work. Yes. Ok, good. Well, that's, you know, you must have be doing pretty good if your next appointment is not until [PHI-Personal]. So that's fantastic.
+Patient: Ok. Well, I think so. Yeah.
+Nurse: Yeah, absolutely. Absolutely. And uh you know, if you need anything I'm here, just give me a call.
+Patient: I will [PHI-Personal] and I have to run now because my bride has the fi
+Nurse: That's ok. Enjoy your fish dinners. [PHI-Personal] Christmas. Happy holidays.
+Patient: Ok, [PHI-Personal]. Same to you. Thank
+Nurse: You, [PHI-Personal]. Take care.
+Patient: Bye bye bye bye.

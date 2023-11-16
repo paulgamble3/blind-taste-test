@@ -1,0 +1,13 @@
+Nurse: Good morning. This is Nurse care Management. How can I help you uh
+Patient: Returning your call.
+Nurse: Um Yes, ma'am. Can I have you just verify your date of birth for me, please? [PHI-Personal]
+Patient: [PHI-Account].
+Nurse: Alrighty. Thank you so much. So my name is [PHI-Personal]. I am one of the care management nurses assigned to give you a call to get you all. Um set up for the program is now a good time to do that.
+Patient: Yeah, go ahead. I don't know what we're talking about.
+Nurse: I'm sorry, can you repeat that
+Patient: Part you talking about?
+Nurse: Ok. Um So it looks like I have you and Mister [PHI-Personal] as well. So the Care Management program, what it is is we give you a call in between office visits and you know, we kind of like check in on you um help you with medication refills, go over provider appointments like it looks like you see doctor at [PHI-Geographic]. So we would go over those appointments with you, go over any of his or the other provider recommendations. Um We can also assist you with booking appointments and answer any questions you might have as well as um, excuse me, I need a sip of water as well as helping you make appointments and provide education on some of the different conditions that you have. So, with that being said, how does that sound?
+Patient: Well, I, I think we're, we're fine without doing any of that.
+Nurse: Ok. So what I can do is I can set it up to where if you need anything, you can call us or I can set it up that um just to completely opt you out of the program. So would you like to call us if you need anything or would you like to completely be removed from the program?
+Patient: Just be completely removed from the program? Because I really, we really don't need it yet. Ok.
+Nurse: Ok. I'll go ahead and remove the both of you. Um Would you mind just verifying Mr Williams date of birth for me, please? 54 40. Alrighty. Thank you so much. And should you change your mind? You know, you can give the office a call and they'll get you back in. Ok. All right. Thank you. You're welcome. You have a great day. You too.

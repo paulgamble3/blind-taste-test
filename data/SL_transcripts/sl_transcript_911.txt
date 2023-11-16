@@ -1,0 +1,15 @@
+Nurse: [PHI-Personal] Medical Group. This is [PHI-Personal].
+Patient: Hi. May I speak to [PHI-Personal], please? I believe she's my, uh, person.
+Nurse: Did you already get in enrolled into the program? Well, I
+Patient: Did, I spoke to someone, I, um, the follow up letter I got was from [PHI-Personal] and that's believe it was from
+Nurse: Her. Ok. It, well, [PHI-Personal] is the enrollment specialist. That's why I ask, um, your nurse is re
+Patient: Ok. Well,
+Nurse: But, uh, is off today and I'm covering. So. Ok.
+Patient: So, well, I may need to speak to her, um, when I spoke to her. Uh huh. Or [PHI-Personal], I guess it is. Um, well, I didn't feel I needed this. Um, I kind of was under the impression that it was almost mandatory that this is what my doctor wanted me to do.
+Nurse: Absolutely not. No, it's not mandatory. No.
+Patient: Yeah, I, I would prefer not to be enrolled and once I got the letter and I saw that, uh, you know, [PHI-Personal] is going to be charged, you know, I, I was in the hospital for three months and, and I never talked to my doctor. So I, you know, I don't think this is something that I need.
+Nurse: Not a problem. I can absolutely take you out. Great. Ok, would you like me to take you out completely or would you like me to keep you in? Um, just so you can call in if you need us.
+Patient: No, just take me out. Got
+Nurse: It. No problem.
+Patient: Well, that was easy.
+Nurse: You're welcome. You take care. Bye bye.

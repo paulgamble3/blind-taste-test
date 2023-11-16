@@ -1,0 +1,16 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi. I just got a call from our for care management or some kind of a program with Temple [PHI-Geographic].
+Nurse: Yes, this is [PHI-Personal]. I called you. So we're playing phone tag.
+Patient: So it looks that
+Nurse: Way, huh? Yeah. So first I'll tell you the call is being recorded for quality purposes and the reason for the call is the doctor's office is providing new care management program. And now what that is is the nurse will give you a call to see how you're doing in between office visits. She answers any questions, refills prescriptions. She will address any issues you're having and she could also help with appointments, lab work, things like that. The program, it helps keep the doctors updated and avoids emergency room visits and all the calls the nurse makes are documented and sent to the doctor for review. They are treated as a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. And they're also subject to deductibles and coinsurance. So you might receive a statement from the practice. There's also a behavior health program, which is the same thing except for the nurse, we'll talk more the lines on maybe anxiety or depression or things that fall into those categories. And that's also subject to deductibles and coinsurance I have here. You have [PHI-Personal] and [PHI-Personal] healthcare. Is that still correct?
+Patient: Um No, I, I don't have [PHI-Personal] anymore. I have [PHI-Personal],
+Nurse: [PHI-Personal]. Ok. I'll have to look deeper maybe in the charts for that one. Well, I
+Patient: Just, I just changed this year because they're um their premiums went up so much that I thought I try, you know, somebody different with a, a cheaper premium. So it was as of January, as of January this year. It's [PHI-Personal].
+Nurse: Ok. All right. Well, everything looks good for you. If you're ok with it, I could set you up and your first phone call from the nurse would be within two weeks from today.
+Patient: Well, I'm seeing her in [PHI-Personal] anyway. So,
+Nurse: Right. That you still keep all your appointments and do everything you do regularly. Mhm. This is, um, just a phone call from the nurse in the meantime, while you're not seeing the doctor to check up on you and to update the doctor on anything that's going on or if you have any questions or anything in the meantime.
+Patient: Mm. No, I don't think so. I mean, I've been feeling ok, I've been doing all right. So, um, I haven't, I don't have any problems to deal with right now.
+Nurse: Ok. Is that ok if I send out a letter that way you have that information?
+Patient: Ok, that'll be fine.
+Nurse: Ok. Are you still at 4605, Silverwood Street, correct. [PHI-Geographic]. Correct. All right, [PHI-Personal]. Well, thanks for calling me back. I will send you out a letter. Ok.
+Patient: Ok, good enough. Thanks a lot. Thank you so much. You're welcome. Ok, bye bye. Bye bye.

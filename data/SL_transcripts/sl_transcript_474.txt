@@ -1,0 +1,10 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal].
+Patient: Hello, this is [PHI-Personal]. I have a message to call [PHI-Personal]. Alright, let me see here. Thank you. This is doctor's office, isn't it? Yes.
+Nurse: Um Oh,
+Patient: I'm a patient of his.
+Nurse: Let me see one second. I'm trying to figure out which one called you. Ok.
+Patient: Ok, I have a message here that, that [PHI-Personal] called and yes.
+Nurse: Ok. It looks like she is on the other line. Can I have her give you a call back when she gets off?
+Patient: Absolutely. Ok, I will answer it. It's [PHI-Account] [PHI-Account] and it's [PHI-Personal] and I'm a patient of [PHI-Personal] S.
+Nurse: All right. I will have her give you a call as soon as she gets the. Ok.
+Patient: You're welcome. Bye bye bye bye.

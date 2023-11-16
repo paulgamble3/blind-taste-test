@@ -1,0 +1,21 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yeah, this is, this is my other number because you were calling me on my main number and, um, I, I'm s and I got my on, you know, because I needed to call back. I know you left the voicemail. But yeah,
+Nurse: So doctor [PHI-Personal] said that you have to have a visit in order to, you have to have a face to face visit in order to, um, start the process for the electric scooter. Um, so let me get you all pulled back up here real quick. I don't know if you want to wait until the visit that's already scheduled.
+Patient: No, he need, he needs to follow up on the hospital. So. Oh, uh, yes. As long as it's like two weeks away. Mhm. Schedule me one.
+Nurse: All right. Let me look real quick.
+Patient: Uh, because, uh, last time I called, um, could find an appointment that's, they're close.
+Nurse: Yeah. And I couldn't either. I just looked for my LA as a matter of fact, I still have it pulled up. The closest visit that I could find was, um, hold on here. That's funny when I flip back [PHI-Personal] just came open. Um, but that's for that patient. So I let me, let me look real quick. Um, [PHI-Personal], I believe was open. Is that soon enough for you, [PHI-Personal]?
+Patient: Yes, that's fine.
+Nurse: Ok. Let me, yeah, I can hear you now. I, I didn't hear anything a second ago. Give me one second. Let me get it all pulled back up though.
+Patient: That way to give me time to push [PHI-Personal]. Hurry up and give me the letter that everything in place.
+Nurse: Yes, exactly. That's very true. All right. So [PHI-Personal] at house, uh, 7:30 a.m.
+Patient: That's too early, man. I about 7 40.
+Nurse: I have 7 37 45 are the only two times that I have on those two days in the more that day. Yeah. Yeah, that's all that's open those days. Um, if that doesn't work for you, then I can have the in office staff reach out to you. Um, because they can manipulate the schedule more.
+Patient: No, basically set it up for the date and put me on the list for any cancellations. Ok. As long as I can give, they give me time. Like for example, if I have three days notice that would be perfect. 34 days notice that that'd be perfect.
+Nurse: Ok, so I'll schedule you for [PHI-Personal] then at 7 45 and then I'll ask the office to put you on a cancellation notice.
+Patient: Yeah, tell them that I need three days, at least three days. That way my insurance will approve it.
+Nurse: All right. All right, I'll let them know that. Ok.
+Patient: Yes ma'am. Thank
+Nurse: You. You're very welcome. I'll talk to you soon. Have a great day,
+Patient: Talk to you in an hour
+Nurse: Maybe. Huh? Alright, bye bye bye.

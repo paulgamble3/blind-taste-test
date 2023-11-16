@@ -1,0 +1,28 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Yeah, I, I didn't think he'd be in so early.
+Nurse: What can I do for you this morning? Doc?
+Patient: Um, well, I wanted to thank you for your help. Um, did they, were they able to put a prescription in as well? You know,
+Nurse: Let me check, let me get you pulled up here. Ok.
+Patient: Ok, because the second half of my problem is I got the sensor and I put it in and it's not working. Oh, no, it keeps saying, you know, it'll be ready to use in 60 minutes and then it counts down and it says check and see if it's loose and I do and everything's ok. But then it says get a new scanner or a new sensor and it just keeps going over, you know, I'll say I'll take it but, and I'll wait the 60 minutes. But then it says, let's see here. Mhm.
+Nurse: All right. It says he makes a note in here that he's ordering the [PHI-Personal] three, system for you. Uh,
+Patient: That's something.
+Nurse: Yeah, that's something that they'll, I have to send, you know, like I said to ad me company so I, I can't tell yet if they've done it. Um,
+Patient: Ok. Is, is there, you know, if it's not, it's, it's not a huge issue. It's just so much more convenient. But do you think it's possible that the other, that the doctor still has, has another sample? I can try today or, or? No.
+Nurse: Let's see. And that was a [PHI-Personal] two sample. Correct?
+Patient: Yes, ma'am. Ok. See here. Oh, let's
+Nurse: See here. I can send a message over to, um, find out. Are you very close to the office?
+Patient: Yeah, I'm like five minutes away. Ok.
+Nurse: It could be faster for you. I would lean to think they probably still have another sample. It may be faster for you to just go see because it's Fridays and I don't always get the most timely replies
+Patient: On Fridays. Ok. So that I can do that.
+Nurse: Ok. Well, try that. Um, if, by chance they don't, I feel like they do but if, if by chance they don't then just use the Glucometer. Um. Ok,
+Patient: For now. Um, can you maybe just set them a note saying that I will be coming by to see if they have one? So they're not. Yes. Yes. Absolutely. Mhm. I
+Nurse: Absolutely can do that. Mhm. Yeah. And they must have sent an order somewhere. I, I can't, usually, if something gets sent like a new order for something, they will scan it in once it's been faxed, um, to a certain section of your chart. It's not there yet, but I do see where it's been ordered. So it's an active prescription for you as of yesterday. So it was likely sent somewhere. I just don't have any details about that yet.
+Patient: Yeah. And hopefully they're supposed to, the Tampa General [PHI-Geographic] Pharmacy was supposed to um, be mailing me the rest of my chemo pills because I didn't have enough for. Oh, goodness. So I have, I need to check I mean I I think I'm o ok for a couple but you know it's a small bottle and I take seven of them a day and they're big
+Nurse: Pills right? That they'll go quickly.
+Patient: Yeah so we'll see what I hear from them.
+Nurse: Yeah I have that so you don't get disrupted over the weekend with that regimen. All right, I'll shoot a little message over um just to let him know
+Patient: But like
+Nurse: I said that's probably gonna be your fastest route.
+Patient: Yeah, that makes sense. All right. Well I appreciate it. I hope you have a great weekend.
+Nurse: Absolutely. You too. Don I'll
+Patient: Talk to you next week. Alright.

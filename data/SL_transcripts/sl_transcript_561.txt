@@ -1,0 +1,22 @@
+Nurse: Good morning. This is, how can I help
+Patient: You? This is uh, pain in the Butt show. [PHI-Personal]. Oh,
+Nurse: No, do not say that. What's up?
+Patient: Well, I called just to check about this, this doctor and he does not do that kind with the, with the uh, that kind of a thing in my throat. Ok. So she gave, he gave me, they gave me a name of a, uh, another doctor. Uh, he's from Protic and uh, he's in [PHI-Geographic] and III, I want to give you that name and see if he recommends him because I, I don't know anything about these doctors, you know.
+Nurse: Yeah. All right. What's that name?
+Patient: It's [PHI-Personal] wearing W er N in G? Ok. And uh, he, his office. Yeah, I told you it was in [PHI-Geographic]. I can give you that phone number. Yeah, if
+Nurse: You have that handy, that would be awesome.
+Patient: Ok. It's [PHI-Account], [PHI-Account]. And they gave me his fax number because they said that they're going, even though it's all on, on uh, my chart, he needs to have a referral from doctor [PHI-Personal], uh, in order to uh, see me.
+Nurse: Do you have that fax number as well?
+Patient: Uh, they gave me, um, let's see, that [PHI-Account]. Ok. Uh, [PHI-Account], [PHI-Account]. Ok. Now, if, if doctor doesn't think he's appropriate, he'll tell me. Right.
+Nurse: He will. Yes. Or if there's somebody that he would rather, you see, um, you know, just somebody he's had a really good relationship with or somebody he really, really likes, he'll let you know and give you and pass along that name as well.
+Patient: Ok. Ok, because II, I truly would rather go to someone that he knows because he would be, he would know. Of course. So anyways, that's all I wanted to do.
+Nurse: Perfect. I'll pass this along to and see what he says. Ok.
+Patient: Ok. Do you care if he'll look at that today or
+Nurse: He should look at it today? I sent it as a high priority message. Um, so if he doesn't see it today, he'll see it first thing in the morning.
+Patient: Ok, because, um, and then you'll send him now that new information. Mhm.
+Nurse: I sure will. I'm gonna open up the message that I originally sent him and I'm gonna add this information to it for him.
+Patient: All right. Thank you so much. And, and, and please, and please put in there also that if someone he prefers that he knows is good. I would rather do that as long as,
+Nurse: Ok, I'll let him know
+Patient: All right, thank you, [PHI-Personal]. You're welcome. Hopefully I won't bother you again.
+Nurse: Oh, that's what I'm here for. Do not worry about it.
+Patient: Ok, I'll talk to you later. Alright, speak to you later. Bye bye. Thank you. Ok.

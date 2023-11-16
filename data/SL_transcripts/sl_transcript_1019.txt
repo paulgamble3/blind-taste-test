@@ -1,0 +1,52 @@
+Nurse: Good morning. This is,
+Patient: Oh, I, I thought this was a radio station. You, you can get a job on a radio station. You sounds so good. This is [PHI-Personal]. Thanks for calling me. I was in the shower. Yeah. Could I, uh, set up something with you or?
+Nurse: Sure. That's not a problem. Um, let me see what they actually have in here. They had some orders, I guess from a previous appointment when you went back in October. Well, they put them in there back in October to make sure everything's in there. I sent the message and then they, they, they messaged me back and they said orders present and that's all they told me. Oh,
+Patient: Ok. What are you going to do?
+Nurse: Nothing? I'm gonna still be good. Mhm. Ok. Yeah, I mean, they, they, they added, uh, a urinalysis. Right. Right. But I don't see any, I don't see any, um, I don't see the hemoglobin A one c, so I'll tell them that you want to get that checked too because it looks like that was last checked in, back in [PHI-Personal]
+Patient: Two. Well, they do it with the blood. Right.
+Nurse: Yeah, they do. It, but they, you can have a blood draw. But if that's not one of the things that's on the list, they don't check for it.
+Patient: Oh, yeah. Right. I understand you. Find out everything through the blood. Is that true?
+Nurse: Pretty much so?
+Patient: Yeah. Mhm. Yeah. So, uh, I'll, I'll take whatever I can get.
+Nurse: Yeah. Let's see here. Yeah. Ok. Let's see here.
+Patient: You can't be tied yet. It's only Thursday. It is Thursday. It's spring, it's spring. Girl, you should be jumping all the
+Nurse: Allergies in the air. Oh, I'm
+Patient: Dying. I'm dying. I can't believe it
+Nurse: A lot going on out there.
+Patient: Yeah. My eyes and nose and throat.
+Nurse: Everybody's suffering. Can't
+Patient: Sing opera anymore. It's been really been bad, you know?
+Nurse: Ok. Are we gonna do these fasting labs? Let's see. Your lab.
+Patient: Tell you the truth. I'm going to the doctor right in about 10 minutes. Uh, I get my port, you know, they have to put the fluid in and clean it out and I went to the doctor yesterday and I'm cancer free now completely. So I have to. Yeah. Isn't that great? Yeah. Well,
+Nurse: Happy to hear that.
+Patient: Yeah. Well, you can get a couple more years out of me. You know what I mean? So, uh, I'm so happy to hear that. Yes. It, uh, you know, she told me I had stage three. So I said, yeah, I, they are doing better with curing cancer but that they're never going to cure it. But she said, well, you should, uh, in five years, take another test, but right now you're cancer free. So, it's, it's good to hear, you know. Um, one day at a time, that's all.
+Nurse: I'm pretty sure your positive attitude helps though too, without
+Patient: A doubt. Yeah, I got a couple of bucks left. I want to go out and eat a little bit more, you know. Ok,
+Nurse: Let's see. I'm gonna get this right. Yeah, take your
+Patient: Time, take your time
+Nurse: To review review lab appointment. Exactly. Ok, so your appointment is like on the fourth, right?
+Patient: I believe so. I don't even know I on the fourth I can
+Nurse: Check for I can [PHI-Personal].
+Patient: [PHI-Personal] 4th.
+Nurse: Let's see your appointment is on no, [PHI-Personal] 3rd,
+Patient: [PHI-Personal] 3rd. What is that? Uh what day is that if you do? You know
+Nurse: [PHI-Personal] 3rd? It looks like that's a Monday? A
+Patient: Monday. Ok, I'll write that down. I don't know if I
+Nurse: [PHI-Personal] 3rd at 10 o'clock at 10. No, no, no, no wait, hold on. Why is it? I'm not focused today.
+Patient: You were drinking too much were pretty, I'm pretty sharp.
+Nurse: Ok, [PHI-Personal] 3rd at 11 o'clock. Is your appointment? 11 a.m. Ok, so let me see when we can get these labs done [PHI-Personal]
+Patient: [PHI-Personal] at 11 a.m.
+Nurse: I think. Well, if we do it on the [PHI-Personal] of [PHI-Personal] that'll be a week before
+Patient: [PHI-Personal]. Mhm. What what city state today. 23rd, 23rd. Alright that's time that's the [PHI-Personal]. What day is that? I
+Nurse: Mean unless you want to go tomorrow,
+Patient: Tomorrow's Friday I guess I could go I'm free on tomorrow if it's feasible.
+Nurse: Ok, I have um Friday [PHI-Personal] 24th. The earliest I have is an 11 30.
+Patient: That's that's cool man [PHI-Personal] at 11 30 for blood. Right? Mhm. I'm going here
+Nurse: You have no COVID symptoms.
+Patient: No one
+Nurse: Just gotta put this in here. Yeah, he's good to go. All right, we get you scheduled there.
+Patient: So that's tomorrow at 11 30.
+Nurse: There you go. That's simple.
+Patient: That's very good. And [PHI-Personal] 3rd Monday at 11, that's when I'll report to see what's going on right. There you go. You did a good job, girl. You're just a little tired. All right. Thank you. I appreciate you calling me and uh I hope to hear from you on the radio some day with that wonderful voice of yours. Ok. Thank you so
+Nurse: Much. All right, you have a
+Patient: Good one. Thank you, sweetheart. Bye bye bye.

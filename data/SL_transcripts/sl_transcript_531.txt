@@ -1,0 +1,37 @@
+Nurse: Care management. This is how may I help you?
+Patient: Is this [PHI-Personal]? This is [PHI-Personal]. This is [PHI-Personal] calling you back
+Nurse: Here. Hey [PHI-Personal], how are you? I wanted to let you know. Um So definitely work with the insurance to see about that Dexa ca uh Dexa com and see what else they can cover. Um And I spoke with the office, they said that check with them on Thursday, they may even have some Ozempic come in and they can give you guys
+Patient: Samples. Ok. I just got a letter from uh hello. Uh Well says thank you for placing your recent prescription order with. Well, pharmacy is [PHI-Personal] unfortunately, we need more information before we can process your prescription for Ozempic because manufacturing back orders, we apologize for the inconvenience. We have attempted to reach you and your prescriber several times over the last week and did not receive a response. We need your help to resolve this issue quickly and they gave a number if you want.
+Nurse: Um hold on, let me go to, so you got a letter saying they need more information. I
+Patient: Just
+Nurse: Oh right. Ok. Um They received a letter, let me know what they say again.
+Patient: Thank you for placing your recent pre prescription order was sent to our pharmacy. Ph [PHI-Personal]. Unfortunately, we need more information before we can process your prescription for Ozempic two mg injection pen through mail. Because manufacturer back order, we apologize for the inconvenience. We have attempted to reach you and your prescriber several times over the last week and did not receive a response. We need your help to resolve this issue quickly. So you can have your medications when you need them. You can call us at 1 800.
+Nurse: Ok. Uh,
+Patient: [PHI-Account]. So
+Nurse: Your Ozempic is on back ordered from them basically. And what's the, um, it's wellcare Pharmacy or
+Patient: Well
+Nurse: Center? Well, [PHI-Geographic], well Pharmacy, um, uh, for the Ozempic for the, on Ozempic. Um, in letter update it, they need more information because the manufacturer is on back order, right? Um, in the letter they stated they need more information because, uh, it's on back order and you guys, she has one dose left for next week or
+Patient: She's got about a half a pen left.
+Nurse: So what does she take usually? Um,
+Patient: No, what's your normal dosage at?
+Nurse: They, so she probably already took her,
+Patient: She took it yesterday. Oh, ok. She takes like 0.2 and then the bottle is like 2.5.
+Nurse: All right. So she takes, ok, so she has half of a pen left. Um, ok, let me see what they say. Um, so I'll get back to you. Um,
+Patient: Got a couple week but we won't make it to the middle of October.
+Nurse: Yeah. Ok. Let me, uh, send this to [PHI-Personal]. Like
+Patient: I say, we, we, that, so we'll be paying the full price for it. Yeah,
+Nurse: I told them that they said they can give you, see if there's, ah, whatever you call it samples there when you guys go, Um, too. Ok. Well, let me see what I could do for you.
+Patient: What's that? I have to pay for me.
+Nurse: Uh, she knows it too because she's like, I can't keep up with these insurance companies, you know what I mean? They're so ok. Well, let me know what I find. I'll let you know what I find out.
+Patient: They change it every year. I know you just get into a habit
+Nurse: And then it changes on you. But her
+Patient: Eye drops she was getting, I was paying like $8 a month for it and now she's in that bubble, it was 80 some dollars for one bottle.
+Nurse: Uh, but it'll go down after you reach, I don't know what your deductible is. It's, I don't know, it's crazy by the
+Patient: Time I reach it towards the end of the year.
+Nurse: Oh, man. Ok. Oh, you're fine. Um, we will get through it. I will send the message. Well, it's already sent but
+Patient: The upper floor
+Nurse: Me, no, I work remotely from home. I don't even work in the office.
+Patient: I won't be able to meet
+Nurse: You that no I don't even work there, not in their office so
+Patient: Yeah I
+Nurse: Do. Alright I'll help you out and see what I could do. Alright. You're welcome bye.

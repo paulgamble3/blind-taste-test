@@ -1,0 +1,30 @@
+Nurse: Chronic care management. This is [PHI-Personal]. May I help
+Patient: You? Ok, [PHI-Personal], I got a plan, my aunt is gonna meet me at the ho [PHI-Personal] tomorrow. I'm gonna go first thing in the morning because that's the best time to go. But I think I'm gonna go to the mountain.
+Nurse: Ok. I mean, I could let doctor now, I don't know when she does. She want, didn't she want you to go today?
+Patient: There is no, I can't, there's no one that can, I can't get there today.
+Nurse: Ok. I mean, I'm just giving you a direction. I mean, that's why she wants you to go to the, er, I mean, you know,
+Patient: And I'm gonna go, I just have to,
+Nurse: Um, so, ok, I mean, I'll let her know, I mean, you're, you're not going today, you're going tomorrow morning.
+Patient: Now, does she have, does she want me the one thing I can't figure out, does she want me to have an order for stuff or does she just want me to tell them,
+Nurse: Um, she can't diagnose you with the computer? So, um,
+Patient: Just wants me to tell them about the shortness of breath and me being tired and we send. Ok, I'm sorry, I, because they said, because my first thing my aunt said is, does she have an order? I don't think so.
+Nurse: Oh, she is [PHI-Personal] tomorrow? I am at [PHI-Geographic].
+Patient: Yeah. How are we gonna go there? But my aunt will be with me so my aide is gonna drive me but my aunt will be with me. I wanna call her first thing in the morning too and just have her meet me there.
+Nurse: Ok. I just always have to reinforce directions the er, I'll tell her when you're going but
+Patient: I can't go any sooner.
+Nurse: Um. Ok. Um,
+Patient: First thing in the morning is the best I can do. I try, I pro tell her I'm keep, you're right in there that I'm keeping my promise, please.
+Nurse: Oh yeah, she
+Patient: Knows. No, she said make sure you let me know if you're keeping your promise. So I have to let her know that I'm keeping my promise.
+Nurse: Ok, I, no, I'm telling you, call you called, you know what I mean? So she knows. Um. Ok. Right. I sorry you on a [PHI-Geographic] tomorrow. Just so just so she's aware. Ok,
+Patient: And there's no one. Ok, there's no
+Nurse: One. No, she didn't say anything. I mean that's, I don't, you just have to go.
+Patient: I just need to make sure I'm sorry, you're
+Nurse: Fine. Don't need to be sorry.
+Patient: My aunt's like it's ok to call them and ask them because you don't. It's ok. I mean,
+Nurse: I just, I mean, you have to go in there and get assessed. That's why she wants you to go.
+Patient: Ok.
+Nurse: All right. Thank
+Patient: You. You're welcome. And I will call you, I will call you and let you, I will call you and verify either that I am in or that I went to the test got done. It was something got done. Ok. I have to call, I told she told me to call and verify so I'm ok. Call you tomorrow and verify. Yeah.
+Nurse: Yeah. Ok. Sounds good. Ok. Mhm. All right. Thank you. Ok, you're welcome. Ok,
+Patient: Bye right.

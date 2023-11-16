@@ -1,0 +1,32 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. This is [PHI-Personal] calling. Hey, [PHI-Personal], how are
+Nurse: You?
+Patient: Good. What's new? Uh, you said I had to call and give you information. Oh, yeah, I did,
+Nurse: Didn't, I let me get, just get you pulled up here. You too. My computer, of course, is running slow now that you've called. Yes, [PHI-Personal]. So, how was the move?
+Patient: I, I didn't move yet but I was thinking over the last month. So. Ok. So still in the same area.
+Nurse: Ok. So the office would really like to get you in for those canceled appointments. So, do you think we can make those appointments for you?
+Patient: When was the last time I was there that was called right now? It's practice. Is that right?
+Nurse: Yeah. So the last time you were in was [PHI-Personal].
+Patient: Ok. I guess I have to have blood drawn that type of stuff too.
+Nurse: Yeah. So we can definitely get you set up with all of that. Um, have you been, um, keeping track of your BP at all or? Well,
+Patient: I check it all the time myself. I still have AFIB but it, it's, I think it's better. No, but I take that one drug for um what is it? Uh uh
+Nurse: So yeah. Metoprolol for your BP.
+Patient: I take that, I like the uh I like the Lisinopril that changed, they changed me to that. My legs don't swell like the amLODIPine or whatever. That was
+Nurse: Good. Good. Perfect. Um So do you write down your blood pressures?
+Patient: I keep it in my mind. It's, it's uh I just checked it was like 1 20/69 or something. But ok, it shows that little swig in there for irregular heartbeat and then it was only, I think, uh, at that time it can change like from [PHI-Personal] something to 80 something or 90 something. Ok. But, um, but as far as too bad, no, and then, but it can change blood, blood pressure can change just in my thinking where my, uh, I'm doing a lot of exercise and now with the moving things around the house so that maybe helps, maybe changes the BP to better BP, maybe. Uh, I don't know.
+Nurse: Um, so when you take your BP, do you sit with your back support in?
+Patient: I sit in a seat legs down on the floor. Perfect. Legs uncrossed. Yeah, I just took it here. Use my BP stuff and one upper arm and I have a wrist, wrist type too. Ok, perfect. I use them both checking with both and, but it can change around really, really quick. I mean, it can go up and down and the irregular heartbeat is sometimes you get that showing that little squiggly thing, uh, on the, as being irregular and sometimes it doesn't show up. Yes. And with
+Nurse: Afib, it's semi normal to show up as irregular every once in a while. Um, what type of chair do you sit in to take your BP?
+Patient: Oh, like, uh, hard chair. It's not like
+Nurse: A kitchen chair of some sort. Yeah.
+Patient: Yeah.
+Nurse: Perfect. And then you also have your arm supported while you do that. Well,
+Patient: I try to keep, I have to keep them above my, uh, with the wrist, you're supposed to keep them higher than your heart. So,
+Nurse: Yeah. So, do you put it against your chest or how do you do that?
+Patient: I usually bring it up around to my ear or head, let me place there.
+Nurse: Ok. Perfect. Well, um, it seems like you're doing well on that. Um, I would say for a little more stability in your arm, I would, like, cross your arm over to like your shoulder or something. So, it's just, or I guess having it, uh, just straight up also. It's pretty stable too but you wanna make sure it's stable when you're taking it. So it's not moving around. Yeah. So, perfect.
+Patient: We usually can't move if you move a little bit, it changes. Exactly.
+Nurse: Exactly. Well, would it be ok if I get you over to the front desk? And they can help get you scheduled, um, for your appointments and your blood work.
+Patient: Yeah. Is that all the same? Now, they told me when I was in there last time it would change where I come, things are going to change around there. But I guess I come in to that same door, front door for the blood test and everything. Yep.
+Nurse: Exactly. Exactly. So, hold on one moment and I'll get you over there. Ok.
+Patient: Ok. How long? Hi, Gary, how are you? Good, Gary. Gary. You wanna reschedule your appointment with Christina? Yeah. Ok. When did you wanna come in? When can I have available? She has tomorrow morning, tomorrow afternoon, Thursday, Friday. Is that for blood? No, this is for your routine appointment with her. Ok. Do I have to have blood taken first or? Let me see? Yes, she actually does have orders here for you right here, right? Is that blood in urine? Yeah. Ok. Did you want to schedule to see her next week, uh, this week? I suppose I can get in there for blood and then I, if they get the results for the time I have to, what is today? Tuesday? Um, do I have to fast overnight then? Yeah, 12 hours. That would be tonight and into tomorrow morning. Ok. Mhm. She has a eight o'clock tomorrow. If you want to come in then eight o'clock for blood test. Ok. Mhm. And yeah, I'll do that. Ok, so tomorrow if you wanna get here 15 minutes before so you can get your blood drawn you can do that. Ok same door that I came in the last time you got it just stop at the window and check in. Ok. Alright Gary. Yeah. Alright so we'll see you tomorrow morning and when do I make the appointment for the office for the nurse? Ok did you want to see her Friday? Uh. Yeah Friday. She has a 9 30. Ok. 9 30. Ok. So you'll see her Friday 9 30 then tomorrow for blood at eight. Oh, ok. I'll be there. All right, we'll see you then. Ok. Bye bye bye.

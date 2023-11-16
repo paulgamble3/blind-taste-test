@@ -1,0 +1,69 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal].
+Nurse: [PHI-Personal]. How you doing? Yeah. Everything going. Yeah. Not
+Patient: Too bad. Um, I've been on it for about a week, a week. Ok. You know, I think I feel a little different, like, I don't know how to explain it, like, good or bad. Well, not real bad but just like, I think I always take it in the morning, like they say, um, and I feel a little nauseous but it, it doesn't stay with me. Probably just like, how long does it last? Not long, not long. And I just feel, I don't know, little, little different company. Hey, a new drug. So, for me. So my body to it. So. Well,
+Nurse: It's, that's true. And it's, you know, it's, it's a big deal. It's, it's, you know, it's a new med. It's a common med but it's a big deal. It's, it's replacing hormone in your body. So, yeah. So you're gonna feel probably a little, quite, not right for a little while. Um, but any, like, yeah, nothing you can't handle. So, that's a good thing, ma major side effects, you know? Severe nausea, vomiting, diarrhea, dizziness, fatigue, that's, um, you know, not, not manageable anything like that, you know. Let, let endocrinology know immediately. Ok.
+Patient: Ok.
+Nurse: Ok. I know Doctor [PHI-Personal] was definitely looking for an update. Let me see here. So you have been taking, what time of day do you normally take that, that pill at de?
+Patient: Yeah. As soon as I get up probably, uh, every time seven o'clock. Ok. 7 a.m.
+Nurse: Ok. And then it's at least a half hour before you have anything or take any other pills. Yeah. Ok. Ok. Good,
+Patient: Good. Yeah, that's why I get up because I don't want. Yeah. So, right on the pill
+Nurse: Bottle. Oh, does it? Ok. Good. Taking the AM on an empty stomach 30 minutes to an hour before breakfast. Um, totally alone. No other meds. Ok. Good. And I can, I, I can imagine that that would, you know, make people a little sick on an empty stomach. Jeez,
+Patient: That's nothing bad. Nothing.
+Nurse: Ok. And, and that might get better. Um, as your stomach gets used to it
+Patient: Gets used to it. Yeah.
+Nurse: Ok. Good. And when do you follow up with endocrinology? Do you know
+Patient: You wanted to see me in two months? So, I think we were talking [PHI-Personal].
+Nurse: [PHI-Personal]. Ok. [PHI-Personal]. And then you see doctor
+Patient: And so, um, you know, we'll, we'll check it out and see.
+Nurse: Yeah. Absolutely. And you're gonna have blood work in [PHI-Personal] also in the office here. It looks like [PHI-Personal] 24th Fasting labs at 9 20 complete blood count metabolic panel. Your cholesterol levels, good, bad and everything in between the thyroid studies with a free T four and then a urinalysis. So you'll sort of have a, a little idea how things are going when you get that blood work too. Which is good.
+Patient: Exactly.
+Nurse: Ok. Good. So, um, medications, the rest of them you feel like you're managing ok with? Yeah. Yeah. Ok. Good. Good.
+Patient: I mean, still get tired. But I thought I have a feeling that the thyroid being off would make me tired.
+Nurse: It definitely would make you tired. Um, that's a number 11 of the biggest signs and symptoms. It's the top of the list. Tiredness. Um, some people have some weight gain because they retain fluid, low energy. Um, some people get, like, increased sensitivity to cold, they get hair loss, you know, swollen ankles, all kinds of stuff. But tiredness is a number one, the first, the first symptom that, that would be nice if this, you know, once this level balances out.
+Patient: Yeah. And I was on the gabapentin. But I think I go, yeah. Yeah.
+Nurse: And, you know, gabapentin can make you a little groggy.
+Patient: Right.
+Nurse: So, that's like a double whammy then. Hm.
+Patient: Yeah. [PHI-Personal], ok. I can't complain to what some people have to deal with.
+Nurse: Well, that's the truth. It's always good to put things in perspective because somebody always has a worse, that's for sure, that's for sure. Ok. Anything at all that you need, anything I can do for you
+Patient: And everything. Yeah. I'm about to go out now. Just some gardening. Enjoying the weather. We're having good for you out in the sky here in days. How about swimming? P A
+Nurse: Be? It's been beautiful. I don't even want it but it's been absolutely beautiful. Sunny and deserve that. We, we do,
+Patient: We, we have some tough weather and in [PHI-Personal] we
+Nurse: Have, oh, de it's been a long winter, that's for sure.
+Patient: Yeah.
+Nurse: Yeah. Oh, I can imagine
+Patient: That. Yeah. Yeah, he's, is he good
+Nurse: For him? Yeah. Good for him. That's something he enjoys.
+Patient: Mhm. Good. Well, hey, he's, he's, he's doing stuff
+Nurse: That is good. Absolutely. It's good. Good. Mhm. Alright. And, well, you know, it's hard, especially, you know, when your significant other maybe isn't at as good as he used to be and you're constantly on high alert, you know, it's kind your, your, your body never really can. 100% shut down and block out the world.
+Patient: Yeah.
+Nurse: Yeah, I get it. And, you know, it's really important to get those moments for you. It is stressful [PHI-Personal], we don't
+Patient: Know anybody that wants an RV. We got a RV when a bagel sitting in the yard that drives him crazy
+Nurse: Because, because he can't use it or because it's sitting there
+Patient: Because it's sitting there and, well, do
+Nurse: You have it listed
+Patient: Somewhere. Yes, I have it in Craigs list around the state. Um, I have it on the market, please. Um, we're not, it. I think the economy is really. Yeah. Yeah, that's, uh, times are tough, you know? They are. They
+Nurse: Are. And now it's really hard to, ever since COVID. Everybody got places at campgrounds and you can't even get into a camp ground. It's like impossible. Another
+Patient: Reason is the market flooded with them.
+Nurse: Yeah. And the
+Patient: Third reason is you can't get your money out of it. They won't give you anything for it. My husband won't do it. He said I'll burn a of a gun.
+Nurse: Keep it out there. So you'll have a little respite out there. You can just go out and stay in the camper.
+Patient: Well, you know, with what's going on in our age to begin with, we just don't want all this stuff to do. I mean, we've camped for years and traveled and we did all that. He can't, except that it's done, you know, with his issues. He's not, yeah. That, that, that, yeah,
+Nurse: That's gotta be a tough pill to swallow. I can't even imagine. Yeah. But having it sitting there is just right in his face.
+Patient: Yeah. Oh, yeah. I hope you get out there just behind the curtain. Yeah.
+Nurse: Exactly. Exactly.
+Patient: I know. It just, you get by and do what you gotta do and I don't, not
+Nurse: Sure for sure. Yeah. Oh, I,
+Patient: I, uh, read, well, I guess it's that Doctor [PHI-Personal] and ask him that he got drugged out. I don't know. And, and it sounds so convincing, you know. Um, it's supposed to help dementia but I'm thinking if that was the case they would all be prescribed her getting it. Right.
+Nurse: And what is it, what, what's
+Patient: The her? I, I don't know the name that he used to be a TV. Um,
+Nurse: Yeah, she was on Good Morning [PHI-Personal]. Yeah,
+Patient: She, she might be, but, um, this drug that's supposed to be great for, for outcome, huh? [PHI-Personal].
+Nurse: I'm gonna,
+Patient: Yeah, I don't ask me what the name is because I don't know. Here we go. So,
+Nurse: Anyway, yeah.
+Patient: Um, good talking to you, to us. Yeah, I care for me if I ever have, uh, an issue. Mhm. For me. And I appreciate that. So on.
+Nurse: Absolutely. Absolutely. You call any time I gonna give doctor [PHI-Personal] a little update that you started your medication and, you know, just call if there's anything I can do for you. Ok,
+Patient: I appreciate it so much. Mhm.
+Nurse: Absolutely. It's my pleasure. Oh, you too Deb, you too. Take care. Thank you. Enjoy it. Ok, bye bye.

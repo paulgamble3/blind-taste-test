@@ -1,0 +1,40 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes, dear. I got a phone call from, uh, uh, no message. It's just, uh, a call.
+Nurse: Uh, that was, that was me, I believe. What's your name? [PHI-Personal]? I'm the nurse care manager for Way Memorial. I
+Patient: See.
+Nurse: Yeah. Uh, I was just calling to do your regular, like, monthly follow up and see how you've been.
+Patient: Oh, fine. I, uh, I, uh, what's it called? I went to, uh, the cardiology for the, uh, what do you call it? Check. Pacemaker, check. Oh, good. No, no, no, no, I'm true. I'm finished. Uh, same, same, yeah, same, same problem. Same story. They never showed up. I was there for 2.5 hours and I'm not going through it again. Oh, yeah, same as the first, the, the time before
+Nurse: I was gonna say, didn't this happen once
+Patient: It happened twice now, I'm not, I'm not a fool that it's not gonna happen the third time. I'm gonna go back to regional hospital.
+Nurse: I was gonna say it looks like we need a different cardiologist. Yeah, big time. Yeah. That's ridiculous. You shouldn't have to deal with that. No
+Patient: Way. It's, uh, uh, I mean, Boston properties. Uh, it's a joke that, that became a joke. I haven't had a heart check since Doctor [PHI-Personal].
+Nurse: I was going to ask because what that means? When was the last time somebody looked,
+Patient: That was Doctor [PHI-Personal] two years ago. How's that one?
+Nurse: That's insane. Actually,
+Patient: All I got was a smile from, uh, that doctor [PHI-Personal] uh, not even words unbelievable. Really. Other than that though, as far as I'm concerned, [PHI-Personal] is a wonderful, uh, hospital.
+Nurse: Oh, well, that's nice. Ok.
+Patient: Uh, everything else, it seems to have a problem in cardiology.
+Nurse: That's very upsetting and like your heart, it's your heart. It's important.
+Patient: Thank you. Yeah, it's your heart and, and, uh, the one that's running that couldn't care less. Ah,
+Nurse: So what's, what's our next plan? You said we're going to go to a different hospital, right?
+Patient: I'm going to go back to regional. Ok. Yeah, I
+Nurse: Think that's a good idea.
+Patient: Yeah, it is. It's a longer mileage. And, uh, that was why I did it at the convenience. Everything else is perfect. Uh, [PHI-Personal] Hospital is very good.
+Nurse: It's just this heart doctor.
+Patient: Oh, yeah. Forget it. All right. So, that's about it, [PHI-Personal],
+Nurse: I do, I mean, I, I feel bad about the travel but I do
+Patient: Have not, you have nothing to do with it, do you? Yeah, I, I know the routine. My mother worked for [PHI-Geographic] for 25 years. Yeah, [PHI-Geographic]. So, I really? That, that
+Nurse: Is a famous hospital you
+Patient: Be, I was born there. That's
+Nurse: Incredible.
+Patient: Yep. Finest hospital in the, in the world.
+Nurse: Yeah. Lot of stories about that place. That's incredible. You
+Patient: Know, it, you know, it,
+Nurse: Yeah. But I always, I always advocate, you know, I side with my patients over any institution. Always. So if you're not getting what you need, you got to go someplace
+Patient: Else. Yeah, I will. I'll have to call and see. I, I forgot the doctor's name. It's been so long. Oh yeah. Yeah, that would, that I was in and out everything perfect for years. But it's a trip, it's 100 and 10 miles back and forth.
+Nurse: Yeah, that's a lot especially these days.
+Patient: Big time it's over. Yeah. Anyway, I thank you for calling anyway dear.
+Nurse: Yeah, of course if you have any um questions or anything that you think I can help with just call me. Ok.
+Patient: Uh Oh, fine, thanks a lot. I appreciate your call.
+Nurse: Alright bye bye. Take care.
+Patient: Ok.

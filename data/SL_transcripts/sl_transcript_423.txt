@@ -1,0 +1,38 @@
+Nurse: Hi, good afternoon. This is [PHI-Personal]. How may I help you?
+Patient: Hi, [PHI-Personal]. Yes. Hi, it's [PHI-Personal]. How are you?
+Nurse: How are you today?
+Patient: I'm good, thanks. So, let,
+Nurse: Let's see. I believe I called you a couple days ago just about our regular call to check in. So how things been going? Anything new going on? Questions concerns?
+Patient: Um, no, I think. Um, no, I'm, I'm good. I was in the office for what I think was a muscle thing because I, I hit 60 golf balls and I didn't and I really think that was what the problem was. But, uh, my BP was really high and it could be from the pain she thought, but I'm good now. So I don't know what that, I think it was that
+Nurse: [PHI-Personal] visit. Let's see. Um, yeah, elevated BP, chest discomfort. Um, ok. Yeah. Top golf, they hit et of golf balls. This is not a usual activity for her. Yeah, golf is something that I, I probably would not be able to do with my neck. Oh, is that right? Yeah. My aunt said my aunt is a big golf person and something that you definitely have to say. And, um, practice for.
+Patient: Right. And I played for four years. So I, that was kind of stupid of me. But I was feeling good. So, why not?
+Nurse: Understood. Understood. So, but things have improved and no more problems with that.
+Patient: Yeah. I really think when I think about it I had one panic attack, like, 15 years ago and now I'm feeling like that might have been what it was.
+Nurse: Ok. Ok. Ok. Yeah. Um, can come on without warning, you know, hyperventilation, chest tightness. Um, almost feeling like you're suffocating, you know, that feeling all of that. Definitely. But looks like when you came back in then in, um, [PHI-Personal], everything was better.
+Patient: Yeah, my blood work was better. It was a weird thing. But now I'm good. She, she does want me to get a cardiologist and I did have an appointment scheduled but I was helping my daughter unload her storage unit and I pulled something in my back so I couldn't go into the doctor into the cardiologist that day. So I have to reschedule that. Um, yeah, that's the only thing I, I didn't, there was no way I could even get up that day. Oh, understood.
+Nurse: Understood. Um, but it looks like everything on blood work, looks decent. Didn't see anything. TSH was good. Overall, cholesterol was good. Um, triglycerides were just a little above the line but nothing, yeah. Nothing alarming. You know, that comes from a lot of your pastas and breads and ice creams and things like that.
+Patient: And I love pasta and bread. It doesn't. Oh,
+Nurse: Absolutely. And I know you're a big exerciser. Right. You get,
+Patient: Yeah, I just got that hours at the pool. Yeah.
+Nurse: Yeah, that can definitely help. But, um, you know, things like that can them as well. But, um, sugary, you know, things that turn into sugary substances, complex carbs and things like that is usually what gets our triglycerides. But um
+Patient: Maybe I'll switch to some other kind of pasta.
+Nurse: Well, you know, I was gonna say I am I have celiac disease but even though he has so um but and I just cannot get into the Zini pasta. I'm sorry, I just
+Patient: Can't believe either. Uh uh
+Nurse: It has a very weird texture consistency to it. So
+Patient: Agreed. I don't like it
+Nurse: Either. Not happening, but no, she did say um and um your, your hyperlipidemia was improved. Continue simvastatin. Um follow up in four months. So she really concerned about anything. So yeah, just be a little more cognitive of it. Um You can still have it just have it with moderation, you know. Um So anything on meds that you need refilled right now?
+Patient: Uh You know, I do think I do need, let me just look here real quick. I think I need simvastatin. OK, let me, yeah, I have maybe 10 days
+Nurse: Left. All right. Do you want that to CV S or the Walgreens mail order of the Alliance Rx.
+Patient: Mm. How long does that take?
+Nurse: Um, that depends on them. 7 to 10 days usually. Uh,
+Patient: Then do they say three months? Yes. Mhm. Ok. Yeah, that, that's good then do it that way. It'll probably be better.
+Nurse: Ok. For the mail order sometimes they're cheaper. So, and if you end up running low or something, let us know, but we'll get it sent over today. So yeah, we'll do a three month supply.
+Patient: Awesome. Awesome. All right. Any
+Nurse: Other questions concerns I can help you with still just on the three medicines. The Lisinopril 10 mg once a day, the omeprazole 20 mg once a day and I have the simvastatin 40 MGS once a day. Is that still correct?
+Patient: Yep, that's, that's it. And I added that other one.
+Nurse: Yep, I will um, put in for the 90 days. So, and the omeprazole is controlling the reflux pretty good. I see that you were going to have an appointment with the G I.
+Patient: Yeah, but they haven't called me yet, which is kind of weird. But um yeah, it is better, you know, I find out since I've been on that I've been able to eat more and I've gained five lbs.
+Nurse: Ok. Good. Um, like I said, you know, the biggest thing with that is to not eat and lay down. Um Right. Oh, yeah, smaller meal, not wearing anything. Um, even though you're not a big person still not a lot of restricting clothing around, you know, the waist, things like that, um, to your food and, you know, things like that, plenty of fiber that, those are the biggest things that I see. But the eating and laying down will get people every time. Yeah. Right.
+Patient: I was just like, of course, I did drive back across country and I, you know, you eat what you can eat when you're driving across the country.
+Nurse: Absolutely. Absolutely. Yes. And so, but now it sounds like you're doing well with everything. So that's all I was just checking in for follow up. So give you a call again next month. If you need something before then let me know. Ok. All right.
+Patient: Thank you so much. Take care, Cindy. Bye bye. You're welcome.

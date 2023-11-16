@@ -1,0 +1,18 @@
+Nurse: Good afternoon. This is [PHI-Personal]. Nurse care manager. Can I help
+Patient: You? Yeah, I've been playing phone tag with nurse [PHI-Personal]. She's supposed to call me back. Ok. I, I mean, one child or something.
+Nurse: Ok. Let me see if she's available. Hang on one second here. Thank you. Mhm. It's [PHI-Personal], isn't it? Yeah,
+Patient: [PHI-Personal].
+Nurse: All right. Let me see if she's on another call or not.
+Patient: They need to change that music or something. More rock and that piano music. We'll put you to sleep. Can we make a request? Some rock music of some kind? Do hop? No jazz and definitely not opera. And I got my reasons for that, which you don't need to hear about you that busy enough. Yeah.
+Nurse: Well, I appreciate you saving me here. Let me see if she's free. Hang on.
+Patient: No, I, when I was working I worked for this Italian couple and they played the old reel to reel, like cassette tape, a opera. And to me it sounds like someone smashing their foot, howling and screaming. I couldn't understand the word they said. And they play it over and over and over. Oh, my goodness. And it's like I'm so sick of opera because of that. Mhm. I know. That's a good enough reason not to like, but that's my story.
+Nurse: I like to listen to some of it. I can't always understand it and sometimes it just puts me to sleep. So,
+Patient: No, I gotta understand my music to like it.
+Nurse: Mhm.
+Patient: Yeah, I would do it if I can understand it. And some of this modern stuff you can't understand what they're saying. I ask my little niece say like, what do you say? What she say? Mhm. And I, and what they said
+Nurse: On the line with somebody else, uh, is there a best number to call you back at?
+Patient: No, she can just call me back.
+Nurse: Ok. All right. I will let her know.
+Patient: I appreciate you guys. Have a good day. [PHI-Personal] knows you work too hard.
+Nurse: Oh, thanks. You take care. Ok.
+Patient: Bye bye. Bye. Bye bye bye.

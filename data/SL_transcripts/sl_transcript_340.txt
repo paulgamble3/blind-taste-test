@@ -1,0 +1,28 @@
+Nurse: Hello. How are you?
+Patient: Hi.
+Nurse: We just probably couldn't get to the call to the phone fast enough. Huh? That's
+Patient: Right.
+Nurse: Ok. So this is what doctor, um, [PHI-Personal] said. So he said you don't have to, um, uh, recheck your A one C and we can disregard the HIV testing, but he would like you to do the others. Um, so that means that you would be checking your vitamin D, your CBC and C MP, your thyroid, um, and your B 12 levels and then that iron and the ESR and the C reactive protein.
+Patient: Um, I don't think my insurance is too soon. I just had that done in [PHI-Personal]. Yeah.
+Nurse: I mean, I just, and I, and I advised him of that and so I, I, I'm gonna come back to him and tell him because I, I'm, I'm just gonna tell him. So you're agreeable to doing what the ESR, the iron and cib CS, which is, it's iron ferritin, it's an iron panel. Um, and then the c reactive protein and that's it.
+Patient: Um, I guess maybe, I guess I, as, as long as my intro, oh, I hope they'll pay for this. Ok. I do wanna get the iron done though. So the, er, pa, the, the, the iron panel you said?
+Nurse: Yeah, he did not check an ESR, he didn't check an ESR back in [PHI-Personal]. He didn't do an ESR and he also did not do ac reactive protein. So those are new. So they should, there shouldn't be any reason for them not to cover it. Um, he might want a CBC and AC MP. There shouldn't be any reason that they wouldn't cover those because those can be done, you know, very, very frequently because our electrolytes and our, and our, you know, blood cell make up can change. Um, but it, I, I mean, I completely understand about you not wanting to do, you know the lipids, the thyroid, the vitamins. Um, I will back to him. Yeah. And tell him that you do, you will not do the others and I'll
+Patient: Do the iron panel, I'll do the iron panel and the, is it esr
+Nurse: It's called ESR and then ac reactive protein. Yes. Ok. And that's what you're agreeable to. Yes. Ok. And then do you know the lab that you want them sent out to or you still kinda up on the
+Patient: Fence? I, I know where I'm going, I just have to make the appointment. I'm going to the lab Corp on, uh, [PHI-Geographic].
+Nurse: All right. Let me see. Let me look it up. So, uh, because what I will do is once I get the ok from him that he said you're only gonna do those then to that location. I would send only those labs. Um, and it probably won't be until Monday. Let me take a look here. Lab Corp. Um, so it's the one in [PHI-Geographic].
+Patient: It's on [PHI-Geographic]. I think it's on [PHI-Geographic], but
+Nurse: It's [PHI-Account]. [PHI-Geographic] in [PHI-Geographic].
+Patient: That's it. That's it. [PHI-Account].
+Nurse: Yeah. Ok. Um, so let me just tell him that what you're agreeable to when I get his. Ok, I will call you on Monday and let you know that I'm gonna fax the labs to them and then you can schedule your
+Patient: Appointment. Yeah. Ok. Ok. Yeah, I mean, I, I, that sounds, that sounds good to me.
+Nurse: You know, he's like, he's like, I don't, she doesn't have to do the A one C and the HIV. But, you know, I don't know, she doesn't wanna do the other one.
+Patient: No, I don't, I'll do that. I'll do just what we just said, the iron panel and the, er, c, whatever protein, the active protein,
+Nurse: You know, unless he comes back and says to me that he has a very, very, like, valid reasoning as to why he'd want you to do the others and then I'll provide that to you. But I'm, I mean, I'm just gonna say like she had them done, it hasn't even been two months, you know, he didn't change any of your vitamins. So, you know he didn't change your B 12 or D. So, I'm not really sure why we would need to redo that. Ok.
+Patient: Ok. I will, I will call me Monday.
+Nurse: Yeah, I, I will advocate for you anesthesia.
+Patient: Yes. I, I will be home at, at 11 o'clock on Monday because I do, um, water aerobic classes for two hours. Monday, Wednesday and Friday and I'll, I'll be home on Monday. I'll be home by 11 o'clock.
+Nurse: So, yeah, no problem. I will follow up with you. I'll get those labs sent so you can get it scheduled and I just, you know, I just need to keep reinforcing this with him.
+Patient: Ok. Ok. Then I won't, now, I won't be back in the office until [PHI-Personal] to see him.
+Nurse: That's fine. What happens is he will, he will look at the labs and he'll send you a mychart message and then you and I can always talk about them if you have
+Patient: Any questions. Ok. Ok. Ok. Sounds good. All right. That sounds good. Thank you. You're welcome. Bye bye.

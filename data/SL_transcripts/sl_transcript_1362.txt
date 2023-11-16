@@ -1,0 +1,59 @@
+Nurse: Chronic care management. How may I help you?
+Patient: Hi, [PHI-Personal]. Returning your call. Hey, [PHI-Personal],
+Nurse: How are you?
+Patient: Good,
+Nurse: Good. How is it [PHI-Personal] out there?
+Patient: Not where I am. I'm in [PHI-Geographic].
+Nurse: Oh, you're in [PHI-Geographic]? Good for you. Yeah,
+Patient: I'm sitting in [PHI-Geographic]. Oh. What part of [PHI-Geographic]? Uh, a little place called, which is about 20 miles south of [PHI-Geographic].
+Nurse: Ok. Which side is that from?
+Patient: Well, it's just about dead center of the state. It's down in horse country, down in horse country,
+Nurse: Horse country. Ok. I was always, when I used to, I used to go down there a lot. I used to go to where I don't know if you know where, like, Port [PHI-Personal] is.
+Patient: Um, yeah, I do. Yeah, that's quite a bit further south. Yeah.
+Nurse: Yeah, I used to go to that area.
+Patient: Um, about mid, about midway down the state,
+Nurse: Midway. And that's good to be there. Like, even with like, hurricanes and stuff. Right. It's better off, you're better off to be in the middle than the outside. Right.
+Patient: Not, not on the shore. Not on,
+Nurse: Yes, not on shore. Um, how you feeling?
+Patient: Good. Doing good, good playing golf every day. Oh,
+Nurse: Good. How's the weather playing golf
+Patient: Every day? Uh, it was 36 this morning, chilly. A little chilly. But, uh, generally it's, uh, you know, mid to upper sixties. So once in a while you'll get a day in the eighties. We got three or four days coming up next week, it'll be 80 85.
+Nurse: Oh, and I'm sure it'll warm up right throughout the,
+Patient: Yeah. Oh, yeah. Yeah, we're here another month. We, we came down for [PHI-Personal] and [PHI-Personal] this year. We're going home the first week in [PHI-Personal]. Oh,
+Nurse: That'll be just when it's spring, almost spring time. Yep. Yep. Yeah. Hopefully. No snow storms. Um, no medical issues or anything. No, no. Um, and insurance changes or address changes.
+Patient: Uh, they change the insurance, uh, carrier. It's still with [PHI-Personal] but it's, it's a, uh, it's an HMO plan rather than the PPO plan. Uh, probably. Yes. Uh, yeah, I'm, I'm sure it has. I'll have to, if you want that information, I'll have to go get the card.
+Nurse: Do you have it right now or you? I mean, you can call me back with it.
+Patient: Yeah. Hang on a minute. I just step in here and get it. I'm been sitting outdoors here and
+Nurse: I'm glad he can sit outdoors. I'm not sitting out there.
+Patient: Yeah, a little chilly this morning. But, uh, the sun is nice on war. Hm. Which is a good thing. So, you know, it
+Nurse: Always feels good
+Patient: Too. Alright so hang on a minute I'll pull it out of my wallet and yeah take your time, tell you what it is here. It's going I got a dog here that thinks he's got a set on my
+Nurse: Lap. What kind of dog is it?
+Patient: Um a an English Springer Spaniel? Oh they're cute. 45 lbs worth 35. Alright so it is [PHI-Personal] it's an HMOP OS with dental. Uh the me the member ID number has not changed but I'll give it to you anyways. Ok. It's it's a [PHI-Account]. The uh bin is [PHI-Account]. The prescription PC N is [PHI-Account] and the prescription group is C OS group number is [PHI-Geographic]. Bye and uh there's another number here but I'm not sure what that is for. Let's see let me look on the back. Ok. All it's on here is the card number and the security code.
+Nurse: Ok. And I would just actually um bring the new card in as well. Um I mean your number didn't change so that's not a um another thing now your secondary insurance. So that's is it Medicare or that secondary?
+Patient: Yeah, I'm [PHI-Personal] and this is the [PHI-Personal] plan.
+Nurse: Ok. All right. So that's yeah your number didn't change so it didn't actually really even pull up anything else? Ok. I would just bring out your card in the next time. Um, ok. So
+Patient: Just it changed. [PHI-Personal]
+Nurse: 1st [PHI-Personal] first. Ok. Yep. Hm. Give me that name again. Uh, [PHI-Personal].
+Patient: [PHI-Personal], HMO dash P OS service,
+Nurse: HMO dash P OS. That number did not change. Um, ok, I got that. Um, and I have to send your wellness goals every year besides Doctor [PHI-Personal]. Who else? Do you see? You see a pulmonologist?
+Patient: Yeah, I go to, uh, Pulmonology, um, [PHI-Personal] I think is her name. Mhm. And I go to urology, urology. And, uh,
+Nurse: An eye doctor.
+Patient: Is that who I see there?
+Nurse: Ok. Cardiology.
+Patient: I go to cardiology, which is out a group. Samaritan reality, Samaritan cardio cardiology. Associates of [PHI-Geographic]. And then I also see, uh, eye doctor, which was doctor. It's now he sold his business. It's the same group but it's uh, uh [PHI-Personal]. Ok. Yep. Yep.
+Nurse: Um, there's been a lot of changes in doctors. They don't, they're not staying long anywhere.
+Patient: Um, I wonder why?
+Nurse: Ok. Oh, my God. They probably, I don't know, overwhelmed and stuff. Um, so, ok. And do you, now, do you get all your COVID vaccines?
+Patient: Yep. I got them all. Including the last booster.
+Nurse: Ok. I don't know when the next one's out. I know you go for your annual Wellness. You get your BP screen cholesterol colonoscopy. Did you, didn't you have that couple
+Patient: Of years ago, two or three years
+Nurse: Ago. Yeah. Was it every five years usually for you? Uh,
+Patient: Yeah, I think so. Yeah.
+Nurse: Ok. Uh, flu vaccine. And
+Patient: I got that too. Your
+Nurse: Lab work? Ok. So you have all that done too? Ok. And how you doing with your medications down there? Do you need any refills or anything?
+Patient: No, I'm good until I get home.
+Nurse: Everything's good. You guys doing anything over the weekend?
+Patient: Yeah, playing golf, playing golf.
+Nurse: Well good I well I hope you enjoy um and happy birthday by the way, today is your birthday. Did you do anything? Play golf, play, go play golf. All right. Well enjoy golf anyway um and if you need anything I mean that we can help you with let us know. Ok. Ok. Alright you're welcome. Thank you. Have a great day. You too. Ok bye.

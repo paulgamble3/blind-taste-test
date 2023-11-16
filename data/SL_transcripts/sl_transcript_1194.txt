@@ -1,0 +1,42 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello.
+Nurse: Hi. Is this way?
+Patient: Yes, it is.
+Nurse: Hello. Uh this is [PHI-Personal], the nurse care manager here at [PHI-Geographic]. How are you doing?
+Patient: Uh Not too bad. What can I do for
+Nurse: You? Good, good. Um So I was just going over or I just wanted to go over the care management program um that doctor [PHI-Personal] has at her practice. Um It looks like he opted in for it a couple months ago. Um So I just wanted to call and kind of go over that and see if you had any questions. Ok, go
+Patient: [PHI-Personal].
+Nurse: Ok, perfect. Um So each month one of our nurses here will give you a call and kind of check in on you, see how you're feeling and see how you're doing. Um If, if you need any medication refills, we can take care of those for you as well. Um And then every call will provide you with some education on, you know, one of your chronic conditions. So let me see. So the high BP, um high cholesterol, things like that we have, you know, little tips and tricks and just pieces of information to kind of help keep those numbers, you know, on the downside, um to keep you from progressing those diseases. Does that make sense? Perfect. Ok. Um And then if you're feeling, you know, sick or you need something, you can always give us a call and we are, we are able to message the provider directly to kinda notify them of any issues or changes. Um, so we can get you an appointment or a prescription or things like that. Um, you know, a lot faster than if you called your primary office.
+Patient: I feel pretty good right now. You know, other than I'm in, I'm in [PHI-Geographic] and hay fever seasons down here. It's, it's spring and in [PHI-Geographic] right now
+Nurse: It's ok. It's
+Patient: Worse and it, and it's worse than it is in [PHI-Geographic]. Oh, my word. Really? 00, my word. Everything's, uh, everything wants to bloom right now in [PHI-Geographic] and, and, uh, there's a green film on your car every morning. So. Oh, gosh. But the weather is beautiful. I'm not complaining. I'm down here for
+Nurse: Right. We'll be down there next week. I'm excited. Oh, are
+Patient: You coming to Disney?
+Nurse: No. Um, we, my, my dad has a, he hosts a tractor pull down there every year, so we go and help him out. Oh, ok. Ok.
+Patient: That, like our house is, our house is one red light from Disney.
+Nurse: Oh, cool. Ok.
+Patient: Well, it's cool if you wanna go to Disney all the time but it's not cool for the traffic.
+Nurse: I was just gonna say the traffic is probably outrageous.
+Patient: Yeah, it's pretty bad. It's pretty bad. Where is it, where, you know where the tractor pole is?
+Nurse: Um, yeah, it's in Satsuma, [PHI-Geographic]. Do you know where that is?
+Patient: No, I don't think I do. Uh, what's that called? It's
+Nurse: Like an, an hour north, a little northeast of [PHI-Geographic].
+Patient: Oh, ok. You're out in the, uh, you're out in the country then?
+Nurse: Yes. Yep. I don't know.
+Patient: Tractor poles aren't my thing. I do antique cars but, you know. Oh, cool. Well, I have old stuff. My oldest one is [PHI-Personal]. Oh, wow. Yeah. So it, the, the, the old tractor engines are set up basically. So, you, if you've been around your dad long enough, the real ancient tractor you can see the valves working outside. Well, the old cars are the same way in that time period, you know? Oh, cool. Ok. You li, you lift the hood, you can see all the valves working. Mhm. A lot of people like to watch it, you know?
+Nurse: Yeah, that would be, that's interesting. I'm, I'm all into that stuff so,
+Patient: Well, I, I feel pretty good down here other than, uh, other than my, uh, sinuses are bothering me, but that's, I've been checked for COVID and it's not COVID, it's just sinuses and, and being an old man the way I am, you see my age uh, I can't, I can't take anything to help my sinuses because it swells my prostate. So I just, oh, ok. I, I just have to suffer through it, you know. Oh,
+Nurse: Gosh. Well, um, you, you can, you know, have you tried, um, heating up like a bowl of water and just kind of breathing in that steam that can help sometimes
+Patient: About the only thing that helps me is, uh, and it, and it's, I, and I thank God they still make it without any of the drugs that stop my water flow is, is old fashioned. Uh uh, oh, you put the two ES in. It's uh, oh, you drop in water. What is it? Uh, like,
+Nurse: Yeah, I know what you're talking about. I can't think of it either.
+Patient: Oh, yeah. Yeah. Yeah. And, and, and, and they make two or three different brands. But you, I got, I, for me, I have to take the original brand or it, it's, it's not worth the pain and
+Nurse: Stuff doesn't help. Ok.
+Patient: But other than that, I feel good. I'm not, I'm not coming back in some time in [PHI-Personal].
+Nurse: Awesome. Um, well, I am going to send you a letter in the mail. I'll just mail it to your, um, home address if that's fine. Um, I have [PHI-Geographic]. Yeah,
+Patient: For now until I, I, I've kept all my doctors here because I haven't changed my address yet. I am. Oh, been down here? Ok. Oh ok perfect. I have not, I have not made the move yet.
+Nurse: Ok well when you do, mhm. Um when you do decide to move down there permanently, just let us know and we can change the address. No problem um but let's see the letter I'm gonna send you is just it's just gonna have your nurses name and contact information on it and also some goals for this year um which will just consist of you know, getting your labs done um getting your your annual wellness visit done and things like that. Uh we just kind of check it off on our end as you get them done.
+Patient: Ok? Thank you. Thank you. Alright,
+Nurse: You're very welcome. Ple please call if you have any questions otherwise we'll talk next
+Patient: Month. Ok? Have a good one.
+Nurse: You too thanks
+Patient: Bye bye bye.

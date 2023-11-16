@@ -1,0 +1,51 @@
+Nurse: Hey, good morning. That's [PHI-Personal].
+Patient: Uh, good morning. Um, my name is [PHI-Personal]. I'm calling for my husband [PHI-Personal].
+Nurse: Yes, ma'am. Hold on, let me pull up his chart. Ok.
+Patient: [PHI-Account].
+Nurse: Ok, Mr [PHI-Personal] Snyder. Ok. What's going on with Mr [PHI-Personal]? Well, he, when
+Patient: He saw doctor [PHI-Personal] three weeks ago, he's had him doing his BP every day and for the last 10 day, well, the whole time it's been whacko last night, it was [PHI-Account] at quarter, after seven this morning it was 1 64/86 which I guess isn't
+Nurse: Alarming. It was [PHI-Account]
+Patient: [PHI-Account].
+Nurse: Yeah. And did he feel bad at that time? He,
+Patient: He does and he doesn't, and then the night before it was 88/[PHI-Personal]. So in the mornings it's [PHI-Personal] and at night it's very low.
+Nurse: Hm. Ok, let me take those readings. Doctor and doctor, uh, [PHI-Personal] a message
+Patient: I talked to him. I was there a week ago and kind of gave him a heads up and he said to call about getting an appointment and then maybe we would, we could, we could piggyback the appointment because I have a spot in my face he's gonna take off. So, but I'm really worried about this low. I, is that, is that alarming that low BP?
+Nurse: Some, it depends, some people have blood pressures that are low like that and feel fine. But is he if it's affecting him, like if he's starting to feel it? Yeah, then that's the
+Patient: Times where he doesn't, he feels lightheaded.
+Nurse: Yes, I was just about to ask you, do you have like any lightheaded dizziness? Like any clammy skin, um, nausea,
+Patient: Night time. He has a, a lot of, uh, night sweats during the night, but any other time? No.
+Nurse: Ok. Ok. So, um, let's see. When is your appointment? Oh, you have an appointment, um, oh, you don't have any upcoming appointments? No,
+Patient: That was my wellness care and I'm having my hip replaced next week. So I had blood work and everything
+Nurse: Done. So, when would you all be available to go in to see him? Like, if I could get you all appointment today, would that be ok whenever that'll be fine? Ok. And can I have those BP readings again? It was 99. Over [PHI-Personal]
+Patient: 90 [PHI-Account] last night.
+Nurse: Oh, in the morning. So [PHI-Account] and that was last night.
+Patient: Mhm. This morning was 1 64/80
+Nurse: [PHI-Personal] and this morning [PHI-Personal]
+Patient: 1 64. Over 86. I'm so sorry.
+Nurse: I'm sorry. So, look like it's dropping at night.
+Patient: Yes. And he upped the medicine, like, Doctor [PHI-Personal] told him to after a week, I think it was like nine days. Then he upped it another one.
+Nurse: Oh, um, no,
+Patient: It, uh, on the [PHI-Personal] it was 1 76. Over 92.
+Nurse: Oh, see, that's
+Patient: [PHI-Personal]. But it's, uh, it's right around. I can't even average it because it's so sporadic. Like 2 30 yesterday afternoon, he just took it because he, he must not have felt good. It was 1 15/71.
+Nurse: Ok. So I'm gonna ask you this when he's taking his BP, he's using, uh, arm cuff or a wrist cuff,
+Patient: Arm cuff and he stretches his arms and he makes sure there isn't any air in it.
+Nurse: And when he go to take his BP, is he making sure he's sitting down for at least five minutes? Yep. Both feet are on the floor back. Supported.
+Patient: Yes. And I'm, uh, he's calling me doctor Doctor [PHI-Personal] now because I said your feet.
+Nurse: Yes. You, you have to though. And like, um, because, you know, certain things will make your BP reading be inaccurate. You know, like having a full bladder talking while the BP cuff is gone. If the BP cuff is too small, you know, um, you, you have to
+Patient: Look to see if he has two fingers. If you can get two fingers in there. I think somebody, oh,
+Nurse: Let's see. I'm reading, uh, the note, I'm sorry.
+Patient: Right. But I'm, I'm looking at his, this paper that he's been writing down since [PHI-Personal] and it looks like it, it, oh, it's been [PHI-Personal] but it looks like it's just been the last, oh, the [PHI-Personal], it was 99. Over [PHI-Account].
+Nurse: So, how much, I'm so sorry. That's all right. Go ahead. Uh So how much of the [PHI-Personal] is he taking now?
+Patient: Um He upped it to two. Which, what's that? [PHI-Personal]
+Nurse: Or 10 mg? Yes. And did he stop the Lisinopril? [PHI-Personal]? Did
+Patient: You stop taking Lisinopril?
+Nurse: Yes. Ok. Ok. Yeah. Um He did exactly what doc said to stop the Lisinopril and the sar five mg increase it a week. Yes, ma'am. He did. OK. I will definitely. And you said uh so he is symptomatic because he do experience the dizziness.
+Patient: Yes. [PHI-Personal]. Yes.
+Nurse: Yes. Mhm. But is it lightheaded and dizzy or just lightheaded? Because both of them are signs that your BP is too low?
+Patient: Yes. Have you had any dizziness and lightheaded? Yes. Yes.
+Nurse: He, he's he, he's filling, he's filling it when his BP drops. Ok, Miss [PHI-Personal], I will send a message to Doctor [PHI-Personal] and try to get your appointment for today.
+Patient: Ok. And I really love that. I can actually talk right to
+Nurse: You. Oh, it's no problem. It's no problem at All. Alright. All right. Thank you very much. You're welcome. As soon as I hear something, um I will give you a call. All
+Patient: Right. Thank you.
+Nurse: You're welcome. Bye.

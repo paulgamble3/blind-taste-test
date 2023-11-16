@@ -1,0 +1,98 @@
+Nurse: This is
+Patient: Hello. Yes, my name is. Need to speak to [PHI-Personal], please. I'm returning her call.
+Nurse: Yes, that's me. Hi. How are you doing today?
+Patient: Oh, I'm a little bit tight. I got the little bit of laryngitis as you can hear, but otherwise I'm doing ok. Well, that's no
+Nurse: Good. Sorry, I'm just getting your chart pulled up here.
+Patient: Ok.
+Nurse: All right. So we have you enrolled in the care management program. Um, and I just wanted to go over some of that information with you and ask you a few questions if you have a few minutes.
+Patient: Ok. Sure.
+Nurse: Ok. All right. If you don't mind, I'd like to verify your date of birth.
+Patient: Mhm. That's May 23rd, 1964. Ok.
+Nurse: Very good. All right. So what we are is we, um, we'll send you out a care plan. You'll get that next week. It'll have my name and phone number on it. Um, and it will just have a list of wellness goals on it. These wellness goals are just a list of items that your doctor has recommended that you complete over the course of the year. Just to better your health. It'll be things like immunizations, doctor's visits, lab work and that kind of thing. Um, and I will be calling you, um, every other month just to check in, see how you're doing, see if you need anything. Um, and then in between those calls, if you need anything, I'm like your own personal nurse. So you can call me about any kind of medical issue that you're having. Ok. And that, that even goes to appointment scheduling and medication refills?
+Patient: Oh, ok. Got you.
+Nurse: Ok. So if you don't mind, I would like to go over your medication list with you just to make sure that I what I have is what you're taking.
+Patient: Ok. Let me get my notification list here because I'm, I'm sure there's gonna be some differences. Ok. Go ahead. All
+Nurse: Right. So I have Clopidogrel which is Plavix 75 mg every day.
+Patient: Ok.
+Nurse: Are you taking that? Yes. Mhm. Um And then I have buPROPion 100 mg once a day. Yes. ClonazePAM. 0.5 mg, one tablet by mouth twice a day as needed.
+Patient: Actually, that's been up to one M one mg three times as needed.
+Nurse: Ok. And who increased that for you?
+Patient: That would be my psychiatrist. I mean this ok. She's not actually my psychiatrist. She's a nurse practitioner.
+Nurse: Ok. Um and then I have meclizine 12.5 mg every 6 to 8 hours as needed.
+Patient: Yes. Mhm. Strangely enough, I need more and one tablet. He's only given me a supply of 30 tablets in one month. If I were to use them two or three times a possibly each day, I'm gonna run out well, before the comes for me to refill. Ok.
+Nurse: Um, well, if you do start to get close to, to running out, um, let me know.
+Patient: Ok, but if you try to get the same dosage before a month runs out, my insurance is going to say no, it's too soon. Right.
+Nurse: I know that meclizine can be purchased over the counter. Um, so if you're like in a, if we don't have any other choice, uh we could do that and then whenever it comes time for the next bill, just make sure that he sends in more.
+Patient: Ok. Well, at this point, I haven't really needed to do that yet, so I was just bringing that up.
+Nurse: Ok. Well, we'll get it worked out um to where you're getting enough to last a month. Unfortunately, there's not a whole lot we can do about this month, but moving forward we can. Ok. Ok. And then it looks like you're doing Toujeo Max 97 units at bedtime
+Patient: That's been dropped down to 90 units by my, uh, my endocrinologist.
+Nurse: All right. And then I have gabapentin 100 mg three times a day.
+Patient: Yeah. Right.
+Nurse: Ok. And then I have Ozempic uh 0.5 mg every week.
+Patient: Yeah.
+Nurse: And then I have NovoLOG 70 30 eight units a day.
+Patient: Uh I take four units a day but that doctor lowered it to four units a day. That's my a day. Ok.
+Nurse: All right. And then I have glimepiride four mg once a day.
+Patient: That's correct.
+Nurse: Ok. And then I have metoprolol 25 mg a day. That's correct. Yes. And then I see atorvastatin 40 mg once a day tax. Mhm. That's right. Yes. Ok. And then I have Metformin 1000 mg twice a day.
+Patient: No, he's taken me off the Metformin because I've been having trouble with diarrhea. So I think this is only a temporary change but he's taken me off the Metformin for the time being
+Nurse: OK? And then I've got nitroglycerin in case you need it.
+Patient: Yes.
+Nurse: Um I've got pantoprazole, 40 mg once a day.
+Patient: That's correct. Yes,
+Nurse: I've got metoclopramide. 10 mg.
+Patient: What, what else is that known as
+Nurse: Um that is also known as Reglan.
+Patient: Uh He's taking me off that as well because of diarrhea issues. OK. Four times a day. 10 mg each dose if need a really different need.
+Nurse: All right. So we're no longer taking that because of diarrhea.
+Patient: Yeah, that's correct.
+Nurse: OK. And then I've got Famotidine 40 mg once a day.
+Patient: That's correct. Yes.
+Nurse: And then I have Lisinopril 20 mg once a day.
+Patient: Yes. Mhm.
+Nurse: And then I have Abilify 30 mg every day. It's appraisal.
+Patient: Oh, yeah, I do that as well.
+Nurse: OK. Vitamin D 1000 units two a day.
+Patient: Um I actually I actually get 2000 units in one pop because the old where I order the vitamin D from you carry 1000 so end up getting two a day.
+Nurse: Ok. And then once a week, LaMICtal 200 twice a day.
+Patient: Yes. Mhm.
+Nurse: And then a low dose aspirin. Yes. Ok. Did I miss anything?
+Patient: And let me start the top. We did a AAA Opr Aspirin atorvastatin vitamin D three. Alright. Good. NovoLOG needles. Zem OLANZapine take twice day. I don't know what's the date on that one in the morning? I take a 7.5 mg tablet. Mhm. And a bed doctor take a 15 mg tablet.
+Nurse: Ok, I'll get that ended.
+Patient: Ok. The other ones. Yeah FLUoxetine cake I believe he. Yes it is I think I think
+Nurse: What's the dose on your FLUoxetine?
+Patient: I have a 0.52 for that. You have a what 0.52 mg? I think maybe I I never tried it and then 1.5.
+Nurse: Ok. And you take that how many times a day?
+Patient: Once, once a day morning?
+Nurse: Ok. Anything else
+Patient: Imodium as needed? Ok. And also he recommended medic and I take five tablets of that four times a day. The doctor, the doctor as well. Ok. That's pretty much it.
+Nurse: Ok. And do you see a G I doctor
+Patient: You subject? Mhm.
+Nurse: Ok. So with your psychiatrist you also seek therapy or just the just the doc
+Patient: I have a therapist as Well.
+Nurse: Ok. And have you ever been hospitalized due to your diagnosis? Yes.
+Patient: Yes. But I haven't been hospitalized for like, over 12 years.
+Nurse: Ok. And it was, it only once?
+Patient: No, I've been in the hospital at least four times.
+Nurse: And is there a family history?
+Patient: So my sister went into the hospital once because she tried to kill herself.
+Nurse: Any other family history? No. Ok. And how long have you been treated,
+Patient: Uh, for bipolar disorder? I've been treated for bipolar disorder, uh, beginning of year [PHI-Personal] until present.
+Nurse: Ok. And have you ever been treated for any other kind of mental health disorder?
+Patient: Deep breath as well?
+Nurse: Ok. And how long have you been treated for that?
+Patient: About the same amount of time as a bipolar?
+Nurse: Ok. Do you have any problems with any of your medicines?
+Patient: Not at the moment? No. Mm.
+Nurse: All right. Is there anything that I can do for you today?
+Patient: Yes. Um, on Thursday I had ti a attack at work. I went to the hospital and by then it had moved on and there was a permanent damage done by it to my brain, but they did do ac T scan on my, on my brain and found that there was evidence of a prior stroke. So I didn't know I had a prior stroke. They said that there, there is some damaged tissue there. And what's been recommended is that I have an MRI done of my skull. And brain and also a sonogram done of. Yeah, territory on this. Ok. And I'm hoping he set me for four of those. Do what? I'm sorry, I would like to have him recommend me to up MC imaging which is a ok.
+Nurse: All right. And it looks like you do have an appointment this week with the Glen. Yeah. Mhm. On the [PHI-Personal] at 2 30
+Patient: The [PHI-Personal]. Yes. Mm.
+Nurse: Yes. Ok. I I would say that he's probably going to order your MRI and all that good stuff at that appointment. So I would make sure to tell him where you want it sent to um whenever you're in there with him talking to him.
+Patient: Ok. All righty. Does that sound good? Yes.
+Nurse: All right. Anything else I can help you with today?
+Patient: Nope, that's it.
+Nurse: Alrighty. Well you have a wonderful day.
+Patient: Ok. Thank you for the call.
+Nurse: Alright. No problem. Bye
+Patient: Bye. Ok bye bye.

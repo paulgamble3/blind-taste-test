@@ -1,0 +1,34 @@
+Nurse: [PHI-Geographic]. This is how can I help you?
+Patient: Yes, this is uh, I was just looking over the calendar here and I have an appointment for the [PHI-Personal] at 11 30. I am not going to be able to make that.
+Nurse: Ok, let's see what we can do here.
+Patient: I have a, oh, got a smoke alarms battery going dead. Hm.
+Nurse: Yep. Gotta love it. Mine that, you know, I have one of my dogs and he sounds so vicious like he's gonna rip your legs off and he doesn't weigh more than five lbs, you know, he is so little but his bark is so vicious.
+Patient: Oh gosh.
+Nurse: Alright for the [PHI-Personal], let's see, six month and labs and that's with doctor. So let's see what else we could get here for you.
+Patient: Mm.
+Nurse: Is he barking at anything in particular?
+Patient: No, we just like he just likes to make noise. Yeah. Yeah. Just annoying. Ah, [PHI-Personal] dog in his heart. We just dog sit, I can't wait until she gets home sometimes so I can take them down and I have a dog. Is it? He's [PHI-Personal]?
+Nurse: Oh, yeah. Well, there you go. Yep. Ok,
+Patient: Sometimes the teacup [PHI-Personal] gets set off too.
+Nurse: My mother in law has two teacup [PHI-Geographic] and we watch them for them like when they go away they are, there's something,
+Patient: Well, one we have is more of a tea pot. Uh. Mm.
+Nurse: Ok, let's see what we got. So you wanna go, how, how much later does it matter day or time as far as to reschedule or just whatever he has available or
+Patient: What available? Yeah. Ok. Ok. I just have a calendar here to look at, I didn't have it with me when I came over to the doctor. Mhm.
+Nurse: Look, here we could do the [PHI-Personal] at 1 30.
+Patient: Um, I'm not sure what's going on that whole week. I have, I have a cousin that I haven't seen for about 30 years coming in from [PHI-Geographic]. Oh,
+Nurse: Well, that's exciting. Ok. Well, let's
+Patient: Just coming in the 21st to the 28. Ok,
+Nurse: Let's move on. How about the [PHI-Personal]? At 11 30?
+Patient: Oh, ok. There, wait a minute doctor appointment. Is that all has one at one
+Nurse: [PHI-Personal]? Yes, she does. She has one at 1 15. Yeah,
+Patient: We can get in like about the same time.
+Nurse: Let's see. I could, let me look and see there's one before her. No, she's right in the middle of a group of them. Um, the next one would be a 2 45 that
+Patient: Day. No, I don't want it over there. Yeah. All right. Ok. What time would you say?
+Nurse: I have an 11 30 that day or the, the 2 45 if you prefer the later afternoon,
+Patient: Uh, we'll do the 11 30. Ok. Ok. Alrighty. Let
+Nurse: Me get you in there
+Patient: Now. Maybe I can go out and do something like we. Yeah,
+Nurse: Hey, it's actually pretty nice outside, you know, it's a good day to be outdoors, doing that kind of stuff.
+Patient: It's humid. It's, it's, it's humid. Uh, I just, I was helping out do some laundry. I used to hung up a little laundry. I'm sweating. That are, you
+Nurse: Really must be hotter there than it is here. It's not bad out here today.
+Patient: Yeah, we, I'm hoping, I'm hoping when the great grandson comes home from school, he wanna wanna go in the pool. So that'll give me an excuse. Ok. Ok. Thank you very much dear. Yeah, you take care. Yep. Bye bye.

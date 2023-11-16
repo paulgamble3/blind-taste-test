@@ -1,0 +1,26 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. How can I help you? This
+Patient: Is [PHI-Personal] calling. Hello? Hi, how are you?
+Nurse: Good. How are you doing? I'm doing
+Patient: Good. Uh I'm calling for a refill for [PHI-Personal].
+Nurse: Ok. And what does he need?
+Patient: Uh, he needs um, a refill for BP? I think that's what it's for. Um, it's uh, am [PHI-Personal] IP ine. Ok. Ok. What, how much milligram?
+Nurse: 10. Ok. And what? Pharmacy
+Patient: [PHI-Personal]? And he gets 90 90 days? Ok. For this.
+Nurse: Ok, perfect. All right, I can get that in. That's no problem. Is there any other prescriptions?
+Patient: No, that was just the only one. Ok.
+Nurse: How are you guys getting along? Um, everything going? Ok.
+Patient: Yeah. Yeah, we, we got that other um, medication, uh, straightened out. Yeah. Good, good. Ok. We had to go out and um, he gave it to us right away and I don't understand what all the fuss was about. But, uh, anyway, right now we, we particularly don't like his manner but we have to have the medication. So
+Nurse: Who was doctor
+Patient: Or? No? No, no, no, no. The doctor out there in, uh, Pottsville? 00, ok. OK, we didn't, we really didn't like, oh,
+Nurse: That's right. You guys were really struggling with trying to get that. They were really giving you a hard time. That's right. I remember that. Yeah, my, I think
+Patient: I did share that with you and I, yes, yes, I recall that now. But he uh yeah, he kept the, the film that he had prescribed, which I thought he was gonna do that. Um but uh but he gave us the, the medicine and so, but he has, we have to go out every week, every month. So, and that's ok. I said, well, do you have to go out every month to be in the bottle? That's what it's
+Nurse: About. I mean, if it, if it controls his pain, if it manages him, then that's, yeah, you know, I guess it's worth it. But at the same time the hassle that you guys went through I feel was totally unnecessary.
+Patient: Yeah, I did too. But, well, it's done and now we just have to put up with, gosh,
+Nurse: How are you guys getting along with the warm? I mean, it's been so good. You guys
+Patient: Doing? Ok. Yes. We, our, our house is air conditioning good. He's good. Yeah. Yeah. My husband works only when it's cool outside. He doesn't try to go out when it's so damn hot.
+Nurse: I know. You know, and that, and that's the thing. A lot of people are trying to, you know, complete their tasks in the morning. Of course, before it gets so warm. Yeah. You know what? I thought we were getting a little break there for a few days, but I,
+Patient: Not until back next Wednesday, not this Wednesday, but next we, yeah. Oh,
+Nurse: Boy. Well, you guys make sure to stay cool and keep hydrated and yeah, we will. Don't overdo it too much. But yeah, I can get that in, um, for him that's no problem. And, uh, if you guys need anything else, please give me a call. Ok, I
+Patient: Will. Thank you.
+Nurse: Have much weekend.
+Patient: You too. Bye bye bye.

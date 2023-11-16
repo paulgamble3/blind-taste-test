@@ -1,0 +1,21 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi. My name is, uh huh. And I'm getting calls from you. Um, what can I help?
+Nurse: Do it? Ok. Let me pull you up and let me see who has been calling. Give me one second. Ok. All right. So, let's see here. It looks like, excuse me? All right. It looks like [PHI-Personal] usually calls with Doctor [PHI-Personal] office. Yes. And it looks like she was just calling to do, excuse me? I have a cough today. Yeah. It looks like she was just calling to do your monthly check in to see how everything was doing. Ok. How's, how have you been? I'm doing good. Good.
+Patient: I had that back surgery and, um, I don't think it worked.
+Nurse: I have. Oh, that's not good.
+Patient: And now my, the pain is there all the time? It doesn't, I don't understand why because last time I was at the, uh, doctor's office he showed me the x-ray and it was perfect, but it's hard for me to walk. It's hard for me to sit down and get up crazy. I call him.
+Nurse: Oh, yeah, I would definitely reach out and, um,
+Patient: Because I said that you have no restrictions. You don't need to come back and see me unless there's something wrong then call me. So, I don't know,
+Nurse: Do, does heat or ice help at all?
+Patient: I haven't tried it.
+Nurse: Ok. I
+Patient: Get stuff of those, um, those taxes and I just got over there. Yeah.
+Nurse: Yeah. So I would definitely, excuse me. I would definitely try, you know, everybody's body is different. You know, my, my body prefers heat. Um, my husband's body prefers cold. Um, you know, try, you know, I would try, you know, the thing with heat, applying heat um helps dilate the blood vessels, it helps promote blood flow and it helps sore and tighten muscles, relax. Um You know, when you think about cold applications, cold applications help diminish, you know, pain inflammation, you know. Um Yeah, and it helps reduce the b blood flow to a particular area which can significantly reduce inflammation and swelling that causes pain, you know. Um Right. Yes. So you have to, you know, when you use the cold therapy, you know, you use it for short periods of time, several times a day, 10 to 15 minutes. Um, no more than 20. It's so
+Patient: Cold.
+Nurse: Yes. Yes. Um And you know, you want the reason it should be used, you know, um for a short amount of time because you wanna prevent, you know, nerve tissue and skin damage. So always wrap it in something if you use the cold um with the heat, you know, you want to, um, it really depends on, you know, your tolerance but it should last no more than 20 minutes, you know, an hour. Um, and you need both patches or 20 minutes. Well, no, the patches, the patches now with, and I'm talking about like, if you use like a heating pad, um, or something, the patches you put on and, you know, those usually, you know, stay on, you know, just read the directions on the box with those.
+Patient: Yeah. But I had used them before. I had the surgery and that was great.
+Nurse: Yeah. So I would get those again. Um, you know, if you're gonna use like a heating pad or something, you know, you can use that up to, you know, three times a day unless, you know, your provider tells you differently. Um, but I would definitely reach out to, you know, your provider.
+Patient: I know I have so many people to call and things to do and, uh, um,
+Nurse: There's never enough time in a day. Is there? No,
+Patient: Not at all. I have laundry and the washer and I got down and to change that over. I thought I better call you. Yes.
+Nurse: Yes. So, well, yes. So, Jessica, Jessica had her baby, so she'll be back and she'll be back. Yes. She'll be back in three months. But we are here if you need anything. Are you doing ok on your medications? Do you need a refill on anything that I know of? No. Ok, perfect. Well, we will give you a call back in a month but if you need us before then you feel free to give us a call. Ok? Ok. All right. Have a wonderful weekend. Ok. Yep. And you too. Alright. Thank you. Bye bye bye.

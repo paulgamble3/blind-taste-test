@@ -1,0 +1,12 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Somebody called me a couple times.
+Nurse: Yes, this is [PHI-Personal] from chronic care management. We spoke yesterday. Ok. I was calling, I checked on your chart and I see that you don't have an appointment with your primary care yet. Ok. Did you call?
+Patient: Yeah. And they were supposed to be, set me up an appointment for next, next, I think next Tuesday I thought.
+Nurse: And you called [PHI-Personal]?
+Patient: Yeah, I believe that's what they did, uh, told me to come in and see the pa A, uh, what?
+Nurse: Ok, because I don't see it on your calendar here.
+Patient: Ok. Well, let me call him back and double check.
+Nurse: I just wanted to make sure that you were seen.
+Patient: Ok, give me about 15. I'll call you back maybe an hour because I,
+Nurse: Ok, if you don't get a hold of me, please leave a voice mail. Ok.
+Patient: All right. Thank you. I appreciate your time. Sure. Bye bye.

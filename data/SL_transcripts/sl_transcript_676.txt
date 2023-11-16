@@ -1,0 +1,9 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Yes, this is uh [PHI-Personal]. Oh right and I was supposed to call back.
+Nurse: Alright, let me pull up your chart. Give me just one second. Ok. Yep. Well, if I can type this morning, it's been a Monday. Um let me see Mr [PHI-Personal]. I was giving you a call to go over the care management program on a recorded line with that program. A nurse can give you a call either once a month or every few months just to go over any health concerns questions you have in between the office visits. If you need any help with any um prescriptions, we can help with that as well. Um and then it is billable with your insurance which I show you on Medicare and Blue Cross [PHI-Personal], the high mark. So it will be filed with both of those and it may be subject to copay deductible or um co insurance depending on what you have with your plan. And then the nurse can give you a call either in the morning or the afternoon, whichever one you prefer.
+Patient: Ok. Yeah, afternoon
+Nurse: Probably afternoon. Ok. And then can I mail the letter um to the [PHI-Geographic]. Yes. Ok, I will put that in the mail to you. Ok.
+Patient: Ok, I just looking to see I have an appointment there. Let's see Thursday, right?
+Nurse: Um let me pull that up. Yes sir. Thursday at nine o'clock.
+Patient: Ok. Yeah I mean I could pick that up then or you can mail it whichever.
+Nurse: Ok. Well it'll go probably in the mail um today so. Alright. Alright. Well you have a wonderful day. You too. Thank you. Bye bye.

@@ -1,0 +1,14 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Yes. Did you call me?
+Nurse: I have not called you again since we spoke [PHI-Personal]. I mean, [PHI-Personal]. I'm sorry, I'm sorry, I was reading a paper. No, [PHI-Personal]. I haven't called you since we spoke earlier. Oh,
+Patient: But I have seen that there is a missed call and then, uh, I thought it was you. Oh,
+Nurse: No. Does, does it show the number for the missed call? Yes. What number does it show you?
+Patient: I know. I know it's only in voice mail.
+Nurse: Oh, and you, you, did you ever figure out your voice mails? [PHI-Personal]?
+Patient: No, I don't know how to do that. You will teach me.
+Nurse: Yeah. Do you? I know you have that, uh, your friend that brings you the groceries. Maybe he could show you how to do it. No,
+Patient: Because of this.
+Nurse: Oh, but I'm, I'm sorry, [PHI-Personal]. That wasn't me that gave you a call. Ok,
+Patient: It's ok. Thank you. I will bother you. Ok, good night. All right,
+Nurse: Bye
+Patient: Bye. Bye bye.

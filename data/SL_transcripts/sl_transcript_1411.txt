@@ -1,0 +1,34 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Hi, [PHI-Personal]. This is [PHI-Personal]. I got your message. Hi, how are you? Good. How are you today? Oh, I'm fine, thank you. Good.
+Nurse: What's new with you?
+Patient: Oh, nothing. I'm just, oh, fighting off that arthritis in my ankle. But other than that I'm ok.
+Nurse: Ok. And how's your ankle doing?
+Patient: Yeah. Well, he, he gave me some, uh, uh, predniSONE which I, you know, just to two, that refill and another refill till for a year. So I kind of buy my time with that and then he gave me some Meloxicam which, uh, there's a couple refills of that. So I, between the three of them and, uh, uh, Tylenol, I've been, uh, it, it swells up but some of it could be, you know, the heat probably. And some, it's, it's not as bad as it was. Good.
+Nurse: Good. Well, you haven't been to the doctor recently, which is good. Um, means you haven't been sick or needed them at all and your next appointment isn't until [PHI-Personal]. So I thought we could talk a little bit about triggers of acid reflux.
+Patient: Ok. What, I don't have a problem with it?
+Nurse: Good. Your acid reflu, sorry, that was very loud. Um, your acid reflux is well in control right now.
+Patient: Oh, yeah. I don't, I don't have any problem with that. No. Good,
+Nurse: Good. Did you in the past? It's listed on your problem
+Patient: List? Uh, I, oh, maybe years ago I was taking PriLOSEC. Oh, yes. Yeah, it hasn't been for a long time.
+Nurse: Ok. Well, I'll go over some things to avoid so it doesn't come back then. Um, eating large meals or eating late at night can trigger acid reflux. Um, I'm sure you've kind of learned the triggers that trigger you such as fatty fried or spicy food. And then for some people, beverages such as alcohol or coffee will make it worse
+Patient: And
+Nurse: Medications such as aspirin can trigger it also.
+Patient: I think
+Nurse: You just keep in your mind to try and avoid if you can.
+Patient: Well, I don't drink alcohol and as far as coffee, it hasn't affected me at all. So perfect.
+Nurse: Perfect. I know, I feel really bad for the people who love coffee and then it triggers their acid reflux. I'm always like, oh, that's really sad,
+Patient: I'm sure. Right. I'm sure.
+Nurse: How are your, um, medications going? Do you need any refills on those?
+Patient: Uh, just, I'm gonna get the Meloxicam refilled. But other than that, you mean those or some other kind? Are you talking about any of that? Oh, that, well, like I said, I haven't used the predniSONE yet. And the Meloxicam, I have a second re I have three refills of that, but only through uh next [PHI-Personal]. So like I said, I kind of my time with it.
+Nurse: Perfect. Perfect. And is icing or heat helping your ankle at all?
+Patient: Uh I put ice on it. Yeah, and that, that seems to, you know, if I see that it's really swollen, if I'm on it a lot or anything.
+Nurse: Perfect. Perfect. Well, it seems like you're doing a good job with it for what you got given and I forgot. Are you seeing Ortho or pain management soon?
+Patient: Mm I never have. Oh I I saw Ortho not for for not for this but for my shoulder I did when I dislocated it but and I've never been with pain management. No.
+Nurse: Ok. Ok, perfect. Well, is there anything else I can help you with that today?
+Patient: No, II I can't think of anything but thank you.
+Nurse: All right. Well, if you do need me call me otherwise I'll check in next month to see how you're doing.
+Patient: That'll be fine. Alright.
+Nurse: Thanks for calling me back then.
+Patient: Yeah, sorry I missed you and I appreciate your call.
+Nurse: No problem. You have a wonderful day.
+Patient: You too. Bye bye bye.

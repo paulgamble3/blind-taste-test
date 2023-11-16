@@ -1,0 +1,9 @@
+Nurse: Hi. Is this [PHI-Personal]? Yes, it is. Hi. Hi, I'm good. I was just typing up a message here. So I was, I saw um the Spiriva is no longer is not gonna be covered by insurance. So they provided two alternatives. Is that right? The incruse Ellipta, right? But
+Patient: I went to um uh I called uh Rite Aid and they said my insurance does accept Spiriva. So maybe she needs to call with the script.
+Nurse: Ok. Where was it sent to? Do you know, let me pull
+Patient: It up, express script.
+Nurse: Ok. Ok. Ok. So let me um I wonder did they say if a prior authorization was needed? Because sometimes that could be it too. So, so even for the Spiriva, even if Rite Aid says they may cover, it's also possible that they might need a prior auth. I see, I see I can reach out to the prior auth department and see if that if, see if that's what's needed through because usually express scripts is cheaper for patients. But
+Patient: Yeah. Yes,
+Nurse: I'm not sure why Rite Aid would cover it and not express scripts. So let me reach out to the prior auth department and see uh if that's something that they could look into and then as soon as I hear back, I'm gonna, I'll write your name down here so I don't forget it doesn't get lost and then I'll follow up on this just so we can see and move forward whether it's with this one that Rite Aid or if they want, if they won't cover it then maybe that other alternative. Ok. Alright. Alright. so I'm gonna reach out to that department now and then as soon as I hear back I'll let you know. Ok and what's your name? My name is [PHI-Personal]. I'm one of the nurses.
+Patient: Ok. All right. Thank
+Nurse: You and all right you're welcome take care. Bye.

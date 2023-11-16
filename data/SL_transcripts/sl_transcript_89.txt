@@ -1,0 +1,17 @@
+Nurse: Hi.
+Patient: Hey, how are you?
+Nurse: Good. How are you? Um, what did doctor, oh, doctor just wanted to know when your next cardio appointment is,
+Patient: Uh, [PHI-Personal]
+Nurse: 4th [PHI-Personal] fourth. Ok. And primary care provider. She wanted to mention that again.
+Patient: I'm still working on it. I, yeah, I got a question to ask you and maybe you could ask her. Ok, this is not a big area. So it's hard to get into doctors because not that many of them, whatever. Anyway, would a family practice be ok if I can get in there?
+Nurse: So it would be a provider, right? Yeah. Yeah. I mean, there's lots of family practices.
+Patient: That's a doctor's office. Yeah, I see it. Yeah, the other day we went downtown and I thought, oh, there's a family practice over there. What I mean? He may not be an internist but he's still, like, got old or whatever. And I thought, well, maybe I'll try to get in there. I'll
+Nurse: Stop family practice physician.
+Patient: Yeah. And I just, yeah, I
+Nurse: Mean, they do, I mean, family, I mean, it's saying on here family, I'll tell her that's what you're gonna look into. Um, treat chronic conditions. I mean, you know, let them know when they need a specialist. I have to work a private office center, group of other family practice, doctors, community center. Um, yeah, many family doctors provide care to underserved populations in the area where there are limited community versus high levels. Uh, yes. So, I mean, they'll do your routine check ups, health assessments. I mean, that, I mean, yeah. So I, I'm, so that's fine. Yeah, I'm sure that's fine. I'll let her know though. You're gonna look, you found another one that's close by and it's family practice. Were you just looking for one specific doctor or?
+Patient: Well, I thought you wanted me to find an internist, you know, like she is, but, and they do have them up here. I'm not saying that, but I left my app. Well, you have to almost like put an application in like, uh, yeah,
+Nurse: I'll tell you, I mean, I'll tell you're gonna try go, I mean, because it's so hard to find one up there and you almost have to put an application in, but you do find a family practice. Ok, I'll let her know too. So she just wanted to know that
+Patient: Let's try to get into this, the other one that I left the paperwork with too to see what's going on there. But, you know. Ok. Sounds good. All right. So just, just to tell her, I mean, not that, um, this cardiologist, he's having me have a echocardiogram done. Um and that that's going to be done [PHI-Personal] 2nd so.
+Nurse: Ok. Ok. I'll tell her that too. I'll put that in my note.
+Patient: Yeah, I had a chest x-ray done and I had uh my blood test done whole bunch of stuff there. I thought I had to send it. I thought after I see him, I get the results sent to her after I see him in [PHI-Personal].
+Nurse: Ok. Yeah, I'll let her know. So you're pretty ok. Sounds good. All right. Thank you so much. Bye bye. Ok, bye.

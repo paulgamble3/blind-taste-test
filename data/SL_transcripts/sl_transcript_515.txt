@@ -1,0 +1,137 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: How you doing?
+Nurse: I'm good. How are you doing?
+Patient: Um, excuse me? Um, I, you noticed I went to the doctor?
+Nurse: I did,
+Patient: I had, uh, I was, didn't realize it but I had, I was too constipated and too much gas in my system. So now I'm taking, oh, I hate it. But, uh, uh, milk of [PHI-Personal], a full cup at a time at night before I go to bed. And, um, other than that, I don't know what else to do. Are
+Nurse: You, are you taking the [PHI-Personal]? You mean
+Patient: Milk of magnesia?
+Nurse: Ok. Well, he recommended that you take [PHI-Personal]?
+Patient: Ok. I got the wrong stuff then.
+Nurse: Yeah. Um, the [PHI-Personal] you're to take there when you untwist the cap, you fill that cap full up and you can put that in water, juice, soda, whatever you drink and you take one of those a day. Yeah. Milk of magnesia. You shouldn't be drinking a whole cap of that. That's a lot.
+Patient: Ok. Ok. I'll get, well, [PHI-Geographic],
+Nurse: It's called [PHI-Personal].
+Patient: Oh, [PHI-Personal]. Yeah. Ok. Ok. I will go over and get that to see if s market has it.
+Nurse: They do and it's, it's generic is, um, polyethylene Glycol. If you ask the pharmacist they can help you. The generic will be a lot less expensive and it works just the same.
+Patient: There is no pharmacist at market anymore. Oh, they, that pharmacist left? And it, they're over at [PHI-Geographic], uh, right beside Rite Aid.
+Nurse: Well, is there, there's a pharmacy tech in there, I'm sure that can help you.
+Patient: I, you know, you know what I'll do, I'll go over to uh CV S the pharmacy people know me. So
+Nurse: OK. How much of how much of the milk a mag have you been taking?
+Patient: I think up to 60 mg. Let me look at something. Hey, I did something else. You may laugh at me. My grandmother, God rest her soul. Always best if I get constipated to make hot milk with chocolate in it and that's supposed to clean me out. Did you do that? Yes, I did
+Nurse: It. Did it work? Yeah. Good hot milk with cho. So you melt the chocolate and a hot milk. Yep. OK. I'll tell you something else too. If you don't wanna take medicine, um they recommend prunes or prune juice and especially when you warm the prune juice in the microwave. Um Now when you're talking about the milk of magnesia, if the prunes and the prune juice do not help, you can add one dose of milk of magnesia to the warmed prune juice. And that's called a cocktail and that usually cleans people out pretty well as well. So if you don't wanna take, you know, but the milk of [PHI-Personal], um, that's gonna be like white and thick and gross. The [PHI-Personal]. Yes. The [PHI-Personal] is a white thin really light powder you put in any kind of drink. It does not thicken the drink, it does not do anything different. You won't even taste it, you won't even know it's there. Ok? Ok. So that one and that one you can drink, you can take one capful in a cup of water or juice or soda, whatever you drink, you can do that in the morning or at night. If that does not work, you can do it again the next time. So what I mean by that is you can take it once a day or twice a day. You can take it morning and night or just morning or night, depending on what, what works best.
+Patient: Ok. Are you saying I can use prune juice?
+Nurse: You can try it. If it doesn't work, then, you know, go on to the next thing. But yes, prune juice especially warm does help a lot of people eating regular prunes can also help you move your bowels regularly.
+Patient: Ok, because I got some in the house and I forgot I had them. Ok.
+Nurse: Yeah.
+Patient: Yeah. Why is, why is it? I have this situation. Um,
+Nurse: I mean, so with age, um, our bowels naturally slow down. Um, So what moves stool through your bowels is called peristalsis. That's the movement of the actual muscle in the colon that moves the stool down through your system. Ok. What happens is as we age that peristalsis weakens. It does how you are, what you do you don't have, it does not matter that lessons. The other thing is we don't tend to drink as much water and any time you're not drinking enough water. Yes. And eating fruit dehydration. What happens is the body will pull water from the bowel and use it and then you're stuck being constipated, but you don't get dehydrated. So the body works to try to fix other parts that aren't being kept up as they are supposed to, but sometimes it leads to other problems and in your case, constipation, does that make sense? Yeah. Ok. So um fruits, vegetables, fiber, anything with fiber like um brown rice, wheat, whole grain wheat, bread and things like that. Those are what you wanna push because that's what's gonna help you move. But of course, drinking plenty of water is going to help a lot. Ok. Ok. Did you feel like they tested your urine and you didn't have a urinary tract infection or? No, I
+Patient: Didn't.
+Nurse: Ok. And how many? Go ahead.
+Patient: I'm, what I'm going to say to you is this my grandmother had colon cancer. My great grandma ma and mother had colon cancer. So,
+Nurse: Yeah. So, I mean, it's really important that you keep your bowels moving, um, properly and constipation can lead to all kinds of stuff. So, you definitely don't want to remain. How many days before you went to the doctor? How many days had it been since you had a bowel movement?
+Patient: Oh, I'd say a couple of days.
+Nurse: [PHI-Account],
+Patient: I'd say about four days.
+Nurse: Ok. That's way too many. Unfortunately. Um, we don't wanna see you get into a pickle where you end up having a bowel obstruction, meaning the poop gets too hard that it can't move down and then you can't move anything and that becomes a problem that becomes an emergency. So it's
+Patient: Not.
+Nurse: Yes, but they might, um, they have a lot of protein and protein might, um, actually worsen the constipation. So as long as you're eating enough fruits and drinking water, the nuts are fine but you, you really need to focus on fruits and veggies cause that's what's gonna help, you know, keep your bowels moving right. And definitely lots of water because like I said, the body, if the body's feeling dehydrated, it's gonna pull it from your, from your intestines and then the stool doesn't have enough water to, to move. So it, it, it hardens up. Yeah.
+Patient: What about this is gonna sound funny. What about baking soda and warm water?
+Nurse: Um, I've never heard of that one. It might help with the gas. I don't know
+Patient: When I was young. I used to take that and then I was feeling better.
+Nurse: Uh, did you take it for constipation or gas or what did you take it for,
+Patient: For constipation
+Nurse: If it worked? Try it, you know, just it, no matter what you do, as long as you're moving your bowels, we don't care what you're doing. Just make sure that you're not, um, you know, going four and five days without going to the bathroom because that's not good. Ok. Did you, did you heat the baking soda and water or just drink it? Cold, warm water, warm? Ok. That might work. I mean, um, they, they say that, you know, warming prune juice is much better than drinking it cold. So that there, that you might be on to something, it might actually work if it works for you. That's fine. Ok. Now, are you having any problems with your urine or now that you've moved your bowels, you're doing better that way.
+Patient: I'll be honest, I'm doing a little better. I will say this last, the other two nights I started taking that drink. Uh, it just seems like I'm in the bathroom and it's nothing but water. My bowels are,
+Nurse: Are you going a lot or is it just a little,
+Patient: A lot at time with this
+Nurse: Milk, milk of mag? See, magnesium is, is, you know, it's one of our vitamins in the body, um, an electrolyte, but it, it also, um, is a natural laxative. So the fact that you're taking the [PHI-Personal] or the milk of [PHI-Personal], which has magnesia in it. It's in the name. Um, that's really gonna cause you to go, that should only be used if you are not able to go with any other way. Like that should be used as, you know, you use the [PHI-Personal] every day, you eat the prunes, you drink the prune juice, all those things, nothing works. Then you take milk of magnesia. That's why you're having the diarrhea because that it's too much for you and, and it might not be too much for you at the normal dose. But you were taking that like you were supposed to be taking the [PHI-Personal]. So it was way too much of a dose. OK. OK. OK. The important thing the next few days is drinking lots and lots of water.
+Patient: Ok. Uh Would you, would you mind if uh if I make some mint tea?
+Nurse: No, that's OK. The only thing with tea is tea is um a diuretic. So that means it works in the same way as a water pill. It can make you pee a lot, which you're gonna lose more water. So as long as you're drinking a lot of water, it's OK to drink the tea, but you can't just drink the tea in place of the water cause that's not gonna work.
+Patient: OK. OK. I will do like you told me,
+Nurse: Well, you can, if you wanna try the baking soda. Um, that's fine. Um, you know, if that works for you, that's fine. As long as you're moving your bowels, that's what we want. That's the, that's the end goal, no matter how you get to that, that's how we want it to happen. We just don't want you to have diarrhea because that can dehydrate. You too. See, a, are, are you like, are you back to normal bowel movements now, or you're still having diarrhea?
+Patient: Um, I took some, uh, the milk of magnesia and boy, it just seem like I've got diarrhea, diarrhea, diarrhea all the time.
+Nurse: Yeah. Don't take that anymore until you get constipated and nothing else helps. Ok. Use that as kind of like your emergency go to if you can't move your bowels. Ok.
+Patient: Ok. What about magnesium? Taking magnesium too?
+Nurse: Um, are you, are you taking magnesium?
+Patient: I, I had some ma, no, I was taking some magnesium with calcium, magnesium and uh, zinc.
+Nurse: I would hold off on that for a few days. Um, try to get your bowel movements back to being solid but soft that you can move them. So I wouldn't, I would go get the [PHI-Personal] but I wouldn't take it until your diarrhea resolves. Ok. So go a couple of days until you don't have diarrhea. Um, if you find that you're not going at all at that point, you can even start with a half of a capful of the [PHI-Personal]. You can go from a half of a cap full up to two caps per day. So when you take the cap, the lid off of the top, it's like a, a measuring cup. Ok. And that's what we call cap. So you can fill that halfway if you wanna just start to see how it works for you. Um, you can fill it the whole way. If you find that the whole cap doesn't work, then you can take another cap that night or that morning, whichever one you decide to try first. A lot of people like to take it at night because then they get up in the morning and have a BM and they don't have to worry about it hitting them throughout the day, but everybody's different. So you have to play with it to see what works best for you.
+Patient: I will tell you this. I take it at night and then I'm, uh, up maybe two or three times and then I'm in the bathroom in the bathroom.
+Nurse: Is that the milk of [PHI-Personal] you did that with? Yes. Yes. Yeah. That was way too much of that. That's why. Yeah, you, you, you wanna try the [PHI-Personal]? It's a little less harsh. It doesn't make you. Ok. I, with bowel movements,
+Patient: I will, I'm gonna do that. Now, I will tell you this. Drinking milk. [PHI-Personal] is horrible.
+Nurse: Yes. Yes. The, the, um, go ahead,
+Patient: I was gonna say even when I was pregnant with my kid with pork. I drank that because I was so constipated. Unreal.
+Nurse: Yeah, that's, yeah. Try the [PHI-Personal]. Um, you can also try the prunes if you wanna try that instead, you know? But, um, I wouldn't do anything for a day or so. Just kinda try to, like, eat, you know, drink some broth and just eat what's called a brat diet. Just go real easy on your, your stomach. Like, um, bananas, rice, dry toast, um and apple sauce, things like that just to try to give your um belly a break for a few days because if you're really having a lot of diarrhea, um you want that to calm down some, you don't wanna continue to have that because you're gonna get dehydrated and that we don't want OK?
+Patient: You got it, you got it
+Nurse: Right. I will call you um early next week and check in on you. OK? And you call me in between if you need anything or you have questions, questions,
+Patient: What's that? My throat is kinda hurts. I mean, what do I do in that kit?
+Nurse: Your throat hurting? Yeah. When did that start?
+Patient: Oh, I'd say maybe Tuesday. I think part of it is because of the my sinus situation and sometimes my sinuses with this pollen can it can, I'll be honest, I'm taking the one pill I was told by Doctor [PHI-Personal] and it worked but it still uh my sinus is crazy
+Nurse: Is at the Loratadine
+Patient: Yeah. Yep.
+Nurse: Ok. Um [PHI-Personal] is not here this week, so I'll message Doctor [PHI-Personal] and see what he wants to do. Ok? And I'll give you recommendations at that point. Uh Let me see here. Yeah, I'll message him and then I will call you with what he recommends. So you don't think the Loratadine is helping as much as it used to. It
+Patient: Is, may I, I just wanna ask you this question? Yeah. Uh [PHI-Personal]. Um, the doctor down in Fort [PHI-Personal] gave me uh so da and it was, and it really stopped the problem as far as my sinuses and the pollen allergy. So, what would you suggest?
+Nurse: Well, I don't know that they offer that anymore. Um They, they were finding that it was um not, not as good as they thought it was working for stuff, but it was also making people sick. It was, it was damaging their liver and their kidneys and things. So they took that off the market as far as I know.
+Patient: Ok, I forgive me. It just one thing that really helped me as far as the pollen situation, but that's OK. I understand.
+Nurse: Are you, are you saying [PHI-Personal]?
+Patient: I don't know what it was. All I know. It was something that I, they gave me and I'm not kidding you. It cleared me out quick and I felt better, but that's, you may have to look in [PHI-Personal] record health. Records.
+Nurse: Yeah. I don't, I don't think I have access to those. Um, if you can come up with the name of it somehow, um, I can send it to them. [PHI-Personal] is actually like Ibuprofen. Um, and they took it off the market because it was causing things, but I don't think they would have used that for your allergies cause that's more like a pain medicine. So, I'm not sure if you can figure out how to spell it or what it is. Exactly. I can look it up and ask, um, if they would give that to you. Now, I see that you're on the Loratadine and the nasal spray. Um, and then you're on the Montelukast. So, are those things not enough for your, for your nose and your throat?
+Patient: Um, they're fine. I know they're doing ok. But I'm just, it was just, I'm just saying this was a thought because when I was at [PHI-Geographic], they gave me this pill and it like that, it like all the pollen problems. My head was clear. I mean, that's what it was. That's all I know.
+Nurse: Yeah. Unfortunately I don't have any way of, um, knowing what that is, but if you can figure it out, let me know and I'll gladly talk to them about it.
+Patient: Ok? Because I have, I think I have my medical record and I think I have my daughter's medical record from the army. But that was, like I said, that was, er, back but I will check my, uh, where I have my records and stuff like that to see if I can find anything for you.
+Nurse: Yeah. And let me know and I'll gladly talk to [PHI-Personal] about maybe, um, what she thinks about that type of medication, um, as long as it's not harmful to you and they still offer it, I'm sure she won't mind, you know, writing
+Patient: Through it. You're right. So, so I wanna say thank you to you for being understanding. Oh absolutely
+Nurse: I just I wanna make sure that you're feeling better um and I definitely want that diarrhea to stop that's not good. Um so if you wanna try prunes, if you wanna try the [PHI-Personal], whatever way you decide to go I will call you next week and check in on you um and see how things are going and now if you have any trouble in between you let me know as well. Ok.
+Patient: Ok. Ok.
+Nurse: Ok. Now um let me see something here. Are you taking your cholesterol medication? Yes I am. Ok. And how long have you had the cholesterol issues? Do you remember?
+Patient: I have no idea.
+Nurse: Ok. And how about your medicine for the reflux? Do you take that? The pantoprazole? Yep, I do. And do you think that helps you?
+Patient: Yes I think it does.
+Nurse: Ok, good. Alright. Well
+Patient: I started taking the s at night and it just seems like it does work
+Nurse: Good. Good. All right.
+Patient: Well, question, why did, why do I have it?
+Nurse: Um, it can be, um, the way that you're eating, the way that if you're eating before you go to bed, it can be, if your, um, weight is, it can also be, if you're, if you have any, um, issue with over being overweight, it can be, um, dependent on the types of food you eat. It could be hereditary. There could be, there's so many different reasons why you could have that. Um, it's really hard to tell you don't, you eat pretty well? You don't really eat a lot of junk food. Do you
+Patient: Forgive me? I have these little brownies and I eat them. There's like only four of them and I'm gonna admit I'm a [PHI-Personal]. I like so. But,
+Nurse: Yeah. Well, it's basically the, um, the esophagus, there's acid that flows back from the stomach. Um, so it's because your stomach isn't processing it well enough. Um, it's usually caused by a failure of the muscle valve in the stomach. It's called the esophageal sphincter. So from the, the pipe that goes down when you swallow into your stomach, there's a little, um, valve in there, a little, um, door, so to speak. Um, and that doesn't, that sometimes doesn't work the way we, we need it to work. It's supposed to be a one way valve. Sometimes some peoples go both ways. Um, so that's also how that can occur. Um, the acid comes up from the stomach into the esophagus and that's what causes the heartburn. And the other thing is there's, um, you're on what's called a proton pump inhibitor, which is the pantoprazole. What that means is, um, there's little pumps in your stomach that pump out acid to digest your food. Yours might be working over time and that's how we end up getting too much acid and what the pantoprazole does is it, it slows that acid production down. Um So that's why you feel better when you take it because you're not getting that overabundance of acid coming up your esophagus anymore.
+Patient: Also, I wanna, my question to you is if I have too much acid in my, I mean, if I eat too much fruit or eat this or eat that too much acid, then I get, you know, then it's, I don't feel good.
+Nurse: Yeah. Did you say if you eat too much food or too much fruit,
+Patient: Either too much fruit or your guess is good as mine.
+Nurse: Too much of anything. Too much food in your stomach will slow down digestion. And in the meantime, that will push acid up the esophagus because your body can't, if you overeat, your body won't be able to process that food fast enough to digest it fast enough. So what happens is some of that food, some of it's going down and digesting slowly. Why the rest sits in your stomach food? Was not made to sit in your stomach for long periods of time. That's why they tell you six small meals instead of three big meals. Ok. Yeah. Um. Right. And, and it, and it goes against what we were taught, you know, growing up we were always taught three square meals. But they're finding that, um, people are having a lot more problems and this is why, um, because they're eating, they're overeating at those three square meals and the food just doesn't go down. So what happens is your stomach makes a lot more acid than it's supposed to, to try to digest that food and help digest that food. And in the meantime, it's shooting up your esophagus and that's when you get the heartburn and the reflux and all that. So, the best thing to do is just eating, you know, six small meals or just, um, even if you're somebody that doesn't eat that much, three small meals, four small meals. But as long as they're spaced out and it also helps with blood sugar too. It helps keep your blood sugar regulated so that it, it's best to do that overall.
+Patient: Ok, I'm gonna admit something you don't think I'm being a aware of, but sometimes I just like to eat certain things and that's it.
+Nurse: Well, well, that's not being a weird, that's, that's part of life. Part of life is, is enjoying food. Um, but if it's causing you issues, you know, sometimes we have to kinda, um, you know, scale it back a little bit like, so if you're eating brownies, maybe, you know, the next meal, eat some fruit and veggies, you know, something like that. Um, yeah. Am I going to sit here and tell you never to eat brownies? No, I'm not because that's part of the enjoyment of life is eating delicious food. Um, but, you know, just do it in moderation and make sure that you're, you know, taking your medicine the right way and not overdoing it with any type of food because that's going, that's going to cause the problem. Ok, believe it or not overeating can actually cause constipation too because you,
+Patient: What's that? I'm hey, I believe it. I, I'm gonna say it this way when I was young. I, there was certain foods I just, just love to eat and more and more and then I got sick of the food and that was the end of it.
+Nurse: Yeah. Well, it just depends. I mean, if, if you wanna eat stuff just, you know, try to do it in moderation as much as um, you can, but you know, avoiding all foods is not gonna, it's not gonna help.
+Patient: You're right, you're right and
+Nurse: You'll never stick to it. I know that because we're human and we, we like what we like and that's, um, but you know, doing it a little less and making sure you're drinking plenty of water. And getting those healthy foods in there in between is, is important. It's really important.
+Patient: You're right.
+Nurse: Good nutrition really helps the body just function better.
+Patient: Yeah, you are so right. I will say you this tomorrow is my birthday. Hey, my friend is gonna pick me up and take me to a restaurant and have a birthday dinner. Oh, nice. Believe it or not. How I'm gonna ask you a question. How old do you think? What I'm saying is how old do I really act as far as, you know, in general?
+Nurse: I think you act about my age around [PHI-Personal].
+Patient: Thank you. You made me feel good. But guess what? I'm gonna be [PHI-Personal] tomorrow.
+Nurse: Well, happy pre, happy birthday, I probably won't talk to you tomorrow unless you call me with something. So, um, I hope you have a wonderful, where are you going for your birthday meal?
+Patient: I'm, it's either, how do I put this? Um, there's a place in, I think it was Duke. It's a restaurant by the, uh,
+Nurse: Yes. Try to get a, try to try to get a seat out on the river so you can look at the water.
+Patient: Oh, I will. I love to
+Nurse: Do that. Yes. And that place has really good food
+Patient: Or we, or possibly go to [PHI-Geographic].
+Nurse: Oh, that's a good one too.
+Patient: Those two.
+Nurse: Well, either one's good picking. So, you
+Patient: Right, you, you are so right. I was a bit my daughter took me a [PHI-Geographic] and no barn. As far as you know, the rolls, they are out of the world.
+Nurse: Yes. The butter, the cinnamon butter that they have that whipped cinnamon butter for on the rolls. Oh, you're making me hungry.
+Patient: Oh, sorry. So,
+Nurse: Well, I hope you have a wonderful time and you know, as always call me if you need anything, if you have any questions, um, I will check in on you next week just to make sure that things are going in the right direction with your bowel movements and everything and making sure you're feeling better. Ok. Ok. All right. You have a good day and enjoy yourself tomorrow. What's up
+Patient: [PHI-Personal]? I just wanna say one thing to you. God bless you for being understanding. Oh, well, thank you. Thank you.
+Nurse: Thank you very much. Well, you're talking to the right one because I used to work in gastroenterology. So I know this stuff like the back of my hand, but I do enjoy helping you. I, I want you to feel as good as you can.
+Patient: I, I wanna ask you a question. Um, this, uh, did, did you hear the collagen they have now out, um, it on TV, on the, they're, they're saying about this, uh, natural collagen. I tried it once, believe me and I think that's where my stomach went downhill. Hm
+Nurse: Collagen is usually pretty good for your body. But it, I mean, it could have an effect on your stomach. Yes,
+Patient: It did. I think, to be honest with you, I think that taking that collagen started the acid reflux on that
+Nurse: Date. Yeah, that could be a possibility.
+Patient: And I will say this, my poor mother, oh, God bless her. She would eat a meal and she was the one that always made sure the meals were perfect with everything supposed to have. And then she ended up going in her bedroom and lifting and lifting and lifting, you know, it was like she was had acid reflux and probably didn't know it.
+Nurse: Yeah,
+Patient: Because I used to go into her and she, she was like, doubled up in pain. What? Well, I
+Nurse: Mean, you just never know, but, you know, as long as you're doing what you're supposed to be doing, like eating the small meals, drinking lots of water, you should be ok. But just lay off the milk of mag, go get some [PHI-Geographic] or try the prunes and then I'll, I'll call you next week and see how you're doing. Ok.
+Patient: Thank you. I appreciate it. Absolutely.
+Nurse: Certainly. And you have a wonderful birthday tomorrow. I will.
+Patient: Ok.
+Nurse: You too. Thank you very much, sir. I'll talk to you again soon. All right. Bye bye.

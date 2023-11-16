@@ -1,0 +1,41 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, this is Reverend [PHI-Personal]. Somebody just called me.
+Nurse: Yeah, I was calling, I'm one of the chronic care nurses that work with doctor [PHI-Personal]. I was just calling to check in and see how everything's going.
+Patient: Well, let me tell you what happened. I went away for a few days, took my unit. The thing with me. Um, I haven't reconnected it.
+Nurse: Ok. Yeah, I see that there's no readings on here. So you haven't plugged it back in. I haven't
+Patient: Plugged it back in, but I will today.
+Nurse: Ok, perfect. Yeah, once you plug it back in all the readings that you took while you were gone will pop
+Patient: Up. I, this, I didn't do any, I never, you didn't do any? I never took it out just in case.
+Nurse: Oh, goodness. Ok. I
+Patient: Was taking care of my [PHI-Personal] year old grandson. So just so I did not. You were bus I, right. And in the evening when his mother would come home and my son is finished whatever. And I get that bit, I'll be so glad to turn on the TV and hear gran grown people TV, because I was so tired of that Disney stuff. Lord. Oh my God. Because when he's hooked on something, you gotta hear that same thing all day, every day. Always that one, that one show I said, oh dear God in heaven. I see it in my sleep. I hear it in my sleep.
+Nurse: No,
+Patient: But thank God for it. I love being there with you. But uh so I will hook it up today. No worries.
+Nurse: Perfect. And then just kind of like get yourself into a routine with it. Um I
+Patient: Will, I will. Good, good because I'm going away back over there in um for Thanksgiving. Ok. So we'll see and I'm going to get my my final booster this new booster and uh flu shot on the [PHI-Personal]. I just made that appointment today.
+Nurse: I do see that. Good.
+Patient: Good. Yeah, they say say I'm trying, I'm trying,
+Nurse: I'm glad that's good. You're taking care of your health, you're doing what you need to do
+Patient: And I'm back in church. So I know I, I gotta get everything because only a few people wear a mask and I'm one of the few. Mhm You know, you know, they, they gave me COVID last time I was there.
+Nurse: Oh goodness. Yeah, definitely. Just kinda wear your mask and just kind of social distance and everything.
+Patient: Yeah, because I took it off. You know, when the ministers have to go up front and we take commune together up front in front of the congregation, we face the congregation and everybody takes commune. At the same time, the minister up front. So I take the mask off to take communion. Then I go sit down and put my mask right back on. I told him I said, I'm back but I'm not doing the altar prayer with people. I'm not doing that. All people. They be I said, not me. I told my pastor the first time I came back, I said, I'm back but I'm not doing. He said, well, we understand. He said, just pray your way. I said, yeah, I'm praying my way right back to my feet.
+Nurse: Yeah. Don't be afraid to let them know
+Patient: That I'm not doing. I'm [PHI-Personal] years old. I can pray for people. I do it over the phone. I counsel people over the phone. I do all my ministry meetings. We do on Zoom. So, mm, I'm good. I'm good.
+Nurse: Yeah, I know. And I mean,
+Patient: Well, I said, I, I God kept me and allow me to see [PHI-Personal] years. I'm looking forward to another [PHI-Personal] and the only way I'm gonna have to take better care of myself and pay attention. The Bible says we have to watch as well as pray and stay alert. Stay alert. Right? And uh uh but all is well, I'm good. I'm good. I'll plug it back up today.
+Nurse: Ok, good, good. Now, do you need any medication
+Patient: Refills? No, I'm good. You're good. Ok. Yeah, I think what do I need? I know what I need. I need the bone things. That pill for my bone.
+Nurse: Alendronate. The Fosamax
+Patient: That I, that I take once a week.
+Nurse: Yeah. Do you need your BP medicine too? The Triamterene with hydrochlorothiazide?
+Patient: No, because I had it every time they send it. It's a 90 day supply.
+Nurse: Ok. So you have a good, many of those.
+Patient: Yeah, I'm good.
+Nurse: Ok and you want that Bone the Alendronate or Fosamax to go to the Walmart,
+Patient: Walmart and um they they call me or they text me and I let them know just deliberate they it.
+Nurse: Oh good they deliver it to your house. Yes. Oh good I didn't they did
+Patient: That. Yeah [PHI-Personal] does it good.
+Nurse: All right. Well I will get your refills sent over to doctor [PHI-Personal] for you. Do you need anything else today?
+Patient: No, that's all as far as I know that I can think of.
+Nurse: Ok. Well if you think of anything, you know, just give us a call and we can get you taken care of. Alright
+Patient: And thank you so much.
+Nurse: You're welcome and you have a nice weekend. Ok. You too. Thank you. Bye bye.

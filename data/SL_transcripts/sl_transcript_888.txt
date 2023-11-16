@@ -1,0 +1,48 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, Carry. This is [PHI-Personal]. You had called about my sister [PHI-Personal]. Yes. How are you? I'm good. How are you? I'm doing
+Nurse: Wonderful. Thank you.
+Patient: Trying to cool off. It's very hot out. I
+Nurse: Know. I know the humidity is
+Patient: Very strong. It is.
+Nurse: Yeah. All right. Let me jump into her chart
+Patient: Here real quick. Sure. Ok.
+Nurse: All right. And how's she been doing?
+Patient: She's doing very well. Um, I just dropped her off at her eye doctor and I'm doing a little errands while she's in there and I didn't want to call while she was with me. I
+Nurse: Got you. I got
+Patient: You. Ok. Yeah, she's ok. She's doing pretty good. She is. Yeah. Wonderful. Yeah. Wonderful.
+Nurse: Any changes with her medications at all?
+Patient: Um, yes. Her, uh, psychiatrist upped her Jardiance, um, because she was shaking quite a bit. So, um, I don't have, I ju, I, obviously I'm in the car so I don't have it with me. Um, I think it went up like 25 mg if I am. Right.
+Nurse: Yeah. Ok. I'll see if I can find that report anywhere.
+Patient: Ok. And, uh, she's been on that for two weeks now. And, um, I have noticed a little a difference that she's not shaking. Her ner, her nerves aren't as bad as they were. Yeah. Oh, good. Good. Yeah. Um, other than that, that's it. Yeah. Wonderful.
+Nurse: Wonderful. Now, does she have any other, um, appointments coming up?
+Patient: No, we, no, not. Um, no, actually we've, the last two months I've been getting everything in. So that's good. Yeah. Ok. Yeah. Very good. Yeah.
+Nurse: And then how have her blood sugars been running?
+Patient: Honestly? She's, I know they're not good because she's not telling me the numbers. Yeah. And she does not do it in front of me. But, um, but I do take her to the store and we did have an issue there because she did, I was being bossy, being bigger sister, obviously. Um, yeah. So I'm like you can that ice cream and this and that, but, so what we did as a compromise she gets the smaller, like one serving size. Ok. Um, she lives right across the street from us. So, uh, some of the things I do take to my house so she eats it in moderation. Ok. Good. Um, yeah. So, I mean, we're, I'm, we're trying and I know she's trying. It's got to be hard though. Yeah. It
+Nurse: Is. It is hard and honestly a diabetic diet is like one of the hardest ones to follow. Yeah. Absolutely. Yeah, because it's just, it is, you know, you have to watch the carbs and then all the starches and it's, it's very difficult. So, I mean, as long as, you know, she's trying, when did she have blood work done last? Was it, um, in [PHI-Personal] when she had her appointment with Doctor [PHI-Personal]?
+Patient: Yes. Yes.
+Nurse: Yeah. Ok. Do you happen? I'm going to look it up. But do you happen to know off hand what her A one c
+Patient: Was her? Yeah, it was like [PHI-Personal] something. Ok.
+Nurse: It's not terrible. I mean, it's supposed to be around 6.5 but
+Patient: It, you know, it, it was closer to eight because he, he was not happy and I did not get to go with her. I had to drop her off and didn't go in and doctor actually called me then and, um, my, the thing with my sister, she thinks the pill is gonna cure everything. Um, and that's what we were. Yeah, we were talking about because he didn't know if he should up her medicine or not. And in her mind, if that would have happened then she would have felt, oh, good. Now I can eat other things. Yeah. Um, so we, I said, let me try with the diet first and so he did talk to her about that, that she has to let me help with her diet with doing that. Um, so we'll, we'll see, I think she goes in [PHI-Personal], I believe I take her.
+Nurse: Yeah. Yeah. [PHI-Personal]. 12th. Yeah. [PHI-Personal]
+Patient: [PHI-Personal]. Yeah. So then we'll find out then. Yeah. Yeah.
+Nurse: Ok. Ok. And then how has she been doing, um, you know, mentally
+Patient: Actually. Um, uh, I don't know if [PHI-Personal] or anybody had made you aware. Like, um, our dad passed away the end of March and, sorry. Yeah. It, it, it was a very quick, he had cancer but it was a quick cancer, like, three weeks until we, until I found out until he had passed. So that was very stressful and they were, they live like 40 minutes away from us. So, um, what I've been doing a lot and I do appreciate family care for allowing this. Um, when I, a lot of the times I was taking [PHI-Personal] with me down to see her. So we weren't in the area and I kept forgetting to clock in and whatnot. Um, but we, what we did is this past Saturday, I actually was able to get my mom, uh, our mom into a home which is only 10 minutes from us. So, um, yeah, so we just moved her Saturday. So I think things are going to calm down now and I think it'll be better for [PHI-Personal] there too. Good. Um, good. Yeah.
+Nurse: Now, will she be able to visit your mom more often then?
+Patient: And, well, well, my mom doesn't wanna drive anymore so [PHI-Personal] obviously can't drive. So it's up to, so she will be able to see her more. I will take her down and I don't know if they told you I have like a, in another job, which is, I take care of her private pay lady, um, which is like 10 minutes away from our house too. So my husband will take [PHI-Personal] down to see our mom then. Yeah. Oh, that's wonderful. So, she'll get to see her at least a couple times a week. So that'll be good.
+Nurse: Good. Yeah, she'll be, give her something to look forward to and,
+Patient: Yeah, and then also, uh, going, yeah, going to the clubhouse. She goes there, uh, still, which I love that. I love that.
+Nurse: Yeah. Yeah. Yeah, that's great. So it keeps her busy, keeps her engaged. Yeah. Right. Yeah, that's wonderful.
+Patient: So, I, I think things will settle down and I think her, her, uh, anxiety will settle down as
+Nurse: Well. Good. Yeah, that'll be great. Oh, that's wonderful. It sounds like you guys are doing well. Um, yeah. Do you have any questions? Concerns? Is there anything I can do for you guys today?
+Patient: Um No, honestly, I appreciate you calling. I didn't realize that was one of part of the services. So that's wonderful. Yeah. Yeah.
+Nurse: So, yeah, so the service that we do is, um, so it looks like we have you guys set up for every two months. So, what I'll do is I'll call you every two months just to check in and basically conversation is the same just making sure, you know, she's doing well and trying to, you know, be compliant, which is difficult. I understand. But yeah, but then you, you always have my phone number so you can call me anytime. I just want, I'll just, I'll only call you every two months, you know.
+Patient: Ok. That's perfect.
+Nurse: Yeah. So don't, don't hesitate to call and the, the phone number that you called rings right to my desk. So you don't have to go through like a call or anything.
+Patient: Yeah, great. Yes, sometimes [PHI-Personal] gets mad at me and then she says I'm gonna call Ly and I'm gonna fire you, you know, and I'm like, yeah, I'm like, you know what [PHI-Personal] go for it. I'm like because all the other girls didn't show up or when they did, they were always on their phones. They didn't take you here and there. So, yeah, and then she goes ok, fine. Yeah, but that's [PHI-Personal], honey. Yeah.
+Nurse: Oh,
+Patient: All right. Thank you so much though for calling and I will let them. Yeah, I'll let [PHI-Personal] know then. Yes.
+Nurse: Yeah, please do. And again if you need anything, don't hesitate to reach
+Patient: Out. All right, thanks so much. Thank you. You're welcome.
+Nurse: Have a good day. Bye bye
+Patient: Bye.

@@ -1,0 +1,53 @@
+Nurse: This is [PHI-Personal]. Hello, [PHI-Personal]. Hello.
+Patient: It's [PHI-Personal].
+Nurse: This is [PHI-Account]
+Patient: Hi [PHI-Personal], how are you doing
+Nurse: Today? I'm doing pretty good. Thank you. And uh thank you for sending that thyroid or thyroid uh report. I enjoyed reading that because I did, there was a lot there. I didn't know or understand and I wanted to tell you I was, I'm doing pretty good but I'm slowing down. I feel like I feel like just taking the tum off and not, not doing anything that what I feel like, but I have to keep pushing myself. Uh I'm doing alright so far and uh, are you on vacation for the weekend or? Oh,
+Patient: Yeah. Yeah, we're, we are off on the weekend
+Nurse: But then uh the whole week you mean?
+Patient: Oh, no, no, just, you know, we're off on Saturdays and Sundays. Oh,
+Nurse: Ok. So, well, enjoy your weekend and uh I'll try to, you know, stay well, you, you take care and thank you for calling. Thank you for keeping on calling because I was reading yesterday the paper when it, this phone was ringing, I was in the other room. I didn't have a phone near me or anything. But now I'm in the kitchen. It's time to get my meal and pills and get going on here. Have you,
+Patient: Have you had, did you get the injections in your wrist? I know you were planning on doing that. I
+Nurse: Canceled them. I said, um, I had gotten a new, um, well, what do you call it? You put on the wrist
+Patient: Brace? Yeah, the
+Nurse: Brace and, um, that's as long as I use that when it starts to really get bad, then I can keep it, uh, you know, so I can work with it. Yeah. But very, I have very, very little, uh, good feelings in toes, feet and hands. But, you know, it's something I thought it was, I guess I just do. And, uh, I, I told the doctors office so that if they got to a point where I couldn't manage it with the bruises, I would have to come and get the shots another time. But right now I think I'll just try to, you know, go long as I can. So, ok, and, and my toes looks a little better today. Um, one of the reasons I don't answer sometimes is when I'm in the laundry bathroom, I do my foot soak and, you know, that takes a little while. So,
+Patient: Yeah, we know you can always call back. So never worry about that. I never, you to rush
+Nurse: To the phone, you know, when you call, you know, uh, lots of times. I have no idea when those calls were made though. You know, I got maybe two or three or four calls and I don't know who calls, uh, when, you know, when, what time. And so, um,
+Patient: But you, you do get your voice mails, right? My, what, when we leave a voice mail? You do get that though? Oh, I do. Yes. Ok. So that's all that
+Nurse: Matters. Not always answering it as soon as everybody thinks I would, you know, call them. But if I'm right here and in the kitchen it's where my phone business is. And if I don't, if I'm not, it takes me, even if I'm just, uh, across the kitchen and have to dry my hands and then until I get to the phone, get my walkers and stuff, um, I don't always make it to the fourth ring and I told my grandson you need to put more rings on there. But, yeah, he's busy. He's busy. He's got those twins, you know, and I, so they're just a busy, busy people. So,
+Patient: And are you ok on all your medicine you have everything you need, taking it as
+Nurse: Ordered. Oh, I think so. He, he's been very, very good to get me what I need when I need it. She, you know, uh, she's busy too. But I mean, when I got really in trouble I have to call
+Patient: And [PHI-Personal] is still doing your medicine box for
+Nurse: You? Yeah. Yeah.
+Patient: Good. Any trouble with breathing or swelling right now?
+Nurse: Well, the breathing, I get out of breath when I do anything. But that's me and my problem, I can't, I'm not going there, I'm not gonna have about it. Nobody's fault. But my, maybe. So. Do
+Patient: You have any of those little rugs that slide around on you in your home? No, I
+Nurse: Don't. We get away with rugs except, um, out, out of the shower, there's a rug that, uh, it's not a regular rug. It's uh, something, not as, uh,
+Patient: It's grippy. So it doesn't slide on you.
+Nurse: Yeah, and it dries fast. So, yes, and that gives me no problem. And I have good hand holds, uh, who had had himself that had a, uh, when he got, so he could work, he came and uh fixing me up here in the area with, with hands and my husband had put one before anybody even knew that I needed the hand holding. But which, so I feel like I'm well for the only thing is I, I wanna be outside working and I mean, when I feel good I can right now I'm just kind of lagging. Uh, it's like I need a shot of booster, but I'm, I'm, I'm doing well and I thank you and the doctors and nurses out there. Good, good.
+Patient: Well, we're here if you need anything. Uh, you know, I'm here during the week and I'm checking voicemails until about four or 4 30 during the day, then it would be the next day. But remember if it's ever something urgent, you know, going on, you know, you can call [PHI-Geographic] and if they're closed it will give you instructions on their, the number to call to page a doctor if something ever happens to you.
+Nurse: So, there's always, I read a, uh, a quote this morning, there was a, something in paper about, um, a story about Don evidently was imaginary and, um, he has a motto and I can't quote it. Exactly. But it's dumb to let yourself die.
+Patient: Yes.
+Nurse: So, have a laugh.
+Patient: Well, good and just keep a phone with you. Remember? Especially in the bathroom and places, you know, if you have a phone, you can always call for assistance if something happens.
+Nurse: Well, I have my, um, neck, uh, knuckles. I have, ok, good for. So, uh, you know, if I get in trouble, I need the phone, I can't have the phone. I can always call them and ask my family to come and help me with the
+Patient: Fall. Yes. Yes. Yes. I'm glad you're wearing that necklace.
+Nurse: Perfect. But I have fallen the last, uh, the last two weeks, I've fallen on this kitchen floor in the same place and the knee, um, my balance and when I reach for something, I think I have it and I don't. And so my hands are not, you know, they're not telling me when I have a hand handle and the handle of the refrigerator.
+Patient: Are you using your walker?
+Nurse: Uh, yes, I have it here. Well, I,
+Patient: No, I mean, when you fell, were you using it then?
+Nurse: No, it was parked right next to me with, well, that's the problem. Yeah, I know. That's, that's what I said. I'm glad,
+Patient: Make sure you use that walker. It'll keep you out of a lot of falls and trouble. It
+Nurse: Just, it was just one step to get a hold of you, the refrigerator door and put something away and it happened twice.
+Patient: Yeah. So make sure use that walker. Keep it right there with you. So, you know, you can use it for balance, a lot of doors, walls. They'll let you
+Nurse: Down all the time now and it's a lesson that hasn't tight yet. I know.
+Patient: Yeah. Well, keep that because the more you can prevent that it only takes one bad fall to change things. I
+Nurse: Know. And I don't want,
+Patient: Did you have any injury?
+Nurse: Oh, no, I'm fine. Well, my, I have a, that has bone on bone. I live with that. I
+Patient: Put, but no, no injury from the
+Nurse: Fall. Oh, no, I was right because I, I'm right here. I mean, I'm, you know, I, I wasn't like running or trying to, I don't know, get up and down off of something high. I know better than do that, but just, just remind
+Patient: Yourself, keep those hands on the walker, you're a lot less likely to end up with a fracture.
+Nurse: You're a good nurse.
+Patient: Well, thank you, [PHI-Personal]. I hope that you have a great weekend. Thank you. You too I'll check in with you uh in a couple of weeks if you need anything, you just give me a call.
+Nurse: Alright. Alright, thank you. Alright bye bye bye bye.

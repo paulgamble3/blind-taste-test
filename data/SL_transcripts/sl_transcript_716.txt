@@ -1,0 +1,17 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hello, this is calling. I received a letter in the mail.
+Nurse: Ok, let me pull you up here. Ok. What there you are, Ed? Ok. You received a letter in the mail. It looks like I tried to call you on behalf of Doctor [PHI-Personal] and it looks like you qualify for the doctor's care management program. So what that is, is a nurse that would be able to give you a call to see how you're doing. The nurse is ab yeah, the nurse is able to answer any questions, help refill prescriptions. She'll address any issues you might be having and also help with appointments, referrals and lab work. Things like that. The program helps keep the doctor updated and all the calls the nurse makes, they are documented and sent to the doctor for review. They're also treated as a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays. And so I have here you have uh Medicare and a ARP. Is that still correct? That's right. Ok. And so essentially they're around a once a month call from the nurse but you're able to call her directly as many times as you might need to. Would you prefer a morning or afternoon? Phone call, uh,
+Patient: Afternoon, most of the time I'm, uh, here and there at home.
+Nurse: Ok.
+Patient: And, uh, the morning is, uh, the busy part of the day.
+Nurse: Oh, yeah. Ok. That makes sense. So, you're still at 20 [PHI-Geographic] Circle and trumble. That's right. Ok. So I'll send you out a letter that has the information and the nurse's phone number and then I'd give the nurse another week or so and she'll reach out to you. Ok. Ok.
+Patient: Right on the, on this letter, it said your care team has been unable to contact you. Now, I have an answering machine and, uh, if they called it should have been on there.
+Nurse: Right. Let me check and make sure what number is a good number for you? Give me one second. I have, um, [PHI-Account]. That's it. Ok. And I have here that there wasn't any voice mails left because it wasn't co either it wasn't coming up or your voice mail is full. Something like that when I tried the call. Yeah.
+Patient: Ok. That's funny. That shouldn't happen because, uh, it, it should come right in. No problem. I mean, uh, uh, I've gotten, uh, calls. I did it ring.
+Nurse: Yes. I think you, maybe your voice mail might be [PHI-Personal] and you have to delete some of those old messages
+Patient: I don't, I don't see this is a complicated phone and I don't have it.
+Nurse: Yeah,
+Patient: I'll find out I'll open up the book and see what's what.
+Nurse: Ok, sounds good. Alrighty. Well, thanks for your time today.
+Patient: Ok, I appreciate it. Thank you and uh be safe.
+Nurse: You too. Bye bye bye bye.

@@ -1,0 +1,17 @@
+Nurse: Hey, this your name?
+Patient: Hey, this is [PHI-Personal]. I talked to you earlier today. Yes, ma'am. And you were gonna check on my husband's, uh, lab results to be sent to Doctor [PHI-Personal].
+Nurse: Yes, ma'am. I did. I, um, spoke with the nurse and she said that, um, the results had just came in and she said that he will automatically receive them, um, because he's the doctor who ordered them.
+Patient: Oh, ok. Because I just talked to them and they hadn't got them yet and he had a terrible night last night. I mean, he coughed for two hours straight, bringing stuff up. He only has half a lung and he get, uh huh, you know, he gets a lot of gunk in his chest and rattles and I just, I just called them and, and they said that they don't see the lab results yet. Uh, you know, I was hoping we could get a prescription for him today and they're gonna be gone soon now.
+Nurse: So, so doctor, his [PHI-Personal] will not give you a prescription without him having a lab result.
+Patient: Right? He wants to see the x-ray and the, the lab results before he cause he just gave him an antibiotic last week and he took it for five days and it did nothing.
+Nurse: OK. And I sent the message and she said that it would automatically, I'm gonna send another message to him.
+Patient: Yeah, because I, if they're not getting it for whatever reason he'll, you know, he'll suffer again tonight
+Nurse: And it's Mr [PHI-Personal], right. Mr [PHI-Personal] Wilson. Pardon me? Is Mr [PHI-Personal] Wilson? Right. Yes. Uh huh. Yeah. Ok. Yeah, I'm gonna, I'm gonna send another message. Um, yeah, and see what's going on. Um, I'm not sure why they're not receiving it, but uh I will send a message now. And also, um, do you think he's having a cough? Do he have any other symptoms? Like any headaches? Body aches, fever, chills?
+Patient: Well, he did when they put him on the other antibiotic and he took that for five days and he felt better body wise, but it's this, this stuff that it, this sputum that he gets. Ok and, and he cough so bad that so I doctor [PHI-Personal] wanted to see if there was an infection in his lungs. That's why you wanted the x-ray and the blood count.
+Nurse: Ok. I'm sending over a message right now. Yeah. And as soon as I hear something I will call you because I uh I assume they had received it because she said he would. So I'll have to call, I'll have to call you.
+Patient: Yeah. Just call them So I'm just call me on my cell phone. This number that you have.
+Nurse: Yes, ma'am. I could call you on your cell phone. Um, what, um, yeah, let me see why they're not receiving it. Ok. Do you need me to call doctor [PHI-Personal] for you? You think?
+Patient: Well, I don't know if maybe you could call [PHI-Personal] and ask them if they got, they just told me that they didn't get it.
+Nurse: Ok, let me um let me call, I'm about to call now. Um I'll give you a call back. M Ty.
+Patient: Ok, thank you. Bye.
+Nurse: You're welcome. Bye.

@@ -1,0 +1,9 @@
+Nurse: Hi, this is [PHI-Personal] with the care management team. How can I help you? Yeah,
+Patient: This is [PHI-Personal] calling in reference to my daughter [PHI-Personal] Aer, someone called yesterday about this, uh, new program you're setting up and a nurse would be calling and I'm just thinking we're in the process of getting her into a nursing care facility. Maybe. So, maybe I shouldn't even start this. Now.
+Nurse: Um, let me see here. Ok. So that, that's really up to you again. Um, but I mean, even if, even when she does move into, um, a nursing facility at that point in time, you could just give us a call or give her nurse a call and let her know that she's in a nursing, uh, facility. That's all.
+Patient: Ok. Well, ok, then we'll let it go, I guess. But, uh, so te tell me about that the whole thing again, they call once a month or the nurse calls,
+Nurse: Uh, the, the, the nurse will call, um, nurse to just to check in with her. Um, and as far as how often she calls that's, that's up to you. Uh, if you want her calling once a month once every three months, once every six months. Ok.
+Patient: Yeah, she doesn't need to call a lot, you know.
+Nurse: Yeah and that's what I'm saying like so you you could just let the nurse know how often you'd like her to contact. That's
+Patient: All alrighty. Thank you. Oh,
+Nurse: You're welcome Agnes. Have a great day. You too. Bye bye bye.

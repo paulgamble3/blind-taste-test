@@ -1,0 +1,5 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi um my name is [PHI-Personal] and I was called this morning that doctor [PHI-Personal] would be calling in a prescription for me. Uh-huh and I've been calling my pharmacy and there's nothing there.
+Nurse: Ok, let me check on that now. Hello I'm still here um I'm showing that it was called in let me see when it was called in because it might I might have just done that. Ok. Just a second it yeah it was approved and it was sent um now it looks like it was just here in the last few minutes or so that it was approved so that should be uh they should receive that here in the next little bit.
+Patient: Thank you. Have a good day. Alright
+Nurse: You too. Bye bye.

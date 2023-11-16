@@ -1,0 +1,13 @@
+Nurse: Good morning. Thank you for calling Care Management. My name is [PHI-Personal]. How can I help you today?
+Patient: [PHI-Personal]? My name is [PHI-Personal]. You called me and I'm returning your call. Thanks,
+Nurse: [PHI-Personal]. I appreciate that. I do wanna confirm your calls are recorded. Uh We're reaching out because doctor and nurse providing a care management program. It's a call from our dedicated nurse where she checks in with you in between your visits, answers any questions or concerns she'll assist with medications, lab results, community resources, anything that pertains to your health, the nurse will be an added resource. This also helps doctor [PHI-Personal] and nurse [PHI-Personal] stay updated with current conditions and any changes that may happen. Now, it is a available service to Medicare, Medicare Advantage plans and secondary insurances subject to deductible copay, coinsurance. The nurse can reach out on a monthly basis or every couple of months. Would you prefer if she calls in the morning or afternoon, [PHI-Personal]?
+Patient: So this is, this is all I, I'm sorry, I'm trying to discern how this is different than what I'm already experiencing with doctor [PHI-Personal] office.
+Nurse: Ok. So this uh will be, it'll happen in between your office visits. So the nurse is just going to check in answer any questions that may come up. She can help with medication refills, lab results. Um Oh, yeah. Yeah. Yeah. It also helps, you know, alleviate, uh a little bit and it provides with updated information in between your
+Patient: Visit. Yeah, I'm in, I think I'm in pretty decent shape back. I, I see him every six months and, uh, uh, I, in the meantime they, uh, uh, they're terrific, you know, I've got the renewals on the prescriptions, for example, happen at the same time as the visits. And I think I'm ok. What, what is your, what is this cost or is this just part of the new service? So,
+Nurse: It's, it is a bill service. It's a $40 charge that goes over to Medicare. Medicare covers the 80%. They leave a balance of $8.44 which then goes to your secondary for payment review.
+Patient: Yeah. Ok.
+Nurse: Uh, would it be ok if the nurse checked in with you every six months it would be three months after your
+Patient: Visit. So, in other words, they check with me twice a year. Correct? Yeah. Uh, no, I, I think I'm ok. I'll just stick with what I've got, but it's good to know that you have that available. If something jumps up, I'll give you a call.
+Nurse: Sounds good. And I ma out that information for you, [PHI-Personal] and if you need anything down the line, you give us a call. Ok,
+Patient: That'd be great. Thanks so much. Thank
+Nurse: You. You have a great day. Stay safe.

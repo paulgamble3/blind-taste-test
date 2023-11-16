@@ -1,0 +1,7 @@
+Nurse: Hi, this is [PHI-Personal] in N Care manager.
+Patient: Oh hi this is um [PHI-Personal]. How are you?
+Nurse: I'm good. How are you? Are you looking for [PHI-Personal]?
+Patient: Um usually. Yeah.
+Nurse: Ok. Um I think I'm not sure if she's on the phone right now I can I'll send her the message over and have her call you right back. Ok. All right. Are you unless it's an emergency is everything? Ok.
+Patient: Well I'm just shaking like a leaf for the last couple of days. Um it's hard for me to write or text my hands shake so bad and my head shakes.
+Nurse: Ok. Yeah I think you'd be more comfortable talking to Pam just because you're you're used to her so I'll have her give you a call back. Alright. Thank you. Alright. You're welcome. If she doesn't call within the next like 15 minutes or so then definitely give me a call back. Ok. Ok, Stephanie, thank you. You're welcome bye.

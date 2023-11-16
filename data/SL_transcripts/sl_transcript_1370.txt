@@ -1,0 +1,23 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. I have a question about a change in medication that I, that I, you know, ha happened last
+Nurse: Week. So sure. Um, let me just bring you up just one second here. Ok. Uh, and, um, since you're calling me [PHI-Personal], I just have to verify your date of birth for me.
+Patient: [PHI-Account]. Thank
+Nurse: You so much. Give me one second. Let me, let me get your other. What's your, what's your um, question?
+Patient: My question is I, I, uh, you know, was notified that I have a new prescription for. I think it's something like SS and, uh, I, I went in, I, I wasn't notified of that but I went in and saw that it suggested that I use this and, and, uh, this, uh, is replacing my Olmesartan. Yeah, that
+Nurse: Replacing the Olmesartan and let me just check and see when this had happened.
+Patient: And II, I think that might have been a money thing, so I'm not sure.
+Nurse: [PHI-Account] and [PHI-Account] they're both still listed on your med list. You had spoke to the doctor and like they said, oh, cancel the Olmesartan, please. Ok. So I'm looking at, I'm looking at it right now. It's [PHI-Account]. Um, they put it on the med list and they said cancel the Olmesartan, please. Um, so it is replacing.
+Patient: Now, here's my question. I, I still have a couple of months worth of Olmesartan. Should I use that first and then start using the SAR?
+Nurse: All right. So what I'm going to do is, um, I don't wanna give you any, uh, redirection that's not coming from, you know, the doc. So I'm gonna, I'm gonna, um, contact doctor and I will, um, ask him the question if, if you can continue with those and then re, then start the, the Irbesartan. So I'll do that and then I will give you a call right back and let you know, um, you know what the response is, I'm sure it's not gonna be a problem. Um, both the same type of medication. Um, I don't know, you know, you think it was, it was a, um, a, a money thing why it was switched?
+Patient: Well, well, I actually, I, I had called the first of last week and said, hey, you know, between my Eliquis and my Olmesartan, I'm paying a fortune for these medicines when I get over the, the 4300. So that may be why, why they changed it. But now the, the other question I have is I noticed the said it's 350 mg that seems like. Is that a pretty hefty amount? Iiii I, it,
+Nurse: 300 mg. Yeah. And, and your Olmesartan is 40 mg. It's just, um, it's just the, you know, the different mechanisms, how they work and it's, it's, it's gonna do the same thing. They just, they just come in different dosages. Um So, no, it's not too much. That's, that's the normal dose,
+Patient: You know, II I was just looking at it is a big difference between 43 50. So
+Nurse: Yeah. Yeah. Yeah, it's not the same, it's not the same medication but it's the same mechanism. Um, so that's, that's the only difference but they, they just come in different milligrams. Why? Just like the strength of them? Um that is a normal, normal strength of the Irbesartan. Um, so that is usually what it comes in. So
+Patient: You'll let me know whether I can use the, the remain.
+Nurse: Yeah, I'm, I'm gonna reach out to doctor, I'm gonna just ask him and um and then I, I'll call you back and let you know. Is that all right?
+Patient: That's good.
+Nurse: Appreciate. Perfect. I'll give you a call right back. Ok,
+Patient: Thank you. What's the number you're gonna call me
+Nurse: On? I'm gonna call you on. Where's my thing? I have a I, I have your mobile number is [PHI-Account] or I have your home phone? [PHI-Account].
+Patient: Call me on the mobile
+Nurse: On the mobile phone. Alright, sounds good. I I'll call you right back as soon as I hear back. Ok, thank you. You're welcome. Bye bye bye.

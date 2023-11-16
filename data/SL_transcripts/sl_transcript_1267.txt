@@ -1,0 +1,54 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hey [PHI-Personal], this is [PHI-Personal] returning your call.
+Nurse: Hi [PHI-Personal], how are you today?
+Patient: Ok,
+Nurse: Give me one second. Let me just pull up your chart here.
+Patient: Oh boy, give me one second. I really.
+Nurse: Ok. Can you just confirm your date of
+Patient: Birth for me? [PHI-Personal]. Perfect. Thank you so much. Ok.
+Nurse: All right. So um I was reaching out to you because you're due for your uh ccm call for the month. So I just wanted to check in and see how you were doing if you had any questions or concerns.
+Patient: Ok.
+Nurse: Ok. So how are you feeling any issues right now?
+Patient: No good, good. Ok, I guess not. Good.
+Nurse: Good. And um so your last visit was back in February and um you got checked up on everything and your blood work is coming up now soon. How are you doing in regards to your BP and your cholesterol, are you maintaining a healthy diet?
+Patient: Uh as far as I know, [PHI-Personal]
+Nurse: Back on the junk foods and the processed foods.
+Patient: Well, trying to good,
+Nurse: Good. Yeah, it it's I I know it sounds hard but is so long as you're eating more fruits, veggies, you know, whole grain foods, cutting out the junk food and the foods that are, you know, high in saturated fat and trans fats and cholesterols limiting your sodium intake. You'll be fine.
+Patient: Ok. I go to the Senior Center and pick up my lunch dinner every day. Nice. That's good during the week. So you people keep playing lottery
+Nurse: And you have lunch there?
+Patient: Oh, I bring it back home. Oh,
+Nurse: Ok. Oh, so it's close by. Yes. Very nice.
+Patient: So, no, I'm getting at least one healthy meal a day
+Nurse: For sure. Right. Hey, that's a good start. You can incorporate that into your dinners. Right. You know, plan ahead. Yep. Um, let me see here. Um, if I name off your medications, can you confirm that you're still taking them? We haven't done a med rec in a while. Ok. All right. So I have Aspirin 81 mg. Ok. I have Co Q 10. Yes, I have cinnamon 500 mg. Yes, I have a daily multivitamin. Yes, I have Famotidine, 40 mg.
+Patient: Yes,
+Nurse: I have Losartan 100 mg. Yes. Potassium 20 meqs. Ok. And then I have rosuvastatin five mg.
+Patient: Uh, that's [PHI-Personal],
+Nurse: [PHI-Personal]. 0, yes, sir. Take half tablet by mouth every day. Yes, sir. I have that here. Ok. Am I missing anything else? Those are the only ones I have here.
+Patient: No,
+Nurse: That's everything,
+Patient: Everything.
+Nurse: Ok. Do you need any medication refills at this time?
+Patient: Uh No. Ok.
+Nurse: Are you having any side effects or issues in relation to the medication?
+Patient: Uh, no. Good, good.
+Nurse: Ok. And let me see. When's your next appointment? Ok. Your next appointment is in August, August 28th at 10.
+Patient: Yeah, for a physical.
+Nurse: Yes, sir. Now, are you aware that Doctor [PHI-Personal] is no longer with the practice?
+Patient: Oh, no, no, I'm not aware.
+Nurse: Ok. Yeah, I, I, it only happened, um, I think like a week or two ago, it's been about two weeks now. Um, but we just got notified a week ago, uh, that he was no longer with the practice. I'm not sure who you will be seeing at that time in August. But, um, I'm sure they'll call you in advance and let you know who, who will be your doctor at that time.
+Patient: Gosh, I hope
+Nurse: So. Yes. Yes. Don't worry. Yes, there'll be a doctor there.
+Patient: So who do I tell? Who do I tell my doctor is when I go for blood
+Nurse: Work? Um, you can say Doctor [PHI-Personal], so he's the main doctor there. Have you seen him before? Ok. Yeah, you can say Doctor [PHI-Personal]. So that's fine.
+Patient: And thanks so much for his retirement.
+Nurse: Yeah. II, I heard he was semi retired but I know he's still trying to see some patients and I know they were, um, getting another physician. But again that information hasn't been released to us. So we don't know when exactly the new physician will be
+Patient: Starting. Ok.
+Nurse: Ok. Do you have any questions or concerns for me? Yes, I do. Yes, sir. What do you got?
+Patient: Do I need to take another booster, uh, for the, uh, COVID? Yes.
+Nurse: So that is unfortunately specific to the doctor. It really depends. Um, how many boosters have you had?
+Patient: Well, I had the two main ones. Ok and then I think three boosters. Oh so so I can let you know for sure if I go down to my car.
+Nurse: No, you're ok. I have it here on the computer. Yeah you've had three boosters um I wanna say it's up to you but I can transfer you to the doctor's office directly and you can ask them I think it's gonna be one of those things you know see how the patient feels and how they wish to proceed but again I'm not 100% sure they haven't told me how to direct those questions for patients but I can transfer you to the office if you'd like.
+Patient: Ok, we can do that.
+Nurse: Alright perfect. Hang on one second. Ok.
+Patient: Hello. Yes hello. Hello. Hi this is Kira. How can I help you? Oh yes this is can I have your date of birth? 3 26 51. What was the year 51? You said? 51? Yes. Ok I got you. What can I do? For you. I'm just wondering if I need another group there for the COVID. Ok. Um, let me see what you got here. 123. No, you're up to date, I'm up to date with the, there's no other variants around to get me. Apparently not right now. That might change. That might change. Yeah, but it looks like you had, um, your, your first initial was in 2021 and then you had a booster in November of 21 and then you had your other booster in 22 and then you had another one in October of 22. So you're good to go. Good to go. Ok, good. You go. You're welcome. Bye bye. They know what.

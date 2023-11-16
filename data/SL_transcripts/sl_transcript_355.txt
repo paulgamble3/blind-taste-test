@@ -1,0 +1,63 @@
+Nurse: [PHI-Personal], can I help
+Patient: You? Hi, it's
+Nurse: Hi. Did you get my message?
+Patient: Uh, no.
+Nurse: Ok. So tell me, were you able to get in touch with nephrology at all?
+Patient: Yes. In fact, uh they just called me and he's calling in my furosemide, a temporary supply at Ney and he's gonna call, uh express scripts.
+Nurse: Ok. And do you have an appointment to see him?
+Patient: Uh, yes. Um, let's see it next month. Right at the beginning. Oh, you
+Nurse: Said beginning of May? Ok. So, ok, because after the point, you know, she wanted to know if you got them because if she had a hard time getting him, she would fill temporarily. So that's why I wanted to make sure you were able to call. So he's gonna send the same dosage [PHI-Personal], did he say?
+Patient: Did he what, I'm sorry, say it again.
+Nurse: Is he gonna send the same dosage that you've been on?
+Patient: Yes. 20 mg.
+Nurse: Yes. Ok. Three tabs. Ok.
+Patient: Three tablets. Yes.
+Nurse: Ok. Good. How are the legs today? Any different or the same?
+Patient: No, they're the same. Yeah, they're pretty bad.
+Nurse: Ok. Ok. Did you talk to his nurse or to him?
+Patient: I talked to his nurse. No, he wasn't even in, he didn't get in today until 1 30. That's what I said. He's got bank banking hours today. Yeah,
+Nurse: For sure. Yeah. Ok.
+Patient: But I, and I, uh, I did call cardiology again and, well, nothing. They apologize and said, well, that's there. And I said that, uh, she's told me that I missed 14. 0, she says it couldn't have been this and she looked at and said it was, it was four, four times for the whole winter. Yeah, that I had to change the appointment. It's not like it's not like I didn't call. No. So, what did the
+Nurse: Lady say today? Did she say that? There's nothing she could do?
+Patient: Nothing she could do? Because that's a program. That's the, that's the way they run it. Yep. Oh God. So, and I said, well, thank you very much. And, uh, she said, and I, I'm sure that she told me the name of a cardiologist, but I don't, I don't know it. So I, I couldn't re, I don't re, didn't retain it, but I'm sure knows I'll have to, she'll have to set up an appointment. I'll have to go through all that again. And I'm, I, I'm tempted not to, I'm tempted not to bother. Uh, well, what
+Nurse: Was cardiology doing for you?
+Patient: Nothing. Just, well, they do my echo and they tell me I have this and I have that, but I, I have never, I have, I have not seen a, a physician for probably, yeah, maybe 10 years. I only, I only see the, uh, checks. That's all they do the work. Mhm. Mhm. Yeah. Yeah. So, oh, Lord, I guess we do.
+Nurse: Like, what, what were you doing? Like yearly echoes?
+Patient: Yeah. Yes. Yes. Ok. And it's always the same, you know, it, it's never, it doesn't really change. And, uh, but I don't know, I probably should have a, a cardiologist just in case
+Nurse: You probably should. And, and I will, I'll give her an update and I will mention it to her again. Um, and say, you know, is there, you know, do you want to do a new referral somewhere? Now, where else would you go, would you have to go to [PHI-Geographic]
+Patient: For, for a cardiologist or for treatment? No, no, no, no, I just go to their office and they do the echo right there.
+Nurse: Right. But, I mean, as far as if you needed, if they don't accept you back and you need a new referral somewhere. Where would you go
+Patient: To [PHI-Geographic]? Yes. There's a, there is another cardiology. In fact, it's, it's in the same, uh, spot where doctor is. It's in that there's a bunch of, of, uh bu, of medical buildings right there. And this new doctor is this, he's not a new doctor. I'm a new patient. Uh, his office is there in that, that, uh, circle of buildings so it, it wouldn't, it won't be a problem. Yeah, she'll, she'll probably know that I'm
+Nurse: Sure. Yeah. Yeah, because you were seeing doctor in doctor office, right?
+Patient: Yes. Actually I saw Doctor [PHI-Personal]. Uh, I don't know about 8, 10 years ago I saw him one time but uh I don't ever see the doctor.
+Nurse: No. Ok. Alrighty. Hm. Ok. I will give her an update. I know she was, she was concerned so she wanted me to make sure you got through to them and um you know like she said she can send it prescription need be but um I'm glad they're gonna send it. You're gonna you're gonna believe it or not. It's only three weeks in the beginning of May I know I'll probably I'm sure she's gonna ask me to follow up with you probably next week you get these three pills in a day for a while. Oh God I
+Patient: Hope I hope they help. I do too too makes me, makes me nervous.
+Nurse: Yeah. Well I
+Patient: You know iii I know I'm gonna die from this but and I am old but my favorite, favorite grandson is getting married. [PHI-Personal] at [PHI-Geographic]. He he graduated from [PHI-Geographic] and he's a major in the army. He and his brother are both majors in the army and both graduated and it's gonna it's gonna be something that I've never seen before at [PHI-Geographic], you know the wedding it's gonna be wonderful. Yeah. And I, I wanna go, you'll get there. I wanna go so bad. Yeah. Yeah. You, of
+Nurse: [PHI-Personal] you do. I've got
+Patient: His, yeah, in case I didn't make it, I've already got his card with, uh, whatever I was gonna put in some money in there and I'll get, give it to my daughter. Uh, just in case I, I don't make it. Yeah.
+Nurse: Yeah. Yeah. It's, um, you know, that's, that's like a scary thing to think about.
+Patient: Well, I don't know, I don't, in my position the way I feel, uh, living is fairly difficult for me ve, very painful and difficult and I don't know what it's like to be dead. I really don't. But, uh, we all die. We all have to die. And then I, and I think of, of some of my relatives that died very young. My dad was only [PHI-Personal] when he died of cancer. Yeah. And, and so, you know, uh, I'm, I'm fortunate, I've lived a good life. I had a wonderful marriage and husband and wonderful Children. They're all, you know, they're all doing very well for themselves. And so what more, what more is there and, and, yeah, I have to look at it that way otherwise I would be scared. Yeah. I, and I'd be afraid
+Nurse: That, yeah, I don't think, I, I don't personally think that the actual, you know, when it happens is a scary thing. Just, uh, you know, getting ready and this and that, and worrying that stuff. I think that's the scary part.
+Patient: Right. I think I agree with you. Yeah. Yeah. But I think I'm not gonna worry
+Nurse: About it. No, my God. No, no, nothing for you to worry about. You just do what you're doing. Follow your treatment plan, listen to your doctors. You have no doubt that you're gonna make it to, to the, to the wedding. I mean, I have no,
+Patient: I hope so. That, yeah, I hope so. Well, I'll be pushing myself. Yes, I will do it. Sure.
+Nurse: I'm sure. And you know, take it, take care of yourself, take it easy, don't kill yourself. You know, I, I have your energy for the stuff you want to do, the stuff that you enjoy. Not nonsense. You know, I know. I know and I know things around the house. If they, if they stress us out as women, II, I know
+Patient: That I'm not a duster anymore. I used to dust it. Saturday used to be my cleaning day and I went through this house and this, by this time of year I would have all my curtains washed and back up and the windows all washed and I can't do that anymore. I can't do it anymore. How,
+Nurse: Where did you get all that energy from?
+Patient: I always had a lot of energy. Yes. Yes. Always up until about maybe 10, 15 years ago. Yeah. When my kidneys started to go bad. I lost a lot of energy. Yeah. And doctor explained it to me. Yeah. He, he says it's, it's normal. I said, would I feel any better by going on dialysis? And he, he didn't think so. He says, no, no.
+Nurse: Well, that, you know, that wipes people out just, you know,
+Patient: Three days a week for 4 to 5 hours. Uh, I, I don't wanna, I don't wanna waste my time. No. No.
+Nurse: But you do know. And I mean, I have no idea what sort of options, you know, would be open to you in this day and age. But I have patients that they just go to sleep at night and their dialysis works as they're sleeping at night and they get up and then they're
+Patient: [PHI-Personal]. Yes. Well, that's what he told me that. Uh, because especially because I'm a nurse. He said you should be able to do this. I said, well, yeah. And when that time comes, I'll talk to you
+Nurse: About it. Think about it. Yeah, because it's not, you know, I took care of dialysis patients for a long, long time and that, that going in three and four days a week for four and five hour treatments. Yeah, that to me is just, but when you see these people now things are so high tech, there's hemodialysis while you're sleeping, there's peritoneal dialysis while you're sleeping. It's, um, and then they wake up, you're not connected to anything and and you have your day [PHI-Personal]. Yeah. Right. Something to think about you might wanna discuss with him if the time comes ever.
+Patient: Yeah. Well, we have, we have kind of talked about it once and he's the one that brought it up actually. And he says there's no reason being that you're especially because you're an RNI, I think that you would be able to handle it very well. And I said, I said, well, I can handle most anything, you know. Yes,
+Nurse: I know you could. You definitely
+Patient: Could. Ok. Thank you for that. Sure.
+Nurse: Absolutely. And I'll give the doctor an update. I'm glad you got a hold of them and um, so you're gonna get the, the a short supply sent locally, right?
+Patient: Yes. Uh huh. Ok. Ok, good. Thank you. Thank you for all your help. [PHI-Personal]. Oh,
+Nurse: I wish I could have just given you the medicine [PHI-Personal]. I would have done that yesterday, but I don't have that kind of power, unfortunately. No,
+Patient: Me neither.
+Nurse: All right, I'll talk to you soon. You take care.
+Patient: I will. Thank you so much. Bye
+Nurse: Bye. My pleasure. Talk to you soon. Bye bye.

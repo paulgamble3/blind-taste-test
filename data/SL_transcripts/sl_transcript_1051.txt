@@ -1,0 +1,17 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Uh Yes, this is calling, I'm calling in regard to the sleeping pills. What happened with that?
+Nurse: Um I was actually just looking in your chart about 20 minutes ago and I still didn't have an update from um doctor. Let me look back and refresh cause I know that you were anxiously waiting on some sort of medication change. Um OK. Oh I do have an update. All right. So it does look like she just prescribed the hydrOXYzine also known as the Vistaril 50 mg that we discussed.
+Patient: It's not an anti depressant, is it?
+Nurse: No,
+Patient: No, this one,
+Nurse: Right. Yeah, this is the one that we discussed. It's more of an anxiety um related medication. It does not fall under the classifications of the antidepressants. Um So that that prescription was just sent over to the Walgreens um at 49th. Mhm. Um Let me see my other message if there's any specific recommendations. Um OK, so she called in that Vistaril for the sleep. Um Yeah, just take it. It's a 50 mg dose. Um The concern is with the added other medication, of course, be aware of, you know. Um exactly. Yeah you want to kind of ration what you are taking so just take it as needed. Um along with that klonopin when you do take it be aware of like the dizziness you might have I, I
+Patient: Don't, I don't take, I don't take the other meds with sleeping pills.
+Nurse: Ok. All right. Got you. Ok, I
+Patient: Know I know better than to do that good.
+Nurse: That's good. Um and then she does just mention that if this one after we give it some time to see if it helps at all. Um, if we are having successful night sleep with this one, then she would just like to see you in the office for an appointment to discuss further. Ok.
+Patient: All right. Thank you so much. All right.
+Nurse: Yes, ma'am. You're welcome. Um, so give that a try. We've already discussed those side effects with the medication, things like that. Um, so if you have any concerns when you get that start taking it, um just let me know and we can follow up. Ok.
+Patient: All right. Thank
+Nurse: You so much. Alright. You're welcome. You take care Miss [PHI-Personal]. Thank
+Patient: You. Bye.
+Nurse: Mm bye bye.

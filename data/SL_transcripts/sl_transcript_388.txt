@@ -1,0 +1,24 @@
+Nurse: Good afternoon. This is [PHI-Personal]
+Patient: [PHI-Personal]. This is [PHI-Personal].
+Nurse: Sorry, I missed your call earlier. My phone cut off a little
+Patient: Bit crazy. Oh, that's ok. I had you to tell you that I, I had called uh huh. And, but somehow they got to pay for that and I only had to pay $[PHI-Personal] for them
+Nurse: For a full prescription.
+Patient: Yeah, 30 days. Oh,
+Nurse: Wow. Only $[PHI-Personal]. Ok. Yeah,
+Patient: It costs 100 and 84 normally. Ok. But I, because I said to [PHI-Personal], the kid that's there, I said to him I said how, how is that? Only $[PHI-Personal]? And he, uh, I said because, um, Pace told me that if the insurance didn't cover it, they wouldn't cover it. Yeah. And, but he said, well, he said I, I talked to him and they, they put it through and it only $[PHI-Personal] and I said, oh, thank you so much.
+Nurse: So I don't know how they did it but I'm happy they got it to work out.
+Patient: Yeah. So,
+Nurse: Um, do you want me to go ahead and reschedule that BP appointment or do you, you wanna wait until, well? Ok.
+Patient: II, I mean, if she doesn't, you know, if she doesn't want to see me next Thursday then, you know, well,
+Nurse: She wants, I think what she wants is just kind of like a two week recheck after you've been on a medication. Um, but since now you're taking it, we can probably just put you in for that next week afterwards. Um, so let me see here. Let me just get you rescheduled. What's the next week? Cause that next Thursday will be
+Patient: The [PHI-Personal], the [PHI-Personal]? Oh, the after that. Yeah. Mhm. Yeah. Yeah. [PHI-Personal],
+Nurse: What you want. I know, I feel like you, I feel like May and [PHI-Personal] kind of just didn't even exist there. Right? Um Do you want, do you want a morning on the 13th or you want me to try to get you an afternoon?
+Patient: Yeah, afternoons any time like after 11.
+Nurse: Ok. Is [PHI-Personal] o'clock. Ok.
+Patient: Yeah, [PHI-Personal] o'clock fine.
+Nurse: Ok. Let me get it. Ok. Yeah, I got you down for [PHI-Personal] 13th at [PHI-Personal] and I will let [PHI-Personal] know that I rescheduled it and I'll let her know about the Bystolic as well. Um, so, well, at least we don't have to worry about the carvedilol anymore. Um, but, um, I'll go ahead and give her an update and everything, let her know that I got that rescheduled. Um, and then I'll probably give you a call, um, towards the end of next week to kind of see if you've heard anything about that BP cuff. Ok.
+Patient: Ok. Right. And, and I might not because of the holiday,
+Nurse: But, ok. Yeah, I forgot about that. Um, but, uh, definitely if you have any issues, anything at all, just give me a call. Um, if you decide to go on that trip, have fun and I hope you have a good Fourth of [PHI-Personal] too.
+Patient: Thank you. You too.
+Nurse: Thank you. Bye
+Patient: Bye bye.

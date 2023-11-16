@@ -1,0 +1,37 @@
+Patient: Is me.
+Nurse: Great, thank you for confirming.I'm just going to quickly verify your details.Can you please tell me your date of birth?
+Patient: Yeah. Sure thing.My date of birth is August eight nineteen eighty one.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to check in with you about your upcoming Total Knee Replacement procedure on your left knee.The procedure is scheduled for August 13th at 8am with Doctor Edward Chang.How are you feeling about the procedure?
+Patient: For the procedure, I'm definitely nervous.Would be painful.
+Nurse: I understand that you're feeling nervous about the procedure.It's completely normal to feel this way, especially when you're unsure about what to expect.We're here to help you through this process and make sure you're as comfortable as possible.
+Patient: Thanks for that.Yeah.Well, you didn't answer my question, though. I was asking if it'sto be painful or not.
+Nurse: I apologize for not addressing your question directly.During the procedure itself, you will be under anesthesia, so you won't feel any pain.After the procedure, you may experience some discomfort as you recover.We'll be providing you with pain medication to help manage this.Our goal is to make your recovery as smooth and comfortable as possible.
+Patient: I see.Okay. Well, that's helpful.
+Nurse: I'm glad I could help.Now, I just want to go over some pre-op instructions with you.Have you been able to follow them so far?
+Patient: Oh, yeah. Definitely. I'm I'm on top of my stuff.Wouldn't want anything to go wrong.
+Nurse: Great to hear that you're on top of things.It's very important to follow the pre-op instructions carefully.Now, have you stopped taking the Plavix 75 mg, as directed, 7 days prior to the procedure?
+Patient: Yes. Absolutely. Yeah.And when did I have to startdoing that, by the way.
+Nurse: You were supposed to stop taking Plavix 7 days prior to the procedure.So, you've done well in managing that.It's important to avoid blood thinning medications before the procedure to minimize bleeding risks.
+Patient: Oh, okay.So there's no chat for me boarding anymore. Right?Since I stopped using it.
+Nurse: That's correct.You've done the right thing by stopping the Plavix.It's important to follow these instructions carefully to ensure a safe and successful procedure.
+Patient: Okay. I see.
+Nurse: Wonderful.Now, have you picked up your post-op medications, including the Tylenol 1000 milligram tablets that you're supposed to take three times a day as needed?
+Patient: Yes. Absolutely.
+Nurse: Great, it sounds like you're well-prepared for your procedure.I'm glad to hear that you've stopped taking the Plavix and have picked up your post-op medications.It's important to follow these instructions carefully to ensure a safe and successful procedure.If you have any other questions or concerns, feel free to ask.
+Patient: Okay.Well.As of now, I'd also like to knowif it's gonna be difficult to walk afterwards.
+Nurse: After the procedure, you will need to work with physical therapy to regain strength and mobility in your knee.It may be challenging at first, but with dedication and the help of our physical therapy team, you'll be able to walk again.Our goal is to help you recover safely and effectively.
+Patient: Oh, I see. That's very good to know.I hope.It works.
+Nurse: We're all hoping for the best outcome for you.Now, have you arranged for a ride home after the procedure?
+Patient: Yeah. Definitely. My daughter's gonna be able to take me off.The words.
+Nurse: Great, it's important to have someone to help you get home after the procedure, since you'll be under the influence of anesthesia.Also, have you arranged for someone to assist you at home during your recovery?
+Patient: Yeah. She's gonna be able to help merecover as well.I did wanna ask though how much will she need to help me out.I feel bad about asking her for so much. I'm sure you understand.
+Nurse: Absolutely, it's understandable that you don't want to burden your daughter.The exact amount of help you'll need will depend on your individual recovery process.Generally, you'll need help with tasks like getting out of bed, moving around, and doing basic activities.Our physical therapy team will work with you and your daughter to ensure a safe and smooth recovery process.
+Patient: Okay.I see.That sounds like a lot actually.I really do hope she doesn't mind.
+Nurse: I understand your concerns.
+Patient: 
+Nurse: It's essential to remember that the goal of the total knee replacement is to improve your mobility and reduce pain, so you should be able to do more as you recover.Now, let's talk about skin prep.It's very important to keep the surgical site clean to prevent infection.Have you received the chlorhexidine scrub?
+Patient: Yeah. I definitely know.
+Nurse: Wonderful.You should use the chlorhexidine scrub in the shower the night before and the morning of the procedure.This will help to clean the skin and reduce the risk of infection.It's essential to follow these instructions carefully to ensure the best possible outcome for your procedure.
+Patient: Okay. I understand.
+Nurse: Great, I'm glad you understand.If you have any other questions or concerns, feel free to ask.I'm here to help you through this process.

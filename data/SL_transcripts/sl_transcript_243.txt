@@ -1,0 +1,101 @@
+Nurse: This is [PHI-Personal] nurse care manager.
+Patient: Uh Ko
+Nurse: Yeah, what's going on?
+Patient: This is [PHI-Personal] deal returning your call.
+Nurse: All right, let me get you pulled up here real quick.
+Patient: [PHI-Personal].
+Nurse: Can you verify your date of birth for me real quick? Just to make sure I got the right guy
+Patient: Here. 1 11, 1946.
+Nurse: Perfect. All right, I got you pulled up here. So how are you doing today?
+Patient: I'm doing pretty good right now. Thank you.
+Nurse: Good, good. It looks like we were just giving you a call to check in and see how things are going.
+Patient: Things have been going pretty well. I uh started treatments again for my, my. Ok on uh let me think [PHI-Personal] and then I got my treatment every week after that for four weeks. I got four treatments.
+Nurse: So a total of four treatments.
+Patient: That's correct.
+Nurse: Ok. How, so you've got one so far? I'm sorry, you've gotten one treatment so far. I
+Patient: Have gotten 40, you got four, first one was [PHI-Personal] and then every week after that for four weeks, a total of four treatment. I
+Nurse: Don't know why I still thought it was [PHI-Personal] for some reason. That's my bet it's already almost the end of June. Goodness gracious. Ok. Well, how are you feeling after all of those treatments so far?
+Patient: Good. I'm doing good. Thank you.
+Nurse: Any fatigue or anything?
+Patient: No. No.
+Nurse: Ok. Do you know what exactly they're giving you?
+Patient: I'm sorry.
+Nurse: Do you know what the Medicat, what the treatments are called?
+Patient: Uh, Baa Dat.
+Nurse: Now
+Patient: That paper, my wife's gonna get the paper laying on the bed with my pills and everything. Oh, that's
+Nurse: Ok.
+Patient: That's ok. I'll have it in a second and I'll have all the dates when I had my treatments at the same time here.
+Nurse: Ok. Ok. It just so I can, uh, give, make sure Doctor [PHI-Personal] is aware. I'll put it in my notes there so he knows what you're getting and what's been going on there.
+Patient: Uh, he's aware of it, I'm sure, but we'll make sure it's Byvegarg
+Nurse: By. Oh, [PHI-Personal]. Ok.
+Patient: Yeah, it's for people that have [PHI-Personal], the other treatments they were giving me was not working anymore. So they, uh, come up with this now. So.
+Nurse: Ok. Ok. Well, I'm glad to hear that it's been working for you. Um, well, at least you're, it's not giving you any sort of side effects or anything like that.
+Patient: No, no side effects at all. And, uh, it's working but like my case management worker would like my neurologist, Doctor [PHI-Personal] to give it to me more frequently. Instead of waiting until I get run down, he gets me built up and then wait until I get run down completely and then builds me up again and then wait until I get, it gets a vicious cycle that way. And I gotta try to convince him that I need like, two treatments in a row to see if that will hold me.
+Nurse: Mm. Ok. Yeah, that's definitely a good idea to talk to him about that and see, see what's going on there if they, if they might be able to, I mean, I think it's a good idea to do it before you get run down too.
+Patient: It, that, I think that's hard on your body.
+Nurse: Oh, I'm sure. Yeah, especially, you know, that bouncing back and forth between feeling good and feeling [PHI-Personal]
+Patient: Right now, the date of those treatments I had was [PHI-Personal], [PHI-Personal], [PHI-Personal] and [PHI-Personal].
+Nurse: Ok. And you get the total of the four, so you're done with the treatments for now,
+Patient: Right. I had, I had them treatments in [PHI-Personal] or [PHI-Personal] and now I had to get them again in [PHI-Personal]. I was running down. I quit and that's why she thinks that I, I, they've got people that they tell me that's actually went into remission with her [PHI-Personal] and I would like to get like, more treatments and, uh, see if I can't get to that point or at least where I could do, only have to have this treatment every six months or once a year or something like that instead of every other month or every 23 months, something like that.
+Nurse: Right. Right. And I'm, I'm looking at this, the Viard and it looks like this is a fairly new treatment for you too.
+Patient: It is. It is. Yeah.
+Nurse: Yeah. So, that's wonderful. It's a whole new class. So, it's a lot different than the other ones that we've got out there. That's wonderful.
+Patient: Right. Right. So, but I, I think my neurologist is not that familiar with it and he's, he's reading on it but he's not listening to me to get me built up more and keep me built up.
+Nurse: And now is this the first time that you've tried the Vibe Guard?
+Patient: Oh, I've had it, uh, let me see here.
+Nurse: Oh, you've had it a couple of times then. I
+Patient: Had it in, uh, [PHI-Personal]. I had the [PHI-Personal] and now in [PHI-Personal] again. Ok.
+Nurse: Ok. All right. Well,
+Patient: That's the only thing is going on with me that things have been going very well for me lately. And I guess thank the good word for that. Yeah. Oh,
+Nurse: Absolutely. So, it seems like that really helps with your symptoms after you get those infusions.
+Patient: Yes.
+Nurse: Good. Good. Ok. And then, uh, I see here too that you recently went to the eye, the eye clinic.
+Patient: Yes. I had, uh, my left eye operated on for cataract and they will, they will not do my right eye until I have a sleep study done. Oh,
+Nurse: So, ok. And did they say why they want you to get the sleep study?
+Patient: The anesthesiologist? They're afraid to get me too much. Uh, put me out, afraid I won't wake up. I was supposed to have that done in, uh, I don't know. [PHI-Personal] I think it was, and I had to cancel it because my grandson was getting married in [PHI-Geographic] and we went to that wedding. I didn't wanna miss that.
+Nurse: Oh, I don't blame you. Yeah.
+Patient: I called to get it rescheduled and I can't get in until [PHI-Personal].
+Nurse: Oh, no. Ok. So that's for the sleep study.
+Patient: Right. Right.
+Nurse: That's all the way out until [PHI-Personal]. Ok. Right. Well, how are you doing with that left eye? Does it seem like that's any better?
+Patient: Yes. Yes, it is better.
+Nurse: Good. Good. So, hopefully, then [PHI-Personal] will come a lot quicker than you realize. And you can get that sleep study done. So hopefully, then you can get that left eye fixed. Right. Yeah. Or the right eye fixed. I'm sorry. Yeah.
+Patient: So I'm looking forward to that.
+Nurse: Yeah. Absolutely. At least you've got one better eye now. Right. Right.
+Patient: Right. Yeah.
+Nurse: Good, good. And then I saw you went to go see Doctor [PHI-Personal] Chauffeur for your foot there. The foot care.
+Patient: Yes, I did. That was the, the first time I get a pedicure and, uh, my wife goes there and she talked me into going there. So I went up and have it done and it, it was very good. He does a good job, I think.
+Nurse: Yeah, I've heard lots of good things about this doc. So that's good. And it's always really important to keep good care of those feet because it's hard sometimes for us to examine our own feet. So it's really good that, uh, you've got somebody else taking a look at them to make sure that there's no injuries or wounds or anything we might not be aware of, you know.
+Patient: Right. Right. And I think I have a lot of, uh, cramping in my legs and, uh, stuff and he thinks that I might have to have a study done on the circulation in my legs. So.
+Nurse: Well, yeah, that's not a bad idea to check, to see what could be going on and causing that cramping
+Patient: Because he's gonna check that or look at that and let me know when my next appointment when we get our feet done again. Ok. Ok. So you might have more information than I remember.
+Nurse: Hey, that's ok. That's ok. I'm, I just wanna check up and make sure everything's going well and you're still following up and it sounds like you're doing a darn good job on that.
+Patient: Yes, I am trying to. Yeah,
+Nurse: Absolutely. Now, how's [PHI-Personal] been doing?
+Patient: She's been going fairly good, I think. Yeah, she getting adjusted to the insulin now. And, uh, I think what, I don't know what, but you want to talk to her, she'll talk. Yeah.
+Nurse: Sure. Do you have any other questions or concerns before I, you pass it over to [PHI-Personal]? Yeah, he did. Yeah. Yeah. Well, that's ok. We can come back to him and we make sure we get all of his questions and stuff answered before I go. Not a problem. Well, I can give it back to him then he can get it by the go by getting medicine. Oh, we need some refills. Oh, no, he's getting his medicine out of his medicine box ready. Oh, ok. Got you. Yeah, he can do that while we chat then. So how things been going for you, [PHI-Personal]? Well, um, lately for about a month now I've been having, you know, how your fingers go to sleep and not doing ok, I got something like that in my right shoulder and it goes up my neck and it, it's constant. It doesn't, you know, let up, I've been rubbing it and put stuff on my neck and it's not doing anything and I don't know what to do with it. So, is it like a, like more of a tingling? Not numbness? No, it's not numbness. It's just a, like a tingling, just the tingling. Ok. And I had surgery on my back several times and I don't know if this was something that just popped in or if it's arthritis or what it is, but it bothers me. Usually, uh, arthritis doesn't cause like a tingling sensation. But you said it starts in your shoulder and goes up your neck. Yeah, on the top of my shoulder, uh, and part of the, my back just a little bit where the bones are and then it goes up my neck. I have to hold my neck. Sometimes I have to hold both sides of my neck because I'm trying to relax. Oh, goodness. And so it feels like those muscles are tense in there. I don't know, but I know there's something going on with it and I just don't know what to do with it. Have you seen an Ortho doctor or anything or? How long ago did this start about last month, last month? Ok. Hm. That, that, that definitely is interesting. So, you haven't talked to anybody about it or anything yet? Uh, I was, uh, was up to see the doctor up there doctor. We saw [PHI-Personal], I think her name was, um, he filled in and she said it probably could be arthritis but she had not checked it or anything. So, I don't know, but it bothers me that it's going up my sides of my neck and I was worried about my carotid arteries. Yeah, I don't blame you there. I do think that you need to be checked out. Let me let me see something here because you don't see Doctor [PHI-Personal] until [PHI-Personal]. I don't want you to have to wait that long. So let, oh, go ahead. I said no, I don't want two either. Yeah. Now, have you been trying anything to help with that tingling sensation? Is there any pain associated with it? No pain? It's just this tingling, the feeling of numbness, the tingling feeling of numbness, no pain, but sometimes some like some muscle stiffness. Yeah, I guess so. Yeah. Yeah. Or would it be more joint stiffness do you think? Was that you think you're not sure? Oh no, that's OK. That's OK. So how about let me send doctor [PHI-Personal] a message with what's going on and we'll see what he recommends. I'm guessing he's gonna want you to see somebody. Now. It's just, I'm not sure if he wants to see if he is gonna wanna see you first or if he may just recommend you go right to Ortho with it. Um So you said, oh go ahead. Oh no. Just sometimes, you know, it doesn't do the same thing on the left side other than the feeling of uh fullness in my neck. So on the left side, your neck feels full. Yeah, it just feels like it's full. Like, you know, I got to put pressure on it to try to keep it down to keep it from aching full and achy. Ok? And then the right side has the tingly feeling. Yeah. Yeah. Clear up my neck. Ok. And it goes all the way up your neck to like the base of your skull, almost to the, to the my uh jawbone, up to your jawbone. Ok. And you said this is, is it constant, does it come and go? No, it's constant. Ok. And no other symptoms. No, like dizziness, lightheadedness, shortness of breath, nausea, anything at all like that. Well, I've had some, uh, dizziness. It's like I feel like I'm going to have to, if I pick something up, I'm going to fall over. So whenever you bend over or something you get a little dizzy. Oops. Are you there? Yeah, I'm here. Oh, so whenever you bend over is whenever you feel the dizziness. Yes. And that's been going on for, uh, about a nine month, I guess. So, about the same time. Yeah. So the dizziness is only whenever you bend over. Right? Ok. Ok. Um, I'm gonna send all this to an, in a note to doctor and see what he wants to do because I do think you need to be seen by somebody and I don't want you to wait until [PHI-Personal] because that sounds extremely uncomfortable. Um, I am so, I didn't know, I didn't know to make an appointment with the heart specialist or, you know, that he could do, uh, what do you call them? Just make sure carotid artery scan. Yeah. Yeah. Ok. So we're not sure if we need cardiology Ortho or PC P appointment first. Huh? Right. Right. Right. Ok. Yeah, cause it sounds like it could be any number of things. My guess is Doctor [PHI-Personal] might wanna see you in his office first to figure out where to send you. That's my guess. I'm not sure yet. Um, so let me send out um, well, let me rearrange this, this, this sentence doesn't make any sense that I'm sending out to him. Give me one second. I don't know what I typed up here, but I'm going to send a uh, message out to him and we'll see what he wants to do. And then as soon as I hear back, either I or somebody, um from the office will get a hold of you with what our next step is going to be. Ok. And um, [PHI-Personal] through, let me see, [PHI-Personal]
+Patient: Third or 5th, 5th,
+Nurse: [PHI-Personal]. Uh, we're on vacation. Ok, on vacation, you said from [PHI-Personal], 25th to July 4th, fourth? Ok. So I've got that noted in there in case they wanna make an appointment, we'll wait until you get back. It sure sounds like um, oh, where are you going? By the way? We're going down to my son's to watch the dogs while they go to the beach because my grandson is going to [PHI-Geographic] for his coast guard. Oh, wow. Ok. He's stopping in for that week to see the family and, uh, then they'll be moving on but he's coming to my house. Um, a maybe one day this week on the 25th. Yeah. Oh, and then you'll head down to watch the dogs. That's nice that you'll be able to see everybody too. Yeah. But I don't like babysitting animals. Oh, wow. What kind of dogs are they? One is, what's [PHI-Personal]
+Patient: [PHI-Personal],
+Nurse: Black Lab is [PHI-Personal] and, and [PHI-Personal]. A little bagel and bagel and bulldog mixed. Oh, boy. So, I bet they're both loud dogs, huh? Because I know those beagles are big talkers. Yes. Yes. And he, as soon as we get to the door and he, he knows it's us and he comes running to greet us. Oh, so at least they're excited to see you, huh? Yeah, he will be because I give him food that they don't give him, you know, if they're, if they do something good then I give him something to eat. Oh, of course, grandma's got to spoil them for sure. Huh? Yeah. So I just wanted to tell you that in case, you know, um, they wanted to call that week. I wouldn't be here unless I, you know, would call my son's place. Right. Right. I'll definitely make a note of that too. In the chart that you're gonna be away for those times. I'm sure I'm gonna hear back from him earlier than the 25th. Most likely I'll be getting back to you or the office. Well, either today or tomorrow so we can get something figured out for you. Um, but yeah, I definitely, I definitely want you to get looked at sooner rather than later. Um, because it, it could be something as simple as arthritis, like she had previously said, but it could be something more going on too, especially since it's kind of on both sides. And it, it is hard to distinguish whether or not you do need to see cardiology or Ortho two. So that's why I'm guessing he may want to see you in the office to figure out where, where the next step is gonna be. Ok? Ok. And we'll be here. So this week. Ok. Sounds like a plan now while I've got, you got you both here. Do either of you need any refills or anything? Uh [PHI-Personal], he does, he needs 33. Ok. Let me get him pulled back up here because I got you pulled up 222. All right. Which ones do we need here?
+Patient: Uh [PHI-Personal]. Ok.
+Nurse: Let me find it on here. Oops, still loading, still loading.
+Patient: I don't know whether Doctor [PHI-Personal] might have already sent any of these or not, but I wanna my my bottle says that uh no refills available
+Nurse: Sertraline. So it looks like that's 25 mg. It looks like they sent it in on the 19th. So it looks like Walmart should have that one.
+Patient: Ok. Very good.
+Nurse: And then what else do you need?
+Patient: Uh huh. Carvedilol.
+Nurse: Ok. And that's 12.5 mg twice a day. It looks like that was sent in [PHI-Personal] and you should have in [PHI-Personal]. No. So we do need a refill of that one. So I'll get that one sent in.
+Patient: Alright. And the other one is iron. Ok. Five mg.
+Nurse: All right. Let me get the right person to send this to here. Whoops. if I could spell today. There she is. Ok. And so we need the carvedilol. It can make these names a little easier, huh? And then you see the iron, what we've got here, I can find it again. There it is. So it looks like that was filled in [PHI-Personal]. Yeah, you should be due for that one as well. Send the both of them to go to Walmart.
+Patient: Yes in hunting in there.
+Nurse: Ok. So I just got that request sent in for you. Um Does [PHI-Personal] need any refills?
+Patient: [PHI-Personal] you need that? A no, she don't need any at this time. She said
+Nurse: Ok, so you've got enough to make sure you're covered while you're leaving.
+Patient: Right. Right.
+Nurse: All right. Very good. Very good. So we've got that all figured out [PHI-Personal] is good to go. She doesn't need anything. Now, do you have any other thoughts? Questions or concerns before I let you two go.
+Patient: Uh None that I know of.
+Nurse: All right. Very good. Well, you two take care and um I'll be in touch with [PHI-Personal] so we can figure out what's going on with that neck and shoulder tingling and whatnot. Um I've got the message sent out to doctor table already. So as soon as I hear back, we'll be in touch. Ok. Very good. All right. Well, you two take care. All
+Patient: Right, thank you. And you have a blessed day now.
+Nurse: Oh, thank you. You too. Bye bye.

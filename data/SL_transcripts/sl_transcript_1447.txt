@@ -1,0 +1,14 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: This is [PHI-Personal].
+Nurse: Hey, [PHI-Personal]. I don't know what happened. I heard you answer and then I didn't hear anything else.
+Patient: Right. And I heard you and then you, and then you were gone. So let's try it again. I, I'm good. I'm, I'm, I'm sitting in my car but waiting for my husband to come back from the store. Ok. All right. I'm feeling much better now, but I still have a horrible taste in my mouth. My weight is only 106. But um, I'm trying to eat but I can eat very little of things. Mhm. So anyway, I'm, I don't have full strength back or anything, but I'm getting better every day.
+Nurse: Well, good, good. You sound a little better today than you did the last time I spoke with you.
+Patient: Right. Right. I see the doctor um, or something like that on Friday.
+Nurse: Ok. So perfect. Well, I just wanted to check in on you and see how you were doing. Um, I'll follow up with you again after you see Doctor [PHI-Personal] next month. Ok. But listen, if anything comes up before then and I can help you in any way you feel free to reach out?
+Patient: Ok. So let me, I do have a question, uh, a little question. Um, I'm, as I'm starting to get my strength back. Should I, and try to do any exercise or anything?
+Nurse: I wouldn't really do much. Now, I would focus more on, um, you know, just trying to regulate your nutrition, your dietary intake. Um, just try to try to focus on that at present. Ok.
+Patient: Ok. I am, I am removing boxes from my garage and unloading them and putting them away, so I am doing stuff.
+Nurse: Ok. All right. Well, just be sure you rest, you know, listen to your body if you need to rest, rest, take a break, what have you um definitely be sure you're, you're well hydrated and again, just kind of focus on, on trying to get your nutrition. Ok.
+Patient: Yes. Ok. Thank you very much.
+Nurse: Absolutely. You have a great day, [PHI-Personal]. You too.
+Patient: Thank you. Bye bye.

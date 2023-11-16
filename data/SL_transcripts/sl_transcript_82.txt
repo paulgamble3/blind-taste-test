@@ -1,0 +1,8 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. My name is [PHI-Personal]. You had called me about the TJ H Care Management program. I'm returning your call.
+Nurse: Yes. Thank you so much for calling back. So yes, I was calling you. Let me pull up your chart here. Just give me one moment here. Yes. So I was calling you I correct because you qualify for the care management program. And so what it is, it's a monthly phone call from the care management nurse where she would check in with you in between your office visits and she'd answer questions and go over your medications or refills if you need them. And um you'd also have access to the nurses' direct line. So if you ever need to call in for anything, you can get right to the nurse rather than trying to get in touch with the office. Oh, and yes. And so all the calls are documented and they're sent over to the doctor for review. So it's treated as a billable service to [PHI-Personal]. [PHI-Personal] Advantage plan secondary insurance carriers subject to deductible and co insurance. So you may receive a statement from the practice for the service. Um, but you still have your United Healthcare [PHI-Personal] Advantage. Yeah. Ok. Great. It looks like you would have a $0 copay. And, and so what would be better for you then? Morning or afternoon calls from the nurse,
+Patient: Um, morning.
+Nurse: Ok. I'll set you up for morning calls and then I'll send you a letter as well with the information on the program and that'll have the nurse's name and her direct line listed. Ok.
+Patient: Ok, great.
+Nurse: All right. Well, thank you so much for your time and I hope you have a great week.
+Patient: Yes, you too. Thank you. Bye bye. Thank you. Bye.

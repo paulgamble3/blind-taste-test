@@ -1,0 +1,17 @@
+Nurse: Good morning. Thank you for calling Care Management. My name is [PHI-Personal]. How can I help you today?
+Patient: Uh Good morning, [PHI-Personal]. My name is [PHI-Personal]. I had uh returned a call to and you called me back yesterday.
+Nurse: Yes, thank you. And I do appreciate you returning our call. I do wanna inform you the calls are recorded for quality purposes. I'm a family [PHI-Geographic]. We're providing a care management.
+Patient: I, I'm having trouble hearing you. Hang on a second.
+Nurse: Oh, no worries. Try again. Ok. My name is [PHI-Personal], I'm with [PHI-Geographic] on behalf of [PHI-Personal] Care Management team. We're providing a care management program which is a call from our nurse where she checks in with you in between office visits, answers questions or concerns. She'll help manage your chronic conditions can assist with medications, lab results, community resources. Anything that pertains to your health, the nurse would be a good resource for now, the calls are documented. They are treated as a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. They would be subject to deductible copay co insurance. So you may receive a statement from the practice for those services if interested. All, would you prefer if the nurse reached out to you in the morning or afternoon? It would
+Patient: I prefer if I get a call in the morning or the afternoon? Is that your question? Uh, well, it depends what day it is but, um,
+Nurse: This is that work
+Patient: Generally morning, I guess. But,
+Nurse: Ok, are there certain days that are better for you?
+Patient: Uh, not regularly? Um, it, I mean, it just it's uh other
+Nurse: Depends on the state what comes up? Not a problem. I'll go ahead and mail out the nurses' information for you. I've got you at [PHI-Geographic]. Correct? And the [PHI-Personal] and Blue Shield is still uh active insurances, correct? Ok, we are all set. I appreciate your time so you have a great day and stay safe.
+Patient: Ok ma make sure I understand what you're what I just what we just did do you occasionally a a nurse is gonna call me or call that is correct.
+Nurse: The nurse will give you a call once a month. You can call in at any time if you have any questions or need any, any assistance.
+Patient: Ok. And who do I call
+Nurse: For? I'll I'll be mailing out the information for you but I can provide you the phone number if you like.
+Patient: Ok. Well no that's fine that's fine if you if you right. No.
+Nurse: Ok. Ok. Alright Allen you're all set I appreciate your time. Thank you. You're welcome. Bye bye bye.

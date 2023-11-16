@@ -1,0 +1,41 @@
+Nurse: [PHI-Geographic]. This is how can I help you?
+Patient: Hey I just got a call from you my phone was in the other room.
+Nurse: Oh that's ok. How are you today?
+Patient: Not too bad good. Uh I know I have an upcoming appointment here Friday. I got a call this morning I confirmed uh confirmed that appointment.
+Nurse: Ok, good. [PHI-Account] 45 is the time.
+Patient: Yes.
+Nurse: Ok good let's see. Um have you still been having the dizziness?
+Patient: Yes.
+Nurse: Ok that's still going on. Ok. Alrighty. Hm. Ok and then let's see. Have you been checking your BP? How's that been this week?
+Patient: Uh no I haven't been checking it now. Ok. Yeah it might be high it's probably high I've been drinking a lot of fluid on that.
+Nurse: Ok. Um well have you been taking your BP medicine? The Lisinopril? Yes. Ok and you're taking that daily? Yes. Alrighty
+Patient: Good. Uh let me go look at it I may need a refill I think I'm getting low on that one.
+Nurse: Ok take your
+Patient: Time. Yeah let's see here I get them all lined up here. Yeah uh I guess I get about six or seven on I'm pretty good on that yet. I'll call that in when I run out of the other one.
+Nurse: Ok. So you're good on that one. Are you needing any refills on any of the other medicines?
+Patient: Uh, well, I got one refill on that one. Uh, no refill on the STB. Ok, I got about, uh, I got about seven of them left. Uh, no, I think I'm pretty good.
+Nurse: Ok, so you're good on that? All right.
+Patient: And
+Nurse: So, like, um, the dizziness that you're having, is it constant or does it come and
+Patient: Go, uh, just when I get up? Yeah, it's, it's seems like it's getting constant. Mhm.
+Nurse: Ok. I was just kind of wondering about that. Hm. Ok. All righty. Well, I'm good. We're gonna get you in this week so we can maybe see what's going on. Now. Do you eat a lot
+Patient: Of Friday? Yeah, I'm coming in Friday. So. Right.
+Nurse: Right. And so that's what I'm saying. It's good. We're getting you in, you know, getting you in this week so we can see what's, what's going on. Do you eat a lot of, um, salt in your diet?
+Patient: I have been. Yes.
+Nurse: Ok.
+Patient: Know.
+Nurse: Yeah. And that could, you know, that could very well be, you know, which, you know, you said you haven't been checking your BP. Um, yeah.
+Patient: Well, yeah. Well, well, also, um, you know, I, with the, with the chest pain problem, you know, I've been really that active but now that, uh, you don't want medicine for that, uh, right. That you, maybe I can get other things under control here. Mhm.
+Nurse: So, how has the, um, the chest tightness?
+Patient: Yeah. Good. It's excellent. Yeah, it's excellent. Yeah, that, no problem with that. I, uh, uh, uh, I don't know if he's gonna put me on that permanent or not. Mhm.
+Nurse: Yeah, that's good. Um, you know, good to know that the [PHI-Personal] is actually working. Um and I know the last time we talked you said you were kind of coughing up a little bit more. Is that the? Oh my
+Patient: God. Oh my God. Yes. Real sticky. A real sticky phlegm uh an awful lot of it I still am.
+Nurse: Ok. Ok. That's good. Alrighty and you know
+Patient: It's clear but it's really go ahead.
+Nurse: Well, no I was just gonna say also increasing your water intake that may kinda help to thin out the you know the phlegm that you're coughing up. Um yeah yeah I think that would be, you know, just increase your water as well. Ok. Well
+Patient: Um ok then I'll see you on Friday then.
+Nurse: That sounds good um and you enjoy the rest of your day. Ok.
+Patient: Yeah, sure enough.
+Nurse: Sure. Alright, thank you bye bye
+Patient: Uh thanks for calling. Uh huh
+Nurse: Bye bye.

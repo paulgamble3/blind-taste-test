@@ -1,0 +1,17 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hello. Hi. Hi, this is [PHI-Personal].
+Nurse: How can I help you?
+Patient: This is [PHI-Personal]. Uh huh. This is A [PHI-Personal]
+Nurse: Ok. I ju I just called you. I just left you a message. I must have caught you right before you could get the phone. My my, my name is [PHI-Personal]. I'm one of the hospital discharge nurses at Temple and I was calling on behalf of doctor s office because I was notified of your recent discharge from the hospital. Did you, you were discharged home from the hospital, right? Yes. Ok, good, good, good, good, good. Um, so I call for two reasons. One is to assist with scheduling a follow up appointment with doctor if you would like one, but most importantly, what I do on my call is I update your medication list for any changes to your medicines for doctor. Now, I can see your discharge instructions from your hospital stay and I'm just going to ask if you um would mind confirming with me what I read to be correct? Ok. Ok. Thank you. So uh what I'm able to see it looks like they asked you to stop taking your Lisinopril and they recommended that you start taking Tylenol as needed. Does that,
+Patient: What is Lisinopril?
+Nurse: Lisinopril is a BP medication? Um Yeah, so 20 mg, I'm trying to see if you uh you may not, I don't even know if you had been taking it before and then they uh they didn't know it at the other hos, you know, at the other
+Patient: Five days you had been.
+Nurse: Ok. And they want you to stop that though, right? Ok. And then, um, they also recommended that you can take some Tylenol if you need to.
+Patient: Ok.
+Nurse: Uh, for pain.
+Patient: Ok.
+Nurse: Ok. And then that's all the changes that I see. Does that match what you were told as well? Yes. Ok, great. All right, my love. So I'll be sure that that information is correct in your chart. Um, did you want to schedule a follow up with doctor or not at this time?
+Patient: Not at this
+Nurse: Time? Ok. My dear, if you change your mind or you have any questions or concerns, please, uh, don't hesitate to reach out to his offices. Ok. Ok. All right. You have a great rest of your day.
+Patient: You too. Bye bye. Thank you.
+Nurse: Bye.

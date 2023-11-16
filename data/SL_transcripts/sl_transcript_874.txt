@@ -1,0 +1,26 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: This is
+Nurse: Hello, how you doing?
+Patient: Um, driving right now? Oh, ok. I work for S Oh,
+Nurse: Ok, perfect. Um, so let's what day are you off this week?
+Patient: Uh, Tuesday and Wednesday?
+Nurse: Ok, I will. Um, I'll try you back tomorrow. If you would like, that would be, that's fine.
+Patient: I don't know. I, I don't know what this is. Uh, I'm ok. I'm hands free driving. Oh, ok. I don't know how much, how much this is gonna take or anything.
+Nurse: Yeah. No, it just takes a couple of minutes. Um, let me just get you pulled back up quick. Um, so this is regarding the care management program through your primary doctor's office. Um, looks like [PHI-Personal] Plummer. Yeah. Ok. Yeah. So it looks like you opted in for that a couple months ago. So I was just calling to kinda finish getting you set up and just confirm a couple things with you. Um. Ok,
+Patient: I guess. Yeah. Is [PHI-Personal], is it, did [PHI-Personal] approve this? I don't know anything about it.
+Nurse: Yes. Um, so typically the primary doctor kinda recommends this program to, um, you know, their patients and then we reach out and get you enrolled and things like that. Um, let me, let me see. So, do you see, you see [PHI-Personal] or, um, doctor looks like you see [PHI-Personal]? Ok. All right. Let me get this. What was that? Did I lose you? Hello? Can you hear me?
+Patient: Yeah. Yeah, I, can you hear
+Nurse: Me now? I can. Ok. Um, so this, this care management program is just once a month, one of our nurses will call you to kind of check in on you. Um See how you're feeling, see how you're doing. If you had a recent provider, appointment visit, we'll kind of go over that with you and reinforce the recommendations of the provider. Um And then if you need any medication refills, uh we'll take care of that too. Uh You know, as well, you don't have to call your primary office anymore. You can call us if you'd like. Um every call will give you some education uh regarding, you know, some of your chronic conditions. So let me get yours pulled up. So we would discuss your high BP and high cholesterol. Um You know, our goal, our main goal is to keep you out of the hospital and make sure that you're not having any symptoms of those diseases. Um, you know, things like that and uh we're able to message the provider directly to kind of notify them of any issues or changes going on with you. Does that make sense.
+Patient: Yeah, I understand all that.
+Nurse: Ok. Ok, perfect. Well, I'll, I'll get you finish getting you set up here then and we'll call you next month and kind of feel it out and, and see if you have any questions at that point when one of the nurses calls and kinda digs in a little bit. Um, do you have a, like a routine day off or is it kind of vary throughout the, the week?
+Patient: No, I have Tuesdays, Wednesdays and Fridays. I, I only, I only work two days Monday and Thursday and a lot of times I don't work either one of them. I work one. But yeah, it, it's, it for sure. It is Tuesday, Wednesday and Friday.
+Nurse: Ok. So call Tuesday, Wednesday, Friday only? Ok, perfect. I'll get that updated. So that way they know to not call you on Mondays or Thursdays. Um, and then any changes of your current medications?
+Patient: No.
+Nurse: No. Ok. Do you need any medication refills today?
+Patient: No, no, I don't. I, I go automatic.
+Nurse: Oh, perfect. Ok, awesome. Um, all right. And then current address I have [PHI-Geographic]. That's where I live. Perfect. Um, and then Medicare Insurance and a ARP United Healthcare as secondary. Yep. Ok. Awesome. Well, I will, I'm gonna send you a letter out. It's gonna have, um, your nurses name and contact information on it. So if you have any questions regarding anything, you can call her at any point, um you know, leave her a voice mail if she doesn't answer and she'll get back to you as soon as she can. Um, otherwise we'll we'll touch base with you again next month and kind of just see how things are going. Ok. Sure.
+Patient: I know we we had a little trouble there contact, we were playing for a while. Yeah for. Oh
+Nurse: That's right. Um, no problem I appreciate you calling me back.
+Patient: Um Today is a good day.
+Nurse: Alright. You have a good rest of your day.
+Patient: Oh, thank you. All right, Kaylen. Thanks. Bye bye bye bye bye.

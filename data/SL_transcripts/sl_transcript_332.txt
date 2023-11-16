@@ -1,0 +1,78 @@
+Nurse: Hello, this is [PHI-Personal]. This
+Patient: Is [PHI-Personal]. I got your message. It was late but I got it. How
+Nurse: Are you doing? I'm
+Patient: Doing good. How are you doing?
+Nurse: I'm doing well. What's new with you? Nothing.
+Patient: II I took, uh, you got me concerned about BP, you know, BP. So I got my BP machine out and took some BP test.
+Nurse: And how did that go?
+Patient: Great. I only had one that was up in the 140 that's because I coughed when I, I was taking the death. Uh, they were down around 100 and 20 over like 67 to 71.
+Nurse: Perfect. Yeah, that means now, you know where it is so you can pay attention to if it gets higher or not. Yeah, I
+Patient: Got a bench mark anyway.
+Nurse: Exactly. Perfect. I didn't mean to scare you. Well, it
+Patient: Didn't scare me. It concerned me.
+Nurse: Oh, what I didn't mean to concern you. Just educate.
+Patient: I uh oh jeez, I forgot what I was going to say. Now. Must be that atorvastatin making me my brain go nuts. You know, you read these things in the paper about these statins and I'm not so sure that they're very good.
+Nurse: Uh, yeah, it's a catch [PHI-Account] because there's, it does great things but it also has some consequences along with it. So, all
+Patient: Medicines
+Nurse: Does. Yeah. Exactly.
+Patient: Just got to weigh the, the good versus the bad. Exactly. And hope the good comes out on top.
+Nurse: Right. In 100 years we'll do medicine completely differently. I hope so. I agree. We won't be able and then we'll look back and be, like, remember when we thought that was a good idea,
+Patient: I won't look back.
+Nurse: Hey, with new technology you could be here. You
+Patient: Never know. But I doubt
+Nurse: No. So. Well. Have you been in to any specialists or anything lately?
+Patient: No, I go, uh, March of next year to, uh, a dermatologist to give me a body check on my skin cancer. I do that every year.
+Nurse: I'm glad you do that because that is important.
+Patient: Yeah. Well, now that my wife isn't here, I can't have anybody look at my back.
+Nurse: Yeah, that is the hard part. Once you are living alone there's no one to look at those places you can't see. So.
+Patient: Right. And my little dog, she just don't know how to communicate. She just looks at me and shakes her head. That's all.
+Nurse: Yeah. If you were, uh, she could communicate then you would have it be golden. You'd probably be pretty rich.
+Patient: Oh, my God. Yeah, I'd be in a circus. She was about that quick. Right on TV. And everything.
+Nurse: Perfect. I hope that you figure that out. So you get rich. Yeah. Right. I do have that. You have an appointment with Doctor [PHI-Personal] 8 a.m.
+Patient: Yes. Yes, I do. Perfect. And I have, I got to get, next month I got to get blood work done so that he can interpret that because I, I always go about four weeks before I have an appointment.
+Nurse: Perfect. Perfect. Perfect. So that is awesome. And then are you trying to eat a healthy [PHI-Personal] to keep your cholesterol down?
+Patient: No, I'm, I'm, I'm bad at, at [PHI-Personal]. I see things and I wish I could eat them and I, I eat them that,
+Nurse: That I get that, that's why you need to keep healthy things around. So you see those and eat those,
+Patient: Those things don't turn me on the stuff.
+Nurse: I know it's so much easier. But that's why you got to keep those out of your house. They,
+Patient: Uh, you know, those, those fruits and vegetables, they, they're not the tastiest thing in the world. Although I do like fruit. I eat a lot of fruit but
+Nurse: Good
+Patient: Fruit vege is, uh, not too much, not too much vegetables. Not that I don't like them. I like, I have never, except avocados. I hate avocados and I won't touch them. I don't even like to look at em. It's not because they taste bad. It's the mouth appeal. They taste like, I don't know. Pardon? My French snot.
+Nurse: Yeah. Yeah. That cracks me up. I've never thought that but I can see how you would.
+Patient: I, I just, they don't turn me on at all. I like vegetables. I could be a vegetarian easy. Just, just that somebody has to make the stuff for me. I'm, I'm not a
+Nurse: Cook. Right. Do you try and limit your, um, processed meats? Like bacon sausage?
+Patient: I haven't had a piece of bacon in, I don't know, probably four months sausage sausage. I, I might have had that two months ago. Ok. Piece of a [PHI-Personal].
+Nurse: So, you're doing good on limiting those. That's perfect. And then
+Patient: Hamburg, I like, I like 80% for a hamburger. But I, uh, but I don't like 80% on anything else. I like that. [PHI-Personal]%.
+Nurse: Yes. There's something about a hamburger that needs to be 80%. But I agree it's [PHI-Personal]% on most other things.
+Patient: [PHI-Personal]% is so dry for a hamburger. That's why
+Nurse: I, I don't, I think that's what it is.
+Patient: But, uh, and anything else, you know, in soups and whatever, it's perfectly fine, the [PHI-Personal]%
+Nurse: And then you generally maintain a healthy weight. So, those are all things, um, that definitely help lessen cholesterol.
+Patient: So, but I weigh less now than I did when my wife was alive.
+Nurse: Is that because you're not cooking for
+Patient: Yourself? That's because I wasn't cooking for myself. She was cooking for me and I just eat everything that she put in front of me. It was all good. She was a hell of a cook,
+Nurse: Right. That's the hard part. Then you have to go to cooking yourself and you're like, this just isn't as good.
+Patient: And her specialty was pies. And guess what? I love pies. I don't care what they are as long as it's a pie. Yes. And she made the world's best crust.
+Nurse: What was your favorite pie? She made lemon meringue. Ooh, that's not easy pie, man.
+Patient: I, I love [PHI-Personal].
+Nurse: Well, that's exciting. Has anybody in your family kept the baking tradition going? No. No, that's a bummer. Yeah, it is. But maybe that's what you could this winter when you have some time. Work on a lemon meringue pie. Yeah,
+Patient: Definitely. Ah, that's so funny. I didn't know how to
+Nurse: Make her [PHI-Personal]. I'm sure she has directions somewhere. Uh,
+Patient: She probably does. She was not very good at keeping a, let's say a, uh, file on her recipes. You know, she wrote, wrote them on backs of envelopes and things like that. And then she stuck them in this thing wrapped in a rubber band and every time I open it, it all falls apart. So I spend most of my time putting it back together instead of looking for what I want.
+Nurse: Well, maybe when you have some down time you can like copy it onto paper.
+Patient: Well, she does have a, a computer but I don't know her password. I never did ask her for it and there's no doubt that she has those recipes in now.
+Nurse: Well, I better password is pretty easy to figure out.
+Patient: Well, some of them are, I would, I would guess that it's probably one of her dogs or something like that. Right. Or her birth year
+Nurse: Or whatever. I'm just coming up with a whole bunch of projects for you this winter. You know,
+Patient: Do any of them, you know, I'm not gonna do any of them. I'm gonna carry wood and sit down in, in front of the fireplace with my dog.
+Nurse: I think that's a good plan also.
+Patient: That's, that's relaxing. Uh, you just don't know how relaxing that is looking at a fire.
+Nurse: Oh, it's super relaxing. I love looking at the fire.
+Patient: Yeah, it's, it's great.
+Nurse: Yes. Well, it seems like you're doing really good. Is there anything I can do for you this month? Not
+Patient: That I know of [PHI-Personal].
+Nurse: All right. Well, if you need me, give me a call, otherwise I'll check in next month and see how you're doing.
+Patient: Ok. It's a, it's a date.
+Nurse: All right. Talk to you then. We'll see you then.
+Patient: Bye bye.

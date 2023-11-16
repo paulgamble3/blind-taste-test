@@ -1,0 +1,39 @@
+Nurse: Hello. Hello.
+Patient: Hi, it's calling is this [PHI-Personal]?
+Nurse: It is uh sorry I was dialing out while you called in. Let me get you set up here. They tell me how that happens. How can I help you? Alright, give me one second. Let me get you pulled up here. Did you say [PHI-Personal]?
+Patient: No, Beco Bepko.
+Nurse: Ok. Date of birth. [PHI-Personal]. That's me. All righty. So I was calling I'm the chronic care manager, nurse out a doctor [PHI-Personal] office and it looks like he got a hold of you a few days ago. Um I was to introduce myself to you as your nurse care manager. Ok. And uh do you have any questions about the chronic care management program? I can answer for you.
+Patient: No, I'm familiar with the programs. I uh I just retired. I was director of Pharmacies cost.
+Nurse: Oh good. Ok, so all right. So what I was hoping to accomplish today was do a med ra with you. Make sure that what I'm seeing is what you're taking if I. Ok, perfect. I have allopurinol 100 mg daily, alprazolam one mg at night. Pr N
+Patient: Yeah, I haven't used
+Nurse: It, but go ahead. Ok. And then amoxicillin, 500 mg,
+Patient: Four capsules before my dental procedure.
+Nurse: Ok. And I have an aspirin 81 mg daily. Correct. Atorvastatin 10 mg daily. Yeah. And then I have a refresh drops.
+Patient: Yes. Uh It's a little bit. Ok. Well, my eyes are extremely dry since I had cataracts.
+Nurse: Ok. All right. And then I have CeleBREX 200 mg daily. Correct. Vitamin D 3, 5000 units daily. Correct. Escitalopram 20 mg daily. That's correct. Lisinopril 20 mg daily. Correct. Uh Metformin 500 twice a day. Yep. And that Timolol drops,
+Patient: Uh one drop in each eye uh, in the morning.
+Nurse: Perfect. And then travoprost
+Patient: Uh one drop in both eyes in the evening.
+Nurse: Perfect. And then I have Vyzulta.
+Patient: Well, actually the post should be removed. Uh It, it is, it's the Vyzulta now.
+Nurse: All right, perfect. All right. I got that all updated. And let's see, you're still using Stop and Shop Pharmacy, correct? Ok. So are you keeping an eye on your blood sugars at home? Oh, yes. Ok. How do they run for you?
+Patient: I'm usually anywhere between 100 and three and actually 100 and 19.
+Nurse: Ok. Good. And do you just check once a day,
+Patient: Uh, every couple of days? Ok. I'm actually terrified of those finger pricks.
+Nurse: They're not fun. Are they? Ok. And are you following any kind of diabetic diet?
+Patient: Uh, usually Mediterranean diet? Perfect. Try to keep it and, uh, uh, trying to keep, um, minimum ingestion of everything.
+Nurse: Ok. All right. And what about BP? Are you keeping an eye on that?
+Patient: Yes, it was. Let's see this morning I had to go and get a shot in my, uh, left knee for, uh, my arthritic, uh, left knee this morning and this morning when they took it it was 1 22/78.
+Nurse: Perfect. All right. And no episodes of chest pain, shortness of breath,
+Patient: Dizziness
+Nurse: And those injections. Is it a steroid?
+Patient: Oh, no, no, no, no. Um, it's, uh, it's Orthovisc. It's, uh, it's a lubricating gel and I go, uh, every six months.
+Nurse: Ok. And it seems to help.
+Patient: Well, I'm going on 11 years. I haven't had, had that knee replaced. So it's, it's good.
+Nurse: All right, I like hearing that. Ok. All right. So the plan is I'm going to stick your care plan in the mail. It's just gonna have a list of any upcoming appointments you already have scheduled for the year. And then,
+Patient: Um, you, ok, go ahead. I'm sorry. No,
+Nurse: It's ok. You, um, and then it's gonna include health maintenance items. That's gonna be your screenings and vaccines that'll be due and then it'll have my name and number so you can get a hold of me if needed and it looks like your next appointment is gonna be your annual Wellness visit [PHI-Personal].
+Patient: That's correct. That's what I was about to say here.
+Nurse: All right, perfect. Well, is there anything I can do to help you today?
+Patient: No, thank you very
+Nurse: Much. You're so welcome. If you need anything at all, don't hesitate to reach out. Ok. Ok. You have a good day. Thanks. You too. Bye bye.

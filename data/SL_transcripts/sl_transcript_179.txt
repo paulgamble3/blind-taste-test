@@ -1,0 +1,16 @@
+Nurse: This is [PHI-Personal] nurse care manager.
+Patient: Hi, this is calling. I, I'm doing fine. I'm just letting you know that um, Dean is going to need a refill of his ri by Tuesday of next week. So I just wanted to give you a heads up. You said that you could get a hold of and have that um sent right to Walmart.
+Nurse: Absolutely. Let me get him pulled up here and I'll get that sent in now. There it is. Ok. Is the midodrine the only one that you need right now? That's
+Patient: Correct.
+Nurse: Yes. Ok. So let me get that sent just to make sure we're
+Patient: Good and just, yeah, just make sure that she's updated the prescription from one a day to three a day because they'll, yeah, that's what they'll flag. Ok.
+Nurse: Yeah. So I don't know how to spell it. So I'm gonna tag it midodrine. There we go. And we want it updated to the three times a
+Patient: Day. That's correct. That's correct. That's why it was a 90 day supply at one a day and I wasn't out of it once I started giving the three a day that put her down in in two weeks. So it looks like
+Nurse: It's already updated to three times a day right now. So that, so that should be
+Patient: Ok. All right, that to Walmart. Yeah, honey in Walmart.
+Nurse: Ok.
+Patient: Very good. All right. Ok. Did you need it very much?
+Nurse: Oh, you're welcome. Did you need anything else today?
+Patient: No, not that I'm aware of.
+Nurse: All right, good. I'm glad that the medicine is helping and let me know if you need anything else.
+Patient: Ok, I will. Thank you. Take care. Bye bye.

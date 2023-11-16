@@ -1,0 +1,33 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Yes, this is [PHI-Personal]. Did you try to call me?
+Nurse: I did I just left you a voicemail. How are you today ma'am?
+Patient: I'm just fine.
+Nurse: Good, good. I was just calling just to check in with you see how things have been going recently. Um any concerns or updates anything going on
+Patient: Just my leg? I'm seeing a uh a doctor. I don't know his name or something like that. Ok. And he's been giving me shots. Ok.
+Nurse: It's for the arthritis in your knee,
+Patient: Huh? Yeah.
+Nurse: Ok. Ok. Are they, do you feel like they're helping that are helping?
+Patient: And then they're not helping?
+Nurse: Goodness um are you, are you ha have you had any falls because of your knee pain?
+Patient: No, no,
+Nurse: No. Ok, good, good. And are you using an assistive device like a walker or a cane?
+Patient: I'm using
+Nurse: A walker. Ok. Good, good. It's important to protect yourself and with knees it's kind of hard to tell when that pain will catch you and you know, cause that weakness and give out. So it's always good
+Patient: To found that out. Yeah.
+Nurse: Yeah, it's always good to have that um extra reliance on the, the walker to help prevent those falls. So, I'm glad that you're walking, you're using that. Um, how is your pain level today?
+Patient: Well, today I just walked up to the, uh, store and back. So that was pretty good.
+Nurse: Ok. Yeah, very good exercise is good. Trying to stay active like that routinely. Um, are you doing any sort of exercise classes around the facility too?
+Patient: Uh, not right now. Uh, I've got so much to do in the, uh, apartment that I, I haven't been doing much outside of it except walking the
+Nurse: Dog. Oh, I get that. Well, that's good that you're still getting out and about when you can, I understand some things take priority. Um, so as far as just doing exercises at home when you have time, um, something that can help with the knee pain and the stiffness if you are laying in your bed, either in the morning or in the evening when you're going to bed, um, you can lay on your back with one leg bent and one leg straight and just tighten the legs of the straightened muscle. Really tense those muscles and lift it up in the air. Um, just kind of up and down and then slowly lower it. Um, do that a couple times on both sides and that can help strengthen those muscles. Ok.
+Patient: Ok.
+Nurse: Make sense. Makes sense. A little easy exercise there to help tone your legs a little bit and keep that knee from getting worse for you. Ok.
+Patient: Ok.
+Nurse: All right. Um, yeah. Yeah. And then I do see you have your appointment with doctor coming up on [PHI-Personal] ninth. Ok. Ok. So we'll see you in the office. Do you have that appointment set in your calendar?
+Patient: I think. So, I'll check just to make sure.
+Nurse: All right. Good, good. Um, if you have any concerns or questions before then you can either jot them down, bring that in with you. Um, you know, continue to keep track of your blood sugars and your BP. Um, has everything been good and stable with that? Yes. Excellent. Ok. Well, any other issues going on right now?
+Patient: No. Ok. Not right now.
+Nurse: All right. Well, you just continue everything you're doing. We'll see you in a couple weeks and, um, if there's anything else you give me a call. Ok.
+Patient: Ok. Ok.
+Nurse: All right. You take care MS [PHI-Personal], we'll talk again soon.
+Patient: Ok. Bye bye
+Nurse: Bye bye.

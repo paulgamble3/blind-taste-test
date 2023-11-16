@@ -1,0 +1,27 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help you?
+Patient: Hey, [PHI-Personal], it's [PHI-Personal]. How are you? I'm good. How are you? I'm ok. I'm ok. Um I'm calling today because number one I, I'm coughing so bad. I don't even know if I can make it until the [PHI-Personal] for my ent surgeon. Yeah. Right.
+Nurse: Oh, you do you have an ent appointment today?
+Patient: Mhm. It's not. No, it's on the [PHI-Personal]. Ok. My daughter has an appointment today with [PHI-Personal] though.
+Nurse: Uh huh. Oh Lord.
+Patient: Sounds like you got your hands full this morning as always
+Nurse: Good.
+Patient: I was wondering if doctor could call me in something to quit smoking. Sure, because I'm having a hard time quitting on my own and I think it's stupid for me to keep smoking with problems with my throat. Mhm. So it's time to quit?
+Nurse: Awesome. I'm glad
+Patient: To hear that. I know I can't have Chantix because I, I take Lexapro but I was wondering if there was something else you could call in for me.
+Nurse: Sure. I mean, probably gonna be either patches or lozenges. But um I will mention,
+Patient: Yeah, let's do um the patches. Ok.
+Nurse: The oh Wow. I'll also give you some handouts too. I'll mail you some handouts. But I mean, it's the same stuff if you were to look online. Ok. Just and system um vacation. However, and you said you've tried? Ok. So, no, but did you have an adverse reaction to the Chantix?
+Patient: No, no, no, no, no, no, I've never taken it. Uh My girlfriend that takes Lexapro like that like I do. Yeah. And then she couldn't have Chantix because she took Lexapro every day. And so do I? OK.
+Nurse: Can take, have you ever taken um wellbutrin?
+Patient: Yes. Was that OK? Mm. I don't know if they want that in there with all my other anti
+Nurse: Take any or I'm just gonna put, I'm sure if she can take any oral medication advice, sending patient
+Patient: Wellbutrin. And you still smoke? How many of those do you take? My boyfriend takes three wellbutrin every day, right? And he still smokes.
+Nurse: I tried wellbutrin. It's a joke.
+Patient: Yeah, I was, I was on it years ago.
+Nurse: Yeah. All right. All right. Well, I mean, I put it uh in the message that you are still coughing too. Um and that you're interested. Yeah, but that you're interested in quitting smoking.
+Patient: So, yeah, I'm having problems with my throat. It just doesn't even make sense for me to, to smoke anymore. Yeah.
+Nurse: Yeah. Mhm. Hello. Hello? Oh boy. OK. I will give you a call back when I get a message back. Hopefully it's today um but I sent it already and we should be good.
+Patient: I'll um I'll be at the office today. Ok.
+Nurse: Awesome.
+Patient: Alright, thank you.
+Nurse: You're welcome. Bye.

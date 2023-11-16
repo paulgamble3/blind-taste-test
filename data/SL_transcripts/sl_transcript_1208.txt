@@ -1,0 +1,47 @@
+Nurse: This is speaking. May I help you? Hi, this is
+Patient: [PHI-Personal]. I'm returning your call. Ok. It's for [PHI-Personal].
+Nurse: Oh, ok. Hold on one second. I was trying to find your name and I was like, hold on
+Patient: A minute. Yeah. Yeah. Yeah. I'm sorry, I'm sorry? Yeah.
+Nurse: Ok. And what's his date of birth? 12, 26 58. Ok. And is it you're, you're [PHI-Personal] the right?
+Patient: His wife? Yeah, I'm [PHI-Personal]. I'm [PHI-Personal] Morris's wife. Yeah.
+Nurse: Ok. Ok. No, we just wanted to follow up and see how he was doing. Have there been any changes in any of his medications? Yeah, there
+Patient: Has, he's now on 100 mg or whatever of amiodarone rather than the 200. And they,
+Nurse: Ok. And when did they change that?
+Patient: Um, it was, let's see, I wanna say [PHI-Personal], I
+Nurse: In [PHI-Personal]. Ok. I'm just gonna go in [PHI-Personal]. I'm good with that. And who was it that changed it? Doctor?
+Patient: Ok. And he also got rid of his, let me check. I, I wanna make sure I get this right. I wanna say it says, uh, Zide, they took that out.
+Nurse: Yeah, I'm not showing that on the list anymore either. So, I think that's the one. Yeah. Ok. Good. Ok. How has he been doing since the changes, any problems or concerns? Does it seem to be better?
+Patient: I wouldn't say better, but it's fine. I mean, it's not like the changes made things, you know what I'm saying? When he changes things, you know, I always watch, you know, I get nervous and I, he seems fine, uh, in terms of that. Yeah.
+Nurse: Ok. Good. I just wanted to make sure, you know, sometimes when they change them they're doing ok. And other times there's, there's some problems and, and I know he had been seen last month and he was having some rectal bleeding. Is he still having that or? He's not doing ok. He's resolved.
+Patient: Yeah. Not resolved. I mean, he's always, um, uh, he's always had that kind of thing in his, you know what I'm saying? It's like a thing with him but, but it seems better now. Yeah, definitely. Ok.
+Nurse: So it seems better. Yeah. Yeah. And like, and he saw a g, I, he didn't change anything. Right.
+Patient: Or no, he's getting a, um, colonoscopy, I think in [PHI-Personal] I have to check the date on that. He has two things coming up in [PHI-Personal] that I have to, um, I have to figure out, I, I just, I'm waiting until after Christmas too but
+Nurse: He, no, I would compl I can completely understand that. Get through the holidays. First and then, then,
+Patient: Yeah, I can't even remember where you go. I know they're in like, mid to late [PHI-Personal]. So I don't think, I don't have to deal, you know what I'm saying? So, one colonoscopy and then I think they're not doing it locally. They're gonna do it at [PHI-Geographic] because he's on so many meds. Ok. That's my understanding. And then, and
+Nurse: So is, is he not, he, they took him off the furosemide? Is he not having swelling in the feet, ankles or legs? Even being off of that?
+Patient: I don't think. Not that I've noticed and not that he's complained of. I mean, I'll think again, I'll pay that. Didn't, it didn't occur to me that that could be a thing. So I,
+Nurse: Yeah, because with the heart failure, he has usually the furosemide is the pill that helps pull the extra fluids out. Right. That's why you pee so much on it. And a lot of times that presents itself as swelling in the feet, legs or
+Patient: Ankles. I'll look, I haven't looked to be honest with you.
+Nurse: Is he able to lie flat to sleep? Yeah. Ok. Sometimes the fluid can end up in the lungs and it can make it so they can't do that and he's not complaining of and you haven't noticed any discomfort or swelling to the abdomen. No. Ok. And no shortness of breath. No. Ok. That's a good thing. Just wanna make sure especially where you know that, uh, the furosemide. Yeah. So, just kind of keep an eye on it if you notice any of those things, just make sure you let the doctor know.
+Patient: Said that to me. So, I'm glad he told me so good. Ok.
+Nurse: Yeah, that's us. Usually the, on the feet, ankles and legs is one of the easier ones to determine. Yeah.
+Patient: Right. I get
+Nurse: It. Yeah. And, and how's the [PHI-Personal], everything? It's the same, any problems there with the med changes or anything?
+Patient: Not, not that I've noticed nothing. No, I mean, it's pretty much, you know, it's like sometimes he seems fine and other times he'll do things that I'm like, oh, my goodness. So, you know it, but that's not, that's, that's the same, that's
+Nurse: Absolutely the truth. Kind of depends.
+Patient: It depends on the day or the week or whatever. Yeah, exactly.
+Nurse: And does he seem to do better, um, when you guys are speaking, if you guys are making, uh, you know, if you're making eye contact with him and speaking slowly and not rushing him, does that seem to help?
+Patient: Yeah. Yeah.
+Nurse: Ok. And does he, are you still able to get him to do activities that he enjoys? You know, whether it's puzzles or
+Patient: Lot of things he enjoys? Yes. Yes.
+Nurse: Ok. Do. And he's still able to do that? It sounds. Now, do you keep the calendar for all his? Yes, I definitely appointments and everything or does he keep on himself. Well,
+Patient: He, for his music stuff he has that he knows what's going on with that. But with all his appointments and things I need for him to do something. I keep that. So,
+Nurse: Ok, that makes sense because you're probably the one making sure he gets to and from without any issues and he doesn't need refills on any of his meds. Does he?
+Patient: Not that I know of, I mean, and I'm the one who does his meds and I think we're ok, you know, as far as I can tell.
+Nurse: Ok, well, that sounds good. Well, I am glad to hear he's doing so well. It sounds like you've got things very well under control. I hope
+Patient: So. My best.
+Nurse: That's all we can ask of anybody, isn't it? Yep. Yep. Yep. Alright. Well, if you guys, if you need anything or you have any questions, just give us a call. Ok.
+Patient: Sure. Sure,
+Nurse: Thanks. All right, you're welcome. You have a wonderful day and a [PHI-Personal].
+Patient: Oh, thank you. Bye bye bye
+Nurse: Bye.

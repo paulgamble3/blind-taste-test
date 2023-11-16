@@ -1,0 +1,38 @@
+Nurse: Good morning. This is [PHI-Personal] with [PHI-Geographic] Group.
+Patient: Yes. Good morning [PHI-Personal]. This is [PHI-Personal]. I got your message.
+Nurse: Yes. Um let me get you pulled back up here. Oh, how are you doing this morning?
+Patient: Uh doing alright. Just o sorry. Yep, just uh took my wife into the hospital for some testing. So other than that, we're doing fine. So anyway, so I think I'm seeing doctor on um uh Friday this coming week. Uh Yes.
+Nurse: Well, I I also have that you're scheduled for a dermatology appointment that day. Were you aware of that?
+Patient: Yeah. Yep, that's earlier in today. Ok. So my time of year of uh, so you want my allergist?
+Nurse: I see that you've got a busy schedule.
+Patient: So yeah, so yeah, no questions in particular at this point.
+Nurse: Ok. Well, I was just calling to finish getting you set up um in the new chronic care management program with Doctor [PHI-Personal] if now is a good time and if not, I can call back another time.
+Patient: Um about how long would it say?
+Nurse: Um maybe 5 to 7 months. It won't take me that fine.
+Patient: Yep, that's fine.
+Nurse: Ok, so for your address. I have 29 [PHI-Personal] [PHI-Geographic] and for your insurance. I have Medicare as your primary and Transamerica as your secondary. Um, can you verify your birthday for me?
+Patient: [PHI-Account]? Perfect.
+Nurse: Ok. Um, are you able to go over your medications with me right now? Sure. Ok. Yeah, I have that you take uh Tylenol just as needed. Yep. Allopurinol 300 mg daily. Uh uh Cialis 20 mg daily as needed.
+Patient: Yeah, it hasn't been for months or years but yes,
+Nurse: Cinnamon Bark 500 mg capsule two daily. Uh huh. Um Ibuprofen as needed. Yep. Uh fish oil one daily.
+Patient: Yep. We didn't get the good ones yet.
+Nurse: Uh levothyroxine 100 and 12 micrograms daily. Yes, Losartan 50 mg, one tablet twice daily. Uh huh. Metformin 500 mg, one tablet by mouth two times daily. Yes. Um, a multivitamin daily. Uh huh. Um, a fiber capsule, four capsules daily. Rosuvastatin five mg once daily and tamsulosin 0.4 mg, two capsules every day.
+Patient: Uh Yeah, it's 1 O2. It's sort of as needed which way some, sometimes I can get away with this one. I mean I was ok with Doctor [PHI-Personal]. So if we switch it off.
+Nurse: Ok. Now, are there any other medicines you're taking that I need to add?
+Patient: No, no, that was enough. Ok.
+Nurse: Um I have your address as Walgreens in uh on Boston Post Road. Ok. All right. Um and the only thing I'm showing that you're due for is your diabetic foot exam.
+Patient: Yeah, that's been there for, ever since my chart or so, you know, whatever. Um, I mean, I know when I go to doctors they check, you know, you know, my feet swelling, et cetera, et cetera, et cetera. I mean, I don't go to a podiatrist or anything, so, I, I'm not having any issues, so.
+Nurse: Ok. All right. Um, and I have you signed up for your diabetes and for BP. Um, but anything that you have any problems with all you gotta do is let me know I'll help with refills, appointments, referrals. Anything that you need. I'm a nurse that's been assigned to you so you can just give me a call any time and this number.
+Patient: Yes. Oh, ok. Yeah, there was problems, actually. I just had to refill. I think it was, um, I forget which one it was but for some reason, uh, Walgreens had a problem with it but it, it out, you know, was, I was up to my last [PHI-Personal]. and then, uh, they kind of called the office so they were not getting a good response for any response. So it was, um, I'm trying to think it's the 11 of the ones they take twice a day.
+Nurse: Um, the last one I have filled is Metformin.
+Patient: Oh, no, I had, um, no, I just had another one just refilled. One of the little oval, round ones, I think the 50 mg. What are those? Um, Losartan? Yeah, that was a hard one. Ex so, but yeah, they said, I think next time, um, this is the final one, I think they overrode something in the computers. Ok. So,
+Nurse: So I'll take the load off of you for that from now on and that'll be me dealing with it and not
+Patient: You. Bye.
+Nurse: All right. Uh well just be aware if you have any headaches, shortness of breath, facial flushing that is signs that your BP could be too high. You would want to check it and give us a call and let us know. Ok. Yep, no problem. All right and you'll be getting a letter in the mail from me. It's got my contact information on it and like I said, you'll just follow up with me if there's anything you need.
+Patient: All right I appreciate it. Thank you very
+Nurse: Much. Sounds good and I have you down as every three month phone call. Is that still ok?
+Patient: Yeah that's fine for now. Ok. And if
+Nurse: Anything changes you can reach me before then. Sure,
+Patient: No
+Nurse: Problem. Alright you have a good day and Happy New Year. Happy
+Patient: New Year to you too. Take care. Bye bye bye bye.

@@ -1,0 +1,67 @@
+Nurse: Hi, this is [PHI-Personal] Jo. Yes. Hi uh [PHI-Personal] Jo. Uh this is Arlene Donu calling uh I'm calling in regards to uh setting up the BP cuff. Yes, ma'am. Ok. You are. You're the person that handles that. I
+Patient: Am the person you've called the right
+Nurse: Number. Yes. [PHI-Personal] told me to call that number because I haven't, I haven't set it up at this point yet.
+Patient: All right, no problem I can help you out with that. All right. The first thing I want you to take out is the antenna. So that's in the small rectangular box, Marel Stel.
+Nurse: Yeah, I have, I have this. Yeah, there's a box. Yes,
+Patient: Perfect. So it comes in two pieces. There's a little black box with a cord attached to it and another piece it just looks like a little wand.
+Nurse: Yeah, I see that.
+Patient: Yes. Alright. So you're gonna twist that one. There's this little golden fitting sticking out of the side of the box. That kind of looks like a screw. Yes. Just twist that wand right onto that and that whole thing just gets plugged into an outlet.
+Nurse: Ok. All right. Well, I have, I'm not buying outlet. So. Ok. Uh, ok. What do you have to, you have to twist this?
+Patient: Yeah, that little wand. You just wanna twist it onto the piece. That kinda looks like a screw.
+Nurse: Yes. Ok. I'll give it to him then. Yeah. Hold on just a second. Mhm. Take your time. Where's going? There's a, there's a hole in the back there. Yeah, I know. I think we're in the wrong, I, I'm in the wrong area for this to do this. Ok. To get this set up. Does it go it plain? It, it plugs into the main unit?
+Patient: No, actually it does not. Um, the only thing that needs to get plugged in is that antenna, the one piece that just has the plug, that's the, that's all you have to do and that can actually get plugged in. You don't have to be right next to it when taking your BP. So, if it fits better in the kitchen, you can even plug it in in the kitchen. Ok.
+Nurse: I have the antenna. Now. Where does that go?
+Patient: The actual antenna? You just plug that in
+Nurse: To the gold with the gold pieces?
+Patient: Yes. So that's just, you just twist it on there?
+Nurse: Ok. Ok. It's on,
+Patient: All right. And so just that piece that just
+Nurse: Gets plugged in? Oh, ok. Pick it up. So that what that, what you have to put that in there every time you use this, you have to put you have to plug it in.
+Patient: Yes. Or you can plug it in and set it and forget it. So, if you wanna leave it plugged in, you can absolutely do that. It doesn't use much electricity. Kind of like leaving your cell phone cord plugged in.
+Nurse: Ok. And that, that's all you do. And then, and then you just, then you just, uh, put the, uh, turn the machine on and then you take your BP. Yes, ma'am. Ok. Now. All right, we have it turned on, turn it on, says start,
+Patient: Well, we wanna wait until your antenna is plugged in before we take the, the BP. Just to make sure it comes through. We'll
+Nurse: Have to, we'll have to go over, go over by the counter. They have. Ok. How far, how far away do you have to be?
+Patient: You can be 10 ft away from it. Ok. So it does have a longer range.
+Nurse: No, you, you have to go over the counter. Yes, I, ok, thank you. I don't have a lot of patience with this. I'm sorry. But I don't,
+Patient: I understand once we have it plugged in, it's really, really easy. This is the only part that takes a long time.
+Nurse: Yeah, I didn't know what you were saying about plugging it in. So I just get the app, the phone every morning. I have to get my phone also. Ok. I have the antenna plugged in and I'm, I'm right next to it. Oh,
+Patient: Wonderful. Ok. Um, so you should see there's probably a blinking red light on it and it's just gonna turn solid in a few seconds and that just means that it's connected.
+Nurse: Yeah, it's solid.
+Patient: Perfect. So now you wanna hit that after you get the BP cuff on your arm, you wanna hit that start button twice the first time I'll turn the machine on and then the second time will actually make it pop up.
+Nurse: Ok? So you have to put the cup on.
+Patient: Yes. Yes. So the way that you wanna slip it on is pretty much how it is in that box. So it's already in a circle and you just want there's a diagram of an arm and that's how you wanna slip that on your arm. You want the diagram to be facing you to where you if you look down you would be able to read it.
+Nurse: Now there's a metal thing there. Yes. What did you? Oh that's a
+Patient: Yes. So it kind of works like a a belt.
+Nurse: Yeah. Alright. It's no it's not. I know it's not I it's not right. I know that.
+Patient: OK.
+Nurse: How you just flip it on but see how how do you adjust it?
+Patient: So you would pull the Velcro um is it already in a circle for you or is it possibly opened up already?
+Nurse: It's in a circle but I have to put my arm through it. Mhm. And I, I'm trying to, how do you adjust it? Because it's, it's, it's very loose.
+Patient: Ok. Right there where that Velcro is. Pull that and then you just kinda wanna pull it towards you. It'll make it tighter and then flip it over.
+Nurse: Ok. All right. Ok. All right. So you said hit the start button button
+Patient: Twice. Yes. Yep. Too slow presses. There you go.
+Nurse: Ok. That does that happen for you? Yes.
+Patient: Ok. And it'll just take a couple of seconds to pump all the way up and then you should get some numbers and don't worry if they disappear really fast, I'll tell you about the memory button afterwards.
+Nurse: Ok. Ok, good 1. 27. Looks like over 71. All right. It was a blue light that came on.
+Patient: Ok. And that, that blue light just means that we've got your reading [PHI-Account]/71. All right. So if you look at the BP machine, the white machine. Yeah, it says over on the right hand side there's, it says Sys right underneath there, there's a gray button. It has an M on it. That's the memory button. So if you hit that one time it should bring back the last reading. You just took. It
+Nurse: Does. Yes.
+Patient: Perfect. And Arlene, that is all you have to do. You are completely set up.
+Nurse: Oh, really? That sounds simple.
+Patient: That is it. And we just ask that you do this. Um, once a day and are you taking BP medication in the morning? Yes. So, you wanna wait 30 to 90 minutes after you take your BP medication to do your BP?
+Nurse: Yeah, I take this. Yeah, I would say I would do it once a week. I'm not doing it daily.
+Patient: Ok. Not a problem.
+Nurse: If I have a BP issue, I would say that, but once a week is fine, Lisinopril is what I take. And, uh, you know, I mean, I don't, I'm not gonna remember every day and so forth, but once a week would be good.
+Patient: Oh, right. Well, we can deal with that. Um, and then your nurse [PHI-Personal], she's just gonna be giving you a call in about a week just to check
+Nurse: In. Ok? I talked to her this morning. So,
+Patient: Yes. Yes. She, she sent me a message. I've been waiting for your call. Actually,
+Nurse: I said I will call, I will call you. I'm sorry if I, if it's just that it's a lot of other things going on and so forth or whatever and I put it, I put it away, you know, I, I have it in, in a bag in another room and I put it away. But I will, I will do it once a week and then she will, she calls me about it.
+Patient: Yeah, she's just gonna give you a call in about a week just to check in. And, uh, you know, and that, that's about it. That's, that's all there is for
+Nurse: Set up and you're good. Ok. Well, very good. I thank you for your time, [PHI-Personal] Jo and sorry, you're welcome. I mean, sorry, I been a pain trying to get it started but uh
+Patient: Not at all. You know, I have patients, I've been chasing since [PHI-Personal]. So you're fine. Right?
+Nurse: Ok. Now we know how to do it and um, it's, it's set up and I have, I have a regular bag for it that I put in another room because I got all the equipment together. So we mark it, I mark it in the book that it was 1 2021 over, over [PHI-Account]/71 in today's date.
+Patient: Yes, ma'am. Perfect.
+Nurse: Ok. Very good. Thank you very much. You're
+Patient: Welcome. Thank you very much.
+Nurse: Ok. Have a great day.
+Patient: You too. Bye bye
+Nurse: Bye bye.

@@ -1,0 +1,11 @@
+Nurse: [PHI-Personal], may I help you?
+Patient: Uh I might have the wrong number. I'm sorry. Oh, that's
+Nurse: Ok.
+Patient: Is this [PHI-Personal]?
+Nurse: Oh, she might be on that another call. I'm one of the other nurses. That's why I answered.
+Patient: Ok, I, I let me,
+Nurse: Ok, let me see. She let me see if her line, if that's intact. That's usually why. One second. Ok. Yep. Her line is busy. Can I have her call you right back?
+Patient: Yes, please. Thank you. Ok.
+Nurse: What's your name, sir?
+Patient: [PHI-Personal] Weeks. She'll know who that is.
+Nurse: Ok. I'll let her know I right. Ok. Bye bye. Thanks. Bye bye.

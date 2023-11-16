@@ -1,0 +1,55 @@
+Nurse: Hi, this is [PHI-Personal] with the care management team. How can I help you?
+Patient: Well, I got a call yesterday from [PHI-Personal]. Is she, I don't know what it's all about but she left a message to call her back.
+Nurse: Ok. And may I have your name?
+Patient: [PHI-Personal] M Bianchini Bianchin. I,
+Nurse: Yeah. Ok. [PHI-Personal]. We were just calling to go over the information about the program doctor is offering. Do you, do you have a couple of minutes for me to go over the information
+Patient: With you? What's it all about? I didn't know I just was in to see him. He never mentioned to
+Nurse: Work. Oh, ok. Well, [PHI-Personal], the call is recorded for quality purposes. All right. Um, what it is really, it's a new care management program and that's just where our nurse is gonna call and check in with you. See how you're doing in between office visits. Uh, she's going to go over your full medical health with you answering any questions, addressing any issues or concerns that you may be having. Uh, she'll also go over any medications that you're taking. So if you had questions about them or if you needed refills uh, she's gonna make sure that they're working the way that they should be and that your conditions aren't worsening. Um, or if you had questions and needed help with appointments, labs, community resources. Those are just some of the things that the nurse will, uh, go over with you during the phone call. Ok. Just
+Patient: A phone call and not a, this, no, it's
+Nurse: Just a, it's a regular phone call.
+Patient: That's what the, the nurse ca, well, they call me a nurse calls from Etna. That wants to do the same thing. But I refuse because I deal with doctor. I always called him. I guess I'm not saying it right.
+Nurse: It's ok. It's all right. Um, now I do wanna let you know that the service is considered to be an office visit. Uh, so it's billable to [PHI-Personal] and [PHI-Personal] Advantage plans, secondary insurance carriers, subject to co insurances and deductibles and co payments. So, when you have,
+Patient: I have a co pay a co payment then. Right? Yes.
+Nurse: Only when you have contact with your dedicated nurse. Um, when you have contact with her, you may get a statement from the practice for this service. You get to choose [PHI-Personal], how often your nurse calls you, if you want to call you once a month or once every three months or six months, or maybe even just once a year, that's up to you. Well, see,
+Patient: I only go to see him twice a year. I've, I've done that for the last couple years. I, I don't wanna have issues and I keep thinking, ok, that's there. Sure. So, I, I like the, the pro this really not every month I wouldn't need it because I, one, it's really crazy. I watch everything. The only thing I worry about is my blood work. I mean, I worry about everything I have other, I can't see, see and I can't see the blood work now and I depend on help for that. That's for sure. The big thing right now.
+Nurse: Ok. Well, [PHI-Personal], you get to, like I said, you get to choose how often your nurse calls you. Um, and the frequency it doesn't, the, the amount like how she calls you, it doesn't have to be the same all the time. Ok. Um, I'm gonna mail you a letter to the program and the letter will have your dedicated nurses contact information. So you're able to call her with any questions or concerns also. Ok. But
+Patient: I can't see. So, or, or if I have to sign stuff I won't be able to do that. What, how do I handle that now? My doctor does it but she's on the road all the time. It's touch and go with me. Sure.
+Nurse: No. [PHI-Personal], the paperwork that I'm gonna mail you. It's just the information that I, I just explained to you today over the phone today. You don't have to sign anything. You don't have to do anything else? Ok.
+Patient: Is that, is that my, for me or is that, do I have to send it back? No,
+Nurse: You don't even have to send it back. It's just for you, it's for you, you
+Patient: Pay your record. The print is a print. It isn't written, is it because I can't distinguish, I have an easy read that I try to read. I don't know, I can't always pick it up but I try the best I can pick a word now and then, but I'm sure I'll a message,
+Nurse: You know, see the letter is actually typed. It's typed, it's not handwritten. Oh,
+Patient: That good. That's, that'll help me a little bit.
+Nurse: All right. Um, I
+Patient: Don't want, I don't want it every month. I would say once or twice a year at the most because my, nothing has changed in the last I'd say 10 years other than my medication. Uh, I have trouble with my BP now and then. But other than that, nothing else because I go to a, uh, guy for my legs. What do you call vein man? And I, a heart doctor. So, I mean, I'm covered all around. Sure. Sure. Sure. And I, I need to have a medical doctor and I, I just transferred to him and that's why for me it's all new here.
+Nurse: Yeah. No, it's ok. It's all right. Um, like I said, I'm just gonna mail you the information. Ok. Uh, I just wanna confirm the information we have for you is still the same. We have your mailing address still as 10 24 Wooded Pond Drive, Harrisburg PA A [PHI-Account], right? Ok. And we have your insurance still as Aetna [PHI-Personal], right?
+Patient: Ok. Now see, they may limit how much I can do. I don't know, I, I only ever had two visits a year and I got shot. That's all. So I, you know, I don't think they'll say anything but I don't know, I'll have to check it out regarding.
+Nurse: No, they don't because it is, again, they consider it to be an office visit and so it would be ok.
+Patient: All right. That's great. And your name? You're not [PHI-Personal], right? My name is [PHI-Personal]. Katy.
+Nurse: Yes. Ok.
+Patient: Ok. And you're gonna mail that now I was, and they had trouble. Maybe I can ask you this and they had trouble with the, um, computer and they said they were gonna send me all my information. I guess they're gonna, it'll be sent to me because I, I just was there on Tuesday.
+Nurse: Oh, ok.
+Patient: You, there's no way you can tell. Right. If they, I'll tell you why I have to keep my garage door open and I get a little bit nervous because the girl makes a lot of the mail. Girl. She delivers everybody's mail but fine. Uh huh. I, I'm gonna have a permanent one. Hopefully we can train her. Right. I've been flying all over the place for medicine, but now I've been trying to order my medicine all in one box.
+Nurse: Ok. Ok. Good, good. Well, I, I'm not showing II, I can't tell your, your results were mailed out yet for you. Um, but I'm sure they were,
+Patient: Uh, the computer work that gets me nervous. I do,
+Nurse: I do show that we do lab order results. The lab results were ordered, uh, back in the, be in, um, about the beginning, maybe last week, the beginning of last week. So they, they should be coming, coming, um, to you soon. Ok.
+Patient: That's, that's great. That's wonderful. Ok, [PHI-Personal]. I thank you. And I'll get the information and I have to call or how do I go about that or does it?
+Nurse: You don't have to do anything. You just, you get the information and you don't have to do anything else
+Patient: And, and then they'll just call me or what? Yeah, the nurse, this is the thing. I have trouble when I, the phone rings two times and it goes on my answering service. If the phone is busy, it means I'm on the phone and it won't go on the answering service. So they'll have to call back.
+Nurse: Yeah, she will. She'll just keep, she'll try, try again to get in touch with you. Don't worry about
+Patient: That. II, I live by the answering service. I'm, I'm getting slow. Don't get old. I lost eyesight and, uh, my balance is no good, but I still walk three miles a day. Oh, good
+Nurse: For you. Good for you.
+Patient: In fact, I, I just got in when, right, when I decided to call you I can do the three miles. I do a half of the time. Yeah, that's still, that's still, I know, I, but I've been trying to build it up to more I want and now that the weather is break, maybe I can't, I can't see but I go, I know the pattern, you know that I used to do and I don't go on the roads like I used to and I only go when I know the people all went to work because I can't the car see you.
+Nurse: Ok.
+Patient: Ok. Want you to be aware that I, I have, I mean, I hate to say it but I have no side. So,
+Nurse: You know, it's all right. [PHI-Personal]. Don't worry about it. Um, if you have any other questions, don't hesitate to give me a call back or you could even call doctor. Ok.
+Patient: Ok. Thank you. Ever, ever so much. Oh, you're
+Nurse: Welcome, [PHI-Personal]. You have a great day.
+Patient: You do the same. You sound so peppy. You're one of the best. You're a great nurse.
+Nurse: Well, I try, I try. Nobody wants
+Patient: That are lemons, believe me. Oh, so I can tell a good one from a bad one because I'm [PHI-Personal] years. Old, so I've been through the uh round the you know, round the block quite a few times. Ok? Thank you, [PHI-Personal]. I don't wanna hold you up, but I thank you so for offering the service and
+Nurse: You're very welcome [PHI-Personal]. I hope you have a great day and you stay safe.
+Patient: Ok? I will do that. Thank you. Alright, have a nice holiday now.
+Nurse: Oh, you too [PHI-Personal]. Ok. You take care.
+Patient: Ok? bye bye bye
+Nurse: Bye.

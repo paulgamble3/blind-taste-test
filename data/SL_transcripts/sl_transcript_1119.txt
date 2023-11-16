@@ -1,0 +1,16 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Oh, hi, [PHI-Personal]. How are you? Ok. And you? Good. Good. I
+Nurse: Wanted to let you know I was call or I sent him the letter and I was calling you to let you know about a new program doctor has and what it is is the nurse can call you every so often
+Patient: Just to check in
+Nurse: With you to see how you're doing, how you're feeling if there's ever anything that we could help you with in between your visits. And I was just wondering if that was something that you may be interested in.
+Patient: Do I have to pay? Well, you have
+Nurse: The, you have the Medicare as well as the secondary insurance. Correct? Right. Right. Ok. Good. Good. I'm glad you have that secondary. So, when you have that secondary, that's always a good thing because that helps pay for the, the, uh, the, the phone calls that come into you. So there's usually no out of pocket for the patient. So you don't have to worry about payment is what I'm saying.
+Patient: Ok. I, yeah. Yeah. So, because I'm only on social security.
+Nurse: Yeah. Yeah. No, I completely understand. But when you got that secondary, it always picks up that coverage that 20% that the Medicare doesn't pick up. So I'm glad you got that. That's a good thing to have, you know, so you don't have to pay anything out of pocket. I wanna send you some information just so you have it too. I have your address as 4 O2, Montrose [PHI-Personal]. Is that right? Right. Ok good I wanna send you the information just so you have it um and at the bottom they'll be um uh nurses direct phone number if you ever need her for any reason you're more than welcome to give her a call
+Patient: Too. Ok. All right. Well I'll mail
+Nurse: That out and we'll we'll have a nurse call you soon uh soon probably within the next week or so. Ok.
+Patient: Ok well I still can keep my appointment with them. Oh of course of course this is just a check in just to
+Nurse: See how you're doing, how you're just like how I'm doing today just saying hi how are you? How's things and if you needed anything nothing big.
+Patient: Ok thank you. All right my
+Nurse: Dear you have a good day. You
+Patient: Too thank you. Alright bye bye bye.

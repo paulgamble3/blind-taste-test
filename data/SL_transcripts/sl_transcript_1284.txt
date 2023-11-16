@@ -1,0 +1,26 @@
+Nurse: Good morning, Missus [PHI-Personal]. How can I help you?
+Patient: Esa, this is [PHI-Personal].
+Nurse: Hi. Good morning [PHI-Personal]. How are you?
+Patient: I, I'm pretty good but I wanna know how you are.
+Nurse: I'm doing well. Thanks for asking.
+Patient: Yeah, I've been out of town and, and, uh, you just before I left you were sick? Yeah. Yeah. Anyway, did, did you have COVID? Can I ask you that?
+Nurse: I did? Actually, uh, so I'm recovering
+Patient: But it does,
+Nurse: It does. So, so you spoke with [PHI-Personal] in my absence, right?
+Patient: Who was that?
+Nurse: I said you spoke with [PHI-Personal] when I was out?
+Patient: Yeah. Yeah. I, I think that's right. Yeah, she's going and, um, I can't, I can't remember now what I asked her, but what I need to do is, is get, um, a prescription spironolactone. And the only one, the only one I have was, uh, when I was at, um, the for Walgreens and, um, I can't do it through them. The doctor name. It is the one that's on the, on the label thing, but I need to order that. Um, so best way to do
+Nurse: That. Ok. So what pharmacy do you need it? Sent to then.
+Patient: Yeah, I need the Walgreens at [PHI-Geographic]. Um I don't have the number two. Ok. It looks like it's like it's [PHI-Personal] it, [PHI-Personal] something like 67 [PHI-Geographic] like that [PHI-Geographic].
+Nurse: Ok. Um, it looks like you should have a refill remaining at the previous Walgreens. Um I can call and verify
+Patient: It's very, everything got very, very, very confusing, confusing with what I like ordering and trying to change from the, uh, I mean, from the port to this, it, it was, I, I had the pharmacist for this is for other, some other things I need. It. It was, it was horrible. It was terrible because, you know, they, they had a hard time. I stayed on the line that it was, they had no s whatsoever. They couldn't get it and they couldn't do it. They couldn't order, they couldn't, anything. This was prior to my and, um, and I, I didn't, I didn't say that I need, I don't think I said I need it all I know is it was, it was a huge fiasco. I want them to send it to me and, and, uh, the other prescriptions were ok. But, um, I had, but I don't, it was, I can, it, it was so it was the worst, a bunch of hours and, and confusion. It was, and they were upset too because the pharmacist they couldn't even take in prescriptions. It was the weirdest thing. And I, the gal was really nice when I finally got to the uh manager all like that. Yeah, I, it was, it's unreal. I, they tell me your medicine is ready for this, that and the other and then you can pick it up. I tried to say I want to pick up because it was, it was hours, it was hours all together. So the manager, I asked for the manager at one point and they gave me the head cashier would do nothing. And then they said, well, and I told her all my stories. She said, no, I'm not the manager. I said I would like to speak to finally got the manager and, and it got result and, and I, she was as frustrated as she could be for all the patients, etcetera, etcetera while anyway. Um, I'm getting very low, I guess just a few more pills on the spironolactone. Ok. So, I don't know why, I don't know but. Right.
+Nurse: Ok. Well, I will certainly work on getting that refilled for you. Ok.
+Patient: Yeah. Um, do you have it on where you can check? I have an appointment with doctor because I had to change that.
+Nurse: Yes. Yup. I have your appointment on [PHI-Personal] at 11 20.
+Patient: Ok. [PHI-Personal]. Ok. That was another thing because I had, had to have lockdown, couldn't get out. Right, because I, I got the COVID at the six of [PHI-Personal]. Yeah. Yeah. Doing well. Thank goodness, we continue to get stronger and stronger and, and lower.
+Nurse: Thank you, ma'am. Thank you. I'm doing my best. So I'll work on this refill for you. Um And then if there's any hang ups or anything, I'll give you a call, but you should just be able to check with your pharmacy in a couple days. Ok.
+Patient: Ok. Thank you.
+Nurse: You're welcome.
+Patient: Have a great day, day. You
+Nurse: Too. Thank you.
+Patient: Bye bye bye bye.

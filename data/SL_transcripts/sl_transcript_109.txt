@@ -1,0 +1,35 @@
+Nurse: Hey, this,
+Patient: Hi, this is, I'm calling. I think I was supposed to call you back.
+Nurse: Oh, yeah, I, um, was just calling Mr, uh, [PHI-Personal] just to see if you had, um, got your appointment to see the, uh, sports medicine doctor and, um, to make sure everything was ok. That was all.
+Patient: Yeah, I saw him yesterday and he has me scheduled for physical therapy, I think, starting [PHI-Personal] or something like that.
+Nurse: Ok. And how often do you have to go to therapy?
+Patient: I think they're gonna do it two times a week.
+Nurse: Ok. How is it feeling now? It, it,
+Patient: It, uh, it hurts in one spot where I assume the, uh, uh, the injury is the, the thing that concerns me is it doesn't seem to be healing. He said maybe the physical therapy might help that, you know, stimulate
+Nurse: It, I guess. And then, um, I'm pretty sure if it doesn't, then he probably will go further, you know, after that. So, um, yeah, that's what, uh, I was calling for just to see if, um, you had, um, was able to get an appointment with the, with the sports medicine doctor.
+Patient: Yeah. So that that's done and happened. So it's a matter of me waiting until the physical therapy starts.
+Nurse: Alrighty, that's all it. I wanted to make sure everything was good and had you taken care of with your foot. Ok.
+Patient: Ok. Now, you, you don't work in the office on [PHI-Geographic],
+Nurse: Do you? No, sir. I actually work uh remotely in [PHI-Geographic]. I have the same computer systems that the doctor has. Um and we communicate throughout the, the day, but I'm not actually in the office.
+Patient: Ok. So you're not even in the state then?
+Nurse: No, sir. No, sir.
+Patient: What, what city are you in?
+Nurse: I'm in, uh, [PHI-Personal], [PHI-Personal]. Yes. [PHI-Personal]
+Patient: [PHI-Personal] with an S
+Nurse: Uh huh. No, no, no. Yeah. [PHI-Personal]. I'm sorry. Yes, sir.
+Patient: Yeah. Yyo Un Gsvile. Uh
+Nurse: Huh. Uh huh.
+Patient: Ok. Is that near any of the big cities I would
+Nurse: Have heard of? Um, I don't know. Have you ever heard of Ette?
+Patient: Uh, yeah, I don't know anything about it. I guess all I know is New [PHI-Personal].
+Nurse: Ok. So it's probably like, um, maybe, uh, two hours from New [PHI-Personal]?
+Patient: Oh, ok. Just
+Nurse: Curious. Yeah, it's not too far from New [PHI-Personal]. Not at all. Ok. Yes, sir.
+Patient: Ok. That's, that's the latest status on me.
+Nurse: Ok. Yeah, I just had, wanted to make sure I knew like, you know, you was having foot problems and I was like, I need to call to make sure he was able to see the doctor and, you know, just make sure basically you were doing ok and you was able to get an appointment, you know?
+Patient: Yeah. Ok. Yeah, I'm glad it's nothing takes forever to get appointments. I'm glad it's nothing life threatening. I'd be dead. Yes.
+Nurse: Yes. Yes. Yes. I totally agree.
+Patient: But it's slow. It's slowly happening.
+Nurse: Well, make sure you let me know if you need anything. Ok. Will do. Ok. And I hope, um, the best with therapy, hopefully it's not too painful.
+Patient: Yeah, we'll see what happens.
+Nurse: Ok. Yes, sir. Have a good evening. Ok, thank you. Ok. You're welcome. Ok, bye.

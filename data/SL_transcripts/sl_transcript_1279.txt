@@ -1,0 +1,24 @@
+Nurse: Good morning, Miss.
+Patient: Hi, this is [PHI-Personal]. How if you called? I didn't get your message.
+Nurse: Um, I, there
+Patient: Was a box. Blood. Pardon?
+Nurse: I did not call, let me see if the office called.
+Patient: Uh, what I was wondering, this was a yearly check up, shouldn't she do blood test? Uh, the A one C and whatever else?
+Nurse: Oh, let me
+Patient: If she, the thyroid signal did it. I mean, I don't know. That's probably why.
+Nurse: Yeah. Let me see if I'm trying to see what, hm. I know they, um, that those lab results we were talking about last week. They did mail them to you on Friday. So they should
+Patient: Get them today. Doesn't show what they're for. I mean, just like numbers. I don't know what the code is.
+Nurse: Um, it, the type of labs that they're mailing to you is the B MP. It measures like your electrolytes, [PHI-Personal] function, um, kidney function. Um, and then it also will it
+Patient: Say on there it's kidney function and [PHI-Personal]. Uh, I mean, did they say it in English or does it have to
+Nurse: Be, um, it's probably, um, it'll have the ranges on it. It should have the ranges on it. I don't think it's kinda like outline which is, which, um, so when you do get them, if you wanna call me and I can kinda tell you which ones which, while you're looking at it, um, I can help you with that. Um, because I know it's kinda, it does seem kinda,
+Patient: It should be sugar. Um, a one C is the sugar, right?
+Nurse: Yeah, I'm not, I'm not seeing an A one C on those. Let me see when your, and your last A one C was,
+Patient: Well, I can wait today to see if I get them. I don't know when they mail them.
+Nurse: Um, I know the ones that if they're mailing, the ones I was calling you about the other day. It was just a normal B MP. Um, it looks like I can't ask her since I'll ask her see if she wants to recheck your A one C before your appointment
+Patient: With your, I don't know if s over there that I, he's thyroid. So,
+Nurse: Yeah. Um, I'll see if she wants to recheck your A one C here soon.
+Patient: I mean, I just thought it was my yearly physical. They check everything.
+Nurse: Yeah, I'll ask her about it and see if we have an, if she did, um, when your last A one C was and see if it was on this last lab work. I'm just not seeing it on my side right now, but I'll definitely ask, um, and then, uh, when she lets me know something, I'll give you a call back. Ok,
+Patient: Thank you. You're welcome.
+Nurse: I hope you have a good
+Patient: Day. You too. Bye bye. Yeah.

@@ -1,0 +1,100 @@
+Nurse: Hello, this is [PHI-Personal] manager,
+Patient: [PHI-Personal]. This is Mister [PHI-Personal]. I'm calling you about [PHI-Personal] [PHI-Personal]. I've got a letter here that you tried to get us, get her several times and weren't able to, um,
+Nurse: See one second here. What's her middle initial? Hon
+Patient: [PHI-Personal] A [PHI-Personal]?
+Nurse: Um, so I was just looking for her. Ok. It's [PHI-Personal] with A
+Patient: K. Yes. Ok.
+Nurse: Um I feel like I talked to her already but I'm trying to find her chart. I'm sorry. One second.
+Patient: Ok. That's
+Nurse: Ok. And this thing doesn't display the phone number that you called from after the first couple
+Patient: Seconds. Oh, ok. That's sorry about that. Yeah, that's ok. I, yeah, you know, I called you the other day and left a message and my, when I hung up, my wife said, well, you didn't give her your phone number so she'll get it off the call. I miss I didn't realize that. Ok, she's a patient of doctor. That's what it is, [PHI-Personal],
+Nurse: Right? And what are you calling from? I'm sorry?
+Patient: Ok. Area code [PHI-Account].
+Nurse: Ok. I'm usually not quite quick enough to grab it. Sometimes. Ok. Ok. But I think I see her, let me just get her chart pulled up. Ok. We have her as [PHI-Personal].
+Patient: Yes. Right. [PHI-Personal].
+Nurse: It must have been another [PHI-Personal]. I was talking to people with the same first name. All right. No big deal. So, and I left a message yesterday or one of us did. Ok. And she is new to CCM. Yeah,
+Patient: She's actually, right now we're still in the rehab facility at [PHI-Geographic].
+Nurse: Oh ok. Um are there plans to go home or what's the? Yes
+Patient: That's why I'm calling. Yes they're gonna release her uh next the third of next month of [PHI-Personal] which is a Thursday I think it is
+Nurse: [PHI-Personal]. Ok sorry bear with me one second I just gotta make sure sure sure. Yeah documentation that we need so I can talk to you. Um are you with her now by chance?
+Patient: Yes I am sitting around here with her
+Nurse: Um because I don't have anything in the record showing that I have permission to speak to you about
+Patient: Her so I just have to her that uh you wanna talk to her then?
+Nurse: Oh please if you don't mind for a sec. Ok. Alright hold on no problem.
+Patient: Oh hello.
+Nurse: Hey Miss [PHI-Personal] this is [PHI-Personal] I'm gonna be your [PHI-Personal] manager care management. I don't know if you had speaker phone or or not if you heard any of that but um just needed to check with you to see if it's ok for me to talk to your husband about your health issues and things uh just because I don't have anything on the record for that.
+Patient: Yes I do please.
+Nurse: Ok and is that just for today or for here out? Forever? Forever? Ok, good deal. What's his first name? Kids, kids? Ok, got you comfortable. Alrighty I appreciate it so um
+Patient: I gotta call and make an appointment when I get out of here with doctor but it has to be on either Tuesday or Thursday.
+Nurse: Ok. Um let me let's get some things going here real quick so that I can so that I have your care management started and then I'm allowed to make an appointment once we get that down. Ok? I'll make myself a note too so I don't forget this is gonna be a follow up from rehab. How long have you been there?
+Patient: Oh my God forever. It seems like I've been in in rehab since last [PHI-Personal] at one place or another. Ok.
+Nurse: All right. Were you hospitalized before that or sometime during that period?
+Patient: Yeah I was a couple of times.
+Nurse: Ok. What were you in the hospital for?
+Patient: Well uh one time I fractured my pelvis and I uh broke my um femur I think it was ok my femur and then when that started to heal up I broke my right ankle.
+Nurse: Oh goodness you got to stop breaking things. Yeah I know. My goodness. Are these all from falls,
+Patient: Um, kind of, you know, like I be doing something and fall or whatever. I was walking out of the store one day and I got, I had a walker and it got away from me and I was trying to catch it and, you know, that kind of thing. Oh,
+Nurse: No. And the ground caught you instead. Good news. Ok. Um, do you, do you wanna use speaker phone? So I can tell you both about the program real quick.
+Patient: Um, hold on a minute. Ok. Yeah, if you, if you can,
+Nurse: I mean, if it's, if it's not a private area and you don't wanna do that, that's ok too. It's just a thought it's up to you however you wanna do it. Well,
+Patient: Right now we're in the room by myself because the other lady is going to dialysis. Oh, so it should be gone a while then. Yeah, she'll be back shortly in about a half an hour or so. Ok.
+Nurse: Ok. Got you. Just let me know when you're all ready.
+Patient: Ok, we're ready.
+Nurse: Oh, ok. So, um, excuse me with this program. Um, oh, actually first let me make sure I got everything else correct on my end before I get into too much stuff here. Um, I'm showing your date of birth as [PHI-Personal]. Is that right? Good. And then I've got your address is 10508 OOD Lane. In [PHI-Geographic]. 33624. Good. Ok. And then I'm showing that you've got, um, United [PHI-Geographic] [PHI-Personal] Advantage for your primary insurance.
+Patient: No, no, no, no, no, we have dropped that and we've gone to [PHI-Personal], traditional [PHI-Personal].
+Nurse: Oh, ok. Let's see. Um, see if I can find that here. Bye. Ok. Uh, it doesn't look like they've changed that in the medical record yet either at [PHI-Geographic]. So, um, what I can do is, and it's just traditional [PHI-Personal]. Do you have your ID number by chance or I can try to run that, try to, um, add that in. I mean, hold on just a question or I was gonna say normally I would have like a, a picture of it or something from the record. But, uh, they, they're still showing United [PHI-Geographic]. Is it one that you had in the past? Yes, you have, I
+Patient: Easy where it changed it. Maybe we have, I, I didn't think we had United [PHI-Geographic] but maybe you still do. Ok.
+Nurse: Uh, here, here's
+Patient: The [PHI-Personal] Health Insurance. What's that?
+Nurse: Uh, um, give me one second. I'm letting it think about it for a minute to see if it shows you eligible. Ok. And it's thinking and thinking, uh, because I'm sure they told you when they, um, signed you up, um, a little while back that it, it, it is a billable service that goes, um, through your [PHI-Personal]. Um, let's see, let me try one more time. I think it's thinking the United [PHI-Geographic] one is inactive.
+Patient: Mm. Excuse
+Nurse: Me? Goodness. Ok, so that verified it and it's showing the United [PHI-Geographic] one is inactive. So um with the traditional [PHI-Personal] then um do you have whatever your ID would ID number would be or your insurance ID?
+Patient: Mhm. [PHI-Account].
+Nurse: I'm sorry, sorry. Hold on. I missed that very beginning. It was a little, I couldn't quite hear you. Go ahead.
+Patient: [PHI-Personal] U [PHI-Account] four GN two JD [PHI-Geographic]
+Nurse: E that's the number three UJ as in jackpot, four, G as in giraffe, N as in Nancy, the number two [PHI-Account] as in jackpot, [PHI-Personal] as in David [PHI-Geographic]. Ok, let me save this one and see if it likes it and no secondary insurance right now. No, that one. Ok. Got you. Got you
+Patient: Right.
+Nurse: Yeah. Ok. It seems to like it sounds good. All right, good. Um So as far as any like bill for this service, I, I really don't have information to know for sure if they would send you a bill or not. Um Generally when you're this time of the year, everybody's kind of donut hole or paid, you know, deductibles are met, that sort of thing. So very few people have a, I've heard of actually getting billed for it. Um If you do, you can let me know and then we can talk options if we need to. Um otherwise the beginning of the year you could go through that, have to meet your deductible thing, possibly. Um, but what we also, what we kind of found is if you don't have a copay at the doctor's office, usually don't have it for this. So we'll just kind of play it by ear and see how this thing goes and then we'll, you know, jump bridges when we get to them if we need to. How about that?
+Patient: That sounds good.
+Nurse: All right. And then, um, are you gonna be having home health services for any reason?
+Patient: Ok. Supposed to send somebody out there when I
+Nurse: Got you? Ok. So the one thing I just wanna let you guys know um, with [PHI-Personal], they will only pay for like one nursing service. They're during the course of the month. So, but if it's from your primary care, so, you know, with care management, we're, we're connected directly with primary care and [PHI-Personal]. So if you have a specialist that orders nursing care for your home that won't affect this if the order comes from primary care from doctor and then we would have to just hold, put the service on hold for that month and then we pick it up again the next um, month after the home health ends. That make sense. Ok? Um, so for right now we're good because obviously you don't have home health right now. You're not even at home just yet. So we're good.
+Patient: Oh, right. Oh, so it changes.
+Nurse: Right. Unless, yeah, unless something changes and this program is very flexible, very fluid. You know, we'll do what we have to do, um, to make sure you get taken care of. Our, our main goal is to try to help keep you out of the hospital as much as possible. Keep, you know, managing your health at home as best you can. Um, and is this the best number to reach you guys normally?
+Patient: Yeah.
+Nurse: Ok. It's [PHI-Account]. All right. Let me put that here. Is there a second number that you'd like me to put down or just a phone?
+Patient: Ok. No, you, you can put my cell phone down and it's [PHI-Account]. Ok. [PHI-Account].
+Nurse: Oh, that's the one I got in there. Sorry. Yes, I found you with that one. Is that um, the number we're talking on now? Is it that one? [PHI-Account]?
+Patient: No.
+Nurse: Ok. What's the number we're talking on? That's the better number
+Patient: We, we want this number that we're talking on now be the primary and then we'll give you a secondary number as soon as I can find her number. That's
+Nurse: No problem. I'm just trying to make sure I, I get it straight. Yeah.
+Patient: Yeah. Yeah, I'm gonna give you her phone number and any time I call her I would just, it's [PHI-Account]. Yeah. [PHI-Account].
+Nurse: Ok I have that one down and then. Ok
+Patient: That's her phone that's her. Alright.
+Nurse: [PHI-Account] is this one that's usually better to call right?
+Patient: For those [PHI-Account]. Yes. Yes that's the better one to call.
+Nurse: Alright I think I got it straight now. All right. Um so basically what we're we do with this program is we kind of check in on you each month. Um, one of us nurses will and usually me, sometimes we help each other out though because we, we get, um, we're fast paced and we're picking up patients like crazy. So sometimes we have to help each other out. So, anyhow, [PHI-Personal],
+Patient: Are you [PHI-Personal]? Are you located out there in [PHI-Geographic]?
+Nurse: I am actually located from home. Oh, I'm not in [PHI-Geographic]. Um, we have a couple nurses that are in the [PHI-Geographic] area and most of us are kind of spread out over the east coast.
+Patient: Ok. I just see here the, the, the letter they sent us or I guess you did because it says here that you gave me your direct phone number. Uh, it's out in, uh, [PHI-Geographic], Oak, Oak Lane. Oh, ok. I think that, yeah, it is
+Nurse: Either doctor's office.
+Patient: Ok. Ok. You can tell, I don't know what I'm talking about.
+Nurse: You're fine, but we'll kind of check in. We'll see how things are going health wise, how you're feeling. Uh, and we can help out with things like, uh, making sure you get your appointments made and get medicines that you need, um, in between your office visits is, is kind of our main thing we're checking in, in between to, um, make sure if you have any questions from your office visits, we can help with that. Uh, get your medicines. Like I said, um, any other kind of health issues or questions that you have, we, we'll do our best to um get answered for you and get you taken care of. Um, but I am gonna send you a letter that's definitely from me with my contact information on it. So, um which you obviously have the number already because you called me today. Um So that letter will also have a list of your Wellness goals and those are things that [PHI-Personal] puts out that they um recommend that you participate in each year. Um Some things are every two years, mostly every, mostly most things are every year and it's things like preventative screenings. Um you know, colonoscopies, mammograms, that kind of stuff, uh any vaccines that you would benefit from. Um and then your office visits who you know, which providers do you need to make sure you get in with during the year at some point. So, um there'll be a list of that in there based on basically just what's left for this year. Um So I just have to kind of review your chart and see who you got left to see and then, uh, we'll check those off best we can and you'll get a new list in January for next year. Um, but other than that, um, normally I try to do, let's see, review your medications with you on this first call. But I know we've been on this call for a little bit. So, uh, let me see how long your list is. Hm.
+Patient: I, I don't know that I have that with me right now.
+Nurse: Ok, that's ok. That's ok. I was just looking to see, uh, actually a lot of this is duplicates. So next time we talk, um, we'll be sure to, um, unless you have something, you know, acutely going on something we need to address, then we'll take care of that. But otherwise we'll go through your medications because I like to have a, a good list to make sure when you do have any issues or questions. Then I have a correct list just because our data comes from the doctor's office and the hospital and kind of different sources. So sometimes there's old stuff that just needs to go away or you may have started something recently. I don't have yet. So, um, well, we'll get that cleaned up next call. Ok. So, other than that, any, any questions?
+Patient: Yes, I have a question for you. Two. Um, she is diabetic insulin. I, I've never done any of this stuff before. How to check it or when you give it or how much or I've never done anything like that. Neither one of us has given in insulin.
+Nurse: No. Ok. Um, yeah, absolutely. Education is a huge part of what we do too. So I can definitely help you with that. Um, I would recommend though, first check with the, just because they're in person. See if the rehab has an educator, uh, either a dietician or diabetes educator that can come by because they can show you face to face. I can describe things over the phone but then sometimes it's hard, you know. Yeah,
+Patient: It's not like face to face. You're right. You're right. Yes. Yeah.
+Nurse: What I would recommend is, is do that first and then afterwards any other questions you have, I'm happy to help with. Um, I just think it'd be more beneficial if they can do that, you know, with you in person. Right. Yes.
+Patient: Yes, I agree. I agree. Ok.
+Nurse: Yeah, because to get it where to give it rotating steps. I mean, there's a lot of things we can go over. But, um, let's, uh, see how they, how that goes and then, um, let me know what questions you have after. Absolutely. Ok. Ok.
+Patient: Ok. Ok. Yes.
+Nurse: All right. Anything else today guys,
+Patient: I don't think so. If we have questions, I got your phone number, you got it, you could run but you can't hide.
+Nurse: Yeah, that's what I'm told to. Like now I tell you
+Patient: When you do call me, I don't you give me me your phone number. I don't know if that was smart or not. I'm just
+Nurse: Do always leave me a message because there are a lot of times that I can't answer the phone, I'm on another call or away. But if you uh make sure you leave a message, I will call, I will call you back if you don't hear back from me about you know end of the day or the next day call again because something would have happened with the message, but we're having a few little glitchy things going on with our voice mail but other than that leave a message and I we will get back to you um as soon as we can.
+Patient: Ok? All right. Thank you.
+Nurse: No problem. You guys have a good day. I hope you're feeling better. Uh huh.
+Patient: Thank you. Alright. Mhm. Bye bye.

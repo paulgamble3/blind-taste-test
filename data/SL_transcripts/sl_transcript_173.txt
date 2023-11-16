@@ -1,0 +1,50 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes, this is [PHI-Personal] calling. How are you? Hey,
+Nurse: I'm doing well, thanks. How are you?
+Patient: Not so good. Not so good. Not so good. We need to find, we need to find a neurologist and not so it's not do or die. But man, I can't operate like this anymore.
+Nurse: What's going on? What kind of symptoms are you
+Patient: Having? Well, I have the shakes. Doctor [PHI-Personal] says the tremors. I'm drooling all over my t shirts wet in the morning when I get up and I, I just, I can't write, I have a hell of a time dialing the phone even. Ok. And they make, we're gonna make an appointment which they did do at. Ok. But not, but not until [PHI-Personal]. Well, I can't wait that long. So I called over there and asked him to try and find something somewhere else. Well, I must have called three times and I still didn't hear nothing. It's over a week.
+Nurse: You called over to where
+Patient: [PHI-Personal] or whatever? Ok. I work at a [PHI-Personal]. Uh,
+Nurse: Hold on, jumping into your, uh huh.
+Patient: You gotta have a sense of humor when you, you do, you, yeah, you just
+Nurse: Have to have a sense of humor in general.
+Patient: Well, I'm starting to do that, believe me. Oh,
+Nurse: Right. I'm, I'm just trying to jump into your, your chart here to see if I can see anything.
+Patient: Ok. Apparently there's a girl over there that takes care of setting up the, the appointments for like, ing her or whatever, but I don't, I don't know, didn't she get the message or did you just figure the hell with it or, or what? But, yeah, so give me one. So I went on the computer and, uh, I found the neurology of [PHI-Geographic]. Mhm. And I find the neurologist out in [PHI-Geographic] and I called up to [PHI-Geographic] mainly because of the name. I don't know, it's neurology of [PHI-Personal], which would seem to me like, you know, that would be a good place to go. But, hey, I don't know, maybe, you know something about these people.
+Nurse: So looking at your chart, go ahead.
+Patient: No, go ahead. I have a phone number and I have a doctor's name and I even went as far as calling there. Well, you have to have a referral. Yes. So now I can't get a referral over there.
+Nurse: Is this for, over at, in [PHI-Personal]?
+Patient: That's what I was thinking. But I, you know, so we did,
+Nurse: Yeah. No, I don't know anything about them but there was a referral. Um, and all of your information was faxed over there on [PHI-Account]. So typically whenever, yes, typically when we have fax or when we send referrals, um, what happens is, you know, their referral department will get it to wherever we send it. So [PHI-Geographic] will receive that referral, they will review your information, they'll review your insurance. Um, just to be sure that it's within network and everything once they get that, um, then, you know, then they can call you to schedule. It does take time sometimes. Um, but what I'll do is I'll call over to [PHI-Personal] just to be sure, um, that they have looked at your referral and I'll just let them know that your symptoms are progressing quickly and we need to get you in ASAP. So I'll call them.
+Patient: They had said that probably the quickest appointment they had was, uh, I think [PHI-Personal], the end of [PHI-Personal], maybe the beginning of July.
+Nurse: So, you've already talked with [PHI-Personal]?
+Patient: Yeah, I called and tried to get an appointment but they said no, you need a referral and I thought, uh, I thought [PHI-Personal] went under. No referral.
+Nurse: Well, some of these specialties you have to, it's just the way it is.
+Patient: Ok because the lady did tell me she said no, you'll need a referral.
+Nurse: Yeah. It, it, because things like that have to be assessed by the, um, everything has to go through family doctor first. Ex, unless it's like orthopedics, orthopedics, you don't have to have a referral. Anything other, any other specialties you do? Because it has to be assessed by the, the family physician first, primary care, um, to be sure that it's not something medication, to be sure. It's not something that the, your physician can, um, monitor and manage himself. In this case, he's not, he doesn't specialize in, you know, Parkinson's or any of these other neurological diseases. So that will, yes, have to be referred out to a specialty provider. So that's why it is that way.
+Patient: Does it sound to you like Parkinson's? It does,
+Nurse: It does because of the drooling. That's what got me. Now here, let me, let me ask you this. So you said you have the drooling, you have the tremors and the difficulty writing is a big one too. Um, you lose kind of that cognitive function. Um, you know, there's simple functions like that. Um, any changes in your walking. Do, are you shuffling your feet? Are you, do you feel stooped over at all
+Patient: Or sometimes stooped over a little bit? Like sometimes the front end wants to go faster than the bottom?
+Nurse: Yeah. Yeah, that happens. You know
+Patient: What I mean? You know, I do,
+Nurse: I do. Do you ever get freezing spells? We call them freezing spells where say you'll be walking and then your feet just stop like they just don't wanna keep going. You haven't had that yet? Ok.
+Patient: Um, and I will tell you this in my lifetime. I did a whole lot of, uh, qua and up spring and I know it's just a television commercial that they're pushing. But no,
+Nurse: It's not. That stuff is, that stuff is serious.
+Patient: Well, I know when I, it was right when it came out back in the [PHI-Personal] and that, and nobody thought it was, you know, it's safe, it's safe, it's safe and I probably should have taken better care.
+Nurse: Yeah. Well, I mean, that just, yeah, that's stuff. It's not safe, it's not safe. Yeah. You know. No, no, I know, I understand that. So, um,
+Patient: Well, we'll, we'll leave the doctors make that diagnosis if we can get in somewhere.
+Nurse: Uh, yeah, I'll, like I said, I'll give them a call now or whenever we're done talking, I'll give them a call and, uh, just to make sure that they have seen the referral that they are working on it, you know, it's always good to just kind of give that little push because,
+Patient: So you think they got my records? They were sent my records.
+Nurse: Yep. Everything was faxed over on the first. Um, ok, they sent everything required. So whenever we send referrals, you know, they have to have your demographic sheet name, um, address insurance policy, all that stuff. And then what we do is we send, um, you know, the doctor will send the reason for it. Um, so he'll do some type of, um, oh, sorry, I'm totally losing my train. Of thought assessment to them, you know, as to why he as to why he's, you know, referring them over. So they sent him your last, um, your last appointment, which was [PHI-Personal], they sent that over. Um, because that's gonna have all of your medications. Um, it'll have your lab work, all of that stuff on there so they can see all that. Um, and I'm trying to see here if he's. Yes. And he said in this report he has in there, you know, essential tremors appears to have essential tremors, only having tremor, only when using muscles has gotten a lot worse. Now, with food dropping of a spoon, we'll get him set up with neurologist for now. So there's that, that's the assessment, that's really all they need is that that assessment from the doctor. So that was all sent over on the first. So I will call them, um, I'll call them just to make sure that they got that referral and just let them know that I want you to be seen as soon as possible because your symptoms are progressing quickly. It seems. Right.
+Patient: Right. It, yesterday and today are just terrible. I, I don't, I don't know why do
+Nurse: You notice if there's, do you notice if it's something, if there's anything that makes it worse? Like,
+Patient: No, I don't. And that's what blows me away, you know? Is it, I think still, well, I'm half decent today. What did I eat yesterday. That would give me, you know, and,
+Nurse: Yeah, eating or even, you know, yes. Or even activity. What kind of activity did you do yesterday? That was different than a different day when you felt good. You know,
+Patient: Yesterday I didn't basically do anything. Went to the grocery store. That was it. Ok.
+Nurse: Ok. So it's not like you were super physical, yes. Physically active yesterday. Doing any kind of strenuous activity. Ok. No. Well yeah um
+Patient: Well if [PHI-Personal] does not come through and say they don't wanna see me or something we gotta go somewhere else.
+Nurse: Yeah we will work on it so let me get in touch with them just to make sure that they got your referral um and I'll see if if there's anything else anything else they need or you know when they plan on getting you scheduled or when they have an availability and we'll just go from there. Ok.
+Patient: Ok sounds
+Nurse: Good. Alright so I'll give them a call now and I'll get back in touch with you when I hear from them. Thank you very much. You're welcome bye bye
+Patient: Bye.

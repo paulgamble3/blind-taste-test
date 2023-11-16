@@ -1,0 +1,53 @@
+Nurse: Hello, this is the nurse, case manager with doctor [PHI-Personal].
+Patient: Uh, this is [PHI-Personal]. You had called and I was at a doctor's [PHI-Personal], so I'm calling back. Oh,
+Nurse: Ok. Um, yeah, I had just called to check and see how you were doing and go over a few things with you. Um, what doctor's [PHI-Personal] were you at? You weren't at ours, correct? Because I don't, I don't see an appointment scheduled.
+Patient: Ok. I went to doctor. He had done a surgery on my scalp and I'm bald up there. I don't have no hair up there. And, uh, I just wanted to, to get, make sure that it was ok and he said everything's ok. But I have a couple of spots that I have to get, uh, cleared up. But that's all. But I'm good.
+Nurse: Oh, good. All right. Um, I'm just pulling you up. Give me two seconds. All right, I got you all up here. Well, I'm glad that doctor's appointment went well and I'm glad those spots are all healed up and that's doing when they're
+Patient: Not healed up. That's what I have to use some cream to heal them up. But he said they're not, he said that, uh, they're not cancerous but they could go into cancer. But so far. But I had this done [PHI-Personal]. So it's, I've had, I had this for a while.
+Nurse: Ok. All right. Well, well, hopefully that cream will clear it up for you. Um, do you have any questions about how to use that cream or anything with that?
+Patient: No, he, I just came from his [PHI-Personal] and he told me how to do it. Perfect.
+Nurse: Ok. Um, let's see. And I was going through your medications here and they look like they're all up to date. Do you need any refills on any of your medications?
+Patient: Uh, let me check. I don't know. I've been getting medication as far as, uh, when I need them, you know, but I don't know if I need any. So they're right here in the drawer now. Just look, hold on. I mean, to put my phone down. Yes, ma'am. Mhm. Hm. Mhm. Mhm. Mhm. Mhm. I have the, I have three that are, I have three, filling to be filled and then I have two, medicines that it, I only have 11 more filling and then that's, uh, ok. And, but I'll give you a call when they're low or? Ok. And that way you don't have to worry about it.
+Nurse: Ok. That sounds good.
+Patient: You too.
+Nurse: Ok. Ok. That sounds any questions on those, um, medications.
+Patient: No, but I was wondering about the, if you asked Doctor [PHI-Personal], um, about what they ask you to call, if I need a flu shot or you a flu shot or a shing shingles shot shot?
+Nurse: Um, I can ask him
+Patient: But she goes,
+Nurse: We're in summer here so he might not, he might recommend holding off. Generally the flu shot's a fall thing.
+Patient: Oh, I had this flu shot.
+Nurse: Ok. And then the pneumonia vaccine. uh, last one I have was you had it in [PHI-Personal], correct?
+Patient: Uh, whatever you're, you know, I don't quite remember that. Ok.
+Nurse: I don't remember. The computer is telling me you had it in [PHI-Personal]. So, um, I think those are generally, like, every 5 to 10 years. So, definitely ask him, but he'll probably recommend holding off until fall with that as well because pneumonia's not normally a summer thing.
+Patient: Mhm. Ok. But I was wondering about my, my sh, um, shingles shing shingles shot because that, I said something to my son and I had shingles in [PHI-Personal] the year in [PHI-Personal]. And he said, mom, usually when you have the shingles you don't have to get the shot again. I said, well, I don't know why Doctor [PHI-Personal] had stated, maybe I should get my shot. But I don't know if he knew that I had the shingles because that was in [PHI-Personal]. And I don't know if I had him as a doctor. Mm.
+Nurse: Probably not.
+Patient: And also if I should get a flu shot, I mean, yeah, uh, the, uh, COVID shot, the second one, I, I got the first one. I didn't get the second one yet.
+Nurse: That is, um, he's following CDC recommendations on that. So, if you're over the age of [PHI-Personal] if you got high risk diagnosis, um, the CDC does recommend it but it's gonna be completely up to you on whether or not you would like to get it or not. If you'd like to wait until fall, to get that as well. If you, if your area has higher um COVID rates, then that plays a role into your, the decision as well. Um, like I said, he's just following the CDC recommendations at that point. Um It is recommended that you wait four months from your last COVID vaccine or from your last COVID positive if you were, if you did just get COVID before you get the second vaccine. So I don't know when you got your last one.
+Patient: Well, uh I think it was in II, I had my pocketbook over there but I had it quite a while when they first started getting the shots. I got one at, at her at, uh, done at the [PHI-Geographic]. And, uh, and, uh, but I haven't got one since, but some people say you should get them and then the next person said, no, don't get them. And I, I'm a little confused if I should get it or if I shouldn't get it. But, uh, I, I, I don't know.
+Nurse: Ok. And you said that's gonna be completely up to you on whether you want to or not? Um, he's recommending based off the CDC guidelines there.
+Patient: Ok. Well, I tell you, I te, oh, excuse me, I wanted to ask you, I had, I think I have an appointment in [PHI-Personal] for Doctor [PHI-Personal]. Uh, but I, uh, I forgot the date. Could you find out when my date is because I didn't make an appointment? They wanted to see me in eight weeks in there, but it didn't. And she said, [PHI-Personal] and I said, I think I have one in [PHI-Personal] but I forgot the date and I, I said when I find out I'll call her back and then I'll make an appointment in, at the doctor's [PHI-Personal].
+Nurse: You, do you have an appointment? You have lab work due on the [PHI-Personal] of [PHI-Personal]. And then, uh, your appointment with Doctor [PHI-Personal] is on the [PHI-Personal] of [PHI-Personal]?
+Patient: Ok. I knew it was, I had something but I forgot what the dates was because I didn't mark it down. So it's [PHI-Personal] and the [PHI-Personal].
+Nurse: Yeah. Um, how's your BP doing with all this back and forth?
+Patient: Oh, I guess. Ok. I don't have any problems.
+Nurse: Ok. No headaches, dizziness, flushing of the face. Trouble with your vision.
+Patient: No, that's it.
+Nurse: That's always good. I always wanna keep an eye on that BP cause BP over 1 40/80. Um or if you're having those signs that tell us that your, your body is saying it's high, it's a real common condition you do. You are on medication to address. So I always wanna make sure that medication is working because that high BP is gonna be putting extra pressure through your veins and your arteries here And we wanna make sure that that's down at a manageable level so that nothing's breaking off and causing strokes, heart attacks or any organ damage just from how much pressure is going through your arteries. So, it sounds like everything is going good there. Should you notice any of those symptoms? Definitely give us a call right away. Um, so we can take a look at your medication and see if there's any, um, changes that have to be made or whatnot. Sometimes it's as simple as changing up your diet a little bit. Ok.
+Patient: Well, I, my diet is, uh, I like sweets. Well, that's not
+Nurse: Necessarily the best thing for you, but I, I fully understand how that goes. They are addictive,
+Patient: But I figured I'm [PHI-Personal] I'll be [PHI-Personal]. So I figured, gosh, by my age, yeah, if that something happens, at least I'm going to enjoy my candy before I go.
+Nurse: Well, I'm not here to tell you not to eat it. I'm just use moderation and make sure you're doing exercises too because that'll help.
+Patient: Well, I, I, my, I'm down here with my son in [PHI-Geographic] and I don't have too much to do, but I do my laundry and I go down the steps and up the steps and down the steps and up the steps. So, and I do that every day. I mean, I wash my laundry every day but I go down and up to, because I go downstairs to eat and things. So I do get some exercise good.
+Nurse: Ok, cause if you're not exercising that can actually raise your BP too, exercising will help bring down that BP and exercising will help with stress levels too. So that'll help bring down that.
+Patient: Well, I got bad knees. I got one knee replacement. I got a bad knee from falling so often and, and it's really hard for me to do exercise.
+Nurse: Yeah. So I, well, and when I say exercise, walking up and down the stairs is exercise.
+Patient: Well, I think it, yeah, I think it's a good exercise and they don't want me to go outside because of my fall because they got their driveway. Is this, uh, like a little hill and they're afraid I might keep on going down down the, the hill, you know. And so they said don't go out without anybody with you. So I said, ok, I'm not arguing with them. Mm. Well, that's
+Nurse: Fine and we definitely don't want you to fall. The other thing that can help is making sure you eat enough protein, enough protein helps with your muscles. So that'll, and that's also gonna help with your healing for your, for those scabs on your scalp.
+Patient: Well, uh, I, I was having bowel problems so they told me to eat raisin brand and raisins and, and all that good, uh, stuff that you're supposed to be eating. So, I have been doing a little bit better on that. Ok,
+Nurse: Good. All right. Well, that sounds good. Do you have any other questions or concerns that I can address for you today?
+Patient: Uh, no, I think that was it. I was just wondering if you had heard from, but you, you had told me where I, I can do or would not do and you're doing a great job. Let me tell you. Oh, well,
+Nurse: Thank you so much. I appreciate that and we're always here if you need any help. Ok. Oh,
+Patient: I, I'll call you if I need your help, hon.
+Nurse: All right. Well, you have a great day. Thank you so much.
+Patient: You bet. And you have a good day too. Bye bye
+Nurse: Bye.

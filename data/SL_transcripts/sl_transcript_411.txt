@@ -1,0 +1,34 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: Hi, my name is [PHI-Personal]. I usually talk to [PHI-Personal] but I don't have to talk to [PHI-Personal] today. Um, uh, a patient of doctor. Ok. Uh, I was wondering if I could get, um, one, another, one of those. It's been a while since I had him. Those. I, I think it's called predone pack where you take four pills the first day, three, the next to, you know, that it's like a steroid type thing for my shoulder. Ok. Let me see. It's been a long time since, well, a long time since I used it for my shoulder. Doctor work gave it to me a couple of years ago for my back. Ok. And my, my shoulder starting to act up again the last two days. It's really been bad and I remember when I had it before, I think that was from doctor. Um, it really helped me a lot.
+Nurse: Ok. What symptom? Let me see. First off is your birth date? [PHI-Personal].
+Patient: It is. Yes.
+Nurse: Ok. And, um, have you fell or anything on your shoulder?
+Patient: I have not
+Nurse: Ok. Which shoulder is it the right or the left?
+Patient: The right?
+Nurse: Ok. Are you able to raise it or above your shoulder height or? No?
+Patient: Uh, yeah, but it hurts a little bit. It, it's not a little bit. Sometimes a lot. It, when I, it hurts, I can feel it. It's the same thing that happened before and I did have x-rays, you know, several years ago on it and there was a, a lot of arthritis and I think a bone spur in there.
+Nurse: Ok. Um She may wanna see you. I can try, um, let's see, she may want you to come uh for a predniSONE pack. Have you tried any like arthritis cream?
+Patient: No. Ok. Because that usually doesn't work.
+Nurse: Ok. What about any heat or ice over the, the shoulder area? Does any of that help?
+Patient: I have not tried the ice. I use that on my back frequently.
+Nurse: Ok. Yeah, sometimes if you combine the two or the lidocaine patches, those will help too. Um There's several different creams on the market. I can see if she will. What do you know what caused it to flare up this time? Did you lift something or was, you know, doing anything different?
+Patient: I'm just having a complete flare up of the arthritis in my body cause like um my big toe joint, my ankle hurts and they're kind of reddish. It's, it's, you know, my name, you have a history of gout. No, it's not gout.
+Nurse: Ok. Because your big toe usually is, is a sign of gout.
+Patient: Uh, so it's, it, the toe, doesn't, it's the joint, the big toe joint? Yeah. Yeah. All right. So, I just thought maybe I'd call and see, since I've had it before, whether that, um, you know, how
+Nurse: Many days do they usually do the predniSONE or is it like a, or is it like the med dose pack?
+Patient: It's a pack and I think, is it like five days maybe? And the last day you just take one, you know, it gradually that,
+Nurse: Yeah, the me, I think that's the med dose pack. Um I'll see what she says in the meantime, try some heat or ice rotating it on the shoulder. Um, and then we'll see what she recommends if she wants an appointment. Um I'll call you back or let the office call you to get that scheduled and um, we'll see what she says. Ok.
+Patient: Ok. Do you see it on my record several years ago that I had that
+Nurse: Uh the med dose pack. Let me look in your history. Yeah. Yes, I do. I see that you had it last year and it was the Medrol who prescribed
+Patient: It? It was, is that like predniSONE? It's
+Nurse: Similar, it's like a um, it's a Cortisteroid uh like predniSONE. It's not as strong as predniSONE, but if that worked for you in the, in the past for flare ups, I'll tell her that and, um, see what she says.
+Patient: Yeah. Well, it was the stronger one many years ago that they gave me for my shoulder and that worked super good. Like, within a, you know, half a day I was feeling better.
+Nurse: Yeah. The predniSONE taper they gave you, let's see. Oh, that was doctor, uh, two tabs twice for two days. One tabs twice a day for two days and then one tablet daily for two days.
+Patient: Yeah, whatever. It was like, it's been a while. But, um, that was specifically for my shoulder and it, it really worked well. And so I haven't really had any problem with my shoulder until right now.
+Nurse: Ok. And they had x-rayed it then too. And it showed some arthritis,
+Patient: Arthritis and a bone spur, I think. Yeah.
+Nurse: Ok. Let me see what she says. And we'll go from there now, if this predniSONE doesn't help you, um, sometimes the providers or you can go to op, sometimes they'll do cortisone injections which sometimes are helpful for your shoulders.
+Patient: Oh, ok. Yeah, I don't like injections but
+Nurse: If it gets bad enough though, you just keep that in mind. Ok. Try some of that heat or ice. Just don't leave it on there too long because sometimes it can irritate the skin over 15 or 20 minutes and then, um, that with this may help and I'll see what she says and we'll give you a call back. Ok.
+Patient: Thank you very much. I appreciate it. You're welcome. Bye bye bye.

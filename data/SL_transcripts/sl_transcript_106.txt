@@ -1,0 +1,27 @@
+Nurse: Care management. This is [PHI-Personal]. How may I help you?
+Patient: Hey, [PHI-Personal]. Hey [PHI-Personal], but I give you a call and let you know what's going on.
+Nurse: Yeah, what's going on? Let me go to your chart
+Patient: And that? Oh, ok. Where are you in the hospital? Ok. [PHI-Geographic]. When did you get there? Um couple days ago, I think. Ok, it wasn't today. It wasn't yesterday. Probably the day before
+Nurse: What happened.
+Patient: Well, I've got really severe abdominal pain and then my um stool honey. Could you hand me that? So I put it on my stomach. Thanks. What's the hospital? [PHI-Geographic]? Um Yeah.
+Nurse: OK. You have severe abdominal pain.
+Patient: Yeah. And that's what got me in here. My stool at times has been black at that time. Has not fun. Ok. So they are going to have to give me a blood transfusion because my, my blood count is like 6.2. I think you said 6.86 0.8. So then I have to have a picc line first because I don't have pain. They can get through 10 40
+Nurse: [PHI-Personal]. You're gonna have a blood infusion. You said
+Patient: Nine in my stomach. Mainly on the right hand side. These nurses are so demanding, they always wanna know my name. They probably wanna report me to what you report to. I don't know. I, there you go. Don't have no money. Um, so that's where I'm at now. Ok. It
+Nurse: Looks like you got the alert too. Um, so you're gonna have a blood infusion. Um. Yeah. Ok. All right. Well, it's best that you get there to get the care you need right in treatment. Well, you got,
+Patient: You've got to be proud that I even came over. I am proud that, you know how I am. I was that bad that I had to do it. Um, did you hear that [PHI-Personal] died at? I heard that. Yeah. Oh, I feel so bad. I liked her so much. We, we've known each other for about 50 years or more. She was such a good nurse. Mhm. She ran the place and now they're probably looking for somebody that could, which unlock. I don't think she can be replaced and anybody match her. But so that's what's going on right now. And um, it's just mainly, um, am I bleeding internally or I gotta have another CT scan? I forgot to tell you that much.
+Nurse: Yeah, we're gonna have another CT scan.
+Patient: Yeah. Yeah. So put that in your little computer because we don't have that info yet.
+Nurse: Yeah, I know she was alerted that you were in the
+Patient: Hospital. The nurse or, um, my doctor's office. Yeah. But I'll let
+Nurse: Her know, but definitely call me when you get out so we can schedule you a follow up appointment. Um, ok. Ok.
+Patient: Oh, don't even be thinking about follow up appointments when you're lucky. I even came.
+Nurse: Well, I'm glad you came
+Patient: Because right now
+Nurse: I know, I'm glad, well, you don't wanna be in, you know, not being able to do anything, you know, you gotta you gotta get better it's better that you're there to get assessment and treatment and
+Patient: I I know so that's where I'm at. All
+Nurse: Right well um definitely talk to you later. Alright call me when you get home sometime
+Patient: Whenever your doctor and I said hi just I put in your little message
+Nurse: I will.
+Patient: Ok? K alright talk to you later. Ok? Alright bye
+Nurse: Bye.

@@ -1,0 +1,19 @@
+Nurse: Hello, this
+Patient: Is [PHI-Personal]. Hi, [PHI-Personal], this is [PHI-Personal]. You just called about two minutes ago?
+Nurse: Yes. Hi [PHI-Personal], how are you?
+Patient: Good. How are you? Pretty good. I mean pretty good. Ok, that's
+Nurse: Good. I'm alright. I'm alright.
+Patient: Ok, good.
+Nurse: So the reason for my call today is it looks like you're eligible for doctor [PHI-Personal] Care management program. Now what that is, is a nurse that'll be able to give you a call around once a month to see how you're doing. She'll answer any questions, help refill prescriptions, she'll address any issues you might be having and she could also help with appointments and lab work, things like that. The program, it helps keep the doctors updated and it avoids emergency room visits.
+Patient: Ok, I don't really think I need that, but you know, what do you think?
+Nurse: Well, the doctors are encouraging the program, I think it doesn't hurt to
+Patient: Try. Ok, we'll try it.
+Nurse: Well, there's a couple other things I have to tell you and so all the calls that the nurse makes, they are documented and sent to the doctor for review. Ok. And they are treated as a billable service to Medicare. Medicare Advantage plans and secondary insurance carriers.
+Patient: So, all right, let's, let's, let's forget about it. I'm going to see her in a month. Let me talk to her and see what's, what's going on.
+Nurse: Ok. Did you? I could check and see if you had a copay for the phone call. If
+Patient: No, it doesn't matter, I'll talk to her and we'll, we'll, if I need it, I'll call you back.
+Nurse: Ok. Ok. Do you mind if I send a letter out? No, not at
+Patient: All. Not at all.
+Nurse: Ok. And are you at the 60 route route? Yes. Yes. Yes. Ok. Well, I'll send a letter out. Give us a call if you need anything or you decide. Ok, thank
+Patient: You very much.
+Nurse: You're welcome. Bye bye. All right. Bye bye.

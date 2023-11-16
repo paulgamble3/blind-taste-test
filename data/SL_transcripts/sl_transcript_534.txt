@@ -1,0 +1,32 @@
+Nurse: Hey,
+Patient: Hi, I'm returning a call to [PHI-Personal] de.
+Nurse: Um, this is [PHI-Personal]. I had just called you. Is this MS, uh, [PHI-Personal]? Yes. Yeah, I was just calling you. I'm a, uh, care management nurse. I was calling to, uh, see how you were doing today.
+Patient: Oh, ok. It sounded like you said your name was [PHI-Personal].
+Nurse: Oh, I'm sorry, it's [PHI-Personal].
+Patient: Ok. Um, I'm fine except I had asked to have a refill on the prescription I had on the statin. However.
+Nurse: Ok, let's see.
+Patient: And the drugstore said that the doctor refused to refill
+Nurse: It. And what pharmacy do you use?
+Patient: CV? Si like coming room?
+Nurse: Ok. I will, uh, send in, um, a refill to the office letting them know that you need another prescription for it. A new, you need a refill for it. Ok. And, um, other than that, how was your Thanksgiving?
+Patient: It was ok. I guess, you know. Well, I don't know if you do know I've been back since my surgery and they're gonna have to redo something because I have vaginal re prolapsed now.
+Nurse: Wow. No, ma'am. I didn't know that. Yeah. So, when do you have to go have surgery.
+Patient: Well, I don't know. I go back, uh, she didn't wanna plan in anything yet because all of the stitches are healed up. I go back to Doctor [PHI-Personal] on [PHI-Personal].
+Nurse: Ok. Ok. Well, I pray everything go well with that.
+Patient: Me too. Me too.
+Nurse: Yeah, I, I really pray everything go well with that. Um, you, you're welcome. How's your BP been? That's good. Do you check it? Um, at home?
+Patient: Sometimes? Not lately, but it's been good. It was, it was ok. I was just too doctor on the uh, a week ago and it was fine
+Nurse: There. Ok. So what do it usually run? Like one twenties over seventies?
+Patient: Yes, it was one, it was 1 30/80 that day.
+Nurse: Ok. And when you check it at home, what, what do it usually run?
+Patient: Usually around 1 20?
+Nurse: Over what? [PHI-Account]? Ok. Yeah, that's not bad. That's not bad. So how often would you say you would monitor it? Like maybe once a week
+Patient: Baby?
+Nurse: Ok. How's your diet been?
+Patient: Oh, that's fine. I have a good diet.
+Nurse: Good, good. And you've been controlling your sodium and your um the fat intake because I see you have cholesterol as well.
+Patient: Yeah, it's
+Nurse: Good. Ok. And when you do check your BP at home, um, have anyone ever explained to you the correct way to check it? Like to make sure you're sitting down with your feet flat on the floor, your back against the chair and that you do it on your bare arm. Yes. Ok. And make sure that your arm is supported and that your legs are not crossed. Yes. Ok. Ok. Well, I will get that refill in for you. Um Let me know if you need anything else. Ok.
+Patient: Ok. Thank
+Nurse: You. You're welcome. Have a good day.
+Patient: You too. Bye bye bye.

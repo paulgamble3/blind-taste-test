@@ -1,0 +1,19 @@
+Nurse: This is [PHI-Personal] nurse care manager.
+Patient: Hi, honey, I just talked to you a little bit. Yeah. Ok. Uh, do I have to have, uh, uh, paperwork to go get the blood work?
+Nurse: Um, let me see here if it's in the system. Yeah, I, I have, I
+Patient: Have appointment [PHI-Account]. I was supposed to take the blood work in the beginning of October. I have written here and I didn't, I didn't know if I had to have a paper for that or,
+Nurse: Um, it looks
+Patient: Like I had it before when I went to the hospital and they, I had a paper and they, when they took the blood work, I don't think they'll do it without any, you know, paper from the doctor.
+Nurse: Yeah, let me the orders might already be in the system. Uh huh. So it looks like you had your last appointment on the 26. See if they ordered anything, then it looks like they already have the orders in the system. So, as long as you go to like a Pen [PHI-Geographic] facility like Pen [PHI-Geographic],
+Patient: Uh, JC [PHI-Personal],
+Nurse: Um, let me
+Patient: See or tell me where to go. I'm in [PHI-Geographic]. You know, I can't remember before. I think that I, I had a, a letter II, I had a paper.
+Nurse: Yeah. So it's Penn [PHI-Geographic]. [PHI-Geographic] JC [PHI-Personal].
+Patient: Yeah. Ok. They already have the paperwork.
+Nurse: Yeah. As long as it's affiliated with Penn [PHI-Geographic] Hospital system, they should already have the orders in the system.
+Patient: Ok. So I just go in and give them my name and they'll take the blood work. Right? Yes. Thank you.
+Nurse: You are very welcome. Do you have any other
+Patient: Questions? No, that was the only one and I didn't, it didn't hit my brain. Do you up?
+Nurse: No, that's ok. Not a problem at
+Patient: All. Ok. Next time I go to town, I'll do it. Thank you.
+Nurse: You're welcome. You take care. Bye bye bye.

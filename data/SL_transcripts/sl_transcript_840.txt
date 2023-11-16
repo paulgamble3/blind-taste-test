@@ -1,0 +1,53 @@
+Nurse: Speaking. How can I help you?
+Patient: Yes, hi. I had a [PHI-Personal] that called me.
+Nurse: She just called you just now, ma'am. Yes, ma'am. Ok. Hold on one second. Thank
+Patient: You.
+Nurse: Oh, ma'am. Yeah. Ok. Did she say what she do? You, did she, was she returning your call or?
+Patient: Well, I asked for a call this morning. Yeah.
+Nurse: Has he hurt? Who's your birthday, ma'am? [PHI-Personal]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]. And you were calling in today? Because let's see,
+Patient: I was in the, er, Saturday at night. Uh,
+Nurse: So earlier you called in just to, um, for your appointment to schedule an appointment?
+Patient: Well, yeah, and then they sch schedule you one with him for tomorrow and then, and then said that I should talk to one of the nurses. I don't because I said, I guess it's because I said I felt fatigue when they were asking me about the symptoms.
+Nurse: So when they saw you in the emergency room, did they do a COVID test on you? No. No. WW. And what did you go to the, er, for,
+Patient: Because I was having trouble with my legs and circulation in my legs and I couldn't do anything with them and they were pretty rude to me at the hospital.
+Nurse: Ok. So you were having circulation issues and you, so you couldn't walk or
+Patient: I couldn't walk? I couldn't do anything. I couldn't lay down, couldn't do nothing.
+Nurse: Why did they say you had COVID? You were ex, were you exposed to COVID?
+Patient: No, I mean, I have no problems taking another test but no, I was not.
+Nurse: I'm just trying to, I'm, I'm just confused because the call that they have you is saying that COVID symptoms slash exposure was the reason for your call earlier.
+Patient: No, the only thing that I told her I had was fatigue.
+Nurse: So no congestion, no cough. No, no, no, a
+Patient: Little bit of, well, a little bit of congestion, but that's normal for me.
+Nurse: You uh uh when you say normal which you do you have sinus issues or
+Patient: No, I have COPD and I'm on the nev was
+Nurse: Ok. So, but you do have your appointment. Let me see and make sure you have this appointment scheduled. Yeah, I have an appointment scheduled tomorrow at [PHI-Personal] 15.
+Patient: I was just told I was getting called back by a nurse. That's all I know.
+Nurse: Mhm. Ok. I mean, I'm gonna send this to the, I'm not understanding what this was in reference to. I'll send this to the provider to let him know that you, you, you know, you're still having fatigue, but you're scheduled tomorrow for an appointment with him. At [PHI-Personal] 15.
+Patient: Yeah. I mean, if they need to call me, that's fine. I was just hopeful that they did
+Nurse: And you're not, and that's the only issue that you're having right now. How's your legs?
+Patient: My legs are a lot better today, but I'm very, very, very, very, very tired.
+Nurse: Did they give you any medicine at the? Er,
+Patient: No, I ended up in a, because of how they, because they, because of how they treated me
+Nurse: And that's the only symptom you're having fatigue, you're not, uh, having any other issues, such as dizziness, chest pain. Um, well, I'm,
+Patient: I'm married. That's an issue.
+Nurse: I'm sorry,
+Patient: I said, I, I said I'm married. That's an
+Nurse: Issue. Oh, you're married. Yes. Oh, well, I'm sorry, I can't help you with that one. that would be a good thing though to me. Um,
+Patient: You guys need no reason there. [PHI-Personal] in the,
+Nurse: Ok. Um, but let's see. So, no, no shortness of breath. Um, no, just [PHI-Personal], you just feel tired. Yeah, I
+Patient: Just really, and I'm not eating right at
+Nurse: All. You're not eating no appetite, no appetite. I mean, I can, and II, I can put in a, a, um, a order for you to have a COVID test just to make sure because fatigue is, uh, and no appetite is a symptom that you could and you're not having any nausea or vomiting, anything like that. Right? No, any headaches
+Patient: Again. I'm married.
+Nurse: Mhm. So, is, is your marriage causing you
+Patient: Headaches? Yes, every day for the past eight years.
+Nurse: Ok. But, so, uh, that's, that's another
+Patient: Thing. I mean, the headache, the headache is minimal. It's not really what I'm concerned with, but I get, um, dizzy spells and I've been having those and he's got given me a patch for that and those seem to, you know, subside, I still get them once in a while. But other than that, there are no other symptoms, just the dizziness.
+Nurse: Ok. On a scale of 1 to 10 with 10 being the worst. How would you rate the headache?
+Patient: No, [PHI-Personal]
+Nurse: [PHI-Personal]. And this was, this has been an ongoing issue though.
+Patient: Yeah. No, he treated me for that already.
+Nurse: Ok? OK. So this is I'm gonna do, I'm gonna cause you already have your appointment scheduled tomorrow, but I'm still gonna, um go ahead and put in the, the test just to get you tested for COVID just to be on the safe side. Um And so someone from the, the COVID community testing site will contact you, um, to tell you, um, when to come get tested. Um, when did you start feeling fatigue? Did this just start?
+Patient: Yeah, a couple of days ago, a couple of days
+Nurse: Ago. Yeah, about two, so about 2 to 3 days ago. Yeah. OK. So, yeah, I'm gonna put that in uh in uh the order for your COVID test and you already have your appointment scheduled tomorrow, which is a virtual visit. So make sure you just uh make it to the uh, appointment for your, your doctor on tomorrow. Um, and just, um, and they're gonna call you to have you come in for your COVID test. Ok. Um, if you should, if you should experience, I know you said you had a bad, uh experiencing the ed but you know, if you should experience any uh chest pain, any shortness of breath, uh, any severe headache, um, a fever over 103. You, you should go back to the emergency room. All right. Ok. All right. And I hope you feel better. Thank you. You're welcome. Bye bye.

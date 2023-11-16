@@ -1,0 +1,12 @@
+Nurse: Management. This is Nicole. Can I help you?
+Patient: Hey, Nicole, I'm sorry to bother you. It's probably in the middle of lunch. But, um, so I called the pharmacy and, um, did not send an antibiotic. I called, um, and they, you know, somebody said she was gonna message somebody. Um, my guess is
+Nurse: I don't see anything called in, um, from dermatology. So they're gonna be the ones who will have to call it in.
+Patient: They have to call it in. Yeah.
+Nurse: Ok.
+Patient: Because the only thing is I don't think that, you know, they're probably not gonna get the message until, I don't know. I imagine that she's gonna, that somebody's gonna write a message in epic by the time it gets done it'll be like tomorrow. Um, I'm guessing unless there's a way to do it fast or so I was just wondering, ok.
+Nurse: Um, if they
+Patient: Told you, I mean, I guess I could call my own in if it's just that, I mean, or couldn't doctor call it in or? No,
+Nurse: That, like, over the counter. So I don't think anyone's gonna call it in. Oh, really? Yeah, that's over the counter.
+Patient: Oh, I didn't know that? Ok. Ok. I thought it was, I thought I got it as a prescription. Um, maybe not. Ok, maybe that was something else. All right, thanks.
+Nurse: Bye
+Patient: Bye.

@@ -1,0 +1,120 @@
+Nurse: Hi. Is this [PHI-Personal]? No, this is actually [PHI-Personal] but that, that's cat. That's, uh, [PHI-Personal] wife. I recognize the phone number he's called a couple of times today I think is trying to reach him. Would you mind if I try to transfer you over to her? Is that why you're calling back? Oh, well, I am. But if you're trying to get a hold of him, uh, why don't I walk the phone over to him right now? So you can talk with him and then, uh, we can move on over to [PHI-Personal]. Will, will that work for you? Uh, no, [PHI-Personal], who's trying to call him? Yeah. All right. I'm just gonna put you on hold for one minute. Ok. And see if she's available. Sure, thanks. Ok. Right. Bye. Mhm. Hello. Hello. Hi. All right. Let me try to transfer you over to her line. Ok. Ok.
+Patient: Mm. Hello? Can you? Yeah. Is, is this [PHI-Personal]?
+Nurse: No, this is still [PHI-Personal]. Is it, am I talking with [PHI-Personal]? Now? It's kind of difficult. You fell on this
+Patient: Side. You are. Yeah, give me with [PHI-Personal].
+Nurse: Yeah, I, I, uh, let me get you over to, uh, uh, my husband right now. Just
+Patient: One. Ok, thank you. Uh huh.
+Nurse: Ok. You stay a friend. Name is, he's a [PHI-Personal]. Ok. Uh, yes. Uh, good afternoon [PHI-Personal]. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. How are you today?
+Nurse: I'm better. Thank you for asking.
+Patient: Good. I'm glad to hear that. So give me one moment here. I'm trying to pull your chart all back up real quick. Um, looks like yesterday you had, um some pulse elevation. Um It around 10 51. Well, looks like 10 29 and then 10 51. Your pulse was in the one thirties. So we had reached out regarding that. Um We,
+Nurse: We worked that out. That was what happened when I took the information from the uh BP machine and I had talked to one of the other gals. Uh uh you could speak, there's like two other ladies, you
+Patient: Know what you spoke with [PHI-Personal] already today. Mhm. Oh
+Nurse: Yeah. No, it wasn't today that uh we, we discovered it was a couple days ago. Um
+Patient: You did speak with [PHI-Personal] though today already regarding your um your readings.
+Nurse: Not today, ma'am. Ok. Not today. You may have talked to [PHI-Personal].
+Patient: She, he left a mess or she left a message, my apologies. No, she left a message for you as well. So I left one yesterday and then [PHI-Personal] left one today just so you know, so you don't have to call [PHI-Personal] back. We can have a conversation, just us. Yeah, absolutely.
+Nurse: What happened was, um, she indicated to me that the BP pill is not reliable. As I remember it was like 1 43. Um, in reality, I haven't had anything over 100 since I started taking the checks. But I sure understand your concern. I would.
+Patient: Yeah, absolutely. But my concern as well though is I, I noticed that your BP, um, pulse was 1 37 but your pulse on your oximeter machine was also in the one thirties.
+Nurse: No, ma'am. No. The,
+Patient: The reading that I show here was I on the second it shows 96% oxygen level on your oximeter and then uh 100 and 33 pulse and then on your BP cuff, it showed 95/67 and a pulse of 1 37. But as long as you're doing fine then that's what matters.
+Nurse: Look at, you're probably really close to the machine I'm going in right now. Yeah, that's way off.
+Patient: Yeah, you did another reading at 8 51 today and it was only 84 which is excellent. But for some reason, your pulse didn't come through with your oximeter. When you did your oxygen level. I have no idea why a pulse wouldn't have came through with that.
+Nurse: Oh, you mean with my BP?
+Patient: No, what your BP pulse came through? But the one when you suck the um device on your finger to check your oxygen level. That pulse didn't come through. I don't know why it wouldn't have. That's weird. Oh, you know what my apologies.
+Nurse: No, no, no, no. Please. Please don't apologize. Well,
+Patient: I have to because I was wrong. It's, I see on s note here she, um, she actually deleted it as an error reading because it was so low and the one that you took two minutes prior was 84 that's why I don't
+Nurse: See it. Yeah, I'm actually on the machine right now and it's gonna send something pretty quick and I've been out working so it may be a little elevated but I'm pretty regularly under 100. Mhm. Ok. Oh, I forgot to hit the little button on top. Ok. Hold,
+Patient: Yeah. So just compare if we see that you're, um, you're checking with both devices and we see that one seems more accurate than the other than like [PHI-Personal] did. We're gonna get rid of the other one.
+Nurse: Yeah. Yeah. Yeah, it will be. Yeah. Ok. So, I don't know why, why this is not responding. But, uh, anyway, this morning, uh, it was [PHI-Account].
+Patient: Mhm. Yep. I see it here. [PHI-Account]% excellent. Um, your weight though. Let me, let me talk to you a little bit about it if you don't mind. Uh, you actually just got signed up and got set up for the program. So let's just discuss a few things while we're on the phone if you don't mind. Um I don't mind. Great. So let's talk about your weight and how you weigh yourself. So it is recommended and then I'll tell you what's recommended. Then you tell me what you actually do. So it's recommended that you get up first thing in the morning, go to the restroom. Um, and then step on the scale and you know, the lightest clothing that you wear, you know, and, and wear similar clothing daily when you step on. So maybe your boxers or, or whatever, it's your choice. What? But make sure it's like similar that way. When we get your weights daily, you should weigh close to the same if you're not retaining fluid. Um, make sure that this is done before you put and, you know, anything in your pockets before you eat or drink anything, you know, stuff like that, that way it's an accurate weight. Is that what you've been doing for us?
+Nurse: I hadn't to start out with, I mean, Wednesday, actually, I had my clothes on and I get a [PHI-Account]
+Patient: Something. You did? You did? So that's why I was like, that's a big difference.
+Nurse: Yeah. Yeah. And it was also after I'd had breakfast.
+Patient: Yeah. And I got you, I've,
+Nurse: I've had kind of a nasal situation here. I've been taking Dayquil and Nyquil. So I, I'm in recovery mode right now and, uh, thank you for pointing that out because Yeah, I'll, I'll just go with like underwear. Uh, from now on now the 1 50 is accurate. That's exactly what I weighed at 8 [PHI-Personal] this morning.
+Patient: Ok. And that was after waking up and eliminating, and stepping on in your underwear before eating or drinking. Correct.
+Nurse: Yeah, I don't remember if I was eliminating or not. Probably not. No. So then we'll
+Patient: Just, we'll just call it a wash and we'll, we'll start with tomorrow's reading with it, you know, doing the proper steps. Um, that way, you know, I mean, your, your normal weight looks to be 1 56 but at the same time when you go into the office you're already fully clothed, you've already most likely eaten and drank for the day. You know. So their weights aren't actually your dry weight.
+Nurse: No. Right. That's correct. Mhm.
+Patient: Mhm. So, we'll, we'll wait and see what it actually is based upon tomorrow's reading and then we'll keep an eye on it to make sure that you're not gaining weight to, you know, make sure you're not going into congestive heart failure.
+Nurse: No. No, no, I, I don't want that either.
+Patient: No, not at all
+Nurse: Caring and, yeah, absolutely through all that. And,
+Patient: Uh, I have a few more things I want to talk to you about. If you have time. I
+Nurse: Do. Of course I have time.
+Patient: Good. Good. So, can you tell me what time of the day do you take your BP medication,
+Nurse: Uh, in the morning.
+Patient: Ok. So what is recommended? Go ahead, I'm sorry.
+Nurse: Uh, no, I'm just telling you that. Um, uh, I'm not sure which is which, but, uh, I take, uh, actually I take 11 pills in the morning and I take five pills at night. Um, ok. Uh, Entresto, I take both morning and night and then, um, Metformin, uh, morning and night. Uh, there's, uh, another one, there's a couple more. But anyway, which one is the BP?
+Patient: So when I'm looking at your chart, if your chart is up to date, I see metoprolol here, that would be a BP medication that you take once daily,
+Nurse: Once a day in the morning.
+Patient: Ok, good. So what, what's recommended then is once you take your BP medication, it's recommended that you wait 60 to 90 minutes before you check your BP for us. And what that does is it gives time for your medication to work and it shows us how well it's working for you when you wait that time period.
+Nurse: Could I do it an hour to an hour and a half and then take my readings? Ok. Yeah, I will. I, I'm writing that down. My memory is not as good as it used to be.
+Patient: That's ok. I write things down too. It helps me. So, uh, for your oxygen level, uh, make sure you're taking a couple of nice deep breaths prior to doing that, make sure your hands are warm because if, if your hands are not warm, that can affect it as well.
+Nurse: Help me out. I do not know the oxygen level. Am I getting that? When I put my, when do I you
+Patient: When you're putting your finger in that little device? When you're putting that device on your finger, that's your pulse ox that gives you the oxygen level in your blood.
+Nurse: Oh so the pulse is the oxygen level. Yeah,
+Patient: The pulse oximeter gives you not the pulse itself. Um the pulse oximeter will give you two different readings. It's gonna give you the oxygen level. That's the one that's got the little percentage sign by it. That's the percentage of oxygen in your blood. Yes and then the next number over that's your pulse. Um so let
+Nurse: Me see your numbers on this device ma'am. Uh huh and there is it's uh there was no a [PHI-Account] and then it said [PHI-Account] down below.
+Patient: Yeah, so the [PHI-Account] was the percentage of oxygen in your blood. The [PHI-Account] was your pulse which you said was inaccurate. If you're sitting still and your pulse is [PHI-Account] you're gonna feel that you're gonna, you know you're gonna feel that your heart's racing. If it's [PHI-Account].
+Nurse: No, ma'am it it's not racing
+Patient: Right? So I um
+Nurse: No I believe you
+Patient: I know you would know that.
+Nurse: Yeah. Yeah. Ok. But the, the, the error has been happening on this other machine. Please stay with me here. I'm just gonna do it again because uh I don't want to be doing this the wrong way. OK. So I have to hit the little button on top.
+Patient: Just remember always make sure your fingers are warm before you stick them in that machine because it won't pick up as well. Plus that pulse oximeter is one of our devices that has to be fairly close to the hub for it to pick up. You have to
+Nurse: Barely close to the
+Patient: What to the little hub that's plugged into your wall. If you're not close enough to that, then it won't transmit the reading, it won't pick it up and transmit
+Nurse: It. Oh, I didn't know that either. Yeah,
+Patient: That's the only, you're welcome. That's the only device out of those three devices that you have that you have to be fairly close. Now, the other ones you have to be within a certain distance, but the, that particular device you have to be fairly close, which, I mean, you're doing a great job though because it picked up, um, today's reading, it picked up yesterday's reading, it picked up the one on the 31st and it, it didn't pick up any others. So if you've done others, maybe you were too far away.
+Nurse: Ok. Wow, that was very helpful. Now, I'm because I'm so bad with names. Please. Let me know your name again.
+Patient: It's [PHI-Personal].
+Nurse: [PHI-Personal]. Ok, [PHI-Personal]. All right. Now, there's like, I think two other ladies that I've talked to now and your position is a, what?
+Patient: I'm a remote monitoring triage [PHI-Personal]. So, if you do these readings and you're out of range, um, monitoring triage [PHI-Personal]. Yeah. So there, right now there's myself and [PHI-Personal], we're the only two remote monitoring nurses. The other ones that you're gonna talk to, um, they're care manager nurses. They're what kind? Care manager nurses?
+Nurse: Oh, yeah. Yeah. Ok. And
+Patient: Which I'm looking, [PHI-Personal], it looks like [PHI-Personal] is your care manager [PHI-Personal]
+Nurse: And there was one other two. you, it
+Patient: [PHI-Personal], what [PHI-Personal] does is she is, um, she's kind of a float [PHI-Personal] so she helps out on the different panels when needed. Ok,
+Nurse: [PHI-Personal], thank you so much. You're welcome.
+Patient: So I don't see that new reading yet here. Just so, you know, so I'm wondering if maybe you're too far away from that hub.
+Nurse: Ok. Ca can we do that again then? Ok. Yeah. Yeah, absolutely. All right. So let me, I do, I punch the button and put my finger in or put my
+Patient: Finger, you should be able to just put your finger in and it should, it uh, should start to pick it up? Oh,
+Nurse: Ok. I'll do that.
+Patient: Yeah. Try that and see if it starts to work because mine did. I have one of those as well and I was messing with it trying to figure something out and I thought I had to push a button but I didn't, all I had to do was put my finger in it and it started beeping and, and do my reading.
+Nurse: Ok, I'm waiting. It, it's not, it's, uh, got some writing across there but it's not changed over and said something.
+Patient: Ok. So then if it doesn't within like a second or so, then go ahead and just push the button and see if that does the trick. Ok,
+Nurse: I'm gonna lay the phone down. Ok. Ok. Now it's blinking. Ok.
+Patient: Right. What's blinking when you say it's blinking,
+Nurse: Uh, there's a little [PHI-Personal] dot To the right. It's blinking and I'm very close to the antenna. Oh, here it goes. I've got, uh, two readings a [PHI-Account] and a, 130.
+Patient: Ok. [PHI-Account]. See you, that would be your pulse again. And it, so it's reading that your pulse is 100 and 30. Really? That's what is reading that I, I do doesn't mean that it's accurate.
+Nurse: I don't think it is. My wife, when we had this problem initially, my wife, uh, got, uh, and was taking it manually and she counted for 15 seconds and it came out to be 92 and my readings up until today has been, uh, [PHI-Personal] zero on Tuesday, 67 on Wednesday and 73 today. This is [PHI-Personal]. Right.
+Patient: Yeah, today's [PHI-Personal], but I mean, your heart just so, you know, your heart rate will change throughout, you know, it constantly can change depending on what you're doing. Um, but yeah, just if you get a high reading, let me just ask you one thing if you get a reading that's over 100. Ok, because your resting heart rate should be somewhere between 60 to 100. If you notice a reading that is over 100 on one of those devices. Have your wife do the manual reading for you, you know, counting the 15 seconds, how many times your heart beats and then multiplying that times 44. And yep, and then, um, call [PHI-Personal] and let [PHI-Personal] know that, you know your device is reading incorrectly and this is the correct reading. Ok. That way
+Nurse: I would. No. Is there a number now that what's the best number to leave a message for [PHI-Personal]?
+Patient: Let me get that for you.
+Nurse: Ok,
+Patient: One second here. Ok. So [PHI-Personal] is [PHI-Account].
+Nurse: Excellent. You all are doing such a great job. I just really appreciate it, [PHI-Personal]. Thank
+Patient: You. I appreciate that. So I wanna go over one more thing with you and there your pulse. Uh it did finally come through at 96 and then 100 and 35. Um and that 135 again flagged us. So I'll mark on here that the pulse is not reading correctly and that you're gonna have your wife doing manual readings. Um,
+Nurse: I'll do that.
+Patient: Ok. Pulse
+Nurse: Incorrect. I'll have her do it. I can have her do that right now
+Patient: If you like, I mean, you can, if you want to, or we can just mark on here that, you know, keep a running track of it and then, you know, after like a week or so, feel free to call, um, [PHI-Personal] and give her your daily pulse readings.
+Nurse: Ok.
+Patient: Yeah, that way they can be entered into the kit because we can delete what's in here and put in new readings. Of
+Nurse: Course, is meaning that the device is defective. I, I'm, I'm sure ma'am that I'm not, it's not that
+Patient: Fast. Right. No, you would know you would be able to feel that if, if it was 30
+Nurse: Four would be like, I'm racing. I'm just like, yeah, doing, you know, 100 yard sprints without resting.
+Patient: Yes. Exactly. Yeah, you're gonna feel it. But I just want to, you know, just for like a week or two, do that. That way we can note it in your chart, um, that it is incorrect. So we won't worry as much about the pulse as we will. Everything else. Um, let's discuss real quick though. Before we get off the phone, I wanna talk about proper steps to checking your BP. Yes, ma'am. Just as a little bit of education. All right. So, um, do you smoke? No. Ok. Good. So, how do you smoke? Good for you. That's hard to do. I smoked
+Nurse: Until I was [PHI-Personal]. At least you gave it up. But it was really, it was really embarrassing. Let me just end it with that. You don't have time to hear it.
+Patient: Oh, well, I'm just glad that you gave it up. So, had you smoked? You wouldn't want to smoke, exercise, drink, caffeinated beverages or alcohol for at least 30 minutes prior to checking your BP. You wanna make sure that you sit, relax in a chair for at least five minutes prior to checking it. You wanna place your feet flat on the floor, legs not crossed with your back straight and supported. You want to. Yeah, exactly. You wanna rest your arm comfortably on a flat surface as close to heart. Well, as you can get it, you want to place the bottom of the cuff above the bend of the elbow. If you notice on your cuff, you have a little diagram that shows you. Yes, exactly. About a half an
+Nurse: Inch. Is it to your elbow properly and to your shoulder?
+Patient: Exactly. Yep. Uh, don't take the measurements over any clothing. Uh, when you tighten that cuff, make sure you can only fit like one finger under it. Um, and just keep a good record of all your measurements. Is that what you've been doing for the most part?
+Nurse: Yes, ma'am. Yeah, I'm pretty good on that. I have actually my own, uh, uh, BP cuff machine. I've had it for years, uh, years, probably like 5 to 7 years, something like that. Mhm.
+Patient: Good. All right. Well, I just really wanted to discuss all of those things and check in on you regarding your pulse. But now we know that it's inaccurate and you're gonna keep a record of it for the next couple of weeks and then call in and let [PHI-Personal] know that way. It, you know, if we see that, you know that your wife's checking and your heart rate is perfectly fine, we'll note the chart here that way, that way we can omit all of these false readings if that's the case.
+Nurse: No, from here on, instead of like the very first one I did was a Monday and it was in the afternoon at 2 30 then I did it. Uh, I didn't even put the time down. I just haven't felt well for, I'm finally recovering but it, it's not bad and I'm Dayquil and night [PHI-Personal]. And, uh, uh, I feel like I won't have to do that, uh, tomorrow because I'm feeling much better on good. I'm glad to hear that congested, but that's about all. So anyway, I appreciate your communication and I will take note of everything that you said and try very hard to do it just as you have instructed.
+Patient: Ok. Thank you very much. If you need anything you reach out to [PHI-Personal] and let her know. Ok,
+Nurse: I will do so, [PHI-Personal].
+Patient: All right, [PHI-Personal], have a great day. You as well,
+Nurse: Ma'am. Take care.
+Patient: Thank you. You too. Bye bye.

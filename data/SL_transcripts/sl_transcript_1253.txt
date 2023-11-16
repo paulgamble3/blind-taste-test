@@ -1,0 +1,33 @@
+Nurse: This is [PHI-Personal]. May I help you?
+Patient: Yes, this is [PHI-Personal]. You just called me.
+Nurse: I did. This is [PHI-Personal]. How are you?
+Patient: Ok. I was cleaning the bathroom and I didn't get fast enough to get to the phone. Oh,
+Nurse: That's ok. I was just calling to check on you and see how you were doing.
+Patient: I'm doing, I'm doing, uh, pretty good and I'm going to, uh, I find out that, that my insurance, uh, is gonna pay for, uh, the, uh, uh, walker and, uh, the, uh, things that I can put in the bathroom. I have to go over to, well, uh, in [PHI-Geographic]. No. [PHI-Geographic]. What is the east, the queen queen? Queen queen. Uh, it's a, you, you know where the, the mall is? The mall in there? It used to be there. The pizza place. You're not familiar with it.
+Nurse: No, I don't know for sure where that is.
+Patient: Yeah, it's, uh, it's, uh, uh, right across the street. It's, uh, all doctors. It's close to the hospital and, uh, anyhow I have to go over there, I don't know how I'm gonna get there because I don't like to drive, uh, you know, I just drive in the city but not much outside. So I have to find out, you know, a way to get there to get the thing. So the doctor is gonna send me, uh, it has to get a, uh, a prescription from him for me to go and get the, uh, the equipment.
+Nurse: Ok. So, yeah, and it looks like they've, they are putting those in the mail to you today.
+Patient: Yes. Yeah, I told her because I, I didn't wanna come down, like I say, I, I'm trying not to drive as much as, you know, I don't, you know, my kids always say, you know, so they want me, I'm not gonna stop but I, I know my limits, you know. So I don't wanna, uh, so, so I'm right. But, uh, so they gonna send that to me and then after that, I'm ok. You know, I, uh, you haven't
+Nurse: Had any more
+Patient: Falls? No. Mhm. No, I just don't understand how I fell and I don't understand that if your legs, as you get older, your legs are weaker. Yes, they do. They do. Yes, ma'am. Well, I, I'm doing exercise outside with the, with the rail. I hold on the rail and I bend my legs back and forth and then I stretch my back. I don't know if it's, and then I go up and down three steps. So I don't know if that's good. Or bad. But, you know, that's what I'm trying to do.
+Nurse: Yeah. You're doing some things to try to keep you.
+Patient: Yeah, that's, that, that is my problem. I don't know when to quit. I keep doing stuff now. I got a big fig tree with all our figs and, you know, I tried to climb a couple times. I fell down, so I'm not gonna do it this time. I'm gonna get somebody to help me. I
+Nurse: Don't climbing.
+Patient: I know. I, it, it, it's, it's me, it, it, you people like that, they're hard headed and they don't wanna give up and I just don't, you know, II, I don't wanna, I can't do this. I can't do that. And, uh, I try, you know, you can't give up because once you give up, that's it. Well, you have, I know. Yeah, you don't have a second chance once you give up. That's, you know, you, you can't do that. So I, I'm about to do that. I try to, I don't
+Nurse: Want you to give up but there's some things that we probably don't need to be doing like climbing.
+Patient: No, I'm not gonna come to three. No, no, no, no, I did that for, because he didn't have, uh, he didn't have a, uh, uh, at the time he does. Now it took 33 for me to give until you got the right one. Now. Now his tree is doing real good. And, uh, but uh, uh, but my tree was doing good. Yes, it wasn't good. So I was taking, uh, uh, I had an appointment to see him. So I was taking the figs down, try to, you know, to bring something to the dog to the. And I felt, well, a fig tree is not tree, it's a bush. Yeah. It's really, you know, it's not really a tree. I couldn't never climb a tree. It's small, you know. And, uh, so, but, yeah, now he tree is doing real good good. He got it last year and this year he got a lot of things too. So, do you
+Nurse: Have, do you have stairs that you have to climb?
+Patient: Uh, I have, uh, four from, you mean outside? Yeah. 00, inside, inside. I don't have anything. That's right.
+Nurse: But you have some outside. I
+Patient: Have, uh, some stairs. Yeah, I have [PHI-Personal], maybe about four but it's two down. Then it's, uh, uh, uh, uh, what do you call flat? Then we got three down and then it's decide, well, why I'm just asking
+Nurse: Because I know you'd had that fall. So.
+Patient: Oh, yeah. No, I have a rail. Ok. Good. Yeah, I have a rail in, uh, uh, one side. But, uh, no, I, uh, it's 22 down and then it's flat then it's too down. I'm careful with it. Yeah. Yeah, I was, uh, oh, no, I, I'm careful with it. Uh, I don't take anything for granted now, you know, like I did before. Right. So I just, I'm, I'm cautious but I, you know, I, I still wanna do things, you know? Right. I
+Nurse: Understand. So, you wanna remain as independent as you can?
+Patient: Yeah. But, but it's certain things I can, I don't drive outside the city. That's, you know, that's one thing I don't do. And, uh, and that makes my kids feel better too, you know. And, uh, so I live in right across the street. I got all the west mall. I have everything in there. Uh, you know, I could just cross, cross the, the and, uh, you know, they got stores is there and, uh, I mean, you know, so I, I don't have to go far, is right there. So, you know, it doesn't have to go far. It's right across the street. That's what I like far outside that, you know, you can get just about anywhere there, about five minutes. And, uh, so the hospital just built in there, you know, a new hospital just built. So, you know, except I'm all right. Hang in there.
+Nurse: Well, I just wanted to check on you and see how you were doing. Ok.
+Patient: Yep, thank you.
+Nurse: You're welcome. If you need anything, just let me know. Ok.
+Patient: Ok. How is the doctor doing? Doing good? Is he ok? Doing good. All right, tell
+Nurse: Righty. Take care, Miss [PHI-Personal]. Have a good day.
+Patient: Ok, sweetie. You too.
+Nurse: Bye. Bye. Righty. Bye.

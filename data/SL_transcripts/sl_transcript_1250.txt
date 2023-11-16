@@ -1,0 +1,23 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. How are you?
+Nurse: I'm good, [PHI-Personal]. How are you today?
+Patient: Uh, ok. Just wanted to give you some information for the record. I had called, uh, the doctor's office, Doctor [PHI-Personal] office because they sent me a letter that I had, uh, omitted to show up for a lab test which I had called and canceled because on that particular day I had a driver safety course and they rescheduled it for [PHI-Personal]. They have no record, but I rescheduled it again. That's one thing, the other thing is I, well following that, is that something that I go through you? I can just go directly to the office to schedule,
+Nurse: Um, for any scheduling. Um, you can go through me. And what I do is forward a message out to the office asking that the in office nurse reach out to you to take care of that scheduling.
+Patient: Ok. All right. And the second thing is that, um, I have a GYN appointment coming up next week, Monday. But, uh, last night, uh, when I was going to get ready for bed, um, one of the, I had one of the, I had another cyst, I busted in, in, in the uh left inner, inner fold of my leg and the genitals. And this happened back in [PHI-Personal] and prior to that, um So I just was keeping you abreast of it. That's all.
+Nurse: OK. All right. So, and when, let me look in here, did you call in back in [PHI-Personal] when that happened?
+Patient: Yeah, I went to see the doctor on two occasions on that and prior to that I went to her office as well.
+Nurse: Ok. All right. And, and what did she do for you the last time when that happened?
+Patient: Well, it had already busted. So all we did was keep it clean. That's it. Ok. It was very, it was, there was nothing to do. Uh, basically, it was already, I had already taken care of it in my own way, I guess.
+Nurse: So when it did you, did you, how much blood did you
+Patient: Lose? No, very, very little. Ok.
+Nurse: Ok. And what are you doing to keep it clean?
+Patient: Uh, I have, um, the, um, an ointment that she had given me just a moment. Let me go over to where I keep it. Ok. I clean it with peroxide water and then I applied, I know, apply the chlor chlortrimezole and betamethasone dipropionate cream.
+Nurse: It says apply topically two times daily is what I show on here. Ok. All right. So, ok. All right. So, yeah, just, you know, keep a close eye on it, make sure there's no signs of infection setting in. So,
+Patient: Yeah, what I'm doing is not, we, you know, not wearing any underpants and, and no pants or anything that aggravates it. Right. Ok. I mean, it can, it, there's no, no excess tissue or anything there. It's just. Ok.
+Nurse: Ok. All right.
+Patient: So, just a lot of redness, but that's normal, right?
+Nurse: So, what you wanna watch for you see the amount of redness that you have, but you wanna watch for increased redness, um, swelling, um, any increased drainage, any foul odors, um, any red streaks coming from it. Uh, if you start to run a fever, those are all symptoms of an infection. So you're gonna make sure, you know, you want to make sure you reach out if you have any of those symptoms. Yeah. Um, and you said your Gyn visit is next Monday? All right. So I'll note this and I'll forward it along to Doctor [PHI-Personal]. So she's aware and then if she wants, um, anything further to be done or you to have any additional information, I'll reach out and let you know what she says. Yeah,
+Patient: I, I missed, yeah, I waited, I've been waiting two years for this appointment with the GYN with the COVID and everything else and then I came down with COVID and I had to rescheduled the appointment, but finally, hopefully I'll get there on Monday.
+Nurse: Yeah, I see. It at [PHI-Account] at your visit is at 11 15. Mhm. Ok. All right. Uh, well, if you need anything further than please let me know. Ok.
+Patient: Ok, I will.
+Nurse: All right, have a good day and you too. Thank you. Thank you. Bye bye.

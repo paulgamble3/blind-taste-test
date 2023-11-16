@@ -1,0 +1,38 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: I thought a least this was the number for [PHI-Personal].
+Nurse: I am helping [PHI-Personal] out today. She actually, she's got the day off. I'm the nurse that works with her.
+Patient: Ok. Well, I called back to see what she found out. It maybe my medication that caused me to have these lightheaded spells.
+Nurse: Oh, let me see if I can find out. I know. Ok. Oh, I'm typing in the wrong place here. Jeez. Hold on. There we go. Yeah, [PHI-Personal] and I, um, we kind of split up the patients on this group and she's so I told her I would, uh, you know, watch her phone.
+Patient: Well, you can tell it. Do, do Don left. He said he's been off for a long time. Yes.
+Nurse: 00, here we go. They did update it. Ok, good. This is yesterday and then this morning they sent in the prescription for the Toradol.
+Patient: Ok. Cause I take o opine sinal omeprazole one time a day. And so, and I was taking cyclobenzap like a muscle relaxant. I guess it's generic for Flexeril. Yeah, that's the medicine I'm taking. I got one last, I forgot to tell you guys one last pill of that Flexeril that cyclobenzap. How do you pronounce it? Yeah. If he, if they need that refilled fine. But, um, two days ago I felt like I was drunk. Didn't even have a drop. It was a little bit better. Yesterday, today, while I was doing therapy, I, every time I get up off the table or do an exercise therapy, I'd be dizzy, lightheaded and my vision would be like a sharp blue and we, like, shake it side to side it last minute. So, I don't know because in the past with the ISD, the medicine I took, which I don't remember. I'm sensitive. I was out in the sun. I was wondering if that was it. I just got getting these dizzy spells. Lightheadedness.
+Nurse: Yeah.
+Patient: And they said I made sure to call you.
+Nurse: Yeah, when that happens it looks like they want you to check your BP and write down the readings that way they can figure out what's going on.
+Patient: Ok. Well, it just, uh, it just been happened the last couple of days. It's like I said, I was drunk and then yesterday was a ta, uh, better. But today any time I did physical therapy, I mean, it hit me hard. Yeah. Like that. Hi, between the eyes of a hammer. I don't know what it was. They, I told them that and they were going, told me to call you people and see if you found out.
+Nurse: Yeah, I'm gonna follow up with them again and let them know that happened during physical therapy too. But in the meantime, definitely whenever it happens, sit down and check your BP that way. Um, that'll kind of help the doctors also
+Patient: Because I just got home from, because they were running late at
+Nurse: Physical
+Patient: Therapy. Yeah. Physical therapy. Yeah.
+Nurse: So maybe there's a chance that maybe your BP medication is a higher dose that you need. That might be adjusted.
+Patient: Well, in the past, I, I'd be a yo yo sometimes I felt perfectly normal. No lightheadedness. The readings be really, really high. Mhm. The next thing would be normal for a while and then it would plummet low. Yeah. But when it did that up and down, when it went that up and down there, I always felt perfectly fine. I didn't feel like I am now. Dizzy. Light headedness.
+Nurse: Yeah. Yeah. Are you drinking enough water?
+Patient: I drank two cans of the 12 ounce cans of free with water bubbly. Ok. Yeah. And it was [PHI-Personal]. A friend got me that and it was good.
+Nurse: Yeah, that's like a nice tropical summer treat.
+Patient: Well, we ain't got the tropical heat but last night I, with the green, it just brought on the pain intense. I was at a certain level and then when the green came and that I heard lock was, I swore you snuck up and beat me on a ball bat even though you didn't. Right. I don't mind aching if I did something, but I didn't have to do nothing. I just ate and my back is killing me. Yeah. Ok. Then I guess I'll, so I just have to take it easy. But I was worried about that. They were worried about it in therapy today.
+Nurse: Absolutely. And for a good reason, you know, like I said, that's a scary thing to happen
+Patient: When you were a kid and you didn't mind that drunk feeling. But now that you're older and you don't drink, you want to be in control, it's not a good feeling to have.
+Nurse: Absolutely. And you definitely don't want to be feeling that way if you're not drunk.
+Patient: No, no, I'd like to have a reason for it, but you can't drink alcohol with the medication. But you don't
+Nurse: Wanna feel like that when you're just trying to get stuff done.
+Patient: Right? Even though I was a, even though I was a bad boy, I felt halfway not bad yesterday. But I was a, that feeling and I mow most of the lawn but then it started raining. I quit. So I was running a riding lawn mower with that feeling. Not a good feeling. Not the smartest when you feel that
+Nurse: You definitely wanna like, stop and just stay
+Patient: Still. But I was, I was, I tried to be ahead and say I'm gonna get this done before the rain and it didn't work. Oh God decided to on me and my, you know, I felt like crap. Ok? I was hoping you guys could talk. I was hoping to talk to the doctor and they could tell me something about that.
+Nurse: Yeah, it looks like they're still investigating. They definitely responded. So I need, I'm gonna get you a refill of the Flexeril and then I'm also gonna let them know that I talked to you in the meantime, like I said, whenever that happens, check your BP and write it and write it down or save it that way the next time you talk to them, we can tell them what's going on and it'll make them, it'll make it easier for them to figure out like what exactly is causing it and how to fix it.
+Patient: If I just lay around and do nothing, hopefully it won't it come back to harm me. Hopefully. But I'd like to know what the problem is, is things I wanted to get things I wanted to get done.
+Nurse: Yeah. Absolutely.
+Patient: Well, I thank you for your time and should I,
+Nurse: I will, um, if I hear anything today, I'll call you. Ok.
+Patient: Ok. Thank you. I appreciate what you're doing. God [PHI-Personal].
+Nurse: No problem. Talk
+Patient: To you soon. Bye bye bye bye.

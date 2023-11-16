@@ -1,0 +1,26 @@
+Nurse: This is [PHI-Personal].
+Patient: Yeah, this is from,
+Nurse: Hey, what's going on?
+Patient: Well, I'm calling to let you know that I never heard from [PHI-Personal].
+Nurse: Uh, about what? Let me get your chart pulled up here.
+Patient: They wanted me to get, uh, x-ray of my lungs or something.
+Nurse: Oh, yeah. Now I remember, yeah, let me get everything pulled up here and figure out what's going on there. I know we sent it off.
+Patient: I think you send it Monday or Tuesday,
+Nurse: Let's see. Sent on the [PHI-Personal]. Yeah,
+Patient: Let me see.
+Nurse: Ok. So, um, yeah, sometimes it can take them a little bit of time to get it processed. But I can, do you have their phone number or I can give you their phone number?
+Patient: Oh, I don't have it.
+Nurse: I can give you their phone number to try and call them. We usually say give them a week um, to let them process it and get it sent through insurance and stuff. But if you'd like, you can definitely call them.
+Patient: No, I'll just wait until next week.
+Nurse: Ok. Ok. And then I think I was actually gonna call you guys today because it looks like the mojo was approved. So we re sent that out to your guys' pharmacy. OK? The the higher dose, the five mg and then um [PHI-Personal], it looks like decided for both you and [PHI-Personal] that we're gonna keep you on the five mg dose until your next lab. So yours are in August or hers at the same time. Let me look. Yeah, we go together. That's what I thought. Yeah, so we're gonna keep you guys both on the five mg until your appointment's in August to see what your labs look like. Um, she pretty much said because the Monjo is, um, is that combination of two medications? What was that?
+Patient: It's a pain in the butt. That's what it is.
+Nurse: I know it really is. All of these right now. It's just with the shortages, it's so hard to get a hold of these medications. I feel like which is super frustrating. Ok? And then I also wanted to let you know that she sent over um, a Glucagon pen for both of you. I know you don't check your blood sugars, right? No, not really. But [PHI-Personal] does. Is that correct? Ok. So she sent out a uh Glucon Glucagon pen for both of you just in case you guys have any symptoms of low blood sugars, like fast heartbeat, shaking, sweating, nervousness or anxiety, uh confusion, irritability, dizziness or extreme hunger. Of course, if you have a glucometer, we would definitely recommend you check your blood sugar to see what it's at. But if you're experiencing these symptoms, we want you to use the Glucagon pen to get your blood sugars back up. Ok? Um essentially she just sent these out because we're adjusting your dosage. We wanna make sure that everything's staying where we want it and you don't go too low. Ok. Ok. If for some reason you guys, oh go ahead.
+Patient: Did you put that prescription in for three months or one month?
+Nurse: So since it's just uh oh wait which one? The Mojo? Yeah, the Monjo let me look, I wanna say she, you know, depends on what the insurance told us because they were being kind of picky. So it's a two months, it looks like it's got one more refill on it.
+Patient: Ok. That again
+Nurse: It should but if it doesn't for some reason, let me know. Ok. Yeah. Ok. Oh and then, oh wasn't there one medication that [PHI-Personal] was supposed to pick up? Let me look, I can't remember which one it was? Oh, was it the Jardiance? Was she able to find out if the pharmacy had that? Yeah, they said they had it. Ok, perfect. So I would definitely recommend picking that one up and starting it um cause that's the one that's gonna help, better protect her kidneys um, along with making sure she's drinking enough water too. Ok. And then since she's starting that Jardiance, I definitely want her to keep an eye on her blood sugars, um, with all those, you know, changes with the mojo and now the Jardiance, we just want to keep a closer eye on it. All right. Ok. Anything else I can help with today? Any other questions for me?
+Patient: No, I was just concerned about that because I'm getting a little worried about this. Let
+Nurse: Me, you know, what did they put it in on Monday? I want you to give me a call on Monday next week or Tuesday. So if you don't get a call by Monday, I want you to give me a call and then we'll I'll give you the phone number and you can call them and everything so that we're not waiting too long. Ok? Ok you let me know either way if they're able to get you scheduled, let me know too. Alright I'll
+Patient: Call you.
+Nurse: Alright [PHI-Personal]. Well you guys have a good weekend. You too. Alright bye
+Patient: Bye bye bye bye.

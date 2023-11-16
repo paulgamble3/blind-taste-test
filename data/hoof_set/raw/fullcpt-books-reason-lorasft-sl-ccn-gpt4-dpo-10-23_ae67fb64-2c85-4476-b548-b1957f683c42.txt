@@ -1,0 +1,32 @@
+Nurse: Great, I'm glad I reached you.Before we begin, I just need to verify your identity.Can you please provide me with your date of birth?
+Patient: Sure. June ninth nineteen seventy eight.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling about your colonoscopy tomorrow.How are you feeling about it?
+Patient: I'm reallylooking forward to getting it over with. This prep isjust really a nightmare.
+Nurse: I understand, the prep for a colonoscopy can be challenging.It's essential to remember that it's just temporary and it's for a good reason - to ensure the procedure goes smoothly and we get the best possible results.Do you have any questions before we get started?
+Patient: No. I can't think of any.
+Nurse: Okay, great.I'm just calling to check in with you and make sure you're all set for your colonoscopy procedure tomorrow, August 11th at 8AM with Doctor Edward Chang.Do you have a pen and paper handy to write down some information?
+Patient: Sure.
+Nurse: Okay.I just want to let you know that you'll need to arrive 30 minutes earlier at 7And your arrival location is on the 1st Floor of O'Connor Hospital.Do you have that down?
+Patient: I do.
+Nurse: Wonderful.I also need to ask you a few questions before the procedure.Have you had a fever, chills, or muscle aches recently?
+Patient: No. None of that.
+Nurse: Great, I'm glad to hear that.I also need to let you know that you'll need to arrange for a ride home after the procedure.You won't be able to drive yourself due to the sedation used during the procedure.Do you understand?
+Patient: I do.
+Nurse: Okay, great.Now, I also need to review the medications that you should stop taking before the procedure.Can you tell me which medications you're currently taking?
+Patient: I'm actually not taking any medications.
+Nurse: Okay, great.It's still important to let you know that you should avoid taking any medications that can thin the blood, such as aspirin or warfarin, for a few days before the procedure.Do you have any questions so far?
+Patient: The only question I can think of is how long does thisprocedure take.
+Nurse: Great question.The colonoscopy procedure itself usually takes about 30 minutes.However, you'll need to factor in time for preparation before the procedure and recovery after the procedure.So, in total, you should expect to be at the hospital for several hours.Do you have any other questions?
+Patient: No. I can't think of any.
+Nurse: Okay, great.I just want to make sure you're well-prepared for your colonoscopy.I'm going to review a few things with you to make sure you're ready.First, I need to go over the diet changes you'll need to make before the procedure.You should start a clear liquid diet with only clear or light colored beverages and no solid foods.This should start today and continue until the day before the procedure.On the day before the procedure, you'll need to start the bowel prep.Do you understand so far?
+Patient: I do. Thank you.
+Nurse: Great, I'm glad you understand.Now, I also need to remind you that you should not eat anything the morning of the procedure.This is to ensure your stomach is empty for the procedure.Do you understand this as well?
+Patient: I do. Yes.
+Nurse: Okay, great.I'm glad you understand.Now, I'd like to review the bowel prep instructions with you.You should begin drinking the first half of the GoLYTELY solution at 6 pm tonight and then drink the second half of the GoLYTELY solution tomorrow morning 4 to 5 hours before leaving home.It's important to follow these instructions carefully to ensure your colon is clean for the procedure.Do you understand these instructions?
+Patient: Oh, yes. I do.
+Nurse: Great, I'm glad you understand.Now, do you have any questions for me?
+Patient: I can't really think of any, Rachel.
+Nurse: Okay, great.I'm glad to hear that you don't have any questions.It's important to me that you feel prepared and informed about your procedure.If you do think of any questions later on, don't hesitate to give me a call.My callback number is 641-381-6523.Thank you for your time.I'll see you tomorrow for your colonoscopy.
+Patient: Cool.Thank you, Rachel.
+Nurse: You're welcome.It's been great talking to you.

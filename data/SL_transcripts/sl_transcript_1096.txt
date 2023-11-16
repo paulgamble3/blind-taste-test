@@ -1,0 +1,91 @@
+Nurse: Hello. This is one of the nurses with doctor [PHI-Personal] office. How can I help you? Hi,
+Patient: This is [PHI-Personal]. I apologize for not getting back to you sooner. It's been really wild here.
+Nurse: That is perfectly fine. I completely understand how those schedules go. How have you been feeling?
+Patient: I've been feeling pretty good. Oh, I'm still in therapy and it's going well, that take it a while.
+Nurse: Ok. I'm sorry, I'm just trying to pull your chart up here. The computer is fighting with me.
+Patient: Uh, you know how that goes.
+Nurse: Oh, yeah. Um, so, oh, jeez. No, terrible. You know, I'm just gonna close at your chart completely. So, um, you've been doing really good with therapy. Um, I know you said last time that we talked that you were, um, that cold, that nasty cold you had was completely gone. You're all good with that. Yes. Um, any other concerns that you're having?
+Patient: No, I'm, I'm really good. I had, uh, my annual check up with doctor today and that was good. So, I don't need to see him for another year.
+Nurse: Oh, good. Ok. Well, that answers that question. Mhm. All right. So, I'm just trying to get the font size. I don't know why your, your chart is, got, like, the tiniest, like, it's like 10 point font and I don't under, trying to open it back up so I can see it. Um, so how's, how's work going? Is that stressful for you? Is that gotten better?
+Patient: Oh, it's fine. It's getting easier. They got me a new computer
+Nurse: That always makes things easier.
+Patient: Yeah. The other one had, uh, a weight level of, you know, you push the key in and it took almost 15 seconds for it to respond. Oh, it took me about between a half hour and 45 minutes to get it up in the morning.
+Nurse: Lord. That sounds terrible.
+Patient: Yeah. So, he figured I'd be a lot more productive with the new computer. I,
+Nurse: I would assume. So. That's, that's definitely a lot more productive. Um, how, how's your pain level doing now with the therapy? Is that getting better? Uh,
+Patient: It is where I had the pain but my, um, my other pain came back, my, uh, r a pain. So I'm on, I went back on predniSONE, you know, I got it in my hands and feet. So,
+Nurse: Ok. Um, and I'm assuming the predniSONE is helping with your breathing too. With all of this pollen in the air.
+Patient: Actually, I'm not having too much trouble. I haven't been out in it that much. But, uh, but I've been pretty good. I, I hate to say that.
+Nurse: All right. So you said so I just wanna double check here. So yeah, on here you said you were back on the predniSONE? Yes. What dosage? I'm trying to find it and I'm not seeing it in your chart. Who prescribed that? Cause I'd like to be able to a doctor put it in so that um doctor [PHI-Personal] knows you're back on it.
+Patient: Yeah, it's doctor. OK. OK.
+Nurse: Hold on. Um what's the milligram first? I'm getting it.
+Patient: Ok. 05 mg.
+Nurse: Ok. So predniSONE five mg
+Patient: And it's prescribed by doctor. Where is her? Like [PHI-Personal]?
+Nurse: Yeah, I would not have spelled that right. And when did that
+Patient: Start? Well, I had taken it for uh a while um I guess early [PHI-Personal] and I took it for about a month and then I was fine so I stopped it so I just started taking it this Monday again. Ok.
+Nurse: Ok. So is that helping?
+Patient: Yes, it is. Ok.
+Nurse: Well, good. I'm glad something's helping. Now. Um, do they have an alternative or they gonna continue with the predniSONE on more of a long term basis?
+Patient: I see her again. Um You see [PHI-Personal]? Cool. Oh, I see her again. [PHI-Personal]. Wow, that's coming up. Yeah, I probably wasn't supposed to stop it myself.
+Nurse: Yeah. General, but here's the thing. Generally they don't want you on a long term. PredniSONE. It's not good to be on it long term. So generally we they try to wean you off of it. Um, they try to get you on something else if you need it. So, let's see what she says about that. When, when you know you have it on the sixth. Now, how's your BP doing, um, with the back and forth with pain? Sometimes the BP gets a little,
+Patient: Well, it was taken this morning at 1 30/80.
+Nurse: Ok. That you said that's staying steady.
+Patient: Yeah, I think it's, it's all around the same numbers. Ok.
+Nurse: I, I'll take 1 30. It's a little bit on the elevated side, but not much. And that's perfectly fine with the medication you're on.
+Patient: Ok. Yeah, I'd love to get it down. I'd love to get my weight down, but just, it's too hard to go there. I mean, it's not happening.
+Nurse: Yeah. Honestly, the best thing would be to start doing, um, doing some small diet changes.
+Patient: Yeah. Well, I've been trying that and, uh, uh, it, it's been, it's been difficult. Mother's had some issues that I've had to help her with and, uh, I'm not getting the proper diet. Neither is she at the moment? Ok. So, we're just doing the best we can at the moment. All
+Nurse: Right. Well, when you say she's got some stuff going on, what, um, can I help with that? So, maybe we can help figure out something that works best for the both of you.
+Patient: I just talked to doctor this morning and he gave us some, some, uh, for some things to follow and, uh, you're still there, right? I'm still here. Ok. I've got a call coming in which I don't want, uh, she's having diarrhea since [PHI-Personal] and it's not, it's not constant and she can have a bowel movement that's fine and well formed. And, uh, a couple hours later it just starts running out of her diarrhea. So, uh, doctor has guided me, uh to put her on, uh, and you don't have a chart up right now.
+Nurse: I do, I pull, I'm, I'm pulling it. I'm literally pulling it up as we speak.
+Patient: OK. He's, he suggested that we try uh Probi probiotics twice a day instead of once and uh, and the fiber twice a day instead of once. And we have Imodium to take when that hits and she's not taking her Amitiza or her, uh, much of her Miralax every once in a while. If she's has good stool, she'll take a little bit of Miralax but not much. Ok.
+Nurse: And what fiber are you using?
+Patient: She's using [PHI-Personal],
+Nurse: [PHI-Personal]. Ok. Um, uh Citracal. That's a calcium supplement.
+Patient: No, she's not taking Citracal. It's Citrac. It's not a pill. It's a powder.
+Nurse: You know what I'm gonna put it in as fiber because I can get the correct medication that way. Um
+Patient: Yes, it's not the same fiber is benefiber, which I'm on, it's, it's a different fiber, but it's, it's still fiber.
+Nurse: Yeah. Yeah, for some re I have benefiber in my system. I have fiber caps. I have, I do not have [PHI-Personal]. Um, so it's just gonna go in as a straight fiber when you see it in her chart. It's, it's the [PHI-Personal]. It's just, it's not something that it's allowing me to add, uh, wide. Maybe. No, they, they actually took the fiber powder. Uh huh. This falls under the, I hate computers. All right. So it is gonna be in as a fiber powder, uh, twice a day. So I did add that.
+Patient: Yeah. Oh, that's the situation we're going through with that. Her other situation is her mouth. Her dentures are the lower dentures for a while. Didn't pop in and I had to puree her food and then, then we got that, uh, fixed a little bit and now her mouth gets really sore. So I have, I have her on soft food and it's very hard to get vegetables and everything in with soft food.
+Nurse: Mhm. Um, do you mean, or boiling those can help what? Steaming the vegetables or boiling the vegetables can help with those.
+Patient: Yeah. Yeah. Uh, and that's what we're running into. Time wise. Crazy.
+Nurse: Try. Um, they actually have steam and microwave bags. Yeah, in the microwave and they're like five minutes.
+Patient: Ok.
+Nurse: Um, I, I'm with you all the time. I normally like, oh, crap. I have to make dinner in 30 minutes. Um, this bird eye. The giant even has a, has their own brand of it. They do those steam and bag ones and they're fantastic. That's actually what I did for my kids. I made baby food out of them. Oh, that's cool. So, um, they do, they do work really well. Just make sure you shake up the bag. I normally stop at about half way through and shake up the bag. Otherwise sometimes they can get kind of, uh, on the bottom there.
+Patient: Ok. Yeah, I'll try that. Maybe I'll stop by tomorrow in my travels and pick up some of those because she's not getting vegetables right now. And of course I'm eating along with her as much as possible, so I'm not getting them either. So we've gotta get that back. She just had, she just had her PTINR today and I'm sure they're gonna call tomorrow and say what's, what's different. Mhm.
+Nurse: Ok.
+Patient: Oh, excuse me. So, we're under control. We're just wildly out of, out of normal.
+Nurse: You're stable, but not quite normal is what you're saying.
+Patient: That's exactly it.
+Nurse: I will take that for now. That's perfectly fine.
+Patient: We're on a path as
+Nurse: Long as you're on a path, the right direction, I will take it. So we'll, we'll continue working with you on that. Um, try those steamers because that'll help too with any. Like if you're not having the right hydration, if you're not having the right, um, vitamins and minerals in your diet then a lot of times you're gonna have some extra pain or cramping or just o overall feeling the sluggishness. So, changing up that diet, I think you might be pleasantly surprised at how you guys feel. Um, having the vi, or having those vegetables will also help increase her fiber in her diet naturally, which can help the bowels as well.
+Patient: Yeah.
+Nurse: So let's, yeah, try those. Um, does she have any other changes in medication?
+Patient: Um, can't think of any. I can't think of any right now. Everything was on the chart when we saw the doctor. Ok,
+Nurse: Perfect. So, all right. That sounds good. I'll take that. Um, are you having any concerns for either of you that you'd like to address?
+Patient: No, I don't think so. Other than those problems that we're having, we're, we're in pretty good shape. Ok.
+Nurse: Well, actually believe it or not increasing the fiber is also gonna help with your cholesterol too and it help with the blood sugar as well.
+Patient: Ah, so that's a good thing.
+Nurse: Yeah. So try those green beans, the vege, uh, the, the bro, broccoli, that sort of thing. Just keep an eye out with her PTINR as you know, which you gotta have everything in moderation with those dark green leafy vegetables.
+Patient: Yes, I understand. Ok. I have the
+Nurse: List. Perfect. Ok. Uh, my next question is, do you have the cheat sheet?
+Patient: Yes, I do. I have a, uh, a cheap,
+Nurse: Perfect. All right. Well, that works. Um, I think I said I really just wanted to check in and make sure everybody was doing ok, see how everyone was feeling because I know for a while there you had quite a bit going on and you still have quite a bit going on. Yeah.
+Patient: But, um, PT that's, that's driving it.
+Nurse: Yes, it really limits your time, but I promise it's gonna work. It's gonna, you're gonna feel better. Well, you know, might, it might not feel totally better but it should help improve.
+Patient: Well, it's manageable. Now, we're getting some of the other things that we had stacked up to do, um, with getting those out of the way, check off the list and, and we're moving on here. So. Ok.
+Nurse: And you did get the report back that your mom's, um, ultrasound of the breast came back clean.
+Patient: Yes. Ok. Thank you.
+Nurse: All right. Well, that's really all I have today for you. Unless you've got anything else that you're concerned about.
+Patient: No, that's all. And I, uh, I do apologize for not getting back to you right away. I tried.
+Nurse: Oh, that is perfectly. Ok. I am. I'm the queen of forgetting to call people back and remembering at 11 o'clock at night. So, you, you will never hurt my
+Patient: Feeling. Well, it's not that I didn't remember. It's that I just didn't have two seconds to do it. Oh, so until late at night and I didn't think you'd like a late night call. You are always
+Nurse: Welcome to call and leave a message, but I will not be here.
+Patient: Ok. Sounds good. All right. Well, I hope you schedule that.
+Nurse: Yeah, I hope your schedule clears up a little bit by the next time we talk. But in the meantime, if anything does pop up, if you're having trouble with, you know, coming up with meals or she's having continued diarrhea and you wanna talk about any alternatives or anything? Give us a call. We're always here. You can bounce things off off of us, see what sticks and go from there.
+Patient: All right, will do.
+Nurse: All right. Well, thank you so much for giving me a call back.
+Patient: Mhm. Take care.
+Nurse: You too. Bye bye bye.

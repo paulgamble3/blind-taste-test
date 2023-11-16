@@ -1,0 +1,43 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Yeah, you, my phone indicates you called but I didn't hear it ring. My name is [PHI-Personal]. Uh, [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: I could be better. Uh,
+Nurse: Oh, that doesn't sound good. Oh,
+Patient: Well, I'm, I'm still upright.
+Nurse: Well, that's a plus. That's good to hear. Yeah. Right. So, the reason for my call, um, is to reach out to you because I noticed at the end of [PHI-Personal] you had spoken with one of our enrollment specialists. Um, and you were enrolled in the chronic care management program through Doctor [PHI-Personal] office. Uh huh. So, I wanted to introduce myself as I'd be one of the nurses that reached out to you, um, once a month in between office visits to check in with you and see how you were doing. Ok. Um, I also wanted to see if you may have just a couple of moments to verify your medications. Sure. Ok. So the first medication I have is the oxyCODONE, um, the 5 325 mg, um, every six hours as needed.
+Patient: Uh huh. Yeah, I ha, I have, I don't know what the, uh, strength is though. I don't take it very often.
+Nurse: Ok. Are you still taking the garlic oil every day? No. Uh, let's see. Are you still using the pro site? Eye vitamins?
+Patient: I'm using the, uh, uh, uh, preservation.
+Nurse: Ok. So we'll get rid of that one. Are you using airborne every other day?
+Patient: Airborne? I'm not, that doesn't ring a bell with me. II, I don't think I am. I, in fact, I know I'm not.
+Nurse: Ok. Um You still using your multivitamin every day?
+Patient: Yeah, a multivitamin. Yeah. Io once a day
+Nurse: And then we have aspirin 325 mg. Um and it says a half a tablet every day or every other day. No,
+Patient: I'm I'm not taking aspirin anymore.
+Nurse: Were you taken off of it or did you just stop taking it?
+Patient: I just stopped taking it because I, I didn't really need it. Uh I do take now and then not on a regular basis. I take uh uh another uh ibuprofen. I guess it is. Ok.
+Nurse: Um And then we have omeprazole 20 mg every day.
+Patient: Yes. Every morning
+Nurse: And then your levothyroxine 25 MCG every morning. Yep.
+Patient: Still taking that
+Nurse: Um tamsulosin. The 0.4 mg every day. Which one? That is the,
+Patient: I just got a refill on that. Yeah, I'm taking that. Yeah.
+Nurse: And then we have vitamin B one every day. Yes. Uh huh. OK. Are you taking anything else that I didn't say?
+Patient: Uh I don't think so. No, I, I have it on order. Uh, no, I haven't received it yet. Uh, uh, vitamin B six. I'm gonna start taking that as soon as it comes in. Probably in a few days.
+Nurse: Ok. Do you know the, the strength of that vitamin?
+Patient: No, I really do not. Ok. Oops. Well, I'm taking a fish oil. I don't, I don't know what strength, they're, they're pretty good size pills.
+Nurse: Do you take just one a day or two a day? One
+Patient: A day? Ok. See, and also I'm taking a B 12. I can't tell you what strength I have to look at my inventory.
+Nurse: Ok. Yeah, it's always nice to know, you know what over the counter supplements. Oh, yeah.
+Patient: Sure.
+Nurse: Absolutely. Just so we make sure that, you know, we're not prescribing you anything that's gonna interact with those.
+Patient: Absolutely. Right.
+Nurse: Let me see. So, what I'll do, um, is I'll make note that you are taking a fish oil, the B 12 and you're gonna start the vitamin B six. and then, um, when we reach out next month, um, either myself or [PHI-Personal], who is the other nurse that works on behalf of Doctor [PHI-Personal] office. Um, we verify with you then, um, what the dosages are on those vis, I
+Patient: Think the next time you call, uh, hold on for half a minute and I, I get my supply of everything I'm taking. I have it in a large plastic bag.
+Nurse: Ok. Absolutely. We can do that. I'll make note of it. Mhm. Perfect. All right. And do you have any questions or concerns regarding the chronic care management program at all?
+Patient: Uh No, not, not now. I may have some later. Absolutely. I have no questions now.
+Nurse: Ok. Sure. You know, if, if you're, you know, questions arise, feel free to make a list of them. Um, when we reach out again, we can go over them or if you have something that's more of a pressing matter, feel free to reach out to us. Um We're here Monday through Friday 8 to 5 30 most days. Um So if you do need anything, we encourage you to reach out to us. Well,
+Patient: Thank you very much,
+Nurse: Ma'am. You are very welcome. And the only other part of this call today is um to let you know that I'm also gonna send you a letter in the mail. This letter will have my name and [PHI-Personal] name on it with our direct contact number and on the back of that letter will be the what we call the Wellness goals for the year. Um These are just those gentle reminders of things that are due throughout the year, whether it be lab work um testing and any i immunizations, those types of things will all be listed on the back. Um OK. It, yeah, and that's, that's all we have for today.
+Patient: OK. Thank you very much. Ma'am. You
+Nurse: Are very welcome. You have a wonderful evening and take care. Thank you. Bye mm bye bye.

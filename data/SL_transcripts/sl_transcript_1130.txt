@@ -1,0 +1,55 @@
+Nurse: [PHI-Geographic] Medical group. This is [PHI-Personal]. How can I help you? [PHI-Personal],
+Patient: This is [PHI-Personal]. Hi, how are you? No, no good.
+Nurse: What's going on?
+Patient: I just got, I went in the hospital Saturday and I, I got sick again bad in my stomach. Oh,
+Nurse: No. Let me get you pulled up here. Let me see.
+Patient: I went Saturday. I, they gave me medicine to send me home. They were going to keep me but they let me go home.
+Nurse: Ok. Ok. I see that here. Yeah, I see that you went to the, er, ok, what did they give you? They give you, let's see,
+Patient: All kinds of medicine they gave me some
+Nurse: Amoxicillin. Zofran. Ok.
+Patient: Yeah, I feel dopey and weak.
+Nurse: Yeah. Have you, um, started taking those medicines
+Patient: Yet? I can't eat.
+Nurse: You can't eat. Ok. No. Have you started taking the medicine yet?
+Patient: I took it. Yeah, I've been at home, I started taking it when I got home. Ok. Some medicine you got to eat with, right? Can I, uh, food tastes to me. I tried toast, it tastes like dough. I don't know what they eat. I got some kind of disease in my stomach. Do you see what I got? Yeah.
+Nurse: Diverticulitis. Yeah.
+Patient: I don't know if it's
+Nurse: That you tried toast, you
+Patient: Said? Yeah, I try it and it tastes like dough.
+Nurse: Ok. What about, um, they usually recommend, like banana or apple sauce? Yeah. Do you have either of those things? Banana?
+Patient: Yeah. Mhm. A regular banana. Yep. Regular. But I feel, it feels like I wanna throw up again. That's how my stomach is all messed up.
+Nurse: Yeah. So the Zofran is supposed to help with that. Are you taking the Zofran? Like? Yeah. Yeah, I'm taking it every eight hours.
+Patient: Yeah, that's still. Ok. My stomach is still upset.
+Nurse: Ok. And you're taking the amoxicillin? Mhm. Ok. All right. Let me see if I can get you in, we'll see if we can get you in a same day appointment maybe with doctor. Ok.
+Patient: Not today. I can't because I'm shaking. I can't drive,
+Nurse: You can't drive. Ok. Do you have anyone there with you? My
+Patient: Son, but he's gotta go to work.
+Nurse: Ok.
+Patient: My sister is coming down but I don't know what time to, to see.
+Nurse: Ok. You and
+Patient: I just feel weak and I shook
+Nurse: Up, right? Are you drinking plenty of fluid ginger
+Patient: [PHI-Personal]?
+Nurse: Ok. Do you have any type of like um electrolyte solution? Like a Gatorade or Pedia Lot? I drinking Gatorade, drinking Gatorade. Ok. Ok. If you're not, you know, seeing any improvement you may need to go back to the er
+Patient: They're gonna send me back home. They wanted to keep me, but I don't know why they sent me home. They said my BP was 200.
+Nurse: Well, if you go, it was, I see that [PHI-Account] if you go back, it's likely that they'll keep you. And that sounds like that's what needs to happen. They need to keep you.
+Patient: I don't want to go back in there.
+Nurse: I know. I, I just don't want you to sit at home and have you noticed any, any improvement at all?
+Patient: If I go to the bathroom, it's all black, a loose stool.
+Nurse: Ok. It's black stool. Yeah,
+Patient: But it's not hard, it's loose. II I haven't been going to the bathroom either so maybe I ain't got nothing to eat.
+Nurse: Yeah, it sounds like you need to go back to the emergency room. Black stools. Not good. Why is that? Well, it can mean, you know that you have blood in your stool.
+Patient: Yeah. What's that from?
+Nurse: Well, probably the diverticulitis, um, black stool can be, you know, that you have blood in your stool and, and I would definitely, you, you said you don't see an improvement at all. Is that correct?
+Patient: Not right now, I try, try, I stay home one more day.
+Nurse: Ok. Well, then try to stay home one more day. Take, you know, take everything, um, like the Zofran, you know, but
+Patient: I, I can't move my bowels. I'm having trouble, you know, that I'm blocked in over here.
+Nurse: So you're stocked up.
+Patient: I, maybe I didn't eat but I can't eat. I'm stopped up. I went to the bathroom this morning early but it, I looked and it was all black, you know, not hard stool, all black.
+Nurse: Ok. Yeah, you need to go to the, you need to go to the emergency room. Why he's there? Because black stool could mean that you have a bleed in your stomach and you know any time you have black stool they wanna see you immediately. So when will your sister be there? About no
+Patient: About noon? Ok maybe you should talk to her I can't
+Nurse: Do you have do you have her number?
+Patient: Yeah and um and so [PHI-Account] [PHI-Account] her name is [PHI-Personal]
+Nurse: [PHI-Account]. Yeah. Ok you want me to call her and talk to her?
+Patient: Yeah because she takes care of all of me like this. Yeah you could talk to her and see what you know and she'll know what's going down.
+Nurse: Ok. Now when did the black stool start this morning this morning? Ok. Alright well I'm gonna call her and talk to her. Ok. Ok thank you. You're welcome bye bye.

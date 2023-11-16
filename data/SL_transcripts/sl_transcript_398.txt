@@ -1,0 +1,104 @@
+Nurse: Rheumatology, nurse care manager. [PHI-Personal]
+Patient: Speaking. Hi, [PHI-Personal]. This is [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you? Good.
+Patient: I just came back from grocery shopping. Oh, and, and I have to list my list on this kitchen table. Did
+Nurse: You? Yeah, I'm like, oh my God, I hate when that happens.
+Patient: Oh, and you go to, we go to [PHI-Personal]? Oh, my God. They're right in front of you. You're backing into them.
+Nurse: I said,
+Patient: And now today's only Thursday I think, you know, would be empty. It'd be Friday or it'd be Friday or Saturday. But it's horrible. But every, I went to doctor on Monday and everything is ok.
+Nurse: Everything went well. Yeah.
+Patient: You know, it's himself. He's got, I said, what's this on the face? He said, I, I don't feel like shaving today. Oh, growing it for, for, to go shop, uh, go, uh, hunting or something. So, he's character. But everything went well. Yeah. So I have to go three months for blood work and then six months a week before my appointment, I have to go for blood work again. But other than that, everything was good. Well,
+Nurse: That's good. And you got your Prolia shot, right. Yeah.
+Patient: Yeah. Yeah. Don't forget that. Mhm. You're here for the, I said, what do you think? I'm here for? You know, I've been coming to him since [PHI-Personal] so I figure I could joke around with him.
+Nurse: Oh, yeah. I think he likes that
+Patient: Too. Oh, he's funny. Then he shakes my [PHI-Personal]. Be good. And he shakes my
+Nurse: [PHI-Personal].
+Patient: You care if you need me. Don't forget you call me. So I said, how's [PHI-Personal]? And how's the kids? Oh, they're good. I said, well, tell [PHI-Personal]. I said hello? Yeah, because the last, not, not the last time, time before somebody was waving to me from the way back in the back. But I said to him, I don't know who it was. I said so if it was [PHI-Personal], just tell her, I apologize, you know? No, no. [PHI-Personal] cousin lives across the street from me.
+Nurse: Oh, does she? Yeah.
+Patient: And I said, uh, she said because, uh, in fact [PHI-Personal] is [PHI-Personal] and [PHI-Personal] are cousins and cat. Their, uh, cousin just died. Doctor [PHI-Personal] does. He was a dentist. He was going blind and that, and he was on dialysis and then he lives down the, he lives down the hill from me and you turn left on what's FC, what's the street that bothers women? I don't know something Elk or something. They live by me. But I said, oh my God. I said, well, they're very nice. People I told them, you know about [PHI-Personal] and [PHI-Personal]. He says, yeah, I, you ever, have you seen them? He said we see them around the holidays and everything? I said, well, that's good.
+Nurse: Yeah. Yeah. Well, it looks like your blood work was pretty good. Your inflammatory markers in your blood were normal. So that's good. He said,
+Patient: He said everything was
+Nurse: Normal. Uh-huh, your vitamin D level's good. Yeah. So good. I'm glad everything went well for you. And my family
+Patient: Doctor has given me, gave me, um, Voltaren pills because I, I went to doctor the orthopedic and he went, he said, you have get this, I have arthritis under my kneecap. I said, how does it sneak under there? So he said, do you want Voltaren? I said I can't take stuff with my stomach. So I said, I'll let you know. So I asked my family doctor. I said, listen, I said, I went to doctor and I said, he told me I have arthritis under my kneecaps. I said, you wanna give me Voltaren? And I told him no, because I don't, my stomach is not, doesn't take the medications that well. So she said, no, you could take the Voltaren that, that goes to your liver. I said, oh, ok. So I've been taking it and then he, uh, she gave me both. Um, what do you call it? PredniSONE? And doctor told me
+Nurse: Get off of it. Oh, ok.
+Patient: Yeah, I I don't like predniSONE anyhow. So I took into, you know, he's, how long you've been on. And I said, I think it was [PHI-Personal] or something like that. I said, you know, so,
+Nurse: Yeah, the Voltaren. It doesn't make your stomach hurt or anything. No, I mean, no, so far.
+Patient: Ok. Now, the predniSONE I've had that previously and it, he on the, he has it on the thing that it gave me diarrhea and it did. So I, good. I don't have to take it
+Nurse: Right. One less you have to worry about. Right. Yeah. Yeah. But, and it's helping your knees. Everything
+Patient: Went well,
+Nurse: Well, good. Your knee is feeling better.
+Patient: Yeah, I told you my sister died, didn't
+Nurse: I, I think you did tell me that last month and
+Patient: Then when you know that my hair dresser, I called her, um, mm, [PHI-Personal] weeks ago and she said she wanted to give me an appointment. I said I can't. I said I've, we've COVID, my son and I came down with COVID. So I said, no, I said [PHI-Personal], I can't. So I called her on Monday because she doesn't work Mondays. But would you believe that her brother died? [PHI-Personal]
+Nurse: [PHI-Personal] years old? No.
+Patient: Well, he had a brain tumor 11 years ago or 10 years ago and we didn't know it came back, it came back and he has a [PHI-Personal] year old and a [PHI-Personal] year old. Oh, that's my. And they live by us. They're, they're not far from us. So I, I feel terrible that I called her on Monday and not knowing that he was that bad. They had, he had hospice at the house because his mom works for NRN ROCK. She's a nurse and she, she left and she, they took, they took care of him. They have like a family room downstairs and they took care of him. Hospice. Hospice came in and took care and his mother, you know, and I thought, oh, isn't that a shame? I said, oh, it's horrible. I, I it's heartbreaking. So I said, oh, I said, II, I don't know how I'm going to even face [PHI-Personal] because she, it said [PHI-Personal] his best, my sister [PHI-Personal], his best bud.
+Nurse: Oh my
+Patient: God. Oh God. And I'm thinking, oh my. And it's like he, he's got a beautiful wife, [PHI-Personal]. She's really nice and everything I think. Oh my God. So his funeral was Saturday and I'm thinking, but he's not having a viewing. So, like my son said, mom, he was so bloated, you know, from who was he? From the whatever they give you the chemo and all that. But he went to a Sloan catering and he went to, what was the other place. So, do you remember? I don't remember it was a phone catering us. Yeah. So, uh, but you know what I figure he's at peace.
+Nurse: Yeah, definitely.
+Patient: Yeah, I mean, and not for them. I know they're so upset and everything like that. Yeah. But I, I, they did have a sit down with the kids to, and then he's got [PHI-Personal], a little niece and nephew that are not that old either. Uh, and I'm thinking, oh, how do they even tell them? Oh, that's a shame. I don't know. You wonder why don't you
+Nurse: Like? What's that? I think that why I know, take,
+Patient: Take these perverts off the street don't be taking the good people. I
+Nurse: Know. Oh, my God, we're
+Patient: Not God. So we
+Nurse: Don't know. No, you can't, can't question it but you, but you can't think of it.
+Patient: You know, it's getting worse that you are questioning him.
+Nurse: I know because
+Patient: We never had any of this. Not since we were growing up.
+Nurse: I know. It's like you hear a lot of young people dying. I know. You know, a
+Patient: Couple up here, like, in their [PHI-Personal] and fifties and my son knew one of the kids. He went to school with them. And I'm like, oh, my God.
+Nurse: I know. I just had another patient. Tell me there when her really good friend's, uh, daughter just passed, had a heart attack and she was in her [PHI-Personal] and she was a school teacher. Mm. And, um, she went to the funeral and she said it was just horrible. You know,
+Patient: I, I, you know, I'm so glad they're not having a view because I, I don't think I, I wouldn't go the funeral, like, just at the church you can go nine to the funerals at 11. I think. So. From 9 to 11 you could go pay, pay your, I, I just can't do that.
+Nurse: Yeah. So I, I
+Patient: Was supposed to get [PHI-Personal]. I, I like [PHI-Personal]. I was gonna get [PHI-Personal] sympathy because I sent one to a, uh, you know, one from a sympathy you have to send for, like, money. And that, and then I wanted to get [PHI-Personal] for [PHI-Personal] and her mom and, well, I forgot it's listed, it was listed on the,
+Nurse: My left at home. Yeah. Oh, gosh. Oh,
+Patient: I don't know. It just can't. It's just, and, and he, he's a stunning, he's really stunning. Her brother is, and I said, like he, and he, he said he's got a big three page, like a three on the page. There's three sections for him.
+Nurse: The obituary. Yeah. No, I know.
+Patient: But I just hope and pray he's going to be at peace now because he went through this so long after 10 years. This came back. That's
+Nurse: A shame. Mhm. Oh, gosh. Well, so that's what, how your weekend's gonna go, right. Yeah. No, that's never fun. For sure. Hard. It's like,
+Patient: You know, you figure my God, I, you know what it is. I don't think I would have felt as bad if there was no Children involved, but lean is [PHI-Personal] and [PHI-Personal]. Is [PHI-Personal]. Uh-huh. And his father was a basketball player and this kid, I swear they bought him one for the house, you know, like a, a, what, a ster foam or whatever. And that kid plays basketball all the time. Oh, so you wonder if it doesn't rub up, rub off of them, you
+Nurse: Know? I think it does. Mhm. It's got to be something in genetics that makes, you know, certain families have more athletic people in em for sure.
+Patient: But I kept saying to my son, [PHI-Personal], something's going, something's wrong with, at [PHI-Geographic] because I said, if I called her, she doesn't work on Monday, I'll call her on Monday and I'll leave a message and she'll call me back. I said she can call me back. There's something wrong. So, we went down to Rite Aid and we're coming back home and passed our house and there was no lights on in the house. Only one in the Lena's bedroom. And we're thinking, I said, oh, I said, God, I says, he, I said, I'm, I think [PHI-Personal] died. Oh, gosh, I thought my son met him and everything I said. I don't remember if I met him, like, when I was down [PHI-Geographic] getting my hair done, you know? But could you imagine? Could you imagine? For his mom and dad?
+Nurse: No, I can't understand his wife. His parents are still living. Yeah. Oh, ok.
+Patient: Well, his mom's a nurse. She took care of him, his hospice came to the house. Oh, ok. Yeah. So they kept him down there because, you know, the kids are so young and [PHI-Personal] doesn't have, wouldn't have the time to take care of [PHI-Personal] when she has the kids to be going to, taking them to school and everything.
+Nurse: Right. You know. Well, at least his mom was, you know. Oh.
+Patient: Oh, thank God. He had his mom and dad.
+Nurse: Yeah. That's sad. Oh, goodness. Well, how's your brother and everybody doing? Everybody else is ok. Good. Well,
+Patient: I laugh. He, you have to hear this. LA, what was the last, wasn't last? Was, must have been [PHI-Personal] weeks now. He, he got up to go to the LA, the men's room and at, in the morning, at 1 30 in the morning and of course he forgot to push the buzzer. Uh, oh, so he fell and he ha banged his head.
+Nurse: So he
+Patient: Said his roommates there, [PHI-Personal]. He said, [PHI-Personal], I need help. I fell, call for help. He goes
+Nurse: Help. Oh, God, he for too.
+Patient: Oh, I, so they cover for each other, you know, my, like my brother covers for him. He, if he doesn't feel like one day he was choking. So he leaned on the buzzer to get some in there to
+Nurse: Help him. I
+Patient: Said, I said, you must walk up the whole floor at 1 30 in the morning.
+Nurse: Yell and help. But, oh my gosh. So he didn't hurt himself when he fell. No. No, no, he's ok.
+Patient: He didn't hurt himself. Mm. Mm. He had a little bit of a headache but that's about
+Nurse: All. Yeah. Well, that's good that he has AAA, good roommate that they look out for each other. Well, this guy was in the Navy. Oh, ok.
+Patient: And, and he's funny and, but [PHI-Personal], when he, he goes sleep he'll do, he'll be sitting on the chairs downstairs in the, in the, the sitting room and we split his head back and his mouth open, his teeth are falling down. 00 my God. We were there talking one day and all of a sudden I looked at him and I'm like, wow, they said the, the nurse said [PHI-Personal] wake up, put your teeth back up.
+Nurse: Yeah, that must be a sight. I can envision it. Oh my
+Patient: God. You wouldn't believe some of them down there though.
+Nurse: They're characters, right.
+Patient: Yeah. And then there's this [PHI-Personal] year old lady, she is one, she's such a wonderful person. Now, she was sick and they took her to the hospital but they brought her back. But now somebody told me she's gone again. I, I only go every other day, you know, and she's the nicest person. She's so happy that my son and I come down there because we, you will sit at this table after they play Bingo and we call the crazy table. Yeah. All we do is sit and laugh about everything and this [PHI-Personal], she's got MS and he's in a wheelchair and he's been there a long time. So she knows everything. Right. We laugh when he laughs. You have to laugh because he's hysterical and he always, he has good zingers. If you say something, he zings you right back.
+Nurse: He's got to come back. Right. Uh-huh. So I said, so
+Patient: This poor slow. The one lady I met down there. Mm. When we went down in [PHI-Personal], when you know, she died. [PHI-Personal]. Oh, she was so nice and everything. She loved. My brother. All, all these ladies down there love em. Well, the one lady she raised a see 100. So my brother gave her a kiss. She said I got a boyfriend. I got a
+Nurse: Kiss. That's cute. I love it.
+Patient: Oh, they do. They really like him. Well, you know, my brother's not a smart mouth or, and he's very quiet and everything. But you wouldn't, you wouldn't think this kid was quiet when you see him down
+Nurse: There. Really? Because he,
+Patient: Everybody, how are you and everything else? Uh, it, it just brought him out. He
+Nurse: Said my son,
+Patient: He said this brought me out down here. So I, I did, I tell you he had a detached retina. Yeah, you did. Oh, we had, he went, yes. No taste service season. What was it yesterday? No, [PHI-Personal] Tuesday he went and, uh, he's coming along good and everything. But they have to, I don't, I don't understand what they're talking about that they, they had a, uh, like an oil ball or something that holds the detached retina in or something. Ok. And he has to come back. I forget now in, in [PHI-Personal] weeks I think, and they're gonna get the, take the oil out or whatever it is and they have to put a patch on it. But now he might, this might not work. I'm like, oh God, oh God. And I'm thinking, oh, I hope he doesn't have to have another surgery, another, uh, you know, so he said, and he won't, he, he won't have the same kind of vision. His peripheral vision is very, he can't turn his head and to the right because then he can't
+Nurse: See, can't see. So, oh, gosh,
+Patient: I said, well, how did this happen? I, you know, I said he never, this kid never wore glasses or nothing. Really? Yeah. Oh, we were like, we all wore them, my father, my mother and my sis, my sis, [PHI-Personal] sisters and, and, but my, my brother,
+Nurse: Uh-huh. Oh, so then you wonder
+Patient: Like what happened? Yeah,
+Nurse: I say best he never had any type of eye injury or anything, any that you know of. Hm.
+Patient: But that's how I knew something was wrong because I, I, like he was working down and I take key and he was looking all over the place. I said, I here and then if, when we got, he got in the back seat, I'd say here and he be, I took, he, it's in my [PHI-Personal], I'm shaking it. Uh huh. And he said that's when I knew something. And then I said to him, how come you can't call me when you come home from work? I'm always calling you. What's this trouble?
+Nurse: And I said to him, [PHI-Personal]
+Patient: Left you our number on there for you to call.
+Nurse: I said
+Patient: You can't call, you can't see. He said no, oh my God because that's when it dawned on me that something is radically wrong with his eyes.
+Nurse: Right? Oh gee I'm glad that you
+Patient: Know, and he was in, he was in retail all his life and everything took care of my mom when my dad died. He was only [PHI-Personal] years old and I said, you know, you wonder, I don't know.
+Nurse: Yeah I just hope for the best. That's all you can do. Mhm. One day at a time. That's all. Well, I'm glad you're doing well. Anyways. Thanks for listening to me. You're welcome. And uh you need anything from doctor [PHI-Personal]. Did he take care of your prescriptions? Yeah. No, I
+Patient: Have everything. You're good. I told him I have I have all the prescriptions.
+Nurse: Ok, good. Well you take care and call me if you need anything. Ok? And if not I'll check back with you next month. Ok
+Patient: Then. Alright. Ok. Bye bye. Bye bye.

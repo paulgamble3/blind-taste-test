@@ -1,0 +1,31 @@
+Nurse: Hi, [PHI-Personal].
+Patient: Hey, [PHI-Personal]. Ok. I've got the name of that doctor. I've got her fax number and we can, we can get in to see her on [PHI-Personal]. So, do you, do you want all that information or should I give it to doctor a point when she calls? Ok. Um, ok, you had a long appointment today
+Nurse: With her?
+Patient: Yeah. Ok. And, um, we had a long weekend, Kelly, she, her, her, her, her, yeah, not her. Ok. What's that? Her gallbladder, her gallbladder. Yeah. It, it, oh, it is. It got, it erupted. So she had to go in on Saturday and have her gallbladder out. Oh, no. And so now, yeah. And she's got to stay out of work for like, a whole week now. And, and, you know, and they, yeah, and I guess if they, if they hadn't gotten it when they got it, um, you know, that would have been really bad. So it's bothering her or what? Well, her stomach was bothering her for, for about a week. But [PHI-Personal] the one who thinks if she lets things go, they're just going to. So I kept telling her she should probably go up there but she didn't go. And I think finally [PHI-Personal] talked her into going up there. And, um, so she went to that, that the, the, the one little hospital over there where you just go, you know, urgent care and stuff and then they had to send her up to another hospital and they did it, but they did the surgery and she was only in there for, I don't know, an hour or so. And when I had my, yeah, I had my gallbladder out too at, when, uh, when I was, like, I don't know, [PHI-Personal] years old and I, they cut real big now. They don't cut you as much, I guess. But, but she's pretty sore today. So, but she did, yeah, but she did get me this doctor's name. I don't know. I decided I go because this is the doctor her and the kids go to and the name is a [PHI-Personal] [PHI-Personal]. Mhm. And my appointment is July. July. I think it's the third where is,
+Nurse: Um, this is in [PHI-Geographic].
+Patient: Yeah, this is in [PHI-Geographic]. It's right around the corner from me and I've got a fax number for it too. So,
+Nurse: Is it [PHI-Personal] in [PHI-Geographic]?
+Patient: Yeah, I think that's what it is. The fax. You got a fax number there? I've got a fax number. [PHI-Account], [PHI-Account], [PHI-Personal]. [PHI-Personal]
+Nurse: [PHI-Personal]. Ok. Is it, um, ok. [PHI-Personal] is she a nurse practitioner?
+Patient: No, she, she's a nurse. I think she's a doctor, isn't she? Oh, no, you have the
+Nurse: Address. Give me the fax number again.
+Patient: Ok. [PHI-Account], [PHI-Account]. [PHI-Personal] O2
+Nurse: [PHI-Account]. Uh,
+Patient: Oh, yeah, I thought she was a,
+Nurse: Let's see. Do
+Patient: You have a phone number? I don't have a phone number and [PHI-Personal] gone back in the way down. So I, oh, ok.
+Nurse: [PHI-Account].
+Patient: Can you look up that place and see if the, uh, they probably on the computer and see if there's a phone number and a fax number there.
+Nurse: Is it, um, [PHI-Geographic] medicine?
+Patient: Um, I think it is because I know Brook and they don't take little kids but Brook and more I go there and they're like, oh, they're gonna be [PHI-Personal] and, and if I don't, if I don't like it there, I'll just go back to that where they told me in that other office to go. Ok.
+Nurse: Um, maybe I can call them locations. You would be in,
+Patient: We're in [PHI-Geographic], was it, is it [PHI-Geographic] or, or, um,
+Nurse: [PHI-Geographic] [PHI-Personal]? It's in [PHI-Geographic] Federal Road. And I think I have it. Ok. And I'll just, just go over what their fax number is and everything and I'll, I'll, I'll call you back just to make sure, you know, you know
+Patient: It. And, um, and like I say, um, I guess like this, I don't know, she's a doctor but, um, I'll see
+Nurse: What they need from this doctor.
+Patient: Yeah, that and, yeah, I don't know what I mean. Yeah, that's your point. That to a point want me to send a lot of, I guess a lot of stuff that my guess so. I don't know. And I don't know, I have another thing, I have another appointment with a 0.7 10, I think. Yeah. And I don't know if he wants me to keep that one or not too
+Nurse: Well. Talk to her today. She does the appointment today. Ok. Ok.
+Patient: Ok. All right. And we'll go from there,
+Nurse: But I'm going to call them and I'll get it together
+Patient: For you. Ok, thank you. All right,
+Nurse: I'll call you back. Ok. Bye.

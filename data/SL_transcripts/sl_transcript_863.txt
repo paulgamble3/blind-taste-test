@@ -1,0 +1,3 @@
+Nurse: Mhm. Good afternoon. This is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal]. I have a message just kind of old on the 30th to call you back.
+Nurse: Oh, ok. Give me a second to pull your chart up. Ok. Uh All right there. Ok. Yes, I have your chart pulled up. Is it ok if I call you back in about 10 minutes, will that be fine? Ok. All right, my dear. I'll give you a call back at this number. It ends in 4288. Is that correct? Yes. Ok, perfect. Thank you. You're welcome. Bye.

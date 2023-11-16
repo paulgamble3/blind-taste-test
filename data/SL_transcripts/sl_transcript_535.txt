@@ -1,0 +1,32 @@
+Nurse: Uh, hi, this is [PHI-Personal].
+Patient: Yeah, this is [PHI-Personal]. I think you just called me and I was in my recliner and couldn't get out.
+Nurse: Oh, hi, [PHI-Personal]. Yep. I just left you a message. This is, um, [PHI-Personal] [PHI-Personal]. Right. Right. Your birthday is 10, 8 45. Yeah. Ok, great. I was just calling to check in with you to see how you've been doing since we last talked.
+Patient: Oh, I've been doing good and I got an appointment to see Doctor [PHI-Personal] on Friday
+Nurse: Actually for blood work. Ok. So you're going to get labs done on Friday?
+Patient: Yeah. And then the next Friday I go in and she'll tell me what the results of the lab work was.
+Nurse: Ok. Good. You know, last time we talked about, um, monitoring your A ONE C and, um, watching what you ate and, and your, your current diet at work. Do you have any concerns or questions today?
+Patient: No. Ok. No, I'm doing ok, uh, into
+Nurse: My book. That's what I always like to hear. So good. I'm gonna bring something up real quick. All right. And any, um, issues with your overactive bladder? No. Ok. Um, are you having any um, sudden urges to urinate that is difficult to control. No. Ok. Experiencing any urge incontinence, like in voluntary loss of urine immediately following an urgent need to urinate. No. Ok. Do you urinate frequently? Usually eight or more times in 24 hours? Yeah.
+Patient: Ok. I have for, I don't know, how long
+Nurse: Do you waken two or more times in the night to urinate? Yeah. Ok. And I don't think, yeah, you don't take anything for that right now. So, yeah, that's just some, um, signs and symptoms of an overactive bladder. And if it, if they're starting to become more difficult to manage, it's something you certainly can follow up with [PHI-Personal] about if it's really interrupting your sleep, um, or you're having difficulty getting to the bathroom. Do you wear any incontinence briefs right now? Ok. So, no need for those. So some things that can like, um, some things that disrupt, like an overactive bladder would be like emotional distress or depression, anxiety, um, sleep disturbances and interrupted sleep cycles. Um, there's just some things that could, um, like, make it, like, disrupt it. But if it's, like I said, if they are causing you any hassle, especially during the night or if you start to notice any incontinence, um, something just to bring up to the provider about so they can make any recommendations. I want you to understand it. Jesus is the solution, man. Time. Oh, good. And did you need any medication refills today?
+Patient: No, I just checked with the pharmacy yesterday and they said I don't have anything I need refilled.
+Nurse: Ok, good. Yeah, I pharmacies now they do the auto refill, which is nice. You don't have to worry about it. Um, and then you had an ophthalmology consult on the [PHI-Personal]. Did they make any recommendations?
+Patient: Uh, yeah. Uh, Doctor [PHI-Personal] gave me, uh, eye drops to use. I've been using over the counter eye drops since I had the LASIK surgery. But I started seeing floaters.
+Nurse: Ok.
+Patient: So she gave me eye drops to use to see if that would help and take the pressure down.
+Nurse: Yeah, I see that you started it, um, Latanoprost at night time. Is it in both eyes?
+Patient: Yeah. She said to use it in both eyes. Ok.
+Nurse: Have you experienced any, um, side effects from the OPR?
+Patient: No, not that I've taken note of. Ok.
+Nurse: I just wanna look to see what they are right now, but I'm sure you would notice it in your eyes. Um, so some kind, some common side effects of this. Um, it's like red itchy eyelids, irritated eyes or eye pain. Um, if you're developing any eye infections, um, sensitivity to light. Definitely something to bring up with your ophthalmologist next visit. Ok.
+Patient: Yeah, I think that's been all good.
+Nurse: Ok. Well, before then if you start, I mean, if you, if you haven't had any so far you should be ok. I appreciate you calling back and, um, reach out if you ever need to, I'm always here and if I don't hear from you the rest of the month, I'll give you a call back in July just to check in with you.
+Patient: Ok. Now, I do have one question. Sure. I, when I went over to the eye doctor, they asked me if I had diabetes and I said I wasn't told I had diabetes doctor has said I was prediabetic. Mhm. Is there any way I can get the tester to test the blood sugar to keep it under control?
+Nurse: So you want, you wanna get a glucometer to check your blood sugars? Yeah. Ok. So I know right now let me look at something [PHI-Personal] kids every month, [PHI-Personal], it's definitely something that um yeah, something you definitely can purchase to check if you want the insurance to pay for it. You could get an order um, from [PHI-Personal] to submit it so that you can check your blood sugars at home.
+Patient: I'll talk to her then when I go in.
+Nurse: Yeah, I mean I could send her a note now or would you want to talk to her when you go in to explain? Ok. Sure. Not for glucometer. His wife recall and sunlight walk out for more information on the van or to start your pre trial. Let me just look at your diagnosis real quick. So, yeah, the the prediabetes is on there. Um, and then let me see what your A one C was. I know we talked about your A one C last time. Let me look at my last note.
+Patient: Yeah, when she talked to me last time she said my A one C was good but I had to watch the thing. She said the sugar, my sugar intake.
+Nurse: Yeah, it was, it was 5.8. So that's why she didn't recommend you test your blood sugar at home but if it's something you wanna do I can certainly ask her if that's what you want
+Patient: I would like to keep a closer eye on it.
+Nurse: Ok. Sure. So I'll put that in and I will call you back if um she has any additional questions and let me make sure I have use the pharmacy. Do you use the which pharmacy custom care? Ok just wanna make sure. Right. Yep I'll submit that to you and give you a call back if she has any further questions. Ok sound good. Sounds good. Alright you enjoy the rest of your day and I'll talk to you soon. Ok. Alright thank you. You're welcome bye
+Patient: Bye bye bye.

@@ -1,0 +1,23 @@
+Nurse: Good morning. This is [PHI-Personal]. Hi,
+Patient: [PHI-Personal]. My name is [PHI-Personal]. And you called me recently?
+Nurse: Hi, [PHI-Personal], how are you doing? I wanted to call and just check in on you. I know that [PHI-Personal] was in the hospital or is she still in the hospital? I bet. No, she's
+Patient: Still in the hospital. She had a slight stroke. That's what one doctor called it. Another one called it very deep, whatever that means. Anyway, uh, they've been putting her through all kinds of testing and, uh, seeing if she's, well, uh, she can get back on her feet but she, that was her problem. She was really paralyzed here last Friday and I, I couldn't get her off the floor so I had to call 911 and, and she still can't stand up yet. Oh, my God. She's conscious. She's in no pain. She's, um, you know, got her mind back because they give her all kinds of, uh, in intelligence, questioning and so forth and so on and she passed all those tests and, but, uh, she, she's sitting there, she's eating a bit and, uh, and doing well, I would think as far as recovery is concerned. But what they're gonna do, I understand Taa. Mhm. Is transfer her to, ah, a physical therapy, a rehab place? Ok. And, uh, uh, as you know, [PHI-Personal] has a lot of those and the one that my daughter got window that was the best was this place called? Oh, gosh, what's the name of it? It's right in back there where the big facilities are anyway, that might happen but it might not happen. It, it needs approval from chasing your gold, the insurance company part of it, you know. Uh, of
+Nurse: Course, of course.
+Patient: So that's where we are right now. I went to see her, um, you know, Sunday, Monday and, and yesterday and today Wednesday I'm losing track. Today is Wednesday. Well, I got my shoes on, I was out, you know, early, uh, cutting the, I figured
+Nurse: As much. I, I know I, I was reading up on the charts and I was like, oh, no, she's in the hospital. Yeah. So I wanted to call you and see how you were doing and making sure you didn't need anything and you were taking care of yourself. Ok, while
+Patient: She's there, cook at a house. Well, if you're not busy
+Nurse: I can do the housekeeping part. I don't know if you'd be happy with the cooking part, but get it done. Are you feeling ok though? You keeping yourself, uh, well fed and getting enough sleep. Just
+Patient: My old age aches. And pains and nothing, nothing more.
+Nurse: Ok. Well, I just wanted to make sure you were making, you know, getting enough rest for yourself because I knew you'd be up there with her. And
+Patient: In fact I went to bed early last night and I got up early this morning. So there you
+Nurse: Go. Ok. Then I have, I have no concerns with you. Well, ok. Are you eating ok though?
+Patient: Oh, yeah. Well, my daughter lives next door as you may know. Yep. Um, and she brings me food and, uh, again last night she, she, uh, had my grandson to bring it over and, uh, we, uh, sit and watch the ball game for a while. That's what's happening.
+Nurse: Good. Ok. I'm glad she's next door and can help you out a little bit. So you're getting enough, um, for yourself because, you
+Patient: Know,
+Nurse: I knew you'd be up there visiting her and I'm glad she's ok. I, I just wanted to touch base with y'all and make sure you didn't need anything from me and see how she was doing. Did they say how long they thought she was gonna be up there?
+Patient: Well, if she gets into the rehab facility, that might be about a week, 10 days. I don't know. I, I heard talk like that but I'm not sure.
+Nurse: Ok. Ok. Well, I'll just keep an eye out on her notes and her chart and see if I can see what's going on with her to make sure you all are doing ok. But um yeah, if you do need anything, don't hesitate to call me though. I just wanted to make sure you were doing ok yourself because I know you stay busy.
+Patient: Well, thank you very much for calling. I appreciate it. You
+Nurse: Got it. Call me if you need me. Ok?
+Patient: Ok, thanks. All
+Nurse: Right, take care. Ok, bye bye.

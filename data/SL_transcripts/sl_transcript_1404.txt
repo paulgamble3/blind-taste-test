@@ -1,0 +1,48 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Um, yes, this is [PHI-Personal] calling and you just rang my phone.
+Nurse: Yes, [PHI-Personal], I'm the nurse that calls you, um, from doctor girls [PHI-Personal]. But you've been in rehab. So I haven't been able to speak to you. I understand you're at home now. Is that
+Patient: Correct? That's correct. Yes, I am.
+Nurse: Ok. And, uh, do you still want to participate in this program?
+Patient: Do I, what
+Nurse: Do you still want to participate with me? Calling you every month from doctor's
+Patient: [PHI-Personal]? Oh, I forgot all about that. Yeah, because you have your rehab.
+Nurse: I know.
+Patient: Well, I, I was out of commission for 2.5 months, either in the hospital or in rehab.
+Nurse: I saw that I was looking in your chart. So I, I, and your, uh, either your son or your nephew called to let us know because, you know, I left a couple voice messages and they finally called the [PHI-Personal] and told us where you were. So, and then I know that you just saw Doctor [PHI-Personal] not too long ago,
+Patient: But I saw her on the sixth. Yes, you did. Yeah. Oh, I see her again on the third in [PHI-Personal].
+Nurse: Yes. So, um, so would you still like to interact with me at this time as far as calling you every 4 to 6 weeks to see how you're doing in between your [PHI-Personal] visits,
+Patient: Or? Um, I think that would be nice.
+Nurse: Ok. Well, I looked at your chart. I didn't see that doctor changed any of your medications at this time. Um, she just kind of followed up with what happened with the rehab and your fall and like you said, being out of commission for a little bit.
+Patient: Yes.
+Nurse: Um, I don't see that she gave you any, uh, shots that day as far as the flu vaccine or anything. Um, is that something you're probably gonna be interested in getting, um, oh,
+Patient: Yeah, I wanted it that day and I felt that I wasn't up to getting it. And so, I mean, is
+Nurse: That why you're going back on the third, hopefully to get it then?
+Patient: Well, I hope so. Not, not, it's not the reason I'm going, the reason I'm going is to follow up all this. Uh, I didn't see Doctor [PHI-Personal]. Oh, you saw
+Nurse: [PHI-Personal]? That's right. I see. That's right. You're gonna see Doctor [PHI-Personal] on the third. You saw her P A, um, on the sixth? Ok. Ok, I understand. Well, um, you just had a lot going on the past couple months, haven't
+Patient: You? Yes. Terrible.
+Nurse: Oh, I'm sorry to hear that. Well, hopefully your luck will change and now that you're on the road of recovery, um,
+Patient: I hope so too. Uh, I'm hoping to get pretty much my old life back, but I don't, I don't think it's gonna happen. Well,
+Nurse: Sometimes there's changes that we can't control, we just have to adapt to whatever the new environment is. Do you want me to put in your note for doctor that you want your flu shot that day? And I can put a note in and maybe remind them and they can let you know whether you could have it then or not.
+Patient: That's fine. Ok, because I do want it. And, and I was actually going to my, he's my nephew, he's not my son. And he, um, I asked him to take me over to Walgreens here in [PHI-Geographic] because I can get in and out of the car. And with, I was a walker, I could get into the store and have the flu shot there. Well, he went with me when I saw [PHI-Personal] and he said, yeah, funny. They didn't want to give it to you. Why don't you wait until you see the doctor? So I said, ok, but it's very late for me to be getting the flu shot. My, um, pharmacist that I trust and try to see is in Target [PHI-Personal]. And he recommended several years ago. He said, mom, we have the flu shot. Do you want to get one and this was in [PHI-Personal]. And I said, oh, isn't it early to be getting a flu shot? And he said, well, the kids are going back to school. He says, well, I think it's a good time. So I went with him and I've been getting them toward the end of [PHI-Personal] and now I'm way past school.
+Nurse: I know it's almost the end of October, but [PHI-Personal] is still not too late. So, um, I think your nephew's right. I think just wait and when you see the doctor on the third, um, you can do that. Did [PHI-Personal]? Um, did you have any medication refills that you needed at that time or need now for that I can help you with?
+Patient: Um, well, no, not then I said I didn't need any, I'd like a couple of refills. Um, oh, they're, they're so hard to, um, what else that they're, they're creams. I can't, I can't pronounce the word. Ok.
+Nurse: So your topical creams are the ones you're needing? Is that what you're needing?
+Patient: Well, I need, see if I can read it off this tube. Is it the try and m the, you know, bone Aide Aide [PHI-Personal]? Ok. Do you know what I'm talking about?
+Nurse: Well, I don't know. That's the one I have. I have the one that's spelled, um, uh Chloro Beam [PHI-Personal]. So,
+Patient: Is that the c that's the second, that's the second one,
+Nurse: The first one. Did you get that in rehab.
+Patient: No, I got it years ago. Uh, um, um, I think originally, um, my gynecologist. Well, I don't see any more prescribed it. Oh, I see.
+Nurse: I see. The one you're talking about now, it looks like it was discontinued actually on your appointment. No, wait.
+Patient: Oh, we didn't discuss it that I remember.
+Nurse: Yeah. Um, so maybe you probably need to take those two things with you when you go see Doctor [PHI-Personal], tell her that you're still using them
+Patient: And you
+Nurse: Refilled the other one I can refill for you. Uh The first one though, I, I finally found it on your discontinued list and it looks like they took it off on the sixth, which I'm thinking that's when you went to the [PHI-Personal]. Yeah. Yeah.
+Patient: Yeah. Yeah, I, I, they didn't ask me about it. Well,
+Nurse: Um yeah, I don't know I wasn't there but yeah, just take, take them with you and tell Doctor [PHI-Personal] that you're still using all and then she should get you refills on those.
+Patient: Ok. Ok. Well, glad you're
+Nurse: Doing better and I'm able to talk to you. I will call you in about 4 to 6 weeks to see how you're doing and just know um, the number I'm calling from if you or your nephew have any issues and wanna reach out to me, you can call me any time Monday through Friday from 8 to 4 30. Ok. Ok. Ok. Well, you have a nice day. Is there anything else I can help you with,
+Patient: Did you say on Friday? No, I said you
+Nurse: Have a nice day.
+Patient: 00, ok. So any time if I have an issue I can call Friday? Yes. Ok. Ok. Alright, thank you.
+Nurse: Yeah, have a nice day. Bye bye
+Patient: Bye bye.

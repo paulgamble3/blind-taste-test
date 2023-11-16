@@ -1,0 +1,9 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi [PHI-Personal], how are you?
+Nurse: I'm good, thank you.
+Patient: Good, [PHI-Personal]. I uh trying to catch up with [PHI-Personal]. She's been calling me a couple times and um I thought I already may have discussed something with you but she's called me back so I'm returning her call.
+Nurse: Ok. Uh can I have her give you a call right back then? I do see uh her notes here. Well, let's see actually is your date I wanna make sure I have the right chart. Is it is your date of birth? [PHI-Personal].
+Patient: It is.
+Nurse: Ok. So it looks like you would actually be. Well, [PHI-Personal] was of course the one that you had spoken with last, but it looks like you're assigned to nurse [PHI-Personal] so she could be the she would be the one that gives you a call back. Ok. Alright, so I will go ahead and send her a message now and then she'll give you a call back here shortly then. Ok.
+Patient: Ok, thank you very much. Ok,
+Nurse: Thank you. Have a good one. You too. Bye bye. Thanks bye.

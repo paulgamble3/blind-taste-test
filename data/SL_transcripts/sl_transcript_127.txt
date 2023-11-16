@@ -1,0 +1,75 @@
+Nurse: Good afternoon. This is [PHI-Personal]. Can I help you,
+Patient: [PHI-Personal]? Just [PHI-Personal] Fry. I'm sorry to bother you. But, um, if I really have to come in to see the doctor, I, I, what, what is available this month, do you know? Or do I need to make that through someplace else?
+Nurse: Um, I don't have a, let me, I don't know if I could see their schedule. Let me take a look. Ok. Schedule. No, I,
+Patient: I, um, got scheduled for an eye appointment about getting my cataracts done, but it's not until [PHI-Personal]. So, um, yeah, I was hoping it would be the end of the month but they is that they already gave that last appointment to someone. So.
+Nurse: Oh, ok. Yeah, because you were trying to get them, like, pretty much the same time, right? I was hoping
+Patient: To get in the same day, but then my daughter could bring me. But, um, yeah, so, so
+Nurse: What day, what day is that? [PHI-Personal]
+Patient: For the cataract evaluation? Yeah, it's for [PHI-Personal]. Mm.
+Nurse: Yeah, that's, that's a month out yet. Um, yeah, and I know he wanted those labs done. Uh,
+Patient: So you know, if I, if I get in there this month then whatever it is he's wanting to, whatever labs he's wanting to run because I'm not gonna do some of the other stuff they want me to do. But, um, but then they could do that, that, that should be good for that appointment. Right.
+Nurse: Yeah, it just looks like the, the orders that he wanted, he just wanted the, um, lipid profile. Um, the hemoglobin, a CBC, a complete blood count and a basic metabolic panel. So, just lab work.
+Patient: What is, what is the lipid flow profile?
+Nurse: Uh, so that's a cholesterol, um, profile. So, it'll show, um, you know, your whole range of cholesterol. So, like cholesterol, LDLHDL
+Patient: They check and that, but I'm not gonna take that medicine. Yeah.
+Nurse: And that's, yeah, but that's just routine, to be honest, like a waste
+Patient: Of money
+Nurse: For medication or no, for the, for the testing.
+Patient: Yeah. Just because we already know that it was a little up. But, um, yeah,
+Nurse: But it's, I mean, it's, it's important, um, I get mine done yearly. It's just a routine lab check that they do. Um, so, yeah, it just part that,
+Patient: Like several times. Uh
+Nurse: Huh. Yeah. Well, when it's off they tend to
+Patient: Money. Yeah.
+Nurse: Oh, well, diabetic too for the, yeah. Um, but being a diabetic too they do keep a close watch on cholesterols too. With, um, with diabetics. So, um, what,
+Patient: What is, what is a good, uh, what, what are other options with that? Like, you should eat more, more of this or not eat that kind of
+Nurse: Thing for the cholesterol. Yeah. So, normally with cholesterol you really wanna try to avoid fatty foods, processed foods. Um, so, you know, instead of using like butter, using olive oil, um, avocado oil, that's more of the good fats than the bad fats. Um, you know, staying away from processed fast foods, um, cookies, like packaged cookies. Crackers.
+Patient: Oh, well, I can't eat that stuff anyway.
+Nurse: Yeah. You know, incorporating more fruits and vegetables into the diet, you know, and just keeping mindful of, you know, sometimes good things have a little bit more sugar content. So you just kind of have to watch between both. Um, but, yeah, the biggest thing with cholesterol it's diet and exercise. That's the main things that you can do to help with cholesterol levels. Um, you know, the more sedentary you are, um, you know, can increase cholesterol levels. So, yeah, the, the biggest thing is diet and exercise. Um, some mo postmenopausal women are more prone. Um, sometimes that can just cause, you know, higher cholesterol levels, unfortunately. Mhm. Um, so you just really,
+Patient: So many fruits have so much sugar in them.
+Nurse: They do. It's natural, it's their natural sugar. Um, but I mean, it's still the benefits that's in fruits and vegetables. Vegetables are huge, you know, definitely getting those greens in, um, you know, just really watch fats and sweets. Um, anything with that's canned, you just wanna make sure you rinse, um, you know, before you eat but, oh, ok. Yeah. Yeah. So I always say try to stick to like, fresh or frozen whether it's, um, you know, especially in the vegetables, try to stay away from the canned, you know, the beans. If you buy beans, try to get the ones that you would boil yourself and make, um, and try to avoid the canned stuff because it really is full of sodium. Um, it's more processed that way.
+Patient: Ok. Ok. And that, that's kind of goes along with what you were telling me about. The like, oranges can be ok. But not the juice because it's processed.
+Nurse: Yeah. And just watch too, like, um, having a little bit like a little glass of orange juice, you know, I definitely wouldn't be drinking like a 12, 16 ounce glass of that at one time. That's gonna do an immediate spike in your sugar. But if you wanna have like a four ounce glass of juice with breakfast, that's ok. Um, you know, it's just everything in moderation. Right.
+Patient: Well, I, is there, is there certain things that help really keep that blood sugar down? I mean, I haven't had, I don't think I've ever, I haven't checked it in, uh, weeks, weeks, weeks that it was over like 100 and 40 or something after I've eaten.
+Nurse: Ok. Well, that's good. The main thing. Um You wanna try to keep the biggest thing that you could do, obviously is monitoring the carbohydrates, obviously, you know, which is sugars. Um You know why is good. Um But you wanna watch um trying to eat, trying to eat like stable throughout the day. Um You know, you don't wanna be skipping meals, you don't wanna be overeating on one meal. So it's all about the balance and what you're eating throughout the day. So they say if you can eat three meals a day, it just helps keep that sugar kind of like in a, in a line if that makes sense. Um, you know, and then eating snacks here and there, but if you're not hungry for a full meal because most people don't eat three full meals a day and that's ok. Um, it's just, I know
+Patient: Two works for me.
+Nurse: Yeah. And it's about, you know, whatever meal that you're not hungry for. So say it's lunch. So you, you ate a good healthy breakfast, you're just not hungry at lunchtime, just snacking on something healthy. Um, just to keep the sugars maintained, you wanna try to avoid the spiking up or down um, trying to keep it at a maintain level. Ok.
+Patient: Ok. Ok. And now I have another question and hopefully this doesn't come across wrong. Ok. I, I'm not, I'm not a drinker but occasional glass of wine is kind of good. Mhm. Or a beer is the, is that, is there anything, is, is that anything that you know about that would be ok because, I mean, I wanna do that. Mhm.
+Nurse: Right. Well,
+Patient: I, I think the last time I had a drink was probably before I got sick and that was two years ago.
+Nurse: So well, and like everything in moderation. So, wine, um, it's, you know, it has grapes, um, and it does have sugar so I would avoid the sweet wine, you know how they're based on a level. Um, you know, from dryness to [PHI-Personal]. Uh huh. You wanna kind of? And I know that the sweeter ones are the more fruity ones like the blueberry raspberry. Um, try to avoid the sweeter level of the wine, um, and try to stick to like semi sweet. Um, usually like the blush colors are not as sweet. Um, don't tend to be, but again, you could see it on the [PHI-Personal] level. You wanna try to avoid those high sweet ones like 34, try to stick to like a one or two level. Um, does it show that on
+Patient: The bottle?
+Nurse: Well, to be honest, I don't buy it from the like liquor store. I always get mine from the actual wineries. Um, and getting them from. So wineries too, I say are a better place and sometimes the wineries will sell them in, in the liquor store. Um, I don't know, I don't really go to a liquor store because
+Patient: I don't really like, I really don't know anything about it. I like the [PHI-Personal], mhm.
+Nurse: Um, so [PHI-Personal], I believe is a, um, it's not as sweet. Let me look because my grandma used to drink that and I didn't like it way back when, because I thought it tasted like vinegar. Um, of course, my taste is different. The older I get, I don't like sweet stuff. But, oh,
+Patient: [PHI-Personal].
+Nurse: But I'm thinking that's more on what is that called?
+Patient: Serve that at [PHI-Geographic] or,
+Nurse: Uh, Olive Garden. Olive Garden. Yeah, they do a s too. The s is not bad. Oh,
+Patient: Ok. And they have the, they have the, like a white Zen and I think they have a rose color, don't they? Mm. We had that at my daughter's wedding.
+Nurse: Yeah, I'm not sure. So is suite. So it's semi suite [PHI-Personal]. Um, it's saying that it's more of a semi sweet. So it's better than like pure sweet. Um, yeah, but again, uh, just, you know, everything in moderation if you, yeah, if you have a glass it, it may, you know, give you a little bit of spike in the sugar. Pro not enough to throw you, like over the limit. Um, beer has carbs. So I would try to stick with like a lighter beer. Like if you wanted to have a glass of, of beer. Um, you know, like Myelo Ultra, um, Corona. They make a premier version which is a lot less carbohydrates in it. Um, so the lighter beer, craft beers are, are very full of carbohydrates. Um, so if you get like, a lighter beer, um, or like the ones they call Premier, um, they have a lot less carbohydrates in them,
+Patient: You know, once in a while it just sounds good. Mhm. If you're gonna eat a piece of
+Nurse: Pizza. Uh huh. I agree with you completely. Nothing wrong with that. It's refreshing actually. If you do, um, like a Corona premiere with, um, you know, a lime in it, it's just a little bit refreshing on a hot summer day.
+Patient: Yeah. Yeah, it can be. And, and, you know, I like, II, I don't often drink but when I do I always make sure I eat. But, um, I think that what, what about like a marga, a margarita? Does that? Is that a lot of sweet?
+Nurse: Yes. Yes, it is. Mhm. A lot of those mixed drinks have, um, like, uh simple, what they call simple syrup in them. Um, the premixes have a lot of sugar in them. Um, you know, the, the actual liquor, whether it's vodka, tequila rum, um, you know, wouldn't so much have that in there. I mean, a mixed drink would probably a better option would be like doing a vodka with tonic water with a lemon and align in it. Um, or,
+Patient: And that
+Nurse: Sticking away from the fruit juice because the fruit juice additives that they put in that, you know, would it be sweeter? Mhm.
+Patient: Ok. Ok. Yeah. Well, that's really helpful and that's, that's not big deal. I told my daughter, I said I'm gonna ask her and she's like, just gonna think that you don't have anything to do the drinking.
+Nurse: No, I mean, it's good to, it's good to ask, you know, but again, everything in moderation, if you wanna have a glass of wine, I just stick to more of the, um, you know, down towards the drier level. Stay away from the, on the [PHI-Personal] scale.
+Patient: Ok. Ok. That's, that's helpful. You just don't know. And it's like, oh, gosh, that sounds really good. And then I, I just don't wanna get myself in bunch of trouble because, oh, I'm dealing with this anyway and I sure don't wanna deal with anymore.
+Nurse: No. Yeah. Yeah, absolutely. No, it's good to ask. Um, yeah, so, but there's, there's better choice options available in pretty much any category that's out there, whether it's food drink. Um, you know, and it's just being mindful of what those are and incorporating, you know, the best choice option for you.
+Patient: Yeah. Well, and, and it, I guess it kind of feels better to know what you kinda can have. That's still good. Mhm.
+Nurse: Yeah, absolutely. I, I
+Patient: Mean that, yeah, rather than I can't have anything anymore that tastes good. So. Ok, that's, um, you're so helpful. I, I appreciate you so
+Nurse: Much. Oh, you're welcome. Um, but as for the appointment wise, I am not able to like, see what's available. Um, you know, I need to call and set up the visit or if you wanna call,
+Patient: I, I can, I can call back in and get that, that settled and, and appease doctor and then we will talk with him. Uh, he may have forgot or that he, that I, every six months or, hey, maybe he had another reason. So, um, whatever it was,
+Nurse: Uh, I definitely would ask him, you know, and just kinda, yeah, and just state, you know, I thought we could do this every six months. You know. What are your, what do, what do you think? You know? And then before you leave that day, schedule out for six months in that way it's, you know. True. Yes.
+Patient: Oh, sure. Then it, it's already in there. I'll be so glad, get to where I can drive again myself and it won't be so bad. But, oh,
+Nurse: Well, pretty soon, pretty soon you'll have your consult.
+Patient: Yes. Yes. So that'll be good. And, um, ii, I don't think there's any extra labs that he has to order for that because of that.
+Nurse: Um, I wouldn't think so. No. And you're gonna have current labs done a month prior anyway. Um, yeah, I think you'll be fine. I don't think you'll have to have anything extra. Oh, ok. And
+Patient: They should be able to draw, to pull that up. Now that it's gonna be a doctor from the clinic.
+Nurse: That is correct. Yes.
+Patient: Yeah, because I I was going to go to [PHI-Geographic] and I had an appointment with them. Um but that about three days before that appointment is when I fell so that wipe that out and now they do [PHI-Geographic] doesn't have a doctor that comes to [PHI-Personal] right now to do that. No, the if do going to doctor [PHI-Personal] will be ok and they can pull up all my insurance anyway.
+Nurse: Yup. Absolutely.
+Patient: Alrighty. Thank you so much. Thank you. You're welcome.
+Nurse: You're welcome, Judith. Well, have a wonderful weekend. Well, you do the same. Thank you. Thank you. Alright. Ok, bye bye. Good bye.

@@ -1,0 +1,32 @@
+Nurse: Hello, this is [PHI-Personal]
+Patient: Carry. This is to [PHI-Personal] returning your call. Hi, how are you? I'm good. How are you?
+Nurse: I'm doing well, thank you. Let me, uh, jump in your chart here.
+Patient: How come on, caller ID, it showed up and I call val view.
+Nurse: Um, well, because our, um, our phone system is just across family practice in general. So family practice is a big umbrella of all kind, all different physician offices. So, like when you call my phone number it rings to my desk, but when I call out it could ring out of any of our phone lines. You know what I mean? Yeah, I see. That's cool. I wish that they would change that though because I don't know, I would think it would make it confusing for somebody who's, you know, trying to get a phone call from or gets a phone call from one of us and, and they don't know who it is and had it rang from our phone number, you know,
+Patient: If I wouldn't listen to your message and call that number, what would have happened.
+Nurse: Uh, I would have called you next week.
+Patient: I wouldn't have got anybody.
+Nurse: That's true. That's
+Patient: True. Ok. All right. Now I know.
+Nurse: Um, all right. So I was just calling to check in, see how things were going since we had, spoke last, um, any changes to medications or health or anything.
+Patient: I'm in good health. The only question I have since the last time I called you or talked to you is, uh, my wife used to complain about him. An eye got what, what makes a floater in your eye
+Nurse: [PHI-Personal]? Um, it could be, um, like your retina, you know, sometimes the lining around your retina. Um, you know, with age it deteriorates. It could be that, um, you're not diabetic. Right. Right. Um,
+Patient: I mean, is, is something to be concerned about. Uh, I know my wife used to get them but she got her eyes done with LASIK and now she doesn't have a problem at all and I'm thinking about it myself. I only started wearing glasses like three years ago, you know, first I needed readers and then, and, and I can still live without em, but it looks a lot clearer with them, you know, and I'm actually thinking about Lasi one of these days myself because are a pain in the neck. They are. But I just started getting it every now and then, looks like on my right eye. I think it's a, like a fly or a nat. Mhm. And it's just a little dark spot every now and then goes across and it, I just wondered what makes that.
+Nurse: Yeah, like I said, it's typically, um, you know, because the, the strands around your retina thin as you get older and, um, you know, just kind of start to deteriorate. So it definitely could be that, are you having any pain in it? Like when you move your eyes? Ok. Um And I can't honestly say if, mm you know, Lasix fixes that, I don't know that, you know, I can't give you an educated guess on that one. but I mean, definitely it would be something to look into. Yeah. I mean, if it's something you're curious about, um, and then definitely talk with your eye doctor about the [PHI-Personal] because, you know, they would have, they would know more about that than I would. But that would be my guess is, it's just that, you know, that natural deterioration with age.
+Patient: Mhm. Other than that, I'm fine.
+Nurse: Good. I'm glad to hear it. How about, um, are you having any, um, flare ups of GERD? Of what of GERD? That's like indigestion? No, you don't have that? Mm. Ok. And then how are you doing as far as diet goes for cholesterol? Watching your fatty foods, um, red meats, processed meat, that type of thing. Yeah. I'm good. Ok. Um, when do you, I don't see that you're scheduled for, in the office any time soon. Do you know when you have blood work again?
+Patient: I only get blood work once a year and that's ok like that.
+Nurse: Ok. And so your last appointment was in [PHI-Personal]. So you're on, you only do your wellness visit once a year. Yeah. No. Ok. All right. Very good. I'll tell you, I'll go back and look at those lab results from last time you were in.
+Patient: Well, I talked to Gen, you know, [PHI-Personal] my doctor and, you know, [PHI-Personal], I'm sure. Yes. And, uh, you know, uh, I'm trying to get his first name. Doctor [PHI-Personal]. U urologist in [PHI-Geographic]. Ok. He was my urologist all my life and he just retired and, you know, I had a rady go back 15 years ago and, uh, you know, I always did blood work with him and I said to this last time I said, can't you just do that? I mean, my blood work is zero point, my, uh, 0.0. You know, my, uh, what I wanna, what, what's the word I'm looking for? Like your pshps. A yes and said the, the rabbit. Well, why being I don't have a prostate anymore? Always check my blood work. Well, he said the, the cell could have got outside of your prostate, but we caught it early and, and it's 0.0 on my life. But, you know, and I said, why must I run out to a urologist? Can you just check that? She said? Yeah. So, I, you know, I have no urologist anymore. I just figured, you know, you guys can do that there in the office. Mhm. Concern.
+Nurse: Yeah. Yeah, that shouldn't be a problem at all. When's the last time you had it checked? Was it recently when you came in, in [PHI-Personal]?
+Patient: Yeah, every year I get blood work for that. Ok. And everything else. But, uh, yeah, it's been checked.
+Nurse: Ok. Yeah. Very good. No, any problems with urination, everything's ok. No,
+Patient: Everything's good.
+Nurse: Perfect. Ok. All right. Very good.
+Patient: And I was yelling. I got lucky.
+Nurse: Yeah. Yeah, definitely. Um Do you need refills on your atorvastatin?
+Patient: I think I just got one. I don't know. What does it show anything on my record? There? One
+Nurse: Is it was reordered. Yeah, at your visit in [PHI-Personal] and she did ok, she did three months worth and she gave you two refills. So you should be good for the next six months with that. Um So all I have you on is atorvastatin fish oil and a multivitamin. Is that correct? Correct? Ok. All right. Very good. Well, do you have any questions or concerns about today or for me? No, I
+Patient: Don't say I'm good.
+Nurse: All right. Very good. Well, I will reach back out to you about a month from now, but if you would need anything before then don't hesitate to call. Ok, sounds good. All right. Thanks so much for calling back. Yep. You have a good day. You too. Bye bye
+Patient: Bye.

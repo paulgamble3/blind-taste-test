@@ -1,0 +1,38 @@
+Nurse: Nur case manager. Yes, this is uh
+Patient: [PHI-Personal]. Did you just call me?
+Nurse: Yes.
+Patient: Oh, ok. Well, I got, we have a few minutes now. My wife says, why don't you just call her back and get it over with? So,
+Nurse: Sounds good to me. All right. So let me just get back to your chart quick.
+Patient: I will.
+Nurse: All right. So are you ready to go over your meds? Yes. Ok. Do you take your albuterol inhaler as needed
+Patient: Just as needed?
+Nurse: Yes, perfect. And do you still take the amoxicillin?
+Patient: That's just before dentist appointments. I take that.
+Nurse: I'll put a note in there. So not everybody keeps asking you about that. Um, low dose aspirin every day. Yes. Atorvastatin daily. Yes. Dil Xr Yes, Eliquis. Yes. One in the morning and one before bed. Yes. Ibuprofen as needed.
+Patient: Uh I haven't been taking Ibuprofen. I've been using uh uh Tylenol.
+Nurse: Ok. And then um LORazepam as needed for sleep. Yes. Uh Losartan twice, two tablets daily. Yes. Meloxicam once a day for pain. Yes. Metoprolol, once a day. Metoprolol. I, I always say it wrong. Um Multivitamin. Yes. Krill oil.
+Patient: Yes.
+Nurse: Uh f
+Patient: Uh I, I don't take that anymore.
+Nurse: Ok. Ju you're done with it or you take it as needed.
+Patient: Well, if I got real bad. Oh, real bad stomach problem. I might take one. But I have, I've taken, uh, I, I started taking, uh, apple cider vinegar with it, uh, in water and, and I haven't had heartburn or anything since I started doing that.
+Nurse: So. Ok. Perfect. And then Krill oil. Oh, I already asked you that [PHI-Personal].
+Patient: Yes.
+Nurse: Uh your eye drop Timolol ate. Yes. Um, another eye drop travoprost. Yes. Uh cream as needed. Yeah. Ok. And vitamin C. Yes. Do you take anything? I didn't mention Tylenol. Uh
+Patient: Just the Tylenol. Yeah.
+Nurse: Ok, perfect. And are you having to take the Tylenol a lot or just as needed?
+Patient: No. Huh? Uh, just one just once in a while?
+Nurse: Ok, perfect. All right. Um, do you have any questions for me? I do. What can I help you with? Uh uh,
+Patient: As a matter of fact yesterday I got a phone call from my pharmacy and they said they wanted to know if, if my doctor knew I was taking uh Meloxicam and the Eliquis that, you know, on the same day because they said Meloxicam can also be uh, can thin the blood. Yep. And I, so I, and I did call just a little bit before you called. I, I called the doctor's office and uh, left a message for them to contact Doctor o'neal on that. But I didn't know if you could uh if you could answer that question or not
+Nurse: Only the doctor can answer that question but I do see that they put in a triage message to Doctor o'neal so they are just waiting to hear back from him on the answer. Ok, so they did get it and it is in doctor o'neill's um in basket so you should have an answer about that soon. All right. Alright. Do you want my number in case you need to call me before I call you? Uh yeah please. All right let me know when you're ready. I'm ready. [PHI-Account]. Yes. [PHI-Account]. Yes. [PHI-Account].
+Patient: Ok. Name. Yeah. Ok. What's your name again?
+Nurse: [PHI-Personal]
+Patient: [PHI-Personal] [PHI-Personal] or Y
+Nurse: Yes, [PHI-Personal]
+Patient: Ie. Ok. Ok. Yeah that that'll be good then. Yeah, I have any questions then I can contact you
+Nurse: Exactly if you need me, call me. If not I will call you next month and check in and see how you're doing. Ok, thank you. You're so welcome. Have oh and one more thing I'm gonna send you a letter it says welcome and gives you wellness goals for the year. It's already things you're doing but it just lists out things to check off during the year like wellness exam lab work, stuff like that. Nothing crazy.
+Patient: Ok. All
+Nurse: Right. All right. Have a good day. Good luck cleaning.
+Patient: Yeah. Yeah. No such thing
+Nurse: I know. I know. Bye.
+Patient: Ok.

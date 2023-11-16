@@ -1,0 +1,33 @@
+Nurse: Hello. Good morning. This is [PHI-Personal] nurse care manager. How may I help you?
+Patient: Hi, this is Jean Mayer. Nicole with my case manager. Is she there?
+Nurse: Um, let me see one second. Yeah, actually, now they have you assigned to Il, but I can see if Nicole is available.
+Patient: Ok. Otherwise, yeah, I just have a quick question. I just didn't know. Give
+Nurse: Me one second here.
+Patient: That's where that they changed it already. Not that I really need one, but like to have a person. Nice to have a number that works.
+Nurse: Right. Somebody answered. Right.
+Patient: Exactly. A human that I appreciate.
+Nurse: Ok. I'm just pulling up your chart here. Let me see. Um, I'm just checking to see if their line is open if they're not talking to somebody else right now. And what was your question concerning? Um,
+Patient: So I have an appointment this afternoon at 2 30 I think with doctor because I have like some prolapse issues, I think, but I have clearly got a cold and I tested twice. I'm negative, but I didn't know whether you still didn't want people coming in. I have like a temperature of 99.7. Ok, so that's my question. Should I come in? Should I cancel?
+Nurse: I can find out for you? Ok, thank you. Yeah, sure. No problem. I'll give you,
+Patient: I'm not having any issues with the reason that I was having the appointment, you know, it kind of comes and goes and since I called I had nothing so.
+Nurse: Right. Ok. Yeah, let me see. Ok, and I'll give you a call back. Ok.
+Patient: All right. And I don't think I need an antibiotic for this, but you never know. So, whatever, whatever respiratory thing, I'm sorry? Ok.
+Nurse: And what, what, when did the symptoms start for you?
+Patient: The respiratory on Friday with a sore throat? Friday?
+Nurse: Mhm. Uh,
+Patient: Sore throat. I, I've been out of town so I'm guessing I picked it up on an airplane.
+Nurse: So. Ok. And then you said your fever is 99 point
+Patient: 7.7.
+Nurse: Yeah. Ok. And then besides having the sore throat, are you having any, um,
+Patient: Drainage? I, yeah, I mean, I've got stuff in my nasal passages and a little bit of a cough. Not bad yet. Ok. Last time this was a sinus infection, I'm hoping it's not bad again because that was not fun.
+Nurse: Ok. How are you feeling to? Actually,
+Patient: I'm not that. Yeah. No, I'm, I feel fine. So you
+Nurse: Feel fine to get around and get up? Yeah.
+Patient: Yeah. Yeah. Yeah. Yeah. It's just, I, you know, eventually when you, for me, I, uh, it seems like a low grade fever is my major symptom and that eventually kind of kicks you. So.
+Nurse: Ok. Well, we definitely wanna make sure that you continue to stay well hydrated, uh, to clean all of that out. And then, um, are you drinking any, like warm broth or
+Patient: I'm having a cup of coffee right now. So I guess I
+Nurse: Continue to drink your warm fluids and then also try to use the shower, the steam in the shower to help make up some of that congestion when you have a chance. All right. So I try to see, um, what they think would best would be best. Usually if you're running a fever, they don't want you in the
+Patient: Office. I, that's why I called. So I, that, well, if you're still
+Nurse: Needing to complete your appointment, maybe they can switch it to a telehealth visit if your symptoms have subsided or whatever.
+Patient: Ok. Yeah, that either way is fine. Yeah, just let me know and this number is fine. Ok. Thank you. Bye bye
+Nurse: Bye.

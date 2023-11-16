@@ -1,0 +1,23 @@
+Nurse: Hello. It's
+Patient: [PHI-Personal]. Hello, Miss [PHI-Personal]. How you
+Nurse: Doing? I'm good. How are you doing? My dear?
+Patient: Yeah. Miserable. What's going on? Um, sinus infection? Oh,
+Nurse: Ok. When did that start?
+Patient: Mhm. Mm. Last week it's just gotten worse. Ok. Where, um, it affected, like I, I had to take a Benadryl cause my eyes was so, it felt like somebody was really scratching my eyes. Ok. A and I'm coughing. Yeah, I've got like, I'm just miserable.
+Nurse: Any fevers at
+Patient: All? No. Ok.
+Nurse: Nasal congestion. Are you having, like, headaches?
+Patient: Yes. Ok.
+Nurse: Any body aches at all?
+Patient: No. Ok.
+Nurse: Fatigue. Kinda feeling tired,
+Patient: Tired my ear,
+Nurse: Your ears hurting too. Which ear?
+Patient: All right. Mhm.
+Nurse: Mm. Ok. And when did you say this kind of started?
+Patient: I wanna say last week. But I could be off on my dates. Ok. Or it was maybe, uh, wait, last week would be actually last week. Right? I think it was the week before because that was when I was up in the, where the mountains. I see. Ok. Yeah, that's ok.
+Nurse: All righty. And you said you're not having any fevers? But are you, like, um, blowing your nose a lot? Is it kind of like really stuffy?
+Patient: Yes. Blow my nose. So I, I've used my Flonase. I use, I've taken Claritin. Yeah, I've done, I done it all. Ok.
+Nurse: All righty. Well, let me send a note over to doctor here and see what she thinks. Ok, maybe we can get, just make sure you're staying good and hydrated all that good stuff. Um, and we'll see if maybe she'll have an idea of what we can do for you. Ok. Ok. Thank you. You're welcome. Let me just look. Do you have any appointments coming up at all?
+Patient: I can't remember if it's next week or the week after. I know it's [PHI-Personal], but I can't let's see here.
+Nurse: Ok. May 3rd. So. Ok. All right. Let me see what she has to say and I'll get back to you. Ok. Ok. Thank you. Thank you. Uh huh bye bye bye.

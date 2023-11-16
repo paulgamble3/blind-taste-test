@@ -1,0 +1,14 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] calling. I had a missed call from you.
+Nurse: Yes, [PHI-Personal], how you doing today? Good. How about you? Good. Give me one quick second just to pull up your profile here. Yes. So [PHI-Personal], the reason for the call today, I just wanna let you know everything on this call is being recorded for quality purposes. But the reason for the call today is Doctor [PHI-Personal] has a new care management program which she is providing basically, it's just a call from a nurse to help answer any questions, refill prescriptions about previous or future visits, discuss any new issues going on and things of that nature. This is a program which you were qualified for [PHI-Personal] which allows you to maintain peak health by having this nurse contact you. All of these calls are documented and sent to Doctor [PHI-Personal] for review and are treated as billable services to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers and may be subject to deductibles, your copay and coinsurances. Now, I do see you have the [PHI-Personal] and the A ARP. Is that correct?
+Patient: Yeah. Mhm.
+Nurse: Is there typically a copay when you see the doctor in the office? No, no, no. Awesome. Just wanna let you know, you also have a $0 copay for this program, which is great news. Is there a time, is there a time of day that works best for the nurse to give you a call morning or afternoon?
+Patient: Oh, gosh, it all depends on the day. Um, I'm home today. So, if that's possible,
+Nurse: The call probably wouldn't happen for the next couple three weeks. So it's just kind of a general general time frame.
+Patient: Ok.
+Nurse: Yeah, uh if I need to put it as a hit hit or miss, I I can do that. Uh that's not a problem
+Patient: For you at all. Yeah, let's do hit or
+Nurse: Miss. Ok. Awesome. I do wanna also mail you more information about the program. I have the address of [PHI-Geographic] in [PHI-Geographic]. Is that correct? Yep. Mhm. Awesome. Thank you so much for your time. I greatly appreciate it. Have a great rest of your day. Ok,
+Patient: You too. Thank you very much. Alright,
+Nurse: Bye bye
+Patient: Bye bye.

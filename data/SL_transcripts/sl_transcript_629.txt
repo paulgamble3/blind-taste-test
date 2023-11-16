@@ -1,0 +1,120 @@
+Nurse: Hello.
+Patient: Hey Sonic, it's [PHI-Personal] again. I'm so sorry. I had to hang up. It was somebody was trying to scam one of my accounts and there was a call coming in from [PHI-Geographic] that had to take care of it. So
+Nurse: Everything's going [PHI-Personal]. And I understand all of that. We just had to close a, uh, a card ourselves with that.
+Patient: Yeah, it was some, somebody texted me in the middle of the night with some garbage and, and it wasn't, it was a scam. So, um, we, we won't be interrupted again. Um,
+Nurse: So I did do more of a deep dive on her chart here and definitely does not look like those concerns have been discussed with Doctor [PHI-Personal]. So I'm gonna put a note in and see now Doctor [PHI-Personal] is on vacation until next week. So I,
+Patient: Well, she has an appointment scheduled in [PHI-Personal].
+Nurse: Yeah. So I was going to see maybe if he wants to move that appointment up a little bit.
+Patient: Ok. It,
+Nurse: The [PHI-Personal] appointments, [PHI-Personal] 22nd. So she would have basically two
+Patient: Months. Yeah, it's [PHI-Personal]. Yeah. Right.
+Nurse: So I would like to if, and I I don't see him disagreeing. Um, I'd like to see if we can get her in a little bit sooner and, um, they're little things, but there's enough little things together that I feel like we should really definitely address that. Um, especially with the shots if she's not getting those shots in her eyes and that's really the macular generation is gonna get much worse. So she's got the combination of hearing loss and vision loss that's concerning to me that, uh, that right there can cause dementia just because, you know, you're losing so much that if you start shutting down the brain can start shut that, shutting down too.
+Patient: So she doesn't, her normal daily routine is so, I don't even know how to explain it. She does basically nothing. She, she, she doesn't do hardly anything at all anymore and it's, I think it's all related to this, her level of interest and things is almost gone. Ah, so the, the, uh, that, that, that's an issue. Would
+Nurse: You say she showing depression symptoms?
+Patient: I don't know that it's depression. I don't, I don't know, I doesn't seem to be. But, you know, I mean, that's a possibility but I don't think I would, I would be depressed if I couldn't see in here. You know, I would, yeah, that would be depressing. Depressing. But she's, ah, and she smokes too much and that's another thing she's, and I know that no one's, if she doesn't want to stop. She's not going to stop. But it's, but that cough has me concerned because she, she said there's drainage but it's not drainage. It's from smoking. I know what it's from. I'm not dumb. And, ah, but that's, that's a whole other issue. And both of her parents died from lung cancer basically because they smoke. So, I think that's a strike against her there. But she won't, you know, you, I'm sure you're aware of people. If they don't want to stop something, they won't stop it. Yeah. So, uh, I don't know if there was anything else I wanted to tell you or not. Oh. Hm. I can't think of anything. It probably is, but I just can't think of it. Now,
+Nurse: That's fine. There are things I do need to go over with you though. Um, just to kind of cross our Ts dot Our is make sure everything's, um, in the charts correctly. Um, make sure I understand what's going on. Uh, one of the things I like to do is I like to go through the medications. Make sure that everything we have on our list is what you have in the home and you're, there's no extra supplements or maybe something was prescribed by another doctor that didn't make it onto our list. So, if I go through her medications, would you be able to tell me if those are accurate or would you like me to talk to her
+Patient: For that. I'll tell you, I probably can I text you with that.
+Nurse: Um, unfortunately, we only have landline.
+Patient: Ok. So how about if I gather that information, I'll call you back and I, I just, maybe I, I can tell you what she takes. I do know she takes BP medicine. Um, she takes this oxycontin uh, twice a day. She takes that. Um, she takes a couple of eye drops and that's another thing, her eyes, the whites of her eyes are red constantly, constantly. She looks like she's, and, and she takes these eye drops all the time and she said it from rubbing her eyes. Well, she doesn't, I don't notice her rubbing her eyes and I don't know, but that's another concern. I mean, it looks like they're blood shot all the time. So if someone sees her, they're going to think point, she must be a heavy drinker. Well, she doesn't. So that's not what it is. So that's, that's another high issue that I'm concerned about. But she doesn't seem to, it's almost like, did you have to, I mean, it took me a year to get her to go to an audiologist. So, you know, I'm fighting a, I'm fighting a battle here now. She may do it something if Doctor [PHI-Personal] tells her to do it. So, uh, medication wise, it's pretty much I have,
+Nurse: I have, uh, a BP medication, amLODIPine 10 mg a day. I have the cholesterol medication, atorvastatin, 10 mg a day. Um I also have Centrum silver, which is a multivitamin. I have Diamox, which is for um [PHI-Personal] um, as well as fluid retention. She's taking 500 mgs of that twice a
+Patient: Day. Well, I don't know that she's taking that. I'll have to look, ok,
+Nurse: Cause that would be important to know if she is not taking that one. Um And then I have the um, alendronate or it's also called Fosamax 70 mg a week for osteoporosis.
+Patient: Yeah, I'm not sure if she's taking Fosamax anymore.
+Nurse: OK. That would be important for us to
+Patient: Know. What was the other one? What was the first one you said amLODIPine? No, no, the one that I saw I wasn't sure about. Oh
+Nurse: Um
+Patient: You just, you just mentioned it Doc Dox Amox or something or
+Nurse: Uh Yeah, let me pull up that, that one again. I it's a very long, it's like a Zolamide is the generic version. Oh, so that might be what you see in her pills. Um
+Patient: C the well, you call it, it was started with ad that she said
+Nurse: I Diamox is the brand name Di
+Patient: Amoxin
+Nurse: Is the generic name
+Patient: And she's supposed to take twice a day.
+Nurse: 500 mg twice a day. Yes.
+Patient: Uh OK. I'll have to check on that one. The
+Nurse: That was not prescribed by doctor [PHI-Personal]. That one's just listed in our chart as from other prescriber.
+Patient: That is it, I wonder if that's an eye drop. That might be an eye drop. Cos she takes several eye drops. I, yeah,
+Nurse: It, it can be an eye drop. I just don't, it doesn't specify here. I
+Patient: Don't think she's, she, if it's an eye drop she's doing the eye drops. But it doesn't, this is something. And what, what was it for again?
+Nurse: It, it, it's used for [PHI-Personal] and helps get rid of extra fluid.
+Patient: Yeah. Yeah, that's, I don't think she's take, I think that was, she had some surgery on her eye and I think that was, she was taking that prior to that. I don't think she's taking that anymore. If it's an eye drop, she's probably still doing it. It looks like it's a pill. Ok. I'll, she's not taking that right. The pill. Yeah.
+Nurse: Ok, because there's other, there's other eye drops that work better for [PHI-Personal].
+Patient: So, well, she had, she had surgery for [PHI-Personal].
+Nurse: Yeah. So I don't have any eye drops. So I would definitely need those so that I can add them to the list as well as confirm whether or not she's taking the Diamox if she's taking the Fosamax. Um, and make sure that she is taking, you know, the amLODIPine, the atorvastatin.
+Patient: Yeah, she's taking that. She is taking that, that I do know. Yeah, if you could get
+Nurse: Back to me on those, that would be great.
+Patient: Ok, I will, I'll check, I'll get you the names of the eye drops that she takes and I'm pretty sure she doesn't take that pill and I'm not sure about the Fos Fosamax. If she takes that for osteoporosis, she was taking it at one time, but I don't know if she still is.
+Nurse: Ok. And then I would need to confirm the medication for you as well.
+Patient: You want to do mine too. Ok. See if I can remember what I'm taking, I'm only taking, what do you have? What do you have there?
+Nurse: All right. So I actually have an eye drop for you, but it looks like that was only for 5 to 7 days. That, are you taking any eye
+Patient: Drops? I have an eye drop for allergies, but I only use it occasionally. So, no, I don't take anything regular. I, I haven't taken it in some time.
+Nurse: You know what the name of that is.
+Patient: Uh, no, I don't, like I say, I haven't taken that. And
+Nurse: Because the one I have is, it's like an at the,
+Patient: That could be it. That could be it. And I, and they, the allergist told me to use it as needed. Ok.
+Nurse: Yeah, because that one is an antihistamine. Eye drops.
+Patient: Yeah, that's what it is. That's it.
+Nurse: And then I have Rosin, which is for your cholesterol, 40 ma day omeprazole, which is for acid reflux. You're taking 20 mg one capsule a day.
+Patient: No, I don't take it any. I don't take it anymore. Doctor [PHI-Personal] told me to quit taking it. Right. That is off
+Nurse: Your list. Valsartan 320 MGS a day. Yep. Ok. I have isosorbide mononitrate, 30 mg. You're taking half a of that a
+Patient: Day. Well, the, well, the heart doctor decided she wanted me to take 30 mg. So I take the whole thing once a day and that's, that's it. That's all I take, which you just, everything you just mentioned, that's it.
+Nurse: Ok, because I also have on here that you have amoxicillin that you can, that you're to take one hour before your dental appointment.
+Patient: I do that. That's correct.
+Nurse: Ok. I have a baby
+Patient: Aspirin and I quit taking that. Oh, some time ago I took, I quit taking it. Oh, I haven't told my heart doctor yet, but I, I need to tell her, I guess, but I quit taking it because of, um, things I've been reading about taking it said that you shouldn't be, you should not take it unless uh, you absolutely need to. So there is,
+Nurse: Yeah, there are a lot of research is coming out, you know, that the general public should not use it as a prophylactic, but there are certain conditions that it is indicated for still because it depends on, you know, what's going on with that individual person. So definitely talk to them
+Patient: About that. I would do that. I would do that. Yes.
+Nurse: The other one here I have is a Fexofenadine, which is an allergy pill.
+Patient: Oh, no, I don't take that. The only allergy pill I take is an Allegra once a day and it's the, ah, whatever the largest amount I forget what the milligrams is. Is it 300 or something like that. Well, I take out once a day and that's for that, for the allergies. Maybe it's 500 mg. I forget. That's a, that's a large, it's the largest one you can get. See, I'm, I'm
+Nurse: Taking off the Fexofenadine. Then I'm gonna add the Allegra. I have 12 hour or 20
+Patient: [PHI-Personal] hour. It, it would be the 24
+Nurse: [PHI-Personal]. Ok. You are not a child. There
+Patient: We go. No, not anymore.
+Nurse: There's so many options in here. All right. There we go. That's in there. Um, the other thing I have here is a, is a, um, it looks like a steroid cream.
+Patient: No, I don't take that. I don't have, I don't use that.
+Nurse: How about any nasal sprays?
+Patient: Nasal sprays? Yeah, I do take, um, nasal spray for my allergies. And here again I'm gonna have to get you those names. If you don't have them on there. I thought I had it, it should be on there.
+Nurse: It's like, it's, it's an, as I, I just, I butcher this one as a ZET.
+Patient: Yeah. Yeah, that's, uh, that's close, that's close enough. There's probably a second one too, actually. That's it.
+Nurse: That's all I got.
+Patient: That's it. Ok. Well, I'll get you the, I'll get you those when I get you. Linda's. Get back to you about Linda's stuff. Oh,
+Nurse: Good. Do you have any concerns for yourself?
+Patient: No. No, not at this time.
+Nurse: That's your, your BP is stable. You're not, you not having any acid reflux issues or chest pains? No. Ok. That's what that isosorbide mononitrate is to help control that chest pain. So, you don't have any of that intermittently?
+Patient: Yeah, I don't know why she put me on that because I never had it. I never had a chest, I never had chest pains, but she said I needed to take it. My, that was my cardiologist. So I know probably
+Nurse: Because you of your, uh your heart rate, you had some PV CS. So that's probably why she wanted you on it. You know. Um, I do have here your note from [PHI-Personal]. Um, so I would definitely say we need to let them know you're no longer taking the aspirin um, with the PV CS and your perfusion. They might want you to go back on it. They might want you to, to say, ok, that's fine, we'll stay off of it. But, um, I would highly recommend, uh I can give them a call and let them know or you can get whatever you'd like. Um, now when is your next, I'm trying to find when your next appointment is with them. And I, I can't seem to see that
+Patient: On this. Not with the cardiologist. Yeah. Yeah. It's probably not until next, maybe the end of this year, beginning of next year. I usually see them once a year.
+Nurse: Ok. That's probably why it's not showing,
+Patient: You know, it probably, it's probably something that I, they couldn't even schedule it because they didn't schedule that long enough. Yeah.
+Nurse: Not, not if it's a
+Patient: Year. Yeah, I, I think that's, it's something that I have to look back in my notes and see when I need to call them or they're going to call me one of the, they'll probably call me. Yeah.
+Nurse: Ok. Yeah, I got, I got everything in here from all the way back to [PHI-Personal]. But I can't, but they're not telling me what's your next?
+Patient: Yeah. Yeah, it's probably because it's not scheduled because I'm pretty sure they said you have to call and I have it written down somewhere probably in a couple of months from now to schedule because they don't, their, their computers don't do that for whatever reason.
+Nurse: No. And I, I love how they all come back in a year. We'll schedule. Oh, we can't just make sure you are, um, following up with them because the last thing we need is that, you know, not, not being followed up on.
+Patient: Yeah. No, they, they stay, they stay in touch with me pretty good.
+Nurse: We'll be following up with that too.
+Patient: Ok.
+Nurse: Now you had the holter monitor or was that study done from that one
+Patient: That was done a year or so ago, maybe two years ago.
+Nurse: Your, your note jumps around from [PHI-Personal] to 2022. So, I, like, I wanted to make sure that that monitor result didn't have a date on it.
+Patient: Yeah, I don't, I can't tell you when it was, I don't remember, but it was a co, it was at least a year or two, probably two years ago. Nothing showed up with that. As, as far as I know they said nothing did. So,
+Nurse: Yeah, it, it, it says that it didn't, but I'd still like to know when your last one was. Ok. So that sounds good. Um, I can, I'll give them a call and ask for your actual note from this last visit because they sent us over everything from, uh, [PHI-Personal]. Um, which I like, I like all the information.
+Patient: Ok.
+Nurse: And, um, I will put this through to doctor [PHI-Personal] and see if you would like to move your wife's appointment up based off of those concerns as well as, um, that you're gonna get back to us as far as what medication she is actually taking.
+Patient: Yeah. Yeah. And when they call I would prefer, they don't say that I, you and I had this conversation because I don't want her getting all upset about it. If they, you know what I'm saying, that's just be more, have them be discreet said that that Doctor [PHI-Personal] would like to just move it up for whatever reason. She doesn't have to really give her a reason because she won't remember anyway. But it doesn't, you know, if you understand where I'm coming from,
+Nurse: I will make a note. I, I'm not the scheduler so I can't make any promises, but I will make
+Patient: A note because if they say there's some concerns he has, he's, she's gonna wanna she might she probably remember that and wanna know what I told you you know not not that I care I mean I don't care but
+Nurse: If I talk with her then she you then the blame can be on me and not
+Patient: You. Well whatever. Yeah I'll say I don't know just do whatever the nurse said I'll say whatever you said. Yeah
+Nurse: I I don't mind she's a bad person I hang up the phone and I don't have to deal with her the rest of the night. That's
+Patient: Right. Yeah you don't but the one thing is she'll forget about it in probably 20 minutes so anyway.
+Nurse: Alright so I'll put this through if anything changes give us a call.
+Patient: Ok I will do that and I thank you you saved me a call because I was going to call up there and see if I could talk to to [PHI-Personal] but uh if you're gonna take care of it that's fine.
+Nurse: Yeah and he's on vacation so let plan over there right
+Patient: Now. Ok. That's, that's good.
+Nurse: So, um, are there any days that they, that you can't move it up to just so I can make them aware to start out with?
+Patient: Well, basically she goes to get her hair done Wednesdays and that's one day you don't mess with and that's usually in the morning. So other than that, no.
+Nurse: All right, I
+Patient: Will let them know. Ok. Well, thank you, [PHI-Personal]. I appreciate it.
+Nurse: You're welcome. You have a good holiday weekend. If anything changes, you give us a
+Patient: Call. Ok, I will do that. Thank you so much. You have a good weekend as well. Thank you. Ok, bye bye bye.

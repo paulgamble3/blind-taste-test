@@ -1,0 +1,24 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: This is [PHI-Personal].
+Nurse: Hi [PHI-Personal], how are you?
+Patient: I guess. Alright, I need a prescription refill.
+Nurse: Ok,
+Patient: I guess I got a paper through the mail I guess I'm calling the right place.
+Nurse: Yes for [PHI-Personal]. Right. For what? Yeah, it looks like [PHI-Personal] is your um chronic care manager um the nurse um she's out today but I'll be more than happy to help you. Can you just verify your birth date for me please?
+Patient: At [PHI-Account] [PHI-Geographic]. Thank
+Nurse: You. Yeah. Ok. And which medication did you need
+Patient: [PHI-Personal] if I pronounce it? Right?
+Nurse: You're very close. It works and that is 600 mg one tab twice a day. Yep. Let's see. And uh you go to.
+Patient: No, this is [PHI-Personal] it's uh gets sent to me.
+Nurse: Oh, through envisions, right?
+Patient: No, it's [PHI-Personal] Elixirr.
+Nurse: Ok, I haven't
+Patient: Got it. Yes, sir. Ok. Now this paper that I got it has [PHI-Personal] name on
+Nurse: It. So [PHI-Personal] is the enrollment um specialist through the chronic care management program. Um it looks like you were enrolled back in May um and they just haven't reached out to do an introductory call with you. Um, so when you call in, um, usually it's gonna be [PHI-Personal] unless she's off. Um, and if she's off then I'm usually the one that answers on her behalf.
+Patient: All right, it doesn't, doesn't really matter as long as the work gets done.
+Nurse: Absolutely. Let's see. You're still taking the amLODIPine and metoprolol. Correct. Yep. Ok. Perfect. So, what I'm also going to do, um, is I am going to send you another letter, it'll have [PHI-Personal] name on it and my name with our direct contact number on it. Um It will also have what they call the Wellness goals for the year. They're just the things that are due for the year um before the end of the calendar year. Um It just helps keep um the patient up to date as what needs to be done for the year and it helps keep the provider on track as well to make sure things are getting done and once they get done, we just put the date that it happened and they fall off. Um So that's just for your reference as well. Ok, see, and we are, so let me find the right paper here in [PHI-Personal]. We'll also be able to um not only do the refill request for you, but she also has access to the schedule so she can schedule appointments for you as needed. Um Any time that you have any questions concerns, you need anything, feel free to reach out. Ok. Ok. All right. Any questions or concerns
+Patient: Uh I don't think so.
+Nurse: Right. All right. So I'll get this refill request moving for you and I'll get my that letter sent out for you. So you have it for reference. Ok. Ok,
+Patient: I appreciate it very much.
+Nurse: You're very welcome. You have a wonderful day and take care. You too. Mhm. Bye bye
+Patient: Bye.

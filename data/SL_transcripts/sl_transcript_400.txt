@@ -1,0 +1,60 @@
+Nurse: [PHI-Personal] Medical group. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. I, sorry? No, that's fine. Except for my, except for my kids. Mhm. Mhm. And my son's going to be [PHI-Personal].
+Nurse: So, yeah. But they're, he's still your baby though, isn't he?
+Patient: That's right. So, me for being so rude, you know. No, you're
+Nurse: Fine. You're fine.
+Patient: So, I guess he hasn't had his flu shot to date and the kids both had flu last week.
+Nurse: Oh, yeah. But you feel poorly.
+Patient: No, he feels fine. And he has a box of Tamiflu. Oh, good. Good, good. Ok. A box of it. So, he's fine. And, um, you know, I, we still haven't, my husband, neither, my husband or I have had COVID.
+Nurse: Oh, well, that's good. We try to be
+Patient: Careful. Yes. Especially in [PHI-Geographic].
+Nurse: Mhm. Because, I mean, you've got near
+Patient: My daughter in law and she had COVID and, uh, it was like, two weeks ago I tested three times and negative negative and I have a wonderful thermometer. Everyone should get one. It's called a, ok. And it's an app. Oh, cool for little kids. So, you get your thermometer. It's very thin and, and has a big ball of the hand with a big face and you put it, you, you tap on your name because you've put your information in [PHI-Personal]. Right? And within three seconds it's red. Oh, wow. And then it tells you all these other things. Do you have symptoms? I mean, I never had fever. That's what I'm trying to tell you. So. Right. And I tested myself, but I think it was 20 something dollars.
+Nurse: Ok. That's, you had to
+Patient: Put your whole family in. Yeah. And you can keep track of your, that you can keep a timeline. Uh huh.
+Nurse: That's nice. That's nice.
+Patient: Yeah. So I thank you. Is there anything? I'm so glad you hear the service.
+Nurse: Yeah. Uh, well, I wanted to make sure you're not having any pain in the back of your head anymore from those staples, or
+Patient: Are you? I never had pain. I mean, I can't sleep on them. Right. Right. I have a lot of hair.
+Nurse: Yeah. Well, so it's cushioned
+Patient: And, uh, I hope it doesn't hurt, taking them out. They said 5 to 7 days.
+Nurse: It usually doesn't hurt. It's usually kind of like the, uh, because they have this little tool and it just, what it does is it bends the staple and it just brings it up. So it usually doesn't hurt very
+Patient: Much. Do you think they'll have it at the Urgent Care Center? Absolutely.
+Nurse: Yep. It's standard.
+Patient: Um, and it didn't hurt when you put him in. He didn't. Well, that's good. And he got one wrong, he said he came back and he said, you know, I don't like the way the middle one looks. So I'm gonna take it out and put another one in.
+Nurse: Right. And did that hurt?
+Patient: Uh. Oh, good.
+Nurse: Yeah.
+Patient: Good. Uh, I guess they don't se, up the head.
+Nurse: They usually don't, um, they, they like to do the staples in the head. Ok. Yeah, they, they
+Patient: Like to use them. Wonderful. Yeah. Oh, they do? Ok. Ems was wonderful.
+Nurse: Good. Good. I'm very glad that you got the right care and I'm glad you're feeling better now. Uh, what's the weather like in, uh, [PHI-Geographic] right now? About
+Patient: [PHI-Personal]? Oh, ok.
+Nurse: Ok. That's
+Patient: Good.
+Nurse: Yeah. Uh, I mean, when I think of [PHI-Geographic], I think, like 100 and 20 degrees all the time
+Patient: In the, in the summer. That's why we're not here. Yeah. My husband's [PHI-Personal] he's in good shape. Well, he has bronchiectasis. Ok. And no, Doctor [PHI-Personal] is his doctor. Well, he has a lung doctor too. Uh huh. And, uh, I, we, we both are ok with our shots. Mhm. But I worry when he coughs because it's, he has a machine that, um, that shakes his chest. Right. So, um, but he's ok and, uh, question because I never got to ask, how long are you usually out when you're out like this? Like a second or two?
+Nurse: Um, it, uh, it depends sometimes a few seconds, sometimes a few minutes. It, it, I mean, it really depends. So, I mean, you could have been out for a few minutes and not know anything or it could have been as quick as a few seconds and your body could have. Right. It itself. Wow. Because, um, usually when you pass out your nervous system is going crazy, trying to fix everything and get you back, right.
+Patient: I have a good nervous system and thank you nervous system. Ok. It's really weird that never happened to me before. Yeah,
+Nurse: That's crazy. You had
+Patient: No idea that you were out. You just, yeah, you weren't.
+Nurse: I, I would really recommend starting your day with a glass of water. Um, that'd be a very good habit to get into, um, and, and ma, and making sure you have a little bite of something to eat. So your blood sugar doesn't drop because that could play a role too. I mean, it doesn't look like it did, but it may have
+Patient: And I, I, I'm very weight conscious because I'm old.
+Nurse: Ok. Ok. Yeah. But just a, a little something, just a uh like a little piece of fruit. I woke
+Patient: Up, I woke up really early this morning really early because it's a time difference, right? And I went downstairs, made myself a cup of tea and had some yogurt and fruit.
+Nurse: Ok. Good, good. But, and you wanna make sure that you're keeping hydrated throughout the day as well because that can, that can trigger that.
+Patient: You're absolutely right. I hope you call me often because, you know, when you get old you get scared. Yeah,
+Nurse: I, I am, I will be calling you once a month and if you need me in between that, you just give me a call. Ok. Am I allowed to, you are allowed to call me? Yes. If you have a question or concern, you can call me. I'm here Monday through Friday. 8 to 4
+Patient: That my doctor has ever ordered. I mean, I love
+Nurse: Doctor. Well, Yale brought us in so that, um, you guys would have another resource.
+Patient: That's wonderful. Yeah, I don't go to anymore. Well, I, if I don't have to, I know.
+Nurse: Right. Right. Um, I have
+Patient: Too, I've had a hip replacement there. Ok. And this wasn't Yale's fault. It was the surgeon being a thinking he was, um, net and being God. Oh, the team had met with me. Yeah. And they were so sure it was lung cancer. Oh, gosh, it's ok. I'm fine. I'm gonna go and, um, and you, I, I so like meeting you. Happy [PHI-Personal].
+Nurse: Same to you. Same to you. Um, I am going to have that prescription sent over to the CV S in [PHI-Geographic]. Oh, thank
+Patient: You so
+Nurse: Much. You're welcome. And if you need anything, you give me a holler,
+Patient: I will and say hi to [PHI-Geographic] and have a cheesesteak for me. Ok. Ok.
+Nurse: All right, [PHI-Personal] you take care I
+Patient: Miss [PHI-Geographic], I'll tell you, I bet you too. Alright. Happy New Year. [PHI-Personal] [PHI-Personal].
+Nurse: Same to you. Alright bye bye.
+Patient: Take care. Bye bye.

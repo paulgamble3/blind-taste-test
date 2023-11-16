@@ -1,0 +1,26 @@
+Nurse: Good morning care management nurse, [PHI-Personal]. How can I help you?
+Patient: Yeah, hi. Uh this is, how are you?
+Nurse: I'm doing well. How are you?
+Patient: Pretty good. Hey, I just have a question this morning. Yeah, absolutely. Ok. So I'm at this um, time again of the month where I only have so many of my lorazepams left. So the doctor is writing to the pharmacy, you know, take one every six hours as needed. But if I take one every six hours, that's four pills a day. Mhm. And that would be 100 and 20 tablets, not 90. So um am I not allowed to get because he says every six hours which I do take four a day. But then when I come to this time of the month, I only have, you know, 10 tablets or so left. So should I call him directly or, or, or patient [PHI-Personal] in about that or can
+Nurse: You? I can yes, give me just a moment while I get your chart all pulled up and Missus o'rourke, would you mind just verifying your date of birth for me?
+Patient: Yeah, [PHI-Personal].
+Nurse: Ok. Thank you so much. Let's see. I'm just trying to get your chart all pulled up here.
+Patient: I'm wondering if he can't give me more per month per my insurance or whatever. I don't know. But since it's, oh, go
+Nurse: Ahead, I'm sorry, since it's written pr N um that seems to be the issue because it's as needed. So there's not always when we write things for as needed. Um, sometimes we don't anticipating you taking it every day on schedule cause it is written as, as needed. So I will put in a message to him wanting, letting him know that you are wanting um the 120 supply cause you are taking it every six hours.
+Patient: Yeah, see what he says. Um So in the meantime, how do I get the rest for the rest of the month? Because my, it always run into this problem. What is the um my I cannot get it refilled again until the [PHI-Personal] which
+Nurse: Is in three days. So I will no, no, no, no message
+Patient: Over. Ok. Excuse me. It was filled on the [PHI-Personal]. So they won't refill it until the [PHI-Personal].
+Nurse: Yes, ma'am. So either way they're not gonna refill it until the [PHI-Personal]. So I will put a message in over to him. But before we do that, let's just go ahead and see. Um give me just a second. All right. And you said that that was refilled on the [PHI-Personal] and we are wanting that to go to CV S in CV S and month, correct? Ok. Yeah.
+Patient: So answer another question for me if you will. Why do they say that I have one refill? But the refill is good up until [PHI-Personal] of this year. Now. That doesn't make any sense to me.
+Nurse: Let's
+Patient: See. I mean, I don't understand why he would think that I would only get it. I get it refilled every month. So, uh but he only has one refill by [PHI-Personal]. Hm
+Nurse: Let me do a little dig in again. That could be because it's um it was written as an as needed medication. So we don't always anticipate you using it every six hours. So therefore, it sometimes the refill window will be a little bit shorter, but I'll go ahead and send that message on over to him. But while I have you on the phone, we do have to go through um just your, your um behavioral health portion for this month because it does look like when I spoke to you. We, oh, no, I do apologize. We did that already for this month. I thought we skipped it. All right. So I'll get that message on over to him. Um You know, if, depending on what he says, um the refill, he may do the 120 day supply.
+Patient: But if not, then I'm gonna have to just use three a day. But then still for this month, I won't have enough.
+Nurse: Yes, ma'am. So I will send him a message on over, just let him know what's going on and he is going to ask, um, why you are taking it every six hours? Are you having like increased anxiety, panic attacks, anything like that?
+Patient: No, only because I was told that I shouldn't take more than four a day. So I've only taking four a day. No other reason because, you know, it keeps me mellow.
+Nurse: All right. And do you feel that the LORazepam is working for you?
+Patient: Yes, I hate to bother people about this. I mean, if I have to take only three fine, then, you know, 90 will be fine. But, um, this month because, um, you know, I've been taking four and I don't have enough. So I run into an issue because the [PHI-Personal] is, I don't know when the [PHI-Personal] is, but it's not gonna be probably until next week.
+Nurse: Ok. So I'll go ahead and get that, um, sent on over for you. So I will either, I'll be giving you a call back once I hear, um, what he has to say. So, you know, in the meantime, I do just want you to, uh, just try to like watch your medications, try to give us a call when you have about 14 pills left and you are on your last refill, um, just to give us some time. So you don't run out. But again, with the controlled medications, they cannot be filled until like that 30 calendar day.
+Patient: I got that. Yeah. Ok. All right. Um Yeah, thank you very much.
+Nurse: Alrighty, you're very welcome. You enjoy the rest of your day. Ok.
+Patient: Ok. All right. Bye bye bye.

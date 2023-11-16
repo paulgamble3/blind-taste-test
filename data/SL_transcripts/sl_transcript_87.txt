@@ -1,0 +1,27 @@
+Nurse: Ok. Trash. Hi, this is
+Patient: [PHI-Geographic].
+Nurse: Hi, [PHI-Geographic]. This is, hey,
+Patient: How are you? Oh, awful. I'm so sorry. Let me pull up your chart real quick and let's see what we got going
+Nurse: Here, get. Uh ok, let me pull this up.
+Patient: All right. So I know I was able to, I sent a request over to Doctor [PHI-Personal] for the mega like you um, had asked about and I think, um, like for the chart and she told me as well. Um, the last person who had prescribed that was the, um, I think your original Gyn. Um, I think his name was [PHI-Personal]. I think, let's see. Um, it was Re [PHI-Personal]. Um, and I sent a message over to like the US S um Gyn because I believe that's the group he works in as well as the genesis just to cover myself. I wasn't sure which one. but they were unable to refill it. Um,
+Nurse: Let me
+Patient: See just because I think it had been like an old prescription. I think it was like back in [PHI-Personal].
+Nurse: Um You're welcome. Ok. Um,
+Patient: So have you felt any worse or any better since I think the last time I spoke with you. No,
+Nurse: It's like it's getting worse, getting worse. Ok.
+Patient: I know I had let doctor, I know that you started bleeding and it was heavy again and you're having the bad cramps as well. Um, and she, you know, just said, you know, if it is continuing to be the heavy bleeding with the, you know, clots and everything, um, that you go and get evaluated by the, er, um, and they can evaluate you with the, they have like Gyn doctors there, um, that can, you know, assess you that way because I know we weren't able to, you know, schedule a follow up appointment until [PHI-Personal] with the gynecologist. Um, so that was kind of the only recommendation that she had um, at the moment because I know she, I had asked, you know, if there was anything else that you, you know, she could send over for the pain or the cramping. Um, and she said she wasn't able to,
+Nurse: Uh, did she refill my [PHI-Personal]? Um Let me check here. Um, let's see, it
+Patient: Looks like it's still sitting in the um, pool I requested it on Wednesday, so I'll put another um, high priority for it just so hopefully they get it refilled over the weekend.
+Nurse: Um, um, let me see if I can pull up.
+Patient: Uh, the only other option that I could maybe offer is maybe see if there's like a same day appointment for like another provider today.
+Nurse: Um, let me see. I can pull it up here. Right. Oh, yeah. Mhm. I will hold on. Let's see. Ok. All right.
+Patient: So the only appointments that are available today for like the same day appointments, um, within like the TGMG network, um, these are other providers that are within the TGMG network. Um, but it's just not at the Health Park Family [PHI-Geographic] Center. Um,
+Nurse: Let me see
+Patient: Here. There's one in Park and Seminole, but I can also request them be, um, like a tele visit as well too. Um, if you're able to do that today. Yeah. Ok. All right. So I have, let's see. Um, they're both at 1 30. So, um, one is a nurse practitioner and then the other is a P A. Ok. Uh, do you have a preference at all? No. No. Ok. All right. Well, I'll get you scheduled for the 1 30. Um, and I'll request it to be the telehealth and it's gonna be with [PHI-Personal] Harvey
+Nurse: And let me put that in
+Patient: Here. And I think, um, you have done a televisit before with them and they give you the call and the link and everything. Yeah, I
+Nurse: Did it with. Ok. Ok,
+Patient: Perfect. So I'll go ahead and got you scheduled in there and hopefully, um, you know, she's able to maybe assess you a little bit better and see if there's another medication that would help a lot with the cramps or anything. Um, just to kind of have another opinion in there. Um, but I went ahead and scheduled that for you and um, I'll send another request for high priority for the [PHI-Personal]. Ok. Ok. But, um, if you need anything else, um, you know, next week or anything, just give me a call back and let me know. Ok. All right. I hope you feel better soon.
+Nurse: All right. Thank you. You're welcome. You have a great weekend. You
+Patient: Too. Bye
+Nurse: Bye. Bye bye.

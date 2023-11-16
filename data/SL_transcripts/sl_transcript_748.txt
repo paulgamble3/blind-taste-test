@@ -1,0 +1,39 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Hi, this is [PHI-Personal]. Hi,
+Nurse: [PHI-Personal]. How are you today? I'm good. Oh, good. I'm glad. Um, I was just calling for a monthly phone call just to check in, see how things are going, see if there's anything new going on.
+Patient: Oh, everything's ok. I was just at the doctor's yesterday. So, yeah, I saw that I had an appointment. So any
+Nurse: Questions about that appointment? No.
+Patient: Ok. I have to call them and make an appointment for my mammogram and that, so because I had just called, they had called me and I wasn't here and I just called them back and got the information I needed to call for that. So good.
+Nurse: Oh, good. Very good. And, um, I noticed that you said um, in the visit that you're having some swelling around your eyes, did doctor address that? Yeah,
+Patient: He did and he said the skin and the, and everything around my eye looks good. He said if it starts to, if I get a discharge or it starts to itch or gritty or anything I should call, you know, but so far that hasn't happened, it's just they just feel like they're swollen but they're not, I guess.
+Nurse: Yeah. Yeah, I understand. Um, do you, do you suffer with any kind of allergies, like seasonal allergies or anything like that?
+Patient: Yeah, I have that medicine. Yes. So, maybe I'll try that and see if, maybe that is what it is. I didn't even think of that.
+Nurse: Yeah. Sometimes when, you know, there's some extra allergens in the air, we get those in, kinda through our eyes and to, and it could kinda make it kinda swell a little bit or feel swollen and they may not actually be swollen. Um, but I'm glad you're not having any drainage or itching with that right now. So that's good. But that might be worth a try to see if that might kind of help a little bit. Yeah. Um, I know it's that time of year, of course. Yeah. Yeah, possibly. Um, let's here. I was just looking at, you know, kind of his recommendations overall looks like kind of the typical, same thing. Just kind of healthy food choices with lean meats and veggies. Um, you know, encourages exercise, uh, for 30 minutes a day, five days a week, if possible. Um, let's see here, looking to see if there's anything out of, kind of the norm. I don't see anything very good. Um, and then I know you just saw him yesterday but I like to ask every time just in case, you know, I think it's forgotten. Um, as far as your medications. Do you need any refills on anything?
+Patient: No, they just were refilled.
+Nurse: I figured. So. Very good. Very good. Ok. That sounds good. Um, let's see here and then, um, just along with, you know, doctor's recommendations, are you able to get in any regular exercise?
+Patient: Uh, yeah, I walk for my mail every day but that's only about a block and then I walk back. But if it's not really hot because I don't, it, it's hot and humid because I can't take the humidity. So, yeah, I
+Nurse: Don't. And it's been that way lately
+Patient: And that's it. But if it's not really bad out then I'll come up the hill and out the alley and down to the yard, I just go around, you know, um, um-hum. Been too hot and humid to do that.
+Nurse: It has, it's been very miserable outside
+Patient: In here now. So. Oh,
+Nurse: Really? Oh, goodness.
+Patient: Yeah, it's warm down here. Oh,
+Nurse: Goodness. Yeah, that's not good walking weather, is it? No, it isn't. No. No, not in the rain. Um, do you have any steps in your house? Any stairs in your house?
+Patient: Yes, I have to. I go up to the bathroom every day and I'm up there a half a dozen times or more. Always up and down the steps for that.
+Nurse: Ok. Well, that's good exercise. Going up and down the stairs is great exercise. Even though, you know, it's inside your house. That's a great place to do it. You're out of the elements and, um, just doing that is good. Um, and even just, you know, if it is yucky outside, you can't get out there, even just getting up and walking around a few extra times throughout your day. Um, but even doing housework, you know, housework can be exercise, um, vacuuming and sweeping and all those things is, you know, exercise. So that's great. It just, you know, helps to keep your heart strong, helps to keep that BP in a good range. And, um, also helps with mobility, can help with any, you know, weight loss, that kind of thing also. Um, and then it looks like, you know, doctor is recommending just continuing to eat, you know, low saturated diet with, um, low in trans fats. Also adding plenty of, you know, fruits and vegetables and beans and nuts, um, whole grains and fish. Um, fish have that, you know, good omega three in them, which also helps with the cholesterol. Um,
+Patient: And I like fish. That's not a problem.
+Nurse: You like fish? Oh, good. Yeah, some people don't. Yeah. Yeah, that's great. Yeah, that's really good for you. Um, and then, um, using, instead of like vegetable oils using like an avocado almond or olive oil in place of that, um, can be good. Let's see here
+Patient: Here.
+Nurse: Oh, very good. That's great. Perfect. Um, and then just, you know, not having a bunch of sugary drinks or alcohol. Um, if you do just
+Patient: Alcohol and I drink flavored water that, you know, doesn't have, doesn't have sugar. I don't, I don't, uh, I don't drink a lot of soda unless I'm out some place and they don't have coffee, then I'll get a diet. But. Right.
+Nurse: Right. That's great. Yeah, that's really good. And do you feel like you drink plenty of water throughout your
+Patient: Day? Yeah, I try to.
+Nurse: Yes. Oh, good, good. Yeah, 6 to 8 glasses of water is what's recommended. So that, that helps too. Every little bit helps. Very good. And even, you know, with the flavoring in it, that's great because I know, you know, a lot of people don't care for water because there is no taste to water and it's hard to get in. So if putting some flavoring or some fresh fruit or, you know, whatever you need to, to get in your water is great too. So, that's great. Um, just go look at your wellness goals. Looks like everything is on track there since you just completed your annual Wellness visit. I'll get those all taken off that are associated with that. Um, did doctor talk to you about the shingles vaccine at all while you're at your appointment?
+Patient: No, he didn't. Um, the last time I checked with my insurance about that I had a copay for that. Ok.
+Nurse: That can be, um, and sometimes that copay is less if you get it at the pharmacy and not the doctor's office. Um, so that, you know, if that's something that you are, you know, interested in getting, you might check on, if there's a difference in the cost there. I know it can be kind of pricey depending on where you get it and what your insurance will cover. Um, but I just had that down on the list and wanted to check and see if that was something you were interested in
+Patient: Because I had the shingles once and they're not
+Nurse: Nice. No, they're terrible. I know they are. I know so. Yes. Very good. All right. Well, anything that you have questions about or anything I might be able to help with today, I know you just saw doctor but
+Patient: I'm good.
+Nurse: Ok. Very good. Well, I hope um everything continues to go. Well, I hope your eyes get to doing better if they get worse, you know, give me a call, we can message doctor and let him know if you're, you know, having drainage or itching or anything like that. Um, and then I'll just reach out next month and see how you're doing. Alrighty. All right. Thank you. You have a wonderful day. Thank
+Patient: You. You too.
+Nurse: You're welcome. Bye bye.

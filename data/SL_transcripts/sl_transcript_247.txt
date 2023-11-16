@@ -1,0 +1,9 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: I'm doctor [PHI-Personal]. This is I'm calling back.
+Nurse: Hey, thanks for calling me back. All right, I just checked directly with the [PHI-Personal] and they did send in your medicine, the insulin. The NovoLOG one was sent in today and the Lantus one was sent in on the [PHI-Personal] and they said it is at the [PHI-Geographic]. Right. Right. Which is the, it's the old, it's the same address of the old place. I'm looking at medicine shop and it's, I didn't realize they were closed. So. Ok, but it's, uh, they reordered it, so it's good. You could go get it.
+Patient: Ok. Thank you very much.
+Nurse: You're welcome, sir. Ok. You have
+Patient: A great day. Ok. If I have any problems, I'll call you back tomorrow. All
+Nurse: Right. Sounds good.
+Patient: Ok. Thank you.
+Nurse: You're welcome. Bye bye bye bye.

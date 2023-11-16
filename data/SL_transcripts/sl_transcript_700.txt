@@ -1,0 +1,7 @@
+Nurse: Hello, this is [PHI-Personal]. How may I help you? Hi, uh
+Patient: My name is [PHI-Personal]. I had a left a
+Nurse: Message from, from Yes, give me one quick second and I can transfer you over to her. Thank you
+Patient: Now. No, it's not. I have no which, but maybe the what?
+Nurse: Hello? I'm just waiting for it to uh be available. She's, she's, I think she's currently on the phone but if you give her two minutes, she should be good. I sent her a message. Could she call me? Yeah, sure. You got a, you got a call back number? Uh it I think
+Patient: She has it because you called me
+Nurse: Before. Ok, got you. Great. Awesome. I will tell her that. Thank you so much. I appreciate it. Thank you. Thank you. Bye.

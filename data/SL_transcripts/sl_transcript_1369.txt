@@ -1,0 +1,13 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yes this is [PHI-Personal] office. Yep,
+Nurse: This is [PHI-Personal] uh chronic care management nurse. How are you?
+Patient: Yes. Alright. It's [PHI-Personal] also somebody just called me from just called me.
+Nurse: Yeah that was me um I saw you got discharged from the hospital over the weekend. Is that right?
+Patient: Uh huh. Yeah I so I gonna call you I call you feeling pretty, pretty decent I gonna call you sometime today and make appointment I think I still have a follow up either this week or next week with you.
+Nurse: Ok let me see uh when we might be able to get you in
+Patient: As long as it ain't no Thursday.
+Nurse: Ok give me just a minute kind of flipping through the schedule.
+Patient: I know they told me uh make appointment with you a week you know after I got out of the hospital I just got out of the hospital. I don't know if it's kept this week or next week.
+Nurse: Ok. All right. So this week [PHI-Personal] is looking pretty booked up um he doesn't work Fridays and then you said no Thursday um and then next week he's actually on vacation so let me reach out to the office and see if they can maybe move anything around and try to get you in to be seen um, this upcoming week. Ok. Ok. All right. Um, so give me just a couple minutes and I'll give you a call back. Ok.
+Patient: Ok. Alright.
+Nurse: Ok, thanks. Bye bye.

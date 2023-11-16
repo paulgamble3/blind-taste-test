@@ -1,0 +1,15 @@
+Nurse: Breath. Good morning.
+Patient: Hello. How are you? How are you? Oh, I'm calling about a glucose machine. Ah, my name's Donald Klein. 11 4 56 is my birthday. Uh, we ordered a glucose, the doctor ordered a, a glucose machine and test strips for me and they put it through my well [PHI-Personal] and they would not pay for it. And it was supposed to be submitted into my, uh [PHI-Personal]. B. Is that what it is? [PHI-Personal] Medic [PHI-Geographic]. I went down to, uh [PHI-Personal] and they told me I had to call you and have that changed?
+Nurse: Ok, let's see here. I'm just looking for the prescription to see what they did here. I wanna track it here. So it's the glucometer and the test strips. Yeah. And it went through [PHI-Personal]. Yes. And [PHI-Personal] can't just switch your insurance.
+Patient: Oh, no, I think they put it through. I don't really know exactly what happened, but it went through my wells or my prescription plan. I'm sorry, went through my prescription plan and they denied, denied it and then I was told I need to take it through my [PHI-Personal].
+Nurse: Ok. Do they have your [PHI-Personal] information.
+Patient: Uh Yeah, I was down to see him. Yes, I went down to [PHI-Personal] yesterday to talk to him and they told me I needed to call you. So they're just waiting for yous. I do believe,
+Nurse: Ok, I'm gonna have to give them a call. I don't understand what the hold up is because it has [PHI-Personal] listed here. This is, they didn't
+Patient: Want to pay for it. My prescription plan didn't pay for it but they said [PHI-Personal] would.
+Nurse: Yeah. Um going to nipple trying to find your [PHI-Personal] here and they have your [PHI-Personal] number. Correct? Your
+Patient: Insurance number. Good plan.
+Nurse: All right. So let me call [PHI-Personal] and find out what, what the issue is because if they have all the information I'm not following as to why they're not filling this and using your [PHI-Personal].
+Patient: Well, she told me they were what I probably need a new script. So I, I'm, I'm just following up with what she told.
+Nurse: Ok. Ok. All right. Let me give them a call. It's the [PHI-Personal] on [PHI-Geographic], correct? Ok. Let me give them a call and see what's happening and then I'll call you back as soon as I know something. All right. Thank you. Oh, you're welcome.
+Patient: Have a nice day. Sure.
+Nurse: You too. Bye bye.

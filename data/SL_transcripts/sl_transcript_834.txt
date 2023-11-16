@@ -1,0 +1,39 @@
+Nurse: [PHI-Geographic] Medical. This is [PHI-Personal].
+Patient: This is, I was, I was calling, I was calling you because, um, I have one to find out what do I have to have any shot with the shot I didn't have and I was calling you because they've been writing me saying that I owe money. I wanna know how much money I owe so I can come there and pay it because usually I always pay, usually I always pay when I'm there. They tell me right in and there, but lately they haven't been telling me anything and then they're sending me things saying I owe $[PHI-Personal]. I owe $[PHI-Personal]. I wanna know how much money I owe so I can come there and pay it.
+Nurse: Um, do you mean how much money you owe at office? Yes. Uh I don't have access to that. Unfortunately, that would be an office phone call. Um, yeah, I, I don't have anything to do with the billing. I can't see like past due amounts or anything like that.
+Patient: I'll call billing.
+Nurse: Ok? But your shots, let me see. It looks like you're due for your COVID booster and that's all that I see that you're due for, um, shot wise.
+Patient: Well, I know I had one, booster but now it's time for another one.
+Nurse: Yeah, it looks like you were due for it, [PHI-Personal] of last year.
+Patient: Well, um, where did I have it done at?
+Nurse: Um, let me see. Your last one was [PHI-Personal], 2021. Give me one second. I'm gonna have to do some digging. Ok.
+Patient: Hm.
+Nurse: Hm. I don't see where you've had it at. It shows that you had the Moderna, but I can't see if you, I, I would assume your pharmacy, right? I had
+Patient: One, I know I had one, booster and that was on [PHI-Geographic] at, um, uh, what do you call that place is where you get the shots at,
+Nurse: Like the health department.
+Patient: You, you know, it's like where they give it, you know, how they get in line and you get it. Is that a building?
+Nurse: Oh, is it [PHI-Personal]?
+Patient: No. Uh, oh, it's right over on [PHI-Geographic]. Sure. Hold on one minute. Um, we got the COVID. What's the name of it? Ok.
+Nurse: Yeah.
+Patient: Oh, [PHI-Personal].
+Nurse: Ok. So, yeah, just give them a call and see if you can get in for your next booster if you, if you wanna get it done.
+Patient: Right? Can I get, can I get it done at, um, CV S?
+Nurse: Yeah, you should be able to. Yep. Absolutely. Just give them a call and set up an appointment so you won't have to sit there and wait forever.
+Patient: Oh, because I'm saying I know they were sending my husband that he need to have, uh, a shot.
+Nurse: Ok. Yeah. Yeah. CV. S will do it. Which
+Patient: Shot do he have to have?
+Nurse: Um, let me get him pulled up? Mhm. While I'm looking, didn't you get your glucometer picked up? Did the, what did you get your glucometer picked up from the pharmacy?
+Patient: Um, what's
+Nurse: That? The, uh, check your blood sugars for diabetes? Uh
+Patient: Huh. You mean the machine or? Yeah.
+Nurse: Yeah. The machine. Yes. Ok. How, how's they been running? Well, I
+Patient: Just checked it a few minutes ago before I ate. I didn't eat anything. It's [PHI-Personal].
+Nurse: Oh, ok. That's good.
+Patient: And the other one was yesterday when I check it. 11 [PHI-Personal].
+Nurse: Ok. Those are good.
+Patient: But I gotta check, you know, like after I eat.
+Nurse: Yeah. And I mean, you know, it's gonna read, it's gonna show it's a little bit elevated after you eat. So, um, but yeah, the fasting sugars are really good. Ok. So your husband is due for the COVID vaccine as well? The booster and then it looks like he's due for a shingles vaccine too? Ok. All right. So, um, CVS should be able to do both of those and, um, at the same time the shingles and the COVID.
+Patient: Ok. But I don't have to have the shingles. Right?
+Nurse: No, you're not due for that.
+Patient: Ok. Ok. Thank you, [PHI-Personal]. Ok.
+Nurse: You're welcome. Have a good day. You too. God bless you. Ok. Bye bye. All right, you too. Bye bye.

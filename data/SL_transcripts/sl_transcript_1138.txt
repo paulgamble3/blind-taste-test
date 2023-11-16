@@ -1,0 +1,10 @@
+Nurse: [PHI-Personal] care management.
+Patient: Yes, this is [PHI-Personal]. I didn't pick up fast
+Nurse: Enough. Oh, no, it's fine, Miss [PHI-Personal]. You can disregard the voicemail. I spoke to [PHI-Personal]. They let me know that for some reason it looked like previously, Mr [PHI-Personal] prescription was only for two weeks worth of medication. So that one was on hold. They ran it through again for 30 days. They said it's good to go and give it about an hour before you all go down and try to pick it up.
+Patient: Oh, ok. So, uh I don't know why they had that impression, so
+Nurse: I am not sure why either, but he did let me know that the 30 day supply will be ready for pick up in about an hour or so.
+Patient: Ok. And so now there's more refills on it then, right?
+Nurse: Yes, ma'am.
+Patient: Ok. All right, thanks [PHI-Personal].
+Nurse: You're welcome. Y'all. Have a great day.
+Patient: You too. Bye bye now. Bye bye.

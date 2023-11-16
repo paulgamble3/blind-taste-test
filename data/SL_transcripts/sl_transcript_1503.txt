@@ -1,0 +1,24 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hi, this is [PHI-Personal] again. I called you this morning. Hey MS [PHI-Personal], how
+Nurse: Are you feeling?
+Patient: Absolutely horrible. They still have not delivered that nebulizer.
+Nurse: My goodness. Ok. Uh let's see one second. Confirm your date of birth here.
+Patient: [PHI-Account].
+Nurse: Mm. Ok, let's see you. Ok. Where were you trying to get the nebulizer from? Not Walgreens? Right.
+Patient: No, they're getting it through that medical supply place. Ok. Right. Right. Right.
+Nurse: Ok. Good. Yeah. Um, now have you reached back out to daycare?
+Patient: Yep. And they said that you guys didn't put the paperwork in, I'm thinking. Yep. Here we go. Pass the buck. I know you guys did. Let me see and you called them and they sent that one over
+Nurse: Um on the. Yes she did. [PHI-Personal] sent that
+Patient: Over. I know she did. Can you call them and see what they say to you?
+Nurse: Yeah, I'll try and give them a call. Um, it's, it's four. Now I'm gonna for [PHI-Personal] now I'm gonna try and give them a call and see if there's, uh, you know, any kind of response and, um,
+Patient: And then call me back, tell me what's going on. It's like I'm getting weaker and weaker by the day because I can't breathe. Ok. So I guess
+Nurse: I'm confused as, how do we get from, they were gonna deliver it today to now, they don't have the paperwork. How are they gonna deli if they
+Patient: Didn't have the paper? But they called me yesterday and said that somebody would be calling me right after 12 o'clock. Make sure I answered my phone so they could deliver it. I waited all day long. Finally I called at 4 30 I'm like, um, I haven't heard nothing from nobody. Hold on a minute, hold on, hold on, hold on, hold on. Then they get back on the phone while we're still waiting for the paperwork from your doctor. I'm like that was done two days ago.
+Nurse: Yeah, definitely. Um, so I don't know what their hang up is. I'm gonna call, uh, I'll, I'll try and reach out to them and see, uh, see if there's anything anything new, I guess other than what's already been said to, to, to let you know
+Patient: And they got to deliver this thing today. They have got to.
+Nurse: Yeah, I don't know how I can get them to deliver it today. I can just call and see, you know, I understand the sense of urgency. I just, I don't, I don't, you know, I see the order to you. Ok. Ok. I was just going back through making sure I didn't get anything
+Patient: I'm sorry. Alright and you'll call me back. Yeah yeah I'll
+Nurse: Give you a call back if I get an update on um what they what they have going on and then I'm gonna leave a message also um for uh [PHI-Personal] I'm out of the office tomorrow so I'll leave a message for [PHI-Personal] if I don't get anywhere this
+Patient: Evening. Ok. Ok, thank you. You're
+Nurse: Welcome dear, I'm so sorry about this.
+Patient: Ok. Ok. Ok dear let me give them a call. Ok, bye. Alright, bye bye.

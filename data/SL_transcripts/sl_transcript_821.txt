@@ -1,0 +1,30 @@
+Nurse: Hi, this is [PHI-Personal] Jo.
+Patient: Uh, this is [PHI-Personal] Forbes. I'm returning someone's call.
+Nurse: That was me, [PHI-Personal].
+Patient: Yes, ma'am.
+Nurse: Well, let me introduce myself. My name is [PHI-Personal] Jo and I'm actually calling with [PHI-Personal] General on behalf of doctor [PHI-Personal] office,
+Patient: Doctor who's office
+Nurse: [PHI-Personal]. Oh, I'm sorry, [PHI-Personal]. I am so sorry. Yes. Yes. No,
+Patient: That's ok. That's ok. It's, uh, it's ok.
+Nurse: All right. Um, so this is a recorded line. I'm just reaching out in regards to a care management program doctor to is now offering and basically what that is is a call from one of our dedicated nurses where she would call, check on you in between office visits, answer any questions or concerns you might have. Um, she really assists with medications, lab results, you know, explain them a little bit better. Um, even prescription cost reductions. So, anything pertaining to your health, your nurse is just an added resource to you. And more importantly, it does help keep doctor a little bit more updated with your current conditions. They get a little busy sometimes. Ok. Um, now it is a billable service to your insurance. So [PHI-Personal] [PHI-Personal] Advantage plans and secondary insurance carriers. So it's subject to deductibles and copays. I do see that you usually have a $0 copay when you see the doctor. Mhm. So, it's the same, that's what we like to hear. Ok. Now your nurse can reach out to you on a monthly basis every couple of months, really, whatever your need might be. Um, and additionally, I'm gonna be sending you a letter with all of her contact information so you can feel free to reach out to her at any time if you have any questions or you wanted to get an appointment scheduled real quick, you know, you can get a hold of our nurses within about five minutes. So that's a nice benefit. Right.
+Patient: Right. Right. Uh I'm doing it. Is this a new program?
+Nurse: Yes, it has been around for a little while. Um, Doctor [PHI-Personal] just recently signed up for it within the past year or so. Um So it, it really started taking off when COVID hit uh when patients really couldn't get in to see the providers and stuff and just found that it actually helps people a lot more. So.
+Patient: Right. Ok. Alrighty then. Well, if I have any concerns or request now, would that uh mention that to you?
+Nurse: I can actually um reach right out to your nurse and I can have her call you in about 5 to 10 minutes. How's that sound?
+Patient: That's fine cause all I need is uh a prescription to have my, uh, bone density test done. Oh,
+Nurse: Perfect. That is exactly what your nurse can do for you. All right. Um, are you still at 4801, East Clifton Street?
+Patient: Yes,
+Nurse: Perfect. All right. I'm actually going to see if I could just transfer you over to her. Ok. Looks like she is on a call at the moment. Can I have her call you back?
+Patient: Yes. Yes. Um, well, uh when, when, when you um leave her the message of what I'm requesting
+Nurse: If you would like me to, I absolutely will bone density scan. Right.
+Patient: Right. Correct. I just need a script for it.
+Nurse: All right. Excellent [PHI-Personal]. Then I'm gonna send this to her and expect a call very soon. The number's gonna be similar to the one that I called you on. OK.
+Patient: Ok. Ok. Thank you, [PHI-Personal] Jo.
+Nurse: Oh, you're absolutely welcome [PHI-Personal] any time.
+Patient: Ok. Your name is, is easy to remember because two reasons it's part of mine and then my husband's bo name is [PHI-Personal] Joe. And when you say this is [PHI-Personal] Joe, I'm like, why is she at temp General now? So, so your name is easy to remember? Oh,
+Nurse: Well, good. I like it when people don't forget me, you know. No, no,
+Patient: Not at all. Not at all. OK. Thank you so much for reaching out and I love to hear from the nurse soon.
+Nurse: Absolutely, [PHI-Personal], thank you.
+Patient: Ok. Have a good weekend.
+Nurse: You too. Bye bye now.
+Patient: Bye bye.

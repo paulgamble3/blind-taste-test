@@ -1,0 +1,34 @@
+Nurse: Hello, my dear. How are you feeling
+Patient: Well, very badly. Why,
+Nurse: What happened, or is it still really bothering you? Did you have a appointment with the doctor?
+Patient: No, I have another problem I had when this happened a few years back, my whole back side is broke out with blisters above my butt. Oh, my goodness. And I, because the doctor couldn't get a hold of them on the weekend. So I've had to wait till now to call and let you know what's going on. I went down to the, um, drug store here in [PHI-Geographic] and it, it's a prose car, like, and he gave me some ointment to put on it. But what I need to know is what did doctor [PHI-Personal] put on me before when I had this awful thing happen? And it was two years ago. I don't know how many years now. I just know it was a few years. Let
+Nurse: Me take a look and see if I can find something.
+Patient: Yeah. I'm
+Nurse: Sorry, my dear. It's just one thing after the other.
+Patient: Oh, I know it. I'm not doing that. I feel all right. Otherwise, but these blisters are just awful. Do you know what caused it the last time? No, they didn't know either. They thought at first it was the shingles and then they said, well, they didn't think it was the shingles. They didn't really know. I even had, uh, some visiting nurses come up to look at it and help me out with it because I can't see it all. I know is that, that I can feel it and, and it itched and burned just horrible. Mm.
+Nurse: Um, it's, you have a bunch of creams from a couple years ago, a few years ago in your list. I just don't know
+Patient: What I'm wondering if it's, this one that I still have is a polysporin.
+Nurse: Maybe. Let me just look in your past, uh, appointments and see if I can find out. I'm still gonna let Doctor [PHI-Personal] know. I'm still gonna send a message over. I just wanna see if I can give him a heads up of which
+Patient: I haven't had very many nights sleep this weekend because of your bum. Oh, yes. It, it starts there in the crack and then it goes up above and it goes right across the bottom part there. Oh, God. I, I can't describe it. It's so awful. I didn't think I, yeah, same thing right in my butt. Yeah. I
+Nurse: Think this is the appointment
+Patient: And they itch and they burn, yeah, this says
+Nurse: [PHI-Personal] a rash on the buttocks. Is that the same thing. Must
+Patient: Be the same one. Ok.
+Nurse: It looks like he prescribed ketoconazole, which is like a, uh, a fungal cream. So I'm gonna message him, let him know what's going on in the meantime, just keep the area nice and clean and dry. Um, wait to put anything on it. Um, until I hear back from him. In the meantime, dry and dry and clean is the most important thing. I know. It's,
+Patient: Well, I've been doing that all weekend. See it happened Friday but it was too late for him when it happened that it broke out and I didn't realize that it was going to be as bad as this. I knew I had a couple of blisters there but I had them off and on. But this here is just, well, he would remember. I'm sure how bad it was, but I can't, nobody can see it. I can't even see it. I can just feel how bad it is. Which
+Nurse: Office do you usually
+Patient: Go to down in, um, down by the WC, a [PHI-Geographic]? Yeah. Ok.
+Nurse: I just wanna make sure I'm messaging directly. All right, my dear, I'm sending over the message now. As soon as I hear something I'm gonna let you know. Ok. How is your hand doing?
+Patient: Oh, that's doing. I got, now I got two fingers taped together and I, yeah, I have to go back in another week and a half. I think it is. And they'll look at it again, but at least I don't have that awful thing on my whole hand that whatever they had it wrapped up here. Yeah. Now, do
+Nurse: You, did you see the orthopedic or? You're only seeing the primary?
+Patient: I just so, well, yeah, he was orthopedic. His name was [PHI-Personal]. I think it was. But he said if they don't, if they didn't get better then I'd have to see Doctor, uh, [PHI-Personal], which is the one that does operations. But he thought I wouldn't get to that if my, kept these fingers for two weeks [PHI-Personal] together. That's the news.
+Nurse: That's wonderful.
+Patient: Yes. At least it's a little bit of help anyhow. I mean, it's, I can't use the hand very much because it not, you know, it's hard with two fingers taped together, but
+Nurse: At least it's a little bit better because that would be a whole another problem if you had to have surgery and then you had to deal with recovery. And that's a whole other
+Patient: Slue. Don't wanna think about my,
+Nurse: How was your weekend? Besides the blistering? How was your weekend?
+Patient: Well, it just normal. I didn't do anything. I just stayed home. Yeah.
+Nurse: Did you open the windows at all? It's been pretty nice. The last couple of days
+Patient: I did go for somewhat of a walk yesterday. I think it was. And then of course it had the rain. So we had to come back my neighbor and I but, uh, I'm going to go to walk again this afternoon once I get this straightened out with her. Ok.
+Nurse: All right, good. I'm glad you're getting out and getting some fresh air. Yeah. All right be. Well, let me send that message over as soon as I hear something I'll call you. Ok.
+Patient: Ok. Thank you so much, dear. You're welcome. I'll talk to you soon. Ok. Bye bye bye.

@@ -1,0 +1,12 @@
+Nurse: This is [PHI-Personal] speaking. How may I help you? Is [PHI-Personal] there? Um, no, this is TTA uh, [PHI-Personal]. She was actually calling and ma she was making some phone calls for me uh, earlier today. Um, what, um, who am I speaking
+Patient: With? Well, it's [PHI-Personal] but she called yesterday.
+Nurse: Oh, she called yesterday. Ok. Hold on, let me pull you up really quick. Hold on. Ok. And she was just calling just doing, um, your monthly follow up call from, um, Doctor [PHI-Personal] office, the Family [PHI-Geographic] Center.
+Patient: Yes, I'm good. I'm, uh, finished with my appointments for my eyes and everything's good.
+Nurse: Ok. All righty. Um, how about medication? Do you need any refills on anything?
+Patient: No, I don't.
+Nurse: Ok, hold on one second. Let me put this in real quick. Hm. Ok. You said you're done with your appointments for your eyes and then the next appointment you have scheduled is gonna be in [PHI-Personal], I think for the doctor.
+Patient: Ok.
+Nurse: Ok. All right. Um, I'll go ahead and update everything. Just let him, uh, you know, put in that you're doing fine. You don't need any medication refills and you haven't had anything else. Happen in between the phone calls. Have you like anything any falls or? No?
+Patient: No, I'm good. I was to see her for the um Dexa scan thing they did a couple weeks ago. Mhm. I mean I saw her nurse. Ok, but everything's good.
+Nurse: Ok. Alrighty, I'll update you in the system then and then we'll talk to you next month.
+Patient: All right. Bye now. All right. Bye.

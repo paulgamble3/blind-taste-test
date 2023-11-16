@@ -1,0 +1,10 @@
+Nurse: No, hello, this is [PHI-Personal]. Hey [PHI-Personal], this is [PHI-Personal]. How you doing?
+Patient: I'm good. How is that? How are you?
+Nurse: My back is still hurting but I'm ok but I'm up really. Well uh let me tell you I'm gonna be running a little late with my appointment. Ok, I'm heading to it right now but because the bus was running really late um I'm gonna be running a little late. Ok.
+Patient: Ok, let me pass the message over to the office. Ok, because I'm not inside the office. Let's see how late do you think you're gonna be?
+Nurse: Well right now I'm getting ready I'm on I pass so I'm getting ready to turn on so give me give me a good to make it say say 45 minutes. That's correct.
+Patient: Ok, let me let, let me let them know. Ok. Ok.
+Nurse: All right because uh I'm being I'm running a little late but.
+Patient: Ok, thank you for letting me know. Ok,
+Nurse: Well you are awesome so
+Patient: All right I'm gonna tell him. Ok. Ok, thank you thank you bye bye.

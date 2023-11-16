@@ -1,0 +1,113 @@
+Nurse: Hi, this is, how can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. You left a message for me yesterday? Oh, hi. How are you? I'm doing ok. Well, you
+Nurse: Don't sound so sure what's going on,
+Patient: What's going on? Well, I'm just not a happy [PHI-Personal] lately. That's all. Oh. Um, yeah, the, uh, um, anxiety. It's kind of picked up a little bit and it's, it's, it's, uh, my life issues actually. Uh, it's who not getting things done as quickly as I would like to, you know? Yeah. You know, you know how that goes. So, it's kind of like a little depressing and, yep, I completely
+Nurse: Understand. I get the same way. I, now it, is there something in particular that happened or? That's, you know, just things.
+Patient: No, it's just like, sorry, you're ok. Cigarette co,
+Nurse: I was gonna say that sounds awful familiar.
+Patient: Yeah, that's a cigarette co, but anyway, um, uh, no, nothing in particular that happened. Ok. It's, it's, things seem to be, life seems to be snowballing and I can't keep up.
+Nurse: Ok. Now, just getting busy or just not being able to keep up in general.
+Patient: Uh, little bit of both actually. Um, uh, we, we live in, uh, [PHI-Geographic] and my husband and I take care of the ground. Ok. And I can only do so many things, you know, because, well, for one, I'm short another, I'm round and I can't, you know, like turning the hedges in front of all the buildings. I can't, I have only one building I can reach across the whole top. So that means he has to do the, and, you know, he has to do the others and stuff like this. B so mostly it's him because he doesn't do what I think he should be doing. Ok. But anyway, oh, then I tried the, uh, [PHI-Personal]. Yeah, meter thing. Yeah. And in some ways it was great in others. It was a pain in the neck. Oh, no. Why? Well, any kind of broke? Oh, shoot what? My arm? Many times I get what? I, my arm too many times, I guess. Oh, my goodness. It, it, it came out like, you know, four days ahead of time. Yeah. Yeah. So I had to, you know, the doctor's office and, um, all the, uh, all, all the people were working on it and my insurance insurance apparently doesn't care for this without the reader. Although I was using the phone. So I thought, ok, well, let this go. You know, I was checking things out and I found a, uh, I, I found that they make watch type things to read your glucose. Ok. Ok. Now they're done in different milligram readings and I'd have to, I have to work with the chart on that to turn it into the, mm, whatever we do. Mhm. Probably the reason is there's such thing as one in the American measurement is because the [PHI-Personal] will not, does not approve of these things. So, anyway, so I'm getting one of those and canceled everything on the [PHI-Personal].
+Nurse: Ok. Now, what kind of a thing is it that you're getting? What's this one called?
+Patient: Uh, I'm not sure the brand name but it's, it's like you wear it like a watch. I mean, it, it can measure your sugar, it can measure your heart rate.
+Nurse: So it's a watch and it measures all of
+Patient: That and it measures all of that
+Nurse: Blood sugar and heart rate. Yep. And where did you hear about this at?
+Patient: Actually husband researched?
+Nurse: Oh, ok. Now, where did you get it from? Where did you say it came from?
+Patient: I, I haven't gotten it yet. It left mainly in [PHI-Geographic] yesterday. Got it on Amazon. They got like, you know, 50 different kinds of em. Oh,
+Nurse: Ok. Got you. Ok. And you said, so you don't want me to have him replace your libre sensor or reader,
+Patient: Say what
+Nurse: You don't want the [PHI-Personal] thing replaced?
+Patient: No. All right. Now that was the test from the doctor's office. And I, well, I, I learned a lot I can learn just by watching on something. I don't need the alarms to tell me my sugars are, well, I kinda need em to tell me they're going up but I don't need em to tell me they're going down. I know I knew before the meter told me. Mhm. Ok. So I don't really need the alarms.
+Nurse: Now, what were they work? What did you say they were working on in the office? Like I'm looking through the notes here. What was the [PHI-Personal] parachute?
+Patient: Well, they called in the prescription. Yeah. Ok. Um, they called it a prescription and adapt. Health called me so that they could get it authorized. But they called me because [PHI-Personal] will not cover without the reader. Yeah. 00, I
+Nurse: Lost you. You said [PHI-Personal] wouldn't cover without the reader,
+Patient: The reader. So I had, so they had to call in, they had to call, get the doctor's office. Oh,
+Nurse: I'm sorry, you're cutting in and out. I can't hear you
+Patient: Because [PHI-Personal] does not cover. Bye. Uh, and then when I broke it they had to call a different pharmacy around here and they never called me about it. So I figured they were probably having problems or, you know, pre approval and stuff. So I thought, oh, no, no, this is nuts. I got trouble with my eye. I, I don't, oh,
+Nurse: I'm sorry, you keep cutting in and out. I can't hear you right now what you're saying? Uh,
+Patient: It was around. I, yeah, I have no fake me here. I really don't.
+Nurse: Ok. So this adapt health that you're referring to, is that like a legit company? Because they didn't say anything about adapt health in here? I'm sorry, I can't hear you.
+Patient: That is the company. Great. Can you hear me better this way? Yep. Ok. Now you're on speaker. Ok. Ok. So adapt Health is the medical supply place that I get my CPAP, uh, supplies from? Ok. Yeah, it, it's a legitimate company.
+Nurse: I was just curious because I had somebody talk to or I talked to earlier about Adapt Health and when I googled them online, their rating was like 1.2 out of like 72 reviews. So we weren't really sure how legit it was.
+Patient: Yeah. I don't know. I've been dealing with them for some time. Ok.
+Nurse: Good. That's good to know.
+Patient: I had never heard either. But,
+Nurse: Ok. All right. And then let me see here. Hm. Ok. All right. And then you followed up with the doctor on [PHI-Personal], right? No. Ok. And they did not change anything at that appointment? Correct.
+Patient: Correct.
+Nurse: But is that when they ordered the [PHI-Personal]
+Patient: Change what the [PHI-Personal] they did change one thing. He said that I should double my vitamin D. Ok. So instead of 2000 I use, I'm taking 4000. I use. Ok,
+Nurse: Let's see. When we'll double, she will double the present dose. Ok. So it's vitamin D 4000. Ok. And then
+Patient: My A one C was 7.4. I think he said that's not too bad.
+Nurse: Yeah. Yeah, it was 7.4.
+Patient: I understand it correctly. My other numbers are getting better slowly but surely.
+Nurse: But, ok. And then let me look at something real quick here. Ok. And then in regards, let me see something real quick here. Do you have, let me look real quick here. You don't have like a clinical diagnosis of depression, do you?
+Patient: Yeah, that's on my list. That's why I take the FLUoxetine.
+Nurse: Uh, you don't take that for your anxiety or do you take it for both?
+Patient: I take FLUoxetine for the anx for the depression
+Nurse: And then you just take the LORazepam as needed for your anxiety. Yes. Well, it's the [PHI-Personal] thing. They have it in here that you take that for your, they don't have depression listed as your diagnosis.
+Patient: Yeah.
+Nurse: Like that's weird. It's nowhere in here. Yeah.
+Patient: Oh, no, it's in there. I have been on. Um, yeah, that or, yeah. So that's weird. Huh? I've been on PROzac for, oh, my many, many years.
+Nurse: Oh, that's so weird. Yeah. They don't have, they don't have it listed as your diagnosis. So, whenever you, um, whenever you're struggling with these moments of feeling depressed, um, what, what type of things do you do to make yourself feel better
+Patient: On sleep? Just sleep, it sleep or? I do nothing. And, you know, I can play my games stuff and then, uh, watch TV, while I play the games I watch TV. I cannot one thing at a time. You what? Well, I watch TV. I play my computer games or I wish I could get interested in crocheting again. But my eyes are [PHI-Personal].
+Nurse: So, you said you watch TV, play your games, uh, TV, play games. Do you play games on, like, your phone or computer or something?
+Patient: Yeah, I, um, on my phone and I, a [PHI-Personal]. Oh, ok.
+Nurse: Um, [PHI-Personal]. Ok. Yeah. Hobbies in general, you know, can give us lower stress level, physical help, you know, um, or better physical help just in general. Just finding something that, you know, increases your happiness even if it's a little bit, um, you know, finding something, you know, you're generally interested in, you said crochet is there? So, is there a reason why you can't crochet anymore or you just don't have the interest to do?
+Patient: I, I know I, but my vision is, oh, is, uh, yeah, interfering. Yeah, I, I am seeing a retina specialist. I am getting injections. Oh, ok.
+Nurse: Injections. Ok. Is it in one eye or both eyes? Both eyes, both eyes. Ok.
+Patient: Both eyes every six weeks for each eye. So that overlaps and them down there every 2 to 4 weeks.
+Nurse: Ok. Every six weeks for I,
+Patient: They do one eye at a time
+Nurse: And does that help
+Patient: It? Seemed to at the beginning but it's not. Now the doctor said he thinks he's gonna change my medicine, the medicine that they inject. Ok. We have fight with the insurance company on that.
+Nurse: Of course, these insurance companies are something
+Patient: Else. They are definitely something else. Gosh.
+Nurse: Ok. And do you, do you have any other questions or concerns at all for me today?
+Patient: No, no. The, with the libre, when I had the [PHI-Personal] thing, I, I asked the pharmacist a few questions. So I did learn stuff. Ok. And I, I did learn, like, even after all these years, uh, that how important it is to take your medicine at the same time every day and take your medicine probably 15 to 30 minutes before you actually eat. So, and that, that's a new one. That's, that's part of my depression thing. Trying to, I'm not a very good schedule.
+Nurse: Ok. Yeah. Keeping a schedule. Yeah, that definitely can help
+Patient: Work. I'm working on it.
+Nurse: But, yeah. No, I think that's great that you're working on that. That, that can definitely, you know, help. So, I'm glad you're making an effort to, you know, try to make that better. I think that's good for you.
+Patient: Yeah. So I, I have to get back on my bike. On your, what? I have an indoor bike. Oh, ok. Yeah. And it measures all that, you know, the heart rate and all that kind of stuff. Yeah. Pulse. I gotta get back on there. Yeah, exercise
+Nurse: Does. Well, even if it's walking and if it's
+Patient: Not tell me when I need to get on there. Yeah.
+Nurse: Yep. And even if, you know, if you're not quite ready for the bike yet, even, you know, 30 minutes of walking since it's getting nicer outside that can help bring you out of that funk mood.
+Patient: Oh, I hate walking. Ok. Never mind. I, I, what, what happens with walking is I end up being bent in half because my low back can't take it. Oh, this is a problem I'm having with the, all the garden work around here. Oh,
+Nurse: Yeah, definitely. That'll do a number on your back.
+Patient: I actually managed to get my hands on a, uh, a walker, you know, the kind with the seat. Oh, yeah. Yeah, I managed to get my hands on one of those for nothing. Oh, nice. Yeah, nice. I name [PHI-Personal]. You what I named it. It's red
+Nurse: [PHI-Personal]. Oh, you named it [PHI-Personal]? That's great. Yeah,
+Patient: I named it [PHI-Personal] and I, I used it from doing the yard work so that if I, you know, need to sit while I'm in the, uh, trimmer, I can sit.
+Nurse: Yeah, that's nice. Good. It
+Patient: Also carries all my important stuff.
+Nurse: Oh, yeah, that's helpful too. Keep it right there with
+Patient: You. Yeah. Yeah, because, you know, if I have a sugar crash out there, hey, I'm ready. I, oh, yeah,
+Nurse: For sure.
+Patient: Good. Can [PHI-Personal]. Good. I'm trying to stay prepared for all of this.
+Nurse: Well, it sounds like you're doing a great job.
+Patient: I'm trying, I really am.
+Nurse: No, I think you're doing a great job. But trying.
+Patient: So, ah, so, anyway, so there, that's me for the month that be coming on Monday. You what got the land lady coming on Monday to discuss exactly what they want your schooling. And I want to know exactly what she had planned for the landscaping because I don't think it's working out the way she thought of it. But anyway. Oh, yeah. And I had to give up my cookie. Try to give up
+Nurse: What
+Patient: My cookie baking. Oh, why I, it, it was too much. I just couldn't anymore. Yeah. So, the group, uh, the group I had put a boat to the group and all been so busy, you know, and everything else and they all agreed it was time to quit.
+Nurse: Oh, well, good. I'm glad you're all on the same page. You, because you guys got together once a week.
+Patient: Ah,
+Nurse: You guys, you got together once a week with them to cook stuff? No. Or did you make it and take it, take it
+Patient: Together? We, we baked every other week. We bake cookies in our own homes. Ok. Ok. And then they would drop them off here and whoever's turn it was to deliver them would pick them up here.
+Nurse: Ok. Yep. No, I do remember that. And where did you guys deliver them to?
+Patient: We had taken him out to, I don't know what it's called now but it used to be the Frederick. No, not Fred. Uh, it used to be at S an village in [PHI-Geographic]. So, like a nursing home. Yeah, a nursing home still. I still have cake. I make cookies for the doctor's office out here, but that's one batch. Oh, yeah, definitely. You know that that's not five or six batches. Mhm. Or more if somebody else had to be off for some reason or another.
+Nurse: Ok.
+Patient: Yeah. So I have that, that was kind of depressing too because I feel bad.
+Nurse: Oh yeah. But I mean, you have to take care of you too.
+Patient: Yes, I know. I keep telling myself. Mhm.
+Nurse: Well, you're doing a great job. Keep it up.
+Patient: Thank you. You can get right. I really do hope so. But anyway.
+Nurse: All right. Well, you give me a call if you need anything. Um, otherwise I'll be reaching out to you next month. Ok.
+Patient: Yep. Yep. And I'll let the, I'll let
+Nurse: The doctor's office know what
+Patient: Iii I was just checking my phone and I saw there was a message from you. So yesterday.
+Nurse: Oh yeah. Mhm. Well, thank you for calling me back. Um, I'll just let I'll let the office know that you're not gonna do the libre. You're just gonna,
+Patient: I already called and told him. Oh, ok, perfect everything. Anything that has to do with the [PHI-Personal]. Ok. Sounds good. I'm not going there, so.
+Nurse: All right. Well, you give me a call if you need anything. Ok. All
+Patient: Right, thanks. K
+Nurse: You're welcome. Have a great weekend. You too. Bye bye. Thank you. Bye. Good.

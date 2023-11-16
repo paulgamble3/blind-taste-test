@@ -1,0 +1,7 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Oh, this is [PHI-Personal]. Read you left me a message.
+Nurse: Hey, how are you? Ok, good. Let me get back into your chart here. So I am the nurse care manager that was assigned to call every two months and ca um check in from doctor [PHI-Personal] office. Uh Do you have a few minutes for me to do my first phone call with you?
+Patient: So I don't really know if I need to call all the time. It just I'm doing ok and I don't have any problems and I keep missing the calls and it's just uh yeah, I just like to opt out of that for now.
+Nurse: Ok. So we we can decrease the frequency as well. I can take you completely out some people. I only call every six months. It's completely up to you. But if you don't want the phone calls at all, then I can just opt it opt you out of it.
+Patient: Yeah, just me
+Nurse: Out. Ok. Alright, you have a great day. Ok. Yeah, you too. Thanks. Thanks. Bye.

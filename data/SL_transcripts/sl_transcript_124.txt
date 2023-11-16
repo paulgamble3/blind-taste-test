@@ -1,0 +1,7 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi. Um my name is [PHI-Personal] and I'm returning a call to [PHI-Personal].
+Nurse: [PHI-Personal]. Ok, hold on one minute. Let me see if he's at lunch. If not, I'll patch it right through to him. Ok,
+Patient: Thank you.
+Nurse: You're welcome. Hold on. Ok, I think he's on lunch. Let me see. Um uh is your birthday uh [PHI-Personal]? It is. Ok. I will let him know that you called and I will have him call you back as soon as he gets back from lunch. Ok.
+Patient: Ok. Thank you so much.
+Nurse: You're welcome. Have a great weekend. You too. Bye bye.

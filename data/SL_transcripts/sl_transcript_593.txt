@@ -1,0 +1,31 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. Yes, Miss [PHI-Personal], how are you doing? This will.
+Nurse: Ok, let me get you pulled back up really quick. Ok. Ok. Yes, ma'am. I was just calling to check on you to see how things were going.
+Patient: Well, I have to, I have some bad news. I had fallen and had fallen out my front door and I had to go out to the hospital to be checked out.
+Nurse: I do see that that happened on the 30th of last month. Uh
+Patient: Yes. Ok.
+Nurse: Are you doing? Ok. Yes. Just
+Patient: Still a little so, but otherwise I'm doing ok.
+Nurse: Ok. Uh, let's see. Uh, did you have any injuries from that?
+Patient: I know more than my knees. You, you know, I scraped my, not scraped my knees but you know, I have fallen down on my knees and they, they was hurting real bad. I couldn't walk but I'm still walking with a little walker cause it still, you know, still hurt. I still feel the effect on it, but I have to, I'm for going to the orthopedist so, you know, to have that checked out.
+Nurse: Ok. Now, do you use a walker or anything? I had
+Patient: To borrow one because it hadn't had one.
+Nurse: But they did order you one. You said?
+Patient: No, they did not. No, I had a for my brother.
+Nurse: Oh, you borrowed it from your brother? Ok. Ok. Well, I'm glad to know that you're ok and I hate that the fall happened. Do you know how it happened?
+Patient: Oh. Well, the kids upstairs water down in front of my floor there, set of kids and I didn't know you know how you walk out the door and I just slid, thank thank God slid on my neck and you know, I hit my knees real bad and, and then I hit my head against the the gate out there also.
+Nurse: Yes, ma'am. I'm so sorry to hear that. I'm glad you're ok. That's terrible. Oh, yeah. Um, I'm glad that you have a walker though to help you keep balance. Make sure you're using that inside your house and outside your house. Ok. Yes. Um, I do see where you haven't established care with the new primary care provider yet because you were seeing doctor and you know, she's no longer with [PHI-Personal]. Um, so do you want me to get you scheduled for an appointment?
+Patient: Uh, I would like to get an appointment with, uh, I have my daughter check back but I would like to get an appointment with doctor. Uh, I don't know how you pronounce his name. Start with ad I I can't pronounce it I mean a w no, no. WW we, we, I don't know how to pronounce it. Yes. Uh,
+Nurse: Now, um, I can go ahead and schedule you that because it's gonna probably be a little while before you can get in. Do you want me to do that for you today? Uh,
+Patient: Well, yes.
+Nurse: Ok, let's see. Now doctor WPA is a man. Are you ok with that? Oh yeah. Ok. His next available is gonna be in [PHI-Personal]. Um I have [PHI-Personal] 19th at 10 AMI have a e afternoon appointment on [PHI-Personal] 20th at [PHI-Account]. What works better for you?
+Patient: The [PHI-Account]?
+Nurse: Ok. Ok, perfect. That's [PHI-Personal] 20th at [PHI-Account]. Ok and that's to establish care with doctor W PAA.
+Patient: Yes, [PHI-Personal] 20th. Ok. Um
+Nurse: Oh go ahead.
+Patient: Now I was telling you was asking me my my prescription. I need two prescriptions that I uh need to be, be refilled because they just recently refilled. The rest of them I had needed was my anxiety and my sleeping pill.
+Nurse: Let me take a look really quick. Ok. What you are you talking about? The Ativan? Yes, I have. Ok. And the sleeping pills. Let's see. The Ambien. Yes that's it. Yeah. Ok. Looks like Doctor [PHI-Personal] filled both of those last um um let's see what they said here. That was [PHI-Personal]. Ok. Mhm. Ok, I can request those however, I do have a feeling that they're gonna tell you you need an appointment for that. Ok. Let me see. You were last seen by her in [PHI-Personal]. Yeah. Ok. I can request it and see if they'll refill it. I can't be positive though because they are controlled. Um, but I'll request it and if they say no, I'll give you a call back and let you know and then see if we can get you in sooner to see maybe the nurse practitioner to get those refills, then you can establish care with doctor. Ok. All right. So also I wanted to let you know why I had you on the phone. You do have some wellness goals that you're supposed to complete for the year. You need a colonoscopy. Have you scheduled that yet?
+Patient: No, I haven't.
+Nurse: Ok. So that's just a reminder that you do have that it is ordered in the system. So, um, you should be able to schedule it with um, the hospital to have it done. Ok. Or do you have a AG I doctor that you see? Uh, no, I don't. No. Ok. So you can schedule that with the hospital. I don't think they have anything available for this year. It'll probably have to be next year. Ok. And then you have a few vaccinations that you need. Um, you need your TDAP vaccination. Mhm. And everything else looks ok, you will have a mammogram that's due soon coming up in November, but I'm sure doctor WPA will discuss that with you in [PHI-Personal]. Ok. Mhm. And let's see, labs you completed all your labs so far, so he'll order more when he sees you again. Ok. Ok. All right. Well, Miss re you have a wonderful day. If there's anything else I can do for you, you just reach out to me. Ok. Ok, I will. Thank you so much. You have a nice
+Patient: Day now. You too. All
+Nurse: Right. Bye bye. Bye bye.

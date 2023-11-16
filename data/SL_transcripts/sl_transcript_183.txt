@@ -1,0 +1,137 @@
+Nurse: Rheumatology nurse care manager. Cami speaking.
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal]. I'm sorry, I couldn't get your call. I got a phone call that I had to take and, and then I'm sorry, I had to um disconnect the call but I had just gotten a hot dog and you can't eat a hot dog cold,
+Nurse: You know, it's just not the same is it, it's
+Patient: Just not the same. So I apologize
+Nurse: Twice. Oh, that's no problem at all. I appreciate you giving me a call back. So I will go ahead and um I think we're almost done with your, with your list. So let me see if I can uh figure out where we were. Um So we did, I think we hadn't gotten very far. We didn't OK. Let's see. I think we did the turmeric for sure. Did we do the um levothyroxine sodium 50 micrograms one a day.
+Patient: Yes. II I, I'm, I'm do take that. I don't know if you mentioned it or not, but I do
+Nurse: Take that and then I have the omeprazole 40 mg twice a day. Uh
+Patient: Yes, I, I uh that's a new increase that I'm taking now it was just once a day but it's now twice a day. Ok. Um, that's, uh, because I just recently not feeling well.
+Nurse: Ok, you feel like that's working a little better for you as twice a day.
+Patient: Um, well, it's hard to say it's, it's new now so I
+Nurse: Haven't been doing it that way for very long.
+Patient: Uh, no, just a couple of, uh, short
+Nurse: Time. Ok. Um, and the next one I have is I think this is generic for maybe CeleXA. It's escitalopram, oxalate 10 mg and it's 1.5 tablets a day.
+Patient: I'm not familiar with that at all. I'm not taking 1.5 of anything.
+Nurse: Oh OK. Um Do you take it? It says um like this would be maybe like an antidepressant or like for anxiety or something like that. Oh,
+Patient: I know what you're talking about now. It's um Lexapro.
+Nurse: OK. This
+Patient: Lexapro I, I'm taking, I'm taking two tablets, a 10 mg and a uh 15 mg tablet. Maybe that's what you're referring to. Um it's called um uh Well, I'm not sure how exactly how to say it. It's uh eescitaloph am.
+Nurse: Yeah, that's what I have. Oh OK. And so it's not 1.5 that you take, you take a 10 mg and a 15 mg tablet, right?
+Patient: Uh No, [PHI-Account]
+Nurse: For a total. Oh, [PHI-Account]. OK. Oh, so that must be why they put 1.5 because the 1.5 of the 10 mg would equal 15 mg.
+Patient: Oh. That's, that would be.
+Nurse: Ok. Got you. And then I have the buPROPion hel er, 200 mg. One twice a day. Yes. Uh huh. Ok. And then I have, um, zole 10 mg. Ok. Yes, I
+Patient: Take that in the evening.
+Nurse: Ok. And then I have the calcium and vitamin D 3, 500 slash 15 mg.
+Patient: Yes, that's true. I take that twice a day.
+Nurse: OK. And uh that's really all, that's really all that I that I have. Do you, are you taking any that we didn't mention
+Patient: Uh I'm not sure in the beginning, did you mention the uh multi gummies, the multivitamin?
+Nurse: No, I don't have you take the gummy multivitamin once a day.
+Patient: OK. Once a day, two of those
+Nurse: Two. OK. I'll add that anything else you think we didn't mention? The only other one was like your Topamax baclofen and then the turmeric and the um anti
+Patient: Inflammatory I was gonna mention. OK. That covers every uh the uh did you mention uh [PHI-Personal]?
+Nurse: No. What's
+Patient: It called re uh B as in boy [PHI-Personal] I
+Nurse: OK. And you know the milligrams on that one?
+Patient: Um Let me see on the back [PHI-Account]. MC G
+Nurse: [PHI-Account].
+Patient: And then it says nine hun nine rather MC G OK. Her inhale inhalation.
+Nurse: Oh, that's your inhaler. OK.
+Patient: Yes.
+Nurse: Mhm. How often you do that? Um, I take that
+Patient: Once a day in
+Nurse: The morning. Ok. Is that something new you've been doing? You been on that for a while? I've
+Patient: Been on that, um, ah, for a while. I'm trying to see since [PHI-Personal] at least.
+Nurse: Ok. Um, that's your family doctor or the, uh, pulmonologist that prescribes it.
+Patient: It was, um, let me see on the back. So, actually, um, my family doctor, [PHI-Personal].
+Nurse: Ok. All right. So I will update that and have you had to see any doctors here in the last month or so?
+Patient: Um, well, I haven't been feeling well, so I've seen, um, uh, I've been to the, er, uh, because of that, um, I've had a severe pain in my stomach, um, and I've had an upper g, I, not the upper, that's not right. I've had an upper endoscopy, uh, just on Monday. Ok. And, um, I, uh, the results I believe were, uh, I believe that the, and this is going to sound strange but I do believe the, uh, test was incomplete in that the doctor did not go far enough into my stomach. He only went down as far as my esophagus, the upper esophagus. He didn't go down as far as the, the pain which is in the pit of my stomach. He didn't go down that far.
+Nurse: Oh, I see. What are they gonna have to do? Um, I don't
+Patient: Know, I have to talk to my, uh, general practitioner, uh, has a, uh, appointment with him or rather her, excuse me, her on Friday. So I'll be talking to her on Friday.
+Nurse: See what the next step is. Yes, I see. And that's, that's the, um, your, your family doctor had ordered that, or you went to see, like the G I doctor,
+Patient: Uh, da [PHI-Personal] that?
+Nurse: Ok, I see. Um, well, hopefully. So, they did some biopsies, you think?
+Patient: No, they didn't do any biopsy.
+Nurse: They didn't, he
+Patient: Had to leave because of an emergency. So, I don't know exactly when that emergency took place. So. Oh, gosh, I feel, uh, bad about that.
+Nurse: Yeah. Well, hopefully everything's ok there and I know sometimes if they're not able to go down far enough, you know, with the upper G, I, then they have to kind of do like the, the colonoscopy type thing to kind of reach all the areas in between
+Patient: The, um, the, um, diagnosis was mild esophagitis and I googled that and the, um, symptoms were totally wrong on as far as my, uh, symptoms. They talk about, um, pain in the esophagus and, um, problems eating and, um, things like that. And I don't have any of those problems.
+Nurse: It's just that pain under the bottom of your stomach.
+Patient: Yeah. Yeah. Severe pain. Yeah. I don't have any of these problems that he diagnosed.
+Nurse: Yeah, because the esophagitis that's more like, would be related to your reflux and stuff like that and maybe have trouble swallowing. Yeah. And I wonder if you might have like a, an ulcer or something like that that might be causing you some pain in the stomach.
+Patient: Well, that was, yeah. Yeah,
+Nurse: I guess just keep an eye on it if it, do you have the pain right now or does it kind of come and go? No, not right now. Ok. Good. Yeah, I guess just keep an eye out if you need to go back to the, er, or something or, you know, don't hesitate. Yeah. Um, well, how has Bernadette been doing? I think last time I had talked to you, she was in the hospital.
+Patient: Um, well, I, I don't remember but, um, she was, uh, um, getting physical therapy and, um, that just finished a couple of days ago. Oh,
+Nurse: Ok. She did ok with it.
+Patient: Yes. Yes. Ok.
+Nurse: It was at the, at home or was she going out? It was at home? Yes. Oh, ok.
+Patient: Yes. Uh, physical therapist came to the house twice a day. I mean, excuse me?
+Nurse: Only twice a week. Yeah, that's what I figured you meant. That would be a little much, wouldn't it? Yeah, for sure.
+Patient: Oh,
+Nurse: Dear. That's funny. So she, um, she feels, does she feel like she got gained a little bit of strength with that?
+Patient: She did. Yes. Good. She's much better than when she came home from a, uh, allied. Oh, good. Oh, I'm sorry. I didn't tell you that from the hospital she went to Allied.
+Nurse: Ok. Was that, um, what it, was that like a inpatient rehab type thing? Yes. Yes.
+Patient: Oh, you may not be familiar with [PHI-Personal]. I'm sorry, I just assumed you, you were? Yeah,
+Nurse: I done that. That's ok. That's ok. That
+Patient: In, is a, uh, inpatient rehabilitation area that's well known in the, uh, [PHI-Geographic] area on the [PHI-Geographic].
+Nurse: Ok. Ok. What did she, did she mention anything about it? Did they treat her pretty well there? Yes, they did. Mhm. Ok. Going, um, and do you know, like about her medications or you feel, do you feel comfortable if I call those out to you?
+Patient: Uh, yes. In fact, I have them, uh, in front of me to, uh, um, you know, make sure that I have all of
+Nurse: Them. Ok. So the first one I have, of course, is her Prolia injection that she gets with Dr [PHI-Personal]. Um, and then, then I have the, just Tylenol acetaminophen 500 mg, two tablets as needed. Uh, she
+Patient: Doesn't, um, well, she takes acetaminophen and, uh, that's, um, just regular over the counter now that we don't even keep with her regular medicine. Let me see what that is. Um, because she doesn't take it very often. Ok. Uh, yes, it's, it is 500 mgs.
+Nurse: Ok. But she doesn't take it every day, just kind of when she complains. Yes. Mhm. Ok. And then I have the pantoprazole 20 mg one a day.
+Patient: Um Yes, she does take that every day.
+Nurse: Uh predniSONE 10 mg. Uh, is it one a day she takes of that?
+Patient: Uh, the predniSONE, she takes, uh, ultimately one uh pill and then a half a pill alternately.
+Nurse: Ok. So one day she'll take, she's
+Patient: Broken, she breaks it down as to on, uh, Sunday, Monday, Wednesday and Friday, she takes a whole pill and the other days she takes it uh, half a pill.
+Nurse: Ok. All right. And then, let's see. The other one I have is this is a prescription pain medication, acetaminophen and codeine number three
+Patient: HYDROcodone. She has. Yes. And she takes that as needed but that's uh something that's, you know, just as needed. Not very often. Um I would not say that she takes that daily at all.
+Nurse: What's the milligrams on the HYDROcodone?
+Patient: Um Let me see where it's at. Here is [PHI-Account].
+Nurse: Ok. All right. And then I have the gabapentin 100 mg. Two in the mo let's see. Two pills, three times a day,
+Patient: 22 times a day.
+Nurse: Ok. All right. And then I have uh her cellcept or mycophenolate 500 mg one in the morning and two at night. Yes. Mhm. Multivitamin one a day, two a day.
+Patient: Ok. At night
+Nurse: She takes that. She does the gummies like you do. Yes. Mhm. Ok. And then um metoprolol supinate er 25 mg. One a day.
+Patient: Um, no, she takes, no, um, she takes, um, [PHI-Account] she takes a half of the 25 every day. Yeah. Uh, Doctor, um, Pesky has her taking half of the 25.
+Nurse: Ok. Um, and then I have the calcium and, uh, vitamin D 600 slash 400. 1 a day. Yes. She
+Patient: Takes, uh, one in the morning and one in the evening.
+Nurse: Ok. And then I have the potassium chloride, er 10 milli equivalent to what is that one? Now? Potassium, it says potassium chloride. 10.
+Patient: No, she's not taking potassium any longer off
+Nurse: Of that one. OK. I'm gonna take that one off.
+Patient: That's why I had to think of what you are saying. Yeah.
+Nurse: Um let's see. And then I have this one is called zol 50 mg.
+Patient: The last
+Nurse: OK, twice a day.
+Patient: Um Let me see. Now she takes one tablet twice a day. No, she take, yes. Yes, she does. She takes one tablet twice a day. Uh one in the morning and one at night.
+Nurse: Ok. And then I have, I think this is an ointment uh Triamcinolone twice a day as needed.
+Patient: No, she does not take that any
+Nurse: Longer. And then I have the aspirin 81 mg. Yes.
+Patient: She take one a day in the morning
+Nurse: And then I have uh atorvastatin calcium 10 mg one a day.
+Patient: Uh the off of that one, the last one she takes.
+Nurse: Oh OK. They took her off her cholesterol medicine. Yes. Ok. And so that's all of em. No. Uh, no other ones that we didn't men mention.
+Patient: No.
+Nurse: Ok.
+Patient: At least it's not in her box of medication. Let's see what this one has I told you about the predniSONE. Ok.
+Nurse: Yeah. And it looks like they just sent AAA refill in for her for the predniSONE. Yeah. I'm not going to change the directions on it since Doctor [PHI-Personal] prescribes that one. He's got it as just one tablet every day or as directed. So we'll just, yeah, so we'll just leave it like that. And then, um, you know, when you come in, if, if uh there's an issue, but I'm thinking if he sends it as one a day, he may want to keep it like that, that way if she needs to take a little more here and there, she can, you know, she'll have some on hand. So I won't change anything without,
+Patient: Well, he, he changed that to one a day.
+Nurse: He's got it. He has the way he has it written, it says one tab by mouth every day or as directed. So I guess if, you know, she's been taking it, um, you know, I wouldn't change anything as just tell her to keep taking it. That's what it says on there.
+Patient: Yeah. One tab by mouth every day or as directed. Well, we'll have to talk to him on Friday or no, I think the appointment is Thursday whenever the appointment is when.
+Nurse: Yeah, Thursday it looks like,
+Patient: Um, this week we're between the two of us. I think we're going to the doctor every day for some something.
+Nurse: Oh, gosh. Yeah, it's a busy week. Yeah,
+Patient: It's a very busy week.
+Nurse: Yeah. Um, well, hopefully after this week things will settle down for you guys.
+Patient: Yes. Yes. Oh, so I'll, uh, or we'll talk to him about that.
+Nurse: Yeah. If you need to clarify, just let him know how she's been taking it. But, um, you know, it looks like he kind of gave her some leeway as far as that goes because that's why he put that as directed, um, on there and it looks like she's due for her Prolia shot too. They'll do her, uh, Prolia when she comes in on Thursday.
+Patient: I think that must be really helping because when she fell in [PHI-Personal], well, she did break, uh, f fractured three bones in her back. But, um, I think it could have been a lot worse than that.
+Nurse: Yeah. It, I mean,
+Patient: I mean, I mean, it could have been a, a hip which would have been really bad, although, you know, bones in your back are bad shoulder. I know. I mean, it, it was pretty bad the way it was. She's in, uh, she was in terrible pain and now the, the pain is more intermittent.
+Nurse: Uh huh. It's not as bad. She must be healing. So, I'm thinking.
+Patient: Yeah. Yeah.
+Nurse: Oh, good. Well, I'm glad she's doing better. And, yeah, I guess the only way to really know, you know, is if they do another, like, bone density test, they usually do that once every two years and that'll kind of tell them if, you know, it looks like the medication is, is working or not depending on those results. But, like you said, uh, you know, it's good that she didn't break any of those uh major bones like a shoulder or hip because you hear hear the horror stories for sure when somebody breaks a hip it usually doesn't uh doesn't have a good outcome. No. Well I'm glad she's doing well. Yeah and it looks like you had some prescriptions too that they sent to the pharmacy also.
+Patient: Yeah, today I had one also.
+Nurse: Yeah, so just like to let you know those should be ready for you guys if you haven't picked them up yet.
+Patient: Ok. Well, thank you very much for calling.
+Nurse: Well, you're welcome and thank you for calling me back and if you have any questions after your uh your appointment coming up, give me a call. I can always clarify things for you. Ok? Ok. Alright y'all take care. Thank you. Bye bye bye bye.

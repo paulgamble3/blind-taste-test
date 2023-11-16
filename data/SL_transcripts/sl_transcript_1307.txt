@@ -1,0 +1,51 @@
+Nurse: Good morning. This is [PHI-Personal]. How may I help
+Patient: You? Uh, yeah, [PHI-Personal], this is [PHI-Personal]. I'm a, uh, patient of Doctor [PHI-Personal].
+Nurse: Well, hi, good morning. Ood. How are you doing? Uh,
+Patient: Well, that depends. Ok. Oh, ok. You're aware, of course. Is that the, uh, strip mall there in, had a fire? Yes. Ok. So the Rite Aid is closed sometimes and sometimes not anyway. Ok. Saturday, they were open and, uh, I needed a prescription refill of, uh, NIACIN for my triglycerides. Uh huh. Ok. Now they've been closed ever since and I was just in the area today. Stopped in, uh, people outside there working had no idea when they were gonna open what, what I need. Ok. If Doctor [PHI-Personal] could, uh, that, uh, send a prescription into, they're, they're right there at the West [PHI-Personal] Pharmacy for about a 30 day supply of the, uh, NIACIN. Oh, ok, because I'm out,
+Nurse: You're completely out. Ok. So you just need a 30 day supply sent there until the pharmacy is back up and running over their
+Patient: Deal. Yeah. II, I normally get a 90 day supply. I took my bottle down there and uh, the prescription need a refill and they do that by fax. Ok. So I don't even have the bottle, you know, anymore. It's their pharmacy for whatever they open. But I think th a 30 day supply will probably do me until they get open. I can always call and see when they're open. But sure. Yeah, if he could,
+Nurse: Yeah, we [PHI-Personal] is right there. So, yeah, I'll just, I'll send him a little message now. It may take today. It may, you know, maybe the whole day, but I'll let him know that, um, that you need it sent over and then do you, um, and then I, you know, I can put on there that you want called once it's been sent over so
+Patient: That way so I can come over there and pick it up.
+Nurse: Yeah. Yeah, that's no
+Patient: Problem because I only got one or two tablets left. That's it.
+Nurse: Ok. Yeah, that's not a problem at all. Um, goodness goodness. Is there. And is that the only medication that you need right now? Is your, yeah,
+Patient: I take a, um, a statin for cholesterol, but I've got quite a few of those left.
+Nurse: You're good there. Good, good, good. That's good to hear. Ok, good. Now, how have you been checking, uh, have, have you been doing good with your, um, diet since we talked last?
+Patient: Oh, yeah. Yeah, I, yeah, that's, yeah, no problems. I don't have any problems just that I ran out of my medication. Yeah.
+Nurse: And I got, and you're not the only one, like, a lot of people have been having a little frustration with that, you know, with that because of the smoke damage. So, you know, it's, it's not just you, you poor guy, you guys are all suffering, you know, you get, um, really used to, you know, being able to go just down the road and now you gotta go, you
+Patient: Know, I don't have any idea when the, uh, supermarket is gonna be open. But, yeah, you know, the drug store, supermarket, uh, post office, you know, it was handy. I could get down there a couple 10 minutes away and get everything done and nobody has any idea when things are gonna be back open, they're working there all the time.
+Nurse: Yeah. Uh, you wouldn't believe how much smoke damage does. It's something else. Have you been doing? Ok? Um, with all that, um, I wish I could talk today. I'm telling you, I'm having trouble, um, with all this, uh, air quality alerts and stuff you've been doing
+Patient: Ok that way. No, I've been working outside. We have a swimming pool, you know, so I'll work a while and jump in the swimming pool and back out and do some more work and jump back in the,
+Nurse: Oh, there you go. That's one way to do it. You stay active and you get to take a cool break, huh? Yeah.
+Patient: No. I haven't had any problems.
+Nurse: Good. That makes me happy to hear. Yes. Um, have you, um, been doing, have you been checking your BP at home, at all?
+Patient: No, I've never had a problem with my BP that I'm aware of. Good.
+Nurse: Good. I was just checking. So, you know, shortness of breath or fatigue, dizzy spells or any chest pressure, pain or anything like that. Good. Well, good. That makes me happy to hear. Fantastic. You know, if you do ever experience anything like that, of course, you wanna contact the provider, you know, but it sounds like you're doing fantastic. That makes me happy to hear. Do you need anything else? You have any questions? That's
+Patient: No, if, if somebody could just give me a call when the, uh, you know, when the prescription is over, when it
+Nurse: Gets sent over there. Yep, I will put that in that note. Absolutely. Now it looks like we see you next. It looks like doctor sees you on [PHI-Personal] when you have labs prior on [PHI-Personal]. Is that what you've got?
+Patient: Ok. Let me just let me just double check that quick here.
+Nurse: Oh, sure. Absolutely.
+Patient: Oh, just hang on here a second. You're
+Nurse: Ok. No, that's ok. [PHI-Personal].
+Patient: No worries. [PHI-Personal] open here.
+Nurse: You're ok. I can't talk, so I'm not going to judge you at all.
+Patient: Ok. Let me see. Uh, yes. Uh on the sixth they have my labs at uh, 7 30 in the morning. And then, uh, I see Doctor [PHI-Personal] on the 11th at 9 30. Perfect.
+Nurse: You got
+Patient: It. Yeah, you got it. Labs done a week ahead of time. Make sure that he gets the results. Well, it
+Nurse: Makes it a lot easier because then you won't have to worry about someone calling you later. You can, you know, get it all done there, you know, and
+Patient: Like, 15 minutes away from me. So. Oh, ok.
+Nurse: So [PHI-Personal] Pharmacy isn't too far from me either.
+Patient: No, no, I, I've been going to the, uh, [PHI-Geographic] ever since they opened in the mid seventies. I believe it was.
+Nurse: That's awesome. Yeah, that is.
+Patient: I've always had excellent service.
+Nurse: Wow. You know, it's good when you have faith in your providers like that. And that's why I, I've been really loving this job. Like, I've only been at it for a few, you know, a few months now, but I will tell you like, I'm loving it because all the patients love their provider and that's a good sign. So, yeah, I'm excited and I like talking to my friend [PHI-Personal] here. So, you know, so I like calling and bugging you too. But this time you called me, look at that, I feel special.
+Patient: Oh, when I call back, uh, to let me know when the prescription is ready, if, if nobody answers, we might be outside or something. Uh, just leave a message on the recorder.
+Nurse: Absolutely. Absolutely. We can do that. Absolutely. Alright, [PHI-Personal], thank you, [PHI-Personal]. You are so welcome. I hope you have a fantastic weekend. Mis
+Patient: I'm gonna be in the swimming pool here before too long. That's
+Nurse: Right. See you get your exercise and have fun at the same
+Patient: Time. Well, see there's a problem though what I'm doing my work outside and I go get in the pool. I don't want to get out to finish my
+Nurse: Work. Yeah, but think of it this way you're still getting exercise because you're swimming.
+Patient: Well, I get lots of, believe me I get lots of exercise. Well,
+Nurse: Good. Well it's good for you. See it you're getting to swim which you love and you don't wanna get out and you can still work your heart and just take a little, you know, a little jog inside the swimming pool. See. Yeah.
+Patient: Ok.
+Nurse: Alright. Woody, thank you. Have a good day. Bye.

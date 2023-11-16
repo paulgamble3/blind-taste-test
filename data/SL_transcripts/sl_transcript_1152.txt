@@ -1,0 +1,10 @@
+Nurse: Hi, this is Kay Chronic Care Management.
+Patient: Kay, this is, um, [PHI-Personal]. I wanted to call yesterday but I did, I held back and I tried and I called there but they didn't, they were about to close in an hour, you know, like it was maybe a little bit bef before [PHI-Personal]. And, um, she didn't know if there was anything that, that, that, um, Doctor [PHI-Personal] called but the feeling I get there wasn't because he didn't call later or didn't call today. So I'm still wondering if, if it's, if I'm in or not.
+Nurse: Um, yeah, I had called the office, um, two days ago and, um, talked to them. Uh, I, I still don't see the referral in there so I'm assuming that they're probably on lunch right now. I'll try to give the office a call again too and see. Um, I, I know we really wanna get that physical therapy
+Patient: Started so I wanna get better. I, I know, I know you and I know you do and I don't understand this is not like doctor not to get on things right away unless he, you know, it, something obvious that you can't do or? Right.
+Nurse: No, she seems like she is rather on top of things. So I'm surprised it's taken a little bit. Um, I know we've got a couple notes out to her. So let me, I'll try to call the office again too and see, um, see if there's anything else that I can do to get the ball rolling with that. Ok.
+Patient: I, I, yes, and I just so don't wanna overuse your system. I just wait, wait, you know, but I'll let you go because you might have other people calling you. But um, just if you could give me, um, a call whether they don't know or they know or whatever that you may or may not get.
+Nurse: Uh, yeah, I'll give you a call back and you're not over using it at all. Trust me. This is the kind of stuff that we're here for too.
+Patient: Ok. Ok. Thank you so much. You're welcome.
+Nurse: Ok.
+Patient: You take care. All right. Thank you. You too. Bye bye bye.

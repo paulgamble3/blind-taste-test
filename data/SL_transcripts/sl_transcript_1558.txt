@@ -1,0 +1,18 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: This is doctor [PHI-Personal].
+Nurse: Yeah, I'm care management nurse here. I
+Patient: Need a prescription. I need a prescription refill. You have to call it in for me. [PHI-Personal]. [PHI-Account].
+Nurse: All right, let's see here.
+Patient: The HYDROcodone Restricted Drug.
+Nurse: Uh All right, let me pull up in your chart.
+Patient: Um
+Nurse: All right. So the HYDROcodone use that for, for pain.
+Patient: Yes, as I
+Nurse: Need it. Ok. Are you having a increase in pain or a flare?
+Patient: No, I need a refill. I'm living day to day. I don't take it every, I don't take it every
+Nurse: Day. Yeah. Ok. All right. So I can go ahead and send that request over for you. Which pharmacy do you use? Medicine
+Patient: Shop? Ok. You want the Rx number too?
+Nurse: Uh Yeah, if you have
+Patient: It [PHI-Account] [PHI-Geographic] [PHI-Account] [PHI-Geographic] shop number.
+Nurse: Ok, perfect. All right, [PHI-Personal]. How are you doing otherwise? Fine, good. Any questions or con?
+Patient: No. Uh no, I, I'm done with everything day to day and any time you're gonna see me, we have to cut me open or something. Ok. Have a good. Have a good day. Bye.

@@ -1,0 +1,24 @@
+Nurse: Hi is [PHI-Personal]
+Patient: Says we did. You just call me? I tried to answer and I missed it.
+Nurse: Yeah, and I tried leaving a message and it was really weird. It says it couldn't hear me. It was really weird. Um I wanted to let you know, I heard back from [PHI-Personal] um, about what we had talked about yesterday and she's, and I'll read you exactly what she wrote. Um, she said she believes [PHI-Personal] is a part of Ontario County. So I usually recommend starting with the county for mental health Therapy, Ontario County Mental Health. And she gave me the phone number for them. Do you have a pen and pencil?
+Patient: Um, well, let me see. Interesting. Ok. What's the number?
+Nurse: [PHI-Account]? Then she says there is also, and that's capital B as in boy. O I, I'm still on
+Patient: The phone number. I'm sorry. Ok. Um, [PHI-Account]. Correct? Ok. And now what the other
+Nurse: Thing and the other option she said is that's Capital [PHI-Personal]. Ok. Their phone number is [PHI-Account] [PHI-Account] [PHI-Account]. Ok. She gave a third option too. And that's family counseling services of the [PHI-Geographic] [PHI-Personal] [PHI-Geographic].
+Patient: Ok. Yeah, thanks. And that number is [PHI-Account]
+Nurse: [PHI-Account] [PHI-Account]. And she said all these places are usually self referral. So patient would need to call and see if she can set something up. As far as Ent, there is an office in [PHI-Geographic] which is Doctor [PHI-Personal] and [PHI-Geographic] Ent in. I've had good luck with both offices. Not sure which she would prefer.
+Patient: Um, I don't, whichever one is closer, I guess.
+Nurse: Ok. What's closer to you, [PHI-Geographic] or [PHI-Personal] [PHI-Geographic]? Ok. I can send her back and ask her to send it to, um, the [PHI-Geographic] Ent then because that's the one that's in Qua. Ok. Ok. Ok. All right. Yeah, I just wanted to let you know what she had said back to me.
+Patient: Ok. Yeah, I, I called again today asking for my Tylenol [PHI-Account] but still nothing at the pharmacy yet. So,
+Nurse: Let me look and see here
+Patient: Because the last time I had it filled was [PHI-Personal] and I don't have any left. So I called last week and got no response. So they did respond to my nausea pills, but not to the Tylenol. So try it again.
+Nurse: All right. Well, yeah, I will attach that with my response back to her that I've informed you these referrals and that you wanna go to [PHI-Geographic] and I'll let her know you need a referral on that or a refill on that also.
+Patient: Ok. I just, I left a message on the prescription refill line that they have. Mhm. That's why I left the message.
+Nurse: Ok. Well, it doesn't hurt for me to send this. Maybe she might respond a little bit faster with
+Patient: This. Ok,
+Nurse: Because I, I direct message her so. Ok.
+Patient: Ok. I greatly appreciate that. Thank you. All
+Nurse: Right. No problem. Now if you have any other uh issues, just let me know. Ok. Ok, I will. All right, you take care.
+Patient: Alright, thank you. You have a nice weekend. You
+Nurse: Too. Bye bye. Thanks.
+Patient: Bye.

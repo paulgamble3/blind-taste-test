@@ -1,0 +1,32 @@
+Nurse: Thank you for calling the care management team. My name is [PHI-Personal]. How may I help you? I'm returning misses call. Ok, let me get, let me get her on the phone with you for one second. Ok.
+Patient: Yeah. Hello. This is [PHI-Personal].
+Nurse: Hello. Hello, this is [PHI-Personal]. [PHI-Personal]. This is [PHI-Personal] [PHI-Personal] Swab. Ok. You left a message to call you back about care management. Yes.
+Patient: Can you spell the last name
+Nurse: For me? I'm assuming it's for [PHI-Personal] Schwab. Schwab. You
+Patient: I have a
+Nurse: [PHI-Personal].
+Patient: No, not him. And how do you spell the first name? I'm sorry,
+Nurse: [PHI-Personal]. There she is. Ok.
+Patient: And can I have your
+Nurse: Name please? [PHI-Personal] [PHI-Personal] [PHI-Personal]. Ok.
+Patient: Well, it looks like I contacted you, but [PHI-Personal] also sees doctor [PHI-Personal] as well,
+Nurse: Right? So I don't know who you
+Patient: Want. So for it's for both of you because I think it must not have got to her yet. So for the both of you, it looks like you guys qualify for Doctor [PHI-Personal] Care Management program. And so what that is, is a nurse that'll be able to give you guys a call to see how you're doing. She'll answer any questions, help refill prescriptions. She'll address any issues you're having and she'll help with appointments and lab work, things like that. The program, it helps keep the doctors updated and it avoids emergency room visits.
+Nurse: Well, I just hope it, um, gets through to the office personnel better than I have.
+Patient: Yes. So it's been, and so the uh, nurse is able to expedite appointments and things like that. So I think you'll have a much better look. Ok. And so I do have to let you know it is a billable service to Medicare, Medicare Advantage plans and secondary insurance carriers. So it's also, what's that
+Nurse: For? How long?
+Patient: So it's based off your PC P copay visit. So when you go see doctor [PHI-Personal], you pay a copay when you go there.
+Nurse: Yeah. Ok. What is for? How long is this service
+Patient: For however long that you need it for? But they're around a once a month phone call.
+Nurse: Um, no, I'd rather call them if I need them.
+Patient: Are you sure? The, the doctor is encouraging the program, I'm sure. And I could always extend the calls to every other month or every three months if you'd like.
+Nurse: Like I said, I'd rather make the calls as I need them because in the past month and a half, I have left message after message at the doctor's office and the people don't put it in the system or they don't give it to the nurse or they don't give it to the doctor and I don't get answers for weeks and weeks. Like I said, if this is something that I could call the nurse care management, I would prefer it that way.
+Patient: Yeah, you could call her as well. Yes, for sure. What about for, um, MS [PHI-Personal]?
+Nurse: Same thing.
+Patient: Ok. Now, are you the, um, oh, so, yeah, you are the contact person for her as well? All right. Well, if, if you don't want a nurse to give you a call, do you mind if I send you guys out a letter that has the information and the phone number,
+Nurse: That'd be fine.
+Patient: Ok. All right. Well, thank you for your time today. Let me make sure you guys are still at the [PHI-Geographic] in Stratford, Connecticut.
+Nurse: That's correct.
+Patient: Ok. All right. Well, you give us a call if you need anything. Ok.
+Nurse: Ok. Thank you.
+Patient: All right. Bye bye bye.

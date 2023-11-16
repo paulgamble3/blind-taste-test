@@ -1,0 +1,115 @@
+Nurse: Good morning. How can I help you?
+Patient: Yes. Uh, this is [PHI-Personal]. Can I speak to [PHI-Personal], please?
+Nurse: Oh, [PHI-Personal] is out of the office today. Is there something that I can help you with?
+Patient: Well, I wanted to double check the one thing I, I have an appointment, uh, with doctor [PHI-Personal] on the phone at uh, I think it's at 9 30 on the uh [PHI-Personal] of [PHI-Personal]. I wanted to verify that.
+Nurse: Ok. There not a problem if you can just tell [PHI-Personal] what your first and last name is
+Patient: [PHI-Personal] Grey, Giay.
+Nurse: Y ok. And then just confirm you. [PHI-Personal] Gray Junior. Yes. Ok. And then just confirm your date of birth.
+Patient: [PHI-Personal] 1 1930
+Nurse: [PHI-Account]. Ok. B on our hands. Ok, one second. You've been doing ok today.
+Patient: Yeah, I, I have another question after this is over.
+Nurse: Ok. Not a problem. I'm just pulling it up. The computer is running a little slowly. Just bear with [PHI-Personal]. All right. Mm. Mm. Mm. Ok. Yep. So it looks like it's on Novem, uh [PHI-Personal] 6th at 10 30 arrive at 10 15.
+Patient: Ok, I got you. No, this is gonna be on the phone Right.
+Nurse: Oh, is it a tele visit? Let [PHI-Personal] check. Yeah, it doesn't say Tele met. What's it? Say
+Patient: It is? It
+Nurse: Says department. Let [PHI-Personal] see. Well, did you want a tele visit? Is that what you were looking to get?
+Patient: [PHI-Personal]? Called [PHI-Personal] on it and said it was gonna be a tele tele message on tele meeting.
+Nurse: Oh, ok. Hold on, let [PHI-Personal] click this. Ok. I
+Patient: Need to make sure that's correct.
+Nurse: Yeah. Ok. Tele health. Yep. And then you're gonna do your labs at Quest the first week of [PHI-Personal]. Ok.
+Patient: Not doing my labs. Uh, make a note. I'm doing my labs on the second of [PHI-Personal].
+Nurse: Ok.
+Patient: Ok. Uh, can you find out if they sent a, uh, a, uh, what you call it, uh, for the blood test to Quest
+Nurse: If they've sent the orders? Yeah. Ok. Let [PHI-Personal] check. It says lab order is in Quest computer.
+Patient: Ok. That's good. That's what I needed to know. The other thing is this on my urology doctor. I have an appointment on the [PHI-Personal] of [PHI-Personal]. And, uh, last time I checked they hadn't received my urology records. Can you check and, and see what's going on
+Nurse: There? Um, your urology appointment is on the [PHI-Personal] of [PHI-Personal] and cardiology is on the [PHI-Personal]. So, did you want [PHI-Personal] to check urology or cardiology?
+Patient: Ok. Urology is on the [PHI-Personal]. What time?
+Nurse: [PHI-Account] p.m. arrive at [PHI-Account] 15? Ok.
+Patient: Well, they they need my records and I've been calling on this and I need to make sure that my records have been sent over there.
+Nurse: Your records from where? From who, which records?
+Patient: Well, Doctor [PHI-Personal] has records on my urology. Uh doctor.
+Nurse: So y yeah. No, I'm just, I don't, I don't, I don't exactly know what you're asking. Do you need urology to send records to [PHI-Personal] or [PHI-Personal] to send some records to urology?
+Patient: I need doctor [PHI-Personal], who's my major doctor who got got copies of my uh test from my old urology doctor in [PHI-Geographic] to make sure that the doctor uh you like, I can't think of his name on the [PHI-Personal]. What's his name on the [PHI-Personal] of [PHI-Personal]?
+Nurse: [PHI-Personal]?
+Patient: What's it? [PHI-Personal]? Pe pe
+Nurse: LP A te LP
+Patient: A pe L? Well, yes, I need, I need to make sure that doctor [PHI-Personal] has, has my, my records.
+Nurse: Ok. So I can send a request over and just ask them to send, you know, because when, when I send, when I say records, she's gonna say which records the office visits from the last, the last office visit, blood work. So I'm just gonna send a message and say patient requesting records for urology and then um they should be able to pull something up and send it over
+Patient: All of my records on urology. I had a uh [PHI-Personal] implant years ago uh down in [PHI-Geographic]. So she got copies of all of that. They, they, they need all my records. Not. Ok.
+Nurse: Ok. Is this a new, is this a new urologist? Is this a new established appointment? This is a, this
+Patient: Is a new, the first appointment
+Nurse: With you? Oh, got you. That made, that puts it into context for [PHI-Personal], dear. I got you. I'll send a message over. Not a problem.
+Patient: All right. And uh, I, I need cherry to confirm that with [PHI-Personal]. Ok, if you can that they did that.
+Nurse: Ok. She'll be back in um you know what? She's actually on vacation for the week so I'll send a message and I'll let you know what they say. Ok.
+Patient: Ok, I appreciate that if you miss [PHI-Personal], leave [PHI-Personal] a voice mail message and I'll get back to you because I wanna make sure that that's corrected. Now what what what again on the [PHI-Personal] and what time again?
+Nurse: Yeah, sorry the [PHI-Account] arrive at [PHI-Account], sorry
+Patient: [PHI-Account] 15 11 at [PHI-Account]. And what's the address?
+Nurse: Um where is that us f health? Um just give [PHI-Personal] one second. Let [PHI-Personal] pull this one up. Mm hm got you. Let [PHI-Personal] just. Ok. We got [PHI-Account] [PHI-Geographic]. What's that? Two [PHI-Geographic]? No, you asked [PHI-Personal] for the address or did you ask [PHI-Personal] for the time I asked you for the address? Ok. Two the number [PHI-Account] [PHI-Geographic].
+Patient: Yes. Where is that?
+Nurse: [PHI-Account] [PHI-Account]. Is that US? F Yes, that's US F that's US F urology.
+Patient: Ok. And it's at [PHI-Account] o'clock. I should be there about one, I guess. Yeah. Ok and that's on the [PHI-Personal] at [PHI-Account] o'clock. Alright. And uh I had one last appointment I think it's Derma dermatologist. I guess it's on the [PHI-Personal] of [PHI-Personal] that I thought I had them both on that date. But can you double check that?
+Nurse: Ok. Uh, let [PHI-Personal] check. Let [PHI-Personal] go back here, dear. Ok. Mm. Yeah, you do. Um, that one is at [PHI-Account] 15. So you have the one at one o'clock and you're gonna arrive at [PHI-Account] and then you have the dermatology at [PHI-Account] 15 and try to arrive at [PHI-Account]. I don't if you can.
+Patient: Yeah. Um, yeah. Well, listen, I have, uh, and, uh, on my records I have the, the, uh, I got that when I was in [PHI-Geographic] and, uh, I was, uh, getting, uh, meds for, for that. Uh, it's a lotion and I was going to the, uh, dermatologist for that. Uh, can you make a note, uh, with doctor [PHI-Personal] that I do wanna talk to her about that when we have our, our call on the, uh, [PHI-Personal]
+Nurse: Of [PHI-Personal] that you wanna talk about the lotion that you used to use.
+Patient: Yeah. And, and I, yeah, yeah, I used to go to a specialist, uh, on this Vigo. I got it from Agent Orange when I was in [PHI-Geographic].
+Nurse: Ok. Um, but you're going to dermatology on the [PHI-Personal]. So, I mean, not on the 80, yeah, you're going to dermatology
+Patient: On the [PHI-Personal] of [PHI-Personal].
+Nurse: Dermatology is on the [PHI-Personal]. Cardiology is on the [PHI-Personal].
+Patient: I got it reversed. Ok. Dermatology is on the [PHI-Personal].
+Nurse: Mhm. And urology is on the [PHI-Personal].
+Patient: Well, wait a minute, I thought. Are you sure? Because, because II I made a note I talked, talked to them that I thought I had both of them on the [PHI-Personal] of [PHI-Personal].
+Nurse: Let's see what we have de the only thing I'm showing on the [PHI-Personal]. Honey is the cardiology appointment at us. F health.
+Patient: I I am the heart, heart heart doctor. Yeah. Ok. So what? Ok, I got, I got the skin doctor [PHI-Personal]. And uh, what else on the [PHI-Personal]?
+Nurse: Ok. Let [PHI-Personal] go back.
+Patient: I need any time for both of those about on the [PHI-Personal].
+Nurse: Ok. On um, I'm gonna give you, I'm gonna give you your appointments in chronological order. Ok.
+Patient: Yeah. Yeah. Start starting with the
+Nurse: [PHI-Account], but you have an appointment on the [PHI-Personal]. So we're gonna start with the [PHI-Personal]. You have an appointment on the [PHI-Personal] at 10 30. That one is the telehealth visit. Ok. Yeah, then you have an appointment on the [PHI-Personal] with urology at one o'clock PM and you have to arrive by [PHI-Account]. Then you have an appointment on the [PHI-Personal] again, that one is with dermatology or skin and that one is at [PHI-Account] 15, arrive by [PHI-Account] and then on the [PHI-Personal] of [PHI-Personal], you have cardiology which is heart at 4 p.m. Arrive by [PHI-Account]. Mhm.
+Patient: Arrive at what time
+Nurse: For the [PHI-Personal]? [PHI-Account]
+Patient: [PHI-Account]. It's at 4 p.m. Ok. All right. Ok. I got it. Yeah. finally
+Nurse: That's all right. It's a lot. Listen, I had to, it was like like a tongue twister but we got it all together. Ok. It's four appointments this month. It, it looks like a busy month for you next month.
+Patient: Yes, it is. Ok. I'm glad you got [PHI-Personal] straight on the [PHI-Personal] of [PHI-Personal] because I didn't have that written down. Ok, let [PHI-Personal], let [PHI-Personal], let [PHI-Personal] put it in my phone, so I don't forget it. Thank you very
+Nurse: Much, ma'am. You're welcome. Do you need any refills on anything?
+Patient: Yeah. Uh, well, the pain doctor. Uh well, I have to go see him for that. Uh, the, the Express meds. I, I, I've taken care of that. Um, oh, there was a, a med I was getting prescribed for my eyes. I, I have a permanent, uh uh, what they call that stuff when, when they put permanent uh covers on your eyes. Uh Oh, [PHI-Personal],
+Nurse: What do you have? Cataracts?
+Patient: Cataracts? I have permanent uh things in my eyes. Uh not cover the lenses. Ok. And I need uh my record shows I was getting a certain uh, moisture to put in my, my eyes on a daily basis and uh, I was buying it oo over the counter but I, I wanna try to get it uh sent to [PHI-Personal] on a monthly basis. Can you check, check, check that?
+Nurse: So it's a, it's a um eye drop that you were using before.
+Patient: Yeah. Yeah, it was, it was being sent to
+Nurse: [PHI-Personal]. Ok. Let [PHI-Personal] look at your list because you don't have any eye drops on there currently that's active.
+Patient: It's not active. Now, [PHI-Personal] asked [PHI-Personal] about it and II I told her I'd get it over the counter but uh no, I I need to have that just sent to [PHI-Personal] by express
+Nurse: Scripts. Ok? I'm looking here. [PHI-Personal] let [PHI-Personal] go back to [PHI-Personal] note to see if she mentioned it one second.
+Patient: She mentioned the last time we talked.
+Nurse: Oh Yeah. Yeah. Yeah, I just wasn't there when you talked. So I just wanted to see if she put it in the note in the last note that you guys uh that you guys had um ver patient has eye ointment and antihistamine over the counter. No Rx needed. Yeah, she didn't. She just said that you had an eye ointment. So let [PHI-Personal] and eye ointment that that's really vague. Let [PHI-Personal] see. Do you remember the name of the ointment? That you were using. No,
+Patient: That's the problem. She mentioned it and I told her no. And I should have said yes. But the, the have [PHI-Personal] call [PHI-Personal] back on that if you can't find or check with doctor and she should have it in, in her
+Nurse: File. Ok, I'll do that. Ok.
+Patient: Yeah, I, I need to get that, uh, set up to come, come on a monthly basis from express scripts. Ok. I'll,
+Nurse: I'll see because she said it was, uh, it says over the counter, no prescription needed. So I'm not even seeing it on here. So, um, I'll keep looking and see if there's any place here where I can find it, but I'm not seeing it right now and she didn't even mention the name, she just said over the counter. Eye drops. No prescription needed.
+Patient: What I'm getting is clear eyes, uh, o over over the counter and it's not that good long, long term. So I need to get to get a prescription. It's a little stronger.
+Nurse: Oh, you need a new prescription? You're looking for a new prescription for something stronger. Ok, I'll, I'll make note of that because to get a new prescription you're gonna have to have a doctor's appointment, but you have one scheduled. So I'll make note that you want a new prescription for something strong over the counter.
+Patient: I've already had my eye exam already
+Nurse: This year. Oh, ok. And did the eye doctor give you some something prescription strength for it or did he just say the clear eyes?
+Patient: He, he just, I did, he asked [PHI-Personal] what I was taking for the clear eyes. He said, ok, my eyes were fine. That's what he said.
+Nurse: Oh, ok.
+Patient: But doctor [PHI-Personal] has the results of that, of that eye exam?
+Nurse: Ok. And it said it was fine but you need something for them anyway.
+Patient: Well, I don't want to keep buying clear eyes. Ok, I, I want to get a
+Nurse: Prescription. Ok. Ok. Um I can, I'll send a message over and see if she can give a prescription for it. And I'll also keep looking in your chart for any prescription, eye drop that you had prior to, to see if you know they can uh fill that one. I'm not sure if insurance that will pay for an over the counter eye drop, but I'll send a message to see if there's, well, it, it,
+Patient: It, it, it, it, it was a result of the operation uh, on my, they put those lenses
+Nurse: In there. Ok.
+Patient: Yeah, it was just all of that so the insurance should cover
+Nurse: It. Ok. Um, let [PHI-Personal], let [PHI-Personal] see what, what I can say or do to, to because you know it's not much to go off of. You need eye drops. The eye exam said you were fine and you, you, you need a prescription for over the counter eye drops. So I'll see what message I can send over to Doctor [PHI-Personal] and see if there's anything she can do.
+Patient: I'd like it delivered. Not, not get that to run to the, uh, to the pharmacist every month. That's what I was trying to say.
+Nurse: Yeah. If I'm able to find it, what I'm saying is this, if I'm able to find any type of eye drop in your list of medications, I can send a prescription refill for that. But if you're requesting a new medication altogether, we can't give you, you can't get a new medication without having a provider visit and your provider visit is next month. So I'm saying if you, if, if you're asking for a new prescription of something, then it's gonna have to wait until your new appointment. You have enough, you have enough eye drops to last you until your appointment. If you're requesting a new one. Now, if I can find the eye drops that you were using prior, I can just send a request over. You know what I mean?
+Patient: I know I know go ahead to try to do that, but II, I won't be seeing the eye doctor again until next year.
+Nurse: Ok. Yeah. Ok. All right. So, are you having any itchy eyes or anything like that? So when I ask her for the, uh, medication, she'll, she'll ask, ok, what is, what symptoms is the patient having? Are you co what I get
+Patient: Is dry eyes? I, I just, uh, uh, what, what do they call that in your eyes when your eyes are dry? A little, I forget what they call it, but it, my eyes are dry in the morning. If I, if I, if I forget and I, I should, should take those eye drops twice a day. If I get, forget to take them at night. I have a problem in the morning, uh, with my eye. Ok.
+Nurse: Ok. Got you, Got you. Got you. Ok. So um just to confirm, we're good to go on um the appointment. We're gonna send a message over to see if there's any orders or labs that need to be sent prior to the appointment. We're gonna let her know you're having dry eyes and you're using the clear eyes, but you'd like to have something sent via express uh scripts over to the house. Um Is that, is that everything, does that cover everything
+Patient: As much as I can think of?
+Nurse: I, I don't, I don't wanna miss a beat.
+Patient: Yeah, I, I think it does.
+Nurse: Thank you. You're welcome dear. Ok, so let [PHI-Personal] get to work on this and then um we'll talk soon. Ok.
+Patient: All right. Thank you very much if you miss [PHI-Personal], leave [PHI-Personal] a message.
+Nurse: Ok. Ok, not a problem. Thank you. It was a pleasure speaking with you. Thank you. You have a
+Patient: Blessed day. Bye bye.
+Nurse: You too now. Bye bye.

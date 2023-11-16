@@ -1,0 +1,16 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Yeah, somebody just calling.
+Nurse: Yes, sir. Is this Mr [PHI-Personal]? Yes. How are you doing?
+Patient: What's going on?
+Nurse: Good. This is [PHI-Personal] with Doctor [PHI-Personal] office and doctor [PHI-Personal] wanted me to reach out to you and go over the care management program. What is that? So it is on a recorded line. What he's wanting is just for his nurse to give you a call once a month just to check with you see how you're feeling how everything's going and with your prescriptions, if you need refills or changes or any test results and then she would give you a call either in the morning or in afternoon.
+Patient: Ok. Yeah, probably. Ok, because I had a problem. I,
+Nurse: I can put a message into the
+Patient: Nurse. You can call me. I appreciate.
+Nurse: Ok. Do you want me to tell her what's going on or just have her call? You um,
+Patient: Yeah, just have her call me.
+Nurse: I'll do that and I'm gonna mail the letter that has her direct phone number to you as well. Ok. And I'll send it to the [PHI-Geographic] and, and then um, your insurance I've got you on the humana and the care correct? That's still active.
+Patient: Ok.
+Nurse: Ok hon I'll put that message in for the nurse and have her reach out to you. Ok?
+Patient: Alright, thank you and have a great day. Appreciate
+Nurse: You too. Bye
+Patient: Bye.

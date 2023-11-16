@@ -1,0 +1,50 @@
+Nurse: This is [PHI-Personal].
+Patient: Um, hi, [PHI-Personal]. This is [PHI-Personal]. My mother is under your program. Gladys War. And she's having a slight problem with her hand is constantly, uh, numb and full of pins and needles. Can't seem to get it to go away. Is there anything we could do for that? I mean, it really bothersome. Hm. What? And it's been a while? I mean, it's not like it's just today. It's, yeah, what, every day, verify
+Nurse: Her date of birth for me. I'm just opening up her char
+Patient: 9, 16, 27.
+Nurse: Thank you. So, let's see. Which, which arm is it left? Right. Both.
+Patient: It's mostly her left, although she does have it in her. Right. No. Wait, let me go. Look at her. It's mostly, it's mostly in her left. It's mostly in your left hand, isn't it? Mom? Which hand is it worse? The left? Yeah, her left, mostly in her left but a little bit in her right too. But the left she, and it's just r she's really complaining about it.
+Nurse: I'm just looking at, I'm looking at her medications. Um, to see, let's see, we have Xanax amLODIPine. I'm so does the gabapentin help at all.
+Patient: Well, you know, she, her feet are numb too. I mean, so, yeah, I'm assuming it must help some because she has, you know, she's had a couple back operations. I mean, she has, I know she has nerve type of damage and stuff because she had a major back operation in her [PHI-Personal] and she's had another one since then her, so her feet are numb a lot of the time. But they don't have, it doesn't, she doesn't have feeling in it so to speak.
+Nurse: Yeah, she has, she has neuropathy. Let me
+Patient: See. But um, in her hand it's like pins and needles.
+Nurse: Is it, is it like new onset or? It's just been here and it's been getting worse?
+Patient: I think it's getting worse. I think she's had it off and on. But it seems like in this past month she's complaining about it a lot more. Yeah, every day.
+Nurse: Yeah. And it's, oh, ok. Um, yeah, that is like the numbness and tingling is definitely a sign of neuropathy, um, worsening neuropathy. Let's see. I'm just looking over. She does have, I'm not ever seeing in her chart like, um a diagnosis of diabetes. I do see that she had impaired fasting Gluca glucose um, in [PHI-Personal]. Um, so that can, you know, having high blood sugars can at, you know, contribute to that. Let's see.
+Patient: See, she does go, I think she has an appointment next week with doctor
+Nurse: [PHI-Personal]. Now, is it, is it, is it bothering her enough, um, that you want her to move up the appointment?
+Patient: Um, let me ask her, I, I have my granddaughter so it was, hold on, let me ask. Can you wait or do you go in? She'll wait until next Wednesday. She said.
+Nurse: Ok. Yeah,
+Patient: I think I gave her some, a one time I gave her a couple Advil Ibuprofen. They were ibuprofen and it seemed to lessen it. I wouldn't know that it took it away. But she, you know, it, it must have lessened it because she didn't mention, you know, and I said, do you think that's helping? She goes, well, it's still there but it must have not been as bad. Do you think that would help?
+Nurse: Well, I mean, she does have the Celecoxib. Are you, are you still giving that to her?
+Patient: Yep. She still takes everything that's on that list. So
+Nurse: That is, that's an NSAID, which is kind of like a stronger version of Ibuprofen that she's already getting. Um, so if she's still getting that, I do see the Tylenol extra strength, but I, I wouldn't combine, um, the Ibuprofen with the NSAID she's already getting because she's already getting something for inflammation. Um, yeah, maybe the, the Tylenol might help. Um
+Patient: Yeah, definitely extra strength. It's like eight hour one. Yeah.
+Nurse: Yeah, you could try that one,
+Patient: One or two. Do you think?
+Nurse: Uh, it's so the the prescription here is for one is what is, what listed here? One, it says one tab by mouth every night at bedtime. Oh, this is the Tylenol PM. Extra strength. Um,
+Patient: That, that's a PM. This is the one I have is just, no, it's not a PM. It's just arthritis, Tylenol, eight hour arthritis pain go
+Nurse: By, go by what's on the bottle. But also don't double dose the Tylenol by giving her, you know, if you're going to give her, is it like the 12 hour Tylenol? It's an eight hour, it's an eight hour. Yeah, you have to give it to her at least eight hours before she gets the Tylenol PM.
+Patient: Ok. Well, I'll just try it this morning and see how that goes because that can, she won't take anymore.
+Nurse: Yeah, that can really affect, um, I think it's her, her, her liver. Tylenol affects the liver. Um, and so you, it's, it's like actually one of the worst overdoses to have is to have, um, a Tylenol overdose. Oh,
+Patient: Ok. Yeah, it's pretty dangerous. Do you think I should not do it this morning? I, I just, I, I,
+Nurse: I do it, just be careful not to do it within eight hours of her getting the Tylenol PM. Ok. All right. Um, and then the, the, the ibuprofen is pretty hard in the stomach and the kidneys, which is why I wouldn't give it to her when she's already getting the other NSAID. OK. Um Yeah, because that can cause um basically what happens with, with like ibuprofen or um the Celecoxib is it, it basically breaks down the mucus lining in the stomach. Um And so then the acid starts eating through. So and it's also bad for your kidneys. So just, just an fy I um but I'm gonna
+Patient: Send, this says two capsules every eight hours. So should I give her two or one?
+Nurse: I would follow whatever the bottle says. Um, all
+Patient: Right. And I won't give her any more today then that would just be for today to see if that. And, well, we'll see if it helps. Yeah.
+Nurse: I mean, I'm, have you tried, like, for pain since it's kind of painful? Have you tried, like, um, ice or, or heat? We've
+Patient: Tried heat. Her hands are cold all the time too. I should say. I mean, complete and her feet she com are, you know, like, her legs are, it'll not be cold at all and she'll complain, feel my hands are cold and sometimes I feel them and they are cold but other times I feel em and they're warm but they feel cold to her.
+Nurse: Yeah. Um, that's
+Patient: Been going on a lot too. Yeah.
+Nurse: Just because she already has, like, some numbness in her feet. Like, decreased sensation. Just be really careful with the heat to not overdo it because she could, you know, burn herself without realizing it. So, like,
+Patient: She doesn't know, put, this is on her hands that she puts, it's just a corn bag.
+Nurse: Yeah. Ok. So, so, yeah, exa so just, just, just be cautious. Um, but, you know, maybe measure it yourself before you let her use it to make sure it's not too hot. Um, just because there's already like a sensory issue going on there. Ok. Yeah, maybe that'll help, especially if they're already cold. That might help. Um, yeah. and, and I think, you know, there's different medications that can help for neuropathy. Um, so maybe he can kind of adjust it because she's already using the gabapentin. Um, and the NSAID.
+Patient: So. All right. Well, we'll see how it goes to next Wednesday. It's just that she's been complaining a lot about it. I hate her for her to be uncomfortable. Now yesterday though we were busy shopping and she was with me and ha in a wheelchair and she didn't mention it at all, you know, I think when she's not moving at all it's worse.
+Nurse: Yeah. And maybe do you think it's like a posture thing? Like, you know, maybe almost like her, you know, if you like sit the wrong way or like you sit the wrong way, you can have something, you know, your arm goes to sleep. Like can you make sure she's sitting with like the posture and not, you know, putting pressure on any nerves too?
+Patient: Ok. Alrighty. Thank you very much and I'll call you if I need
+Nurse: You. Ok. Do you while you have me, do you need any refills or is there anything else that
+Patient: I can? Not that I'm aware of yet but I think we're I think we're ok. I think the stuff will come automatically so the pill the one you ordered for us came already so
+Nurse: That was good good. Alright.
+Patient: Alright, thank you very much of
+Nurse: Course I hope she feels better stay safe. Thank you. Yep.
+Patient: Thank you bye bye bye.

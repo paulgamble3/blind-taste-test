@@ -1,0 +1,10 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How may I help
+Patient: You? Hi, [PHI-Personal]. It's [PHI-Personal]. Hey, how are you? The doctor's office called and I missed the phone call because I'm at work. Do you know why they called?
+Nurse: Sure. Let me see here what I'm doing here.
+Patient: I tried calling them back but I can't sit on hold forever.
+Nurse: I know it's terrible. Ok. Chronic care management. No, of course. Um. Oh I don't have I don't have any now. Yeah, I'll tell her to call you back now. Ok.
+Patient: Ok. All right. Thank you.
+Nurse: You're welcome. Yeah she didn't leave for what it just said. No answer mailbox full. I'm like, oh yeah,
+Patient: So I just I'll make sure I answer my phone this time. Alright,
+Nurse: Call back. Alright, no problem.
+Patient: All right. Thank you, Pamela. You're welcome. Bye bye.

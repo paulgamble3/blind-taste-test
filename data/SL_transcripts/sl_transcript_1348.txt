@@ -1,0 +1,54 @@
+Nurse: Good morning. This is [PHI-Personal]. May I help you?
+Patient: Hi, [PHI-Personal]. This is, uh, did you give me a call a couple days ago?
+Nurse: Well, that is highly possible. Just a sec
+Patient: When, when, when my voice mail transcribes it, it, it always doesn't come out right. So I'm not sure if I'm calling the right, but I mean, it's the number, so. Oh,
+Nurse: Ok. Ok. Well, let me, let me get stuff opened up real quick. Just, well, give me one second and, um, I can do that. Let's see here. Uh, helps if I hit the right button some days. Ok. Now, open up your chart here. I did call you on the [PHI-Personal]. You are correct.
+Patient: I'm sorry to be so late getting back to you, but I just trying to put it on the back burner.
+Nurse: That's ok. That's ok. And I had to, to, to call you back. So, um, I just don't, uh, probably was later this afternoon. I'm not sure. I'm trying to see when, oh, actually I was supposed to call you back yesterday and I'm so I'm behind on times too. Oh, well, ok. So let me, let me get your chart uh the in the, in the the doctor's chart open. Let's see. Can you just confirm your, I'm sure it's you, but can you confirm your date of birth for me?
+Patient: [PHI-Personal]?
+Nurse: Excellent, excellent. Ok. Um so and I'm going to get this. Ok, let's see here what has been going on with you? It looks like we've been missing you for some time. So I do apologize.
+Patient: We had, I was surprised I forget, I forget, I think there was a T or something that was called. Yes,
+Nurse: She was, she was the nurse that I replaced this month. So. Ok. Ok. And, and yeah, it looks like [PHI-Personal] was the last time that, that we
+Patient: Talked to you. It's been a while.
+Nurse: Well, we're gonna make, we're gonna work on that. We're gonna work on that. So what, let's see, we were good. We got the date of birth. How have you been feeling?
+Patient: Oh, I've been feeling fine.
+Nurse: Oh, excellent. Excellent. Ok. And obviously staying very busy. So that's a good sign.
+Patient: I am, I'm, I am now a live in caregiver for a gentleman in my neighborhood. So.
+Nurse: Ok. That does keep you busy. Ok.
+Patient: And I have, I have another client besides him that I see at [PHI-Geographic] two nights a week. So. Oh, my goodness. Yeah, I'm busy. I kind of juggle things
+Nurse: You do. You do and let me see your next appointment in the clinic. Is not until [PHI-Personal]. So we're good there. Yeah. Ok. Do you need any refills or anything?
+Patient: No, no. Usually CV S on [PHI-Geographic] will call the doctor. If they need to get them refilled, they'll, they'll check with me, they'll can send me a, a message that you know, so and so needs refilled. Do you want me to call the doctor? Yeah. Yeah. So, I mean that's all taken care of.
+Nurse: Excellent, excellent. Ok. I'm glad that that the system is working out well for you. Um OK, looks like I was kind of just looking at your last office visit that was back in [PHI-Personal], I think. Yeah, [PHI-Personal]. Um and she was recommending physical therapy at that time. Did you
+Patient: Do the physical therapy? I did have, yeah, I did have that and that ended uh not this past Wednesday, the Wednesday before was my last.
+Nurse: Ok. Do you feel like it was beneficial?
+Patient: Uh You know, I, I think I might have regain some strength but I think, you know, they said it's my, my core muscles, my muscles around my hips are very weak and I, you know, it's never gonna be perfect, you know, I still, I still am very careful when I'm walking outside. I use a cane when I, I stays in my car. I don't need it in the house because I'm, you know, it's perfectly level. I'm just very uh insecure when I'm walking, you know, on sidewalks that may have uneven pavements or ground that's uneven. I'm just very insecure that way.
+Nurse: Ok. Ok. Now you mentioned the core muscles and stuff like that. Do you mind if I give you a little and you may already do it? I don't know. Um, but I had a lot of issues with that. I have, um, I had a lot of back pain and, and so I was in pain management, physical therapy, 12 years before I had my surgery. Anyway. I still have to do this one exercise. Well, I'm supposed to do more but I like this one exercise. I feel like it benefits me more. Um, it's easy to do. You can do it laying down, sitting whatever. Um, it's basically where you suck your belly button into your spine and you hold it for 10 seconds and when you do that you might feel your pelvis kinda rock forward. Um, and then you relax and you repeat that 10 times. Oh, ok. That little exercise there helped me the most with trying to build up my core because with my back, I have to keep those muscles strong to hold my spine because of all the, the fr from an accident, an auto accident. And, um, so, and I, I was really weak in my lower core and they, you know, that, that one exercise, they had me doing it before I had my surgery and after I had my surgery and that's the one that I felt like did the most help. And I still do it to this day when I think about it, I'll suck in and hold it and then relax and that helps build up those muscles and it's not hard to do it. Do? You don't build up a sweat? You don't?
+Patient: Yeah. Well, I have, I have arthritis. I have arthritis in my feet, my ankles, uh, uh, my, my low, my lower back sometimes I, I get, I, the pain isn't debilitating pain in my lower back. But, you know, it, it just depends on and then sometimes I sit too long when I go to stand up, my right hip will give me fits and I have to wait until, you know, it's just my age, you know,
+Nurse: I understand. I understand and, and that's why I just wanted to make that little suggestion to try it to see if you, if you thought that kind of helped build up those muscles a little bit because, you know, if it, anything that I find that helps me, I like to share so that maybe it'll help somebody else.
+Patient: Yeah. Oh, yeah. Oh, yeah, I agree. But thank you for that. Yeah, I'll try that.
+Nurse: Ok. Ok. Well, I, is there a more, is mornings, afternoons, what's best to get a hold of you? I don't, it just says any time. But do you have a particular time? Time?
+Patient: Because, because I, I do live in care, you know, he's sleeping right now. So that's why I decided, you know, I'll go ahead and call because I don't, because I, when he's up and about and goes to the bathroom, I've got to be right because he's, he's not steady on his feet. So, yeah, he's napping right now. So, you know, just any time, if I can't, can't answer the phone or if I can't talk, I'll, you know I'll try and get back to you. Ok.
+Nurse: Ok and you can put my name to you this number uh because I'll be the one calling and maybe that'll you know so when it pops up yeah
+Patient: Yeah because if I don't recognize the number I don't answer it anyhow
+Nurse: But what exactly that's that's me [PHI-Personal] [PHI-Personal] just like the little bird. [PHI-Personal].
+Patient: Yes in. Ok. Alrighty I will do that and excellent excellent is is [PHI-Account]. No no that's what's coming up here. Alright you know what? Let me that's yeah that's what's coming up that's wait until I get a pen here and I will.
+Nurse: Ok. Yeah and I'll make sure that that changed I don't know why it came up that way. Ok, my number
+Patient: Now wait a minute I I'm waiting here. Yeah. All right your number and is is
+Nurse: Gonna be yeah [PHI-Personal] [PHI-Personal] and it's 570. Ok. [PHI-Account]
+Patient: [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]. Ok. Yes, ma'am. I don't know why, why it's coming up. It says [PHI-Account]. Yeah, I
+Nurse: See that number. I'm like, ok, where did that come from? But I was like, wait, she called me so I know you called that number. I don't know. I'll have to look into my phone system to make sure nothing's no wires are
+Patient: [PHI-Personal]. You, are you in? Are you in?
+Nurse: Well, um I I work through the [PHI-Geographic], you know with doctor [PHI-Personal].
+Patient: Yeah, but the number eight number came up and it said it was from group [PHI-Account].
+Nurse: Yeah, I I'm not sure. Yeah like like I said, I'm not sure why that number is coming up, so I'm gonna have to look into it to find out.
+Patient: Alrighty. Well I'll put you in my my list and then you. Excellent.
+Nurse: Excellent and hopefully when I do call you next month, my number will be coming up on there.
+Patient: Yeah, hopefully
+Nurse: It will uh I'll get that worked out. Ok.
+Patient: Ok. Alrighty. Thank you.
+Nurse: All right. Well thank you M [PHI-Personal] for calling me back and I look forward to visiting with you more later.
+Patient: Ok. Alrighty, that's good.
+Nurse: Alright, thank
+Patient: You. Mm bye bye bye bye.

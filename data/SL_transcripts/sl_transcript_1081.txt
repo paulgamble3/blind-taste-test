@@ -1,0 +1,109 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Oh, hi. Uh, [PHI-Personal]. This is [PHI-Personal] Burgess. I was waiting for a call back for a virtual appointment with Doctor [PHI-Personal] today and I just feel worse as I'm waiting here.
+Nurse: I'm sorry to hear that. Let me have your birth date, please.
+Patient: 66, 1948 thing is I'm tired and if I go to even sit in a recliner, I feel like I'm feeling worse. So I'm trying to, to do that, but I'm really tired.
+Nurse: Ok. All right. So let me look here real quick. All right. So you spoke with [PHI-Personal] earlier today?
+Patient: Yeah, I spoke with somebody. Yeah.
+Nurse: Yeah. Let me, let me review this real quick and see what has happened with it.
+Patient: She wanted me to get a COVID test but I, they didn't have any available for today or something.
+Nurse: Yeah. You know what? She sent a message to all of us ladies earlier saying that the soonest was on [PHI-Personal]. I, that's crazy. That's a long ways out. I mean, that's three days if someone's sick. That's what?
+Patient: Well, I checked the, my chart and it's not even there. So I don't even know what happened to it? Did you,
+Nurse: Did you check it before she ordered that, that test by chance?
+Patient: She was, she was walking me through the, my chart and I was doing it online and, but I was trying to make the appointment and they had something for Sunday. But then I don't know, they said something, edit something and I don't know, I, I just, I don't know what happened to when I went back and checked and there's nothing there, there's no appointments.
+Nurse: Yeah. So what I have found, um, and I was gonna mention that to her earlier but I got caught up doing other work whenever, um, a patient goes into their Mychart by themselves and attempts to schedule, um, the test prior to us, ordering that test for them. It appears that the, um, openings are out further than if we were to order the test and then have them go in and schedule it. Yeah.
+Patient: Well, she had told me to do it this way. Right. You know
+Nurse: What I'm saying? I, yeah, and she probably doesn't realize that. Um, I mean, and, and I might be completely wrong but that's just what it has come across to me. What it, it seems to be with patients that I've dealt with when I've been trying to help them through it. Um, but ok, so she forwarded the message on to doctor [PHI-Personal] Moreno and she also forwarded it on to our scheduler. It does not look as if anybody has reached out yet, which obviously you've not talked to anybody. Um,
+Patient: Well, can I ask you, like if I'm in a recliner? It just seems like I felt worse and then it actually my chest started to feel like really tight then, you know what I mean? And I, so you,
+Nurse: Are you having shortness of breath then? Is that, is that your situation? You're not? No,
+Patient: No. I, I just think my chest got tight as I sat back. And then unfortunately, I have some anxiety and so that's probably making it worse. And I've got,
+Nurse: And, and that's what I was wondering if, if it could and because I can tell you COVID does make anxiety worse. Um,
+Patient: Well, they gave me the nurse practitioner gave me a prescription for so I was having some anxiety back in [PHI-Personal] and I said I'll just want it to just have it on hand. Yeah. And I never took it. I have it here, but I
+Nurse: 0.5 mg. Um So if, if you feel here's the situation, I'm a nurse. Um my job is if you're telling me you're short, having shortness of breath or you're having difficulties breathing, then you should go to the hospital. But if you're telling me, you feel that your anxiety is causing you to have problems and if you have medication that helps with your anxiety, then you should try that medication. If that does not help you, then you need to go to the hospital.
+Patient: Yeah, I never took the medicine. You know what I mean? You've never taken
+Nurse: The Klonopin ever before. That, that's completely new. So then he was obviously having some issues at that time um with the in order for her to, yeah,
+Patient: I asked her for some and I had had anxiety and I asked her if she write a script for it and I, but I said I just wanna have it on hand in case I ever have it and then it kind of cleared up and I had never taken it. OK? But I do have it. I have it right here on my desk.
+Nurse: OK? Um So like I said, you know, if you feel it is just anxiety and it's not like do you have a um pulse oximeter to check your um oxygen level by chance one of those you put them on your finger? I don't know if you're familiar.
+Patient: Yeah, I got one of those.
+Nurse: OK. Can you check that for me real quick?
+Patient: Um Wait just a second.
+Nurse: OK. Take your time.
+Patient: Um [PHI-Account].
+Nurse: Oh Good, good. Yeah, that, that's real good. Um So good chance that you know, and, and if it's t if it's tightness in your chest and if you're saying it's only when you lay back in the chair,
+Patient: Yeah, she, when I talked to the other nurse, she said to try to move around. Not to lay down and then I, my husband set up the, like, the recliner and I wasn't laying down, but I was trying, I'm so tired. I am tired because I was up coughing last night.
+Nurse: Yeah. Now, how long have you? Um, I, I didn't get to read all of your symptoms or anything. Um,
+Patient: The symptoms just came on yesterday. I mean, I had just, I had it last, I had a similar thing last Thursday. Not as bad though. It wasn't in my chest, it was just in my throat and I took, uh, Nyquil Thursday night and I was up coughing a lot and, but the next day, LA last Friday I got everything, um, under control myself, you know, just with liquids and rest and, and everything. I got a good night sleep Friday night and I thought it was over. I mean, I, you know, I went on with my weekend I went to, I actually had an OBG appointment, uh, gynecology appointment on Monday and I saw doctor [PHI-Personal] and she listened to my chest and everything. I was fine. No, I was fine. I wasn't sick Monday. Yeah. Clear, clear Monday. And
+Nurse: Then when you're coughing, are you bringing stuff
+Patient: Up? No, no, no, no. I almost think I feel, I feel like I have like bronchitis but I don't, of course I've never had COVID before, so I don't know what that feels like. Right. That's why the other nurse should take this anxiety stuff.
+Nurse: That's why she what I'm sorry,
+Patient: Should I take one of it? This stuff that the nurse practitioner gave me says take one tablet by mouth twice a day as needed for anxiety. Should I take it?
+Nurse: Well, it, it, I mean, it's very difficult for me to as a nurse to sit here on the other end of the telephone and tell you what you should do because I can't say that the feeling that you're having in your chest, that tightness is from anxiety or if it's some symptoms from having COVID, um you would better know whether you know how you're feeling and whether you feel that it's anxiety. Yeah. If you're feeling that feeling, only when you lay back in the chair, it very well could be anxiety and it's like a mind thing. Whenever you lay back, you're starting to get anxious and then when you sit back up, you feel fine.
+Patient: Yeah. Yeah. Like I'm ok talking to you. I'm sitting in a chair right now. I think I should take one and then see what happens.
+Nurse: Ok. Well, well, then that, that is probably a good idea. Um Even uh even if you only take half of one since you've never taken one before, just to, you know, see how it makes you feel. Yeah, but that, that's your call. Um It was ordered to take one tablet by mouth [PHI-Personal] times a day if needed for anxiety. That is how [PHI-Personal] mail ordered it for you.
+Patient: Yeah. Yeah. Yeah. I, I
+Nurse: Can. Yep. And I can tell you, like I said a few minutes ago, COVID causes increased anxiety. Yeah, because you get nervous because you don't know what's going on with your body. You don't feel good. It, it does, it definitely causes increased anxiety.
+Patient: Yeah. Ok. Ok. Um I wish I could just get the COVID test because if I could get the COVID test, then they know whether to treat me for COVID or whether I have bronchitis and give me like something like z-pak. Like I took four years ago
+Nurse: Right now. The, can you go, try to go back into your chart now that um the order has been placed? Are you able to get back in your Mychart easily?
+Patient: Um Yeah. Yeah. I, well, I gotta turn the computer. Can I
+Nurse: Do that? I try to walk through that again just to see if I was right with there being a sooner visit? Oh,
+Patient: Wait, just a second.
+Nurse: Ok. And you know, though, once you take that it's gonna be about 24 hours before you get the results because it's not a rapid test. The PC R isn't.
+Patient: Yeah, I know I took a test this morning. It was negative. I took one last Friday. It was negative too. I took one, a home test because I babysit for my [PHI-Personal] year old grandson and I didn't wanna be sick and I felt fine Monday. Like I said, I did the doctor's appointment. I went to [PHI-Personal] Tuesday and I babysat, I felt fine yesterday but the cough started to come on in the afternoon. My chart. Uh huh. Wait a minute and a
+Nurse: Lot of times with those home tests, there's so much room for error that they're not necessarily accurate. Yeah, because if you're not really getting in there good then you might not get what you need on that swab.
+Patient: Yeah. Ok. So I'm in, I'm on my chart now. Do you want me? I gotta go to the menu to take it. If
+Nurse: You're, if you're logged in, go to where it says visits.
+Patient: Wait a minute. Ok. Visits. Yeah, I already checked this minute. Uh, there's nothing there. My visits are upcoming visits. [PHI-Personal] [PHI-Account] July 14 [PHI-Account].
+Nurse: So there should be a section that says schedule an appointment. I'm sorry, you choose visits and then schedule an appointment. Oh,
+Patient: I'm sorry. Ok. That's ok. Ok. Now I've got the page where it says, you know, the whole menu of stuff. So it says COVID-19. So do I click on that? Yeah, like I like this is like I'm doing it all over again. Right. Yep. Yep. Reason for, to,
+Nurse: To symptomatic and then you're gonna choose your symptoms that you're having.
+Patient: I did this with her though. You know that? Right. So,
+Nurse: I, I just wanted to check to see if it's different. Um, I wanna make sure that she had the, the COVID actually ordered prior to
+Patient: And fatigued. Ok. I don't have vomiting and I don't have a rash. Ok. So continue what
+Nurse: You have and continue. Yep.
+Patient: Yeah. What day? Ok. Choose your
+Nurse: Location.
+Patient: What is the date of symptom? Wait minute, I gotta get, wait minute. I'm sorry, I'm sorry. Date of symptoms is today. Ok. Continue. Oh, I mean, I should have put yesterday, shouldn't I, uh, ok, I did, I put today. Is this your first COVID test? No, I had 12 years ago over there. Mhm. Continue. Uh, are you employed in health care? No, continue. Are you a resident of a group care center? No, this is required. No, no, continue. Ok. Reason for visit. It says the green thing is COVID testing. Ok. So I wanna choose [PHI-Geographic], right?
+Nurse: Uh, whatever locations closest to you, whichever you wanna choose.
+Patient: Yeah. Hospital. Mhm. Ok. One location
+Nurse: And it should tell you the dates and times
+Patient: Available. Yeah, it's got Sunday. Same thing I had before Sunday. Sunday at 9 30. That's crazy
+Nurse: To because ha most of the time they're either same or next day appointments.
+Patient: So that should I go back and do nearest thing? You know what I mean? And I mean, you could, yeah. Yeah,
+Nurse: You could do that and then, yeah.
+Patient: Well, where would it, if it doesn't take you to the hospital? Where does it take you
+Nurse: It's gonna be [PHI-Geographic] or um,
+Patient: Well, [PHI-Personal] [PHI-Geographic] is 20 miles or what? That's definitely only
+Nurse: [PHI-Personal] locations then or you could go to an urgent care, um which might actually help you with. Um, you know, they could listen to your breathing, they could do your, your COVID screening for you.
+Patient: Well, should I go back? Is there an order in there? Like if I do this, I mean, I'm just not [PHI-Personal] place in this.
+Nurse: [PHI-Personal] placed the order for the COVID test already. So when, um, and honestly, patients are able to order their own COVID test going in there, how you're doing it through your Mychart, they're able to do it themselves. That's why I was questioning whether when you tried to schedule it before, whether [PHI-Personal] had placed that COVID test before you tried to schedule or after. Um, but obviously she's already placed it. So it doesn't make a difference.
+Patient: Well, if she's placed it, why isn't it showing up though?
+Nurse: She placed the order? No, she didn't schedule you. Oh, ok. She, she's got the order in here. It's up to you to schedule.
+Patient: And what should I go back? And what should I do?
+Nurse: Well, she can always, or, um, you could always wait for them to call you, uh, to schedule because since she's already placed that order, you, you're put on to a list of patients who need to be scheduled. Um, so they would reach out to schedule you for a visit. Um, and I don't know if they'll be able to maybe offer you something a little sooner than Sunday. Oh, it's not Sunday. It would be. What is today? Today's Thursday, Friday, Saturday. Yeah, I guess it is
+Patient: Sunday. But how do I even know, like, nothing is even selected here. So, how do I even know? I even have the Sunday one.
+Nurse: Well, you have to, you would have to choose, you didn't schedule it yet because I'd be able to see it in the computer system. So earlier when you guys were talking, you didn't schedule that.
+Patient: Ok, I tried and it was
+Nurse: Something
+Patient: In my, what do you recommend? I do? Do I go back through the same menu and try to do like earliest appointment or something or? I mean, I don't, the only option.
+Nurse: Yeah. Yeah. When you do that, the only thing it's gonna do is give you the options at both hospitals and you just said that, um, [PHI-Personal] [PHI-Geographic] was 20 miles away for you. So
+Patient: You wanna travel that? I thought you said that walk in clinics or something like that?
+Nurse: No, what I was saying was you could always not schedule anything on here and go to the urgent care yourself. Um, and they will be able to take care of all of that for you. They'd be able to listen to your lungs to see how things sound in there. Um, and they would be able to COVID test you and maybe comfort you a little bit, you know, to see what's actually going on with you.
+Patient: Well, I think that's the reason why she wanted me to have the virtual thing with Doctor [PHI-Personal], but I can't get a call back.
+Nurse: Right. And, I mean, honestly, it, it takes a little bit of time and it has, it's only been maybe an hour. Um, you get forwarded on. I understand your concern. Don't, please don't think that I was saying that, you know, you're not important or whatever and I'm not saying that by no means, but the, the schedulers have to work down through all of the request that they have and contact people and schedule and stuff and it doesn't even, I can see Kelsey, the scheduler hasn't done anything with it yet. Yeah. So she apparently hasn't got to you yet. Yeah. And even so, um, I mean, Doctor [PHI-Personal] Moreno is not going to be able to listen to your lungs or anything like that, uh, for a virtual visit and you can't come into the office with a possibility of having COVID. So that's why, you know, if you feel your lungs need to be listened to again, then going to the urgent care would be your best bet because they could listen to your lungs there will COVID test you there. Um, I mean, II, I feel like you might get more answers that way.
+Patient: Yeah. I see what you're saying. I'll ask my husband, he's gone to those before. I've never gone to one. So
+Nurse: I, ok. Yeah. Um, and, and I mean,
+Patient: You can't recommend one, right? You can't, you don't know. Are you local?
+Nurse: No. Let me look in here and see what would be the closest to your address. Which one? Give me one second. Yeah. Mhm. I'm trying to look here. Not. Do you happen to know which one your husband went to? I'm
+Patient: No I can ask him. Yeah, I I'll ask him. That's ok. That's ok.
+Nurse: There's [PHI-Personal] [PHI-Geographic] healthcare urgent care. Let me see what it pulls up for our closest for you. Um there's one on [PHI-Geographic].
+Patient: Yeah. Ok. I'll I'll talk it over with him. He's here and I'll try to figure out I just I didn't realize it would just take so long to for this process. Ok.
+Nurse: Um yeah, so I mean I can put a note in of everything that we discussed. Um you know, uh be be mindful of your breathing, how you're feeling and be mindful as well with your anxiety and if you feel that you need to try the medication that was prescribed to you, um then obviously you should do that.
+Patient: Yeah. You know, it's weird though I feel now I'm not feeling as bad like, you know, walking around and stuff like that, but when I lay down, I not lay down, I wasn't laying down. I was in a, just reclining in the chair. I, yeah, it, it just, that's because, because I'm so tired. So, uh, I thought, you know, I could maybe get some rest but you can't, can't get rest because then I, then I start feeling the tightness in my chest. Mhm. Ok. I mean, is that, does that sound like COVID?
+Nurse: Well, I, like I said, I, I can't, I can't diagnose anything like that. I'm a nurse. You know, I, all I can do is take your symptoms that you're giving me and forward them on to the, uh, Doctor [PHI-Personal] Moreno and I ca, I can send a personal message to her letting her know how you're feeling and, you know, because you were having some issues with anxiety just back in [PHI-Personal]. You know, it, it, but I, I can't, you know, we can't, who's to say for sure that it's anxiety and it's not something with your lungs, you know, due to COVID or whatever I can't say. I don't,
+Patient: You know. Yeah. No, I did. I, that's why I asked him for that. But then I, I said it was more like for a, uh, security, I guess because I've never taken it because it's, you know, went away.
+Nurse: Right. I didn't even know that you have it in case you needed it. Have you ever had panic attacks or anything like that in the past
+Patient: 30 years ago when my first husband died? Yeah. Yeah, a long time ago.
+Nurse: Long, long I have anxiety myself. Um, and, and it's horrible because you can't control it and the more you think about it, the worse your anxiety gets. Yeah. Um, yeah, I had COVID in November. November 22nd is when my COVID started, my anxiety was through the roof with it. Oh. yeah. Yeah. So, but, but because that happened with me doesn't mean that's happening with you. You know, I obviously we're all different affect all of us differently. Yeah. Yeah. It affected my it did, it affected my anxiety. Yeah and I've heard of that I didn't know whether it was because
+Patient: It's unknown. Yeah, but I didn't know if it was the t you know what I mean? Like I didn't know if my chest was feeling tighter and stuff because of uh I don't know because of whatever I have sickness wise, you know what I mean?
+Nurse: Right. And that's why I'm saying if you go to urgent care, they'd be able to listen to your lungs and hear if there's anything in there, you know, they'd be able to check that
+Patient: Might do things. Alrighty. Alright. Thank you very much.
+Nurse: You're welcome. Sorry it wasn't of more help. Yeah, it's perfect. Thank. Thank you. Bye bye. You're welcome. Bye bye.

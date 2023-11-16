@@ -1,0 +1,75 @@
+Nurse: Care management. This is [PHI-Personal]. Can I help you? Yeah,
+Patient: This is again, I, I, so this is doing it again.
+Nurse: Say that again, [PHI-Personal]. I
+Patient: Said this is starting all over again. I'm getting sick but my stomach feels like it's, it's upset and I feel like I'm shaky. Uh I haven't had a real one yet but what the hell? I don't know what the hell's going on. Is this really sinus infection or what the hell is it? Well,
+Nurse: It could be. I mean,
+Patient: Um,
+Nurse: Did you eat today?
+Patient: I just got done eating. I just had a, a uh I don't know what you call it. It's like a burger but you put it in a pan and I just ate that and I had breakfast. I was fine all morning and all of a sudden this is what it does. And here I am again, my head still hurts. Either that or the medicine's not working
+Nurse: Well. It definitely doesn't work that quick. [PHI-Personal]. That's the thing.
+Patient: Yeah.
+Nurse: The,
+Patient: No, they never tested me for COVID. Would that be COVID?
+Nurse: It could be? I mean, do you, but you don't have any cold symptoms? Do you any, what? You don't have any cold symptoms.
+Patient: Like what, like
+Nurse: Sinus, congestion, cough, sore
+Patient: Throat. I, my sinuses are all plugged up. But I don't have, I'm not coughing or nothing. It
+Nurse: Wouldn't hurt to test for COVID. I mean, it definitely wouldn't hurt. Um, now you started the antibiotic yesterday, right. Yeah. So, you don't think it's, it's from that you're feeling, you were feeling this before you started the antibiotic?
+Patient: Yeah. I had the same damn thing. I mean, I mean, what do you call? It? Always bother my stomach? Any antibiotic, but it doesn't do this. I mean, I just feel nauseated is not.
+Nurse: What's your blood
+Patient: Sugar? It was one what was it this morning? [PHI-Personal] this morning.
+Nurse: Can you check it now?
+Patient: No, I can check it now. Oh,
+Nurse: Take your time. There's no rush and you could put me down. You don't have to juggle both. OK? Take your time. No rush.
+Patient: Just a minute. It says [PHI-Account].
+Nurse: Ok? And you don't have a BP cuff in your house? Do you a machine? No,
+Patient: I don't. No, I check my BP when I was at the hospital and that seemed to be fine.
+Nurse: Yeah. But you weren't having this episode when you went, were you? No. Yeah. That's what I'm trying to figure out if there's any change in your BP because that can make you feel shaky too. Yeah. So right now you're dizzy. You're shaky. Your head hurts, I'm
+Patient: Not dizzy. I'm shaky.
+Nurse: Ok. Shaky. Your head hurts nauseated. Well,
+Patient: It's like heart palpitations but it's not really heart palpitations, you know, when you get, oh, I don't know how you get excited sometimes and you can feel your heart. Mhm. That, and
+Nurse: Does it feel like it's just beating faster or harder than
+Patient: Normal? It feels like it's just beating faster
+Nurse: In your head?
+Patient: It, it doesn't, it hurts on and off. I mean, it's the same spot that started hurting up here.
+Nurse: Are you hydrating? I'm drinking like how much water did you drink today so far?
+Patient: Uh, I drink about two glasses of water. Ok. And I still got water over here. I've been drinking, I've been sitting here reading and I've been drinking and it calms down for a while and it seems to start back in again.
+Nurse: Ok? I will send a message to the office. I'm gonna say [PHI-Personal], if this, you know, obviously this is concerning
+Patient: Ready to do. Oh, he's got a thing on his watch and he can check my pulse. Is that what you're gonna do? Oh, good. Hang on a minute. Says 88 BPM higher than average rest. He says says 88.
+Nurse: Ok. That's normal.
+Patient: That's normal. She said,
+Nurse: Ok. And did you take all your medications this morning, [PHI-Personal]? Yeah,
+Patient: I took my BP medicine. First thing I got up this morning at 7 30. She he said you can on his watch, he can do blood oxygen if you want that.
+Nurse: Why not? Let's do it. Go
+Patient: [PHI-Personal]. 95% 95%.
+Nurse: Ok. That's perfect. That's good. Did, um, did they do blood work when you went yesterday?
+Patient: No, they didn't do a COVID test either. So, hm.
+Nurse: So I'll definitely message the office. I personally, [PHI-Personal]. I think it's, you know, if you were to go to urgent care, I can't tell you what's wrong over the phone. It's just not possible. Unfortunately, I wi I wish I could, I would, I would have done it yesterday for you. But if you were to go to urgent care, you could get a COVID test and get evaluated and get treated um, all at the same place. It's a little easier and a little more convenient than going to the emergency room. I wouldn't have recommended that yesterday because we didn't know what was going on with the head and I knew you would probably need ac A T scan. So they would have sent you to the hospital anyway. But I'm gonna be honest with you, the urgent care sounds like the way to go want me to, you know, I'll definitely, but I don't think feeling like this and not knowing what's going on for sure.
+Patient: Well, I don't know, but my head is still bothering me. That's why I don't know
+Nurse: If that. Are you saying hurting or, or dizzy like, which, which part do you mean? You
+Patient: Mean, I can feel it like a throbbing in my head a little bit and, and my side of my head where my sinuses are started to hurt again.
+Nurse: Yeah. Did you take any Tylenol or anything?
+Patient: Ah, no, I didn't.
+Nurse: I mean, you definitely, if you've taken Tylenol in the past without a problem, you definitely could take a Tylenol and see if it helps. I mean, if this is related to sinusitis or a sinus infection. Yeah, pain in your face around your sinuses and pain in your head and dizziness are all can be part of that. Yeah, I'm not saying that's what's causing it cause I don't know for sure, but it's definitely a possibility.
+Patient: All right, I'll take a couple Tylenol and just see if there, I don't know if I should go get a COVID test or not or what
+Nurse: It wouldn't hurt. I mean, the recommendation is any symptoms of COVID or exposure you're supposed to get a COVID test. So sinus pressure, pain, cold symptoms, anything with your sinuses is considered a symptom, a possible symptom. So it wouldn't hurt to test for COVID. All right. And if, and if you're going to do it, I mean, instead of going to a pharmacy or going to buy one or I would just go to urgent care if it was me because you could do everything in one place. Like if they, if God forbid you did have COVID, they could treat you there if they wanted to check you out again. They could, if you, if you let them um if you needed a different type of medication, you know, like I would say, oh, maybe like a decongestant might help, but I can't tell you to take that. Yeah, without being evaluated. Go
+Patient: [PHI-Personal]. Yeah. Well, my son says he's going to take a shower, then he's going to take me to urgent care. Ok? Cause he, he thinks I should have a COVID shot just to make sure.
+Nurse: Yeah, I, I think you should, I mean it's better to, to rule it out and then when you're there, if they do still think it's related to your sinuses, like if they check you out and they're like, yeah, they're right. It's your sinuses. Ask them about what can you take for symptoms? Um, because you're on other, you're on medications that it would be important to, to find out directly from them. Like, can I take something to like a decongestant? Like to drain my sinuses because that might help your symptoms.
+Patient: Well, he gave me a spray but that [PHI-Personal] did, but that spray don't do much even when it's, you know, I, I've been,
+Nurse: Yeah, and that's an antihistamine. So that's going to dry you up. A decongestant might help all that clogged stuff drain out and it might give you some relief from the pressure.
+Patient: Yeah, because what I don't get, I'm not blowing my, this is what I don't understand. I've had sinus infection before I blow my nose all the time and it gets brown. I'm not blowing my nose or nothing. There's nothing coming out of my nose. Right.
+Nurse: So, if you do have an infection, you might need a drain. You need to, um, you need a humidifier running, you need nasal spray, you know, saline nasal spray to kind of loosen all that up. A decongestant would probably be recommended. But you'd have to ask him what is safe for you to take when, when you, when you get checked out
+Patient: I can't take, because that's right. I'm on a, all that goddamn blood thinner and the diabetes stuff and I'm on right junk.
+Nurse: Right. And if you did have COVID, you know, normally they would offer Paxlovid, but you usually can't take that when you're on a blood thinner. Yeah. But at least you would know to isolate from people if you were, if you were COVID positive. And it would, yeah. You know, it, it would give you an, an idea of why you're feeling the way you're feeling. Yeah. Yeah. I don't think it's a bad idea. [PHI-Personal], especially before the weekend and then there's no staff anywhere and then it's hard to get checked out. I would not hesitate to go and I think the earlier you go, the better off you'll be as far as a week. That's usually how it is because usually everyone heads there after work and school and stuff. Um, I'll let them know, I'll let them know. That's your plan. Let me know how you make out. Ok, and be safe, especially if you get up and you're dizzy at all, which could be part of a sinus infection. Be safe when you're getting up and walking and move. Well,
+Patient: It is. I'm, I'm not, not even dizzy now or anything. It's just that I can feel that in the back of my head and what it does. I don't know if it's making me feel nauseated or what is it doing? Well, it could,
+Nurse: It definitely could sinus infections can do that because it's like your tubes are all blocked. They run from your sinuses up into your ears. So when pressure builds up or fluid builds up in the ear, it can, it, it makes your equilibrium be off, which can also cause nausea. So, if it's related to that, it makes total sense. But it sounds like you would need something to help drain you. So, yeah. Yeah. Why don't you just go put your mind at ease? At, at least you'll find out if you have COVID or not and what you can take for symptoms.
+Patient: Oh,
+Nurse: Ok. I wish I could do all that for you over the phone. It's just not possible or I would have done it a long time ago. Yeah. Trust me. I would have Uh, all right then. But I'll, I'll let Doctor [PHI-Personal] know what's going on and if he wants you to do anything different than what we talked about, I most certainly will call you. All right. All right, [PHI-Personal]. And, you know, you might want to talk to them about the antibiotic too. I know you said you don't want the Augmentin. And I, and, you know, it's, if it's really is. Yeah. Well,
+Patient: Here is the thing with the Augmentin. Ah, I was sick one time and what's her name? [PHI-Personal] gave me Avelox and that made my heart beat and she said that I was fine. It does. That. I called Kellogg and he says, no, get to the hospital. So I had to go to the hospital and then they put me on Augmentin and then I broke out in like a rash, but he said he didn't really think I was allergic to it because I take amoxicillin, but I can't take that stuff. Horrible. Well, the only thing I can think of is taking the Doac do, what do you wanna call Doxycycline or whatever it is? I've taken that I've sinus infection
+Nurse: Though.
+Patient: Yeah. Doctor, what do you call it? Told me that tetracycline was the best thing you could do because I used to get it all the time and boy, they used to really knock it out. Yeah. So this is Doxycycline is, uh, I've taken that before.
+Nurse: Ok. Well, talk to them about it, talk to them about it. I know. Augmentin is like the one that really knocks it out of you quick usually where the zak, uh, it's, it's kinda not so, not so strong but, you know, it, maybe it'll work for you but it's definitely something to have a conversation about with the provider that you see today. Ok. All right, because you don't wanna be taking something and not helping you. You know what I mean? Yeah.
+Patient: Well the other thing I worry about too is any antibiotics I take I don't care what it is always eats away at my stomach.
+Nurse: So yeah and you have to eat with them.
+Patient: Yeah,
+Nurse: Because they'll definitely they'll do that and you can get diarrhea nausea, vomiting, you know, all that stuff. So um definitely eat with it, you know, if you could tolerate the symptoms, keep going but if they're not tolerable and you can't eat or drink, you have to call the doctor. Ok. Alright, good luck I hope everything works out. Ok. Let me know how you make out. Ok. Ok. Ok Linda. Bye bye.

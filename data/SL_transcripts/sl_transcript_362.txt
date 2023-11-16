@@ -1,0 +1,20 @@
+Nurse: This is, how can I help
+Patient: You? Hi, [PHI-Personal]. This is [PHI-Personal] calling. I, uh, need, well, having problems with the ph, with, uh, yeah, family practice. Of course. Uh, you know, we ordered that omeprazole. Mhm. The other week? Ok. They need a referral for it. Oh, she faxed it. Yes, because I guess maybe my insurance isn't gonna pay for it or something. Or else the doctor has to give me another, a different prescription or something. Well, the pharmacy sent that to the doctor's office last week already. Haven't heard nothing yet.
+Nurse: Ok. Will you verify your date of birth for me?
+Patient: Yeah, it's 12, 27 48.
+Nurse: Ok. One moment. Did you go to try to pick it up from the pharmacy? And they said that you had to pay for it?
+Patient: Well, they called me and told me that I needed a referral for it and that they had sent a thing to the doctor's office and, but it was over the weekend so they knew they wouldn't have it. But today is wey now they should have, you know, something should have been done with it. But I talked to the pharmacy last night they called me to see if I was taking my Metformin and uh they said the insurance has them call every now and then, you know, and then I said, yeah, and then she goes, do you need a refill? I said yes, I need a refill on my Metformin. And then uh there's some other ones I need too and I did tell her what I needed, but I'm gonna give them to you too so that you can double check on them if you would. Ok.
+Nurse: Yep. Give them all to me.
+Patient: Ok. The I need uh my Lisinopril. Ok, I need uh uh P [PHI-Personal]. Ok. And I, I told her those, but I didn't tell her about the fu Furosemide on a water pill. Yeah. Furosemide.
+Nurse: And then you need the esomeprazole. Yes. Yes. And they told you you needed a referral,
+Patient: Right? That the insurance was requiring that. So I, they paid before for it, you know, but I don't know if they're not paying for it this year or what. So.
+Nurse: Ok.
+Patient: And she said she didn't know if the doctor would need, you know, need to send them something that gave them, you know, they're saying that I could get it or that they would have to, he'd have to change the, you know, change the prescription so that I could get it. Mhm. So that's where we stand right now.
+Nurse: Ok. All right. Well, let me send this triage order in and I will, um, do you want me to have family practice? Call you when they are finished with the medication refill?
+Patient: Either them or, yeah, if gets it, you know, or whatever. Ok. Or family practice what you know? Mhm. Ok. I, one of them anyway,
+Nurse: I will put it in and did you get your amLODIPine?
+Patient: Yes, I did. Yes, I did get that.
+Nurse: Ok. Well, yeah, it says that it fax to, I followed up with it or I sent the medication in but they said that it was faxed in so I'll just respond to this triage and let them know that we still are having a little bit of issues and they need to have the provider fax over some information.
+Patient: Ok. Dokey. Alright.
+Nurse: And I will have I can give you a call back to the office or give them a call back when it's filled.
+Patient: Ok, thank you much. You bet you. Bye bye. Mhm. Bye bye.

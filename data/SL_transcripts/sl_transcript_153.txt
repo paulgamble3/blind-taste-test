@@ -1,0 +1,29 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager. Hi
+Patient: [PHI-Personal]. It's how are
+Nurse: You? Good. How are you? My dear. Can you just give me one second? I'm just uh finishing up something. Can I put you on hold? No problem. Alright. No one second. All right, I'm back. So what's going on? How is everything?
+Patient: Uh not too bad just getting ready to start cramming all these surgery appointments in here soon. Yeah.
+Nurse: Did you um I know you said you were waiting till after the surgery to kind of follow up with other things.
+Patient: Yeah, because I have so many other appointments scheduled now and my son and I are sharing my car because his car died and he has to get to work. Um, so between all these extra appointments and stuff like that, I figured I'd just wait until, you know, the beginning of February when all the surgery stuff is calmed down and I'm pretty much back up to hopefully up and walking just fine. Mhm.
+Nurse: Yeah, and then you can uh follow up with the system and all that stuff.
+Patient: Yeah, and then hopefully we'll have his car situated and stuff by then and Ok, let's go from there
+Nurse: One day at a time. Oh, yeah. How was your Christmas?
+Patient: Um, it was quiet, which was fine. Um, didn't get too chaotic and, you know, we just hung out and did our thing and
+Nurse: All right, great. I had a couple of things on your wellness goals that I wasn't sure about. Um, sometimes it's not in, in the right area in the chart. Uh, neurologist. Did you see a neurologist this year? I'm assuming we're getting ahead and everything,
+Patient: Um, has been sending out neurologist, uh, referral for probably the last couple of years and nobody has ever gotten back to me with an appointment. Um, and I played phone tag back and forth for like, a full year and then they were just like, yeah, now your referral from your doctor expired. So then had sent a different one out to a neurologist in [PHI-Geographic]. And they never returned any of my calls when I tried following up with them. Oh, my goodness. So,
+Nurse: Ok. And EKG, did they complete that in the hospital? That's where they put the stickers all over you and
+Patient: Check your heart. I know what it is. But I haven't, I don't think I've had an EKG in a while. I have to go over to, uh, up MC Monday or Tuesday and have labs EKG and a foot x-ray done. Ok. Prior to the surgery. Yeah. So I will have one because I have an appointment with next Friday.
+Nurse: All right. Um, eye exam.
+Patient: Um, but that was in October.
+Nurse: Gotcha. And the flu shot?
+Patient: Oh, I have not done that yet this year
+Nurse: You might as well. We come after the surgery. Don't put any more stress on your body right now. Ok. I
+Patient: Was gonna say either that or I can get it when I see stuff.
+Nurse: Yeah, you can, I mean, it's your choice. Sometimes it causes, um, acute inflammation which can exacerbate some underlying things. So, um, it's just
+Patient: A hold off, then I'll just wait until after it's only a couple weeks.
+Nurse: Yeah. Um, and I think that's everything on my list. Pain management specialist. Do you see? Um,
+Patient: I still, I went to schedule, um, my MRI between sometime between like Thanksgiving and Christmas. Um, because, uh, I was supposed to go have the panic attack needed to get the ride, the medication, stuff like that. And then when I went for another appointment, she was, you know, they wanted two more MRI S so I figured I'd wait, tie everything into one. I called, um, MRI couldn't get me in before my referral would have expired. So I had to get another referral and then that led us up to all the, um, the, you know, [PHI-Personal] holidays and then getting ready for these other appointments. So I do have a new MRI order on file. I just, I'm gonna now have to wait until after surgery to schedule that.
+Nurse: Ok, perfect. All right and I know you have all your pre surgical appointments ready to go. So you know we kind of went over that last time and I
+Patient: Have POSTOP I have all my POSTOP appointments scheduled as well. Beautiful.
+Nurse: All right, perfect. So if you need anything at all, [PHI-Personal] um just let me know otherwise I'll I'll probably check in on you at the end of the month uh just to see how things are doing. Alright. Alright, sounds good. Alright. Happy New Year, talk to you later. Thanks
+Patient: Same to you. Bye bye
+Nurse: Bye.

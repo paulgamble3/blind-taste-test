@@ -1,0 +1,22 @@
+Nurse: This morning. This is speaking, how may I help you?
+Patient: Yes, young lady. This is [PHI-Personal] calling you back. Oh, hi, how are you? I'm doing fine. How are you? I'm
+Nurse: Ok. Um, yeah, I was just giving you a call just to um do your monthly nursing call. I just wanted to check in and see how things were going with. You.
+Patient: See if you had any changes. I'm sorry, everything seems to be fine.
+Nurse: Ok. All right. Let me just pull up your chart so I can update everything really quick. Ok. Um, so you haven't had like any no falls or hospital visits or anything like that in the past month? No, I have not. Ok, good. All right. And then um any new medications? No. No. Ok. All righty. And then your current medications you're just taking everything as prescribed and no issues.
+Patient: Uh. Right. Yep, everything the same. Ok. All
+Nurse: Right, let's see. Ok, so you haven't had any recent appointments but you have one coming up in [PHI-Personal] it looks like with Doctor [PHI-Personal]. Ok. Alrighty. And then no issues with your um BP that you've noticed. No change. No. All right. And then you're still continuing just to make sure that you watch your salt intake and your fluid intake like we talked about before. Yeah. Yeah. Yeah. Ok. All righty. Um, now, did you need any refills on any of your medication right now?
+Patient: Mm. No, I think all my refills are all taken care of right now. Ok.
+Nurse: All right. And then you haven't had any issues with your, um, with your reflux lately? No. All righty. Now, do you take anything for? Oh, you take the, you take the pantoprazole for that every morning? Take what? The pantoprazole drop medication?
+Patient: All.
+Nurse: Yeah. Yeah. Ok.
+Patient: Morning. Yeah, that, that's first thing in the morning. First thing. Yeah.
+Nurse: Right. Exactly. Ok. I just wanna make sure you're still taking that because I know that helps with the reflux and then also just making sure to, you know, watch the foods that you're eating, um, eat smaller meals and don't eat late at night, you know, certain drinks. Um, do you drink you like to drink coffee?
+Patient: I drink coffee. A fair amount of coffee. Yes.
+Nurse: Ok. But it never bothers your reflux. You
+Patient: Never have any problem.
+Nurse: Ok. All right. Ok. Well, did you have any questions or have any concerns about anything right now? No,
+Patient: Everything seems to be fine. No problem.
+Nurse: That's always good to hear. Um, so I'll go ahead and I'll update it here that we spoke and then, um, doctor will see you in the office on [PHI-Personal] 13th at [PHI-Account]. Yeah,
+Patient: Probably that's our regular, uh, annual time or whatever. Yeah,
+Nurse: Is a four month follow up. So I'll call you when, um, I do your phone call next month, I'll just call after that appointment so we can just see if she made any changes or what her recommendations were. Ok. Ok. And then if you need anything before that, you can just feel free to give me a call. Ok. Ok. All right. Thanks for calling back. Thank you. Thank you. Bye
+Patient: Bye.

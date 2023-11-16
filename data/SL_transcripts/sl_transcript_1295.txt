@@ -1,0 +1,66 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is you had called earlier. Hi.
+Nurse: Yes, thanks for calling me back. Sure. So I see that enrollment called you recently. Um, I'm with chronic care management and I wanted to kind of call and introduce myself and she let me know that she might have a question about Medicare.
+Patient: Well, I don't really have a question about it per se. I just want to make them aware that, um, I've got to refilled for disability in order to continue Medicare. So, um, if I'm not, I don't really understand the process. I think it's gonna be do my application, but if that's incorrect, my Medicare is due to, um, terminate on [PHI-Personal]. So I just wanna make you aware of that. So I don't know if that would in fact affect my enrollment or do you know what I'm saying?
+Nurse: Yeah. So if that ends up happening on the, on [PHI-Personal], it would, so when that date comes around, um, I would just update us on the status of your Medicare.
+Patient: Ok. Um, yeah, if it does my husband, we will get private insurance, but I don't know what your program is focused around.
+Nurse: So yeah, so it, it really depends some private insurance um where we qualify with but others we don't. So if you were to change insurance, just make sure you let your primary care office know and then let us know and then we'll look into it and kind of see where you stand. Ok. Ok. Yeah, that
+Patient: Was, that was my only question. Oh,
+Nurse: Sure. So while I have you on the phone, can I explain a little bit about the program? It's very quick. Sure. Go ahead. Sure. So, chronic care management, we're nurses, we work outside of the office, but work directly with uh your primary care team. We help with medication refills if you need, you know, you have questions about signs, symptoms of something happening. We are able to do detailed assessments and send them right into your primary care office for more instructions. We have you right now on a call frequency of once a month. So, unless you wanted it less frequent than that, that's about how often you'd expect to hear from us. Unless obviously you had concerns. You're always welcome to call in. Um while I have you on the phone, I wanna pull up your chart. I like to make sure that our medication list is accurate. Is that ok if I run through that real quick with you?
+Patient: Uh Yeah, I'm, I'm writing right now so I wouldn't have any way of, you know, like checking the containers just to be absolutely certain. It's correct but you could do the rundown and bye bye. I the thing is I take so many, I'm not sure if I could tell you it was complete. Sure. So
+Nurse: Let's we'll just run through and if there's one you're not sure about then I'll just leave it as is. Ok. Ok, so we have Amitriptyline HCL. Mhm. You take that one. Yes, I'm sorry. Yes. OK. AmLODIPine 10 mg. Yes. Yes. Amoxicillin. This looks like from [PHI-Personal].
+Patient: Yeah. And it should discontinue in three days, I
+Nurse: Believe. Ok. Atorvastatin calcium. Yes. And then I see the Cipro. Is that from the same encounter? Another antibiotic?
+Patient: I'm not taking that currently. OK.
+Nurse: I'll take that one off uh fluide external solution. So this one's for scalp?
+Patient: Oh, sorry. Uh I'm not taking a topical and you said it was what the furosemide
+Nurse: External solution applies? Um No, it's like a liquid. It sounds like maybe like a squeezy bottle.
+Patient: Yeah. And I'm not doing that currently.
+Nurse: Ok. I'll take that one
+Patient: Off. I am on a new um pill and I don't know if you have that and I don't have the information on me. I just started taking it through doctor. I would think it would be in the records somewhere if you got that drip feel um I would think it should be there as well. So, but go ahead and
+Nurse: Well, let's see, maybe we'll run into it and if not, um, something that's kind of ordered by another physician that isn't like emergent, we just recommend you bring it to your next primary care office visit for them to add. Um, and my main goal is to make sure if there's any, like, big important medications that those are all covered. Ok. Sure. Ok. Um, next one's folic acid. Yes. And then this one's a more difficult name. Um, [PHI-Personal] sulfate.
+Patient: Oh, it's for calling
+Nurse: Symptoms.
+Patient: Hm, I don't think I take that.
+Nurse: No. Ok. I don't think so. Yeah, the orders from [PHI-Account]. So it could be old. Ok. Um, I, um, some of these names always get me uh IO [PHI-Personal].
+Patient: I gen. Yes, that's the mo yeah, I
+Nurse: Do take. Yes. Ok. Sorry about that name. Um levothyroxine sodium. Yes. Losartan. Yes. Methenamine. Hippurate. Yes. Metoprolol. Yes. They have ClearLax for as needed for constipation.
+Patient: Yeah. Yeah. Just said no.
+Nurse: Uh Myo Myo ate sodium.
+Patient: My, yes, my mycophenolate. Um, and you have, what's the dosage?
+Nurse: So there's two separate orders. Uh, 360 mg and 100 and 80 mg.
+Patient: Correct? Yeah, the [PHI-Account] 60 is twice a day. 1 80 is once a day.
+Nurse: Yeah, we have that. All right. Omeprazole. Yes. Pantoprazole sodium.
+Patient: Uh, say that again also.
+Nurse: Yeah. Uh predniSONE. This orders from [PHI-Personal]. So it's pretty old.
+Patient: Yeah. Five mg or no. Is it five. Yeah, that's it. Yeah.
+Nurse: Pyridium. Yeah. Still [PHI-Personal].
+Patient: Senna. Yes. I, is that related to Senna you mean,
+Nurse: Or? Oh, I was just asking. I thought you said yes. To predi,
+Patient: No, I don't recognize that one. Can you spell it?
+Nurse: Pyr Id? Ium.
+Patient: I don't think so. I don't believe I take that.
+Nurse: Ok. And then the center was a, yes. Yes. Ok. Spironolactone.
+Patient: I don't recognize that one either.
+Nurse: Let me that one. I'm gonna see if there's another name you might know it by. Ok. Ok. Some of it's sometimes called Aldactone. Um, this one I'm more worried about because it treats like fluid, build up. It helps you to
+Patient: Diuretic, isn't it? Yes, I do. Still take that.
+Nurse: Ok. Good. Ok. Um Taus. Yes. And then Tums as needed. Yes. And vitamin B.
+Patient: Yeah, NC and D I also take
+Nurse: NCND. Ok. Yeah, those, we will go ahead.
+Patient: I kind of wonder if you're not missing one for epilepsy for seizures. Ok. But it may have been one of the ones and I just don't recall the, the use for it. So, yeah, if you can make sure there's just one pill that I take for um, epilepsy. And then let's see, there should be one there for through or do you have the, yeah, prescribing physician part of the med list?
+Nurse: Um, it, it, under each medication there's a drop down where you can see the prescribing physician. Is there one you wanted me to check? I'm sorry, I missed that.
+Patient: Um, yeah, there's 22 different doctors. Ard is one and the other one is [PHI-Personal] R OS [PHI-Personal]. And that she's my, uh, ne neurologist.
+Nurse: Ok. I think I'm going to go look back in your last neurology note and see if they list those because I don't, I haven't come across any, uh, epilepsy related medications in your list yet.
+Patient: Mm. Ok.
+Nurse: Let's see. Looks like it's, is it right? It's been a little while since you've seen them or are they not through [PHI-Geographic] Clinic?
+Patient: They're not through the clinic I'm sorry.
+Nurse: Oh that's ok that's ok that's probably why I don't see him on here
+Patient: And I couldn't say it off hand uh
+Nurse: You know that's that's alright that's alright. What I'm gonna do is make a note for our next call that I'll ask you about those. Ok. All right. So the other thing to expect is in the next few days you'll receive some wellness calls in the mail. This is just any preventative medicine that's due for the year. Don't feel like you have to run and jump and do them all at the same time. It's just a list to help people stay on track for the year. Ok. Alright. Alright thank you [PHI-Personal] always feel free to call with new concerning symptoms. Ok.
+Patient: Ok. Do I call the number this number? Is that correct?
+Nurse: So let me sometimes the number that you guys receive on your side the way that the phones kind of funnel our calls, it can change the number but if you want to write down my direct line, I can give you the number.
+Patient: Um so the voice mail that you left, that was the number to call you back.
+Nurse: Yeah, that's perfect.
+Patient: Ok. Ok, I'll add it to my contact and your name is I'm sorry. [PHI-Personal]. Is that correct? Ok.
+Nurse: Alright, I'll do it. Alright. Thanks [PHI-Personal].
+Patient: Thank you. Bye bye bye.

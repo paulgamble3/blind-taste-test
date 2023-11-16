@@ -1,0 +1,22 @@
+Nurse: Hi, [PHI-Personal].
+Patient: Hi. I'm sorry, the phone shut
+Nurse: Off. Yeah, I'm not sure what happened. It just kind of died.
+Patient: Yeah. And then I couldn't get you until it came back to a certain page on the thing. The only way I can get you. Oh,
+Nurse: Ok. Well, I'm seeing you went to the cardiologist, correct? Yeah. The heart, the heart doctor. Yeah. Ok. Yeah. On [PHI-Geographic]. Ok. So it says here that your BP was slightly elevated. Yeah. Uh, 1 50/68 is what they took it. Ok. Did they check it more than once or just the once,
+Patient: Uh, they, two times each doctor checked it?
+Nurse: Ok. And it was elevated both times? Yeah. Ok. Um, they didn't really say, um, it said they encouraged you to, um, check your BP every day. Let me see. But they didn't, they didn't say that, um, did they tell you that it should be, it should be increased?
+Patient: Yeah. The one doctor did and the other, and the doctor said also I ought to get one of those monitors or whatever they are to check it at home.
+Nurse: Yeah. Ok. Um, let me see here. Ok, let me send, um, it looks like you see Doctor [PHI-Personal], you just saw [PHI-Personal], but you're going to see Doctor [PHI-Personal]. So I'll send it to [PHI-Personal] since you've already seen her and see what she has to say. And I will get back to you now. It might not be today, but I will definitely get back to you. Are you feeling ok?
+Patient: Yeah.
+Nurse: No, chest pain, shortness of breath, headaches. Anything like that?
+Patient: Once in a while I'll get a little headache. But I think it's from, from my stove here. I burn wood and coal and the smoke of it.
+Nurse: Ok. All right. So, I mean, it was just a little bit elevated but they might wanna make sure. Were you sitting for a while the second time they checked it?
+Patient: Uh I, yeah, I think I was
+Nurse: Ok. All right. Well, I'll send them a message and tell them what they told you. And, um, do you remember who told you that which doctor it was?
+Patient: No, I don't know. I don't remember their names. Ok.
+Nurse: Let me see. Does [PHI-Personal] Hancock sound familiar. That was one of them. And let me see that. I think there's another one on here. Um, yeah, they're both [PHI-Personal] Hancock.
+Patient: One's the one's older than the other one.
+Nurse: Ok. All right. I will send them a message and see what they say and I'll let you know as soon as I hear. Ok. Ok. All right. Don I'll talk to you soon. Ok,
+Patient: Thank you.
+Nurse: You're welcome.
+Patient: Bye bye bye.

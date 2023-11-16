@@ -1,0 +1,16 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Oh, yeah, I was, um, trying to see if [PHI-Personal] was in.
+Nurse: Ohh, sure. You're looking for [PHI-Personal]. Let me see here.
+Patient: So do you know if my, my mom, um, she's being, um, admitted to the hospital?
+Nurse: Oh, ok. So [PHI-Personal], you're calling for me to get you in touch with [PHI-Personal] about you at the same time. You're letting me know that [PHI-Personal], your mom is being admitted to the hospital. Yeah. Ok. So I have a voice mail that I was about to return to [PHI-Personal]. So, do you want me not to call her back since I'm on the phone with you? And you're letting me know she's being admitted? The medic.
+Patient: Yeah, the medicine that they gave her, um, put her to sleep.
+Nurse: Ok. So I will not call [PHI-Personal]. Let's let her rest. She's in good hands in the hospital. I'll let the doctor know she is being admitted and right now, let me see if [PHI-Personal] available for you.
+Patient: The um, they're doing like the stroke test.
+Nurse: Good. Not good that they have to do that. But I'm glad that they're giving her a very comprehensive work up.
+Patient: Yeah. Yeah.
+Nurse: All right. And let's see about [PHI-Personal]. [PHI-Personal] is not available. It looks like she is going to be available a little before three o'clock, but not right this minute. Can I send her the message that you called and you would like her to return your call as soon as possible?
+Patient: Yes, that's fine.
+Nurse: Thank you. Absolutely. [PHI-Personal] message going to [PHI-Personal] right now, please return [PHI-Personal] call as soon as possible and uh same cell phone number as usual. Yes, excellent. Alright, [PHI-Personal], I'll keep you and [PHI-Personal] in my thoughts and prayers message going to mani to return your call as soon as she's available.
+Patient: Ok. Thank
+Nurse: You. You're welcome. Thank you for updating me, [PHI-Personal]. You take care of yourself. Thank you. You're welcome. Goodbye.
+Patient: Bye.

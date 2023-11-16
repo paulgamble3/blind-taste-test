@@ -1,0 +1,19 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Personal]. Uh, somebody called my number about, uh, Omar [PHI-Personal].
+Nurse: Um, can I have, can I have your name?
+Patient: Well, my name is [PHI-Personal], but it's about my son.
+Nurse: Oh, I called you about yourself. I'm not sure who called you about your son? Uh,
+Patient: Ok. Is by myself? Who office is this?
+Nurse: So I called you on behalf of doctor to's office at [PHI-Geographic]?
+Patient: Oh, ok. Because I have an appointment in, in, in [PHI-Personal].
+Nurse: Yeah, I was calling to talk to you about the doctor's new care management program. Ok. Do you have a minute to chat with me now? Sure. Ok, perfect. So let me just tell you that this call is gonna be recorded for training purposes. And, uh, I was calling because the doctor is offering their, um, Medicare patients a new, uh, program that's called Care Management. So, [PHI-Personal], with that you would receive a phone call from one of our care management nurses that, that phone call would be at your convenience as frequently or as infrequently as you wish. And your nurse would generally just call, you check in, make sure that you're feeling good and continuing to feel good in between office visits. But she would al she would also be available to you if you were to need things like medication refills, test results or if you had any acute medical questions or concerns. So. Ok. Um So it is a billable service to Medicare, Medicare Advantage and secondary insurance plans and the calls are subject to copays, deductibles and coinsurance. Now, now when you go to the office, you don't normally have a copay. Correct?
+Patient: No, no, no.
+Nurse: Ok, then you should not be responsible to pay any out of pocket cost for a care management call. And ok, and doctor [PHI-Personal] will get documentation of those calls sent to her as part of your medical record. Alright. Alright. Can I get you set up for a morning or an afternoon call from your care management nurse?
+Patient: Um could be afternoon
+Nurse: Afternoon. Ok and and the phone number I'm speaking with you on now is that the best number for her to reach you at?
+Patient: Yes, ma'am. That's my my uh personal number. Yes.
+Nurse: Ok. And I do need to mail you some welcome information. Is your address still? [PHI-Geographic]. Yes. [PHI-Account]. Got it. Perfect. So I am going to mail you out some information and your nurse should reach out to you within the next two weeks or so. Ok.
+Patient: Ok and and and how about the appointment? Uh do I have to keep this appointment for [PHI-Personal] the 13th.
+Nurse: Yes, you will still keep that appointment. Ok. All right. All right. Alrighty. Alright. Well, thank you for calling me back and you should hear from your care management nurse within the next two weeks.
+Patient: Thank you very much.
+Nurse: You're welcome, very much. Have a great day. You too. Bye bye. Thanks. Bye bye.

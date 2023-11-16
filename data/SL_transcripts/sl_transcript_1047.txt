@@ -1,0 +1,79 @@
+Nurse: Rheumatology, nurse care manager. Mi speaking.
+Patient: Hi, Mi, it's [PHI-Personal] returning your call.
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: I'm doing well, thank you.
+Nurse: Good. How is your shoulder and everything? Oh,
+Patient: It's much better. I'm discharged from physical and occupational therapy, but I'm still doing therapy at home myself, but it's a big difference. Yeah.
+Nurse: Good. You're able to move it now without difficulty, or is it slow?
+Patient: Yeah. Yeah.
+Nurse: Ok. Mhm. Well, good. I'm glad to hear you're doing better. And, um, have you had to see any doctors or anything here lately? Did you have to see the orthopedic doctor again?
+Patient: Not until [PHI-Personal]? Oh, ok.
+Nurse: [PHI-Personal]. Have you seen, seen any others, your family doctor or anything?
+Patient: Um, I'm trying to think of what it, I don't think since I talked to you. Um, that is in [PHI-Personal] 2. 0, ok. My family doctor. Yeah.
+Nurse: And then you see doctor, well, you see [PHI-Personal], I think next month.
+Patient: Yeah. Yeah.
+Nurse: On the [PHI-Personal].
+Patient: Yeah.
+Nurse: So that's good. Well, how's your balance?
+Patient: Oh, it's much better. And also, yes, I am. Um, the physical therapy that the exercises they gave me. I'm continuing them also and I have a small park that I live near. Uh, and I was, at first I was hesitant to walk around the path of the park because it's uneven, but now I'm starting to get into it. So, feeling a little more
+Nurse: Confident.
+Patient: Yes. Yes.
+Nurse: Good. So, you try to do that. What, a couple of times a week?
+Patient: Yeah. Yeah.
+Nurse: Are you able to go, you go by yourself or you have somebody that goes with
+Patient: You? No, I go by myself but I only, I, I have to, uh, take my phone with me next time and, and, um, figure out how far it is. Um, I think it's probably the distance I go, might be about a mile or a little bit less than that. Ok.
+Nurse: Well, that's pretty good.
+Patient: Yeah, I think I'm doing really good, much better than before I fell, to be honest with you.
+Nurse: Yeah. But I think your fall, that wasn't, that wasn't really from your balance, right? I think you told me you, uh, ok, what were you trying to reach something?
+Patient: Yeah, I was up on the couch and I fell backwards but it was in the balance on the couch, you know?
+Nurse: Yeah. Yeah. Yeah. Well, I'm glad you, you're doing better for sure. And, um, yeah, can we go over your medications that way? It'll be accurate for when you see [PHI-Personal] next month?
+Patient: Oh, dear. Do you
+Nurse: Know if I call about you
+Patient: Or, um, can you hold on a minute. Yeah. Every time I, uh, I went for therapy, you know, they print out the after visit thing and it, it has your medications and so it,
+Nurse: Ok, well, take your
+Patient: Time. Ok. Albuterol. When needed. Um,
+Nurse: No, that one I don't, I don't have that one on there. No.
+Patient: Is that the, that I don't use that often? It's, it's when the asthma starts to kick up. I use that. Ok, Because I haven't used it in a while but it's on the list of medications.
+Nurse: Ok. So I'll add
+Patient: It 81 mg of aspirin uh Lipitor. OK.
+Nurse: Aspirin. 81. OK. And then Lipitor. Oh, we're, we're, we're, we're way off here. I don't have the first three you mentioned. Uh no, the Lipitor. What is the milligrams on that? Is that 40 mg or
+Patient: [PHI-Account]? It just says one tablet by mouth every morning. Oh, wait a minute. 40 mg. 40. OK. Yeah. All right. B 12 1000 MC G. OK. That, that one every other day. OK. Cine ce tirizine. Oh, it says wait a minute. Commonly known as [PHI-Personal]. OK. 10 10 mg.
+Nurse: You take the [PHI-Personal] or the uh Claritin. We had a Claritin written Z
+Patient: [PHI-Personal]
+Nurse: [PHI-Personal]. OK.
+Patient: Yeah. OK. What do we see? Uh what is this vitamin D two, one capsule every four weeks,
+Nurse: Every four weeks. You do? You do that one?
+Patient: OK. Oh, let's see. Folic acid. A milligram daily. But I don't think I take that the day before my methotrexate for some odd reason. Oh,
+Nurse: Really? Well, that one should be every day.
+Patient: Ok. All right, then I'll change that. Yeah. Ok. Um, [PHI-Geographic], what's it called? Avapro? Oh,
+Nurse: [PHI-Personal].
+Patient: Ok. It's 100 50 mg a day.
+Nurse: Ok. I do have that one.
+Patient: Leucovorin, five mg tablets. I take one tablet the evening of the methotrexate and one tablet the morning after the methotrexate. Ok. Um Synthroid every day.
+Nurse: And that's 100 micrograms. [PHI-Account]. Ok.
+Patient: Um, the Metformin 1000 mg, one in the morning and one at night. Ok. The methotrexate 2.5 mg. Uh, five tablets once a week. Ok. Um, and that's it. Wait a minute. What's LamISIL? Oh, that's for the toes, right?
+Nurse: Yeah, that's like a, an ointment. Maybe a fungal ointment. Yeah.
+Patient: Yeah, I take, no, it's not the ointment though. I take one tablet by mouth in the morning.
+Nurse: Oh, ok. LamISIL. And you take it every day.
+Patient: Yeah. You know that it's 250 mg, but I only take it until this prescription's gone. And then I, and yeah.
+Nurse: Ok. So you'll probably be off of that by the time you come in, right? Yeah, probably. Ok. I'll pro I'll just leave that one off then.
+Patient: Um, and then I have the Meloxicam, but I, um, I've been using the ibuprofen instead. But, uh, I do have the prescription from doctor in case I need it ok. Is that any different in the, I, is that any different than the ibuprofen? Should I be using the Meloxicam or the Ibuprofen?
+Nurse: Well, I mean, it's, it's a similar medication. The meloxicam is, is supposed to be a little bit stronger. Um, but if, you know it's up to you, if the meloxicam, I mean, if the, uh, ibuprofen works well for you then, you know, continue that. I
+Patient: Tried to wean myself off it. I only take it once in a while now. I was taking it regularly, you know. But, uh, I'm doing so much better that I don't need it that much.
+Nurse: Yeah. Well, that's great. Yeah, if just taking, uh, ibuprofen here and there keeps you good, then I would do that. Sometimes the meloxicam I hear, you know, when people take it it can, it can upset your stomach. So, that's, that's one thing about it, you
+Patient: Know? Yeah. Um, and that's it.
+Nurse: Ok. The only other one I have listed on here is the, uh, I think this is generic for maybe CeleXA, it's called Escitalopram 10 mg.
+Patient: And what do you think it's for?
+Nurse: I think it's like, uh, maybe an antidepressant medication.
+Patient: Oh, I'm off that. I've been off that for quite a while.
+Nurse: Yeah. Oh, ok. I'm gonna take that off then and they didn't replace it with
+Patient: Anything. No. No, I was doing well. I just started that when my husband passed away and then, um, every time I'd mention it to the doctor. She'd say, well, it's winter. You don't want to get off it during winter or it's, you know. Yeah. Or it's COVID. You don't want to get off it during COVID, but now I'm off it. Oh, good.
+Nurse: And you do? Well, how long you been off of it?
+Patient: Um, about a year? Oh, ok.
+Nurse: Well, good. Um, so I'll take that one off your list. And now the only thing else I was gonna mention that sometimes um when Doctor [PHI-Personal] will prescribe that leucovorin that will take the place of folic acid. So I'm just wondering if you're supposed to be on both or not.
+Patient: Well, that's a question for you. Yeah. Yeah,
+Nurse: Because um no, OK. Looks like [PHI-Personal] does have both of them. It is, she's got folic acid one mg every day as directed. And then she also has the leucovorin and that one you just take around the methotrexate. So I guess they want you to be on both. Sometimes they'll do either or, but it looks like she wants you to be on both. So, yeah, yeah, we'll leave it like that. All right, [PHI-Personal]. Well, do you have any questions or anything for me or?
+Patient: No, I don't.
+Nurse: Ok. Well, I appreciate you returning the call and I'm glad that you're doing better. Um If you have any, you're welcome. If you have any questions after you see [PHI-Personal], let me know. I can always help you with that. Ok.
+Patient: Ok.
+Nurse: Alright take care. You're welcome bye bye.

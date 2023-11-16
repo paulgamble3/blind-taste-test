@@ -1,0 +1,22 @@
+Nurse: Chronic care management.
+Patient: This is [PHI-Personal] Girls. [PHI-Personal]. [PHI-Personal]. Hey
+Nurse: I was I'm grateful that I was able to answer your phone this time. I'm so sorry for the back and forth. Really?
+Patient: I understand. No, I don't know what it sounds like. Sorry go ahead. Um yeah. Ok.
+Nurse: What's good?
+Patient: Yeah, usually mornings. Ok. Ok, excellent. I can I can never do the [PHI-Personal] uh of [PHI-Personal]
+Nurse: You can do this or you can
+Patient: Cannot
+Nurse: Cannot not the [PHI-Personal] or the [PHI-Personal],
+Patient: Right? The [PHI-Personal], the [PHI-Personal]
+Nurse: [PHI-Personal] through the [PHI-Personal] or [PHI-Personal]. Ok, through the [PHI-Personal]. Got you. Ok,
+Patient: But anything else works fine. Yeah, long long this is early
+Nurse: In the morning. Got you. Ok, I will call them and see what I can do for you. Ok.
+Patient: Ok. You now what is it? Do that one more time? The order number?
+Nurse: Oh no I don't need any of that. I'll just call I got your chart. That's
+Patient: Alright. Ok. Do you have,
+Nurse: Do you have my chart, [PHI-Personal]? Yes. Ok. So it um after I'm done scheduling the appointment I'll just send you um a Mychart message with the date and time. Ok. Is that ok? That way I don't have to call you
+Patient: I yeah it's been five hours I know it's ridiculous
+Nurse: I know that's that's kind of crazy I can see what I can do.
+Patient: Alright, thank you. You're welcome. Have
+Nurse: A good yeah no problem have a the rest of your day.
+Patient: You too. Bye bye. Yeah bye bye.

@@ -1,0 +1,46 @@
+Nurse: This is [PHI-Personal].
+Patient: Uh yes somebody called me from this my name is [PHI-Personal].
+Nurse: Yeah give me just a [PHI-Personal] um yes it seems like uh MS [PHI-Personal] gave you a call she just was calling checking in on your BP see how you was doing. Are you doing? Ok your heart rate was pretty low a few days ago.
+Patient: Oh ok it goes up and down it
+Nurse: Today it was [PHI-Personal] and that was [PHI-Personal] it was [PHI-Personal].
+Patient: Hm I'll take it right now. Ok. Ok. Alright thank you ma'am
+Nurse: Um you gonna check it doing a call or are you gonna check it after the call
+Patient: Or? Uh no I'm gonna check it right now.
+Nurse: Ok I don't mind holding you can go ahead and check it while I'm on the phone.
+Patient: Ok. Ok. Ok [PHI-Personal]. Wow sorry. Yeah yeah
+Nurse: Is it? Ok now
+Patient: Uh yeah I'm speaking.
+Nurse: Ok.
+Patient: [PHI-Account].
+Nurse: Ok so that is better that's why she was calling just to make sure you was ok. Have you experienced any chest pain? Any dizziness
+Patient: Or uh no shortness of breath? No no
+Nurse: So no symptoms at all. But if you do experience those symptoms, um, make sure you let notify your cardiologist and possibly go to the, er, because [PHI-Personal] is too low for your heart rate.
+Patient: [PHI-Personal] was on. Maybe I took, uh,
+Nurse: So you've been having chest pain?
+Patient: No, no. Uh, everything is fine.
+Nurse: So that they may have put, taking some nitro. Yeah, I don't
+Patient: Know why I took it. Yeah.
+Nurse: All right, everything fine now. but you're feeling ok right now I do see you did have um, appointment with doctor next week and it was canceled. Did you wanna go ahead and reschedule or
+Patient: What, what, what day is that?
+Nurse: It, it was on [PHI-Personal], but it was canceled.
+Patient: Ok. So now, so
+Nurse: Let's see, I can go in and see if I can schedule for a different day. Let's see. So his next opening is actually [PHI-Personal] is he have an opening on [PHI-Personal] which is for seven o'clock AM and then he has openings in [PHI-Personal]
+Patient: To too early for me, seven o'clock, you
+Nurse: Know. Ok. What time would you like?
+Patient: Uh anything? [PHI-Account],
+Nurse: Ok. So [PHI-Personal] 15th, there's a 9 15. Ok, that
+Patient: I'll take that one
+Nurse: That we can do that one. Do you wanna go ahead and schedule your annual wellness visit for the same day? Yes, ma'am. Ok, let's see that way. Mhm. You can get both of those things done. Yes. One
+Patient: [PHI-Personal]. Yeah, thanks. Yeah, we can do
+Nurse: Uh, 9 15 and then the wellness would be at 10. It won't take long. But this, that's how it lined up. Ok. So I have you scheduled to see Doctor
+Patient: [PHI-Personal] 15? Ok.
+Nurse: And
+Patient: I have one more appointment with doctor in [PHI-Personal]. I have to see what date is it. Can you see
+Nurse: The name,
+Patient: Uh, ophthalmologist?
+Nurse: Give me just one [PHI-Personal]. Oh, yeah, it's gonna be [PHI-Personal] 22nd. So, it's fine, huh? [PHI-Personal] 22nd at [PHI-Account].
+Patient: Ok. So that,
+Nurse: So it's a different day? You're fine. Ok. Very good. All righty. Do you need any refill on medication?
+Patient: Uh, not right
+Nurse: Now? All right. Well, I do hope you enjoy the rest of your day.
+Patient: Thank you, ma'am. Right. Bye bye bye bye.

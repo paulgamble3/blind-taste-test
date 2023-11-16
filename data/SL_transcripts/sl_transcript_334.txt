@@ -1,0 +1,24 @@
+Nurse: [PHI-Personal].
+Patient: Yes. Hi, [PHI-Personal]. Uh, this is [PHI-Personal]. I was returning your call.
+Nurse: Yes. Hey, [PHI-Personal], how are you doing today?
+Patient: Ok. Not bad. Not
+Nurse: Bad. Ok. So how, what happened with the telehealth visit?
+Patient: Oh, it was a re, it was ridiculous. These people are called twice on different numbers and so forth and I just, at the time that they called, I, I apologize. I was not in a good mood. I just said just cancel it because they can't do anything anyway, uh, at this point. So, uh, see
+Nurse: If I can get you, like a physical appointment with the office.
+Patient: No, I'm going to see a gastrologist. I arranged the appointment myself on the [PHI-Personal] over in Ru [PHI-Geographic]. Uh, there's a gastro enterologist, uh, institute and I'm going there and I'm going to have, uh, an examination there and I think I'm in the right direction.
+Nurse: Yeah, it sounds like you may need a specialist at this point. Right.
+Patient: Exactly. Yeah. I fooled around too much and nobody seems to know what's doing and so forth and right. And so I'm gonna go get, uh, you know, an opinion there and we'll take it from there. But I, I definitely, I do have a bacterial infection which is not good and it's, it's making me really not feel very well because I went to the walk in clinic uh down there on Thursday because I thought I had an upper respiratory infection and I had like some green, uh you know, uh to my nose and so forth. She said it was bacterial. So she has me on this Doxycycline uh, for, for seven days, which is kind of, it's upsetting my stomach, a little bit of digestive system and whatever. Uh, but I'm gonna take it and finish it and that could be part of the problem. Sure.
+Nurse: Do you take probiotics
+Patient: At all? Yes, I do. Every day I take a probiotic.
+Nurse: Well, that should help with the offset some of the antibiotics.
+Patient: But, right, it's an antibiotic, right. But it, it's a little bit, it's a little strong, it was not that strong. 100 milli, 100 mg for seven days. So, uh, I'll, I'll finish that up and then we'll go from there. Uh, and we'll see what happens. But I think there's something more going on with the diverticulosis. Um, and as I said this morning, I had a bowel movement but I felt, I felt so sick after it. I felt so so nauseous. So, I think there's something in my lower intestines that's causing the problem.
+Nurse: Ok. Ok. Well, it sounds like you're on the right track. With following up and then just take, to be sure you do finish out your antibiotics though because you don't want. Oh,
+Patient: Absolutely. Yes. I'm finishing them up. Yeah. Once a day. Right. And, and whatever. Go ahead. When's your
+Nurse: G I appointment?
+Patient: It's [PHI-Personal].
+Nurse: No, [PHI-Personal]. Ok. I'll make a note of that. I'll call you back after that. But
+Patient: Is it right? We'll see what happens. Yes. Right. Uh, but I've had, you know, I, I don't, I know I have diverticulosis. I've been diagnosed with that several years back. I pretty much stayed with the diet and my fiber and all that stuff. But, uh, it may have gone into something else that I think it's a little bit more intense than what I'm used to. So, uh, we'll, we'll take it from there.
+Nurse: All right. Well, thank you so much for calling me back and then I'll follow up with you after the [PHI-Personal] and see how things went.
+Patient: Ok. Very good. Thank you [PHI-Personal]. I appreciate it.
+Nurse: No problem. Thank you. Feeling better.
+Patient: Thank you very much. Bye bye bye bye.

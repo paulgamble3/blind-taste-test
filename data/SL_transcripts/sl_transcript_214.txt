@@ -1,0 +1,12 @@
+Nurse: Hey, [PHI-Personal], what's up?
+Patient: Hey, um, they, they do start running at, uh, it, it's gonna be [PHI-Account] at the [PHI-Geographic] at the [PHI-Geographic] [PHI-Personal]. And, uh, but the, the, the same day [PHI-Personal], can, you can't, you get one, um laser?
+Nurse: That's, so that's what [PHI-Personal] gave me. I can't directly make the appointment. Oh, so you have to physically call the office, honey. I'm not actually in the office and [PHI-Personal] said if that didn't work you needed to call the office.
+Patient: Ok.
+Nurse: Do you need that number? Yeah. [PHI-Account]
+Patient: A [PHI-Account]. Ok. Uh, hold on [PHI-Account]. You got it.
+Nurse: I wanna give you my fax number. [PHI-Account].
+Patient: Shit [PHI-Account]. Cool. Ok.
+Nurse: All right, sweetheart. So if you need a labor, I don't know if they'll be able to but you can call and see.
+Patient: Ok.
+Nurse: All right, honey, have a good day.
+Patient: You too. Thanks. Bye bye bye.

@@ -1,0 +1,13 @@
+Nurse: Family Practice Care Management team. This is [PHI-Personal].
+Patient: Hi [PHI-Personal]. Uh this is [PHI-Personal]. I have a question,
+Nurse: Ma'am. Hello? Yes, ma'am.
+Patient: Uh The question is when we use this to call the nurse, is they charge?
+Nurse: Um, hold on just a second. Let me pull your chart up. No, ma'am.
+Patient: No, you bill my [PHI-Personal] or what?
+Nurse: So um you're just doing the inbound. So you just calling in into the nurse? Yes. Yes, ma'am. They'll probably just my insurance. Yes, ma'am.
+Patient: Ok. That was my question. I knew it wouldn't be. Yes. Yes
+Nurse: For you. Is everything all right.
+Patient: Yes, I'm not calling in but I had that question and wondered if they charge your insurance probably after every call in, right?
+Nurse: Not after every call. No, ma'am. Um hold on, let me get my specifics out. Hold on just a second. Ok. Sure. I just don't wanna tell you anything wrong because I'm still kind of new. So I'm just double checking with my supervisor. Ok, MS [PHI-Personal]. I, ok. He's away from his desk right now. M and I don't wanna tell you anything wrong. My coworker said she thinks so, but like I said, I'm still kind of new at this. So let me just confirm with him and then I'll be happy to give you a call back just to make sure.
+Patient: Ok, I am leaving to go to dentist, so I won't be home until this afternoon.
+Nurse: Ok. I'll give you a call back. I'll just leave a message on your machine. Thank you. You're welcome. Bye bye.

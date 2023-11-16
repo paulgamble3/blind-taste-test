@@ -1,0 +1,14 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: Good. I didn't answer the phone. I thought you were trying to sell me insurance or something. I get so many calls for [PHI-Personal] and it just like, oh my God, I just quit answering my phone. I know
+Nurse: I get that all the time. I get it all the time. Um, but let me just tell you real quick that this call is gonna be recorded for training purposes. And, uh, ok, and I am calling because Doctor [PHI-Personal] and the physicians at [PHI-Geographic] have a new program that they're offering their patients and you qualify for this program with your United Healthcare [PHI-Personal] Advantage insurance. And that is what you have. Correct. Right. Ok. So that, that program is called Care Management. And [PHI-Personal] with that you would get a phone call from one of our care management nurses. That phone call would be at your convenience as frequently or as infrequently as you wish your nurse would call, you check in, make sure that you're feeling good and continuing to feel good in between office visits with Doctor [PHI-Personal]. But she would also be available to you if you needed things like medication refills, test results if you needed help with scheduling an appointment or if you had any acute medical questions or concerns. So it is a billable service to [PHI-Personal], [PHI-Personal] Advantage and secondary insurance plans and the calls are subject to deductibles, copays and coinsurance. And there is a chance that you would have your $5 copay for a care management call and your nurse would document those calls and send them directly to doctor [PHI-Personal] as part of your medical record. Ok. Can I set you up for a morning or an afternoon phone call from your care management nurse?
+Patient: Uh morning would be better.
+Nurse: Ok. And the phone number I'm speaking with you on now, is that the best number for her to reach you at?
+Patient: Yeah, is my only number.
+Nurse: Ok. And I do need to mail you some welcome information. I have that. Your address is [PHI-Geographic] in [PHI-Geographic]. Is that correct? Right? Ok, perfect. So I will get it set up. Your nurse should reach out to you within the next two weeks or so. And if you don't answer, she'll just leave a message like I did with her contact information for you to return her call. Ok.
+Patient: Ok, no problem.
+Nurse: Alright, [PHI-Personal]. Well, thanks for calling me back. I do appreciate your time and I hope that you have a great day.
+Patient: Ok. Thank you. Very much. You're
+Nurse: Welcome. Bye now. Bye
+Patient: Bye.

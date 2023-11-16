@@ -1,0 +1,107 @@
+Nurse: This is speaking. May I help you? Hi,
+Patient: This is [PHI-Personal]. How are you? Oh, I'm, it's terrible. I have had sciatica. I've had sciatica pain for the past at least three weeks. It's driving me insane. And I don't know what to do. I've called chiropractors and they cost so much.
+Nurse: Yeah, because a lot of them don't take insurance now.
+Patient: No, I've tried.
+Nurse: Ok, let's see what we can do. I've never been. So, your sciatica has been acting up for how long? Oh,
+Patient: It's been going on about three weeks this time. And this is the worst it's ever been. Ok.
+Nurse: It, the lower
+Patient: Back. No, it's the, uh, right side down my right leg. Mostly my butt cheek. I said, but, yeah, I
+Nurse: Think lower back, butt cheek. And how far down your leg does it go?
+Patient: It goes all the way down. I can feel it all the way down to my ankle. Well, close to my ankle.
+Nurse: So, like the base of your calf. Mhm. Ok. Anything make it worse.
+Patient: Certain of the day when I get up in the morning, it's not too bad. It, it's ok. But then I have my great grandsons that I watch two and four and by the end of the day I'm in so much pain I can, I wanna cry.
+Nurse: Ok. So, like walking and moving around makes it worse.
+Patient: Anything. Anything I do. Yes. Sitting makes it worse.
+Nurse: Ok. So, sitting or any kind of movement. Yes. Sitting.
+Patient: Just if I sit on something hard, if I'm using a pillow, it's not as bad.
+Nurse: It's funny because a lot of people don't realize it, but a lot of back problems are actually worse when sitting. I, I sit on a pillow, it's not as bad. Yeah. A lot of people don't realize it, but a lot of low back problems are actually more painful and worse when you're sitting because it's connected to your hips and the joints. So it puts extra pressure right there. That's why the pillow helps.
+Patient: Yeah. Now, I still have that sensation that comes over my lower back and then my legs give out my, they go numb.
+Nurse: They give up the,
+Patient: It's like a, like a vibration or an overheating type of thing. Um, they just feel real, real hot and they just feel like they just aren't there but that happen
+Nurse: Real hot across the lower back or just the right side,
+Patient: Just down the leg. Well, it's, the lower back is where it
+Nurse: Starts. Ok. So that's how it feels the whole length
+Patient: Of it. Yeah. And then it just rolls down my legs and then my leg gives out.
+Nurse: And do you have any numbness or tingling or anything
+Patient: All the time
+Nurse: And all those areas? Right.
+Patient: Yes. Um, now the numbness is mostly in my right leg. The left leg doesn't really get numb, the left leg or foot or anything, but it does get that sensation when my back acts up and it's the
+Nurse: Right and left leg, the sensation
+Patient: For the sensation. Yeah. But
+Nurse: The numbness and tingling is the right leg only. Mhm. And now the pain is always there. It's just that certain things make it worse. Right.
+Patient: Oh, absolutely. Yes, I wake up with this. It's just real.
+Nurse: When you first wake up on a scale of 1 to [PHI-Account], what would you put the pain at a two? Ok. Now, say about lunch time. What is it at by
+Patient: Then? Right now I'm giving it about seven.
+Nurse: Ok. And by the end of the day, by
+Patient: Five o'clock it's a [PHI-Account] if it, and you don't go higher. So
+Nurse: We'll put [PHI-Account] plus.
+Patient: Yeah. Yeah. [PHI-Account] plus is a good idea. [PHI-Account] plus.
+Nurse: And there's no, like, swelling or redness or discoloration. Hm.
+Patient: No,
+Nurse: You haven't had any problems with like loss of control of your bowel or bladder,
+Patient: Right. No. Huh. Uh, no.
+Nurse: Ok. Do you know if you moved wrong or twisted wrong or lifted something wrong or did you injure it?
+Patient: Not to my knowledge? No. No, I have fallen a couple of times because the legs give out. But I didn't have no problem after falling. Um, this just happened, I went, got on the city bus, went to, um, Walmart Shop, came home and the next day I woke up like this.
+Nurse: Ok. So you've fallen, fallen a couple times. Mhm. Both legs give out or one or the other?
+Patient: To me it feels like both legs. Yeah.
+Nurse: Ok. Do they just feel weak? And then they go,
+Patient: Yeah, exactly. They get real weak.
+Nurse: All right, the legs get real weak and then they give out.
+Patient: Mm. And if I'm just standing there doing dishes, um, like, stand at the sink, washing dishes or standing at the table just standing, you know, and my right foot goes numb and then of course I have the whole thing down the right leg. It's just that it's been acting up so much this past three weeks
+Nurse: Feeling ok. So, when you're walking, does the right foot go numb to you? Because that's the only time it extends into the foot. Right. Standing and walking.
+Patient: Yeah. Um, yes, it does. Um,
+Nurse: Ok, I see that might affect your falling too. That's why I was wondering now, is it numb? Like you feel pins and needles or numb? Like you can't really feel it. Um, do you know what I mean? Like, you're not sure where your foot is in relation to your body because you can't feel the foot or is it more like
+Patient: Now when I get that, like the
+Nurse: Sleeping sensation when it's pins and needles.
+Patient: Ok. Well, this, the, when I get that sensation and when I, my legs wanna give out that's pins and needles and vibrating and, you know, like that.
+Nurse: Ok. That's the pins and needles vibrations.
+Patient: Yeah. And then, um, just, uh, my leg itself right now it is aching all the way down. I can feel it all the way down, the back part, all the way down.
+Nurse: The vibrations and the overheating and it aches.
+Patient: That's the,
+Nurse: Yeah. And now your left, your right foot when it goes numb though. Can you feel the foot or is it like you can't tell the foot's there? Do you know what I mean? Or is that the pins and needles?
+Patient: No, I can't really, the, I can, I know the foot's there because it's numb. You know, every, I can feel everything else but my foot. So, no, I don't know the foot's there because it just
+Nurse: Goes. So you can't really feel the foot when it's numb.
+Patient: No. And that's the right one.
+Nurse: Ok. Now, like right now where you have that numbness, can you, would your heel flat on the floor? Lift up your toes on that foot? Yes. Ok. Sometimes sciatica causes what's called drop foot and it affects the strength in that foot.
+Patient: Yeah. No, I can lift the toes
+Nurse: Up. Some can't. But if somebody were to give resistance with you lifting their toes, your toes up. That's when they might notice a difference. Do you know what I mean? But,
+Patient: Yeah, I know my daughter has it.
+Nurse: But, yes, sciatica can cause it. And even during pregnancy, if the pregnancy causes sciatica, it can ca affect the strength in the leg. So that's why I was
+Patient: Guarantee I'm not pregnant.
+Nurse: No, no, no, no. It's just, you know, the position in the sciatica. Yeah. So that's why I was trying to see if you can at least raise your toes. So you still have control over
+Patient: It. It, yeah, my toes raise
+Nurse: Fine. You may not have the best strength. Like, if somebody tried to push down as you're pushing up, um, what has worked on this in the past.
+Patient: Well, it's just time. Yeah, just time. It's never been
+Nurse: This bad before. You've never been on, like, steroids or anything or no.
+Patient: Physical therapy.
+Nurse: Ok. And did physical therapy help?
+Patient: Not really. No. Ok.
+Nurse: Now, so you have a starting point. No, you're fine. Mhm. Ok. And heat ice, anything like that.
+Patient: Um, my heating pad, I can't find, I have used ice. It does seem to help a little bit once in a while. But,
+Nurse: But it doesn't last very long, does it? No. Ok. Uh, Motrin Tylenol, anything like that. Have you tried any of those? Yeah,
+Patient: I've tried a lot of that stuff but there's so much I can't take.
+Nurse: So none of the over the counter you can take it helped though. Right.
+Patient: Uh, slightly. Not much, not much at all. Um, a woman. I know that the nurse messaged me this morning told me about something called Lyrica. I don't know how that works.
+Nurse: That's a controlled substance.
+Patient: Oh, I don't want nothing like that. I get, have to get weaned off. It's
+Nurse: For nerve pain. Just like gabapentin is, um, Lyrica
+Patient: Is more. I got weaned off of. I, I remember the gabapentin. I'm still on that, I believe. Yeah, I'm still on gabapentin.
+Nurse: I'm pulling up your med list because I just peaked and I didn't see it, but that doesn't mean, oh, we didn't have that on your med list. You're still on the gabapentin.
+Patient: I don't know. Let me look. Maybe that was the one I was weaned off of.
+Nurse: That's when they weaned you off of, they tapered you off that one. You can't stop suddenly. Well, they at least had weaned you down. The last one I'm showing was 300 mg, 1 to 2 caps twice a day. Tapering. That was in place of the 600. Hold on. I'm tapering.
+Patient: Ok. Yeah. And then that can't stop
+Nurse: Gabapentin suddenly.
+Patient: Yeah. And they also weaned me off of amitriptyline. I was addicted to them.
+Nurse: Ok. Um Yeah. So the Lyrica is a controlled substance. So the potential that you become addicted. Ok. I didn't really figure you did but I wanted to make you aware prior to that. Um, it could just be that something is inflamed or something. So, let me find out, um, what [PHI-Personal] is recommending at this point in time. Um, and have you tried like icy Hot or anything like that? The, the ones that were on?
+Patient: Uh, no, not really.
+Nurse: I'm not sure they'll make a difference. I'm just trying to let her know what you already tried. Do you know what I mean? I
+Patient: Didn't think it was muscle related, so I didn't think that it's like it's
+Nurse: Usually nerve related. There's a nerve that's either out of a line back there or kind of getting pinched and that's what's causing it. So it also affects the strength and mobility of the leg, but you're not like limping when you walk.
+Patient: Oh, yeah, I can hardly walk at all.
+Nurse: Ok. So you are limping and it's the right leg. Mhm. Ok. And it's very difficult to walk.
+Patient: Yeah, you're not, not early in the day. I'm sorry.
+Nurse: You can pick the foot up easily to walk though.
+Patient: Not always. No, the worse it gets, I can't. No. Ok. So later in the morning gets worse is bad talking.
+Nurse: Ok. So it gets worse as the day gets on, goes on. Yeah. Ok. Let me go over everything, um, with [PHI-Personal] and then as soon as I have an answer from her, I will give you a call back.
+Patient: Ok, thanks.
+Nurse: Ok. Anything else that you can note that we might need

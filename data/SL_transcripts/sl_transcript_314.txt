@@ -1,0 +1,22 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is, um, you called me the other day? Uh, about the management program?
+Nurse: Hi, how are you? Good. Give me one second to pull up your chart. Ok.
+Patient: Ok. Sure.
+Nurse: All right. And you are a patient with [PHI-Personal] Po at [PHI-Geographic], is that correct? Right? All right. So looks like your nurse, [PHI-Personal] was trying to call you for your first call.
+Patient: Oh,
+Nurse: So are you available to talk today
+Patient: Or? Yes, I'm off from work.
+Nurse: Ok. So is what I'll do is I'll send her a message and let her know, um, or if you wanted to call her back directly, I can give you her number.
+Patient: Ok. Uh, that's probably better because if I have something to do then, you know, I might not be home at the time. Yeah. Yeah. Let me get, uh, ok. All
+Nurse: Right. Let me pull
+Patient: This up. Can you give me
+Nurse: [PHI-Personal]? T er, I,
+Patient: Ok.
+Nurse: And her number is [PHI-Account], right?
+Patient: [PHI-Account] [PHI-Account]
+Nurse: [PHI-Account]
+Patient: [PHI-Account]. Ok.
+Nurse: All right. Yeah, go ahead and give her a call and, um, if she doesn't answer, just leave her a voice mail and she'll get back to you. Ok.
+Patient: Ok, thanks.
+Nurse: You're welcome and enjoy your day off.
+Patient: Ok, thanks. Bye bye.

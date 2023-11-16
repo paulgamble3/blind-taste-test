@@ -1,0 +1,168 @@
+Nurse: Hello, this is [PHI-Personal] Nurse care manager.
+Patient: [PHI-Personal]. Hi, [PHI-Personal] there returning your call from this morning. Doctor patient. Hi, how you doing [PHI-Personal]? How
+Nurse: Are you? Let me just, um, pull up your chart here.
+Patient: Ok. V as in Victor, A re 7 29 52. And I actually have um, something I need you to help me take care of. Ok.
+Nurse: All right. Let me, um, let me just, and I was calling you for the intro call for the chronic care management
+Patient: [PHI-Personal] but I spoke to one of your partners, uh, one day last week
+Nurse: On the t, yeah, I believe on the [PHI-Personal]. Correct.
+Patient: Uh, I'm not sure which day it was but it was last week. One day.
+Nurse: Yeah. Was that something that you wanted or consented
+Patient: To or? No, I don't, I, I don't understand what you mean, isn't she? She's, she's part of the same group that you are.
+Nurse: She is. But all she does, all she handles is the enrollment. She doesn't do like the actual, like, um, like, uh, stuff so that she just calls to, like, introduce the [PHI-Personal] and see if the patient is interested. But she's not, you know, so, um,
+Patient: I was interested as long as my [PHI-Personal] and, um, supplement B pay for it. Yeah, it
+Nurse: Should cover, it, should cover it. Um, uh, it's, it's just, uh, you know, like in the beginning of the year there's a deductible and stuff. Um.
+Patient: Right. Right. Right. So, you have, like, I have to meet a certain deductible before things are covered and it doesn't matter which doctor it is or, you know, you have to, you have to satisfy this particular amount. Yeah, I'm fine with that.
+Nurse: Yeah, it should be covered and everything. Um, let me just quickly, um, verify some information, go through, um, what the [PHI-Personal] offers and then I'll help you out with whatever it is. We usually verify your medications and then you tell me what it is that you need help with and I see if I can help you with that. All right. Um, you, you did tell me your date of birth was [PHI-Personal]. Mhm. I have your pharmacy on, oh, I have a couple pharmacies here. So I, do you use the [PHI-Personal] Rx Home Delivery
+Patient: Pharmacy? Yes, I do for anything that's ongoing.
+Nurse: Ok. And then if anything, like if the antibiotic was ordered or anything, do you use the CV S Pharmacy on [PHI-Geographic]
+Patient: In Huntington [PHI-Geographic]? Yes, on [PHI-Geographic]. Ok.
+Nurse: And then the other ones here that I have, you don't, I just wanna make sure, because there's a, there's numerous ones. There's, uh, another CV S Caremark mail service. Are you?
+Patient: No, no, I think what happened was, I didn't, I retired, not that long ago. And when I, when I signed up for [PHI-Personal] and my supplemental, it just so happened that the supplemental I signed up for is [PHI-Personal]. And [PHI-Personal] was what I had when I was still employed.
+Nurse: Ok. All right. So, I'm gonna take that out. Do you use the Giant pharmacy for anything?
+Patient: Yes. So I use that for um, the uh um what do you call the generic NexIUM? Ok. And then pre predniSONE, whatever that's called.
+Nurse: Yeah, I, I, yeah, I know what you're talking about. I just, I can't pronounce the names either, so I'm there with you. Um And then there's also a outpatient pharmacy. It's the Temple. Temple outpatient Pharmacy. Have
+Patient: You? Yeah, but that was a temple [PHI-Geographic] on [PHI-Geographic] and I don't foresee myself going there any time soon. Ok. All
+Nurse: Right. I'm just, I'm just fixing this because it had like
+Patient: [PHI-Personal]. Thank you there.
+Nurse: Um And then, you know, if the doctor ordered refills or any or new scripts, it would go to, you know, the first pharmacy there. So we just
+Patient: Wanna the Caremark. If it was an ongoing prescription, if it was just like a 30 day prescription, it would be, I would go in person to CV S on [PHI-Geographic].
+Nurse: Ok. All right. Just making sure. And then I have your mailing address as 903 Westley Ave Huntington [PHI-Geographic]. Is this correct?
+Patient: Yes. Mhm. [PHI-Account].
+Nurse: Yes, I have that. Ok. All right. So the [PHI-Personal] is basically just a nurse that call, we call once a month if once a month is too much. Um, we could change it to every two, every three months and there's al what, whatever it is that you prefer, um, whatever you feel like is what you need. Um, and also we have inbound option where it would be just you calling us when you need something. So it's just, you don't want people calling you once a month and you just wanna have a resource, um, still available to you. Um, you can do that as well. Ok. And we just always, we help with, uh, medications, appointments, education, um, um, you know, encourage preventative screenings, um, wellness goals. Um, and you know, just any kind of questions or concerns that you might have or anything that's acute that's going on that you just don't know who, who the, um, you know, you need some kind of medical direction. You could just give us a call. Um, basically what we do. Um, is that is the once a month all ok for you or you would, you would like it to be, um, change to every two, every three months.
+Patient: No, I like the once a month because I can always say everything's fine and then that'd be the end of it.
+Nurse: Ok. All right. And
+Patient: Then you know what I'm saying? So, but if it is once a month, if something were to come up in between the one month and the next month, you, am I allowed to call?
+Nurse: Yes, you can. Yeah.
+Patient: Ok. And, and mhm. Am I assigned to a particular person or is it whoever is on call at the time
+Nurse: You'll be assigned to me? So I, I'll be the one calling you every month. If I, for some reason I'm not available or I'm on like vacation or, um, you know, I'm just not, not working for some reason. I'm not sure. I don't see that happening any time soon. But if that does happen, um, there's always, you would, you would get, um, you, there would be somebody covering for me. So
+Patient: You would,
+Nurse: Yeah, you would get a different nurse. A different
+Patient: Sounds good.
+Nurse: Ok. So I'm just gonna review really quickly the medications that I have on file for you here on, uh, here you just tell me yes or no, if this is correct or if it's not, I have Avastatin 20 mg once a day. Yes. Ok. I have a topical cream called Be bea,
+Patient: A topical cream.
+Nurse: Betamethasone. Yeah, betamethasone. Say ate zero point. It's 0.05% topical cream. It says it's for your scalp twice.
+Patient: Yes. And you know, I've been using that um, for the directions and nothing seems to really be happening in the long run, like it might soothe it at the time. But then, because part of the pre like in the prescription directions, it says to stop it after two weeks and then only apply it on a weekend. So during those two weeks when I stop it, it's as though I never used anything. It's not
+Nurse: Really.
+Patient: No. No. So I don't think I will be continuing to get that, but possibly I'll see the doctor again. Now. That's, that was the medication based on me meeting a dermatologist at Temple [PHI-Geographic] in [PHI-Geographic]. Ok. So that would be, that would be the prescription that I got at [PHI-Geographic]. Ok. So, so that's like I would say it's either never again or it's in limbo.
+Nurse: Ok. I'll just leave it on there for now. I have a calcium carbonate. 500 mg once a day.
+Patient: Calcium carbonate. Is there a medical name for that?
+Nurse: Um, that's just like the regular, like, oh, well,
+Patient: Vitamin. Yes. Yes, that's ok. Yeah, that's a vitamin I take calcium. I thought you were still going to be giving me all the prescriptions. I'm sorry. No. No, I
+Nurse: Just go [PHI-Geographic] the list. So. Ok. There's also another one that has vitamin D, it's a calcium with vitamin D. Is that the one that you're taking or are you taking two separate ones?
+Patient: Two separate
+Nurse: Ones? Ok. So let me mark that and like that. All right. This is another, uh, it's another, it's another cream for your scalp. It has a
+Patient: Different, yeah, neither of them. Yeah, neither. They're both of equal disappointment.
+Nurse: They're both not working. Ok. And, and then there's an ointment as well for your, um, yeah, it's the same thing. Ointment affected area twice a day for four weeks and only on weekends. And so it's, they're not helping none of those things. All right. I have b 12, 1000 micro microgram tablet once a day. Yes. Mhm. I have, um, I'm not sure this is probably old but it's on here. It's the Doxycycline. It's a antibiotic. 100 mg. It was, uh, it was last ordered in [PHI-Account]. So I'm pretty sure you're not taking this.
+Patient: Does it have a doctor's name next to it? Because I'm having major dental work done. I'm having implant, work done and every time the cuts cuts me in any way, shape or form, he puts me on amoxicillin. And, um, it's like a Z pak where you start out six a day, the first day and then [PHI-Personal] and then 4321,
+Nurse: Let me really quick
+Patient: Find this and I just realized I had a knee replacement, not that I just realized I had a knee replacement, but I had a knee replacement right before the pandemic. And, um, um, I have amoxicillin. I just went and looked at the 500 mg tablets. You have to take four of them before you have dental work done. Mhm. Yeah. Ok. So that's the one I think you're asking about. Um, different
+Nurse: One. This is a different one. It was prescribed by, uh, [PHI-Personal] An [PHI-Personal]. Huh? It was outpatient. It was in the outpatient. So I'm su and it was just, I, I'm pretty sure you're not taking this because this is not really ordered like regular, even though it has a they ordered 60 capsules. You were taking it, you, it was a one capsule. It was ordered in [PHI-Personal] of last year. Um And maybe it was for had, when did you have the knee replacement?
+Patient: My knee replacement was in uh end of [PHI-Personal].
+Nurse: Ok. So yeah, that's not
+Patient: Like right before the pandemic. Now I've been having implant surgeries at my period for the last several years. And right now I'm still, I'm still being treated by him and like I said, every time he cuts me, I have to take this antibiotic for 10 days. And then I take this, it reminds me of a Zak because it's like [PHI-Account].
+Nurse: This is different and it was last ordered last year and there's like no refills or anything, anything, then
+Patient: I would get rid of it, especially if it has no refills.
+Nurse: Yeah, I'm just, yeah, I it must have been and
+Patient: The one related to my knee, I need to call him because it's been over two years. And what I'm hearing is if you have any kind of, uh, joint replacement, you used to have to take the antibiotic for the rest of your life before you were having any kind of surgery then, like Stal surgery. But now they're saying that it's just two years. Well, I've met my two year mark. So before I go back to the d, the periodontist, I wanna call my, uh, orthopedic surgeon. Doctor [PHI-Personal] and find out if I still have to take them.
+Nurse: That's something new. That might be something new. Um. Mhm. Might be a new information out there
+Patient: Because the fear is the blood is blood clotting.
+Nurse: Yeah. Well, that's just the, the, usually it's like when somebody does have an implant and stuff like that, I know that they do usually the amoxicillin before you do dental work.
+Patient: Mhm.
+Nurse: So, that's, you know, that's something just to prevent infection and everything like that. But I'm not sure about that after the two years. Like, I, that's something new. I have never heard of that. So, yeah, I would definitely
+Patient: Call and I have to call him. Yeah, and
+Nurse: Check because it could be a new, I think constantly things are changing all the time. So. Oh. Right. Right. You know, so it's better to, to ask.
+Patient: Right. Sure.
+Nurse: Yeah, I have, um, you said the NexIUM, the 40 mg, you take it, um, this morning
+Patient: I also, yes, one a day.
+Nurse: Um, imipramine. That's 100 mg capsule. You take that at night.
+Patient: Imipramine. Yes.
+Nurse: Yes. That I have, it's
+Patient: Not a capsule. It's a green, a small green pill.
+Nurse: Oh, they have it out here as a capsule.
+Patient: Uh Oh, I, yeah, that uh I'm sure that doesn't matter.
+Nurse: Yeah. Um, the letrozole 2.5 mg. Yes.
+Patient: Yes. And that will end. Hopefully. Next. [PHI-Personal]. That's for breast cancer. That's for um uh estrogen and progesterone receptor positivity in the breast tumor that they removed. However, the breast tumor was zero. It was stage 0-0 0.1. So it was like nothing, nothing. Well, it was something but it was like, you know, it was like the lowest the the staging it could be.
+Nurse: Ok. So it was caught super early.
+Patient: Yeah. And that was, that was [PHI-Personal]. And they wanted me to take this letrozole every day because of the, the risk of the estrogen and progesterone reacting to the cancer cells. If it were to come back, my estrogen and progesterone would feed into it and make it larger. So this pill I take subs subs um control
+Nurse: Estrogen, the hormones.
+Patient: It, it um what am I? So um suppresses how I think it substitute. It suppresses my hormones. Oh gosh. And I can't wait until I stopped taking it because I'm hot all the time even in the winter.
+Nurse: Uh When, when is it that you're gonna stop taking it in
+Patient: [PHI-Personal]. It'll be [PHI-Personal] of next year. And hopefully my doctor will say I don't need to take it anymore. Although he's told me in the past that some patients he has, it has been taking it for longer than [PHI-Personal] years. Lord, I guess it depends. All my check ups have been good. So,
+Nurse: Yeah. So maybe you'll get good news and they'll tell you you're, you're done. You'll be done right. I have um, it's another supplement. Magnesium oxide. 500 mg once a day.
+Patient: Yes. And that's part of the uh, the uh help I need you to uh help me with. But we'll get into that after and it's 500 mg.
+Nurse: Yep. I have that. I have Metformin 500 mg twice a day with meals. Yes, I also have here. It's uh, looks like it's a vitamin, um B six, vitamin B six. OK. And then I have the Januvia 100 mg tablet. Yes. And zinc. Are you taking a zinc supplement? Ok. All right. So what's, what's up with the um magnesium?
+Patient: Ok. Um, ok. So my mom who's deceased. God, rest her soul. My, my mom had colon cancer when she was in her [PHI-Personal]. It was caught early, they removed it, they cut, they cut her intestine where the cancer was and they reattached it. She didn't need chemo or radiation. Just checkups every six months. So she was diligent about it. So that, of course, prompted me, uh, should have prompted my brothers and sisters as well. But it prompt me to start thinking about having colonoscopies, which I did. I probably had at least a dozen of them. Doctor [PHI-Personal] doctor [PHI-Personal] who is now retired. They're all retiring. He was my doctor from day one. But he's in a practice. I, I think it's called [PHI-Geographic] Gastroenterologist Associates. They're on [PHI-Geographic] and they do the Colonoscopies right there. Ok. So let me fast forward. Mhm. During the times that doctor [PHI-Personal] was my doctor, I had a really difficult time. The first time I did the prep for the colonoscopy. So he switched me to a different prep the next time. Ok. And then, and then eventually it led to I would take the uh Dulcolax which is over the counter. I would take the uh what's it? Magne uh No. Yeah. Magnesium citrate a bottle of that which I would get like at the Dollar store. And then he, then he gave me a prescription for these pills. They were like horse pills, but I didn't care because I like I knew they weren't gonna make me sick. Ok. So, ok, so he's a history fast forward. I'm due for my colonoscopy. I go and I meet doctor uh maybe three weeks ago we scheduled my colonoscopy for [PHI-Personal] 21st. Coming up. I sit [PHI-Geographic] to meet with the gal that makes the appointment. He gives me all the instructions and all of that. And she said, I'm gonna have prescribed suprep for you. And I said, if that's all that liquid, I can't do that. Doctor has always gave me to and she just looked at me and she said this is the way we do it here. So she called the, I was a little taken back. She calls the prescription in. I go and pick it up. It's $65 out of pocket. Who I come home? I look at it and what is it? These two big bottles that you have to add into? Each 1, 16 ounces of water or ginger ale or whatever you want. I can't drink, it's not just the gross taste. I can't drink that much fluids in such a short period of time. So what I need you for, which is like the, like, so coincidental because I've never needed any assistance up to this point with anything medically related. Doctor always, you know, took care of everything. Ok. What I need you to do when I try to get somebody at that practice, everything is voice mail and they do not call back. Oh, really? Yeah. And they don't, and they don't call back one. I need to take back the suprep. Hopefully CV S will take it back. They'll see that the seals aren't broken on the two bottles of stuff. Um, and I need to get whatever it was called. That doctor. [PHI-Personal] has given me in the past, I know that it's a 10 ounce bottle of magnesium citrate, which is also one of the directions for this with the suprep and then the um, um, the magnesium citrate and then the Dulcolax. So that's also with this new, um, thing. So there's like three stages Dulcolax over the counter, magnesium citrate over the counter and then suprep, I can't take the suprep. So it's gotta be the pills.
+Nurse: Ok? But you don't remember the name of the medication or
+Patient: The no, what they're gonna need to do is go back in my record and see what doctor Mo what it's called, what doctor [PHI-Personal] gave me.
+Nurse: Lord. Ok. I'm gonna try to find, try to find that here if I can. Um do you know when did he
+Patient: Retire the date? The date it would have been ok. This is my first time. The doctor said I can go for [PHI-Personal] years. So it was [PHI-Personal] years ago. So it would have been 28 [PHI-Personal] and it was like May I think it was like May of [PHI-Personal].
+Nurse: Ok. Oh Lordy Lord. Ok. Mhm. Just gonna see you bear with me if I could find anything.
+Patient: Oh, and quite frankly if that [PHI-Personal] says no, like if they give you a hard time, I'm canceling the, I'm canceling the colonoscopy and I'm finding another practice. Uh I know that I can't drink that stuff. So why even bother
+Nurse: You told, you told her and she just said she didn't even like try it. This
+Patient: Is the way we do it here.
+Nurse: Lord, there are other. This
+Patient: Is, this is what our practice uses for everybody. Oh Lord. So I'm thinking, ok, leave it alone, pick it up and see what it is. But she didn't say it was two bottles of liquid or pills, say
+Nurse: Anything about what it is. No,
+Patient: She said nothing. So I pick it up at the pharmacy. I go home, I open it up and I'm like, this is BS, I can't do it. I can't do it.
+Nurse: Ok. I am looking here, I don't see anything related to, like, from that year on here on the computer, but that doesn't mean that they, the [PHI-Personal] itself doesn't have any of the information, but I will, um, I'll message Doctor [PHI-Personal] about it and see if, if she can order you a different kind of prep. Um, you know, like
+Patient: It's gotta be the pills. Yeah,
+Nurse: There is different preps. Like I don't understand why they, they're not, um, you know, there's different ones where you don't have to drink that whole thing. So I'll.
+Patient: Exactly. Yeah. And doctor, the doctor had, I had a chance to tell him when he was doing the examination. Um, I would have told him, but it was, uh, quite honestly, the doctor was extremely professional. He, I trust that he is who he says he is. I trust that he's done a million colonoscopies and no reason for him not to do my colonoscopy. But quite frankly it was this, this, this, the girl that's checking my name, my address, all that was sitting in the examining room and I happened to say something and she said, I'm sorry, but we really need to hurry up because I know the doctor is ready to come in and see you. So she basically shut me [PHI-Geographic]. So I did not like the bedside manner of any of them. Mm. Mhm.
+Nurse: That's not good.
+Patient: Yeah. Doctor [PHI-Personal] was the complete opposite. Same practice, same practice. But, and yes, they're busy. Yes. So busy. But learn how to speak to people.
+Nurse: Yeah, I agree. I agree with you. Um, ok, I will message doctor, um, and see if she can find maybe a different, um, I'll, I'll, I'll just, I'll just tell her what exactly what you said. That was, that doctor is in [PHI-Personal], prescribed you a different, a different kind of prep and, um, you just can't drink that whole thing and that you tried to, you know, I, I, I'll, I'll do a detailed message and see what she gets back. See, you know what she recommends and if she does prescribe you anything, prescribe you something.
+Patient: But if the second you wanna get,
+Nurse: You're welcome. The second step would be, um, to call, I mean, that [PHI-Personal] and tell them you know, just make, make them know that you're not gonna, that you can't drink, that, you're not gonna drink that, um, that you, that you can't do it and, um, that you can do the other things and that, you know, see what they can do if they can change it and, you know, there are other preps. So if they can, you know, just let them know that's what you're gonna do if they don't have, if you don't, if they don't give you another kind of medical direction of what prep to do you're gonna be, they're gonna be, it's gonna affect your results and they won't be able to see exactly everything that they, you know, need to see. So hopefully, um, doctor will find something if, if she doesn't get back to me, when, when is the colonoscopy scheduled for
+Patient: [PHI-Personal] 21st. So there's a little bit of time. Yeah, you have some time. It's almost a month. All right. So,
+Nurse: Yeah, um, I'll message her and then, um, you know, I'll follow up with you then, um, hopefully if she do, if she does get back to me this month, I'll give you a call. But if not, it'll probably be obviously the, in the next coming month since we're like,
+Patient: And that's the part one that is just part one.
+Nurse: Ok. And I'm gonna be, it's
+Patient: All related to that doctor. It's all related to that doctor's [PHI-Personal],
+Nurse: You know, I don't, I don't know. Um Do you actively use the um patient portal or? No?
+Patient: Don't know. Ok. It was hurry, hurry.
+Nurse: Mm. All right. I'll be sending you a letter with my name and my number and some of the wellness schools we'd like for you to try to work on which obviously one of them would be the colonoscopy. Um and um that will just, you know, give you my number so that you can call me um, when you need me and everything like that. Ok? And ok,
+Patient: But I have two more issues, ok? Go ahead if you, if you, and if they're not as long as the first one, I promise. Ok. Now, when the girl was asking me all my medications, um, uh, one of them was the magnesium 500 mg a day. So, ok, uh, the doctor comes in, I meet with the doctor. He said I noticed your magnesium is low. He must have looked at the blood work. My last blood work results from doctor [PHI-Personal]. I, I saw doctor [PHI-Personal] maybe a month ago. I see her every quarter. Ok. So he says I see your magnesium is low and I'm thinking to myself, well, magnesium is something I take every day. Yeah. So fast forward CVS pharmacy is leaving me these messages saying we have a prescription for you, we have a prescription for you. So I called them up and they said it's magnesium 400 mg, a prescription and I said, how is that any different than the 500 mg of magnesium I take every day which I get in the vitamin aisle. And the pharmacist says no difference at all. So I, I called doctor [PHI-Personal]. Hm. He
+Nurse: Said, um, he must have not even looked at your medications and what
+Patient: You're taking. Probably not. So my main call back to doctor [PHI-Personal], which they never returned was to find out does doctor want me to continue the 500 mg that I've been taking forever and also the new [PHI-Account] that he wrote me the prescription for. So I didn't take it. I've been taking my 500 every day like I had been. But the little prescription bottle with the magnesium 400 mg is just sitting here because no one will answer my question. I, I'm sorry to get heated with you. Nic. It's not, it has nothing to do with you. It's just, I can't keep trying to call this [PHI-Personal] and not get any response.
+Nurse: Yeah, I wouldn't, I wouldn't um, worry too much about the 400 mg of the magnesium. I would, um, when's your next appointment with Doctor [PHI-Personal]?
+Patient: My next appointment with Doctor [PHI-Personal] is not until it's after my colonoscopy. I think it's like early. Uh, if you hold on a second I can look at my calendar on my phone. I have it here.
+Nurse: 00, ok. So, ok. So your vitamin D I'm gonna tell you to keep taking the 500 mg the way that,
+Patient: Uh, the ion.
+Nurse: Yeah, because it doesn't make sense for him to order 400 unless like he's adding, adding another, another one. Like, exactly. But
+Patient: Say something.
+Nurse: So I wouldn't, I wouldn't, and I'll, I'll, I'll include that in my message to, um, Doctor [PHI-Personal]. Doctor [PHI-Personal] to review. Maybe you did the vitamin D. I don't see, uh, it is a little low but it's not like, it's like a point point one. You know what I mean? That's like
+Patient: A, yeah. 0.1. Yeah. Yeah. Yeah.
+Nurse: It's not even a full, like a full, um, it's like borderline, it's like
+Patient: A whole point. It's not even a whole point, not
+Nurse: Even a whole point for it to be in a normal, normal range. So it's not like it's a huge, huge deal and it looks like it's kind of been consistently running at that, you know. Yeah. So it's not, um, it's not like something that I would, I would worry too much about that
+Patient: Would be glaring.
+Nurse: Yeah, I would just keep on with the same with the same that you're taking for now.
+Patient: Unless he, unless he got concerned because when you're having the colonoscopy, you take the 10 ounce bottle of magnesium citrate and I assume that's the same magnesium as the pill. Magnesium. Uh, I don't know, but maybe that's why he, you know, did what he did I don't know. I'm gonna run no direction. They were too fast with no direction and it was annoying. What if it was a serious situation?
+Nurse: Yeah. Yeah. I, mm, I'm just going to, um, I'm gonna mention it to Doctor [PHI-Personal] as well. I don't, I don't think that you should take to start the 400
+Patient: I think. I'm not the [PHI-Personal]
+Nurse: 100 for now. Uh, yeah. II, I think that he probably ordered it without looking at what you're taking.
+Patient: Probably. Ok. So um and one last thing is CV S sent me a message the other day saying that I am out of refills for a particular medication, but I have to check my text messages in my phone here to tell you which one it is. So do you, do you have a second for me to do that? Ok, [PHI-Personal]. Thank you. One second. Mhm. Hi [PHI-Personal]. It's the atorvastatin. It says they're ready to re they're ready to refill it but there aren't any refills left.
+Nurse: Ok. So you need AAA new a new script for that.
+Patient: Yes. And actually I can check because it's I'm sure it's not like the end of this week because they're usually pretty uh early with their um messages about refilling things. Now, where is it? I'm trying to find it here. Uh hm Not it, is it that, oh, here we go. Oh my God. There's at least there's at least it's a little white pill. There's at least 100 if not 200. I
+Nurse: Wonder why they're sending you that message. Because
+Patient: I'm sometimes they're really like, sometimes they send these, these things out really when they're not ready, really ready yet.
+Nurse: Because the, yeah, because you're getting a 90 day supply, which is a three month supply and then your appointment with the doctor with doctor is before the script actually expires. So she'll, you should be good until your appointment is
+Patient: What I'm absolutely. So, you know what I'm gonna do? I'm gonna put on my calendar uh, on the, the meeting with doctor, ask doctor about the. So thanks for, but, but I wouldn't. Yeah. Yeah, it's too much. It's, it's one thing if there's like 15 left, you know, two weeks, but there's at least 100 I swear there might be 200 in there because they're tiny and it's half way up the bottle. Yeah.
+Nurse: Yeah, it's, it's usually, well, the, the doc doctor will usually like on the appointments will renew all your, put new scripts for all your medications. So that probably you'll probably will be fine with that until, uh,
+Patient: She always asks. She always asks, do you need any refills? She is such a sweetheart. And you're probably too young to remember her predecessor who actually started the, the practice. Doctor [PHI-Personal]. She retired and moved to [PHI-Geographic] and, and, but about a year or two before she moved, she hired doctor as her partner. So, you know, when she left and you know, Doctor [PHI-Personal], I think now has partners, but I don't, I don't see anybody but doctor at that [PHI-Personal]. All
+Nurse: Right. Ok. So I will message, I, I will message her regarding this if I hear if she responds to me and I hear anything specific, I will give you a call back. Ok.
+Patient: Oh, [PHI-Personal]. Thank you so much. Thanks for all your time. I really appreciate your help. No
+Nurse: Problem. And also, um, if, if I don't hear anything, obviously I will give you a call um, in [PHI-Personal]. I mean, that's next, next week. So I feel like things next month is like it seems like so far away, but it's not really because I just
+Patient: Wanna know,
+Nurse: Have some kind of direction for it for. Um, so you can, you can get, you know, the colonoscopy is obviously very important, especially with your family.
+Patient: Get done. Yes, definitely. Yeah,
+Nurse: I want you to be able to, you know, I don't want you to miss it.
+Patient: Right. I don't either. It is important and I go every single time I've been supposed to be going, I don't wait, I don't put it off. I schedule it right away.
+Nurse: Yeah, so I'll, I'll, I'll do that and then we'll see, um, you know, I'll wait like at least a week. If I don't hear nothing from her, then I'll give you a call so we can try to figure it out. I mean, uh, worst, worst case is that we find somebody else, you know, we'll have to find somebody else.
+Patient: Right. And you left your number on your voice mail. But I couldn't tell if it was 631 or 621. It
+Nurse: Is, um, the number that I'm seeing here is, uh, [PHI-Account]
+Patient: [PHI-Account]. Ok. Now, is, is, would that be the best number to reach you at? Because I wanna put you my contact? Yeah,
+Nurse: That's the best number to reach me at it. I'll be here Monday through Friday 8 to 4 30.
+Patient: Ok. Ok, great, great [PHI-Personal]. Thank you so much hon for your help and enjoy the rest of your day and I'll talk to you soon. Ok, as well.
+Nurse: You as well.
+Patient: Thank you. Bye bye.

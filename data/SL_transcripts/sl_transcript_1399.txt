@@ -1,0 +1,27 @@
+Nurse: Hi, this is one of the nurses here. How can I help you?
+Patient: Hi, this is [PHI-Personal] ing and I think you called me yesterday. Ma is this [PHI-Personal]
+Nurse: [PHI-Personal]? Yes. Pardon me? Yeah, my name is [PHI-Personal].
+Patient: Yeah, [PHI-Personal] called me.
+Nurse: Ok. All right. Yeah. So that, that, that was me. I, that was me. I was just giving you a call to introduce myself. So I am the nurse that was assigned to you for that case management program that you were enrolled in.
+Patient: Honey. I'm sorry, I'm fading you out here. Ok. Would you, would you mind repeating a little slower?
+Nurse: Yeah. So I am the nurse that was assigned to you for the care management program. So I just wanted to introduce myself. Tell you a little bit about that program.
+Patient: Oh, well. Ok.
+Nurse: Ok. So what I'll be doing is giving you a call about once a month just to check in and see how you're doing during that call. We can talk about whatever you need, whether it's going over recent visits or any symptoms that you're having, um, medication. See if you need refills, anything like that. In addition to those calls, I will also set you up with some wellness goals. Those are just routine um tasks that you know, they want to get done during the year such as making sure you have your annual wellness visit done um that you are getting any labs or vaccines that are needed. So I'll put those together in a nice list for you and I will mail them home so that you can see what we're working on with that. I'll also include my contact information. So, in between my monthly calls out to you, should you need anything at any point? You're more than welcome to give me a call and I will help you out in whatever way I can.
+Patient: Oh, that's nice. Yeah, that's nice. That's nice to know. I have somebody working with me. Absolutely.
+Nurse: We're gonna be a great team. Ok. All right. So, something I like to do with that first call is just to, um, check in on your medication. So, with that Medicat, with the medication, do you have, um, a list that you go by or do you use a pill box? How do you keep track?
+Patient: I have a, I have a list. I have a list but it's upstairs. You know, I carry it in my wallet. Ok.
+Nurse: So if I, if I went through the list that I had and read them off to you, would you be able to tell me if you're taking them or not, or do you want me to keep it for a different day.
+Patient: Ok. Um, when I get the, when I get it, I have to go to a funeral today. Uh, I'll give you a call next. Yeah, we
+Nurse: Don't, I'll do it today. We can do it at the next call for next month. That's perfectly fine.
+Patient: Ok. Ok. I will do that. All
+Nurse: Right. And then can you just confirm your date of birth for me? Pardon me? Can you confirm your date of birth?
+Patient: My date of birth is [PHI-Personal].
+Nurse: Ok, excellent. All right. So [PHI-Personal], is there anything I can help you with today? Do you need anything today you're feeling? Ok.
+Patient: No, I, I just got the, my refill on my pills. Ok. Uh the other the other day and I was in a couple weeks ago to the doctor. So that's uh, that's taken care of. All right. Ok.
+Nurse: Ok. So I'll, and I'll put that information together for you and I will get it mailed home and, and I will put you on the schedule for me to touch base again next month. Is there a certain day that works better or do you prefer mornings or afternoon?
+Patient: Uh, probably in the mid, mid morning, mid morning, like 11 or something like that. And I'm, I'm usually here, I'm [PHI-Personal] years old. I don't run around. Ok. I try to keep myself off the highway. Yeah. Uh I'm still driving. I'm I'm still driving but, uh, I don't drive unless I have. Oh, ok, [PHI-Personal], thank you. And I'll put your number in my phone
+Nurse: Book. All right, sounds good. I'll get that paperwork mailed home. I'll touch base with you next month. But again, if you need anything at all, just let us know.
+Patient: Ok, I will.
+Nurse: All right, you have a great day.
+Patient: You too and thank
+Nurse: You. Thank you. Bye bye.

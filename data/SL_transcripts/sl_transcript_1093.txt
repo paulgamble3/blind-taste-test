@@ -1,0 +1,23 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, my name is [PHI-Personal]. I'm a patient of doctor. Yes. How can we? Yeah, I, um, I have diverticulitis and I have been constipated and I have been trying to take this Metamucil three in one fiber, but it doesn't seem to be helping, uh, can doctor prescribe anything else that I could take?
+Nurse: Yeah, let me get your chart pulled up. Give me one minute here. Ok. Yeah. Ok. And you said you've been using the Metamucil and it's not helping?
+Patient: No, it's not, it's not doing what it's supposed to.
+Nurse: Ok. How many days has it been since you had a bowel movement?
+Patient: It's been, um, three or four because it's just like it's plugged in there. It won't, you know, it won't come out.
+Nurse: Ok. Um, so one thing that you could try, um, it's another over the counter medication there is a medication called Miralax. So, it's similar to the Metamucil and then it's a powder. Um, it's, can
+Patient: You spell that?
+Nurse: Mhm. It's M ir A [PHI-Personal]
+Patient: [PHI-Personal]. Ok. Miralax. You mix it with water
+Nurse: So you can mix it with, with any liquid. Um, a lot of people will do water, you can do coffee. Um, the warm water helps it dissolve a little bit better, but it's a clear tasteless powder. And the way that medication works is it helps to pull fluid into the, the colon, the large intestine. So it helps to loosen that stool. Um Typically, what we recommend is that you take that once a day until your symptoms resolve and then you can then take it on an as needed basis. But with that medication, um, it is important to make sure that you're really drinking lots of water because that the more fluid that you take, the more fluid is able to be pulled into the large intestine to kind of help loosen things up.
+Patient: Ok. Ok. So it's Mi Miralax. Mhm. You take, you take it once a day, it tells on the bottle how much to put in or whatever.
+Nurse: So, I, I believe it's typically a capful. But, yeah, you'll just follow the directions on the back of the bottle and you can do it once a day until you have relief. Um, and then on an as needed basis.
+Patient: Ok. It, they've got it, there's a cap on it and you just fill the cap.
+Nurse: Mhm. Yep. And there's a line in the cap kind of like you used to do with the liquid medications that you pour in the cap to the fill line and then mix it
+Patient: And then you pour it in water.
+Nurse: Yep. You can mix it with water and it typically will say, I think it's 8 to 12 ounces of water that you can mix it with.
+Patient: Ok. Ok. Well, I'll try anything right now, I'll try, try this Miralax and, uh, see how this works.
+Nurse: Ok. And if you need anything, you know, feel free to give me a call. But, you know, some light movement, exercise, different things like that can kind of get everything moving, especially after, um, you know, taking that medication. It can kind of assist with that as well.
+Patient: Ok. Well, I just came in from pulling weeds out of my flower beds, so I'm already doing exercise
+Nurse: Good. So it sounds like you got some, got some exercise that should help. Yeah, I would try that Miralax and see that that should help. Um, they do sell over the counter laxatives as well. However, those can be a little bit more harsh, um, cause sometimes it can force a bowel movement so it can be a little more uncomfortable with some abdominal cramping and things like that. So I always recommend trying the Miralax first.
+Patient: Ok. I'll do that. Thank you very much. Uh huh.
+Nurse: No problem. If you need anything else, feel free to give me a call. Ok. All right. Thank you. No problem. Bye bye.

@@ -1,0 +1,53 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hey, [PHI-Personal], this is [PHI-Personal]. Oh,
+Nurse: Hi, how are you doing? I'm
+Patient: Not doing very well, very well at all. I'm having some panic attacks and it's been going on, it's been going, it's going on for three or four hours. I don't know what causes it, whatever it is. But, but I'm, I'm breathing hard and I don't know what to do about it.
+Nurse: Oh, my goodness. I'm sorry. Well, um, let me see here, is there anything going on right now? Like, aside from, you know, I know you're having the panic attacks but is there anything that you think could be, like, triggering the anxiety?
+Patient: No. No, no, not at all.
+Nurse: Ok. Do you, um, have you had panic attacks before or is this the first time? No. Ok. Um,
+Patient: Well, is there anything I need something? I, I need something to calm me down, that's all.
+Nurse: Yeah. Well, you know, usually with panic attacks, um, there, I mean, there can always be triggers or panic attacks but sometimes you just don't know what those triggers are. Um, now typically with panic attacks, um, you know, just making sure that, you know, your deep breathing, um, controlling your breath is what's really going to, um, you know, help alleviate some of the panic. Um, now, is it,
+Patient: Are you, I've done all that. Are you
+Nurse: All that, are you home with anybody or are you out and
+Patient: About my wife? Is she, she's, she'll be here pretty soon. Uh, but I'm, I'm home by myself. Yeah. Ok.
+Nurse: Well, uh, my,
+Patient: Can I get anything like a, something that'll calm me down?
+Nurse: Um Let me see here
+Patient: What it is it or what or something? My, my, my brother, my son that
+Nurse: Yeah, so um let me just take a quick look here at your, let me pull your chart up here. So a lot of times before they prescribe anything like that, um they do wanna see you in office before you know, anything is prescribed like that. Now, I do just looking at your list here. I do see that you take Lexapro. Um What's Lexapro for anxiety? I have [PHI-Personal]. Yeah, I have Lexapro on your list here that you take every day. Are, are you taking that every day or?
+Patient: II I think I, I think I am, I'm not sure but I don't have any right now.
+Nurse: Ok. Yeah. And it may just be something where, you know, they need to increase the dosage on it if you're continuing to have um you know, anxiety. Um so I can certainly reach out. So doctor is not gonna be in office until I think I wanna say like next on Monday. Um, because when I sent him the message about the, um, the clogged ear that you have, um, it said that it kicked back and it said that he would be out of office for the week. Um, so the message, oh, go ahead. I'm sorry,
+Patient: Iii I, as long as you can get me the pills is I don't wanna get, uh, uh doing something you want. You know what I'm saying? He doesn't want that. Um He's probably doing something, having dinner or something and all the rest of that. That's what I'm saying.
+Nurse: Yeah, yeah. So I he's out of office, I guess he's on vacation. Um So yeah, so the message got sent to doctor [PHI-Personal], who's the other doctor there. Um and she said in regards to the ear fullness um or the clogged ear, um that really other than trying to get a sooner appointment with the ENT, which obviously I know you've already called. Um, you know, other than getting that moved up or going to urgent care, there's really no other options since you have an appointment coming up on the 10th with doctor. Um because it looks like she just says to, to follow up with doctor if you're not able to um move the appointment for the Ent office up. So how
+Patient: Do I get this? How do I get this Lexapro?
+Nurse: Oh, the le so the Lexapro let me see when it was last. Ok. So it looks like it was prescribed on, let's see here on [PHI-Personal] for a year supply.
+Patient: I don't, I don't have it anymore.
+Nurse: Ok. Um, let me see. Now, are you, were you taking just once, one a day? I,
+Patient: I don't know, I don't know. II I don't know if I ever, um, I don't, I don't remember even u using that drug. That's the problem.
+Nurse: Yeah. Um, ok, so, I mean, I can definitely send a refill request in for that. Um, whether it, whether it gets approved or not, I'm not sure just because it, it, it was a year supply and obviously it's, it's only [PHI-Personal], so I, I don't know that it will get, um, approved, but I can certainly send it through to see if they, if they do approve it. Um, aside from that, um, really, like I said, with any of like the, the as needed anxiety medications, they typically like to see you in office before they prescribe anything like that. So I can definitely reach out and see if they can, um, prescribe that for you. But, um, I, I can't promise anything that they'll, they'll send it through because a lot of times like I said, they wanna see you, um, especially if this is like a newer, you know, you're expe this is new that you're experiencing these panic attacks. Um, so, um, you know. Really, let me see here, let me just pull the note up. Ok, so I'm just trying to make sure that this is all so I'll get that sent over to them. Um, but really, I mean, the most important thing, um, you know, in the meantime is just, you know, making sure that, you know, you're like deep breathing and, and trying to, to keep, keep your mind. Yeah, and try to keep your mind busy with other activities. Um Now, uh just, and we just have to ask this, um Are you having any thoughts of hurting yourself? No, no, no. OK. OK. We just always have to ask those questions with any kind of anxiety or depression that is occurring. So, um like I said, I will go ahead and reach out to them. Um and then
+Patient: Uh who's, who's them
+Nurse: To the office? Uh But it's gonna be Doctor [PHI-Personal] that responds because uh doctor will not be in office until next week.
+Patient: All right. So what so is can, is he gonna be able to her or what you can, can I get it today?
+Nurse: I'm gonna try to send it over, but I don't, like I said, I, I can't promise anything because the, the Lexapro was a year supply. So because it's before a year that I'm asking for it, I just don't know that they're gonna approve it now with any other. Oh, sorry. Oh no, you're fine. Um With any other medica anxiety medication. I'm going to send a message over. I can't promise you that that will get put through because a lot of times like I said, they, they really wanna see you in office um before they prescribe anything like that. So um I, like I said, I'll send the message over and then the refill request over. But um I can't, I promise you that they will approve it
+Patient: If they don't approve. Would you you call and tell me?
+Nurse: Sure. Yes I will definitely update you and let you know. Ok.
+Patient: Ok so. Ok can you can you do that now or whatever it
+Nurse: Is? Yeah I'm gonna whenever I get off the phone with you I'm gonna go ahead and send it over. Ok. Ok. Alright. Ok. All right um and then yeah like I said I'll I'll keep you up to date but um just let me know if you need anything else. Ok.
+Patient: Uh all I need is that I tell you I'm just I'm just going crazy.
+Nurse: Ok. Um so what what kind of symptoms are you having with the panic attacks? I I
+Patient: Just breathing, breathing and uh and you know and inhaling and yeah I'm just kind of shaky. Yeah. Yeah.
+Nurse: Ok do you feel like your heart's racing?
+Patient: Yeah it it is a little bit. Yes.
+Nurse: Ok. Ok. Well. Ok, I'll go ahead and send this over. Ok and then I'll keep you updated.
+Patient: Ok where is it? Where is it going to, where is it going to now?
+Nurse: [PHI-Personal]?
+Patient: Ok. Are, are they there?
+Nurse: They should be there. Yeah, they're usually there. Uh, I mean, like I said, it, it is end of day. I can't assure you that they're going to respond to this, like a S A but I will send it over. I, I can't, yeah, I really can't, I don't know. I mean, I'm sending it over to them now but I can assure you that it's gonna be, you know, the first thing on their list to take care of. Um, and especially, yeah, yeah, especially with you having an upcoming appointment on the 10th. Um, you know, that's really, like I said, that that's really, you know, they're probably gonna be more concerned about discussing it at the office visit
+Patient: Because, you know, I've got, yeah, I, yeah. Yeah, but the fact of the matter is, oh, yeah, the office, what this next week coming up. So, uh, but same, same time my problem is, is now today, you know, that's what, that's my problem.
+Nurse: Right. Exactly. So, like I said, I'll send it over to them and I, I can't control whenever they respond to it. So, um, you know, Doctor [PHI-Personal] is covering his messages right now. Um, she got back to me pretty quickly with the, the, uh, clogged ear so hopefully she can respond to this pretty quickly.
+Patient: Ok. Just tell her what, what, just tell her please?
+Nurse: Ok, I will. Alright.
+Patient: Alright and she says no can you call me back at least?
+Nurse: Yes. Yes I will let you know. Ok. Alrighty. All right, I'll talk to you soon. Yeah
+Patient: Hopefully.
+Nurse: Oh.

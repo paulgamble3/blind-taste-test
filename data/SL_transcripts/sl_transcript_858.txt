@@ -1,0 +1,220 @@
+Nurse: Afternoon. This is, how may I help you? Good afternoon.
+Patient: It is afternoon. Mhm. It is. Oh, see how much I pay attention.
+Nurse: I mean, it's technically, I mean, we're two minutes before noon, so I'm in the wrong.
+Patient: Well, I, I'm me so I'm usually totally indifferent. Not clueless, so. Right. Mhm. [PHI-Personal], dear. You called me and said, call you back. So you,
+Nurse: Yes, how are you?
+Patient: Uh, the fact that I being alive and well, has been greatly exaggerated. So good.
+Nurse: Oh, I love it. Um, let me see here.
+Patient: I was playing with the project this morning. Mhm. Uh, what, who, who's the other doctor that's with, uh, [PHI-Personal] there,
+Nurse: The other doctor that's with [PHI-Personal]
+Patient: Starts with api think or something like that. Uh, it is the one I see when I come out of the, er,
+Nurse: Oh, that would probably be Doctor [PHI-Personal].
+Patient: No,
+Nurse: With a TP
+Patient: Or T it might be T as in Tom.
+Nurse: Oh, ok. Hold on, let me just pull up your profile. That would be easier. Right.
+Patient: Well, if you wanna do things the easy
+Nurse: Way. Yeah, I know. Right. I always just like that. Ok, let's see here.
+Patient: But this is 2022. Nobody does anything the easy way.
+Nurse: No, no, it's gotta be all complicated. Uh, doctor.
+Patient: That's, it starts with an r, there we go. Yeah, I knew I'd know it. Yeah. Right. Well, he gave me a new inhaler to use, which has been working really well. So when this one got empty they got me a replacement one and he gave, it's called [PHI-Personal]. Ok. Well, I, being me have an inquisitive mind so I have literally torn the old one apart.
+Nurse: Ok.
+Patient: What did I say? There's like 25 pieces to this thing.
+Nurse: Yeah. Oh my God. Ok. So let me see here
+Patient: Taking this thing apart to understand it.
+Nurse: Why would you need to do that
+Patient: Because that's how I learned. Oh, ok. And I have to know everything about my care and everything.
+Nurse: Ok. Oh, that's a good thing then.
+Patient: So, yeah. So I have it all torn apart here on my bed because that's where I sit on my bed all the time. Mhm. And when I'm done conversing with you, I'm gonna take a picture of it so that I have
+Nurse: A right.
+Patient: God forbid I'd ever try to put this thing back together. That might be another story altogether.
+Nurse: But right. All right. Well, what I can do is see if I could get you another sample first.
+Patient: Well, I got a replacement already.
+Nurse: Oh, you did? Ok.
+Patient: Yeah, I got the, the replacement which is a 30 day supply. Ok. I try to get things before I run out of them. Mhm. Because if it works, I don't wanna be without it.
+Nurse: Right. Makes sense. Always a good thing when you're proactive because
+Patient: It took forever for people to wake up and realize I needed the Albuterol and the trilogy. Mhm. And so far those two things alone are keeping me out of the hospital. Oh,
+Nurse: Ok.
+Patient: So, to me they're very important. Very good. And I will argue with anybody over that point.
+Nurse: Oh, I don't blame you. All right. So what I'm gonna do here, number one order for scooter.
+Patient: Yes. Have we gotten, have we heard anything on
+Nurse: This? Right. [PHI-Personal] is non par with community plan. [PHI-Personal] is on the phone now with UHUHC member services, two DMES companies par with providers plan HSM and Patients Pharmacy. We'll try HSM first.
+Patient: What's that mean in English?
+Nurse: Ok. So basically you can get the scooter. However, um, they're, yeah. Well, yeah, technically we don't know where a number. Like that's the first thing and the second thing is we have to make sure it's under your plan.
+Patient: No, it's supposed to be under my butt.
+Nurse: Right. I know. I know. So, yeah, we'll get this figured out. Um,
+Patient: Somebody will be,
+Nurse: Yeah, at this can go there. Ok. Ok. Yeah, that's that. Ok. Everything, but that
+Patient: Sounds like a definite maybe.
+Nurse: Oh, my God. I'm like, just trying, trying my best. Right. Oh, I,
+Patient: No doubt of
+Nurse: That. Yeah. Right. Ok. So, and this, here
+Patient: I have one friend if I take him to Walmart with me. Yeah, he, he'll wander and get a scooter and bring it out to the car. Oh, yeah. Ok. But if I'm going with my [PHI-Personal] friend. Mhm. We just end up whole locking arms together and waddling in both of us.
+Nurse: Oh, do you really? Oh, my gosh. So, yeah, you're probably at risk for falling. So, that's not good. [PHI-Personal], [PHI-Account].
+Patient: I figured I'd be at least mid [PHI-Personal] before I went to hell in a hand basket. Well, guess what didn't make it? Uh.
+Nurse: Right. Well, you know, some people encounter lumps and bumps along the way. That's what happens. Looks like she sent it to HSM medical. So, I bet you they're going to be taking that order and you'll get that done. All right, since you've been discharged, any issues with chest pain
+Patient: Occasionally. But nothing I worry about,
+Nurse: You know, that if you have radiating pain, if the pain starts in the chest and works its way down to your left arm or behind your shoulder blades, that's not good. Got it. Yeah.
+Patient: No. At that point I should call the paramedic who have frequent flyer miles with me.
+Nurse: Mhm. And are you taking all of your medication?
+Patient: Elucidate?
+Nurse: What is Elucidate?
+Patient: Explain further?
+Nurse: Ok. So you have quite a bit of medication
+Patient: Medication.
+Nurse: Yeah. Yeah. Is [PHI-Personal] working with you still?
+Patient: Ok. Yes.
+Nurse: Ok. So
+Patient: [PHI-Personal] you dear. Do
+Nurse: You thank you. Do you? It sounds like you have them all with you. Can I review them with you
+Patient: [PHI-Personal]? Ok.
+Nurse: So we already know that you're on the [PHI-Personal] Ellipta. We don't have to review that one. Do you have a rescue inhaler called Albuterol?
+Patient: I do indeed. Ok.
+Nurse: Do you use the sliding scale insulin for meals?
+Patient: Uh Yes, but not your, not your people sliding scale.
+Nurse: Ok. Who's fighting
+Patient: That? I do? Well, because they gave me a copy of the sliding scale in the hospital. Ok. But the problem was in the hospital, they never really had much under control. Mhm. And I have days when I don't think I have much under control. Oh,
+Nurse: Ok.
+Patient: Well, well, at four o'clock today I will go have breakfast and I will be going to uh honest [PHI-Personal], are you, you're in [PHI-Geographic], or you [PHI-Geographic]?
+Nurse: I am [PHI-Personal].
+Patient: Ok. So you know [PHI-Personal]. Ok. I will be having breakfast there. Ok. And it seems to I've had to stop eating Chinese food because it didn't agree with me. Ok. I assume because of the, the high sodium in the food. Ok. Um, but honest [PHI-Personal] agrees with me so far. Ok. But if I eat no, I'm going to eat a lot of pizza or the pasta. I my sliding scale goes up to what I, I might use 10 units of insulin before I eat. Uh, versus if I'm only eating chicken wings, I might only used three or four. Ok. So I have my own invented sliding scale. Thank you very much. Oh,
+Nurse: My goodness.
+Patient: Uh, so yes, I use a sliding scale. Ok. But it slides different than what is what?
+Nurse: Ok.
+Patient: But it works for me.
+Nurse: Yeah. Even for
+Patient: The last, even though, for the last couple of days. Mhm. Um, when I take my [PHI-Personal] at night. Ok, it might only drop my blood sugar, maybe 30 points and some days they'll drop it 100 points. Mhm. Which I that part I have not figured out yet.
+Nurse: Uh, so what do you normally average,
+Patient: Uh, anywhere between 1000 and zero? Just kidding dear. Um, but between two nineties and fifties, I think the lowest I've had is in the 40. Well, the lowest I've had was 20. That was the day the parames had to come get me off my out from under my.
+Nurse: Oh, ok.
+Patient: So that was too low.
+Nurse: Definitely too. Well,
+Patient: So I have not, I don't think, wait a minute, let me check my meter here. Please bear with me.
+Nurse: Sure. Take your time.
+Patient: Do work. Um, yesterday morning my blood sugar was [PHI-Account]. Ok, then the night before it was [PHI-Personal]. So it only dropped from [PHI-Personal] to [PHI-Account]. Um, uh, did you Friday? It went from [PHI-Account] to [PHI-Account].
+Nurse: Ok.
+Patient: Um, I just sit Friday. It started at [PHI-Personal] and by 5:41 p.m. it was 1 76. Hm. It, it's, it's being weird. Ok. So I, I know [PHI-Personal] would yell at me because she does this occasionally. She doesn't really ever yell at me. She just howls at me and gives me that motherly look. She gives me like, uh, I also will flex my [PHI-Personal]. Ok. Which she wishes I would just take it regularly. But since I did that and it dropped down to 20 I had to call the paramedics, which was a miracle. I got a hold of them. Uh huh, because it took me [PHI-Account] tri, I was so out of it. It took me [PHI-Account] tries to dial 911. So if my numbers are below [PHI-Account] I only take [PHI-Personal] units of insulin [PHI-Personal] instead of 55 units. Mhm. But if it's high, like when it's up around 2 92 80 then I take the full 55. Mhm. I'm trying to make heads and tails out of all this. In other words. Yeah.
+Nurse: Usually what we tell you to do is stay on where you're at. Um, so if we're telling you to do ABC, then do, do the ABC because that way, if it goes too low goes too high, um, we can let you know, like, like you can let us know and then we could, you know, definitely figure it out together, you know.
+Patient: Well, the problem is when II I don't like waking up with my blood sugar below [PHI-Personal]. Mhm. I mean, my body seems to handle [PHI-Personal]. Ok. Ok. My, my body also handles 500. Ok. So as long as I'm in that range, I'm happy. True. Close to 100 if possible.
+Nurse: Right. Yeah. Oh,
+Patient: The only thing I can regulate normally are my pills. Ok. And since they have me over medicated on my pills, uh, I only take them at night. Ok. So how much,
+Nurse: So you take all of your medications at night?
+Patient: Yes, ma'am. Ok. And on rare occasions, depending on how organized I am during the day, which anywhere between, not at all and who am I kidding? Uh, a couple of them I will take during the daytime. Depends on how functioning I have to be because if I take all my meds during the daytime, all I do is I can't get anything done because I'm zoned out.
+Nurse: Ok. Understandable.
+Patient: And I unfortunately do not have a life that can be zoned out. It needs to be functioning at some level.
+Nurse: Ok. All right. Makes sense.
+Patient: Oh. Did you wanna go over pills?
+Nurse: Yeah. I've only have a couple left. Um, clo,
+Patient: Yes, I take that. I take that once or twice a day.
+Nurse: That's one of
+Patient: The ones that, that's one of the ones that I try to remember to take during the daytime because that doesn't really knock me out or anything. Ok. So I have been known to take that in the daytime too.
+Nurse: Ok. All right. And then how about atorvastatin? That's a cholesterol medication.
+Patient: Yes. The cloNIDine says take one tablet, two, twice a day. Ok.
+Nurse: Which
+Patient: I occasionally do. No.
+Nurse: And then the next one is I take vitamin D, one tablet
+Patient: Once I do that, uh, at night.
+Nurse: Ok. I haven't
+Patient: Taken, I haven't taken vitamin D in so long. I think I'm up to Z by now. Nobody gave me any. So I was always supposed to take them for like 12 days. So I took them for 12 days. And in the story. Yeah. And that was quite a while ago.
+Nurse: [PHI-Personal]. And then how about [PHI-Personal]? How much do you give yourself?
+Patient: That was the one we were discussing earlier between [PHI-Personal] and [PHI-Personal]
+Nurse: Five? Oh, ok. So you don't use, you only do that one at night. But the, the one that you could go throughout the day.
+Patient: The other one, the HumaLOG or NovoLOG is the one I fl fluctuate during the day. I can say that. There you go.
+Nurse: Very good. And then, [PHI-Personal], so then the next one I have is carvedilol or Coreg 12.5 mg
+Patient: Take two tablets by mouth twice a day. I take one, I take one at night.
+Nurse: [PHI-Personal]. And then how about
+Patient: If I remember I take one during the day? Ok. Probably not as often as I should because I try not to affect my daytime stuff. Mhm. Ok. Next please.
+Nurse: Ok. And Paroxetine 10 mg every day.
+Patient: Taxol. Mhm. I, I take one every night. Ok, because my life is so stressful, it doesn't help during the day and if I take two of them it puts me to sleep. Ok. Why I only take one?
+Nurse: All right. Well, then I will just update that. That is all I have.
+Patient: Don't you wanna update my?
+Nurse: [PHI-Personal]. [PHI-Personal]. There we go. See there's we go. And uh huh. What's that?
+Patient: So take one tablet every eight hours. I take one. This k I don't, yeah, I do not take that stuff during the daytime because it zones me out. Ok. Did you get the X
+Nurse: I did not, there was another one,
+Patient: Uh one tablet by mouth in the evening. That's the only one that I actually follow, I
+Nurse: Guess. Right?
+Patient: Uh Then I have uh your basic 81 mg a lic acid taking an aspirin.
+Nurse: Ok.
+Patient: Take 11 daily. Take it at night.
+Nurse: All right. [PHI-Personal]. I have it in there. Sorry, I missed that one.
+Patient: Not a problem. Then the isobide mononitrate says take one tablet by mouth once daily. I also take that one at night.
+Nurse: Oh, that one I don't have on here at all. And that one I don't want you to take too much of,
+Patient: Well, I wa somewhere along the lines my brain told me that somebody told me to double it. Take two in the morning and two in the evening. So I was doing that for a while with no side effects.
+Nurse: Ok. And what's the dosage on that?
+Patient: Oh, dear. Wait a minute, I'm sorry. Ok. All right. Uh That's 100 and 20 mg. Ok. So I'm back to the one once a day, which is at night time. Ok. And last but not least no excuse me. Sin count biltiazem. This is a new one. This was given to me by doctor. [PHI-Personal]? They tell them them whatever. I take one tablet by mouth once a day.
+Nurse: Ok. And what's the dosage on that?
+Patient: You gotta stop asking me?
+Nurse: I hate to be that nosy nurse
+Patient: My fault for not telling you. Yeah, they're all back in my bag then
+Nurse: Of course, and it's probably gonna be the last one that you pull out.
+Patient: Well, there aren't any more to pull out.
+Nurse: Ok? I don't even know what that is. Ok.
+Patient: Step will tell you I have moments of being a medical nightmare.
+Nurse: Listen, I've talked to [PHI-Personal] before on you and we have both discussed the
+Patient: Same thing.
+Nurse: Yes, you keep us on our toes. [PHI-Personal].
+Patient: Well, the problem is if I follow medication the way everybody prescribes it for me, I will be on my toes. Uh I'll just be lying here going.
+Nurse: So wait, what if we, what if we gave you your medications as you were taking them, like, if we prescribed them that way, would you take less then?
+Patient: Well, I think as long as I have them the way they are, I just take them the way I take them.
+Nurse: Yeah. Right. So, say you were healthy. Right. Why couldn't we just adjust your medication dosages to reflect what you're taking appropriately? Like, I think that's where we wanna be.
+Patient: So, where I wanna be
+Nurse: Or is this a question of you want? Is it, is it an issue of not tell me if I'm overstepping my boundaries? Control.
+Patient: Elucidate control. Mhm. Well, does it mean me controlling how I feel or me controlling how the medicines
+Nurse: You controlling the medication? So you feel that you, if you're controlling the medications and you could say what you put in your body versus what the doctor says that gives you a sense of control.
+Patient: No, it gives me a sense of being able to function because to me if I can't function, what's the point in taking the medication at all? Ok. So I take it so that I get the medicine that I need but it doesn't screw up my life.
+Nurse: Mm. Ok.
+Patient: I'm not interested in controlling other people because for the most part I listen to people but I don't specifically care what they say. Mhm. But I do take everything into consideration, right? So that I can make an intelligent decision. Yeah. Ok. And then I balance intelligent decision along with how I feel and can function and balance it out.
+Nurse: Ok. Alright. Got it because at night
+Patient: I don't care if Il I'm sleepy right that I'm grateful if I sleep at night. Yeah, but during the day I need to be able to function.
+Nurse: How about with um with your mental health? Do you find that you become sad, depressed or do you feel like that Paxil really works for you.
+Patient: Um, it helps. Ok. Um, I was without it for a while because we were having some trouble organizing and getting people to come up with medication refills and stuff and I noticed things were worse. Mhm. But I don't necessarily get depressed. I get perturbed when things don't go. Right. I get angry usually at myself because it pisses me off not to be able to do what I feel I should be able to do and what I've been doing most of my life up to this point. Ok. I mean, I live in a beautiful [PHI-Geographic] place except my grass is turning [PHI-Personal] this year. Everybody's grass is turning [PHI-Personal]. It's been too hot and I've had projects going on which unfortunately got to a point where they buried me and so they're supposedly trying to help me and get this resolved. Ok. Um, [PHI-Personal] is being a lot more help to me in that aspect than my mental health. People are being so, therefore my mental state. Yes, [PHI-Personal] at best, uh, because it pisses me off because I get winded. You know, I have to use my inhaler. I can't, yeah, I can't just jump in and do things like I used to do. I have to do things, rest, do things, rest, do things rest. And that's very irritating to me.
+Nurse: That would make, make me irritated as well. Sometimes recognizing where you're at is a good thing though.
+Patient: I'm in my bedroom.
+Nurse: Ok. Ok. I get what you're saying physically. I mean, knowing where you're at physically.
+Patient: Yes. Knowing how the body reacts. Mhm. But since I got the inhalers, which I think was the one who started those, uh, it took [PHI-Account] visits, it took [PHI-Account] visits to the hospital before somebody came up with the idea. You need an inhaler. Just another service we provide. Oh,
+Nurse: Ok. Yeah. Just picking that up. Mhm. Oh, gosh. [PHI-Personal]. Ok.
+Patient: I wanted to update everything.
+Nurse: Right. Well, I think I got it all updated. Should I be concerned about any kind of self harm? No.
+Patient: Ok. Good. The only possibility of self harm. Uh huh. Is when I fall on my face going out my door or something? That's not,
+Nurse: That's easy. Ok. So nothing on purpose. Ok.
+Patient: I do not, I'm not concerned about dying. Ok. Only thing that was concerning me is I hate suffocating. Hm. But with the inhalers that solves that problem, so it's no longer a concern.
+Nurse: Ok. Good. That's what I wanted. To hear,
+Patient: I'd like to be an optimist, but I doubt if it would work out.
+Nurse: Yeah. It can't have everything. Where would you put it? Go up the world, where would you put
+Patient: It? I have almost everything and I'm running out of space. One of the things mental health is trying to resolve.
+Nurse: Right.
+Patient: Because for many decades they were treating me for hoarding O CD. Yeah. But I said I'm not really a hoarder but because, hm, I'm not, well, none of us are, you know, the cost of living goes up [PHI-Personal]% and then they go, well, the cost of living only went up 2%. So, we're giving you a half percent raise in your social security. Mm.
+Nurse: You are preaching to the choir?
+Patient: Yeah. So, I mean, because I've always been short funded since I've retired.
+Nurse: Yeah.
+Patient: I have a habit of saving anything that I think I've been using the rest of my life. Some.
+Nurse: Mhm. Oh, ok.
+Patient: Ergo, I became a hoarder. Ok. And it's a really, it's a really tough habit to break. Mhm. Luckily my case worker at mental health who was trying to help me. Mhm. Is also a hoarder to us an extent. So, we're at least on the same page and understand each other.
+Nurse: Ok. Oh, my gosh. I totally blanked [PHI-Personal]. Who's the counselor that's working with you? Where
+Patient: It, the one in mental health? Yeah. Uh, [PHI-Personal].
+Nurse: Oh, counselor. All right. There we go. Got it.
+Patient: And if you're like me, you misspelled [PHI-Personal].
+Nurse: Is it [PHI-Personal]
+Patient: [PHI-Personal]?
+Nurse: Oh, well, excuse me. There we go.
+Patient: That's ok. I always misspell it
+Nurse: Too. That's, that's a hard one.
+Patient: And it's, it's an Irish [PHI-Personal].
+Nurse: Oh, that's why. Ok.
+Patient: And her last name is [PHI-Personal]
+Nurse: Stronc. Now, what nationality is that?
+Patient: I don't know whatever her husband was. And then my, my medicine person for my Debrox and Paxil is, uh
+Nurse: Uh ok. And then that's good. All right, I think I got all of that. All right, [PHI-Personal], I'm gonna let you go. I got a couple things I gotta do. Ok. Do you need anything from our office?
+Patient: Um
+Nurse: You have all your refills, right?
+Patient: I have all my refills and everything, all I need my scooter.
+Nurse: Ok. All you need is the scooter we will work on getting the scooter for you
+Patient: Devil's advocate, right? Um huh. Do I get a thingy to put on my trailer hitch on my car to carry it?
+Nurse: I don't know about that. That would have to be a question for the company that sells it to you. I would make sure that they know.
+Patient: Ok. Mhm. Ok. It's getting hot in here. Mm I don't have air con I don't have air conditioning so it's up to 83 already.
+Nurse: Oh yeah. Oh my goodness. Well hey go outside get some fresh air.
+Patient: Yes I have some stuff to do out there so. Mhm. But I wanted to call, return your call first so that we could get things
+Nurse: Fixed. Well, I appreciate that. Thank you very much.
+Patient: All right. Well, you take care and you have a good day.
+Nurse: Alright. Sounds good. All right. Bye bye bye
+Patient: Bye.

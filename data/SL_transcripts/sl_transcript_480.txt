@@ -1,0 +1,47 @@
+Nurse: Hi. Hello this is [PHI-Personal].
+Patient: Yes. Um I just got a call from you guys and I missed and
+Nurse: This is [PHI-Personal].
+Patient: Yes I was in the car, I'm still in the car but that's alright. Oh no no I'm
+Nurse: Ok perfect. I wanted to just get in touch with you um because we got an alert that you had another like low BP.
+Patient: No. Yeah
+Nurse: So it looks like um on the first which was what day was that? On Tuesday? The bottom number was um below it was looks like it was [PHI-Account] and the top was [PHI-Account]. Um so because it's been running a little bit low. I do remember that doctor did want you to make a follow up appointment. So I I wanted to see if you wanted to make a sooner appointment with her
+Patient: As long as it's covered.
+Nurse: Yes. Yes it will be because it will be to follow up, you know, on your BP. Let me just make sure and then because I know you see her at the end of [PHI-Personal]. Mhm. Um but because your BP has been kind of fluctuating and we you know, she already decreased your medication. Um, I know she said she did want us to maybe get you in sooner. So, I wanted to see. Let me just look here. I'm gonna look at appointment. How are you feeling though?
+Patient: Oh, well, I always feel lousy anyway, but I didn't feel that bad that morning. I mean, you know. Right.
+Nurse: Have you been feeling like, um, any, like, tiredness or fatigue?
+Patient: Well, I always have that anyway but nothing, nothing unusual. I did have a high 11 day, but that was my fault because I made a mistake when I took my BP pills and stuff. Oh, ok. One day was 1 68. But then it's been normal this morning. Well, I don't think I took it yet but I think it was just that one day.
+Nurse: Yeah, I don't see it yet this morning, but I, all your other ones do look really? Well, it's just that bottom number is going a little bit lower than I think she wanted it to be. Let me just look here.
+Patient: Oh, CPAP supplies. You're still there.
+Nurse: Yes, ma'am.
+Patient: Oh, because I got another call. But no, it's not important. I can call back.
+Nurse: I'm just looking at her schedule right now because that's the other thing is I know she's, um, very busy as
+Patient: Well, so I know everybody's busy. I mean, I, it was just that one day that it was just kind of low. You know, I bottom now because I
+Nurse: Know so I can get you in. What is this? I can get you in either next Thursday or Friday, which is, would be [PHI-Personal] the [PHI-Personal] or [PHI-Personal] 11th. And then after that, she has either the following week which would be [PHI-Personal] the [PHI-Personal] or she has to, following week after that, which would be [PHI-Personal] the [PHI-Personal].
+Patient: Ok. What? Um, no, that's not good day before Thanksgiving.
+Nurse: Yeah, I was, but that's the day before Thanksgiving.
+Patient: Yeah. What times does she have?
+Nurse: So, um, for the two next week she has the [PHI-Personal] the [PHI-Personal], which is Thursday at [PHI-Account]:20 p.m. I can do that. That one. Ok, perfect. So
+Patient: Let's, I hope I remember it. I'm in the car. I don't have a pencil. Uh,
+Nurse: No worries. What I'll do is, um, I can always call you back right after we either hang up here and leave a message on your phone or I will be checking in with you again and I can always just give you like a courtesy
+Patient: Call. [PHI-Personal] [PHI-Personal] at [PHI-Account] 30 right? [PHI-Account] 20 [PHI-Account] 20. Ok, let's, let's go with that. I hope I remember right.
+Nurse: And then that way, um, I just, you know, of course, if you start to feel any of the like dizziness, headaches, anything like that, you just give me a call, um, and you're still doing ok on your medications. No, no refills. No
+Patient: Problem. But, um, I'll probably need, I have to go check it, but I think I'm getting low on everything. Ok.
+Nurse: Yes. Ok. And, and you'll be seeing her next week so you can, of course, mention it when you're there as well.
+Patient: Um, I know she just [PHI-Personal] [PHI-Personal] at [PHI-Account] 30.
+Nurse: [PHI-Personal] [PHI-Personal] at [PHI-Account] 20
+Patient: [PHI-Account] 20. Well, that's close enough. Ok.
+Nurse: Yeah. And that way, um, you know, we can just, she can just kind of check up on you and see what's, you know, what it, what's going on with the medication because she may need to just adjust you a little bit and
+Patient: I'm taking a half.
+Nurse: Right. Right. And, and two, what it might be as well is the, um, because it, it carvedilol that she has you on that, it's a strong medication. It, it really is. Um, so it may be that, you know, she takes you off of it or adjust it a little bit more maybe once a day. Um, and maybe it won't just drop that. I don't
+Patient: Think the once a day is gonna work because then it will get too high in the afternoon, you know?
+Nurse: Right. Right. I was gonna say, did she maybe have you taken once a day in the past?
+Patient: No, I had a different one before.
+Nurse: Oh, ok. So this is what, the first time really, this year that she put you on the, um, well,
+Patient: I, I think my heart doctor did it. Oh,
+Nurse: Ok. Ok. Um, so, yeah, that way we can just get you in, we'll get you checked out. Um, and she can make some changes if she needs to and if not, then we'll just keep monitoring it. Maybe what we can do to, um, so that it doesn't continue to alert us is, uh, maybe she can make a new range and say like, ok, well, maybe if it's lower than this because from what I can see is the, the lowest that she has you on is 50. So, or actually I think it's 60. So anytime it drops below that bottom number drops below the 60 which is still not bad because, you know, you're still doing great with that BP. But then it's sending out an alert to us saying, oh, hey, your BP is just dropping way too low.
+Patient: And the bottom number, what, what does the bottom number mean?
+Nurse: So, um the bottom number is how like how much your blood is pumping. So they work in hand in hand. So your, your heart's pumping, you know, and one is making it push the blood through your body. So basically, it's just like it's not pumping hard enough to get that, that blood going. Um But like I said, usually, like you, you said, this is, you, you feel fine, you know, you don't feel any different. So I would say that it's probably just your normal, that's like your normal BP. Um, and the range is just what we have here is it's just alerting us. Like, but like I said, if you know your body the best, so if you're not feeling any different, then I would say you're doing ok. You know, um, I just know that doctor did want us. She just said like, hey, if it still continues to fluctuate, like it has been just have her, you know, help her set up a sooner appointment. So, uh I think it'll be good. Yeah, I think it will be great and then that way y'all can review it. Um, and if she wants to make adjustments, she will and if not, then, you know, we'll just keep monitoring it and you just keep doing whatever you're doing because it seems to be doing well. And like I said, you know, your body, so you would know if your BP was too low, you would feel that you would feel the extreme tiredness. You may even feel like dizzy, lightheaded, like that kind of stuff. So if you're not feeling any of that, then I would think everything is, is going ok.
+Patient: All right. Well, thank you very much. I'll do that in [PHI-Personal].
+Nurse: Yes, ma'am. And then, um, like I said, I will touch base with you probably next Friday after your appointment just to kind of see what, you know what she said, what y'all went over and then we can just, you know, talk about it then. All right. Well, thank you so much. You're welcome and you have a great day.
+Patient: Oh, you have a great weekend. Thank you. Thank you.
+Nurse: Bye bye.

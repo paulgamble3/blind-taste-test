@@ -1,0 +1,18 @@
+Nurse: Hello, this
+Patient: Is [PHI-Personal].
+Nurse: So. Ok. Ok. Ok. Uh. Mhm.
+Patient: See.
+Nurse: Ok. Ok. E mhm.
+Patient: No.
+Nurse: Mhm. [PHI-Personal] Meloxicam. [PHI-Personal] me coming. No.
+Patient: Oh, yeah. Mm.
+Nurse: That affect the days. No. Ok. Correct. Correct. Uh, wow.
+Patient: LLK.
+Nurse: Mhm. [PHI-Personal]? Mhm. No. Uh, no. [PHI-Personal]. Ohh. Well, yeah. Uh,
+Patient: Uh,
+Nurse: I. Mhm. Ah. Mhm.
+Patient: No.
+Nurse: [PHI-Geographic].
+Patient: Uh, in.
+Nurse: Mhm. Mhm. Bye bye bye
+Patient: Bye.

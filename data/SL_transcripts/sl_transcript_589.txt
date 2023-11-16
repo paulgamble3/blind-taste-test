@@ -1,0 +1,14 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Yes. Good morning [PHI-Personal]. This is [PHI-Personal]. How are
+Nurse: You? I'm doing well. How are you?
+Patient: I'm good. Thanks. The reason I'm calling, I'm going to the island for two months and I'm gonna need two months worth of, um, Ozempic. Ok. Is still way I could, um, have that called into CV S if it's possible.
+Nurse: Yeah, let me take a look at that. Do you have any currently?
+Patient: Well, my last dose is on Friday. So I'm gonna go pick one up. Um, my new one should be at the pharmacy now.
+Nurse: Ok. Yeah, let me check on that. Um, and you did say to CV S pharmacy there in Waterford? Yes. Ok. Let me check with Doctor [PHI-Personal] and see what we can do. When do you leave, um, on your trip,
+Patient: Um, leaving [PHI-Personal],
+Nurse: [PHI-Personal]. Ok. Let me work on that and, um, get that taken care of for you. Ok. Ok. All right. Uh, and you, you're gonna be gone for a couple of
+Patient: Months. Yeah, until [PHI-Personal] until [PHI-Personal].
+Nurse: Ok. All right. I'll check with Doctor [PHI-Personal] and I'll let you know. Ok.
+Patient: Ok. Thank you very much.
+Nurse: No problem. You have a good one.
+Patient: You too. Bye bye bye.

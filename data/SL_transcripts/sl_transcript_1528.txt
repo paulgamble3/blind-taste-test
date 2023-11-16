@@ -1,0 +1,25 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hi there, [PHI-Personal]. How are you?
+Nurse: I'm good. How are you?
+Patient: Good. I'm returning your call.
+Nurse: Yep. I was calling to check in and see how you're doing this month. How's everything going? Are you having any issues with anything?
+Patient: Uh, no. Well, are you calling from, uh, office? Yes. Ok. No, I'm fine. Thank you very much for asking.
+Nurse: Ok. I see you were in to see him last week for, uh, a follow up and everything seems to be looking pretty good. Right.
+Patient: Good. Thank
+Nurse: God. Yeah, I see. He did. Um, have you start taking your cure? The, the Coreg for, um, twice a day? Right. Yep. And did you start doing that? Twice a day?
+Patient: Yes. I, ok.
+Nurse: Good. How are you feeling on it? Are you having any side effects or anything?
+Patient: No, I'm fine. Everything is ok. Good.
+Nurse: Good. Yeah, we want to make sure that you're doing ok. Um, are you having any issues? I see you, you take some medication for your COPD but you seem to be ok. Right. You're not having any symptoms right now of that.
+Patient: No, it's good. Yeah. The breathing is good.
+Nurse: Yeah. Good. And you have your inhalers to use if you need to. Right. Yep. Ok. Good. Yeah, because as the weather gets warmer sometimes is your COPD can flare up a little bit from the, from the heat. So, just try to make sure that you're in the shade when you're outside or if you're inside, you're in air conditioning or near a fan. Um, yeah, we don't want you to have any issues with that because if you get too hot, your body needs more oxygen to bring the temperature down so you could flare up. Um, so try to, if you're gonna do anything outside, try to do it earlier in the day or later at night, not during the middle of the day when it tends to be the hottest out. You wanna kinda try to stay in, um, if you can and do anything, any errands or running around when it's not as hot out. So you don't get that shortness of breath and just make sure that you, um, you know, you're drinking plenty of water to keep yourself cool as well. Um, to help with that, we just don't want you having any kind of flare ups or anything and since the weather is getting nicer out now you might be more, a little more of that happening. So good. Are you enjoying the nice weather finally that we're having?
+Patient: Yeah, I just come from outside. I was doing some cleaning outside and, uh, it's fine. Good.
+Nurse: Good, good. Yeah, it's starting to get nice finally so we can finally go outside and enjoy it. So, do you need any refills of your medications? Are you ok with all of them at this time?
+Patient: I think I'm ok with everything. Yeah.
+Nurse: Ok. And then it looks like he has you in for an appointment on the [PHI-Personal] for your annual exam, right?
+Patient: Yeah. three months. It told me three months from today which is [PHI-Personal].
+Nurse: Mhm. Ok, good. And other than that you're feeling ok though, you're doing ok with your, um, like your medications and your, you know, your BP and everything you feel. Ok. Yeah.
+Patient: Good,
+Nurse: Good. All right. Yeah, so I was just calling to check in and see how it was all going. Um, if you need anything, you have my number, you can always reach out and give me a call. Um, and then you know, if you need any refills of medications or anything, I can always help you with that as well. Ok,
+Patient: Great. Thank you for your time. I do appreciate what you're doing. You're welcome.
+Nurse: You're welcome. You have a good rest of your day. Ok, you too. Bye bye. Thank you. Bye bye.

@@ -1,0 +1,14 @@
+Nurse: Hi, this is [PHI-Personal] with the care management team. How can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal]. Sorry, I didn't get your call. I was in the shower.
+Nurse: Oh, it's ok, [PHI-Personal], how are you today?
+Patient: I'm just fantastic. Fantastic. How about yourself?
+Nurse: I'm doing good. Thank you for asking. Well, I do, I appreciate you getting back to me. Um, the reason for my call I wanted to go over information. It's about a new program that [PHI-Personal] is offering to our patients. And do you have a couple of minutes? Ok, great. Um, and just so, you know, [PHI-Personal] the, the call is rec, uh, recorded just for quality purposes. Ok. Uh, it's a new care management program. Um, that's just where our nurse will call you and check in with you to see how you're doing in between office visits. She's gonna go over your full medical health with you, uh, answering any questions, addressing any issues or concerns you may have, uh, she'll also go over any medications if you're taking any. So if you had questions about those or if you needed refills or if you had questions and needed help with appointments, labs, community resources, things like that. Ok. Um yeah.
+Patient: Uh my husband, my husband has that and I think it's phenomenal that that's offered.
+Nurse: Oh, great, great. Yes. And actually I know um uh [PHI-Personal] actually just enrolled also in the program as well. Yes. Yes, he did. Yeah. So that's good. All right. Um I do wanna let you know that the care management program is billable to [PHI-Personal] and [PHI-Personal] Advantage plans and secondary insurance carriers. It's subject to co insurances and deductibles and co payments. So when you have contact with your dedicated nurse, you may get a statement from the practice for this service. It's considered an office visit. Um, and you get to choose how often your nurse calls you. So if you'd like her to call you once a month, maybe once every three months or six months or even just once a year, that's up to you. Um, I'll mail you a letter with your dedicated nurses contact information so you can call her if you had any questions or concerns also. Ok. Um, would you, would you prefer for your nurse to call you in the mornings or in the afternoons, afternoons,
+Patient: Please?
+Nurse: Ok. And then if I could just confirm your information still the same. I have your mailing address still as [PHI-Geographic]. Correct? Ok. And your insurance we have still is [PHI-Personal] and hop, correct? Ok, great. Then you're all set. I hope you all have a great weekend. Stay safe and warm. I don't know if we're gonna get the storm or not.
+Patient: Likewise. I, they said we weren't gonna get the storm but it looks like it's trying this morning.
+Nurse: Yes. I, I don't know. It's kind of like you take
+Patient: Care. Thank you so much and thanks for calling.
+Nurse: Oh, you're welcome. Bye bye
+Patient: Bye.

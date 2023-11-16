@@ -1,0 +1,31 @@
+Nurse: Hi, this is [PHI-Personal]. Hello. Hi, this is [PHI-Personal]. Is this [PHI-Personal]? Who is this? Yes. Hey, this is [PHI-Personal]. I'm calling on behalf of Doctor [PHI-Personal]. Oh, hello,
+Patient: [PHI-Personal]. Ok,
+Nurse: How are you?
+Patient: Ok,
+Nurse: Good. I was just calling
+Patient: [PHI-Personal] my doctor.
+Nurse: Oh, no. Did you have an appointment today? No,
+Patient: I just [PHI-Personal] her. Oh, ok. I've seen her in a long time.
+Nurse: Got you. Um, well, I was just checking in to see how everything's been going and, um, I can see if we can get you an appointment, um, with Doctor [PHI-Personal]. She let me see here. I know it wasn't really letting me pull up the schedule. Um, but I can definitely reach out to the office, um, to see if they can give you a call and see.
+Patient: Ok. Well, I'm, I'm, well, I've been going to the specialist is what's going on.
+Nurse: Right. I see that you went and saw the, um, the liver doctor recently, right? Yes. Ok. And that looked pretty good. Good. Did they, um, real good, good. That's awesome. Did they have like any, um, give you like, any medications or anything like that?
+Patient: Uh, no, I, um, no,
+Nurse: No. Ok. All right. Let me see here. Let me just read over because I saw where I think you saw him on the 10th of this month. Um, let me see. Let's see. Have you had like any, uh, abdominal swelling or leg swelling? Anything else? No,
+Patient: No, she checked all that. No.
+Nurse: Huhu. Good deal. All right. I need
+Patient: To go see a heart doctor though. I got to make an appointment with, with the doctor that I had before with. You know. Um, I have to, I have to do that because I'm out of breath and I know that's my heart. So
+Nurse: I need to get that checked. Yeah. Do you, um, get short of breath while you're walking or even when you're just, um, sitting down? Ok. All
+Patient: Right. Yeah, walking. They had, it was a problem. It's been a problem before. Um, and they gave me water pills but I'm taking enough water pills right now to
+Nurse: Right. You, you
+Patient: Probably keep going to the bathroom.
+Nurse: Uh huh. Ok. Um, and then I know too, uh, you followed up again with the neurologist after your surgery. Are you still doing ok with your back?
+Patient: Yeah, I'm going the end of, uh, 1st, 1st day in [PHI-Personal].
+Nurse: Ok. Good, good deal. All righty. Um, let me look here. Are you good on all your medication refills at the moment?
+Patient: I, I'm gonna have to look, I'm not home right now. Ok.
+Nurse: Got you. Well, if you get home and you notice you're low on something or out, just feel free to give me a call and let me know. And I can thank thank you um a refill request and I can message the ladies up at the office just to, you know, reach out to you when you know you got a moment and um see if they can schedule you an appointment to follow up with doctor. Um just since it's been a while, since you've seen her and everything. Well, yeah. Ok,
+Patient: So she, well, she knows
+Nurse: Right, they talk about what that would be good. Yeah. Ok. Ok. Let me look. Uh, is there any other like, questions or anything that I could help you with at the moment?
+Patient: And not that I can think of right now?
+Nurse: No. All right. Well, just let me know if I can do anything for you and give me a call. Um, but I'll be reaching out to you sometime next month just to do a check in again and see how everything's been going.
+Patient: Ok, dear. Thank you so much for calling.
+Nurse: You're welcome. Have a good rest of your week. You too. Thank you. Bye bye. Hm.

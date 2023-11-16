@@ -1,0 +1,55 @@
+Nurse: How may I help you?
+Patient: Hi, [PHI-Personal]. This is, how
+Nurse: Are good. How are you?
+Patient: I'm, I'm driving so I don't know if I'll break up, but I just quickly wanted to, my dad wanted to share with Doctor [PHI-Personal] his, um, well, his appointment that he had Monday with the bone doctor with, um, and orthopedics and I prior to that and give him some encouragement and stuff and he wanted to let him know how he made out. He probably should have asked them to send them to him.
+Nurse: Let me see if I just have to go to his chart if you give me one second. Oh. Right. Yeah. How are you doing?
+Patient: Hanging in there to? But we're hanging in there, both of
+Nurse: Us. Is he still at the place or?
+Patient: Yeah. But, but this is what I was going to tell you. As soon as you take a look at it, I'll let you know what he said. Oh, ok.
+Nurse: Yeah, I just have to get out of this person's chart. Um. Ok. Ok. And ok. Ok. Doctor. Ok. Tomorrow is the third, right? Yeah.
+Patient: Yeah, it's [PHI-Personal].
+Nurse: Groundhog. Is that today or tomorrow? To today is Groundhog. Right. I heard are we getting [PHI-Personal] more, um, [PHI-Personal] more, um,
+Patient: For winter, [PHI-Personal] more weeks. Right.
+Nurse: Yeah. Right. Um, ok, let me just get out of here. Ok. How's that? Spirits? Are they a little better or?
+Patient: They were really good on, uh, on Monday. He had a great day. He was real down again yesterday. But, um, uh, that's what I was gonna, you want me to tell you about our appointment? You can look at the same time. So the appointment went well, his leg uh bone, the femur bone had healed completely. It was beautiful. They, the healing of it. We didn't expect that it's
+Nurse: Completely. And this leg is what, um the left or the right, the right. Yeah. Ok.
+Patient: So that was awesome news and uh even the doctor came in to say hi to him, who is his regular doctor, but the appointment wasn't with him and, and um see him. So that lifted his spirit that he took the time from his other patient to come in.
+Nurse: And it's completely healed though, correct? You said
+Patient: They said it's healed, healed beautifully. And we don't need to use the Hoyer lift anymore where they lift him to start walking. And um, and oh, he wrote up the stuff for the uh rehab and um, you know, we took the notes back with this and that day uh rehab was gonna took him down to try to stand him up, they want. Ok, so they said we're gonna stand up but he stood up and he said, I, I wanna walk. And so there was three of them, one on either side and one behind with a belt because he had been in bed for three months. You know, my gosh, [PHI-Personal], that [PHI-Personal] walked out the door of the rehab room and into the hall and everybody was,
+Nurse: Oh, good for him. Oh, yeah. Probably made you cry. I don't know. You're, oh, so he doesn't have to use a little lift anymore. He's working with physical therapy and patient was able to walk with the [PHI-Personal] times three.
+Patient: They, yeah, I mean, he was, he had a hold of the walker. They were just on either side of them. They weren't holding him. She was holding him with a bell
+Nurse: Walker. Ok. Uh
+Patient: We thought, you know, I didn't, I thought they, when rehab thought by the end of this week he'd be just on the walker, you know, but we'll have to wait and see. He needs to get his strength, his, his, uh, you know, but doctor had said the Ortho doctor said frankly no more lifting you can go. They should be getting you up and putting you from the letting you go from the bed to the chair and from the bed to the commode. And, uh, uh he didn't even use the commode. They have this thing called the study contraption that they on wheels that they have you stand on from your sitting position and they actually wheeled him in and even use the bathroom yesterday.
+Nurse: Really? That must make him feel good. Jeez. You know,
+Patient: He was, but yesterday, his spirits were real down again because he only had, you know, he gets just a little bit of rehab, maybe 30 40 minutes. It seems quick to him and then he's sitting in a chair for 10 hours. So it's just like he wants to do more, you know. So he says nothing except the bone is healed, but I'm still sitting here all day and, yeah, so his spirits are back on yesterday. But I think they're so
+Nurse: They're up and down like he wants to do more, like for himself kind of thing and everything or,
+Patient: Yeah, they're just up and down because of that and because the help still cannot care for his personal needs. And, uh, you know, the, the nights are long and they're tough. Yeah, because they can't answer the call. They, they just, they, they try but, um, you know, I don't wanna get into it. It's kind of personal. Yeah. Um, it, down, it's just, it's very hard. So, anyway, um, we're the Ortho guy said that, um, as far as he was concerned, we could, uh, he could go home as soon as the facility is ready to let him go. And, and of course, the heart doctor he said is another issue that, that's, uh, he doesn't, you know, get into his area, he'll have to, whatever his restrictions or that's up to him when his
+Nurse: Cardiology appointment, um,
+Patient: Had it on the, and they did an x-ray on the [PHI-Personal] and we have not heard the results of that yet, so I was gonna call them and see what they've come up with on that.
+Nurse: Um, ok. Um, so he may be able to go home at, when the facility releases him. Uh,
+Patient: Said you need to get a little stronger and the process takes a while and he said with the short of help, it may take longer than usual, you know, it could be two or three where they get it together and that's hoping that longer than three. I'm hoping too maybe. But, um, we, we, like I said, because they probably have
+Nurse: To discharge him from therapy and everything, you know. Um,
+Patient: I'm gonna meet with the, hopefully the, to see what their process is if she has time. So, uh, yeah, just suggested I write up, uh, because I asked him how I, what I should do and he said you should write up what you would need at home, what you think and then go see the discharge planner and go over it with her and leave her a copy and then they take it from there and then she should stay in touch with you.
+Nurse: Ok. Um, so you are gonna work with them to see what he would need for home. Um, ok. Um, that's great news though. I
+Patient: Want him to be, I don't, I want him to get home because of the, he doesn't have the personal care that he needs, but I want him to be strong enough too and, and, you know, he, and just because he took a few steps, that's awesome. But he's got to get his strength back. Yeah. Um sitting up on the bed or anything, you know, for three months, just in a chair. That's a
+Nurse: Lot, you know, it's gonna take a little while, you know, he's,
+Patient: He is resilient and like they said, he's ahead of his age, way ahead. So because of his, his strength that he does have, yes, he really wanted doctor to, to know how he made out that. And you can quote this, he came in for one minute to see him and he said [PHI-Personal], you're an amazing [PHI-Personal] that made me,
+Nurse: Let me put that in there. Um OK. PC I update I gotta put Doctor [PHI-Personal].
+Patient: Yeah, we call doctor
+Nurse: Doctor the I'll find his name. I need um I know I could picture it. I'll just look it up. Um I can go out into um um and said [PHI-Personal] here. Amazing. Oh, that probably mean [PHI-Personal] your dad like so happy. Yeah, because
+Patient: The bone has healed beautifully. They were just as amazed how beautiful it had healed and that's the second time what his hip bone has healed and they didn't believe it would heal so good. So they just said you're amazing
+Nurse: [PHI-Personal]. Oh, wonderful. Um That's great. He'll be happy to hear that.
+Patient: Encouraged. He was with that [PHI-Personal] taking the time to personally call and encourage him. That made a big difference.
+Nurse: So did, did Doctor [PHI-Personal] call him recently or?
+Patient: Yeah. Yeah, he did. Um might not to put it in the notes. I don't know, but he called just to give him some encourage encouragement. Yeah.
+Nurse: Oh, wonderful. Ok, wonderful. Ok. Um ok. And ok, spoke with uh he talked to you too, right? Ok. With patients. That's ok. And, and I'll put that in the note that you feel that was like very helpful. Um. Mhm. Um, what's, what's that dear?
+Patient: I mean that, that, that in the night time that will embarrass him. That's our biggest issue.
+Nurse: Ok. I didn't put anything about the night time. Um,
+Patient: Just uh it's too bad but it's the way it is, it's just everywhere they can't get to help them toilet in the night and stuff and, and change them and it's not good, but it's the way it is everywhere.
+Nurse: It's nuts out there. I can't get the help, you know,
+Patient: I do. Yes, I do. And it's frustrating and the patients but, but we can't change it. So, so thank you. Just wanted, he wanted me to call Doctor [PHI-Personal]. So I'll tell him when I get there, I'm almost there. I'll tell him I just pass the word along that he had an appointment and that, and we go back, the
+Nurse: Bone is healed beautifully. Um, he's working with a t he was able to walk, um,
+Patient: Home and just get his strength up and he can go home. Yeah.
+Nurse: Yeah. Ok. Um, yeah, I'll definitely send this over for you though. Ok. Um, and like I said, anything you need me to send over don't ever hesitate to call,
+Patient: So I I won't then. Yeah, he uh thank you so much, [PHI-Personal]. You're
+Nurse: Welcome. You're welcome. Tell Franklin I said hi too. Tell him I was cheering him on he can do it. Tell him I said um ok, I'll talk to you soon. Bye.

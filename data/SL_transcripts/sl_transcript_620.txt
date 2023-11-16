@@ -1,0 +1,21 @@
+Nurse: [PHI-Geographic] Care Management Team.
+Patient: Hi. My name is [PHI-Personal] and I'm returning a phone call.
+Nurse: Yes, Mister [PHI-Personal]. Hi. I was just gonna give you a call back tomorrow because I didn't wanna interrupt you at your other appointment. But the
+Patient: Reason,
+Nurse: Ok, go ahead. Ok. But the reason for the call is that um, Doctor [PHI-Personal] [PHI-Personal] is providing um, a care management program that he thinks will be beneficial to you as well as Miss. Um, and, and what the program is is that um, a nurse will just give you all a call in between your office visits just to make sure that y'all are doing ok. Um She can answer any kind of concerns. She can help with any type of acute issues, lab and test results, community resources, um, medication refills, prescription cost reductions, help expedite appointments and referrals.
+Patient: Basically, anything
+Nurse: Involving your health, she will be an added support and she will keep Doctor [PHI-Personal] back up to date on all of your current conditions as well as if you were to have any type of changes. Um And so the program is just designed to try to provide you with some additional care and support um in between your office visits as well as trying to improve and promote your overall health and well being. It's a billable service to Medicare, Medicare advantage and secondary insurance. So it may be subject to copay, deductible and coinsurance. Looks like you have the [PHI-Personal]. Yes, ma'am. Ok. Um So you will qualify and the nurse can either call you um on like a monthly basis or every couple months or every three months, whichever you think will be better. Yeah, if
+Patient: You wanted to give it a
+Nurse: Try. Ok. Every couple of months. Ok. And you think M [PHI-Personal] would like to participate as
+Patient: Well? I believe so. Yes, sir.
+Nurse: Ok. Do her for every couple months as well.
+Patient: Yes, ma'am.
+Nurse: Ok. And will it be better to reach you in the mornings or afternoons? Mr
+Patient: [PHI-Personal], uh, probably afternoon,
+Nurse: Afternoon? Ok. And I am going to mail you out a letter and I have the nurses information on it. Ok. And she'll probably touch base with you within the next week and she'll give you a little more information about everything. Um, and then if you have any further questions or anything, then
+Patient: You can just present them
+Nurse: To her at that time. Do you still get your mail from the [PHI-Geographic]
+Patient: [PHI-Geographic]? Yes, ma'am.
+Nurse: Ok. All right. Well, thank you so much for giving me a call back and I hope everything is ok. And you enjoy the rest of your day. Ok. Thank
+Patient: You so much. Alright, bye
+Nurse: Bye.

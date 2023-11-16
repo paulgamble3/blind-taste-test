@@ -1,0 +1,16 @@
+Nurse: Nurse care manager. This is [PHI-Personal].
+Patient: Hi, this is dying. Just sat down on the toilet. That's all I'm gonna say when you called and I couldn't get to the phone in time. Oh, no
+Nurse: Problem, no problem. Uh, so I just wanted to clarify.
+Patient: Ok, doctor appointments, [PHI-Personal] at [PHI-Geographic] in [PHI-Geographic]. And that's by the, by the W [PHI-Geographic].
+Nurse: Mhm. Yeah. Ok. So that is the
+Patient: [PHI-Geographic].
+Nurse: Ok. And now did you need transport for the other one too?
+Patient: Yeah. Doctor the doctor [PHI-Personal]. The appointments at 9 a.m. at [PHI-Geographic], Brooklyn Square. How you knock it off? I'm on the hold 40.
+Nurse: Where was, so that, where was that at?
+Patient: The heart? Doctor is [PHI-Personal] 9 a.m. in [PHI-Geographic] at [PHI-Geographic]. The medicalized building now. Ok. All right. And where we at, we might as well get the paperwork done for [PHI-Personal] with doctor [PHI-Personal] at 9 30. Then I won't be home buggy as much.
+Nurse: Ok, so you need transport for that one too. Yeah. So all three.
+Patient: Yes, please. All
+Nurse: Right, I will get working on that. I know. Um, [PHI-Personal] from the office had set up the other one, but we'll have to have the date, the date changed, but I'll get back to you with the confirmation and every once we get them all set. Ok.
+Patient: Ok, I'm gonna be going half the day. So you have to leave a message at this number. 78. Ok. 31
+Nurse: 30 31. Ok. No problem. I'll get that. We'll get it for you and then I'll leave you a message if you don't pick up. Thanks and you too. Have a wonderful.
+Patient: Ok. Bye bye. Bye bye.

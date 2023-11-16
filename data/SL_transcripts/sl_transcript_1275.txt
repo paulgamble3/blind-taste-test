@@ -1,0 +1,15 @@
+Nurse: This is speaking how may I help you?
+Patient: Yeah, can call me my name's one of the older.
+Nurse: Ok hold
+Patient: On one second. Who [PHI-Personal]?
+Nurse: This is um [PHI-Personal] the care management nurse with doctor [PHI-Personal] office.
+Patient: Oh ok.
+Nurse: Ok hold on let me pull you up really quick.
+Patient: It might be for Mo my husband
+Nurse: Um let see. Yeah this is oh yeah for [PHI-Personal].
+Patient: Ok hold on a second mark and if he can give uh guide for me to talk to me, I will be ok. Right.
+Nurse: Um yeah yeah. Hello?
+Patient: Yeah. Oh uh hold on a second um I let him talk to you. Mhm. You gotta get that. Hello?
+Nurse: Hi um this is tta the care management nurse with doctor [PHI-Personal] office at the [PHI-Geographic]. Um I just yeah I was just giving you a call today um just basically to make sure that we have information accurate in the system because she has you enrolled in the care management program um at her office. So I just wanted to make sure your address was right and that all your medication was up to date. Yeah. Ok. Alrighty hold on one second. So for your address, I have 17 [PHI-Geographic] [PHI-Personal] [PHI-Geographic] um [PHI-Geographic]. Yep. Ok. And I'm just gonna run down a list of your medication. You can just tell me if you're still taking it. Ok. Ok. All right. So we have the amLODIPine 10 mg. Yeah. Um Aspirin low dose. 81 mg. Yeah. Atorvastatin calcium 80 mg. Yep. Um What is this? Clap um clap to [PHI-Personal] bisulfate 75 mg. Yep. Ok. Chlor 25 mg. Yep. Um the Losartan potassium 100 mg. Yep. Metformin 500 mg. Yep. Metoprolol, 100 mg. Yeah and vitamin D 50 MC GS. Yeah. Ok. Do you need any refills on anything?
+Patient: Um I supposed to be getting my pills today from medic um customer care?
+Nurse: Ok. Alrighty. Ok, so you're gonna get a letter in the mail. It's gonna have a phone number on there that you can just call if you need anything. Um you know if you have any questions need medication ref refills do you have any issues or any concerns or whatever you can just call that number? Um and then for frequency we'll call like every two months just to check in and see if everything is ok with you. Ok. Ok. Alrighty. So thanks for taking thanks for um calling back. All right. Thank you. Bye bye bye.

@@ -1,0 +1,9 @@
+Nurse: This is [PHI-Personal] nurse care manager.
+Patient: Yeah. Hey, this is [PHI-Personal]. Oh, they never got my, they never got my medicine prescription. Oh,
+Nurse: Ok. Let me check in on this. Get you pulled up here.
+Patient: They said they keep sending it but nobody writes back to him.
+Nurse: Ok. It looks like they had just sent it in. It's queued right now. So they're just waiting for doctor lay to sign it and then it's gonna, it should be good to
+Patient: Go. Uh, I hope so. Ok. Well, I'll wait to call again the pharmacy a little later and find out if they got it. Oh my. Ok. Well then that's, that's all you can do.
+Nurse: Right. Right. Ok. Yeah. And I'll double check if they don't, if it's not sent in in like a couple hours or so, I'm actually gonna call the office to have them sent in. Ok.
+Patient: Ok, I appreciate that. You're
+Nurse: Welcome. Thank you. Thank you. Bye bye bye.

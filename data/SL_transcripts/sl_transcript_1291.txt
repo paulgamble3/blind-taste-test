@@ -1,0 +1,17 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hi, good morning. This is Good morning. Hi, [PHI-Personal], how are you doing today? Uh, not too bad.
+Nurse: Good. I'm glad, um, I was just giving you one last call this month just to check in after your cardiology appointment that you had on Friday or last week. Um, I see that [PHI-Personal] recommended. Uh, you have a procedure
+Patient: Done. Yes, ma'am.
+Nurse: Ok. All right. Um, and you guys are gonna go through with that. Yes. Ok.
+Patient: All right. I'm just waiting for them to schedule it. Sure.
+Nurse: Yeah, absolutely. Um, I see that she sent the message over to doctor so hopefully they can get you in soon. Um, and then we'll just continue the Eliquis. So, um, but other than that you're doing good.
+Patient: Um, no, no, what's going on? I'm throw, I'm still throwing up,
+Nurse: Still throwing up. Ok. Um, how many times has that happened?
+Patient: Twice now? Ok. Was within the last week.
+Nurse: Ok.
+Patient: Um, can I can, can you talk to the doctor and see if I can go back on, uh, the lesser? So,
+Nurse: Yeah. Yeah, I will send a, my, a message over to [PHI-Personal] um and then I'll get back so good
+Patient: And uh
+Nurse: On the lower dose, right? Yeah so um let me let me give him a message um and then once I hear back from him um uh we'll probably get a new a new dose sent out. Ok? Oh that'd be great. Alright g I'll I'll let you know when I hear back from [PHI-Personal]. Ok. Ok. Alright my dear try to have a good day. Ok, thank
+Patient: You. You're
+Nurse: Welcome honey. Absolutely. Bye bye.

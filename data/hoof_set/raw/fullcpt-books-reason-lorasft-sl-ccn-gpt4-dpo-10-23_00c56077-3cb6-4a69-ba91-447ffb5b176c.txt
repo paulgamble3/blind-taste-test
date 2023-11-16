@@ -1,0 +1,38 @@
+Nurse: Great.Before we begin, I just need to verify your identity.Can you please tell me your date of birth?
+Patient: Yes.My date of birth,isJune seventh nineteen seventy seven.
+System: Thank the user for confirming their date of birth and continue with the conversation.
+Nurse: Great, thank you for confirming that.I'm calling to check in with you about your upcoming Total Knee Replacement procedure.I'm here to answer any questions you might have and to make sure you're well-prepared for your surgery.
+Patient: Oh, great.That's perfect.I'm glad you're calling. I am pretty scared for theseizure. It's in two days.And my daughter's telling me it's not a big deal, but I'm not used to surgeries.
+Nurse: I understand that you're feeling scared about your upcoming surgery.It's completely normal to feel this way, especially when it's something you're not used to.I'm here to help you through this process and make sure you're well-prepared and informed.Let's start by going over some pre-op instructions and then we can address any specific concerns you might have.
+Patient: Sure. Sounds good with me.
+Nurse: Great, I'm glad to hear that.Let's start with the pre-op instructions.Firstly, you'll need to stop eating and drinking after midnight the day before your surgery.This is to ensure your stomach is empty during the procedure.Also, you'll need to arrange for a ride home from the hospital after the surgery, as you won't be able to drive yourself.And finally, you'll need to have a caregiver to assist you with recovery when you get home.Do you have any questions about these instructions?
+Patient: Have any questions.
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: As of now,I mainly just want to knowif
+System: If you think you misheard the patient, ask them to repeat themselves. Otherwise proceed.
+Patient: there's gonna be pain afterwards after the surgery.
+Nurse: I understand your concern.Yes, there will be some pain after the surgery, but we'll do everything we can to manage it effectively.You'll be given pain medication to help you through the recovery process.It's essential to let us know if you're experiencing a lot of pain so we can adjust your medication accordingly.We want to make sure you're comfortable during your recovery.
+Patient: Okay. That's that's good to know.
+Nurse: I'm glad you feel reassured.Now, let's go over a few more pre-op instructions.It's critical to follow these instructions to ensure your surgery goes smoothly.Do you have any other questions or concerns before we continue?
+Patient: I want to know if I'll be able to move aroundNo.After theRecovery.That's the main thing.
+Nurse: Yes, you will be able to move around after your recovery.In fact, physical therapy will be an important part of your recovery process.It will help you regain strength and mobility in your knee.We'll make sure you're well-prepared for this and have all the information you need.Now, let's continue with the pre-op instructions.Do you have any other questions or concerns before we move on?
+Patient: I think that'sor no,Yeah. I I just like to know how to better be prepared for that.Surgery.
+Nurse: I understand.It's important to feel prepared for your surgery.We're going to go over all the pre-op instructions to make sure you know what to expect and what you need to do.If you have any questions or concerns as we go along, don't hesitate to ask.We're here to help you through this process.
+Patient: Sure. Thank you very much. I do appreciate that.
+Nurse: You're welcome.I'm here to help you through this process.Now, let's continue with the pre-op instructions.Do you have any other questions or concerns before we move on?
+Patient: No. As of as of now, I do not.
+Nurse: Great, I'm glad to hear that.Now, let's go over the skin prep instructions.It's critical to follow these instructions to help prevent infection.You'll need to use a chlorhexidine scrub in the shower the night before and morning of the procedure.This will help clean your skin and reduce the risk of infection.Do you have any questions about this?
+Patient: No.I think they got it.
+Nurse: Great, I'm glad you understand.Now, I just want to confirm that you've picked up your post-op medications.You should have received Oxycodone 5 milligrams.Have you picked up your medications?
+Patient: Yes. I have.
+Nurse: Great, I'm glad to hear that.Now, let's review the medications that you need to stop prior to the procedure.You don't need to stop any medications before the procedure.Do you have any questions about this?
+Patient: No. That sounds easy.That I don't need to stop any. That's good to know.
+Nurse: Yes, it's important to know which medications to stop and which ones to continue.Now, I'd like to ask you something.What are you looking forward to doing with your new knee?
+Patient: With my new knee, I want toyou know, go back to hiking. They really used to enjoy hiking.It'd be really great if I could get that.That.
+Nurse: That's great to hear!It sounds like you're looking forward to getting back to your hiking adventures after your recovery.It's essential to have something to look forward to during the recovery process.Now, do you have any questions about the procedure itself?
+Patient: For the procedure itself?Is thereRis involved in this procedure.
+Nurse: Yes, there are risks involved in any surgical procedure.However, our team is highly skilled and experienced, and we take every precaution to minimize these risks.Some potential risks include infection, blood clots, and complications related to anesthesia.We'll do everything we can to ensure your safety and well-being throughout the procedure and recovery process.Do you have any other questions about the procedure?
+Patient: As of now, no.
+Nurse: Okay, great.I'm glad I could answer your question.Now, I just want to give you a callback number in case you have any questions or concerns after our call.You can reach me at 641-381-6523.Do you have a pen and paper handy to write that down?
+Patient: Yeah. I I have thenoted down in my phone.
+Nurse: Great, I'm glad you have the number.Don't hesitate to call if you need anything or if you have any questions.Thank you for your time today, and I wish you all the best with your surgery and recovery.

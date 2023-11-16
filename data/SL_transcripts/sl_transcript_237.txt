@@ -1,0 +1,11 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Yeah, hi. Um, this is [PHI-Personal] calling. Hi, how are you today? I'm good. I'm good. I just wanted to call and thank you for um for uh the message and getting a hold of um uh [PHI-Personal] up at family practice for me.
+Nurse: Oh, I think that was someone else. Um, give me
+Patient: One. It, it's ok. No, it's, and actually I, I can't pronounce her name. I thought it was [PHI-Personal] but it's spelled [PHI-Personal].
+Nurse: Oh, ok. Ok. Give me one second. Let me, let me see if she's available.
+Patient: How do you say her
+Nurse: Name? That's a great question. I have no idea. You don't know either. No, I, no, I
+Patient: Don't. I'm sorry. That's ok. Just tell her I got her message. Everything's fine and I appreciate all she did.
+Nurse: Ok, I'll let her know.
+Patient: Thanks. This is Kate [PHI-Personal].
+Nurse: No problem. Birthday is 77 57. Right. Right. Ok. I'll let her know. Thank you. You're welcome. Bye bye.

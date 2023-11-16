@@ -1,0 +1,45 @@
+Nurse: Hello, this is
+Patient: [PHI-Personal]. This is [PHI-Personal]. Hi, [PHI-Personal], how are you? I'm doing ok. Good,
+Nurse: Good. Uh, give me one second. I'm gonna jump in your chart. Ok. Can you confirm your date of birth for me? [PHI-Personal]
+Patient: [PHI-Account].
+Nurse: Perfect. So, how's everything going with you? Any changes to medications or health recently?
+Patient: No, no
+Nurse: Good. Do you need, um, refills on anything today?
+Patient: No, I don't think so. Oh, ok.
+Nurse: And no, he said no changes to your medications. How's your blood sugar? Do you check that at home?
+Patient: I check it once a day. Yeah.
+Nurse: Ok. What was it today?
+Patient: It was [PHI-Account] today. Excuse me? Ok. I, that's no. Um, yeah, Monday night, I eat, uh, [PHI-Personal] Cine, one of those lean cuisines that had some pasta in it. I don't, I don't think it would put it up that much but it did so.
+Nurse: Ok. Um, how was it, a large portion of pasta?
+Patient: It, I didn't think it seemed to be that much more. Ok. Shrimp and, uh, and [PHI-Personal] and Alfredo sauce. So. Ok. Wasn't many calories, so I didn't think it was. No.
+Nurse: Yeah. Ok. Um, did you have anything else like ice cream or any kind of snack cookies.
+Patient: Pretzels coffee. And I had two sugar free, don't, or two sugar free cookies, but they shouldn't have it up either.
+Nurse: No. Ok. Um, any, like excessive thirst, headaches, frequent urination, blurred vision.
+Patient: I, any frequent urination, like, but ok, I had that I wear, depends because, ok, I, uh, if I wouldn't, I get, I would get myself wet before I get to the bathroom sometimes. So, yeah. Depends. Ok. Mm. I have an appointment next week for, um, blood work. Yes, I do. Uh, I was wondering if I should bring a urine sample along or wait until I get there.
+Nurse: Um, I would just wait until you get there and then they can go ahead and, and get a sample from you. Ok. Um, all right. So, glimepiride Jardiance and Metformin. I have you on. Is that correct for your diabetes? Oh, and Trulicity?
+Patient: Oh, that number of pride was taken away. That one was
+Nurse: Ok. Let me take that off. And who discontinued that?
+Patient: Doctor [PHI-Personal]?
+Nurse: Ok. All right. So, then the Jardiance. Are you still on the Jardiance? Yes. Metformin. Yes. And Trulicity. Yes. Ok. All right. Um, hm. Do you think you drink enough water during the day?
+Patient: I, I drink water but I, I drink like iced tea too and, ah, coffee too.
+Nurse: Ok. Now, do you think the iced tea brings your sugar up? Is it like sweet tea or? Is it unsweetened?
+Patient: Oh, I put a little bit of a agave in it.
+Nurse: Ok. Um, do you think you eat three meals a day or? Do you ever skip
+Patient: Meal? That dogs making too much noise? You'd be quiet. She's, she's awfully [PHI-Personal]. Ok. Yes, I don't see anything though, so I don't know what she's barking about.
+Nurse: She must have heard something just
+Patient: Going, just going into the kitchen. Do you want, do you want some more of my, my blood sugars for? And you? Yeah, that
+Nurse: Sure. Yeah. What was, uh, just give me like the last four
+Patient: Days. Let's go, I'll go with Thursday the [PHI-Personal]. I had, it was [PHI-Account] there. I had boneless pork chops and veggies. I wrote behind it and then the, that was Wednesday and Thursday the [PHI-Personal]. I had the same thing that night, that night that when it was left overs. So the, it was [PHI-Account] again then on Friday it was 1 40 Saturday. I forgot to do it before I ate. So I didn't do it that day. And, uh, Sunday it was [PHI-Account] and, uh, actually that was Monday when it was [PHI-Account] Monday and then yesterday and today it was [PHI-Account]. Ok.
+Nurse: I mean, it definitely could have been the pasta. But yeah, I'm not sure. I wouldn't think that a small amount of past like that, you know, it really shouldn't raise your blood sugar that high.
+Patient: Um, I guess it, it, if it would be that high every day it maybe put me back on that still. But that some days it's in the one forties. So I know Sunday, [PHI-Personal]. It was 1 32. Ok. Um, well, I'll bring my, yeah, papers are along that. I have my blood sugars on next week when I come up for my appointment.
+Nurse: Yeah, that sounds like a good idea. And you can talk to doctor.
+Patient: Yeah. What to do?
+Nurse: Ok. That sounds like a good plan. And in the meantime, just like I said, try to remember to get your three meals a day. Don't skip a meal. Um, because that could cause your blood sugar to go too low. So we don't wanna do that.
+Patient: No, I never skip a meal.
+Nurse: Ok, if you're active, it's good to have a snack in between as well. Um,
+Patient: I usually have fruit for snacks.
+Nurse: Ok, good. All right. Well, that sounds good. Bring those with you next week. Um, when you come to come for your lab work, he can take a peek at those and decide what he wants to do and then I'll follow up with you after that appointment. Um, so we can talk about if he, you know, makes any changes to anything.
+Patient: Ok.
+Nurse: All right, [PHI-Personal], do you have any other questions or concerns today? No. No. Ok. Well, I'll reach out to you next week probably. Wednesday looks like your
+Patient: Appointment. Uh, my appointment is, uh Tuesday.
+Nurse: Yep. Yep. So I'll reach out to you Wednesday. Um, and we can talk about, you know what he decided? All right. All right. Sounds good. Well, I will talk to you next week, right. Have a good day. You too. Thanks. Bye bye.

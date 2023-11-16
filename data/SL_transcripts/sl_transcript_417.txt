@@ -1,0 +1,43 @@
+Nurse: Hi, this is [PHI-Personal], the nurse care manager.
+Patient: Hi, good morning, [PHI-Personal]. This is [PHI-Personal] calling. Um, I know [PHI-Personal] called a while back but I, since then I've been really sick and I don't know whether I need to come in and see Doctor [PHI-Personal]. I was in the emergency room Saturday and whatever they gave me, they gave me a shot and they gave me a drink of like pink and they do something from a vial and put it in it and stir it up something they gave me gave me a rash all over the top part of my body and I just wondered what I just keep taking Benadryl or
+Nurse: No. So that's an allergic reaction to an antibiotic. Sometimes, um, doctors will say you can continue taking it. Other doctors say stop immediately. So what I'm gonna do, let me, I'm gonna look up your, they gave me a
+Patient: Shot for that, that I, you know, so I'm not taking a pill for an antibiotic cause it was all viral.
+Nurse: Oh, ok. Let me just pull up the, er, documents and see what's going
+Patient: On. What,
+Nurse: What I'm gonna tell you now. Is just stop taking it right for the meantime,
+Patient: I'm not taking anything, I'm not taking anything. That's, I'm sorry. That's all right. Ok.
+Nurse: I'm just reading through the notes. Ok? You go ahead.
+Patient: I mean, it might be something else I have to put on my, you know, allergy, allergy in information.
+Nurse: Ok. Looks like they gave you more steroids and pain medicine. So I don't know why you would be getting a rash. Can you tell me when you first started getting as sick? When you first started feeling sick?
+Patient: I went to bed last Wednesday night feeling just fine. I woke up Thursday sick as a dog. The minute I opened my eyes, I knew something was wrong. Dizzy, lightheaded about, like I have a golf ball in my throat. So I was just, you know, treating it as, you know, a little virus. But I got so I couldn't, you know, I couldn't, I felt like I couldn't swallow and I just drove myself to the, er, I was just needing to know if I had a, something that an antibiotic would help like strep, but they didn't take a strep test. They didn't look in my ears. They, all, they did was a nose swab.
+Nurse: Yeah, it looks like everything came out negative. Do you remember, um, getting any tick bites this year or? Did you spend a lot of time outside?
+Patient: No, I don't spend a lot of time outside of, you know, on the lake. Yeah, in the summer time. But,
+Nurse: Ok, because sometimes that can cause flu like symptoms and there's multiple tick borne diseases. Not just. Oh, really? Yeah. So that's a possibility. Um, but it looks like everything, there was negative as far as the rash. Is it, like, like a pink, it's pink. It looks
+Patient: Like I, it looks like it's not even raised honey. It just looks, I have, like, I have a sunburn on my shoulders, my chest and my face and my arms spots on my arms, but they gave me a drink to drink and I don't know what was in there. What did it say?
+Nurse: I don't see anything about a drink. All it says was it give you a mixture of Decadron which is like a steroid Motrin and lidocaine for it for,
+Patient: Well, it was pink and they drew something from a vial and put it in there and stirred it up and I drank it like a shot, a shot or something. So maybe that's why.
+Nurse: When was your last booster? Do you remember
+Patient: Booster for COVID?
+Nurse: Yeah. Or flu vaccine. Did you get any vaccines recently? I did.
+Patient: I did, I am back to the max.
+Nurse: No, I know. But sometimes your body can have a um adverse effect from the vaccine because it causes so much acute inflammation. Yeah.
+Patient: I don't know. My flu shot. I know he gave me that and um but it was in last
+Nurse: Week when you got
+Patient: Sick. No, no, no.
+Nurse: Ok. So what I'm gonna do is I'm going to, um, send the message over to the doctor. They might wanna do a telehealth appointment, like over the phone and try to get you in today. Do you have a fever or anything else?
+Patient: Hang on, I'll tell you, I feel hot. My daughter's whole family is sick. My son, my grandson woke up with 100 and six.
+Nurse: Oh, my goodness. Yeah. But I feel like, uh, half the world is sick right now. I have a lot of family members sick too right now.
+Patient: Really? Well, the doctor, uh, that I saw, told me he's seeing a ton of this in the, er, he said he's never seen anything like it. No, my temp is 97.8. So not, not right now.
+Nurse: Are you having trouble breathing or is it does feel like congestion in your chest? I just,
+Patient: I, I'm congested now that golf ball, I'm gonna knock on wood. That golf ball feeling in my throat is better today and the soreness is a little bit better. But, um, yeah, I just wanted to check in about the rash and see what. Absolutely. Yeah. See what it was
+Nurse: While I have you on the phone, [PHI-Personal]. I just, yeah, let me pull up your, um, just for the beginning of the year, we're gonna be sending out a new care plan for you as well. Are there any specialists that you see, um, every year, like a cardiologist, um, kidney doctor, lung doctor, anything like that.
+Patient: I don't, the only specialist I've been to was, um, Doctor Bus up for my hip replacement. I've been trying to get back into my, um, um, see, this is another part of it I can't think, um, of my arthritis doctor in Ogan and it's been taken over by [PHI-Personal] blah, blah hospital. And, um, they haven't called me back with an appointment. Well, I'm, I'm gonna have to go to or something because it's been like, since before Christmas.
+Nurse: Yeah. And that's a rheumatologist or orthopedic.
+Patient: No rheumatologist. I've gotta find one again.
+Nurse: So I'll put that on your list just to, like a little reminder you can stick the list in the fridge and it'll just, ok. And you're still at 23rd West third Street. Apartment 7-Eleven. Yeah. Ok. All right. And are there any tests that, you know, you're due for this year? Like a mammogram? Um, Dexa scan? Anything like
+Patient: That? I'll be, you know, I always get a breast exam and actually I need to, when I'm done with you, I have to call over to our imaging and I missed my lung scan and then of course, my absent minded so couldn't remember to call and reschedule. So I have that as a reminder on my phone to do that today too.
+Nurse: Ok. I, that one to the lung scan. I'm behind on my, on all my tests too. So I think everyone is right now. Yeah. It's hard to keep up. It's like a full time job.
+Patient: I know. Right.
+Nurse: All right. Do you have any body aches?
+Patient: Um, no, no. In the beginning I had, I was freezing cold and hot, you know, flu symptoms. Yeah. But he said it wasn't flu. I was hot and cold and dizzy. Really, really lightheaded.
+Nurse: Ok. So, in the meantime, um you should be hearing from the doctor probably around noon time. Sometimes they take a few hours to get back. Uh if they don't call you directly, I'll be calling you to with pain. Uh in the meantime, just make sure you're staying hydrated because that takes a toll on your body just fighting off whatever infection it is, whether it's virus or bacteria. But um I will be in touch, I'll let the doctor know everything. I'm sure they'll be able to fit you in at some point today. Uh just to see what's going on especially with the rash. So I'll let I'll let him know that they only gave you that one cocktail and that you're not taking anything. All right and then, and then I'll yeah, but I'll be in touch SSA at some point if you don't hear anything by noon or one o'clock, give me a call just in case I get caught up with something. Ok? I sure will. Alright, Melissa talk to you later. Thank you. You're welcome. Bye bye.

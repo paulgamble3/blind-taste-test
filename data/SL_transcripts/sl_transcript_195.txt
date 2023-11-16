@@ -1,0 +1,23 @@
+Nurse: Hi. Hello. Good morning. This is [PHI-Personal].
+Patient: Oh, hello. This is [PHI-Personal] returning your call. Hi. You called me yesterday? Yes.
+Nurse: Um, I was calling you back, um, regarding your message. Um, so I just, the only thing I didn't get on your message is, did you say you scheduled your mammogram already for [PHI-Personal] the [PHI-Personal]?
+Patient: Yes, I did. Ok. And it's at, um, um, [PHI-Geographic], the [PHI-Personal] [PHI-Geographic]. I've had it there before. Um, that was before my partial breast cancer removal. Um, that biopsy was on the fifth of the 22nd. Ok. So I will look up there
+Nurse: For that and you said it was at the breast center? Yes, [PHI-Geographic] [PHI-Personal] [PHI-Geographic] center.
+Patient: Yes, perfect. Ok. Good
+Nurse: Deal. Ok.
+Patient: So, um, I, um, it's the Morton plant that wants me to have another, um, breast cancer. Um, oh God, I'm losing my brain lately. Uh, the mammogram order is from, um, where I had the surgery. Ok.
+Nurse: Yeah. So it looks like doctor did put that order in already. Um, so I will fax it over to the [PHI-Geographic] [PHI-Personal], um, the breast center here, the [PHI-Personal] [PHI-Geographic] um, and then what they also did is they put it in the mail for you. So I know that she told me she mailed it out yesterday. I do believe. Um, so hopefully it will be there and you can have it in hand for you to take it to your appointment next Friday. So, no,
+Patient: Friday. So we will, they still do it if I don't get that.
+Nurse: Um, so that's why I'm going to fax over the order to them
+Patient: Because the next time for another one was a long wait. So, um, I think I was lucky to get a cancellation and I just wondered if I should go back to the Morton plant. But, um, [PHI-Geographic] [PHI-Personal] is very convenient for me.
+Nurse: Yeah, I think that it, um, if it's convenient for you, I would say to go there and do it that way. Um, and I would,
+Patient: And then the other one. But, um, it's about half an hour longer. Oh,
+Nurse: Wow. Yeah, I, I would say if it's, since it's that longer, I would think that going to [PHI-Geographic] [PHI-Personal] would be fine and it looks like they were able to get your other, um, results, like, over to doctor s office without any issues. Um, so I'll fax the order over to them if you can check in with them. Um, maybe tomorrow just to make sure that they, um, receive that order if they haven't received it. Um, just give me a call back and then that way we can, um, get, we can re fax it to them. Um, but I will fax it over to them today and then that way we can get it to them for Friday when you have that appointment.
+Patient: Ok. And it's 8 a.m. So it's pretty early and I didn't wanna go there if they weren't gonna do it for me. But, um, I think everything should be ok.
+Nurse: Yeah. Yes, I think so too and then like I said, I'm gonna fax this order over for them today. So if you just wanna follow up with them tomorrow, just to confirm that they received it and if for some reason they haven't, please feel free to give me a call back that way we can get it over to them um to by tomorrow so they have it for you on Friday.
+Patient: Ok, perfect. I'll do that tomorrow. I'll probably do it later in the afternoon to make sure it's
+Nurse: There right? Yes, perfect then that sounds great. Um and then of course, if you need me for anything else, please feel free to give me a call. Ok?
+Patient: Thanks. Thank you very much. You're
+Nurse: Welcome, El You have a great
+Patient: Day. You too bye. Thank you. Bye
+Nurse: Bye.

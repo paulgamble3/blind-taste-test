@@ -1,0 +1,12 @@
+Nurse: Nurse care manager. This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], it's [PHI-Personal].
+Nurse: Hi, MS [PHI-Personal].
+Patient: Hi, good. You sound sleepy today. Uh
+Nurse: No, I actually have had really bad allergies over the course of the last week.
+Patient: Oh, well that's not good.
+Nurse: Yeah, not at all. So I've been, I'm pretty busy with trying to get myself a little bit more, more rested
+Patient: But it's not breathing every. Yeah that ok. Well I haven't received my Trulicity yet. I thought I would have gotten it like Friday or Saturday and it hasn't come yet and that wasn't there yesterday either. So.
+Nurse: Ok, let me give them a call and we can see what we can do. Ok. Um are you out?
+Patient: No, I have for two weeks yet.
+Nurse: Ok. Yeah, let me um give them a call and we can see what we can do. Ok. Dokey.
+Patient: Ok, I'll give you a call shortly. Alright, thank you. Bye bye hon.

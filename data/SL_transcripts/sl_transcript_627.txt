@@ -1,0 +1,33 @@
+Nurse: [PHI-Personal] Medical Group. This is [PHI-Personal].
+Patient: Hello, [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: I'm ok. I have a question because, uh, I was in to see doctor or whatever his name is like yesterday. And, uh, I told him that my left breast, my left side, uh, is not feeling good. It tingles it kind of sore and I need to know. Could I put cold packs on it or hot packs? What can I do for it? Ok.
+Nurse: Let me bring your chart up. Let me see if I can see their notes so I can see where they were going with it. Ok. Uh,
+Patient: I just tried four times to get into my chart. It won't let me in. I'm so frustrated.
+Nurse: I [PHI-Personal]. Well, I have it up not to rub it in your face or anything. But, oh, gosh, let's see. Let's see. Do
+Patient: He just said that, you know, that he didn't, that hadn't happened in the past. And I thought, well, other people have had their lung damaged. I mean,
+Nurse: Yeah, absolutely. All right. Did you see the doctor on the [PHI-Personal]?
+Patient: Uh, yes, I
+Nurse: Did. Ok. The doctor, right. Yes. Correct. Ok. All right.
+Patient: Let's see. And he told me the name of my cancer, but since I can't get into my chart, I don't even know the name of it or what it does or where it is or anything.
+Nurse: Ok. Um, ok, these are all the labs that's not what I'm looking for. Let's go
+Patient: Back. My phone says that, uh, I'm very low so I'm gonna plug it in. I hope I don't lose your.
+Nurse: Ok. All right. Um, it says Aden Carcinoma of the left upper lobe.
+Patient: Uh, could you tell me that again one time, please?
+Nurse: It's called Ain Adeno Carcinoma. Do you wanna write it down? Yes, please. Ok. Do you have a pen? Yes. Ok. It's ad. Ok. Een. Ok. Ocar. Ok. CIN. Ok. O ma and it's in the upper left
+Patient: Lobe? Ok. At least I can look this up online now. Yep.
+Nurse: And you have the CT of the chest. You did that in [PHI-Personal]. Uh, let's see.
+Patient: Yeah, I had three different, uh, testing.
+Nurse: Mhm. Ok. So they're referring you to thoracic for the treatment plan. Let's see what he says. What's his plan?
+Patient: Well, we told, I told him that I wanted radiation and I haven't heard back from that department. So I've gotta find their number and call them to set up appointments.
+Nurse: Ok. I'll see if I could find that for you too. Um, ok. It says that they are going to, um, look into radiation therapy with you. Um, they were gonna talk to doctor [PHI-Personal]. Yeah. Doctor. Yeah, ll maybe. Um, so they're gonna follow up, doctor is gonna follow up with doctor and see if he concurs and we can work towards the radiation therapy. Which is your preference?
+Patient: Ok. Yeah, I have an appointment, upcoming appointment with doctor [PHI-Personal] so. Ok.
+Nurse: Yeah. So at that appointment that's probably when you're going to talk about what your radiation plan of action is going to be, I would imagine. Ok. Um, you see, do you see that doctor on the 21st? What is that Monday? Ok. I don't see any reason why you couldn't try to use some heat, uh, heating pad or something like that to relieve some of the, um, the pain in your side there.
+Patient: Yeah, I should it cold or hot or whatever
+Nurse: You can go, you, I would try heat first for the pain relief. If that doesn't help, you can switch off and do some cold if you would like. And it's kind of gonna be a, um, uh, hit or miss and see which one works. You know what I mean? Yeah. But it, but it, it won't hurt you to do either or.
+Patient: Ok, that's what I need to know.
+Nurse: Mhm. Yeah, it's not gonna hurt you to do either. Or ice or heat. Um, that shouldn't bother you at all. Ok. What else can I do for you? Is there anything?
+Patient: Uh, no, I think I'll go back to fighting my chart again. Just for fun. Uh, anyway, I appreciate your time and your effort. Thank you so much.
+Nurse: No problem. Um, is there anything, are you good with all your medication and all that stuff? You don't need anything else right now from me.
+Patient: Um, I just signed up for a new health care program and they're supposed to be shipping my prescriptions to me. So I hope that works that it doesn't. I'll call you back.
+Nurse: Yes. Yes, please do and I'll try to fix it for you. Ok, great. Ok, thank you. All right, Francis have a good day. You too. Bye bye. Alright. Bye bye.

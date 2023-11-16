@@ -1,0 +1,48 @@
+Nurse: This is [PHI-Personal] speaking. How may I help you?
+Patient: Hello.
+Nurse: Hi, [PHI-Personal]. Oh, hi. This is, um, tta the care management nurse. Um, I was, yeah, I was just calling you just to check in and see how things were going with you? Ok. Ok. Um, have you had any changes since we spoke the last time? Maybe like a month ago? No. Ok. Um, have you had any falls or any, er, visits or anything like that?
+Patient: No. Ok.
+Nurse: And then all your medication, is it still the same or do you have anything new?
+Patient: No, not, no new, new one? Yeah.
+Nurse: Ok. All right. So I was looking through your chart. So you went and did you have your, um, your flu vaccine?
+Patient: Yes, I did.
+Nurse: Ok. Where did you go to get that?
+Patient: My, uh, my doctor office?
+Nurse: Oh, you went to the doctor's office? Ok. Um, did you have any side effects? Like, did you have any fever or
+Patient: Sore arm? No. No.
+Nurse: Ok. Did you get the COVID booster too or just the flu shot?
+Patient: A flu shot? I'm getting that other one sometime today. Oh, ok. Ok.
+Nurse: All right. Um, have you had, like any problems with your, um, COPD since the weather's been changing? Uh, no. Ok. All right. So you haven't had like, any, um, shortness of breath or excessive phlegm? No cough? No cold? Ok.
+Patient: Good. Ok.
+Nurse: All right. So everything been ok with your appetite. Yeah. Yeah, you've been sleeping? Ok. Ok. All right. You haven't had like, any problems with your BP that you've noticed? No.
+Patient: Ok.
+Nurse: All right. Are you still making sure to watch, um, your salt intake and drinking enough water throughout the day?
+Patient: Ok.
+Nurse: Ok. So I'm gonna do, um, we're gonna update your depression screen. Ok. So I'm gonna ask you those questions. It's just a few questions and I'll put it in your chart. Ok.
+Patient: Ok.
+Nurse: Ok. All right. So, in the last past two weeks, how often have you been bothered with the following problems if at all? Um, little. Ok. So little in, ok, little interest or pleasure in doing things? No, no. Ok. Any feeling down depressed or hopeless.
+Patient: No.
+Nurse: Ok. Any trouble falling or staying asleep or sleeping too much. No.
+Patient: Ok.
+Nurse: How about a poor appetite or overeating?
+Patient: Uh, no, I don't eat that much.
+Nurse: Ok. Ok. Um, how about feeling tired or having little energy?
+Patient: Uh No, no. Ok.
+Nurse: Um, any issues feeling bad about yourself?
+Patient: No.
+Nurse: Ok. Any trouble concentrating on things like reading or watching TV. Uh
+Patient: No.
+Nurse: Ok. Moving or speaking slowly that others have noticed or being fidgety and restless.
+Patient: Uh, no,
+Nurse: Ok. And then any thoughts of harming yourself or suicide? Uh,
+Patient: No. Ok.
+Nurse: Ok. Um, now, do you know if you need any refills on any of your medication?
+Patient: Not yet? Right.
+Nurse: You said when, what'd you say?
+Patient: I say not yet, then I worry. Ok.
+Nurse: Ok. All right. Um, did you have any questions or any concerns about
+Patient: Anything? No, no. Ok.
+Nurse: All right. Um, so you have your appointment coming up in December with Doctor [PHI-Personal]? Yeah. Yeah, [PHI-Personal] at 1 p.m.
+Patient: Yeah. Ok.
+Nurse: All right. Um so I'll go ahead and I'll update in here that we spoke and everything. Um if you need anything you have any questions concerns or changes you can always give me a
+Patient: Call. Ok. Alright. Alright have a good day. Uh huh. Ok bye.

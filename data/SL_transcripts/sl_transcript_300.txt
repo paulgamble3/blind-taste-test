@@ -1,0 +1,15 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. How can I help you?
+Patient: Oh, this is [PHI-Personal]. I uh is uh [PHI-Personal] there today.
+Nurse: Uh Yeah, I think [PHI-Personal] is in the office.
+Patient: Uh There's a problem with me getting my prescription, the Alogliptin and uh I've been waiting 34 weeks for it and uh they said it still won't come in until [PHI-Personal] and I need it. But the pharmacy said that maybe my doctor could come up with something comfortable to that, that would have the same ingredients to that. If uh could you talk to [PHI-Personal] and see if she could do something about this because I need it.
+Nurse: Yeah, absolutely. Give me just a second here. I'm trying to get your chart pulled up. Computer is moving slow this morning. [PHI-Account]. Ok. And it's the Alogliptin 25 mg every, yeah,
+Patient: They said the Pharmac has said that they're probably that uh I was talking to him and he said that maybe my doctor could come up with something. He said he connected with the office, but nobody got back to him. So that's where I'm at now. But I really need that.
+Nurse: Yeah. Absolutely. Absolutely. But
+Patient: I've been waiting now, they, your office did give me some samples but, ok,
+Nurse: Maybe they'll, maybe we have some more samples that we could give you until [PHI-Personal]. Um, let me get,
+Patient: They, they said they'd be there the early [PHI-Personal] now. They pushed it to [PHI-Personal]. I don't know if she could come up with something more cost to, uh, and that my insurance would pay. So that's where I'm at now so I'm coming in there today. Yeah for uh uh for uh flu shot, flu shot and uh B 12 so maybe you could have some type of for me. Absolutely I can do that appreciate it because yeah I'm really upset over this. Oh
+Nurse: I understand completely. Yeah I understand you're
+Patient: Going up and it's.
+Nurse: Oh yeah yeah and I mean we wanna keep you control too so whatever it takes
+Patient: Whether we wanna and that really does me good and I really don't want to go on insulin if if it can be avoided. Yeah yeah I would appreciate anything you could do for me I
+Nurse: Can do that let me get a note into Stephanie here and I will see um what she advises and I will make note that you're going to be in this morning so hopefully we can get you some samples before then but um otherwise you know I can I will follow up as soon as I hear. Ok. Alright. Alright you're Welcome. Bye. Alright. Bye bye.

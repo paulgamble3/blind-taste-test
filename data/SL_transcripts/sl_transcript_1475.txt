@@ -1,0 +1,18 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi. Are you calling a few minutes ago? I'm sorry. Uh, are you calling me? Uh, yeah.
+Nurse: Hi. Is this [PHI-Personal]? Good. Hey, yeah, this is [PHI-Personal], the care management nurse, uh, with the physician's office. Let me just pull up your chart
+Patient: Here.
+Nurse: Oh, so I was just calling to check in, see how has been doing, seeing if there's anything new going on or that you folks need.
+Patient: Um, I think it was always like this, so there's no, uh, new or anything else.
+Nurse: Ok. All right. No new symptoms. Medications are doing ok.
+Patient: All right.
+Nurse: And if he staying active doing all right. Yes. Perfect. Perfect. Um, and then we're just checking in, um, the allergy season has been really bad this year. A lot of people are coming down with that upper upper respiratory crud. Um, just want to make sure, is he having any kind of sniffling, coughing, fevers, anything like that?
+Patient: Uh, he just stay in his room all day. So I don't see that he has any, uh, allergy right now.
+Nurse: All right, we're just sending reminders, you know, if anything comes up, make sure he's keeping his hands clean, keeping his nose blown, um, getting plenty of rest and keeping up fluid intake and a healthy diet just to give his, his body his immune system what he needs to stay healthy.
+Patient: Ok. All right.
+Nurse: And then if, um, anything does happen, you start having any kind of new symptoms or you folks have any concerns. Certainly just give me a call. Let me know. Ok.
+Patient: Ok.
+Nurse: All right. Well, I appreciate you calling me back. You folks have a good, uh, long weekend and if, uh, there's anything that you need, definitely don't hesitate to reach out.
+Patient: Ok, thank
+Nurse: You. You bet. All right. Bye
+Patient: Bye bye.

@@ -1,0 +1,16 @@
+Nurse: May I help you?
+Patient: Hi, this is [PHI-Personal]. S and I think I missed a call from you guys a few minutes ago.
+Nurse: Hi, [PHI-Personal]. This is [PHI-Personal] Care Management Nurse. I was just calling to check up on, you, see how things were going. I see you had a, another, um, neurosurgery visit.
+Patient: Uh, uh, well, I had, I went to, uh, and then she recommended that I go and try the, uh, oh, I can't remember what it was now. Something, one of the tests you have to do for rhizotomy. Yeah. And, uh, it really didn't give me any ease. Just that actually made my neck worse for several days. So, uh, I know they, they tell me there was no need for me to come back to the second visit for that. Mm. And I have an appointment now with, uh, neurosurgeon just to look at options and I believe that's on [PHI-Personal].
+Nurse: Yeah, [PHI-Personal] at, at two o'clock. Look at options and, and so you can make an informed decision. She said. Mhm. How you feel?
+Patient: You know, uh, my therapist has done so much for my neck, uh, some days I don't even take any ibuprofen and some days the headache comes on and I have to.
+Nurse: Wow, that's, I mean, that's pretty good.
+Patient: It's, oh, it's much better than it was a year ago when we started dealing with it, you know. Yeah. Say again, that's good. I've been able to, uh, the therapy has allowed me to gain my strength back and I'm back into my workout program and, and also doing all the work on the farm that I couldn't do a year ago, you know. Oh, that's
+Nurse: Fantastic.
+Patient: Yeah, pretty much doing anything that, uh, that I've done in the past. Uh, it's just that, uh, a and the, the headaches don't seem to be, don't have anything to do with the work actually. Seems like I get worse headaches. Like today I'm taking a little easy because of rain and staying in, sitting around and, and, uh, the headache comes on worse those days and when I'm out on the go.
+Nurse: Yeah. Well, that's good. That's really good. Mhm. All right. So, um, I guess you'll see what they, what doctor Nathe says says on the, on the [PHI-Personal].
+Patient: Yep, that's the plan.
+Nurse: All right. Well, if you need anything, just let me know otherwise I'll, I'll talk to you, um, some time after that appointment. Ok.
+Patient: Ok. Thank you so much for calling.
+Nurse: Thanks [PHI-Personal]. Bye bye
+Patient: Bye.

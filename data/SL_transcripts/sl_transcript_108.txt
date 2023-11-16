@@ -1,0 +1,26 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Hey, it's [PHI-Personal]. How you doing? Hey,
+Nurse: I'm good. How are you doing? Um,
+Patient: I'm coming around coming around. Good, good. I
+Nurse: Was a little bit worried about you there.
+Patient: Yeah, I didn't mean to leave you out of the loop or anything, but I really, I know it. I, I know wasn't in charge of myself for about a week. So. Oh, it's ok. Sorry about that. If you were left hanging. Uh, ok, you have scan times for me.
+Nurse: Yes. Um, so the ultrasound that they're doing on your thyroid and your kidneys and everything that one will be, um May the [PHI-Personal] at [PHI-Geographic] at [PHI-Geographic]?
+Patient: Ok. On [PHI-Personal]. Yes. Well, that is going to be all right. Ok. Yeah, I will keep that appointment. Anything else? Ok.
+Nurse: And then you have this, the other ultrasound, um, the Doppler of your carotid artery that's going to be at, um, the heart and vascular center at Williamsport also. It'll be on, uh May [PHI-Personal] at 1 30
+Patient: [PHI-Account]. I can. Ok. Uh, I'll be glad to get these scheduled on in and, uh, see what comes. Um, I hope that this, my eyes direct removed this month, but I'm not quite sure it's gonna happen. Not this month. Yeah. Yeah. Right. And then in June, I hope to be moving to a one for residential system. That's good.
+Nurse: Well, that'll be good. That'll be a lot safer.
+Patient: My, my mistake and got lucky. But, ah, uh, I, I am better served that in the house with all the steps. So, yeah.
+Nurse: Yeah,
+Patient: Whatever. Uh, so anyway, thank you so much. Appreciate it.
+Nurse: Um, have you heard from [PHI-Personal] yet? The therapist?
+Patient: Yes, I have a, uh, a Tuesday appointment at 10 o'clock in the morning. In fact, that was my previous call. What he got from them. Finally.
+Nurse: I know I called him yesterday and I was, and I told him, I said we've been waiting on a call from Y all for over a week. So,
+Patient: Yeah, uh, the gal was coming from up, uh, nearby [PHI-Geographic]. But, uh, I'm sure she serves people in this area, but that would be great to get that in. And, uh, I'll see what happens, uh, to that. I'll be going into a facility eventually that has their own PT, yeah. So, if I have some continuing things, like,
+Nurse: Yeah. Were you able, um, to pick up that medication for your cough to help with your cough if needed?
+Patient: You know, I was out around this morning and I came back and thought, uh, oh, I the drug store, but that's not too far away so I can pick that up shortly. Good. I just have enough here for the morning dose. So just that. Ok. Good, good. Ok. All righty.
+Nurse: Um, ok. Um, and then of course, um, with your stomach pain, um, like what BR said, continue with your omeprazole, the reflux medication. Um, if your pain does get any worse, of course, just, um, give me a call, give the office a call. Um, and I can talk to [PHI-Personal] for you. Um, just, uh, kind of avoid, of course, like the triggers of reflux too cause that could cause like the pain to feel a little bit worse, like the fatty fried or fa spicy food, eating large meals late at night and avoid alcohol and coffee. And as much as you can, I know a lot of people like drinking coffee in the morning. So kind of just do it in moderation if you do drink coffee, um, by half
+Patient: And half.
+Nurse: Well, that's good. That's not, not awful then. Um, but I'll probably be giving you a call, um, here in a few weeks to check up on you to see, um, see how everything's going. If I don't contact you before then with any of the ultrasound stuff. But if you need anything before then you just give me a call. Ok.
+Patient: Will do. Thank you so much. You're welcome.
+Nurse: I hope you have a good day.
+Patient: You too. Take care. Bye.

@@ -1,0 +1,35 @@
+Nurse: Hi, this is [PHI-Personal] with the [PHI-Personal] management team. How can I help you?
+Patient: Hi, good morning [PHI-Personal]. Um, I just received your phone call a few minutes ago. Uh, and you left a message. So I'm calling back. I'm, um, a patient of doctor.
+Nurse: Ok. And I'm sorry, may I have your name?
+Patient: Yes, it is [PHI-Personal]. Neil Neill. Oh,
+Nurse: [PHI-Personal]. Thank you for getting back to me so quickly. I appreciate that. How are you doing today? I'm
+Patient: Fine. Thank you. And you?
+Nurse: Oh, I'm good. Thank you. Uh, I just wanted to go over the information about the new program doctor is offering. Um, do you have a couple of minutes for me to go over it? Yes. All right, great. Um, yeah, the call is recorded just for quality purposes. Ok. Ok. Uh, it's a new [PHI-Personal] management program and behavior health program and that's just where our nurse is gonna call and check in with you, see how you're doing in between office visits. Uh, she's gonna go over your full medical health with you answering any questions addressing any issues or concerns that you may be having. Um, she'll also go over any medications that you're taking, um, making sure that they're working the way that they should be and that your conditions aren't worsening or if you just had questions about your medications or needed refills, uh, if you had questions or needed help with appointments, labs, community resources. Uh, those are just some of the things that she would discuss with you during the call. Ok. Ok. Uh huh. Um, I do want to let you know that the [PHI-Personal] management programs and behavior health programs are both considered to be office visits. And so they're both, uh, billable services to Medicare and Medicare Advantage plans and secondary insurance carriers. Uh, they're both subject to co insurances and deductibles and co payments. So when you have contact with your dedicated nurse, you may get a statement from the practice for around $[PHI-Personal] or so when you have contact with her. Ok. Um, and that's, that's it. I don't you, depending on your insurance again, that's, um, I'm gonna mail you a letter to the program. It'll have your dedicated nurses contact information in there. So that way you're able to call her if you had any questions or concerns also. Ok.
+Patient: Yes. Did you say that's $[PHI-Personal] a visit? Uh uh, yes, it be
+Nurse: Approximately 80 yes, approximately 8 to $[PHI-Personal]. Ok. And again, that's only, you know, so if you have contact with your nurse, say you want her to call you, you know, once every six months you may get a statement from the practice once every six months for approximately 8 to $[PHI-Personal]. Ok. Um, and that's only if your insurance didn't cover that, that's the remaining. Ok. Um, do you prefer for your nurse to call you in the mornings or in the afternoons?
+Patient: Um, well, depends. I'm depends. Ok. Um, you mean to come and visit or to? No,
+Nurse: It's, it's, it's strictly, it's strictly a phone call. The nurse does not come to the home. Um, but your de your dedicated nurses in daily communication with doctor. Yeah. Ok.
+Patient: Well, probably afternoon would be better. I like afternoon cause I usually go to the gym in the morning, but actually I'm going to physical therapy right now. Ok. Down below would be, uh, there, I never knew it was there really. You know, where, where, where are you actually calling from? Uh, I'm
+Nurse: Actually in the, the office, the [PHI-Personal] office. Ok. Yeah.
+Patient: Yeah. Yeah. Ok.
+Nurse: Ok. Um, pam, we have your mailing address still as 4 15 White Drive. Harrisburg PA A 17111. And ok. Uh, we have your insurance says [PHI-Personal].
+Patient: It should be up to date because I've been in there this year. So. Yes. Is that what shows up?
+Nurse: Yes, I, yeah, I mean, I know you're just, you're just here on the T 12. So. Ok. All right. Uh, then you're all set. I'm gonna get you out the information. So you have it, uh, your nurse, she should be giving you a call probably within about a week or so. Or she's just gonna introduce herself to you and get to know you a little bit and then at that time you just let her know when you'd like her to call you again. Ok, great.
+Patient: Ok. Does, do you happen to know what the nurse's name,
+Nurse: Um, as of right now? No, I do not but it will be in your letter that I'm gonna mail you. So you'll have her information before she calls you? Ok, good,
+Patient: Good. While I have you on the line. Can you help me with something else? I could try? Oh, I could try. Definitely. Um I actually I do need a refill. Uh Oh, can you do that?
+Nurse: Oh yeah. So for what medication? Ok. It's
+Patient: For the Venlafaxine. Ok. Hydro Hydroxy Chloride at Costco at
+Nurse: Costco. Ok.
+Patient: Yes, please.
+Nurse: All right, we'll
+Patient: Get that taken [PHI-Personal] of for you. Ok. And then also I did um, I got my second booster for the. Ok. Is that ok? Can I give it to you also?
+Nurse: Yeah. Ok, that's fine. I'll um, make a note that you got your second booster done. Ok.
+Patient: Yeah, I got it um on Friday I got Moderna. Oh, ok. On Friday last week and back in November, I think it was [PHI-Personal]. Like I, I ended up getting the Pfizer just because that's what they had at the time at CV. So is that good enough for? Yeah, like what I'm telling you now? Is that good?
+Nurse: Yes. Yes. Yes. It, it is. You're, you're definitely doing what you need to be doing to stay safe. So, yeah. Ok. But, but my record also,
+Patient: So, so that's good for you guys. Good enough information.
+Nurse: Yes. No, I'm gonna make a note in your chart for you. Wonderful.
+Patient: Ok. All right. Well, thank you for calling [PHI-Personal].
+Nurse: Oh, you're welcome. You have a great day and stay safe. Take
+Patient: [PHI-Personal]. Ok?
+Nurse: You too. Bye bye bye bye.

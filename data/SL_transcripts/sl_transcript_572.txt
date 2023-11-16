@@ -1,0 +1,30 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Yes, [PHI-Personal]. This is [PHI-Personal]. I'm calling about my uh my device.
+Nurse: Yes, sir. How can I help you?
+Patient: Yes, y'all called me about 44 minutes ago.
+Nurse: Uh Correct. That was I believe because we thought we're gonna get a test ing from you a couple days ago but it didn't come through to us. So we're just calling to make sure.
+Patient: Yeah, cause I've been taking them, they ain't been going through I mean the red light was on then the blue light come on but it normally blinks since the blue light blinks and normally go off but it just stays on. I keep it plugged up. Oh I don't know what the problem is.
+Nurse: Uh We would be happy to help you figure it out. So let's see what's going on. I'm gonna pull up your antenna on my side. [PHI-Personal] All right, and it looks like it's currently connected. Um Do you wanna try you? Is there a solid red light on? That's not blinking?
+Patient: Oh, ok. Yes she is. It's [PHI-Personal].
+Nurse: It's blinking. Alrighty. So that means that it's still looking for a connection um so we're gonna wait until it's a solid red light and it stops blinking and that should mean it's good they stop
+Patient: Blinking
+Nurse: All righty then do you wanna try to test uh the BP cuff within about 10 to 15 ft of it?
+Patient: See how far from it
+Nurse: Uh within 15 ft.
+Patient: Um let me try you gotta give me time to get it and pick it up and it
+Nurse: I'm here until four so we're all good
+Patient: That. Ok. Mm. Ok. Mhm. Uh very nice look uh I'm take I'm checking it now.
+Nurse: Alrighty
+Patient: I see. What do you mean a [PHI-Personal]? You it was cool the blue light just came off let's get this up.
+Nurse: All
+Patient: Righty. Did you receive it?
+Nurse: Not yet so I'm gonna refresh again on my side a couple times. All right. So it looks like it's not coming through so that's a back end problem. I'm gonna message the manufacturers of the antenna and have them update it. Uh do you mind keeping the antenna plugged in in the meantime?
+Patient: Yes.
+Nurse: Yeah. Alrighty, perfect. So I'll give you a call back when they let me know that your antenna is updated so we can see if that fixed everything up for you. My apologies for that.
+Patient: Ok. Yeah because I I heard you said I took it in a month but I've been taking it I know it been going through or not I have been checking it the blue light come on, but the light stay on the blue and the red light on there.
+Nurse: Yeah, then that's a problem with the antenna company. The blue lights supposed to turn off it within a couple of minutes or a minute or so. Yeah,
+Patient: A blank on and off. It, come on in a blank. Then it go off, but it's still on as we talk now.
+Nurse: Yeah. So that's, that's not right. Well, I appreciate you taking the time to walk through the readings and I'll let you know what's going on with it. Ok.
+Patient: Ok, thank you.
+Nurse: Thank you. Bye bye.
+Patient: Alright, bye bye.

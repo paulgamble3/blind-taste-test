@@ -1,0 +1,90 @@
+Nurse: Me. Hello,
+Patient: This is [PHI-Personal] calling you back.
+Nurse: Oh, I think somebody else called you, MS [PHI-Personal]. Give me one second. Uh, how are you today?
+Patient: Good,
+Nurse: Good. I'm glad to hear it. Uh,
+Patient: I wanna get rid of the seat though. I want to proair.
+Nurse: Mhm. I figure that one out.
+Patient: No. It what?
+Nurse: Oh, I think, uh, I think [PHI-Personal] did give you a call earlier but, uh, she is unavailable right now. So, let me see if I can help you one second. Um, let me pull your chart up over here. Anything new going on with you have any concerns?
+Patient: No,
+Nurse: No, that's good. [PHI-Personal]. I see you were in the office, uh, mid last month. You have any questions about your appointment or
+Patient: No? Uh, I did have a [PHI-Personal] guy call me about my prescriptions. Uh huh. And he told me that I need to talk to the doctor. That, that one medicine that I'm taking, uh, will affect the lungs. Ok. It, it's for heart and lung that, oh, I can't think of. It's carnival oil or something like that. And, uh, the asthmatic thing, uh, you, I should get rid of the inhaler and have it just at night and have one for the full day. I thought I ain't changing. Nothing. Things is going good and I'm letting them the way they are. Uh-huh. And my sugar dropped to 46 the other morning and he told me to start when it does that to take a teaspoon and put sugar on it and take it red black.
+Nurse: Uh huh. Wow. Well,
+Patient: But see they're trying to get my sugar adjusted. He is. Uh huh. It's been dropping. But my, what is it ac one or whatever that is a, is, yeah, is not dropping.
+Nurse: Oh, ok.
+Patient: So they're trying to figure out what's going on with me?
+Nurse: Yeah, it sounds like, definitely, definitely. Are you having any signs that it's dropping? Like shakiness, sweatiness,
+Patient: Confusion. Oh, yeah, I get that when I was out reading the other night I sat there and I could feel, I feel like a clammy funny feeling. Yeah. So I, I called my granddaughter so I kept calling them on the phone and finally the one answered. I said, go get me some chocolate and get it out here fast and they brought it out and sat with me and I ate that and I had the one brought me a glass of water and I sat there a while and then, uh, I come in and I was all right, but I could tell it was dropping. Yeah.
+Nurse: Yeah. How often is this happening that you're having these low blood sugars?
+Patient: Mm. I don't know. Right off hand. It's been a couple of times a week,
+Nurse: Several times a week. Ok. Yeah. All right. Any idea. My, like, what, um, if you've done something different, like, I don't know. Have you been sick or taking, you know, uh, not eating as much or?
+Patient: I think that's the problem because when I go outside I go out and I start weeding and I don't stop until it's dark. And my little granddaughter goes [PHI-Personal], there's an Easter bunny in that refrigerator. You take a chunk of him with you when you go weed. I said, all right, I will do that.
+Nurse: That can do that too. And exercise induced exercise, more exercise. Absolutely. That's one of them usually, you know, if it's not medication related, those are usually the, one of the two, either, you know, a change with exercise increase and then, or, you know, obviously not taking in enough, uh, for eating. But, right.
+Patient: Well, that's what he said. He thinks a lot of my problem is my diet the way I eat. Ok, because some mornings I'll eat some mornings I don't, I'll get up. So I feel like eating, I'll eat a banana and that'll be it until 11, 12 o'clock. And then I might have a sandwich and then I don't eat anything till 78 o'clock at night. I want something and that's when I come in from outside. Got you. And he said I need to eat something in between it.
+Nurse: You need something in your body that will sustain you for all that activity out the door that you're doing. When you're having periods of low, low glucose levels, really the ideal way, if it's less than 70 that you need to have some kind of carbohydrates. Ok. So when you, when you have sugar like um yes, it'll get your blood sugar up but it doesn't stabilize, it doesn't keep it consistent. So that's why we usually say sugar like four ounces if you have like a kid juice box or if you ever seen those glucose tabs, you know, chewing three or four of those and then have some carbs and then wait about 15 minutes and definitely recheck it again because that's scary. I worry about you being outside low blood sugar and in the heat you'll have a exact,
+Patient: Well, I, I was gonna go out today and I thought no, I better not. There's nobody here and if you know, if I go out and something would happen, I can't, my son's not home either, so I'm kind of stuck. I don't go out when nobody's around that I can get him to help me.
+Nurse: Well, I'm glad to hear that. That makes me, you know, feel a lot better. Definitely exercise and being active is, you know, we want that because that helps with your A one C and just overall health and well being and will help lower your glucose. But obviously, yeah, we gotta have you be safe, you know, doing so
+Patient: Another reason too because I'm allergic to bees. Uh huh. And if I get stung, I usually have to have one needle and then end up down at the hospital and I want somebody around that if something happens I can call them and they'll be there. Yes,
+Nurse: Ma'am. Definitely. Definitely. Yeah, definitely. Got to manage that blood sugar having a, you know, if you have any like low carb snacks, if you like granola bars or like trail mix or something, that's a good choice. Um ok, so have to make you a little pack or something you've got easy access to for sure. Um Right. Ok.
+Patient: Um and then I always have ice water with me usually. And uh the one day I went out, I took orange juice and put in my cup and I, I felt pretty good that day.
+Nurse: Yeah, you definitely wanna replace that, you know, and make sure you're hydrating out there in the, in the heat for sure, because we sweat more than we realize and that's why we tend to lose more fluid, you know, you don't really measure how much we're, we're dehydrating ourselves out there. So.
+Patient: Well, see I take [PHI-Personal] to stop me from sweating. Got you. Yeah, because I can sit in the room or sit anywhere and the sweat just runs down my back and the front of me and [PHI-Personal], uh, Doctor [PHI-Personal], when he was in with [PHI-Personal], he told me a good way to stop. That is with [PHI-Personal]. Oh, ok. Ok. So I've been taking that, you know, to stop the sweat. Got you. I see it on your end. Ok. And when that my sugar drops and I start sweating, I feel clammy and I know something's wrong. Mhm. So,
+Nurse: Ok. Um, also on that med when I was like, looking at your, your, your order from, I guess what the pharmacy was telling you? Are they, are they talking about your nebulizer treatment or your albuterol inhaler?
+Patient: My inhaler got you.
+Nurse: Well, it's as needed. So why we just need to change that? Ok,
+Patient: During the uh night, I take two puffs before I go to bed and that's fine. Ok. Then in the morning sometimes I get up and I've been having, um, sinus problems and, uh, he put me on an antibiotic and eye drops because my eyes got abscessed. And he goes, are you taking your Claritin? I said, yeah, I take, I take one. He said, oh, no, he said you can take two. He said I take two every day myself. So he said take two. So I've been taking two and I haven't had any problems. I haven't been using it. Ok. Ok.
+Nurse: So definitely, well, with the season change and all that. Absolutely. I don't, I don't see an issue with there. How's your eyes? Good. Ok.
+Patient: Yep.
+Nurse: Ok. So we'll take that Doxycycline and the Tobramycin eye drops off your list because you got quite a bit. And then the other medication that I guess the pharmacist was talking about, is it the carvedilol? Yeah. Ok. And he did that affect your asthma?
+Patient: No, he said that affects the lungs. He said that that's for heart and lung. It affects the lungs though. He said he ought to see if he can't give you something just for the heart. So, I don't know. But he's gonna send me a list of everything and paperwork. So, you know, I can let you know when I get that. Uh huh. But, uh, he said he would send me a paper then he feels I should show to doctor [PHI-Personal] you can talk to him about it. No. Absolutely.
+Nurse: No. Absolutely.
+Patient: Ok. But I hate changing anything because I've been feeling pretty good and every time we change then I'm sick or I don't feel right. Mhm.
+Nurse: So, got you. Well, hopefully they'll send that and then you can call and, you know, we can address it, you know, we can definitely address it or bring it up because I don't think you're back in the office. Looks like until next month you got the [PHI-Personal] and the [PHI-Personal], I thought your visit with him. So, I mean, it's worth looking into. I mean, I personally don't know of anything right off hand that stands out to me, you know, it's a very common medication, you know, and it is used for, um, usually BP maintenance and also helps with heart failure. Now, I don't pretend to know everything and be all knowing of any medication. So, if he knows something about, um, you know, it reacting with something because if he's a pharmacist, you know, or doing something different with the body than I know. I mean, I'm all ears.
+Patient: So, yeah. So that's all that's been going on.
+Nurse: Ok. Ok. Well, that's enough.
+Patient: Right? Yeah. Yep. So, do you have any questions for me?
+Nurse: Um, I, do, you didn't need any refills on anything?
+Patient: Uh, no. Ok.
+Nurse: Ok. And then, um, and then just mental health wise, how have you been doing? How have you been feeling there? Well, I
+Patient: Have my days. Ok. And, uh, I, I talked to [PHI-Personal] and told him my husband's coming home on the [PHI-Personal] and he said that'll help with your depression a lot. He said with that going on, that's what's happening. I said yes. And he said, ok. Ok.
+Nurse: So you noticed any changes in your sleep?
+Patient: Yeah. Yeah, I'm up half the night I can go to bed like at, uh, 12 o'clock. Ok. Then I'm up about four and then I, I'll sit back there and about six, I'll doze off, but then I wanna to sleep until 11, 12 o'clock. Uh huh. You know.
+Nurse: Oh, goodness. Ok. No, I understand. Um, how long has that been going on a while?
+Patient: Yeah. Yeah, that's been going on be three years in July. Oh. So, but he said, once my husband told me he said it'll stop. I said, I hope me
+Nurse: Too. Definitely need to rest, you know. And just, yeah, you know, just for your overall health and, you know, you just feel tired and in the daytime you want to take a nap because you didn't rest well at night. And it's kind of like a never ending cycle. You know
+Patient: What I mean? Yeah. And I do that too sometimes. Mhm. I just go back and lay down on bed and go to sleep.
+Nurse: I understand. I understand any,
+Patient: Any nightmares. No. Right.
+Nurse: Right. And then how, how, well you told me about 1 to 2 on your appetite. I was about to ask you about one second. Let me click on one other thing. My computer's taking its time. Hm. A technology for you can't live with. It. Can't live without it.
+Patient: Right. Like a car. No, this is,
+Nurse: Yeah. Mm. And then I'll just update your P HQ nine for him and then we'll, I think we'll pretty much done. So when I send him to the update with your blood sugar over the past two weeks, how often have you been bothered by any of the following problems? Little interest or pleasure in doing things not at all. Several days, more than half the days or nearly every day, about half.
+Patient: Ok, because some days I'll get up and feel like going out and doing something. And then I thought, no, I ain't gonna do it.
+Nurse: I understand. What about feeling down depressed or hopeless. Not at all. Several days. Not,
+Patient: Not at all.
+Nurse: All right. And then the trouble falling asleep or staying asleep is that several days? Half the days?
+Patient: That's all the time.
+Nurse: Ok. Nearly every day. All right. Yeah. And then what about feeling tired or having little energy? Not at all, several days, more than half the days or nearly every day? Several
+Patient: Days?
+Nurse: Ok. All right. Would you say poor appetite or overeating? Not at all, several days, more than half the days or nearly every day.
+Patient: Uh, I don't eat half the time if I don't feel like it. Now, this morning I had a banana that was about 7 30 and then about 11, I made myself a hamburg bun with, um, a slice of cheese slice of meat and a tomato. That was my dinner.
+Nurse: Ok. Well, there's a few more hours calling left in the day. So I might want to
+Patient: My fourth,
+Nurse: Third there, my friend. Um, I've got a few more questions. What about feeling bad about yourself or failure? Like you've let yourself or your family down? Not at all. Several days. Ok. Um, what about trouble concentrating on things such as reading the newspaper or watching television?
+Patient: No, I sit and read a lot.
+Nurse: Ok. What about moving or speaking slowly that other people could notice or maybe just the opposite. Super fidgety and restless and moving around more than usual.
+Patient: I don't have any of that.
+Nurse: Ok. And then what about thoughts that she'd be better off dead or hurting her yourself in some way? No,
+Patient: I know
+Nurse: Any of the things we just discussed. How difficult do these problems make it for you to do the things you wanna do, like at home or get along with other people? Not difficult, somewhat difficult, very difficult or extremely difficult.
+Patient: No, not difficult. I get along pretty well unless they piss me off. I, I got 90 she'll be 96 the [PHI-Personal] and you can yell at and she don't answer you. Boy, that irritates me. Uh huh. So, got you,
+Nurse: Got you. Ok. Well, um, definitely, uh, be monitoring that blood sugar, especially even before you go out or in, you know, that might be a good practice just so, you know, if you're too low going out there to know to stick something in your mouth before you go, you know, especially with the season change. I'm gonna be honest. I just worry about you being out there and something happen
+Patient: Happening.
+Nurse: Yeah, because they kind of just creep up on you, you know. Yeah,
+Patient: It
+Nurse: Does. And I don't want it deter you from wanting to be active and be outdoors. So that's one of the best things for you, for sure.
+Patient: You.
+Nurse: Ok. All right. And if you need anything, please don't hesitate. Um, and do you want me to wait, I guess until you get the information to let him know about the carvedilol? Is that what we're doing? Ok.
+Patient: Yeah. Ok. All right. As soon as I get that I'll call
+Nurse: You. Sounds like a plan. Sounds like a plan. Alright. Ok. Alright, give us a call if you need something, you have a good afternoon.
+Patient: Yep. Thank you. You're more than welcome. Welcome. Yep. Bye.

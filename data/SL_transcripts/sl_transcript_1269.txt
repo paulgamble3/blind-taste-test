@@ -1,0 +1,20 @@
+Nurse: He da, hi.
+Patient: What's up? I got a hold of you.
+Nurse: Yeah. Yeah, your name popped right up.
+Patient: That's good. Um, my, my doctor, uh, nurse, uh, [PHI-Personal] said they, uh, they have called in a Prescription HYDROcodone for me to my pharmacy craft Pharmacy and, uh, they said it is gonna be, uh, it might be a deal or whatever that might get it into, into them and, um, said they never gotten a, a prescription.
+Nurse: Yeah, it looks like it hasn't been signed yet. When did you, when did you request it?
+Patient: Uh, I requested it Monday, I thought.
+Nurse: Oh, wow. And it hasn't been signed yet? Let me look and see if there's a note on there because I see it where someone has started the prescription in your chart, but it hasn't been, um, signed yet. Doctor [PHI-Personal]. When are you due for it?
+Patient: Well, I'm due any time. II, I wanna be out this week this Friday by this Friday and you'll
+Nurse: Be out Friday.
+Patient: Ok. Yeah.
+Nurse: Ok. Got you. Ok. Yeah, let me, let me shoot a message to them and see if I can light a fire and, uh, get that signed and
+Patient: Sent. Are they off today? Are they off today?
+Nurse: I think I've been getting notes back from her, so I'm not sure why this is just sitting there. Uh Yeah. No, they're there. So let me, yeah, let me shoot her a message and see if I can get her to sign it for you. And um I'll call you when she,
+Patient: We gotta hold off on getting another, another shot kind of shot, uh different brands and see how this material goes or what.
+Nurse: Well, since you're able to get it, let's just stick with it for now and if it next month it comes that you know we can't get it filled then um try something different then yeah you want to stick with it if we can get it.
+Patient: Um.
+Nurse: Ok. Yeah let me I found a yeah I found a message here about your HYDROcodone. I will reactivate it and see if they can go ahead and get that signed and sent because they get that. Did they deliver that to you?
+Patient: Uh yeah they can deliver it to me if I if if if need to.
+Nurse: Ok, perfect. I will let them know that that's kind of why we wanna get it done um and I will see if they can go ahead and get that signed and sent and then I'll give you a call back, ok? Alright dear
+Patient: I'll talk to you soon. Bye bye bye.

@@ -1,0 +1,31 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Uh Su you did you say this was [PHI-Personal]? Yes,
+Nurse: Ma'am. Hey,
+Patient: This is pathway and you wanted me to call you back on my readings, my sugar and my BP.
+Nurse: Yes ma'am. What do you got for me?
+Patient: Ok. Um now this is my BP on the third at 9:59 p.m. It was 100 and 52. Over 82. My pulse was 56. Ok. On the, on the [PHI-Personal] at 10:16 p.m. it was 100 and 27/67 and 58 pulse. Hello on the fifth at 9:20 p.m. it was 100 and 38/77 and 63 poles. Ok. And on the [PHI-Personal] it was at 9:40 p.m. It was 100 and 53/76 and 60 pulse. Hi. Ok. My blood sugar at night it's always so high because it's, you know, right after my, if I ate late. Ok. The third, it was 100 and 48 at 10:30 p.m. No, that was, yeah, 10 03, I guess it was PM the [PHI-Personal]. It was 100 and 20 at nine fif oh, that's a morning you want night. The [PHI-Personal] was 100 and 52 at 10:24 p.m. Ok. And the fifth, it was 100 and 33 at 9:16 p.m. Ok. Just a se and, oh, wait a minute. Ok. Then I the fifth, oh, the [PHI-Personal] was 100 and 74 at 9:45 p.m. All right. Well,
+Nurse: Those are not low readings at all. So I'm thinking that that is not what's causing that shakiness. Does it feel like, as opposed to shaky? Does it almost, does it feel more like a tremor kind of thing? Like it's like your hands kind of rolling instead of actually shaking?
+Patient: Well, like the one time at night, I wa and I don't know when this was, this was a couple of weeks ago, I was just laying on the couch and my right arm was just started shaking. And then one time when I was walking across the kitchen holding onto a plate, my, I, my hand started, you know, like a tremor, I guess you would call it. Ok. Have
+Nurse: You dropped anything?
+Patient: No, but my right. Pardon?
+Nurse: Any numbness or tingling?
+Patient: No. The only thing is when I, towards the evening after I've written a few lines, I get shake, you know, my writing gets pretty shaky then.
+Nurse: Sure. And how long have you noticed that it's been getting like, you know, worse like
+Patient: This. Oh, it hasn't been getting any worse. It's just, I just been having it for a while. See, the last time I put it on doctor my six months, well, then I went in there and then I forgot to tell him about it. So, you know, other than that for a
+Nurse: While then it sounds like I think he has been going on for
+Patient: About six months. Ye, yeah, I'd say six months. Ok.
+Nurse: And it's mostly in that right arm. It's not really anywhere
+Patient: Else. Yeah. Just my right arm. Come to think of it. Yeah. It's just been in my right arm. Yeah.
+Nurse: Are you having any neck pain at all? No. And does the arm feel weak?
+Patient: Is my arm weak?
+Nurse: Yeah. Like if you were to, to pick up like a gallon of water or a gallon of milk when you're feeling shaky? Like that, would you be able to?
+Patient: Oh, yeah, because I buy a gallon of milk at a time and I water my birds every other day with a gallon and a half and I haven't noticed it when I'm lifting that. No difficulty with
+Nurse: That. Ok. Good. Ok. Well, I'm gonna send a message and let him know what we've talked about that. We checked your blood sugar and your BP and they were all fine and see, um, what he thinks it could potentially be. Um, some people just kind of develop a little bit of a tremor as they get older. Um, but I don't know if it's something that he would want to see you for or to see, have you see a neurologist about? But let me, let me send him a nice good note and let him know what we've talked about and then, um, see what he, um, suggests. Is that ok?
+Patient: Yes. But now I'm going to be gone from the, uh, [PHI-Personal] through the, let me see, can't read my through the [PHI-Personal]. I'm leaving the [PHI-Personal] and uh and I won't be home until the [PHI-Personal]. I should
+Nurse: Absolutely get a response. Probably not this afternoon, but I will definitely get a response before you leave on the [PHI-Personal].
+Patient: Oh, ok. Yeah. Yeah
+Nurse: I he usually is usually good about getting back to me within like a day or two. So yeah, I'll get something back from him before you leave so we can get some sort of
+Patient: Plan in action. Ok. Alrighty. Alright
+Nurse: And I'll call you back.
+Patient: Ok, thank you. Bye
+Nurse: Bye.

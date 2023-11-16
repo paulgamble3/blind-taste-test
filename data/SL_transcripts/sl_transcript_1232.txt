@@ -1,0 +1,82 @@
+Nurse: Good morning. This is [PHI-Personal]. How can I help you?
+Patient: Oh, hi, [PHI-Personal]. It's [PHI-Personal]. Good morning.
+Nurse: How are
+Patient: You? Yeah, I'm doing all right.
+Nurse: Great. Are you returning my call from the other day?
+Patient: Yeah, I am. Yes. Fabulous.
+Nurse: Just making sure you didn't have an acute issue and you needed to start the conversation off.
+Patient: Oh, ok. Great.
+Nurse: Let me get you up on my computer here.
+Patient: Wait, hold on a minute. Sure. Oh, ok.
+Nurse: All right. I was just saying, let me bring you up here on my computer. You're always fun to find and easy to find because of
+Patient: The data. Yeah, almost there. Ok.
+Nurse: Course, when you're trying to work in a hurry, the computer never
+Patient: Works for. Cooperate. Exactly. There we go.
+Nurse: Now it's working. They must think it's Friday when it's only Thursday. Yeah.
+Patient: Right.
+Nurse: All right. So the last time we spoke was just a few days ago, um, you were letting me know about the tick bite. So I'm calling to find out how you are in that
+Patient: Regard. Oh, fine. I have no rash or anything. Just the antibiotic.
+Nurse: Good. Excellent. So you took the one time dose of doxycycline the two pills
+Patient: There. Yeah. Right.
+Nurse: Excellent. And no side effects from the Doxycycline.
+Patient: No, no. Beautiful. And you're
+Nurse: Having no symptoms of Lyme
+Patient: Disease. No, not at all.
+Nurse: Excellent. And when we say no symptoms, we're talking about no rash that you've noticed anywhere.
+Patient: Right. Correct.
+Nurse: Good. And the rash sometimes doesn't appear where the tick bite was. It can actually appear elsewhere on your body. So you've looked at your body entirely good and, and we're in that time frame where the rash would have started to appear. And are you having any problems with
+Patient: Fatigue with what happened? Being tired? And I'm OK. Good.
+Nurse: And I'm so glad you're able to say you're ok with the fatigue because I know when we were speaking the other day, you were still getting over the sinus infection and you were a little fatigued from that good. So you're improved with your energy level compared to the other day.
+Patient: Yeah. Right. Great.
+Nurse: No fever, no
+Patient: Chills. No, great. And we talked
+Nurse: About if you're having like episodes where you're cold and you're like, why am I cold? Meaning like the air conditioning is not on or you wake up sweaty, those chills and sweats could mean a fever grab the so no experiences like that. No great, no swollen lymph nodes,
+Patient: No
+Nurse: Beautiful and a lot of times they're around the neck in the armpits, around the groin, no lumps and
+Patient: Nothing great.
+Nurse: And you were having like a little residual headache above your eyes
+Patient: From your sinuses. Yeah. They put me on antibiotic again. The zak.
+Nurse: Ok. So you started the ZP PA again?
+Patient: Yeah, I, I finished it already. Good.
+Nurse: Excellent. OK. Open up that note because that when I saw the extra Z pak, I was like, wait a second. Ok, good. So you call the office, let them know about the ongoing sinus issues and I gave you the second Z Pak and you already completed that.
+Patient: Yeah. Great.
+Nurse: Excellent. And I'm looking at that note. Um So that's when you had the frontal sinus pain when they gave you the additional z-pak and that is since
+Patient: Resolved. Yeah, it's been better. Yeah.
+Nurse: Ok. Not 100%
+Patient: Better. No pain. Oh, good.
+Nurse: No headaches. No pain. Great. And then uh you had mentioned green from their nose. You were blowing out some green.
+Patient: I'm sorry, I had, did you
+Nurse: Have green discharge green mucus that you were blowing out your nose
+Patient: A little bit? Not too bad.
+Nurse: Ok. And is that getting better?
+Patient: Yeah. Good.
+Nurse: Excellent. Is there any green coming out of your nose anymore? No,
+Patient: Nothing. No
+Nurse: Good. Ok. Because there's definitely a difference between some green versus no green. And after a second round of antibiotics, I'm glad to hear you say no green.
+Patient: Yeah. Right. And we already talked about
+Nurse: No fever when we were talking about symptoms of Lyme. So no fevers, no fever. Great. And are you using your
+Patient: Flonase. I'm sorry, [PHI-Personal].
+Nurse: The nasal spray, Flonase. Are you still using that?
+Patient: Yeah. The other nurse told me to use it.
+Nurse: Good. Excellent. Ju I'm just making sure that you're using it
+Patient: Because it'll, it'll definitely help with
+Nurse: A lot of the inflammation
+Patient: Up there. And I see here,
+Nurse: Uh, they encouraged you to increase your water intake and take Tylenol as needed for discomfort.
+Patient: Yes. Correct.
+Nurse: Are you still having to take anything for the discomfort?
+Patient: Yeah, I take it once in a while.
+Nurse: Ok. And what's your drug of choice? Tylenol or Ibuprofen
+Patient: Tylenol?
+Nurse: Great. All
+Patient: Right. Yeah. And so you are
+Nurse: Improved as far as needing the additional antibiotic for the sinuses, the
+Patient: Sinuses.
+Nurse: You're very pleased with how you feel
+Patient: Now. Yes. Correct. Great and
+Nurse: No symptoms of lyme.
+Patient: No, nothing.
+Nurse: [PHI-Personal]. Excellent. I
+Patient: Will update your record, [PHI-Personal]. Alright, so
+Nurse: Much for returning my
+Patient: Call. Alright. Thank you. Thank you. Bye bye.

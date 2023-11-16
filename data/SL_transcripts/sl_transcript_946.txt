@@ -1,0 +1,29 @@
+Nurse: [PHI-Personal] speaking. How may I help you?
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal] calling. Returning your call. How are you doing?
+Nurse: I'm ok. How are you?
+Patient: I am doing fine. Got a few minutes. I'm out in the garden working. I'm trying to get some work done before this rain comes, which we need desperately. Uh, as far as my health goes from when we talked the last time, it's basically the same. I'm still having some dizzy spells when I'm, and it seems to be when I'm on the computer looking at the computer. Now I have, uh, an eye care, um, appointment on the [PHI-Personal]. I think it is. Anyhow, I'm, I'm really thinking that maybe it might have something to do with my macular degeneration because that seems to be acting up too. So, um, but other than that, you know, I'm healthy as a horse.
+Nurse: Well, that's good. That's good. So, um, no, like other changes to report besides having, ah, um, no,
+Patient: Nothing other than the, the dizzy spells and, and they, and as I said, they seem to be when I'm on the computer, you know, looking at the computer screen, um, it just happens and sometimes, you know, when I get dizzy it almost, I almost feel like I wanna throw up.
+Nurse: Mm. Yeah. Um, have you ever had migraines?
+Patient: Not to my knowledge, not to my knowledge. I mean, I don't, I don't generally get too many headaches, you know. So, anyhow, um, you know, I, I'm not a complainer. That's Doctor [PHI-Personal] worries about me because I am not a complainer. She wishes I would complain more. But, you know, she said I just have a, a tendency, you know, something happens. It's like, ok, it will go away.
+Nurse: Yeah,
+Patient: So anyhow. So basically. Ok.
+Nurse: Ok. Alrighty. Um you need any refills or anything like that?
+Patient: Well, as a matter of fact, I think I do need refills.
+Nurse: Ok.
+Patient: Let me see. Now I don't need my um the one that's the Fosamax but if I'm looking at my um other ones correctly, there are no refills and I think, you know, there's this program where you can get rather than a 90 day supply. Is it 100 day supply or something? Mhm.
+Nurse: Sometimes there's like 100 and 20 I think or something like that. Ok.
+Patient: All right. And I think my, I think my program will, will do that. So you know, if we can do that, that would be wonderful. Ok. Mhm. Uh So it would be the most. Ok. It would be the metoprolol. Mhm. And it would be the I I I'm terrible at I I am
+Nurse: You know really get.
+Patient: Ok and then this one I don't think. Oh wait just a minute this one I think maybe I have one re no I don't have a refill on but this 1 may not be, we might not be able to do because for some reason this one came in comes in much later. I mean I still have a a nice I probably have another two month supply of this one but it's the a Tor Va statin.
+Nurse: Ok.
+Patient: Ok. Ok but I need refills on all of
+Nurse: Those. Ok. Alright I'll put ok for you. Ok. No problem. Alright, very
+Patient: Good. Alright. Hey have a good day. Did you have a nice fourth? Did you have a nice fourth yesterday?
+Nurse: Um yeah I did actually just I really didn't do much just kind of relax. How about you?
+Patient: Well uh I have to [PHI-Personal] is uh a hybridize day of day [PHI-Personal] and I'm uh we my girlfriend and I have really gotten into my girlfriend more than I but anyhow uh we were down in the park because yesterday was uh days uh craft, crafts and [PHI-Personal] sells her down there so we went down and helped her so it was a busy day and a long day but um so now I'm trying to catch play, catch up here in my yard. Mhm. So and I have over 355 daily [PHI-Personal]. Oh wow.
+Nurse: Ok. Yeah, so anyhow,
+Patient: It and it's popping because right now the next two weeks will be daily I mean it will just be popping like crazy so so if you're over in north and on [PHI-Geographic] stop by and see me. Ok?
+Nurse: No problem. Alright
+Patient: You take care
+Nurse: Have a good day you too. Alright bye bye.

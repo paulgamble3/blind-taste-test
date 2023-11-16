@@ -1,0 +1,12 @@
+Nurse: Hello, this is [PHI-Personal] from the Pulmonology clinic. How can I help you today?
+Patient: Hello, this is Eleanor [PHI-Personal]. I'm sorry to bother you again. Oh, that's ok. I'm just calling to let you know, I just was talking to one of my friends and I was talking about the, um, MB I number and whatnot. And she does billing for medical. Ok. That has to be through the insurance company. The stress test that I have to get a research.
+Nurse: Yes. And we have a whole pre cert team that will do that. They do the contact, the insurance and all of that. Um, we just need to get the order and then find out where you're gonna have it done at. But you said you already have an appointment at [PHI-Personal]?
+Patient: No, no, I asked if I could go to because that's my, if I go to main campus that's out of my network. I see. Ok. I would rather go to Genes because I don't wanna have to pay anything out of pocket. You know what I mean? Right. So, I mean, if, if you can find out for me, if there's a way that I can if I did ask if, if I could have it done and he, he didn't, I guess you didn't understand what I was talking about, about it being out of my network because I'm sure you probably don't under, I don't understand the insurance end of it. You know what I mean? Yeah.
+Nurse: Well, as long as genes that I'm pretty sure gene does have the capability to tra stress test, then you should be able to have it there.
+Patient: All right.
+Nurse: So I'll just have to wait back. I messaged them because we just, I need to find out where that order is. Um, because then I can email our, our team that does help do the pre certifications and let them know, hey, you have this order. Here's what it is, here's where you're gonna have it done and they need to, you know, and then they'll work on getting all those codes and sending it to your insurance.
+Patient: Right? And can you check about the breathing? I don't know. You said you said one test was an hour breathing test and then the other test was for five hours. So I don't know if I, what I need for the breathing test, if that's a research or if that would be a referral.
+Nurse: Oh, yeah, I'm not sure we'll see whenever he messages back.
+Patient: Ok, thank you. Ok. All
+Nurse: Right. You're welcome. I'll talk to you once I hear back. Ok.
+Patient: All right. Thank you. Take care All right. Bye.

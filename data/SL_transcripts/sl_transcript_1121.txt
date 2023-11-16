@@ -1,0 +1,23 @@
+Nurse: Hello. This is one of the nurse, case managers here with Doctor Jumper's [PHI-Geographic]. How may I help you?
+Patient: Hi, Sega, this is [PHI-Personal]. How?
+Nurse: Hi, how are you?
+Patient: I'm good. I just wanted to tell you that, uh, I'm not taking any meds anymore. I took them all and, uh, I'm feeling pretty good little, I'm a little, still don't have much energy and, uh, I'm coughing but I'm not bringing up any of that thick mucus and, ah, I'm sleep. I slept good last night. So I just wanted to report to you that, uh, whatever you did it worked.
+Nurse: Oh, good. I'm glad you were on my list to call tomorrow morning and check in. I'm glad that's working well.
+Patient: Oh, ok. I just wanted to report.
+Nurse: Well, thank you. Keep, keep an eye out this week too. Make sure hope and make sure everything continues to go the right way. You know, you, if you still have that little bit of a cough, that's fine. Get all that mucus up. But with you being done with the predniSONE and the antibiotics, I would, I would expect you to be feeling pretty good here.
+Patient: Yeah, that I that was good. Good. And you, I took some Robitussin, uh, not last night but the night before and, uh, I was reading the label on it and it said something don't use after seven days and, you know, if your cough persists.
+Nurse: Yeah, they don't want you to use it on a very long term basis. And they also don't want you to use it to mask anything if your cough is lasting more than a week. And you haven't seen the doctor yet, then they, then they put that on there because, you know, you really should see the doctor and make sure it's not pneumonia, make sure you don't need any antibiotics. You have seen the doctor, excuse me one moment, I apologize. I had to cough and I didn't want to do it in your ear. Um, you have seen the doctor and you've gotten that treatment so you can use it like, just like you said before bed. Um, you, hopefully we like to wean you off of that for sure. So, definitely keep doing, you know, moist, humidified air, do a steam shower, get all that air out or all that junk out, deep breathing exercises. Make sure you get all that extra stuff out because we don't want you to have pneumonia and it, that's what the predniSONE and the antibiotics are for. But still, if you're having some mucus, still continue doing those exercises.
+Patient: Well, the only, the only mucus I have is clear.
+Nurse: Oh, good. Ok. That's a good sign. Uh huh. That's a good sign because that means the infection is gone.
+Patient: Uh huh. My niece was here doing a lot of cooking for me and, uh, she told me she's been in the medical profession years ago but she said you don't wanna use Robitussin too much because it suppresses the, uh, the cough and you can't get the mucus out.
+Nurse: Exactly. Now, are you still taking that Mucinex?
+Patient: No, I stopped that. Ok. Yeah, I didn't know whether I was gonna ask you about that. I, I have a lot left of that, you know, Mucinex, but I, uh, I didn't know whether I should keep checking it or. Well,
+Nurse: If you still have some thick mucus, then you can continue to take that Mucinex that will help get rid of that thick mucus. That'll actually work better than the Robitussin.
+Patient: Yeah. Ok. I'll do that.
+Nurse: Ok. And no fever, right?
+Patient: No fever. No. Ok. Good drinking. I'm drinking a lot of water. I noticed, uh, the urine is much, uh, lighter yellow than normal, you know, than it used to be. I think all this water is doing it. Yes,
+Nurse: Sir. That actually looking at the color of your urine tells us how hydrated you are, the darker yellow. It is, the more dehydrated, you are the lighter it is, the more hydrated you are. And you wanna make sure you're staying hydrated because that's gonna help thin out that mucus in your system as well. Uh huh. So. Ok. Well, I'm glad that's getting better for you and I'm glad you're doing so well. So I will take off my list for tomorrow since I talked to you today.
+Patient: Ok. Yeah, you can, you can cut that, that one out.
+Nurse: All right. Well, if anything changes though, you can always give us a call if you're still having a cough or any mucus next week. Definitely let us know. Ok.
+Patient: Ok. Right. Thank you, [PHI-Personal].
+Nurse: You're welcome. Bye bye.

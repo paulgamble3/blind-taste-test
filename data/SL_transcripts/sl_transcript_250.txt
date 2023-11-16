@@ -1,0 +1,27 @@
+Nurse: This is speaking. May I help you?
+Patient: Um, yes, my name is [PHI-Personal] and I just received a phone call but, uh, I missed a call. Excuse me, but there wasn't a voice mail, so I wasn't
+Nurse: Sure I left a message. I wonder why that
+Patient: It must not come through yet.
+Nurse: I know I was like, maybe I just talked too fast and it was like, what? No, no, no, we just wanted to follow up and see how your eye was doing. I know they had given you the prescription ointment for it.
+Patient: Yep, it's doing really well. Um, you know, I did the five day thing and it's, you know, it's not bothering me at all now. So
+Nurse: Any redness of the eye or the eyelid,
+Patient: The eyelid
+Nurse: Still a little redness. Yes. Is it the same as it had been before or not as bad?
+Patient: Um, it wasn't as bad as before. Just it had like a little, I guess they call it crystal light or something, but it was just like one, something like tan, but it was just one little thing that was in my eye. Not before when I had it. You know, it was like quite a few of those but this time is just like [PHI-Personal]
+Nurse: Small, but you still have some redness of the eyelid.
+Patient: It was, well, the, the, um, the, uh, little piece of sand or whatever you call it, I think, I forget what he called it. That was like in, that was like inside my eye. But, and it was a little, a little bit red but I didn't have blurred vision or anything like that. It just kind of, it kind of swelled up somewhat.
+Nurse: Ok. But it's not still swollen now, right? Yeah,
+Patient: It's perfect now. Yeah.
+Nurse: And is it still red at all though? No. Ok. I thought you were saying it was still red. That's what I was confused on. Oh, no, sorry. No. Ok. And it's not itchy at all anymore. No. No. Ok. Wonderful. And you said no watery eyes and no vision problems still? No. And you, you did it for the full five days, right? Yes, I did twice a day. Yeah.
+Patient: Um, no, I think he just told me that. I thought I was on, I only do it once a day instead of put,
+Nurse: It said in the AM and PM.
+Patient: I did it am. I think
+Nurse: You only did it once a day.
+Patient: I only did it once a day but he just had to put warm compress on it.
+Nurse: Ok. You use those? Yeah. Did they help? Yeah. Yeah. Ok. Sometimes it's just soothing too, isn't it? Maybe I was supposed to do too. You know, it's a nice warmth to it. You're like relaxing. All right. Well, we just wanted to make sure that everything, it healed up and that you weren't still having any problems with it. So, I'm so glad to hear that it's done better and yes, it is. Yeah. Well, I am so glad to hear that. Well, that is wonderful. All right. Well, if you, if you have any other problems, you still have some of the Erythromycin ointment, right? Just in case. Pardon me? I'm sorry. Did you have some of that ointment left? I'm sorry. The ointment that he gave you. Do you still have some of it left?
+Patient: Yes, I do. Sorry.
+Nurse: Ok. No, you're fine. I just wanna make sure hang on to it just in case usually it won't come back. But where you only did it once a day and it should be twice a day. I just wanna make sure you have it. Should you need it? Does that make sense?
+Patient: That's so good. I find directions.
+Nurse: Listen, it cleared up, but sometimes if it's not the right amount of antibiotics it can come back. Does that? So I just want to make sure you have it in case you start to have the problem again. Ok. Ok. I mean, let us know if you start to have the problem again, but this way we'll know you have some left? Oh, ok.
+Patient: Yeah.
+Nurse: Ok. And I will let him know that it's cleared up. Will? That sounds great. All right. Well, that sounds great. I hope you have a wonderful afternoon and if you need anything, just give us a call, I will do that. Thank you. You're welcome. Ok. Bye bye.

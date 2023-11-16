@@ -1,0 +1,21 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hi. Yeah, [PHI-Personal] had left me a, um, my name is [PHI-Personal]. Doctor [PHI-Personal]. Patient.
+Nurse: Ok. Hold on one second. Let me see if she's on the phone. What was your name again? I'm sorry,
+Patient: [PHI-Personal]. Hm.
+Nurse: I can't type today for my life and I'm like, what's going on?
+Patient: It's too nice that you don't want to be working. That's what it
+Nurse: Is. Right. That is very true. The good part is I can see out the window. I'm like, oh, it's so pretty. Oh, I, it is nice sometimes.
+Patient: Yeah. Can you open the windows? No.
+Nurse: Yeah. Um, she said give her, um, I'm calling, give her a few minutes and she'll call you right back. Let me just look at your chart and see if there's something I can help you with. Hold on one sec. Yeah. Ok. I'm like, we work in the same thing. So,
+Patient: No, she had just left a message for me that the doctor on call for who's taking over for doctor was concerned about my, uh, my lethargicness and my head. What else? And I'm not going to the er, I, I had a, I've had I BS a long time and I guess those symptoms are a little different but I know it's my, I BS acting up but I will go over to urgent care if she thinks that would be helpful to get some blood work or something. But I, I don't wanna sit in the, er,
+Nurse: For this. Yeah. So
+Patient: What I, I feel like I'm dying, you know. Yeah.
+Nurse: So basically what he wrote back was is how is lethargy, shakiness today? Do you have any fever, any pain with urination? No, I don't have a ut I that I know. All right, let me get into this and we don't have to worry about it. I'm like this will be easier. All right.
+Patient: Again I had go ahead get a,
+Nurse: You what? No, I was talking to the dog. Sorry. Ohh, I was like, huh? Um ok. So, so no, no patient patient called back. She is not having uh, oh man, having gysu ria and no fever, right? No. Yeah. Shakiness and lethargy. A RGY. Is this kind of your normal, your shakiness, lethargy, not at
+Patient: All. So I get, I get totally again, I've been really clean of my I BS for two years and then full force because I know it, that because the way my stomach feels and the bloatedness, I mean, I'm like nine months pregnant without eating. Um, I know that the stomach feeling is, is the I BS, the other part, you know, like the, the being lethargic and tired, I usually, that's the way I would get. I mean, I was with, I, I see doctor all the time trying to figure this out and the only thing they figured it out was my I BS. Um,
+Nurse: Is there any possibility you can see your primary care doctor or someone in that office to just, I was gonna say that would probably, I, I totally get, not wanting to sit in an emergency room, er, is gonna do 500,000 things. You kind of know what's going on. I would suggest going to your primary care doctor, like getting a sick visit, let them know that way they can run your normal blood work and you know, make everyone happy pee in a cup so you can say it's not a UT I, that would probably be the easiest thing but still kind of get you where you need to be. Ok? Sounds good. So, yeah, I would definitely try a sick visit with my PC P before I'm going anywhere near an emergency room. So, um yeah, no problem. And then like I said, they're in temple, right?
+Patient: Uh No, no, my primary.
+Nurse: Yeah. No, no. Ok. Oh, I have, I have [PHI-Personal] as your PC P in here. Ok. Ok, good. I was gonna say, you know you, what
+Patient: Is he connected
+Nurse: To temple? He may be able to get in a lot of the providers can actually see stuff in temple like they have, we have what's called care everywhere and they can pull information so he may be able to pull some of the like last stuff from here or whatever. But definitely, you know, if they can't find anything and they've run everything just you know, let us know and we can definitely see if we can pull that information. Ok. Sounds good. Ok. Alright, thanks a lot. All right, thank you. I hope you feel better. You. Alrighty bye bye bye.

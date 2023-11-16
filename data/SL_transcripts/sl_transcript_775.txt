@@ -1,0 +1,5 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how are you feeling? I hope you're feeling better. I am. Oh, good, good. Yeah, that's, I just wanted to call to check and follow up because I know you were feeling too well and, um, I just wanted to check in with you. Good. Ok. So no more, no more. Vomiting and food
+Patient: Staying down and just that once. Ok. All right. I worn out, but that was no, I'm better today doing laundry and going around. So.
+Nurse: Ok. All right, great. All right. Yeah, I just wanted to make sure you're doing ok and, um, if you need anything, you know, feel free to call, rest is needed, like you said, you might still be a little tired from it, you know, and you know, as you go out throughout your day, so rest as needed, maintain hydration. Um, and, and dietary intake. Good. All right. Yeah, I just wanna check and see how you were. All right. Um, if you need anything, feel, feel free to call. Ok. Ok. Thank you. You're welcome. Take care. Bye bye. Bye bye.

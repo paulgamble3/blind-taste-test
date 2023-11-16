@@ -1,0 +1,13 @@
+Nurse: Good afternoon. Thank you for calling Care Management. My name is [PHI-Personal]. How can I help you today? Hello. Um
+Patient: Your office called me yesterday. I was just calling and returning the call to find out what this was about.
+Nurse: Ok. Thank you for returning my call. I do I wanna inform the calls are recorded for quality purposes. Uh Would you be able to provide me your name, please?
+Patient: Sarabeth Speed.
+Nurse: Perfect. Thank you, [PHI-Personal]. The reason we're reaching out is we're providing bear with me. Sorry doctor is providing care management program. It's a phone call from our dedicated nurse where she checks in in between office visits. She'll answer questions or concerns. Help manage current health conditions can assist with medications, lab results, community resources. Anything pertaining to your health, the nurse would be an added resource. It is a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurances would be subject to deductible copay co insurance. So you may receive a statement from the practice for those services. How would you prefer if the nurse reached out to you in the morning or afternoon? [PHI-Personal]?
+Patient: Now whose office is ordering this uh
+Nurse: This is with doctor [PHI-Personal]?
+Patient: Oh, ok. Um, well, I was discharged from the hospital yesterday, so I'm, I'm recovering from surgery at this point. Um, that's not on my concern list. I am coming into Doctor [PHI-Personal] office at the end of the month. So, yeah, I do see
+Nurse: That. Yeah. Uh, looks like you're going for labs on the [PHI-Personal] and on the [PHI-Personal] of [PHI-Personal], you going to see doctor.
+Patient: Yes. So at this point, I just want to get this situation all taken care of before pushing on for the next,
+Nurse: Not a problem. So what I'll do for you is mail out information. You can keep it handy if you ever even in between that time frame, uh, feel free to give us a call.
+Patient: Ok? Thank you so much. Perfect. Thank
+Nurse: You, sir. Bye bye. Yeah, bye.

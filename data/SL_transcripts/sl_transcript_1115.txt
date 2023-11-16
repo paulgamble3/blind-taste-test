@@ -1,0 +1,14 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi [PHI-Personal]. This is Don [PHI-Personal]. I'm calling about here.
+Nurse: Hi, how are you?
+Patient: Good. So good. She passed, she passed away. Oh my gosh. I'm so sorry Wednesday. So yeah. Oh, I
+Nurse: Mean was it
+Patient: Expected or no, she just was eating dinner and had a massive brain bleed and stroke? 00, I'm
+Nurse: Very sorry for your loss.
+Patient: Yeah, thank you. Mhm. You're welcome. But so what do I do with this stuff that she has?
+Nurse: Um you can just uh discard it, you can actually just discard the hub and you can keep the equipment you I mean you can use it for yourself if you'd like to. Ok. Yeah, it's not we don't ask that you send it back. So.
+Patient: Ok. All right, I'll know the chart. A message to doctor [PHI-Personal].
+Nurse: Yes, I can do that. Yep.
+Patient: Absolutely. Ok. All right, I appreciate it. Thank you.
+Nurse: You're welcome again. I'm very sorry for your loss. Thank
+Patient: You. You're welcome. Bye bye. Alright, bye bye.

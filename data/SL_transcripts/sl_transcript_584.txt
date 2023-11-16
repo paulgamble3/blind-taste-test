@@ -1,0 +1,8 @@
+Nurse: This is, how can I help you? Hi, is this [PHI-Personal], this is [PHI-Personal], the care management nurse with doctor s office.
+Patient: Uh Yeah, I need um I have Caremark and they sent me a text saying that they needed before they could um refill my Metformin or my Fluzone that they needed some information from you guys.
+Nurse: Ok. No problem. You said the Metformin and the fluticasone uh nasal spray? Yes. Ok. Alright. And what is your birthday sweetie just so I can pull your chart up
+Patient: [PHI-Personal].
+Nurse: Ok. And you said it's CV S Caremark? Yes. Ok. All right, [PHI-Personal], I will get that taken care of for you. Ok, sweetie. All right. Thank you. You're welcome. Is there anything else you need?
+Patient: No, that was it? All
+Nurse: Right, I'll it taken care of and you just let me know if anything else is going on that you need help with. Ok.
+Patient: All right. Thank you. You're welcome. Bye bye bye bye.

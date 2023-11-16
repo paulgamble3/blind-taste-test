@@ -1,0 +1,56 @@
+Nurse: Rheumatology, nurse care manager, Cami speaking,
+Patient: [PHI-Personal] [PHI-Personal]. Hanging here.
+Nurse: Yeah, I did. I had just left you a voice mail. How you doing?
+Patient: I'm doing ok. Oh, a lot of, lot of things happening.
+Nurse: A lot of things happening.
+Patient: Yeah, happens. So uh
+Nurse: Are you home or you? Um Yes, I'm home now. Oh, ok, good.
+Patient: So I imagine uh no, I had to go to the, to a facility where they would give me the antibiotic for a month. So that's all done. I had a port me, so that was taken out. So that's done. Doctor did come and visit me twice. Oh, good. And uh he's, you know, told me not to take the methotrexate. So I'm not taking that medicine and uh right now I saw uh and doctor uh [PHI-Personal] yesterday and she said the wound looks good and they gave me a medicine, uh an ointment, a cream uh whatever, but it's too expensive. I can't afford that. Don't have to, I put the call out to see if I can get a different uh description. Right. And um and I was just waiting for home care to call me too.
+Nurse: You're gonna get, um, like a home health nurse to come and check in.
+Patient: Yeah. Yeah.
+Nurse: Ok. That's good.
+Patient: And that's pretty much, yeah, you have to
+Nurse: Go, you didn't have to have another surgery or anything, did you, you didn't have to have another surgery or anything? Right.
+Patient: I told you I had [PHI-Account], right,
+Nurse: [PHI-Account] total
+Patient: On the one ankle.
+Nurse: Oh, my gosh. I know you had, I know you told me about two of em for sure.
+Patient: I had three more after that. Oh, goodness, three different, uh, bacteria infections. Oh, gosh. Yeah, just pretty bad.
+Nurse: Did they have to, um, amputate anything? No.
+Patient: Ok. So, uh, yeah, thank God for that. Yeah. And then, uh, what was I gonna say, um, of [PHI-Personal] or this month? Yeah. No, I have an appointment. [PHI-Personal] 24th.
+Nurse: Yeah, I'm gonna make that.
+Patient: I'm gonna try. If not, I'll call. Ok. And then, uh, I have to see the, my doctor today in the accident.
+Nurse: Your family doctor?
+Patient: Yeah. To go all this medication.
+Nurse: Did they put you on any new medications besides the, um, no,
+Patient: I went back to everything that I've been taking, which I seem a lot better because the medicines they gave me maybe been made differently but does the same thing. Uh huh. And, uh, I was doing too well with that but I, all the medicine that I have here now, that's what taking, except for the methotrexate and vitamin D.
+Nurse: Are you not supposed to take your vitamin D.
+Patient: Uh, I don't think so. No, I have to ask the family doctor today.
+Nurse: Yeah. Make sure you ask him about that because, I mean, I would think that would be ok for you to take. But, um, you know, I'm not for sure, but I know you had issues with your vitamin D level being low and that can affect, you know, wound healing and you, you know, make you more prone to infections and all that sort of thing. Yeah, I ask him about that. Um, and just so, you know, I'm gonna send you a letter in the mail [PHI-Personal] because it's the beginning of the year. We, you know, redo the care plans and set some goals that we might be able to check off with you throughout the year. So that's what that's gonna be about. And of course I'm gonna put on there that you'll see [PHI-Personal] here coming up and your primary care doctor. Um, what other kind of specialists you think you'll need to see throughout the year?
+Patient: Uh, Podiatrist, a wound doctor. She's a podia doctor.
+Nurse: Ok. And, uh, what about for your diabetes? Do you see the endocrinologist for that?
+Patient: Oh, yeah, I see that him?
+Nurse: Oh, ok. Um, any other ones, the kidney doctor maybe, or?
+Patient: I'm not, I'm not sure the cardiologist, maybe
+Nurse: Cardiologist. Ok. How about the lung doctor?
+Patient: Who's that? Um, I
+Nurse: Don't, I'm not sure if you see one or not, I was just asking because I know you have that, um, the sarcoidosis. So, don't they usually do, like, a CT scan of your lungs every so often?
+Patient: Yeah. They haven't done one in [PHI-Personal]
+Nurse: Years. Oh, my gosh. Really?
+Patient: Yeah.
+Nurse: Well, I guess if you're not having any shortness of breath or anything, maybe they feel like that's stable apparently.
+Patient: Yeah. So,
+Nurse: All right. Well, are you, what are you taking any pain medicine right now? Do you need anything from [PHI-Personal] as far as that goes? Oh
+Patient: No pain meds we all out didn't help one bit. Oh really? That only made me worse.
+Nurse: Oh gosh
+Patient: Yeah like is uh I really need it is a Tylenol
+Nurse: Just Tylenol. Yeah. Ok. What about that? Um Nabumetone do you take that one or no?
+Patient: No got rid of it. Got rid
+Nurse: Of it. Yeah. Ok. How about the DULoxetine? Are you on that?
+Patient: Yeah doctor uh [PHI-Personal] said I can take that.
+Nurse: Ok, well that's good and you're ok on the the refills on that you have enough. Yeah. Ok sounds good. Well I guess just let us know um you know if you need anything and hopefully you're able to make that appointment coming up. Um I hope everything goes well for you.
+Patient: Ok.
+Nurse: Alright well you take care and thank you for uh returning the call.
+Patient: Ok, thanks for the phone call, talk to you later.
+Nurse: Alright have a nice weekend. You too now. Bye bye. Thanks. Bye bye
+Patient: Fuck.

@@ -1,0 +1,12 @@
+Nurse: This is speaking, how may I help you?
+Patient: Hey, this is uh I, I didn't go get a mammogram last, last year. I was kind of busy so I scheduled one for, for the [PHI-Personal] of this month and also they said about giving me a Dexa scan.
+Nurse: Yeah, it's like a bone density scan. Yeah.
+Patient: Mhm. So could you uh contact Doctor [PHI-Personal] office and have them send an order up? Ok. For both of those ones at three o'clock, the mammogram and one's at four o'clock, the Dexa scan on February [PHI-Personal].
+Nurse: February [PHI-Personal]. Ok. You're having those a
+Patient: [PHI-Geographic].
+Nurse: Yeah, you said they need orders for
+Patient: That. Yeah, that's what she said.
+Nurse: Yeah. Ok. I'll send her a message and have her send um the orders for it. So you said um February [PHI-Personal], 1 is at three and one is at four. Yes.
+Patient: Ok. There something else. Uh I was supposed to, oh, I'll just find that paper and call her office and tell her when I had my booster. I'm busy right now.
+Nurse: Oh, ok. That's fine. That's ok. All right. I send a message over and just let them know to send the orders up to van for your Dexa scan and your mammogram for [PHI-Personal]. Ok.
+Patient: All right. Ok. Thank you. You're welcome. Have a good day. You too. Bye bye bye.

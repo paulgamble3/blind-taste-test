@@ -1,0 +1,64 @@
+Nurse: Hi, good morning. This is [PHI-Personal]. How may I help you?
+Patient: [PHI-Personal]. Hi. Um, is, I'm not sure who this is because I, you called me? Oh, this is doctor. We are the
+Nurse: Chronic care nurse manager. I'm checking in for a monthly, um, case management call. You were enrolled in the case management program?
+Patient: 00, ok. On the
+Nurse: [PHI-Personal] and we got you enrolled in our program. Um, so, yeah,
+Patient: I remember, I just, that's all kind it in my phone
+Nurse: Holiday to make sure you're doing ok. Don't need any med refills since it's a short holiday week. Just checking in on everybody to see how they're doing.
+Patient: Ok. Um, do you not have medical, my red medical records in front of you? I guess I do. I do. Uh, ok, because I've been going through a lot of tests and stuff. Um, ok,
+Nurse: I know last time I talked to you we talked a lot about the dizziness.
+Patient: So, yeah, that's, um, if I still, I'm doing good but if I do like what I did two months ago, I can't, I just get too tired and then I'll have to, I'll be fighting the dizziness. So I don't like that. I see. Doctor on Wednesday. Yes,
+Nurse: The [PHI-Personal] tomorrow at 1 15.
+Patient: Yeah, the um, this progest I need that. It like it says no refills. I don't know if I should order that today that you give a refill for that. And what is it? Uh, it's um, it's a biog topical cream, hormone cream and the number,
+Nurse: Does he prescribe it or someone else?
+Patient: He does
+Nurse: Because I don't see it on your list. Um Is that the, what they call the, the, the bies, the bias? Yes. Ok, perfect. Ok. Let's see. I do have that. Sorry. It was listed different. I can go ahead and send it. Do you want it to pra or C
+Patient: It's [PHI-Personal] doesn't make it, but like they make it well, I would appreciate that.
+Nurse: Absolutely. Absolutely. And then I have your clonazePAM as needed. Um, the D um D hea the meclizine. And then did you finish the antibiotic
+Patient: Or? Yeah, that worked. Will take
+Nurse: That off your list. Is there anything else any other specialist have prescribed for you that I need to update your
+Patient: List? Uh No, not really. Well, he did. Um He did, I don't know if you have this but from the um uh the image, the last image, the uh uh gosh, I can't believe I can't think of the name of it. Uh They, I have to have, I have to have a biopsy. There's a, a mass in my liver. Do you have that? Let's see,
+Nurse: Have the MRI from [PHI-Personal]
+Patient: And the MRI. Yeah, that's what I was trying to think of. Um, so that I saw the doctor he, where he referred me to yesterday. Ok. And now I'm supposed to get more blood work. Um, so I don't know, I have a very busy schedule today and tomorrow I was trying to fit, fit it in, but I'm not sure yet. You know what
+Nurse: The blood work is because if that specialist would give an order to you MJ, then we would be able to possibly draw it when you come in
+Patient: If I have the order. Yeah, that'd be great. Do you
+Nurse: Want the, um, test or can you tell me what the test
+Patient: That he's looking for? Oh. Right. Ok. Which folder it's over here? I was just, I took, um, a today seminar on Zoom and I was just filling in the, you have to fill in answers afterwards. Like it's not a test, it's kind of a survey.
+Nurse: I don't wanna hold you up, but if I can make this easier for
+Patient: You. No, I finished that right. I just finished doing that. Just called at the right time and I have a client at [PHI-Personal] 30 but that's telehealth. Ok. This is, uh, where is it?
+Nurse: And what type of doctor did you see yesterday? G I
+Patient: Doctor, uh, a gastroenterologist. Ok.
+Nurse: Ok. Yeah, we don't have the paperwork from them yet. So, um,
+Patient: Yeah, but I do have the, this is a copy of where to go here. This is it, this, I could, uh, fax it to you but what were you asking what,
+Nurse: What the test were that they were wanting done to see what, what they were wanting the test they were ordering for the blood
+Patient: Work. Um [PHI-Account]. Would that be it?
+Nurse: That's your diagnosis code? That's A G I code. So is there a test like a CBC C MP? Amylase? Um, any lipase anything like that? Was it
+Patient: Your chain priority to that? Um A SP? Ok. Is that what
+Nurse: You mean? Yeah. Is that the only one or is there more
+Patient: Uh routine comp metabolic panel? Ok. And then the routine protime dash inr?
+Nurse: Mhm. That's for blood clotting.
+Patient: Ok. And that's it. Ok.
+Nurse: Yeah, bring the order with you tomorrow. I'm gonna fill in um, on your because none of them need to be fasting. I'm gonna click on here.
+Patient: Right.
+Nurse: And just let them know that you're going be bring in a um, it's at 1 15 tomorrow I'm bringing,
+Patient: I'm sorry? Oh, you're fine.
+Nurse: Um G I doctor was like labs drawn [PHI-Personal] PC if possible. I don't make any promises because, you know, the doctors speak for themselves, but those are all pretty standard labs. So I, you know,
+Patient: You know, [PHI-Personal], I even thought, I wonder if the last blood work that was done because that was extensive, if that included these, um, um, it's possible
+Nurse: The, probably not the PTINR because that is a clotting factor. I'm just looking to see what you had
+Patient: And then there's a hormone she was looking for, to because if there's too much of that, what she said, I should have wrote it down. I didn't, because I didn't know about that hormone. And if I had too much of that, that can create cancer, she was very encouraging that um she's just the way my body is from all the tests. She doesn't see the risk there of that being cancer, but you still have to be sure. Sure. Oh I, so that was a low risk. Yeah, we had the
+Nurse: CMT on [PHI-Personal] 10. So that one is pretty recent and the other one, was it an A T um that you said the very first one?
+Patient: Um the wait A FF as in Frank
+Nurse: LFT liver LFT liver function test. Is that what you're saying? L as in Lisa, [PHI-Personal] as in Frank, T as in Tom.
+Patient: No, A as in apple, [PHI-Personal] and [PHI-Personal] as in Peter
+Nurse: A FP. Let's see that one's a little more in detail. Um
+Patient: But it does say other specified diseases of the liver under assessment cause I had hepatitis when I was [PHI-Personal].
+Nurse: OK. Yeah, that one, I'm not sure about. That's a little more specialty. Just bring the order with you and they can look it up in the book and see, see the issue is some of them have to be frozen, put on ice down and, um, each office that I deal with is different. So bring that in. But you just had the MP and then the PT in R I know they can draw that one. I'm just not familiar with the specialty test here. Um MJ. So just bring the order with you. I'll put it in your note to doctor and
+Patient: I appreciate that. Ok. I
+Nurse: Just don't wanna make a promise and then it'd be something that they
+Patient: Change. Yeah, it'll be up to him or I can. That's, that would be great. Wonderful. Other
+Nurse: Than that anything else new going on any thyroid issues to remove, um, dried skin, brittle nails?
+Patient: There is nothing else is, um, I'm sorry, we had to, my husband brought someone in the house. You are perfectly
+Nurse: Fine. I don't wanna hold you up in a time. I know you had the appointment tomorrow, um, wanted to check in and see on the meds. I'll get
+Patient: That. I appreciate it. Yeah. And then I have my client at [PHI-Personal] 30 today. Just walk out the door. You
+Nurse: Are absolutely fine. I know it's a short holiday week for everyone. So we're all trying to get everything done. So, um, like I said, no problems at all, but I'll give you a call next month before Christmas just to kind of see where we're at with all of this testing. But if you need something before then I um MJ, just give me a holler back. Ok,
+Patient: I appreciate it. Thank you so much. You have a nice holiday. You too. Thank you. Bye bye. Thanks. Bye.

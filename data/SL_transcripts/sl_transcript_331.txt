@@ -1,0 +1,40 @@
+Nurse: Uh, hi, this is [PHI-Personal].
+Patient: [PHI-Personal]. Hi, this is [PHI-Personal]. Oh,
+Nurse: Yes. How are you doing? I'm good. How are you? Not too bad. Let me get you pulled back up here in the computer. You have any plans for this weekend?
+Patient: Yeah, we're going to my niece's on Sunday.
+Nurse: Ok. Gonna have a picnic. Yeah, it's gonna, I think it's supposed to be pretty warm this weekend. Yeah. All right again. All right. So, any changes since you talked to a, a nurse last month, any appointments changes in your medications? So, it looks like you did have an appointment? Yeah,
+Patient: I was just there Thursday.
+Nurse: Ok. All right. So, um, just for a three month check for your chronic conditions. Um, you've been having some fatigue worse after COVID. Um, you did, you were taking 50,000 of vitamin D? You noticed a change with that and they rechecked your vitamin D level? Ok. Um, you've had some right wrist pain. Um, you've been using a carpal tunnel brace with some improvements and no other joint pains other than the wrist pain. Is that correct? Yeah. Ok. Did you ever get, um, that carpal tunnel looked at, do you know, for sure it's a carpal tunnel or,
+Patient: Well, I had carpal tunnel surgery and it's only when I vacuum. So when I go to vacuum and now I put my wrist thing on.
+Nurse: Perfect. Ok. Good. Um, your diabetes, um, you're taking the Lantus and the Trulicity. Um, no episodes of low or high blood sugar. Um, you do have a little bit of numbness and tingling in your feet after you had your chemo and you're taking the Lyrica for that. Um You're on metoprolol for your BP, which is well controlled. Excellent. No,
+Patient: She actually she discontinued that for now. Ok, perfect. They're trying to get a hold of my um lung doctor and find out why he actually had me on that
+Nurse: On the metoprolol for BP. Yeah. OK. OK. Um And you are taking the simvastatin for your cholesterol. Um Let's see. Um What else here? Your reflux is well controlled with the PriLOSEC. Um You, you, your smoking decreased to one cigarette per day? Wow. From one pack a day back in [PHI-Personal]? That is excellent. Thank you. Wow. So did you just kind of just slowly decrease it? And you got
+Patient: No, they put me on the end of OK.
+Nurse: I do see that still though. That is absolutely excellent. Good. That's something to be proud of for sure. So is your goal to ultimately cut all, stop all together? Yes. Yes, perfect. Good. Um And they said you're not consistently taking your BREO or your Symbicort inhalers and they encouraged you to do that. Yeah. Um, let's see. And then I forgot about them. Ok. All right. Yeah. And you know what some tips to help you remember, just, you know, set them with your other medications or? I
+Patient: Actually do.
+Nurse: Ok. So you're even, how many times a day do you take them just once? Ok. Do you normally take them in the morning? Yeah. So you can put a reminder on your cell phone too for it to go off. Oh, that's a good idea. Yeah, for like two weeks just have it re occurring for a couple weeks and then usually after several weeks you usually don't need a reminder. You remember to do it, you know, and I tell patients if they take a pill at night, you know, to put it by your bed. So you don't forget I have to take it at night and I was forgetting because it's the only pill I take. And I'm like, I'm gonna put this by my bed and sure enough, every time I would lay down to charge my cell phone I remember to take it. So, yeah, try setting the alarm for a couple weeks and it'll eventually after several weeks it'll register. Oh, I need to use my inhaler. So that's just a little thing to try. Um, and then some back pain, it looks like you've had multiple back surgeries. Um, you are taking the five of oxyCODONE every day. Um and you are still having your pain as she just
+Patient: To increase the amount for me. Ok. Yeah, trying to do more in the summer just makes it really difficult.
+Nurse: Ok. Did she increase it to 7.5 or to 10?
+Patient: No, she just increased the amount that I'm gonna be taking a day. Ok,
+Nurse: I see. So one tablet every [PHI-Personal] hours um if I'm relieved by over the counter. Ok. So you can have it every [PHI-Personal]. Was it like every eight before or every 12?
+Patient: No, it was, it was actually [PHI-Personal] but she only gave me 60 a month. So now I'm able to be able to take them. Yeah.
+Nurse: Ok. Ok, good. So 1 20 given. Ok. Yeah, I know this you just had this visit yesterday so I'm able to review the notes but I can't review her recommendations. So the metoprolol was stopped. The oxyCODONE frequency was in. Well, the the amount that she gave you was increased any other changes other than you know, making sure that you're using your inhalers. Um Anything else different? No. Ok. And it looks like um please refill all scripts except insulin and control medicine to express scripts. So that was taken care of good. Excuse me. Um and how has everything been with um with your depression and your mood? I know a lot of times when the weather gets better, it gets a little bit easier. It
+Patient: Is. Yeah, it is getting better. Yeah. Isn't
+Nurse: It wonderful when it gets nice out? How it's, it's funny how much the weather and the sunshine can really affect your mood for you to be able to get out. Oh, I know. You're getting
+Patient: Up all when I hate that.
+Nurse: I am with you on that one. Yes. Yeah.
+Patient: My niece got me one of those weighted blankets for, uh, my birthday and I didn't wanna get off of my darn thing. Do you like it?
+Nurse: I love it. I have seen those before for sure. But I don't know if I would like it, but I may, I've actually thought. Yeah.
+Patient: So you get, yeah, I don't wanna get out from underneath it.
+Nurse: Now. Is it machine washable or do you have to put like a cover on it?
+Patient: Um, there's not, no. Um, I, what I do is document. Oh, that's what I don't think you can wash them. I probably
+Nurse: Spray them. Yeah, because there's like little beads and stuff in them. Yeah. Yeah. You could probably spray them with them for breeze or something like that too if it started to. Oh, well, that's, that's good. That's something to think
+Patient: About cat. So I make sure I vacuum it, get the air off of it.
+Nurse: That's right. Just like a rug. Vacuum it up. Yeah. Well, good. So, over the past couple of weeks, have you noticed any, um, little interest or? Pleasure in doing things or feeling down depressed, hopeless. No. Um, any issues.
+Patient: No, like I said, it's
+Nurse: Better. Good. No issues with sleeping appetite, having no energy. Ok. Um, no problems concentrating or anything like that.
+Patient: That I do have problem with, like, staying focused on stuff. Ok. And I've been, I've been having that for a while.
+Nurse: Sort of like a little bit of brain fog or? Yeah. Ok. All right. Um, and you haven't had any thoughts of hurting yourself, correct? No. Ok. All right, good. Um I know they sent your refills in yesterday. Did you have any other questions? Concerns anything for me today? [PHI-Personal] when I had you on the phone?
+Patient: Nope, I'm good.
+Nurse: Ok, perfect. Well, you don't have an appointment with until [PHI-Personal]. I'll give you a call next month though to check in on you see if you have any questions or concerns um and have a wonderful time this weekend and enjoy your picnic. You too. Thank you so much. Alright. You take care.
+Patient: Alright, bye bye.

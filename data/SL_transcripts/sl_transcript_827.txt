@@ -1,0 +1,73 @@
+Nurse: Hello, this is [PHI-Personal], one of the nurses with Doctor [PHI-Personal]. How are you?
+Patient: I'm fine. How are you?
+Nurse: I'm good. Is this?
+Patient: Yes, it is. Hi. How are you
+Nurse: Doing?
+Patient: Oh, we're doing quite well.
+Nurse: I like that answer. That's good.
+Patient: Sorry, I missed your call. I was kind of tied up. So
+Nurse: That's ok. I know you are a very busy man. I just wanted to call and check and see. I was, uh, keeping an eye out um, on your chart just to check in on the labs and, uh, they haven't come over to us, which means because we're not technically tied into up MC system anymore. So that's since the cardiologist is, is following them, sometimes they don't send them to us, but I just wanted to reach out and make sure you went and everything was ok with that.
+Patient: Yes. They called me on Friday and said everything was ok. No change in medicine. Uh, do another blood test on the [PHI-Personal] of [PHI-Personal]. So I think it's th 30th or [PHI-Personal], the last day of that. No,
+Nurse: I feel like I should know if there's [PHI-Personal] days in [PHI-Personal] or not, but I'm [PHI-Personal]. It's on a Tuesday.
+Patient: Ok. Yeah. Yeah.
+Nurse: Ok. So they
+Patient: Change, no, they didn't change any medicine or anything. They said everything was just, was, was fine. They said it was just right where it should be good.
+Nurse: Well, that's good. I know we were a little bit worried because you hadn't had your test in a while. So we wanted to make sure nothing changed. But that's really good.
+Patient: Yeah. Yeah. Yeah. I, uh, I don't know why they don't contact you a little more often. Let you know when you're supposed to take your next test because I guess this is gonna be an ongoing thing with, with this is not, is, is that right?
+Nurse: Yes. Um, unfortunately when you're on Coumadin, you have to have your blood work checked regularly because the medication is so sensitive to dietary illness. Um, medication interference that you could easily go from being ju perfectly within normal range to really, really high in a day or two. If you start taking an, a different, like if you take an antibiotic, it's gonna throw your levels out of whack. Um, if you stop the medication, it's gonna throw your levels out of whack. If you are under a lot of stress that can send your numbers a little high or low, um, if you change up your diet and you're having a lot more foods that are high in vitamin K, like dark green leafy vegetables and such that's gonna affect your numbers.
+Patient: Oh, I didn't realize that.
+Nurse: Yeah, there's a lot of act, there's a lot of foods that are gonna change your numbers. Did they send you any material on what foods you should be avoiding?
+Patient: I come to think of it. I'm not sure there, somewhere I think I, I seen that you shouldn't be in it last night. I ate, ate a salad just to, well, my sugar was up just a little bit yesterday. So,
+Nurse: Well, and here's the thing, salads are fine. Salads are good for you. They're healthy for you. Um, what we normally recommend is having, like, if you're gonna have like one salad, two salads a week, make sure it's consistent. One or two salads a week. Don't go five salads a week. That's gonna change your numbers. Um, spinach, the darker the lettuce, the more vitamin K is in it. So spinach is gonna have a lot more than iceberg lettuce.
+Patient: Ok.
+Nurse: Uh, so you know what? I will, um, I will mail you out some information on a cheat sheet, so to speak on stuff you should avoid, um, with the Coumadin use. So that's, that's really important to know. Um, believe it or not, vitamin E is also one that's gonna interfere with your Coumadin dose too. Um, that tends to be more of an issue with women. A lot of women take vitamin E supplements because it helps your hair and your nails grow
+Patient: Ok. Um, no, I, I don't take any, any vitamin at all other than what I get in my normal food, I just, I just never did and, and I, I've never started that. So
+Nurse: That is fine. As long as you're eating a well rounded diet that is perfectly fine. Your numbers have been pretty good. The other thing I want you to watch, uh, broccoli Brussels sprouts, [PHI-Geographic], asparagus. All those are gonna be high in vitamin K too.
+Patient: Well, I don't need any of those that you just mentioned. I'm
+Nurse: Giving you, I, I'm giving you a doctor's note not to eat your green vegetables. Your mom would be so mad.
+Patient: Yeah. Yeah. Yeah. I don't know why. I, well, number one, I think part of the problem was when we were kids, we never had broccoli, uh, we had a garden and stuff but we never raised cauliflower, bro, broccoli or, you know, a lot of that stuff. So I just never got in the habit of eating it, I guess.
+Nurse: Yeah, I guess it is what you grow up on and what area you grew up in too is also very, it, it affects what you're eating because I know up up here we don't get very many collard greens, but when I go back down to my family's house, they have collard greens like crazy.
+Patient: Yeah, that's a, more of a southern dish, right? Southern vegetable. Yeah. II, I don't recall. Not either. So,
+Nurse: No, it doesn't grow this far north. What's that? It doesn't really grow well this far north. Oh,
+Patient: Ok. Where you from?
+Nurse: Oh, I'm from, uh, my dad's family is from [PHI-Geographic]. So, ok. Got a lot of time down there. But I'm, uh, I'm from around your area. Not too far. So, it, it's definitely a different growing climate than, uh, southern [PHI-Geographic].
+Patient: Yeah. Oh, yes. That's right. You're right. You're right. So, yeah, I take a lot of, you're right there where you grow up depends on a, on a lot of what you eat too. So, you know, we always raised our own meat and everything and, and, uh, we always ate a lot of meat. So
+Nurse: When you grow it it costs a lot less.
+Patient: Oh, yeah. Yeah, that's for sure. So, um,
+Nurse: All right. Well, that sounds really good. O overall any, any rapid heart rate, any chest pain, nausea.
+Patient: No. No. Uh, I, every now and then I get a little discomfort in my chest and I, I think what that is mostly is, is just from the incision because it's all, it's all like at the top of the incision and, and I think it just takes longer for that to heal because it's thicker up there.
+Nurse: Mhm. And that, that could be the case. Um, if that starts getting any worse or more frequent, that's something we would wanna know
+Patient: About. Ok. Ok. Well, it's mostly on the right side. So, it is. So, it, I thought, well, that kind of eliminates the heart, you know. So, but basically I've been, I've been, I don't know. Well, I just don't have the, the tion that I once did. So I did before the operation. But I, I guess it'll come back. I finished with my heart, uh, therapy last Friday a week ago. So,
+Nurse: Sure they gave you some exercises to continue doing.
+Patient: Yeah. Yeah. They said I should walk and stuff. Oh, I try to get out and do something all the time. But, uh, yeah,
+Nurse: Well, it's getting warmer, which should be nice. Hopefully the rain
+Patient: Keep me all the time. Well, that's one thing I will say. I never, the cold never really bothered me but this year it did, it, it just, uh, I guess, I guess some of it was because of the blood thinner, you know, the
+Nurse: Blood thinner does tend to make your skin a little bit thinner which makes you a little bit colder.
+Patient: Yeah. Yeah. Yeah. Ah, so this is what it is.
+Nurse: So, how is that, uh, arm? Last time we talked you had cut it up pretty
+Patient: Good. Oh, yeah, I had a little problem with the arm. Let me see. It just, oh, ok. So there is a, a little bit of a bright red around where I guess it was blood under the skin, but the rest of us has returned back to normal. So it has, ok. So, like, it's like
+Nurse: A blue color or like bright red.
+Patient: Uh, I don't know, it's, it's just, uh, it, it just seems like it gets smaller every day.
+Nurse: Ok. Well, that's the right direction. If it, if it starts getting, like, bright or red or warm to the touch, then I get worried about infection. So I just wanna
+Patient: Keep an eye out. Ok. Ok. No, it's not. Uh, it, it looks to me as if it, it's getting better because, uh, the skin in, inside that it's maybe, I don't know, a six of an inch wide and it's not as predominant as it was, but the skin was within that returning back to normal now.
+Nurse: Ok. All right. Well, that sounds about right for that healing stage you're in, that's what we would expect. Um, so if anything changes with that though, definitely give us a call, we wanna make sure you got enough that, that get looked at if you need antibiotic, get the antibiotics, hopefully everything heals up nicely. Just make sure you keep it clean and dry.
+Patient: Yeah. Yeah. Yeah, I do that. I mean, it's, uh, but I, I think it, it's coming along pretty good. So it is, uh, which I'm glad of, you know, I, but it, it's, it's, it just seems like a bruise a whole lot fast than what I used to.
+Nurse: Well, you definitely do because of the blood thinner. Normally your blood clot and you wouldn't have that bruise because the bruise is blood pooling under the skin. But now, now you can have more blood pulling under the skin, which means a bigger bruise.
+Patient: Yeah. Yeah. Yes. Life definitely changes sometimes, doesn't it?
+Nurse: Yeah. Unfortunately it's, if, if you're gonna fix one thing, you're always gonna cause another problem somewhere else.
+Patient: Yeah. Yep. You're, you are 100%. Right. But I guess I can be, I, I shouldn't be complaining but I'm, I'm thankful for the condition that I'm in. So I just, uh, a whole lot of people, a whole lot younger is in a lot worse shape than I'm in.
+Nurse: Yeah, you're, you're doing pretty good as long as you keep moving. I think we got a good shot.
+Patient: Yeah. Well, I went in town for breakfast this morning and, uh, I went down here and got a haircut but other than that I, I've been working every ever since. So.
+Nurse: Oh, did you get that emergency kit?
+Patient: No, I haven't, to be honest with you, uh, I've gotta go, I, I've got some bandage here that I, and, uh, and I gotta go, go in time today and, and I wanna pick up some of that, uh, stuff, uh, to, uh, stop the blood, stop breathing. But you told me, was it, you told me about that? I think it was. And, uh, well, I was at CV S and they don't carry it so they don't. And then somebody,
+Nurse: So I'm gonna have to cross that one off my list of telling people where it's at.
+Patient: Well, anyhow, the one up does it. But, uh I talked to the pharmacist at Rite Aid. He, he comes in for breakfast sometimes and he said they have it up there and then somebody said you can buy it at w, at the, at, uh Walmart too. Ok. So, hey,
+Nurse: Wherever you can find it, wherever it's the cheapest, everything is so expensive these days.
+Patient: That the truth a, that the truth. Oh,
+Nurse: Ok. All right. Well, I will let you go. I just wanted to do a quick check in, make sure everything was going good. I was worried about your lab value since we didn't get to see him.
+Patient: Um, yeah, they, they're, they're, they're good. They're good. So,
+Nurse: Well, if anything changes, you give us a call. Ok.
+Patient: Ok. All right. All right.
+Nurse: All right. You have a good day.
+Patient: Yep. You too. Thank
+Nurse: You. Bye bye.

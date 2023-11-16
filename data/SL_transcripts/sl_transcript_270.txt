@@ -1,0 +1,38 @@
+Nurse: This is [PHI-Personal].
+Patient: Hi. I'm sorry, I was waiting for the thinking the recording and I was waiting for the rest of it. No, you got me. This is [PHI-Personal] calling. Um, I'm, I'm uh calling because um, I'm running, running low on my um inhaler that I have for my COPD and I do not have a refill for it. And in fact, I accidentally threw the box away that had the, the label on it. So I'm not even sure what it is that I'm using right now.
+Nurse: No worries. Can you give me your date of birth?
+Patient: 8, 13 50
+Nurse: Seven. All right. Let me pull your chart up here, [PHI-Personal]. All right. So, ok, so let's see what inhalers you've got here.
+Patient: I know I have an Albuterol one and that's for emergencies.
+Nurse: Yeah. Is that the, does that sound familiar? Yes.
+Patient: Ok. Yeah, that, well, that could be, I also have uh a nebulizer here. Yeah,
+Nurse: I see that. And that's albuterol that goes in there. Do you need a refill on that too?
+Patient: No, no, I don't need a refill for the, the, the um for that. Ok,
+Nurse: Let's see. Let me pull up your here and you're taking two puffs twice a day. Does that sound right? That's correct. Ok. Do you want that to go to Walmart, uh, Rite Aid or select Rx,
+Patient: Uh, the, the Walmart? Ok. [PHI-Personal] and
+Nurse: Mechanics. Ok. Okey. Dokey. How are you doing otherwise? Ok.
+Patient: Uh, well, I, I don't know if I had a, a touch of the flu or what here. Um, it, Tuesday, what day is today? Friday, Tuesday night, I started to feel bad and I was like super tired and I couldn't get warm. And then Wednesday morning, excuse me, I, I, uh, I, I woke, woke up that I, I couldn't stop shaking. My teeth were chattering and the, the whole bit and luck that's when we had that snow. And so, um, my granddaughter didn't have school. So my son ended up staying home because he had zoom classes. So he was home with her. So luckily I didn't have to get out of bed and I, I actually slept the whole day and, and I was just shivering and my teeth were chattering and, and the whole day long, I mean, like I said, I did not get out of bed. I slept almost all day long. I, I, I was a mess. I, I could, I could barely walk. Um, I, I was horrible. I, and then yesterday I still did not feel that good, um, dizzy the whole bit and my son ended up, he, he lost his license, but he didn't trust me to have to drive to work and then drive back alone and, and so he just, he took my car, which he really shouldn't have done. But yet I, I didn't trust myself to drive either. So, yeah, we, we just kind of made an emergency decision that way and he, he, he just did that and I pretty much, I put my granddaughter on the bus and now I went back to bed and slept again for most of the day and I'm feeling better today. But I still, it's, it's like I, I got a touch of something but, yeah, I'm, I'm, I still don't have it out of my system but I still feel better. I was taking Dayquil and Nyquil for the last couple of days. So I, I'm doing a little better anyway.
+Nurse: Did you ever check your
+Patient: Temperature? [PHI-Personal]? I did and it, it actually was only 96 degrees.
+Nurse: That's weird.
+Patient: Yeah, it was actually, I mean, it was, it was lower than, than normal and it wasn't even, you know, I was like, ok. Am I dead or what? That, I'm only 96 degrees, you know? No wonder I had the chills. My God. Yeah.
+Nurse: Yeah. That's, that's crazy. How did you take that temperature? What kind of thermometer is that?
+Patient: Yeah, it, it's, uh, the ones that, um, I just bought it actually, it was the digital thermometer that you get. Um, I got it at, uh, uh, uh, DC. Yeah, the CV S. Ok. Yeah. Huh. Yeah, I just bought, yeah, I just bought it, like, like last month.
+Nurse: So it's a brand new thermometer. So it's working right then.
+Patient: Yeah. Yeah. It, it should be
+Nurse: So strange. Ok. Ah, ha. All right. So, um, I think that, um, I'm just looking to see. So, you said that started Tuesday? Do you have a cough? I can hear you kind of clearing your throat a little.
+Patient: No, this is the only time. I mean, I, I don't, I have a sore throat. Um, I, I mean, I, you know, my throat is sore, my ears are draining and, and all that, your ears are draining. Yeah, I can ii I can literally feel the, the like the liquid, you know, like when I'm laying on my side and stuff, I can feel it. And when I get up in the morning, I was using a Q tip to just wipe it out like in the sun and it was just like all brown on the end of the Q tip. Um, but my, on my
+Nurse: Pillow in the morning when you wake up
+Patient: Sometimes. Yeah. Ok. Yeah. The other day it was ok. And, uh,
+Nurse: Do your ears hurt
+Patient: My left one a little bit? Ok. My sinuses are always draining. I mean, I, I have chronic, chronic sinusitis that I know is in my records that I constantly have problems with that.
+Nurse: Ok. Well, I'll tell you what, um, I think you probably need to be seen. Um, I know that you're feeling a little bit better today but your ear is draining and the sore throat and the pain in your left ear makes me wonder if you don't just have an ear infection just from all the congestion and stuff that you've got going on. Um, I think you probably had the flu or you do have the flu, um, cause those symptoms definitely sound. Did you ever have a headache?
+Patient: Yeah, I've been having a headache.
+Nurse: It sounds like you probably got the flu somewhere. Um, I'm glad you're not feeling weak and stuff anymore. You should have definitely called when you were feeling like that. Um, so
+Patient: I probably shouldn't have been driving anyway to drive up there. So. Right.
+Nurse: Right. No, I understand. Yeah. No, I get it. Um, so I think I want you to call tomorrow morning. I would like you to be seen tomorrow in the acute care clinic if you can, can you call right at the office right at 8 a.m. tomorrow to see if you can get in [PHI-Personal]?
+Patient: Well, do, do you want me to, like, try, do you want me to call today to make an appointment
+Nurse: Call to? You can try and see if they're making appointments for tomorrow? Sometimes they do if it's not that busy. Sometimes if it's really busy, busy they'll tell you have to call 8 a.m. on Saturday to see if you can get in. But it's worth a call to see. Can you get in today or can you get in, uh, to see somebody? So I know the acute care clinic this afternoon is pretty full. Unless somebody canceled, they might actually even be able to squeeze you in today. So call the office, um, and talk to the girls at the front. So when the message comes on just automatically hit seven and then you'll bypass that big long message because you need appointments. Ok.
+Patient: All right.
+Nurse: Let's do that and see if we can get you in and get you feeling better because I I'm thinking you probably have at least an ear infection that needs some antibiotics, ok? Ok. And then I will get that refill sent over to Walmart for you on the. Ok. Thank you. Uh huh. Thanks [PHI-Personal]. Alright.
+Patient: Alright, bye bye.

@@ -1,0 +1,37 @@
+Nurse: [PHI-Geographic] General. This is [PHI-Personal].
+Patient: Good. Uh This is [PHI-Personal]. I am one of doctor uh patients.
+Nurse: Yeah. Um can you just confirm your date of birth for me and I'll get you pulled up uh
+Patient: [PHI-Account].
+Nurse: Ok, perfect. What's going on today?
+Patient: Well, uh I have an upcoming um I was supposed to have an appointment over here uh in [PHI-Geographic] but he's moving up to [PHI-Geographic]. So I would like to go up there with him but they kept the same time which is 7 30 I don't drive up in that area before nine o'clock because of the traffic, you know, we old people are very careful about things like that now. Yeah,
+Nurse: So I was like I don't blame you for that. Yeah, let me get you pulled up here um and see if there's any other appointments available. Just bear with me for a second.
+Patient: Ok, [PHI-Personal], what did you do under foot?
+Nurse: Ok, good.
+Patient: Mm
+Nurse: Bye. I'm gonna have to go in and do something different. It's doing something wonky try here. Ok, so the next available appointment I have with Doctor [PHI-Personal] is not until [PHI-Personal].
+Patient: [PHI-Personal]. What I
+Nurse: Have, uh, [PHI-Personal] the fifth at [PHI-Personal]. Is that still too early?
+Patient: [PHI-Personal] 5? Yes. Oh, yes. That'll be fine.
+Nurse: Ok. We'll do [PHI-Personal] 5 and [PHI-Personal] is not too early for you. I
+Patient: Think I can handle [PHI-Personal]. Ok, that should be. Ok. Should it done [PHI-Personal]? Ok. Yeah. Now I was supposed to have the Wellness nurse, um, also on the same day.
+Nurse: Ok. I'm
+Patient: Gonna do, do I go to the wellness nurse down here or do I go to a wellness nurse up there?
+Nurse: You can do either so I can leave you for the current one. let me look and see if there's one on the same day, um, as your appointment that I just rescheduled with doctor [PHI-Personal]. So bear with me to click through all the buttons and I will check and see. Just bear with me. I'm trying to get it to,
+Patient: Uh, oh, don't worry, I've got all the time, time to share. Perfect. There's no problem with keeping it down here. I mean, that's no.
+Nurse: Mhm. It's, um, it's not you, they changed something in the system and I can't get my appointments to pull up. I did it earlier but I can't remember what I did to, uh, get it to work. So I'm trying a couple of different.
+Patient: That sounds like me. Yes,
+Nurse: I do fine until they change things and then I'm like, wait.
+Patient: Yeah,
+Nurse: Let's see. I can right now. I can't get it to pull up any in [PHI-Geographic] Palms. I know there is and I'm sure it's something that I'm doing in the system. Uh, well,
+Patient: I can still keep my appointment down here and you'll get the information up there.
+Nurse: Right. Correct. So, you'll be good to go to, still go to the [PHI-Geographic] location on [PHI-Personal].
+Patient: Ok. So, and then Doctor [PHI-Personal] is in [PHI-Personal] and I keep my lab visit, which is on [PHI-Personal] down here.
+Nurse: Right. Yes, ma'am. Um, and then the appointment and what I'll do if this will help you, I can send you a mychart message with all of the updated appointment dates and times. All
+Patient: Right, that'll be fine.
+Nurse: Ok, I'll get that sent down to you. Um, while I do have you on the phone, do you need any medication refills or anything like that?
+Patient: Uh, a refill is coming uh via Optum. They said, uh, it's, it's on its way or it's about to be shipped or something like that. So I'm ok. Good,
+Nurse: Good, good. Ok. And I think we are good to go and if I do happen, I'm gonna reach out to somebody else. Um, do you want me to call you if I'm able to see that there are appointments available for the [PHI-Geographic] Palms?
+Patient: Uh, you mean within like the, the [PHI-Account] to 2 range? Yes. Well, yes, if there's one later on after [PHI-Personal] that would be that would be good too, but I'm, I'm happy with what I got but if you got something better, that's good too. How's that?
+Nurse: That, that sounds good. Sounds like a plan and let me make sure I'm not missing anything else before I cut you loose. But I think that about covers it.
+Patient: Ok, thank you very much [PHI-Personal].
+Nurse: Absolutely. If you need anything else, just feel free to give me a call back. Ok. Ok. Thank you. Bye bye. Thank you. Bye bye.

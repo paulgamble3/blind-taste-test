@@ -1,0 +1,5 @@
+Nurse: This is speaking, how may I help you?
+Patient: Yes, this is [PHI-Personal] Ter. I need a refill for Fur Os em ID E 20 mg.
+Nurse: Ok. Hold on one second. Let me just make sure pull it up. All right. Uh Yeah. Ok. So you said you need the Furosemide 20 mg? Ok. Yes. Ok. Alrighty I'll put that through for you. Is that the only one you need?
+Patient: Yes, that's it so far. Ok.
+Nurse: Alrighty. Thank you. You're welcome. Bye bye.

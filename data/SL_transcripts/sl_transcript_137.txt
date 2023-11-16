@@ -1,0 +1,35 @@
+Nurse: Oh, hi, this is I'm one of the nurses here. How can I help you?
+Patient: Yeah, this is [PHI-Personal] calling. Um somebody had called me from there.
+Nurse: Yeah, sorry that was me [PHI-Personal]. I was just calling to check in and see how you were doing this month. Good.
+Patient: Mhm. Good. Any,
+Nurse: Any questions or concerns anything bothering you?
+Patient: No, I don't think so.
+Nurse: Ok, excellent. Um I saw that you went in for an earache um, a little less than a month ago. Now you, are you feeling better since then? Yes. Mhm.
+Patient: Yep. Mhm. I do need a refill. Can you help me with that? Of course, do you? I've been trying, I've been trying to call but I can't get through to that number.
+Nurse: Uh my number here to
+Patient: The doctor like yeah, like to the doctor's nurse or?
+Nurse: Ok, and you're calling the [PHI-Account] number? Mm.
+Patient: Hold on, let me check, hold on, let see what one I'm calling? Oh, [PHI-Account].
+Nurse: Oh, that must be in the office. Um, I know that they were recently having some phone issues. Maybe it was correlating with the time that you were calling
+Patient: I just need, um,
+Nurse: If you ever can't get in touch with them and you need something. You're more than welcome to give me a call and I can contact them directly.
+Patient: Ok. I'll have to write your number down then. Ok. Um, what I need is leflunomide. Ok.
+Nurse: All right. And which pharmacy do you
+Patient: Use? CVS in? And I think my furosemide too was getting low right here. Ok. That,
+Nurse: Ok. Ok. Ok. All right. So I will, um, I'll go ahead and send a message on that. No, slap,
+Patient: Slap, slap.
+Nurse: You may have a,
+Patient: Oh, ok. Because I did have CV S call, but sometimes I, it doesn't go through. Ok. Right. So I just wanted to make sure because I'm, I'm almost
+Nurse: Out of that. Yeah, they sent in um, a 90 day supply in January with three refills on it. So that should get you through most of the year.
+Patient: Oh, because I called them and they said that they would have to get a hold of the doctor.
+Nurse: Oh, ok. When was that that you called yesterday
+Patient: Yesterday? And they were supposed to call uh into you and say it was low but they never do.
+Nurse: Ok. All right. Well, I'll send a message on it and, um, let them know that the pharmacy is telling you you have to need a refill. Ok. Ok, great. Um, and then how is, um, your BP doing? I know we touched very good. Last Are you taking the readings at home still?
+Patient: Yes. My sugar was one. Yeah, I do. That's good. Can you get my BP cuff in my desk? My sugar was 1 10 this morning, which it's been like that almost every day.
+Nurse: Ok. Good. Any symptoms of low blood sugar at all?
+Patient: No. Hum. Let's see. 1 25. Over 79 1 31/89. [PHI-Geographic]. [PHI-Account].
+Nurse: Excellent. Ok. So those readings are all good. Um, you know, just a reminder. So, you know, the, those readings aren't low but just a reminder for some low BP readings. Just so that you are aware of them. Sometimes you can feel a little bit lightheaded or fatigued, dizzy and nauseous, um, clammy skin. Those are all of low BP, consequent, consequentially, also symptoms of low blood sugar. Um, ok, so if you ever notice those symptoms, good. So take a, take a seat, check your BP and your blood sugar to see if you can control. Ok. Exactly where it's coming from. Ok. All right. And then how is the anxiety any recent triggers? No,
+Patient: Since been doing pretty good since I've been outside doing, you know, yard work and all that seemed to calm it down. Yeah. Yeah, that's what you were saying. Yeah.
+Nurse: Yeah. Good. Another thing that they recommend is just to try to do some like positive thinking and really identify if you ever have like a day where, you know, you're kinda, you're feeling down, you feel like you're blaming you, blaming yourself for things and saying you should do something but you can't because of this, that and the other, they, they try to pinpoint if you ever do those things and try to, um, do some positive thinking about, you know, how to, how to rectify those issues. You know, don't just, it doesn't just mean ignoring that unpleasant situation but really embracing them and trying to put a positive spin on it. Ok. So it, it's another way of, of thinking. It definitely takes some practice to do that really like find when you are, you know, putting negative thoughts on to certain situations and try to reverse them. But, you know, if you're a little bit conscious of it and, and can take it out a little then it tends to help a little bit. Ok? Ok. All right. Is there anything else I can help you out with today? I know you're, you're babysitting this morning but nothing else that's bothering you?
+Patient: No. No, I don't think so. I think pretty good right now.
+Nurse: Ok, good. So I'll go ahead and send that message about those refills for you. Um um I will put you on the schedule for next month for me to call and check in, but I should you need anything in the interim, feel free to give me a call and let me know. Ok, thank you. All right, you're welcome. You have a good rest of your day. You too. Mhm. Bye. Thanks. Bye.

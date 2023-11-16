@@ -1,0 +1,4 @@
+Nurse: This is [PHI-Personal]. May I help you? Is a man is not in um she is hold on one moment. Ok, thank you. You're welcome. Yeah, you know what? She's just on another call? Do you wanna hold or do you want me to have her call you back? Uh I'll hold for a minute. Ok, thanks thank you.
+Patient: Ok, awesome. Yeah. Mhm. Yeah. Hm. No I don't. Yes. Yeah. Ok. Yeah I Yeah. Yeah. Yeah. Yeah. Right. Ok. Yeah. Yeah. Ok. Yeah. Hm.
+Nurse: Ok, I'm gonna see if she's free now. Hold on a moment. Ok. All right. Thank you. No, it looks like her line is still busy, right? Can you have her call me back then? Sure. And who's calling? My name is [PHI-Personal]. Ok [PHI-Personal] and a good number to reach you at [PHI-Account]. Ok, I'll let her know. Thank you. Sure
+Patient: Bye bye bye.

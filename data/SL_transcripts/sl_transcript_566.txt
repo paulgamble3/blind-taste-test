@@ -1,0 +1,27 @@
+Nurse: Uh, hello,
+Patient: This is [PHI-Personal]. Hello,
+Nurse: Miss, how you
+Patient: Doing? Good. How are you? My dear,
+Nurse: I'm here.
+Patient: Ok. How did things go?
+Nurse: Um, I have to schedule for a Lumbar puncture at [PHI-Geographic] and then he wants me to get the, I don't know what they call it, that test done where they shave some of your head and, uh, put a needle that nuclear. Ok. The, the insurance or whatever? Oh,
+Patient: Boy. Ok. Which is good. I mean, I'm glad they're gonna do that. I want them to definitely check that out but,
+Nurse: And he did, um, the other shunt or revision or whatever it's called. He put that down to 13. Um, ok. That's about it so far.
+Patient: How are you feeling today? Yeah. Yeah. So, so, yeah. All right. Did you have to stay overnight or?
+Nurse: No?
+Patient: Ok. Just a long hall over there.
+Nurse: Yes. Oh, I did wanna tell you my BP when they took it yesterday. It was 105. Really? 50 62.
+Patient: Wow. Ok. All right. Very good. How did you feel at that? Were you feeling like dizzy, lightheaded, anything like that?
+Nurse: Um, I just be feeling tired all the time. Ok.
+Patient: All right. That's pretty low for you. Good BP though. But, yeah, I just was like, no way. That's not your BP.
+Nurse: Yeah. So, I, I didn't know I was like that. I, I don't know, I guess I know. Way I should start checking a little bit more because I don't want it too low for me. Yeah.
+Patient: Yeah, definitely. And if you notice that you're feeling like, you know, I know you're tired but like if you get dizzy or like you stand up and you get like feel like the room spinning or anything like that, um It could be getting too low. So definitely I would check it, you know, at least once in the morning. Um, if you have any like feeling any different, you could check it again in the afternoon just to see where you're at.
+Nurse: That. That was about it that I think the, um, he said, cause he, he said, um, we'll go from there from the test but he also said that it could be, um, a complex migraine that could be causing with the speech. He said that can happen too.
+Patient: Ok. All right. All right. Now you don't have, you need to, you have to schedule some of those.
+Nurse: I have to schedule the number but I try to tell him, I think they have to because I was like, every time I call they be like the doctor. But I, I mean, I'll try it and he said if so because he gave me a script but, um, ok, just, uh, email his secretary and then she'll set it up.
+Patient: So. Ok, perfect. Yeah, because I was gonna say, yeah, typically you'd think they would have to send that over, you know, or
+Nurse: You don't listen. Ok.
+Patient: Yeah. Well, try it out if it doesn't work and you're having any trouble with it. Just let me know and I can see if I can help as well. Ok. All right. Well, I'm glad to hear from you. You sound good and hopefully you continue heading in the right direction and get this all figured out.
+Nurse: Thank you. I
+Patient: Appreciate it. You're welcome. Well, give me a call or I can call you like in the next couple weeks and see how things are going. Ok? Ok. Thank you. All right. Thanks for the update. We'll talk with you soon. You have a good weekend. You too.
+Nurse: Thank you. Yeah. Bye bye.

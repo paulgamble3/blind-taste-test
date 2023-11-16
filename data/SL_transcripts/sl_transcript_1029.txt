@@ -1,0 +1,95 @@
+Nurse: [PHI-Personal] Medical Group. This is [PHI-Personal].
+Patient: Good morning. Well, I think it's still morning. No, it isn't. It's good afternoon. Now I keep getting lost. Uh, my name is [PHI-Personal] Korn. Korn. I'm a patient of Dr [PHI-Personal] T and I got a letter from him as did my husband about their care management nurse program. Ok. And, uh, I'd like to know more about it and if it, if I should, you know, sign up for it, uh, I always call the office if I have a question or a problem and I have no problem with that at all because they're a wonderful practice. And, uh, so what can you tell me about
+Nurse: It? Ok. So I am one of the nurses. Um, your nurse's name is G, but my name is [PHI-Personal] GG is out today. So I'm covering.
+Patient: What is her name? [PHI-Personal]?
+Nurse: [PHI-Personal]. Yep.
+Patient: Ok.
+Nurse: She's super sweet. You'll like her. Um, but she will follow up with you. Well, it looks like you wanna be inbound. So when you call in, normally you would get her, but today she needed off. So I'm covering and my name is [PHI-Personal]. Um, how it works is if, if you, it looks like you want to be inbound only. So that way you just call, call us if you have an issue. Um, if you wanted to upgrade to full service, what we do is we call every month and we check in, make sure you guys are doing ok and see if you guys um, had any issues that we could handle for you, like maybe a med refill or if you weren't feeling well, you could let us know and we can triage it and send it over to the doctor.
+Patient: Um, well, I could call him direct, you know, call the office directly. Couldn't I, you
+Nurse: Can. Yes. Yep. Some people find that um, the office is very busy and they don't get um, callbacks as often as they think they should. So when they call us, we can look into the system and see where everything's at and update you. Ok.
+Patient: So it sounds like you're an intermediary between us and the office.
+Nurse: That, that is a perfect explanation.
+Patient: Okey [PHI-Personal]. Uh Well, I'm [PHI-Personal]. Ok. My husband is [PHI-Personal]. He's out shopping right now. Oh, my goodness. Yeah, he's, you are driving.
+Nurse: Yes, you sound like you guys are like thriving. Well,
+Patient: We're doing fine, you know, we're, you know, for the health we're in, we're in good health. I'm pretty homebound because I have a mobility issue. I've broken my feet three times and, uh, I've got a knee issue, you know what you get when you're [PHI-Personal]. And, uh, so I just wondered, you know, if this would be beneficial for us.
+Nurse: Well, one thing I can do is if you're having any issues I can triage it and send it over to the doctor and, um, maybe the doctor doesn't want to see you, but maybe he wants you to go get lab work done. He can tell me that and I can relay that to you. Um, and you know, it, it could be, he just wants to adjust your medication or something like that or he may want you to come into the office. But like that's something that I can, I can do to try to keep you home more often. So you don't have to get out and about as much.
+Patient: Ok. Well, why don't you sign us up for the program? And, uh, now what do you do? You call us or we call you when we need you or we have questions?
+Nurse: Uh, what would you prefer? Because usually we call out once a month just to check in and do just a quick call and see if there's been any changes through the month or if you guys needed anything. Um, but if you would prefer to stay inbound only, you can just call us when you would like when you need us.
+Patient: Ok. Now, what about, uh, things that we need here in our condo where, uh, we're still living in a condo. We may eventually, I don't know when eventually is go to the, in Branford for assisted living just because, uh, but my, my kids don't want us to go any place. They say they'll take care of whatever we need, but I don't want to bother them. They're in the middle of their active lives and doing their own thing. And, uh, so are our grandchildren, the ones who are here in this country and not living in [PHI-Geographic] or [PHI-Geographic] or wherever they are at the moment. Uh, so I don't know, why don't I just have your number in my phone book. Uh, if, if you want to check with us, like the one thing that we do need is some, particularly in the winter is somebody who will take out the garbage who will, uh, do a odd sort of daily routine. Pick up the mail. Now, you don't have anything to do with that, do you?
+Nurse: We don't, no, we would only take care of your medical needs.
+Patient: Ok. So who would I call to have? Maybe, uh, hire somebody on a weekly basis to just take care of our home needs? Would that be the VN A?
+Nurse: Um, possibly, um, they might be able to get you an aid. There's another thing called [PHI-Personal] caregivers, um, and they might be able to send an aide out once a week to, um, do some light housekeeping and maybe take the trash out and whatnot.
+Patient: Well, I've got a gal who comes every three weeks and cleans the house and I've got a friend who I've hired, uh, I pay her, uh, who, when I go to the doctor, she takes me in a portable wheelchair from the condo to my car. Uh, my husband driving or she drives. So, you know what she comes when she can and, you know, we've got that set up. Uh, do you think I need more than that? Uh, uh, I'm just
+Nurse: Wondering, uh, you have, do you have Children that live close by to you?
+Patient: Well, my daughter lives in, he, my son lives in [PHI-Geographic]. My other son lives in [PHI-Geographic], which is not exactly
+Nurse: Close. No, that's definitely not close. I have
+Patient: My granddaughter, uh, my married granddaughter lives in, um, Chester. Ok. So they're not that far and they can be here, you know, within the hour when I, when, I mean, they can
+Nurse: Swing by and help with your trash and
+Patient: Stuff. Well, my daughter is retiring at the end of [PHI-Personal]. Uh, so she'll be home more and, but I, I don't wanna bother people just to come down here, take out my garbage. Uh, I, I
+Nurse: Believe that having your Children come check on you would not be much of a bother. Oh. Well, they probably would be happy to see their mom and dad.
+Patient: Yeah. Well, but I would love, you know, if I could find some teenager who would like to make a couple extra bucks to do. Well, let me try the VN A and, uh, some local. Now, this [PHI-Personal] care. What is that? What it, they
+Nurse: See? Uh, I don't know a whole lot about it. I've been told of just, I, I just have a little bit of information. I, they apparently are, um, a state run, uh, assistance program for elderly.
+Patient: Ok. Now, what is the name of the [PHI-Personal]
+Nurse: [PHI-Personal] Caregivers program? I was just looking for seeing if I could find the address for you or the, uh, phone number. Oh, the
+Patient: Phone number? Yeah, that would be good. Maybe there's somebody even within my condo that, you know, could give us a hand with that. I mean, my husband takes out the trash, he takes out the garbage, he takes out, I, I'm a reader so I get the times which gets thinner and thinner and more expensive than I know. But I am addicted to it. Have been forever. And so I have big shopping bags of newspaper that have to go out. I really don't want my husband to be toting and doing. I, I want, I'd love to have somebody come on a weekly basis for biweekly basis and do that. Uh,
+Nurse: It looks as so the [PHI-Personal] caregivers is, um, a program where you can pay friends or family members to take care of you. So that might, that be what you're looking for.
+Patient: Well, not really. No, but let me have their phone number just in case I should, you know, I can question and what it is. Exactly. They do.
+Nurse: Ok. Get into it.
+Patient: Um, now.
+Nurse: Mhm. Ok. It's not letting me get into that site. I don't know why.
+Patient: Yeah.
+Nurse: Let's see. Yeah, I, for some reason I can't get the number on here.
+Patient: Where are they located? Did they give you an address?
+Nurse: It won't let me onto this site.
+Patient: Oh, my God bless computers.
+Nurse: I know it's such a mess.
+Patient: Well, they try but they've gotten so big. Everything has gotten so confusing and big and technologically impossible to figure out.
+Nurse: Yeah. It won't let me on to any of the sites for the [PHI-Personal] caregivers. Um, but I'm not quite sure that's what's gonna fit for you anyway because you're trying to get someone else besides your family to help.
+Patient: Oh, yeah, because they're not around the corner. I mean, my daughter takes her over an hour to get here and, uh, my son in law walk, uh, it takes him, you know, almost an hour to get here.
+Nurse: Ok. Yeah.
+Patient: And to take out the garbage. That's kind of ridiculous.
+Nurse: Yep. Yep. Now, do you, uh, monitor your BP at home?
+Patient: Yes, I do. I, and I call them into the aisle by, uh, when I remember and when I remember to take it and, uh, right now it's working fine and my blood pressure's in good shape and staying consistent.
+Nurse: Good. Now, are you staying away from salt?
+Patient: Salt? Because I like, I like my bagels and cream cheese and Locks and I buy the Locke, uh, two lbs at a time in Costco. If you're a lo see that they have Blue pills lock. That's excellent.
+Nurse: Is it? Ok. All right. I'll have to keep that in mind.
+Patient: Yeah, we, I love it. My husband loves it. My granddaughters love it. You know. So I just, whenever somebody's going there, uh, I don't shop anymore because I, I can't walk and, uh, you know, so people are very kind. I have a couple of neighbors that are very kind and, uh, you know, but nobody I want to bother with my garbage. Yeah. Well, my husband says he's perfectly capable and he is, but he is [PHI-Personal].
+Nurse: Yes, I understand. Now, do you have time to go through your medication with me? Uh, I just wanted to make sure what we had in here was accurate.
+Patient: Ok. Yeah. Wait a sec. Ok. Let me get, I keep a copy of it in my wallet. Oh,
+Nurse: Excellent.
+Patient: Yeah. But now I got to find in my w or, oh, here my wallet. Hold on a sec. No problem. Ok. What would you like to know?
+Nurse: All right, I would. Do. You wanna read off what you're taking every day? And I'll make sure it's right in the system.
+Patient: Ok. Uh, I take Losartan 50 mg daily. I take metoprolol, uh, 50 mg. Ok. I stopped taking D three because I found that there was just too much between the multivitamin and the D three and other things that have D three in it. So doctor said stop taking that. I take a multivitamin. Uh, that's it. Oh, I take a, uh, rosuvastatin every other day. Five mg. And those are the only medications I'm on the BP. I
+Nurse: Have a couple other things listed on here. Are you doing Tylenol if you need it,
+Patient: If I need it, but I very rarely need it. I don't get headaches. Usually we sleep well, in fact, I was in bed by 10 o'clock last night. Woke up once to go to the bathroom and then woke up again at around 88 30 this morning.
+Nurse: Ok. All right. Do you have the
+Patient: Prolia every, yes, I take the Prolia twice a year at $250 plus an office visit shot.
+Nurse: Oh, my
+Patient: Gosh. I, hey, you know, but it works, it has really improved my bone density. Good.
+Nurse: Good. How about the furosemide 20 mgs daily? What is that? That's the Lasix. It's the water pill?
+Patient: Oh, I take a half of that. Ok. And if I'm going someplace that morning or early afternoon, I don't take it because I don't really need to be worrying about and I have to run to the bathroom while I'm out.
+Nurse: Do you have the um, Xalatan eye drops.
+Patient: Yes. Yes. Doctor gave me that because he said it's a preventive eye drop. Right. Because I have, um, enlarged optic cups, which I've had all my life and they never change at all. My numbers are always good and stable
+Nurse: And, um, I also have a traMADol as needed for pain. I
+Patient: Haven't taken a traMADol in months.
+Nurse: Ok. But you have it if you did need it.
+Patient: Yes. Ok. Yeah. But you know what, uh, I find Tylenol works just as well. If anything, if my knee starts to act up or my back or, you know, any, these old age pains.
+Nurse: Yeah. Yeah. Ok. Well, good. I take
+Patient: A probiotic because my gynecologist recommended that and I had a visit with her two weeks ago, which you probably have on my, my chart and she doesn't want to see me for two years and in two years I'll be [PHI-Personal] and I'm not going to be going to a gynecologist and I don't do mammograms because I have a rotator cuff issue and I can't raise my left arm to do a mammogram. So I, you know the heck with that, but she checked me out two weeks ago and she says I'm fine.
+Nurse: Excellent. Excellent. All right. Ok. So would you like us to call you next month just to check in and make sure everything's going? All right.
+Patient: Yeah. Why don't we do that once and then I can talk to g, and we can decide if she needs to call me or if I need to call her and I'll ask my husband who was just walking in the ha, in the house from his grocery shopping. And, and where are you located?
+Nurse: I'm actually in [PHI-Geographic]. I work remotely, uh, from [PHI-Geographic]. Yeah.
+Patient: And where does she work from? In
+Nurse: [PHI-Personal]? She's in [PHI-Personal].
+Patient: Yeah. Well, I can talk to her about that.
+Nurse: Yeah, I think she lives pretty close to the office, actually.
+Patient: Ok. All righty. Well, it was good talking to you, [PHI-Personal]. It was
+Nurse: A pleasure talking to you as well.
+Patient: Ok. And have a good holiday.
+Nurse: You as well. I hope you have all your family around you. I
+Patient: Will, we're going to my son in law walk, my grandson and my granddaughter are picking us up and they're going to hold me up his back steps. You know, these four strong young men. Yeah. Will get me up into his house and I'll have my walker. But so it all
+Nurse: Sounds, that sounds great. I am very happy. You're gonna be with all your
+Patient: Family. A abso. Oh, yes. We've got a very tight family and everybody likes everybody. Would you believe? Which is not in every family. That's the key. Yes. Yeah. No, no, we're, we're a good, friendly group, but all my ladies are excellent cooks.
+Nurse: Good. All right. Well, [PHI-Personal], um, I hope to talk to you again. But you'll probably get G
+Patient: G. Ok. Ok, one would be fine. Ok, take
+Nurse: Care. Alright, bye bye bye.

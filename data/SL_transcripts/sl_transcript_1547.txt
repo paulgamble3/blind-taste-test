@@ -1,0 +1,7 @@
+Nurse: Speaking, how can I help you? Yes, [PHI-Personal]. You like, what's your name ma'am?
+Patient: My name is [PHI-Personal] and I've been speaking to her on the phone and I had her number to call her back. Right? [PHI-Personal] M
+Nurse: Oore. Ok. Hold one second.
+Patient: Thank you. If I have to call that doctor, this will be like doing, getting through to the Pope. They don't call me back. Oh, I don't know where [PHI-Personal] went but she, somebody's going to get her and she, nobody's answering taking the phone. It's blank. Well, I, I don't know if it's dead. It's like there's nobody here. I mean, how long do I wait or do I hang up and try again? Hello?
+Nurse: M she seems to be on another line. Can I have her call you back?
+Patient: Yeah, I, yes I can. Do you want me to give you my telephone number? She has it but I um [PHI-Account]. It's [PHI-Account]
+Nurse: Three. Ok, I'm gonna send this over and have her to give you a call back when she's done. Ok. Ok. Thanks bye. Thank you very much. Bye bye. You're Welcome. Bye bye.

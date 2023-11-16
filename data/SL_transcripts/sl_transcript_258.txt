@@ -1,0 +1,69 @@
+Nurse: Chronic care management. This is [PHI-Personal]. How may I help you?
+Patient: This is [PHI-Personal]. You sent me a letter to call you? Hi, [PHI-Personal], how are you? Can I send you a letter? Ok. Oh, [PHI-Personal].
+Nurse: Oh, [PHI-Personal], it's [PHI-Personal]. Um, it's, we're from doctor office. We usually call once a month, um, to see how to check up on how you're doing. Um, like what we do is call you once a month and if you need something, we usually message the doctor kind of thing. Are you interested in doing that? Um, from doc from doctor box. We just had a hard time getting in touch with you. Um, so that's why that we sent you a letter
+Patient: Getting in over there every time I have an issue I,
+Nurse: It's hard to get in there. Yeah. Well, that's where we come. Um, so we're open like here, like we don't work in the office. We work remotely with the office and everything's through the computer. So like, say you can't get in touch with them and you have to leave like a triage message. You can call us like we're here Monday through Friday, 8 to 4 30 I would send a message to the triage nurse for you. Um, and say, hey, patient really needs an appointment. This is going on or what further direction do you can you give? Like we can always help with that? Um And I mean, if you're not having an issue, we just call you once a month, check up on, you see how things are going, you know, um, seeing if you're having any problems
+Patient: The last time when I needed to see her because every fall and every spring I have these issues of being congested and stuff. Mhm. Um, because of this COVID crap, you have to go all the way down to urgent care to get a COVID test, to go to the doctor. That doesn't make any sense.
+Nurse: That's with everyone though. [PHI-Personal] they're still doing that.
+Patient: Other doctors offices don't do
+Nurse: That, you know, I mean, I can't, I can't, I mean, I can't do anything about the point
+Patient: Of having a doctor if you have to go to urgent care.
+Nurse: Is that when you ca called about your sinus issues, spoke with uh ok. Um uh in the afternoon for you. Um oh, she sent you off, didn't she send you that? Didn't she send you a message? She sent you an antibiotic?
+Patient: Yes. But I had to fag, talk to the nurse. Mhm. That makes sense to go to urgent care where you're around all those people that have everything else. And you may catch something else.
+Nurse: Yeah. Well, I'm just going by what I know. You know what I mean? Um, like I said, if you, I mean, if you need help, I'm here to help you. Um, bye. Um, is that, is it, do you still want the monthly calls? Is this something you wanna do, I suppose?
+Patient: Ok.
+Nurse: Ok. Well, my name is [PHI-Personal]. So, I mean, I'll be calling you once a month. Um, unless you have something going on then I usually try to, like, follow up with you and give doctor [PHI-Personal] an update kind of thing. Ok. Um, and is there any good time to reach you? Like, what day? Like, what's the best day or what, um, times are easier to reach you? Is it in the afternoon? Is it, um, and in the morning?
+Patient: Really? No certain time because I'm in and out?
+Nurse: Ok. So whenever, and just leave a message kind of thing. Yeah. Ok. Is ok. Two o'clock. Ok. Um,
+Patient: What's that? Oh, that way, long time ago. Do you have to get more than one pneumonia shot?
+Nurse: Um, I can ask doctor [PHI-Personal] for you. Which one you're due for? If, if any, um, I
+Patient: Had to fill out a form for another place and I didn't know about the pneumonia shot. I don't even remember what date it was when I got it pneumonia
+Nurse: Vaccine. You do you know which one you had? Um, or no, let me see. No,
+Patient: Uh, it was a long time ago.
+Nurse: Ok. I'm just seeing if it says on your chart here. If you had, let's see, Wellness, [PHI-Personal]. Wellness. I'm just seeing if she has anything on here, but I like to double check with her in case there's anything new out, um, as well. Ok. Ok. We could just double check with her, um, and we will see what she says. Ok. So
+Patient: Does this, those kidneys when all the COVID shots I got, did they send them to your doctor's office?
+Nurse: Um, I'm sure they're supposed to, um, if not, I know there's something doctor could pull up, you know, and see what you had. Well,
+Patient: I didn't know if they needed that information or not
+Nurse: Pneumonia vaccine. Um, why do you have, what dates you had the COVID vaccine?
+Patient: I have my card.
+Nurse: Ok. Let me see if it says anything on your chart over the COVID vaccines. Um, COVID-19. Not sure.
+Patient: Ok.
+Nurse: The [PHI-Personal], ok. I know they could pull it off. So the website, um, I know you got one. Yeah, they could pull them off the website. Um, I'm gonna ask her though, if you're due for any pneumonia vaccines. You've had one. Do you remember about how many years ago?
+Patient: No, it's been a long time and I didn't know if you're supposed to, I don't, I don't know how many times you're supposed to get it or when you're supposed to get it. Or what, but I don't know about the shingles shot. I got that quite a while. Remember probably time years ago. Ok.
+Nurse: I like to just to check with Doctor [PHI-Personal], um, [PHI-Personal] and this Wellness plan. Let me see. And the Shingrix you've had that right? Um, you, so the second one? Yeah. Yeah, you, it says you had the Shingrix 6 26 19 and the second one, you thought you had it? I don't know if you had the second one,
+Patient: If I had it would be through Ny's Drugs.
+Nurse: Ok. I'll have to, I'll check on that one before I send the message to ask about that. Ok. Um, also. Ok. All right. So I'm gonna check on those two things for you just so you're up to date. Ok. Um, and your address just so I know obviously it is correct because I just, you 206 state apartment 3 15, Watertown 3 14, Watertown New York. Right? Yeah. Ok. And you still have Humana [PHI-Personal] and [PHI-Personal], correct.
+Patient: Correct.
+Nurse: Ok. That's not changed either. Um, and I don't know, do you have a list of your medications with you? You like us to do a full med rec,
+Patient: I don't have them right now.
+Nurse: Ok. Um, ok. Would you be able to call me when you're with your medications? I mean, it doesn't need to be today. Um. Ok. All right, cause, well, we'll have to get that done, um, as well. And I'll just put a note in here with that. Um, too. I'll call [PHI-Personal] for you though. I'm gonna see what they have to say and then I'm gonna message Doctor GG for you. Ok. Um, a plaza. Ok. And I'll definitely check on that for you. You haven't had any recent appointments with doctor at all?
+Patient: Um, no, I don't re, uh, I think it was, um,
+Nurse: That was a while ago. When's your next appointment with her [PHI-Personal]? Oh, you see her in [PHI-Personal]? Ok. And what doctors like do you see during the year?
+Patient: I see. Um,
+Nurse: Uh, obviously we know you see doctor, um, you see neurology, [PHI-Personal], you see doctor [PHI-Personal], right?
+Patient: Um, tricky isn't there now. It's, um, I only went to see him once. I can't remember his name. Who took her place?
+Nurse: Oh, [PHI-Personal],
+Patient: I think it's [PHI-Personal]
+Nurse: [PHI-Personal]. That's what your last one says. Yep. For, like, headaches and stuff. Yeah. Um, ok. Um, who else do you see orthopedics? Do you still see them?
+Patient: Um, not lately?
+Nurse: Do you just follow them, like, as needed?
+Patient: Last ti, yeah. Last time I went, I see a doctor there but he left too. Ok.
+Nurse: Um, do you need a new, um, ophthalmologist to see,
+Patient: Um, uh, yeah. Um, something, oh, or something like
+Nurse: That? Oh, doctor. So, is that, is that who you need, or you need a referral for him or do you want, or you can get in there? I see.
+Patient: That's who I go. See. I go next week.
+Nurse: Oh, do you? Ok. Ok. So you going next week to him? Um, ok. And you got, are you up to date with all your COVID vaccines?
+Patient: Yes, I am.
+Nurse: Ok. Um, BP. You do get your cholesterol checked every year too, right? Um,
+Patient: Um, I didn't have my list of COVID shots when I send, when I call you with my, um, list of medications.
+Nurse: That's fine. That's fine. We can do that. I know you, I, I just have to go by wellness goals. We send Wellness goals every year and if you already achieve these wellness goals, like I know you got your BP. Your A one C I have checked regularly, right? Um, when you go to a doctor box. Ok. Um, and Wellness plan. Yeah, she seems very thorough now. Mammogram. And your, um, bone. Ok. So you're gonna go on your bone density. That's another one, right? So,
+Patient: So when I go for bone density,
+Nurse: Ok. Um, your, um, do you see all that? Let's see, you're on Dexa, it's same times one year. So I can ask doctor [PHI-Personal] on that. Now, when's the last time you had your mammogram?
+Patient: [PHI-Personal]? Yep. They're in that new building.
+Nurse: Do you have that yearly then? Yeah. Ok. I, I'll ask her. Ok, I'll ask her about that too. I'm gonna find out about your shingles vaccine for you to make sure, see if you're up to date with those too. Ok.
+Patient: Uh I have to have my mammogram because I have uh family history of breast cancer.
+Nurse: Ok. So that's very good for you to get um, every year. Ok. Well, listen, let me call your pharmacy. Are you gonna be home? Um,
+Patient: So today I am. Yeah,
+Nurse: You are home all day. Ok. And I'll call you back um, and then we'll go uh review the message I'm gonna send to doctor GG and then we'll go from there. Ok.
+Patient: Ok.
+Nurse: All right. Well and I will talk with you soon then it won't take me long to call them and figure that out. Ok. Alright. Um. Ok sounds good dear I'll talk to you in a couple minutes then. Ok. Alright you're welcome bye.

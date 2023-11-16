@@ -1,0 +1,35 @@
+Nurse: Good afternoon. This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal]. Um Sorry, it took me a while to get back to you.
+Nurse: That's no problem [PHI-Personal]. How are you today? Fine. How about you? Oh, good, thank you.
+Patient: Ok. So, um I've been talking to see if he's sitting right here um about this program, I guess. Um we can enroll in it but um right now we really don't have a lot of issues, so I don't think we would probably need her to call every month.
+Nurse: Sure. Um So you have absolute flexibility there. Um We could do like every other month, even every three months. Um If that's something that makes more sense for both of you.
+Patient: Yeah, I think every three months would be good. Yeah. And you said that's all covered by the [PHI-Personal] and our supplement then?
+Nurse: Yes. So I know um the C SI as your secondary is a participating insurance. Um So it's just subject to your deductible and whatever um co insurance or copays that you might have with the uh [PHI-Personal] and C SI.
+Patient: Ok. Right. Ok. All
+Nurse: Right, perfect here. Wonderful. Um So between the two of you. Do you have a preference of whether she contacts you in the morning or in the afternoon?
+Patient: Um, late morning would be, yeah, probably late morning. Yeah. Perfect. And she could, if we need a prescriptions or whether anything like that she would be able to order them.
+Nurse: Oh, absolutely. Yep. Anything with, um, your prescriptions even, um, reducing like your prescription costs. Those are things that she can help with too. Um, scheduling appointments. Anything for your health and wellness goals. Um, yeah, basically anything related to your health, she'll be able to take care of it for
+Patient: You. Yeah. So what if, what if we like need an appointment to get in to see doctor? Do we call her call you or do we call still the main line?
+Nurse: So you can either call the office directly, um, or if you're already on a call with the nurse and, you know, you just think, hey, I, I might need an appointment soon, um, or you don't have one scheduled and you need it. She'd be able to do that for you as well.
+Patient: Ok. All right. Yeah,
+Nurse: Perfect here. That sounds good. Oh, wonderful. So, uh, what I'll do here is go ahead and send you both a letter that has her contact information as well. I'll send that to [PHI-Geographic].
+Patient: Mhm. And
+Nurse: I already have perfect here and I already have, um, your insurance all updated and squared away here. So I will get those letters sent out and then the nurse will be in touch with you both soon. Ok.
+Patient: Ok. And who is the nurse that will be calling will be the same one all the time.
+Nurse: It will be. Yes. Um, I don't have her name yet because we have, um, two different nurses and it won't be assigned until after I update everything on my end. Um, but that should update very quickly here and then she's been between the two of them. They've been getting in touch with everybody. Um, at least within a few days
+Patient: Of we talked to doctor nurse a few times. Is that one of them or
+Nurse: No? Um, so they're nurses. Um, there are two new nurses that were brought on to specifically do the care management program. Um, if we were having the nurses in the office do it, they would just spend all day on the phone and, and not really seeing anybody in the office.
+Patient: So I think it was Melanie that we talked to before quite a few times.
+Nurse: Got you. Ok. Yes, I know. Um, one of the main nurses that I've been seeing, um, most of the folks that I speak with, uh, so far, her name is [PHI-Personal]. Um, so it may be her. Um, if not, I'm not sure what the other nurse's name is. Um, I just haven't worked with her yet.
+Patient: Ok. Ok. That's fine.
+Nurse: Ok, perfect
+Patient: Here. And if we could be out of town or something, um, we just let her know we can't talk right then or whatever.
+Nurse: Oh, absolutely. Yep. And then, um, you, you can either give her a call back at your convenience or just let her know a better time to call you back.
+Patient: Ok. Because we travel a lot. So there'll be a lot of times that we might be unavailable. Yeah.
+Nurse: No, that's wonderful. Um I will let her know that. Mhm. And that way if she doesn't reach you um I'll just let her know you know, leave a message and then whenever you get back to her.
+Patient: Ok. Yeah we were traveling the last week so that's what a problem was with getting back with you. So. Oh no
+Nurse: Where where did you visit?
+Patient: We we had to go to Cincinnati we had a lot of things we have family down there so we had a lot of stuff going on. Yeah in [PHI-Geographic] so we were down there for the last week so. Oh
+Nurse: Nice nice. I hope you had an enjoyable trip.
+Patient: Yes we did we
+Nurse: Did. That's good to hear. Ok, perfect here Linda. Well, I really appreciate you getting back in touch with me here. I'm gonna get everything updated. Um those letters should go right out as soon as I'm done here and then the nurse will be in touch with you both soon. Ok. Ok, great. Thank you. Alright, thank you. And enjoy the rest of your day. Yes, you too. Bye. Thank you. Bye bye.

@@ -1,0 +1,56 @@
+Nurse: Good afternoon. This is one of the nurses here at Jumper's [PHI-Geographic]. How may I help you?
+Patient: Yeah, this is [PHI-Personal]. You had called me this morning? Hi,
+Nurse: [PHI-Personal], how are you doing?
+Patient: I'm doing quite well, thank you. And I didn't buy the tube of, uh, that stuff you told me to put in between my fat cost $9 for an ounce for,
+Nurse: Oh, the, um, the, uh, Lotrimin Cream?
+Patient: Yeah. Yeah, that costs $9. Yeah. Cost $9 I thought, well, I'll find something else to put on there rather than pay $9 for a little tube of, of cream. Yikes.
+Nurse: Did you get the generic form or the brand name?
+Patient: Well, on the thing, uh, she, my niece, uh, the, uh, um, clerk and she said that it would be the same and it was for jobs. Uh, it, ok.
+Nurse: Well, that's the price that, that price definitely shot up. I don't remember it being that expensive. I'm, I apologize for
+Patient: That. Well, that's all right. I just didn't get a number. Another stuff wanted it. It's getting better. And the, uh, and the, uh, uh, thing that, uh, I had before is fading very well. So I'm ok. Oh, good. All
+Nurse: Right. So, well, that sounds good there. And your, it sounds like your colds cleared up.
+Patient: Yeah. Finally. And I think I had it for about three weeks or two weeks and it was really bad. It just, but now I feel pretty good. I don't cough at night and I don't, you know, I'm gonna say snot at night. That's a normal thing to say. but I'm ok. Oh, good. All
+Nurse: Right. Well, let me just double check one thing here. Um, yeah, it's the end of the year here. So I'm just double checking everybody's charts and doing year end wrap ups and making sure everybody is all up to date on everything. I think I did it with the last time. But since I have you on the phone, let me just double check. Looks fine. You, all, your medications are all good and no changes in your medications, right?
+Patient: And no change. But I will need some, uh, uh, new, uh, prescriptions, uh, but I just got them. But, uh, so I still, I'll have the 90 days but I have some prescriptions that will need, um, you done? You wanna know what they are?
+Nurse: Probably. Was it the propranolol and the simvastatin?
+Patient: Probably, I don't know where those look like
+Nurse: They expire in, um, [PHI-Personal]. So that'll probably,
+Patient: Yeah, I just got them. So, uh, it'll be a while before they come up. But, uh,
+Nurse: I'll make a note of them and then our next call we can refill it then because I refill it now it's just gonna trigger it. But you already got them. So
+Patient: Yeah, that is the whatever you said it was the, the propol. Yeah. And uh it, because it has a new pre you said was simvastatin. Yeah. Well, I haven't got it refilled but it has about one. So I have to see get it refilled for then. Be zero. Mm, fine.
+Nurse: All right. Well, we can take care of those, like I said. Right. Right now, if I do it, it's, um, it's gonna trigger something so I can definitely do that next call and make a note that you need those filled. No problem at
+Patient: All. Ok. Well, that's the only thing I'm good everywhere else. Ok.
+Nurse: And are you a, are, are those medications affordable for you any
+Patient: Problem with that? Ok. I'm on page. Ok. Ok, because I had that Eliquis and it's really expensive.
+Nurse: Oh, my gosh, that was ridiculous.
+Patient: Yes. Um, more than my, with my, uh, social security is so, uh, they put me on, ok, to see if I have, find the thing and tell you how much. Oh, here it is. Eliquis. Uh, let me see. You price out so I can find it, you know. Ok.
+Nurse: As long as you're able to afford them because they're not doing you any good if you can't afford them.
+Patient: Right. But, well, like I say, I'm in. Thanks. Yeah, because I don't see it right now. How much it cost. But it's about [PHI-Personal] years, [PHI-Personal], 19 1900 do dollars. [PHI-Personal]. Yeah, I get 100 and 80 of them at, at a time. Yeah. Lord. Well,
+Nurse: I'm glad I'm glad you can have some assistance on that. That is absolutely insane.
+Patient: Isn't that awful? That is, that is terrible. So, I'm on pace, which is I get it for about, I don't know what I do pay for it. Not very much.
+Nurse: I'm glad you're able to afford it because that is, that, is that, that's more than rent.
+Patient: Yeah. Oh, I know. Isn't that a? Ok. Are you ready for Christmas?
+Nurse: Um, no, it snuck up on me. I'm sorry to say, uh, normally I have everything for ready for the kids by Thanksgiving. And this year I turned around and said, wow, it's on Saturday. Ok. Are you ready for
+Patient: Christmas? I give my grandchildren all money. They can pick up, say whatever, pick out what they want. I just give them money. Oh, well, that's
+Nurse: Good. That's easy. That's easy to get ready for.
+Patient: Yes, I have three grandchildren and of course 11 of my grandchildren is married, so he's in a, a grandchild now. So I have four of them and I have, um, uh, let me see, my, my son and his wife and then my one granddaughter is going out with somebody and I gave him money too because I gave him money when he was going with my, my oldest grand daughter. So I have to treat him all like I don't give one and not together.
+Nurse: Oh, well, that's nice. That sounds expensive. But that's nice.
+Patient: It ain't you, man?
+Nurse: Oh, well, I'm glad you're doing well. I'm glad that the rash and the cough and everything cleared up here for you. Yep.
+Patient: I'm in pretty good shape for the shape I'm in, I'll take
+Nurse: It and you're not coming in here to the [PHI-Geographic]. Uh, we got you for labs in [PHI-Personal] the end of [PHI-Personal] the 23rd and then an appointment in [PHI-Personal]. So, [PHI-Personal] 2nd. So hopefully we can keep you healthy here through the winter and we don't need to see you until spring.
+Patient: Well, I tell you, I don't go out too much. If it's around 38 degrees, I was out yesterday because I had to get my eyes, uh, checked and they're, they're ok. My eyes are ok. And I didn't have to change glasses and, uh, then, uh, but I mean, it was cold 38 degrees. I'm not used to that because I'm in the house all day.
+Nurse: Yeah. Well, and it's cold and flu season. So, make sure you're getting your vitamin C, fruits, vegetables like oranges. [PHI-Personal], believe it or not. [PHI-Personal] have more vitamin C in them than an orange. Mhm. So, I'm, I'm
+Patient: Healthy and I can get around. So that's all that matters to me.
+Nurse: Oh, good. All right. Well, that sounds good. There. Is there anything I can help you with?
+Patient: No, not at the moment. Don't worry, I'll call you if I do.
+Nurse: All right. Well, that sounds good to me. That's really all I have for you. Unless there's anything else.
+Patient: No, I just wish you a [PHI-Personal] and a Happy New Year for your family. You
+Nurse: Too. All right. Well, um, I'll give me a call if anything changes, but if not, I'll talk to you after the New Year.
+Patient: Ok. That ain't far away, is it? No,
+Nurse: Ma'am.
+Patient: Ok. I'll be glad to call you. If anything happens, I'll make sure I'll call you.
+Nurse: All right. Fantastic. Well, you have a [PHI-Personal].
+Patient: I thank you. And you, and you tell your Children to have a wonderful time. Will
+Nurse: Do. Thank
+Patient: You. Mhm. Bye bye bye.

@@ -1,0 +1,23 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hi, this is [PHI-Personal].
+Nurse: Hi, [PHI-Personal], how can I help you dear?
+Patient: Hi. Um, I'm just calling you to tell you, um, the 15th, I'm getting my teeth pulled and the [PHI-Personal], I'm getting my right foot operated on.
+Nurse: Ok, let me write that down. You said the 15th? You're getting your teeth pulled. Yes. And that's with Aspirin dental.
+Patient: Yes. And, uh, [PHI-Personal], I'm gonna get my, uh, right foot operated on the same, uh, procedure, the bunion removal.
+Nurse: Oh, the bunion removal. Yes, ma'am. How's the
+Patient: Other foot doing? Um, it's healed up pretty good. Ok. So I'm just letting you know I'm getting that right one operated on, uh, the [PHI-Personal].
+Nurse: Ok. Ok. Good. I'm just going to jot that down now then. Uh, [PHI-Personal] and that's with the same surgeon, right? Yes. Ok. Ok. Good. How's it going with that freestyle Libre uh, device? Did you get set up?
+Patient: Um, yes, I'm wearing the, the ipad, the pod right now where I get the me and test it. Uh, it's, it's called freestyle and, uh, my, my insurance paid for it. Oh,
+Nurse: Good. Good. Good. So, your readings have been pretty good. I've been doing pretty good readings. Good. What was your reading today?
+Patient: Um, it was like, uh, [PHI-Account].
+Nurse: Ok. Ok. That was this morning. Yeah. Ok. Ok. Yeah, I mean, that's not, you know, it's not terrible. We do, like, a little bit lower than that. Um, you know, usually if you can, we, we shoot for something like, between, like, um, like 90 to 1 20 somewhere around there. Um, but you're not too far away from that. Have you been doing pretty good about cutting down on your sugar? And
+Patient: Yeah, I, yeah, I've been trying to do that. Well, when I get my teeth pulled out, I ain't going to be able to eat the meat and the other stuff I used to eat. Got
+Nurse: You. Got you. Yeah. And then I
+Patient: Have uh huh, I'm going to have stitches put in my mouth. Yeah, you're
+Nurse: Going to have to be careful. Yeah. Did you were able to pick up maybe like some, uh sometimes they tell you to do like soft, very soft foods, like some soup that don't require a lot of chewing
+Patient: Or [PHI-Personal]. Yeah, I'm gonna get that stuff before I go
+Nurse: There. Yeah, that's the best plan if you can or maybe like some low sugar. [PHI-Personal] O you know, just something that's not super um high in sugar because if you do like the puddings and stuff that might really shoot up your, your blood sugars, you know what
+Patient: I mean? Usually when I get the puddings I get the sugar free.
+Nurse: Oh, that's good. Ok. Yeah, try
+Patient: To. And the, and the, and the jell O I get sugar.
+Nurse: That's smart. Very smart. Yeah, that's very smart. Good job. Yeah. And just be, just be careful about bath in that area because they're gonna leave it with like a little blood clot over the top of it. So I just wanna make sure that you don't like, drink from a straw, for example or, um, you know, you don't wanna like irritate or mess with it after they pull it just so you don't have any complications because it can be, you can get what's called dry socket and that can be really painful after they pull it. But I'm glad that they got, you got you going here. It sounds like they, um, we're gonna get you on the mend. So that's good. All right, my friend. Well, I, I'm glad that things are going well for you and, um, you know, let me know if you have any questions between now and then and just keep working on that, you know, on that blood sugar if you can, um, you know, staying away from like the, the bread and the pasta and you know, stuff like that that has all those carbs in it. Give you that sugar. Yes, ma'am. Yes, ma'am. But you, um, hang in there Ok. Ok. All right, my friend. Thank you so much for calling me and updating me. I appreciate that. All right, my dear. Thank you. No problem. Bye bye.

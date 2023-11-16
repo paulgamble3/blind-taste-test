@@ -1,0 +1,52 @@
+Nurse: Hello.
+Patient: Hello. Uh, someone had called me [PHI-Personal]. Minni.
+Nurse: Hi, [PHI-Personal], how are you? Uh, this is one of the nurses with Doctor [PHI-Personal] office. If you could give me two minutes, uh, or two seconds, I should say I just wanna pull your chart up here. How are you doing today? Good. Glad to hear that. All right. It looks like one of our other nurses did give you a call. Let me see if she is on a call and I'll get you transferred over to her. Ok.
+Patient: I think it was [PHI-Personal].
+Nurse: Um, it looks like might have been [PHI-Personal] called you but she's on a call. So, uh, let me just pull everything up here. All right, I have everything right in front of me so I can go ahead and help you if that's all right. Yes. So, um, she had called you to get you all set up with the chronic care management program here with Doctor [PHI-Personal] office. I'm sure you got the letter but it can be a little confusing. So I was hoping to go through that with you. Ok. It's, uh, it's an additional service that's run with the primary care. It does not take the place of Doctor [PHI-Personal]. It would just be. In addition, you'd have a nurse that would be there for you to reach out. Give you a call, see how you're doing. Make sure you understand what's going on with your body. Make sure you understand the signs to look for what medication you're taking, why you're taking it, follow up on the doctor's appointments that you had if there were any changes, make sure you understand those changes and really just be an extra resource. So if you're waking up and you're not feeling really good, but you don't really wanna bother Doctor [PHI-Personal] with it. You can always give us a call. We're here, we can go through everything with you, walk through everything. If maybe we can send a message over to Doctor [PHI-Personal], he's really good about giving us a call back and then we can get that taken care of right away for you. Does that sound? Does that sound ok?
+Patient: Yes.
+Nurse: All right, perfect. So I'll go ahead and get you all set up with that. I just would like to review your medications to make sure that we have the most up to date list here. All right. It looks like the last time it was reviewed with you was back in [PHI-Personal]. So I just wanna make sure there were no changes. Ok. So I have the Paxil 0.5 mg. You're taking two of those at night,
+Patient: Uh, for the jumping legs. Yes. Ok. Yes,
+Nurse: That is. I, I love that term.
+Patient: Uh, they had me on just one and, and, uh, it wasn't enough. I wasn't getting relief so that he recently put me on two of them a night.
+Nurse: Ok. Is that how? Yes, good. Ok. I also have a Prolia 60 mg. You're taking one mL. What is that, uh, Prolia that's for, it looks like that's given in the office. You're not giving yourself any injections. No, for uh ok.
+Patient: Oh, that's just twice a
+Nurse: Year. Yeah, that's for your bones. Yes. Ok. Losartan 50 mg daily. Yes. TraMADol. Every 50 mg every six hours as needed.
+Patient: TraMADol. Mhm.
+Nurse: It's for pain.
+Patient: I don't, I'm not taking that on a regular. Ok. Spell it. Would you spell it for me?
+Nurse: [PHI-Personal] as in Tom [PHI-Personal] am as in Mary, ad as in dog, OL as in Larry?
+Patient: No, I'm not taking that on a daily basis. Ok,
+Nurse: That's good. Um It's there if you need it but it's good to know that you're not taking it regularly. That's what we'd like. I have a paroxetine. Yes. 10 mg once a day. Yes. Omeprazole. Yes. [PHI-Personal].
+Patient: Yes. Calcium, yes, I take calcium pills.
+Nurse: I have uh levothyroxine 75 microgram. Yes. And you're taking that in the morning by itself.
+Patient: I take it with the paroxetine and uh the omeprazole. I take all three in the morning. Ok.
+Nurse: I would recommend spacing that one out that medication works best if you take it in the morning by itself. So, I normally tell people set it by your bed as soon as you get up in the morning. Take that one because that we'd like it on an empty stomach for at least 30 minutes. That has the best effect for that medication.
+Patient: Does that with the, the,
+Nurse: The thyroxine, the one for your thyroid? Ok. Yeah, that one is a, um, it's a, it's a weak medication in the fact that it works well. But if you take anything else with it that uses those same receptors that's gonna push it out. So, if you take it, especially with that calcium, the calcium is gonna get absorbed. The levothyroxine is not. Ok.
+Patient: So, I take that one as soon as I get up. Now, when do I take the other two?
+Nurse: Any time? A, like, just give it a half an hour, minimum an hour is preferred. But if you can't, I know my husband takes it and he tells me about half an hour, his stomach's getting all tore up. So, just a minimum, half an hour and then you can take the rest of them. Ok. And then I have an Albuterol rescue inhaler as needed.
+Patient: Yeah. But I don't use that one very often. Ok. Good.
+Nurse: If you have to start using it more, let us know. That's something we wanna know about that means that, you know, that COPD might not be as under control. Ok. All right. Now, um, I do wanna double check here with the p, with the, um, paroxetine use. I just wanna make sure, uh, I know you have a diagnosis of anxiety. How has that been doing? I know the past year has been a bit crazy for a lot of people.
+Patient: Ah, pretty good. I mean, I've had some stressful situations here at the beginning of the year and things and I've been dealing with it pretty well.
+Nurse: Ok. So you feel it's, it's pretty under control? Yeah. Ok. That's good. I like that. Um, and how, how long have you had that diagnosis? I don't know if my chart goes back that far. Oh,
+Patient: I don't know. It's been a while.
+Nurse: Ok. Would you say it's over five years, over five years? Yeah.
+Patient: Over.
+Nurse: Ok. It's just showing up as last year. I always like to confirm that. And, um, have you ever needed any hospitalizations for such a severe anxiety attack?
+Patient: No.
+Nurse: All right. Now, important thing. How are you sleeping with that? Anxiety? Some, I know sometimes anxiety can really keep you up.
+Patient: Uh, most nights I can sleep pretty well. I mean, it, if I can just turn my mind off when I go to go to bed and just quit thinking of everything, you know, then I'm, I'm ok. You know?
+Nurse: All right. I understand that that's nightly routines are really good at that. Especially if you have, uh, you know, if you're really sensitive to certain triggers, some people do really well with routines. Some people do really well with certain sounds and incorporate with the routine. Some people like different scents in those routines. That'll, that'll really help with that. Just be careful with scent. You have COPD. So we don't need to go triggering any shortness of breath there. Right.
+Patient: Yes. No, I can't. Um, I can't have lit candles. They seem to close me up.
+Nurse: That's very common. Be careful. Um The new thing is all of those essential oil diffusers and everything. Be very careful with those. Those, those seem to have a lot of the same triggers as candles and some of those aren't good for people with respiratory illnesses. So before you use any of those read up on them and we're coming into spring, which means pollen is gonna be flying everywhere. So make sure you have, I know you're not using that uh Albuterol a lot. Just make sure you have it with you and make sure it's not expired just in case. Yes. All right. So I have you all set up here. I'm gonna send you out a letter in the mail with my name and our phone number. We're always here for you between eight and 4 30 during the week and you can always leave a message. It's not something, you know, life threatening. You can leave a message on the weekend. We'll get back to you on Monday. Um, obviously, if you need an answer right away, the doctors do have on call off for off hours. Do
+Patient: I call this number that you just called that you're calling from?
+Nurse: Yes, this, this number that you, that we had called and then you called back is our direct line. Ok. Do you have any questions? Concerns anything you're worried about?
+Patient: Uh, is this costing me anything to be doing this?
+Nurse: No, ma'am. Um this it gets billed through Medicare as a primary care service. Um so we're like I said we're in with your with Doctor [PHI-Personal] office. You you have nothing as far as a copay or anything like that for your primary care. So you would not be getting a bill from us. Ok? I I do see here you do have an appointment coming up with Doctor [PHI-Personal] um on a [PHI-Personal] at 10 30 in the morning. So don't forget about that, forget about it. No, don't forget about
+Patient: I thought you said forget about
+Nurse: No, no, no, no, no. Oh my gosh. Doctor [PHI-Personal] would have my head if I told people that.
+Patient: Ok.
+Nurse: All right. So we'll give you a call back here next month after that appointment and just check in make sure you understand any changes that were made if any are made and go from there. But in the meantime if anything comes up, you can always give us a call.
+Patient: Ok? Alright. Thank
+Nurse: You. You're welcome. You have a great weekend. You too thanks. Bye bye bye
+Patient: Bye.

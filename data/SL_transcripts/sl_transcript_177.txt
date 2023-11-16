@@ -1,0 +1,32 @@
+Nurse: Good afternoon. [PHI-Personal].
+Patient: Yes. Um y'all made an appointment for me on Monday the 17th and it's showing rain on that day.
+Nurse: Who is this? Maybe I can Re [PHI-Personal].
+Patient: Mhm. I, I think my girl's name is but I'm not.
+Nurse: Ok. [PHI-Personal]. Ok, hold on one second. Let me see if she's available. If not, then maybe I can assist you. Ok. Ok. Thank you. You're welcome. What's your date of birth for me? [PHI-Personal]
+Patient: [PHI-Account]
+Nurse: And a short for [PHI-Personal]. Yes. Ok, [PHI-Personal]. Ok. So it's going to be raining on Monday, huh?
+Patient: Yeah, of course. Well, the weather people never get it right, but I don't want to judge myself. Oh,
+Nurse: Absolutely. Because your sugar and your melt. Yeah, I understand. I personally do not like being out in the rain. I can't
+Patient: Be out in the rain. I can't like. Ew Yeah or no.
+Nurse: Got you. Let me send her a message really quickly.
+Patient: Ok.
+Nurse: Ok. Um and who do you see? You see [PHI-Personal]? Oh, wow. Mm. All right. I messaged [PHI-Personal] and I pulled your chart up while she's looking or responding. I will see if I can pull up and see what else available. Did you have any restrictions on anything else? Um, like time or days? You're not available?
+Patient: Well, I, I'm in mid morning. Is m time I'm available.
+Nurse: Ok. But you don't have a restriction to the day of the week.
+Patient: Not really. No. As long as it's not raining.
+Nurse: Ok, I understand that. Got you got you one second, one moment for me.
+Patient: No problem. Mhm. [PHI-Account].
+Nurse: Ok, miss there. So I kinda had to get a little bit of a back story. So basically what it looks like, I guess [PHI-Personal] is gonna be out uh for a couple weeks, maybe about three weeks. So her s have been very limited. Um so they actually the office actually made an appointment like made that opening on Monday for you because she's fully booked the only other day she said she had available was Wednesday at 9 30 the
+Patient: The [PHI-Personal].
+Nurse: He that the tw that's Thursday. Wednesday is the [PHI-Personal].
+Patient: I have to write everything down at what time
+Nurse: It was? 9 30 was the other spot they had available. I know you said mid morning, I mean mid afternoon but
+Patient: And that's on Wednesday the [PHI-Personal] Wednesday. Ok, got it.
+Nurse: Ok, so I'm gonna call and so we can get rid of that because like I said, there was no openings. That's why I guess what kind of was. I understand. I understand. Are you open to seeing any other provider besides
+Patient: [PHI-Personal]? No, [PHI-Personal] is the only one I see.
+Nurse: Ok. Ok, because I was about to say there is another lady there. So [PHI-Personal], I know it doesn't sound like a woman's name.
+Patient: Well, that's who my husband. Oh,
+Nurse: Ok. Ok. So, alright. Uh when I first heard I was like [PHI-Personal], I've never heard a woman named [PHI-Personal]. But uh yeah. Ok. So yeah, that's what I hear. I hear a lot of people like [PHI-Personal] and [PHI-Personal] and so I'm glad you, you and your husband both got good choices. Ok. All right. All right. Well, let's get this updated and if you have any other issues don't hesitate to give a call. Ok.
+Patient: Ok. When um the [PHI-Personal] of this month at 9:38 p.m.
+Nurse: 9:30 a.m. Got it. Ok. Alright, thanks. Alright, you're welcome. Alright, bye bye bye
+Patient: Bye.

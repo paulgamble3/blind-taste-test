@@ -1,0 +1,28 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is, how are you? Hey,
+Nurse: I'm good. How are you?
+Patient: I'm doing
+Nurse: Good, good. Um, I was just giving you a call. I tried called yesterday, um, when I heard back from, um, in regards to the request for that blood transfusion, um, I just wanted to see where you were at with that if the hematologist was able to help or.
+Patient: Yes, she, uh, wanted, uh, uh, the doctor there, you know, uh, doctor, um, uh, uh, yes, ma'am. Uh, uh, but, uh, never, she never got back with us and, um, I had the transfusion yesterday. Ok. At,
+Nurse: Ok. Good. I was so worried about you. I was hoping you would a, you were able to get it somehow.
+Patient: Yeah, I did. Ok.
+Nurse: Um,
+Patient: I see here this is an,
+Nurse: Hi, this is an her daughter in law. Hey, how are you? I'm doing well. How are you? I'm doing pretty good. I just would like, you know, mom not gonna say anything like this but I am, I was very disappointed that her doctor's office never even called. Like I completely agree. I put in her notes because we finally went back to the, um, doctor's office to get us in there and it, I mean, the doctor's office never even once called. Yes, ma'am. No, I completely understand your frustration because I felt the same way. Um, her primary provider doctor is actually out of the country this month and the other doctor that there is out as well this week and half of last week. So there's only one provider and unfortunately she wasn't able to get back with me until mid morning yesterday. And when she did, her only recommendation was to follow up with hematology or to go to the, er, for evaluation because she couldn't sign the order. But I agree with you that was very frustrating, um, to have to sit and wait because that was something that should have been handled immediately. Yes. And, and I feel like even a month ago the doctor's office knew her numbers were low and that's why they sent her to the hematologist in the first place. So I agree. I just feel like, you know, my husband and I are just frustrated because we feel like you guys are calling her all the time to check up on your low BP and all of that. But then when there is a problem, the doctor's office is doing nothing. Yes, ma'am. I understand the frustration. I really do. I know you're not the problem. I just want you to put it in the notes. So, absolutely. I promise you I will I definitely will because I agree it is an issue that definitely needs to be managed better um because patients are not getting the care they need and I I definitely see that too so I'll make sure I make note of that. Thank you. I'm gonna let you talk for checking in. Yes ma'am. Alright.
+Patient: Hey
+Nurse: Hey there well Miss [PHI-Personal] I just wanted to check on you you know and make sure everything was taken care of and again like I was just telling this [PHI-Personal] I'm so sorry that you know things got it took so long to get an answer back um but I'm glad you were able to get it taken care of. How are you feeling today?
+Patient: Oh I I feel so much my eyesight is so much better and my eyes I tell you it was so low my blood that my eyes were so blurry. I hard to see.
+Nurse: Well I'm so happy to hear that you are feeling better.
+Patient: Yeah. Yeah it's gonna do the job and now they're going to uh do a Zoom call on the [PHI-Account] and tell what the options are for treatment and that type of thing. But if you know a couple of times that and I know you remember uh asking the doctor when I got my inr checked if they couldn't just check the hemoglobin because I knew it was my blood, you know, and she never did anything. So I, uh, just feel like her, you know, like she didn't care about me. I,
+Nurse: I understand, I understand that, you know, I don't wanna say this because I probably shouldn't because I work here and I'm a part of the organization but, you know, you have to do what's best for you. M [PHI-Personal]. And that's, that's what's most important to me is making sure that you're taking care of regardless of wherever, whatever that is.
+Patient: Well, I know you don't know me personally but I like to, I'm up and going, you know, and when I can't do that, I feel like I'm existing. I, I understand.
+Nurse: I get that
+Patient: Completely and that's been a month that it wouldn't have to be like that. You know, if we just put us, you know, when she give me the numbers, it was 76 and of course, you know, goes down from that. But, uh, what a difference.
+Nurse: Well, I'm glad to
+Patient: Hear that you're doing better. Yeah. And thank you for your check up. It's nothing to do with you. Oh, I understand your job. You doing your job?
+Nurse: Well, I hope you're so sweet. Hopefully they'll be able to get a treatment plan in place for you. That way we can prevent this from happening again.
+Patient: Yeah, I hope so.
+Nurse: Well, if you need anything M [PHI-Personal], you just give me a call. Ok.
+Patient: Ok, I sure will come and, and thank you. So much and you have a great
+Nurse: Day. Yes, ma'am. You too. Thank you. I'll speak again with you soon. Bye
+Patient: Bye, bye bye.

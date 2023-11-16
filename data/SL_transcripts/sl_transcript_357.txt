@@ -1,0 +1,11 @@
+Nurse: The same ring is the other one,
+Patient: [PHI-Personal] [PHI-Geographic]. This is [PHI-Personal].
+Nurse: Yeah, hi um this is [PHI-Personal]. We you called?
+Patient: I did I called and I spoke to [PHI-Personal] there for a minute. I have a quick question about your uh medicine. I got a request uh that you needed a refill on your Fosamax but it looks like that doctor sent that in uh to the pharmacy on [PHI-Personal] fifth for a year supply. So I called the pharmacy and they have that on file there but you are you taking the Fosamax just once a week?
+Nurse: Ah once a week. I'm taking this. Um I don't even know how you pronounce it. Alendronate sodium. Mhm. 70 mg. Mhm. I take one once a week. Yes. Ok. Is that what you're calling about?
+Patient: It? Is I was just I was trying to figure out why we received a refill request uh since you have all those refills at the pharmacy. So I just wanted to touch base to make sure you were still taking it once a week.
+Nurse: Yeah, I am. Mhm. Ok. Alright
+Patient: Again so I refused um you're welcome I refused that prescription request because once I spoke to the pharmacy, they said you had the refills there on file for the rest of the year. So you probably got a Mychart message saying that that prescription was denied, but that's only because you don't need it because it's at the pharmacy,
+Nurse: Right? Ok. Ok. Thank you.
+Patient: You're welcome. If you need anything else, just give me a call at this number. Ok.
+Nurse: All right. Thank you. You're welcome. Bye bye. Bye bye.

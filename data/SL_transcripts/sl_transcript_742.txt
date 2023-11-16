@@ -1,0 +1,45 @@
+Nurse: This is speaking. How may I help you?
+Patient: Hi, this is [PHI-Personal]. You called earlier.
+Nurse: Um, yeah, hold on one second. Let me just pull your chart up. Ok. And I was just giving you a call just to do, um, a follow up just checking to see how things are going with you. And then also, um, I just wanted to make sure that we have some things updated in your chart for the new year. Um, but they, they probably already are though because I think you, you came into the office on the [PHI-Personal], right? For a visit.
+Patient: Yes, I did.
+Nurse: Ok. All right. So your address hasn't changed? You're still at [PHI-Geographic]. Oh, yeah. Yeah. And then, um, your insurance is still in your gold ppo. Yes.
+Patient: Ok.
+Nurse: Ok. Let me see. All righty. So your medication. Ok. So I know when you came into the office, did they increase your Lisinopril from 20 mg to 40 mg? Yes, they did. Ok. And then was that the only change that you had or did they, you have any other medication changes?
+Patient: No, that's the only one that she changed.
+Nurse: And then I know, it's probably only been like, [PHI-Geographic] like a week or so, but have you had like, any side effects or anything from the increase or you feeling? Ok with that? Ok. So good. Ok. All righty. Um, did you need any refills on any of your medication? Well, I think
+Patient: The one for my cholesterol because I'm down to the last, [PHI-Geographic] [PHI-Personal].
+Nurse: Ok. Which it was that the rosuvastatin calcium? I,
+Patient: I guess that's it. I don't do.
+Nurse: I think
+Patient: That's probably it. I'm not at home right now. Ok.
+Nurse: Ok. I'll, I'll figure it out for you. And then, uh, for pharmacy you're still using the Giant pharmacy and Marketplace
+Patient: Boulevard. Yes, I am.
+Nurse: Ok. All right. So I'll put that one, I'll put that refill through for you.
+Patient: Ok. Thank you.
+Nurse: Ok. Um, any changes like any falls, any, er, visits or anything in the past couple of months? No. Ok. So I'm gonna, let me make sure I checked off all your goals from last year because I'm gonna send you an updated wellness go letter, um, for [PHI-Account]. Just basically to keep track of everything that the doctor wants you to do for this year, like your labs and, you know, test and appointments and stuff like that. Ok. So, yeah, it looks like we checked off everything from last year. So that's good. And then as far as depression, have you had any issues with your depression over the past couple of months. No, not really. Ok. And I just wanna update your, um, depression screen really quick. Hold on one second. Ok. Ok. So, let me see over the last past two weeks. How often if at all have you been bothered with the following problems? Um, little interest or pleasure in doing things?
+Patient: Mm. No, I'm good. I'm
+Nurse: Good there. Ok. Um, how about feeling down depressed or hopeless?
+Patient: They're a little depressed now and again, my husband passed away 10 years ago right after Christmas. So, first couple of weeks after that it's a little, a little rough for me.
+Nurse: Yeah. That's understandable. I'm
+Patient: Sorry. But I have, I have people that care and so I've got support,
+Nurse: Support. Yeah, that's
+Patient: Good. That's, and now I have a, and now I have a dog.
+Nurse: Oh, do you? Oh, yeah, that's nice. You just got him recently. Is it a boy or [PHI-Personal]? Girl? A [PHI-Personal]? What kind of dog is it? Well,
+Patient: She's a mixed breed. Saint [PHI-Personal] and [PHI-Personal] bull.
+Nurse: Mhm. I bet she's cute. Oh, she's beautiful. Yeah. Ok. It's always good. I mean, pets are good though, you know, especially dogs. I mean, well, we
+Patient: Had like, six cats but the dog kinda, that's, that's my thing is the dog. I like the cats and everything. I love all animals. If I could get one I'd have a horse. They won't let me have one in town.
+Nurse: Yeah. But dogs are sweet though because they they like to come in cuddle and all that stuff. I mean, I think cats do sometimes too but it's something different with the dog.
+Patient: Oh, yeah. She sleeps with me.
+Nurse: Oh, yeah. Ok. All right. Um, ok. So any trouble falling asleep or staying asleep or sleeping too much? Nope. Ok. Um, how about feeling tired or having little energy? No. Ok. And then how about a poor appetite or overeating?
+Patient: Well, overeating probably because my appetite is not a on thing wrong with it. That's the problem. I try not to overeat though when we go out and stuff like that. I only eat like [PHI-Geographic] half of what I get, um, and take the rest of it home.
+Nurse: Ok. Well, that's good. That's good. But it's good to have a good appetite too because sometimes, you know, like if you don't really eat and everything, it can exacerbate certain things. So, having a good appetite is good
+Patient: And with the dog
+Nurse: That helps. Yeah. Yeah, that's good. Ok. And then how about any issues, like feeling bad about yourself lately? Nope. Ok. Any trouble concentrating on things. No,
+Patient: Because I like to read and that, you know.
+Nurse: Ok, that's good. And then, um, any thoughts of harming yourself in any way? Y
+Patient: Ok, gave that up.
+Nurse: Good. Good. Ok. All righty. So I'll update that and so I'm gonna send out the new wellness letter, um, put in for the, your refill on your medication and let me? See, what else is, do we have in here? Nothing. You have an appointment? Ok. So you have an appointment coming up on the [PHI-Personal]. They want to recheck your BP and your medication change and everything. Ok. All right. And do you take your BP at home? Do they have you monitoring at home? No, I don't. Ok.
+Patient: They didn't ask me to do it at home or nothing. So I don't I have but I mhm. That much like
+Nurse: Work. Yeah. Yeah but as long as you have one like in the home, so if you start feeling like any type of headaches, dizziness or just not really feeling good, you can always check it to see what it is if you need to but yeah so um yeah and then like they always they can always just keep you know call you in the office, you can go in the office and have it checked too if you. Yes. Ok. Yeah. Ok. All right. Did you have any questions or concerns about anything?
+Patient: No, that is fine.
+Nurse: Ok. Alrighty. So I will go ahead and um take care of um the refill and sending your letter out and then I'll give you a call back in about a month but if you need anything else you in between that time, you can just always feel free to call me. Ok. Ok. Alrighty. Alright. Thanks for calling back and you have a good day. Thank you. You have a good day too. Thank you. Bye bye.

@@ -1,0 +1,26 @@
+Nurse: This is [PHI-Personal]. Yeah. Um, my name is, uh, [PHI-Personal] trying to reach, uh, NY, she is actually, um, she's moved to a different department. I am taking over her patients for her. Uh, my name is [PHI-Personal]. How can I help you? [PHI-Personal]? And how do you spell that? [PHI-Personal]? [PHI-Personal]. Yes, sir. Ok. Yeah. Um, I'm gonna put my wife on it, Jane. Ok. And, uh, and she's one of doctor patients and, uh, yeah, she's having some problems. Ok. So let me put her on and she can describe them. Ok, perfect. Ok. It's, she's taking over.
+Patient: Ok. Hello? Hi, how are you? You? Well, I need help. Ok. Sorry. Um, last Wednesday, um, we were planning to go to [PHI-Geographic]. It's an eight hour trip to see our granddaughter's, uh, uh, graduation and I got, got up and my, uh, foot was, um, II, I was, I had some, uh, pain and some prickling noises and everything and, and I thought, well, I just can't get in the car and, um, it's an eight hour trip and, and, uh, so I went to the emergency room in [PHI-Geographic]. Um, and, um, they did, uh, took blood, uh, blood work and then, um, what's, what's [PHI-Personal], what's the, um, I guess he went away and, oh, an ultrasound. And, uh, um, they said I was worried that it was, uh, our, um, blood clot and I just, you know, I just wanted, I get it in the car and, and without being, having somebody's, uh, vice and, uh, I went through this and, uh, they said they, they couldn't really find an, an, uh, a blood blood. So, um, but I then, so we went on with our trip but things got worse and, uh, now I, I can hardly walk and, and my hip is bothering me and, uh, they said to return to my physician, uh, that, this is I'm saying from the hospital and I should be seen today. So this is where I'm at.
+Nurse: Ok. Well, goodness gracious.
+Patient: Yes, that
+Nurse: Is a mess. Ok. So let me go down some questions real quick. And what foot, what foot
+Patient: Is it? Pardon me?
+Nurse: Which foot was it? Did it start in
+Patient: On the left side, left
+Nurse: Side? Was it a sharp pain or dull?
+Patient: Um, and I wouldn't say sharp, but it was just, um, painful but not, and all these little feelings. And, um, there wasn't any swelling. Ok.
+Nurse: And it started on the [PHI-Personal]. That's the, is it the [PHI-Personal] or the 19th Thursday or Friday?
+Patient: Do you know the, uh, Thursday, the Thursday? Yes. Yeah.
+Nurse: Ok. And then this is new. Right. You just woke up with it.
+Patient: Yes. Yes. Yes. Mhm.
+Nurse: And then, um, did anything make it better? Like, did, did you try Tylenol Ibuprofen anything like that at the time?
+Patient: I, I'm, I'm, um, not at the time when I was in the hospital, I just, I just went, wanted there because I, I didn't know what was going on. I, yeah, but now when, when I was in [PHI-Geographic] I, I'm taking Aleve and that does come it but uh I'm just really concerned about my hip. It's it's gone right up, my hip traveled
+Nurse: Up. That is that same side.
+Patient: Yes it's hard hard for me to walk. I have to hang on to everything so I do
+Nurse: Think that you should have an appointment uh with the uh with doctor.
+Patient: Let me see
+Nurse: Is there I can call and try to get you in um is there a time of day that's better for you?
+Patient: Pardon me? Is there a uh huh? Oh sorry the quicker the better I don't care where the time yeah comes. Yeah. Ok
+Nurse: Let me give him a call that is super funky and I'm so sorry you're having to go through that let me call them and then um I will call you right
+Patient: Back. Ok well thank you thank you I appreciate that. No problem.
+Nurse: Alright I'll call you
+Patient: Back. Bye. Uh huh. Thank you. Yes ma'am.

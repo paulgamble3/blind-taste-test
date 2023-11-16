@@ -1,0 +1,37 @@
+Nurse: You? Hi, this is [PHI-Personal]. How can I help you? Hi, [PHI-Personal]. This is [PHI-Personal]. Um, returning your phone call. Hi, how are ya? I'm doing good.
+Patient: Good. Give me one second here. Let
+Nurse: Me get back into your chart money at any. All right. Do you have any big
+Patient: Plans for the holiday
+Nurse: Weekend? No, I don't. Actually, we're gonna have a small family picnic on Monday, but that's it. That'll be nice. Nothing exciting. Like a lot of other people going away. Yeah, me neither. It is what it is. Yep. All right. Let me see.
+Patient: Ok. So you still have the [PHI-Personal] and a ARP United
+Nurse: Healthcare, correct? Ok.
+Patient: And then still on
+Nurse: [PHI-Geographic]. Mhm. Ok. And then I spoke to you last [PHI-Personal]. I have to refresh my memory here. Changed. Ok. And you
+Patient: Have not had any changes since I talked
+Nurse: To you last? No, nothing changed. Um, let me see. Ok, you just
+Patient: Had that dental work done. We already called about that. That went well. Ok. And then you seen the gastro doctor last month?
+Nurse: Yes, I'm supposed to schedule a, um, an upper G, I Yeah. Ok.
+Patient: Is that scheduled or you still have
+Nurse: To? No, they actually just called the other day and I haven't got them called back. Ok. Schedule.
+Patient: And then they said that you're currently on the omeprazole 40 mg twice a day. But depending on this test, they may be able to decrease that to once a day.
+Nurse: Correct? Nice. I remember that as well. Ok. All right. And other
+Patient: Than that, I don't, you haven't had any other
+Nurse: Changes? No, I think I have an appointment with doctor in the next, maybe two weeks or something.
+Patient: Uh, [PHI-Personal].
+Nurse: Oh, it's [PHI-Personal]. Ok. Yeah. Ok. And
+Patient: Then do you check your BP at home?
+Nurse: No, I don't. No. Ok. Most
+Patient: People don't.
+Nurse: Um, I figure it is what it is. Yeah, that's what are you gonna do about it, you know? Yeah.
+Patient: Well, you know, just keep an eye on it. Yours is pretty good though. Your stays right where it should be for the most part. Um, so, and that's fine. Um, do you have a BP, BP cuff that you could check it with if you ever needed to, or?
+Nurse: No?
+Patient: Ok. So, um, just, um, and part of doing my job, I just have to do a, just a little bit of education. If your BP gets too high, you could experience dizziness, headache, anxiety, or shortness of breath. So, if you do experience those symptoms, um, it could be related to your BP being too high. Um If your BP gets too low, you could become lightheaded, dizzy, super tired or even have blurry vision. So if you do experience those symptoms, if you lie down and put your feet above the level of your heart, um that'll help with those symptoms and so can increase in your water intake. Um So that's just symptoms I like to educate on just for those, you know, who don't necessarily monitor their BP. Do you have any questions or concerns at all for me today?
+Nurse: I don't think so. I'm fine.
+Patient: Sorry. Do you need any medication refills?
+Nurse: I don't think so. I think I checked them the last time I got them refilled I think they all have refills on them yet. Ok. All
+Patient: Right. Well I will let you do you want me? So your in insurance allows me to call you every month. Do you want me to call you every month or do you want me to call you less frequently?
+Nurse: Yeah, let's do every two months or three months would be fine and I have your number here if I need
+Patient: You. Yep. Absolutely. So I'll change, I'll keep an eye on your chart. If there's anything that pops up within a couple months, I'll call and check in. If not we'll do 2 to 3.
+Nurse: Ok, sounds
+Patient: Good. So alright you have a great weekend.
+Nurse: Mhm. Thank you. Bye bye. Thank you bye.

@@ -1,0 +1,47 @@
+Nurse: This is tta speaking. How may I help you?
+Patient: This is [PHI-Personal]. You had called here just a while ago?
+Nurse: Oh, yeah. Um I was just giving you a call, um, to do your monthly follow up. I was just checking in to see how things were going. Oh,
+Patient: They're not going but
+Nurse: He said they're not going back.
+Patient: No.
+Nurse: Ok. All right. Hold on one second. Let me just pull up your chart so I can put some notes in. Ok. Ok. All righty. Um, I remember last month we were talking about your blood sugars. Um, have you still been taking those frequently? Yes. Yes. Ok. And how have they been?
+Patient: Well, let me see. I usually take it maybe two, sometimes only two times a day. Sometimes I take a three, sometimes I take it four. let me see what, what date here starting like uh [PHI-Personal], 5 50 AMI was 1 44 then at 11 20 P it was 2 43. Then on the [PHI-Personal] at 8 15 A it was 2 O2 at 12 30 P. It was 2 12 and at 12 15, that would be AM in the morning was 2 78. Then on the [PHI-Personal], at 5 55 it was 1 83 and then at 1 p.m. it was 1 71 and at 11 35 it was 207. And then on the 12th, yesterday it, uh, 6:15 a.m. it was 1 66. At 4 45 was 205. And then, uh, on the [PHI-Personal], uh, in the evening, last night it was 1 80 83 and this morning it was 1 41.
+Nurse: Ok. Ok. Those are good numbers. All right. Have you had any changes since the last time we spoke like anything new happened, you had any, um, you know, like, er, visits or falls or anything like that?
+Patient: No, nothing.
+Nurse: Um, all your medications still the same.
+Patient: Yes, they are.
+Nurse: Ok. You need any refills on anything.
+Patient: Uh, not right now. I usually, if, uh, I have a prescription and need a refill, I use giant pharmacy. They're terrific over there. They were calling and got the prescription, you know, refill.
+Nurse: All right. Um, let's see, I think that's pretty much it. And did you, um, is your wife, is she available?
+Patient: Yes, she is.
+Nurse: I just wanna talk to her.
+Patient: Ok, here she is. Ok. Give it to me then. Hello?
+Nurse: Hi. Um, this is the care management nurse from doctor [PHI-Personal] office. I was, yeah. Hi. How are you doing? Good. How are you? Oh, good. Just good. Ok um so I just I already did uh and I'm just wanna do your check in too just to see how things are going. You had any changes since the last time we spoke?
+Patient: No there's nothing no no
+Nurse: Changes. Alrighty um and then are you you only take a few medications but do you need any refills on anything?
+Patient: Uh no no. Mm mm.
+Nurse: Ok um I think that she has you. Oh, no, it looks like, no, you don't have any appointments coming up either. Ok.
+Patient: No, I don't have any, uh, [PHI-Personal], want, wants to talk to you about one other thing yet.
+Nurse: Ok.
+Patient: Ok. Here he is. Ok. Uh, my, uh, around my left ankle, uh, when I was down to the cancer doctor before he said it's like, uh, swollen a little bit, like probably water. I still have the same, same thing. It's, uh, it's, uh, bigger than the right one.
+Nurse: How long has that been?
+Patient: Don't know what that would mean.
+Nurse: Um, how long has it been like that?
+Patient: Oh, boy. [PHI-Personal]. How long would you say it's been like that on about two months in the neighborhood of two months?
+Nurse: Mhm. And does it, like, go up and down, like one day it's swollen, maybe a couple days later it's, uh, back to normal or has it, is it just stayed swollen like that? It
+Patient: Seems to be the same.
+Nurse: Ok. You having any pain in the area? No? None. And then you haven't had any injury to that ankle?
+Patient: No.
+Nurse: And is it only right there in that ankle or do you notice swelling, like, in your feet and legs as well?
+Patient: Uh, not really. I just see, uh, they're around, uh, around the ankle a little above the ankle. Ok. And, uh, the neuropathy at night time bothers me a lot during the day. It doesn't bother me whatsoever. But then at night time when I, I sit down and watch, I watch T VA little bit then, ah, seems to bother me.
+Nurse: Ok. And then when you're sitting down and you're watching TV, are you sitting with your leg like straight down or do you have your feet elevated?
+Patient: Elevated?
+Nurse: Ok. Alrighty, I'll let her know about the swelling because I'm looking you don't take any like um, um, any medications to help with like if you were retaining water or anything like that, but it doesn't really sound like you're retaining water though. Just is in that one ankle. Yeah, I'll let her, have you had like any, have they done like any xrays or anything like that on the ankle just to make sure nothing's going on?
+Patient: No,
+Nurse: No. Ok. I'll let Doctor [PHI-Personal] know about that. Um. Yeah, in the meantime, you know when you're just sitting around just make sure that you're keeping your leg and your feet elevated. Um, and I'll let you know what she says. Ok. Ok. And anything else going on?
+Patient: No that's
+Nurse: It. Ok. Yeah
+Patient: I wanna I wanna thank you for being concerned like this I know you said it's your job but you don't you wouldn't really have this nice.
+Nurse: Oh thank you. Who knows? No problem at all. Yeah definitely if we can you know, step in and help as much as we can that's what we wanna do. Ok? Ok. Alrighty so I'll let her know about that and then um I'll call you back and let you know what she says.
+Patient: Ok. 01 more thing did [PHI-Personal] have her baby at
+Nurse: You know I'm not sure I'm not even sure I wish I knew. Ok. Ok. All right have a good day. You too. Ok bye bye bye.

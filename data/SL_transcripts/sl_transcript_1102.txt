@@ -1,0 +1,19 @@
+Nurse: Hey, this is [PHI-Personal].
+Patient: Hi this is [PHI-Personal]. I'm calling back. Give me one I had to take my dog to the bathroom so. Oh
+Nurse: Ok give me one second let me get your chart
+Patient: Pulled up. Ok. Yeah.
+Nurse: Yes. Will you verify with me your birthday? Mhm. Huh. Will you verify with me your birthday?
+Patient: [PHI-Personal]. I just turned [PHI-Personal].
+Nurse: Oh well happy birthday
+Patient: Uh two months late there. Mhm.
+Nurse: All right. It looks like [PHI-Personal] was the one that called you. Um can I can I transfer you? Will you hold for me?
+Patient: Sure. Hello? Ok.
+Nurse: Are you still there?
+Patient: Yes. Ok.
+Nurse: It looks like [PHI-Personal] is not available right now. She's on the phone with somebody. Um so I'm looking at your chart. You just saw doctor [PHI-Personal] pretty recent. Yes. Ok.
+Patient: [PHI-Personal]. Yes.
+Nurse: Ok. Um do you have any questions or concerns about anything right now?
+Patient: Uh no I'm actually doing ok. You
+Nurse: Feeling ok? Yeah. Well good. Um let me look that's a note here. Is your breathing? Has your breathing been ok?
+Patient: Yes, actually it has. Uh huh. Ohh good. The only thing upsetting me is I'm trying to keep my food stamps, but they didn't give it to me in [PHI-Personal] or this month. The lady says I have to call before yesterday and today and I called five days in a row, two or three times.
+Nurse: Are you still there? Are you still there? Can you hear me? Alice? Can you hear me? Are you there?

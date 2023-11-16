@@ -1,0 +1,16 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes and this is [PHI-Personal]. Can I speak to [PHI-Personal]?
+Nurse: Yes, give me one second.
+Patient: Ok. O you but hi [PHI-Personal]. Yes,
+Nurse: It looks like she's not currently at the phone. So.
+Patient: Well can you have her call me? Can you have her call me back at uh [PHI-Account]
+Nurse: [PHI-Account].
+Patient: Yeah, this pertaining to my daughter [PHI-Personal].
+Nurse: Ok and what was your last name? Sorry.
+Patient: Mine is [PHI-Personal] my daughter is [PHI-Personal].
+Nurse: Can you spell them for me really quick? Just so I have the right information for her to give you know?
+Patient: Oh, ok. Mine is Ma RR [PHI-Personal] and my daughter's last and my daughter's last name is [PHI-Personal]. Sorry Mo what? Sorry [PHI-Personal] got you,
+Nurse: [PHI-Personal]. Got you. Alright. I will have her call you whenever she gets back in the office.
+Patient: All right, thank you. Have a great thank
+Nurse: Thank you. You as well. Bye bye
+Patient: Bye bye.

@@ -1,0 +1,13 @@
+Nurse: This is [PHI-Personal]. May I help you? How you doing, [PHI-Personal]? I'm good, how are you?
+Patient: Uh every day is a good
+Nurse: Day. Yes sir.
+Patient: I've seen better days though.
+Nurse: Ok. What can I do for you? I'm
+Patient: Trying to reach [PHI-Personal].
+Nurse: She is off today. She'll be back tomorrow. Can I help you with something?
+Patient: No, she just I'm returning a phone call regarding some uh information she wanted to to relate to me regarding my case.
+Nurse: Ok? Ok. Will you um be ok to call you in the morning?
+Patient: Yeah, that's fine. Yeah she called and you know I my my pa my sleeping patterns are it changed again? So when she called I was already uh you know I was sleeping so I by the time I woke up it was too late to call her back. She was already off, you know,
+Nurse: So I will have her give you a call in the morning then.
+Patient: Alright. Thank you so much. Have a great
+Nurse: Night. You too dear. Bye bye.

@@ -1,0 +1,33 @@
+Nurse: This is [PHI-Personal] speaking.
+Patient: This is [PHI-Personal] ST. You just try to call me, I make the phone time.
+Nurse: Oh, you're fine. No worries. Um We just wanted to follow up with you and see how you were doing when I had talked to you before. You were still having some problemss with your energy level and feeling fatigued. How are you feeling now
+Patient: Better?
+Nurse: Ok. Are you still having the fatigue some or? No?
+Patient: No, not really.
+Nurse: Ok. And you, do you use a CPAP machine at night? Yeah. Ok. And, and have you been using it every night? Ok. Well, sometimes that can affect like daytime, sleepiness or feeling fatigued.
+Patient: The only time I do that is when I go to physical therapy, it must be working me too hard.
+Nurse: That's a good thing though, right? You want to get better?
+Patient: Yeah.
+Nurse: Ok. And you're not waking up at night like suddenly or anything like that, like the CPAP seems to be helping.
+Patient: I used to wake up 34 times a night and now it's one night, one time a night to go to the bathroom.
+Nurse: Ok. And you're not waking up in the morning with a headache or a sore throat or anything. Ok. Just trying to make sure it sounds like the settings are right on your CPAP. So that won't give you any problems. You don't tend to take it off of your face at night. Do you? The mask?
+Patient: No, but it slides down once a long, I wake up and down right on occasion, but I put it right back up.
+Nurse: Ok. And, and that only happens occasionally. Yeah. Be surprised how many people end up taking the mask off themselves at night and don't realize it until they wake up later when you move the mask. Does it wake you up?
+Patient: No. Ok. I take it off usually about 34 o'clock in the morning.
+Nurse: Ok. And then you just notice it a little bit later.
+Patient: No, that's what time I get up.
+Nurse: Oh, so you don't notice it until you get up? So you have no idea when, during the night it happens. I, and how many times a week are you going to physical therapy twice? And you sleep extra? Well, those nights?
+Patient: No, I take a nap when I get home.
+Nurse: That's probably smart. They probably are working pretty hard. But that's a good thing. Right. That means they're helping you to get better.
+Patient: Well, I don't know if it's a good thing or not.
+Nurse: How's your breathing been? I know that sometimes you were having some trouble breathing with your, when you were doing PT very good. Ok. So you're not having a lot of problems with it? No. Ok. Do you need refills on any of your medications?
+Patient: I have no idea.
+Nurse: Ok. And they had, nobody's changed any of your medications. Right. You got, um, at least not that you know of,
+Patient: I was taking potassium Im 10 tablet and
+Nurse: You still take that. Right? Yeah, there's no new medications. Oh, ok. And if you find out that you do need any refills, let us know, um, when you were having Friday, ok, when you were having the episodes of trouble breathing, was it always when you were doing something like moving around or? Yeah, while
+Patient: I'm doing something?
+Nurse: Ok. So it's only with exertion. It's not when you're just sitting or? Oh, ok. Or being still
+Patient: A 50 lb bag is Horn and Saturday into the house and my oxygen dropped down 84. So it comes right back up.
+Nurse: Ok. As long as you stop doing what you're doing and rest, it comes back up. Ok, that's good. All right. We just wanted to make sure you weren't having any additional problems with it or anything. Listen, some people can't even like 50 lb bags of corn. So,
+Patient: Should I keep a concentrator or
+Nurse: Have you been using the oxygen at all? No. Keep it just in case you need it. That's what I would do. And at least until you come in the office because you're coming in on the 29th so talk to Hailey about it when you come in the office. Ok? Let her know what your oxygen has been dropping down to like the 89 that day and that you're not using the oxygen and and go over all of it with her when you're in the office. Ok? Alright. Alright. Well that sounds good and we will see you on the 29th. Alright. You have a wonderful night, sir. Ok bye bye.

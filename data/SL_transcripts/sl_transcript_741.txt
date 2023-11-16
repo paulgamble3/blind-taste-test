@@ -1,0 +1,32 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Hi [PHI-Personal], this is [PHI-Personal]. I'm calling in regards to [PHI-Personal].
+Nurse: Yes ma'am. I'm just gonna pull up his chart right now. Alrighty. And do we have the scale out of the box?
+Patient: I do.
+Nurse: Alrighty, perfect. So we do recommend that it's used on hard floors just because otherwise the reading won't be accurate. Um and also within about 10 ft 12 ft of the antenna
+Patient: There no antenna came with it but I have the antenna for the the um blood
+Nurse: Pressure. Yeah they can they use the same one? Oh ok. Yeah. Yeah. So do you have a minute to take a test reading on the scale?
+Patient: Yep I didn't weigh him today so I'm gonna just have him do it. Perfect. This is gonna go right here in between your walker. Ok. Get up. Yeah and then it goes in between your walker and then tap on it. Oh it didn't turn on, hold on. Oh there it is. Ok. Step on it you know I go the walker. O ok hold on to your walk hold on your welcome off. Um are we in hold on. Don't put down that. Are we in range?
+Nurse: Uh Yes, I just got a reading of 1 90.2.
+Patient: Yeah, I think that's way off but because he was holding onto the walker, try again, dad. Ok, go ahead. Get on now. Stand up and oh, it goes so quick. Nope. Put your hands back on the walker. So how do we do it? Because he's, by the time he gets balanced it's already collected a week.
+Nurse: Alrighty, let me see if I can get one of the cards. I'm using a walker with it and I can mail it to you so that it has like pictures
+Patient: We have it but we have it but what I'm saying is by the time that he gets on the scale or get um balance, it's already taken his weight which is him pushing on the walker and death because you see you just got all the weight that ok, go ahead get off that he's done and they're all different way different. Her dad let's try like go the walker like go the walker let's try I'm gonna move it located over here to the counter now try stepping on it. Ok so that's what I got this morning.
+Nurse: Ok so I'm gonna refresh on my end uh [PHI-Account].8.
+Patient: Mhm. I got [PHI-Account] this morning 20 what I think it was where's your phone desk? Because I put it in his phone. Let me see I got this morning. Mm uh [PHI-Account] but you know he's had breakfast, he's had lunch.
+Nurse: Alrighty. So what I'm gonna do is put in a note that if they see consecutive readings within two minutes of each other, um to ignore the ones that are inaccurate and to take the most re recent ones that they don't think he lost 10 lbs in five minutes.
+Patient: Yeah, exactly.
+Nurse: So we'll put a note in. You would
+Patient: Think that it would have a delay, you know. Yeah,
+Nurse: Especially considering they're for a chronic condition. So, a lot of the time it takes, you know, a little bit [PHI-Personal]
+Patient: Because I was like, shoot, if it's gonna drop in that much, we, I'm gonna get on it too. No.
+Nurse: So we'll put in a note so that they'll consider, um, the most recent reading if there's like a cost of readings within a minute of each other. So that they know that the one where he was [PHI-Personal] is the accurate one. Um, beyond that, it looks like your, the scale is connected to the antenna and everything's working. Are we
+Patient: Taking a BP? I need to do his BP. I didn't do it this morning. He ran out of the house for the doctor. So his eye doctor this morning. So, let me do that really quick. Well, he's just sitting here did, um, yesterday it was blinking. Um, so I don't even know if yesterday's reading came through, I didn't get a call so I get it.
+Nurse: All right. I have three from the eighth and I don't have one from the ninth. But if we keep the antenna plugged in and take the BP, usually it'll come through.
+Patient: Yeah, I was gonna say it usually does cause I usually get a phone call if it's, it's off or whatever, like if it's high. So let's get this reading. Sorry, [PHI-Account]. Really? Do it again there, open this time. Keep your hand open. Just relax your arm. It's still pretty high. [PHI-Account]. I usually, sometimes when it's high like that, I'll take it a couple of times.
+Nurse: All right, we usually don't recommend taking them back to back to back. Um, like three times would be the max.
+Patient: Yeah, I just, usually for his BP, I usually do like 22 times but I usually wait two. Like I'll take it back to back if it seems off and like I'll look at him like are your legs crossed or what are you doing? You know, I mean, like if your leg is crossed, I'll, I'll take it back to back if they're not. I generally wait like five minutes or a few minutes and then take it again cause some usually, you know, he just walks from the bathroom to the living room or you know.
+Nurse: Yeah, it was moving or Yeah, something came back a little bit higher than normal. Yeah. Well, that's perfect. That's exactly what we recommend. Um your readings just came through the [PHI-Account] 1 54/88. And is there anything else I can help you with today?
+Patient: No, that's all.
+Nurse: Alrighty. Well, if you think of anything at all, please feel free to give me a call back at this number.
+Patient: Ok, thank you so much. Thank
+Nurse: You and have a good one.
+Patient: You too. Bye thanks.

@@ -1,0 +1,30 @@
+Nurse: Hello, this is, this is office. Can I help you?
+Patient: This is [PHI-Personal] Boy. Did you just call me? I
+Nurse: Did I was calling to follow up with you and your wife. How are you doing
+Patient: Today? We're doing good today.
+Nurse: Oh good. I'm glad to hear that. Um last time we had spoken you were having some higher blood pressures.
+Patient: Oh I forget
+Nurse: I wanted to check in and see how those blood pressures have been going.
+Patient: Uh huh. How's my BP doing? So I I guess it's ok.
+Nurse: All right. Well what um do you, are you recording your numbers? Are you writing them down?
+Patient: I haven't then did we? Well I haven't done it. Uh my BP when I take that last it it's been ok I guess
+Nurse: Um the last time we had spoken it was up in the 1 40 higher 1 40. So I wanted to see if it was still hanging up there or if it had come down.
+Patient: Well, if it changes I'll call you back. Ok.
+Nurse: All right. Um do you, so so have you been checking it?
+Patient: No I haven't.
+Nurse: Oh ok. Um good. Alright. Well how about your wife, has she been, um, checking her BP? Because her, hers was also one I just wanted to follow up on as well.
+Patient: Hers has been ok. She said, ok,
+Nurse: Um, around what number has hers been?
+Patient: What? She don't know, she said. All
+Nurse: Right, that's fine. Um, so, so no signs of high BP, no headaches, fatigue. Um, no, no flushing of the face.
+Patient: We're both. Ok.
+Nurse: All right. That sounds good. I do just wanna go over real quick with you. Um, just the numbers that I want you to be mindful of. So if, if you get them, you can write them down or give us a call. So we're always worried about that top number, which is the, which is the amount of pressure your blood is putting against your artery walls when your heart beats and that lower number is what it is at rest. So normally we want that around [PHI-Account]/80. If it starts creeping up there, that's where we start getting worried about that high BP. So high BP is, yeah, 1 30. [PHI-Personal] between 1 31 40 is considered stage one, high BP and you were hitting around one forties, which is what we consider stage two. So I wanted to keep an eye on that and see if we could see what was going on. See if, um, we could help with diet changes or anything and exercise and help bring that down because when your BP is higher like that, it puts more pressure on your arteries and your vessels, which can lead to problems down the road with different organs. It can lead to possibly plaque, breaking loose in your arteries, which can cause a stroke or a heart attack. So we always try to get that BP down. Um If we can and part of that is we need to know what your blood pressures are. So that do, do the doctor can address it accordingly. Cause while one BP in the office might be good, what's going on all week might be a little bit different. So that's why he always wants to know what your BP has been running at home for about a week.
+Patient: Ok. Well, I haven't taken it lately said I better go do that.
+Nurse: All right. Yeah, if you could do us a favor and just check your BP for one full week and write it down for us and then I'll give you a call next week so that we can just check in and see what it's doing and get those numbers over to doctor Jumper so that we can make sure that. All right. And same thing for your wife too because her numbers were a little bit elevated. I think hers were a little bit better than yours, but still about the same. So
+Patient: It, it should be 1 40 over what 80. It should be
+Nurse: [PHI-Account] [PHI-Account]/[PHI-Account]/80 is considered normal. Anything above that like one thirties. It is that top number, if it's getting in the one thirties that's considered higher BP. So that's where we start talking about, you know, medications and diet and making sure that, uh, all of that's under control and I know you guys are on some medications which should help keep that down. Um, so we just wanna make sure those medications are working effectively.
+Patient: Ok. If they're off, I'll call you. All
+Nurse: Right. Sounds good.
+Patient: Ok, thank you.
+Nurse: You're welcome. You have a great day.
+Patient: You too. Bye bye bye. Mhm.

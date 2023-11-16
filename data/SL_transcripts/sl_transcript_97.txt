@@ -1,0 +1,23 @@
+Nurse: This is [PHI-Personal]. May I help you? This is
+Patient: Uh there was a message on my phone that the care nurse called.
+Nurse: Yes, ma'am. Just one moment. Are you having a good morning? Yes, I am good. Gonna have some good weather. I think
+Patient: It looks that way sun is shining beautiful
+Nurse: And that always helps the day start better, doesn't it? Yes. Mhm. All right. Um I was just calling to touch base with you. I'm one of the care managers from doctor [PHI-Personal] office. Um be calling you once a month checking on you see how you're doing. Um gonna go over.
+Patient: I would. Oh, I'm sorry, that's
+Nurse: Ok. Go
+Patient: Ahead. Instead of I don't feel I need to be called once a month if you're going to bill my insurance and things I want to do
+Nurse: Like like every three months.
+Patient: Yeah, that would be ok. And the month I go to doctor [PHI-Personal], I wouldn't have to be called either.
+Nurse: Ok.
+Patient: My BP was 1 22/78 and my pulse was 68 this morning. My weight was 1 79.
+Nurse: Wonderful.
+Patient: I was an RN so I know
+Nurse: What you you know, you know what to watch for, don't you? Yes, I know. Sometimes though we don't make the best patients.
+Patient: I know that
+Nurse: Any changes to any of your medicines since you saw Doctor [PHI-Personal] last. Ok. No,
+Patient: They're all the same.
+Nurse: All righty. And I'm gonna stick you a letter in the mail. That'll have your wellness goals on it for the year. It's things you've already been doing, uh, following up with Doctor [PHI-Personal] routinely getting your lab work done, um, getting vaccinations as recommended, those type of things. So I'll put that in the mail to you. It'll also have our direct phone number. Uh, it's a little different than Doctor [PHI-Personal] number. It'll ring directly into the nurse's office. So if you have a question about anything, not feeling well, need something, need a medicine refill. Don't hesitate to give us a call. Ok. Ok. All righty. Anything else I can do for you?
+Patient: No, that I'm doing fine. Ok.
+Nurse: Have a great rest of your day and I appreciate you calling me back.
+Patient: Ok, thank you. Thank
+Nurse: You. Bye bye bye bye.

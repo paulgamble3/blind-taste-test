@@ -1,0 +1,41 @@
+Nurse: You? Good morning. This is [PHI-Personal]. Hello. Hi, [PHI-Personal], how are you?
+Patient: Uh, well, I'm ok. I guess.
+Nurse: Uh, oh, what's going, that doesn't,
+Patient: You know, it was so good on that antibiotic. I was dry and the, uh, leg was, or the foot was good and, and then when I switched, you know, back to the old antibiotic and I think it's just, uh, just right back to the same old thing.
+Nurse: Ok. So you're talking leg legs leaking and foot's not getting any better, right. Ok. Do we have increased, uh, redness now with, uh, like at your foot?
+Patient: No, it's about the same,
+Nurse: About the same. Ok. Um, any drainage from anywhere on the foot?
+Patient: Not on that foot. No, I've never, I don't think I've ever had any drainage from the foot.
+Nurse: Ok. Ok.
+Patient: Now, I have that, that spot. I have that spot down on my, uh, chin, I guess. Mhm. You know,
+Nurse: And how's that looking?
+Patient: Well, I've got a cream on it, uh, the, an, um, antibiotic cream on it with a pad on it. And, um, then, uh, when I was there at the, uh, foot doctor she looked at, you know, the bad one, the bad foot. And, um, so she unwrapped it and everything and, um, uh, she said you're, you, you are taking an antibiotic. I said yes, I was for 10 days and now I'm back to the old, the old antibiotic and, um, but she, uh, gave me some Lambs for, to put in between the toes. Ok. Yeah. Ok.
+Nurse: To see if that, that will help. Yeah. Ok. Ok.
+Patient: You know, I, I've been using gauze because I can't get the help for pads. Yeah. I don't know if, are they, apparently they're not available any place except medical.
+Nurse: Do you remember what those pads were called by chance? Like what the name of them were? The
+Patient: TEFL? Er, I think, wait a minute, wait, wait, wait, wait, here, here. I have some right here beside me. An empty one. It's LFA tel fa non adherent dressing.
+Nurse: Let me see. And you, uh, where have you've checked CV S
+Patient: CV S and of course, uh, we, and, you know, just trying to look
+Nurse: To see another one of those things where you can get them online but that doesn't, doesn't help for the immediate,
+Patient: It says [PHI-Personal] and then after it, anybody tm, I think. Ok, it above it to the right and then there's, um, COV ID, Ien stuff. I don't know if that helps at all.
+Nurse: No, I'm just looking. Ok. And I don't know. I mean, that's the thing trying to figure out where they're in stock at. Um, you know, you wouldn't necessarily have to get the exact same, um, brand. I know that. Let's see. What am I looking at here?
+Patient: The thing is it, it says on it, non adherent. Ok.
+Nurse: Dressing. Yeah. So it's the non, it's the, it's basically essentially what it is, is pretty much almost like a, um, a nicer piece of, of gauze essentially is
+Patient: What? No, it's not gauze. It's, uh, kind of slick, I would say. Oh, it doesn't matter. I'm, I'm managing, you know.
+Nurse: Uh, yeah, I mean, and I know because I know what you're talking about. I, I, uh, am just trying to figure out where have you, have you checked [PHI-Personal] at all? Like, in their Band aid section?
+Patient: No. Ok. I have my check because
+Nurse: Even if you could do, like, get, even, uh, I know the Band Aid brand makes a non, um, a non stick.
+Patient: Um, yeah, well, I tried, you know, at, uh, vices and at, um, CV S they don't have the non stick.
+Nurse: Ok. Ok. Yeah, I would, I would y yeah, maybe have, have him go look at, um, at [PHI-Personal] and see if, um, you know, if they have something that's a non, a non stick or a non adherent, um, dressing type that's similar to that, even if it's a different brand. Yeah. Yeah, I think it'll, it would probably work about, about the same because, I mean, essentially they're pretty close, close in nature. Um, just a different brand is really what, what the deal is there. Um, but yeah, I, that would be one place I would check, um, trying to think if there's any, you've checked CV S and S, yeah, [PHI-Personal] about the only other place I can really think of that would potentially carry, carry that. Um, let's see. And as far as your foot goes, so the foot doctor gave you, what did she give you the, uh, did you say LamISIL?
+Patient: No, LamISIL Lambs? Um, it's a soft, well, it's lam, I guess lam something or other. Ok. And she gave me a big wad of it. It comes in a big wad like, ok, so she gave me that to put in there.
+Nurse: Ok. So [PHI-Personal], would you say as far as with your foot goes, has there been, would you say there's been any change to what your foot looks like since I spoke to you? I think earlier this week,
+Patient: I think after I got off the, uh, stronger antibiotic, I ha I think it has, how shall I say? Gone backwards? Maybe, not a lot, but it's not, it's not, how shall I say? It's not getting healed like before I thought it was getting healed.
+Nurse: Ok. So it's not getting really any better. It's kind of kind of at a little bit of a standstill, especially now that
+Patient: We good word. That's a good word. Ok. Standstill. Yeah.
+Nurse: Well, I tell you what, um, you know, keep, definitely keep an eye on how it looks over the weekend. Uh, make sure that the redness doesn't spread any further up your foot. Right. Um, that it gets any more painful, you know, you start running a fever, anything like that. Right. Um, and I will plan on probably touching base with you on Monday just to be sure that we haven't really had any change, you know, over the weekend. Um I will update [PHI-Personal] and also doctor to let them know kind of where we're at with things. Um see if there's anything further they want you to be doing at home other than what we're currently doing. Um and then I can if if they do have any further things that they want you to do, we'll give you a call back. Ok.
+Patient: Ok, that would be good.
+Nurse: All right. Well you have a good weekend. If I don't talk to you
+Patient: Again, it's full.
+Nurse: Ok. Ok. That makes sense. Alright. That
+Patient: Clicks into my mind.
+Nurse: Perfect. Perfect. Alrighty, that sounds sounds good and we'll talk to you on Monday and see how you're doing. Ok. All right. Take care Linda. You too. Bye bye bye bye.

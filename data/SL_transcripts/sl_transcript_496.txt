@@ -1,0 +1,80 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. How can I help you?
+Patient: Uh, yes, hello. My name is [PHI-Personal]. I received a call yesterday and I'm returning the call.
+Nurse: Yes, [PHI-Personal]. I was just giving you a call. I'm one of the chronic care nurses that work with the [PHI-Geographic]. And, uh, we had you enrolled in the nursing, um, call once a month. So I'm the nurse that was gonna get to give you a call. So I just wanted to, um, touch base and introduce myself and, uh, see if you just had a few minutes to go over your chart and everything to make sure everything's correct on my end.
+Patient: Sure. That's fine. Ok.
+Nurse: Let me just get into here. Can you verify your date of birth for
+Patient: Me? Uh, [PHI-Personal]. Ok.
+Nurse: All right, [PHI-Personal]. Thank you for calling me back. I appreciate it.
+Patient: Let me.
+Nurse: Ok. So, um, did they explain to you a little bit about the program
+Patient: At all? Um, no, not really. I know my husband gets a call every month.
+Nurse: Ok. Yeah, he does. I think he, now his nurse is, I wanted to say, yeah. As a nurse.
+Patient: Yeah.
+Nurse: Ok. So, so the program is basically, um you know, we're nurses that work with the office. Um We don't work directly in the office, but we are in communication with them and share the same electronic system. Um So we're basically just an extra set of years outside of the office for patients with chronic conditions. Um So, you know, in the event that something would come up, you're not feeling well, um, you know, you have medication questions, you're experiencing an issue, you need to schedule an appointment, you know, anything. Basically, we're the same thing as the nurse inside the office just, you know, directly for you. So it's basically like your own personal nurse. Um, yep. And we give you a call on a monthly basis and, uh, usually do some education as far as with your chronic conditions or anything that may, you know, come up. It doesn't have to necessarily be about that, um, any kind of questions or anything that you have about it. And, uh, yeah, and we're always available for you. So, um, that's basically what it is. Yeah. So it's a, it's a really nice program. It really is. So, um, ok, so as far as medications go for you, [PHI-Personal], do you have, do you do like a medication box? You just pull from the bottles? Um, how do you usually manage your medication?
+Patient: No, we have a, a weekly, um, uh, separated, you know, the days are separated. So we have,
+Nurse: Yeah, like a calendar box. Ok. Ok. Yep. And, um, I have, so I have on here that you take the Aspirin 81 mg every day.
+Patient: Uh, no, I have not been taking that. I'm not
+Nurse: Taking, ok. All right. Let me take that off of there. Oh, bear with me this computer today. I don't know what's going on but it is not moving fast.
+Patient: You'd think it would. It's a nice day. I know.
+Nurse: I know. Isn't that strange? I know. At least whenever it's raining we have an excuse. Um, all right. How about the calcium, 600 mg twice a day. Yeah. Ok. And I have that you take carvedilol 25 mg by mouth twice a day.
+Patient: That's correct.
+Nurse: Ok. And the uh Celecoxib 200 mg of the CeleBREX is another name for it. Um, once a day.
+Patient: Yes.
+Nurse: Ok. And the Doxazosin four mg twice a day.
+Patient: That's correct.
+Nurse: Ok. And they use Thyrox 75 micrograms once daily. Yeah. Ok. And the famotidine 40 mg every night. Yes. Ok. And a multivitamin every day.
+Patient: Yeah.
+Nurse: Ok. And the omeprazole 20 mg once a day, correct? Ok. And the simvastatin 10 mg daily.
+Patient: Yeah.
+Nurse: Ok. And then were you recently on Bactrim? An antibiotic? Yes, I was. Ok. Have you completed that? Oh, yeah. Mhm. All right. I will take that off of there then. And vitamin D uh 400 units, two tablets daily. I just take one. Ok. Just that in there. Ok. And do you take anything else?
+Patient: Uh, no, you're
+Nurse: Ok. All right. So I see here on the [PHI-Personal] you were in for some UT I symptoms. Um, so I'm assuming that's probably when the Bactrim was started for you. Um, how are you, how are you, did you recover? Ok. From that? Any more symptoms? Any burning back, pain, bloody urine, fevers, nausea, vomiting, anything like that? No, it
+Patient: Took care of it.
+Nurse: Good, good. Um, now how did the AZO work for you? I'm just curious. I see here you're taking the OTC um, to help for the symptom relief. Was it effective for you? For the most
+Patient: Part? Yeah. It, it is. Ok. And it's, it's my go to but then they said, oh, but then we can't test your urine. So, yeah. Yeah.
+Nurse: So the, it's, it's kind of strange, I guess so. I don't, I mean, have you, you've heard of Pyridium? Excuse me? It's, it's like the prescription form of Azo basically that, um, eliminates the feeling of the burning um, in the urine. But for, but it sends, it gives you the craziest readings with the urine dip. It will say that you have ketones and blood and just all kinds of crazy stuff in there that, yeah, that doesn't, so it's definitely not accurate. Um
+Patient: Yeah.
+Nurse: Ok. So do you get, do you have UTIs frequently?
+Patient: I'd say maybe about two, maybe three times a year.
+Nurse: Ok. All right. Mm. It's looking here in your labs. Ok. And any idea what causes the UTIs for you,
+Patient: Um, it's usually stress or overworking?
+Nurse: Ok. Um, now, do you still work?
+Patient: No, no, it's just that, you know, there is, sometimes you get this energy spurt and you have to keep going, stop absolutely several days in a row and then, you know, that's what brings it on. But, uh, like I say, that's only two or three times a year. So, yeah, I guess I'm not too energetic.
+Nurse: It is. It is. Um, yeah, you know, and, and it's like, it's like whenever you get those spurts and it, it just feels so good and like you're getting things accomplished and it's almost like, oh, yeah, it's like I've just got to keep going, keep going and then by the time you're done you're so exhausted. It takes, it takes so long to
+Patient: Recover. You're right. You're right.
+Nurse: Oh, yeah. But I mean, like, yeah. Now, do you do, how much fluid do you take in, in a day? I mean, do you drink a lot of water or? How are you?
+Patient: I do drink water and, um, I love uh green tea. So I, I drink
+Nurse: Tea. I know I'm a big green tea drinker myself. Um, yeah. Now, what about, do you like cranberry juice? Do you like grape juice? Anything like that?
+Patient: Tom? I can drink cranberry juice. It's not right up there with my favorite, my favorite. Yeah, a lot
+Nurse: Of, a lot of times I tell people, um, even if you do like a cranberry, it's called like a cranberry cocktail. It's cranberry juice and ginger ale mixed together. Um, so, you know, you kind of get the sweetness from the, from the ginger ale and that carbonation that makes it a little more tasty than just your, you know, cranberry juice. Um, but, yeah, I mean, cranberry is beneficial to the urinary, um, tract. So, even if you added that into your regimen a couple, couple days a week that might, you might find that, that, uh, helps a little bit with the, with the, you know, prevention or urinary health, I guess, basically
+Patient: For a while where we lived before I had quite a few of them and then I started taking the cranberry tablets every day and that, that really stopped it. Um, so I haven't had too many since we've moved up here. So, ok.
+Nurse: Well, that's good. That's good. Yeah. Hopefully, you know, hopefully it goes away. Certainly because they're not fun. I mean, they're, you know, and then if it, if it goes too far then it's, you know, moves up into the kidneys and you can have kidney infection and it just, oh, I know. No fun, certainly. But, um, no, I have, what's that?
+Patient: I said? And of course they always come on the weekend.
+Nurse: Yes. Yes. They do. Yes, they do. No, I'm not. I don't live now. You guys live in, right? I don't live near there. I don't. Do you guys have like an urgent care or a quick care that you can go to in the event that you would? Ok. Good,
+Patient: Good, good. Ok. And I learned that family practice is open on Saturdays. So, uh, so that's, that's good to know. Very beneficial.
+Nurse: Very beneficial. Absolutely. Um, now I have here that you are scheduled to see, uh I have a lab work on [PHI-Personal] at 7 30 and then I have that you're scheduled to see [PHI-Personal] on [PHI-Personal] at 8 30.
+Patient: Ok. Yeah.
+Nurse: Ok. And let me take a look here at your lab work that you're going to excuse me. Bye. Trying to see if they have your. Ok. So it looks like they're going to be looking at your vitamin D level again. Um, checking your cholesterol levels, uh doing a complete metabolic panel. So kidney function hydration status, all that good stuff. Um, iron, checking your iron and.
+Patient: Mhm. Yeah, the iron was high the last time. So she told me to stop taking iron tablets. So, um,
+Nurse: So you were taking, now, why did you, why did you start the iron supplements? Do you have like a history of anemia or anything that you have an iron deficiency or?
+Patient: No, I don't, um I don't even remember why I started taking iron maybe for energy. I don't, I don't remember, but she did say it was high so I should stop it. So,
+Nurse: Um, all right. Are you in need of any refills on anything? I'm just taking a look here. Do you, you use Walmart Pharmacy?
+Patient: I do.
+Nurse: Ok. And you do, you do 90 day supplies on your prescriptions?
+Patient: Some of them. Yes.
+Nurse: Yeah. Take your time, take your time.
+Patient: I know there was some that I needed refills, but I didn't know if they were out of re, yeah, here's one. Oh, I have quite a book there though. Uh, I need omeprazole and there's no refills for that.
+Nurse: Ok. I can get that one sent in for you.
+Patient: Doxazosin. Doxazosin is another one. Ok. Part at all. Actually all of them are no refills, but that I don't need to have them filled at this time.
+Nurse: Ok. So, let's see. Um, you said the carvedilol and omeprazole? Omeprazole? Ok. Right. You want those to CV, or Walmart? Ok. I could take care of that. I'll get that sent in to [PHI-Personal] then and have her sign off on those for you. Ok. Ok. 90 day supplies. Hm. Ok. No problem. Um, anything else that you need?
+Patient: No, I don't think so.
+Nurse: Ok. All right. Now, did my phone number come across your caller ID? Well, I guess you would have had it because you called me, huh? Ok. That's my direct number. So, in the event that anything comes up, you have any questions, um, you know, you develop UT I symptoms again, you need a refills, you're not feeling good, anything like that. You can certainly give me a call. Um I can schedule appointments. I can, you know, do all that stuff. So, um, anything that I can do to help you, I'm happy to. So I will, I have you down for the monthly call. So I will touch base with you again here in about a month um unless you need anything in the in between but otherwise you know enjoy your month and I'll talk to you I guess after the [PHI-Personal] so enjoy your holiday.
+Patient: Yeah. Yeah and what is what is my name
+Nurse: Again? My name is [PHI-Personal]. Yep it's [PHI-Personal] just like the GMC [PHI-Personal] is. Yeah.
+Patient: Ok sounds good so
+Nurse: And I'm gonna you'll have a yeah I'll you'll receive a letter in the mail here in a couple days um with my name and contact information on it also. Ok,
+Patient: Good.
+Nurse: Ok well you enjoy your weekend and if you need anything you feel free to give me a ring.
+Patient: Alright, great. Thank you for calling. Alright
+Nurse: Bye bye
+Patient: Bye bye.

@@ -1,0 +1,37 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Can I help you? Hi, [PHI-Personal]. This is [PHI-Personal]. Uh, [PHI-Personal]. I am [PHI-Personal] Kes. Mother and I'm sorry, daughter. Oh, um, has been working with us and I came up with a problem over the weekend so I need to see if, uh, we can get a new roll leader for her. Ok. I usually talk to [PHI-Personal]. He's off today.
+Nurse: So you need a new rollator.
+Patient: Yeah, the, the one she, the one she's been using was either my brothers or grandmother's so, it's pretty old but with my mother's weight she needs something heavier then I guess the standard rollator. But that's what she uses because it has a seat that she can use.
+Nurse: Ok. So she's never been actually ordered one before.
+Patient: I don't think so. Not through Doctor [PHI-Personal]. I think these were both hand me downs. Well, I
+Nurse: Can send a message and ask. I was just looking down through her stuff
+Patient: Real quick
+Nurse: If they can put in an order, um, to a medical supply company for one. Is there a medical supply company that you get anything from?
+Patient: Um, we have, um, a Hoyer lift and from, um, Young's. Oh, God. Where was that from? And I have all her supplies coming from [PHI-Account] si,
+Nurse: I'm sorry, did you say [PHI-Account] or N
+Patient: MF I medical supply, whatever I is, whatever the I stands for, they just call me every month and send me stuff, stuff. Well,
+Nurse: That's what I was looking through because some, a lot of times, you know, they get the orders from the office, I thought maybe if we had. Mhm. I see it now.
+Patient: Ok, wheelchair is the other thing she has through young. Ok. But the wheelchair is too wide to go through the doors. But the rollator does, she can get through the door way that way.
+Nurse: Ok. All right. Yeah. So, what I'll do is I will message, you know, doctor and let him know that,
+Patient: Uh, that she was just in there.
+Nurse: I, so I saw that, that's why I had pulled that up and was, like
+Patient: You say,
+Nurse: Ok. So, yeah, and I, and she needs a larger
+Patient: Rollator. So he needs a heavier duty one. Not like the real skinny [PHI-Personal]. Mhm. Doesn't need to be any wider, but it needs to be a heavier duty because we, we like the width of whatever it is we have currently, whatever a regular one is because it goes through the doorways.
+Nurse: Um, well, I don't, you can get one without it being wider,
+Patient: Wider. Yeah, I was, I was afraid that that might happen.
+Nurse: Yeah, that's what I mean, they're pretty standard other than, unless you get like the bigger one. Ok. We'll see
+Patient: What?
+Nurse: Ok. All right.
+Patient: Well, I will. All right. That sounds good. I will
+Nurse: Message him and ask if, um, we can do that for her, get that sent over and everything. Ok.
+Patient: Yeah, it, it just happened this weekend, uh, yesterday, actually it was her birthday and, uh, we took her outside and the one wheel buckled. So that's no good. Yeah. No.
+Nurse: So, all right, I will send this to him and then when they get back to me, I'll give you a call and let you know.
+Patient: Ok, thank you very much,
+Nurse: [PHI-Personal]. Oh, you're very welcome. And what is the best number to reach
+Patient: You at? [PHI-Account]. Ok. [PHI-Account]. Ok.
+Nurse: So, all right. Ok. Well, and you should, you should be hearing from me. I would hope by the end of the day here.
+Patient: Ok. Thank you so much.
+Nurse: Oh, you're very welcome. You have a good day.
+Patient: Thanks. You too. Bye bye
+Nurse: Bye bye.

@@ -1,0 +1,11 @@
+Nurse: BM. This is [PHI-Personal].
+Patient: Uh yes, this is [PHI-Personal].
+Nurse: Yes, ma'am. How can I help you?
+Patient: Uh you just uh called me back. Um I wanted to know if I need to um fast for this blood work that doctor has ordered for me for my physical this month.
+Nurse: Ok, let me pull that up real quick. I think [PHI-Personal] was trying to reach you. Um, but she um is out. Well, who are you? I'm cy, I'm one of the other CCM nurses.
+Patient: Oh my God, I'm telling you this system is I can't wait to talk to the doctor. This is the most screwed up system. I I've never talked to the same person twice. Ok.
+Nurse: Um, it looks like you've been talking with [PHI-Personal] before. Um and, and she has um left so it looks like [PHI-Personal] was checking in on you for today and returning your voicemail. Um, let me see real
+Patient: Quick. She never returned anything I never heard from her. Ok. Um you know what, I'm really busy. Could you call me back in about an hour?
+Nurse: Yeah, I can have her give you a call
+Patient: Back. Ok, thank you.
+Nurse: You're welcome. Bye bye.

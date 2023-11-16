@@ -1,0 +1,21 @@
+Nurse: Hi, this is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal], returning your call.
+Nurse: Hi, how are you? I'm good, good. Let me get back into your chart here. Ok. You still have the [PHI-Personal] and a ARP United [PHI-Personal] for [PHI-Personal]. Yes, I do. Ok. And then your address is still the [PHI-Geographic] in [PHI-Geographic].
+Patient: Yes, it is.
+Nurse: Ok. All right. So, have you had any changes since I spoke with you in [PHI-Personal]?
+Patient: No, not really.
+Nurse: Ok. Have you seen any other doctors at all?
+Patient: No.
+Nurse: Ok. All right. And let me see here you have an upcoming appointment with Doctor [PHI-Personal] on [PHI-Personal] a.m. Ok. Let me see here. All right. And do you, do you check your BP at home? [PHI-Personal]? No, I don't. Ok. So that's, I mean, most people don't. So, um, but whenever my patients don't, I just do my part on just educating you on the signs and symptoms to watch for if your BP, whatever ever get too high or get too low. Um, yours is literally other than a few high readings. Yours is literally like been perfect, like for a long time. Um, so just some signs and symptoms to watch for, if your BP would get too high, sometimes you can experience like headache, dizziness, shortness of breath or like severe anxiety. Do you have a BP cuff in the event you would need to check your BP? No, I don't. Ok. All right. So those are just some signs and symptoms to watch for. Um, if you think your BP may be too high. Now, if it gets too low, some signs and symptoms you can experience is lightheadedness, dizziness, you can feel like super tired. That's a common complaint people have, um, and then you can have like blurry vision. Um, and if you do experience any of those symptoms of the BP being too low, then just lying down and elevating your feet above the level of your heart, um, can help and so can drinking water. Um, but those are just a, those are just a few signs and symptoms. I just let my patients know just to watch out for in the event that they would experience those because most people, once they get to the point where their BP is pretty well managed, most people don't check it at home. There are some people that do, but I just like to do my part to educate you on the symptoms. You can experience if it does get too high or low. Um, let me see here. And do you, will you have your labs drawn at the appointment there with him? Is that how they usually do it for you? Um, or you're not due for lab? A
+Patient: Maybe I'm not sure I'm due for that yet.
+Nurse: Ok. That may be why. Ok, I just didn't see a lab appointment. Yeah, it says it's just a follow up. So. Ok. All right. Do you have any questions or concerns for me today?
+Patient: Um, no, I don't.
+Nurse: Ok. And do you need any refills right now?
+Patient: No, not right now.
+Nurse: Ok. All right. Well, I will let you go if you need anything. Give me a call. If not, I'll be calling and reaching out next month.
+Patient: [PHI-Account] question for you. I do have a question. Yeah. Um, I talked to my prescription plan, wellcare. Yeah. And they were, and evidently [PHI-Personal]. I don't know what it is. A tier one, tier two, whatever. I'm at tier one or something. But CV S they, they is their biggest one that they wellcare deals with. And she was, she was telling me about a mail and I can get like my prescription mailed to me, but that's something the doctor has to fill out or something.
+Nurse: Well, you would have to, as after you set up your account with them, then you, the doctor just has to the, to electronically send the prescriptions to that pharmacy, but you do have to give them permission to do that. So you usually there's usually a website you have to go on to and you set it up and then once the doctor fills your prescriptions, it sends it to them there then you don't have to do anything else. Ok.
+Patient: Yep. All right. That's all I needed then.
+Nurse: Ok. Alright. Yes. So as soon as you get that done, you can give the office a call or give me a call or whoever and we can get those sent to the pharmacy for you for the mail order.
+Patient: Ok, thank you I
+Nurse: Appreciate it. You're welcome have a great day too. Bye bye.

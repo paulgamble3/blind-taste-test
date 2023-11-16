@@ -1,0 +1,8 @@
+Nurse: Yeah, this is [PHI-Personal].
+Patient: Hi [PHI-Personal], this is [PHI-Personal] CK. Um I'm a patient of doctor. Uh huh. Yeah, I need a refill as soon as possible and for some reason the pharmacy, the refill is on Ella um my asthma inhaler, my daily maintenance one and that's [PHI-Geographic] and the pharmacy had sent in a request and doctors for some reason had denied it even though it's something that I need to take every day and I usually get one month at a time. Ok.
+Nurse: Let me get your chart pulled up so I can kind of look and see. Yeah, verify your birthday real
+Patient: Quick for me. April 12, 1947. Ok.
+Nurse: Yeah, I don't see any reason why. Um it was denied. Um I will contact the office and see if I can get this taken care of
+Patient: For you. Yeah, because I would like it, you know, I I've been without it since Friday. So um you know, and in between I I've been using um you know, as needed, I use my emergency inhaler um which I've had to use a couple of times. So um yeah, I would prefer to be using my Ella every day. Got you.
+Nurse: Got you. Yeah, we'll get this, uh, taken care of and, and I'll get that, uh, address with the office when I hear something back, I'll give you a call back. Ok.
+Patient: Ok, thank you so much. Ok, I appreciate it. Ok, bye bye, take care miss you have a good day. Bye bye. You too. Bye bye.

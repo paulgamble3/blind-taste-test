@@ -1,0 +1,21 @@
+Nurse: Nurse care manager, [PHI-Personal]. How can I help you? Hi,
+Patient: [PHI-Personal], this is [PHI-Personal]. I, sorry, I missed your call. That's
+Nurse: Ok. How are you? I got your voice mail so I was just returning your call.
+Patient: You know, I was out golfing today and it's like [PHI-Personal] and I started to get a little lightheaded and I was trying to figure out the EKG on my watch and it just wasn't working very well. So I, I got off and I, my BP was down like 100 and four. I'm not sure if what that means. Uh, but I'm, I've been taking my BP now that, that's what the doctor told me to do. And uh, ii I seem to be better now but I wanted to call you and tell you, uh I'm thinking it was just the heat, the, the, the heat exhaustion. Is that possible?
+Nurse: Um Yeah, definitely. Um, I, I noticed, you know, he just started you on Lisinopril as well, right. Yeah. Mhm. Sorry, I had to close my door, my stupid dog. Um, yeah, so it's, you can get really dehydrated um, while taking Lisinopril. So it's really important that you drink a lot of water.
+Patient: Yeah, I did but not a, not, you know, I, I drank but it wasn't an excessive amount or anything.
+Nurse: Yeah, because you know, when you take Lisinopril, it can decrease sweating, which obviously helps cool your body down. So, um yeah, that, yeah,
+Patient: So that, you know, it's not that I was like passed out but it's not like I normally felt and that's what it, that's probably what it was. Ok, great. Yeah. Ok. I feel much better actually. I feel pretty good now. I had something to eat and I'm in air conditioning now and, uh, yeah. Ok. That, that makes sense. That makes a lot of
+Nurse: Sense. Yeah, definitely. It's really important. I know you say you drink water but it's like you have to drink a little bit more, you
+Patient: Know, more. I got you. Oh, I'm so glad I talked to you. Thank you for your
+Nurse: Time. Yeah, no problem. Um, and you know, of course, just make sure you keep checking your BP every day. Um, I recommend, yeah, I recommend not taking, um, what other medication are you on the metoprolol? Yeah. You know, if your BP goes less than 90 on the top number and less than 60 on the bottom number, that's definitely don't take your medication because that's too low.
+Patient: Which medication all of it.
+Nurse: Um, just the Lisinopril I would still take,
+Patient: Well, it didn't go that low. It went down to 100 and two.
+Nurse: Ok. What was the bottom number do you remember? [PHI-Account]? Ok. Yeah, that bottom number is just one little point, you know, actually
+Patient: It was, it was 69. It wasn't [PHI-Account] so it was 61. It was 61. The lowest was 60. Ok. Yeah. Ok. Well, thanks a lot. I, I will, uh, when I'm outside in the heat, I'll make sure I drink a lot more water. Ok,
+Nurse: Definitely. Yeah. And you know if it happens again, um either let doctor [PHI-Personal] know or myself and I can send him a message or whatever because you know maybe we need to look at a different medication as opposed to that one.
+Patient: Ok, great. Thank you. Ok,
+Nurse: You're welcome. Alrighty, you have a great day.
+Patient: I'll talk to you soon.
+Nurse: Alright. Alrighty.

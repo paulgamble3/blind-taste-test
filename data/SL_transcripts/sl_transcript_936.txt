@@ -1,0 +1,9 @@
+Nurse: Um
+Patient: Good afternoon. This is [PHI-Personal]. How can I
+Nurse: Help you? Hi, checking back in. Hi. Yes,
+Patient: Ma'am. Um I was just getting ready to call the office again to see if we have any updates. I know there's been some activity in your chart and getting some orders placed and such. Um, we got the prior authorization from the CV S so I do believe that [PHI-Personal] took care of it. Um, I am like I said, I was just getting ready to call them at the office to make sure that we've got everything in line for you. Ok.
+Nurse: Ok. Ok. So just let me know I will for sure, pick up or deliver or what.
+Patient: Yes. Yep, I will for sure. Let you know. Ok.
+Nurse: Ok. Thank you.
+Patient: You're welcome, ma'am. Bye bye,
+Nurse: That's all. Bye.

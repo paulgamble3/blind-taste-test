@@ -1,0 +1,77 @@
+Nurse: This is speaking. May I help you? Hi,
+Patient: This is calling you back.
+Nurse: Hi. Yes, we want to see how you were feeling. I know you've been at the, er, with fever and vomiting.
+Patient: Yeah. I uh, I just had a doctor's appointment this morning with, uh. Oh yeah. Anyways with the, uh, yeah, for my stomach, I forget what they, oh,
+Nurse: The G I doctor? Yeah, with
+Patient: The G I doctor. So she wants to run a bunch of different tests and stuff. So, but I still feel about the same. I don't have a fever but do you know
+Nurse: Which G I doctor you? Oh, you saw or no?
+Patient: Uh, well I forget her name. Is, is it the, did
+Nurse: They set it up at the emergency department?
+Patient: Yeah. [PHI-Personal].
+Nurse: Ok. Then I'll find out just so we can make sure we get the records. That's why I wanted to make sure we knew. Ok. But, ok, so you're still having some vomiting?
+Patient: Yeah. Yep.
+Nurse: Oh no. Does anything seem to help?
+Patient: No, not really. I just, and it,
+Nurse: It hasn't gotten better at all. No. Are you able to keep fluids down at all or?
+Patient: Yeah. It's, it's hardly, uh, it's more like dry heaving. You know what I mean?
+Nurse: Because there's nothing left in your system.
+Patient: No, just because I can hold it down. You know what I mean? Ok. That's terrible.
+Nurse: Are you able to, like, are you taking in fluids?
+Patient: Yep. Yep. I am drinking lots of water and taking in fluids. Yep. Ok.
+Nurse: What is it doing to your sugars,
+Patient: Uh, sugars are still high. Yeah.
+Nurse: Even with the vomiting because sometimes that'll drop them. What? When did you last check it?
+Patient: Uh, this morning it was [PHI-Account] [PHI-Personal]. Bye.
+Nurse: Yeah. How high are they still going up? Uh,
+Patient: [PHI-Account]. Ok. Yeah.
+Nurse: And do you still have the fever as well or no? On the fever?
+Patient: No, on a fever.
+Nurse: Ok. Well that's a good thing at least. Right.
+Patient: Yeah. Yeah.
+Nurse: And, and is it water you're drinking? You're not drinking like Gatorade or something? Right? No, just water. Ok. If you get the Gatorade, just get the Gatorade zero or like Powerade zero. That doesn't have the sugars in it because Gatorade is loaded with sugar. Oh yeah. Yeah. And, and I don't want you to throw your sugars even more out of whack than you know what I mean? I know you've already been having trouble with them trying to get them down.
+Patient: Right.
+Nurse: Right. Yep. And they gave you something at the, er, for the vomiting, didn't they? Did they give you a script? Yeah. What? Was the script for, do you remember? I'm trying to find it in here. Say it again,
+Patient: [PHI-Personal]?
+Nurse: Ok. Does it seem to be helping at all
+Patient: About the same as the other stuff? But they don't want me taking the [PHI-Personal] anymore? I guess they, she wants me to go back to taking the uh oh,
+Nurse: The G I change it back.
+Patient: Yeah. Yeah.
+Nurse: Is it like Zofran?
+Patient: Yeah, it's all
+Nurse: Ok. All right. So, the [PHI-Personal] was helping some though. Yeah. Yeah. Did she say why she wanted to change it?
+Patient: Uh, because it's, it's, it's, it's, uh, she said it's worse than the two to take. So.
+Nurse: Ok. So it's worse for you to take than the Zofran? Yeah. Ok. It'll be gentler on you or however it affects your body? Ok. And, and how's your anxiety with all this going on? It's all right. I, ok, you're not, like, worrying about everything excessively. No, or having trouble relaxing or anything. I mean, as much as you can while you're throwing up. Yeah.
+Patient: And if I do have any problems then I just take the anxiety medicine.
+Nurse: So. Ok. And it seems to still be helping.
+Patient: Yeah, it does. Yep.
+Nurse: Ok. That's good. And, and did they, have you like, changing to, like, the brat diet? You know, I know it's more with diarrhea but like bland foods, like toast or anything like that to try to help. Did they change what you're eating at all?
+Patient: Uh, not really. She said just to watch, like, you know, fatty foods and stuff like that because it takes longer to go through your system.
+Nurse: Ok. So to avoid the fatty foods. Yeah. Yeah. What about spicy foods?
+Patient: Yeah, that too.
+Nurse: Ok. Just want to make sure. I'm sorry, you're not feeling well. I'm hoping you get feeling better. Does the Zofran seem to help too or not really?
+Patient: And you know what, it helps for a couple of hours? But then my belly don't feel good again. You know what I mean?
+Nurse: What do they think is causing it?
+Patient: Well, she said it could be, there's something with diabetes and it affects your stomach, I guess. I forget what she called it. It's some type of a symptom but she's gonna have MRI done and a couple other, oh, scope, a scope done and then, uh, a couple other things done.
+Nurse: All right. So she can do an MRI, the scope and some other tests to try to find out
+Patient: What's going on. Yeah.
+Nurse: Ok. So they, they're making educated guesses at this point but they're not really sure exactly what the cause is.
+Patient: Right. Right.
+Nurse: OK. And are you throwing up or dry heaving pretty much every time you eat or drink?
+Patient: Uh, I don't even, I don't even eat much to be honest with you
+Nurse: Just because, you know, it's gonna come back up. Yeah.
+Patient: Yeah. But
+Nurse: When you are eating and drinking, is it coming back up like, every time.
+Patient: No. No, because I can, I know this sounds crazy because I don't like to throw up.
+Nurse: So. No, I don't think that part sounds crazy. I don't like to throw up either.
+Patient: So I can, I can just like dry [PHI-Personal], you know what I mean?
+Nurse: Ok. But it, but you're having to dry [PHI-Personal] pretty much every time you're eating.
+Patient: Yeah. Yeah.
+Nurse: What about fluids? Is, is it the same?
+Patient: The fluid stay down? Yeah.
+Nurse: Ok. So you're ok with fluid? It's just food.
+Patient: Yeah. Yeah.
+Nurse: Ok. Well, I hope you get feeling better and if there's anything we can do or anything, just go ahead and give us a call. Ok.
+Patient: Yep, we will. Ok.
+Nurse: All right. I hope you have a good day. You get feeling better.
+Patient: Yeah. Thank you. We'll talk to you soon.
+Nurse: Ok. Bye bye.

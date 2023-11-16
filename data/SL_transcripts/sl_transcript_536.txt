@@ -1,0 +1,19 @@
+Nurse: This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal] Jo [PHI-Personal] again. Sorry to bother you on the second day. But, um, I have a mask on, I mean, um, a, uh, an appointment. I was wondering if you could, um, put in a request for me for, uh, physical therapy because, uh, remember I was telling you yesterday that I have, um, TMJ and I've got pain in my,
+Nurse: So you want me to ask the doctor that you need a referral for physical therapy? Because
+Patient: Yes, because, well, I right doctor does know that I have, um, problems with my, uh, with TMJ and my, um, and my neck and that's why my ears aren't draining. But, well, maybe if they can somehow, uh, relax all the nerves and, and the muscles in my neck and, and, uh, jaw that it could help to relieve the fluid in my ears. So I'm just at the physical, I'm at physical therapy right now and I have the information, um, if you could take the information she, she's had, I've had one in, uh, yeah, I've had, it's in my chart. So you, you would proba when I give you the information, you'll find it, uh, probably in there already and you could just, uh, renew it. It'll be easy for you to see because I've had this, uh, before. So it's under, uh, is under [PHI-Personal] Lester. Ok. And uh, the fax number is [PHI-Account] [PHI-Account] [PHI-Account]. So, is it under a different name? Is it [PHI-Personal]? Uh, it could be also under International Health Clinic and, and then [PHI-Personal] Lester is the actual uh do they
+Nurse: Have a diagnosis and ac pt code that the doctor will need for
+Patient: Referral? Uh What is the diagnosis? And the CPT code for referral?
+Nurse: I need the
+Patient: Numbers. Ok. One second, one second. She needs the numbers. Oh, lower back. [PHI-Account] that's for the back. Oh, so that includes in it. Ok. So can you write the number so I can make sure I get it right it uh oh, so the code is [PHI-Account] as in [PHI-Personal] [PHI-Account].
+Nurse: That's the diagnosis right?
+Patient: Is that diagnosis code? Yes. Yes,
+Nurse: That's it. And, and the CPT code D
+Patient: PT code
+Nurse: [PHI-Account] as in chest, [PHI-Account] as in Paul, [PHI-Account] as in [PHI-Account]
+Patient: [PHI-Account]. Ok. Oh, there's more, there's more. Is that? Yeah. Ok, so she's writing them down so I can repeat them right?
+Nurse: Because the stuff that the doctor will need.
+Patient: Ok, terrific. So the next one is [PHI-Account], that's the one I gave you. Then [PHI-Account], then [PHI-Account]
+Nurse: Oh one. Diagnosis and three codes. Ok. Ok. I'll send this off to the doctor and see what I can do for you.
+Patient: Thank you so much. I appreciate it. Have a good
+Nurse: Day. Bye bye bye bye.

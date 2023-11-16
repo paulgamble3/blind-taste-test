@@ -1,0 +1,21 @@
+Nurse: This is, can I help you?
+Patient: Uh Yes, this is [PHI-Personal]. I think you just called um about recommendations for immunizations.
+Nurse: Yes, ma'am. How are you doing, [PHI-Personal]? Fine. Thank you. Good. Uh What's your birthday? So I can open up your shirt.
+Patient: [PHI-Account].
+Nurse: Give me one second. I just had to pull up, pull it back up again. Yes, doctor I sent the inquiry about um the vaccines you need going to Kenya and Tanzania. Um I kinda described to her, you know what vaccines you were gonna need with the yellow fever and tetanus shot and all that good stuff. Um She says sadly they do not carry those in the office. Those would be more available at the health department or travel medicine clinic. And I actually have the information of um passport Health, which is a travel clinic. So basically they do all the common vaccines and yellow fever vaccines and vaccines for folks that are going out of the country. And there's three locations in [PHI-Geographic]. Ok. Where, where
+Patient: Are the locations?
+Nurse: So one's gonna be in [PHI-Geographic], one's [PHI-Geographic] and one's in [PHI-Geographic].
+Patient: Ok. Hang on just a second. Yeah.
+Nurse: Take your time. I got their phone number in case you need it and they do the common travel immunizations. They do yellow fever, they do routine and specialty vaccines.
+Patient: And do they write the prescription for malaria? Because I'm gonna need that as well,
+Nurse: More than likely. Yeah, because they're a travel clinic. So they do like folks that are leaving the country and things like that. They handle that for
+Patient: Folks. Ok. So why don't you give me the phone number?
+Nurse: Sure. They have one general phone number with three locations. So that phone number is gonna be [PHI-Account]. Uh huh. [PHI-Account],
+Patient: [PHI-Account]. Ok. And, um, do you happen to have, um, the [PHI-Geographic] address? I'm just trying to figure out where abouts in [PHI-Geographic]? Sure.
+Nurse: Let me pull that up. Sure. Ok. So the [PHI-Geographic], the [PHI-Geographic] location is the [PHI-Geographic]. Um, [PHI-Geographic].
+Patient: Ok. Yeah, I, I know about where that is. Ok. Is
+Nurse: It relatively close to you, [PHI-Personal]?
+Patient: Uh I it's, it's ok. Yeah. Ok. There was no big part. It's not down the street but it's not a big deal.
+Nurse: Yeah, I was kind of hoping I was hoping that the Tamp location be closer to you. So, um, that's ok. Yeah, I mean, reach out to them. I think you can call our schedule online. Um, but you know, given that you haven't been there before I would recommend you call and just say hey this is what I need. Um you know can you guys provide this for me and ask about that malaria prescription? I I'm like [PHI-Personal]% sure they can but for some reason they can't just let me know. Ok.
+Patient: Ok that sounds good.
+Nurse: Alright you're welcome if I don't talk if I don't talk to you for your trip, have a have a safe trip. You're welcome. Bye bye.

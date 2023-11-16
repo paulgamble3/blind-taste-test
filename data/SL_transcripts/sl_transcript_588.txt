@@ -1,0 +1,64 @@
+Nurse: This is [PHI-Personal]. How may I help you?
+Patient: Se there? Who I'm sorry? Is her name? The nurse that I, I talk to all the time. Oh, I said ok.
+Nurse: Yes. Let me see if she's available one minute. Ok. How are you today?
+Patient: Hurting?
+Nurse: Oh, I'm sorry,
+Patient: I didn't get no sleep last night. I hurt from my hips. Clear down to my feet.
+Nurse: Oh goodness. Oh no, I'm sorry. Um, the nurse that you speak to is so let me get her.
+Patient: Thank you.
+Nurse: Uh You're welcome. Yeah, it looks like she's not available. Is there something I can help you with?
+Patient: No, I was just gonna tell her my caregiver didn't show up. Oh,
+Nurse: No. Ok. All right. What do you do when that happens?
+Patient: Just out of here? I can't do anything. Ok. And just, you know, I go to the bathroom and that's about it.
+Nurse: Ok. Does your caregiver? Is it provided through an agency
+Patient: [PHI-Personal]?
+Nurse: Ok, [PHI-Personal]. And do you usually contact them when your caregiver does not show up?
+Patient: No. Ok. I figured they contact me, but no. Now the caregiver called me here just a little bit ago and she's got diarrhea pretty bad and you can't come in.
+Nurse: Oh, no. Yeah, you don't want to catch that. I hear that's really going around here recently. Yeah. Goodness. Well, I didn't know if the agency would send out someone different or, you know,
+Patient: I don't know if I could get somebody or not to fill in today because I know tomorrow I've got a doctor's appointment with my orthopedic. Ok. I, and she's gotta be here. She's going along with me. Ok. She, yeah, helps me if I got to go to the bathroom, you know. Right. Yeah.
+Nurse: Ok.
+Patient: Well, I'm telling this kind of life set right here sucks.
+Nurse: I know it does. I, I don't
+Patient: Know why the good lord let me fall like that. There is a, there's a purpose behind it. There
+Nurse: Is and sometimes we don't see that until down the road a ways. Right. Right. Yeah, you are right. We go is a
+Patient: [PHI-Personal].
+Nurse: I know it is. Well, hopefully your caregiver will be there tomorrow to be able to help you with that appointment. Um,
+Patient: Well, if she's not, we just go without her.
+Nurse: Yeah. Yeah. Ok. Well, I'm glad she didn't just come sick and then you end up getting what she's got. So that's,
+Patient: I don't want what she's got.
+Nurse: No, that would not be good. I agree. Ok. Well, is there anything that I can help you with? No, I'll be ok. Ok. Well, I will let know that your caregiver did not show up. Yeah,
+Patient: I said I even got up this morning. I unlocked the front door for her and now it's, oh, no. She,
+Nurse: Yeah. Goodness. Are you able to go ahead and fix your own meals and all of that?
+Patient: And this stuff I got, goes in the microwave. Ok.
+Nurse: All right. Very good.
+Patient: I can get a box of cereal out of the closet if I want to and get a bowl and heat the milk or the cereal in it and need it. Oh, good.
+Nurse: Well, that's good. So, I'm glad you're able to do that and, and
+Patient: I don't use electric stove. My arms is, uh, I can't lift up the pans and stuff.
+Nurse: Oh, yeah. They can be really heavy sometimes. Yes. Absolutely. Yeah.
+Patient: Yes. But I was here all day Saturday by myself and all day Sunday. Oh,
+Nurse: I'm sorry,
+Patient: I didn't come see me.
+Nurse: Oh, no, that's not good. I wonder why not.
+Patient: I don't know. Well,
+Nurse: Well, I'm
+Patient: Sorry, I didn't see anybody yesterday. Oh, I'm sorry, I didn't see nobody on Saturday. It was a [PHI-Personal] witness was gonna come in at one o'clock Saturday and show me, uh, about Jesus on her, uh, uh, ipad or what that thing is. Uh huh. And she never came. Oh,
+Nurse: Goodness. Are you [PHI-Personal] Witness?
+Patient: No, I, oh, ok. I was baptized for church. God. Ok. And I told him I said, I'm, I'm church of God. He said, ma'am. He said we're not going to talk you into changing your beliefs. Uh,
+Nurse: Well, that's good. Yeah. Yeah. But they didn't show up, maybe, maybe something happened and they got busy or
+Patient: No Easter weekend. And, yeah, I guess they celebrate Easter, don't they?
+Nurse: I know they don't, they do not celebrate any holidays? 00, wow. I know. Yeah. They don't celebrate any holidays, birthdays, anything like that, huh? I know. Yeah. I'm not exactly sure why. I know they have a reason why they don't. But, um, I'm not sure what that reason is. I just know I've had patients in the past and they don't celebrate any holidays
+Patient: Seven day advantage. They don't eat pork.
+Nurse: Really? I didn't know that.
+Patient: Yeah, they don't eat pork.
+Nurse: Well, they're missing out on bacon, that's for sure. Huh? They're missing out on bacon, that's for sure. I like bacon. Huh? I couldn't, I couldn't be that because I'd have to have my bacon with my eggs. Yeah. Yeah. Yeah. Everybody kind of does their own thing, don't they?
+Patient: I haven't had any bacon and eggs for her. I don't know how long. Oh, goodness. Yeah. So,
+Nurse: Yeah, we have chickens and so we have lots of eggs and then my husband's family, they raise pigs, so we usually have plenty of bacon. So, yeah. Um, comes with
+Patient: The cra, I agree. Yeah. I, I haven't had any scrapple. Oh, my goodness. [PHI-Personal] Nicole was my caregiver back from [PHI-Personal]. Until this past [PHI-Personal] all them years that she took care of me and her dad would [PHI-Personal] and she'd bring me in scrapple. Oh, really? And then her daddy passed away and I don't get the scramble no more.
+Nurse: Yeah. Goodness.
+Patient: Yep.
+Nurse: Yeah, I would miss that too. Goodness.
+Patient: Yep.
+Nurse: Very good. Well, if there's anything you need, you give us a call otherwise hopefully she'll come tomorrow and be able to help you with your appointment.
+Patient: Ok. Thank you. You're
+Nurse: Welcome and I'll let know.
+Patient: Alrighty. Uh bye bye bye bye.

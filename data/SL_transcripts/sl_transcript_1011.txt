@@ -1,0 +1,115 @@
+Nurse: Chronic care management. This is, how may I help you?
+Patient: Hi, [PHI-Personal]. This is [PHI-Personal]. Hi [PHI-Personal] and I have a couple of problems.
+Nurse: What's up dear?
+Patient: Um I thought that I had another prescription for levothyroxine, but I do not. Ok. And, and so I've got to have it ordered today
+Nurse: As soon as possible then. Uh ok. So what pharmacy are you at?
+Patient: Um, what is the name of it? That's ok. Well, [PHI-Geographic], well,
+Nurse: [PHI-Geographic]. Well, now are you gonna be out of the medication?
+Patient: No. Ok. No, I set it up ahead of time and I, I got a couple of extra and I'm going uh what
+Nurse: Uh all right, we'll take care of that problem. Um Next,
+Patient: You know that it's 88 MCG S and Yep, tablet and all that. Ok. The other thing is I went through all of my mails to throw out the stuff that's no longer in, in Bogue. What I ran across a letter from the [PHI-Personal] uh insurance that gave me permission to have my echocardiogram. I think that's what it was called and I never got an appointment from the doctor. Um, they never told to say that they had set it up and the, the letter from the pharmacy or, or from the insurance company was good from [PHI-Personal] to [PHI-Personal].
+Nurse: Oh, why don't they set it up? Ok, let me send this.
+Patient: Well, I know they said that it was going to take like six weeks or better before they could get me in because so many people needed them done and it was right around all of the holidays and everything. So
+Nurse: I do see it was approved. Let me stick this to um ok, so let's go to [PHI-Personal].
+Patient: So is it going to be approved to get it done now or do we have to do it over again
+Nurse: That I do not know to call. She was approved back in [PHI-Personal], right? Yep through [PHI-Personal] for her Echo. No one ever called to set it up. Um Does this need to be reordered and approved again? Because it was in [PHI-Personal], it was only approved ok through approve back [PHI-Personal]. So it says [PHI-Personal] to [PHI-Personal]. Yep, [PHI-Personal] through [PHI-Personal] for no one ever called to set it up. Does this need to be reordered and approved again? She he's uh echo. Um ok. Taken because she go done. Ok, so we're gonna have to send that message for you. Echo. Um And I'm gonna attach what? Because it was approved. So I don't know, I don't know how that goes. So we're gonna ask [PHI-Personal] uh insurance authorize [PHI-Personal] Medical
+Patient: And I did change. Um ok. I don't know how to word this. Um I change not insurance companies but the insurance itself I know has
+Nurse: Your number changed?
+Patient: I have [PHI-Personal] still but instead of having MP O I have PPO or I don't know it. Uh
+Nurse: What? Sure I have [PHI-Personal] [PHI-Personal]. What's your number on there?
+Patient: Um ok, just a second. Where is my purse? I didn't think to grab that out. They sent me a new card with a new number.
+Nurse: Oh, they did send you a new number.
+Patient: Bye. It's across the room you might know. Yeah, I haven't done my walking yet today. That's ok and my my legs are stiff. Uh ok, let's see here. I have to put my phone down for a second. Oh,
+Nurse: You don't have UMR anymore then, right?
+Patient: Uh just a second. Ok, I have [PHI-Personal] Choice ppo. Ok. My number is [PHI-Account] [PHI-Account]. Well, that sounds awful familiar.
+Nurse: It's the same one [PHI-Personal] Choice. H what is that
+Patient: [PHI-Personal] Choice? Ppo.
+Nurse: Ok and it's [PHI-Account]. Yeah. Uh group number [PHI-Account] [PHI-Account].
+Patient: Group number. Mhm. [PHI-Account].
+Nurse: Group number is [PHI-Account].
+Patient: No, [PHI-Personal] as in apple.
+Nurse: Ok.
+Patient: [PHI-Account]
+Nurse: Six. All right. So that's changed what address is on there
+Patient: Um or
+Nurse: On that card
+Patient: On the back. Um, the address to send claims to po [PHI-Geographic]. Ok.
+Nurse: Ok, I have that, that's the same. Yep. And do you have secondary insurance still or? No?
+Patient: No,
+Nurse: No. Ok. So you don't have UMR
+Patient: [PHI-Personal].
+Nurse: Um, and
+Patient: So we couldn't have UMR with him with [PHI-Personal] or with anything if I had U MRI had to stay. UMR
+Nurse: Ok, so we, what's your [PHI-Personal] then?
+Patient: What do you mean with my
+Nurse: [PHI-Personal]? Like me? You have [PHI-Personal] [PHI-Personal] though, right? Yeah. Ok so that's what you have um. All right let's see if they have anything so we're gonna look for it must only be [PHI-Personal]. Yeah that's what it is. Ok and you're still the same number? All right, I'll definitely bring your card to the office um
+Patient: Have to take a picture of it there
+Nurse: Insurance. Oh my God it does have [PHI-Personal] letters I don't understand. All right we're gonna x that one out save insurance should only alpha numer number. We have H [PHI-Account] my God. Ok so change insurance we're gonna get rid of this.
+Patient: Is it the plan number that you need?
+Nurse: Well, I was just giving it to her I'll just um I'll just send it to her um and you don't have UMR um
+Patient: I haven't had UMR for over a year.
+Nurse: Ok. She does not have UMR so do you have any secondary insurance then?
+Patient: I think [PHI-Personal] is the secondary and Medi, well, maybe [PHI-Personal] is a secondary. I don't know, I think
+Nurse: It's the same thing [PHI-Personal] Choice PPO then what other card do you have?
+Patient: [PHI-Personal]? Health insurance?
+Nurse: What number is that?
+Patient: 4h [PHI-Account] [PHI-Account] MW [PHI-Account]. Hm.
+Nurse: But it mm I don't know I'd bring both insurance cards in um cause I don't know you said you have [PHI-Personal] but it doesn't say anything about your [PHI-Personal]. Ohh
+Patient: I have parts [PHI-Personal] and B hospital and medical health insurance with [PHI-Personal].
+Nurse: Ok. Mm
+Patient: And with [PHI-Personal] it's the [PHI-Personal] health plan with prescription drug coverage.
+Nurse: So this is your healthcare one then your [PHI-Personal] [PHI-Personal]. Yep. OK. So that's what we have.
+Patient: Why is
+Nurse: This being so oh my God, I don't know what um
+Patient: You might need to see this card before I can get the um thing through for having the echo.
+Nurse: Yeah. All right. So we got, oh what was your group number again on this? I'm gonna hold on. I'm gonna get rid of this document. I have I don't know what happened. I got screwed up. So we're just gonna, we're gonna get rid of
+Patient: This [PHI-Account] different numbers member ID plan Rh bin not Hr Xnrxecn and Rxgrp.
+Nurse: Uh I don't need the Rx ones so let's just start over. So we're gonna go. Ok. Cm OK. So it's now changed as [PHI-Personal] [PHI-Personal]. What
+Patient: [PHI-Personal]
+Nurse: [PHI-Personal] PP
+Patient: O I used to have [PHI-Personal] Golden and it was, uh MP O or PM O or it was an [PHI-Account],
+Nurse: I don't even know if this makes a difference. You know what I mean? I mean, I don't know. Hm. Ok.
+Patient: It doesn't what's covered and what
+Nurse: Isn't address is unchanged. We got that subscriber ID is still H [PHI-Account]. Right. Nice. Group number. That's what's changed. What's your group number?
+Patient: Ok. You said you don't want the R thing?
+Nurse: No, just the group number.
+Patient: The only one that has group is Rx, er P.
+Nurse: All right. So that's ok. You're gonna bring the card in our next appointment.
+Patient: Yeah. Um I can even bring it in before if they need it before. I think my next appointment the [PHI-Personal],
+Nurse: Her member ID didn't, did not change. But your, ok, the plan and named it right.
+Patient: Yep.
+Nurse: Ok. And you don't use any UUMR anymore? All right. And you don't use UMR anymore? Oh, ok. Um, now you do have [PHI-Personal], right? Yep.
+Patient: No, and much. Yeah, [PHI-Personal] but not a, just care.
+Nurse: [PHI-Personal]. Is that your secondary?
+Patient: I don't know if it's primary or secondary, it's one or the other.
+Nurse: Ok. Let me just tell her. Um, you just have regular [PHI-Personal].
+Patient: Yep. And B
+Nurse: [PHI-Personal] part [PHI-Personal] and B uh, which one is primary or secondary? Um [PHI-Personal] ID? What is it?
+Patient: Um, 4h [PHI-Account]. Ok. One [PHI-Account] ok. [PHI-Vehicle] [PHI-Personal]. Ok.
+Nurse: Uh ok, so. Ok, I see. Ok. And you also have [PHI-Personal] part [PHI-Personal] and B, right? Yeah. [PHI-Personal] and see. Ok, so. All right, so I'm gonna wait anyway. Ok, I'm gonna see what this says. I'll get, they'll get back to me. Ok, we have that on the way. Um, and your address is still [PHI-Geographic] state [PHI-Geographic]. All right. That's not change and any other issues, dear. No, no. Ok. And they reordered. All right, they sent this to [PHI-Personal]. So, um, as well. Ok, this, um, he's
+Patient: The one who calls and makes the appointments, right?
+Nurse: Mhm. Ok. All right. So we're gonna see what she has to say about that. Um, so, um, ok, let's see. I'll have that. Ok. And since it's the new Year anyway, I do need to see which doctors. Ok. Um, that was sent for a refill and I need to do wellness calls with you. So, what doctors do you see? Um, do you see an eye doctor? I know you see doctor [PHI-Personal]. Do you see an eye doctor?
+Patient: Yes. Doctor. Um, oh, what's his name? Knox.
+Nurse: Ok. You see a Dia, do you see a podiatrist?
+Patient: No,
+Nurse: No. Ok. I don't see a podiatrist, uh, who cut your toenails?
+Patient: I do.
+Nurse: Ok. I always say it's good to have your feet checked. I mean, I don't know if doctor checks your feet but someone should, um, just for the diabetes. Um, and who else do you see, um, pulmonary?
+Patient: Uh, yes. Doctor. Oh. Uh, I know my own LAN. No. Mm. Thought I had a, an appointment card right here and I don't. Oh. Um, [PHI-Personal].
+Nurse: Oh, [PHI-Personal]. Ok. Um, do you see a cardiologist?
+Patient: No.
+Nurse: No. Ok. And that's all you see though with doctors, right. Yep. Ok, COVID-19, vaccination. Do you still get those?
+Patient: Nope.
+Nurse: No. Ok. Annual wellness visit BP screening cholesterol. Your [PHI-Personal] one C, it's good to get your bone density. I, have you had one of those?
+Patient: I think Doctor [PHI-Personal] said that it's due this year
+Nurse: This year. Ok. I'll put it on the list. Um, flu vaccine. Do you get that? No, no, you don't get that lab work. I forgot you don't get any vaccines, right? Mammogram. Now, do you see pulmonary for like a pulmonary function test kind of thing or? No?
+Patient: No, I just come in once a year and he checks my BP and, and tells me I'm doing good. Keep it up and send the prescription over to what used to be. But now it drugs.
+Nurse: Oh, ok. So you have that too. Um Yeah, I would say make sure you're checking your feet on a daily basis though. Um, too, you know, any redness or cracks or anything. Um, too. So who you cut your own toenails then, or?
+Patient: No? Yeah, I got a scratch on my right foot. Now, the dog likes to.
+Nurse: It's what, from what year
+Patient: The dog was walking on my feet and,
+Nurse: Oh, well, just make sure it heals. I mean, look out for redness, swelling pain, you know, any cellulitis, you know. Um, two. Ok, everything is good. I have a tickle in my throat. It won't go away. I get those. Do you? And, um, me too. Ok. So we have that all set up for you. Ok. And as soon as [PHI-Personal] hears back, um, I'll let you know too and she, they did order the levothyroxine for you too. Um, just so you're aware. Ok. Ok. Thank you. And I'll, I'll mail you your wellness calls for you as well. And if you need anything, I didn't put your vaccines on here because you don't get them. So that's the only reason why they're not on there. Ok. All right. Well, if you need anything else, let me know I'll help you out with whatever you need. Ok.
+Patient: Ok. Thank
+Nurse: You so much. You're welcome. Have a great day.
+Patient: You also.
+Nurse: Ok. Bye dear. Bye bye.

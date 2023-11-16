@@ -1,0 +1,39 @@
+Nurse: These people less.
+Patient: Hi, [PHI-Personal]. It's [PHI-Personal], I can see that too.
+Nurse: Hi. So, how are you? Yeah, I knew I was just another call. I knew it was you calling? But I was on another call. So, bye. Um, I'm, I'm good. I, well, I'm not really, but I'm ok. Um, how are you?
+Patient: Uh, I lost you for a minute. I'm so sorry. I couldn't hear anything that, that we said initially. Um,
+Nurse: Uh, yeah, unfortunately, sorry. I'm in a parking garage and going around and around.
+Patient: No. No, it's, it's ok. It's ok. So I know that when I was out of the office called and talked, sorry, what was, um, I know that [PHI-Personal] said we would, we can fax over your results and then, um, uh, I also wanted to talk to you about doctor Na's office. Have they contacted you?
+Nurse: No, not at all. But I have decided I decided I wanna put it off. I, I'm just, I, I have a huge trip in late November, early December and I'm not willing to risk having to go on dialysis either way. Um, so I do wanna see him beforehand but they have not reached out, but I am going to put that off regardless, um, until [PHI-Personal]. Yeah.
+Patient: So, um, I know that doctor had our office manager contact them and discuss in detail that, you know, you need to meet with him prior. And their response was that they absolutely will call you to schedule an appointment with you prior to the procedure. I was hoping that, um, it, it was, her name was, no, it was their office manager and, um, she said that they would contact you to schedule prior. So, if they have, let's talk, I know you're trying to get into the nephrologist and let me get those labs over. Um, if you haven't heard anything later this week, I'm gonna follow up with them. Let's at least get you the appointment with him in the office. And then from that point you can schedule the procedure out into next year. I just wanna make sure that that appointment actually happens.
+Nurse: Ok. Yeah, me too. Me, me too for sure. Um, ok. So I have a huge, I have a huge amount of lab work in, um, and it, yeah. Yeah, I went to the transplant nephrologist yesterday. None of that lab work was good, by the way. Um, and I'm very upset after that appointment. I'm beside myself. Um, but ab
+Patient: All the abnormal values that showed.
+Nurse: Well, I, yeah, I'm, I'm upset, I'm upset about that. I'm upset about, I'm a type o which is the hardest to get a transplant. I didn't like the doctor. He, uh, was very cold natured. Um, all the things he told me were horrible. I'm just trying to wrap my head around it all and, I mean, it's just typical transplant stuff, I guess. But it just, um, it sent me reeling. Um, but, you know, it is what it is and it is what I'm gonna have to deal with, I guess. But, um, but my blood type came back. Oh, which is the worst [PHI-Personal] I could possibly have. Of course. Um, so I'm, I'm highly, highly upset
+Patient: Because it's the most difficult to find a match for you. Yeah.
+Nurse: Negative. Yep. Yep. Oh, sorry. That's my son that just timed in. We're in the, in the car.
+Patient: Oh, [PHI-Personal]. I'm so sorry. I know it is overwhelming. Um, we can,
+Nurse: It's very overwhelming. Yeah, I'm, I'm, I'm in, I'm in the parking, I'm in the parking lot now. Getting ready to go in to see the surgeon. I hope it's not as bad as yesterday was. Yesterday was just a devastating day. But, um, but I, I'm heading in to see the surgeon now.
+Patient: Ok. We'll talk later this week for starting because I know we have a lot of things to touch base on all of the labs that you had drawn and there's a number of them, you need all of this to go to the nephrologist. Is that true? I need,
+Nurse: Yeah, I need everything from [PHI-Personal], I think was the last [PHI-Personal] for Dunlop and that was my renal panel and my B MP and all that. I think that was, was that October, what was last Friday?
+Patient: It was [PHI-Personal]. So do you need only the 30th to go or everything? Also? Additionally,
+Nurse: II I don't know that answer. I know I need, I know I need [PHI-Personal]. But yeah, I think, I think I would send it all to her. Ok. So the other ones were so I have two sets. I have the [PHI-Personal] and I have the October third. Yeah, that was your, yeah, I think I send them all to her. Um, just so she has so that she has them. I know it's overwhelming. There's a huge amount because they tested everything that I've had since I was born. Basically. Um, it's crazy. Crazy.
+Patient: When is your appointment with her? Um, Thursday, Thursday. They just need to be there by Thursday. Ok. All right. Well, she likes
+Nurse: The day before, she likes them the day before. So they kinda need to be there by end of day tomorrow because she prepares the night before.
+Patient: Right. No problem.
+Nurse: If they're, if they're there by end of day tomorrow, I think we're ok with her. But it, I don't know, it's the first time we're doing this. So, you know, I can,
+Patient: Yeah, I'll work on it. We'll talk later this week. Um, we'll work on making sure that you see, and we'll just talk about everything else that's occurred and see where we're at.
+Nurse: Ok. Sounds good. Yeah. Um, yeah, Thursday, Thursday. I'm good. Tomorrow is o I'm kind of ok to talk Thursday. I'm good before two. after two, I'm after two. I'm at doctor's. Um, and then Friday, I'm ok all day, I think. And, and then next week I'm out of town all week. Um, I'm, I'm in [PHI-Geographic]. I'm in [PHI-Geographic]. All, next week. I'm traveling with my son.
+Patient: Enjoy yourself. Try to just take a few deep breaths. I know. It's a lot, it's all of, it's just a little, it, it's ok. It's overwhelming. Yeah.
+Nurse: Yeah. Yeah, it's pretty overwhelming. I also think I have an appointment with my nutritionist this weekend. Thursday. I think I have an hour or two appointment. So, but that might be Thursday morning. I can't remember it with [PHI-Personal]. Um, I
+Patient: Don't see it in here. Is that, is he through? TGH?
+Nurse: Yeah, he's through, um, kidney care. Um, um, well, maybe, maybe not because, but he can see my, my chart. So I assume so. Yeah. But I don't know. But maybe not. He's with kidney care.
+Patient: Yeah. That's probably why he's with Bear because I can't see her appointments either. But, um, you might be able to see our records. Now, that's interesting to me if he can see the records but she can't see your labs. That's interesting. I know.
+Nurse: She's, she's just a bitch about it. I'm sorry, she, she calls me a control freak. She
+Patient: Just doesn't want.
+Nurse: Yeah, exactly. I know my, my first appointment they looked up, the office manager was able to look at my chart and since then they haven't done it. They keep telling me they can't, but I know they can, they did it the first time they can do it. So, whatever, you know, she's a doctor. She's a doctor. She has a title entitled to do what she wants, I guess.
+Patient: Yeah. So, yeah, that's exactly how it works. You got it.
+Nurse: Exactly. Of being a nurse. Yeah, exactly. You know, I [PHI-Personal] her. She's the best, you know, she's, she's the most understanding doctor I've had, she's way better than the, than the guy I had yesterday. That's gonna do the transplant. But, um, he doesn't do the transplant. Sorry. He's the transplant nephrologist. Um, way better, you know. At least she listens and talks, you know, but it, it is what it is but they're all crazy. I think it just comes with being a doctor. All right. Yeah, I gotta run into appointment this time.
+Patient: Alright, bye.
+Nurse: And we'll talk, let's try to talk Thursday morning if we possibly can [PHI-Personal]. Hello? Can you hear me?
+Patient: Can hear you? Have a good afternoon.
+Nurse: Ok. Thanks. J hm.

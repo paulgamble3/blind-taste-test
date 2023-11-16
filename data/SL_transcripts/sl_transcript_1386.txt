@@ -1,0 +1,15 @@
+Nurse: [PHI-Personal] Cod Healthcare. This is [PHI-Personal].
+Patient: Hello, [PHI-Personal]. Uh this is [PHI-Personal]. You called me yesterday.
+Nurse: I did give me just a moment to pull your chart up because I don't really remember what I called about. So give me just a minute.
+Patient: Well, that's my, that's my problem. [PHI-Personal] be yours. You're too young,
+Nurse: [PHI-Personal]. What's your birthday?
+Patient: [PHI-Personal].
+Nurse: All right. Let me see. Oh it was just from doctor Mea. He wanted to let you know that it was time for your annual labs. Ok. And uh just to have those done before you come in for your uh annual physical next month.
+Patient: It's in [PHI-Personal], right.
+Nurse: Mhm. I'm showing [PHI-Personal] the 24th at 1:30 p.m.
+Patient: That works for me. Um ok. And I can go where to get my labs done.
+Nurse: He ordered them to quest. So just wherever you normally go.
+Patient: Alright, that so that, so uh there's a is there a quest uh at [PHI-Geographic]? Ok. Ok.
+Nurse: You know, I honestly don't know if that's quest or if that's um um mhm. If it's a medical affiliate of [PHI-Personal] Cod Lab, I don't know uh but I think that you can use those Quest um orders at those labs. I'm not sure though.
+Patient: Ok. I won't guess I'll, I'll find the nearest quest. Uh uh and I'll uh I'll have it
+Nurse: Done. Ok. Wherever you had them done last year, because I see that they were ordered to Quest Diagnostics last year too. So, wherever you went last year to have them and you can go again for these, it's the same labs, it's the same lipid and uh metabolic panel. Thank you. You're very welcome. We'll see you next month. You will. Bye bye now. Bye bye.

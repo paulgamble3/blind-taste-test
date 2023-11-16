@@ -1,0 +1,103 @@
+Nurse: Good afternoon. This is one of the nurses here with Doctor Jumper's [PHI-Geographic]. How may I help you?
+Patient: Uh, this is [PHI-Personal] returning a call from your [PHI-Geographic] this morning.
+Nurse: Hi, [PHI-Personal], how are you? That was me. All right. I'm glad you're doing good with all this rain. It's all seems to be a toss up these days. Get cold real quick.
+Patient: All
+Nurse: Right. So I was calling you mainly because I, I know you were going to see your endocrinologist and you were getting put on the insulin. So I wanted to see how all of that was going.
+Patient: Uh, I did start a night time dose. Let's see, I've gone through two pens so, probably three weeks ago. Um, and the numbers obviously have come down. Um, I'm not up to the full 35 units yet. I kind of held it at [PHI-Personal] simply because I saw some 109 97 [PHI-Personal] and I was concerned about, you know, taking the full 35 units and going lower than that.
+Nurse: Yeah, definitely. Did they give you a threshold of where they like your blood sugars and when to stop increasing the insulin if your blood sugars hit a certain value,
+Patient: I don't remember. I don't think so. It was, I was, I started out at 16 units and I was to gradually increase it two units every day until I got to the 35 units. And like I said, I, I stopped it at [PHI-Personal]. Now, I have another appointment. I don't know if it's next week or the week after. I don't have my book with me. But, uh, you know, my, my numbers have been obviously much better. I'm still not as low as I probably should be in the mornings. Um, but I don't know whether to go any further with it or not. Ok.
+Nurse: Well, let's, let's take a look at those numbers and see. How often are you checking your blood sugars?
+Patient: Oh, I check them a couple times a day. I check first thing in the morning and, and generally mid morning, mid afternoon. I'm checking easy four times a day.
+Nurse: Ok. And are you checking before you go to bed
+Patient: Sometimes? Not always.
+Nurse: Ok. So what I'd like to do is I'd like to get, um, you know, your highest and lowest, what your normal range is for those times. So, what are your fasting blood sugars? Normally?
+Patient: I don't know. I don't fast.
+Nurse: Ok. You don't, you don't check your blood sugar before you eat.
+Patient: I check it first thing in the morning. But I'm like, if I, if I do a a dose of insulin, say at nine o'clock at night, I may then have, I don't know, a couple of crackers or something. Uh, my, my eating habits are absolutely horrible because of the way I work and, you know, I'll leave the house in, in the mid afternoon and not get back to eight or nine. So, you know, there, there's a time period and that's not every day, but there's a time period there where, you know, I'm not getting anything for supper. So when I come home I'm hungry. Yeah. And, uh,
+Nurse: And that's, that's perfectly fine. Um, when we're talking about fasting blood sugars, all that means is we wanna know, are you taking your blood sugars before you eat breakfast in the morning? When you wake up?
+Patient: Normally I do.
+Nurse: Ok. So what, what have,
+Patient: And I think I did this morning but I was, I don't have my meter with me. Uh, I was 1 60 this morning, I think
+Nurse: [PHI-Account],
+Patient: [PHI-Account].
+Nurse: Ok, it's a little higher.
+Patient: Yeah, but there are mornings that I'm [PHI-Personal]. Yeah, or [PHI-Personal]. So it varies. I can start watching that for a week and see what happens.
+Nurse: Yeah, it would. And it also goes off of what you eat the night before too.
+Patient: Ok.
+Nurse: Um, because if you have something that's higher in carbs the night before then you're gonna have a higher reading that following morning in the morning.
+Patient: Yeah.
+Nurse: So, what are your mid, what are your mid morning? Do, uh, numbers? Normally
+Patient: I, I'd have to look at the meter. Um, they're normally like between maybe 1 31 50.
+Nurse: Oh, that's not terrible.
+Patient: No, they're not terrible. My numbers are much better than what they were. That,
+Nurse: Yeah, that is, that's much, much better since the last time we talked. Ok. Any idea what they are when you go to bed?
+Patient: I know that I don't check them and I guess I probably should, but I don't always check them. So
+Nurse: Generally what's recommended is for you to check your blood sugar before you give yourself insulin. And that's because if you're having a lower reading. So if you give yourself that long acting insulin and your blood sugar is like [PHI-Personal], um, then you definitely need to eat a snack before you go to bed. Otherwise your blood sugar is gonna bottom out during the night.
+Patient: Huh? Ok. And again, there's lots of times that I'm eating at 789 o'clock at night. So I really don't expect to have a reading, a low reading.
+Nurse: Yeah.
+Patient: Uh, I, I start working it
+Nurse: Along those lines too. Um, and trust me, I know it's easier said than done, especially with odd working hours. I've been there. Um, it is definite, it is recommended to try and eat around the same time every day just because that gets your body on a good cycle. I
+Patient: Understand that I come, yep. I come from a family of diabetics and let me tell you, my dad was a real stickler. It's 5 p.m. It's time to eat, it's noon, it's time to eat. And, uh, and I, I understand what you're telling. Mhm.
+Nurse: It's just sometimes hard to do in practice. I fully understand that too. Ok. Well, I'm definitely very happy with your numbers. That is much better than when we talked last time.
+Patient: Oh, I know. And I, I knew I had to do it. It was because I just was not having any success myself and, uh, I knew it was coming and I, I, you know, I put it off longer than what it should have probably. But, um, I finally, you know, came in and said you gotta do this.
+Nurse: Yeah. So, and I wanna update your med list too because I actually don't have the insulin on your med list here. So, which is one of the reasons I was calling you is I wanted to know what dosage you were at now. Um, so you're doing [PHI-Personal] a night? Yep. And that is the [PHI-Personal]. Correct. Yes. And you're still taking the glimepiride two MG in the morning and one in the evening.
+Patient: Correct. Well, I am taking it. Yes. But way back when, um, the last time I saw [PHI-Personal], it was just a couple of months ago. She because my numbers were so high and I had not started the insulin. Uh, she said to start taking two in the morning and two in the evening and I'm not quite sure what to do there. Um, most of the, I, I don't know, I kind of, I don't know, I have taken two in the morning and two in the evening and I've taken one in the morning and one in the evening. So I don't know, it says on the label one in the morning and one at night. Ok.
+Nurse: So I'm looking at your endocrinology visit from [PHI-Personal].
+Patient: Was that that wasn't with [PHI-Personal]?
+Nurse: Um Let me scroll all the way down to see who signed it is where they gave you the insulin.
+Patient: Yes, that was done. Your last name [PHI-Personal].
+Nurse: Um I si I have to keep scrolling to the bottom where she signed it right? Dawn [PHI-Personal] nurse practitioner. Yeah. Ok. So what I'm seeing here from that appointment is that they want you to take your Metformin 1000 mg twice a day, take your glimepiride two mg twice a day. You take one of
+Patient: [PHI-Account] tablet. Is that right?
+Nurse: One tablet, twice a day, twice a day? OK. All right. And that's what they want to do with you since you started the Tresiba. OK? Because the Tresiba will help lower things a little bit better. So they cut back on the glimepiride and put you on the insulin. Now, you know, you've got that follow up. So they might increase the glimepiride, depending what your numbers are or they might want you to keep going up on the Tresiba. We'll see what they say that. But for now doing that [PHI-Account] glimepiride and you're still taking the 1000 mg of Metformin. So that should be one of each of those with twice a day. Yep. Ok. All right along those lines. any questions with what food you should be having? I know you came from a family of diabetics. So I don't wanna be the dead horse there.
+Patient: Yep. All on the side.
+Nurse: Now, along those lines, there are a lot of things that could be helpful for you that they may not have had. Um, now I don't recommend this, that you follow this diet necessarily and I definitely want you to read labels on these things. Um, but one of the things you can look for when you're going grocery shopping are Keto products, Keto.
+Patient: It's, uh, I don't, I will, I will not use them.
+Nurse: Ok. Um, you might see something that's recommended by them and it's just, they have a lot of low sugars and a lot low carbs. I don't want you to follow them.
+Patient: Ok. Uh, I have a girlfriend who followed the Ke Keto diet for, I don't know how many months and of course, her, her numbers came down, her, a one c came down. She's now having problems with her eyes. Uh, and they're thinking it might have been a lack of something because of the keto diet. I don't know, but I've had some negative things about this.
+Nurse: I, it works for some people with some conditions but overall I personally don't like it. I think it's way too restrictive. The only thing I like about it is that the food manufacturers and people who make these different types of foods have now cut out a lot of the extra sugars, cut out a lot of the extra carbs from their products which make them diabetic friendly. So, um, that's the only thing I like about it as far as everything else goes. I think it's way too restrictive and I'm not a huge fan and I definitely don't want you to start it. But if, if you're looking for a snack, you know, when you're walking down the snack food aisle, they, they might have some better options for you just how they're marketing wise because they have lower carbs in them. But please don't, don't follow that, that
+Patient: I am a nutrition label reader. Uh, I do watch the label. Um, one of the problems I have with following a diet is the time to cook. Mhm. That's my biggest problem because most everything. I'm not at that point in my life where I have a leisurely morning or a leisurely evening to prepare. And so I, you know, I, I'm sure that some of the issues are, are because of me and my habits. Now, if I had someone to cook those for me, that would be wonderful. But I don't,
+Nurse: I do definitely,
+Patient: I do definitely read labels. Um, yeah. And I, you know, I've always been a big bread person and I, that's something I've, I haven't cut it out completely but I have cut out a lot. Um, I'm trying to think of some of the cereals. Um, and you got tons of carbs in those and, and I know there are good carbs. If your brain complex
+Nurse: Carbs, I mean, your body needs carbs to function. Um, and they are a quick source of energy and there are good carbs, you know, whole grains, whole wheat, um, barleys, that sort of thing. Those are good carbs and they provide a lot of fiber too, brands and those sort of things provide fiber and your body needs fiber. It helps lower your cholesterol, helps keep your gut healthy. You need fiber in your diet. And that's one of the things with these diets where you're so restrictive, especially keto is you're not getting fiber. And if you're not adding that fiber in, by alternate means like taking a fiber supplement, then you're in a whole world of a hurt in a, in a couple weeks.
+Patient: Uh huh. Well, now you just mentioned something, a fiber supplement. Are you talking like the Metamucil and things like that?
+Nurse: Yeah, that's generally what people have to do on along those
+Patient: Lines. Ok. Right. Now, one thing I, I did do and it was recommended from your o [PHI-Geographic] was to start an iron supplement because I guess I was low on iron, which is not surprising. Uh, and I did and, uh, so, you know, I'm not sure what the next uh lab will show, but I'm, I'm sure it will be more than what it was.
+Nurse: How many times, how many times a day are you taking that once? Ok. One tablet. Ok. Any constipation issues with that?
+Patient: No, not really. Uh, I think, I think the Metformin kind of balances it out because sometimes that there's a, it's not completely diarrhea but sometimes there's a, a softness. Uh, and I think it's because of the Metformin. Yeah.
+Nurse: It's kind of one of the side effects of, uh,
+Patient: Yeah. Yeah. Now it's, it's, I mean, it's not full fledged diarrhea but, uh, I do from time to time know that I need to get to the bathroom when I need to get there.
+Nurse: Ok. Well, the iron should help, uh, prevent that for you.
+Patient: I think it, I think it, yeah,
+Nurse: Iron is very constipating. But,
+Patient: Oh, right now, because I have thought a couple of times, I'm kind of surprised that they're really, hasn't been any major constipation for taking it on a regular basis. And, uh, so, no, that's all good.
+Nurse: All right. Perfect. Well, that sounds good on that. Front. Um, do you have any questions that you've been specifically worried about?
+Patient: Not really, um, you know, sometimes, no, not the, sometimes the stools are soft but then again, you know, with the Metformin twice a day, um, I don't know that it's, you know, a real health issue to me. Um, I'm happy that my numbers are coming down as far as the, uh, blood sugar. Uh, I'll pay attention more at night before I go to bed and uh also keep track of what I eat at night. Um You know, see where that takes me. All right.
+Nurse: Um Now one other thing that I just wanna double check here, um I had meant to ask you before, you had mentioned that you're increasing two units every day on your insulin. Is that what you've been doing? Ok. So one of the things
+Patient: That, that's what they said to do was two units a day until I got up for 35 units.
+Nurse: All right. So what I'm seeing in your note here from the [PHI-Personal] is to add in, start at the 16 units at two units every five days to a max of 30 ft. So what can happen is you can overload your system too quickly and you can actually bottom your insulin or bottom your numbers out because your body's not used to having that much insulin. So you wanna do it gradually. So that might help you too is if you're spacing it out every five days so that your body gets used to it and then you add a little more.
+Patient: Where did I get? Every two days? Yeah. Um, I'm go, I'm going back home and read the label on that, that box. Yeah,
+Nurse: That's because that's
+Patient: What I was doing was every two nights until I got up to the 20 like I said, I, I stopped the [PHI-Personal] units because I got, I saw numbers that I thought I don't wanna go any higher. And, uh, you know, there's me. Oh, ok. So I won't, I'll mark my calendar not to do anything else at all until five days from now.
+Nurse: Yeah. And then you could, you might have evened out by that point and then adding another two units isn't gonna drop you too much because one of the things that happens is your body gets used to high numbers and that becomes your normal and then if we get you back to normal numbers, that's way too low for your body to handle because it's been compensating at such high numbers for so long. So,
+Patient: Ok. So how do I know where to stop?
+Nurse: Um, how long ago did you stop at the [PHI-Personal] units?
+Patient: Uh, probably easy four or five days ago. I'm trying to think because I was gone over the weekend and I stayed at [PHI-Personal] units then it's probably been five days easy.
+Nurse: Ok, so, and have your numbers come up a little bit during that time.
+Patient: Um,
+Nurse: Take a look at them when you get home now that you,
+Patient: I'm driving and trying to think. Oh,
+Nurse: Ok. Well, just take a look at them when you get home. If your numbers are, we want you under 1 20 is the goal generally under 1 20. Um, so if you're
+Patient: Day forget
+Nurse: And obviously if you take it after you eat, you're not gonna be 1 20. That's fine. Um We want the, yeah, we want those morning numbers under 1 20 we ge generally wanna keep you under 1 50 unless it's like right after you eat. Um, so start taking them in the morning before you eat and see in there, if those numbers go under 70 you're definitely too low. It's very normal for people to be in the, in the higher eighties, the nineties, um, the lower one hundreds in the morning that, and like I said, that might be too low for you right now. So that's why I wanna do it gradually. But ideally we'd like to see you under one twenties in the mornings before you eat.
+Patient: Ok, under 1 20 in the morning before I eat. That's
+Nurse: Kind of after one
+Patient: 50 or below.
+Nurse: Yeah. Now, obviously if you're feeling funny at that, if you're, if you're feeling lightheaded dizzy, really hungry, um you know, stop, don't add any more. Um, we'll go from there because that's
+Patient: Ok. Okey [PHI-Personal] I'll go home and, uh, get my meter and, you know, go back a couple days and see where everything was
+Nurse: At. Yeah. No, obviously every, all of this is based off of how you're feeling too. Those number, the one twenties and one fifties are a generalization. Some people can do well with that. Some people don't. So it's all, it's gonna be a trial and error almost to try to figure out where, how you do with those where? Yeah. Yeah, because like I said, some people, if you've been running high for so long, we'll see.
+Patient: And I didn't, I never realized that that running high so long your body gets, you know, adjust to those numbers and, uh, do, do they kind of, does the body kind of think they're normal? Mhm. Yeah. Wow. So much to learn about this disease.
+Nurse: The body adapts to things very well. But sometimes it fights against us.
+Patient: Yeah. And I understand that definitely. I have a friend who actually, oh, he's in your [PHI-Geographic]. I won't, I won't say any names and I often wonder how, how people, he's on Jardiance. Ok. Now that is my understanding, something to help maintain your blood sugar or lower it. Mhm. Ok. Yeah, it does. I have a hard time understanding how people who, there may be an issue. They don't check their blood sugar the only time they, they, you know, if, when they go for lab work and that's usually six months in between. And I'm one of those people I really need to know where it's at because the numbers were so high. Oh no. Um, anyway, I guess it doesn't really matter. Alright. So I guess I know what I'm supposed to do. Got homework or? Yeah, I do, I have homework. I will do it.
+Nurse: All right. Any other concerns? Yeah, that's all I have for you today is I really wanted to focus on that insulin. And see, and I, I'm glad we got that straight. I'll add it to your chart too to make sure we're on the same page on this end.
+Patient: And thank you. I, like I said, I, I'm going back and read my label because in my mind it was two units a night. Yeah.
+Nurse: No, you had a lot going on that, that, um, at that day you might have just got it in your head and, and it didn't double, didn't register when you read it. I know how those go. So that's why we like to follow up. Well, it sounds like you've got where you.

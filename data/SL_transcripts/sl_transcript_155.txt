@@ -1,0 +1,161 @@
+Nurse: You're one of the nurses?
+Patient: Hi. Is this [PHI-Personal]?
+Nurse: Yes, it is.
+Patient: Hi, this [PHI-Personal]. You just
+Nurse: Call me? I did, did you call me earlier?
+Patient: I probably did because I was having problems with, um, BM. And, uh, I would probably want to speak to you about that. And then something else, um, with the medicines that I'm having do I just buy over the counter something.
+Nurse: So, you're having, when's the last time you had a bowel movement? Uh,
+Patient: Well, I just did something because I kept working on it all morning. So I did do some but it's not as, uh, firm as I needed to be. I mean, you know what I'm saying? Um, I'm still feeling stuffy. I think it's because of the medications and all that. So, where are we now? Um, how was your weekend?
+Nurse: Good. How was yours?
+Patient: Fine, quiet. It's ok. Had everything, had everything under control here. Good.
+Nurse: So, and how are your blood pressures?
+Patient: It's doing good. I had, um, let me see what it was. Oh, trying to see what it was. I, it was [PHI-Account], which is not really good. Yeah. So, I'm trying to, you know, not stress about nothing. My thing is um trying to relocate like I was trying to tell you on Friday and I said I talked to you that what? Yeah, trying to relocate. I'm trying to be self sufficient. Like get my own little small place and have my own little privacy. Mhm. So is there any places that y'all recommend or anything
+Nurse: For, for, for uh living?
+Patient: Yes, ma'am. Yes, ma'am.
+Nurse: I can, I can send a message to social worker.
+Patient: Ok. Uh, let's
+Nurse: See. So how long have you had the constipation for?
+Patient: [PHI-Personal] pardon?
+Nurse: How long have you had the constipation
+Patient: For? Oh, it was just over the night, over the weekend. I, I think it has mostly to do with the medicines and stuff and, and then I was eating hurricane food, which I wasn't usually eating. Um, so that might have helped it, but I'm working on it. So I feel much better because I have been working on all night and then all morning feeling much better. Now I did do something about 10 minutes ago.
+Nurse: Ok. So was it small, medium or large, do you think now the si, the size of the bowel movement?
+Patient: Um, it was, would you say the five? Mhm. Oh, you mean in clumps of, of t I don't understand what you mean by size.
+Nurse: Was it small? Medium or large?
+Patient: And? Oh, ok. I see what you're saying. I think that was medium, medium. Ok, that's good. Mhm. Also I'm trying to get a referral for my appointment tomorrow. I got an appointment at the podiatry up on [PHI-Geographic] and I was trying to get the referral. They made me an appointment back in September for the fourth, which is tomorrow at 1:50 p.m. Do you think they can give me a, um, fax them a, um, uh, what you call it, what you call it, um, what you call it a referral? Yeah, baby, I'll have to ask. Ok, I don't have a number fax number.
+Nurse: Ok. And any, um, with the BP, any headaches or confusion, difficulty speaking.
+Patient: No, I don't know why your number didn't come in as a number. I was almost about to erase it.
+Nurse: Dona my number, please.
+Patient: Ok. No, I'm saying I didn't know why I come in without your name. Usually I have your name on that number. Uh, how was your weekend? It was ok. Great.
+Nurse: It was ok. Thank you so much for asking. Mhm. And no numbness, tingling or weakness in your arms or legs.
+Patient: No, I just think I had the, um, the, the, the, um, BP thing on too tight. I'm holding water one. I think they could be holding water. I don't know.
+Nurse: You, you feel like you might be, um,
+Patient: Not, I was dehydrated but still like I'm holding water or it could be just weight. I don't know. We'll see we would work on it because it's [PHI-Account], which is not good.
+Nurse: Uh, it's so high.
+Patient: What? Tell me to sell sweetie. The only thing I was supposed to add was that little one just in case it was high, high, high. They told me not to use that other BP pill that is called on. Not the, no, not that one but the hydrALAZINE. Not that one. There was another one. wait a minute. Let me see. Could I, oh, this thing is really getting to me. I know. Oh, no.
+Nurse: Changes or difficulty speaking.
+Patient: Well, no. Mm. Mm. I just need cataracts, removal and they can consider removing them. What? Right. Let me see. I think we already went through that. It's called, um, I'm trying to find this medicine. Oh, melo, commonly known as travel. That was the one we supposed to take off all together in it. Yeah, I got on this thing from, uh, from the hospital. Stop taking me ate. Right. Commonly known as to pr ol. Ok. I got it. That was a question
+Nurse: I had with the constipation you can do, um, you can do hydration, fiber,
+Patient: Hydration, fiber, I mean, yeah, I've been doing that. I never do that. Yeah. Did prune juice too
+Nurse: And exercise.
+Patient: Yeah. I know. Got to try to walk more. Mhm. If you can just get that thing ready for me, I have somebody to get it ready because I'm not really in transportation mode here. You know, they can fax it over to them and I won't have any problems tomorrow.
+Nurse: Ok. Let me just hold on, let me see what I can do because.
+Patient: Mhm. And I'm trying to make an appointment, like you said, with Doctor [PHI-Personal]. Yeah. No,
+Nurse: They are still, I just talked to them today. They're still accepting new patients.
+Patient: Oh, good.
+Nurse: Yeah. So make sure you call over.
+Patient: Ok. All done. Uh let's see. Yeah I know what help me. Well that on magnesium tablet I got I might need some to hold it a little bit. Uh mm would I do grape juice? Apple juice? Mm last month
+Nurse: Just bear with me. Uh huh so I think we should move up your hospital follow up I just would have to put you with a different doctor.
+Patient: What do you mean a hospital? Follow up about the one you got for [PHI-Personal]
+Nurse: On the uh huh I'm not gonna move that
+Patient: Up you you wanna delete that one?
+Nurse: Yeah and move you up can you do [PHI-Personal]? Ok at 1 15.
+Patient: Ok. Ok thank you.
+Nurse: Do that and then we can cancel that one. Ok what did I do? Oh I check so [PHI-Personal]. Mhm. At uh 1 15 with a one o'clock arrival time you go see doctor [PHI-Personal]
+Patient: [PHI-Personal] he's in the office but ok but he'll forward everything to um ok I think he wait on me before. Ok. At the same office, right? The same office, the same office. Ok.
+Nurse: Uh huh. And then if anything worsens in between, then you would, um, call to, uh, then you would go to the hospital. Ok. Ok. And I have to ask for the referral.
+Patient: Ok. Would you send it straight to them? Or you can call me back where you going is going to, um, Health Park Care. 58 O2 North th Street. [PHI-Geographic] C and their number is [PHI-Account].
+Nurse: Oh my gosh, I'm so sorry please. I I'm trying to find my head while you're saying this. I'm so sorry my p go and like so many of them and mu one must have fell somewhere. Oh, there we go. Got it. Health part podiatry.
+Patient: Yes. [PHI-Geographic] C 58 O2 North [PHI-Geographic]. That's the one 50 PM arrival. I mean um
+Nurse: And what was the phone number did you say?
+Patient: [PHI-Account] [PHI-Account]
+Nurse: [PHI-Account]. Correct. Mhm. Ok. All right. So if your BP goes up anymore, you gotta go to the hospital. Yeah. Ok. Or if if you have any worsening symptoms. Ok ma'am like ongoing. What, what is it right now? Did you, you took all your medications
+Patient: Um every bit of it. Ok. Yeah, all of it. I have it right next to me but I took them all. Well, I'll call you back about three. See how it does because I finished one just now. You want me to text you about three because I'm probably gonna take a nap. Yeah.
+Nurse: Uh, check it later. Ok. Ok. And you're good on your medicines.
+Patient: I'm good on my medicine. The only thing I'm having problem my per per they charging me, they've been charging me for the pantoprazole because they swear they gave me 90 tablet and I keep telling [PHI-Personal] they did not give me 90 tablets. They gave me 30 in my bottle. They was going through a lot of changes, changing up pharmacies. And also, so I've been paying the last two times for seven pills. I mean 10 pills. I'm sorry, Zole. So there's nothing I could do when I, when I go through that I can't dispute them be a time later before they straighten it out. But I have to have that before I eat to keep from getting that back up. So I'm keeping my receipts so that we can scramble with them and let them know how many milligrams is it? Pantoprazole would be it. Give minute this allergy stuff. Pantoprazole. Wait a minute using one hand here. Let me flip it over. Ok, I got it. Wait a minute. No. Ok. Pantoprazole would be 40 mg.
+Nurse: Ok. And how many are they giving you at a time?
+Patient: Um I'm buying 10 and I bought 10. Last week I had to buy 10. I mean, you know what I mean? A week before I bought 10 and I bought 10 the other day because they want, ma'am.
+Nurse: If, what pharmacy do you use?
+Patient: [PHI-Personal]? Up on, um, up on [PHI-Geographic] and [PHI-Personal] [PHI-Geographic]. 286, 13, 66813.
+Nurse: If you use it at Good Rx, you can find it for cheaper. Probably. I don't know how much you're paying now, but,
+Patient: Well, I think that's what they used to give me those 10, they charge $10. I think that's what the pharmacist say he was using because, um, I think that's what he did in order to get it down to that, that actually being $1. I don't, I don't, I don't
+Nurse: Know how far Publix is from you. Publix? 30 pills is like $7 huh? At Publix, the 30 pills are like $7.
+Patient: You said if it was $7 for 30 I would have bought it. I had to pay $10 for 10. So you said it's called Good Rx?
+Nurse: Yeah.
+Patient: Good Rx. Would it be, um, it won't be generic? Would it be the actual prosom pro uh, would it be the actual protonic? Would it be the pantoprazole? The actual
+Nurse: Thing? Yeah, it'll be Pantoprazole. It'll be the generic
+Patient: Form, generic. Uh, you think I want to do a generic with the sensitive stomach?
+Nurse: Let me see. Let me see what the brand is, yeah, I'm sure you're buying generic because right if you were buying the brand, it's crazy.
+Patient: It, the brand they're giving me is a U A UR it's yellow. I don't know if they got a substitute but a U.
+Nurse: Mhm.
+Patient: You, you see
+Nurse: It? Yeah, I would use the, I would see if you can use good Rx.
+Patient: Ok. Do I call them or they got the, do they have that on file
+Nurse: When they pull it out for me?
+Patient: Yeah. I think that's what they did because I was, tell them I couldn't afford the dollars after they claim they had given me, but I tore up my room looking for it. I did not find it yet. Ok. So, oh, my zine, it's time for me to have them because the sinus, the Riz is for the sinus. Mhm. C ce T, ah, [PHI-Personal] as Z, uh, ne 10 mg for the sinus. And what do you call it? Um, how po pollution. That's that? Trying to breathe. They gave me that with that Flonase and stuff to clean my nose last night. I, you could see me still sniffing this morning of that early morning. Um, po po polyps. What? Polyp,
+Nurse: Early
+Patient: Morning. Yeah. Off the trees and stuff. I walked outside to take some stuff and went to go get some stuff. Oh, you see it, they call, it seems like, I think, yeah, something like that. They won't give me a refill unless I call it from you all. Ok. So make sure you make sure you work on that house. That's most important cause I'm, I'm like, oh that's what's stressing me out. That's probably why my BP up so bad. I think that's what's keeping my BP up. I'm ready to go. Now I ain't got to do this or do that. They gonna charge something. I just have to pay it but just give me my sanity because I was have filled out these places with housing and which I should have had it because I'm a disable that. They would have gave it to me 10 years ago. But I thought I was doing all right. I didn't know I was gonna be, you know, I didn't know that I was gonna be dis disabled but when I lost all my electrolytes and I had to go to the hospital, that's when everything changed my whole. I mean, I was very well had my body in tato, you ate right? And just, you know, keep my weight on the weight, you know, weight, doing everything right. But just to lose some electrolytes and run around and then they had me in the hospital, they transfer me at to your complex up and then come back. I thought I was well, but it takes a while. I just need to be somewhere quiet so I can work on my paperwork and get my strength and stuff. You could spend the files. I was without let you like so long. It's just the mercy of the Lord that I survived. I kept asking everybody why I feel so light, why I feel like? And I was, you know, it got real trim. I kept saying, why am I so light? Why do I feel like a butterfly? Nobody could explain it. Something told me to go cross that bridge to Tampa journal and they one found it. Uh mhm Thanks to them.
+Nurse: So if your BP goes any higher or you have any uh symptoms of high BP or worsening symptoms, you have to go
+Patient: To the hospital. Uh No, you told me, you told me that's all it is stressing at the last minute. Mhm That's probably what got me all constipated. I had to eat all that. Um I had to eat that um ho with hurricane food. I'm not used to eating hurricane food. You know, I don't mind being on the sausages every now and then when I got good nutrition, but I was eating it for
+Nurse: Um
+Patient: Yeah, that's what I'm saying. [PHI-Personal] me. And then one day I had Vina sausage with pickle and potato chips. Just so happened. I talk to my sister. She said, girl put all that stuff down. You can't have that. I thought the potato chips was giving to making me feel good. The and uh and uh but she said that was too much sodium and she was right. Mhm. I, I immediately listened to her because she was a nurse and I know that have blood runs in my family. Yeah, tell me about my caffeine. I'm not supposed to really have caffeine coffee on.
+Nurse: Um, so it can affect your BP. Um, it might cause short dramatic increases. Um, but just because there's short dramatic increases doesn't mean that, um, you don't have, um, so
+Patient: I can hear you so dramatic. You say something, don't have high
+Nurse: BP too. It can raise it up. Um
+Patient: Oh, it'll raise my BP.
+Nurse: Caffeine regularly have higher average blood pressures than those that don't. Oh,
+Patient: Ok. So I need to, I need a decaf coffee,
+Nurse: Right? So you can, so you should ask the doctor about whether or not you should limit or stop drinking it. Um, if you're concerned with caffeine's effect on your BP, try limiting the amount of caffeine. You drink to [PHI-Account] mg a day which is about a [PHI-Account]
+Patient: Milligrams a day for caffeine. That's very really. Yeah,
+Nurse: That's a cup about the same as your general 28 ounce uh cups of uh, brew coffee. So that's, they're saying two cups about, ok,
+Patient: So that's two cups of coffee. One cup is 400
+Nurse: [PHI-Account]. So just two cups of coffee. Ok. Mhm. [PHI-Account] mg.
+Patient: Ok. Two cups is [PHI-Account] mg.
+Nurse: Yeah, two cups is about two
+Patient: 100 mil is that you calling me? [PHI-Account], you have [PHI-Account] phone, right? [PHI-Account]. Now. So I see something calling me from that. Oh, and [PHI-Personal]? Ok. I call him back. I don't know what it is. That's what get things mixed up because I see something and don't know it's you. Yeah. Ok. So let me call that doctor you was telling me about, for, um, neurologist on, uh, swine. Does he take a new cardiologist?
+Nurse: The cardiologist?
+Patient: I thought you said Doctor [PHI-Personal] was a neurologist.
+Nurse: Cardiologist.
+Patient: Why I need a cardiologist?
+Nurse: I think that's what they advised you to do when you got, um, discharged.
+Patient: Oh, they wanted me to see a cardiologist. Uh, the heart doctor.
+Nurse: Yeah.
+Patient: I thought she was giving me a neurologist. That's what I needed. They checked my heart at and it was all right. I think, uh, uh, ok. No, because of it. Is that because my BP keeps going up.
+Nurse: Let me see. Maybe it was this one because you two just bear with me. Sorry
+Patient: To go somewhere. I don't have to go. No, this is a neurologist. Is a cardiologist. My heart is fine. I would have been dead if I went through a lot and I had a bad heart lets dresses on Monday. Oh. Oh, ok. I guess so. Because all that runs into cardiologist, it wasn't hurt to check it, but maybe
+Nurse: I'm confused. I thought I saw it there but maybe it isn't there. Hold on, let's see.
+Patient: Ok. Ok. Not that
+Nurse: One. I so much. Yeah. Awesome. Well, you can, you can ask Doctor [PHI-Personal] when you see, when you see him, you can double check with Doctor [PHI-Personal] when you see him. If you should see a cardiologist. Yeah, maybe I, uh, maybe I thought I saw it and it wasn't there, uh, because I find it. So. Ok.
+Patient: Oh, ok. So what about a referral? Just call and tell him I was referred to come to him.
+Nurse: No, no, no, no. So wait until you see Doctor [PHI-Personal]. Uh you see a cardiologist.
+Patient: Ok. Wait until I see that on the fi ok. And then he'll be open to. Ok. Ok. Mhm.
+Nurse: Ok. And again with the caffeine, you know, keep in mind energy drink, soda, things along that line also have caffeine to check you get it. It varies by brand. So you'd have to check the actual labeling to know how much is in there if you plan to cut back you so gradually over several days to a week to avoid withdrawal headaches.
+Patient: Ok. So the, so the visit with the doctor on the [PHI-Personal] to change to the [PHI-Personal] of be ok. So take that out for the November [PHI-Personal] and do it for no [PHI-Personal], right? At what time you said it? [PHI-Account], right? When is the Fi Friday Thursday? Tuesday.
+Nurse: Hold on. So it's going to be Wednesday, [PHI-Personal]
+Patient: Wednesday. Ok.
+Nurse: At one o'clock.
+Patient: Ok. What about, what about? I don't go to, uh, the podiatry tomorrow. You can too much. Yeah, I'm gonna schedule that Podiatrist because it's a bit too
+Nurse: Much. Yeah, you can ask for that. You can ask for that referral at that appointment.
+Patient: Oh, yeah, that's right. Yeah, because this is a bit too much
+Nurse: Pressure off. Yeah, it takes pressure off. Yeah.
+Patient: Yeah, just a bit too much I'm tired of now just talking um what we gonna do? Ok do I call and cancel the appointment? You're gonna do it for me you
+Nurse: Call and cancel the podiatry appointment.
+Patient: Ok but they left this morning when I called they just had me put some information on the phone.
+Nurse: Mhm. So just call us and then and cancel and just tell you or just reschedule it for after your appointment with um just reschedule after your appointment so after
+Patient: The [PHI-Personal]. Ok so you gonna work on that uh housing for me? Right?
+Nurse: I'm gonna a I'm gonna look into it and ask around uh I most likely will um put you in with the social worker that's what I'm thinking. So um because I'm not that familiar with housing program so
+Patient: Right and I am very sufficient I can do my own stuff. Yeah I don't yeah I just need my little quiet moment so I can get my paperwork together and get my rest sufficient rest. Ok I appreciate everything, sweetheart.
+Nurse: Absolutely. Check your BP is the, is the, uh, is the hub set up? Mhm. Ok. I think the problem I, I keep registering, that's why I'm wondering because if you're checking it, it's not showing
+Patient: Breaking up, you're breaking up what you say. So
+Nurse: What, what is your BP? Now?
+Patient: You wanna go in there and check it now or you want the same reading be? Pardon? We supposed to check the reading at three o'clock, we'll wait until three. It's probably because, yeah, that's probably because I knew I had appointments coming on. Ok, cancel once tomorrow but see him doctor [PHI-Personal] on the [PHI-Personal] at 1 15. Right. Doctor,
+Nurse: Doctor on the [PHI-Personal]. Oh yeah, [PHI-Personal]. Yes. Uh huh. Same office as Doctor [PHI-Personal].
+Patient: Yeah, the same office up on. Ok. And ask him, should I see the cardiologist? And then yeah, if I elevate, if your BP goes
+Nurse: Up, you have symptoms of high BP, like headache, confusion, difficulty speaking, numbness, tingling or weakness, dizziness. Like any you can't speak, you have visual changes. You go to the hospital if you have chest pain or difficulty breathing or you have any worsening symptoms
+Patient: And then,
+Nurse: And just quickly with your, with your belly, any stomach pain, nausea, vomiting.
+Patient: No, but no stomach pain whatsoever. Hum.
+Nurse: Ok. All right. And is your stomach hard or soft?
+Patient: Stop? It was hard this morning. I did make that little dump. So it was hard this morning, but it's getting soft again. But it's just still, I just always feel bloated. You know, my mother had that b uh, it's nothing but a nerve I think, I think it's my nerve.
+Nurse: And you had a, a medium bowel movement today.
+Patient: Medium. Uh huh. Bowel movement. Uh huh. Ok. And I'm drinking plenty of liquids,
+Nurse: Fluid fiber, exercise,
+Patient: Fiber, fiber. Now, fiber, I need to go get what?
+Nurse: [PHI-Personal]
+Patient: And? Ok. Prune juice, fruits and vegetables. Ok. What about, do I need to add that?
+Nurse: Uh, that I can't tell you because it's a medication, but as far as non pharmaceuticals,
+Patient: You wanna get stuff. Yeah. You want me to have, if it
+Nurse: Doesn't work, then give me a call and we can ask for, um, for the recommendation. Ok, appreciate if you have anything like severe stomach pain, nausea, vomiting, you go to the hospital because you know, if you're not moving your bowels and you have those symptoms, we have to worry about a blockage.
+Patient: Mhm. Yeah, I have had that before but I don't think this is a blockage. I told you this is that food. A friend of mine was telling him my sister was saying stop eating all that. Oh, food. Because II I realized it after she told me it's just the laziness. She didn't want to eat regular cooked food. And then my ner nerves I knew I was pressing for time. So that's another thing that it. Yeah so I hope it doesn't give you too much to do but if you can that's a ASAP thing for my house and please. Mhm
+Nurse: I'll I'll ask about
+Patient: It. Ok. Alright. Alright thank you. You're welcome let me I'm gonna lock this number in because I don't understand why you didn't up here a phone here and I appreciate all your patience you give me all right thank you dear.
+Nurse: Ok bye bye bye bye.

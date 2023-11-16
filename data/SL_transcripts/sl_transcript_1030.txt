@@ -1,0 +1,8 @@
+Nurse: Hi, this is [PHI-Personal]. How may I help
+Patient: You? Uh, hi [PHI-Personal]. This is [PHI-Personal]. Um, I'm, uh, I, I kind, I just had a fall, um, and, uh, I feel like some tightness in my chest and I was wondering if I could come in and get my rib. I think I might have broke a rib.
+Nurse: Let me see if there's any, uh, openings for today. Hold on just a second. I need to get you. Ok. Does it matter who you see? Just whoever's
+Patient: Available? No, just whoever's available. How did you fall? Well, I've been, I've been staying nights with my friend's mother because her, my friend's on vacation and she didn't want her mother staying alone and I went down the, they have steps down to the driveway and I miss, stepped on the bottom step and down. I went,
+Nurse: Got a lot of screens to get to, to get to the
+Patient: Schedule. So. Ok, that's
+Nurse: Ok. No problem. I just wanted to know what I was doing. He responding back yet out. I gotta go back through that process again. She has anything. What is it? Oh, she has, has something at 15 minutes at 2 45.
+Patient: Ok, I'll be there. Ok thank you I don't even I don't know who am I seeing? Oh cool. Alright. Alright 24 did you say 2 45 or 2 15? Ok I'll be there thank you. Mm bye bye.

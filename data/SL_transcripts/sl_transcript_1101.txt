@@ -1,0 +1,14 @@
+Nurse: Nurse care manager. This is [PHI-Personal]. How can I help you?
+Patient: Yeah, this is [PHI-Personal] and somebody there calls me. Uh,
+Nurse: Can you spell your last name for me?
+Patient: [PHI-Personal]?
+Nurse: Thank you. You're welcome. Uh What is your date of
+Patient: Birth? [PHI-Personal].
+Nurse: And you said your name was [PHI-Personal]? Yeah. Ok. I'm just trying to look you up to see who gave you a call.
+Patient: Might have been [PHI-Personal] because we were trying to get me a lift chair.
+Nurse: Ok. It looks like it was [PHI-Personal] and she's on the phone right now. I can send her a message and have her call you back. Will you be available for the rest of the
+Patient: Day? Yeah, honey, I will be
+Nurse: Ok. I will also let her know. Ok,
+Patient: Thank you. Uh
+Nurse: Huh bye bye
+Patient: Bye bye.

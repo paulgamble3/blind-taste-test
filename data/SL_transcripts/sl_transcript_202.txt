@@ -1,0 +1,15 @@
+Nurse: Hi, this is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal], this is [PHI-Personal].
+Nurse: Hi, how are you feeling? Uh,
+Patient: Not great. I got up out of bed and immediately bounced off the filing cabinet and onto the floor. Oh, no. Yeah, my balance, my balance is like gone.
+Nurse: Ok. Now, um, did you, did you injure anything? Did you hurt anything? Can, were you able to get back up or? Well,
+Patient: I was able to get back up. Yeah, but I probably got bruises from both the cabinet and the floor
+Nurse: Show up. Now, did [PHI-Personal] try calling you yesterday? I had got a message from doctor [PHI-Personal]. [PHI-Personal]. Her nurse was going to call you yesterday to check in and see if you need an antibiotic still.
+Patient: Yeah, I, I didn't get a call from anybody that I know
+Nurse: Of. No. Ok. Um, let me go ahead and I'm gonna call over to the office and speak with the doctor, uh, um, [PHI-Personal] or [PHI-Personal] and see what they want you to do, see if they can squeeze you in today or see if they can just call you in something.
+Patient: Well, I hope they can call me in something because I certainly won't get on my bicycle right now.
+Nurse: Right. Is that, do you have anybody that can take you, or?
+Patient: No, they're all sick too. Now, one's in the, one's in the [PHI-Geographic] and the other one's going to be in the [PHI-Geographic]. Oh, no. Ok. And the little girl, uh, my, my, uh, uh, [PHI-Personal], she's in the hos [PHI-Geographic] now.
+Nurse: Uh, do they have influenza? They
+Patient: Have the, the, uh, yeah, the influenza. Yeah. Strain strain
+Nurse: A a. Yeah, it's going around really, really bad. Ok, let me call you right back. I'm gonna go ahead and give Ashley a call. Um, Doctor Alvarez is a nurse. Ok. Ok, thank you. Ok. You're welcome. Bye bye.

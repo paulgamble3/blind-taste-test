@@ -1,0 +1,33 @@
+Nurse: Hi, Missus [PHI-Personal]. Hey,
+Patient: MS [PHI-Personal]. How are you doing this morning? I'm
+Nurse: Good. Is this Miss [PHI-Personal]?
+Patient: Yes,
+Nurse: Ma'am. Mhm. Hey, how are you?
+Patient: I'm doing the best. Yes, ma'am. I'm, I'm just leaving the doctor's office. Doctor [PHI-Personal]. Uh she told me to call you to have you, um, set up the appointment for, uh, I guess it's, um, it's a referral, it's um, uh, am bulatory.
+Nurse: Let me take a look here if I can pull it up already. Um, is it for the pulmonologist? Like a, a lung doctor? Yes, ma'am. Yes, ma'am. Ok, perfect. All right. Let me take a look here. See, let me go down to her notes here. Yes, ma'am. All right. So she wanted me to help you set up like a pulmonology appointment. Mhm. Ok. I can definitely get to work on that.
+Patient: Let me and um, then she want, I think she want me, I got to go uh have a mammogram. So I guess she want to help me set up a for me, for my mammogram at the tower uh, over there on, for [PHI-Personal].
+Nurse: Ok. Yes. All right. Let me look. All right. And um, what did she say about? I know you were having problems swallowing your food or? Yes, ma'am. Yes, ma'am. Like it was stuck. What did she say about that?
+Patient: Um, I, I think, I think she wants you to set me an appointment for that. Is it fl mod [PHI-Personal] Edd? I mean, barium swallow something.
+Nurse: Oh, ok. Yes, I do see that. Yeah. A barium swallow test. Let's see. Ok. Let me look. trying to think where they do those. They might, they might do it at the tower too, but I'm not sure. Did she say where they normally do
+Patient: Those? I, I think she said, I think, I, I think she said at the tower too. I don't know. Ok.
+Nurse: I think they do it there too because you have to basically, um, the barium swallow is like where you drink the stuff and then they take a picture of everything so I can kind of see what the structure looks like. Um, I believe they do it there too. Um, so I can definitely get to work on those. Ok. And let me see. Um, ok. Ok. So, and you're still United Healthcare?
+Patient: Yes, ma'am. You have
+Nurse: Perfect. All right. Well, good. So I can, um, get started on that for you. Um, and I will place a call over to the tower, see if we can get you scheduled for both the mammogram. And I believe they do the Barium swallow there as well. Is there, um, any, like, days of the week that work best for you or like mornings after morning, morning
+Patient: Mornings?
+Nurse: Ok, ma'am. All right. And then I will also try and find, um, a pulmonologist and get you set up an appointment there too.
+Patient: Yes, ma'am. And for that in the mornings too.
+Nurse: Morning two. All right. Yes, ma'am.
+Patient: And I, I think she told me that, uh, actually you can, if you can help me like get me uh, I guess uh machine uh to check my sugar and stuff. Oh,
+Nurse: Ok. Yeah, let me check your um, med list real quick. So, let's see. Have you ever monitored your blood pre or your blood sugars before?
+Patient: Uh Yes, ma'am, but I wasn't doing it because I'm still myself.
+Nurse: Yeah. So, um, do you remember the last time you did that
+Patient: When you, it, it's been some years,
+Nurse: Years? Ok. All right. So I do, it does seem like she placed an order for, um, a glucose monitoring kit. Let me see. And it does look like it was sent over to the Walgreens. Let's see. And she said just to check it twice a day. Um ok. And then let me check here and then it also, I think you already have um, some refills at the pharmacy for like the, the Lancet, which is where you, you poke your finger and then the strips which go into the test little monitor. So those have refills on it. So they should already be kind of taken care of at the pharmacy. Um, so I would, I think normally for like, those kinds of things, they normally have them just at the pharmacy. And, um, so if you can call Walgreens, see if they, they got the, I mean, what time was this sent? Maybe you should wait, maybe an hour or so just to get them all caught up. So, let's see, it was sent at. Where's the time? Mhm.
+Patient: Yeah. Can you make sure that, uh, it, it, it'll be at Walgreens on uh Dy.
+Nurse: Yes, ma'am. Uh huh. That's where she sent it to. And it looks like it was sent over at about nine this morning. So if you wanna give him a call, maybe like after lunch and just confirm like, hey, you guys got this prescription. Do you have a kit that I, you know, uh, a monitor that I can come and pick up and then kind of go from there and then if there's any issue with, you know, getting one there at the pharmacy or anything, um, you can definitely let me know and then I can see, um, what other options we can do because I know, um, I had somebody else, uh, she had like, misplaced her monitor and so you can actually get in contact with like the manufacture company and we can kind of go that route too if we need to. Um, but I would maybe call Walgreens after lunch time. So they have a moment to, like, get the order and everything and then you can call them and just verify that they have a machine and all that good
+Patient: Stuff. Yes, ma'am. Um, um, all my BP medicine, my cholesterol medicine and my eye drops and stuff. You already sent all that stuff in, right? I should, they should be ready. So,
+Nurse: Yeah. Yeah, it looks like they were um filled on the 16th which was I think Wednesday so yeah they should be all ready and if you wanna just swing by pick them up and then when you're there you can ask them about the monitor too. Yes ma'am. All right so I will definitely get working on the appointments for you and then I'll call you back once I have some more information and times and everything like that.
+Patient: Yes ma'am and address and all that stuff and so of
+Nurse: Course yes will do. Alright so I'll talk to you later.
+Patient: Alright thank you m
+Nurse: You're welcome bye bye.

@@ -1,0 +1,4 @@
+Nurse: [PHI-Personal] Medical [PHI-Personal]. This is, can I help you?
+Patient: Hi [PHI-Personal]. This is [PHI-Personal] um for my mom. So I called the pharmacy yesterday at 6 30 they said that they have not received the script. Ok. Um for my mom. All
+Nurse: Right, let me look and see if doctor uh give me just a second, let me pull her stuff up real quick. Ok, time. Yeah I see it's here it's still pending. Ok, let me see if I can get a hold of doctor [PHI-Personal] and say hey, you know we're just waiting on you to to we're just waiting on her to sign them. That's that's all we're waiting on. So uh let me get with her and um I'll give you a call back around two. Ok.
+Patient: Ok, that alright thank you so much. Thank you. Thank you bye bye bye.

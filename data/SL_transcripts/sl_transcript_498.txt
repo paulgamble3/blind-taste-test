@@ -1,0 +1,17 @@
+Nurse: [PHI-Personal], may I help
+Patient: You? Uh, I'm [PHI-Personal]. I'm calling from my wife [PHI-Personal] that got a call this morning. It was on our recorder.
+Nurse: Ok. Did they say who called?
+Patient: We can't understand them?
+Nurse: Oh, ok. Let me check. How do you spell your last name?
+Patient: [PHI-Personal]? Am us? What I wanted to tell you is tell him not to call anymore. We're not gonna participate in this because we let me make, we cannot hear on the phone and they talk so fast that we cannot understand them.
+Nurse: Ok, let me see here. Ok. So it looks like you just enrolled on the [PHI-Personal], but you haven't been assigned a nurse yet. Ok.
+Patient: Well, it says, uh, welcome to [PHI-Personal] S New Care management program. In our letter we got.
+Nurse: Ok. Yeah. And it looks like the nurse was calling to introduce herself and get you all set up in the program.
+Patient: Well, it's no use because we're not gonna participate.
+Nurse: Ok. Now, was it both you and your,
+Patient: Well, I go downstairs to uh, doctor.
+Nurse: Ok. So it's just your wife that you want to take out of the program? Oh, so I'll
+Patient: Call them and tell them take my name off of that.
+Nurse: Let me see. So so this is for [PHI-Personal] date of birth [PHI-Personal]. Yes. Ok, so let me opt her out. Mm. Ok and I'll just put in your in the chart um just so doctor knows that you decided to decline and we'll take you out of the program.
+Patient: Ok. Ok.
+Nurse: Thank you. Sure. Bye bye now.

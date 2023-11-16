@@ -1,0 +1,40 @@
+Nurse: CC and
+Patient: [PHI-Personal] speaking. Yeah, hi. Is [PHI-Personal] there.
+Nurse: Hi. Uh, no. [PHI-Personal]. Is there anything I can help you
+Patient: With? No, I was just wanted to let her know what was going on, you know, told me to call if I going to the doctors or
+Nurse: Anything. Oh, ok. Yeah. Um, [PHI-Personal]. Um, I think, let's see, I don't think she's with, um, the practice anymore. Is this, uh, you're coming up t [PHI-Personal], is it? Yeah. Yeah. [PHI-Personal]. Yeah. Uh, my name's [PHI-Personal]. Um, I, I did, uh, take over a lot of her patients. Um, oh, my,
+Patient: That was quick.
+Nurse: Yeah. Yeah.
+Patient: Um, I, I'm calling her. Oh, ok. So I really have no idea, you
+Nurse: Know. Oh, ok. Yeah, I do see that you were newly enrolled and you see doctor? [PHI-Personal].
+Patient: [PHI-Personal]. Yeah. Well,
+Nurse: Is there anything I can help you with or I can? Well,
+Patient: Now he kept saying, you know, to use my, my nurse to let her know what's going on? Well, I have a UT I, ok.
+Nurse: [PHI-Personal]. [PHI-Personal]. Yeah. What, yeah, what are you having?
+Patient: Uh, not really. See, my daughter knows what UT I is like she's in the medical field. [PHI-Personal]. She, a doctor or nothing like that? Uh
+Nurse: Huh. [PHI-Personal]. Um, I do see that they talk. Oh, ok. Yeah, that, that's a, a sign of a ut, I for sure. Any pain when you urinate. No, not really. No. [PHI-Personal]. All right. Any burning. No, no, no. [PHI-Personal]. Um, it said that your daughter, um, will bring in a urine specimen.
+Patient: Yeah. Oh, you already got that already. Yeah,
+Nurse: I see the note. Yeah.
+Patient: Oh, my goodness. [PHI-Personal]. She does things without me knowing.
+Nurse: Oh, well, she was able to get the urine. So. [PHI-Personal]. Good,
+Patient: Good.
+Nurse: [PHI-Personal]. So it looks like they're gonna send that urine off to the, um, the lab. Um, so they're gonna check it and see if there's any bacteria and then once they check that bacteria out, um, they're gonna see if you do need an antibiotic, which antibiotic would be most effective. Um, it said that I check your that right now. You're, you're just taking the leftover Keflex that you, that you had before, but it said it's not helping. [PHI-Personal].
+Patient: I've been taking it for a while and, oh, ok.
+Nurse: That you still got it going on. [PHI-Personal]. Yeah. So, um, until the results come back which it shouldn't be too long, um, you just really have to increase your fluid intake. Um, that's gonna help flush your kidneys and make sure everything's moving out. Um, I don't know how you like, uh, Cranberries or Cranberry pills. Or cranberries a lot of water? [PHI-Personal]. Yeah, water is
+Patient: Good,
+Nurse: Good. Yeah. So continue to do the water. Um and cranberry juice a lot of times help keep the um, urine acidic so that it makes it, you know, um at the right ph level. So that also helps. Um, also, um, do you use any like um fragrant, um feminine products or anything like that? Great. [PHI-Personal]. Cause a lot of times that can contribute to it as well. All right. [PHI-Personal]. So these symptoms that you have, how long has the, have these symptoms been bothering you, [PHI-Personal]?
+Patient: I would say probably for about a week now
+Nurse: A week. [PHI-Personal]. [PHI-Personal]. So good. Good amount of time. [PHI-Personal]. All right. Just making a note of that. [PHI-Personal]. Yeah. So as soon as they get those results back, um, doctor.
+Patient: Yeah. Yeah, I'm going to bring that in, uh, tomorrow morning. Oh, ok. [PHI-Personal]. Yep. So
+Nurse: Good. So good. So as long as we, as soon as we get that urine, they'll be able to send that off, um, any low back pain or anything. Well,
+Patient: Yeah, but I always have
+Nurse: That. [PHI-Personal], cause sometimes that's associated with urinary tract issues as well. [PHI-Personal]. So as long as you drink, yeah. So as long as you're drinking plenty of fluids and you say you don't have any problems drinking water. So that's good. Um, and then just make sure you know that you're wiping from front to back um cause a lot of times sometimes women forget that. Um
+Patient: Ok. Good, good cause that can
+Nurse: Sometimes cause urinary tract infections as well. Um So just making sure that you um keep those things in mind um until we can get those results back. Um And then Doctor [PHI-Personal] would be able to find out if there is a urinary tract infection and we're to go from there with the antibiotic that'll help since the Keflex is not doing its job. Yeah. So we have to have that little bacteria grow in that Petri dish so we can find out what's gonna work to kill it. Yeah.
+Patient: [PHI-Personal]. Yeah. [PHI-Personal]. So you, my case. Yes,
+Nurse: Ma'am. Yes, ma'am. Yes. And the number that you call us, oh, the number that you called, um, that's the same number. So, um, the number will not change anything like that. Um, and then, uh, I'll keep an eye out too for any results. Once you, um, take, give us the urine and it sends it off, we'll be able to, um, keep you up to date with the, um, response. Soon as we get that, uh, culture back to see what we need to do. Yeah. Yeah. But for right now, unfortunately it, it's a sit and wait process and uh-huh just keep the, the fluids going. Um, and then, you know, we'll be able to find out you don't, you haven't seen any blood or anything right in, in your urine. [PHI-Personal], good, good. [PHI-Personal]. Yeah. [PHI-Personal], great.
+Patient: [PHI-Personal].
+Nurse: All right. So I will definitely keep you posted. Um, once the results come back, um, either doctor will reach out to me or, um, the staff will give you a direct call. But, um, I, I will keep you on my radar, [PHI-Personal], um, and I'll be looking out for those test results as well.
+Patient: [PHI-Personal], thank you
+Nurse: Very much. [PHI-Personal], you're welcome. You're welcome. No problem. And you need me again. Give me a call. You've got my number. [PHI-Personal], great. Thank you. All right. No problem. Take care.
+Patient: You too. All right. Bye bye.

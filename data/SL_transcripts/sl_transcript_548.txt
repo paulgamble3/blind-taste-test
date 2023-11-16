@@ -1,0 +1,54 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh, yeah. May I speak to [PHI-Personal]?
+Nurse: She is not in right now. Can I help you? Um, she
+Patient: Usually calls me once a month and I see that I missed a call from her.
+Nurse: Ok. Oh, yeah. It looks like yesterday she tried to just check in. Give me one second to pull you up and we'll, we'll talk. Ok. All right. How are you doing? Good. Good. No problems at all right now. No. [PHI-Personal]. Did you get your flu shot on the [PHI-Personal]? Yes. Never tell. They confuse me because they have them down, like regular appointments and then there's just like no real notes. I always, yeah, looks like you were actually in the sea. Mm. Who do you see [PHI-Personal]? She? Doctor [PHI-Personal]? Yes. On the [PHI-Personal]. That just a checkup. Mhm. Ok. How are your blood sugars? Uh,
+Patient: The last time when I was at doctor, um, my A one C went up.
+Nurse: Mhm.
+Patient: And that was the only thing it was like, out of place.
+Nurse: Ok. Do you check your blood sugars at home at all?
+Patient: Oh, yeah, twice a day. Ok.
+Nurse: They've been good. Good. What? Do you usually run,
+Patient: Um, like 80 89 in the mornings and 100 and 50 something in the evening.
+Nurse: Yeah. Yeah, that's not bad at all. No. Um, how are you doing with a low sodium diet for your BP? Are you watching your,
+Patient: I'm not on the BP pills anymore.
+Nurse: Correct? But you still have a diagnosis of [PHI-Personal]. So you still need to be careful with your diet. That's actually one of the things that he, that she says in here is, you know, you need to follow a two g low sodium diet
+Patient: And he keeps putting on my papers that I should change the way I'm taking my Metformin.
+Nurse: Ok.
+Patient: And I really don't know what he's talking about,
+Nurse: Right?
+Patient: I take that whenever I take my other pills,
+Nurse: Right?
+Patient: And I always take them like after I eat. Am I doing wrong?
+Nurse: No, let me, well, let me look and see what you're taking first. I'm, I'm just trying to read down through this note here to see if he because he doesn't mention anything about it down here.
+Patient: Uh It's always on my, it's always on my paperwork when like they check me out at the end of the visit.
+Nurse: Ok. It says to change how you're taking it. Yeah, sorry. Like I'm just reading down to see if I can find anything about it in the note. Yeah. And you take one tablet twice a day. Yes. Ok. Hm. I don't see anything in the note about your Metformin and I honestly have no idea what you would need to change was taking it.
+Patient: Well, I'm drinking it with, or I'm taking it with water so that can't be wrong.
+Nurse: No. No. And from looking at your other medications that you can take everything after you eat, that's absolutely fine. It's probably best to keep from getting an upset stomach.
+Patient: Now, when I do my finger, um, I usually do that before I eat.
+Nurse: Correct. Yes. And that's what you wanna do. Oh, ok. Yep. Yeah, I'm not sure what that means. Like I said, there isn't anything at all in the actual office note about your Metformin, other than if you continue taking it. [PHI-Geographic] doke. Yeah. And he recommends being more active so at least 40 minutes, five times a week. Wow. He's really in, into the activity there. Yeah. Most i, it's usually 30 30 minutes, five times a week, but really wants you moving apparently. All right. So it looks like overall all of that went very well. Other than the A one C up just a little bit.
+Patient: Yeah, I told him, I said I'll fix that.
+Nurse: Ok. Do you have any idea why it went off? Do you think just what you were eating or? Yeah. And then he's also saw oncology last month as well. Is that just a check up? Is that how did that go? I'm like, trying to find it. Here we go. Oh, no, these consults, they're very hard to read because there's all kinds of continued therapy. Ok. All right. So, you're just continuing your Medica the Letrozole for 28 days?
+Patient: Yes. She's talking about taking me off of the letrozole because they also give me a shot for my bones while I'm there to visit. And she said they're like one to thin in your bones and the shot is to like, make your bones healthier. And she said they're like, counteracting each other. Oh, so, but she still hasn't taken me off of them. That was at the last visit.
+Nurse: Ok. Yeah, because she has. So you're on the Letrozole and the [PHI-Personal]?
+Patient: Yeah, that's the pro [PHI-Personal] is the shot. Ok. My insurance company wants me to get them to give me something else instead of the shot because of the cost of it. Well, I don't know what else they can give me. I was
+Nurse: Gonna say, yeah, I mean, I'm, I'm sure they're not real happy with the cost of it, but they do pay. Correct. Yes. Ok. Then, yeah, if that's what she thinks that she needs, you know, that you need to be on,
+Patient: I think. Yeah. Yeah, I get a shot every time I visit there every six months. Ok. Plus I'm taking gummies for, to strengthen my bones. Ok. It's like three different things and like, I don't know if it's working or not because I haven't had that, uh, foot measurement thing yet for the bones.
+Nurse: Ok. I
+Patient: Have that coming up but I just don't know when they're gonna do it.
+Nurse: Ok. Tooth. No scheduled. Yeah.
+Patient: Um, he hasn't said anything yet but I know when, um, [PHI-Personal] sent me the papers the last time that was one of the things that's on for scheduling.
+Nurse: Go on down through. I looking to see. Have you ever had it done here?
+Patient: Oh, yeah, where they measure your heel?
+Nurse: Mhm. Ok. Yeah, it doesn't have that you're due for it. But,
+Patient: Uh, [PHI-Personal] paper had it listed,
+Nurse: That's on almost every paper to be. Oh, is that, yeah. However, being that you do have a history, like, and what I'm looking at is just like the generalized usually. Ok, the Dexa scan is done usually once between [PHI-Personal] and, oh, what's the upper limit? Let me look here. I can't between [PHI-Personal] and 85. But being that you do have issues and they're on medications, they will probably do it sooner. I'm guessing. Uh huh. Like you had your Medicare? Ok. I would ask, um, just to be sure because
+Patient: Out at, out at the cancer place where I get the Prolio, they, they also do a test but it's like running a machine over you. Ok. And she didn't do it because I told her that they also do the foot measurement at the doctor's office
+Nurse: And they may do that in [PHI-Personal]. When you go in, I would ask to be sure. Ok. Yeah. [PHI-Account]. Ok. Yeah, just to be sure I'd ask. Ok. So, especially since you have known issues they usually, you know, do that a little more frequently. It looks. Mhm. You have an actual diagnosis of [PHI-Personal], correct. Yes. Yeah, I was just looking down through your diagnosis. I can't find it, but obviously you haven't because you're being treated for it and going to, yeah, for it. Oh, you go.
+Patient: There it is. Yeah, it's always on my
+Nurse: Paperwork. Yeah, way down here. [PHI-Personal]. When you were, looks like that's when they first diagnosed you. Ok. I found it. I was just making sure that it was there somewhere. Ok. I cat going crazy in the background here. All right. Ok. So it looks like overall it looks like everything is good, just like I said, try to increase the activity a little bit and
+Patient: In the winter time you can't do too much outside. In the summer. I have five gardens I work in. So my goodness. Yeah. And they're all big. So I try to keep myself busy with that.
+Nurse: Right. Well, I don't think you can be anything but busy with that. Yeah. Even if it's, you know, I to the mall or Walmart somewhere and walk and, you know, just, yeah, keep yourself moving. Um, but other than that, I think things are pretty good. Do you have any questions? Or concerns for me. No. All right any medications that you need sent in for refill?
+Patient: No the mail order keeps up with that.
+Nurse: Perfect. All right and then you don't go back to the office then until [PHI-Personal]. Yeah. Ok. Well if you need anything you call. Ok and if not and [PHI-Personal] will be calling you next month. Ok. Alright you have a great day.
+Patient: Uh huh bye.

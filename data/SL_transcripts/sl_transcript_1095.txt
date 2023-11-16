@@ -1,0 +1,39 @@
+Nurse: Hello.
+Patient: Hello. Is this [PHI-Personal]?
+Nurse: Yes, this is [PHI-Personal].
+Patient: [PHI-Personal]. Uh, my name is [PHI-Personal]. You gave me a call the other day? [PHI-Personal] just got it.
+Nurse: Yes, Mr [PHI-Personal], how are you doing
+Patient: As far as [PHI-Personal] know? All right.
+Nurse: Ok. If you hold on one second, let me get your chart pulled up. Ok. Yes, Mr, [PHI-Personal] was just calling to do, um, our monthly follow up call just was, you know, calling to check in with you and see how things were going, seeing if you needed any assistance with anything right now.
+Patient: Yes, [PHI-Personal] think [PHI-Personal] haven't had a, uh, an appointment with my cardiologist since earlier in the year. Doctor. Mhm. And [PHI-Personal] think [PHI-Personal]m due for an appointment when [PHI-Personal] went there. The, the girl said the, uh, the woman said they machinery wasn't working and she called me back. [PHI-Personal] think she said she'd call me back or maybe she said [PHI-Personal] should call her back and how it was done and [PHI-Personal]m probably due for a meeting with my cardiologist.
+Nurse: Ok. Ok. [PHI-Personal] can see about getting that scheduled for you. Um, is there any specific, like, day or time that does not work for you.
+Patient: Uh, if [PHI-Personal]m going into [PHI-Geographic], it's gotta be a meeting. Uh, no, earlier than 10 o'clock and no later than two, [PHI-Personal]m not riding that [PHI-Personal] 75 thing in the crazy standard. That is. Oh,
+Nurse: Yeah, [PHI-Personal] can totally understand
+Patient: Anybody who's been on there knows
+Nurse: That. Yes. Yes, sir. [PHI-Personal] totally understand. [PHI-Personal]m
+Patient: Over that going into a rush hour.
+Nurse: Yeah. Try to avoid it at all cost as much as possible. Um, while [PHI-Personal] have you on the phone, Mr [PHI-Personal], just quick question, [PHI-Personal] was looking at your, um, care gas and it looks like, um, and you just have two things that's in ready that's overdue. Um, did you, are you, did you get a flu shot or were you not planning on getting one
+Patient: Flu shot at the uh [PHI-Geographic] [PHI-Geographic] General office here in [PHI-Geographic]?
+Nurse: Ok. So you did get one, do you know approximately when that was?
+Patient: Oh, at least a month ago,
+Nurse: About a month ago. Ok. [PHI-Personal]ll try to see if [PHI-Personal] can locate the date. [PHI-Personal]ll update that though to say that you did get it. And, um, the COVID booster. Did you get one of those or are you not planning on getting
+Patient: It? Yeah, [PHI-Personal]ve had three shots. Um, [PHI-Personal].
+Nurse: Yeah. Ok. So you've had three of the. Ok. So [PHI-Personal]ll clear, [PHI-Personal] will clear both of those off of your, your chart. So it'll reflect that. Um, but [PHI-Personal] will, um, contact your cardio, the doctor [PHI-Personal] to see about getting an appointment scheduled with them. And, um, [PHI-Personal] will give you a call back and let you know what [PHI-Personal] come up with as far as an appointment and if that doesn't work then we'll just, you know, see about rescheduling it to something else. Ok.
+Patient: [PHI-Personal] take various vitamins and all kind of stuff like that. Um, [PHI-Personal]m just wondering, uh, my sleep sometime [PHI-Personal]m going to sleep doctors now for 10 years. But they haven't done a damn thing. The only time [PHI-Personal] go to sleep, if [PHI-Personal] listen to them talking and [PHI-Personal] go to sleep. [PHI-Personal] wondered about, can [PHI-Personal] get some kind of a toxicology, uh, test for? Would go over the medicines and vitamins [PHI-Personal]m taking with someone [PHI-Personal], [PHI-Personal] think that would be beneficial and probably, uh, if [PHI-Personal] could have another appointment with the doctor, probably some latest blood stuff like that.
+Nurse: Some blood work. Yeah. Ok.
+Patient: But he would probably tell me that, but [PHI-Personal]d like to look into that toxicology and also maybe, uh, a dietician if [PHI-Personal] talked to one there about a year or so ago. And dad [PHI-Personal] knew more than she did.
+Nurse: So, you're interested in, in
+Patient: Education and they stop right there.
+Nurse: Yeah. Sadly it's true. Ok. So, um, yeah, [PHI-Personal]ll see about, [PHI-Personal]ll work on all of this and see what [PHI-Personal] can come up with as far as appointments and things. Now, [PHI-Personal] know with, um, Doctor [PHI-Personal], um, it probably won't be until after the first of the year where you're able to get an appointment with him.
+Patient: Well, [PHI-Personal] don't do, [PHI-Personal] need an appointment with Doctor [PHI-Personal]. What's, um, not too long ago.
+Nurse: Let me look and see. When was your last appointment with him? Oh, yeah, you just seen him in October. Um, um, [PHI-Personal] don't know, you might not need to do the appointment with him, but [PHI-Personal] will reach out to him in regards to a referral for the dietician and um uh in regards to the toxicology um test that you're requesting and uh lab work, [PHI-Personal]m trying to see when was the last time you had lab work done? It looks like uh, well, you have your PT and inr drawn frequently. Yeah, it looks like it's been, hm, looks like the last time you had some lab work like your CMP and lipid panels and things like that was back in June. So yeah, [PHI-Personal]ll most definitely shoot a message over to his office requesting. Um
+Patient: And [PHI-Personal]d like to get full blood
+Nurse: Work that you would like to get full. Yeah, that you would like to get a full panel done. So [PHI-Personal]ll send a message over to his office and once [PHI-Personal] get a reply back from that, [PHI-Personal]ll let you know what he says about that. But um also
+Patient: Can, as you can tell him, but [PHI-Personal] have felt some little bumps or little bit shots of pain in my upper left chest area.
+Nurse: Ok. And how long has this been going on
+Patient: Off and on now for, uh, several weeks?
+Nurse: Ok. And when you say is it like sharp pain, like kind of like quick burst of shooting pain,
+Patient: It'll all of a sudden come there and [PHI-Personal]m aware of it for a while and then, uhh, and maybe [PHI-Personal] do something else, take my mind off it and it seems to go away. But ok, it's, it's there off and on.
+Nurse: Ok. And that's in your upper, your left, upper chest, correct? Right? Ok. Ok. [PHI-Personal] will send a message to him in regards to all of this and as soon as [PHI-Personal] get a reply back, [PHI-Personal] will let you know Mister [PHI-Personal] and then [PHI-Personal]m gonna also gonna contact doctor [PHI-Personal] office about trying to get about getting you an appointment with him as well. Ok.
+Patient: Ok. Fine. Thank you very much dear. No
+Nurse: Problem, honey. You too sweetie. Bye bye.

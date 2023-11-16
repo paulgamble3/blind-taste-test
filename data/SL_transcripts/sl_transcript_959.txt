@@ -1,0 +1,39 @@
+Nurse: Hello, this is [PHI-Personal] speaking. Hi, it's
+Patient: [PHI-Personal]. Returning your call.
+Nurse: Yes, ma'am. How are you doing this morning? Ok. How are
+Patient: You?
+Nurse: Good. So, I'm, you know, I'm the nurse care manager with doctor. Do you have just a moment to go over your medications with me? Sure. Ok. Let me just. Ok. Do you wanna read the list to me or do you want me to read it to you? Which is easier.
+Patient: Uh, you can read it to me.
+Nurse: Ok. So you take the potassium chloride extended release 10 me eqs once a day
+Patient: I take, let's see. Potassium chloride. No, I was only given potassium, uh, chloride one tablet one time.
+Nurse: Ok. Are there any medications you take on a regular basis?
+Patient: Um, just topical? And I wouldn't even say, well, you
+Nurse: Use them as needed
+Patient: As do you use? You use? Ok.
+Nurse: And they're more creams or ointments?
+Patient: Yes. Yes. Recommend, uh, from my dermatologist. Um, let's see. The one is, uh, [PHI-Personal]. Can you
+Nurse: Spell face Tre
+Patient: Tinoin?
+Nurse: Ok. And that's for your
+Patient: C and yes, it's 0.025%. And the other one is for my arms and my legs for another skin condition and that is ammonium lactate [PHI-Personal].
+Nurse: Is there a percentage on that one
+Patient: Is [PHI-Account]%?
+Nurse: Ok. And you said that one for you wear arms and legs,
+Patient: Arms and legs and buttocks? Yep.
+Nurse: And, and it's your, who's your dermatologist?
+Patient: Uh, it's, um, well, the one in dermatology, uh, c is the one I usually see, she's not an actual, she's, um, uh, you know, not the official, uh, oh,
+Nurse: It's more, she's more like a pa, or a nurse practitioner.
+Patient: Yeah.
+Nurse: Yeah. Ok. Can you say the name of the dermatology place again for me? I'm sorry.
+Patient: Dermatology.
+Nurse: Ok. Thank you. Ok. All right. So you, you don't take any medication, it's just those two creams that you use and you use them as needed.
+Patient: Co correct?
+Nurse: Ok. And they're just once a day as needed. Yes. Ok. Well, that makes that pretty easy, doesn't it?
+Patient: Yes. Yes, I do. I do take supplements but yes,
+Nurse: All over the counter. Right. Right. Mhm. Ok. Yeah. No. So as the ca nurse case managers, what we're gonna do is we're just gonna kind of touch base with you between your appointments with doctor. Um, we'll send you out a letter with wellness goals for the year. If you need refills, have any concerns, questions or anything you can feel free to call us. The number will be in the letter. Um, are there any concerns that you have today or questions?
+Patient: Uh, uh, I did look at the results of my blood work. But I guess I should probably talk to doctor about those. I know my, um, what was it? The MC H something was high, uh, flagged high, but I guess I wouldn't be talking to you about those numbers. Right. Usually that's
+Nurse: Him and likely you have an appointment with him on [PHI-Personal] at 10 a.m. He'll likely go over all of that with you with the appointment.
+Patient: Ok. Very good.
+Nurse: If it was something that was, um, concerning, they'll usually reach out to you. Otherwise they'll tend to go over it with you with the next appointment.
+Patient: Ok.
+Nurse: Ok. All right. Thank you, Nina. All right. Thank you for your time. You have a wonderful day. Ok. You too. Bye bye. Ok. Bye bye.

@@ -1,0 +1,12 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: Uh, Phil [PHI-Personal] speaking from [PHI-Personal].
+Nurse: Hi, how are you? Fine,
+Patient: Thanks. How about you? I'm all right. Uh, I just, uh, I've been talking to a guy from GEN one, this company in [PHI-Geographic] that brought, uh, oxygen machine out does not have an GEN one, you know, one that you carry on your shoulder. That is it how to be operated? They don't have one available and can't get one. So, um, I called this ingen one company and they're the ones that, that manufacturer and so we're gonna, I'm gonna switch to them. Ok, you'll be getting some paperwork and he said it would be better if I called you ahead of time. So you'd know what was gonna happen. It usually speed the paperwork up a little bit.
+Nurse: And what's the name of the company? My
+Patient: Dear gen one and I have a number. Sure is one [PHI-Account] 3 O2 3 O2. Yes. [PHI-Geographic]
+Nurse: [PHI-Account]. Ok, I'll send this right over to the office to make [PHI-Personal] aware that it's coming in. Ok.
+Patient: Ok, because what they'll do, I guess when that gets delivered and we call the other company and have them come pick this one up,
+Nurse: Right. Make sure you get the new one before you return your old one.
+Patient: Yes. Make sure there's no screw up because I'd be out.
+Nurse: Absolutely sure. I will definitely make them aware so they can keep an eye out for that paperwork. Um, and then they can get it filled out as soon as possible to get it back to him. Ok. Ok. Thank you. You are very welcome. You take care. Bye bye
+Patient: Bye.

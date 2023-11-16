@@ -1,0 +1,7 @@
+Nurse: This is hello. Uh I
+Patient: Was trying to call [PHI-Personal] and I got the health center. I was darling. [PHI-Account].
+Nurse: Ok. Hold on one second. Let me just try to get you pulled up here. She, oh, were you trying to call [PHI-Personal]? I was trying to call [PHI-Personal] [PHI-Personal]. Yeah,
+Patient: She just called me a little bit ago and gave me this number and I dial it and pick up your number instead.
+Nurse: Ok. Can you hold on for just one second? I sure can. Thank you so much. Yeah.
+Patient: Ok. Well, I don't think, I think you need to hang up and dial the other number if she told me to hold on. She's probably trying to see if there's a provider named [PHI-Personal]. I know she, she's checking something. Oh, yeah, she don't answer. I'll hang up
+Nurse: Shirley. Yes. Hi. Um, so I'm gonna let her know that you called and I will have her give you a call as soon as she's available. Ok. Ok. Thank you. You're welcome. Bye bye bye.

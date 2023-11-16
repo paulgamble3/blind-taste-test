@@ -1,0 +1,21 @@
+Nurse: Hi, this is [PHI-Personal].
+Patient: [PHI-Account],
+Nurse: Hi. Is this Mr
+Patient: [PHI-Personal]? Yes, it
+Nurse: Is. Ok. Hi. Yeah, I just left you a voice mail. Um, so I got your voice mail in regards to the appointment for today. So it, it was the annual Wellness visit that's scheduled at 3 15. Um, I know that you said that you weren't able to make the appointment. So, what I would do if I were you just to make it a lot easier is just call the office directly and get it canceled and then rescheduled that way we're avoiding, like the back and forth with getting, you know, playing phone tag, getting it canceled, rescheduled. Um, you know, I just want you to get it scheduled for whatever day works best for you and what time works best for you
+Patient: Because us.
+Nurse: Yeah, because usually what'll happen is I just take, based off of what you, uh, like your preferences are, I just take the first day and time available. Um, so it's just easier for you to call, um, and get it scheduled directly because I don't work directly in the office. So I call them too.
+Patient: Ok. So can you just, uh, give me an, I'm, I'm in the car right now. Getting ready to go, go, I'm having this procedure in my lower back and, and, uh, uh, so II I was hoping I could fit both things in but I can't, just, wasn't possible. Ok. Yeah. So, um, uh, can you leave me a number that, that I, I could call or do I already have it?
+Nurse: Yeah, the, so, um, just call I would just call the office so that's um [PHI-Account] um [PHI-Account]. Yeah [PHI-Account].
+Patient: Hold on a I I'm in a call here. Oh you ok. Yeah you just send me a text or something. Can you do that?
+Nurse: Uh so I wouldn't be able to text um but I would be able to just give you the number right now. Um
+Patient: But but it it just ii I don't have anything to write down, write
+Nurse: It out. I know it's just the office number like the direct office number. Do you have that already?
+Patient: Give me the last four digits that I that that um
+Nurse: It's uh [PHI-Account]
+Patient: [PHI-Account]. Ok, I got it.
+Nurse: Ok. All right, sounds good. Well good luck with your procedure.
+Patient: Yeah I don't like this one, believe me. Oh
+Nurse: Gosh, I hope everything goes
+Patient: Well it'll be alright.
+Nurse: Alrighty. Well sounds good good luck today. Alright, thank you. Uh you're welcome bye bye.

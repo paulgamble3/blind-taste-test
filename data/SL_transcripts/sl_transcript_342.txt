@@ -1,0 +1,28 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you?
+Patient: Hey, [PHI-Personal].
+Nurse: Hey [PHI-Personal], I was calling to see how you're doing shitty. Oh, what's going on? Out,
+Patient: Out of breath? Yeah, I got up this morning. I felt pretty good yesterday Monday and Tuesday got up this morning. My head's all plugged up again. My nose is running and shit. Did a home, did a home COVID test, it came back negative because I was at breakfast last Thursday. One of the guys, one of the guys that I meet for breakfast ended up having COVID.
+Nurse: Oh, no. So, well, see there is, I would take it again in another couple of days just to be sure it could take seven days to, to, you know, show up. So, um, well, you know what, you, I would get some of that. Um, I, I maybe get some of that to see if you could, you know, combat some of the, the symptoms. Don't just, uh, just sit there and deal with them. I would definitely be, uh, yeah, taking something to try to help with it. So you got stuffy head running, stuffy nose or running stuff, stuffy
+Patient: Nose, runny nose, stuffy and runny and stuffy head, you
+Nurse: Know. And, uh, how's your BP? Uh, [PHI-Personal].
+Patient: I'm in my car right now. My wife just went in the grocery store, I'm her and I went out for breakfast this morning and, uh, but when I got up this morning at seven o'clock, I think it was 1 41/90.
+Nurse: Ok. Sounds a little better than what you've been having, but it's still not good at all. Um, let me see. And you've been doing the 20 at night, you didn't wanna add anything else to it? No, the
+Patient: Last time I talked to him, he said I, when did I talk to him? I think I talked to him last, I don't know even more. Uh, Monday, Monday, I got Monday, I guess it was, uh, and he said, let's just wait until Friday and see how it is. So that's, that's what he did. And I know you said on the phone there you left a message about the, uh, echocardiogram. Uh huh. But nobody's contacted me about it. Um,
+Nurse: Well, they, they have to set that up. So I just, all I saw was I looked in the, uh, the triages and it looks like that, um, they were looking to see if it needed a, uh, prior authorization and it did not. Um, so it looks like that, uh, is gonna go ahead and go ahead and set it up and, uh, then she'll give you a call as soon as she gets it all set up for you. Oh, ok. Ok. Good. That's how it's going there and then they'll, they'll let you know the date and time and then they'll, they'll let, uh, know the date and time and that should work. I want you to go and get some, uh, stuff for your symptoms. So, I think that's gonna be good. It's gonna help you feel a lot better and it's gonna help with your breathing. Um, are you doing any of your inhalers or anything? Yes, I just did a
+Patient: Rescue inhaler. I don't know about, uh, well, well, we were, we were, well, we were at breakfast, so, so it, it was a half hour ago probably.
+Nurse: Ok. Well, I mean, you can do it four times a day if you do need it. Um, are you doing your, your long acting inhaler too? One the once a day? One too? Oh,
+Patient: Yeah. Oh, yeah. Absolutely. Yeah.
+Nurse: Right. Yeah. And make sure that's going on. Oh, yeah. So try to combat these symptoms. I want you to go ahead and take the, uh, take the test again. Um, if you're, if you're able to in a couple days because like I said, it could take, um, up to seven days to, uh, to test positive after you're exposed. So, uh, I just definitely check that
+Patient: Out. I'll, you know, I'll wait, try it again tomorrow or Friday or something.
+Nurse: I, well, you know, a lot, it's, it's going around, you know, the, the, the, you know, allergies, the, you know, the summertime cold, you know, that kind of thing is going around right now too, you know. So I
+Patient: Could, yeah, you know, crappy though because I felt pretty good Monday or Tuesday as far as that part of it goes. You know what I mean? My, my cold symptoms were gone, uh, and now it comes back again today.
+Nurse: Yeah, that's what worries me a little bit more, you know, because you were already going on the upside of it and, uh, now you're getting worse again. So it makes me think like, maybe, yeah, it's something else now. So, um, but, you know, and you could have been more susceptible to it because of, uh, you know, you were already getting over being sick. So, yeah, just keep that in mind. Uh, I just wanted to, to keep you updated on everything and I wanted to see how you're doing. I'm gonna let the doc know and, uh, we, we'll just, I'm just gonna keep checking on you just to make sure you're doing. All right, I'll give you a call in a couple of days and we'll see what that test is. If, if you're getting more short of breath, I want you to, uh, give me a call. But other than that, I want you to go get some of that and, and, uh, try to help with some of your symptoms. Right. Right. We'll
+Patient: We'll go right now to do that.
+Nurse: Ok? Sounds good [PHI-Personal]. You call me if you need anything or if you need me to get a hold of doctor.
+Patient: Ok, thanks man, I appreciate
+Nurse: It honey. You feel better.
+Patient: Thank you very much. Oh, we can get it here, get it here. Ok, I talk to my wife, we can get it ready to grocery store here. I got I was gonna
+Nurse: Go. Yeah
+Patient: I'll go I'll go to grocery store and get it. Ok,
+Nurse: Thank
+Patient: You. You're welcome. Bye bye.

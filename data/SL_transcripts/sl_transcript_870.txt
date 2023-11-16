@@ -1,0 +1,49 @@
+Nurse: Hello, this is [PHI-Personal]. Hi. Uh, my name is [PHI-Personal] and I, uh, have been speaking, uh, at least the last time with Nicole at this number. Um, is she, should I ask her the question I have or should I ask you?
+Patient: Um, you, you can ask me, uh, Nicole's out today so I'm covering for her. Oh,
+Nurse: Thank you. Thank you. And what's your name? [PHI-Personal]? [PHI-Personal]. Ok. My name is [PHI-Personal]. [PHI-Personal]. Like the color, uh, my doctor is Doctor [PHI-Personal] in Fairfield, Connecticut. Uh, the question I have is I'm taking a series of blood tests in two weeks and, um, Nicole told me which ones they were, I CBC iron levels. You have to maybe, maybe you go into my file and see it. I don't know. You tell me, I think I've got
+Patient: That pulled up. Uh huh.
+Nurse: Oh, you're fast. Ok. So I'm taking all these, um, uh, tests in two weeks and it just occurred to me. I may m maybe I shouldn't take vitamins or, or Tums or whatever it is, uh, for a period of time. Is there some rules because I know I'm taking a vitamin D and A B 12 and I have the iron. So I was just wondering what I should do, so I don't mess up this test because it took a while to make the appointment.
+Patient: Right. You'll continue to take all of the supplements you've been taking, um, that way when we do the test, if they come back in a normal range, we know that those supplements are helping you and we don't need to do anything further as far as like prescription, uh, strength.
+Nurse: Oh, ok. Oh, good. That's a very logical, uh, answer. Thank you. Ok. You
+Patient: Also need to be fasting. I'm not sure if she told you that. Uh, yes,
+Nurse: 12 hours she said. Is that correct?
+Patient: Yes, you can have water and black coffee.
+Nurse: Ok. 12 hours. Water, black coffee. I'm writing this down and that's it. Yes. And
+Patient: Then, uh, your appointment with doctor is on the [PHI-Personal]. That's what I'm sure.
+Nurse: So, I'm taking my blood test on the [PHI-Personal], which I believe is more than ample time, uh, for her to get it. I'm told it takes just a couple of days.
+Patient: Yes. That should be plenty
+Nurse: Of time. But I'm giving extra just to be sure, you know. Yeah. And then, yeah, you never know. And then also what I did is I rescheduled the, uh, what is she? Oh, God, I can't think. And endocrinologist and the cardiologist for that week as well. So, they'll, they'll to have the two of them will have the updated, uh, blood test because I think it's been a year. It, has, it been a year since I took blood tests? See, I remember
+Patient: Almost, uh, so your last set of labs was [PHI-Personal] of last year. So it's just a couple days off. So, yes, almost a complete year.
+Nurse: And is that normal, is that a normal thing? I'm [PHI-Personal]. Uh,
+Patient: Typically it's once a year. Um It just depends on what all you have going on. Uh Oh, ok. Every three months, six months or once a year is
+Nurse: Typically the range.
+Patient: So as long as that's what your doctor has decided on, you're
+Nurse: Good. Ok. I have another question. Oh dear. He escaped my mind. Oh, I know I was going to ask Nicole. I uh I, I qualify to get, is it a second booster or a third booster? I think it's a third booster. Is that what ca it came out the spring of um COVID? Was it a third booster? Cause I think I had the two boosters. Anyway. I am scheduled to have a mammogram at uh on the [PHI-Personal], which is [PHI-Personal] and I was held taking the booster because that, uh you have to wait, I don't know, six weeks or whatever, you have to wait because it can, um swell up or whatever. Uh I don't know what the word is. It makes, make your lymph nodes bigger swell
+Patient: Up, enlarge your lymph nodes and that's
+Nurse: It. Thank you. Think of that word enlarged. I got swell. Ok. So, um I was wondering what is the, would it be advisable for me to get the booster or should I wait until the fall when they come out with a new newly configured one?
+Patient: Really? I think that would be your preference. Um I know from my experience I did have enlarged lymph nodes especially. Um and I know it's weird but it was in my collarbone and they will check your lymph nodes there. Uh because that can indicate that you have a problem with your breast. So, since you're going for a mammogram, I would wait until after you. Oh
+Nurse: Yeah. No, no, no. I know that I know that. So I thought I would ask after the mammogram. Do you recommend me? The question was really, do I get number three of the same formula or do I wait until the fall for the newly configured formula? Supposedly they're redoing it, right? Is that correct? Something like that in the fall? They, I don't know.
+Patient: Yeah, you could go ahead and get um a booster to protect you until the new one comes out in the fall.
+Nurse: Ok. Um I read somewhere that some people were saying, oh no, some medical people are saying if uh something about if you get the third booster maybe then you're, you're, you're overdoing it or something to that. Effect and maybe you should just wait for the fall booster. Um, I mean, I don't have to make my mind up at this point, but I was curious about it and then how long do you have to wait before between boosters? Like if I got it, like, say [PHI-Personal] and it comes out [PHI-Personal], would I be able to get it in [PHI-Personal]? Uh, let's see
+Patient: Here. Um, I'm trying to look it up and see the, uh, information is ever changing. I'm sure as you're aware
+Nurse: I never did get, well, I have not, I should say it that way. I have not gotten COVID. I, one of the few people my age who haven't gotten it because I was very, very careful.
+Patient: Let's see. And you had Pfizer vaccinations?
+Nurse: Yes, pfizer.
+Patient: Ok. So it will be at least eight weeks after each booster. So, you've had the initial two and two boosters. Uh, so you could get one in [PHI-Personal] and then this fall in [PHI-Personal], you'll be eligible again.
+Nurse: Ok. I didn't, I didn't know if the duration was eight weeks or longer. You know,
+Patient: That's what I'm on the CDC website and that's what it says eight weeks, um, after each dose.
+Nurse: And also I've, I've read that few people are getting this third booster. Have you heard that?
+Patient: Yes, a lot of the patients I've talked to. Um, I've had, it's about half and half. I have about half that are getting it in half. They're not. Uh, and I'm not sure what your doctor is recommending, but I'm happy to message her and ask her recommendation on it and keep you updated. Uh
+Nurse: Yeah, if you wanna do that, that would be good because my only next time to see her is [PHI-Personal], whatever it is. Third and 00 no, no, no, you don't have to do that. I just thought about it. Um, because I'll see her, I'll put that, you know, on the list. How's that?
+Patient: Yeah, that'll be fine. And if you have, uh, I'll look up and see if I can find any more information on it and I'll send it to you in the mail. That way you'll have a reference for your appointment.
+Nurse: That's great. Great. And then I believe, um, Nicole said she was gonna call, she was gonna call me, uh, let's see, I don't remember, but
+Patient: She's got it scheduled for [PHI-Personal] to follow up
+Nurse: With you. So that'll be fine. Ok. So this, this doesn't supersede that appointment. The, this, these questions I have. No, you're good. She'll still call, she'll still call. Oh, good. Ok. Well, that's great. It's so I have to tell you it's a great service. I love it. It's great. Wonderful. Hear that. No, no, really. It's just, you know, because think of that I'd have to call the office, I'd have to try to find, uh, the P A or whatever and then they would have to find, you know, it wouldn't be automatic, wouldn't be immediate, you know, they get back to me the hassle. Yeah, it would be. And also I'm told that she's working part time. She's not there five days a week. Oh,
+Patient: Really? I,
+Nurse: I think that, I think that's what they told me. Um, if I had to guess I'd say maybe it's Children or something, you know? I don't know. I don't know. Um, but I, I, that's, I was told, uh, that she was part time. Ok. So I thank you very much and have a good weekend. And I'm glad I called because I thought, you know, I'm gonna get the answering service. I should call and I said, well, who knows? Who knows? You're
+Patient: Good. I needed to talk to somebody anyways. Oh,
+Nurse: Good, good, good. And are you in the Midwest? This is an hour earlier than my, my time.
+Patient: It is an hour earlier. I'm in, I'm in the deep [PHI-Geographic] so
+Nurse: I said it's all I heard it. I heard it. Yeah, it's very prominent. Yes. Yes. Ok. Thank you very much. You're welcome.
+Patient: Have a good weekend. Ok. Bye
+Nurse: Bye bye.

@@ -1,0 +1,12 @@
+Nurse: Hello, this is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal] July speaking. I'm getting back to carry. I got the call from the care team. Oh, I, I
+Nurse: Think it's [PHI-Personal] now. She's your.
+Patient: Ok. No, just tell her everything is great. No problems.
+Nurse: Ok. Well, I have to, I will let her know that you called here. I can try to transfer you to her. She might be on her phone.
+Patient: Well, it rain pretty often but I'm I'm good.
+Nurse: Ok. I know she needs to go over beginning of the year stuff with you. That's why she was calling.
+Patient: Oh, well, and if you can transfer transfer.
+Nurse: Ok, let me try here.
+Patient: Ok.
+Nurse: All right. Well, she's not answering her phone. I'll let her know that you called. All right.
+Patient: Have a good day. Alright, thank you. Thank you. Bye bye now.

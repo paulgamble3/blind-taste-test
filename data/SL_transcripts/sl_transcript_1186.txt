@@ -1,0 +1,18 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Hello. This is [PHI-Personal].
+Nurse: Hi, my dear.
+Patient: Got everything taken care of quickly. Uh, there are two things that were ready and, but, and it wasn't the pharmacist but that they took everything kindly. And, uh, so I told her to cancel the Butalbital. So, uh, if you could have that one, um, sent over right away and see, because they said they had them in the store and he, the pharmacist asked me for what the, uh, whatever you call it, the dosage was. And, uh, it's the correct one. [PHI-Account]. And so I guess, I don't know, I guess you start with a new amount because, uh, Doctor [PHI-Personal] is allowing me to get refills of like five. So. Oh, ok.
+Nurse: So we, yep, I sent them over to the uh pharmacy. Ok.
+Patient: Ok. Thank
+Nurse: You. You're welcome my dear. I
+Patient: Think they can have them ready today or I guess I saw their hours are 9 to 9. Ok, perfect. So I'll call them and find out.
+Nurse: Ok, sounds good. And then I, so you do you still need the Januvia sent over, um, or you get that from CV S. Yes. The Januvia.
+Patient: Yes. And that's all for now. They had two that were ready for pick up.
+Nurse: Ok. So just the Januvia
+Patient: And this and so they're ready. So I have my son pick those two up then, uh, drive across the road and get together. But I'll, we'll call and make sure. Ok,
+Nurse: So you do need the Januvia sent to the Y Yes, please. Ok. All right. I'll send that over right now
+Patient: And I don't know if I'm repeating but I told her not to so anything. Ok,
+Nurse: Perfect.
+Patient: Ok.
+Nurse: All right. Thank you. Alrighty. And I just sent it over so if you need anything, give me a holler. Ok. Ok, I will.
+Patient: Alright. Bye bye.

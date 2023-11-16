@@ -1,0 +1,26 @@
+Nurse: Hello.
+Patient: Hello. Is, is this [PHI-Personal]?
+Nurse: This is [PHI-Personal].
+Patient: Uh, I work for [PHI-Personal]
+Nurse: For [PHI-Personal].
+Patient: Yes.
+Nurse: Um, I'm not sure who had called you mister, but this is [PHI-Personal]. Um, from your doctor's office. You can I help you with something?
+Patient: Oh, yes, I'm trying to find, when is my next appointment?
+Nurse: Ok. Hold on, give me, give me one second and I'll look that up for you. Ok.
+Patient: Ok. Uh, uh, which doctor are you representing?
+Nurse: Doctor [PHI-Personal]?
+Patient: Ok.
+Nurse: Hold on, let me, I'm getting your chart pulled up. Nice with you. Your BP looked like it was pretty low this morning.
+Patient: Yeah,
+Nurse: It looks like I'm looking at it. It was 86/63. You feeling ok today?
+Patient: Well, I check it twice first. It was, uh, was too tight over 200. So I loosen up a little bit. It was like 11 55. That would be ok.
+Nurse: Yeah, I'm looking, um, it was 85/63 then it looks like it went up to 95/61. But your pulse is still really high. Um, your, uh, your next appointment with Doctor [PHI-Personal] is on [PHI-Personal] and it is at 4:40 p.m. Ok. But you do have a [PHI-Personal] appointment on the ninth on [PHI-Personal]. It looks like at 1 30. What,
+Patient: What about the, the screen?
+Nurse: Uh, your [PHI-Personal] appointment is [PHI-Personal] at 1 30. [PHI-Personal] 1 30. Yeah, this [PHI-Personal] the ninth that's coming up at 1 30. Ok. Yep. And your appointment with her is at the end of the month on, um, [PHI-Personal] on [PHI-Personal] at 4 40.
+Patient: My appointment at 1 30. So
+Nurse: [PHI-Personal] at 1 30 your, your actual appointment with her is uh [PHI-Personal] at 4 40.
+Patient: Ok. And uh, what's the name of this [PHI-Personal]?
+Nurse: Uh You can the Sun City [PHI-Personal]. It's the [PHI-Personal] at the, that's at uh, the doctor's office at their location. Ok. So that's where you would need to go. Ok.
+Patient: All right. Thank you. Thank you.
+Nurse: Mhm. You have a good day. Bye
+Patient: Bye.

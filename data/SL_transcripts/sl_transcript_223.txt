@@ -1,0 +1,55 @@
+Nurse: How [PHI-Personal]. Hi, [PHI-Personal]. This is [PHI-Personal]. I'm returning your call.
+Patient: Hi, how are you this morning?
+Nurse: Good, good.
+Patient: I'm glad to hear it. I just wanted to follow up with you. I don't think I can close out your chart. Um, find you again on here one second. I'm sorry. Where did you go? Ok. So that was yesterday. I just wanted to look, I'm sorry, you spoke with somebody yesterday. I guess we enroll regarding your chronic care management. So basically long story short, I'm the nurse that would just speak with you. Time to time. I just wanted to call and introduce myself. Um, what, what's going on is a lot of providers are enrolling their patients in what's called chronic care management when they have, um, basically conditions that are chronic that we may not exactly fix, but we manage. So, like high cholesterol or, you know, vitamin deficiencies or, you know, BP, whatever the case may be. I like combed over your chart. But, um, those things are considered chronic, right? So, so when you go see [PHI-Personal], um, from time to time, I know she may tweak medications for you. She may ask you to make, um, lifestyle changes or give you recommendations, et cetera. I'll call you from time to time and just check on you to see how you're doing, see if you've implemented those changes or see how you feel, especially if she's tweaked your medications, those types of things. Um, I can also assist, um, other than I, I reinforce some education pieces but, um, I can also assist, say you wake up [PHI-Personal] and you just don't feel good, you don't feel quite right. You might not even know if you should see, you know, a care provider. I know a lot of people try to tough things out but you can call me, you know, and we can work through the symptoms. I just triage [PHI-Personal] on the back end and I'll say, hey, you know, mm ner woke up this morning and she's feeling, you know, Xy and Z, do you wanna try something over the counter, et cetera. [PHI-Personal] will say, you know, whatever her recommendation is, if she says book you an appointment and then I'll just book you an appointment. Also assists with um medication refills. Should you run out anything like your Xarelto? I know you can always call the office. A lot of people use the portal, but I'm just another option. You can call me same concept. I just send a message to [PHI-Personal]. Hey, she needs a new script sent to her Pharmacy of Choice. We do that like normal. Um, if you happen to see any specialty providers for any other reason, like if you see a cardiologist, dermatologist, eye doctor, whatever the case may be. Um, I know sometimes how can I say this in a nice way? They all have their own agendas and sometimes I know they don't communicate the best with each other. So if you have something going on, you can always just share with me, I can update your primary care, update your notes and everything. So everybody's basically on the same page with what's going on with you. Ok. Ok. The only thing I really need to do with you is just verify your meds. It doesn't look like you take a whole lot, a lot of vitamins. So, do you know your medicine by
+Nurse: Heart Xarelto? 20 mg? Yep.
+Patient: And that's one tablet by mouth daily? Ok. Vitamin D three. No, you're not taking that
+Nurse: Or? Yeah, I, no, no, I never did. Ok. I just took the vitamin D over the counter and then she told me last visit to stop
+Patient: To not take it. Did she say why I'm curious?
+Nurse: She, uh, my vitamin D level was a little high.
+Patient: Oh, ok. Oh, ok. Ok. And then you've got a probiotic, you take one of those daily.
+Nurse: No,
+Patient: No. What about a multivitamin?
+Nurse: I was. But when she asked me to stop taking the vitamin D, I quit, I quit the multiple vitamin. I'm staying off that for like three months. That's, she didn't advise me. I just decided to do that.
+Patient: Ok. All right. What about the, uh, omeprazole? Are you taking that? I take that daily. Ok. 20 mg. Just once a day. Yeah. Ok. And that's just over the counter.
+Nurse: Yeah, that's over the counter.
+Patient: Ok. What about you take an additional vitamin C supplement?
+Nurse: Yes, I take a vitamin C daily.
+Patient: 1000. 1 daily. 1000. Ok. And the only other thing else I saw on there was, uh, you told me the Xarelto stool softener. Do you take that daily?
+Nurse: No, only when, only when I feel I need to. But since I've been going to, um, the pelvic floor therapist, that's been helping a lot. Ok.
+Patient: All right. And then Tylenol as needed. Yeah. Ok. Um, I don't see anything else so perfect. Anything else we might have missed?
+Nurse: No. Ok. Um, well, did she, did, I did give her permission the last time to take the CBD Gummies for my joint pain.
+Patient: Ok. How frequently do you use,
+Nurse: Uh, once a day? Ok. Yeah. These are, um, cornbread or Organic, CBD Gummy 300 mg. Ok.
+Patient: Or Red Organic. That's the brand. Ok. Yeah. All right. Um, and then how do you normally take your meds every day? Do you have them in, like, in
+Nurse: The morning? Ok. Yeah. Yeah.
+Patient: Like a weekly
+Nurse: Pill box. Yeah, I do that.
+Patient: Do you see any outside providers other than [PHI-Personal] for any reason.
+Nurse: Um, I haven't for a while. The only one outside [PHI-Personal] was, uh, I saw Doctor [PHI-Personal] ears, nose and throat. Uh-huh. But that was a couple of years ago. She was keeping an eye on my thyroid. Ok. Do you say other
+Patient: Than like Xarelto outside? Like a,
+Nurse: Um, I went down, I, uh, you'd have to look back on my chart, to be honest with you, I had saw a, uh, I don't even know what he was circulatory doctor down at [PHI-Geographic], but he's no longer down there anymore for when they discovered the blood clot. And then I had, I had an issue with it going to my lungs. So that's why the, huh, I don't know. I can't remember. Well,
+Patient: I know. Well, you've got to give yourself [PHI-Personal] for two years with the pandemic. Where do those two years even go? Because you'll say, oh, that happened last year and then you realize like, no,
+Nurse: It happened, this happened in [PHI-Personal].
+Patient: Yeah. Yeah, that looks like doctor. I think that's the note that I'm looking at now. So,
+Nurse: Yeah, like I said, I can't remember his name but that, that's, you know, that II, I was just referred to go down there and then they had recommended that I stay on Xarelto for life. Yay.
+Patient: Ok. All right. All right. Anybody else that you might have any eye doctor or anything?
+Nurse: You see? No, I haven't. Well, I usually go to the eye doctor every two years and I just go and, and that changes too because I just hear him in tore though.
+Patient: Ok. All
+Nurse: Right, I'm due, I'm due to go back soon, but I'm the one that if I don't have an issue, I don't go.
+Patient: I understand. I understand. Um, and then lastly, let's see, I'll just need to verify your medica, your pharmacy of choice. Let me see who they have up here. They got Walmart.
+Nurse: Yeah, Walmart in Burg and because of the Xarelto has been so expensive. Heer has been giving me samples. It went up from $47 the last time I had to pay to 100 and fif 61 something like that and I, I can't do that. So she's been giving me my Xarelto.
+Patient: Wow. Oh, that's stressful.
+Nurse: Yeah,
+Patient: That's for like a 30 day
+Nurse: Supply or not. Yes. I mean, if it was 90 days I could understand it. Mhm. But 30 days. No. Yeah,
+Patient: I understand. Um Have you had any recent or unplanned care, health care activity in the past month? Like have you been to an urgent care hospital or anything that you didn't plan to?
+Nurse: No.
+Patient: Ok, beautiful. All right. Well, I think that's everything that I need to harass you with today. Um I did your meds. We'll update this and I, yeah, I don't see any upcoming appointments for you with [PHI-Personal] until um [PHI-Personal] is what I see. So, ok, I'm going to send you a letter in the mail and it'll just encompass um, what's called like your wellness goal. So the things that you do yearly anyways with, see your primary care provider, your routine labs, those type of things, um or any other recommendations [PHI-Personal] has on there for you. Um Also it'll have my contact information, my name and my phone number. I'm here. [PHI-Account]. Feel free to reach out to call me if there's something you think I can assist you with. Um, I even may send you a letter if I can. Um, I don't wanna promise something but, um, I'm gonna look into, um, sometimes they have information that can help save money with prescriptions. So if I got a little time on my hands, I'm going to dig around for that because that's that [PHI-Account]. Just, yeah, it's
+Nurse: A little steep. No. Absolutely. It's, and I'm working a market for me. We don't make very much money. I under,
+Patient: I understand. And even if you do, that's not the way that you wanna spend it. Right. I always
+Nurse: That you keep me alive. Yay. Yeah,
+Patient: I get that. I get that but I think it's everything that cost, you know, that we need. Those are the things that cost the most if you ever noticed, you know, like you need to urinate, they're expensive. You need expensive, you know. So they know they know fortunate I hate it. Um but yeah if I find out anything I definitely I'll I'm gonna send it to you in the mail as well, so don't be surprised um but again I'll just out to you and if you need something do the same. Ok.
+Nurse: Ok, thank you very much so much.
+Patient: You have a good day, Miss [PHI-Personal].
+Nurse: You too. Bye bye. Alright bye bye.

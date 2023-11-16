@@ -1,0 +1,67 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. It's, I think you just tried to call me.
+Nurse: Yes. Hi. Um, so I, I'm, uh, the nurse case Andr with that, uh, [PHI-Geographic]. I was calling your mother. Uh, about your mother [PHI-Personal]. Uh huh. I was just calling to do her monthly check in. How has she been doing? Really good. Yeah.
+Patient: Now I, I mentioned on that but she did not know who you are. So, it must, you must be through [PHI-Personal] Insurance,
+Nurse: Huh? Ok. Um, I mostly see doctor [PHI-Personal] patients and I mostly talk to, to doctor. Um, so it is, it is. Uh, it's like, and I work remote so, like I've never actually talked to that.
+Patient: Ok, because she didn't know any. I said, yeah, your care manager or whatever she said, I don't know what you're talking about. Ly? Ok. All right. She said it must have come through doctor or in an [PHI-Personal] insurance.
+Nurse: Yeah. I mean, all my, all my notes are in there. So if she ever wants to go to the case management section of the chart, um, it's,
+Patient: Yeah,
+Nurse: I work, I work remote. I live in [PHI-Geographic]. So you know, she doesn't see she doesn't
+Patient: Me. Yeah.
+Nurse: Um yeah and I cover, I cover a different family practice uh centers too, so not just um this one. Yes. Um and then could you verify um your mom's date of birth? I have her chart open.
+Patient: Uh huh. July 24th, 1936.
+Nurse: Thank you. Um let's see. So, so she came in for um a transition of care appointment basically because she'd been, you know, in the hospital and in the nursing home, um, let's see. Last time I talked to you, she had a little bit of a fall, um, or not, not really a part. She's recovered
+Patient: From that. Yeah. Yeah, she kind of sat that. She, she's back to normal.
+Nurse: Ok. Good. Yeah, her labs were really good. Her, her A one C was down, um, to, it was like 6.7. Um, I think it was, yeah, it's, they left, there was a note saying they left a message with the results but yeah, 6.7 for her A one C which is really good. Um, let's see. How have her blood sugars been running at home?
+Patient: Um, the lowest we get is like 1 18 and the highest is like 1 80 and you know what, sometimes it doesn't even matter what she has to eat. Like last night we had ice cream and I don't remember. Well, what we had, we had roasted chicken. We had broccoli cheese soup. And now this morning her blood sugar was good. I mean, it was 1 37 so it's not too bad after eating all that. Yeah.
+Nurse: Yeah. And a lot of it, it, you know, it also, you know, activity levels matter. Um, and then, and, you know, I know you said she got ice cream but she also had, you know, serving size matters. If she also had roast chicken and, like, broccoli, that's a part of a balanced meal. It kind of, it's better to eat like, you know, um, the protein and the vegetable first and then do the carbs to try to help with portion control. Um, but if you have, um, you know, a meal that has like a balance and it's a complex carb. Um, you get less of a spike in the blood sugar. Yeah,
+Patient: That makes sense.
+Nurse: Yeah. Um, let me see.
+Patient: Um, and that increased amLODIPine up to 10 mg from five mg to 10 mg. And it seems like the BP to, it took a couple weeks for that really to start. But I really think it's starting. Uh, it's working because this morning her, her BP was 1 53/72. What was really good waking up before me?
+Nurse: Oh, before me. Do you check it again after her meds? What was it
+Patient: After today? And then it, it goes down to like 1 20 some afterwards after like an hour or two later. Yeah, but it was running like 1 90/80 something and that, that like that. So she increased the amLODIPine from five mg to 10 mg and we do see a heart doctor on [PHI-Personal]. They canceled their one appointment which was supposed to been today actually. But you know how that
+Nurse: Goes. Yes. Yep. Um ok, that's good. So [PHI-Personal], I'll put that in the notes. Yeah, you really want. So, I think the goal is to have the top number under 1 40 the bottom number under 90. So, just keep writing down her before meds and then like her after beds number too and bring that to her because they might have, like, a better idea for
+Patient: Getting that. Yeah.
+Nurse: Yeah. Have you, has she been, have you weighing her for her daily weight or no?
+Patient: Actually? Really good. Yeah. Yeah. What's, are running 1 73? 1 74? I see, at night her legs are more swollen but in the, in the morning they are, they're good.
+Nurse: Yeah. And if, if she's, um, I know, especially if she's walking around a lot during the day, you'll definitely see more swelling. Try to have her, you know, whenever she,
+Patient: Yeah, we were doing a lot of exercises standing up at my sink yesterday. Yeah. Yeah. Yeah. Any, and,
+Nurse: Yeah, any time she sits down though and has a break, try to get her to prop her legs up, like, you know, maybe on a stool pillows, things like that. That'll help.
+Patient: Yeah. She watches her soap and her good. Uh,
+Nurse: How, how's her anxiety been with the, with the really good, really good? Ok. Let me look. Did, did they do, um, did they do like a depression screening when she came in? I'm just looking over the notes. I'm not seeing one.
+Patient: I know, I know her. Yeah. And she's not depressed.
+Nurse: Yes. Ok. Good. Um With, with anxiety, with an anxiety diagnosis. Um It is good to um every once so often uh do like a um it's called the D seven but it's a, it's a screening tool and it kind of gives a number on anxiety. So, you know, if she's always a little bit anxious, I can kind of tell you like give you like a number like, oh it's, you know, it seems she maybe seems a little bit worse. You can kind of helps to track it. Um Would it be OK if I ask you um the questions? It's like it's um it's like in the past two weeks, how often has she been bothered by the following problems? And you say like not at all or several days, over half the days, nearly every day, the
+Patient: Reason and that put on that anxiety, the Lexapro was because of her tremors, you know, her shaking. So then we were on the propranolol here. Jo I'm taking care of my father in law. Here. Sit here, [PHI-Personal]. I see it. Ok, thank you, [PHI-Personal]. He sees every little speck of dirt in my house. Oh, gosh. Yes, I do. Yeah. Right. Ok. Have a seat there mister that be too. He doesn't go to family practice. All right. So have a seat here. Ok. I know what you're saying. So, at the nursing home, um, they put her on propranolol, um, and that has really helped her shakiness, you know, her tremor, they call it essential tremors. And I see her only very seldom does she shake and at home even on the Lexapro and, and then that put her on the Lexapro just for her that, but I don't even know if she needs to be on that, but I, I won't go there.
+Nurse: Yeah. Well, this, this kind of helps to the, the screening tool, like, if it kind of helps to give a number. So you can say, oh, yeah, it's very well controlled. We can try, try weaning it off if
+Patient: You want to get on that. Are you gonna email me that or send it to me?
+Nurse: I can just ask you the questions real real quick. Just like in the past two weeks, in the past week. How many, how many days does she seem nervous, anxious or on edge?
+Patient: Oh, I don't remember. I don't think hardly at all.
+Nurse: So, like several days or not at all. Not at all. Ok. How many days has she not been able to stop or control worrying.
+Patient: I don't know. What do you think? Mom? I, have you on speaker? I mean, um, I don't know. Do you worry a lot? Mom? No, not really. But, I mean, you can answer the questions. Can she answer
+Nurse: The question? Yeah. No. Absolutely. That would be, that would be better.
+Patient: I mean, she gets worried. I'm not saying she doesn't, I mean, like, if I think it's gonna be worse this winter when we go out in the ice, I gotta have a solution and that might be, but it's pretty normal. Ok. Um,
+Nurse: Just have you, but have there been any days where you had a hard time stopping or controlling worrying? No. Nope. No. Um, have, uh, any days where you worry too much about different things. Not just one thing.
+Patient: Not that I know of. We pray a lot. We get up in the morning and pray, you know,
+Nurse: Good things go, um, any trouble relaxing.
+Patient: No, I don't think so good.
+Nurse: Any days where it,
+Patient: Like, mean at night, huh? What, any days you have trouble relaxing thing? I don't think so. Half the time I look at her and she looks like she's dozen. So I don't think she's nervous about anything.
+Nurse: Ok. So, no, so, no days where it was so hard rest where she's so restless that it's hard to sit still. No. No. Um, has she had any days where she was easily annoyed or irritable. Not that I know of,
+Patient: She doesn't say if she is or she doesn't act
+Nurse: It. Yeah. Or any, any days where she felt afraid that something awful might happen.
+Patient: Have you ever felt like that, that something might a awful might happen? Are you nervous about something? No?
+Nurse: Good. Ok. Yeah. So, she's, she's doing really well and this, this is good mostly for, um, a baseline. So, if, um, you know, if, if we do start having worrying, we can say, well, you know, this, this wasn't how we were, you know, six months ago. So it's mostly like a tracking, it's like a tracking tool basically to see how things are going. Um Yeah, pray, praying is a good way um to manage things. Um, you know, just doing duty
+Patient: If she was at home, you know, living by herself, you know, and then I think you have more anxiety because then somebody would be there if she wasn't sure if she felt good to her stomach or something like that. So I think we have it pretty much under control. Good. I mean, for the time being, I guess we do one day at a time. But
+Nurse: Exactly, and, you know, I'm just, you know, we're just checking in just to make sure everything's still going well because you don't wanna, you know, let, not realize that we're having, you know, more anxiety and let it, you know, keep going. So, just to check in. Um, let's see. Does she
+Patient: Put the phone number my contact then? Yeah, absolutely. This is your personal phone number for work.
+Nurse: So this is, yeah, this is my direct line. I'm here Monday through Friday from 8 to 4 30. Um, and if I'm ever, if I'm ever on another call and you have to leave a voicemail, I can usually get back to you within an hour. Um Does she, does your um does she need any refills? Is there like anything I can help with any medical concerns?
+Patient: Uh No, I don't think so. We got to go to Walmart and pick up her insulin. Uh and, but other than that we everything's good. I I do her pills once a week. We don't need anything that I know of
+Nurse: Good. All right, that's, that's, that's good. Um if you think of anything though, this is my number so give me a call and if I don't hear from you, I'm going to give you a call around, you know, this time next month just to see how she's doing. Ok.
+Patient: Alright, sounds
+Nurse: Good. Ok, well thanks for calling back
+Patient: Weather. We have [PHI-Geographic] weather up here too.
+Nurse: Oh, it's, it was, it was kind of chilly last week. It was in the [PHI-Personal]. It was rough. Oh
+Patient: My, we feel so bad for you.
+Nurse: Thank you. I appreciate that. It's, it's been very hard for me. Yeah.
+Patient: Ok. Thank you, [PHI-Personal]. Ok. Have a Good day. All right. Bye
+Nurse: Bye bye.

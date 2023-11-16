@@ -1,0 +1,5 @@
+Nurse: [PHI-Geographic] Medical. This is [PHI-Personal].
+Patient: [PHI-Personal]. Good morning. This is [PHI-Personal]. Good morning. How are you? Have you had a chance, uh, to get my prescription filled because I called and, uh, it's still not filled.
+Nurse: Oh, my goodness. I think I'm probably gonna have to call, uh Gastro because I called the pharmacy and they said that they have sent it over. Um, but I haven't got a response. So let me call doctor's office and see what we can do
+Patient: Because they, they s office is trying to push me into getting the colonoscopy, which I said I would, but I have a whole year and now they keep calling and they're not filling my prescription if there's a reason why they are not filling it. I would like to know. Could you kindly call them and call me back? Thank you very much. And
+Nurse: You're welcome. Bye.

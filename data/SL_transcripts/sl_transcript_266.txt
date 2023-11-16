@@ -1,0 +1,25 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Hi, [PHI-Personal]. This is returning your call.
+Nurse: Hi, [PHI-Personal], how are you?
+Patient: I'm fine, thank you. How are you?
+Nurse: I'm good. Thanks for asking. Um Give me one second just to pull your chart up. Ok. Ok. All right. So [PHI-Personal], you're a patient with Doctor [PHI-Personal] at [PHI-Geographic]. Is that correct? Correct? Perfect. So I just need to let you know that this call is gonna be recorded for training purposes. Ok. Ok. All right. So I was calling to talk to you about Doctor [PHI-Personal] Care Management program. The Care management program consists of a phone call from a dedicated nurse who would call you in between your appointments with Doctor [PHI-Personal]. Your nurse would answer any questions or concerns, assist with refills appointments, lab results and anything else pertaining to your health. Your nurse would be an added resource for you and most importantly would keep Doctor [PHI-Personal] updated with your current conditions and any changes that may be happening. And the program also helps avoid emergency room and urgent care visits as you would be able to call your nurse directly with any medical questions or concerns. Ok.
+Patient: Ok. And would you be my nurse?
+Nurse: I would not be your nurse. Um, yes, I'm just, I'm just the one that calls and gets everything set up for the nurses. Ok. Um, I do need to let you know that the program is a billable service to Medicare, Medicare Advantage and secondary insurance carriers and the calls are subject to deductibles, co pays and co insurance. Now, just to confirm you have [PHI-Personal] Advantage and a $0 copay. Is that correct? Correct?
+Patient: Well, or do I have $5 copay?
+Nurse: Um let me see if I can take a peek at your card. Give me one second. I
+Patient: Don't I don't use it that often. So good.
+Nurse: That's a good thing. Huh. Right. All right. So the last,
+Patient: Well the wellness check I think I don't pay anything.
+Nurse: Ok. Yeah, so the last insurance card that I have scanned in your chart is from [PHI-Personal]. Mhm. And it says $5 copay.
+Patient: Ok. So, alright,
+Nurse: So there would be a chance you would receive a statement in the mail for that $5. Um but you would choose how frequently your nurse calls you you could choose to get calls on a monthly basis or in between your appointments every three or every six months. Would you prefer a morning or an afternoon call from your care management nurse? Uh
+Patient: Afternoon?
+Nurse: Ok. And is this the best phone number for your nurse to reach you at Yes. Ok. And then your address, I do need to mail you some welcome information. I have [PHI-Geographic] in [PHI-Geographic] Center. 33573.
+Patient: Correct?
+Nurse: Perfect. So I will go ahead and get this set up for you. Doctor [PHI-Personal] will see that we spoke and that you got set up with a nurse and that nurse will call you for your introductory call in the next couple of weeks. Ok.
+Patient: Ok, because I do have an appointment coming up with her, I believe.
+Nurse: Ok, I will look up that exact date and I will note in here that you have an upcoming appointment with the doctor. Ok. All right. Well, thanks for calling me back [PHI-Personal]. I appreciate it and I hope that you have a really great rest of your day.
+Patient: Well, you do the same and have a wonderful weekend.
+Nurse: Oh, thank you so much. You too.
+Patient: Thank you. Bye bye bye
+Nurse: Bye.

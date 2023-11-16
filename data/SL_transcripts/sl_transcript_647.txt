@@ -1,0 +1,27 @@
+Nurse: Good morning. This is [PHI-Personal].
+Patient: Uh this is [PHI-Personal]. Are you my nurse for [PHI-Personal]?
+Nurse: Um Yes, how can I help you?
+Patient: Ok. I last time I was in the hospital they put me on potassium. Well, I get my prescriptions from Optum Rx and I have called several times to uh office to get a refill and it has not been accomplished and so Optum X just called and said they're canceling it. So I need my potassium. Ok. What's your date of birth, please? [PHI-Personal].
+Nurse: Ok, let's see here. Hm. And you just saw Doctor [PHI-Personal] a few months ago. So I'm not sure why they wouldn't re refill it for you. Ok. So I will let me see here. Mm. Which medication is it? I know you said potassium but is it um does it have a specific name?
+Patient: Ohh. It just says potassium. Mm cl and then it has a sr and then it has MC TB 20 mg.
+Nurse: Hm. Alright. Hang on. So I've got, let me see if there's
+Patient: Like so it has come from Optum Rx before I've got it from them before, but I don't know why [PHI-Personal] office will not refill it.
+Nurse: Um, is it potassium chloride?
+Patient: It has cl, does that sound? Ok.
+Nurse: Yeah. Ok. So it's on one of your old, uh, let me see. Did they discontinue this medication for any reason that you're aware of?
+Patient: I don't
+Nurse: Know. Ok. Let me go in your med list and see if they, for any reason, got rid of it. All right. Um, do you see, um, you do see cardiology, correct?
+Patient: Yes, I have. [PHI-Personal] is my cardiologist, is my heart. Doctor [PHI-Personal].
+Nurse: Let me see. When was the last time you saw Doctor [PHI-Personal]? Roughly.
+Patient: It's been a while. I have an appointment coming up. I forget just when, but it's marked on the calendar.
+Nurse: Ok. Let me see. I'm just gonna send this in. Um, it looks like someone may have discontinued this medication for some reason. So, I'm gonna do some research here in your chart and regardless if you're still supposed to be taking it, I will call Optum Rx myself and give him a prescription. Ok. So I will do that. And are you complete? So I
+Patient: Go ahead refill on it. What was that? Can you find out why they're not refilling it?
+Nurse: Yes. Yes. I'll figure that out too
+Patient: Because they have contacted the office several times and they have not got a response. Hm.
+Nurse: Interesting. I'll take a look at that too and I'll see if there's any telephone encounters that would,
+Patient: Is not there every day now. She's, oh, I think she's only there for three days a week.
+Nurse: Yeah. But still her staff would be there. So that's, that's a little funky. I will. Um, I'll definitely look into this and if I hear anything I'll call you back regardless. Once I'm off of the phone with somebody. Um, it looks like the last time. Ok. So the last time you requested a refill on the potassium was [PHI-Personal].
+Patient: Oh, it's been before then. It's been like then it,
+Nurse: Yeah, then it said that the, um, I from, from them, but then it said that it was an early, too early of a fill. So it may have just been,
+Patient: I have called several times and they have, and Optum X has called several times. Ok.
+Nurse: All right. Well, I will call them, um, I'll send a new prescription in for it and I'll see kind of what the reason of, of it was. I appreciate that. And I'll call you back once I talk to somebody. Ok. All right. Thank you. All right. No problem. Bye bye.

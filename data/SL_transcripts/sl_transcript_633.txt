@@ -1,0 +1,49 @@
+Nurse: Good afternoon. This is [PHI-Personal].
+Patient: Uh, yes, this is, I just, uh,
+Nurse: Yes, ma'am. I was just calling with doctor s office just to call and check up on you.
+Patient: Sounds fine.
+Nurse: What's going on? You sound, you sound like something's going on MS [PHI-Personal].
+Patient: No, I just couldn't sleep last night. I'm very tired.
+Nurse: Yeah, I saw that you've been having trouble sleeping but that was a while back. Have you still been having trouble sleeping every night? Yeah. What are you, are you still taking the, the clonazePAM? And, and what are you take the, the Ambien? Are you taking all that still?
+Patient: Yeah.
+Nurse: Ok. Well, I saw that you had an appointment in [PHI-Personal]. Um, looks like the 20th is the last time you saw doctor [PHI-Personal]. Is that, does that sound about right? Yeah. Yeah, I'm looking it up here for just a moment.
+Patient: I, we did the
+Nurse: HydrOXYzine, the hydrOXYzine and other antidepressants and antihistamines weren't helping you sleep and that
+Patient: Doesn't
+Nurse: Work. Yeah. And that she put you on Ambien.
+Patient: I know it's a low dose. So
+Nurse: Let me see if I can maybe ask for a higher dose. Have you taken that before? She ordered it this time or is that a new medication for you?
+Patient: No, I took it before
+Nurse: And
+Patient: I only supposed to take five mg but I, I had another doctor prescribed a higher dose. When was that uh two years back?
+Nurse: Ok. So this is OK. So you've taken it before? How ma how many milligrams were you taking then? And was it working?
+Patient: I was taking 10
+Nurse: And was that working for you? Yeah. Ok. What I can do is I can see if I can send an office uh an office, a note to her office and see if she would be willing to increase it a little bit or if she wanted to see you first. I do see actually that you have an appointment on October [PHI-Personal]. Uh No, no, the 10th. Let me see here. 10. Yes. Yes. So what what I would recommend is whenever you go in on the 10th to let her know. Hey doctor, I appreciate that you ordered it for me, but it is not working and let her know that you took it before and how much you took before and see if she would be willing to increase it to that 10 mg.
+Patient: Yeah, I know I already had that talk with
+Nurse: And what'd she say
+Patient: It's doing any good? She said no, she said women always just take five mg.
+Nurse: Ok. So she wasn't willing to increase it. No. Is there anything else you've ever taken before?
+Patient: No, but I'm gonna ask her for a different medication when I get there.
+Nurse: Ok. You sound, you sound a little depressed. Are you a little depressed?
+Patient: A little bit? I'm not having a great time here.
+Nurse: What's going on, Miss [PHI-Personal]? I read in your notes that you had some family stuff going on in [PHI-Personal]. That was, that was pretty overwhelming.
+Patient: My husband's abusive. He's not being very nice. I, I'm in my room with the door locked.
+Nurse: Do you need help?
+Patient: No, I just stay away from him when he's angry for no reason.
+Nurse: Yeah. Has he, has he put his hands on you today?
+Patient: No, but he has in the past.
+Nurse: And have you done anything about that or are you too scared?
+Patient: I called 911 took pictures of it and he took them outside and lied and says it, I fell and he got away with it and I was disappointed.
+Nurse: Yeah. Do you call every time he does that
+Patient: Sometimes? But sometimes, uh, I just lock myself in my room and stay away from.
+Nurse: Ok. Yeah, that you need to, you need to be away from him. Is there anywhere that you can go? Do you have any family you can stay with?
+Patient: No. Oh, no way.
+Nurse: I can look and see if there's some local resources near you.
+Patient: No, I don't wanna go anywhere that at my health not giving up my share of it.
+Nurse: That's fair. I can understand that. Um, other than that I saw that your son had been missing for a little while.
+Patient: Yeah, they found them.
+Nurse: Ok. Ok. Well, is there anything else I can do for you, my dear?
+Patient: No.
+Nurse: Ok. My advice would be to, to do what you're doing, stay away from him whenever he's behaving like that. And, uh, I'll see if I can get you some resources, not even necessarily a place to go because I know you wanna stay there, but just maybe some resources where you can reach out and get encouragement and some help. Ok.
+Patient: All right. Thank you.
+Nurse: You're welcome, Miss Carol. You have a good day. Ok. Bye bye bye.

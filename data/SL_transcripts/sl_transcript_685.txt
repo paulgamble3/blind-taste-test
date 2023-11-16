@@ -1,0 +1,21 @@
+Nurse: Good morning.
+Patient: Hey,
+Nurse: Hello. How are you? Good.
+Patient: Sorry, I missed you. I had to ring her off. Oh,
+Nurse: It's ok. I just was looking at your chart quick. It looked like, I guess maybe that you don't have any refills on the Xarelto and the Flonase. That's what you're asking for and I need to ask for that. Do you need, you need to go? Ok. Do you need to get that?
+Patient: I, I have. Yes.
+Nurse: Yes. Ok. All right. And then, uh, is it usually [PHI-Personal] days refill? [PHI-Personal] days with refills for those?
+Patient: Well, a lot of stuff they've been moving in 90 days. But, uh, the Xarelto and yeah, those three have always been [PHI-Personal].
+Nurse: Ok. All right. So [PHI-Personal] [PHI-Personal] with other
+Patient: And I only have two Xarelto left for today or tonight tomorrow. Ok. But I've been after him. I don't know why. I, I could have sworn I called their office but I,
+Nurse: I don't know, but I'll, I'll send a message I know. Ok.
+Patient: Ok. Do what you can. And they said something about what they said about the Flonase that was a couple more days left on that. I don't know. I don't know what you do with Flonase that they have to worry about it uh
+Nurse: Insurance like insurance I know what it
+Patient: Is uh of course it is got nothing to do with me. Medical health
+Nurse: That you got this you got you're getting this to be a week earlier than it was last week so you're just gonna have to wait. Yeah uh.
+Patient: Alrighty you can help me out let you know.
+Nurse: Yep yep I'll do that. Do you wanna call, do you want them to call you when they send it over?
+Patient: Or wife usually text me and says that it's ready would they still do it the same way if somebody called it in normally text me do you want it? And then I press one for I want it. Oh
+Nurse: Ok I mean if that's the usual way of doing it um I would just I was gonna send a message over and then um for the office to call to let you know they sent it the script over so if anything happens
+Patient: That's probably better that way. Yeah do it that way I'll do that. Ok. Yeah. Alright. Alright thank you. You're welcome have a good day you too thank you bye bye
+Nurse: Bye.

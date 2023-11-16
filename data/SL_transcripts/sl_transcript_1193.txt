@@ -1,0 +1,18 @@
+Nurse: Hi [PHI-Personal].
+Patient: Hi, I'm sorry, I couldn't get out of the kitchen fast enough to answer the phone.
+Nurse: That's all right. If you get a message though, I just left you one.
+Patient: So, ok, if it pops then that's what it is. Yeah, I've got um the information that you need.
+Nurse: Ok. And you said that that plan is under [PHI-Personal], correct?
+Patient: No anthem
+Nurse: Anthem. That's what it was sorry about
+Patient: That. Yeah, this is [PHI-Personal] and I don't know what else that she said [PHI-Personal] duel something or other. I don't know, got a long name to it. Ok. You let me know when you're ready? Ok.
+Nurse: What's your ID number?
+Patient: Ok, so that's gonna be [PHI-Account] [PHI-Vehicle] [PHI-Account].
+Nurse: Give me just a minute while it's processing here.
+Patient: Ok. Ok.
+Nurse: All righty. Well, I got that set up. Um, so that's updated in there now. So we should be good to go. I would just um recommend next time you follow up with doctor [PHI-Personal] office, just take a copy of that card in with you so they can scan that into your chart.
+Patient: Yeah. Um there is a bin number and there is a PC N number and a group number. You want all that, I shouldn't
+Nurse: Need those, those the, the bin and the PC N that'll be more for your pharmacy.
+Patient: Ok. Ok, I understand then. Ok. Well, thank you. Alrighty,
+Nurse: Thank you.
+Patient: Ok, bye bye.

@@ -1,0 +1,20 @@
+Nurse: This is she?
+Patient: Hi, this is [PHI-Personal]. Did you ever hear back from doctor [PHI-Personal]? Let
+Nurse: Me check your chart. She hasn't sent me anything but I know one of the girls in the office was working on that for you too. So let me check your chart real quick. [PHI-Personal]. Ok.
+Patient: Ok, thank you. You're welcome. Just a second here. Ok.
+Nurse: Ok. So she had sent a message to the girls in the office. Um, look, it doesn't look like they've had a chance to call you yet, but she says that, um, she doesn't manage chronic pain so she can't refill any of your chronic pain medications for you. Is what she said. Uh, is there any, oh, my goodness. Is there anything else you want me to let her know or anything you want me to tell her?
+Patient: So, what can I, I mean, what can I do? I mean this is, yeah. Oh, yeah, I am miserable. Um, do,
+Nurse: Um, now I'm, I didn't do the scheduling so I don't know. Did the office call you and tell you when your pain management appointment was or did pain management call you? [PHI-Personal]?
+Patient: Pain Management called me and said the earliest they can get me in would be the ninth of next month. Ok.
+Nurse: Do, did they say anything about a cancellation list for them?
+Patient: No, no, they did not. Um. Ok. Do you still have not?
+Nurse: Where they called?
+Patient: You? Do I still have, what? Now,
+Nurse: Do you still have the phone number of the pain management that called you and scheduled you here?
+Patient: Uh, yes, I do have it. Uh, it's the office that's gonna be in. Um, um, yeah, in [PHI-Geographic].
+Nurse: Ok. Uh, the, the one thing I can suggest to you, [PHI-Personal] that, that I typically tell my patients when they have referrals and it's gonna be a while, um, contact them and see if they can you on a cancellation list or, um, if they don't have a cancellation list, I suggest to my patients to give them a call once a week and just see if they've had anything open up too. Uh, ok. So that, that way if there's any chance they can get you in sooner, you know, you'll be the, the first to know.
+Patient: Ok, that,
+Nurse: That's my, that's my first suggestion to you, uh,
+Patient: To see if we can get you in
+Nurse: Sooner for that. Now, um, if there's anything else, Doctor [PHI-Personal] can do anything of any other suggestions, I'll reach out to you and let you know. Um, but, but you go ahead and try to get on that cancellation list if they have one. Ok. All right. All right, I'm so sorry, sweetie.
+Patient: That's ok. Thank you. You're welcome. Uh huh. Bye bye.

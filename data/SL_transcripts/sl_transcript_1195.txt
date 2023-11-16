@@ -1,0 +1,46 @@
+Nurse: Good afternoon, [PHI-Personal]. How may I help you? Hey,
+Patient: [PHI-Personal]. Hey, how are you? Huh? How was your luck trying to call that? Uh,
+Nurse: Nothing. I mean, I left a message. So.
+Patient: Oh, ok. So that's two messages we've left. Ok. Oh, my goodness. I didn't. I tell you. No, that it was hard to get through.
+Nurse: Oh, yes, you did. Yes, you did. Oh, my God. I don't even know what I, I got hung up on first and then when I called back I just press different prompts. I, like, I'm like, I don't know if I'm leaving this for the right person. But, yeah, I'm looking for medical records and then need to get something sent over. So hopefully they give me a call back. Uh, I can always call them again tomorrow and bug them tomorrow.
+Patient: Yeah. Right. So, yes, ma'am. Yeah. Well, my ear, nose and throat appointment is the eighth doctor. Really wants me to go to that. Ok. Right. And that's the hospital.
+Nurse: Ok. Uh, physically writing it down. So I put it in later.
+Patient: I have one vocal cord that's paralyzed and missing a piece and I have one vocal cord that's tied together. But my voice now is getting really raspy. Ok. And there's, there's times when it's really raspy and I've been coughing like crazy, so I do think something's wrong.
+Nurse: Yeah.
+Patient: That's why I'm thinking about quitting smoking.
+Nurse: I mean, I'm definitely gonna encourage it. Um.
+Patient: Oh, yeah, undo it before it gets bad. Yeah. I've been smoking for 30 years or so. It's time.
+Nurse: Yeah. I think we put, like, so much, like, like it just becomes a part, like a habit, you know, like, it's just our habit and, um, you know, when you take away a habit you got to replace it with something else and it's hard with smoking because you go, like, well, now what do I do? You know? So, I know a lot of people that, um, they try to get really active when they quit smoking. So
+Patient: I just have to really get motivated, like, during my pregnancy with [PHI-Personal] and [PHI-Personal] I didn't smoke. Mhm. So, I just need to get properly motivated and know that doesn't mean getting pregnant.
+Nurse: Yeah. Ok. Darn. No,
+Patient: I'm too old. Too old. Too old. I was too old when I had [PHI-Personal]. No, I'm just kidding. Yeah.
+Nurse: What else? Think of something else that, you know, um, that's your motivation sometimes. I mean, sometimes patients will use, like, the physical factors, like, if they run into an issue they will. Um, but a lot of times it doesn't happen like that. Um, where you know, they, I mean, there's people who, you know, they've gotten a cancer diagnosis and they still will smoke and it's,
+Patient: You know what? I know somebody who's doing that right now. She has stage four cancer and she's smoking crack and cigarettes.
+Nurse: Yeah. Yeah.
+Patient: My boyfriend's sister, um, it's really unfortunate but she's, she's a few years older than me. She's probably like [PHI-Personal].
+Nurse: I got out. And, yeah, I mean, to, that is one of the hardest drugs I've heard to stop. Like, it's not a hard drug to stop, but it's a hard drug to stay stopped. Yes, because it definitely, that's one of the ones that will mess with the neuro transmitters real bad. Yeah.
+Patient: Yeah, I smoke pot. I am gonna try to switch to edibles.
+Nurse: Yeah, that's a good idea.
+Patient: The pot seems to help my bipolar and my epilepsy. I think in my opinion,
+Nurse: I would think so. I mean, it definitely, that's two of the biggest noted things. Definitely the epilepsy. Um, I mean, it's definitely been proven, you know, that it helps with it.
+Patient: So, I hope my landlord doesn't bust me growing a few, but I can't spend money on it.
+Nurse: Yeah. No, it's, I, it's definitely legal now. Um, there's so many, there's so many else. I think
+Patient: We can try seven. I think we can have seven plants and I need to look it up the legalities and just, yeah, the landlord see that he's gonna be like you need to move.
+Nurse: I'm in. Yeah. Yeah, I can always, you can always grow inside to, like, a hydroponic.
+Patient: Oh, I can't, I, I, my place is too small. Mm. It's too small. I have no room for anything like that.
+Nurse: Do you have a lot of land though? I feel like you have a lot of land.
+Patient: Yes, I do. Yes, I do. I rent a five acre lot. Yeah. And, but I do not have hunting rights, but he didn't say anything about growing marijuana. Hm. I'll just tell him, you know, if he bus me, I'm just gonna be like, it's good for my epilepsy and I don't spend money on that. I'd rather have the house.
+Nurse: Exactly.
+Patient: I mean, I'm a disabled single mom. I'm on a fixed budget.
+Nurse: Yes, you are. And if it helps it helps.
+Patient: Yeah. Well, I hope, um, that calls you back.
+Nurse: I hope so too. Definitely. And you know, it, it, uh, even if they don't, I could always keep on calling. I'm not a biggie.
+Patient: Yeah, see if I can get in before [PHI-Personal]. Um, but yeah, this is, um, your [PHI-Geographic] state license will be suspended indefinitely effective [PHI-Geographic] [PHI-Account]. Pending submission of required acceptable medical statements. The cause has failed to accept, submit, acceptable, that medical documentation. Terrible. So, I don't know what's gonna happen.
+Nurse: Yeah, you could definitely fight it, but you don't want to get to the point where you need to fight it and it's gonna be a lawyer involved because then it's just gonna be messy and too expensive.
+Patient: Yeah. Yes. All right. Well, let me know if you get in touch with
+Nurse: Them. Yeah. Yeah. And then write, um, write down all the, the dates the times that we called, um, who called, you know, to write me down today. Uh, nurse care manager called on a [PHI-Account]. Yeah,
+Patient: I don't know any. Well, I wish I had gotten the paperwork the day before I got it so I could have just given it to doctor. Mhm. But apparently they need my neurologist to sign it too and my neurologist wants to see me to sign it and I have my, like, yearly thing on [PHI-Personal]. Mhm. So, I'm hoping to get in before that.
+Nurse: Mhm. Ok.
+Patient: Yeah, I got a little girl. I gotta drive around like MS [PHI-Personal]. But my son is here to drive me around, like, Miss [PHI-Personal] just in case. Oh,
+Nurse: Well, that's good. You have a back up. Yeah, you just don't want a permanent back up.
+Patient: Yeah. Mhm. I'm grateful. But, um, let me know what's going on and it. All right. I'll talk to you soon. Ok. Thank you. All right. You're welcome. Bye. All right. Bye.

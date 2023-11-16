@@ -1,0 +1,35 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Yes, I believe I just missed a phone call from.
+Nurse: Uh, yes, hi, how are you? Pretty good. I was just calling check in, see how you're doing this month.
+Patient: Actually, I'm doing, uh, I'm doing very well. Uh, you know, pretty much same, same as a, as always. I am doing good. As a matter of fact, I was just sitting down to take my BP when I miss my, when I miss my call. I usually do. Actually, when I got it, my, uh, wife was in this morning to get a blood test. She had a tick bite and they were doing a blood test today over there. So I, I was thinking it was a call from having to do that maybe.
+Nurse: Right. No, no, just calling to check in on you. So you, do you have a BP cuff?
+Patient: Oh, yes.
+Nurse: Awesome. How often do you check your BP?
+Patient: Oh, pretty much every day if I miss a day, you know, uh, once in a while, but not often. Most of the time I, I take it in the morning, I usually take it about this time.
+Nurse: Perfect. And do you remember what your reading was yesterday?
+Patient: Yeah, it was 1 20/80. 0,
+Nurse: Awesome. That's exciting. And then, go
+Patient: Ahead. Go ahead.
+Nurse: Yeah, I was just gonna say, when you take your BP, we want you to make sure that you're seated with your back supported. Feet flat on the floor, legs uncrossed and your arm supported.
+Patient: Oh, that's exactly what, what I do. And as a matter of fact, matter of fact, I, I do usually, I, when I do that and I relax, I usually for a few minutes do some, uh, yoga mental exercises, you know, just relaxing, learning how to relax the body. II, I learned that 30 years ago and, oh, awesome. That makes a lot of difference that way. I'm always taking it under the same conditions.
+Nurse: Yes. Exactly. Well, you can teach a master class in this. I'll just have you call all the patients and tell them what they should be doing.
+Patient: Yeah. The biggest thing just be relaxed, you know?
+Nurse: Yes. Yes. I know. And we're horrible as nurses because at the office we're like, come walk back to this room, sit down, let's take your BP. Right. Yeah. Yeah. Which is not the proper way to do it. So perfect. Well, I'm glad you're doing what we're saying and not what we're doing.
+Patient: Yeah. And when, when I do that I went through that many times there, you know, you go down, you sit you have that little, few minutes when you're sitting in the chair, you know, waiting for, you know, uh, the P A or somebody show up. I sit in the chair with my feet on the floor and relax and do a little breathing exercises, you know?
+Nurse: Perfect. Well, I love it. You are just rocking it. How are your medications doing? Do you need any refills?
+Patient: I'm in good shape. Now. I did get some refills, uh the last couple of weeks on some things, you know, they kind of stagger the different stuff, but I, I mean I am in good shape and uh uh I'm, I'm fine, so I'm good.
+Nurse: Ok, perfect. And then I have your next appointment isn't until [PHI-Personal] with [PHI-Personal]. So I do have a while there.
+Patient: Yes. As a matter of fact, in June [PHI-Personal], we fly out to Lincoln, Nebraska to meet with, uh, have a little family reunion out out there and then, uh, when I, we're only gonna be there uh for about four or five days and then uh be coming back, so we'll be ready to get in the groove for all the stuff coming in [PHI-Personal].
+Nurse: Perfect. Perfect. Well, I will um hopefully catch you before your uh trip, but if I don't have a wonderful trip and we will talk to you after.
+Patient: Ok, thank you very much. I appreciate it. I appreciate your phone call.
+Nurse: No problem. Have a wonderful day and I hope your wife's blood test comes back. Well,
+Patient: Yeah, I hope so. The reason she's concerned about it, well, you know, I can walk in our woods and stuff and I never see a tick, you know, I have had a couple of tick bites in the, in, uh, past years, but I got them right away so they got them out, you know, and she's very careful about checking, but she had a tick bite. One of the real small ones and she was concerned because her sister in [PHI-Geographic], who we visit quite often, she was off work for a while and she went back and one of the people she'd worked with for years but hasn't seen him for a couple of years. He's quite a runner and stuff like that is a, she caught up with him last week and here to find out he's had a tick bite in his leg and it bothered it and it got worse and he ended up getting a liver transmitter. Oh, wow. Oh,
+Nurse: My goodness.
+Patient: Because of a tick bite. The, the, the, the infection from a tick bite. And he's, you know, we were always runners too and I know what he's doing, you know, his leg hurt and stuff and he put up when you're running a lot, you put up with, you know, you expect some discomfort, you put up with it, put up and he, I guess he just never suspected that a tick bite and that's what he ended up with the liver trans, you
+Nurse: Know. Oh, my goodness. That's crazy. But yes, it's never a bad idea to double check it and make sure nothing's going on.
+Patient: So that's why my wife had an appointment yesterday and they told her to come in today and get, you know, blood test because she, she is very, very worried about any kind of a tick bite. So that's
+Nurse: Good. Yes because it can turn so bad, so fast. Yeah, so I'm glad she's getting that taken care of. Ok.
+Patient: Well thank you very much.
+Nurse: You are so welcome. Have a wonderful day.
+Patient: You too appreciate we'll talk to you again. Alright
+Nurse: Sounds good. Bye bye.

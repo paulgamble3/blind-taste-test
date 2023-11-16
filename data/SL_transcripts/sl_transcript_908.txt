@@ -1,0 +1,13 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Hi, this is [PHI-Personal] calling. I received a message from you um, uh recently and saying to call you about some new program with Doctor [PHI-Personal].
+Nurse: Ok. Yes. So it looks like you qualify for Doctor [PHI-Personal] Care management program and I'm on a recorded line today. So what the program is is a nurse that would be able to give you a call to see how you're doing. The nurse is able to answer any questions, help refill prescriptions, she'll address any issues you might be having and also help with appointments, referrals and lab work, things like that. The program helps keep your doctor updated and all the calls the nurse makes. They are documented and sent to your doctor for review. They are also treated as a billable service to [PHI-Personal], [PHI-Personal] Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays
+Patient: They would be paying for this thing.
+Nurse: So the, you have the [PHI-Personal] and [PHI-Personal]. Yes. Ok. And I don't see any copay for you. Do you normally pay one when you see Doctor [PHI-Personal]? No. Ok. So you wouldn't have one for the phone call either.
+Patient: Ok. Um, I don't think I'm at that stage right now.
+Nurse: Ok. Well, this just gives you a nurse to reach out to directly if you would need anything and she'll essentially call around once a month to check in and how that helps update the doctor.
+Patient: Yeah. Um, see, I, uh, I mean, it sounds nice but I really don't think I need it right now.
+Nurse: Ok. Um, we also have every three or six month phone calls if one of those sound better for you.
+Patient: Um, as I say, I, I really think I'm um I I'm not in the need of that right now, so I'm just going to say no for
+Nurse: Now. Ok. Is that ok to send a letter out to the house that has some information and a phone number in case you need anything?
+Patient: Ok, that'd be fine.
+Nurse: Ok. Uh You're still at the three Beverley Road and Waterford, correct? Yes, I am. Ok. All right, Ruth. Well, thank you for your time today. I'll send out a letter. Alright, thank you. Bye bye bye bye.

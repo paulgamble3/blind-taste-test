@@ -1,0 +1,63 @@
+Nurse: Hello,
+Patient: [PHI-Personal]. Hello. Some
+Nurse: Days playing phone
+Patient: Tag becomes quite a task. How are you? I'm ok.
+Nurse: Good. Let me get back into your chart
+Patient: Here. Mhm.
+Nurse: All right. Let's see. You still have the Gateway and [PHI-Personal] for health insurance,
+Patient: Right?
+Nurse: Oh, and then you're still at [PHI-Geographic] in [PHI-Geographic],
+Patient: Right?
+Nurse: All right. Let me see here. So, last time I talked with you was [PHI-Personal]. All right. Let's see. So you were actually seen, um, where were you seen? Were you seen at like a, like a, a, like a ready Med clinic type thing? Yeah, on the 13th for that foot? Yeah. Ok. And that was left toe and they had started you on,
+Patient: In my left toe, my left foot, period.
+Nurse: Oh, yes. Sorry. Yep. Sorry. I read the word toe as I was reading to you, um, bottom of your foot by your toe. Sorry. Um, all right. And so they had started you on the predniSONE and they had got some lab work done, right? And then that came back that your uric acid level was high, right? And then they had said, let me see. Ok. And then they started you on the, I can't pronounce that word. That was the one that was just for two doses, right? Ok. And you took that medication? Ok. Right. And how's your foot now? Good. Good, perfect, good. Ok. And is there any pain left?
+Patient: No?
+Nurse: All right. That's great. Let me see here. And then have you had any other changes this month? You had a CT scan done of your abdomen uh, at the beginning of this month for you had an abscess on your stomach. Yeah. Ok. And then did they do anything I see the results in here? Did they do anything with that? Who ordered that test?
+Patient: Doctor? Um [PHI-Personal]?
+Nurse: And which doctor is he
+Patient: My um, gastrointestinal?
+Nurse: Ok. And then what are they doing about that?
+Patient: Uh Well, I'm supposed to see a surgeon on at,
+Nurse: Ok. So surgeon on next Tuesday.
+Patient: Yeah. Love it. I'm sorry, I'm talking to my son.
+Nurse: Oh, ok. Um And then have you had any other changes in here?
+Patient: No. Oh, no, a lot of things nice over there. That's where I went there with a big hole, big big hole in it. So you don't have to keep throwing the water out how much they want for you anyhow, in that be the girl on it?
+Nurse: Ok. And then is it ok if I ask you um, just to, I have to do like a little questionnaire. Is that ok? If I do that real quick with you?
+Patient: Yeah.
+Nurse: Ok. All right. So this is just in the last two weeks, how often have you been bothered by the following problems you can answer not at all, several days, more than half the days or nearly every day. The first question is, how often have you felt, nervous, anxious or on edge?
+Patient: Not at all? Good.
+Nurse: How often have you not been able to stop or control your worrying?
+Patient: Not at all.
+Nurse: How often have you worried too much about different things? Not
+Patient: At all.
+Nurse: How often, um, have you had trouble relaxing? Not at all? Ok. What about being so restless that it's hard to sit still?
+Patient: No, not at
+Nurse: All. Um, and then what about becoming easily annoyed or irritable?
+Patient: No, I don't think so. Ok.
+Nurse: And then what about, go ahead.
+Patient: Yeah, I said my son might think so, but no. Uh,
+Nurse: And then what about feeling afraid as if something awful might happen?
+Patient: Not at all?
+Nurse: All right. Ok. And then do you go to [PHI-Geographic]?
+Patient: Yeah.
+Nurse: Who do you see
+Patient: There? Um, what's his name saying? Doctor? Doctor? Oh,
+Nurse: My. What kind of doctor is he?
+Patient: Heart doctor?
+Nurse: Heart doctor? Ok. Do you follow with anyone else in the [PHI-Geographic]?
+Patient: Uh, the surgeon doctor?
+Nurse: Is that the surgeon you're going to see next Tuesday or is this a different surgeon?
+Patient: No, it's a different one. Ok.
+Nurse: Is that just like a general surgeon you follow at [PHI-Geographic]? Excuse me, the heart
+Patient: Surgeon.
+Nurse: Oh, heart surgeon. So you follow for, with the heart surgeon and a cardiologist at [PHI-Geographic]. Ok. All right. And then I don't
+Patient: See. Let me see here. Don't forget the dance.
+Nurse: All right. So toes good. That's
+Patient: Good.
+Nurse: Ok. Do you have any questions or concerns at all for me today? No. Ok. All right. And then do you want me, um, do you want me to continue calling every month or do you want me to call every other month? What do you prefer for? How often do you,
+Patient: Every other month would be fine?
+Nurse: Ok. All right. And if you ever wanna change that in the future, let me know we can change it back. But um, if I don't, you can always reach out to me as well. So if you uh ever need anything, feel free to call me too. Um, but other than that, uh, if I don't hear from you, then I'll call you back in a couple months.
+Patient: Ok,
+Nurse: Thank you. Ok. You're welcome. I hope you have a good, good rest of your week and a good holiday weekend.
+Patient: You too. Bye bye.
+Nurse: Thank you. Mm bye.

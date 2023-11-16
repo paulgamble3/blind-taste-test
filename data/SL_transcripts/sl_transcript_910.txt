@@ -1,0 +1,30 @@
+Nurse: [PHI-Geographic]. This is [PHI-Personal]. How can I help you?
+Patient: Hi, [PHI-Personal]. It's Barb [PHI-Personal] calling Barb.
+Nurse: How are you?
+Patient: No, how are you? I am fine. And your
+Nurse: Daughter? Oh, yes, we're both fine. We're ok. Um, yeah, we were kind of, we were a little sick for about two days. Um, I actually ended up getting, you know, that day I was talking to you and I said about the headache. Then the following day I had like a full blown migraine and then after that I was fine though. I have no idea what that was about, but we are better. Yes. So
+Patient: Thank you asking. Uh, I was like ready to, uh, you know, I'm not supposed to do this probably, but I was like ready to call you and say, how are you? No,
+Nurse: No, thank you. Oh, no, thank you. But no, I'm fine. I'm fine. It was just a, just a little bug, I guess that's going around. I guess that's, you know, that's gonna happen, I suppose when you have kids in school and such it's, you know, to catch it. So, but anyway, yeah. Yes, I'm doing better. I am
+Patient: Thank you. I'm glad to hear that. I kept thinking, oh, my gosh, she's got COVID. I know.
+Nurse: I know. I know. Well, yeah. And, you know, actually my husband had came down with like, um, you know, sinus pressure. He also had a headache, wasn't feeling great. So, I actually had made him test. So I said because his symptoms were worse than ours and, uh, I think he just has a sinus infection. But, um, I made him do an in home test and his came back negative, you know, and, and, uh, you know, paisley and I, we, ours only lasted about two days. So, like I said, we were ok. But yeah, it just seems like it's, you know, just something going around the house.
+Patient: Well, I'm glad. Yeah. Truly.
+Nurse: Yes. But anyway, so how are you, how, how is your throat? Um, is it still sore? How's everything going?
+Patient: Um, I tested negative on Monday now. I know it's Wednesday and I probably should do a second test. Um, because aren't you supposed to have two negative tests or something like that? Well, I mean,
+Nurse: In the beginning, yeah, in the beginning they, they said that but, I mean, as far as, you know, if you're, you know, asymptomatic at this point and you already had a negative test, I would think you're, you're in the clear.
+Patient: Ok. Ok. I, I am still concerned about my throat and the spots on it. So the only I take care of my grandchildren getting them off the bus every afternoon. So I'm kind of limited Tuesday, Wednesday and Thursday. Ok. Um, is, would he happen to have anything for Friday? Let me talk to.
+Nurse: Yeah, let me see what I can find here.
+Patient: And I'm also missing my mother in law so much. If I don't have anything, I wanna go see her for a few.
+Nurse: Absolutely. Yeah. Let's see here. Moving through this schedule can be so time consuming. I tell you, I'll tell you we could do that was today. Never mind.
+Patient: Mhm. I could do tomorrow morning. Ok. But, um, it would have to be, I mean, it just is another option but it would have to be like before 12 o'clock. Ok, because I've got to get, you know, an hour back and another 20 minutes to my daughter's, you know what I mean to try and take care of the kids.
+Nurse: We could do Friday morning. I have a 10 15. Um, that would be with [PHI-Personal] Stout. She's one of the nurse practitioners there.
+Patient: Ok. That sounds, that's, let's go ahead and do that just so that I can get, I don't know, a strep test or somebody to actually
+Nurse: See. Yeah, take a look at it and assess it.
+Patient: Absolutely and say there's nothing wrong with you lady. Just go
+Nurse: Home. Never thought it, it still should be checked. Yeah, it still should be checked. So, um, is it still pretty sore.
+Patient: It's, that's the funny thing about it. It doesn't really hurt. It's just, and now the spots, like you said, you kept saying they were white and I kept saying they were green. Well, now they look white. Ok. And there's a whole red dot. Ok. So it, I just, I'm concerned.
+Nurse: Yeah. Yeah, absolutely. I understand. Um, so, yeah, we'll do, we could do the 11th then at 10 15. So that's perfect. Ok. Good. And like I said, that's gonna be with [PHI-Personal] Stout. She's the nurse practitioner. Ok. And so she can check you out, swab you and just make sure it's not strep and, uh, you know, and, and, you know, it could be something else too related and like you, you know, I don't, you had told me before you injured that side, right? Yeah, about this. Yeah. Yeah. So it could be, you know, maybe you need a sinus x-ray again or, you know, just to rule out that it's not a sinus infection. But yeah, you should be, you should be good to go then and, um, yeah, we'll follow up and then I can follow up with you next week too just to see how everything went. And, you know, if you're feeling better at that point as far as was the mystery spots in the back of the throat.
+Patient: Ok. Sounds wonderful. All right. Good.
+Nurse: Good. Um, ok. Well, I will touch base with you then and if anything else comes up, feel free to give me a call.
+Patient: Ok. Ok. Thank you so much. You're welcome.
+Nurse: You take care.
+Patient: You too. Bye bye bye bye.

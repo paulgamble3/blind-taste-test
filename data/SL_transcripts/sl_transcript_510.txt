@@ -1,0 +1,56 @@
+Nurse: [PHI-Personal]. Hello. Hi, [PHI-Personal]. Can you hear me?
+Patient: Yes, I do now. Uh, how are you? I'm ok.
+Nurse: What's new? Anything?
+Patient: No, nothing new. Just, uh, same old, same old, same
+Nurse: Old, same old, huh?
+Patient: Yes. Not a bad. I, I'm hoping that this good weather that, that we have been having in November will stay to the whole of November and at least part of [PHI-Personal]
+Nurse: We can only hope. Right.
+Patient: Yeah. How are you? How have you been?
+Nurse: I'm good. I'm enjoying the weather as well. Yeah. Yeah. What's new? Anything? No. Sorry, I just need, um, you saw the eye doctor since I last talked with you?
+Patient: Probably, I can't remember now when it was, it wasn't too long ago. Very nice man, was he? Oh, yeah. Very, I, I was so worried about, you know, meeting a new doctor but he was just so, so nice. Good,
+Nurse: Good. It looks like you saw him on the [PHI-Personal] of [PHI-Personal]. Uh, um, what did he have to say? He just said, um, you're, you're doing well following your injection and he said that the guy, did you do an injection? Yeah.
+Patient: What did he told you?
+Nurse: I have the report. What
+Patient: Did he say?
+Nurse: He said you were doing well, follow the injection. We'll treat her left eye again today and monitor her closely and then you have a follow up. So you didn't have any med changes, right?
+Patient: No. Ok. No, everything is going pretty good. Were you playing games
+Nurse: Today or? What, what were you playing games today? Like? No,
+Patient: I want to get my hair done. I just got back. Uh I have somebody take me. Oh well.
+Nurse: Ok. Um ok, so when's your next eye appointment?
+Patient: Oh God, I'd have to look it up. I'd have to look it up. I don't know, in 12 to I know I get one like every three
+Nurse: Months. Ok, so you'll be seeing them again. Ok, so no issues or concerns, right? You said?
+Patient: No, no. Ok. Pretty good for an old lady. Pretty good.
+Nurse: Are you getting um I or mammograms anymore? Oh
+Patient: Yeah, I, I get one every year.
+Nurse: All right. Oh, you had one already? Oh,
+Patient: Yes, it was. Alright. Thank God the
+Nurse: COVID vaccine. Are you up to date with
+Patient: That? I don't know. I think I'm all boosted.
+Nurse: How about orthopedics?
+Patient: Oh, my knee shots. Yeah, I keep up with that too. And uh I go every three months for that I just went not long ago.
+Nurse: Oh, ok. So you had all that done too? Yeah. All right. Very good. So you're up to date and nothing for Doctor [PHI-Personal].
+Patient: No, you didn't tell me anything. I guess everything was all right.
+Nurse: All right. And how about your diet? How's that going? The
+Patient: Diet? Yeah. Well, I, I'm not, uh, hu, very hungry anymore, so I don't probably, I probably should eat more than I do. I don't know.
+Nurse: Well, I mean, uh, what's coming up today? Um, was it Thanksgiving's coming
+Patient: Up as? Yes. Yes. I'll be going to one of my nieces, I'm sure.
+Nurse: Yeah, that'll be good. That'll be good for you to go. Your nieces. Keep a good eye on you, right?
+Patient: Yes, they do.
+Nurse: Yes. Um, and I always say, you know, Thanksgiving, um, dieting over the holidays gets hard. Um, yeah. So I always say, you know, since it's Thanksgiving just some tips just, um, do you do, do you cook or does someone else cook? No, I
+Patient: Don't cook anymore. I eat frozen foods and, uh, and out of the can I buy those cuisines and all that stuff?
+Nurse: Mhm. Are you doing ok with the daylight saving? Yeah. Yeah. Ok. I always say, you know, usually we turn the clock so sleep,
+Patient: That's all been taken care of.
+Nurse: Ok, because you wanna make sure you're getting 70 hours of sleep for your, you know, BP or like, yeah, so people don't get depressed and lack of sleep can affect your immune system. So, yeah, I always say, make sure, you know, if you know the time change was coming, make sure you gradually do it, you know. Um, and you wanna make sure you get some sunlight during the day too, you know,
+Patient: Some days I don't, but I try to,
+Nurse: Um, ok. So you're doing well with that?
+Patient: Yeah. And
+Nurse: Your sleep is pretty good.
+Patient: Yeah, too.
+Nurse: Ok. Well, if you don't call, if you need anything,
+Patient: Do you need my w you've been, have you been all right? Yeah,
+Nurse: Everything's been good. Um, no issues with um, around, you know. Well, good trying to keep busy. I like the weather, you know.
+Patient: Yeah. Yeah. Are you, do you go somewhere for Thanksgiving? My mom. Oh. Where does she live in? [PHI-Geographic]?
+Nurse: Uh, no, she, she's in [PHI-Geographic]. Oh,
+Patient: Well, depends on the weather then too, doesn't it? Yeah. Yeah. Yeah. Well, I hope you do get a chance to be with your mom and, and you drive safe wherever you
+Nurse: Go, I will and I'll talk to you after Thanksgiving then if you need to call us. Ok. Ok,
+Patient: I will. All right. You all alright. Bye bye bye.

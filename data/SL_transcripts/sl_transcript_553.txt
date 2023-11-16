@@ -1,0 +1,28 @@
+Nurse: This is [PHI-Personal]. Can I help you?
+Patient: Hi, [PHI-Personal], this is M hey.
+Nurse: All right. So I did reach out to doctor [PHI-Personal] to kind of get her idea of what the whole, um, you know, leg situation. She said that um uh the, you know, venous insufficiency is basically um, issues with blood flow in your legs could certainly be a call as to what you're feeling. Um She recommends um, elevating your legs like you have been uh weight loss and possibly compression stockings are like the first recommendations for it. Um Do you, do you have compression stockings?
+Patient: I do.
+Nurse: Yes. Um, those can definitely help um with blood flow and could help with some of the achy that you're feeling. Um I do have patients that get a lot of benefit from it. She said if for some reason these avenues don't help, um, there's more detailed um, vascular studies that can be completed. Um, but she wants you to try these measures first and if for some reason you're not getting better, definitely follow up for evaluation. But I mean, you do have that appointment right around the corner.
+Patient: Yeah. Yeah. Yeah. Yeah. Yeah. So
+Nurse: Try so try this avenue first. Um, and if for some reason you're still having trouble. Um, well, I mean, regardless if you're better or not, definitely address this at your upcoming appointment. Ok, definitely. Yeah. How are you doing this afternoon?
+Patient: Um, ok. I mean, I haven't done much as far as walking around. We literally just left the doctor's office for a long day. Everything. Yeah, there for five hours. Yeah. Just discussing what, what the procedures are gonna be for her on Wednesday.
+Nurse: Yeah. Do you feel be better going into it?
+Patient: Um, she's having more work done than we thought. So, I feel for her because I know what we went through before [PHI-Personal] years ago to the day was our first visit with. Wow, that's
+Nurse: Interesting. Yeah.
+Patient: Yeah, it is the doctor to the day. But, um, yeah, so he was, he was really happy to see her to be able to see what is, you know, how his work. He says you usually don't see patients, you know, five years later, you know, so he, you know, he pretty much made her, you know, got rid of her, her, her mail. Yeah, her male part and then, and then may, you know, female part. And so he's really, yeah, he's really happy with the results because you usually don't, you know, you don't usually see, see the patient. So he's very pleased with himself right now. But, but he's good. He's a good guy. But anyway, yeah, I mean, we're, we're gonna be stuck here longer than we thought
+Nurse: So. Yeah.
+Patient: Yeah, until at least Monday for follow up appointments and stuff. But yeah. Uh yeah, I
+Nurse: Did wanna give you a little bit of education of varicose veins. Um, but I answered, yeah, hang on one second. I just had a follow up um because I could be like we talked about it did mention um another person that had similar issues that end up being like a varicose vein issue. So, you know, of course, you know, varicose veins are, you know, quote unquote spider veins, but it can cause like achy pain, discomfort very similar to what you're feeling. Um, you know, and treatment for it can be different compression stockings, you know, there's all sorts of things, laser treatment, um, you know, and all sorts of different things. So the conservative treatment typically is the way to go first and then of course, vascular surgeons and things like that. Um You know, it'll be helpful to minimize the salt in your diet. Do you already kind of do that?
+Patient: Um We not, not me. No, but I can because I've, I've got on a low salt diet. So I'll just, you know, start following, speak with him, you know, what, what I've got going on with him,
+Nurse: Right? Because I can definitely help from like a swelling perspective.
+Patient: Ok.
+Nurse: Yeah. Um, and help from water retention. Um, of course, you know, managing weight is a good one too. Um, avoid tight clothing. Don't wear tight clothes around your legs. Um, or waist. It could kinda help with the reducing of the blood flow and cause more achiness. Um, yeah, just some tips and tricks to kind of help you out. But, um, have you, so how you, have you worn compression stockings before?
+Patient: Yeah, because, yeah, because I, I tend, I tend to go slowly. We, we flew one time to [PHI-Geographic] in that long, long flight. Yeah, by the time we got home, yeah, my legs were just blown up like balloons. And so that's, that, that was a long, long time ago. That was fine, almost, you know, 15 years ago. But, um, but, yeah, so I, yeah, I, like I said, yeah, I'm, I'm, I'm aware of that and, uh, good. Yeah. Yeah, I can definitely do, I can definitely follow the rules.
+Nurse: Um, so besides the leg issues, anything else going on or that was, or that's been like your, your number one pretty
+Patient: Much it, you know, that's pretty much it. But, um, yeah, that was all I was just following up with that. Okie
+Nurse: [PHI-Personal]. Well, um, continue this current treatment that doctor had you on and I know I kind of went over a lot of things but, um, I'll probably reach out me or charity, probably reach out to you in a few weeks if you need anything in the meantime. Give us a call. We're happy to help. Ok,
+Patient: I'm sorry we just got to the vale. No, I yeah they you wanted to get something out of the car and of course, anyway. Alrighty,
+Nurse: No problem. Well, we'll reach out to you in a few weeks in the meantime if you have any questions, give us a shout. Ok,
+Patient: I appreciate it. Thank you so much [PHI-Personal].
+Nurse: You're welcome. Have a good one.
+Patient: Thanks Bye bye bye bye.

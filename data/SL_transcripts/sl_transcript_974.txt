@@ -1,0 +1,27 @@
+Nurse: Hello, this is [PHI-Personal].
+Patient: Uh my name is [PHI-Personal]. I got your phone message so I thought I would call you back.
+Nurse: Ok, give me one second here. I'll pull you up.
+Patient: Mhm.
+Nurse: Ok. There you are. So [PHI-Personal], it looks like I called you on behalf of doctor Te and it looks like you qualify for our new care management program. So what that is? Oh, it looks like [PHI-Personal] does as well. That's your husband,
+Patient: Correct? Yeah. Yeah, he has, he has that benefit um, through his um, [PHI-Geographic] [PHI-Personal] Insurance program. Oh, which is, they're, they are very thorough and very generous. Oh.
+Nurse: Oh, very nice. So this is Doctor [PHI-Personal] Care management nurse. And so what that is, is she gives you guys a call and she could help with, um, see she'll check and see how you're doing. She'll help with prescriptions, anything to do with that refills or costs. She can um, help answer any questions, uh, address any issues that might come up. She could also help with appointments, referrals and lab work, things like that. All, all the calls that the nurse makes, they are documented and sent to doctor [PHI-Personal] ties for review. Sorry. And they are treated as a billable service to Medicare. Medicare Advantage plans and secondary insurance carriers. So they may be subject to deductibles, coinsurance or copays. Mhm. And so essentially they're around a once a month call, but you're able to call in as many times as you guys would need to. Um, do you guys still have the Medicare and Blue Cross Blue Shield?
+Patient: Right. Well, I do
+Nurse: So,
+Patient: And it has also, but through the state, I, I don't know if it's or whatever anyway.
+Nurse: So, um, right, I'll check on it but everything looks good. Um, would you prefer a morning or an afternoon phone call from the nurse?
+Patient: Uh, who knows?
+Nurse: Who know? But who knows
+Patient: What I'm doing?
+Nurse: Right. I could put, I don't have to put anything. Um, she'll always leave a message. So if you need to call her back, you can. Ok.
+Patient: And I mean, I mean, I, I imagine that, I mean, I imagine that sometimes there, there will be no need. And, um, on the other hand, you know, I do sometimes have to, um, well, what I do right now, if there's an issue with prescriptions, I interface, I interface with my dermatologist about, you know, which is the best pharmacy to use because the price differences are incredible. Um, so, I mean, I, I, I'm doing that myself right now, but certainly I can imagine that if somebody else did it might not be a bad idea. Although, you know, I mean, the time is essentially, but I can, I imagine there are people who don't know how to negotiate all that stuff. Right. Anyway, so if, if she, I mean, will I know that it's her calling? I don't wanna be billed for something if I'm not gonna be using her services. If you, if you, if you,
+Nurse: It should come up like mine, it should come up. Yale, uh, [PHI-Geographic] Haven Health or the Trumble [PHI-Geographic] is what it should come up as, but I'll also send you out a letter that has the information, plus the nurses', phone number on there. So, I don't know if maybe you wanna program it that way when it comes up, it'll, you'll know exactly who it is that
+Patient: Might help that. That would, that would make, that would make sense because, ok, cold calls I don't necessarily take unless I know who they're from.
+Nurse: Right. Absolutely. Ok. So, are
+Patient: You, if I, I mean, can I, if you send me that information, I can, I can join that way rather than doing it right now when I don't have everything set up or,
+Nurse: Um, well, that's why I'm calling, what I'm gonna send you out is the same exact thing that I said. Really? It just has the nurse's phone number for you to call her directly.
+Patient: Mhm. I mean, my preference would be on an as needed basis. Ok. Well,
+Nurse: We do have that. We, well, we do have every other month or every three month phone calls if that sounds better and it still gives you that nurse to reach out to. She just won't be calling every month. Yeah,
+Patient: That, I mean, every other month maybe makes a bit more
+Nurse: Sense. Ok. And you could always change that as well too to, you know, sooner call if you need to.
+Patient: And would I, and would I call her to do that or is there something you,
+Nurse: You just let, no, just let the nurse know anyway, you just, yeah, when you speak to her, she'll do it. Ok? All right. Well, I'll send that letter out and then you guys um can start calling once you get the letter otherwise the nurse will give you guys a call within a few weeks. Ok. Alrighty. All right. Thanks Janet. Have a good day. You too. Bye bye. Thanks. Bye bye.

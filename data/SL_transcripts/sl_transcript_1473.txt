@@ -1,0 +1,11 @@
+Nurse: Hello, this is [PHI-Personal]. How can I help you? Hi [PHI-Personal], this is Linda. I already take that in eight mg twice a day.
+Patient: Ok. So um the yeah. All right, so you have it says you can take it uh pr n uh every eight hours. So if you need it I would tell um them that you have that on hand and definitely let them know. Ok.
+Nurse: Yeah, but I already take it twice a day.
+Patient: All right, you're probably going to need it since this is probably a side effect where they increase things um probably going to need it more often.
+Nurse: I just took another one because I took it at about seven this morning.
+Patient: Ok. Uh yeah and hopefully you'll be able to hold some stuff down. Ok.
+Nurse: Yeah. Alrighty but I'll call them anyway. Yeah, definitely call
+Patient: Up. Yeah give them a call because they need to know that you're having a side effect and it's still um lingering around, you know, it's been more than 12 hours, so definitely let them know.
+Nurse: Yeah, definitely. Ok. Ok. Dokey I just wanted to let you know. All
+Patient: Right, sounds good. Bye
+Nurse: Bye. Ok. Thank you. Bye.
