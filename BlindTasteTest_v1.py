@@ -52,7 +52,9 @@ with st.form("SL-eval"):
 
     username = st.text_input("Please enter your name:", key="username")
 
-    st.header(f"The following transcript is a conversation between a patient and a nurse. Please read the script and answer the following questions.")
+    st.header("The following transcript is a conversation between a patient and a nurse. Please read the transcript and answer the following questions.")
+    st.write("Note that there may be errors in the transcript")
+    st.write("")
     
     turns = transcript_text.split('\n')
     for turn in turns:
